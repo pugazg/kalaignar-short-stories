@@ -45,12 +45,22 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 
 **All 16 / 16 story pages are `verified`. No story-text block remains.**
 
-The exhaustive pass reopened former blocked pages instead of accepting them as terminal:
+Final difficult readings include:
 
-- scan **15 / printed 11** — `துர் எண்ணத்தை`, `புது தழுவகம் ஒன்று`, `அநாதிப் பிள்ளையாருக்கு`, `பிள்ளை பிறக்குமென்று`;
+- scan **15 / printed 11** — `துர் எண்ணத்தை`; `புத்தமுதம் தின்று கொண்டிருந்த`; complete temple-history sentence including `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு...`;
 - scan **17 / printed 13** — `பார்வதியை அணைத்தபடி பரமன்`;
 - scan **21 / printed 17** — `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
 - scan **22 / printed 18** — `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+### Scan 15 correction note
+
+The earlier enhancement-derived `புது தழுவகம் ஒன்று` reading is superseded and must not be reused. Full-span source checking established:
+
+`விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+
+and restored the full temple-history clause:
+
+`யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
 
 ## Numbering note
 
@@ -74,10 +84,10 @@ These are outside the story body. Under the revised processing guide, a future a
 
 ## Tamil and English completion state
 
-- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — **synchronized / zero blocked markers**.
+- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — **synchronized / zero blocked markers / scan-15 corrected**.
 - Printed errata layer: [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — **10 / 10** entries mapped separately.
 - Tamil assembly review: [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — **PASS / 16 of 16 verified**.
-- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — **16 / 16 scans / 0 source gaps**.
+- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — **16 / 16 scans / 0 source gaps / scan-15 corrected**.
 - English editorial review: [`../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**.
 - English release report: [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md) — **PASS / source-complete / release-ready**.
 
