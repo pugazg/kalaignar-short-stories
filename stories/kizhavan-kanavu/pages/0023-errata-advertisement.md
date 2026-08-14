@@ -4,10 +4,10 @@ printed_page: null
 story: "kizhavan-kanavu"
 section: "back-matter"
 page_type: "errata-and-advertisement"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0014165_கிழவன்_கனவு.pdf"
-transcription_method: "direct visual comparison with source scan; unclear errata reading marked explicitly"
+transcription_method: "direct visual audit against source scan"
 ---
 
 # அச்சு உரை
@@ -16,8 +16,8 @@ transcription_method: "direct visual comparison with source scan; unclear errata
 
 | பக்கம். | வரி. | திருத்தம். |
 |---:|---:|---|
-| 7 | 6 | இப்புரட்சி |
-| 7 | 18 | [வாசிப்பு தெளிவில்லை] |
+| 7 | 6 | சிறுபுரட்சி |
+| 7 | 18 | அள்ளியள்ளி |
 | 8 | 24 | வண்டியோட்டி |
 | 9 | 10 | பார்த்து |
 | 9 | 15 | வைத்திருந்தாள் |
@@ -31,7 +31,7 @@ transcription_method: "direct visual comparison with source scan; unclear errata
 
 ---
 
-★ ஸ்ரீரோஜ் மார்க் ★
+★ ஸ்ரீரோஜி மார்க் ★
 
 சிவபுரி புகையிலை பாக்டரி
 
@@ -41,15 +41,17 @@ transcription_method: "direct visual comparison with source scan; unclear errata
 
 - பக்கத்தின் மேல்பகுதியில் வண்ண புகையிலை trade-mark label உள்ளது.
 - label-ல் `TRADE MARK`, `FLAVOURED` போன்ற ஆங்கில அச்சுகள் தெளிவாக உள்ளன; மையத்தில் மனித உருவப் படம் உள்ளது.
-- label-ன் சிறிய தமிழ் brand text முழுமையாக source-faithful வாசிக்க முடியாததால் தனியாக ஊகித்து transcription செய்யப்படவில்லை.
+- label-ன் மிகச் சிறிய தமிழ்/registration text archival body-க்கு ஊகித்து சேர்க்கப்படவில்லை.
 
 ## அச்சு அல்லாத / physical-copy marks
 
 - தாளில் வயதுச்சுவடு, சிறிய கறைகள் மற்றும் uneven colour/contrast உள்ளது.
 
-## Review note
+## Audit note
 
-- முந்தைய manifest-ல் scan 23 தவறாக publisher catalogue / `இவை கிடைக்கும்` advertisement என வகைப்படுத்தப்பட்டிருந்தது. Direct visual inspection மூலம் இது **`பிழை திருத்தம்.` errata page + tobacco advertisement** என்பது உறுதிப்படுத்தப்பட்டது; manifest/metadata இப்போது அதற்கேற்ப திருத்தப்பட வேண்டும்.
-- errata table-ன் page 7 / line 18 correction மட்டும் scan-ல் போதுமான தெளிவில் இல்லை; context மூலம் நிரப்பப்படவில்லை.
+- முழு errata table source image-ஐ பெரிதாக்கி நேரடியாக மீண்டும் audit செய்யப்பட்டது.
+- முந்தைய `இப்புரட்சி` வாசிப்பு **`சிறுபுரட்சி`** எனவும், unresolved page 7 / line 18 correction **`அள்ளியள்ளி`** எனவும் உறுதிப்படுத்தப்பட்டது.
+- advertisement heading source-ல் **`ஸ்ரீரோஜி மார்க்`** என இருப்பது உறுதிப்படுத்தப்பட்டது.
+- errata ஒரு தனித்த source layer; archival page records-ன் அசல் அச்சு உரையை இது silently overwrite செய்யாது.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: — -->
