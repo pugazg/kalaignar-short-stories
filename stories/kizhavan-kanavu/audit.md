@@ -13,9 +13,9 @@
 
 The earlier terminal-block approach for difficult **story text** has been superseded by the repository's revised rule: **No stones should be left unturned.**
 
-Before accepting a story reading as unrecoverable, the final pass now escalates through native embedded scan extraction, progressive enlargement, alternate resampling/contrast/sharpening, stamp-stroke separation where needed, typeform comparison, page-boundary comparison, direct checking of user-provided readings, and narrowly documented independent corroboration where the source still needs help distinguishing rare names.
+Before accepting a story reading as unrecoverable, the final pass escalates through native embedded scan extraction, progressive enlargement, alternate resampling/contrast/sharpening, stamp-stroke separation where needed, typeform comparison, page-boundary comparison, direct checking of user-provided readings, and narrowly documented independent corroboration where the source still needs help distinguishing rare names.
 
-This protocol was applied to every formerly blocked story page: scans **15, 17, 21 and 22**.
+A further verification rule now applies after the scan-15 correction: **an enhanced crop that yields a plausible short fragment is not enough for `verified` status. The complete phrase/clause/sentence span must be checked against the native source.**
 
 ## Final story-body disposition
 
@@ -33,19 +33,25 @@ Story totals:
 - `needs-review`: **0**
 - explicit unresolved story-text locations: **0**
 
-## Final exhaustive resolutions
+## Final exhaustive resolutions and corrections
 
 ### Scan 15 / printed page 11
 
-Native embedded scan inspection and stamp-stroke separation resolved the formerly blocked text.
+This page required a second full-span re-review after the first enhancement-based reconstruction proved too narrow.
 
-Final readings include:
+Final source readings include:
 
 - `மார்க்கண்டேயரின் துர் எண்ணத்தை`
-- `விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புது தழுவகம் ஒன்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
-- `யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும்`
+- `விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+- `யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
 
-The earlier provisional `தூள் எண்ணத்தை` and `பிறந்துமென்று` readings were corrected by direct native-image comparison.
+Correction history:
+
+- earlier provisional `தூள் எண்ணத்தை` → corrected to `துர் எண்ணத்தை`;
+- earlier enhancement-based `புது தழுவகம் ஒன்று` → **incorrect**; replaced by source-supported `புத்தமுதம் தின்று கொண்டிருந்த`;
+- earlier temple-history reconstruction stopped after `அநாதிப் பிள்ளையாருக்கு...`; the full sentence span was re-read and restored, including `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு...`.
+
+Why the earlier verification failed: the processed crop made individual letter groups look plausible, but the full printed line/sentence was not validated end-to-end. The permanent guide now explicitly requires full-span verification before promoting difficult text to `verified`.
 
 Final scan-15 status: **`verified`**.
 
@@ -55,7 +61,7 @@ The user supplied:
 
 `பார்வதியை அணைத்தபடி பரமன்`
 
-The phrase was checked directly against the enlarged native source and matches the letterforms. The sentence is now preserved as:
+The phrase was checked directly against the enlarged native source and matches the letterforms. The sentence is preserved as:
 
 `“ஏ பரமேஸ்வரா!” என்றழைத்த மாத்திரத்திலே ஆகாயமளாவு ஜோதி கிளம்பி பார்வதியை அணைத்தபடி பரமன் அபயம் கூறிவரும் அற்புத சகாப்தமா இது!`
 
@@ -153,7 +159,7 @@ They do not affect the complete story text. Under the revised guide, they should
 
 ## Derived Tamil layer
 
-- `sections/kizhavan-kanavu.md` — synchronized story assembly, scans 7–22, **zero blocked markers**;
+- `sections/kizhavan-kanavu.md` — synchronized story assembly, scans 7–22, **zero blocked markers** and corrected scan-15 full reading;
 - `sections/kizhavan-kanavu-errata.md` — all 10 printed corrections mapped separately;
 - `ASSEMBLY_REVIEW.md` — final consistency gate.
 
@@ -165,11 +171,12 @@ The English scope is scans **7–22**.
 - Tamil source scans verified: **16 / 16**
 - assembled English coverage: **16 / 16**
 - surviving English `SOURCE BLOCKED` locations: **0**
+- scan 15 English corrected to reflect `புத்தமுதம் தின்று கொண்டிருந்த` and the complete temple-history clause
 - scan 22 historical-name display in English: **Periyar EV Ramasamy**
 - publisher errata remains separate
 
 ## Final story audit gate
 
-**PASS — STORY SOURCE FULLY RESOLVED**
+**PASS — STORY SOURCE FULLY RESOLVED AND FULL-SPAN CORRECTED**
 
-No story reading remains blocked or pending. Any future change to a verified story reading must be supported by a stronger direct-source comparison or a clearly documented source witness; it must not be a silent modernization.
+No story reading remains blocked or pending. Any future change to a verified story reading must be supported by stronger direct-source comparison or a clearly documented source witness; it must not be a silent modernization.
