@@ -18,13 +18,13 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 | 12 | 8 | `கிழவன் கனவு` | verified | `pages/0012-kizhavan-kanavu-06.md` |
 | 13 | 9 | `கிழவன் கனவு` | verified | `pages/0013-kizhavan-kanavu-07.md` |
 | 14 | 10 | `கிழவன் கனவு` | verified | `pages/0014-kizhavan-kanavu-08.md` |
-| 15 | 11 | `கிழவன் கனவு` | blocked | `pages/0015-kizhavan-kanavu-09.md` |
+| 15 | 11 | `கிழவன் கனவு` | verified | `pages/0015-kizhavan-kanavu-09.md` |
 | 16 | 12 | `கிழவன் கனவு` | verified | `pages/0016-kizhavan-kanavu-10.md` |
-| 17 | 13 | `கிழவன் கனவு` | blocked | `pages/0017-kizhavan-kanavu-11.md` |
+| 17 | 13 | `கிழவன் கனவு` | verified | `pages/0017-kizhavan-kanavu-11.md` |
 | 18 | 14 | `கிழவன் கனவு` | verified | `pages/0018-kizhavan-kanavu-12.md` |
 | 19 | 15 | `கிழவன் கனவு` | verified | `pages/0019-kizhavan-kanavu-13.md` |
 | 20 | 16 | `கிழவன் கனவு` | verified | `pages/0020-kizhavan-kanavu-14.md` |
-| 21 | 17 | `கிழவன் கனவு` | blocked | `pages/0021-kizhavan-kanavu-15.md` |
+| 21 | 17 | `கிழவன் கனவு` | verified | `pages/0021-kizhavan-kanavu-15.md` |
 | 22 | 18 | `கிழவன் கனவு` — conclusion; post-story sales/advertisement matter excluded | verified | `pages/0022-kizhavan-kanavu-16.md` |
 | 23 | — | `பிழை திருத்தம்.` / tobacco advertisement | verified | `pages/0023-errata-advertisement.md` |
 | 24 | — | `ராஜேந்திரா நைஸ் புகையிலை` advertisement | verified | `pages/0024-advertisement.md` |
@@ -35,58 +35,51 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 
 - Source scan pages: **26**
 - Page records created: **26 / 26**
-- `verified`: **21**
-- `blocked`: **5**
+- `verified`: **24**
+- `blocked`: **2** — front matter scans 3–4 only
 - `needs-review`: **0**
 - `not-started`: **0**
 - PDF stored in repository: **No**
 
-All **26 / 26** physical-copy pages now have a terminal source disposition. There are no remaining generic review queues for this supplied copy.
+## Story-body exhaustive-resolution result
+
+**All 16 / 16 story pages are now `verified`. No story-text block remains.**
+
+The final exhaustive pass reopened the former blocked pages rather than accepting them as terminal:
+
+- scan **15 / printed 11** — native embedded scan and stamp-stroke separation resolved `புது தழுவகம் ஒன்று` and `அநாதிப் பிள்ளையாருக்கு`; nearby readings were also corrected to `துர் எண்ணத்தை` and `பிள்ளை பிறக்குமென்று`;
+- scan **17 / printed 13** — user-supplied `பார்வதியை அணைத்தபடி பரமன்` was checked against the enlarged native scan and verified;
+- scan **21 / printed 17** — resolved `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, and `இந்தி எதிர்ப்பு`;
+- scan **22 / printed 18** — final conclusion already resolved as `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
 
 ## Numbering note
 
 Scan page 8 visibly carries printed page **(4)** and the printed sequence continues through scan page 22 as **(18)**. Scan page 7 has no clearly visible printed number, so the manifest records `—` rather than inferring `3`.
 
-## Terminal blocked pages
+## Remaining non-story blocked pages
 
-### Front matter
+Only front-matter scans **3–4** retain `blocked` status:
 
-- scan **3** — two short portions of the `“குடியரசு”` review are physically obscured by a large library stamp.
-- scan **4** — one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct even at maximum useful enlargement.
+- scan **3** — portions of the `“குடியரசு”` review intersect a library stamp;
+- scan **4** — one short publisher-note phrase remains indistinct.
 
-### Story body
-
-- scan **15** — one worn/indistinct word plus temple-history wording physically covered by a circular library stamp;
-- scan **17** — one short worn/indistinct phrase after `பார்வதியை`;
-- scan **21** — four short worn/indistinct political/historical readings.
-
-`blocked` is a terminal source-condition status for this supplied physical copy. No outside reconstruction has been used.
-
-## Scan 22 / printed page 18 — resolved story conclusion
-
-The story conclusion is now verified as:
-
-`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
-
-The earlier story-level block on scan 22 has been removed. Salesperson / advertisement / publisher-printer matter below the conclusion is not part of the story and is intentionally excluded from that page's story transcription scope.
+These are outside the story body. Under the revised processing guide, any future attempt to close the **whole physical publication** at zero blocked pages must apply the same exhaustive native-scan escalation before accepting those blocks.
 
 ## Final Tamil story-source disposition
 
-- Story pages `verified`: **13 / 16** — scans 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22
-- Story pages `blocked`: **3 / 16** — scans 15, 17, 21
+- Story pages `verified`: **16 / 16**
+- Story pages `blocked`: **0 / 16**
 - Story pages `needs-review`: **0**
-- Explicit story-text blocked locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4
+- Explicit story-text unresolved locations: **0**
 
 ## Tamil and English completion state
 
-- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — complete and synchronized.
+- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — must reflect the final zero-block page layer.
 - Printed errata layer: [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — **10 / 10** entries mapped separately.
-- Tamil assembly review: [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — **PASS**.
-- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — scans **7–22**, complete to the limit of the source.
-- English explicit `SOURCE BLOCKED` positions: **7**.
-- English editorial review: [`../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS** after correction synchronization.
-- English release report: [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md) — release-ready with documented source limitations.
+- Tamil assembly review: [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md).
+- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — scans **7–22**.
+- English source-map target: **0 `SOURCE BLOCKED` positions**.
 
 ## அடுத்த activity
 
-The **கிழவன் கனவு** source copy remains fully dispositioned and the story-body English translation remains complete. Do not reopen blocked readings unless a genuinely clearer source copy is introduced. The next repository activity is source registration and inspection for the **next short-story PDF** when supplied.
+Synchronize all assembled Tamil/English and release-control files to the final **16 / 16 verified, 0 story blocks** state. After that, the only remaining source-recovery work in this physical publication is optional exhaustive recovery of non-story front-matter scans **3–4**.
