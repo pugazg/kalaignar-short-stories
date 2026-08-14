@@ -24,18 +24,28 @@ Story scans **7–22**:
 - `needs-review`: **0**
 - unresolved story-text locations: **0**
 
-Former blocks on scans 15, 17, 21 and 22 were reopened rather than accepted as terminal. The final pass used native embedded scan images, enlargement and image-processing variants, direct checking of user-provided readings, and narrow corroboration where necessary.
+Former blocks were reopened rather than accepted as terminal. The workflow now combines native embedded scan inspection, enlargement/image-processing variants, full-span phrase/clause/sentence validation, direct checking of user-provided readings, and narrow corroboration where necessary.
 
 ## Exhaustive-resolution highlights
 
-### Scan 15 / printed page 11
+### Scan 15 / printed page 11 — final corrected reading
 
-Resolved/corrected:
+Current source text includes:
 
 - `துர் எண்ணத்தை`
-- `புது தழுவகம் ஒன்று`
-- `அநாதிப் பிள்ளையாருக்கு`
-- `பிள்ளை பிறக்குமென்று`
+- `புத்தமுதம் தின்று கொண்டிருந்த`
+- `அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று`
+- `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும்`
+
+The earlier enhancement-derived `புது தழுவகம் ஒன்று` reading was wrong and is explicitly superseded.
+
+Final sentence:
+
+`விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+
+Final temple-history sentence:
+
+`யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
 
 ### Scan 17 / printed page 13
 
@@ -78,7 +88,7 @@ Tamil audit: [`audit.md`](audit.md).
 
 Derived/control files:
 
-- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized archival story assembly; **0 blocked markers**;
+- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized archival story assembly; **0 blocked markers**; corrected scan-15 full span;
 - [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all **10** scan-23 publisher corrections kept separately;
 - [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — **PASS — 16 / 16 verified / zero story blocks**.
 
@@ -90,6 +100,7 @@ English scope: **story body only, scans 7–22**.
 - assembled English story: [`translations/en/kizhavan-kanavu-en.md`](translations/en/kizhavan-kanavu-en.md)
 - English source coverage: **16 / 16 story scans**
 - English `SOURCE BLOCKED` locations: **0**
+- scan-15 English synchronized to `புத்தமுதம் தின்று கொண்டிருந்த` and the full temple-history clause
 - editorial consistency review: [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**
 - release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) — **PASS / source-complete / release-ready**
 
@@ -104,6 +115,7 @@ Final English ending:
 - scan 23 publisher errata remains a separate layer;
 - source PDF remains outside GitHub;
 - difficult story readings must undergo exhaustive recovery before `blocked` is accepted;
+- processed-crop confidence alone is insufficient for `verified`; complete source-span confidence is required;
 - secondary witnesses may corroborate but must not silently overwrite this edition's scan wording.
 
 ## Completion state
