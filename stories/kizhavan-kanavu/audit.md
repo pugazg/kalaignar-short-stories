@@ -98,7 +98,7 @@ Four short locations remain indistinct in the political/historical catalogue. Hi
 
 ### Scan 22 / printed page 18
 
-A large circular library stamp crosses the final story sentence and footer. The hidden conclusion phrase, following line, and full printer/imprint wording cannot be recovered from this copy. The page record now labels these locations `blocked-by-source`.
+A large circular library stamp crosses the final story sentence and footer. The hidden conclusion phrase, following line, and full printer/imprint wording cannot be recovered from this copy. The page record labels these locations `blocked-by-source`.
 
 ## Scan 13 and printed errata distinction
 
@@ -132,15 +132,15 @@ The errata remains a separate textual layer and does **not silently overwrite** 
 
 ## Assembled Tamil layer
 
-Existing derived files:
+Final derived files:
 
-- `sections/kizhavan-kanavu.md` — scans 7–22 assembled in source order;
-- `sections/kizhavan-kanavu-errata.md` — all 10 printed corrections mapped;
-- `ASSEMBLY_REVIEW.md` — consistency review.
+- `sections/kizhavan-kanavu.md` — synchronized from final page records for scans 7–22;
+- `sections/kizhavan-kanavu-errata.md` — all 10 printed corrections mapped separately;
+- `ASSEMBLY_REVIEW.md` — final synchronization/consistency review: **PASS**.
 
-The page records are now the authoritative finalized Tamil source layer. The assembled story file still needs one synchronization pass so its formerly unresolved markers match the new scan-8/14/18 resolutions and scan-15/17/21/22 `blocked-by-source` wording.
+The synchronized assembly now contains the final scan-8/14/18 readings and the exact `blocked-by-source` markers from scans 15/17/21/22. It does not contain the scan-22 publisher/footer material after the story conclusion.
 
-## Current audit gate
+## Final audit gate
 
 - Story scans directly audited: **16 / 16**
 - Story scans `verified`: **12**
@@ -148,20 +148,32 @@ The page records are now the authoritative finalized Tamil source layer. The ass
 - Story scans still `needs-review`: **0**
 - Printed errata: **10 / 10 mapped**
 - Story-body source audit: **complete to the limit of the supplied source**
+- Tamil assembly synchronization: **PASS**
 
 The four blocked pages are terminal source-condition limitations, not unfinished review work.
 
-## Translation gate reassessment
+## Translation gate
 
-The translation gate can be considered **conditionally open after assembly synchronization**. The permanent rule for translation must be:
+**OPEN — controlled English story translation may begin.**
+
+Permanent translation rules:
 
 - translate only source-supported Tamil;
 - preserve every `blocked-by-source` location explicitly;
 - do not invent or smooth over missing Tamil;
-- keep publisher errata as a documented layer rather than silently rewriting the archival source.
+- keep publisher errata as a documented layer rather than silently rewriting the archival source;
+- retain scan/page traceability through the English workflow.
 
 Front-matter scans **3–4** remain `needs-review`, but they are not part of the story-body translation layer.
 
+English workflow control files are now present:
+
+- `translations/en/TRANSLATION_PLAN.md`
+- `translations/en/README.md`
+- `translations/en/SOURCE_MAP.md`
+
+No English story prose has been drafted yet.
+
 ## Next exact activity
 
-Synchronize `sections/kizhavan-kanavu.md` and `ASSEMBLY_REVIEW.md` with the final page records. After that consistency check passes, create the English translation plan/workflow; do not begin translating prose before that synchronization is complete.
+Begin **English Translation Batch 1 — scans 7–10 only**. Retain source-page markers and perform a direct Tamil-to-English source review of that batch before proceeding to scans 11–14.
