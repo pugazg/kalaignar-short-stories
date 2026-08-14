@@ -86,6 +86,27 @@ Status:
 
 `verified` என்பது scan-ஐ நேரடியாகப் பார்த்து எழுத்து, punctuation, line/paragraph structure மற்றும் non-text marks அனைத்தையும் உறுதிப்படுத்திய பின்னரே பயன்படுத்த வேண்டும்.
 
+### `blocked` என்பது கடைசி அவசர நிலை — story text-க்கு உடனடி முடிவு அல்ல
+
+**No stones should be left unturned.** ஒரு story reading முதலில் தெளிவில்லாமல் தெரிகிறது என்பதற்காக அதை `blocked` என்று முடித்து workflow-ஐ மூடக்கூடாது.
+
+Story text-ல் ஒரு வாசிப்பை `blocked` என விடுவதற்கு முன் கீழ்கண்ட escalation அனைத்தும் documented ஆக முயற்சிக்கப்பட வேண்டும்:
+
+1. சாதாரண PDF render மட்டும் அல்லாமல் PDF-இன் **native embedded scan image** இருப்பின் அதை நேரடியாக ஆய்வு செய்;
+2. progressively enlarged crops உருவாக்கி original/native pixels-ஐ ஒப்பிடு;
+3. nearest-neighbour மற்றும் high-quality resampling ஆகிய இரண்டிலும் எழுத்துருவை ஒப்பிடு;
+4. contrast, gamma, sharpening, grayscale/channel separation, threshold போன்ற non-destructive visual variants-ஐ முயற்சி செய்;
+5. library stamp அல்லது seal story letters-ஐ கடக்கும்போது, thick stamp strokes மற்றும் thin print strokes-ஐ வேறுபடுத்த morphological / edge-based separation போன்ற image-processing முறைகளை முயற்சி செய்;
+6. அதே பக்கத்திலும் அடுத்தடுத்த பக்கங்களிலும் வரும் ஒரே எழுத்துரு வடிவங்களுடன் character-by-character ஒப்பிடு;
+7. page-boundary continuation / split word / repeated phrase இருக்கிறதா என்று முன்னும் பின்னும் உள்ள scan pages-ஐ மீண்டும் பார்க்கவும்;
+8. user வழங்கும் தெளிவான reading இருந்தால் அதை native source image-க்கு எதிராக எழுத்துருவாரியாக verify செய்;
+9. source image இன்னும் ambiguity விட்டால், **அதே work-ன் independent secondary witness** (வேறு scan, edition, author-ன் later quotation போன்றது) provenance-உடன் corroboration-ஆகப் பார்க்கலாம்;
+10. secondary witness-ன் wording-ஐ controlling scan-க்கு silently import செய்யக்கூடாது. Source image ஆதரிக்கும் missing reading-ஐத் தீர்க்க மட்டுமே பயன்படுத்த வேண்டும்; witness வேறுபாடுகள் audit note-ல் வெளிப்படையாகப் பதிவு செய்ய வேண்டும்.
+
+Story release/translation closure-க்கு முன் எல்லா பழைய `blocked` story locations-மும் இந்த exhaustive protocol-ன் கீழ் மீண்டும் திறந்து பரிசோதிக்கப்பட வேண்டும். **Processing objective: zero unresolved story-text blocks wherever a defensible reading can be recovered.**
+
+ஒரு physical source உண்மையிலேயே எழுத்தை இழந்துவிட்டதும், exhaustive image work மற்றும் provenance-உடைய secondary witnesses எதுவும் தீர்வு தராததும் documented ஆக நிரூபிக்கப்பட்ட பின்னரே `blocked` terminal ஆக இருக்கலாம். Missing text-ஐ fabrication மூலம் zero blocks ஆக்குவது இந்த விதியின் நோக்கம் அல்ல.
+
 ## 5. Printed text vs non-text marks
 
 தனித்தனியாகப் பதிவு செய்ய வேண்டும்:
@@ -106,6 +127,7 @@ Status:
 - archaic / historical spelling, names, titles source-ஐத் தாண்டி standardize செய்யக்கூடாது.
 - front-matter reviews, publisher notes, author notes ஆகியவை story body-யுடன் கலக்கப்படக்கூடாது; அவற்றின் source position தனியாகப் பாதுகாக்கப்பட வேண்டும்.
 - story முடிந்த பின் உள்ள publisher catalogue / commercial advertisements கூட scan publication-ன் physical record ஆக page-level-ல் பதிவு செய்யப்பட வேண்டும்; அவை story body அல்ல என்பது metadata-வில் தெளிவாக இருக்க வேண்டும்.
+- story text-க்கு `blocked` marker வந்தவுடன் அடுத்த batch-க்கு இயந்திரமாக நகராமல், மேலுள்ள exhaustive resolution protocol-ஐ முதலில் இயக்க வேண்டும்.
 
 ## 7. Batch workflow
 
@@ -115,9 +137,9 @@ Status:
 4. `metadata/source.md` உருவாக்கு/புதுப்பி.
 5. அனைத்து scan pages-க்கும் `indexes/page-map.md` manifest உருவாக்கு.
 6. சிறிய batch-ஆக page records உருவாக்கி transcription செய்.
-7. தெளிவில்லாதவை `partial` அல்லது `needs-review` ஆக வைத்திரு.
+7. தெளிவில்லாதவை முதலில் `partial` அல்லது `needs-review` ஆக வைத்திருந்து exhaustive resolution protocol-க்கு அனுப்பு; story text-ல் `blocked` status-ஐ shortcut ஆகப் பயன்படுத்தக்கூடாது.
 8. batch முடிந்ததும் story README மற்றும் root `HANDOVER.md` புதுப்பி.
-9. direct visual comparison முடிந்த பின் மட்டும் page status `verified` ஆக மாற்று.
+9. direct visual comparison + தேவையான exhaustive escalation முடிந்த பின் மட்டும் page status `verified` ஆக மாற்று.
 10. முழு தமிழ் source audit முடியும் வரை English translation தொடங்கக்கூடாது.
 
 ## 8. Source-page marker
@@ -136,9 +158,10 @@ Translation தொடங்குவதற்கு முன்:
 
 1. எல்லா scan pages-க்கும் record இருக்க வேண்டும்;
 2. story body pages அனைத்தும் direct visual audit செய்யப்பட்டிருக்க வேண்டும்;
-3. unresolved readings வெளிப்படையாகக் குறிக்கப்பட்டிருக்க வேண்டும்;
+3. ஒவ்வொரு முன்னாள் unresolved / blocked story reading-க்கும் exhaustive-resolution disposition பதிவு செய்யப்பட்டிருக்க வேண்டும்;
 4. page-map மற்றும் story README status ஒன்றோடொன்று பொருந்த வேண்டும்;
-5. source text-ஐ silently modernize/correct செய்யாதது உறுதிப்படுத்தப்பட வேண்டும்.
+5. source text-ஐ silently modernize/correct செய்யாதது உறுதிப்படுத்தப்பட வேண்டும்;
+6. secondary witness பயன்படுத்தப்பட்ட இடமெல்லாம் provenance மற்றும் source-vs-witness distinction audit note-ல் இருக்க வேண்டும்.
 
 ## 10. Git / handover நடைமுறை
 
