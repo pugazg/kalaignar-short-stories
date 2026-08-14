@@ -6,8 +6,8 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 |---:|:---:|---|---|---|
 | 1 | — | cover — title / author / second-edition statement / imprint | verified | `pages/0001-cover.md` |
 | 2 | — | `மதிப்புரை.` — A. P. ஜனார்த்தனம் | verified | `pages/0002-mathippurai.md` |
-| 3 | — | reviews — `“குடியரசு”` / `“தொழிலாளர்”` | needs-review | `pages/0003-reviews.md` |
-| 4 | — | `என் வெளியிட்டேன் ?...` — சு. இராமநாதன் | needs-review | `pages/0004-en-veliyitten.md` |
+| 3 | — | reviews — `“குடியரசு”` / `“தொழிலாளர்”` | blocked | `pages/0003-reviews.md` |
+| 4 | — | `என் வெளியிட்டேன் ?...` — சு. இராமநாதன் | blocked | `pages/0004-en-veliyitten.md` |
 | 5 | — | `வணக்கம் பல!...` — சு. இராமநாதன் | verified | `pages/0005-vanakkam-pala.md` |
 | 6 | — | `எழுதியது; ஏன்?` — மு. கருணாநிதி | verified | `pages/0006-ezhuthiyathu-yen.md` |
 | 7 | — | `கிழவன் கனவு` — story opening | verified | `pages/0007-kizhavan-kanavu-01.md` |
@@ -31,63 +31,47 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 | 25 | — | `தியாகராஜ விலாஸ்` advertisement | verified | `pages/0025-thiyagaraja-vilas-ad.md` |
 | 26 | — | back cover / small child illustration | verified | `pages/0026-back-cover.md` |
 
-## கணக்கு
+## இறுதி கணக்கு
 
 - Source scan pages: **26**
 - Page records created: **26 / 26**
 - `verified`: **20**
-- `blocked`: **4**
-- `needs-review`: **2**
+- `blocked`: **6**
+- `needs-review`: **0**
 - `not-started`: **0**
 - PDF stored in repository: **No**
+
+All **26 / 26** physical-copy pages now have a terminal source disposition. There are no remaining generic review queues for this supplied copy.
 
 ## Numbering note
 
 Scan page 8 visibly carries printed page **(4)** and the printed sequence continues through scan page 22 as **(18)**. Scan page 7 is the immediately preceding story-opening page, but no printed number is clearly visible in the supplied scan image; therefore the manifest deliberately records `—` rather than inferring `3`.
 
-## Final Tamil story-source disposition
+## Terminal blocked pages
 
-The source-only audit and final high-resolution unresolved-reading pass are complete for all story scans **7–22**.
+### Front matter
 
-### Story pages `verified`
+- scan **3** — two short portions of the `“குடியரசு”` review are physically obscured by a large library stamp. Final high-resolution inspection also corrected visible readings including `நினைவாயிற்று` and the `“தொழிலாளர்”` ending `திராவிட மக்களின் ஆதரவு கிடைக்குமென்று நம்புகிறோம்.`
+- scan **4** — one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct even at maximum useful enlargement. Other visible readings were finalized, including `ஹிட்-லரிசம்`, `திராவிடருக்கானும்`, `பயனாக ஏற்படும்`, and `ஆக்கம் தருக!`.
 
-Scans **7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20**.
-
-Final resolved readings include:
-
-- scan 8 — `பூகோள பூரணர்த்திக`;
-- scan 14 — `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே`;
-- scan 18 — `விட்டிருந்து`.
-
-### Story pages formally `blocked`
+### Story body
 
 - scan **15** — one worn/indistinct word plus temple-history wording physically covered by a circular library stamp;
 - scan **17** — one short worn/indistinct phrase after `பார்வதியை`;
 - scan **21** — four short worn/indistinct political/historical readings;
 - scan **22** — library stamp obscures the final story phrase; footer/imprint material is separately documented at page level.
 
-These are terminal limitations of the supplied copy, not unfinished review items. No outside reconstruction has been used.
+`blocked` is a terminal source-condition status for this supplied physical copy. No outside reconstruction has been used.
 
-Scans **3–4** remain `needs-review` only for front-matter source-condition uncertainties and are outside the current story-body translation scope.
+## Tamil and English completion state
 
-## Assembled Tamil layer
-
-- [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — synchronized final story assembly for scans 7–22 with all final readings and `blocked-by-source` markers;
-- [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — all 10 printed errata entries preserved separately;
-- [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — final synchronization and consistency review: **PASS**.
-
-## Translation gate
-
-**OPEN — controlled English story translation may begin.**
-
-Translation-control files now exist:
-
-- [`../translations/en/TRANSLATION_PLAN.md`](../translations/en/TRANSLATION_PLAN.md)
-- [`../translations/en/README.md`](../translations/en/README.md)
-- [`../translations/en/SOURCE_MAP.md`](../translations/en/SOURCE_MAP.md)
-
-Every `blocked-by-source` location must remain explicit in English and may not be guessed or silently completed. Scan 23 publisher errata remains a separate editorial layer.
+- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — complete and synchronized.
+- Printed errata layer: [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — **10 / 10** entries mapped separately.
+- Tamil assembly review: [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — **PASS**.
+- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — scans **7–22**, complete to the limit of the source.
+- English editorial review: [`../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**.
+- English release report: [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md) — **PASS / release-ready with documented source limitations**.
 
 ## அடுத்த activity
 
-Begin **English Batch 1 — scans 7–10 only**, retain source-page markers, and complete a direct Tamil-to-English source review before moving to Batch 2.
+The **கிழவன் கனவு** source copy is now fully dispositioned and the story-body English translation is complete. Do not reopen blocked readings unless a genuinely clearer source copy is introduced. The next repository activity is source registration and inspection for the **next short-story PDF** when supplied.
