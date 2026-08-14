@@ -5,11 +5,11 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 | Scan | Printed page | Page type / section | Status | File |
 |---:|:---:|---|---|---|
 | 1 | — | cover — title / author / second-edition statement / imprint | verified | `pages/0001-cover.md` |
-| 2 | — | `மதிப்புரை.` — A. P. ஜனார்த்தனம் | partial | `pages/0002-mathippurai.md` |
-| 3 | — | reviews — `“குடியரசு”` / `“தொழிலாளர்”` | partial | `pages/0003-reviews.md` |
-| 4 | — | `என் வெளியீட்டேன்?...` — சு. இராமநாதன் | partial | `pages/0004-en-veliyitten.md` |
-| 5 | — | `வணக்கம் பல!...` — சு. இராமநாதன் | partial | `pages/0005-vanakkam-pala.md` |
-| 6 | — | `எழுதியது; ஏன்?` — மு. கருணாநிதி | partial | `pages/0006-ezhuthiyathu-yen.md` |
+| 2 | — | `மதிப்புரை.` — A. P. ஜனார்த்தனம் | verified | `pages/0002-mathippurai.md` |
+| 3 | — | reviews — `“குடியரசு”` / `“தொழிலாளர்”` | needs-review | `pages/0003-reviews.md` |
+| 4 | — | `என் வெளியிட்டேன் ?...` — சு. இராமநாதன் | needs-review | `pages/0004-en-veliyitten.md` |
+| 5 | — | `வணக்கம் பல!...` — சு. இராமநாதன் | verified | `pages/0005-vanakkam-pala.md` |
+| 6 | — | `எழுதியது; ஏன்?` — மு. கருணாநிதி | verified | `pages/0006-ezhuthiyathu-yen.md` |
 | 7 | — | `கிழவன் கனவு` — story opening | not-started | `pages/0007-kizhavan-kanavu-01.md` |
 | 8 | 4 | `கிழவன் கனவு` | not-started | `pages/0008-kizhavan-kanavu-02.md` |
 | 9 | 5 | `கிழவன் கனவு` | not-started | `pages/0009-kizhavan-kanavu-03.md` |
@@ -35,8 +35,8 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 
 - Source scan pages: **26**
 - Page records created: **6 / 26**
-- `verified`: **1**
-- `partial`: **5**
+- `verified`: **4**
+- `needs-review`: **2**
 - `not-started`: **20**
 - PDF stored in repository: **No**
 
@@ -44,10 +44,17 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 
 Scan page 8 visibly carries printed page **(4)** and the printed sequence continues through scan page 22 as **(18)**. Scan page 7 is the immediately preceding story-opening page, but no printed number is clearly visible in the supplied scan image; therefore the manifest deliberately records `—` rather than inferring `3`.
 
-## Front-matter review note
+## Front-matter audit result
 
-Scans 2–6 have page records with source-supported headings, dates, signatures and physical-copy observations, but their complete body text has **not** yet been transcribed. They remain `partial`; no OCR-derived or guessed wording has been promoted to archival text.
+Scans **2–6** have now received word-for-word direct visual transcription to the extent supported by the scan.
+
+- Scan 2 — fully verified.
+- Scan 3 — complete archival record, but a library stamp physically obscures several words in the `“குடியரசு”` review. Hidden wording has not been reconstructed; page remains `needs-review`.
+- Scan 4 — full transcription completed, with one short mid-page phrase left explicitly unresolved because the type is not sufficiently clear for a source-faithful reading; page remains `needs-review`.
+- Scans 5–6 — fully verified.
+
+These unresolved readings are source-condition issues, not pending OCR work. They must not block transcription of the story body, but they must remain visible for any future higher-quality scan comparison.
 
 ## அடுத்த batch
 
-Complete direct visual transcription and verification of scans **2–6**. After the front matter is fully resolved, begin the story body with scans **7–10**.
+Create and directly transcribe story-body records for scans **7–10**, preserving printed dialogue punctuation, paragraph boundaries, historical spelling and all visible non-text marks. Do not infer a printed page number for scan 7.
