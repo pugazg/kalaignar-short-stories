@@ -8,11 +8,13 @@
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது.
 
-அதே நேரத்தில் story text-ல் ஒரு வாசிப்பு கடினமாக இருப்பதற்காக அதை விரைவாக `blocked` என்று விட்டுவிடக்கூடாது. Repository guide-ன் புதிய நிரந்தர விதி:
+அதே நேரத்தில் story text-ல் ஒரு வாசிப்பு கடினமாக இருப்பதற்காக அதை விரைவாக `blocked` என்று விட்டுவிடக்கூடாது. Repository guide-ன் நிரந்தர விதி:
 
 > **No stones should be left unturned.**
 
-Native embedded scan, high-resolution enlargement, alternate image variants, stamp-stroke separation, neighbouring typeform comparison, page-boundary checks, user-supplied reading verification, மற்றும் provenance-உடைய secondary corroboration ஆகிய escalation-கள் தேவையான அளவு முயற்சிக்கப்பட்ட பிறகே story text `blocked` ஆக இருக்கலாம். Secondary witness source-ஐ silently overwrite செய்யக்கூடாது.
+Native embedded scan, high-resolution enlargement, alternate image variants, stamp-stroke separation, neighbouring typeform comparison, page-boundary checks, user-supplied reading verification, provenance-உடைய secondary corroboration ஆகிய escalation-கள் தேவையான அளவு முயற்சிக்கப்பட்ட பிறகே story text `blocked` ஆக இருக்கலாம். Secondary witness source-ஐ silently overwrite செய்யக்கூடாது.
+
+மேலும், **processed-crop confidence is not source confidence**: difficult reading-ஐ `verified` ஆக மாற்றும் முன் முழு phrase/clause/sentence span native source-க்கு எதிராகச் சரிபார்க்கப்பட வேண்டும்.
 
 **மூல PDF கோப்புகள் repository-யில் commit செய்யப்படாது.** Filename, checksum, edition identity, scan condition மற்றும் page mapping மட்டும் metadata-வில் பதிவு செய்யப்படும்.
 
@@ -31,14 +33,14 @@ Story-body scans **7–22**:
 - `needs-review`: **0**
 - unresolved story-text locations: **0**
 
-Formerly difficult readings on scans 15, 17, 21 and 22 were all reopened and resolved.
-
 Key final readings include:
 
-- scan 15: `துர் எண்ணத்தை`, `புது தழுவகம் ஒன்று`, `அநாதிப் பிள்ளையாருக்கு`, `பிள்ளை பிறக்குமென்று`;
+- scan 15: `துர் எண்ணத்தை`, `புத்தமுதம் தின்று கொண்டிருந்த`, and the full temple-history sentence including `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு...`;
 - scan 17: `பார்வதியை அணைத்தபடி பரமன்`;
 - scan 21: `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
 - scan 22: `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+The earlier scan-15 enhancement-derived `புது தழுவகம் ஒன்று` reading is superseded and must not be reused.
 
 The salesperson / advertisement / publisher-printer matter below the scan-22 conclusion is not part of the story and is excluded from story transcription/translation scope.
 
@@ -56,7 +58,7 @@ The remaining two blocked page records are non-story front matter. If full-publi
 ## Tamil story layer
 
 - `stories/kizhavan-kanavu/audit.md`
-- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — **zero blocked markers**
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — **zero blocked markers / scan-15 full-span corrected**
 - `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md` — **10** publisher corrections separately mapped
 - `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS / 16 of 16 verified**
 
@@ -67,6 +69,7 @@ The **story-body English translation, scans 7–22, is COMPLETE and source-compl
 - 4 / 4 source batches reviewed;
 - 16 / 16 story scans assembled;
 - English `SOURCE BLOCKED` markers: **0**;
+- scan-15 English follows `புத்தமுதம் தின்று கொண்டிருந்த` and the complete temple-history clause;
 - editorial consistency review: **PASS**;
 - release review: **PASS — story source complete / release-ready**.
 
