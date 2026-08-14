@@ -33,7 +33,7 @@ Controlling source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`.
 
 **PASS**
 
-The assembly now contains the final source-supported readings resolved in the last high-resolution pass:
+The assembly contains the final source-supported readings resolved in the last high-resolution pass:
 
 | Scan | Printed page | Final reading synchronized into assembly |
 |---:|---:|---|
@@ -101,7 +101,7 @@ Example: scan 13 visibly prints **`வைத்திருந்தான்`**
 
 **OPEN — CONTROLLED ENGLISH TRANSLATION MAY BEGIN.**
 
-The Tamil story source is now stable to the limit of the supplied physical copy. English translation may proceed under these mandatory conditions:
+The Tamil story source is stable to the limit of the supplied physical copy. English translation may proceed under these mandatory conditions:
 
 - translate only source-supported Tamil;
 - preserve every `blocked-by-source` location explicitly and do not invent English wording for it;
@@ -109,6 +109,14 @@ The Tamil story source is now stable to the limit of the supplied physical copy.
 - keep a source-page mapping so every English passage can be traced to scans 7–22;
 - front matter remains outside the current story-body translation scope unless separately commissioned.
 
+English workflow control files now exist:
+
+- `translations/en/README.md`
+- `translations/en/TRANSLATION_PLAN.md`
+- `translations/en/SOURCE_MAP.md`
+
+No English story prose has been drafted yet.
+
 ## Next exact activity
 
-Create the English translation workflow/plan under `translations/en/` before translating prose. Define file structure, batch order, treatment of blocked source gaps, errata policy, fidelity/style rules, and review gates. Translation prose should begin only after that plan exists.
+Begin **English Translation Batch 1 — scans 7–10 only**. Create `translations/en/batches/01-scans-07-10.md`, retain scan/printed-page markers, translate faithfully, and complete a direct Tamil-to-English source review before beginning Batch 2.
