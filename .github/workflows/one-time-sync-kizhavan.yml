@@ -1,0 +1,96 @@
+name: One-time Kizhavan Kanavu assembly sync
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: ${{ !contains(github.event.head_commit.message, '[skip ci]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Rebuild assembled Tamil story from final page records
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          root = Path('stories/kizhavan-kanavu')
+          pages = root / 'pages'
+          out = root / 'sections' / 'kizhavan-kanavu.md'
+
+          files = [
+              '0007-kizhavan-kanavu-01.md',
+              '0008-kizhavan-kanavu-02.md',
+              '0009-kizhavan-kanavu-03.md',
+              '0010-kizhavan-kanavu-04.md',
+              '0011-kizhavan-kanavu-05.md',
+              '0012-kizhavan-kanavu-06.md',
+              '0013-kizhavan-kanavu-07.md',
+              '0014-kizhavan-kanavu-08.md',
+              '0015-kizhavan-kanavu-09.md',
+              '0016-kizhavan-kanavu-10.md',
+              '0017-kizhavan-kanavu-11.md',
+              '0018-kizhavan-kanavu-12.md',
+              '0019-kizhavan-kanavu-13.md',
+              '0020-kizhavan-kanavu-14.md',
+              '0021-kizhavan-kanavu-15.md',
+              '0022-kizhavan-kanavu-16.md',
+          ]
+
+          intro = '''# கிழவன் கனவு
+
+          > **Assembled Tamil reading text.** இந்த file `pages/0007-...` முதல் `pages/0022-...` வரை உள்ள final-audited archival page records-ஐ scan வரிசையில் ஒன்றிணைக்கிறது. இது modernized edition அல்ல. Page-level அச்சு வாசிப்புகள் பாதுகாக்கப்பட்டுள்ளன; `blocked-by-source` இடங்கள் explicit marker-ஆகவே உள்ளன. Scan 23-ன் `பிழை திருத்தம்.` இந்த உரையில் silently பயன்படுத்தப்படவில்லை. அதற்கான தனி mapping: [`kizhavan-kanavu-errata.md`](kizhavan-kanavu-errata.md).
+
+          '''.replace('          ', '')
+
+          chunks = [intro.rstrip()]
+          for filename in files:
+              text = (pages / filename).read_text(encoding='utf-8')
+              scan_m = re.search(r'^scan_page:\s*(\d+)', text, re.M)
+              printed_m = re.search(r'^printed_page:\s*([^\n]+)', text, re.M)
+              if not scan_m or not printed_m:
+                  raise RuntimeError(f'Missing page metadata in {filename}')
+              scan = int(scan_m.group(1))
+              printed_raw = printed_m.group(1).strip()
+              printed = '—' if printed_raw in {'null', 'None'} else printed_raw
+
+              marker = f'<!-- source scan {scan}; printed page {printed} -->'
+              if '# அச்சு உரை' not in text:
+                  raise RuntimeError(f'Missing அச்சு உரை section in {filename}')
+              body = text.split('# அச்சு உரை', 1)[1]
+              body = body.split('## அச்சு அல்லாத / physical-copy marks', 1)[0].strip()
+              if scan == 22:
+                  body = body.split('\n---\n', 1)[0].strip()
+              chunks.append(marker + '\n\n' + body)
+
+          note = '''## Assembly note
+
+          - Story body source range: scans **7–22**.
+          - Scan boundary comments are retained so every passage can be traced back to its archival page record.
+          - Final story-page disposition: **12 verified / 4 blocked-by-source / 0 needs-review**.
+          - `blocked-by-source` markers are terminal source limitations for this supplied copy and must not be guessed away.
+          - Publisher/printer footer and post-story advertisements are not part of this assembled story text.
+          - Printed errata remains a separate layer: [`kizhavan-kanavu-errata.md`](kizhavan-kanavu-errata.md).
+          '''.replace('          ', '').strip()
+          chunks.append(note)
+
+          assembled = '\n\n'.join(chunks).rstrip() + '\n'
+          out.write_text(assembled, encoding='utf-8')
+      - name: Commit synchronized assembly
+        run: |
+          if git diff --quiet -- stories/kizhavan-kanavu/sections/kizhavan-kanavu.md; then
+            echo "Assembly already synchronized"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stories/kizhavan-kanavu/sections/kizhavan-kanavu.md
+          git commit -m "Sync Kizhavan Kanavu final Tamil assembly [skip ci]"
+          git push
