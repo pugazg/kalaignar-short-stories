@@ -14,23 +14,26 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records; scan 7–23 Tamil audit completed; Tamil assembly next** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records; Tamil assembly complete; consistency review complete; final source-gap pass pending** |
 
 ### தற்போதைய page status
 
-- `verified` — **16** pages
-- `needs-review` — **10** pages
-- `not-started` — **0**
+- `verified`: **17**
+- `needs-review`: **9**
+- `not-started`: **0**
 
 The complete physical publication—from cover through story, printed errata, advertisements and back cover—has page-level archival records.
 
-The dedicated Tamil source audit for scans **7–23** is now complete. Scans **7, 9, 10, 11, 12, 16, 19, 20 and 23** were promoted to `verified`; scans **8, 13, 14, 15, 17, 18, 21 and 22** retain narrowly documented source-condition/reconciliation issues. Scans **3–4** retain their earlier front-matter uncertainties.
+Scans **7–22** contain the **கிழவன் கனவு** story body. They are now assembled into a traceable Tamil reading layer while preserving page boundaries and unresolved source readings. Scan **23**'s printed **`பிழை திருத்தம்.`** remains a separate correction layer and has not been silently merged into the archival text.
 
-Scan **23** is a printed **`பிழை திருத்தம்.`** table followed by tobacco advertising. The errata table is now fully audited, but remains a separate source layer and is not silently applied to the archival page text.
+Current derived artifacts:
 
-Audit report: [`stories/kizhavan-kanavu/audit.md`](stories/kizhavan-kanavu/audit.md).
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md`
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md`
+- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md`
+- `stories/kizhavan-kanavu/audit.md`
 
-அடுத்த activity: create the assembled Tamil reading text in `stories/kizhavan-kanavu/sections/`, retaining explicit unresolved readings and documenting the printed errata separately. A consistency review must follow before English translation begins.
+Seven story scans — **8, 14, 15, 17, 18, 21, 22** — still contain genuine unclear or stamp-obscured readings. English translation remains blocked until a final unresolved-source pass determines which can be resolved and which must be formally source-blocked.
 
 ## களஞ்சிய அமைப்பு
 
@@ -41,16 +44,23 @@ HANDOVER.md
 stories/
   kizhavan-kanavu/
     README.md
-    audit.md
     metadata/
       source.md
     indexes/
       page-map.md
     pages/
     sections/
+      kizhavan-kanavu.md
+      kizhavan-kanavu-errata.md
+    audit.md
+    ASSEMBLY_REVIEW.md
 ```
 
-ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் தேவையான section/chapter assemblies, audit, translation மற்றும் review files சேர்க்கப்படும்.
+ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled text, errata, audit, translation போன்றவை derived layers ஆக மட்டுமே சேர்க்கப்படும்.
 
 விரிவான workflow: [`SHORT_STORY_PROCESSING_GUIDE.md`](SHORT_STORY_PROCESSING_GUIDE.md).  
 தற்போதைய சிறுகதை: [`stories/kizhavan-kanavu/README.md`](stories/kizhavan-kanavu/README.md).
+
+## அடுத்த activity
+
+**கிழவன் கனவு** scans **8, 14, 15, 17, 18, 21, 22** மீது final high-resolution unresolved-reading pass செய்ய வேண்டும். Source ஆதரிக்காத எதையும் ஊகிக்கக்கூடாது; இன்னும் மறைந்த/தெளிவில்லாத இடங்கள் source-blocked என formalize செய்யப்பட வேண்டும்.
