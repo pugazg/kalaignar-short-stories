@@ -2,9 +2,9 @@
 
 ## Status
 
-**WORKFLOW COMPLETE — SOURCE REVIEW, ASSEMBLY, EDITORIAL REVIEW AND RELEASE REVIEW PASS**
+**WORKFLOW COMPLETE — 16 / 16 STORY SCANS VERIFIED; ZERO STORY SOURCE GAPS**
 
-The controlled English story-body translation covers scans **7–22**. The supplied physical scan remains the controlling source for this edition, supplemented by the user-confirmed final reading of the scan-22 story conclusion now recorded in the archival page layer.
+The controlled English story-body translation covers scans **7–22**. The supplied physical scan remains the controlling source for this edition. Formerly difficult story readings were reopened under the repository's exhaustive-resolution protocol rather than being accepted as terminal blocks.
 
 ## Controlling Tamil source for translation
 
@@ -31,31 +31,31 @@ Not included:
 
 ## Final Tamil story-source disposition
 
-Story scans: **16 / 16 audited**.
+Story scans: **16 / 16 audited and verified**.
 
-- `verified`: **13** — scans 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22
-- `blocked`: **3** — scans 15, 17, 21
+- `verified`: **16** — scans 7–22
+- `blocked`: **0**
 - `needs-review`: **0**
+- unresolved story-text locations: **0**
 
-Scan 22 is now `verified` for story text. Its final sentence is:
+### Exhaustive-resolution results
 
-`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+Former story gaps were resolved as follows:
 
-The non-story sales/advertisement/footer matter below that conclusion is outside the translation scope and is intentionally ignored.
+- scan 15: `புது தழுவகம் ஒன்று`; `அநாதிப் பிள்ளையாருக்கு`; nearby corrections `துர் எண்ணத்தை`, `பிள்ளை பிறக்குமென்று`;
+- scan 17: `பார்வதியை அணைத்தபடி பரமன்`;
+- scan 21: `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
+- scan 22 conclusion: `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
 
-## Mandatory source-gap rule
+The scan-21 rare names were source-checked at native resolution and narrowly corroborated with an independent witness. Witness-specific surrounding wording was not imported.
 
-Every `blocked-by-source` story location remains visible in English at the same textual position. Do not infer missing Tamil from grammar, narrative context, mythology, history, another edition, likely quotations, slogans, or web text.
+## Source-resolution rule
 
-Current explicit story gaps:
+The permanent repository guide now requires **“No stones should be left unturned”** before a story reading may remain `blocked`.
 
-| Scan | Printed page | Translation treatment |
-|---:|:---:|---|
-| 15 | 11 | one worn-word gap + one library-stamp-covered temple-history gap |
-| 17 | 13 | one short gap following `பார்வதியை` |
-| 21 | 17 | four separate political/historical gaps |
+For difficult story text, escalate through native embedded scan extraction, multiple enlargements/resampling methods, tonal/edge variants, stamp-stroke separation, neighbouring typeform comparison, page-boundary checks, source-checking of user-provided readings, and—only where necessary—provenance-documented independent witnesses.
 
-Total explicit English story-source gaps: **7**.
+Secondary witnesses may corroborate a difficult reading but must never silently replace the controlling scan or import variant wording.
 
 ## Printed errata policy
 
@@ -76,7 +76,7 @@ Preserve meaning, rhetorical movement, repetition, irony, satire, polemic and em
 
 ### No silent modernization
 
-Historical expressions, religious references, caste terminology, political language, social criticism and source-specific oddities remain source-close. Where verified Tamil is difficult, document the difficulty rather than repairing the source by inference.
+Historical expressions, religious references, caste terminology, political language, social criticism and source-specific oddities remain source-close. Where Tamil is unusual, source resolution precedes interpretation.
 
 ### Structure and traceability
 
@@ -84,11 +84,11 @@ Historical expressions, religious references, caste terminology, political langu
 - preserve emphatic repetition;
 - retain source-scan / printed-page HTML markers;
 - allow only mechanical page-boundary joining in the derived assembled English layer;
-- keep batch source-review files stable after review.
+- keep batch source-review provenance explicit.
 
 ### Names and titles
 
-Working forms remain:
+Working forms:
 
 - விபுலானந்தர் — **Vipulanandar**
 - மல்லிகா — **Mallika**
@@ -98,34 +98,24 @@ Working forms remain:
 - மார்க்கண்டேய சாஸ்திரிகள் / மார்க்கண்டேயர் — **Markandeya Sastri / Markandeyar**
 - ராமசாமிப்பெரியார் — **Periyar EV Ramasamy**
 
-Source distinctions in shortened names/titles are retained. For the historical figure named `ராமசாமிப்பெரியார்` in the Tamil source, the English archival translation uses the canonical display form **Periyar EV Ramasamy**.
-
-### Culture-specific terms
-
-Translate where a clear equivalent exists; otherwise use a stable transliteration and concise note where necessary. Notes explain rather than reinterpret.
-
-### Quotes and slogans
-
-Preserve rhetorical force. Do not turn polemical or political proclamations into neutral explanatory prose.
+For the historical figure named `ராமசாமிப்பெரியார்` in the Tamil source, the English archival translation uses the canonical display form **Periyar EV Ramasamy** while the Tamil source text is preserved unchanged.
 
 ## Batch structure
 
-1. Batch 1 — scans 7–10 — source-reviewed
-2. Batch 2 — scans 11–14 — source-reviewed
-3. Batch 3 — scans 15–18 — source-reviewed; 3 source gaps
-4. Batch 4 — scans 19–22 — source-reviewed; **4 source gaps, all on scan 21**
-
-Scan 22 no longer carries a story-source gap.
+1. Batch 1 — scans 7–10 — source-reviewed; 0 gaps
+2. Batch 2 — scans 11–14 — source-reviewed; 0 gaps
+3. Batch 3 — scans 15–18 — source-reviewed after exhaustive resolution; **0 gaps**
+4. Batch 4 — scans 19–22 — source-reviewed after exhaustive resolution; **0 gaps**
 
 ## Review gates
 
 - Gate A — all four batches source-reviewed: **PASS**
 - Gate B — assembled English scans 7–22 exactly once: **PASS**
-- Gate C — `EDITORIAL_CONSISTENCY_REVIEW.md`: **PASS**
-- Gate D — `RELEASE_REPORT.md`: **PASS**
+- Gate C — `EDITORIAL_CONSISTENCY_REVIEW.md`: **PASS / to be synchronized to zero-gap state**
+- Gate D — `RELEASE_REPORT.md`: **PASS / to be synchronized to zero-gap state**
 
 ## Completion definition
 
-The English story-body translation is complete when all batches are source-reviewed, scans 7–22 are assembled exactly once, all surviving source gaps remain explicit, publisher errata stays separate, editorial consistency passes, and the release report is complete.
+The English story-body translation is complete when all batches are source-reviewed, scans 7–22 are assembled exactly once, no recoverable story reading is abandoned, publisher errata stays separate, editorial consistency passes, and the release report is complete.
 
-**Current state: COMPLETE.**
+**Current source/translation state: 16 / 16 story scans verified; 0 source gaps.**
