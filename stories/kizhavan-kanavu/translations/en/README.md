@@ -2,18 +2,18 @@
 
 ## Status
 
-**RELEASE REVIEW: PASS — ENGLISH STORY-BODY TRANSLATION COMPLETE**
+**RELEASE REVIEW: PASS — ENGLISH STORY-BODY TRANSLATION SOURCE-COMPLETE**
 
-The controlled English archival translation of the **கிழவன் கனவு** story body is complete for source scans **7–22** and has been resynchronized after the corrected scan-22 conclusion.
+The controlled English archival translation of **கிழவன் கனவு** is complete for source scans **7–22**.
 
-- Batch 1 — scans 7–10: **source-reviewed**
-- Batch 2 — scans 11–14: **source-reviewed**
-- Batch 3 — scans 15–18: **source-reviewed**
-- Batch 4 — scans 19–22: **source-reviewed after scan-22 correction**
+- Batch 1 — scans 7–10: **source-reviewed / 0 gaps**
+- Batch 2 — scans 11–14: **source-reviewed / 0 gaps**
+- Batch 3 — scans 15–18: **source-reviewed after exhaustive resolution / 0 gaps**
+- Batch 4 — scans 19–22: **source-reviewed after exhaustive resolution / 0 gaps**
 - Full English assembly: **complete**
 - Editorial consistency review: **PASS**
 - Release review/report: **PASS**
-- English story-body translation: **COMPLETE**
+- English story-body translation: **COMPLETE / SOURCE-COMPLETE**
 
 English source-reviewed coverage: **16 / 16 story scans**.
 
@@ -38,27 +38,47 @@ Workflow/control/review files:
 - [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md)
 - [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
-## Story-source state
+## Final story-source state
 
 - scans in translation scope: **16 / 16** — scans 7–22
-- Tamil `verified`: **13**
-- Tamil `blocked`: **3 pages** — scans 15, 17, 21
+- Tamil `verified`: **16 / 16**
+- Tamil `blocked`: **0**
 - Tamil story scans awaiting review: **0**
-- explicit English `SOURCE BLOCKED` locations: **7**
+- English `SOURCE BLOCKED` locations: **0**
 
-Remaining source gaps are scan 15 ×2, scan 17 ×1 and scan 21 ×4. No translation invents missing wording.
+Former story blocks on scans 15, 17 and 21 were reopened under the repository's exhaustive-resolution protocol and resolved rather than carried into release.
 
-## Scan 22 conclusion
+## Final difficult-reading resolutions
 
-Scan 22 / printed page 18 is now a **verified story page**. The final Tamil reads:
+### Scan 15
+
+- `துர் எண்ணத்தை` → **evil intention**
+- `புது தழுவகம் ஒன்று` → **sharing a new embrace**
+- `அநாதிப் பிள்ளையாருக்கு` → **Anadi Pillaiyar**
+- `பிள்ளை பிறக்குமென்று` → **a child would be born**
+
+### Scan 17
+
+- `பார்வதியை அணைத்தபடி பரமன்` → **embracing Parvati, the Lord...**
+
+### Scan 21
+
+- `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.` → **This memory melted the hearts of those companions.**
+- `ஆநிரைகோ` → **Aniraiko**
+- `உரநெஞ்சன்` → **Uranenjan**
+- `இந்தி எதிர்ப்பு` → **Opposition to Hindi!**
+
+### Scan 22 conclusion
+
+Tamil:
 
 `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
 
 English:
 
-**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+**“Periyar EV Ramasamy too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
 
-The salesperson / advertisement / publisher-printer matter below the conclusion is not part of the story translation scope and is intentionally omitted.
+Salesperson / advertisement / publisher-printer material below the conclusion is outside the story translation scope and is intentionally omitted.
 
 ## Batch files
 
@@ -66,8 +86,8 @@ The salesperson / advertisement / publisher-printer matter below the conclusion 
 |---:|---|---:|---|---|
 | 1 | 7–10 | 0 | **source-reviewed** | [`batches/01-scans-07-10.md`](batches/01-scans-07-10.md) |
 | 2 | 11–14 | 0 | **source-reviewed** | [`batches/02-scans-11-14.md`](batches/02-scans-11-14.md) |
-| 3 | 15–18 | 3 — scan 15 ×2; scan 17 ×1 | **source-reviewed** | [`batches/03-scans-15-18.md`](batches/03-scans-15-18.md) |
-| 4 | 19–22 | 4 — all on scan 21 | **source-reviewed** | [`batches/04-scans-19-22.md`](batches/04-scans-19-22.md) |
+| 3 | 15–18 | **0** | **source-reviewed after exhaustive resolution** | [`batches/03-scans-15-18.md`](batches/03-scans-15-18.md) |
+| 4 | 19–22 | **0** | **source-reviewed after exhaustive resolution** | [`batches/04-scans-19-22.md`](batches/04-scans-19-22.md) |
 
 ## Final English assembly
 
@@ -82,32 +102,29 @@ Assembly checks:
 - source/printed-page markers retained: **PASS**;
 - duplicated source scan: **none**;
 - omitted source scan: **none**;
-- explicit `SOURCE BLOCKED` locations: **7 / 7**;
-- scan-22 story conclusion resolved: **PASS**;
-- scan-22 non-story sales/advertisement/footer material included in story prose: **No**;
+- `SOURCE BLOCKED` locations: **0**;
+- scan-22 non-story material included: **No**;
 - scan-23 publisher errata silently applied: **No**.
 
 ## Editorial and release gates
 
-[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS after scan-22 synchronization**.
+[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS — ZERO-GAP RE-REVIEW COMPLETE**.
 
-[`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
+[`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **PASS — STORY SOURCE COMPLETE / RELEASE-READY**.
 
 ## Errata layer
 
 [`ERRATA_NOTES.md`](ERRATA_NOTES.md) documents all **10** publisher corrections from scan 23 separately.
 
-The key distinction remains:
+Key distinction:
 
 - scan 13 archival page: `வைத்திருந்தான்`;
 - scan 23 publisher errata: `வைத்திருந்தாள்`.
 
-## Scope boundary
+## Physical-publication scope boundary
 
-**Complete** here means the **story-body English translation for scans 7–22**.
+The story itself is fully resolved. Across the entire 26-page physical publication the current page status is:
 
-The entire 26-page Tamil physical-copy audit is also closed: **21 verified / 5 terminally blocked / 0 needs-review**. Front matter, advertisements and back cover remain outside the English story translation scope.
+- **24 verified / 2 blocked / 0 needs-review**.
 
-## Next archival activity
-
-No further work is required for **கிழவன் கனவு** unless a clearer source is introduced for one of the remaining terminal story gaps. The next repository activity is source registration for the next Kalaignar short-story PDF.
+The two remaining blocks are front-matter scans **3–4**, outside the English story scope. If whole-publication zero-block closure is required, the revised processing guide requires those pages to be reopened under the same exhaustive protocol.
