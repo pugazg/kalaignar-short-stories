@@ -108,6 +108,14 @@ Final English ending:
 
 **“Periyar EV Ramasamy too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
 
+## Human review queue
+
+A separate checklist has been created for later manual review:
+
+- [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+
+It contains **possible errors / suspicious readings only**; inclusion there does not mean the current archival reading is wrong. It prioritizes fragile readings, unusual source forms, translation choices, publisher-errata cross-checks, and the two unresolved non-story front-matter pages.
+
 ## Important source distinctions
 
 - scan 7 printed page is not inferred;
