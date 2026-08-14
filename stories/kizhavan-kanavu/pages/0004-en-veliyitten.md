@@ -4,20 +4,27 @@ printed_page: null
 story: "kizhavan-kanavu"
 section: "front-matter"
 page_type: "publisher-note"
-status: "partial"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0014165_கிழவன்_கனவு.pdf"
-transcription_method: "direct visual inspection; full body transcription pending"
+transcription_method: "direct visual comparison with source scan; one unclear phrase retained for review"
 ---
 
-# அச்சு உரை — உறுதிப்படுத்தப்பட்ட பகுதிகள்
+# அச்சு உரை
 
-என் வெளியீட்டேன்?...
+## என் வெளியிட்டேன் ?...
 
-[இந்தக் குறிப்பின் முழு body transcription இன்னும் செய்யப்படவில்லை. மூல scan-ஐ நேரடியாக ஒப்பிட்டு அடுத்த batch-ல் நிரப்ப வேண்டும்.]
+ஹிட்லரிசம் உலகை உலுக்கியது;
+அதனுடைய ஆணவம் முறிகிறது.
+
+ஆரியமும் அப்படித்தான்!
+
+திராவிடம் திராவிடருக்கெனும் என்னென்ன திட்டங்கள் தீட்டப்படுமென எண்ணுவதுண்டு. அத்திட்டங்களின் பயனை ஏற்படும் சுகவாழ்வை தோழர் மு. கருணாநிதி அவர்கள் எழுத்திலே படம் பிடித்துக் காண்பிக்கிறார்.
+
+அவரது எழுத்து, திராவிடத்திலே பங்குபெறுவது; உறுதிப் பாதையிலே குறுக்கக் [வாசிப்பு தெளிவில்லை] இறுதி வரை போராட இளைஞனே வா! என்றழைப்பது கருணநிதியாரின் 'கிழவன் கனவு'. ஆகவே, இதனை பெரியார் ஈ.வெ.ரா. அவர்களின் 67-வது ஆண்டின், நினைவு மலராக 2-ம் பதிப்பை வெளியிட்டேன்.
 
 திருவாரூர்,
-9-12-45.
+9—12—45.
 
 ஆகுக கருது!
 
@@ -27,5 +34,10 @@ transcription_method: "direct visual inspection; full body transcription pending
 
 - தாளில் வயதுச்சுவடு மற்றும் uneven contrast உள்ளது.
 - சில இடங்களில் reverse-side bleed-through தெரிகிறது.
+- printed rule lines heading-ன் பகுதியாக உள்ளன.
+
+## Review note
+
+முழுப் பக்கமும் source scan-ஐ நேரடியாக ஒப்பிட்டு transcription செய்யப்பட்டது. நடுப்பகுதியிலுள்ள `உறுதிப் பாதையிலே...` தொடரில் ஒரு குறும் சொற்றொடரின் எழுத்துரு தெளிவாக வேறுபடுத்த முடியாததால் context-இலிருந்து ஊகிக்காமல் வெளிப்படையாக unresolved ஆக வைக்கப்பட்டுள்ளது. இதனால் page status `needs-review`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 4; அச்சுப் பக்கம்: — -->
