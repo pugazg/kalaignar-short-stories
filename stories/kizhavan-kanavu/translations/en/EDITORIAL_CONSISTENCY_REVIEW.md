@@ -2,9 +2,9 @@
 
 ## Review result
 
-**PASS — ASSEMBLED ENGLISH TRANSLATION IS EDITORIALLY CONSISTENT WITH THE SOURCE-REVIEWED BATCHES**
+**PASS — ASSEMBLED ENGLISH TRANSLATION IS EDITORIALLY CONSISTENT AFTER SCAN-22 CORRECTION**
 
-This review is Gate C of the translation workflow. It checks the assembled English reading text for consistency without converting the archival translation into a normalized or rewritten edition.
+This Gate C review has been re-run after the final scan-22 / printed-page-18 story conclusion was resolved.
 
 ## Files reviewed
 
@@ -16,26 +16,20 @@ This review is Gate C of the translation workflow. It checks the assembled Engli
 - `SOURCE_MAP.md`
 - `TRANSLATION_PLAN.md`
 - `ERRATA_NOTES.md`
-- final Tamil page records for scans 7–22 as already source-reviewed at batch level
+- final Tamil page records for scans 7–22
+- synchronized Tamil assembly
 
 ## Gate A prerequisite
 
 **PASS**
 
-All four source batches are independently `source-reviewed`:
-
-1. scans 7–10 — PASS
-2. scans 11–14 — PASS
-3. scans 15–18 — PASS
-4. scans 19–22 — PASS
-
-No batch prose was reopened for speculative retranscription during assembly.
+All four English source batches remain `source-reviewed`. Batch 4 was re-reviewed after the scan-22 conclusion correction.
 
 ## Gate B — assembled English coverage
 
 **PASS**
 
-The assembled file `kizhavan-kanavu-en.md` contains:
+`kizhavan-kanavu-en.md` contains:
 
 - story scans represented: **16 / 16**;
 - scan range: **7–22**;
@@ -44,39 +38,52 @@ The assembled file `kizhavan-kanavu-en.md` contains:
 - visible printed page sequence thereafter: **4–18**;
 - duplicated source scan: **none**;
 - omitted source scan: **none**;
-- scan-22 publisher/printer/footer material included in story prose: **No**.
+- scan-22 non-story salesperson / advertisement / publisher-printer material included in story prose: **No**.
+
+## Scan 22 conclusion consistency
+
+**PASS**
+
+Final Tamil:
+
+`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+Final English:
+
+**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+
+The former scan-22 `SOURCE BLOCKED` marker has been removed from both Batch 4 and the assembled English story.
+
+`அழியாத சித்திரம்` → **“the imperishable image”** and `வரப்போகும் திராவிடம்` → **“the Dravidam that is to come”** are accepted as conservative source-close renderings.
 
 ## Source-blocked gap audit
 
 **PASS**
 
-The assembled English story retains **8 / 8** terminal story-source gaps:
+The assembled English story now retains **7 / 7** terminal story-source gaps:
 
 | Scan | Printed page | Gap count | Assembly treatment |
 |---:|:---:|---:|---|
 | 15 | 11 | 2 | two separate `SOURCE BLOCKED` markers |
 | 17 | 13 | 1 | one marker after the Parvati reference |
 | 21 | 17 | 4 | four distinct markers inside the political/historical catalogue |
-| 22 | 18 | 1 | one marker in the final story sentence |
 
-No blocked location has been collapsed into a general endnote or filled from context.
+Scan 22 has **0** remaining story-source gaps.
 
-Blocked-marker wording is consistent: each marker identifies the scan, printed page, and physical/visual reason the Tamil cannot safely be recovered.
+No blocked location has been collapsed into an endnote or filled from context.
 
 ## Cross-batch page-boundary joins
 
 **PASS**
 
-Mechanical page continuations were joined only in the assembled reading layer. The independently reviewed batch files remain unchanged.
+Mechanical page continuations are joined only in the assembled reading layer. Batch files retain their reviewed source boundaries.
 
-Assembly-only joins include:
+Notable joins remain:
 
-- scan 10 → 11: the Garuda sentence is allowed to continue across the retained page marker;
-- scan 14 → 15: the duplicated proper name from the two batch-boundary annotations is reduced to a pronoun in the assembled reading so the single Tamil sentence reads continuously; no source meaning is added;
-- scan 17 → 18: the mechanically split English `float— / —ing` is joined as `was— / floating` across the retained page marker;
-- scan 18 → 19: the duplicate conditional wording used by the two batch-boundary annotations is removed so the one Tamil conditional sequence is represented once.
-
-Other page-spanning images/sentences are left visibly interrupted by the source marker where that does not create duplication.
+- scan 10 → 11 — Garuda sentence;
+- scan 14 → 15 — boundary wording joined without adding source meaning;
+- scan 17 → 18 — mechanically split `floating` wording;
+- scan 18 → 19 — duplicate conditional boundary annotation removed in assembly.
 
 These are assembly mechanics, not source normalization.
 
@@ -87,103 +94,45 @@ These are assembly mechanics, not source normalization.
 | Tamil/source form | English form used | Review |
 |---|---|---|
 | விபுலானந்தர் | `Vipulanandar` | consistent |
-| விபுலன் / விபுலா | `Vipulan` / `Vipula` where the source shortens the name | source distinction retained |
+| விபுலன் / விபுலா | `Vipulan` / `Vipula` | source shortening retained |
 | மல்லிகா | `Mallika` | consistent |
 | லெனின் | `Lenin` | consistent |
 | வீராசாமி | `Veerasami` | consistent |
 | ராஜம் | `Rajam` | consistent |
-| மார்க்கண்டேய சாஸ்திரிகள் | `Markandeya Sastri` | consistent where title/form occurs |
+| மார்க்கண்டேய சாஸ்திரிகள் | `Markandeya Sastri` | consistent |
 | மார்க்கண்டேயர் | `Markandeyar` | source distinction retained |
 | ராமசாமிப்பெரியார் | `Ramasami Periyar` | consistent |
 | ராவ்பகதூர் | `Rao Bahadur` | consistent |
 | மிராசுதார் | `Mirasudar` | consistent |
 
-No later standardized Romanization has been imposed over the working forms fixed by the translation plan.
-
 ## Religious and culture-specific terminology
 
 **PASS**
 
-Recurring terminology is stable across batches:
-
-- `Krishna Leela`
-- `Vastrabharana`
-- `Puranarthika Iyer`
-- `Kali-Yuga`
-- `Varaha avatar`
-- `Iyarpagai Nayanar`
-- `padi`
-- `karagam`
-- `kapparai`
-- `Ekabhishekam`
-- `sthala-varalaru`
-- `mahan`
-- `Pillaiyar`
-- `kumbabhishekam`
-- `Vinayaka`
-- `Aryam`
-- `Parameswara`
-
-Terms are translated, transliterated, or left culturally specific according to the established batch decisions. The editorial review does not replace them with externally standardized terminology.
+Stable source-close forms include `Krishna Leela`, `Vastrabharana`, `Puranarthika Iyer`, `Kali-Yuga`, `Varaha avatar`, `Iyarpagai Nayanar`, `padi`, `karagam`, `kapparai`, `Ekabhishekam`, `sthala-varalaru`, `mahan`, `Pillaiyar`, `kumbabhishekam`, `Vinayaka`, `Aryam`, and `Parameswara`.
 
 ## Political and social vocabulary
 
 **PASS**
 
-The translation consistently preserves the source's historical rhetoric rather than neutralizing it. This includes:
+Historical rhetoric remains source-close, including `self-respect`, `Aryan` / `Aryam`, caste/community labels, `Dravidam`, `Dravidian realm`, `Dravidian Festival Day`, and `the conch-blast of equal justice` for `சமதர்ம சங்கநாதம்`.
 
-- `self-respect` for the relevant தன்மான rhetoric;
-- `Aryan` / `Aryam` where the source itself uses distinct forms;
-- `Brahmin`, `Mudaliar`, `Reddiar`;
-- `low caste` in the Markandeyar dream passage;
-- `Dravidam`, `Dravidian`, `Dravidian realm`, and `Dravidian Festival Day` according to the source phrase being translated;
-- `the conch-blast of equal justice` for `சமதர்ம சங்கநாதம்`.
+The resolved final phrase **“the imperishable image of the Dravidam that is to come”** is consistent with the existing treatment of `Dravidam` throughout the translation.
 
-No present-day euphemism or explanatory political label has been inserted into the prose.
-
-## Narrative voice and tense
+## Narrative voice, dialogue and imagery
 
 **PASS**
 
-The source moves between narration, remembered past, rhetorical present, dream speech, reported social history, and future/visionary proclamation. The English preserves those shifts rather than flattening the story into a single modern-fiction tense.
+The English preserves the Tamil's movement among narration, remembered past, rhetorical present, dream speech and political vision. Exclamation-heavy polemic, abrupt dialogue, repeated invocations and recurring metaphors are retained rather than flattened into contemporary neutral prose.
 
-No tense change was made merely to make the English smoother where the Tamil's rhetorical movement is source-significant.
-
-## Dialogue and quotation style
-
-**PASS**
-
-- curly quotation marks are used consistently for quoted speech and rhetorical quotation;
-- em dashes preserve the abrupt dialogue style at the opening and source interruptions elsewhere;
-- exclamation-heavy polemic is retained;
-- repeated invocations such as `Mallika!`, `Appa!`, and the political proclamations remain emphatic;
-- quotation material is not converted into neutral exposition.
-
-## Recurring imagery and metaphors
-
-**PASS**
-
-Repeated source imagery is kept recognizably related across batches:
-
-- volcano / sea / bull / warrior imagery for Lenin;
-- flower / honey / bee imagery around Mallika and Markandeyar's desire;
-- moat / mansion / fort imagery around Vipulan and Mallika;
-- hunted deer / fish on shore imagery during the abduction;
-- tiger / lion / spear / blood imagery around Veerasami's death;
-- river / ship / shore imagery in Mallika's grief;
-- breeze / moon / garden / river-of-love imagery in the reunion;
-- trumpet / flag / liberation imagery in the political dream.
-
-The review does not harmonize metaphorical oddities that are present in the verified Tamil.
-
-## Deliberately retained difficult readings
+## Deliberately retained difficult renderings
 
 **PASS — retained, not normalized**
 
-The following English choices remain intentionally conservative because the verified Tamil itself is unusual or semantically abrupt:
+Examples include:
 
 - `Puranarthika Iyer`;
-- `physician` for the scan-8 `வைத்தியர்`;
+- `physician` for scan-8 `வைத்தியர்`;
 - `My forehead?`;
 - `I shall eat these grapes.`;
 - `amid a dull cough`;
@@ -191,47 +140,29 @@ The following English choices remain intentionally conservative because the veri
 - `Kali! Kooli!`;
 - `the conch-blast of equal justice`;
 - `We lived—to be kissed by the sword.`;
-- `The Dravidian land is a day for Dravidians!`.
+- `The Dravidian land is a day for Dravidians!`;
+- `The imperishable image of the Dravidam that is to come` for the resolved scan-22 phrase.
 
-These may read oddly in English, but editorial consistency is not permission to repair the Tamil source by inference.
+Editorial consistency is not permission to repair source oddities by inference.
 
 ## Errata consistency
 
 **PASS**
 
-`ERRATA_NOTES.md` now documents all **10** publisher corrections from scan 23 as a separate layer.
+`ERRATA_NOTES.md` documents all **10** publisher corrections from scan 23 as a separate layer. The scan-13 `வைத்திருந்தான்` / `வைத்திருந்தாள்` distinction remains explicit. No publisher correction is silently substituted into the archival English prose.
 
-The important scan-13 distinction remains explicit:
+## Final source disposition reflected in English
 
-- archival page reading: `வைத்திருந்தான்`;
-- publisher errata: `வைத்திருந்தாள்`.
+- Tamil story pages `verified`: **13 / 16**
+- Tamil story pages `blocked`: **3 / 16** — scans 15, 17, 21
+- English explicit `SOURCE BLOCKED` positions: **7**
+- scan 22 story conclusion: **resolved / translated / synchronized**
+- non-story sales/advertisement/footer material on scan 22: **excluded from English story scope**
 
-The English phrase `had kept` does not reveal that Tamil gender distinction, but the editorial record does. No publisher correction has been silently substituted into the archival English prose.
-
-## Release readiness after Gate C
+## Release readiness after re-review
 
 **PASS WITH DOCUMENTED SOURCE LIMITATIONS**
 
-The assembled English translation is editorially consistent and complete to the limit of the supplied source.
+The assembled English translation remains release-ready. The only unresolved story text is the seven terminal source-blocked locations on scans 15, 17 and 21.
 
-Remaining limitations are source limitations, not unfinished translation work:
-
-- 8 explicit terminal story-source gaps remain because the supplied scan does not expose the hidden/indistinct Tamil;
-- front-matter scans 3–4 remain outside the story-body English scope and still have their separate Tamil review status;
-- no attempt should be made during release preparation to guess those readings.
-
-## Next exact activity — Gate D
-
-Create `RELEASE_REPORT.md` and perform the final release review. The report must document:
-
-1. translated source range: scans 7–22;
-2. Tamil source disposition: 12 verified story scans + 4 source-blocked story scans;
-3. English source review: 4 / 4 batches passed;
-4. assembled English coverage: 16 / 16 scans;
-5. retained source gaps: 8;
-6. publisher errata treatment: 10 corrections documented separately;
-7. unresolved translation questions / deliberately conservative renderings;
-8. final repository file inventory;
-9. confirmation that the source PDF is not stored in GitHub.
-
-Do not remove or fill any `SOURCE BLOCKED` marker during release review.
+The existing `RELEASE_REPORT.md` must reflect these revised counts and the resolved scan-22 conclusion.
