@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0014165_கிழவன்_கனவு.pdf"
-transcription_method: "direct visual comparison with source scan; unresolved readings marked explicitly"
+transcription_method: "direct visual audit against source scan; one genuinely unclear reading retained"
 ---
 
 # அச்சு உரை
@@ -18,7 +18,7 @@ transcription_method: "direct visual comparison with source scan; unresolved rea
 
 “அப்பா மயக்கமா?”
 
-“மயக்கமில்ல மரணவஸ்தை! இனி என்னை நம்பாதே நீ விரும்பியபடியே விபுலனை வாழ்க்கைத்துணைவனுக்கு ஏற்றுக்கொள்.”
+“மயக்கமில்ல மரணவஸ்தை! இனி என்னை நம்பாதே நீ விரும்பியபடியே விபுலனை வாழ்க்கைத்துணைவனாக ஏற்றுக்கொள்.”
 
 “ஐயோ அப்பா! எனக்கு யார்துணை என்னை அனாதையாக்கி விட்டார்களே.”
 
@@ -31,10 +31,11 @@ transcription_method: "direct visual comparison with source scan; unresolved rea
 - வயதுச்சுவடு, uneven contrast மற்றும் சில சிறிய ink/scan marks உள்ளன.
 - printed page `(14)` தெளிவாக உள்ளது.
 
-## Review note
+## Audit note
 
-- தொடக்கப் பகுதியிலுள்ள ஒரு குறும் வாசிப்பு தெளிவில்லாததால் explicit placeholder வைக்கப்பட்டுள்ளது; பொருளிலிருந்து நிரப்பப்படவில்லை.
-- `துணிவானு?`, `உரையாடலத்தான்` போன்ற source-supported/provisional வாசிப்புகள் modernize செய்யப்படவில்லை; முழு Tamil audit-ல் மீண்டும் visual comparison தேவை.
+- முழுப் பக்கமும் source scan-ஐ மீண்டும் நேரடியாக ஒப்பிட்டு audit செய்யப்பட்டது.
+- dialogue-ல் source-supported **`வாழ்க்கைத்துணைவனாக`** உறுதிப்படுத்தப்பட்டதால் முந்தைய `வாழ்க்கைத்துணைவனுக்கு` வாசிப்பு திருத்தப்பட்டது.
+- தொடக்க paragraph-ல் ஒரு குறும் வாசிப்பு மட்டும் scan-ல் போதுமான தெளிவில் இல்லை; பொருளிலிருந்து நிரப்பப்படவில்லை.
 - முதல் சொல் scan 17-இன் தொடர்ச்சி; கடைசி sentence scan 19-க்கு தொடர்கிறது.
 
 <!-- மூல ஸ்கேன் பக்கம்: 18; அச்சுப் பக்கம்: 14 -->
