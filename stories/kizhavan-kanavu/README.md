@@ -36,7 +36,7 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 - Final assembled Tamil synchronization: **complete**
 - Assembly consistency review: **PASS**
 - English translation gate: **OPEN**
-- English source-reviewed coverage: **8 / 16 story scans**
+- English source-reviewed coverage: **12 / 16 story scans**
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Tamil audit: [`audit.md`](audit.md).
@@ -63,20 +63,25 @@ Batch progress:
 |---:|---|---|
 | 1 | 7–10 | **source-reviewed** |
 | 2 | 11–14 | **source-reviewed** |
-| 3 | 15–18 | not-started |
+| 3 | 15–18 | **source-reviewed** |
 | 4 | 19–22 | not-started |
 
 Completed batches:
 
 - [`translations/en/batches/01-scans-07-10.md`](translations/en/batches/01-scans-07-10.md)
 - [`translations/en/batches/02-scans-11-14.md`](translations/en/batches/02-scans-11-14.md)
+- [`translations/en/batches/03-scans-15-18.md`](translations/en/batches/03-scans-15-18.md)
 
-Batch 2 directly reviewed scans 11–14, completed the scan-10/11 mechanical continuation without rewriting Batch 1, preserved the scan-13 archival-reading / printed-errata distinction, and left the scan-14/15 continuation explicit for Batch 3.
+Batch 3 is the first translated segment containing terminal source gaps. It preserves **three separate SOURCE BLOCKED locations**: two on scan 15 and one on scan 17. Verified scans 16 and 18 were translated without smoothing over those gaps, and the scan-18/19 continuation remains explicit for Batch 4.
 
 ## Important source distinctions
 
 - scan 7 opens the story, but its printed page number is not clearly visible; `(3)` is not inferred.
 - scan 13 / printed page 9 visibly reads **`வைத்திருந்தான்`**; scan 23's printed errata separately corrects this to **`வைத்திருந்தாள்`**.
+- scan 15 contains one worn word and one library-stamp-obscured story segment; both remain explicit in English.
+- scan 17 contains one worn/indistinct phrase after `பார்வதியை`; it remains explicit in English.
+- scan 21 will require four distinct source-block markers in Batch 4.
+- scan 22 will require one source-block marker in the final story sentence; its publisher/printer footer stays outside English story prose.
 - scan 23 remains a separate publisher errata layer.
 - source PDF remains outside GitHub.
 
@@ -90,4 +95,4 @@ Batch 2 directly reviewed scans 11–14, completed the scan-10/11 mechanical con
 
 ## Next exact activity
 
-Begin **English Translation Batch 3 — scans 15–18 only**. This is the first batch containing terminal source gaps: preserve both scan-15 gaps and the scan-17 gap explicitly, retain page markers, and complete direct source review before beginning Batch 4.
+Begin **English Translation Batch 4 — scans 19–22 only**. Complete the scan-18/19 continuation, preserve all four scan-21 source gaps separately and the scan-22 final-story gap explicitly, exclude scan-22 footer/imprint from story prose, retain page markers, and complete direct source review before assembling the full English story.
