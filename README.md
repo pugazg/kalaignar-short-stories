@@ -6,59 +6,73 @@
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
 
-மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. தெளிவில்லாத வாசிப்புகள் வெளிப்படையாக `blocked` ஆகக் குறிக்கப்பட வேண்டும்.
+மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது.
 
-**மூல PDF கோப்புகள் இந்த repository-யில் commit செய்யப்படாது.** அவற்றின் filename, checksum, edition identity, scan condition மற்றும் page mapping மட்டும் metadata-வில் பதிவு செய்யப்படும்.
+அதே நேரத்தில் story text-ல் ஒரு வாசிப்பு கடினமாக இருப்பதற்காக அதை விரைவாக `blocked` என்று விட்டுவிடக்கூடாது. Repository guide-ன் புதிய நிரந்தர விதி:
+
+> **No stones should be left unturned.**
+
+Native embedded scan, high-resolution enlargement, alternate image variants, stamp-stroke separation, neighbouring typeform comparison, page-boundary checks, user-supplied reading verification, மற்றும் provenance-உடைய secondary corroboration ஆகிய escalation-கள் தேவையான அளவு முயற்சிக்கப்பட்ட பிறகே story text `blocked` ஆக இருக்கலாம். Secondary witness source-ஐ silently overwrite செய்யக்கூடாது.
+
+**மூல PDF கோப்புகள் repository-யில் commit செய்யப்படாது.** Filename, checksum, edition identity, scan condition மற்றும் page mapping மட்டும் metadata-வில் பதிவு செய்யப்படும்.
 
 ## தற்போதைய சிறுகதை
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26-page Tamil audit CLOSED; English story-body COMPLETE / release-ready** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Story source 16/16 VERIFIED; English COMPLETE / source-complete / release-ready** |
 
-### இறுதி physical-copy page status
-
-- `verified`: **21**
-- `blocked`: **5** — scans 3, 4, 15, 17, 21
-- `needs-review`: **0**
-- `not-started`: **0**
-
-The complete physical publication has **26 / 26 terminal page dispositions**.
-
-## Tamil story layer
+## கிழவன் கனவு — final story status
 
 Story-body scans **7–22**:
 
-- **13 verified / 3 source-blocked / 0 needs-review**;
-- explicit blocked story-text locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4.
+- `verified`: **16 / 16**
+- `blocked`: **0**
+- `needs-review`: **0**
+- unresolved story-text locations: **0**
 
-Scan **22 / printed page 18** is now verified with the corrected ending:
+Formerly difficult readings on scans 15, 17, 21 and 22 were all reopened and resolved.
 
-**`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`**
+Key final readings include:
 
-The salesperson / advertisement / publisher-printer material below that conclusion is not part of the story and is intentionally excluded from story transcription/translation scope.
+- scan 15: `துர் எண்ணத்தை`, `புது தழுவகம் ஒன்று`, `அநாதிப் பிள்ளையாருக்கு`, `பிள்ளை பிறக்குமென்று`;
+- scan 17: `பார்வதியை அணைத்தபடி பரமன்`;
+- scan 21: `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
+- scan 22: `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
 
-Control/derived files:
+The salesperson / advertisement / publisher-printer matter below the scan-22 conclusion is not part of the story and is excluded from story transcription/translation scope.
 
-- `stories/kizhavan-kanavu/audit.md` — full 26-page audit closure;
-- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md`;
-- `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md` — **10** publisher corrections kept separately;
-- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS**.
+## Physical-copy page status
+
+Across all 26 scans:
+
+- `verified`: **24**
+- `blocked`: **2** — front-matter scans 3–4 only
+- `needs-review`: **0**
+- `not-started`: **0**
+
+The remaining two blocked page records are non-story front matter. If full-publication zero-block closure is required, the same exhaustive protocol must be applied to them.
+
+## Tamil story layer
+
+- `stories/kizhavan-kanavu/audit.md`
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — **zero blocked markers**
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md` — **10** publisher corrections separately mapped
+- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS / 16 of 16 verified**
 
 ## English translation stage
 
-The **story-body English translation, scans 7–22, is COMPLETE**.
+The **story-body English translation, scans 7–22, is COMPLETE and source-complete**.
 
 - 4 / 4 source batches reviewed;
 - 16 / 16 story scans assembled;
-- **7 / 7** terminal `SOURCE BLOCKED` story locations retained;
-- scan 22 conclusion resolved and translated;
+- English `SOURCE BLOCKED` markers: **0**;
 - editorial consistency review: **PASS**;
-- release review: **PASS — release-ready with documented source limitations**.
+- release review: **PASS — story source complete / release-ready**.
 
-Resolved English ending:
+Final English ending:
 
-**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+**“Periyar EV Ramasamy too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
 
 Final/review files include:
 
@@ -67,7 +81,7 @@ Final/review files include:
 - `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
 - `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`
 
-Scan-23 errata is not silently substituted into archival Tamil or English prose.
+Scan-23 errata remains a separate textual layer and is not silently substituted into archival Tamil or English prose.
 
 ## களஞ்சிய அமைப்பு
 
@@ -101,4 +115,4 @@ stories/
 
 ## அடுத்த activity
 
-**கிழவன் கனவு processing is closed for this supplied copy.** Do not reopen terminal blocked readings unless a genuinely clearer source is introduced. The next repository activity is to register and inspect the **next Kalaignar short-story PDF** when supplied.
+The **கிழவன் கனவு story body is fully resolved and closed**. Optional next cleanup for this physical publication is to apply the same exhaustive protocol to non-story front-matter scans **3–4**; otherwise the next archival activity is source registration for the next Kalaignar short-story PDF.
