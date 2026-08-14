@@ -14,9 +14,17 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | source registered; 26-page manifest being initialized |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | source registered; 26-page manifest complete; 6/26 page records created |
+
+### தற்போதைய page status
+
+- scan 1 — `verified`
+- scans 2–6 — `partial` (உறுதிப்படுத்தப்பட்ட headings/dates/signatures மட்டும்; முழு body transcription pending)
+- scans 7–26 — `not-started`
 
 இணைக்கப்பட்ட scan-ல் சிறுகதை body-க்கு முன் மதிப்புரைகள் / வெளியீட்டாளர் குறிப்புகள் / ஆசிரியர் குறிப்பு உள்ளன; body முடிந்த பின் பிற நூல்கள் மற்றும் வணிக விளம்பரப் பக்கங்களும் உள்ளன. அவையும் scanned publication-ன் பகுதிகளாக page-level archival records-ல் பதிவு செய்யப்படும்.
+
+அடுத்த batch: **scans 2–6 முழுமையான word-for-word visual transcription மற்றும் audit**. அதன் பின் story body scans **7–10**.
 
 ## களஞ்சிய அமைப்பு
 
