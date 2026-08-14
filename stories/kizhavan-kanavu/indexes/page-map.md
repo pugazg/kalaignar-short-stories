@@ -43,14 +43,14 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 
 ## Story-body exhaustive-resolution result
 
-**All 16 / 16 story pages are now `verified`. No story-text block remains.**
+**All 16 / 16 story pages are `verified`. No story-text block remains.**
 
-The final exhaustive pass reopened the former blocked pages rather than accepting them as terminal:
+The exhaustive pass reopened former blocked pages instead of accepting them as terminal:
 
-- scan **15 / printed 11** — native embedded scan and stamp-stroke separation resolved `புது தழுவகம் ஒன்று` and `அநாதிப் பிள்ளையாருக்கு`; nearby readings were also corrected to `துர் எண்ணத்தை` and `பிள்ளை பிறக்குமென்று`;
-- scan **17 / printed 13** — user-supplied `பார்வதியை அணைத்தபடி பரமன்` was checked against the enlarged native scan and verified;
-- scan **21 / printed 17** — resolved `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, and `இந்தி எதிர்ப்பு`;
-- scan **22 / printed 18** — final conclusion already resolved as `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+- scan **15 / printed 11** — `துர் எண்ணத்தை`, `புது தழுவகம் ஒன்று`, `அநாதிப் பிள்ளையாருக்கு`, `பிள்ளை பிறக்குமென்று`;
+- scan **17 / printed 13** — `பார்வதியை அணைத்தபடி பரமன்`;
+- scan **21 / printed 17** — `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
+- scan **22 / printed 18** — `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
 
 ## Numbering note
 
@@ -63,7 +63,7 @@ Only front-matter scans **3–4** retain `blocked` status:
 - scan **3** — portions of the `“குடியரசு”` review intersect a library stamp;
 - scan **4** — one short publisher-note phrase remains indistinct.
 
-These are outside the story body. Under the revised processing guide, any future attempt to close the **whole physical publication** at zero blocked pages must apply the same exhaustive native-scan escalation before accepting those blocks.
+These are outside the story body. Under the revised processing guide, a future attempt to close the **whole physical publication** at zero blocked pages must apply the same exhaustive native-scan escalation before accepting those blocks.
 
 ## Final Tamil story-source disposition
 
@@ -74,12 +74,13 @@ These are outside the story body. Under the revised processing guide, any future
 
 ## Tamil and English completion state
 
-- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — must reflect the final zero-block page layer.
+- Tamil story assembly: [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — **synchronized / zero blocked markers**.
 - Printed errata layer: [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — **10 / 10** entries mapped separately.
-- Tamil assembly review: [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md).
-- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — scans **7–22**.
-- English source-map target: **0 `SOURCE BLOCKED` positions**.
+- Tamil assembly review: [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — **PASS / 16 of 16 verified**.
+- English assembled story: [`../translations/en/kizhavan-kanavu-en.md`](../translations/en/kizhavan-kanavu-en.md) — **16 / 16 scans / 0 source gaps**.
+- English editorial review: [`../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](../translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**.
+- English release report: [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md) — **PASS / source-complete / release-ready**.
 
 ## அடுத்த activity
 
-Synchronize all assembled Tamil/English and release-control files to the final **16 / 16 verified, 0 story blocks** state. After that, the only remaining source-recovery work in this physical publication is optional exhaustive recovery of non-story front-matter scans **3–4**.
+The story itself is complete and source-resolved. Optional remaining work on this physical copy is exhaustive recovery of non-story front-matter scans **3–4**; otherwise proceed to the next short-story source.
