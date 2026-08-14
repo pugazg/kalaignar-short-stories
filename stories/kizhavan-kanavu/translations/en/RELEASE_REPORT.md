@@ -4,7 +4,7 @@
 
 **PASS — STORY-BODY ENGLISH TRANSLATION COMPLETE, SOURCE-COMPLETE AND RELEASE-READY**
 
-This Gate D report reflects the final exhaustive-resolution pass. Every formerly blocked **story-text** location has now been resolved and synchronized.
+This Gate D report reflects the final exhaustive-resolution workflow and the later full-span correction to scan 15 / printed page 11.
 
 The English release scope is the **story body only**, source scans **7–22**. Front matter, scan 23 errata/advertising, commercial advertisements, salesperson material, publisher-printer material and the back cover are outside the English story translation.
 
@@ -37,18 +37,38 @@ Verified story scans:
 
 `7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22`
 
-## Exhaustive-resolution closure
+## Exhaustive-resolution closure and correction history
 
-Formerly difficult passages were reopened instead of being accepted as terminal blocks.
+Formerly difficult passages were reopened instead of being accepted as terminal blocks. Scan 15 later required a second full-span correction because an enhancement-derived short-fragment reading proved wrong.
 
 ### Scan 15 / printed page 11
 
-Resolved source readings:
+Final source readings:
 
 - `துர் எண்ணத்தை`
+- `புத்தமுதம் தின்று கொண்டிருந்த`
+- `அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று`
+- `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும்`
+
+Full corrected story passage:
+
+`விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+
+Full corrected temple-history sentence:
+
+`யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
+
+Superseded and removed:
+
 - `புது தழுவகம் ஒன்று`
-- `அநாதிப் பிள்ளையாருக்கு`
-- `பிள்ளை பிறக்குமென்று`
+- **sharing a new embrace**
+- **Anadi Pillaiyar** as a proper-name reading of `அநாதிப் பிள்ளையார்`
+
+Final English treatment:
+
+- `புத்தமுதம் தின்று கொண்டிருந்த` → **partaking of fresh nectar**
+- `அநாதிப் பிள்ளையார்` → **an orphaned Pillaiyar**
+- `அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையார்` → **a black-stone Pillaiyar that lay unclaimed beneath a peepal tree**
 
 ### Scan 17 / printed page 13
 
@@ -83,7 +103,7 @@ The non-story material below this conclusion is intentionally excluded from stor
 
 **PASS — ZERO STORY BLOCKS**
 
-`../../sections/kizhavan-kanavu.md` represents scans **7–22** exactly once and in order, with all formerly blocked readings resolved.
+`../../sections/kizhavan-kanavu.md` represents scans **7–22** exactly once and in order, including the corrected full-span scan-15 text.
 
 `../../ASSEMBLY_REVIEW.md` confirms:
 
@@ -91,6 +111,7 @@ The non-story material below this conclusion is intentionally excluded from stor
 - 16 / 16 story scans verified;
 - 0 story blocks;
 - 0 unresolved story-text locations;
+- scan-15 full-span correction synchronized;
 - errata remains separate;
 - non-story sales/advertisement/footer material remains outside story prose.
 
@@ -102,7 +123,7 @@ The non-story material below this conclusion is intentionally excluded from stor
 |---:|---|---:|---|
 | 1 | 7–10 | 0 | `source-reviewed` |
 | 2 | 11–14 | 0 | `source-reviewed` |
-| 3 | 15–18 | 0 | `source-reviewed after exhaustive resolution` |
+| 3 | 15–18 | 0 | `source-reviewed after full-span scan-15 correction` |
 | 4 | 19–22 | 0 | `source-reviewed after exhaustive resolution` |
 
 ## Full English assembly
@@ -122,15 +143,17 @@ Coverage checks:
 - duplicated scan: **none**;
 - omitted scan: **none**;
 - `SOURCE BLOCKED` locations: **0**;
+- scan-15 corrected source span: **synchronized**;
 - scan-22 conclusion: **resolved and translated**;
 - scan-22 salesperson / advertisement / publisher-printer material included: **No**;
 - scan-23 errata silently substituted: **No**.
 
-## English renderings introduced by final source resolution
+## English renderings of final difficult readings
 
-- `புது தழுவகம் ஒன்று` → **sharing a new embrace**
 - `துர் எண்ணத்தை` → **evil intention**
-- `அநாதிப் பிள்ளையாருக்கு` → **Anadi Pillaiyar**
+- `புத்தமுதம் தின்று கொண்டிருந்த` → **partaking of fresh nectar**
+- `அநாதிப் பிள்ளையார்` → **an orphaned Pillaiyar**
+- `அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையார்` → **a black-stone Pillaiyar that lay unclaimed beneath a peepal tree**
 - `பார்வதியை அணைத்தபடி பரமன்` → **embracing Parvati, the Lord...**
 - `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.` → **This memory melted the hearts of those companions.**
 - `ஆநிரைகோ` → **Aniraiko**
@@ -138,7 +161,13 @@ Coverage checks:
 - `இந்தி எதிர்ப்பு` → **Opposition to Hindi!**
 - `ராமசாமிப்பெரியார்` → **Periyar EV Ramasamy** in the English display layer
 
-The Tamil archival forms remain unchanged except where direct source re-inspection corrected an earlier transcription.
+## Verification-method lesson
+
+The scan-15 correction is now part of the repository's permanent method:
+
+- enhancement-derived short fragments are provisional until the **complete phrase/clause/sentence span** is checked against the native source;
+- user-supplied exact readings can reopen a previously `verified` passage and must be checked word-by-word against the source;
+- when a verified source reading changes, every downstream Tamil/English/control layer must be synchronized.
 
 ## Publisher errata treatment
 
@@ -158,9 +187,9 @@ Key distinction:
 
 ## Editorial consistency gate
 
-**PASS — ZERO-GAP RE-REVIEW COMPLETE**
+**PASS AFTER SCAN-15 RE-SYNCHRONIZATION**
 
-`EDITORIAL_CONSISTENCY_REVIEW.md` confirms consistency for names/titles, religious/cultural terminology, political/caste/social vocabulary, narrative voice, dialogue, page joins, all newly resolved readings, the canonical English display **Periyar EV Ramasamy**, and publisher-errata separation.
+`EDITORIAL_CONSISTENCY_REVIEW.md` confirms consistency for the corrected page-11 translation, names/titles, religious/cultural terminology, political/caste/social vocabulary, narrative voice, dialogue, page joins, resolved scan-17/21 readings, **Periyar EV Ramasamy**, and publisher-errata separation.
 
 ## Deliberately conservative translation choices retained
 
@@ -208,6 +237,7 @@ For the defined English scope, **கிழவன் கனவு / The Old Man's
 - English batches: **4 / 4 source-reviewed**;
 - English assembly: **16 / 16 scans**;
 - English `SOURCE BLOCKED` markers: **0**;
+- scan-15 full-span correction synchronized;
 - editorial consistency review: **PASS**;
 - publisher errata: **10 / 10 separately documented**;
 - source PDF: **absent from GitHub**.
