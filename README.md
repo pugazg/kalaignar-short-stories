@@ -14,17 +14,20 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records; Tamil assembly complete; consistency review complete; final source-gap pass pending** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records; story source audit complete; 12/16 story scans verified; 4/16 source-blocked** |
 
 ### தற்போதைய page status
 
-- `verified`: **17**
-- `needs-review`: **9**
+- `verified`: **20**
+- `blocked`: **4**
+- `needs-review`: **2** — front matter scans 3–4
 - `not-started`: **0**
 
 The complete physical publication—from cover through story, printed errata, advertisements and back cover—has page-level archival records.
 
-Scans **7–22** contain the **கிழவன் கனவு** story body. They are now assembled into a traceable Tamil reading layer while preserving page boundaries and unresolved source readings. Scan **23**'s printed **`பிழை திருத்தம்.`** remains a separate correction layer and has not been silently merged into the archival text.
+The story-body scans **7–22** have all completed direct visual audit. The final high-resolution pass resolved scans **8, 14 and 18**; scans **15, 17, 21 and 22** are now formally `blocked` because the supplied physical source itself does not expose enough information to recover specific words/phrases safely. Those gaps are marked `blocked-by-source`, not guessed.
+
+Scan **23**'s printed **`பிழை திருத்தம்.`** remains a separate correction layer and has not been silently merged into the archival page text.
 
 Current derived artifacts:
 
@@ -33,7 +36,7 @@ Current derived artifacts:
 - `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md`
 - `stories/kizhavan-kanavu/audit.md`
 
-Seven story scans — **8, 14, 15, 17, 18, 21, 22** — still contain genuine unclear or stamp-obscured readings. English translation remains blocked until a final unresolved-source pass determines which can be resolved and which must be formally source-blocked.
+The page records are the finalized Tamil source layer. The assembled Tamil story still requires one synchronization pass to reflect the newly resolved readings and final `blocked-by-source` markers before the English translation workflow is opened.
 
 ## களஞ்சிய அமைப்பு
 
@@ -63,4 +66,4 @@ stories/
 
 ## அடுத்த activity
 
-**கிழவன் கனவு** scans **8, 14, 15, 17, 18, 21, 22** மீது final high-resolution unresolved-reading pass செய்ய வேண்டும். Source ஆதரிக்காத எதையும் ஊகிக்கக்கூடாது; இன்னும் மறைந்த/தெளிவில்லாத இடங்கள் source-blocked என formalize செய்யப்பட வேண்டும்.
+Synchronize `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` and `ASSEMBLY_REVIEW.md` with the finalized page records. After that consistency check passes, create the English translation workflow/plan while preserving every source-blocked gap explicitly.
