@@ -14,7 +14,7 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil finalized; English assembled; editorial review PASS; release review pending** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil story finalized; English story-body translation COMPLETE; release review PASS** |
 
 ### தற்போதைய page status
 
@@ -40,22 +40,23 @@ The synchronized Tamil story represents all **16** story scans exactly once and 
 
 All four English source batches are **source-reviewed**, covering **16 / 16 story scans**.
 
-Full assembled English story:
+Final assembled English story:
 
 - `stories/kizhavan-kanavu/translations/en/kizhavan-kanavu-en.md`
 
-English editorial/control files now include:
+English editorial/release files:
 
 - `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
 - `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
 - `stories/kizhavan-kanavu/translations/en/ERRATA_NOTES.md`
 - `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` — **PASS**
+- `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md` — **PASS**
 
 The assembled English text preserves all **16** source-page markers and all **8** terminal `SOURCE BLOCKED` story locations: scan 15 ×2, scan 17 ×1, scan 21 ×4, scan 22 ×1.
 
-Mechanical cross-batch continuations were joined only in the derived English reading layer. The independently source-reviewed batch files remain unchanged. No blocked Tamil was reconstructed from context, history, mythology, another edition, likely slogans, or web text.
+No blocked Tamil was reconstructed from context, history, mythology, another edition, likely slogans, or web text. Scan-22 publisher/printer/footer material remains outside the English story prose. Scan-23 publisher errata remains separately documented as **10 corrections** and is not silently substituted.
 
-The scan-22 publisher/printer/footer material remains outside the English story prose. The scan-23 publisher errata remains separately documented as **10 corrections** and is not silently substituted.
+**English story-body translation status: COMPLETE — release-ready with documented source limitations.**
 
 ## களஞ்சிய அமைப்பு
 
@@ -80,6 +81,7 @@ stories/
         ERRATA_NOTES.md
         kizhavan-kanavu-en.md
         EDITORIAL_CONSISTENCY_REVIEW.md
+        RELEASE_REPORT.md
         batches/
           01-scans-07-10.md
           02-scans-11-14.md
@@ -92,4 +94,4 @@ stories/
 
 ## அடுத்த activity
 
-Perform **Gate D — English release review** and create `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`. The report must document the translated source range, Tamil source status, all 8 blocked positions, 10-entry errata treatment, deliberately conservative translation choices, final file inventory, and confirmation that the source PDF is not stored in GitHub.
+Perform the final high-resolution disposition pass on **front-matter scans 3–4** so the Tamil audit of the entire 26-page physical copy can be closed. If source damage still prevents safe recovery, mark those locations/pages terminal `blocked` rather than guessing. After that, this work can be fully closed or the next short story can be registered.
