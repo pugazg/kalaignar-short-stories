@@ -14,7 +14,7 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil source finalized; assembly PASS; English Batch 1 source-reviewed** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil source finalized; assembly PASS; English Batches 1–2 source-reviewed** |
 
 ### தற்போதைய page status
 
@@ -25,7 +25,7 @@
 
 The complete physical publication—from cover through story, printed errata, advertisements and back cover—has page-level archival records.
 
-The story-body scans **7–22** have all completed direct visual audit. Final story disposition is **12 verified / 4 source-blocked / 0 needs-review**. Scans **15, 17, 21 and 22** are formally `blocked` because the supplied physical copy does not expose enough visual information to recover specific words/phrases safely. Those gaps remain explicit `blocked-by-source` markers.
+The story-body scans **7–22** have all completed direct visual audit. Final story disposition is **12 verified / 4 source-blocked / 0 needs-review**. Scans **15, 17, 21 and 22** are formally `blocked` because the supplied physical copy does not expose enough information to recover specific words/phrases safely. Those gaps remain explicit `blocked-by-source` markers.
 
 Scan **23**'s printed **`பிழை திருத்தம்.`** remains a separate correction layer and has not been silently merged into the archival page text or assembled story.
 
@@ -53,17 +53,18 @@ Translation workspace:
 Batch progress:
 
 1. **scans 7–10 — source-reviewed**
-2. scans 11–14 — not-started
+2. **scans 11–14 — source-reviewed**
 3. scans 15–18 — not-started
 4. scans 19–22 — not-started
 
-Completed English batch:
+Completed English batches:
 
 - `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`
+- `stories/kizhavan-kanavu/translations/en/batches/02-scans-11-14.md`
 
-Batch 1 has been directly reviewed against all four finalized Tamil page records. It contains no source-blocked gaps. Verified source-specific forms were not silently normalized, and the scan-10 sentence that continues into scan 11 is marked as a batch-boundary continuation rather than guessed.
+English source-reviewed coverage is now **8 / 16 story scans**. Batch 2 directly checked the final Tamil scans 11–14, preserved the scan-13 visible-reading / publisher-errata distinction, and carried both page-boundary continuations explicitly without importing later source text.
 
-A `blocked-by-source` Tamil gap in later batches must remain explicitly blocked in English. Publisher errata must remain separately documented rather than silently substituted into the archival translation.
+A `blocked-by-source` Tamil gap in Batches 3–4 must remain explicitly blocked in English. Publisher errata remains a separate editorial layer rather than a silent substitution.
 
 ## களஞ்சிய அமைப்பு
 
@@ -91,6 +92,7 @@ stories/
         SOURCE_MAP.md
         batches/
           01-scans-07-10.md
+          02-scans-11-14.md
 ```
 
 ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled text, errata, audit, translation போன்றவை derived layers ஆக மட்டுமே சேர்க்கப்படும்.
@@ -100,4 +102,4 @@ stories/
 
 ## அடுத்த activity
 
-Begin **கிழவன் கனவு — English Translation Batch 2, scans 11–14 only**. Translate the scan-10/11 continuation carefully, retain source-page markers, and complete direct Tamil-to-English source review before moving to Batch 3.
+Begin **கிழவன் கனவு — English Translation Batch 3, scans 15–18 only**. Preserve the two scan-15 blocked locations and the scan-17 blocked phrase exactly where they occur, retain source-page markers, and complete direct Tamil-to-English source review before moving to Batch 4.
