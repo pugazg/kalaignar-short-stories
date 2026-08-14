@@ -13,7 +13,7 @@
 
 Full source registration: [`metadata/source.md`](metadata/source.md).
 
-## Publication structure in this scan
+## Publication structure
 
 1. Scan 1 — cover.
 2. Scans 2–6 — reviews / publisher-editorial notes / author note.
@@ -22,49 +22,62 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 5. Scans 24–25 — commercial advertisements.
 6. Scan 26 — back cover with a small child illustration.
 
-The front-matter dates (including 1945 and the author-note date **20-2-46**) are preserved exactly as internal source dates. They are **not** being treated as the publication year of this second edition unless a separate printed publication statement is found.
-
 ## Current archival status
 
-- 26-page source manifest: **complete**
-- Page records created: **26 / 26**
-- `verified`: **16**
-- `needs-review`: **10**
+- Source manifest: **26 / 26 pages complete**
+- Page records: **26 / 26**
+- `verified`: **17**
+- `needs-review`: **9**
 - `not-started`: **0**
-- Story-body scans 7–22: **direct visual transcription complete**
-- Dedicated Tamil source audit of scans 7–23: **completed**
-- Audit report: [`audit.md`](audit.md)
-- Back matter through back cover: **archived**
-- English translation: **blocked pending assembled-Tamil consistency review**
+- Story body assembled: **16 / 16 story scans**
+- Tamil source audit: **completed; seven story pages retain genuine source limitations**
+- Assembly consistency review: **completed**
+- English translation: **blocked pending final unresolved-reading pass / source-limit decision**
 
-Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
+Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
+Tamil audit: [`audit.md`](audit.md).
 
-### Pages promoted by the scan 7–23 audit
+## Assembled Tamil reading layer
 
-Scans **7, 9, 10, 11, 12, 16, 19, 20 and 23** are now `verified` after a second direct comparison against the source scan.
+- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — scans 7–22 assembled in source order with page markers and unresolved readings preserved.
+- [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 corrections from scan 23 mapped separately.
+- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — consistency review across page records, assembled text, errata and page map.
 
-### Remaining story/source review pages
+The assembled file is **not** a modernized edition. It does not silently replace unusual source spellings, does not infer scan 7's missing printed page number, and does not silently apply publisher errata.
 
-Scans **8, 13, 14, 15, 17, 18, 21 and 22** remain `needs-review`. Their remaining issues are narrowly documented in [`audit.md`](audit.md): unclear worn type, source-record reconciliation, or text physically hidden by library stamps. Scans **3–4** retain their earlier front-matter uncertainties.
+## Important source distinctions
 
-## Important audit findings
+- scan 7 opens the story, but its printed page number is not clearly visible; `(3)` is not inferred.
+- scan 8 begins the visible numbered run at printed page `(4)`, continuing through scan 22 / printed page `(18)`.
+- scan 13 / printed page 9 visibly reads **`வைத்திருந்தான்`**; scan 23's printed errata separately corrects this to **`வைத்திருந்தாள்`**.
+- scan 15 has a large library stamp physically obscuring story text.
+- scan 22 has a large library stamp obscuring part of the conclusion and footer.
+- scan 23 is the verified printed errata layer plus tobacco advertisement.
+- source PDF remains outside GitHub.
 
-- Scan 7: the source reads **`டூப்ளிகேட் கிருஷ்ணலீலா`**; an earlier provisional misreading was corrected.
-- Scan 12: a previously unresolved phrase was resolved as **`அதிகாரபூர்வமாக`**.
-- Scan 16: several earlier provisional readings were corrected directly from the scan, including **`ஓராண்டு சிறையிலே`** and **`கரையில் இட்டதோர் மீன்`**.
-- Scan 19: a previously unresolved phrase was resolved as **`காட்சி சகிக்க வொண்ணாது.`**
-- Scan 22: the conclusion reads **`வாழ்—வாள்`**, **`காதலியின்பால்`**, and **`திராவிடருக்கான தினம்`** where earlier provisional readings differed; the library stamp still hides part of the final conclusion/footer.
-- Scan 23: the printed errata table is now fully readable and verified, including **`சிறுபுரட்சி`** and **`அள்ளியள்ளி`**. The errata remains a separate publication layer and is **not silently applied** to the archival page transcriptions.
+## Remaining story-source issues
 
-## Source-first rules for this work
+The seven story pages still marked `needs-review` are:
+
+- **8** — one unclear word after `பூகோள`;
+- **14** — two short unclear readings in the dream passage;
+- **15** — one unclear word plus stamp-obscured temple-history text;
+- **17** — one short unclear phrase;
+- **18** — one short unclear phrase;
+- **21** — four short unclear political/historical readings;
+- **22** — stamp-obscured conclusion/footer.
+
+Scans **3–4** additionally retain front-matter source-condition uncertainties.
+
+## Source-first rules
 
 - Do not silently modernize spelling, punctuation, grammar, names or wording.
 - Do not infer missing printed pagination.
-- Treat library stamps, handwritten/accession marks, photographs, illustrations and advertisements separately from story text.
-- When a stamp obscures letters, mark the reading unresolved rather than reconstructing it from context.
-- Treat the printed errata as evidence, not as permission to overwrite the archival page layer silently.
-- Do not upload the source PDF to this repository.
+- Treat library stamps, handwriting, illustrations and advertisements separately from printed story text.
+- Do not reconstruct text hidden by stamps from context.
+- Keep printed errata as a separate documented source layer.
+- Do not upload the source PDF.
 
 ## Next exact activity
 
-Create `sections/kizhavan-kanavu.md` as an assembled Tamil reading text from the audited page records. Preserve unresolved readings explicitly. Add a separate documented errata mapping rather than silently substituting scan 23 corrections into the archival text. Then perform a consistency review across the assembled text, page records, page map and audit report before beginning English translation.
+Perform a **final high-resolution unresolved-reading pass** on scans **8, 14, 15, 17, 18, 21 and 22**. Resolve only what the supplied scan itself supports. Anything still physically hidden or genuinely unreadable after that pass should be formally classified as source-blocked. Then reassess whether the Tamil layer is stable enough to open the English translation workflow with explicit source gaps.
