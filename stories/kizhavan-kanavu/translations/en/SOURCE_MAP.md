@@ -30,16 +30,23 @@ This map fixes the Tamil source page, printed pagination, final audit status and
 
 ## Exhaustive-resolution closure
 
-All formerly blocked story readings have now been resolved.
+All formerly blocked story readings have been resolved. Difficult readings remain reopenable when a stronger full-span source reading is established.
 
-### Scan 15 / printed page 11
+### Scan 15 / printed page 11 — corrected full-span reading
 
-Former gaps resolved as:
+The earlier enhancement-based reconstruction was revised after full-line/source-span checking.
 
-- `புது தழுவகம் ஒன்று`
-- `அநாதிப் பிள்ளையாருக்கு`
+Final readings include:
 
-The same native-image pass also corrected the nearby readings to `துர் எண்ணத்தை` and `பிள்ளை பிறக்குமென்று`.
+- `மார்க்கண்டேயரின் துர் எண்ணத்தை`
+- `விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+- `யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
+
+Superseded reading:
+
+- `புது தழுவகம் ஒன்று` — **incorrect; do not reuse**.
+
+The correction demonstrates why difficult text must be verified over the full phrase/clause/sentence span rather than from isolated enhanced glyphs.
 
 ### Scan 17 / printed page 13
 
