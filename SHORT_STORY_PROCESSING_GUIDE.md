@@ -107,6 +107,22 @@ Story release/translation closure-க்கு முன் எல்லா ப�
 
 ஒரு physical source உண்மையிலேயே எழுத்தை இழந்துவிட்டதும், exhaustive image work மற்றும் provenance-உடைய secondary witnesses எதுவும் தீர்வு தராததும் documented ஆக நிரூபிக்கப்பட்ட பின்னரே `blocked` terminal ஆக இருக்கலாம். Missing text-ஐ fabrication மூலம் zero blocks ஆக்குவது இந்த விதியின் நோக்கம் அல்ல.
 
+### Difficult-reading verification sanity check
+
+Image enhancement ஒரு plausible word அல்லது short fragment-ஐ காட்டுகிறது என்பதற்காக மட்டும் அந்த reading-ஐ `verified` ஆக promote செய்யக்கூடாது. குறிப்பாக stamp, bleed-through, worn type அல்லது touching glyphs இருக்கும் இடங்களில் **isolated character reconstruction can be confidently wrong**.
+
+`verified` செய்வதற்கு முன்:
+
+1. குறைந்தது முழு **phrase / clause / sentence span**-ஐ original/native scan-ல் மீண்டும் படி;
+2. enhanced crop-ல் கண்ட fragment, left/right neighbouring words மற்றும் line continuation-க்கு எழுத்துருவாரியாக பொருந்துகிறதா பார்க்கவும்;
+3. crop processing உருவாக்கிய artificial joins/splits உள்ளதா original pixels-ோடு ஒப்பிடு;
+4. user ஒரு நீளமான exact reading கொடுத்தால், அதில் உள்ள ஒவ்வொரு recoverable word-ஐ source span-க்கு எதிராகச் சரிபார்; முன்பு `verified` செய்யப்பட்ட reading-ஐயும் தேவையானால் reopen செய்;
+5. ஒரு short fragment-ஐ தீர்த்ததால் முழு sentence தீர்ந்துவிட்டதாகக் கருதக்கூடாது—stamp/mark கடக்கும் **முழு sentence path** ஆய்வு செய்யப்பட வேண்டும்;
+6. ஒரு later correction பழைய `verified` reading தவறு என நிரூபித்தால், page record மட்டும் அல்லாமல் Tamil assembly, English translation, source map, audit, review/report files அனைத்தையும் resynchronize செய்;
+7. audit note-ல் **what was previously read, what replaced it, and why the earlier verification failed** என்பதைக் குறிப்பிடு.
+
+**Principle:** confidence in a processed crop is not the same as confidence in the source. Verification belongs to the complete source span.
+
 ## 5. Printed text vs non-text marks
 
 தனித்தனியாகப் பதிவு செய்ய வேண்டும்:
@@ -139,7 +155,7 @@ Story release/translation closure-க்கு முன் எல்லா ப�
 6. சிறிய batch-ஆக page records உருவாக்கி transcription செய்.
 7. தெளிவில்லாதவை முதலில் `partial` அல்லது `needs-review` ஆக வைத்திருந்து exhaustive resolution protocol-க்கு அனுப்பு; story text-ல் `blocked` status-ஐ shortcut ஆகப் பயன்படுத்தக்கூடாது.
 8. batch முடிந்ததும் story README மற்றும் root `HANDOVER.md` புதுப்பி.
-9. direct visual comparison + தேவையான exhaustive escalation முடிந்த பின் மட்டும் page status `verified` ஆக மாற்று.
+9. direct visual comparison + தேவையான exhaustive escalation + full-span sanity check முடிந்த பின் மட்டும் page status `verified` ஆக மாற்று.
 10. முழு தமிழ் source audit முடியும் வரை English translation தொடங்கக்கூடாது.
 
 ## 8. Source-page marker
@@ -161,7 +177,8 @@ Translation தொடங்குவதற்கு முன்:
 3. ஒவ்வொரு முன்னாள் unresolved / blocked story reading-க்கும் exhaustive-resolution disposition பதிவு செய்யப்பட்டிருக்க வேண்டும்;
 4. page-map மற்றும் story README status ஒன்றோடொன்று பொருந்த வேண்டும்;
 5. source text-ஐ silently modernize/correct செய்யாதது உறுதிப்படுத்தப்பட வேண்டும்;
-6. secondary witness பயன்படுத்தப்பட்ட இடமெல்லாம் provenance மற்றும் source-vs-witness distinction audit note-ல் இருக்க வேண்டும்.
+6. secondary witness பயன்படுத்தப்பட்ட இடமெல்லாம் provenance மற்றும் source-vs-witness distinction audit note-ல் இருக்க வேண்டும்;
+7. difficult readings-க்கு isolated-fragment confidence அல்ல, complete phrase/clause/sentence source-span confidence உறுதி செய்யப்பட்டிருக்க வேண்டும்.
 
 ## 10. Git / handover நடைமுறை
 
