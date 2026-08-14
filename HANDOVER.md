@@ -65,6 +65,10 @@ English translation control layer:
 - `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
 - `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
 
+English translation batches:
+
+- `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md` — **source-reviewed**
+
 ## Current status
 
 - Source registered: **yes**
@@ -82,8 +86,11 @@ English translation control layer:
 - Final high-resolution unresolved-reading pass: **complete**
 - Final assembled Tamil synchronization: **complete**
 - Assembly consistency review: **PASS**
-- English translation workflow: **initialized**
-- English story prose drafted: **none yet**
+- English translation workflow: **active**
+- English Batch 1 / scans 7–10: **SOURCE-REVIEWED**
+- English Batch 2 / scans 11–14: **not-started**
+- English Batch 3 / scans 15–18: **not-started**
+- English Batch 4 / scans 19–22: **not-started**
 - Translation gate: **OPEN**
 
 ## Final story scan dispositions
@@ -125,7 +132,7 @@ Confirmed synchronization:
 - scan 22 publisher/printer footer is not included in the story assembly;
 - scan 23 errata is not silently merged.
 
-`ASSEMBLY_REVIEW.md` has been rerun and is now **PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED**.
+`ASSEMBLY_REVIEW.md` is **PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED**.
 
 ## Important archival rules / findings
 
@@ -148,14 +155,30 @@ Source-page/batch mapping is fixed in:
 
 `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
 
-Planned batches:
+Batch progress:
 
-1. **Batch 1 — scans 7–10**
-2. **Batch 2 — scans 11–14**
-3. **Batch 3 — scans 15–18**
-4. **Batch 4 — scans 19–22**
+1. **Batch 1 — scans 7–10 — SOURCE-REVIEWED**
+2. **Batch 2 — scans 11–14 — not-started**
+3. **Batch 3 — scans 15–18 — not-started**
+4. **Batch 4 — scans 19–22 — not-started**
 
-Mandatory translation rules:
+### Batch 1 result
+
+File:
+
+`stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`
+
+Source review checked the final Tamil page records for scans 7, 8, 9 and 10 directly.
+
+- source scans represented: **4 / 4**
+- source order / printed-page markers: **PASS**
+- source-blocked locations: **0** in this batch
+- publisher errata silently substituted: **No**
+- recurring names and religious/political terminology: reviewed
+- verified source-specific forms `வஸ்திராபரண` and `பூரணர்த்திக`: retained without silent normalization
+- scan 10 ends in a mechanical sentence continuation into scan 11; Batch 1 marks it explicitly rather than importing Batch 2 source text.
+
+Mandatory translation rules remain:
 
 - translate source-supported Tamil only;
 - retain source scan markers in English;
@@ -166,13 +189,14 @@ Mandatory translation rules:
 
 ## Next exact activity
 
-Begin **English Translation Batch 1 — scans 7–10 only**.
+Begin **English Translation Batch 2 — scans 11–14 only**.
 
-1. Re-read final Tamil page records for scans 7, 8, 9 and 10.
-2. Create `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`.
-3. Retain source-scan / printed-page markers.
-4. Translate faithfully without modernization or expansion.
-5. Compare the completed English batch directly against all four Tamil page records.
-6. Mark the batch `source-reviewed` only after omissions, additions, names, rhetoric and page boundaries are checked.
-7. Update translation workspace status and this handover.
-8. Do **not** begin Batch 2 until Batch 1 source review passes.
+1. Re-read final Tamil page records for scans 11, 12, 13 and 14.
+2. Create `stories/kizhavan-kanavu/translations/en/batches/02-scans-11-14.md`.
+3. Translate the scan-10/11 mechanical continuation carefully while preserving the scan boundary.
+4. Retain source-scan / printed-page markers.
+5. Translate faithfully without modernization, expansion or silent errata substitution.
+6. Compare the completed English batch directly against all four Tamil page records.
+7. Mark Batch 2 `source-reviewed` only after omissions, additions, names, rhetoric and page boundaries are checked.
+8. Update the translation workspace and this handover.
+9. Do **not** begin Batch 3 until Batch 2 source review passes.
