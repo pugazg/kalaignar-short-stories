@@ -2,9 +2,9 @@
 
 ## Review result
 
-**PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED AFTER SCAN-22 CORRECTION**
+**PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED; ZERO STORY BLOCKS**
 
-The assembled Tamil reading layer has been reconciled with the final archival page records, including the user-confirmed scan-22 / printed-page-18 conclusion.
+The assembled Tamil reading layer has been reconciled against all final page records after the exhaustive-resolution pass.
 
 Controlling source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`.
 
@@ -21,57 +21,51 @@ Controlling source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`.
 
 **PASS**
 
-- Story body begins at scan **7** and concludes at scan **22**.
-- All **16 / 16** story scan pages are represented exactly once and in source order.
-- Every source-page boundary remains visible as an HTML marker.
-- Scan 7 retains printed page `—`; `(3)` is not inferred.
-- Scan 8 = printed page `(4)`, continuing sequentially through scan 22 = `(18)`.
-- Scan 23 errata/advertisement is not merged into story prose.
-- Scans 24–26 advertisements/back cover are not merged into story prose.
+- story body begins at scan **7** and concludes at scan **22**;
+- all **16 / 16** story scans are represented exactly once and in source order;
+- every source-page boundary remains visible as an HTML marker;
+- scan 7 retains printed page `—`; `(3)` is not inferred;
+- scan 8 = printed page `(4)`, continuing through scan 22 = `(18)`;
+- scan 23 errata/advertisement is not merged into story prose;
+- scans 24–26 advertisements/back cover are not merged into story prose;
+- scan 22 salesperson / advertisement / publisher-printer matter below the story conclusion is excluded from story prose.
 
-## Final page-layer synchronization
+## Exhaustive-resolution synchronization
 
 **PASS**
 
-The assembly contains all final source-supported readings, including:
+The assembly contains the final readings from every previously blocked story page:
 
-| Scan | Printed page | Final reading synchronized into assembly |
+| Scan | Printed page | Resolved readings |
 |---:|---:|---|
-| 8 | 4 | `பூகோள பூரணர்த்திக` |
-| 14 | 10 | `என் நெற்றியை?` |
-| 14 | 10 | `திராட்சையைச் சாப்பிடேன்` |
-| 14 | 10 | `மந்த காசத்தினிடையே` |
-| 18 | 14 | `விட்டிருந்து` |
+| 15 | 11 | `துர் எண்ணத்தை`; `புது தழுவகம் ஒன்று`; `அநாதிப் பிள்ளையாருக்கு`; `பிள்ளை பிறக்குமென்று` |
+| 17 | 13 | `பார்வதியை அணைத்தபடி பரமன்` |
+| 21 | 17 | `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`; `ஆநிரைகோ`; `உரநெஞ்சன்`; `இந்தி எதிர்ப்பு` |
 | 22 | 18 | `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.` |
 
-The former scan-22 story `blocked-by-source` marker has been removed.
-
-## Source-blocked synchronization
-
-**PASS**
-
-Three terminal source-limited story pages remain represented with explicit `blocked-by-source` markers:
-
-| Scan | Printed page | Final limitation |
-|---:|---:|---|
-| 15 | 11 | one worn/indistinct word and temple-history wording physically covered by a circular library stamp |
-| 17 | 13 | one short worn/indistinct phrase after `பார்வதியை` |
-| 21 | 17 | four short worn/indistinct readings in the political/historical catalogue |
-
-No context, later edition, web transcription, historical memory or semantic reconstruction has been used to fill these gaps.
-
-Scan 22's non-story salesperson / advertisement / publisher-printer material below the conclusion is explicitly outside the assembled story scope and is intentionally omitted.
+Earlier resolved readings on scans 8, 14 and 18 remain synchronized as well.
 
 ## Story-source disposition
 
-- Story scans directly audited: **16 / 16**
-- Story scans `verified`: **13** — 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22
-- Story scans `blocked`: **3** — 15, 17, 21
-- Story scans `needs-review`: **0**
-- Explicit story-text blocked locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4
-- Whole-publication terminal status: **21 verified / 5 blocked / 0 needs-review / 0 not-started**
+**PASS**
 
-The five whole-publication blocked pages are scans **3, 4, 15, 17 and 21**.
+- Story scans directly audited: **16 / 16**
+- Story scans `verified`: **16 / 16**
+- Story scans `blocked`: **0**
+- Story scans `needs-review`: **0**
+- Explicit story-text unresolved locations: **0**
+
+There is no `blocked-by-source` marker left in `sections/kizhavan-kanavu.md`.
+
+## Whole-publication disposition
+
+The physical copy currently has:
+
+- `verified`: **24 / 26**
+- `blocked`: **2 / 26** — front-matter scans 3–4 only
+- `needs-review`: **0**
+
+Those two front-matter records are outside the story body. If the entire publication is later required to reach zero blocked pages, they must be reopened under the same exhaustive-resolution protocol rather than treated as automatically terminal.
 
 ## Errata-layer consistency
 
@@ -79,7 +73,10 @@ The five whole-publication blocked pages are scans **3, 4, 15, 17 and 21**.
 
 `sections/kizhavan-kanavu-errata.md` continues to preserve all **10 / 10** corrections printed on scan 23 as a separate layer.
 
-The assembled archival reading does **not** silently apply those corrections. Example: scan 13 visibly prints **`வைத்திருந்தான்`** while the publisher errata says **`வைத்திருந்தாள்`**.
+The archival reading does **not** silently apply those corrections. Example:
+
+- scan 13 archival reading: `வைத்திருந்தான்`
+- scan 23 publisher errata: `வைத்திருந்தாள்`
 
 ## Repository-policy consistency
 
@@ -89,17 +86,21 @@ The assembled archival reading does **not** silently apply those corrections. Ex
 - Page records remain the primary archival layer.
 - The assembled Tamil text is a derived reading layer.
 - Historical/unusual source forms are not silently modernized.
-- Source-blocked wording is not guessed.
+- Difficult story text underwent exhaustive recovery rather than being abandoned early.
+- User-provided readings were checked against the source before acceptance.
+- Secondary corroboration, where used, did not overwrite source-specific wording.
 - Errata remains separate.
-- Commercial advertisements and physical-copy marks remain outside story prose.
-- Scan 22's non-story sales/advertisement/footer material is intentionally excluded from the story layer.
+- Commercial/non-story matter remains outside story prose.
 
 ## English synchronization implication
 
-The English translation must now treat scan 22 as a **verified story page** and render the resolved final sentence. The English story retains only **7** explicit `SOURCE BLOCKED` positions, all on scans 15, 17 and 21.
+The English translation must now contain:
+
+- **16 / 16** verified source scans;
+- **0** `SOURCE BLOCKED` story positions;
+- the resolved scan-15, scan-17 and scan-21 text;
+- **Periyar EV Ramasamy** as the English display form for `ராமசாமிப்பெரியார்` in the scan-22 conclusion.
 
 ## Completion state
 
-**PASS — Tamil story assembly is synchronized with the corrected scan-22 conclusion.**
-
-No further Tamil assembly work is required unless a clearer source is introduced for the still-blocked readings on scans 15, 17 or 21.
+**PASS — Tamil story assembly is fully synchronized and story-source complete.**
