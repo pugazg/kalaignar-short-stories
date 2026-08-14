@@ -38,6 +38,7 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 - Final assembled Tamil synchronization: **complete**
 - Assembly consistency review: **PASS**
 - English translation gate: **OPEN**
+- English Batch 1 / scans 7–10: **SOURCE-REVIEWED**
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Tamil audit: [`audit.md`](audit.md).
@@ -65,26 +66,35 @@ Each unrecoverable story location is marked `blocked-by-source`; no hidden text 
 - [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 scan-23 corrections mapped separately;
 - [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — final assembly/source consistency review: **PASS**.
 
-The assembled story now contains all final scan-8/14/18 readings and the exact `blocked-by-source` markers from scans 15/17/21/22.
+The assembled story contains all final scan-8/14/18 readings and the exact `blocked-by-source` markers from scans 15/17/21/22.
 
 ## English translation workspace
 
-Translation-control files now exist:
+Translation-control files:
 
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
 - [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
 
-No English story prose has been drafted yet.
+Batch progress:
 
-The story translation will proceed in four source-reviewed batches:
+| Batch | Scans | Status |
+|---:|---|---|
+| 1 | 7–10 | **source-reviewed** |
+| 2 | 11–14 | not-started |
+| 3 | 15–18 | not-started |
+| 4 | 19–22 | not-started |
 
-1. scans 7–10
-2. scans 11–14
-3. scans 15–18
-4. scans 19–22
+Completed Batch 1:
 
-Every `blocked-by-source` location must remain explicit in English and may not be guessed or smoothed over.
+- [`translations/en/batches/01-scans-07-10.md`](translations/en/batches/01-scans-07-10.md)
+- source scans represented: **4 / 4**;
+- blocked source gaps: **0**;
+- direct Tamil-to-English source review: **PASS**;
+- source-specific `வஸ்திராபரண` and `பூரணர்த்திக` were not silently regularized;
+- scan 10's sentence continuation into scan 11 is explicitly marked rather than completed from outside Batch 1.
+
+Every future `blocked-by-source` location must remain explicit in English and may not be guessed or smoothed over.
 
 ## Important source distinctions
 
@@ -101,8 +111,9 @@ Every `blocked-by-source` location must remain explicit in English and may not b
 - Treat library stamps, handwriting, illustrations and advertisements separately from printed story text.
 - Do not reconstruct text hidden by stamps from context.
 - Keep printed errata as a separate documented source layer.
+- In English, preserve every `blocked-by-source` gap at the same textual position and do not invent missing wording.
 - Do not upload the source PDF.
 
 ## Next exact activity
 
-Begin **English Translation Batch 1 — scans 7–10 only**. Retain source-page markers and complete a direct Tamil-to-English source review of that batch before proceeding further.
+Begin **English Translation Batch 2 — scans 11–14 only**. Re-read those four finalized Tamil page records, translate the scan-10/11 mechanical continuation carefully, retain source-page markers, and complete direct source review before beginning Batch 3.
