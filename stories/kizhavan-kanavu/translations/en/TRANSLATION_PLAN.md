@@ -96,9 +96,9 @@ Working forms remain:
 - வீராசாமி — **Veerasami**
 - ராஜம் — **Rajam**
 - மார்க்கண்டேய சாஸ்திரிகள் / மார்க்கண்டேயர் — **Markandeya Sastri / Markandeyar**
-- ராமசாமிப்பெரியார் — **Ramasami Periyar**
+- ராமசாமிப்பெரியார் — **Periyar EV Ramasamy**
 
-Source distinctions in shortened names/titles are retained.
+Source distinctions in shortened names/titles are retained. For the historical figure named `ராமசாமிப்பெரியார்` in the Tamil source, the English archival translation uses the canonical display form **Periyar EV Ramasamy**.
 
 ### Culture-specific terms
 
