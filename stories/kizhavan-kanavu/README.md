@@ -26,48 +26,53 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 
 - Source manifest: **26 / 26 pages complete**
 - Page records: **26 / 26**
-- `verified`: **17**
-- `needs-review`: **9**
+- `verified`: **20**
+- `blocked`: **4**
+- `needs-review`: **2** — front matter scans 3–4 only
 - `not-started`: **0**
-- Story body assembled: **16 / 16 story scans**
-- Tamil source audit: **completed; seven story pages retain genuine source limitations**
-- Assembly consistency review: **completed**
-- English translation: **blocked pending final unresolved-reading pass / source-limit decision**
+- Story scans 7–22 directly audited: **16 / 16**
+- Story scans `verified`: **12 / 16**
+- Story scans `blocked`: **4 / 16**
+- Final high-resolution unresolved-reading pass: **complete**
+- English translation gate: **conditionally open after assembled-text synchronization**
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Tamil audit: [`audit.md`](audit.md).
 
+## Final high-resolution findings
+
+Three previously unresolved story pages were resolved and promoted to `verified`:
+
+- scan **8 / printed 4** — `பூகோள பூரணர்த்திக`;
+- scan **14 / printed 10** — `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே` and the corrected opening readings;
+- scan **18 / printed 14** — `விட்டிருந்து`.
+
+Four pages reached the limit of the supplied physical source and are now formally `blocked`, not left in an indefinite review state:
+
+- scan **15** — worn word + library-stamp-obscured temple-history text;
+- scan **17** — one visually indistinct phrase after `பார்வதியை`;
+- scan **21** — four visually indistinct historical/political readings;
+- scan **22** — stamp-obscured final story phrase and footer/imprint.
+
+Each unrecoverable location is marked `blocked-by-source`; no hidden text is reconstructed from context or another edition.
+
 ## Assembled Tamil reading layer
 
-- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — scans 7–22 assembled in source order with page markers and unresolved readings preserved.
-- [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 corrections from scan 23 mapped separately.
-- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — consistency review across page records, assembled text, errata and page map.
+Existing derived files:
 
-The assembled file is **not** a modernized edition. It does not silently replace unusual source spellings, does not infer scan 7's missing printed page number, and does not silently apply publisher errata.
+- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — scans 7–22 assembled in source order;
+- [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 scan-23 corrections mapped separately;
+- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — consistency review.
+
+The page records are currently the finalized source layer. The assembled story file still needs a synchronization pass to incorporate the three newly resolved readings and convert the four terminal unresolved locations to `blocked-by-source` markers.
 
 ## Important source distinctions
 
 - scan 7 opens the story, but its printed page number is not clearly visible; `(3)` is not inferred.
 - scan 8 begins the visible numbered run at printed page `(4)`, continuing through scan 22 / printed page `(18)`.
 - scan 13 / printed page 9 visibly reads **`வைத்திருந்தான்`**; scan 23's printed errata separately corrects this to **`வைத்திருந்தாள்`**.
-- scan 15 has a large library stamp physically obscuring story text.
-- scan 22 has a large library stamp obscuring part of the conclusion and footer.
 - scan 23 is the verified printed errata layer plus tobacco advertisement.
 - source PDF remains outside GitHub.
-
-## Remaining story-source issues
-
-The seven story pages still marked `needs-review` are:
-
-- **8** — one unclear word after `பூகோள`;
-- **14** — two short unclear readings in the dream passage;
-- **15** — one unclear word plus stamp-obscured temple-history text;
-- **17** — one short unclear phrase;
-- **18** — one short unclear phrase;
-- **21** — four short unclear political/historical readings;
-- **22** — stamp-obscured conclusion/footer.
-
-Scans **3–4** additionally retain front-matter source-condition uncertainties.
 
 ## Source-first rules
 
@@ -80,4 +85,4 @@ Scans **3–4** additionally retain front-matter source-condition uncertainties.
 
 ## Next exact activity
 
-Perform a **final high-resolution unresolved-reading pass** on scans **8, 14, 15, 17, 18, 21 and 22**. Resolve only what the supplied scan itself supports. Anything still physically hidden or genuinely unreadable after that pass should be formally classified as source-blocked. Then reassess whether the Tamil layer is stable enough to open the English translation workflow with explicit source gaps.
+Synchronize `sections/kizhavan-kanavu.md` and `ASSEMBLY_REVIEW.md` with the finalized page records. Once that consistency check passes, create the English translation workflow/plan with strict preservation of every `blocked-by-source` gap.
