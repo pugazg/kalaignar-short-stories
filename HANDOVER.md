@@ -20,11 +20,17 @@
 
 ## Permanent difficult-reading rule
 
-`SHORT_STORY_PROCESSING_GUIDE.md` now explicitly requires:
+`SHORT_STORY_PROCESSING_GUIDE.md` explicitly requires:
 
 > **No stones should be left unturned.**
 
 A difficult story reading must not be abandoned as `blocked` merely because ordinary PDF rendering is unclear. Before a story block is accepted, escalate through native embedded scans, progressive enlargement, resampling/contrast/sharpen variants, stamp-stroke separation where applicable, typeform comparison, neighbouring/page-boundary checks, direct verification of user-supplied readings, and provenance-documented secondary corroboration where genuinely necessary.
+
+A second permanent lesson was added after correcting scan 15:
+
+> **Processed-crop confidence is not source confidence.**
+
+Before a difficult reading becomes `verified`, the **complete phrase/clause/sentence span** must be checked against the native source. A plausible isolated fragment can be confidently wrong. If stronger source evidence later corrects a verified reading, reopen it and resynchronize every Tamil/English/control layer.
 
 Secondary witnesses may corroborate a reading but must never silently replace the controlling scan or import their variant wording.
 
@@ -37,14 +43,24 @@ Scans **7–22**:
 - `needs-review`: **0**
 - unresolved story-text locations: **0**
 
-### Exhaustive-resolution results
+### Final difficult-reading results
 
-**Scan 15 / printed page 11**
+**Scan 15 / printed page 11 — corrected full-span reading**
 
 - `துர் எண்ணத்தை`
-- `புது தழுவகம் ஒன்று`
-- `அநாதிப் பிள்ளையாருக்கு`
-- `பிள்ளை பிறக்குமென்று`
+- `புத்தமுதம் தின்று கொண்டிருந்த`
+- `அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று`
+- `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும்`
+
+Exact story sentence:
+
+`விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+
+Exact temple-history sentence:
+
+`யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
+
+Superseded: `புது தழுவகம் ஒன்று` — **incorrect; do not reuse**.
 
 **Scan 17 / printed page 13**
 
@@ -78,10 +94,10 @@ The remaining blocked pages are non-story front matter. They should be reopened 
 
 ## Tamil derived state
 
-- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — synchronized; **zero story block markers**
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — synchronized; **zero story block markers; corrected scan-15 full span**
 - `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md` — 10 / 10 publisher corrections separate
-- `stories/kizhavan-kanavu/audit.md` — story source complete
-- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS — 16 / 16 verified / zero story blocks**
+- `stories/kizhavan-kanavu/audit.md` — story source complete and correction history documented
+- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS — 16 / 16 verified / zero story blocks / scan-15 corrected**
 
 Important permanent distinctions:
 
@@ -98,7 +114,10 @@ English story-body scope: scans **7–22**.
 - source-reviewed coverage: **16 / 16 story scans**
 - assembled English story: `stories/kizhavan-kanavu/translations/en/kizhavan-kanavu-en.md`
 - English `SOURCE BLOCKED` locations: **0**
-- editorial consistency review: **PASS**
+- Batch 3 re-reviewed after scan-15 correction
+- English assembly uses **partaking of fresh nectar** for `புத்தமுதம் தின்று கொண்டிருந்த`
+- English temple-history passage includes the king travelling throughout the land and the black-stone Pillaiyar lying unclaimed beneath a peepal tree
+- editorial consistency review: **PASS after scan-15 correction**
 - release review: **PASS — STORY SOURCE COMPLETE / RELEASE-READY**
 
 Final English ending:
@@ -129,7 +148,7 @@ Control/review files:
 
 Two valid next activities exist:
 
-1. **Optional whole-publication cleanup:** reopen front-matter scans **3–4** under the new exhaustive-resolution protocol and attempt to reach 26 / 26 verified pages; or
+1. **Optional whole-publication cleanup:** reopen front-matter scans **3–4** under the exhaustive-resolution protocol and attempt to reach 26 / 26 verified pages; or
 2. **Next story:** inspect and register the next Kalaignar short-story PDF, following `SHORT_STORY_PROCESSING_GUIDE.md` and keeping the source PDF outside GitHub.
 
-Do not reopen the now-verified story readings without stronger source evidence.
+Do not treat `verified` as immutable: reopen a story reading when stronger direct-source evidence is supplied. But do not change a verified reading without stronger source evidence.
