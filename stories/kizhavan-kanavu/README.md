@@ -23,50 +23,55 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 - Story scans 7–22 directly audited: **16 / 16**
 - Story scans `verified`: **12 / 16**
 - Story scans `blocked`: **4 / 16**
-- Story scans still awaiting Tamil review: **0**
-- Final assembled Tamil synchronization: **complete**
-- Assembly consistency review: **PASS**
+- Story scans awaiting Tamil review: **0**
+- Final Tamil assembly: **complete**
+- Tamil assembly review: **PASS**
 - English source-reviewed coverage: **16 / 16 story scans**
-- English source batches completed: **4 / 4**
+- English batches source-reviewed: **4 / 4**
+- Full English story assembly: **complete**
+- English editorial consistency review: **PASS**
+- Release report: not started
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Tamil audit: [`audit.md`](audit.md).
 
 ## Final Tamil layer
 
-- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized story assembly for scans 7–22;
+- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized archival story assembly for scans 7–22;
 - [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 scan-23 publisher corrections kept separately;
 - [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — final Tamil consistency review: **PASS**.
 
 The four terminal source-limited story pages remain scans **15, 17, 21 and 22**. Their gaps are explicit and have not been reconstructed.
 
-## English translation workspace
+## English translation layer
 
-Control files:
+Control/review files:
 
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
 - [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
+- [`translations/en/ERRATA_NOTES.md`](translations/en/ERRATA_NOTES.md)
+- [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
 
-All four translation batches are now **source-reviewed**:
-
-| Batch | Scans | Status |
-|---:|---|---|
-| 1 | 7–10 | **source-reviewed** |
-| 2 | 11–14 | **source-reviewed** |
-| 3 | 15–18 | **source-reviewed** |
-| 4 | 19–22 | **source-reviewed** |
-
-Batch files:
+Source-reviewed batches:
 
 - [`translations/en/batches/01-scans-07-10.md`](translations/en/batches/01-scans-07-10.md)
 - [`translations/en/batches/02-scans-11-14.md`](translations/en/batches/02-scans-11-14.md)
 - [`translations/en/batches/03-scans-15-18.md`](translations/en/batches/03-scans-15-18.md)
 - [`translations/en/batches/04-scans-19-22.md`](translations/en/batches/04-scans-19-22.md)
 
-Across Batches 3–4, **8 explicit SOURCE BLOCKED story locations** are preserved: scan 15 ×2, scan 17 ×1, scan 21 ×4, scan 22 ×1. No missing Tamil was reconstructed from context or outside knowledge.
+Full assembled English story:
 
-Batch 4 also excludes scan 22's publisher/printer/footer material from English story prose, while preserving the final source-blocked story phrase in place.
+- [`translations/en/kizhavan-kanavu-en.md`](translations/en/kizhavan-kanavu-en.md)
+
+Assembly result:
+
+- scans represented: **16 / 16** exactly once and in order;
+- source-page markers preserved: **PASS**;
+- explicit `SOURCE BLOCKED` story locations: **8 / 8** — scan 15 ×2, scan 17 ×1, scan 21 ×4, scan 22 ×1;
+- scan-22 publisher/printer/footer material included in English story prose: **No**;
+- scan-23 publisher errata silently substituted: **No**;
+- editorial consistency review: **PASS**.
 
 ## Important source distinctions
 
@@ -74,8 +79,9 @@ Batch 4 also excludes scan 22's publisher/printer/footer material from English s
 - scan 13 visible `வைத்திருந்தான்` and scan-23 errata `வைத்திருந்தாள்` remain distinct;
 - scan 23 remains a separate publisher errata layer;
 - source PDF remains outside GitHub;
-- source-blocked text remains terminal for this copy unless a genuinely clearer source is later introduced.
+- source-blocked text remains terminal for this copy unless a genuinely clearer source is later introduced;
+- editorial review may join mechanical page continuations but must not normalize or invent source wording.
 
 ## Next exact activity
 
-Assemble all four source-reviewed English batches into `translations/en/kizhavan-kanavu-en.md`. Preserve all 16 source-page markers and all 8 source-blocked positions, remove only batch scaffolding/duplicate boundary notes, and then perform a full English editorial/source consistency review before release.
+Perform the English **release review (Gate D)** and create `translations/en/RELEASE_REPORT.md`. Document the translated range, Tamil source disposition, 8 blocked locations, 10-entry errata treatment, deliberate conservative translation choices, final file inventory, and confirmation that no source PDF is stored in GitHub.
