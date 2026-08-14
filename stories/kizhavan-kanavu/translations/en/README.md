@@ -2,11 +2,16 @@
 
 ## Status
 
-**Batch 1 — scans 7–10: SOURCE-REVIEWED.**
+**Batches 1–2 — scans 7–14: SOURCE-REVIEWED.**
 
-The final Tamil story assembly has passed consistency review, the controlled English translation gate is open, and the first translation batch has now passed direct Tamil-to-English source review.
+The final Tamil story assembly has passed consistency review and the controlled English translation is now complete through scan **14**.
 
-No Batch 2 prose has been drafted yet.
+- Batch 1 — scans 7–10: **source-reviewed**
+- Batch 2 — scans 11–14: **source-reviewed**
+- Batch 3 — scans 15–18: not started
+- Batch 4 — scans 19–22: not started
+
+No Batch 3 prose has been drafted yet.
 
 ## Translation basis
 
@@ -48,38 +53,39 @@ The scan 23 printed errata is a separate editorial layer and must not be silentl
 | Batch | Source scans | Source gaps | Status | File |
 |---:|---|---:|---|---|
 | 1 | 7–10 | 0 | **source-reviewed** | [`batches/01-scans-07-10.md`](batches/01-scans-07-10.md) |
-| 2 | 11–14 | 0 | not-started | `batches/02-scans-11-14.md` |
+| 2 | 11–14 | 0 | **source-reviewed** | [`batches/02-scans-11-14.md`](batches/02-scans-11-14.md) |
 | 3 | 15–18 | scan 15 + scan 17 | not-started | `batches/03-scans-15-18.md` |
 | 4 | 19–22 | scan 21 + scan 22 | not-started | `batches/04-scans-19-22.md` |
-
-Batch 1 retains source scan/printed-page markers and has been directly checked against all four finalized Tamil page records. The terminal sentence on scan 10 mechanically continues onto scan 11; Batch 1 marks that continuation explicitly and does not guess beyond its source range.
 
 After all four batches are source-reviewed, they will be assembled into:
 
 `kizhavan-kanavu-en.md`
 
-## Batch 1 source-review result
+## Batch 2 source-review result
 
 **PASS**
 
-Checks completed:
+Checks completed against finalized Tamil scans **11, 12, 13 and 14**:
 
-- scans represented: **7, 8, 9, 10 — 4 / 4**;
-- order and printed-page markers preserved;
-- no source-blocked locations occur in this batch;
-- names and recurring historical/religious terminology reviewed;
-- verified unusual source forms such as `வஸ்திராபரண` and `பூரணர்த்திக` were not silently regularized;
-- publisher errata was not substituted into prose;
-- no scan 11 wording was imported to complete the scan-10 page-break sentence.
+- scans represented: **4 / 4** and in source order;
+- printed-page markers preserved;
+- scan-10/11 mechanical continuation handled without changing Batch 1;
+- scan-14/15 continuation marked without importing Batch 3 wording;
+- no source-blocked locations occur in Batch 2;
+- recurring names/titles and caste/religious/social rhetoric reviewed;
+- scan 13's visible `வைத்திருந்தான்` / publisher-errata `வைத்திருந்தாள்` distinction explicitly documented rather than silently collapsed;
+- unusual verified scan-14 readings (`என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே`) translated conservatively and noted;
+- publisher errata silently applied: **No**.
 
 ## Next exact activity
 
-Begin **Batch 2 — scans 11–14 only**.
+Begin **Batch 3 — scans 15–18 only**.
 
-1. Re-read the finalized Tamil page records for scans 11, 12, 13 and 14.
-2. Create `batches/02-scans-11-14.md`.
-3. Translate the scan-10/11 continuation carefully without changing Batch 1's source record.
-4. Retain source-page markers and source-specific wording.
-5. Perform a direct Tamil-to-English comparison across all four pages.
-6. Mark Batch 2 `source-reviewed` only after that review passes.
-7. Do **not** begin Batch 3 before Batch 2 passes.
+This is the first English batch containing terminal source gaps. It must:
+
+1. complete the scan-14/15 continuation without altering Batch 2;
+2. preserve both scan-15 blocked locations explicitly;
+3. preserve the scan-17 blocked phrase explicitly at its exact textual position;
+4. translate verified scans 16 and 18 without smoothing across the gaps;
+5. retain all source-page markers;
+6. pass a direct four-page Tamil-to-English source review before Batch 4 begins.
