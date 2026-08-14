@@ -2,9 +2,9 @@
 
 ## Review result
 
-**PASS — ASSEMBLED ENGLISH TRANSLATION IS SOURCE-COMPLETE AND EDITORIALLY CONSISTENT**
+**PASS — ASSEMBLED ENGLISH TRANSLATION IS SOURCE-COMPLETE AND EDITORIALLY CONSISTENT AFTER SCAN-15 FULL-SPAN CORRECTION**
 
-Gate C has been re-run after the exhaustive-resolution pass that reopened and resolved every former story-text block.
+Gate C has been re-run after the page-11 correction that replaced an earlier enhancement-derived reconstruction with a full-span source reading.
 
 ## Files reviewed
 
@@ -29,7 +29,7 @@ All four batches are source-reviewed:
 |---:|---|---:|---|
 | 1 | 7–10 | 0 | source-reviewed |
 | 2 | 11–14 | 0 | source-reviewed |
-| 3 | 15–18 | **0** | source-reviewed after exhaustive resolution |
+| 3 | 15–18 | **0** | source-reviewed after full-span scan-15 correction |
 | 4 | 19–22 | **0** | source-reviewed after exhaustive resolution |
 
 ## Gate B — assembled English coverage
@@ -47,18 +47,22 @@ All four batches are source-reviewed:
 - surviving `SOURCE BLOCKED` markers: **0**;
 - scan-22 non-story salesperson / advertisement / publisher-printer material included: **No**.
 
-## Former source gaps — final English synchronization
+## Difficult-source synchronization
 
 **PASS**
 
-### Scan 15 / printed page 11
+### Scan 15 / printed page 11 — corrected
 
 Final Tamil readings represented in English:
 
 - `துர் எண்ணத்தை` → **evil intention**
-- `புது தழுவகம் ஒன்று` → **sharing a new embrace**
-- `அநாதிப் பிள்ளையாருக்கு` → **Anadi Pillaiyar**
-- `பிள்ளை பிறக்குமென்று` → **a child would be born**
+- `புத்தமுதம் தின்று கொண்டிருந்த` → **partaking of fresh nectar**
+- `அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று` → **if he built a temple for an orphaned Pillaiyar, a child would be born**
+- `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும்` → the king travels throughout the land and establishes a temple for a black-stone Pillaiyar lying unclaimed beneath a peepal tree, and worships it
+
+The earlier `புது தழுவகம் ஒன்று` / **sharing a new embrace** reconstruction has been removed from both source and translation layers.
+
+`அநாதிப் பிள்ளையார்` is no longer presented as the proper name **Anadi Pillaiyar**. The current English treats the source descriptively as **an orphaned Pillaiyar**.
 
 ### Scan 17 / printed page 13
 
@@ -97,7 +101,17 @@ English:
 - Tamil story pages blocked: **0**
 - English `SOURCE BLOCKED` positions: **0**
 
-The earlier 7 English block markers have all been replaced by source-resolved translations.
+## Verification-method correction
+
+**PASS — WORKFLOW LESSON RECORDED**
+
+The scan-15 correction showed that enhanced-image confidence can produce a plausible but incorrect isolated reconstruction. The permanent guide now requires full phrase/clause/sentence source-span checking before difficult text is promoted to `verified`.
+
+The editorial layer therefore treats the following as superseded and invalid:
+
+- `புது தழுவகம் ஒன்று`
+- **sharing a new embrace**
+- **Anadi Pillaiyar** as a proper-name rendering of `அநாதிப் பிள்ளையார்`
 
 ## Cross-page joins
 
@@ -129,7 +143,7 @@ Mechanical joins remain limited to the assembled reading layer where necessary, 
 
 **PASS**
 
-Established source-close forms remain stable, including `Krishna Leela`, `Vastrabharana`, `Puranarthika Iyer`, `Varaha avatar`, `Iyarpagai Nayanar`, `padi`, `karagam`, `kapparai`, `Ekabhishekam`, `sthala-varalaru`, `Anadi Pillaiyar`, `kumbabhishekam`, `Aryam`, `Parameswara`, `Dravidam`, and `the conch-blast of equal justice`.
+Established source-close forms remain stable, including `Krishna Leela`, `Vastrabharana`, `Puranarthika Iyer`, `Varaha avatar`, `Iyarpagai Nayanar`, `padi`, `karagam`, `kapparai`, `Ekabhishekam`, `sthala-varalaru`, `Pillaiyar`, `kumbabhishekam`, `Aryam`, `Parameswara`, `Dravidam`, and `the conch-blast of equal justice`.
 
 The translation preserves the source's historical rhetoric rather than replacing it with present-day explanatory labels.
 
@@ -164,6 +178,6 @@ Editorial consistency is not permission to silently modernize the Tamil.
 
 ## Release readiness after final Gate C
 
-**PASS — SOURCE-COMPLETE STORY TRANSLATION**
+**PASS — SOURCE-COMPLETE STORY TRANSLATION AFTER PAGE-11 CORRECTION**
 
-The English story now has complete source coverage without unresolved story-text markers. `RELEASE_REPORT.md` should record the final state as **16 / 16 Tamil story pages verified and 0 English source gaps**.
+The English story has complete source coverage without unresolved story-text markers, and the corrected scan-15 content is synchronized across the batch and assembled translation.
