@@ -4,14 +4,14 @@ title_en: "The Old Man's Dream"
 language: "en"
 source_scans: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
 status: "editorial-reviewed"
-translation_basis: "four source-reviewed English batches from final audited Tamil page records"
-blocked_source_locations: 7
+translation_basis: "four source-reviewed English batches from final exhaustively audited Tamil page records"
+blocked_source_locations: 0
 assembly_review_date: "2026-08-14"
 ---
 
 # The Old Man's Dream
 
-> **Assembled English archival translation.** This file combines the four independently source-reviewed English batches for scans **7–22**. Source-scan boundaries remain visible. The translation follows the finalized Tamil archival page records; publisher errata is not silently substituted. Every unrecoverable Tamil story passage remains explicit as a **SOURCE BLOCKED** marker.
+> **Assembled English archival translation.** This file combines the four independently source-reviewed English batches for scans **7–22**. Source-scan boundaries remain visible. The translation follows the finalized Tamil archival page records; publisher errata is not silently substituted. After the exhaustive source-resolution pass, no story-text `SOURCE BLOCKED` marker remains.
 
 <!-- source scan 7; printed page — -->
 
@@ -127,11 +127,11 @@ Such ravings kept colliding in Markandeyar's mind as he lay upstairs, rolling ab
 
 <!-- source scan 15; printed page 11 -->
 
-if she had actually been there.......... would that have happened with her? Mallika would often tell Vipulan about Markandeyar's base intention. While Vipulanandar and Mallika were in the flower garden, **[SOURCE BLOCKED — scan 15 / printed page 11: one word is worn and cannot be read with source-faithful confidence]**, Markandeyar entered.
+if she had actually been there.......... would that have happened with her? Mallika would often tell Vipulan about Markandeyar's evil intention. While Vipulanandar and Mallika were sharing a new embrace in the flower garden, Markandeyar entered.
 
 The sight of Vipulanandar having secured Mallika permanently as the one dear to his heart tormented Markandeyar's mind. Its consequence ended in suffering.
 
-Preparations for the **Ekabhishekam** at the Vallabha Ganapati temple were proceeding rapidly. A committee bearing this name was formed, and Markandeya Sastri became its chairman. Of the committee members, three were Brahmins! One was a Mudaliar! The other was a Reddiar! The Vallabha Ganapati shrine was very ancient. It had been built by some king of the Chola dynasty. The temple had a **sthala-varalaru**: the Chola king, it was said, had been childless; some **mahan** **[SOURCE BLOCKED — scan 15 / printed page 11: a circular library stamp physically covers several printed words]** had advised that if he built a temple for Pillaiyar a child would be born; the king believed it; after this was heard in the royal household and the festival took place, a temple was established for Pillaiyar and worship performed; afterward, a child was born to him.
+Preparations for the **Ekabhishekam** at the Vallabha Ganapati temple were proceeding rapidly. A committee bearing this name was formed, and Markandeya Sastri became its chairman. Of the committee members, three were Brahmins! One was a Mudaliar! The other was a Reddiar! The Vallabha Ganapati shrine was very ancient. It had been built by some king of the Chola dynasty. The temple had a **sthala-varalaru**: the Chola king, it was said, had been childless; some **mahan** had advised that if he built a temple for **Anadi Pillaiyar**, a child would be born; the king believed it; after this was heard in the royal household and the festival took place, a temple was established for Pillaiyar and worship performed; afterward, a child was born to him.
 
 Even while the income and expenditure for the kumbabhishekam were under discussion, the three Iyers prepared a plan. Aryam knows very well, does it not, that in temples built by kings of old, beneath the stone deity—
 
@@ -143,7 +143,7 @@ The Mirasudar imagined that the moat called Vipulan, which stood around the mans
 
 <!-- source scan 17; printed page 13 -->
 
-Would she be the one to scream? If seven bulls oppose you, even a lion would be troubled! Even a pouncing tiger, seeing thousands of goats, would hesitate a little. How many ranks in succession can even a mighty warrior—one who, raising his sword, could wage battle until the fish of the sky fall—destroy? Is this an age of wonders in which, the instant one cries, “O Parameswara!”, a radiance as high as the sky rises and, Parvati **[SOURCE BLOCKED — scan 17 / printed page 13: the short phrase immediately following `பார்வதியை` is worn/indistinct in the supplied copy]**, the Lord comes proclaiming protection! It is not. And so Mallika was dragged outside. Her hands and feet were tied, and with her mouth stopped as well, Mallika writhed and wilted.
+Would she be the one to scream? If seven bulls oppose you, even a lion would be troubled! Even a pouncing tiger, seeing thousands of goats, would hesitate a little. How many ranks in succession can even a mighty warrior—one who, raising his sword, could wage battle until the fish of the sky fall—destroy? Is this an age of wonders in which, the instant one cries, “O Parameswara!”, a radiance as high as the sky rises and, **embracing Parvati, the Lord comes proclaiming protection**! It is not. And so Mallika was dragged outside. Her hands and feet were tied, and with her mouth stopped as well, Mallika writhed and wilted.
 
 At that moment, with the shout, “Hey, you scoundrel fellows!”, Mallika's father entered, and the grip of the ruffians who had been dragging Mallika loosened. Once upon a time, Veerasami had truly been Veerasami. That was the age when he lived a family life with Rajam! Today Veerasami was an old man! The question, “Is Mallika in danger?”, produced in him a feeling like a thousand spears entering his chest. That was enough! His sunken eyes filled with the colour of blood; his bent back was seen to straighten. His slackened sinews tightened—the thick beard that had hung downward rose proudly erect. The old man's attack began. Mallika was freed. Cries of “Ayyo! Ayyo!” brought the whole village together. When the villagers entered and looked, the old man's body was—
 
@@ -187,9 +187,9 @@ Before Mallika could say that Lenin had done this prank at the pond, her lips pa
 
 —across the red sky, which at that moment offered as a gift a little hand of vermilion hue... Yes! The moment when Vipulanandar gathered Mallika into an embrace... the breeze that sang a Sindhu moved softly along.
 
-Love gave—a life of beauty! Life gave—Lenin! Markandeya's attempt! The echo of thought! This memory **[SOURCE BLOCKED — scan 21 / printed page 17: a short phrase is worn/indistinct and cannot be read with source-faithful confidence]** melted and poured out the heart. In the music-pouring breeze, Vipulanandar's beard moved; quietly!
+Love gave—a life of beauty! Life gave—Lenin! Markandeya's attempt! The echo of thought! **This memory melted the hearts of those companions.** In the music-pouring breeze, Vipulanandar's beard moved; quietly!
 
-“Everywhere one looks, the verse of liberation! Everywhere, the conch-blast of equal justice! A history that joined the Tamil language with politics and lived to impel the world—with Dravidian rights—with property—with truth—with inner uprising! A Tamil, for calling an Iyer ‘Swami’ without self-respect, sentenced to six months' rigorous imprisonment! One who called himself a sadhu and practised deceit, imprisoned until death! A newspaper editor, for writing that titles and offices were our programme, called a fool in the people's assembly! Because the desire to see the poor grew excessive, **[SOURCE BLOCKED — scan 21 / printed page 17: a short reading is worn/indistinct]** for the Tamil! A historian named **[SOURCE BLOCKED — scan 21 / printed page 17: the name/short reading is worn/indistinct]**, in a book called *The Recovery of Dravidam*, had recorded that the imaginary bogeys called caste, religion and gods had once not existed even in Tamil Nadu. **[SOURCE BLOCKED — scan 21 / printed page 17: a short reading is worn/indistinct]**! Prison! The battlefield sacrifice of Thalamuthu Natarasan! The Bharata-land of the women who went to prison to protect Tamil! To guard honour—
+“Everywhere one looks, the verse of liberation! Everywhere, the conch-blast of equal justice! A history that joined the Tamil language with politics and lived to impel the world—with Dravidian rights—with property—with truth—with inner uprising! A Tamil, for calling an Iyer ‘Swami’ without self-respect, sentenced to six months' rigorous imprisonment! One who called himself a sadhu and practised deceit, imprisoned until death! A newspaper editor, for writing that titles and offices were our programme, called a fool in the people's assembly! **The desire to see the poor had apparently grown excessive—for a Tamil named Aniraiko!** A historian named **Uranenjan**, in a book called *The Recovery of Dravidam*, had recorded that the imaginary bogeys called caste, religion and gods had once not existed even in Tamil Nadu. **Opposition to Hindi!** Prison! The battlefield sacrifice of Thalamuthu Natarasan! The Bharata-land of the women who went to prison to protect Tamil! To guard honour—
 
 <!-- source scan 22; printed page 18 -->
 
@@ -203,7 +203,9 @@ Periyar EV Ramasamy too sees this very dream. The imperishable image of the Drav
 
 - Story translation source range: scans **7–22**.
 - All **16 / 16** source-scan markers are retained in order.
-- Total terminal story-source gaps retained: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4.
+- Tamil story source disposition: **16 / 16 verified**.
+- Total story-text `SOURCE BLOCKED` positions retained: **0**.
+- Former gaps on scans 15, 17 and 21 were resolved through exhaustive native-scan review; user-supplied readings were verified against source and rare scan-21 names were narrowly corroborated without importing witness variants.
 - Scan 22 story conclusion is resolved; salesperson / advertisement / publisher-printer material below it is outside the story translation and is not included here.
 - `ராமசாமிப்பெரியார்` is rendered as **Periyar EV Ramasamy** in English; the Tamil archival source form remains unchanged.
 - Publisher errata remains a separate editorial layer; see [`ERRATA_NOTES.md`](ERRATA_NOTES.md).
