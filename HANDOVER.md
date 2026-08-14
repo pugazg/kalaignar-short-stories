@@ -32,7 +32,7 @@ Visible story-body pagination:
 - sequentially through scan 22 = printed page `(18)`
 - scan 7's printed page number is not clearly visible; do **not** infer `(3)` into the archival record.
 
-## Files already created
+## Files currently created
 
 Root:
 
@@ -52,32 +52,42 @@ Story:
 - `stories/kizhavan-kanavu/pages/0005-vanakkam-pala.md`
 - `stories/kizhavan-kanavu/pages/0006-ezhuthiyathu-yen.md`
 
-## Status
+## Status after front-matter batch
 
 - Source registered: **yes**
 - 26-page manifest: **complete**
 - Page records: **6 / 26**
-- `verified`: **1** (scan 1)
-- `partial`: **5** (scans 2–6)
-- `not-started`: **20** (scans 7–26)
+- `verified`: **4** — scans 1, 2, 5, 6
+- `needs-review`: **2** — scans 3, 4
+- `not-started`: **20** — scans 7–26
+- Scans 2–6 direct visual transcription: **completed to the limit supported by the scan**
 - Story-body transcription: **not started**
 - Tamil audit: **not started**
 - English translation: **do not start yet**
 
-## Important unresolved / caution items
+## Front-matter results / unresolved items
 
-1. Scans 2–6 only contain confirmed headings, dates, signatures and physical-page notes so far. Their full body text is still pending.
-2. Scan 3 has library stamp/ink interference over printed text. Do not reconstruct hidden wording from context.
-3. The cover imprint has been visually read as **அஜீஸ் பதிப்பக வெளியீடு, விஜயபுரம் ::: திருவாரூர்.** Preserve the source spelling/punctuation; do not normalize it into a modern bibliographic form.
-4. Internal dates printed in reviews/notes are not proof of the second edition's publication year.
-5. Back-matter advertisements belong to the physical source record but must not be assembled into the story text.
+1. **Scan 2 — verified.** `மதிப்புரை.` by A. P. ஜனார்த்தனம் has been transcribed and visually checked.
+2. **Scan 3 — needs-review.** The `“குடியரசு”` review has several printed words physically covered by a large library stamp. Readable text has been transcribed; hidden wording is represented explicitly as stamp-obscured and must not be reconstructed from context. The lower `“தொழிலாளர்”` review is readable and transcribed.
+3. **Scan 4 — needs-review.** The publisher/editorial note is transcribed, but one short phrase in the middle cannot be distinguished confidently in the supplied scan. It remains explicitly unresolved rather than guessed.
+4. **Scans 5–6 — verified.** `வணக்கம் பல!...` and `எழுதியது; ஏன்?` are fully transcribed and directly checked.
+5. The cover imprint remains recorded as visible in the source; do not normalize the spelling/punctuation into a modern bibliographic form.
+6. Internal dates printed in reviews/notes are not proof of the second edition's publication year.
+7. Back-matter advertisements belong to the physical source record but must not be assembled into the story text.
 
 ## Next exact activity
 
-1. Re-open source scans **2–6**.
-2. Transcribe them word-for-word by direct visual comparison.
-3. Preserve old spelling and punctuation exactly where readable.
-4. Mark genuinely obscured readings explicitly; do not guess.
-5. Promote each page from `partial` to `verified` only after full visual audit.
-6. Update `indexes/page-map.md`, `stories/kizhavan-kanavu/README.md`, root `README.md`, and this `HANDOVER.md`.
-7. Then begin story body scans **7–10** as the next batch.
+Begin the **story body scans 7–10**.
+
+1. Re-open source scans 7, 8, 9 and 10.
+2. Create:
+   - `pages/0007-kizhavan-kanavu-01.md`
+   - `pages/0008-kizhavan-kanavu-02.md`
+   - `pages/0009-kizhavan-kanavu-03.md`
+   - `pages/0010-kizhavan-kanavu-04.md`
+3. Do **not** infer a printed page number for scan 7.
+4. Record scan 8 as printed page `4`, scan 9 as `5`, scan 10 as `6` only because those numbers are visibly printed.
+5. Transcribe word-for-word by direct visual comparison; preserve dialogue punctuation, paragraph boundaries, historical spelling and unusual grammar.
+6. Record library stamps / physical marks separately from printed story text.
+7. Use `verified` only after direct page audit; otherwise use `needs-review` or `partial` with the exact unresolved reading noted.
+8. Update `indexes/page-map.md`, story `README.md`, root `README.md`, and this `HANDOVER.md` after the batch.
