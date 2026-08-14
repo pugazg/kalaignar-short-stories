@@ -4,12 +4,12 @@
 
 **RELEASE REVIEW: PASS — ENGLISH STORY-BODY TRANSLATION COMPLETE**
 
-The controlled English archival translation of the **கிழவன் கனவு** story body is complete for source scans **7–22**.
+The controlled English archival translation of the **கிழவன் கனவு** story body is complete for source scans **7–22** and has been resynchronized after the corrected scan-22 conclusion.
 
 - Batch 1 — scans 7–10: **source-reviewed**
 - Batch 2 — scans 11–14: **source-reviewed**
 - Batch 3 — scans 15–18: **source-reviewed**
-- Batch 4 — scans 19–22: **source-reviewed**
+- Batch 4 — scans 19–22: **source-reviewed after scan-22 correction**
 - Full English assembly: **complete**
 - Editorial consistency review: **PASS**
 - Release review/report: **PASS**
@@ -41,12 +41,24 @@ Workflow/control/review files:
 ## Story-source state
 
 - scans in translation scope: **16 / 16** — scans 7–22
-- Tamil `verified`: **12**
-- Tamil `blocked`: **4 pages** — scans 15, 17, 21, 22
+- Tamil `verified`: **13**
+- Tamil `blocked`: **3 pages** — scans 15, 17, 21
 - Tamil story scans awaiting review: **0**
-- explicit English `SOURCE BLOCKED` locations: **8**
+- explicit English `SOURCE BLOCKED` locations: **7**
 
-A blocked Tamil reading remains explicitly blocked in English. No translation invents missing wording.
+Remaining source gaps are scan 15 ×2, scan 17 ×1 and scan 21 ×4. No translation invents missing wording.
+
+## Scan 22 conclusion
+
+Scan 22 / printed page 18 is now a **verified story page**. The final Tamil reads:
+
+`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+English:
+
+**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+
+The salesperson / advertisement / publisher-printer matter below the conclusion is not part of the story translation scope and is intentionally omitted.
 
 ## Batch files
 
@@ -55,7 +67,7 @@ A blocked Tamil reading remains explicitly blocked in English. No translation in
 | 1 | 7–10 | 0 | **source-reviewed** | [`batches/01-scans-07-10.md`](batches/01-scans-07-10.md) |
 | 2 | 11–14 | 0 | **source-reviewed** | [`batches/02-scans-11-14.md`](batches/02-scans-11-14.md) |
 | 3 | 15–18 | 3 — scan 15 ×2; scan 17 ×1 | **source-reviewed** | [`batches/03-scans-15-18.md`](batches/03-scans-15-18.md) |
-| 4 | 19–22 | 5 — scan 21 ×4; scan 22 ×1 | **source-reviewed** | [`batches/04-scans-19-22.md`](batches/04-scans-19-22.md) |
+| 4 | 19–22 | 4 — all on scan 21 | **source-reviewed** | [`batches/04-scans-19-22.md`](batches/04-scans-19-22.md) |
 
 ## Final English assembly
 
@@ -70,26 +82,16 @@ Assembly checks:
 - source/printed-page markers retained: **PASS**;
 - duplicated source scan: **none**;
 - omitted source scan: **none**;
-- explicit `SOURCE BLOCKED` locations: **8 / 8**;
-- scan-22 publisher/printer/footer material included in story prose: **No**;
+- explicit `SOURCE BLOCKED` locations: **7 / 7**;
+- scan-22 story conclusion resolved: **PASS**;
+- scan-22 non-story sales/advertisement/footer material included in story prose: **No**;
 - scan-23 publisher errata silently applied: **No**.
-
-Mechanical cross-batch continuations were joined only in the assembled reading layer; independently source-reviewed batch files remain unchanged.
 
 ## Editorial and release gates
 
-[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**.
+[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS after scan-22 synchronization**.
 
 [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
-
-The release report confirms:
-
-- Tamil story audit complete to the limit of the supplied copy;
-- 4 / 4 English batches source-reviewed;
-- 16 / 16 story scans assembled;
-- all 8 source-blocked locations retained;
-- 10 publisher errata entries documented separately;
-- source PDF not stored in GitHub.
 
 ## Errata layer
 
@@ -100,14 +102,12 @@ The key distinction remains:
 - scan 13 archival page: `வைத்திருந்தான்`;
 - scan 23 publisher errata: `வைத்திருந்தாள்`.
 
-The English `had kept` does not expose that Tamil gender distinction, so the editorial note preserves it explicitly.
-
 ## Scope boundary
 
 **Complete** here means the **story-body English translation for scans 7–22**.
 
-It does not mean the whole physical publication has been translated. Front matter, scan 23 advertising/errata, commercial advertisements and the back cover are outside the current English story scope. Front-matter scans **3–4** also retain their separate Tamil `needs-review` status.
+The entire 26-page Tamil physical-copy audit is also closed: **21 verified / 5 terminally blocked / 0 needs-review**. Front matter, advertisements and back cover remain outside the English story translation scope.
 
 ## Next archival activity
 
-Perform a final high-resolution disposition pass on **front-matter scans 3–4** so the Tamil audit of the entire 26-page physical copy can be closed as either `verified` or terminal `blocked`. No further work is required for the current story-body English translation unless a clearer source is introduced.
+No further work is required for **கிழவன் கனவு** unless a clearer source is introduced for one of the remaining terminal story gaps. The next repository activity is source registration for the next Kalaignar short-story PDF.
