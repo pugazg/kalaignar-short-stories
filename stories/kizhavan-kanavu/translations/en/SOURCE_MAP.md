@@ -19,7 +19,7 @@ This map fixes the Tamil source page, printed pagination, final audit status and
 | 19 | 15 | verified | `../../pages/0019-kizhavan-kanavu-13.md` | 4 |
 | 20 | 16 | verified | `../../pages/0020-kizhavan-kanavu-14.md` | 4 |
 | 21 | 17 | **blocked** | `../../pages/0021-kizhavan-kanavu-15.md` | 4 |
-| 22 | 18 | **blocked** | `../../pages/0022-kizhavan-kanavu-16.md` | 4 |
+| 22 | 18 | verified | `../../pages/0022-kizhavan-kanavu-16.md` | 4 |
 
 ## Batch ranges
 
@@ -47,11 +47,19 @@ One short phrase immediately after `பார்வதியை` is visually ind
 
 Four separate short readings in the political/historical catalogue are visually indistinct. Preserve **four separate source-block markers**; do not collapse them into one general note at the end of the paragraph.
 
-### Scan 22 / printed page 18
+### Scan 22 / printed page 18 — resolved conclusion
 
-The final story phrase after `வாழப்போகும் திராவிடத்தின்` is physically obscured by the circular library stamp. Preserve the source-block marker before `அந்தக் கிழவன் கனவு.` in the corresponding English position.
+The final story reading is now established as:
 
-The publisher/printer/footer gaps on the same scan are outside the story-body translation scope.
+`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+Scan 22 therefore contains **no remaining story-body source block**. The salesperson / advertisement / publisher-printer material below the story conclusion is outside the story translation scope and is intentionally excluded.
+
+## Final story-source disposition
+
+- `verified`: **13 / 16** story scans — 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22
+- `blocked`: **3 / 16** story scans — 15, 17, 21
+- explicit story-text source gaps for English: **7 locations** — scan 15 ×2, scan 17 ×1, scan 21 ×4
 
 ## Errata cross-reference
 
@@ -59,15 +67,15 @@ The publisher's printed corrections are mapped separately in:
 
 `../../sections/kizhavan-kanavu-errata.md`
 
-They are **not** substitutions in this source map. The translation source remains each page's visible archival reading.
+They are **not** substitutions in this source map. The translation source remains each page's visible archival reading plus the user-confirmed scan-22 story conclusion now recorded in the page layer.
 
 ## Traceability requirement
 
-Every translation batch must retain the same source sequence using comments such as:
+Every translation batch retains the same source sequence using comments such as:
 
 ```html
 <!-- source scan 7; printed page — -->
 <!-- source scan 8; printed page 4 -->
 ```
 
-No scan may be omitted, duplicated or reordered during batch assembly.
+No scan may be omitted, duplicated or reordered during assembly.
