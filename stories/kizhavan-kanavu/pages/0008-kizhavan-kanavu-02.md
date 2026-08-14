@@ -4,10 +4,10 @@ printed_page: 4
 story: "kizhavan-kanavu"
 section: "story"
 page_type: "story-body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0014165_கிழவன்_கனவு.pdf"
-transcription_method: "direct visual audit against source scan; genuinely unclear reading marked explicitly"
+transcription_method: "final high-resolution direct visual audit against source scan"
 ---
 
 # அச்சு உரை
@@ -26,7 +26,7 @@ transcription_method: "direct visual audit against source scan; genuinely unclea
 
 “உலகம் உருண்டை என்று உண்மை தெரிந்த காலத்திலும் பூமியைப் பாயாக சுருட்டிய கதையை நம்பித்தானே வாழ்கிறார்கள் மக்கள்!”
 
-“பள்ளிக்கூடத்திலே பாடங்கற்பிக்கும் பூகோள [வாசிப்பு தெளிவில்லை] அய்யருங்கூட அந்தக்கதையைத்தான் வாழ்வின் வசதியாக கொண்டிருக்கிறார்”
+“பள்ளிக்கூடத்திலே பாடங்கற்பிக்கும் பூகோள பூரணர்த்திக அய்யருங்கூட அந்தக்கதையைத்தான் வாழ்வின் வசதியாக கொண்டிருக்கிறார்”
 
 “தமிழர்கள் தங்களுடைய மானத்தை இரவல் கொடுத்திருக்கும் வரையில் இதை யெல்லாம் அறிந்துகொள்ள மாட்டார்கள்!”
 
@@ -45,11 +45,10 @@ transcription_method: "direct visual audit against source scan; genuinely unclea
 - வயதுச்சுவடு, சிறு கறைகள் மற்றும் uneven print density காணப்படுகிறது.
 - printed header: `கிழவன் கனவு`; printed page: `(4)`.
 
-## Audit note
+## Final audit note
 
-- பக்கம் முழுவதும் source scan-ஐ மீண்டும் நேரடியாக ஒப்பிட்டு audit செய்யப்பட்டது.
-- `உலகம் உருண்டை என்று உண்மை...` என்ற source வாசிப்பு உறுதிப்படுத்தப்பட்டது.
-- `பூகோள` என்பதற்குப் பின்வரும் தொழில்/பட்டச் சொல் மட்டும் அச்சில் போதுமான தெளிவில் இல்லை. முந்தைய `பூரணர்த்திக` என்ற provisional guess அகற்றப்பட்டது; context மூலம் நிரப்பப்படவில்லை.
-- அந்த unresolved சொல்லின் காரணமாக மட்டும் page `needs-review` நிலையில் தொடர்கிறது.
+- பக்கம் மீண்டும் high-resolution source render-ல் நேரடியாக ஆய்வு செய்யப்பட்டது.
+- `பூகோள` என்பதற்குப் பின்வரும் சொல் source-ல் **`பூரணர்த்திக`** என வாசிக்கப்படுவது உறுதிப்படுத்தப்பட்டது.
+- முந்தைய unresolved marker அகற்றப்பட்டது; பக்கத்தில் source-reading uncertainty எதுவும் மீதமில்லை.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: 4 -->
