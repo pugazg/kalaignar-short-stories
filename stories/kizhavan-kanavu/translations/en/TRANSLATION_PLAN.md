@@ -38,22 +38,24 @@ Story scans: **16 / 16 audited and verified**.
 - `needs-review`: **0**
 - unresolved story-text locations: **0**
 
-### Exhaustive-resolution results
+### Exhaustive-resolution results — current final readings
 
-Former story gaps were resolved as follows:
-
-- scan 15: `புது தழுவகம் ஒன்று`; `அநாதிப் பிள்ளையாருக்கு`; nearby corrections `துர் எண்ணத்தை`, `பிள்ளை பிறக்குமென்று`;
+- scan 15: `துர் எண்ணத்தை`; `புத்தமுதம் தின்று கொண்டிருந்த`; full temple-history clause including `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு...`;
 - scan 17: `பார்வதியை அணைத்தபடி பரமன்`;
 - scan 21: `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
 - scan 22 conclusion: `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+The earlier scan-15 reconstruction `புது தழுவகம் ஒன்று` is superseded and must not be reused.
 
 The scan-21 rare names were source-checked at native resolution and narrowly corroborated with an independent witness. Witness-specific surrounding wording was not imported.
 
 ## Source-resolution rule
 
-The permanent repository guide now requires **“No stones should be left unturned”** before a story reading may remain `blocked`.
+The permanent repository guide requires **“No stones should be left unturned”** before a story reading may remain `blocked`.
 
 For difficult story text, escalate through native embedded scan extraction, multiple enlargements/resampling methods, tonal/edge variants, stamp-stroke separation, neighbouring typeform comparison, page-boundary checks, source-checking of user-provided readings, and—only where necessary—provenance-documented independent witnesses.
+
+A further rule now applies after the scan-15 correction: **processed-crop confidence is not source confidence**. Before `verified`, the entire phrase/clause/sentence span must be rechecked against the native scan. A plausible isolated fragment is insufficient.
 
 Secondary witnesses may corroborate a difficult reading but must never silently replace the controlling scan or import variant wording.
 
@@ -104,18 +106,18 @@ For the historical figure named `ராமசாமிப்பெரியா�
 
 1. Batch 1 — scans 7–10 — source-reviewed; 0 gaps
 2. Batch 2 — scans 11–14 — source-reviewed; 0 gaps
-3. Batch 3 — scans 15–18 — source-reviewed after exhaustive resolution; **0 gaps**
+3. Batch 3 — scans 15–18 — source-reviewed after full-span scan-15 correction; **0 gaps**
 4. Batch 4 — scans 19–22 — source-reviewed after exhaustive resolution; **0 gaps**
 
 ## Review gates
 
 - Gate A — all four batches source-reviewed: **PASS**
 - Gate B — assembled English scans 7–22 exactly once: **PASS**
-- Gate C — `EDITORIAL_CONSISTENCY_REVIEW.md`: **PASS — zero-gap re-review complete**
-- Gate D — `RELEASE_REPORT.md`: **PASS — story source complete / release-ready**
+- Gate C — `EDITORIAL_CONSISTENCY_REVIEW.md`: **PASS after scan-15 re-synchronization**
+- Gate D — `RELEASE_REPORT.md`: **PASS after scan-15 re-synchronization**
 
 ## Completion definition
 
 The English story-body translation is complete when all batches are source-reviewed, scans 7–22 are assembled exactly once, no recoverable story reading is abandoned, publisher errata stays separate, editorial consistency passes, and the release report is complete.
 
-**Current source/translation state: 16 / 16 story scans verified; 0 source gaps; all gates PASS.**
+**Current source/translation state: 16 / 16 story scans verified; 0 source gaps.**
