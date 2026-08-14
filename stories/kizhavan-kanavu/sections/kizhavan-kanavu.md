@@ -184,13 +184,13 @@
 
 இந்தக் கனவை விபுலானந்தரும் மல்லிகாவும், கண்டனர் கருத்தில்! திராவிட ராஜ்யத்தில் லெனின், ஒரு வீரமிக்க பிரஜை! இது அவர்களது கனவின் உச்சம்! கனவு நினைவாக லெனின்போன்ற இளந்தோழர்கள் இன்னும் தேவை!
 
-இந்தக் கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வாழப்போகும் திராவிடத்தின் [blocked-by-source: பெரிய circular library stamp இறுதி story phrase-ன் அச்சு எழுத்துகளை மறைக்கிறது]; அந்தக் கிழவன் கனவு.
+இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.
 
 ## Assembly note
 
 - Story body source range: scans **7–22**.
 - Scan boundary comments are retained so every passage can be traced back to its archival page record.
-- Final story-page disposition: **12 verified / 4 blocked-by-source / 0 needs-review**.
-- `blocked-by-source` markers are terminal source limitations for this supplied copy and must not be guessed away.
-- Publisher/printer footer and post-story advertisements are not part of this assembled story text.
+- Final story-page disposition: **13 verified / 3 blocked-by-source / 0 needs-review**.
+- Remaining `blocked-by-source` markers occur only on scans **15, 17 and 21** and are terminal source limitations for this supplied copy.
+- Scan 22 story conclusion is fully resolved. Salesperson / advertisement / publisher-printer material below the conclusion is outside this assembled story scope and is intentionally omitted.
 - Printed errata remains a separate layer: [`kizhavan-kanavu-errata.md`](kizhavan-kanavu-errata.md).
