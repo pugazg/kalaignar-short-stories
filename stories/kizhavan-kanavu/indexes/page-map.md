@@ -45,43 +45,49 @@ Source: `TVA_BOK_0014165_கிழவன்_கனவு.pdf`
 
 Scan page 8 visibly carries printed page **(4)** and the printed sequence continues through scan page 22 as **(18)**. Scan page 7 is the immediately preceding story-opening page, but no printed number is clearly visible in the supplied scan image; therefore the manifest deliberately records `—` rather than inferring `3`.
 
-## Final high-resolution unresolved-reading pass
+## Final Tamil story-source disposition
 
-The final source-only pass on story scans **8, 14, 15, 17, 18, 21 and 22** is complete.
+The source-only audit and final high-resolution unresolved-reading pass are complete for all story scans **7–22**.
 
-### Resolved and promoted to `verified`
+### Story pages `verified`
 
-- scan **8 / printed 4** — `பூகோள பூரணர்த்திக` resolved from high-resolution source view;
-- scan **14 / printed 10** — remaining dream-passage readings resolved, including `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, and `மந்த காசத்தினிடையே`;
-- scan **18 / printed 14** — remaining opening phrase resolved as `விட்டிருந்து`.
+Scans **7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20**.
 
-### Formally `blocked` by the supplied source
+Final resolved readings include:
 
-- scan **15 / printed 11** — one worn/indistinct word plus temple-history text physically covered by a circular library stamp;
-- scan **17 / printed 13** — one short phrase after `பார்வதியை` remains visually indistinct even at high resolution;
-- scan **21 / printed 17** — four short readings in the political/historical catalogue remain visually indistinct;
-- scan **22 / printed 18** — a library stamp physically obscures part of the final story phrase and footer/imprint material.
+- scan 8 — `பூகோள பூரணர்த்திக`;
+- scan 14 — `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே`;
+- scan 18 — `விட்டிருந்து`.
 
-These four pages are no longer open-ended `needs-review` items. Their unresolved text is explicitly marked `blocked-by-source`; no context, historical memory, web source or later edition has been used to reconstruct hidden wording.
+### Story pages formally `blocked`
 
-Scans **3–4** remain `needs-review` for their earlier front-matter source-condition uncertainties; they are outside the story-body translation layer.
+- scan **15** — one worn/indistinct word plus temple-history wording physically covered by a circular library stamp;
+- scan **17** — one short worn/indistinct phrase after `பார்வதியை`;
+- scan **21** — four short worn/indistinct political/historical readings;
+- scan **22** — library stamp obscures the final story phrase; footer/imprint material is separately documented at page level.
+
+These are terminal limitations of the supplied copy, not unfinished review items. No outside reconstruction has been used.
+
+Scans **3–4** remain `needs-review` only for front-matter source-condition uncertainties and are outside the current story-body translation scope.
 
 ## Assembled Tamil layer
 
-Created:
-
-- [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — story-body assembly for scans 7–22;
-- [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — explicit mapping of all 10 printed errata entries;
-- [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — consistency review across assembly, page records, page map and errata layer.
-
-The assembled Tamil file must preserve the same three newly resolved readings and all four `blocked-by-source` locations; it must not silently apply scan 23's errata.
+- [`../sections/kizhavan-kanavu.md`](../sections/kizhavan-kanavu.md) — synchronized final story assembly for scans 7–22 with all final readings and `blocked-by-source` markers;
+- [`../sections/kizhavan-kanavu-errata.md`](../sections/kizhavan-kanavu-errata.md) — all 10 printed errata entries preserved separately;
+- [`../ASSEMBLY_REVIEW.md`](../ASSEMBLY_REVIEW.md) — final synchronization and consistency review: **PASS**.
 
 ## Translation gate
 
-The **story-body Tamil source audit is complete to the limit of the supplied physical source**. Every story scan now has a final disposition: `verified` or `blocked` with explicit source gaps.
+**OPEN — controlled English story translation may begin.**
 
-English translation may therefore be opened as a controlled workflow **only if every source-blocked location remains explicitly marked and untranslated rather than guessed**. Front-matter scans 3–4 remain outside this story-body translation gate.
+Translation-control files now exist:
+
+- [`../translations/en/TRANSLATION_PLAN.md`](../translations/en/TRANSLATION_PLAN.md)
+- [`../translations/en/README.md`](../translations/en/README.md)
+- [`../translations/en/SOURCE_MAP.md`](../translations/en/SOURCE_MAP.md)
+
+Every `blocked-by-source` location must remain explicit in English and may not be guessed or silently completed. Scan 23 publisher errata remains a separate editorial layer.
 
 ## அடுத்த activity
 
-Synchronize the assembled Tamil file and consistency-review documents with these final dispositions, then prepare the English-translation workflow/plan without beginning translation until that synchronization check passes.
+Begin **English Batch 1 — scans 7–10 only**, retain source-page markers, and complete a direct Tamil-to-English source review before moving to Batch 2.
