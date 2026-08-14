@@ -30,7 +30,8 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 - English batches source-reviewed: **4 / 4**
 - Full English story assembly: **complete**
 - English editorial consistency review: **PASS**
-- Release report: not started
+- English release review: **PASS**
+- English story-body translation: **COMPLETE**
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Tamil audit: [`audit.md`](audit.md).
@@ -52,6 +53,7 @@ Control/review files:
 - [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
 - [`translations/en/ERRATA_NOTES.md`](translations/en/ERRATA_NOTES.md)
 - [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 
 Source-reviewed batches:
 
@@ -64,14 +66,15 @@ Full assembled English story:
 
 - [`translations/en/kizhavan-kanavu-en.md`](translations/en/kizhavan-kanavu-en.md)
 
-Assembly result:
+Release result:
 
 - scans represented: **16 / 16** exactly once and in order;
 - source-page markers preserved: **PASS**;
 - explicit `SOURCE BLOCKED` story locations: **8 / 8** — scan 15 ×2, scan 17 ×1, scan 21 ×4, scan 22 ×1;
 - scan-22 publisher/printer/footer material included in English story prose: **No**;
 - scan-23 publisher errata silently substituted: **No**;
-- editorial consistency review: **PASS**.
+- editorial consistency review: **PASS**;
+- release report: **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
 ## Important source distinctions
 
@@ -82,6 +85,12 @@ Assembly result:
 - source-blocked text remains terminal for this copy unless a genuinely clearer source is later introduced;
 - editorial review may join mechanical page continuations but must not normalize or invent source wording.
 
+## Completion scope
+
+The **English story-body translation for scans 7–22 is complete**.
+
+The entire physical publication is not yet in a fully closed Tamil audit state because front-matter scans **3–4** remain `needs-review`. Those pages are outside the story-body English translation scope.
+
 ## Next exact activity
 
-Perform the English **release review (Gate D)** and create `translations/en/RELEASE_REPORT.md`. Document the translated range, Tamil source disposition, 8 blocked locations, 10-entry errata treatment, deliberate conservative translation choices, final file inventory, and confirmation that no source PDF is stored in GitHub.
+Perform the final high-resolution source-disposition pass on **front-matter scans 3–4**. Promote each to `verified` if every visible printed reading can be established; otherwise convert genuinely unrecoverable locations to terminal `blocked` with explicit source-condition notes. Then update the page map/audit/README/HANDOVER to close the full 26-page Tamil audit.
