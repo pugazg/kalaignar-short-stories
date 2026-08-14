@@ -8,7 +8,7 @@ The controlled English archival translation of **கிழவன் கனவு
 
 - Batch 1 — scans 7–10: **source-reviewed / 0 gaps**
 - Batch 2 — scans 11–14: **source-reviewed / 0 gaps**
-- Batch 3 — scans 15–18: **source-reviewed after exhaustive resolution / 0 gaps**
+- Batch 3 — scans 15–18: **source-reviewed after full-span scan-15 correction / 0 gaps**
 - Batch 4 — scans 19–22: **source-reviewed after exhaustive resolution / 0 gaps**
 - Full English assembly: **complete**
 - Editorial consistency review: **PASS**
@@ -46,16 +46,30 @@ Workflow/control/review files:
 - Tamil story scans awaiting review: **0**
 - English `SOURCE BLOCKED` locations: **0**
 
-Former story blocks on scans 15, 17 and 21 were reopened under the repository's exhaustive-resolution protocol and resolved rather than carried into release.
+Former story blocks were reopened under the repository's exhaustive-resolution protocol and resolved rather than carried into release.
 
 ## Final difficult-reading resolutions
 
-### Scan 15
+### Scan 15 / printed page 11 — corrected full-span reading
 
 - `துர் எண்ணத்தை` → **evil intention**
-- `புது தழுவகம் ஒன்று` → **sharing a new embrace**
-- `அநாதிப் பிள்ளையாருக்கு` → **Anadi Pillaiyar**
-- `பிள்ளை பிறக்குமென்று` → **a child would be born**
+- `புத்தமுதம் தின்று கொண்டிருந்த` → **partaking of fresh nectar**
+- `அநாதிப் பிள்ளையார்` → **an orphaned Pillaiyar**
+- `அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையார்` → **a black-stone Pillaiyar that lay unclaimed beneath a peepal tree**
+
+The final Tamil story sentence is:
+
+`விபுலானந்தனும் மல்லிகாவும் பூங்காட்டில் புத்தமுதம் தின்று கொண்டிருந்த வேளையில் மார்க்கண்டேயர் புகுந்தார்.`
+
+The final temple-history sentence is:
+
+`யாரோ ஒரு மஹான் அநாதிப் பிள்ளையாருக்கு ஆலயம் கட்டினால் பிள்ளை பிறக்குமென்று உபதேசித்ததாகவும், அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு ஆலயம் அமைத்து வழிபட்டதாகவும் பிறகு அவனுக்கு ஒரு குழந்தை பிறந்ததாகவும் அந்தக் கோவிலுக்கு ஒரு ஸ்தல வரலாறு உண்டு!`
+
+Superseded and removed:
+
+- `புது தழுவகம் ஒன்று`
+- **sharing a new embrace**
+- **Anadi Pillaiyar** as a proper-name rendering
 
 ### Scan 17
 
@@ -80,13 +94,17 @@ English:
 
 Salesperson / advertisement / publisher-printer material below the conclusion is outside the story translation scope and is intentionally omitted.
 
+## Verification lesson from scan 15
+
+A plausible reading from an enhanced crop is not enough for `verified`. The complete phrase/clause/sentence span must be checked against the native source. Stronger direct-source evidence may reopen a previously verified reading; all downstream layers must then be resynchronized.
+
 ## Batch files
 
 | Batch | Source scans | Source gaps | Status | File |
 |---:|---|---:|---|---|
 | 1 | 7–10 | 0 | **source-reviewed** | [`batches/01-scans-07-10.md`](batches/01-scans-07-10.md) |
 | 2 | 11–14 | 0 | **source-reviewed** | [`batches/02-scans-11-14.md`](batches/02-scans-11-14.md) |
-| 3 | 15–18 | **0** | **source-reviewed after exhaustive resolution** | [`batches/03-scans-15-18.md`](batches/03-scans-15-18.md) |
+| 3 | 15–18 | **0** | **source-reviewed after full-span scan-15 correction** | [`batches/03-scans-15-18.md`](batches/03-scans-15-18.md) |
 | 4 | 19–22 | **0** | **source-reviewed after exhaustive resolution** | [`batches/04-scans-19-22.md`](batches/04-scans-19-22.md) |
 
 ## Final English assembly
@@ -103,12 +121,13 @@ Assembly checks:
 - duplicated source scan: **none**;
 - omitted source scan: **none**;
 - `SOURCE BLOCKED` locations: **0**;
+- scan-15 full-span correction synchronized: **PASS**;
 - scan-22 non-story material included: **No**;
 - scan-23 publisher errata silently applied: **No**.
 
 ## Editorial and release gates
 
-[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS — ZERO-GAP RE-REVIEW COMPLETE**.
+[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS after scan-15 correction**.
 
 [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **PASS — STORY SOURCE COMPLETE / RELEASE-READY**.
 
