@@ -57,12 +57,14 @@ Tamil control/derived files:
 
 ## English translation state
 
-Translation control files:
+Translation control/review files:
 
 - `stories/kizhavan-kanavu/translations/en/README.md`
 - `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
 - `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
 - `stories/kizhavan-kanavu/translations/en/ERRATA_NOTES.md`
+- `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
+- `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`
 
 All four source batches are **SOURCE-REVIEWED**:
 
@@ -79,27 +81,29 @@ Full assembled English story:
 
 Editorial review:
 
-- `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` — **PASS**
+- `EDITORIAL_CONSISTENCY_REVIEW.md` — **PASS**
 
-Release report:
+Release review:
 
-- `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md` — **not created yet**
+- `RELEASE_REPORT.md` — **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
 
-## Full English assembly result
+English story-body translation status: **COMPLETE**.
 
-`kizhavan-kanavu-en.md` is assembled from the four source-reviewed batches only.
+## Full English release result
 
 Confirmed:
 
-- scans represented: **16 / 16**;
-- scan order: **7 → 22**;
+- translated source range: scans **7–22**;
+- Tamil story disposition: **12 verified / 4 source-blocked**;
+- English batches source-reviewed: **4 / 4**;
+- assembled English scans represented: **16 / 16**;
 - source-scan / printed-page markers: **all retained**;
-- duplicated source scans: **none**;
-- omitted source scans: **none**;
-- scan 7 pagination remains `—`;
-- total explicit `SOURCE BLOCKED` story locations: **8 / 8**;
+- duplicated/omitted story scans: **none**;
+- explicit English `SOURCE BLOCKED` story locations: **8 / 8**;
 - scan-22 publisher/printer/footer material: **excluded from story prose**;
-- scan-23 errata silently substituted: **No**.
+- scan-23 publisher errata: **10 corrections separately documented**;
+- publisher errata silently substituted: **No**;
+- source PDF stored in GitHub: **No**.
 
 ### Explicit English source gaps
 
@@ -110,49 +114,24 @@ Confirmed:
 
 Total: **8**.
 
-These gaps remain terminal for this supplied copy and must stay explicit in every release layer unless a genuinely clearer source copy is later introduced.
+These are terminal source limitations for the supplied copy and must remain explicit unless a genuinely clearer source is later introduced and audited.
 
-## Assembly-only boundary handling
+## Conservative translation decisions retained
 
-Mechanical cross-batch continuations were joined only in `kizhavan-kanavu-en.md`. Batch files remain unchanged.
+The release review explicitly accepts source-close renderings where verified Tamil is unusual or semantically abrupt, including:
 
-Notable joins documented in `EDITORIAL_CONSISTENCY_REVIEW.md`:
+- `Puranarthika Iyer`
+- `physician`
+- `My forehead?`
+- `I shall eat these grapes.`
+- `amid a dull cough`
+- `Aryam`
+- `Kali! Kooli!`
+- `the conch-blast of equal justice`
+- `We lived—to be kissed by the sword.`
+- `The Dravidian land is a day for Dravidians!`
 
-- scan 10 → 11 — Garuda sentence;
-- scan 14 → 15 — duplicated Mallika boundary wording reduced to a pronoun in the assembled reading;
-- scan 17 → 18 — mechanically split `floating` wording joined across the page marker;
-- scan 18 → 19 — duplicated conditional boundary wording removed so the one Tamil condition is represented once.
-
-These are assembly mechanics, not source normalization.
-
-## Editorial consistency result
-
-`EDITORIAL_CONSISTENCY_REVIEW.md` is **PASS**.
-
-Reviewed and accepted:
-
-- recurring names/titles;
-- religious/cultural terminology;
-- political and caste/social vocabulary;
-- tense and narrative voice;
-- quotation/dialogue style;
-- recurring metaphors;
-- all 8 blocked markers;
-- cross-page joins;
-- errata-note consistency.
-
-Deliberately difficult/source-specific renderings remain conservative rather than being modernized or repaired from context.
-
-## Errata state
-
-`ERRATA_NOTES.md` records all **10** publisher corrections from scan 23 separately.
-
-Key distinction:
-
-- scan 13 archival page: `வைத்திருந்தான்`;
-- scan 23 errata: `வைத்திருந்தாள்`.
-
-The English phrase `had kept` does not expose that Tamil gender distinction, so the editorial note preserves the distinction explicitly.
+Do not “improve” these during future cleanup unless a new source-based editorial layer is intentionally created.
 
 ## Permanent archival rules
 
@@ -167,23 +146,21 @@ The English phrase `had kept` does not expose that Tamil gender distinction, so 
 9. Every English `SOURCE BLOCKED` marker must remain explicit and in position.
 10. Editorial consistency is not permission to normalize source oddities.
 
-## Next exact activity — Gate D release review
+## Scope completion
 
-Create:
+The **கிழவன் கனவு story-body English translation is complete and release-ready**.
 
-`stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`
+The whole physical publication's Tamil audit is not yet fully closed only because front-matter scans **3–4** remain `needs-review`. They are outside the completed story-body English translation scope.
 
-The release review must document:
+## Next exact activity
 
-1. translated source range: scans **7–22**;
-2. Tamil story disposition: **12 verified / 4 source-blocked**;
-3. English batches: **4 / 4 source-reviewed**;
-4. assembled English coverage: **16 / 16 scans**;
-5. retained source gaps: **8**;
-6. publisher errata: **10 corrections**, separately documented;
-7. deliberately conservative/unresolved translation choices;
-8. final repository file inventory;
-9. confirmation that the source PDF is not stored in GitHub;
-10. final completion/release status.
+Perform the final high-resolution disposition pass on **front-matter scans 3–4**.
 
-Do not fill or remove any blocked marker during release review.
+1. Re-open scans 3 and 4 from the supplied PDF at high resolution.
+2. Compare the existing page records directly with the scan.
+3. For scan 3, determine whether any stamp-obscured wording can safely be resolved; never reconstruct hidden text from context.
+4. For scan 4, re-check the one short unresolved publisher-note phrase at maximum useful enlargement.
+5. Promote a page to `verified` only if every visible printed reading is source-supported.
+6. If the supplied copy cannot expose the hidden/indistinct text, convert the page to terminal `blocked` and mark each unrecoverable location `blocked-by-source`.
+7. Update `indexes/page-map.md`, `audit.md`, story/root READMEs and this handover.
+8. After that pass, the full 26-page Tamil archival audit can be considered closed for this physical copy.
