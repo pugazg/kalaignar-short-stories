@@ -14,19 +14,21 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | source registered; 26-page manifest complete; front matter scans 1–6 archived |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records created; full scan archived; Tamil audit pending** |
 
 ### தற்போதைய page status
 
-- scans 1, 2, 5, 6 — `verified`
-- scans 3, 4 — `needs-review` (source-condition obscurity explicitly preserved; no guessed reconstruction)
-- scans 7–26 — `not-started`
+- scans 1, 2, 5, 6, 24, 25, 26 — `verified`
+- scans 3, 4, 7–23 — `needs-review`
+- `not-started` — **0**
 
-Scans **2–6** have now received direct visual word-for-word transcription to the limit supported by the scan. Scan 3 contains library-stamp obstruction over printed words, and scan 4 retains one short unclear phrase; these remain visible review items rather than being silently reconstructed.
+The complete physical publication—from cover through story, printed errata, advertisements and back cover—now has page-level archival records.
 
-இணைக்கப்பட்ட scan-ல் சிறுகதை body-க்கு முன் மதிப்புரைகள் / வெளியீட்டாளர் குறிப்புகள் / ஆசிரியர் குறிப்பு உள்ளன; body முடிந்த பின் பிற நூல்கள் மற்றும் வணிக விளம்பரப் பக்கங்களும் உள்ளன. அவையும் scanned publication-ன் பகுதிகளாக page-level archival records-ல் பதிவு செய்யப்படும்.
+Scans **7–22** contain the **கிழவன் கனவு** story body and have been directly transcribed from the scan. They remain `needs-review` because the next stage is a dedicated Tamil source audit of worn / ambiguous type and stamp-obscured readings. No later edition or context-based reconstruction has been used to silently fill those gaps.
 
-அடுத்த batch: actual **கிழவன் கனவு** story body scans **7–10**.
+A significant back-matter correction was also made: scan **23** is a printed **`பிழை திருத்தம்.`** table followed by tobacco advertising, not a publisher catalogue. The errata is preserved separately and is not silently applied to the archival page text.
+
+அடுத்த activity: **full Tamil source audit of scans 7–23**, followed by an assembled Tamil story text only after the page readings are reviewed.
 
 ## களஞ்சிய அமைப்பு
 
@@ -45,7 +47,7 @@ stories/
     sections/
 ```
 
-ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் தேவையான assembled text, audit, translation மற்றும் review files சேர்க்கப்படும்.
+ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; பின்னர் தேவையான section/chapter assemblies, audit, translation மற்றும் review files சேர்க்கப்படும்.
 
 விரிவான workflow: [`SHORT_STORY_PROCESSING_GUIDE.md`](SHORT_STORY_PROCESSING_GUIDE.md).  
 தற்போதைய சிறுகதை: [`stories/kizhavan-kanavu/README.md`](stories/kizhavan-kanavu/README.md).
