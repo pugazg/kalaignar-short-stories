@@ -14,7 +14,7 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil story source finalized; assembly PASS; English translation workflow ready** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil source finalized; assembly PASS; English Batch 1 source-reviewed** |
 
 ### தற்போதைய page status
 
@@ -42,7 +42,7 @@ The synchronized assembled Tamil story represents **all 16 story scans exactly o
 
 ## English translation stage
 
-The controlled English story-translation gate is now **OPEN**.
+The controlled English story-translation gate is **OPEN**.
 
 Translation workspace:
 
@@ -50,16 +50,20 @@ Translation workspace:
 - `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
 - `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
 
-No English story prose has been drafted yet.
+Batch progress:
 
-The planned translation batches are:
+1. **scans 7–10 — source-reviewed**
+2. scans 11–14 — not-started
+3. scans 15–18 — not-started
+4. scans 19–22 — not-started
 
-1. scans 7–10
-2. scans 11–14
-3. scans 15–18
-4. scans 19–22
+Completed English batch:
 
-A `blocked-by-source` Tamil gap must remain explicitly blocked in English. Publisher errata must remain separately documented rather than silently substituted into the archival translation.
+- `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`
+
+Batch 1 has been directly reviewed against all four finalized Tamil page records. It contains no source-blocked gaps. Verified source-specific forms were not silently normalized, and the scan-10 sentence that continues into scan 11 is marked as a batch-boundary continuation rather than guessed.
+
+A `blocked-by-source` Tamil gap in later batches must remain explicitly blocked in English. Publisher errata must remain separately documented rather than silently substituted into the archival translation.
 
 ## களஞ்சிய அமைப்பு
 
@@ -85,6 +89,8 @@ stories/
         README.md
         TRANSLATION_PLAN.md
         SOURCE_MAP.md
+        batches/
+          01-scans-07-10.md
 ```
 
 ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled text, errata, audit, translation போன்றவை derived layers ஆக மட்டுமே சேர்க்கப்படும்.
@@ -94,4 +100,4 @@ stories/
 
 ## அடுத்த activity
 
-Begin **கிழவன் கனவு — English Translation Batch 1, scans 7–10 only**. Retain source-page markers and complete a direct Tamil-to-English source review before moving to Batch 2.
+Begin **கிழவன் கனவு — English Translation Batch 2, scans 11–14 only**. Translate the scan-10/11 continuation carefully, retain source-page markers, and complete direct Tamil-to-English source review before moving to Batch 3.
