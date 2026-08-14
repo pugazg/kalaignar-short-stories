@@ -19,67 +19,62 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 
 - Source manifest: **26 / 26 pages complete**
 - Page records: **26 / 26**
-- `verified`: **20**
-- `blocked`: **6** — scans 3, 4, 15, 17, 21, 22
+- `verified`: **21**
+- `blocked`: **5** — scans 3, 4, 15, 17, 21
 - `needs-review`: **0**
 - `not-started`: **0**
 
-Every page from cover through front matter, story, printed errata, advertisements and back cover now has a terminal source disposition.
+Every physical page has a terminal source disposition. Scan 22 is now verified for story text; non-story sales/advertisement/footer material below the conclusion is intentionally outside the story transcription scope.
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Full Tamil audit: [`audit.md`](audit.md).
 
 ## Final front-matter disposition
 
-The last open pages, scans **3–4**, received a native-scan/high-resolution final pass.
+Scans **3–4** remain terminally `blocked` because of physical source limitations:
 
-### Scan 3 — `“குடியரசு”` / `“தொழிலாளர்”`
+- scan 3 — two short portions of the upper `“குடியரசு”` review are hidden by a library stamp;
+- scan 4 — one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct.
 
-Final status: **`blocked`** because two short portions of the upper review are physically hidden by a large library stamp.
-
-Visible readings finalized in that pass include:
-
-- `நினைவாயிற்று`;
-- `விபுலானந்தரும் மல்லிகாவும்`;
-- lower-review ending `திராவிட மக்களின் ஆதரவு கிடைக்குமென்று நம்புகிறோம்.`
-
-### Scan 4 — `என் வெளியிட்டேன் ?...`
-
-Final status: **`blocked`** because one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct even at maximum useful enlargement.
-
-Other visible readings finalized include:
-
-- `ஹிட்-லரிசம்`;
-- `திராவிடருக்கானும்`;
-- `பயனாக ஏற்படும்`;
-- `ஆக்கம் தருக!`.
-
-Neither blocked page is awaiting another pass on this same copy. They should be reopened only if a genuinely clearer source is introduced.
+Neither page is awaiting another pass on this same copy.
 
 ## Tamil story layer
 
-Story scans **7–22** were already fully audited:
+Story scans **7–22**:
 
-- story scans `verified`: **12 / 16**
-- story scans `blocked`: **4 / 16** — scans 15, 17, 21, 22
+- story scans `verified`: **13 / 16**
+- story scans `blocked`: **3 / 16** — scans 15, 17, 21
 - story scans awaiting review: **0**
+- explicit blocked story-text locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4
+
+### Resolved scan 22 conclusion
+
+Printed page 18 is now finalized as:
+
+**`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`**
+
+The former story-level block on scan 22 has been removed.
 
 Derived/control files:
 
 - [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized archival story assembly;
 - [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all **10** scan-23 publisher corrections kept separately;
-- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — **PASS**.
+- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — **PASS after scan-22 synchronization**.
 
 ## English translation layer
 
-The English scope is the **story body only, scans 7–22**.
+English scope: **story body only, scans 7–22**.
 
 - source-reviewed batches: **4 / 4**
 - assembled English story: [`translations/en/kizhavan-kanavu-en.md`](translations/en/kizhavan-kanavu-en.md)
 - English source coverage: **16 / 16 story scans**
-- explicit `SOURCE BLOCKED` story locations: **8 / 8**
+- explicit `SOURCE BLOCKED` story locations: **7 / 7**
 - editorial consistency review: [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**
 - release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) — **PASS / release-ready with documented source limitations**
+
+Resolved English ending:
+
+**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
 
 The scan-23 publisher errata is not silently substituted into either Tamil or English archival prose.
 
@@ -87,9 +82,10 @@ The scan-23 publisher errata is not silently substituted into either Tamil or En
 
 - scan 7 printed page is not inferred;
 - scan 13 visible `வைத்திருந்தான்` and scan-23 errata `வைத்திருந்தாள்` remain distinct;
+- scan 22 story conclusion is resolved, while its post-story sales/advertisement/footer matter is excluded from story scope;
 - `blocked` marks terminal limitations of this physical copy, not unfinished OCR/review work;
 - source PDF remains outside GitHub;
-- no stamp-hidden or worn wording may be reconstructed from context.
+- no stamp-hidden or worn story wording may be reconstructed from context.
 
 ## Completion state
 
@@ -99,4 +95,4 @@ The scan-23 publisher errata is not silently substituted into either Tamil or En
 
 ## Next activity
 
-No further work is required for this source unless a clearer copy is introduced. The next repository activity is source registration and inspection for the **next Kalaignar short-story PDF** when supplied.
+No further work is required for this source unless a clearer copy is introduced for one of the remaining blocked readings. The next repository activity is source registration and inspection for the **next Kalaignar short-story PDF** when supplied.
