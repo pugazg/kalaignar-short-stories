@@ -13,84 +13,90 @@
 
 Full source registration: [`metadata/source.md`](metadata/source.md).
 
-## Current archival status
+## Final physical-copy archival status
+
+**FULL 26-PAGE TAMIL AUDIT CLOSED TO THE LIMIT OF THE SUPPLIED SOURCE.**
 
 - Source manifest: **26 / 26 pages complete**
 - Page records: **26 / 26**
 - `verified`: **20**
-- `blocked`: **4**
-- `needs-review`: **2** — front matter scans 3–4 only
-- Story scans 7–22 directly audited: **16 / 16**
-- Story scans `verified`: **12 / 16**
-- Story scans `blocked`: **4 / 16**
-- Story scans awaiting Tamil review: **0**
-- Final Tamil assembly: **complete**
-- Tamil assembly review: **PASS**
-- English source-reviewed coverage: **16 / 16 story scans**
-- English batches source-reviewed: **4 / 4**
-- Full English story assembly: **complete**
-- English editorial consistency review: **PASS**
-- English release review: **PASS**
-- English story-body translation: **COMPLETE**
+- `blocked`: **6** — scans 3, 4, 15, 17, 21, 22
+- `needs-review`: **0**
+- `not-started`: **0**
+
+Every page from cover through front matter, story, printed errata, advertisements and back cover now has a terminal source disposition.
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
-Tamil audit: [`audit.md`](audit.md).
+Full Tamil audit: [`audit.md`](audit.md).
 
-## Final Tamil layer
+## Final front-matter disposition
 
-- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized archival story assembly for scans 7–22;
-- [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 scan-23 publisher corrections kept separately;
-- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — final Tamil consistency review: **PASS**.
+The last open pages, scans **3–4**, received a native-scan/high-resolution final pass.
 
-The four terminal source-limited story pages remain scans **15, 17, 21 and 22**. Their gaps are explicit and have not been reconstructed.
+### Scan 3 — `“குடியரசு”` / `“தொழிலாளர்”`
+
+Final status: **`blocked`** because two short portions of the upper review are physically hidden by a large library stamp.
+
+Visible readings finalized in that pass include:
+
+- `நினைவாயிற்று`;
+- `விபுலானந்தரும் மல்லிகாவும்`;
+- lower-review ending `திராவிட மக்களின் ஆதரவு கிடைக்குமென்று நம்புகிறோம்.`
+
+### Scan 4 — `என் வெளியிட்டேன் ?...`
+
+Final status: **`blocked`** because one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct even at maximum useful enlargement.
+
+Other visible readings finalized include:
+
+- `ஹிட்-லரிசம்`;
+- `திராவிடருக்கானும்`;
+- `பயனாக ஏற்படும்`;
+- `ஆக்கம் தருக!`.
+
+Neither blocked page is awaiting another pass on this same copy. They should be reopened only if a genuinely clearer source is introduced.
+
+## Tamil story layer
+
+Story scans **7–22** were already fully audited:
+
+- story scans `verified`: **12 / 16**
+- story scans `blocked`: **4 / 16** — scans 15, 17, 21, 22
+- story scans awaiting review: **0**
+
+Derived/control files:
+
+- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized archival story assembly;
+- [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all **10** scan-23 publisher corrections kept separately;
+- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — **PASS**.
 
 ## English translation layer
 
-Control/review files:
+The English scope is the **story body only, scans 7–22**.
 
-- [`translations/en/README.md`](translations/en/README.md)
-- [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
-- [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
-- [`translations/en/ERRATA_NOTES.md`](translations/en/ERRATA_NOTES.md)
-- [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
-- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
+- source-reviewed batches: **4 / 4**
+- assembled English story: [`translations/en/kizhavan-kanavu-en.md`](translations/en/kizhavan-kanavu-en.md)
+- English source coverage: **16 / 16 story scans**
+- explicit `SOURCE BLOCKED` story locations: **8 / 8**
+- editorial consistency review: [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**
+- release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md) — **PASS / release-ready with documented source limitations**
 
-Source-reviewed batches:
-
-- [`translations/en/batches/01-scans-07-10.md`](translations/en/batches/01-scans-07-10.md)
-- [`translations/en/batches/02-scans-11-14.md`](translations/en/batches/02-scans-11-14.md)
-- [`translations/en/batches/03-scans-15-18.md`](translations/en/batches/03-scans-15-18.md)
-- [`translations/en/batches/04-scans-19-22.md`](translations/en/batches/04-scans-19-22.md)
-
-Full assembled English story:
-
-- [`translations/en/kizhavan-kanavu-en.md`](translations/en/kizhavan-kanavu-en.md)
-
-Release result:
-
-- scans represented: **16 / 16** exactly once and in order;
-- source-page markers preserved: **PASS**;
-- explicit `SOURCE BLOCKED` story locations: **8 / 8** — scan 15 ×2, scan 17 ×1, scan 21 ×4, scan 22 ×1;
-- scan-22 publisher/printer/footer material included in English story prose: **No**;
-- scan-23 publisher errata silently substituted: **No**;
-- editorial consistency review: **PASS**;
-- release report: **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
+The scan-23 publisher errata is not silently substituted into either Tamil or English archival prose.
 
 ## Important source distinctions
 
 - scan 7 printed page is not inferred;
 - scan 13 visible `வைத்திருந்தான்` and scan-23 errata `வைத்திருந்தாள்` remain distinct;
-- scan 23 remains a separate publisher errata layer;
+- `blocked` marks terminal limitations of this physical copy, not unfinished OCR/review work;
 - source PDF remains outside GitHub;
-- source-blocked text remains terminal for this copy unless a genuinely clearer source is later introduced;
-- editorial review may join mechanical page continuations but must not normalize or invent source wording.
+- no stamp-hidden or worn wording may be reconstructed from context.
 
-## Completion scope
+## Completion state
 
-The **English story-body translation for scans 7–22 is complete**.
+**கிழவன் கனவு — archival processing for this supplied physical copy: COMPLETE.**
 
-The entire physical publication is not yet in a fully closed Tamil audit state because front-matter scans **3–4** remain `needs-review`. Those pages are outside the story-body English translation scope.
+**English story-body translation: COMPLETE AND RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS.**
 
-## Next exact activity
+## Next activity
 
-Perform the final high-resolution source-disposition pass on **front-matter scans 3–4**. Promote each to `verified` if every visible printed reading can be established; otherwise convert genuinely unrecoverable locations to terminal `blocked` with explicit source-condition notes. Then update the page map/audit/README/HANDOVER to close the full 26-page Tamil audit.
+No further work is required for this source unless a clearer copy is introduced. The next repository activity is source registration and inspection for the **next Kalaignar short-story PDF** when supplied.
