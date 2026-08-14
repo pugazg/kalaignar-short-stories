@@ -27,7 +27,7 @@ transcription_method: "final high-resolution direct visual audit; genuinely indi
 
 - இந்தப் பக்கம் high-resolution source render மற்றும் பல enlargement crops மூலம் இறுதியாக மீண்டும் ஆய்வு செய்யப்பட்டது.
 - முன்பே உறுதிப்படுத்தப்பட்ட **`சாகும் வரையில்`** வாசிப்பு நிலைநிறுத்தப்பட்டது.
-- இன்னும் நான்கு குறும் இடங்கள் source type-ன் kulirvu/wear காரணமாக exact letters-ஐ source-faithful confidence-ல் தரவில்லை.
+- இன்னும் நான்கு குறும் இடங்கள் அச்சின் kulaintha / indistinct நிலை காரணமாக exact letters-ஐ source-faithful confidence-ல் தரவில்லை.
 - அவை வெளிப்புற வரலாற்று அறிவு, names, later editions அல்லது context மூலம் நிரப்பப்படவில்லை.
 - supplied source copy-யை மட்டும் கொண்டு மேலும் தீர்க்க இயலாததால் page status **`blocked`** ஆக இறுதிப்படுத்தப்பட்டது.
 - முதல் சொல் scan 20-இன் sentence continuation; கடைசி சொல் scan 22-க்கு தொடர்கிறது.
