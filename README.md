@@ -14,7 +14,7 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil source finalized; assembly PASS; English Batches 1–2 source-reviewed** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil source finalized; assembly PASS; English Batches 1–3 source-reviewed** |
 
 ### தற்போதைய page status
 
@@ -54,17 +54,18 @@ Batch progress:
 
 1. **scans 7–10 — source-reviewed**
 2. **scans 11–14 — source-reviewed**
-3. scans 15–18 — not-started
+3. **scans 15–18 — source-reviewed**
 4. scans 19–22 — not-started
 
 Completed English batches:
 
 - `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`
 - `stories/kizhavan-kanavu/translations/en/batches/02-scans-11-14.md`
+- `stories/kizhavan-kanavu/translations/en/batches/03-scans-15-18.md`
 
-English source-reviewed coverage is now **8 / 16 story scans**. Batch 2 directly checked the final Tamil scans 11–14, preserved the scan-13 visible-reading / publisher-errata distinction, and carried both page-boundary continuations explicitly without importing later source text.
+English source-reviewed coverage is now **12 / 16 story scans**. Batch 3 preserves all **three** terminal source gaps in its range separately—two on scan 15 and one on scan 17—and does not reconstruct them from context or outside knowledge.
 
-A `blocked-by-source` Tamil gap in Batches 3–4 must remain explicitly blocked in English. Publisher errata remains a separate editorial layer rather than a silent substitution.
+Batch 4 must preserve four distinct source-blocked readings on scan 21 and the stamp-obscured final-story phrase on scan 22. Publisher/printer footer material on scan 22 remains outside the English story scope.
 
 ## களஞ்சிய அமைப்பு
 
@@ -93,6 +94,7 @@ stories/
         batches/
           01-scans-07-10.md
           02-scans-11-14.md
+          03-scans-15-18.md
 ```
 
 ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled text, errata, audit, translation போன்றவை derived layers ஆக மட்டுமே சேர்க்கப்படும்.
@@ -102,4 +104,4 @@ stories/
 
 ## அடுத்த activity
 
-Begin **கிழவன் கனவு — English Translation Batch 3, scans 15–18 only**. Preserve the two scan-15 blocked locations and the scan-17 blocked phrase exactly where they occur, retain source-page markers, and complete direct Tamil-to-English source review before moving to Batch 4.
+Begin **கிழவன் கனவு — English Translation Batch 4, scans 19–22 only**. Complete the scan-18/19 continuation, preserve all scan-21 and scan-22 source gaps explicitly, retain source-page markers, exclude the scan-22 footer/imprint from story prose, and complete direct Tamil-to-English source review before assembling the full English story.
