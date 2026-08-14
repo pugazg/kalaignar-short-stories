@@ -27,13 +27,25 @@ The front-matter dates (including 1945 and the author-note date **20-2-46**) are
 
 - 26-page source manifest: **complete**
 - Page records created: **6 / 26**
-- Scan 1: **verified**
-- Scans 2–6: **partial** — headings/dates/signatures registered; full body transcription pending
-- Scans 7–26: **not-started**
+- `verified`: **4** — scans 1, 2, 5, 6
+- `needs-review`: **2** — scans 3, 4
+- scans 7–26: **not-started**
+- Front matter scans 2–6: **direct visual transcription completed to the limit of the source scan**
+- Story-body transcription: **not started**
 - Tamil source audit: **not started**
 - English translation: **blocked until Tamil source audit is complete**
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
+
+## Front-matter audit result
+
+- Scan 2 (`மதிப்புரை.`) — fully transcribed and verified.
+- Scan 3 (`“குடியரசு”` / `“தொழிலாளர்”`) — readable text transcribed; several words in the upper review are physically hidden by a library stamp. They remain explicitly unresolved rather than reconstructed.
+- Scan 4 (`என் வெளியிட்டேன் ?...`) — transcription completed; one short mid-page phrase remains unresolved because the printed characters cannot be distinguished confidently from this scan.
+- Scan 5 (`வணக்கம் பல!...`) — fully transcribed and verified.
+- Scan 6 (`எழுதியது; ஏன்?`) — fully transcribed and verified.
+
+The two `needs-review` pages are not waiting for guessed OCR completion. Their unresolved readings require either a clearer scan/copy or a future source comparison.
 
 ## Source-first rules for this work
 
@@ -45,4 +57,4 @@ Page-level status: [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Next exact activity
 
-Complete **word-for-word direct visual transcription of scans 2–6**, resolving as much of the front matter as the scan supports. Keep any genuinely obscured readings explicit. Only after those pages are audited should work proceed to story body scans **7–10**.
+Begin the actual **கிழவன் கனவு** story body with scans **7–10**. Create the four page records, transcribe each page word-for-word by direct visual comparison, preserve dialogue punctuation and paragraph boundaries, separately record stamps/physical marks, and promote only fully checked pages to `verified`.
