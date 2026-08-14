@@ -6,7 +6,7 @@
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
 
-மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. தெளிவில்லாத வாசிப்புகள் வெளிப்படையாக `needs-review`, `partial`, அல்லது `blocked` எனக் குறிக்கப்பட வேண்டும்.
+மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. தெளிவில்லாத வாசிப்புகள் வெளிப்படையாக `blocked` ஆகக் குறிக்கப்பட வேண்டும்.
 
 **மூல PDF கோப்புகள் இந்த repository-யில் commit செய்யப்படாது.** அவற்றின் filename, checksum, edition identity, scan condition மற்றும் page mapping மட்டும் metadata-வில் பதிவு செய்யப்படும்.
 
@@ -18,20 +18,25 @@
 
 ### இறுதி physical-copy page status
 
-- `verified`: **20**
-- `blocked`: **6** — scans 3, 4, 15, 17, 21, 22
+- `verified`: **21**
+- `blocked`: **5** — scans 3, 4, 15, 17, 21
 - `needs-review`: **0**
 - `not-started`: **0**
 
-The complete physical publication—from cover through front matter, story, printed errata, advertisements and back cover—now has **26 / 26 terminal page dispositions**.
-
-The final front-matter pass converted scans **3–4** from generic review status to terminal `blocked`: scan 3 has two short `“குடியரசு”` review passages physically hidden by a library stamp; scan 4 has one short phrase that remains visually indistinct at maximum useful enlargement. No wording was reconstructed from context.
+The complete physical publication has **26 / 26 terminal page dispositions**.
 
 ## Tamil story layer
 
-Story-body scans **7–22** remain:
+Story-body scans **7–22**:
 
-- **12 verified / 4 source-blocked / 0 needs-review**.
+- **13 verified / 3 source-blocked / 0 needs-review**;
+- explicit blocked story-text locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4.
+
+Scan **22 / printed page 18** is now verified with the corrected ending:
+
+**`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`**
+
+The salesperson / advertisement / publisher-printer material below that conclusion is not part of the story and is intentionally excluded from story transcription/translation scope.
 
 Control/derived files:
 
@@ -46,9 +51,14 @@ The **story-body English translation, scans 7–22, is COMPLETE**.
 
 - 4 / 4 source batches reviewed;
 - 16 / 16 story scans assembled;
-- 8 / 8 terminal `SOURCE BLOCKED` story locations retained;
+- **7 / 7** terminal `SOURCE BLOCKED` story locations retained;
+- scan 22 conclusion resolved and translated;
 - editorial consistency review: **PASS**;
 - release review: **PASS — release-ready with documented source limitations**.
+
+Resolved English ending:
+
+**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
 
 Final/review files include:
 
@@ -57,7 +67,7 @@ Final/review files include:
 - `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
 - `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`
 
-Scan-22 publisher/printer/footer material remains outside the English story prose, and scan-23 errata is not silently substituted.
+Scan-23 errata is not silently substituted into archival Tamil or English prose.
 
 ## களஞ்சிய அமைப்பு
 
