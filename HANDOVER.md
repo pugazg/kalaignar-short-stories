@@ -68,6 +68,7 @@ English translation control layer:
 English translation batches:
 
 - `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md` — **source-reviewed**
+- `stories/kizhavan-kanavu/translations/en/batches/02-scans-11-14.md` — **source-reviewed**
 
 ## Current status
 
@@ -83,14 +84,14 @@ English translation batches:
 - Story scans `blocked`: **4 / 16**
 - Story scans awaiting Tamil review: **0**
 - Printed errata mapping: **10 / 10 entries**
-- Final high-resolution unresolved-reading pass: **complete**
 - Final assembled Tamil synchronization: **complete**
 - Assembly consistency review: **PASS**
 - English translation workflow: **active**
 - English Batch 1 / scans 7–10: **SOURCE-REVIEWED**
-- English Batch 2 / scans 11–14: **not-started**
+- English Batch 2 / scans 11–14: **SOURCE-REVIEWED**
 - English Batch 3 / scans 15–18: **not-started**
 - English Batch 4 / scans 19–22: **not-started**
+- English source-reviewed coverage: **8 / 16 story scans**
 - Translation gate: **OPEN**
 
 ## Final story scan dispositions
@@ -120,30 +121,17 @@ Front-matter scans **3–4** remain `needs-review` because of separate source-co
 
 ## Final Tamil assembly result
 
-`stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` has been regenerated from the finalized page records.
+`stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` is synchronized with the finalized page records.
 
-Confirmed synchronization:
+Confirmed:
 
-- scan 8 contains `பூகோள பூரணர்த்திக`;
-- scan 14 contains `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே`;
-- scan 18 contains `விட்டிருந்து`;
-- scans 15, 17, 21 and 22 carry the same explicit `blocked-by-source` markers as their page records;
-- all 16 story scan markers occur in order;
-- scan 22 publisher/printer footer is not included in the story assembly;
+- all 16 story scan markers occur once and in order;
+- scan 8/14/18 final readings are incorporated;
+- scans 15/17/21/22 carry explicit `blocked-by-source` markers;
+- scan 22 publisher/printer footer is excluded from the story assembly;
 - scan 23 errata is not silently merged.
 
 `ASSEMBLY_REVIEW.md` is **PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED**.
-
-## Important archival rules / findings
-
-1. **Do not reconstruct stamp-hidden words from context.**
-2. **Do not silently modernize source forms.** Unusual forms confirmed during audit remain as printed.
-3. **Do not infer scan 7 pagination.**
-4. **Errata is a separate layer.** All 10 corrections from scan 23 remain separate from archival page readings and the assembled story.
-5. **Scan 13 distinction:** page prints `வைத்திருந்தான்`; errata says `வைத்திருந்தாள்`.
-6. **Advertisements/back cover are physical-source records, not story prose.**
-7. **Source PDF remains outside GitHub.**
-8. **`blocked` is a terminal source-condition status for this copy.** Do not repeatedly guess at those locations.
 
 ## English translation workflow
 
@@ -158,45 +146,54 @@ Source-page/batch mapping is fixed in:
 Batch progress:
 
 1. **Batch 1 — scans 7–10 — SOURCE-REVIEWED**
-2. **Batch 2 — scans 11–14 — not-started**
+2. **Batch 2 — scans 11–14 — SOURCE-REVIEWED**
 3. **Batch 3 — scans 15–18 — not-started**
 4. **Batch 4 — scans 19–22 — not-started**
 
 ### Batch 1 result
 
+- source scans represented: **4 / 4**
+- source-blocked locations: **0**
+- source-page order/markers: **PASS**
+- source-specific `வஸ்திராபரண` / `பூரணர்த்திக`: not silently normalized
+- scan-10 continuation into scan 11: explicitly marked
+
+### Batch 2 result
+
 File:
 
-`stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`
+`stories/kizhavan-kanavu/translations/en/batches/02-scans-11-14.md`
 
-Source review checked the final Tamil page records for scans 7, 8, 9 and 10 directly.
+Source review was completed directly against scans **11, 12, 13 and 14**.
 
 - source scans represented: **4 / 4**
 - source order / printed-page markers: **PASS**
-- source-blocked locations: **0** in this batch
+- source-blocked locations: **0**
+- scan-10/11 continuation: completed without rewriting Batch 1
+- scan-14/15 continuation: explicitly marked without importing Batch 3 text
+- scan-13 `வைத்திருந்தான்` vs printed errata `வைத்திருந்தாள்`: documented explicitly; no silent substitution
+- scan-14 verified unusual wording: translated conservatively and noted
 - publisher errata silently substituted: **No**
-- recurring names and religious/political terminology: reviewed
-- verified source-specific forms `வஸ்திராபரண` and `பூரணர்த்திக`: retained without silent normalization
-- scan 10 ends in a mechanical sentence continuation into scan 11; Batch 1 marks it explicitly rather than importing Batch 2 source text.
 
 Mandatory translation rules remain:
 
 - translate source-supported Tamil only;
 - retain source scan markers in English;
-- preserve each `blocked-by-source` gap at the same textual position;
+- preserve every `blocked-by-source` gap at the same textual position;
 - never invent English for missing Tamil;
 - do not silently substitute scan 23 errata into archival translation prose;
 - source-review each batch before beginning the next one.
 
 ## Next exact activity
 
-Begin **English Translation Batch 2 — scans 11–14 only**.
+Begin **English Translation Batch 3 — scans 15–18 only**.
 
-1. Re-read final Tamil page records for scans 11, 12, 13 and 14.
-2. Create `stories/kizhavan-kanavu/translations/en/batches/02-scans-11-14.md`.
-3. Translate the scan-10/11 mechanical continuation carefully while preserving the scan boundary.
-4. Retain source-scan / printed-page markers.
-5. Translate faithfully without modernization, expansion or silent errata substitution.
-6. Compare the completed English batch directly against all four Tamil page records.
-7. Mark Batch 2 `source-reviewed` only after omissions, additions, names, rhetoric and page boundaries are checked.
-8. Update the translation workspace and this handover.
-9. Do **not** begin Batch 3 until Batch 2 source review passes.
+1. Re-read final Tamil page records for scans 15, 16, 17 and 18.
+2. Create `stories/kizhavan-kanavu/translations/en/batches/03-scans-15-18.md`.
+3. Complete the scan-14/15 continuation without altering Batch 2.
+4. Preserve **both** scan-15 source-blocked locations explicitly in English.
+5. Preserve the scan-17 source-blocked phrase explicitly at its exact textual position.
+6. Translate verified scans 16 and 18 without smoothing over source gaps.
+7. Retain all source-scan / printed-page markers.
+8. Complete direct Tamil-to-English source review across all four pages.
+9. Do **not** begin Batch 4 until Batch 3 passes.
