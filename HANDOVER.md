@@ -18,13 +18,15 @@
 - File size: **11,017,627 bytes**
 - Scan pages: **26**
 
-## Source structure confirmed from the scan
+## Source structure confirmed from full visual inspection
 
 - scan 1 — cover
 - scans 2–6 — reviews / publisher-editorial material / author note
 - scans 7–22 — `கிழவன் கனவு` story body
-- scans 23–25 — catalogue / advertisements
-- scan 26 — back cover
+- scan 23 — **`பிழை திருத்தம்.`** errata table + tobacco advertisement
+- scan 24 — `ராஜேந்திரா நைஸ் புகையிலை` advertisement
+- scan 25 — `தியாகராஜ விலாஸ்` advertisement / portrait
+- scan 26 — back cover / small child illustration / no readable printed text
 
 Visible story-body pagination:
 
@@ -32,7 +34,7 @@ Visible story-body pagination:
 - sequentially through scan 22 = printed page `(18)`
 - scan 7's printed page number is not clearly visible; do **not** infer `(3)` into the archival record.
 
-## Files currently created
+## Files created
 
 Root:
 
@@ -40,54 +42,57 @@ Root:
 - `SHORT_STORY_PROCESSING_GUIDE.md`
 - `HANDOVER.md`
 
-Story:
+Story control files:
 
 - `stories/kizhavan-kanavu/README.md`
 - `stories/kizhavan-kanavu/metadata/source.md`
 - `stories/kizhavan-kanavu/indexes/page-map.md`
-- `stories/kizhavan-kanavu/pages/0001-cover.md`
-- `stories/kizhavan-kanavu/pages/0002-mathippurai.md`
-- `stories/kizhavan-kanavu/pages/0003-reviews.md`
-- `stories/kizhavan-kanavu/pages/0004-en-veliyitten.md`
-- `stories/kizhavan-kanavu/pages/0005-vanakkam-pala.md`
-- `stories/kizhavan-kanavu/pages/0006-ezhuthiyathu-yen.md`
 
-## Status after front-matter batch
+Page records:
+
+- scans 1–6: `pages/0001-...` through `pages/0006-...`
+- scans 7–22: `pages/0007-kizhavan-kanavu-01.md` through `pages/0022-kizhavan-kanavu-16.md`
+- scan 23: `pages/0023-errata-advertisement.md`
+- scan 24: `pages/0024-advertisement.md`
+- scan 25: `pages/0025-thiyagaraja-vilas-ad.md`
+- scan 26: `pages/0026-back-cover.md`
+
+## Status after full-scan archival batch
 
 - Source registered: **yes**
 - 26-page manifest: **complete**
-- Page records: **6 / 26**
-- `verified`: **4** — scans 1, 2, 5, 6
-- `needs-review`: **2** — scans 3, 4
-- `not-started`: **20** — scans 7–26
-- Scans 2–6 direct visual transcription: **completed to the limit supported by the scan**
-- Story-body transcription: **not started**
-- Tamil audit: **not started**
+- Page records: **26 / 26**
+- `verified`: **7** — scans 1, 2, 5, 6, 24, 25, 26
+- `needs-review`: **19** — scans 3, 4, 7–23
+- `not-started`: **0**
+- Story-body direct visual transcription: **complete for scans 7–22**
+- Back matter through back cover: **archived**
+- Tamil audit: **pending**
 - English translation: **do not start yet**
 
-## Front-matter results / unresolved items
+## Important unresolved / caution items
 
-1. **Scan 2 — verified.** `மதிப்புரை.` by A. P. ஜனார்த்தனம் has been transcribed and visually checked.
-2. **Scan 3 — needs-review.** The `“குடியரசு”` review has several printed words physically covered by a large library stamp. Readable text has been transcribed; hidden wording is represented explicitly as stamp-obscured and must not be reconstructed from context. The lower `“தொழிலாளர்”` review is readable and transcribed.
-3. **Scan 4 — needs-review.** The publisher/editorial note is transcribed, but one short phrase in the middle cannot be distinguished confidently in the supplied scan. It remains explicitly unresolved rather than guessed.
-4. **Scans 5–6 — verified.** `வணக்கம் பல!...` and `எழுதியது; ஏன்?` are fully transcribed and directly checked.
-5. The cover imprint remains recorded as visible in the source; do not normalize the spelling/punctuation into a modern bibliographic form.
-6. Internal dates printed in reviews/notes are not proof of the second edition's publication year.
-7. Back-matter advertisements belong to the physical source record but must not be assembled into the story text.
+1. **Scan 3 — library stamp obstruction.** Several printed words in the upper review are physically hidden. Do not reconstruct them from context.
+2. **Scan 4 — one short unclear phrase.** Keep explicit until a clearer source supports a reading.
+3. **Scans 7–22 — provisional source readings.** The full story has been transcribed by visual comparison, but worn type / historical printing and several unclear words remain. These pages intentionally remain `needs-review` until the dedicated Tamil audit.
+4. **Scan 15 — stamp over story text.** Hidden words must remain unresolved unless another source copy is deliberately introduced and documented.
+5. **Scan 22 — conclusion/footer obstruction.** A large circular library stamp and handwritten `76930` obscure part of the story conclusion and publisher/printer footer. Do not guess the hidden wording.
+6. **Scan 23 classification corrected.** It is **not** an `இவை கிடைக்கும்` catalogue page. It is a **`பிழை திருத்தம்.`** table plus tobacco advertising. One errata correction entry (page 7 / line 18) remains visually unclear.
+7. **Errata must remain a separate layer.** Do not silently alter page transcriptions using scan 23. An audited assembled text may later reference the printed corrections explicitly.
+8. **Edition year remains unresolved.** Internal dates in reviews/notes are not automatically the second-edition publication year.
+9. **Source PDF remains outside GitHub.** Never commit the PDF unless the user explicitly changes the repository policy.
 
 ## Next exact activity
 
-Begin the **story body scans 7–10**.
+Perform the **full Tamil source audit of scans 7–23**.
 
-1. Re-open source scans 7, 8, 9 and 10.
-2. Create:
-   - `pages/0007-kizhavan-kanavu-01.md`
-   - `pages/0008-kizhavan-kanavu-02.md`
-   - `pages/0009-kizhavan-kanavu-03.md`
-   - `pages/0010-kizhavan-kanavu-04.md`
-3. Do **not** infer a printed page number for scan 7.
-4. Record scan 8 as printed page `4`, scan 9 as `5`, scan 10 as `6` only because those numbers are visibly printed.
-5. Transcribe word-for-word by direct visual comparison; preserve dialogue punctuation, paragraph boundaries, historical spelling and unusual grammar.
-6. Record library stamps / physical marks separately from printed story text.
-7. Use `verified` only after direct page audit; otherwise use `needs-review` or `partial` with the exact unresolved reading noted.
-8. Update `indexes/page-map.md`, story `README.md`, root `README.md`, and this `HANDOVER.md` after the batch.
+1. Re-open scans 7–23 page by page.
+2. Compare every current Markdown record directly against the corresponding scan.
+3. Resolve provisional readings only when the visible source supports them.
+4. Preserve historical spelling, punctuation, grammar, names and line/paragraph structure; do not modernize silently.
+5. Leave stamp-obscured and genuinely unreadable text explicitly unresolved.
+6. Cross-check scan 23's printed errata against the relevant source pages, but do **not** overwrite the archival page text silently.
+7. Update each page status to `verified` only after direct audit; otherwise retain `needs-review` with a precise note.
+8. Update `indexes/page-map.md`, story `README.md`, root `README.md`, and this `HANDOVER.md`.
+9. Only after the Tamil source audit, create an assembled Tamil story text / documented errata layer.
+10. Do **not** begin English translation until the Tamil audit gate is satisfied.
