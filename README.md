@@ -14,29 +14,52 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records; story source audit complete; 12/16 story scans verified; 4/16 source-blocked** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Tamil story source finalized; assembly PASS; English translation workflow ready** |
 
 ### தற்போதைய page status
 
 - `verified`: **20**
 - `blocked`: **4**
-- `needs-review`: **2** — front matter scans 3–4
+- `needs-review`: **2** — front matter scans 3–4 only
 - `not-started`: **0**
 
 The complete physical publication—from cover through story, printed errata, advertisements and back cover—has page-level archival records.
 
-The story-body scans **7–22** have all completed direct visual audit. The final high-resolution pass resolved scans **8, 14 and 18**; scans **15, 17, 21 and 22** are now formally `blocked` because the supplied physical source itself does not expose enough information to recover specific words/phrases safely. Those gaps are marked `blocked-by-source`, not guessed.
+The story-body scans **7–22** have all completed direct visual audit. Final story disposition is **12 verified / 4 source-blocked / 0 needs-review**. Scans **15, 17, 21 and 22** are formally `blocked` because the supplied physical copy does not expose enough visual information to recover specific words/phrases safely. Those gaps remain explicit `blocked-by-source` markers.
 
-Scan **23**'s printed **`பிழை திருத்தம்.`** remains a separate correction layer and has not been silently merged into the archival page text.
+Scan **23**'s printed **`பிழை திருத்தம்.`** remains a separate correction layer and has not been silently merged into the archival page text or assembled story.
 
-Current derived artifacts:
+## Final Tamil story layer
 
+Current control/derived artifacts:
+
+- `stories/kizhavan-kanavu/audit.md`
 - `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md`
 - `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md`
-- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md`
-- `stories/kizhavan-kanavu/audit.md`
+- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS**
 
-The page records are the finalized Tamil source layer. The assembled Tamil story still requires one synchronization pass to reflect the newly resolved readings and final `blocked-by-source` markers before the English translation workflow is opened.
+The synchronized assembled Tamil story represents **all 16 story scans exactly once**, incorporates the final high-resolution readings, and preserves every source-blocked location explicitly.
+
+## English translation stage
+
+The controlled English story-translation gate is now **OPEN**.
+
+Translation workspace:
+
+- `stories/kizhavan-kanavu/translations/en/README.md`
+- `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
+- `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
+
+No English story prose has been drafted yet.
+
+The planned translation batches are:
+
+1. scans 7–10
+2. scans 11–14
+3. scans 15–18
+4. scans 19–22
+
+A `blocked-by-source` Tamil gap must remain explicitly blocked in English. Publisher errata must remain separately documented rather than silently substituted into the archival translation.
 
 ## களஞ்சிய அமைப்பு
 
@@ -57,6 +80,11 @@ stories/
       kizhavan-kanavu-errata.md
     audit.md
     ASSEMBLY_REVIEW.md
+    translations/
+      en/
+        README.md
+        TRANSLATION_PLAN.md
+        SOURCE_MAP.md
 ```
 
 ஒவ்வொரு சிறுகதையும் தனித்த `stories/<story-slug>/` அடைவில் பதிவாகும். பக்கவாரி records முதன்மை archival layer; assembled text, errata, audit, translation போன்றவை derived layers ஆக மட்டுமே சேர்க்கப்படும்.
@@ -66,4 +94,4 @@ stories/
 
 ## அடுத்த activity
 
-Synchronize `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` and `ASSEMBLY_REVIEW.md` with the finalized page records. After that consistency check passes, create the English translation workflow/plan while preserving every source-blocked gap explicitly.
+Begin **கிழவன் கனவு — English Translation Batch 1, scans 7–10 only**. Retain source-page markers and complete a direct Tamil-to-English source review before moving to Batch 2.
