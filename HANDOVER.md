@@ -45,6 +45,7 @@ Root:
 Story control files:
 
 - `stories/kizhavan-kanavu/README.md`
+- `stories/kizhavan-kanavu/audit.md`
 - `stories/kizhavan-kanavu/metadata/source.md`
 - `stories/kizhavan-kanavu/indexes/page-map.md`
 
@@ -57,42 +58,90 @@ Page records:
 - scan 25: `pages/0025-thiyagaraja-vilas-ad.md`
 - scan 26: `pages/0026-back-cover.md`
 
-## Status after full-scan archival batch
+## Status after Tamil source audit
 
 - Source registered: **yes**
 - 26-page manifest: **complete**
 - Page records: **26 / 26**
-- `verified`: **7** — scans 1, 2, 5, 6, 24, 25, 26
-- `needs-review`: **19** — scans 3, 4, 7–23
+- `verified`: **16**
+- `needs-review`: **10**
 - `not-started`: **0**
 - Story-body direct visual transcription: **complete for scans 7–22**
+- Dedicated Tamil source audit, scans 7–23: **completed**
+- Audit report: **created** at `stories/kizhavan-kanavu/audit.md`
 - Back matter through back cover: **archived**
-- Tamil audit: **pending**
 - English translation: **do not start yet**
 
-## Important unresolved / caution items
+### Scans promoted by the audit
 
-1. **Scan 3 — library stamp obstruction.** Several printed words in the upper review are physically hidden. Do not reconstruct them from context.
-2. **Scan 4 — one short unclear phrase.** Keep explicit until a clearer source supports a reading.
-3. **Scans 7–22 — provisional source readings.** The full story has been transcribed by visual comparison, but worn type / historical printing and several unclear words remain. These pages intentionally remain `needs-review` until the dedicated Tamil audit.
-4. **Scan 15 — stamp over story text.** Hidden words must remain unresolved unless another source copy is deliberately introduced and documented.
-5. **Scan 22 — conclusion/footer obstruction.** A large circular library stamp and handwritten `76930` obscure part of the story conclusion and publisher/printer footer. Do not guess the hidden wording.
-6. **Scan 23 classification corrected.** It is **not** an `இவை கிடைக்கும்` catalogue page. It is a **`பிழை திருத்தம்.`** table plus tobacco advertising. One errata correction entry (page 7 / line 18) remains visually unclear.
-7. **Errata must remain a separate layer.** Do not silently alter page transcriptions using scan 23. An audited assembled text may later reference the printed corrections explicitly.
-8. **Edition year remains unresolved.** Internal dates in reviews/notes are not automatically the second-edition publication year.
-9. **Source PDF remains outside GitHub.** Never commit the PDF unless the user explicitly changes the repository policy.
+Scans **7, 9, 10, 11, 12, 16, 19, 20 and 23** are now `verified` after direct re-comparison with the supplied scan.
+
+### Remaining `needs-review`
+
+Front matter:
+
+- scan **3** — library stamp physically hides words in the upper review;
+- scan **4** — one short phrase remains unclear.
+
+Story / source pages:
+
+- scan **8** — one visually unclear word after `பூகோள`;
+- scan **13** — audit identified several corrections, but final source-faithful reconciliation of the page record remains pending; printed `வைத்திருந்தான்` and scan-23 errata `வைத்திருந்தாள்` must remain distinct layers;
+- scan **14** — several worn-type readings inside the long dream passage remain ambiguous;
+- scan **15** — a large library stamp physically covers story text; do not reconstruct it from context;
+- scan **17** — one short phrase following `பார்வதியை` remains unclear;
+- scan **18** — one short opening phrase remains unclear;
+- scan **21** — four short political/historical phrases remain visually unclear;
+- scan **22** — library stamp obscures part of the conclusion and publisher/printer footer.
+
+## Important audit corrections / confirmations
+
+- scan 7 — **`டூப்ளிகேட் கிருஷ்ணலீலா`**
+- scan 9 — **`காயமேயிது`**, **`இந்த அணி`**
+- scan 11 — **`சிறுபுரட்சி`**, **`இனிப்பில்`**, **`திருட்டுக் குற்றம்`**, **`அள்ளியள்ளி`**
+- scan 12 — **`அதிகாரபூர்வமாக`**, **`வீடு திரும்பும்`**
+- scan 16 — **`ஓராண்டு சிறையிலே`**, **`கரையில் இட்டதோர் மீன்`**, plus other corrected source readings
+- scan 19 — **`காட்சி சகிக்க வொண்ணாது.`**
+- scan 22 — **`வாழ்—வாள்`**, **`காதலியின்பால்`**, **`திராவிடருக்கான தினம்`**
+
+## Scan 23 errata — fully resolved
+
+The printed `பிழை திருத்தம்.` table is now fully readable:
+
+- p.7 l.6 — `சிறுபுரட்சி`
+- p.7 l.18 — `அள்ளியள்ளி`
+- p.8 l.24 — `வண்டியோட்டி`
+- p.9 l.10 — `பார்த்து`
+- p.9 l.15 — `வைத்திருந்தாள்`
+- p.9 l.16 — `முடியும்`
+- p.12 l.11 — `வினைகளை`
+- p.12 l.17 — `மல்லிகா`
+- p.13 l.29 — `செம்மாந்து`
+- p.15 l.2 — `கொந்தளிப்பு`
+
+Advertisement heading below the table is **`ஸ்ரீரோஜி மார்க்`**.
+
+### Errata rule
+
+The printed errata remains a separate publication layer. **Do not silently overwrite** the archival page text with these corrections. Any assembled reading text must make the relationship explicit.
+
+## Continuing cautions
+
+1. Never reconstruct stamp-hidden words from sentence meaning.
+2. Do not normalize unusual historical spellings merely because a modern form appears more natural.
+3. Scan 7's missing printed page number remains `—`.
+4. Internal front-matter dates are not automatically the second-edition publication year.
+5. The source PDF remains outside GitHub.
+6. English translation remains blocked until an assembled Tamil text and consistency review are completed.
 
 ## Next exact activity
 
-Perform the **full Tamil source audit of scans 7–23**.
+Create `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` as the assembled Tamil reading text.
 
-1. Re-open scans 7–23 page by page.
-2. Compare every current Markdown record directly against the corresponding scan.
-3. Resolve provisional readings only when the visible source supports them.
-4. Preserve historical spelling, punctuation, grammar, names and line/paragraph structure; do not modernize silently.
-5. Leave stamp-obscured and genuinely unreadable text explicitly unresolved.
-6. Cross-check scan 23's printed errata against the relevant source pages, but do **not** overwrite the archival page text silently.
-7. Update each page status to `verified` only after direct audit; otherwise retain `needs-review` with a precise note.
-8. Update `indexes/page-map.md`, story `README.md`, root `README.md`, and this `HANDOVER.md`.
-9. Only after the Tamil source audit, create an assembled Tamil story text / documented errata layer.
-10. Do **not** begin English translation until the Tamil audit gate is satisfied.
+1. Assemble only from the audited page records.
+2. Preserve paragraph/dialogue order and historical wording.
+3. Keep unresolved readings explicit rather than smoothing them over.
+4. Add a separate documented errata mapping/note; do not silently substitute scan-23 corrections into the archival reading layer.
+5. Cross-check the assembled text against `pages/`, `indexes/page-map.md`, and `audit.md`.
+6. Record any assembly-level discrepancies in a consistency review file.
+7. Do **not** begin English translation until that review is complete.
