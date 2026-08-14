@@ -5,13 +5,13 @@ language: "en"
 source_scans: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
 status: "editorial-reviewed"
 translation_basis: "four source-reviewed English batches from final audited Tamil page records"
-blocked_source_locations: 8
+blocked_source_locations: 7
 assembly_review_date: "2026-08-14"
 ---
 
 # The Old Man's Dream
 
-> **Assembled English archival translation.** This file combines the four independently source-reviewed English batches for scans **7–22**. Source-scan boundaries remain visible. The translation follows the finalized Tamil archival page records; publisher errata is not silently substituted. Every unrecoverable Tamil passage remains explicit as a **SOURCE BLOCKED** marker.
+> **Assembled English archival translation.** This file combines the four independently source-reviewed English batches for scans **7–22**. Source-scan boundaries remain visible. The translation follows the finalized Tamil archival page records; publisher errata is not silently substituted. Every unrecoverable Tamil story passage remains explicit as a **SOURCE BLOCKED** marker.
 
 <!-- source scan 7; printed page — -->
 
@@ -197,13 +197,13 @@ Love gave—a life of beauty! Life gave—Lenin! Markandeya's attempt! The echo 
 
 Vipulanandar and Mallika saw this dream in their minds! In the Dravidian realm, Lenin is a valiant citizen! This is the summit of their dream! As a memorial to the dream, more young comrades like Lenin are still needed!
 
-Ramasami Periyar too sees this very dream. Of the Dravidam that is going to live, **[SOURCE BLOCKED — scan 22 / printed page 18: a large circular library stamp physically obscures the final story phrase]**; that is the old man's dream.
+Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.
 
 ## Editorial source note
 
 - Story translation source range: scans **7–22**.
 - All **16 / 16** source-scan markers are retained in order.
-- Total terminal story-source gaps retained: **8** — scan 15 ×2, scan 17 ×1, scan 21 ×4, scan 22 ×1.
-- Scan 22 publisher/printer/footer material is outside the story translation and is not included here.
+- Total terminal story-source gaps retained: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4.
+- Scan 22 story conclusion is resolved; salesperson / advertisement / publisher-printer material below it is outside the story translation and is not included here.
 - Publisher errata remains a separate editorial layer; see [`ERRATA_NOTES.md`](ERRATA_NOTES.md).
 - Batch-level translator notes and source-review reports remain in `batches/`; they are not duplicated into the reading text.
