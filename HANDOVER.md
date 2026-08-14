@@ -54,12 +54,18 @@ Page records:
 
 - scans 1–26: complete under `stories/kizhavan-kanavu/pages/`
 
-Derived Tamil layer:
+Final Tamil derived layer:
 
 - `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md`
 - `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md`
 
-## Current status after final unresolved-reading pass
+English translation control layer:
+
+- `stories/kizhavan-kanavu/translations/en/README.md`
+- `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
+- `stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
+
+## Current status
 
 - Source registered: **yes**
 - 26-page manifest: **complete**
@@ -71,9 +77,14 @@ Derived Tamil layer:
 - Story scans directly audited: **16 / 16**
 - Story scans `verified`: **12 / 16**
 - Story scans `blocked`: **4 / 16**
+- Story scans awaiting Tamil review: **0**
 - Printed errata mapping: **10 / 10 entries**
 - Final high-resolution unresolved-reading pass: **complete**
-- English translation gate: **conditionally open only after assembled-text synchronization**
+- Final assembled Tamil synchronization: **complete**
+- Assembly consistency review: **PASS**
+- English translation workflow: **initialized**
+- English story prose drafted: **none yet**
+- Translation gate: **OPEN**
 
 ## Final story scan dispositions
 
@@ -96,51 +107,72 @@ Scan 13 remains the important page/errata distinction: visible page **`வைத
 3. **scan 21 / printed 17** — four short political/historical readings remain visually indistinct.
 4. **scan 22 / printed 18** — library stamp obscures part of the final story phrase and footer/imprint material.
 
-These pages are fully audited. Their unresolved locations are now explicitly labelled `blocked-by-source`; they must not return to generic `needs-review` unless a genuinely clearer source copy is introduced.
+These pages are fully audited. Their unrecoverable story locations are explicitly labelled `blocked-by-source`; they must not return to generic `needs-review` unless a genuinely clearer source copy is introduced.
 
-Front-matter scans **3–4** remain `needs-review` because of separate source-condition issues. They are outside the story-body translation layer.
+Front-matter scans **3–4** remain `needs-review` because of separate source-condition issues. They are outside the current story-body translation layer.
+
+## Final Tamil assembly result
+
+`stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` has been regenerated from the finalized page records.
+
+Confirmed synchronization:
+
+- scan 8 contains `பூகோள பூரணர்த்திக`;
+- scan 14 contains `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே`;
+- scan 18 contains `விட்டிருந்து`;
+- scans 15, 17, 21 and 22 carry the same explicit `blocked-by-source` markers as their page records;
+- all 16 story scan markers occur in order;
+- scan 22 publisher/printer footer is not included in the story assembly;
+- scan 23 errata is not silently merged.
+
+`ASSEMBLY_REVIEW.md` has been rerun and is now **PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED**.
 
 ## Important archival rules / findings
 
 1. **Do not reconstruct stamp-hidden words from context.**
 2. **Do not silently modernize source forms.** Unusual forms confirmed during audit remain as printed.
 3. **Do not infer scan 7 pagination.**
-4. **Errata is a separate layer.** All 10 corrections from scan 23 are mapped in `sections/kizhavan-kanavu-errata.md` and are not silently applied to archival page records.
+4. **Errata is a separate layer.** All 10 corrections from scan 23 remain separate from archival page readings and the assembled story.
 5. **Scan 13 distinction:** page prints `வைத்திருந்தான்`; errata says `வைத்திருந்தாள்`.
 6. **Advertisements/back cover are physical-source records, not story prose.**
 7. **Source PDF remains outside GitHub.**
 8. **`blocked` is a terminal source-condition status for this copy.** Do not repeatedly guess at those locations.
 
-## Assembled Tamil layer status
+## English translation workflow
 
-The existing `sections/kizhavan-kanavu.md` was assembled before the final high-resolution pass. It still needs synchronization with the finalized page records:
+The translation plan is defined in:
 
-- scan 8 unresolved marker → `பூரணர்த்திக`
-- scan 14 old unresolved/provisional readings → finalized high-resolution readings
-- scan 18 unresolved marker → `விட்டிருந்து`
-- scans 15, 17, 21, 22 unresolved markers → explicit `blocked-by-source` wording
+`stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
 
-Until that synchronization is complete, **page records are the authoritative current Tamil source layer**.
+Source-page/batch mapping is fixed in:
 
-`ASSEMBLY_REVIEW.md` must then be rerun/updated against the synchronized assembly.
+`stories/kizhavan-kanavu/translations/en/SOURCE_MAP.md`
 
-## Translation gate
+Planned batches:
 
-The story-body audit itself is complete to the limit of the supplied source. Translation may be opened **after assembly synchronization and consistency review pass**, with strict rules:
+1. **Batch 1 — scans 7–10**
+2. **Batch 2 — scans 11–14**
+3. **Batch 3 — scans 15–18**
+4. **Batch 4 — scans 19–22**
+
+Mandatory translation rules:
 
 - translate source-supported Tamil only;
-- retain every `blocked-by-source` gap explicitly;
-- do not infer missing Tamil in English;
-- keep printed errata separately documented rather than silently rewriting the archival source.
+- retain source scan markers in English;
+- preserve each `blocked-by-source` gap at the same textual position;
+- never invent English for missing Tamil;
+- do not silently substitute scan 23 errata into archival translation prose;
+- source-review each batch before beginning the next one.
 
 ## Next exact activity
 
-Synchronize the assembled Tamil layer and re-run its consistency review.
+Begin **English Translation Batch 1 — scans 7–10 only**.
 
-1. Update `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` from the finalized page records.
-2. Preserve scan boundaries and source pagination markers.
-3. Incorporate the resolved scan 8/14/18 readings exactly.
-4. Convert terminal gaps on scans 15/17/21/22 to `blocked-by-source` markers exactly matching the page records.
-5. Do not silently apply scan 23 errata.
-6. Update `ASSEMBLY_REVIEW.md` and verify page-record ↔ assembly ↔ errata consistency.
-7. Only after that PASS, create the English translation plan/workflow. Do not start translating prose before the synchronization check is complete.
+1. Re-read final Tamil page records for scans 7, 8, 9 and 10.
+2. Create `stories/kizhavan-kanavu/translations/en/batches/01-scans-07-10.md`.
+3. Retain source-scan / printed-page markers.
+4. Translate faithfully without modernization or expansion.
+5. Compare the completed English batch directly against all four Tamil page records.
+6. Mark the batch `source-reviewed` only after omissions, additions, names, rhetoric and page boundaries are checked.
+7. Update translation workspace status and this handover.
+8. Do **not** begin Batch 2 until Batch 1 source review passes.
