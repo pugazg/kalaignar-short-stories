@@ -2,9 +2,9 @@
 
 ## Status
 
-**FULL ENGLISH ASSEMBLY COMPLETE — EDITORIAL CONSISTENCY REVIEW: PASS**
+**RELEASE REVIEW: PASS — ENGLISH STORY-BODY TRANSLATION COMPLETE**
 
-The story-body English translation is now assembled across scans **7–22** after all four batches independently passed Tamil-to-English source review.
+The controlled English archival translation of the **கிழவன் கனவு** story body is complete for source scans **7–22**.
 
 - Batch 1 — scans 7–10: **source-reviewed**
 - Batch 2 — scans 11–14: **source-reviewed**
@@ -12,7 +12,8 @@ The story-body English translation is now assembled across scans **7–22** afte
 - Batch 4 — scans 19–22: **source-reviewed**
 - Full English assembly: **complete**
 - Editorial consistency review: **PASS**
-- Release review/report: not started
+- Release review/report: **PASS**
+- English story-body translation: **COMPLETE**
 
 English source-reviewed coverage: **16 / 16 story scans**.
 
@@ -29,12 +30,13 @@ Supporting Tamil/control layers:
 - `../../ASSEMBLY_REVIEW.md`
 - `../../sections/kizhavan-kanavu-errata.md`
 
-Workflow/control files:
+Workflow/control/review files:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`SOURCE_MAP.md`](SOURCE_MAP.md)
 - [`ERRATA_NOTES.md`](ERRATA_NOTES.md)
 - [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md)
+- [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 ## Story-source state
 
@@ -55,7 +57,7 @@ A blocked Tamil reading remains explicitly blocked in English. No translation in
 | 3 | 15–18 | 3 — scan 15 ×2; scan 17 ×1 | **source-reviewed** | [`batches/03-scans-15-18.md`](batches/03-scans-15-18.md) |
 | 4 | 19–22 | 5 — scan 21 ×4; scan 22 ×1 | **source-reviewed** | [`batches/04-scans-19-22.md`](batches/04-scans-19-22.md) |
 
-## Full English assembly
+## Final English assembly
 
 Final assembled reading file:
 
@@ -72,25 +74,22 @@ Assembly checks:
 - scan-22 publisher/printer/footer material included in story prose: **No**;
 - scan-23 publisher errata silently applied: **No**.
 
-Mechanical cross-batch continuations were joined only in the assembled reading layer; the independently source-reviewed batch files remain unchanged.
+Mechanical cross-batch continuations were joined only in the assembled reading layer; independently source-reviewed batch files remain unchanged.
 
-## Editorial consistency review
+## Editorial and release gates
 
-[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) is **PASS**.
+[`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS**.
 
-The review checked:
+[`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-- recurring names and titles;
-- religious/cultural terminology;
-- political and caste/social vocabulary;
-- narrative tense/voice;
-- quotation/dialogue style;
-- recurring metaphors;
-- all 8 source-blocked positions;
-- cross-page and cross-batch joins;
-- scan-23 errata separation.
+The release report confirms:
 
-Editorial consistency did not become source normalization. Difficult verified forms remain deliberately conservative where the Tamil itself is unusual.
+- Tamil story audit complete to the limit of the supplied copy;
+- 4 / 4 English batches source-reviewed;
+- 16 / 16 story scans assembled;
+- all 8 source-blocked locations retained;
+- 10 publisher errata entries documented separately;
+- source PDF not stored in GitHub.
 
 ## Errata layer
 
@@ -103,8 +102,12 @@ The key distinction remains:
 
 The English `had kept` does not expose that Tamil gender distinction, so the editorial note preserves it explicitly.
 
-## Next exact activity — release gate
+## Scope boundary
 
-Create `RELEASE_REPORT.md` and perform Gate D release review. The report must document source range, Tamil source status, all 8 blocked passages, 10-entry errata treatment, conservative/unresolved translation choices, final file inventory, and confirmation that the source PDF is not stored in GitHub.
+**Complete** here means the **story-body English translation for scans 7–22**.
 
-Do not remove or fill any `SOURCE BLOCKED` marker during release preparation.
+It does not mean the whole physical publication has been translated. Front matter, scan 23 advertising/errata, commercial advertisements and the back cover are outside the current English story scope. Front-matter scans **3–4** also retain their separate Tamil `needs-review` status.
+
+## Next archival activity
+
+Perform a final high-resolution disposition pass on **front-matter scans 3–4** so the Tamil audit of the entire 26-page physical copy can be closed as either `verified` or terminal `blocked`. No further work is required for the current story-body English translation unless a clearer source is introduced.
