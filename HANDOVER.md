@@ -23,44 +23,47 @@
 **FULL 26-PAGE AUDIT CLOSED TO THE LIMIT OF THE SUPPLIED SOURCE**
 
 - Page records: **26 / 26**
-- `verified`: **20**
-- `blocked`: **6** — scans **3, 4, 15, 17, 21, 22**
+- `verified`: **21**
+- `blocked`: **5** — scans **3, 4, 15, 17, 21**
 - `needs-review`: **0**
 - `not-started`: **0**
 - Printed errata mapping: **10 / 10**
 - Tamil story assembly: **complete and synchronized**
 - `ASSEMBLY_REVIEW.md`: **PASS**
 
-### Final front-matter decisions
+## Front-matter terminal blocks
 
 **Scan 3 — blocked**
 
-- two short portions of the upper `“குடியரசு”` review are physically hidden by the large library stamp;
-- final visible corrections include `நினைவாயிற்று`, `விபுலானந்தரும் மல்லிகாவும்`, and the lower-review ending `திராவிட மக்களின் ஆதரவு கிடைக்குமென்று நம்புகிறோம்.`;
-- hidden wording was not reconstructed.
+Two short portions of the upper `“குடியரசு”` review are physically hidden by a library stamp. Hidden wording was not reconstructed.
 
 **Scan 4 — blocked**
 
-- one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct in the native scan at maximum useful enlargement;
-- final visible readings include `ஹிட்-லரிசம்`, `திராவிடருக்கானும்`, `பயனாக ஏற்படும்`, and `ஆக்கம் தருக!`;
-- context was not used to fill the missing letters.
-
-These pages are terminally `blocked` for this physical copy, not pending another pass.
+One short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct. Context was not used to fill it.
 
 ## Story-body Tamil state
 
 Scans **7–22**:
 
-- `verified`: **12 / 16**
-- `blocked`: **4 / 16** — scans 15, 17, 21, 22
+- `verified`: **13 / 16**
+- `blocked`: **3 / 16** — scans 15, 17, 21
 - `needs-review`: **0**
+- explicit blocked story-text locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4
+
+### Scan 22 / printed page 18 — resolved
+
+Final Tamil conclusion:
+
+**`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`**
+
+The previous scan-22 story block is removed. Non-story salesperson / advertisement / publisher-printer material below the conclusion is intentionally excluded from story transcription scope.
 
 Important permanent distinctions:
 
 - scan 7 printed page remains `—`; do not infer `(3)`;
 - scan 13 archival page reads `வைத்திருந்தான்` while scan 23 publisher errata says `வைத்திருந்தாள்`;
 - scan 23 errata remains a separate layer;
-- all source-hidden gaps stay explicit.
+- all remaining source-hidden story gaps stay explicit.
 
 ## English translation state — COMPLETE
 
@@ -69,11 +72,15 @@ English story-body scope: scans **7–22**.
 - source-reviewed batches: **4 / 4**
 - source-reviewed coverage: **16 / 16 story scans**
 - assembled English story: `stories/kizhavan-kanavu/translations/en/kizhavan-kanavu-en.md`
-- explicit `SOURCE BLOCKED` story locations: **8 / 8**
-- editorial consistency review: **PASS**
+- explicit `SOURCE BLOCKED` story locations: **7 / 7**
+- editorial consistency review: **PASS after scan-22 synchronization**
 - release review: **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
 
-Review/control files:
+Resolved English ending:
+
+**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+
+Control/review files:
 
 - `stories/kizhavan-kanavu/translations/en/README.md`
 - `stories/kizhavan-kanavu/translations/en/TRANSLATION_PLAN.md`
@@ -92,6 +99,7 @@ Review/control files:
 6. Source PDF stays outside GitHub.
 7. `blocked` is terminal for this supplied copy unless a genuinely clearer source is introduced.
 8. English `SOURCE BLOCKED` markers must remain explicit.
+9. Scan 22's post-story sales/advertisement/footer matter is outside the story scope and should not be reintroduced into story prose.
 
 ## Completion state
 
@@ -101,7 +109,7 @@ Review/control files:
 
 ## Next exact activity
 
-Do not perform additional work on `kizhavan-kanavu` unless a genuinely clearer copy is introduced.
+Do not perform additional work on `kizhavan-kanavu` unless a genuinely clearer copy is introduced for one of the remaining blocked readings.
 
 When the **next Kalaignar short-story PDF** is supplied:
 
