@@ -33,8 +33,11 @@ Full source registration: [`metadata/source.md`](metadata/source.md).
 - Story scans 7–22 directly audited: **16 / 16**
 - Story scans `verified`: **12 / 16**
 - Story scans `blocked`: **4 / 16**
+- Story scans still awaiting Tamil review: **0**
 - Final high-resolution unresolved-reading pass: **complete**
-- English translation gate: **conditionally open after assembled-text synchronization**
+- Final assembled Tamil synchronization: **complete**
+- Assembly consistency review: **PASS**
+- English translation gate: **OPEN**
 
 Page-level status: [`indexes/page-map.md`](indexes/page-map.md).  
 Tamil audit: [`audit.md`](audit.md).
@@ -44,27 +47,44 @@ Tamil audit: [`audit.md`](audit.md).
 Three previously unresolved story pages were resolved and promoted to `verified`:
 
 - scan **8 / printed 4** — `பூகோள பூரணர்த்திக`;
-- scan **14 / printed 10** — `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே` and the corrected opening readings;
+- scan **14 / printed 10** — `என் நெற்றியை?`, `திராட்சையைச் சாப்பிடேன்`, `மந்த காசத்தினிடையே`;
 - scan **18 / printed 14** — `விட்டிருந்து`.
 
-Four pages reached the limit of the supplied physical source and are now formally `blocked`, not left in an indefinite review state:
+Four pages reached the limit of the supplied physical source and are formally `blocked`, not pending review:
 
 - scan **15** — worn word + library-stamp-obscured temple-history text;
 - scan **17** — one visually indistinct phrase after `பார்வதியை`;
 - scan **21** — four visually indistinct historical/political readings;
 - scan **22** — stamp-obscured final story phrase and footer/imprint.
 
-Each unrecoverable location is marked `blocked-by-source`; no hidden text is reconstructed from context or another edition.
+Each unrecoverable story location is marked `blocked-by-source`; no hidden text is reconstructed from context, mythology, history or another edition.
 
-## Assembled Tamil reading layer
+## Final assembled Tamil reading layer
 
-Existing derived files:
-
-- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — scans 7–22 assembled in source order;
+- [`sections/kizhavan-kanavu.md`](sections/kizhavan-kanavu.md) — synchronized final story assembly for scans 7–22;
 - [`sections/kizhavan-kanavu-errata.md`](sections/kizhavan-kanavu-errata.md) — all 10 scan-23 corrections mapped separately;
-- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — consistency review.
+- [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — final assembly/source consistency review: **PASS**.
 
-The page records are currently the finalized source layer. The assembled story file still needs a synchronization pass to incorporate the three newly resolved readings and convert the four terminal unresolved locations to `blocked-by-source` markers.
+The assembled story now contains all final scan-8/14/18 readings and the exact `blocked-by-source` markers from scans 15/17/21/22.
+
+## English translation workspace
+
+Translation-control files now exist:
+
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/TRANSLATION_PLAN.md`](translations/en/TRANSLATION_PLAN.md)
+- [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
+
+No English story prose has been drafted yet.
+
+The story translation will proceed in four source-reviewed batches:
+
+1. scans 7–10
+2. scans 11–14
+3. scans 15–18
+4. scans 19–22
+
+Every `blocked-by-source` location must remain explicit in English and may not be guessed or smoothed over.
 
 ## Important source distinctions
 
@@ -85,4 +105,4 @@ The page records are currently the finalized source layer. The assembled story f
 
 ## Next exact activity
 
-Synchronize `sections/kizhavan-kanavu.md` and `ASSEMBLY_REVIEW.md` with the finalized page records. Once that consistency check passes, create the English translation workflow/plan with strict preservation of every `blocked-by-source` gap.
+Begin **English Translation Batch 1 — scans 7–10 only**. Retain source-page markers and complete a direct Tamil-to-English source review of that batch before proceeding further.
