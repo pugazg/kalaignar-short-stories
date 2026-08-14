@@ -11,7 +11,7 @@ assembly_review_date: "2026-08-14"
 
 # The Old Man's Dream
 
-> **Assembled English archival translation.** This file combines the four independently source-reviewed English batches for scans **7–22**. Source-scan boundaries remain visible. The translation follows the finalized Tamil archival page records; publisher errata is not silently substituted. After the exhaustive source-resolution pass, no story-text `SOURCE BLOCKED` marker remains.
+> **Assembled English archival translation.** This file combines the four independently source-reviewed English batches for scans **7–22**. Source-scan boundaries remain visible. The translation follows the finalized Tamil archival page records; publisher errata is not silently substituted. After exhaustive source resolution and full-span rechecking, no story-text `SOURCE BLOCKED` marker remains.
 
 <!-- source scan 7; printed page — -->
 
@@ -127,11 +127,11 @@ Such ravings kept colliding in Markandeyar's mind as he lay upstairs, rolling ab
 
 <!-- source scan 15; printed page 11 -->
 
-if she had actually been there.......... would that have happened with her? Mallika would often tell Vipulan about Markandeyar's evil intention. While Vipulanandar and Mallika were sharing a new embrace in the flower garden, Markandeyar entered.
+if she had actually been there.......... would that have happened with her? Mallika would often tell Vipulan about Markandeyar's evil intention. While Vipulanandar and Mallika were **partaking of fresh nectar in the flower garden**, Markandeyar entered.
 
 The sight of Vipulanandar having secured Mallika permanently as the one dear to his heart tormented Markandeyar's mind. Its consequence ended in suffering.
 
-Preparations for the **Ekabhishekam** at the Vallabha Ganapati temple were proceeding rapidly. A committee bearing this name was formed, and Markandeya Sastri became its chairman. Of the committee members, three were Brahmins! One was a Mudaliar! The other was a Reddiar! The Vallabha Ganapati shrine was very ancient. It had been built by some king of the Chola dynasty. The temple had a **sthala-varalaru**: the Chola king, it was said, had been childless; some **mahan** had advised that if he built a temple for **Anadi Pillaiyar**, a child would be born; the king believed it; after this was heard in the royal household and the festival took place, a temple was established for Pillaiyar and worship performed; afterward, a child was born to him.
+Preparations for the **Ekabhishekam** at the Vallabha Ganapati temple were proceeding rapidly. A committee bearing this name was formed, and Markandeya Sastri became its chairman. Of the committee members, three were Brahmins! One was a Mudaliar! The other was a Reddiar! The Vallabha Ganapati shrine was very ancient. It had been built by some king of the Chola dynasty. The temple had a **sthala-varalaru**: the Chola king, it was said, had been childless; some **mahan** had advised that if he built a temple for **an orphaned Pillaiyar**, a child would be born; the king travelled throughout the land and established a temple for **a black-stone Pillaiyar that lay unclaimed beneath a peepal tree**, worshipped it, and afterward a child was born to him.
 
 Even while the income and expenditure for the kumbabhishekam were under discussion, the three Iyers prepared a plan. Aryam knows very well, does it not, that in temples built by kings of old, beneath the stone deity—
 
@@ -205,7 +205,8 @@ Periyar EV Ramasamy too sees this very dream. The imperishable image of the Drav
 - All **16 / 16** source-scan markers are retained in order.
 - Tamil story source disposition: **16 / 16 verified**.
 - Total story-text `SOURCE BLOCKED` positions retained: **0**.
-- Former gaps on scans 15, 17 and 21 were resolved through exhaustive native-scan review; user-supplied readings were verified against source and rare scan-21 names were narrowly corroborated without importing witness variants.
+- Scan 15 was re-reviewed at full phrase/sentence span after an earlier enhanced-crop reconstruction proved incorrect. The English now follows **`புத்தமுதம் தின்று கொண்டிருந்த`** and the complete temple-history clause including **`அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு...`**.
+- Resolved scan 17 and 21 readings remain synchronized.
 - Scan 22 story conclusion is resolved; salesperson / advertisement / publisher-printer material below it is outside the story translation and is not included here.
 - `ராமசாமிப்பெரியார்` is rendered as **Periyar EV Ramasamy** in English; the Tamil archival source form remains unchanged.
 - Publisher errata remains a separate editorial layer; see [`ERRATA_NOTES.md`](ERRATA_NOTES.md).
