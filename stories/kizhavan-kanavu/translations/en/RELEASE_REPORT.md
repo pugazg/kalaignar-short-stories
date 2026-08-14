@@ -4,11 +4,9 @@
 
 **PASS — STORY-BODY ENGLISH TRANSLATION COMPLETE AND RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
 
-This report completes **Gate D** of the controlled English translation workflow for **கிழவன் கனவு / The Old Man's Dream**.
+This Gate D report has been reconciled after the final scan-22 / printed-page-18 story conclusion was resolved.
 
-The release scope is the **story body only**, corresponding to source scans **7–22**. Front matter, scan 23 errata/advertising, commercial advertisements, and the back cover are not part of the English story translation.
-
-The translation is complete to the limit of the supplied physical source. Eight story-text locations remain explicitly blocked because the supplied scan does not expose enough visual information for a source-faithful reading. These are documented source limitations, not unfinished translation work.
+The English release scope remains the **story body only**, source scans **7–22**. Front matter, scan 23 errata/advertising, commercial advertisements, salesperson material, publisher-printer material and the back cover are outside the English story translation.
 
 ## Source identity
 
@@ -23,55 +21,63 @@ The translation is complete to the limit of the supplied physical source. Eight 
 - English translated source range: **scans 7–22**
 - Visible story pagination: scan 7 = `—`; scan 8 = `(4)` through scan 22 = `(18)`
 
-The supplied scan remains the controlling source for this edition.
+The supplied scan remains the controlling source for this edition. The user-confirmed scan-22 story conclusion is now recorded in the primary page layer and derived layers.
 
 ## Whole physical-copy Tamil audit
 
 **PASS — CLOSED TO THE LIMIT OF THE SUPPLIED SOURCE**
 
-All **26 / 26** physical scan pages now have terminal source dispositions:
+All **26 / 26** pages have terminal source dispositions:
 
-- `verified`: **20**
-- `blocked`: **6** — scans **3, 4, 15, 17, 21, 22**
+- `verified`: **21**
+- `blocked`: **5** — scans **3, 4, 15, 17, 21**
 - `needs-review`: **0**
 - `not-started`: **0**
 
-The final front-matter disposition pass closed the last two open records:
-
-- scan **3** — terminal `blocked`: two short portions of the upper `“குடியரசு”` review are physically hidden by a large library stamp. Visible readings finalized in the pass include `நினைவாயிற்று`, `விபுலானந்தரும் மல்லிகாவும்`, and the lower-review ending `திராவிட மக்களின் ஆதரவு கிடைக்குமென்று நம்புகிறோம்.`;
-- scan **4** — terminal `blocked`: one short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct even at maximum useful enlargement. Visible readings finalized include `ஹிட்-லரிசம்`, `திராவிடருக்கானும்`, `பயனாக ஏற்படும்`, and `ஆக்கம் தருக!`.
-
-Neither page remains in a generic review queue. Hidden/indistinct wording was not reconstructed from context.
+Scan 22 is no longer blocked for story text.
 
 ## Tamil story disposition
 
-Story-body Tamil audit is complete.
+Story-body Tamil audit is complete:
 
 - story scans audited: **16 / 16**
-- `verified`: **12 / 16**
-- `blocked`: **4 / 16**
-- story scans still `needs-review`: **0**
+- `verified`: **13 / 16**
+- `blocked`: **3 / 16**
+- `needs-review`: **0**
 
 Verified story scans:
 
-`7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20`
+`7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 22`
 
 Source-blocked story scans:
 
-- scan **15 / printed 11** — one worn/indistinct word and one temple-history passage partly hidden by a circular library stamp;
-- scan **17 / printed 13** — one short worn/indistinct phrase following `பார்வதியை`;
-- scan **21 / printed 17** — four short worn/indistinct readings inside the political/historical catalogue;
-- scan **22 / printed 18** — one final-story phrase physically obscured by a large circular library stamp.
+- scan **15 / printed 11** — two story-text source gaps;
+- scan **17 / printed 13** — one short story-text source gap;
+- scan **21 / printed 17** — four short story-text source gaps.
+
+Total unresolved story-text locations: **7**.
+
+## Scan 22 / printed page 18 — resolved conclusion
+
+Final Tamil:
+
+**`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`**
+
+Final English:
+
+**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+
+The earlier scan-22 story `SOURCE BLOCKED` marker has been removed.
+
+The unclear material below the conclusion is salesperson / advertisement / publisher-printer matter. It is not part of the story and is intentionally excluded from the page's story transcription and from the English translation.
 
 ## Tamil assembly gate
 
 **PASS**
 
-`../../sections/kizhavan-kanavu.md` represents scans **7–22** once each and in source order.
+`../../sections/kizhavan-kanavu.md` represents scans **7–22** once each and in order, including the corrected scan-22 conclusion.
 
-`../../ASSEMBLY_REVIEW.md` is **PASS — FINAL TAMIL STORY ASSEMBLY SYNCHRONIZED**.
-
-The Tamil assembled reading preserves source-specific historical spelling and wording, keeps terminal source gaps explicit, and does not silently apply scan 23 publisher errata.
+`../../ASSEMBLY_REVIEW.md` is **PASS — synchronized after scan-22 correction**.
 
 ## English batch source review
 
@@ -82,16 +88,9 @@ The Tamil assembled reading preserves source-specific historical spelling and wo
 | 1 | 7–10 | 0 | `source-reviewed` |
 | 2 | 11–14 | 0 | `source-reviewed` |
 | 3 | 15–18 | 3 | `source-reviewed` |
-| 4 | 19–22 | 5 | `source-reviewed` |
+| 4 | 19–22 | 4 — all on scan 21 | `source-reviewed` |
 
-Batch files:
-
-- `batches/01-scans-07-10.md`
-- `batches/02-scans-11-14.md`
-- `batches/03-scans-15-18.md`
-- `batches/04-scans-19-22.md`
-
-Every batch was compared directly with its finalized Tamil page records before being marked `source-reviewed`.
+Batch 4 was re-reviewed after the scan-22 correction.
 
 ## Full English assembly
 
@@ -109,26 +108,22 @@ Coverage checks:
 - source/printed-page HTML markers: **all retained**;
 - duplicated scan: **none**;
 - omitted scan: **none**;
-- source-blocked locations: **8 / 8 retained**;
-- scan-22 publisher/printer/footer material included in story prose: **No**;
-- scan-23 errata silently substituted into prose: **No**.
-
-Mechanical cross-page and cross-batch continuations were joined only where needed for the assembled reading layer. Batch source-review files remain unchanged.
+- source-blocked locations: **7 / 7 retained**;
+- scan-22 conclusion: **resolved and translated**;
+- scan-22 salesperson / advertisement / publisher-printer material included in story prose: **No**;
+- scan-23 errata silently substituted: **No**.
 
 ## Retained story-source limitations
 
-The English story intentionally contains **8 explicit `SOURCE BLOCKED` locations**:
+The English story intentionally contains **7 explicit `SOURCE BLOCKED` locations**:
 
 | Scan | Printed page | Count | Reason |
 |---:|:---:|---:|---|
 | 15 | 11 | 2 | worn type; circular library stamp covering story text |
 | 17 | 13 | 1 | short phrase remains visually indistinct |
 | 21 | 17 | 4 | four short worn/indistinct historical/political readings |
-| 22 | 18 | 1 | final story phrase hidden by circular library stamp |
 
-No blocked location was filled from context, grammar, mythology, historical knowledge, likely slogans, another edition, or web text.
-
-These markers must remain visible in any archival release derived from this translation unless a genuinely clearer source copy is introduced and separately audited.
+No blocked location was filled from context, grammar, mythology, historical knowledge, likely slogans, another edition or web text.
 
 ## Publisher errata treatment
 
@@ -136,59 +131,43 @@ These markers must remain visible in any archival release derived from this tran
 
 Scan **23** prints a `பிழை திருத்தம்.` table with **10 publisher corrections**.
 
-English editorial mapping:
+- English editorial mapping: `ERRATA_NOTES.md`
+- Tamil mapping: `../../sections/kizhavan-kanavu-errata.md`
 
-- `ERRATA_NOTES.md`
+The errata is not silently substituted into archival Tamil or English prose.
 
-Tamil source mapping:
-
-- `../../sections/kizhavan-kanavu-errata.md`
-
-The errata is not silently substituted into the archival Tamil or English reading text.
-
-Key example:
+Key distinction:
 
 - scan 13 archival page: `வைத்திருந்தான்`;
 - scan 23 publisher errata: `வைத்திருந்தாள்`.
 
-The English phrase `had kept` does not expose that Tamil gender difference, so the distinction is retained explicitly in the editorial record.
-
 ## Editorial consistency gate
 
-**PASS**
+**PASS AFTER SCAN-22 SYNCHRONIZATION**
 
-`EDITORIAL_CONSISTENCY_REVIEW.md` confirms consistency for recurring names and titles, source-specific name shortening, religious/cultural terminology, political/caste/social vocabulary, tense and narrative voice, dialogue style, recurring metaphors, cross-page joins, all eight story source-block markers, and publisher-errata separation.
-
-Editorial review did not become source normalization.
+`EDITORIAL_CONSISTENCY_REVIEW.md` confirms consistency for names/titles, religious/cultural terminology, political/caste/social vocabulary, tense/voice, dialogue style, recurring metaphors, page joins, all seven surviving source-block markers, the resolved scan-22 conclusion and publisher-errata separation.
 
 ## Deliberately conservative translation choices
 
-The following renderings remain intentionally source-close because the verified Tamil is itself unusual, abrupt, historically specific, or semantically difficult:
+Source-close renderings retained include:
 
-- `Puranarthika Iyer` for `பூரணர்த்திக`;
-- `physician` for `வைத்தியர்` on scan 8;
-- `My forehead?` for `என் நெற்றியை?`;
-- `I shall eat these grapes.` for `திராட்சையைச் சாப்பிடேன்`;
-- `amid a dull cough` for `மந்த காசத்தினிடையே`;
-- `Aryam` for `ஆரியம்`;
-- `Kali! Kooli!` for `காளி கூலி`;
-- `the conch-blast of equal justice` for `சமதர்ம சங்கநாதம்`;
-- `We lived—to be kissed by the sword.` for `வாழ்—வாள் முத்தமிட வாழ்ந்தோம்`;
-- `The Dravidian land is a day for Dravidians!` for `திராவிட நாடு திராவிடருக்கான தினம்!`.
+- `Puranarthika Iyer`;
+- `physician` for `வைத்தியர்`;
+- `My forehead?`;
+- `I shall eat these grapes.`;
+- `amid a dull cough`;
+- `Aryam`;
+- `Kali! Kooli!`;
+- `the conch-blast of equal justice`;
+- `We lived—to be kissed by the sword.`;
+- `The Dravidian land is a day for Dravidians!`;
+- `The imperishable image of the Dravidam that is to come` for `வரப்போகும் திராவிடத்தின் அழியாத சித்திரம்`.
 
-These are not unresolved source readings. They are conservative translation decisions and should not be silently rewritten into smoother modern English.
-
-## Translation questions remaining
-
-No source-supported story passage remains awaiting Tamil review.
-
-The only unresolved story-text content is the **8 terminal source-blocked locations** documented above. They cannot be solved through stylistic editing.
-
-A future clearer physical copy or independently established edition may be introduced as a new source layer, but must not silently overwrite this edition's archival record.
+These are source-based translation decisions, not unresolved Tamil readings.
 
 ## Final English file inventory
 
-Control and review:
+Control/review:
 
 - `README.md`
 - `TRANSLATION_PLAN.md`
@@ -212,7 +191,7 @@ Assembled English story:
 
 **PASS — source PDF is not stored in GitHub.**
 
-The repository policy says source PDFs are not committed. A repository search for the exact source filename `TVA_BOK_0014165_கிழவன்_கனவு.pdf` returned no file result. The source is represented in GitHub only by metadata, checksum, scan mapping and derived archival text.
+The source is represented in the repository only by metadata, checksum, scan mapping and derived archival text.
 
 ## Release decision
 
@@ -220,16 +199,18 @@ The repository policy says source PDFs are not committed. A repository search fo
 
 For the defined English scope — **கிழவன் கனவு story body, scans 7–22** — the archival translation is complete:
 
-- Tamil story source audit complete to the limit of the supplied copy;
+- Tamil story audit complete to the limit of the supplied copy;
+- Tamil story disposition: **13 verified / 3 blocked**;
 - Tamil assembly review PASS;
 - 4 / 4 English batches source-reviewed;
-- 16 / 16 story scans represented in the English assembly;
-- 8 / 8 source-blocked story locations retained explicitly;
+- 16 / 16 story scans represented in English;
+- **7 / 7** source-blocked story locations retained explicitly;
+- scan 22 conclusion resolved and translated;
 - editorial consistency review PASS;
 - all 10 publisher errata entries separately documented;
 - source PDF absent from GitHub.
 
-Separately, the **entire 26-page physical-copy Tamil audit is now closed**: 20 pages are verified and 6 are terminally blocked, with no `needs-review` pages remaining.
+Separately, the entire physical-copy Tamil audit remains closed: **21 verified / 5 terminally blocked / 0 needs-review**.
 
 ## Completion state
 
@@ -241,6 +222,4 @@ Separately, the **entire 26-page physical-copy Tamil audit is now closed**: 20 p
 
 ## Next archival activity
 
-Do not reopen terminal blocked readings unless a genuinely clearer source is introduced and audited.
-
-The next repository activity is source registration and inspection for the **next Kalaignar short-story PDF** when supplied.
+Do not reopen terminal blocked readings unless a genuinely clearer source is introduced. The next repository activity is source registration and inspection for the **next Kalaignar short-story PDF** when supplied.
