@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0014165_கிழவன்_கனவு.pdf"
-transcription_method: "exhaustive native-embedded-scan visual audit; user-supplied reading checked against source; difficult names/phrases confirmed by enlarged letterforms and corroborating witness"
+transcription_method: "exhaustive native-embedded-scan visual audit; user-supplied reading checked against source; difficult names/phrases confirmed by enlarged letterforms and narrowly documented external corroboration"
 ---
 
 # அச்சு உரை
@@ -28,7 +28,8 @@ transcription_method: "exhaustive native-embedded-scan visual audit; user-suppli
 - native embedded 1220×2028 / 300-dpi scan image பல மடங்கு enlargement-ல் எழுத்துருவாரியாக மீளாய்வு செய்யப்பட்டது.
 - user வழங்கிய **`இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`** வாசிப்பு source image-உடன் ஒப்பிட்டு ஏற்றுக்கொள்ளப்பட்டது.
 - மீதமிருந்த மூன்று difficult readings native scan-ல் பெரிதாக்கிப் பார்த்தபோது **`ஆநிரைகோ`**, **`உரநெஞ்சன்`**, **`இந்தி எதிர்ப்பு`** எனத் தெளிவுபடுத்தப்பட்டன.
-- `ஆநிரைகோ` / `உரநெஞ்சன்` போன்ற அபூர்வ பெயர்களுக்கு visual reading-ஐ மட்டும் நம்பி normalise செய்யாமல், கலைஞரின் பின்னைய மேற்கோள் சாட்சியிலும் அதே பெயர்கள் இருப்பதை corroboration-ஆக மட்டுமே பயன்படுத்தினோம்; அந்த secondary witness-ன் வேறு wording இந்த archival page-க்கு இறக்குமதி செய்யப்படவில்லை.
+- rare names `ஆநிரைகோ` / `உரநெஞ்சன்`-க்கு external corroborating witness ஆக **Tamil News web mirror, 23 Nov 2007** (`https://bsubra.wordpress.com/2007/11/23/`) மட்டும் பயன்படுத்தப்பட்டது. அந்த mirror-ல் அதே இரண்டு rare names ஒன்றாகத் தோன்றுகின்றன.
+- அந்த secondary witness-ன் surrounding wording இந்த scan-இன் wording-இலிருந்து சில இடங்களில் வேறுபடுகிறது (`மண்டூகம்`, `தமிழ்நாட்டில் உலவின` போன்ற variants). அவை இந்த archival page-க்கு import செய்யப்படவில்லை. Witness rare-name letterforms-ஐ corroborate செய்ய மட்டுமே பயன்படுத்தப்பட்டது; controlling source இச்ச scan தான்.
 - source scan-ல் தெரியும் **`மடையன்`**, **`தமிழ் நாட்டிலுமில்லை`**, **`திராவிட மீட்சி`**, **`தாளமுத்து நடராசன்`** போன்ற இப்பதிப்பின் readings மாற்றப்படவில்லை.
 - இப்பக்கத்தில் story-level unresolved reading எதுவும் இனி இல்லை; status **`verified`**.
 - முதல் சொல் scan 20-இன் sentence continuation; கடைசி சொல் scan 22-க்கு தொடர்கிறது.
