@@ -50,9 +50,11 @@ Final Tamil:
 
 Final English:
 
-**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+**“Periyar EV Ramasamy too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
 
 The former scan-22 `SOURCE BLOCKED` marker has been removed from both Batch 4 and the assembled English story.
+
+`ராமசாமிப்பெரியார்` is represented in English by the canonical display form **Periyar EV Ramasamy**; the Tamil archival source wording remains unchanged.
 
 `அழியாத சித்திரம்` → **“the imperishable image”** and `வரப்போகும் திராவிடம்` → **“the Dravidam that is to come”** are accepted as conservative source-close renderings.
 
@@ -101,7 +103,7 @@ These are assembly mechanics, not source normalization.
 | ராஜம் | `Rajam` | consistent |
 | மார்க்கண்டேய சாஸ்திரிகள் | `Markandeya Sastri` | consistent |
 | மார்க்கண்டேயர் | `Markandeyar` | source distinction retained |
-| ராமசாமிப்பெரியார் | `Ramasami Periyar` | consistent |
+| ராமசாமிப்பெரியார் | `Periyar EV Ramasamy` | canonical English display form |
 | ராவ்பகதூர் | `Rao Bahadur` | consistent |
 | மிராசுதார் | `Mirasudar` | consistent |
 
@@ -165,4 +167,4 @@ Editorial consistency is not permission to repair source oddities by inference.
 
 The assembled English translation remains release-ready. The only unresolved story text is the seven terminal source-blocked locations on scans 15, 17 and 21.
 
-The existing `RELEASE_REPORT.md` must reflect these revised counts and the resolved scan-22 conclusion.
+The existing `RELEASE_REPORT.md` must reflect these revised counts, the resolved scan-22 conclusion, and the canonical English name **Periyar EV Ramasamy**.
