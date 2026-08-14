@@ -1,108 +1,74 @@
 # Assembly consistency review — கிழவன் கனவு
 
-## Scope
+## Current review state
 
-Reviewed artifacts:
+**RE-SYNC REQUIRED AFTER FINAL SOURCE AUDIT**
 
-- `sections/kizhavan-kanavu.md`
-- `sections/kizhavan-kanavu-errata.md`
-- page records `pages/0007-...` through `pages/0023-...`
-- `audit.md`
-- `indexes/page-map.md`
+The earlier assembly review passed against the then-current page records. A subsequent final high-resolution unresolved-reading pass changed the authoritative story page layer, so `sections/kizhavan-kanavu.md` must now be synchronized and this review rerun before it can return to `PASS`.
 
-The controlling source remains the supplied scan `TVA_BOK_0014165_கிழவன்_கனவு.pdf`.
+The controlling source remains `TVA_BOK_0014165_கிழவன்_கனவு.pdf`.
 
-## Assembly coverage
+## What remains structurally valid
 
-**PASS**
+- Story body source range remains scans **7–22**.
+- All **16** story scan pages are represented in the existing assembly and remain in source order.
+- Source-page boundary comments remain present.
+- Scan **23** errata is a separate layer and is not merged into story prose.
+- Scans **24–26** advertisements/back cover remain outside the story assembly.
+- Scan 7 printed page remains `—`; `(3)` is not inferred.
+- Scan 8 = printed `(4)` through scan 22 = printed `(18)`.
 
-- Story body begins at scan **7**.
-- Story body concludes at scan **22**.
-- All **16** story scan pages are represented in order in `sections/kizhavan-kanavu.md`.
-- Each source page boundary is retained as an HTML source marker so the assembled text remains traceable to the archival page layer.
-- Scan **23** errata/advertisement text is not merged into the story body.
-- Scans **24–26** advertisements/back cover are not merged into the story body.
+## Final page-layer changes that the assembly must absorb
 
-## Source fidelity
+### Newly resolved
 
-**PASS WITH EXPLICIT LIMITATIONS**
-
-The assembled text follows the audited page records without modernizing spelling, grammar, punctuation, names or unusual historical forms. Mechanical page continuations are not silently rewritten into a normalized edition.
-
-Unresolved source readings remain visible in the assembled text at the same locations as the archival pages:
-
-| Scan | Printed page | Remaining issue in assembled text |
+| Scan | Printed page | Final page-record reading |
 |---:|---:|---|
-| 8 | 4 | one unclear word after `பூகோள` |
-| 14 | 10 | two short unclear readings in the dream passage |
-| 15 | 11 | one unclear word plus library-stamp-obscured temple-history text |
-| 17 | 13 | one short unclear phrase after `பார்வதியை` |
-| 18 | 14 | one short unclear reading in the opening paragraph |
-| 21 | 17 | four short unclear readings in the political/historical catalogue |
-| 22 | 18 | library stamp obscures part of the final story conclusion |
+| 8 | 4 | `பூகோள பூரணர்த்திக` |
+| 14 | 10 | `என் நெற்றியை?`; `திராட்சையைச் சாப்பிடேன்`; `மந்த காசத்தினிடையே` |
+| 18 | 14 | `விட்டிருந்து` |
 
-No external edition, web transcription or contextual reconstruction was used to fill these gaps.
+### Final `blocked-by-source` locations
 
-## Scan 13 reconciliation
+| Scan | Printed page | Source limitation |
+|---:|---:|---|
+| 15 | 11 | one worn/indistinct word + temple-history text physically covered by library stamp |
+| 17 | 13 | one short indistinct phrase after `பார்வதியை` |
+| 21 | 17 | four short indistinct political/historical readings |
+| 22 | 18 | library-stamp-obscured final story phrase and footer/imprint |
 
-**PASS**
+These four pages are fully audited and now have terminal `blocked` status for this source copy. The assembly must copy the page records' `blocked-by-source` markers rather than retain older generic `[வாசிப்பு தெளிவில்லை]` text.
 
-Scan **13 / printed page 9** was reconciled after the first audit report. The archival page now preserves source-supported readings including:
+## Current source-layer status
 
-- `காப்பாத்து`
-- `கரகமும் கப்பரையும்`
-- `பனிரெண்டு`
-- `தழுவிக்கொண்டன`
-- `ஆலிங்கனம்`
-
-The visible page reading remains **`வைத்திருந்தான்`**. The publisher's printed errata separately gives **`வைத்திருந்தாள்`**. This distinction is correctly maintained in both the page record and the assembled/errata layers.
+- Story scans 7–22 directly audited: **16 / 16**
+- Story scans `verified`: **12** — 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20
+- Story scans `blocked`: **4** — 15, 17, 21, 22
+- Story scans `needs-review`: **0**
+- Printed errata rows mapped: **10 / 10**
+- Whole-publication page status: **20 verified / 4 blocked / 2 front-matter needs-review**
 
 ## Errata-layer consistency
 
-**PASS**
+The errata policy remains unchanged:
 
-`sections/kizhavan-kanavu-errata.md` contains all **10** corrections printed on scan 23 and maps each printed page to its corresponding scan/page record.
+1. archival page reading = what the story page visibly prints;
+2. printed errata = publisher correction from scan 23.
 
-The errata is not silently applied to `sections/kizhavan-kanavu.md`. This preserves two explicit layers:
+Do **not** silently apply errata to `sections/kizhavan-kanavu.md`.
 
-1. archival page reading;
-2. publisher's printed correction.
-
-## Page-order and pagination consistency
-
-**PASS**
-
-- scan 7 retains printed page `—`; `(3)` is not inferred.
-- scan 8 = printed page `(4)`.
-- sequence continues through scan 22 = printed page `(18)`.
-- assembled order follows scan 7 → scan 22 without omission or duplication.
-
-## Repository-policy consistency
-
-**PASS**
-
-- Source PDF is not committed to the repository.
-- Page records remain the primary archival layer.
-- Assembled text is clearly labelled as a derived reading layer, not a replacement for page records.
-- Errata remains separate.
-- Advertisements and physical-copy marks are not silently mixed into story prose.
+Scan 13 remains the clearest example: page reads **`வைத்திருந்தான்`** while the printed errata says **`வைத்திருந்தாள்`**.
 
 ## Translation gate
 
-**NOT YET OPEN**
+**CONDITIONALLY OPEN, BUT ASSEMBLY SYNC MUST PASS FIRST.**
 
-The assembled Tamil layer is now structurally complete and internally consistent, but English translation should remain blocked because seven story scans still contain genuine unresolved source readings. Translation from those passages would either omit or guess text.
-
-## Current story-layer status after assembly
-
-- Story scans 7–22 represented in assembly: **16 / 16**
-- Story scans verified: **9** — 7, 9, 10, 11, 12, 13, 16, 19, 20
-- Story scans needs-review: **7** — 8, 14, 15, 17, 18, 21, 22
-- Printed errata rows mapped: **10 / 10**
-- Assembled Tamil text: **complete with explicit unresolved markers**
-- Assembly consistency review: **complete**
-- English translation: **blocked**
+The story-body source audit is complete to the limit of the supplied physical source. Translation can proceed after the assembly is synchronized and this consistency review is rerun, provided every `blocked-by-source` gap is preserved explicitly and no missing Tamil is guessed.
 
 ## Next exact activity
 
-Perform a **final unresolved-reading pass** on scans **8, 14, 15, 17, 18, 21 and 22** using the highest-quality supplied scan views/crops available. Resolve only readings supported by the scan itself. Anything physically hidden by stamps or still genuinely illegible after that pass should be formally marked `blocked-by-source` in the audit/handover rather than repeatedly guessed. After that, decide whether the Tamil source layer is sufficiently stable to open a translation workflow with explicit source gaps.
+1. Synchronize `sections/kizhavan-kanavu.md` with the final page records for scans 8, 14, 15, 17, 18, 21 and 22.
+2. Recheck all scan markers 7–22 for order and duplication.
+3. Verify all 10 scan-23 errata entries remain separate.
+4. Rerun this consistency review and restore `PASS` only when page records and assembly match exactly at all changed locations.
+5. Then create the English translation plan/workflow; do not translate prose before the synchronization check passes.
