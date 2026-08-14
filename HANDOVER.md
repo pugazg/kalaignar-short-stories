@@ -106,6 +106,22 @@ Important permanent distinctions:
 - scan 23 errata remains a separate textual layer;
 - source PDF remains outside GitHub.
 
+## Human possible-error review queue
+
+A persistent manual review checklist now exists at:
+
+`stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md`
+
+This file is intentionally broader than the formal unresolved list. It collects:
+
+- formerly difficult/reconstructed passages worth human rechecking;
+- unusual or archaic Tamil forms that may be genuine but are easy to misread;
+- English renderings that should be reconsidered only after Tamil is confirmed;
+- all 10 publisher-errata cross-checks;
+- the two remaining non-story front-matter blocks.
+
+An item appearing in that file is **not automatically an error** and does not downgrade a page from `verified`. It is a human review queue. Any correction supplied later must be checked against the source and propagated through the derived layers.
+
 ## English translation state — COMPLETE / SOURCE-COMPLETE
 
 English story-body scope: scans **7–22**.
@@ -146,9 +162,10 @@ Control/review files:
 
 ## Next exact activity
 
-Two valid next activities exist:
+Three valid next activities exist:
 
-1. **Optional whole-publication cleanup:** reopen front-matter scans **3–4** under the exhaustive-resolution protocol and attempt to reach 26 / 26 verified pages; or
-2. **Next story:** inspect and register the next Kalaignar short-story PDF, following `SHORT_STORY_PROCESSING_GUIDE.md` and keeping the source PDF outside GitHub.
+1. **Human review queue:** later review `stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md` and submit exact corrections where needed;
+2. **Optional whole-publication cleanup:** reopen front-matter scans **3–4** under the exhaustive-resolution protocol and attempt to reach 26 / 26 verified pages; or
+3. **Next story:** inspect and register the next Kalaignar short-story PDF, following `SHORT_STORY_PROCESSING_GUIDE.md` and keeping the source PDF outside GitHub.
 
 Do not treat `verified` as immutable: reopen a story reading when stronger direct-source evidence is supplied. But do not change a verified reading without stronger source evidence.
