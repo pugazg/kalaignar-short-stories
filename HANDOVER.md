@@ -7,7 +7,7 @@
 - Permanent workflow guide: `SHORT_STORY_PROCESSING_GUIDE.md`
 - Source PDFs are **not** committed to the repository.
 
-## Current story — CLOSED
+## Current story — STORY BODY CLOSED / SOURCE-COMPLETE
 
 - Work slug: `kizhavan-kanavu`
 - Printed title: **கிழவன் கனவு**
@@ -18,67 +18,97 @@
 - File size: **11,017,627 bytes**
 - Scan pages: **26**
 
-## Final Tamil physical-copy state
+## Permanent difficult-reading rule
 
-**FULL 26-PAGE AUDIT CLOSED TO THE LIMIT OF THE SUPPLIED SOURCE**
+`SHORT_STORY_PROCESSING_GUIDE.md` now explicitly requires:
 
-- Page records: **26 / 26**
-- `verified`: **21**
-- `blocked`: **5** — scans **3, 4, 15, 17, 21**
-- `needs-review`: **0**
-- `not-started`: **0**
-- Printed errata mapping: **10 / 10**
-- Tamil story assembly: **complete and synchronized**
-- `ASSEMBLY_REVIEW.md`: **PASS**
+> **No stones should be left unturned.**
 
-## Front-matter terminal blocks
+A difficult story reading must not be abandoned as `blocked` merely because ordinary PDF rendering is unclear. Before a story block is accepted, escalate through native embedded scans, progressive enlargement, resampling/contrast/sharpen variants, stamp-stroke separation where applicable, typeform comparison, neighbouring/page-boundary checks, direct verification of user-supplied readings, and provenance-documented secondary corroboration where genuinely necessary.
 
-**Scan 3 — blocked**
+Secondary witnesses may corroborate a reading but must never silently replace the controlling scan or import their variant wording.
 
-Two short portions of the upper `“குடியரசு”` review are physically hidden by a library stamp. Hidden wording was not reconstructed.
-
-**Scan 4 — blocked**
-
-One short phrase between `உறுதிப் பாதையிலே` and `கண்களோடு` remains visually indistinct. Context was not used to fill it.
-
-## Story-body Tamil state
+## Final story-body Tamil state
 
 Scans **7–22**:
 
-- `verified`: **13 / 16**
-- `blocked`: **3 / 16** — scans 15, 17, 21
+- `verified`: **16 / 16**
+- `blocked`: **0**
 - `needs-review`: **0**
-- explicit blocked story-text locations: **7** — scan 15 ×2, scan 17 ×1, scan 21 ×4
+- unresolved story-text locations: **0**
 
-### Scan 22 / printed page 18 — resolved
+### Exhaustive-resolution results
 
-Final Tamil conclusion:
+**Scan 15 / printed page 11**
 
-**`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`**
+- `துர் எண்ணத்தை`
+- `புது தழுவகம் ஒன்று`
+- `அநாதிப் பிள்ளையாருக்கு`
+- `பிள்ளை பிறக்குமென்று`
 
-The previous scan-22 story block is removed. Non-story salesperson / advertisement / publisher-printer material below the conclusion is intentionally excluded from story transcription scope.
+**Scan 17 / printed page 13**
+
+- `பார்வதியை அணைத்தபடி பரமன்`
+
+**Scan 21 / printed page 17**
+
+- `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`
+- `ஆநிரைகோ`
+- `உரநெஞ்சன்`
+- `இந்தி எதிர்ப்பு`
+
+**Scan 22 / printed page 18**
+
+Final conclusion:
+
+`இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+
+Post-story salesperson / advertisement / publisher-printer material is outside story scope and is intentionally omitted.
+
+## Whole physical-copy page state
+
+- Page records: **26 / 26**
+- `verified`: **24 / 26**
+- `blocked`: **2 / 26** — front-matter scans **3–4** only
+- `needs-review`: **0**
+- `not-started`: **0**
+- Printed errata mapping: **10 / 10**
+
+The remaining blocked pages are non-story front matter. They should be reopened under the same exhaustive protocol if a future activity aims for **zero blocked pages across the entire physical publication**.
+
+## Tamil derived state
+
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — synchronized; **zero story block markers**
+- `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md` — 10 / 10 publisher corrections separate
+- `stories/kizhavan-kanavu/audit.md` — story source complete
+- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS — 16 / 16 verified / zero story blocks**
 
 Important permanent distinctions:
 
 - scan 7 printed page remains `—`; do not infer `(3)`;
 - scan 13 archival page reads `வைத்திருந்தான்` while scan 23 publisher errata says `வைத்திருந்தாள்`;
-- scan 23 errata remains a separate layer;
-- all remaining source-hidden story gaps stay explicit.
+- scan 23 errata remains a separate textual layer;
+- source PDF remains outside GitHub.
 
-## English translation state — COMPLETE
+## English translation state — COMPLETE / SOURCE-COMPLETE
 
 English story-body scope: scans **7–22**.
 
 - source-reviewed batches: **4 / 4**
 - source-reviewed coverage: **16 / 16 story scans**
 - assembled English story: `stories/kizhavan-kanavu/translations/en/kizhavan-kanavu-en.md`
-- explicit `SOURCE BLOCKED` story locations: **7 / 7**
-- editorial consistency review: **PASS after scan-22 synchronization**
-- release review: **PASS — RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
+- English `SOURCE BLOCKED` locations: **0**
+- editorial consistency review: **PASS**
+- release review: **PASS — STORY SOURCE COMPLETE / RELEASE-READY**
 
-Resolved English ending:
+Final English ending:
 
-**“Ramasami Periyar too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+**“Periyar EV Ramasamy too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
+
+English display-name rule:
+
+- Tamil source `ராமசாமிப்பெரியார்` remains unchanged in Tamil;
+- English uses **Periyar EV Ramasamy**.
 
 Control/review files:
 
@@ -89,32 +119,17 @@ Control/review files:
 - `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
 - `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`
 
-## Permanent archival rules
-
-1. The supplied scan is the controlling source for this edition.
-2. Do not reconstruct stamp-hidden or worn text from context.
-3. Do not silently modernize unusual source forms.
-4. Do not infer scan 7 pagination.
-5. Keep publisher errata separate from archival page readings.
-6. Source PDF stays outside GitHub.
-7. `blocked` is terminal for this supplied copy unless a genuinely clearer source is introduced.
-8. English `SOURCE BLOCKED` markers must remain explicit.
-9. Scan 22's post-story sales/advertisement/footer matter is outside the story scope and should not be reintroduced into story prose.
-
 ## Completion state
 
-**கிழவன் கனவு archival processing: COMPLETE for this supplied physical copy.**
+**கிழவன் கனவு story-body archival processing: COMPLETE / SOURCE-COMPLETE.**
 
-**English story-body translation: COMPLETE and release-ready with documented source limitations.**
+**English story-body translation: COMPLETE / SOURCE-COMPLETE / RELEASE-READY.**
 
 ## Next exact activity
 
-Do not perform additional work on `kizhavan-kanavu` unless a genuinely clearer copy is introduced for one of the remaining blocked readings.
+Two valid next activities exist:
 
-When the **next Kalaignar short-story PDF** is supplied:
+1. **Optional whole-publication cleanup:** reopen front-matter scans **3–4** under the new exhaustive-resolution protocol and attempt to reach 26 / 26 verified pages; or
+2. **Next story:** inspect and register the next Kalaignar short-story PDF, following `SHORT_STORY_PROCESSING_GUIDE.md` and keeping the source PDF outside GitHub.
 
-1. inspect the repository first to avoid duplicate work;
-2. inspect the actual scan before creating metadata;
-3. register its source filename/checksum/page structure;
-4. create the next `stories/<slug>/` archival workspace according to `SHORT_STORY_PROCESSING_GUIDE.md`;
-5. do not commit the source PDF.
+Do not reopen the now-verified story readings without stronger source evidence.
