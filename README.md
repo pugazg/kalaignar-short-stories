@@ -14,21 +14,23 @@
 
 | சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
 |---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records created; full scan archived; Tamil audit pending** |
+| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **26/26 page records; scan 7–23 Tamil audit completed; Tamil assembly next** |
 
 ### தற்போதைய page status
 
-- scans 1, 2, 5, 6, 24, 25, 26 — `verified`
-- scans 3, 4, 7–23 — `needs-review`
+- `verified` — **16** pages
+- `needs-review` — **10** pages
 - `not-started` — **0**
 
-The complete physical publication—from cover through story, printed errata, advertisements and back cover—now has page-level archival records.
+The complete physical publication—from cover through story, printed errata, advertisements and back cover—has page-level archival records.
 
-Scans **7–22** contain the **கிழவன் கனவு** story body and have been directly transcribed from the scan. They remain `needs-review` because the next stage is a dedicated Tamil source audit of worn / ambiguous type and stamp-obscured readings. No later edition or context-based reconstruction has been used to silently fill those gaps.
+The dedicated Tamil source audit for scans **7–23** is now complete. Scans **7, 9, 10, 11, 12, 16, 19, 20 and 23** were promoted to `verified`; scans **8, 13, 14, 15, 17, 18, 21 and 22** retain narrowly documented source-condition/reconciliation issues. Scans **3–4** retain their earlier front-matter uncertainties.
 
-A significant back-matter correction was also made: scan **23** is a printed **`பிழை திருத்தம்.`** table followed by tobacco advertising, not a publisher catalogue. The errata is preserved separately and is not silently applied to the archival page text.
+Scan **23** is a printed **`பிழை திருத்தம்.`** table followed by tobacco advertising. The errata table is now fully audited, but remains a separate source layer and is not silently applied to the archival page text.
 
-அடுத்த activity: **full Tamil source audit of scans 7–23**, followed by an assembled Tamil story text only after the page readings are reviewed.
+Audit report: [`stories/kizhavan-kanavu/audit.md`](stories/kizhavan-kanavu/audit.md).
+
+அடுத்த activity: create the assembled Tamil reading text in `stories/kizhavan-kanavu/sections/`, retaining explicit unresolved readings and documenting the printed errata separately. A consistency review must follow before English translation begins.
 
 ## களஞ்சிய அமைப்பு
 
@@ -39,6 +41,7 @@ HANDOVER.md
 stories/
   kizhavan-kanavu/
     README.md
+    audit.md
     metadata/
       source.md
     indexes/
