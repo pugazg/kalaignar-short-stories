@@ -111,11 +111,11 @@ For the historical figure named `ராமசாமிப்பெரியா�
 
 - Gate A — all four batches source-reviewed: **PASS**
 - Gate B — assembled English scans 7–22 exactly once: **PASS**
-- Gate C — `EDITORIAL_CONSISTENCY_REVIEW.md`: **PASS / to be synchronized to zero-gap state**
-- Gate D — `RELEASE_REPORT.md`: **PASS / to be synchronized to zero-gap state**
+- Gate C — `EDITORIAL_CONSISTENCY_REVIEW.md`: **PASS — zero-gap re-review complete**
+- Gate D — `RELEASE_REPORT.md`: **PASS — story source complete / release-ready**
 
 ## Completion definition
 
 The English story-body translation is complete when all batches are source-reviewed, scans 7–22 are assembled exactly once, no recoverable story reading is abandoned, publisher errata stays separate, editorial consistency passes, and the release report is complete.
 
-**Current source/translation state: 16 / 16 story scans verified; 0 source gaps.**
+**Current source/translation state: 16 / 16 story scans verified; 0 source gaps; all gates PASS.**
