@@ -37,8 +37,8 @@ The printed contents on scans **8–9** has been transcribed into a 37-story inv
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **3 / 37**
-- not yet transcribed: **34 / 37**
+- Tamil source processing complete: **4 / 37**
+- not yet transcribed: **33 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -86,6 +86,19 @@ Important source distinctions retained for `நளாயினி`:
 - scan **31** visually confirmed as next-story opening `ஆட்டக்காவடி`
 - English translation: not started
 
+### 4. ஆட்டக்காவடி
+
+- canonical workspace: [`../../stories/aattakkavadi/`](../../stories/aattakkavadi/)
+- printed pages: **22–29**
+- source scans: **31–38**
+- page records: **8 / 8 verified**
+- blocked / missing source text: **0**
+- Tamil assembly: complete
+- source audit: **PASS**
+- persistent human possible-error queue: created
+- scan **39** visually confirmed as next-story opening `குப்பைத்தொட்டி`
+- English translation: not started
+
 The human review queues deliberately retain unusual readings for later source checking without silently correcting them.
 
 See [`indexes/story-inventory.md`](indexes/story-inventory.md).
@@ -128,19 +141,20 @@ When a story is processed:
 
 `கிழவன் கனவு` remains an independently processed canonical story from another source and is not in this anthology.
 
-The first three anthology stories now have canonical workspaces:
+The first four anthology stories now have canonical workspaces:
 
 - `புகழேந்தி`
 - `நளாயினி`
 - `சபலம்`
+- `ஆட்டக்காவடி`
 
 Later stories should only receive workspaces when they become active.
 
 ## Next exact activity
 
-Process Story 4 **`ஆட்டக்காவடி`**:
+Process Story 5 **`குப்பைத்தொட்டி`**:
 
-- printed pages **22–29**
-- anthology scans **31–38**
+- printed pages **30–37**
+- anthology scans **39–46**
 
-Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 31 opening and scan 38 ending / scan 39 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 5 in the same activity.
+Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 39 opening and scan 46 ending / scan 47 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 6 in the same activity.
