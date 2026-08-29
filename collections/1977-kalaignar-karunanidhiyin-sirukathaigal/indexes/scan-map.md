@@ -1,6 +1,6 @@
 # Scan Map — கலைஞர் கருணாநிதியின் சிறுகதைகள் (1977)
 
-> Structural map for the 260-page anthology scan. This is not yet a page-by-page transcription manifest; it fixes the front matter, 37 story ranges, continuous printed pagination, and back cover before per-story work begins.
+> Structural map for the 260-page anthology scan. Per-story page records remain under `stories/<slug>/pages/`; this file records physical ranges and current collection-level processing state.
 
 ## Whole-source structure
 
@@ -13,50 +13,50 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | ranges registered; transcription not started |
+| 10–259 | 1–250 | 37 short stories | **3/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
 
-| # | TOC title | Printed pages | Scan pages |
-|---:|---|---:|---:|
-| 1 | `புகழேந்தி` | 1–6 | 10–15 |
-| 2 | `நளாயினி` | 7–14 | 16–23 |
-| 3 | `சபலம்` | 15–21 | 24–30 |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 |
-| 9 | `தாய்மை` | 64–74 | 73–83 |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 |
-| 13 | `இரகசியம்!` | 99–102 | 108–111 |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 |
-| 15 | `ஏழை` | 106–109 | 115–118 |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 |
-| 17 | `பனங்குலை` | 117–121 | 126–130 |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 |
-| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 |
-| 28 | `புரட்சிப்படம்` | 185–189 | 194–198 |
-| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 |
-| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 |
-| 36 | `சித்தார்த்தன்` | 241–243 | 250–252 |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 |
+| # | TOC title | Printed pages | Scan pages | Tamil source state |
+|---:|---|---:|---:|---|
+| 1 | `புகழேந்தி` | 1–6 | 10–15 | **complete — 6/6 verified** |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **complete — 8/8 verified** |
+| 3 | `சபலம்` | 15–21 | 24–30 | **complete — 7/7 verified** |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | not started |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | not started |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | not started |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | not started |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | not started |
+| 9 | `தாய்மை` | 64–74 | 73–83 | not started |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | not started |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | not started |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | not started |
+| 13 | `இரகசியம்!` | 99–102 | 108–111 | not started |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | not started |
+| 15 | `ஏழை` | 106–109 | 115–118 | not started |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | not started |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | not started |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | not started |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | not started |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | not started |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | not started |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | not started |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | not started |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | not started |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | not started |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | not started |
+| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | not started |
+| 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | not started |
+| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | not started |
+| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | not started |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | not started |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | not started |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | not started |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | not started |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | not started |
+| 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | not started |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | not started |
 
 ## Pagination check
 
@@ -69,10 +69,20 @@
 
 ## Title-heading check
 
-All 37 calculated start scans were visually inspected. Two TOC/opening-title differences were found and are recorded in [`story-inventory.md`](story-inventory.md):
+All 37 calculated start scans were visually inspected. Two TOC/opening-title differences are recorded in [`story-inventory.md`](story-inventory.md):
 
 - `புரட்சிப்படம்` → opening `புரட்சிப் படம்`
 - `சித்தார்த்தன்` → opening `சித்தார்த்தன் சிலை`
+
+## Current processing boundary
+
+Completed Tamil source passes:
+
+1. `புகழேந்தி` — scans 10–15
+2. `நளாயினி` — scans 16–23
+3. `சபலம்` — scans 24–30
+
+Next active source range when authorized: **Story 4 `ஆட்டக்காவடி`, scans 31–38 / printed pages 22–29**. Scan 31 has already been visually confirmed as its opening page during the Story 3 boundary check.
 
 ## Per-story page-record policy
 
