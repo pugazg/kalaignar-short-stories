@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **8/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **9/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -28,7 +28,7 @@
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **complete — 10/10 verified** |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **complete — 12/12 verified** |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **complete — 4/4 verified** |
-| 9 | `தாய்மை` | 64–74 | 73–83 | not started |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **complete — 11/11 verified** |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | not started |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | not started |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | not started |
@@ -58,38 +58,12 @@
 | 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | not started |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | not started |
 
-## Pagination check
-
-- Story block offset: **scan = printed + 9**.
-- Story 1 begins printed page **1** / scan **10**.
-- Story 37 begins printed page **244** / scan **253**.
-- Printed page **250** appears on scan **259** and closes Story 37.
-- Scan **260** is the back cover.
-
-## Title-heading check
-
-All 37 calculated start scans were visually inspected. Two TOC/opening-title differences are recorded in [`story-inventory.md`](story-inventory.md):
-
-- `புரட்சிப்படம்` → opening `புரட்சிப் படம்`
-- `சித்தார்த்தன்` → opening `சித்தார்த்தன் சிலை`
-
 ## Current processing boundary
 
-Completed Tamil source passes:
+Completed Tamil source passes are Stories 1–9, scans **10–83**. Scan **84 / printed page 75** was visually confirmed as the opening of Story 10 `தப்பிவிட்டார்கள்` while closing the Story 9 boundary.
 
-1. `புகழேந்தி` — scans 10–15
-2. `நளாயினி` — scans 16–23
-3. `சபலம்` — scans 24–30
-4. `ஆட்டக்காவடி` — scans 31–38
-5. `குப்பைத்தொட்டி` — scans 39–46
-6. `சந்தனக்கிண்ணம்` — scans 47–56
-7. `சங்கிலிச்சாமி` — scans 57–68
-8. `கங்கையின் காதல்` — scans 69–72
-
-Scan **73 / printed page 64** was visually confirmed as the opening of Story 9 `தாய்மை` while closing the Story 8 boundary.
-
-Next active source range: **Story 9 `தாய்மை`, scans 73–83 / printed pages 64–74**. Its ending must be checked against scan **84**, which should begin Story 10 `தப்பிவிட்டார்கள்`.
+Next active source range: **Story 10 `தப்பிவிட்டார்கள்`, scans 84–91 / printed pages 75–82**. Its ending must be checked against scan **92**, which should begin Story 11 `தப்பவில்லை`.
 
 ## Per-story page-record policy
 
-This collection-level map does not replace `stories/<slug>/pages/`. When a story is selected for processing, create page records only for that story's scan range and preserve anthology scan number + printed page number in every page marker.
+This collection-level map does not replace `stories/<slug>/pages/`. Preserve anthology scan number + printed page number in every page marker.
