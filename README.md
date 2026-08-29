@@ -30,6 +30,7 @@ Permanent guides:
 | [`சந்தனக்கிண்ணம்`](stories/santhana-kinnam/README.md) | **10 / 10 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **12 / 12 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`தாய்மை`](stories/thaaymai/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -53,67 +54,49 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **8 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`
-- anthology stories not yet transcribed: **29 / 37**
+- Tamil source processing complete from anthology: **9 / 37**
+- anthology stories not yet transcribed: **28 / 37**
 - English translation started from anthology: **0 / 37**
 
-Exact source metadata:
-
-- [`metadata/source.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/metadata/source.md)
-
-Exact 37-story inventory:
-
-- [`indexes/story-inventory.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md)
-
-Scan / printed-page ranges:
-
-- [`indexes/scan-map.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md)
+Exact source metadata, inventory and scan map are under the collection workspace.
 
 ## Completed anthology Tamil source passes
 
-1. **புகழேந்தி** — printed **1–6**, scans **10–15**, **6/6 verified**, audit PASS, 0 blocked.
-2. **நளாயினி** — printed **7–14**, scans **16–23**, **8/8 verified**, audit PASS, 0 blocked.
-3. **சபலம்** — printed **15–21**, scans **24–30**, **7/7 verified**, audit PASS, 0 blocked.
-4. **ஆட்டக்காவடி** — printed **22–29**, scans **31–38**, **8/8 verified**, audit PASS, 0 blocked.
-5. **குப்பைத்தொட்டி** — printed **30–37**, scans **39–46**, **8/8 verified**, audit PASS, 0 blocked.
-6. **சந்தனக்கிண்ணம்** — printed **38–47**, scans **47–56**, **10/10 verified**, audit PASS, 0 blocked.
-7. **சங்கிலிச்சாமி** — printed **48–59**, scans **57–68**, **12/12 verified**, audit PASS, 0 blocked.
-8. **கங்கையின் காதல்** — printed **60–63**, scans **69–72**, **4/4 verified**, audit PASS, 0 blocked.
+1. **புகழேந்தி** — printed **1–6**, scans **10–15**, **6/6 verified**, audit PASS.
+2. **நளாயினி** — printed **7–14**, scans **16–23**, **8/8 verified**, audit PASS.
+3. **சபலம்** — printed **15–21**, scans **24–30**, **7/7 verified**, audit PASS.
+4. **ஆட்டக்காவடி** — printed **22–29**, scans **31–38**, **8/8 verified**, audit PASS.
+5. **குப்பைத்தொட்டி** — printed **30–37**, scans **39–46**, **8/8 verified**, audit PASS.
+6. **சந்தனக்கிண்ணம்** — printed **38–47**, scans **47–56**, **10/10 verified**, audit PASS.
+7. **சங்கிலிச்சாமி** — printed **48–59**, scans **57–68**, **12/12 verified**, audit PASS.
+8. **கங்கையின் காதல்** — printed **60–63**, scans **69–72**, **4/4 verified**, audit PASS.
+9. **தாய்மை** — printed **64–74**, scans **73–83**, **11/11 verified**, audit PASS.
 
-All eight have **0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All nine have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 8 — கங்கையின் காதல்
+### Story 9 — தாய்மை
 
-Canonical workspace: [`stories/gangaiyin-kadhal/`](stories/gangaiyin-kadhal/README.md)
+Canonical workspace: [`stories/thaaymai/`](stories/thaaymai/README.md)
 
-- printed pages **60–63**
-- PDF scans **69–72**
-- page records: **4 / 4 verified**
+- printed pages **64–74**
+- PDF scans **73–83**
+- page records: **11 / 11 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- human possible-error queue: created
-- scan **73** confirmed as the opening of next story `தாய்மை`
+- scan **84** confirmed as next-story opening `தப்பிவிட்டார்கள்`
 - English: not started
-
-Representative source-close readings retained for human recheck include `காள மாடு`, `அசை வற்றுக்`, `அல்வித் தண்டில்`, `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`, `என்..பார்வதியால் தான் முடிந்ததா?`, and `தோன்றுமலிருக்க`.
 
 ### Edition-level title differences already preserved
 
 - TOC `புரட்சிப்படம்` ↔ story-opening heading `புரட்சிப் படம்`
 - TOC `சித்தார்த்தன்` ↔ story-opening heading `சித்தார்த்தன் சிலை`
 
-These are source facts and must not be silently normalized.
-
-## Repository organization
-
-Anthology folders preserve physical collection identity. Canonical story text always lives under `stories/<slug>/`. If a later anthology entry matches an already-existing story, register the anthology as an additional edition/witness rather than creating a duplicate canonical story.
-
 ## Next exact activity
 
-Process anthology Story **9 — `தாய்மை`** only:
+Process anthology Story **10 — `தப்பிவிட்டார்கள்`** only:
 
-- printed pages **64–74**
-- PDF scans **73–83**
+- printed pages **75–82**
+- PDF scans **84–91**
 
-First confirm live `main` has no existing matching canonical workspace. Then visually confirm scan **73** opens `தாய்மை`, scan **83** contains its ending, and scan **84** begins Story 10 `தப்பிவிட்டார்கள்`. Complete the Tamil source pass for Story 9 only and do not begin Story 10 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **84** opens `தப்பிவிட்டார்கள்`, scan **91** closes it, and scan **92** begins Story 11 `தப்பவில்லை`. Complete Story 10 only; do not begin Story 11 in the same activity.
