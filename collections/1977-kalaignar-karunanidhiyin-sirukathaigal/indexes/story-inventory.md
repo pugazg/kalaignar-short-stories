@@ -9,7 +9,7 @@
 | 1 | `புகழேந்தி` | `புகழேந்தி` | 1–6 | 10–15 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/pugazhendhi/` |
 | 2 | `நளாயினி` | `நளாயினி` | 7–14 | 16–23 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/nalayini/` |
 | 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/sabalam/` |
-| 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | registered — not transcribed |
+| 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/aattakkavadi/` |
 | 5 | `குப்பைத்தொட்டி` | `குப்பைத்தொட்டி` | 30–37 | 39–46 | registered — not transcribed |
 | 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | registered — not transcribed |
 | 7 | `சங்கிலிச்சாமி` | `சங்கிலிச்சாமி` | 48–59 | 57–68 | registered — not transcribed |
@@ -47,8 +47,8 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **3 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`
-- not yet transcribed: **34 / 37**
+- Tamil source processing complete: **4 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`
+- not yet transcribed: **33 / 37**
 - English translation started from anthology: **0 / 37**
 
 ## Completed canonical workspaces
@@ -76,9 +76,18 @@
 `../../../stories/sabalam/`
 
 - scans **24–30** / printed pages **15–21**
-- **7 / 7 verified**, 0 blocked, 0 unresolved story text, audit PASS
+- **7 / 7 verified**, 0 blocked, audit PASS
+- scan 31 boundary confirmed as `ஆட்டக்காவடி`
+- possible-error queue open
+
+### ஆட்டக்காவடி
+
+`../../../stories/aattakkavadi/`
+
+- scans **31–38** / printed pages **22–29**
+- **8 / 8 verified**, 0 blocked, 0 unresolved story text, audit PASS
 - assembled Tamil complete
-- scan 31 visually confirmed as next-story opening `ஆட்டக்காவடி`
+- scan 39 visually confirmed as next-story opening `குப்பைத்தொட்டி`
 - possible-error queue open
 
 The possible-error queues are human-review layers and do not automatically alter verified source readings.
@@ -99,9 +108,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 4 — **`ஆட்டக்காவடி`**:
+Story 5 — **`குப்பைத்தொட்டி`**:
 
-- printed pages **22–29**
-- anthology scans **31–38**
+- printed pages **30–37**
+- anthology scans **39–46**
 
-Do not create placeholder folders for later stories; process Story 4 only when it becomes active.
+Do not create placeholder folders for later stories; process Story 5 only when it becomes active.
