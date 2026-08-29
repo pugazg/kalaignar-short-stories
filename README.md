@@ -1,121 +1,99 @@
 # கலைஞர் சிறுகதைகள் — மின்னாக்கக் களஞ்சியம்
 
-கலைஞர் மு. கருணாநிதியின் சிறுகதைகள் மற்றும் தனிநூலாக வெளிவந்த சிறுகதைப் பதிப்புகளை மூல ஸ்கேன்களின் பக்க வரிசையைக் காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
+கலைஞர் மு. கருணாநிதியின் சிறுகதைகள், தனிநூல் பதிப்புகள், மற்றும் பல சிறுகதைகளை ஒரே தொகுப்பாகக் கொண்ட anthologies-ஐ source-first முறையில் பாதுகாக்கும் repository.
 
 ## மூலக் கொள்கை
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
 
-மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது.
+- silent modernization / normalization செய்யக்கூடாது;
+- difficult story text-ஐ விரைவாக `blocked` என்று விட்டுவிடக்கூடாது — **No stones should be left unturned**;
+- processed-crop confidence மட்டும் `verified`-க்கு போதாது; complete phrase/clause/sentence span source-க்கு எதிராக உறுதிப்படுத்தப்பட வேண்டும்;
+- source PDF files GitHub-க்கு commit செய்யப்படாது.
 
-அதே நேரத்தில் story text-ல் ஒரு வாசிப்பு கடினமாக இருப்பதற்காக அதை விரைவாக `blocked` என்று விட்டுவிடக்கூடாது. Repository guide-ன் நிரந்தர விதி:
+Permanent guides:
 
-> **No stones should be left unturned.**
+- [`SHORT_STORY_PROCESSING_GUIDE.md`](SHORT_STORY_PROCESSING_GUIDE.md)
+- [`COLLECTION_SOURCE_GUIDE.md`](COLLECTION_SOURCE_GUIDE.md)
 
-Native embedded scan, high-resolution enlargement, alternate image variants, stamp-stroke separation, neighbouring typeform comparison, page-boundary checks, user-supplied reading verification, provenance-உடைய secondary corroboration ஆகிய escalation-கள் தேவையான அளவு முயற்சிக்கப்பட்ட பிறகே story text `blocked` ஆக இருக்கலாம். Secondary witness source-ஐ silently overwrite செய்யக்கூடாது.
+## Canonical stories
 
-மேலும், **processed-crop confidence is not source confidence**: difficult reading-ஐ `verified` ஆக மாற்றும் முன் முழு phrase/clause/sentence span native source-க்கு எதிராகச் சரிபார்க்கப்பட வேண்டும்.
+| Story | Source state | English |
+|---|---|---|
+| [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
 
-**மூல PDF கோப்புகள் repository-யில் commit செய்யப்படாது.** Filename, checksum, edition identity, scan condition மற்றும் page mapping மட்டும் metadata-வில் பதிவு செய்யப்படும்.
+`கிழவன் கனவு`-க்கான manual recheck queue:
 
-## தற்போதைய சிறுகதை
+- [`stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md`](stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md)
 
-| சிறுகதை | ஆசிரியர் | scan-ல் தெரியும் பதிப்பு | நிலை |
-|---|---|---|---|
-| கிழவன் கனவு | மு. கருணாநிதி | இரண்டாம் பதிப்பு | **Story source 16/16 VERIFIED; English COMPLETE / source-complete / release-ready** |
+## Registered anthology source
 
-## கிழவன் கனவு — final story status
+### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
-Story-body scans **7–22**:
+Collection workspace:
 
-- `verified`: **16 / 16**
-- `blocked`: **0**
-- `needs-review`: **0**
-- unresolved story-text locations: **0**
+- [`collections/1977-kalaignar-karunanidhiyin-sirukathaigal/`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md)
 
-Key final readings include:
+Source registration state:
 
-- scan 15: `துர் எண்ணத்தை`, `புத்தமுதம் தின்று கொண்டிருந்த`, and the full temple-history sentence including `அரசன் நாடெங்கும் சுற்றி அரசமரத்தடியில் கேட்பாரற்றுக் கிடந்த கருங்கல் பிள்ளையாருக்கு...`;
-- scan 17: `பார்வதியை அணைத்தபடி பரமன்`;
-- scan 21: `இந்த நினைவு அந்த துணைவர்கள் உள்ளத்தை உருக்கிவார்த்தது.`, `ஆநிரைகோ`, `உரநெஞ்சன்`, `இந்தி எதிர்ப்பு`;
-- scan 22: `இதே கனவைத்தான் ராமசாமிப்பெரியாரும் காண்கிறார். வரப்போகும் திராவிடத்தின் அழியாத சித்திரம் ; அந்தக் கிழவன் கனவு.`
+- anthology source PDF: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- printed title: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**
+- printed author: **கலைஞர் மு. கருணாநிதி**
+- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
+- first edition: **1977**
+- PDF scans: **260**
+- printed story pages: **1–250**
+- stories in contents: **37**
+- story inventory: **37 / 37 registered**
+- story-opening scan checks: **37 / 37 complete**
+- per-story transcription from this anthology: **not started**
 
-The earlier scan-15 enhancement-derived `புது தழுவகம் ஒன்று` reading is superseded and must not be reused.
+Exact source metadata:
 
-The salesperson / advertisement / publisher-printer matter below the scan-22 conclusion is not part of the story and is excluded from story transcription/translation scope.
+- [`metadata/source.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/metadata/source.md)
 
-## Physical-copy page status
+Exact 37-story inventory:
 
-Across all 26 scans:
+- [`indexes/story-inventory.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md)
 
-- `verified`: **24**
-- `blocked`: **2** — front-matter scans 3–4 only
-- `needs-review`: **0**
-- `not-started`: **0**
+Scan / printed-page ranges:
 
-The remaining two blocked page records are non-story front matter. If full-publication zero-block closure is required, the same exhaustive protocol must be applied to them.
+- [`indexes/scan-map.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md)
 
-## Tamil story layer
+### Edition-level title differences already preserved
 
-- `stories/kizhavan-kanavu/audit.md`
-- `stories/kizhavan-kanavu/sections/kizhavan-kanavu.md` — **zero blocked markers / scan-15 full-span corrected**
-- `stories/kizhavan-kanavu/sections/kizhavan-kanavu-errata.md` — **10** publisher corrections separately mapped
-- `stories/kizhavan-kanavu/ASSEMBLY_REVIEW.md` — **PASS / 16 of 16 verified**
+- TOC `புரட்சிப்படம்` ↔ story-opening heading `புரட்சிப் படம்`
+- TOC `சித்தார்த்தன்` ↔ story-opening heading `சித்தார்த்தன் சிலை`
 
-## English translation stage
+These are source facts and must not be silently normalized.
 
-The **story-body English translation, scans 7–22, is COMPLETE and source-complete**.
-
-- 4 / 4 source batches reviewed;
-- 16 / 16 story scans assembled;
-- English `SOURCE BLOCKED` markers: **0**;
-- scan-15 English follows `புத்தமுதம் தின்று கொண்டிருந்த` and the complete temple-history clause;
-- editorial consistency review: **PASS**;
-- release review: **PASS — story source complete / release-ready**.
-
-Final English ending:
-
-**“Periyar EV Ramasamy too sees this very dream. The imperishable image of the Dravidam that is to come; that is the old man's dream.”**
-
-Final/review files include:
-
-- `stories/kizhavan-kanavu/translations/en/kizhavan-kanavu-en.md`
-- `stories/kizhavan-kanavu/translations/en/ERRATA_NOTES.md`
-- `stories/kizhavan-kanavu/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
-- `stories/kizhavan-kanavu/translations/en/RELEASE_REPORT.md`
-
-Scan-23 errata remains a separate textual layer and is not silently substituted into archival Tamil or English prose.
-
-## களஞ்சிய அமைப்பு
+## Repository organization
 
 ```text
 README.md
 SHORT_STORY_PROCESSING_GUIDE.md
+COLLECTION_SOURCE_GUIDE.md
 HANDOVER.md
-stories/
-  kizhavan-kanavu/
+collections/
+  1977-kalaignar-karunanidhiyin-sirukathaigal/
     README.md
     metadata/
+      source.md
     indexes/
-    pages/
-    sections/
-    audit.md
-    ASSEMBLY_REVIEW.md
-    translations/
-      en/
-        README.md
-        TRANSLATION_PLAN.md
-        SOURCE_MAP.md
-        ERRATA_NOTES.md
-        kizhavan-kanavu-en.md
-        EDITORIAL_CONSISTENCY_REVIEW.md
-        RELEASE_REPORT.md
-        batches/
+      story-inventory.md
+      scan-map.md
+stories/
+  kizhavan-kanavu/
+    ...
 ```
 
-விரிவான workflow: [`SHORT_STORY_PROCESSING_GUIDE.md`](SHORT_STORY_PROCESSING_GUIDE.md).  
-முடிக்கப்பட்ட தற்போதைய சிறுகதை: [`stories/kizhavan-kanavu/README.md`](stories/kizhavan-kanavu/README.md).
+Anthology folders preserve physical collection identity. Canonical story text always lives under `stories/<slug>/`. If a later anthology entry matches an already-existing story, register the anthology as an additional edition/witness rather than creating a duplicate canonical story.
 
-## அடுத்த activity
+## Next exact activity
 
-The **கிழவன் கனவு story body is fully resolved and closed**. Optional next cleanup for this physical publication is to apply the same exhaustive protocol to non-story front-matter scans **3–4**; otherwise the next archival activity is source registration for the next Kalaignar short-story PDF.
+Begin anthology Story **1 — `புகழேந்தி`**:
+
+- printed pages **1–6**
+- PDF scans **10–15**
+
+Create its canonical story workspace, register this 1977 anthology as the controlling source, transcribe the six story pages page-by-page, run direct visual/full-span verification, and create its `POSSIBLE_ERRORS_FOR_REVIEW.md` queue.
