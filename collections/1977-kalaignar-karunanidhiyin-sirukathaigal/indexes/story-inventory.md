@@ -7,7 +7,7 @@
 | # | TOC title | Story-opening heading | Printed pages | Scan pages | Status / note |
 |---:|---|---|---:|---:|---|
 | 1 | `புகழேந்தி` | `புகழேந்தி` | 1–6 | 10–15 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/pugazhendhi/` |
-| 2 | `நளாயினி` | `நளாயினி` | 7–14 | 16–23 | registered — not transcribed |
+| 2 | `நளாயினி` | `நளாயினி` | 7–14 | 16–23 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/nalayini/` |
 | 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | registered — not transcribed |
 | 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | registered — not transcribed |
 | 5 | `குப்பைத்தொட்டி` | `குப்பைத்தொட்டி` | 30–37 | 39–46 | registered — not transcribed |
@@ -47,15 +47,37 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **1 / 37** — `புகழேந்தி`
-- not yet transcribed: **36 / 37**
+- Tamil source processing complete: **2 / 37** — `புகழேந்தி`, `நளாயினி`
+- not yet transcribed: **35 / 37**
 - English translation started: **0 / 37**
 
-`புகழேந்தி` workspace:
+Completed canonical workspaces from this anthology:
+
+### புகழேந்தி
 
 `../../../stories/pugazhendhi/`
 
-It contains six verified page records, assembled Tamil, source audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`. The possible-error queue is a later human review layer and does not automatically change verified readings.
+- scans **10–15** / printed pages **1–6**
+- page records: **6 / 6 verified**
+- blocked / unresolved story text: **0**
+- assembled Tamil: complete
+- source audit: **PASS**
+- human `POSSIBLE_ERRORS_FOR_REVIEW.md`: open
+
+### நளாயினி
+
+`../../../stories/nalayini/`
+
+- scans **16–23** / printed pages **7–14**
+- page records: **8 / 8 verified**
+- blocked / unresolved story text: **0**
+- assembled Tamil: complete
+- source audit: **PASS**
+- human `POSSIBLE_ERRORS_FOR_REVIEW.md`: open
+- source-form distinction preserved: scan 17 `மெளத் கல்யர்` vs scan 18 `மெளத்கல்யர்`
+- printed page-14 `குறிப்பு :—` retained separately from the narrative ending
+
+The possible-error queues are human-review layers and do not automatically change a verified source reading.
 
 ## Source-title variances found during start-page verification
 
@@ -78,9 +100,9 @@ Before processing an inventory item, check whether a matching canonical workspac
 
 ## Next processing activity
 
-Story 2 — **`நளாயினி`**:
+Story 3 — **`சபலம்`**:
 
-- printed pages **7–14**
-- anthology scans **16–23**
+- printed pages **15–21**
+- anthology scans **24–30**
 
-Do not create empty placeholder folders for later stories. Process the next story only when it becomes active.
+Do not create empty placeholder folders for later stories. Process Story 3 only when it becomes active.
