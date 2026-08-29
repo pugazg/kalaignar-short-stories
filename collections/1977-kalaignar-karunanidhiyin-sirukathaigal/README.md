@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **12 / 37**
-- not yet transcribed: **25 / 37**
+- Tamil source processing complete: **13 / 37**
+- not yet transcribed: **24 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -38,11 +38,12 @@ Completed from this collection:
 9. `தாய்மை` — printed **64–74**, scans **73–83**, **11/11 verified**, audit PASS.
 10. `தப்பிவிட்டார்கள்` — printed **75–82**, scans **84–91**, **8/8 verified**, audit PASS.
 11. `தப்பவில்லை` — printed **83–92**, scans **92–101**, **10/10 verified**, audit PASS.
-12. `ஆதரிக்கிறார்` — workspace [`../../stories/aatharikkirar/`](../../stories/aatharikkirar/) — printed **93–98**, scans **102–107**, **6/6 verified**, 0 blocked, audit PASS.
+12. `ஆதரிக்கிறார்` — printed **93–98**, scans **102–107**, **6/6 verified**, audit PASS.
+13. `இரகசியம்!` — workspace [`../../stories/iragasiyam/`](../../stories/iragasiyam/) — printed **99–102**, scans **108–111**, **4/4 verified**, 0 blocked, audit PASS.
 
-All twelve have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All thirteen have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `ஆதரிக்கிறார்`, scan **108** was visually confirmed as the next-story opening `இரகசியம்!`.
+For `இரகசியம்!`, scan **112** was visually confirmed as the next-story opening `முந்நூறு ரூபாய்`.
 
 ## Source-title differences
 
@@ -64,9 +65,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 13 **`இரகசியம்!`**:
+Process Story 14 **`முந்நூறு ரூபாய்`**:
 
-- printed pages **99–102**
-- anthology scans **108–111**
+- printed pages **103–105**
+- anthology scans **112–114**
 
-Confirm scan **108** opens Story 13, scan **111** closes it, and scan **112** opens Story 14 `முந்நூறு ரூபாய்`. Do not begin Story 14 in the same activity.
+Confirm scan **112** opens Story 14, scan **114** closes it, and scan **115** opens Story 15 `ஏழை`. Do not begin Story 15 in the same activity.
