@@ -32,6 +32,7 @@ Permanent guides:
 | [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`தாய்மை`](stories/thaaymai/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`தப்பவில்லை`](stories/thappavillai/README.md) | **10 / 10 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -55,8 +56,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **10 / 37**
-- anthology stories not yet transcribed: **27 / 37**
+- Tamil source processing complete from anthology: **11 / 37**
+- anthology stories not yet transcribed: **26 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -73,20 +74,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 8. **கங்கையின் காதல்** — printed **60–63**, scans **69–72**, **4/4 verified**, audit PASS.
 9. **தாய்மை** — printed **64–74**, scans **73–83**, **11/11 verified**, audit PASS.
 10. **தப்பிவிட்டார்கள்** — printed **75–82**, scans **84–91**, **8/8 verified**, audit PASS.
+11. **தப்பவில்லை** — printed **83–92**, scans **92–101**, **10/10 verified**, audit PASS.
 
-All ten have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All eleven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 10 — தப்பிவிட்டார்கள்
+### Story 11 — தப்பவில்லை
 
-Canonical workspace: [`stories/thappivittargal/`](stories/thappivittargal/README.md)
+Canonical workspace: [`stories/thappavillai/`](stories/thappavillai/README.md)
 
-- printed pages **75–82**
-- PDF scans **84–91**
-- page records: **8 / 8 verified**
+- printed pages **83–92**
+- PDF scans **92–101**
+- page records: **10 / 10 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **92** confirmed as next-story opening `தப்பவில்லை`
+- scan **102** confirmed as next-story opening `ஆதரிக்கிறார்`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -96,9 +98,9 @@ Canonical workspace: [`stories/thappivittargal/`](stories/thappivittargal/README
 
 ## Next exact activity
 
-Process anthology Story **11 — `தப்பவில்லை`** only:
+Process anthology Story **12 — `ஆதரிக்கிறார்`** only:
 
-- printed pages **83–92**
-- PDF scans **92–101**
+- printed pages **93–98**
+- PDF scans **102–107**
 
-First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **92** opens `தப்பவில்லை`, scan **101** closes it, and scan **102** begins Story 12 `ஆதரிக்கிறார்`. Complete Story 11 only; do not begin Story 12 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **102** opens `ஆதரிக்கிறார்`, scan **107** closes it, and scan **108** begins Story 13 `இரகசியம்!`. Complete Story 12 only; do not begin Story 13 in the same activity.

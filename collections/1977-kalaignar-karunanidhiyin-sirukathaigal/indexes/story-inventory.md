@@ -16,7 +16,7 @@
 | 8 | `கங்கையின் காதல்` | `கங்கையின் காதல்` | 60–63 | 69–72 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/gangaiyin-kadhal/` |
 | 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | **Tamil source complete — 11/11 verified; human recheck queue open** — `stories/thaaymai/` |
 | 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/thappivittargal/` |
-| 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | registered — not transcribed |
+| 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | **Tamil source complete — 10/10 verified; human recheck queue open** — `stories/thappavillai/` |
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | registered — not transcribed |
 | 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | registered — not transcribed |
 | 14 | `முந்நூறு ரூபாய்` | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **10 / 37**
-- not yet transcribed: **27 / 37**
+- Tamil source processing complete: **11 / 37**
+- not yet transcribed: **26 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 10 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 11 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 11 — **`தப்பவில்லை`**:
+Story 12 — **`ஆதரிக்கிறார்`**:
 
-- printed pages **83–92**
-- anthology scans **92–101**
+- printed pages **93–98**
+- anthology scans **102–107**
 
-Before closure, visually confirm scan **102** begins Story 12 `ஆதரிக்கிறார்`. Do not create or transcribe Story 12 in the same activity.
+Before closure, visually confirm scan **108** begins Story 13 `இரகசியம்!`. Do not create or transcribe Story 13 in the same activity.
