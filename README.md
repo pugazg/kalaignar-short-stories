@@ -23,11 +23,13 @@ Permanent guides:
 |---|---|---|
 | [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
 | [`புகழேந்தி`](stories/pugazhendhi/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`நளாயினி`](stories/nalayini/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues:
 
 - [`கிழவன் கனவு`](stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md)
 - [`புகழேந்தி`](stories/pugazhendhi/POSSIBLE_ERRORS_FOR_REVIEW.md)
+- [`நளாயினி`](stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Registered anthology source
 
@@ -49,8 +51,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **1 / 37** — `புகழேந்தி`
-- anthology stories not yet transcribed: **36 / 37**
+- Tamil source processing complete from anthology: **2 / 37** — `புகழேந்தி`, `நளாயினி`
+- anthology stories not yet transcribed: **35 / 37**
 
 Exact source metadata:
 
@@ -69,12 +71,30 @@ Scan / printed-page ranges:
 - printed pages **1–6**
 - PDF scans **10–15**
 - canonical workspace: [`stories/pugazhendhi/`](stories/pugazhendhi/README.md)
-- six page records: **6 / 6 verified**
+- page records: **6 / 6 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks: **0**
 - human possible-error queue: created
 - English: not started
+
+### Story 2 — நளாயினி — completed Tamil source pass
+
+- printed pages **7–14**
+- PDF scans **16–23**
+- canonical workspace: [`stories/nalayini/`](stories/nalayini/README.md)
+- page records: **8 / 8 verified**
+- Tamil assembly: complete
+- Tamil audit: **PASS**
+- source blocks: **0**
+- human possible-error queue: created
+- English: not started
+
+Important source distinctions retained in `நளாயினி`:
+
+- scan 17: `மெளத் கல்யர்`
+- scan 18: `மெளத்கல்யர்`
+- printed page 14 narrative conclusion is kept separate from the following `குறிப்பு :—`.
 
 ### Edition-level title differences already preserved
 
@@ -102,15 +122,17 @@ stories/
   kizhavan-kanavu/
     ...
   pugazhendhi/
+    ...
+  nalayini/
     README.md
     metadata/
       source.md
     indexes/
       page-map.md
     pages/
-      0001.md ... 0006.md
+      0016-nalayini-01.md ... 0023-nalayini-08.md
     sections/
-      pugazhendhi.md
+      nalayini.md
     audit.md
     POSSIBLE_ERRORS_FOR_REVIEW.md
 ```
@@ -119,9 +141,9 @@ Anthology folders preserve physical collection identity. Canonical story text al
 
 ## Next exact activity
 
-Begin anthology Story **2 — `நளாயினி`**:
+Begin anthology Story **3 — `சபலம்`**:
 
-- printed pages **7–14**
-- PDF scans **16–23**
+- printed pages **15–21**
+- PDF scans **24–30**
 
-First confirm live `main` has no existing matching canonical workspace. Then create and complete the Tamil source pass for Story 2 only; do not begin Story 3 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Then create and complete the Tamil source pass for Story 3 only; do not begin Story 4 in the same activity.
