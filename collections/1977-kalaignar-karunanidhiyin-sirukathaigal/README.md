@@ -37,8 +37,8 @@ The printed contents on scans **8–9** has been transcribed into a 37-story inv
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **1 / 37**
-- not yet transcribed: **36 / 37**
+- Tamil source processing complete: **2 / 37**
+- not yet transcribed: **35 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -55,7 +55,25 @@ Completed from this collection:
 - persistent human possible-error queue: created
 - English translation: not started
 
-The human review queue deliberately retains unusual readings for later source checking without silently correcting them.
+### 2. நளாயினி
+
+- canonical workspace: [`../../stories/nalayini/`](../../stories/nalayini/)
+- printed pages: **7–14**
+- source scans: **16–23**
+- page records: **8 / 8 verified**
+- blocked / missing source text: **0**
+- Tamil assembly: complete
+- source audit: **PASS**
+- persistent human possible-error queue: created
+- English translation: not started
+
+Important source distinctions retained for `நளாயினி`:
+
+- scan 17 / printed page 8: `மெளத் கல்யர்`
+- scan 18 / printed page 9: `மெளத்கல்யர்`
+- printed page 14 narrative ending and the subsequent `குறிப்பு :—` remain separate textual layers.
+
+The human review queues deliberately retain unusual readings for later source checking without silently correcting them.
 
 See [`indexes/story-inventory.md`](indexes/story-inventory.md).
 
@@ -97,13 +115,18 @@ When a story is processed:
 
 `கிழவன் கனவு` remains an independently processed canonical story from another source and is not in this anthology.
 
-The first anthology story, `புகழேந்தி`, now has its own canonical workspace. Later stories should only receive workspaces when they become active.
+The first two anthology stories now have canonical workspaces:
+
+- `புகழேந்தி`
+- `நளாயினி`
+
+Later stories should only receive workspaces when they become active.
 
 ## Next exact activity
 
-Process Story 2 **`நளாயினி`**:
+Process Story 3 **`சபலம்`**:
 
-- printed pages **7–14**
-- anthology scans **16–23**
+- printed pages **15–21**
+- anthology scans **24–30**
 
-Before starting it, confirm no matching canonical workspace has appeared on live `main`; then follow the same page-by-page visual/full-span workflow used for `புகழேந்தி`.
+Before starting it, confirm no matching canonical workspace has appeared on live `main`; then follow the same page-by-page visual/full-span workflow. Do not begin Story 4 in the same activity.
