@@ -14,7 +14,7 @@
 | 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **Tamil source complete — 10/10 verified; human recheck queue open** — `stories/santhana-kinnam/` |
 | 7 | `சங்கிலிச்சாமி` | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **Tamil source complete — 12/12 verified; human recheck queue open** — `stories/sangilichami/` |
 | 8 | `கங்கையின் காதல்` | `கங்கையின் காதல்` | 60–63 | 69–72 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/gangaiyin-kadhal/` |
-| 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | registered — not transcribed |
+| 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | **Tamil source complete — 11/11 verified; human recheck queue open** — `stories/thaaymai/` |
 | 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | registered — not transcribed |
 | 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | registered — not transcribed |
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | registered — not transcribed |
@@ -47,22 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **8 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`
-- not yet transcribed: **29 / 37**
+- Tamil source processing complete: **9 / 37**
+- not yet transcribed: **28 / 37**
 - English translation started from anthology: **0 / 37**
 
-## Completed canonical workspaces
-
-- `புகழேந்தி` — scans **10–15** / printed **1–6** — **6/6 verified**, audit PASS.
-- `நளாயினி` — scans **16–23** / printed **7–14** — **8/8 verified**, audit PASS.
-- `சபலம்` — scans **24–30** / printed **15–21** — **7/7 verified**, audit PASS.
-- `ஆட்டக்காவடி` — scans **31–38** / printed **22–29** — **8/8 verified**, audit PASS.
-- `குப்பைத்தொட்டி` — scans **39–46** / printed **30–37** — **8/8 verified**, audit PASS.
-- `சந்தனக்கிண்ணம்` — scans **47–56** / printed **38–47** — **10/10 verified**, audit PASS.
-- `சங்கிலிச்சாமி` — scans **57–68** / printed **48–59** — **12/12 verified**, audit PASS.
-- `கங்கையின் காதல்` — scans **69–72** / printed **60–63** — **4/4 verified**, audit PASS; scan 73 boundary confirmed as `தாய்மை`.
-
-All completed anthology stories have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 9 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -80,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 9 — **`தாய்மை`**:
+Story 10 — **`தப்பிவிட்டார்கள்`**:
 
-- printed pages **64–74**
-- anthology scans **73–83**
+- printed pages **75–82**
+- anthology scans **84–91**
 
-Do not create placeholder folders for later stories; process Story 9 only when it becomes active. Before closing Story 9, visually confirm scan 84 begins Story 10 `தப்பிவிட்டார்கள்`.
+Before closure, visually confirm scan **92** begins Story 11 `தப்பவில்லை`. Do not create or transcribe Story 11 in the same activity.
