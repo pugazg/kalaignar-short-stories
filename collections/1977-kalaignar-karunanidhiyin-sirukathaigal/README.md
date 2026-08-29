@@ -19,102 +19,28 @@ The anthology is **not** treated as one story. Its 37 stories are processed into
 
 Full registration: [`metadata/source.md`](metadata/source.md).
 
-## Collection structure
-
-```text
-collections/1977-kalaignar-karunanidhiyin-sirukathaigal/
-  README.md
-  metadata/
-    source.md
-  indexes/
-    story-inventory.md
-    scan-map.md
-```
-
 ## Inventory / processing state
 
 The printed contents on scans **8–9** has been transcribed into a 37-story inventory. Every calculated story-start scan was visually checked against the actual story-opening heading.
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **5 / 37**
-- not yet transcribed: **32 / 37**
+- Tamil source processing complete: **6 / 37**
+- not yet transcribed: **31 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
 
-### 1. புகழேந்தி
+1. `புகழேந்தி` — workspace [`../../stories/pugazhendhi/`](../../stories/pugazhendhi/) — printed **1–6**, scans **10–15**, **6/6 verified**, 0 blocked, audit PASS.
+2. `நளாயினி` — workspace [`../../stories/nalayini/`](../../stories/nalayini/) — printed **7–14**, scans **16–23**, **8/8 verified**, 0 blocked, audit PASS.
+3. `சபலம்` — workspace [`../../stories/sabalam/`](../../stories/sabalam/) — printed **15–21**, scans **24–30**, **7/7 verified**, 0 blocked, audit PASS.
+4. `ஆட்டக்காவடி` — workspace [`../../stories/aattakkavadi/`](../../stories/aattakkavadi/) — printed **22–29**, scans **31–38**, **8/8 verified**, 0 blocked, audit PASS.
+5. `குப்பைத்தொட்டி` — workspace [`../../stories/kuppai-thotti/`](../../stories/kuppai-thotti/) — printed **30–37**, scans **39–46**, **8/8 verified**, 0 blocked, audit PASS.
+6. `சந்தனக்கிண்ணம்` — workspace [`../../stories/santhana-kinnam/`](../../stories/santhana-kinnam/) — printed **38–47**, scans **47–56**, **10/10 verified**, 0 blocked, audit PASS.
 
-- canonical workspace: [`../../stories/pugazhendhi/`](../../stories/pugazhendhi/)
-- printed pages: **1–6**
-- source scans: **10–15**
-- page records: **6 / 6 verified**
-- blocked / missing source text: **0**
-- Tamil assembly: complete
-- source audit: **PASS**
-- persistent human possible-error queue: created
-- English translation: not started
+All six have complete Tamil assemblies, zero unresolved story text, persistent possible-error queues, and no English translation started from this anthology.
 
-### 2. நளாயினி
-
-- canonical workspace: [`../../stories/nalayini/`](../../stories/nalayini/)
-- printed pages: **7–14**
-- source scans: **16–23**
-- page records: **8 / 8 verified**
-- blocked / missing source text: **0**
-- Tamil assembly: complete
-- source audit: **PASS**
-- persistent human possible-error queue: created
-- English translation: not started
-
-Important source distinctions retained for `நளாயினி`:
-
-- scan 17 / printed page 8: `மெளத் கல்யர்`
-- scan 18 / printed page 9: `மெளத்கல்யர்`
-- printed page 14 narrative ending and the subsequent `குறிப்பு :—` remain separate textual layers.
-
-### 3. சபலம்
-
-- canonical workspace: [`../../stories/sabalam/`](../../stories/sabalam/)
-- printed pages: **15–21**
-- source scans: **24–30**
-- page records: **7 / 7 verified**
-- blocked / missing source text: **0**
-- Tamil assembly: complete
-- source audit: **PASS**
-- persistent human possible-error queue: created
-- scan **31** visually confirmed as next-story opening `ஆட்டக்காவடி`
-- English translation: not started
-
-### 4. ஆட்டக்காவடி
-
-- canonical workspace: [`../../stories/aattakkavadi/`](../../stories/aattakkavadi/)
-- printed pages: **22–29**
-- source scans: **31–38**
-- page records: **8 / 8 verified**
-- blocked / missing source text: **0**
-- Tamil assembly: complete
-- source audit: **PASS**
-- persistent human possible-error queue: created
-- scan **39** visually confirmed as next-story opening `குப்பைத்தொட்டி`
-- English translation: not started
-
-### 5. குப்பைத்தொட்டி
-
-- canonical workspace: [`../../stories/kuppai-thotti/`](../../stories/kuppai-thotti/)
-- printed pages: **30–37**
-- source scans: **39–46**
-- page records: **8 / 8 verified**
-- blocked / missing source text: **0**
-- Tamil assembly: complete
-- source audit: **PASS**
-- persistent human possible-error queue: created
-- scan **47** visually confirmed as next-story opening `சந்தனக்கிண்ணம்`
-- English translation: not started
-
-The human review queues deliberately retain unusual readings for later source checking without silently correcting them.
-
-See [`indexes/story-inventory.md`](indexes/story-inventory.md).
+For `சந்தனக்கிண்ணம்`, scan **57** was visually confirmed as the next-story opening `சங்கிலிச்சாமி`.
 
 ## Source-title differences
 
@@ -154,21 +80,22 @@ When a story is processed:
 
 `கிழவன் கனவு` remains an independently processed canonical story from another source and is not in this anthology.
 
-The first five anthology stories now have canonical workspaces:
+The first six anthology stories now have canonical workspaces:
 
 - `புகழேந்தி`
 - `நளாயினி`
 - `சபலம்`
 - `ஆட்டக்காவடி`
 - `குப்பைத்தொட்டி`
+- `சந்தனக்கிண்ணம்`
 
 Later stories should only receive workspaces when they become active.
 
 ## Next exact activity
 
-Process Story 6 **`சந்தனக்கிண்ணம்`**:
+Process Story 7 **`சங்கிலிச்சாமி`**:
 
-- printed pages **38–47**
-- anthology scans **47–56**
+- printed pages **48–59**
+- anthology scans **57–68**
 
-Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 47 opening and scan 56 ending / scan 57 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 7 in the same activity.
+Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 57 opening and scan 68 ending / scan 69 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 8 in the same activity.

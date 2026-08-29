@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **5/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **6/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -25,7 +25,7 @@
 | 3 | `சபலம்` | 15–21 | 24–30 | **complete — 7/7 verified** |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **complete — 8/8 verified** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **complete — 8/8 verified** |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | not started |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **complete — 10/10 verified** |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | not started |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | not started |
 | 9 | `தாய்மை` | 64–74 | 73–83 | not started |
@@ -63,7 +63,6 @@
 - Story block offset: **scan = printed + 9**.
 - Story 1 begins printed page **1** / scan **10**.
 - Story 37 begins printed page **244** / scan **253**.
-- Printed page **249** appears on scan **258**.
 - Printed page **250** appears on scan **259** and closes Story 37.
 - Scan **260** is the back cover.
 
@@ -83,10 +82,11 @@ Completed Tamil source passes:
 3. `சபலம்` — scans 24–30
 4. `ஆட்டக்காவடி` — scans 31–38
 5. `குப்பைத்தொட்டி` — scans 39–46
+6. `சந்தனக்கிண்ணம்` — scans 47–56
 
-Scan **47 / printed page 38** was visually confirmed as the opening of Story 6 `சந்தனக்கிண்ணம்` while closing the Story 5 boundary.
+Scan **57 / printed page 48** was visually confirmed as the opening of Story 7 `சங்கிலிச்சாமி` while closing the Story 6 boundary.
 
-Next active source range: **Story 6 `சந்தனக்கிண்ணம்`, scans 47–56 / printed pages 38–47**. Its ending must be checked against scan **57**, which should begin Story 7 `சங்கிலிச்சாமி`.
+Next active source range: **Story 7 `சங்கிலிச்சாமி`, scans 57–68 / printed pages 48–59**. Its ending must be checked against scan **69**, which should begin Story 8 `கங்கையின் காதல்`.
 
 ## Per-story page-record policy
 

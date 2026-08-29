@@ -11,7 +11,7 @@
 | 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/sabalam/` |
 | 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/aattakkavadi/` |
 | 5 | `குப்பைத்தொட்டி` | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/kuppai-thotti/` |
-| 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | registered — not transcribed |
+| 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **Tamil source complete — 10/10 verified; human recheck queue open** — `stories/santhana-kinnam/` |
 | 7 | `சங்கிலிச்சாமி` | `சங்கிலிச்சாமி` | 48–59 | 57–68 | registered — not transcribed |
 | 8 | `கங்கையின் காதல்` | `கங்கையின் காதல்` | 60–63 | 69–72 | registered — not transcribed |
 | 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | registered — not transcribed |
@@ -47,60 +47,20 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **5 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`
-- not yet transcribed: **32 / 37**
+- Tamil source processing complete: **6 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`
+- not yet transcribed: **31 / 37**
 - English translation started from anthology: **0 / 37**
 
 ## Completed canonical workspaces
 
-### புகழேந்தி
+- `புகழேந்தி` — scans **10–15** / printed **1–6** — **6/6 verified**, audit PASS.
+- `நளாயினி` — scans **16–23** / printed **7–14** — **8/8 verified**, audit PASS.
+- `சபலம்` — scans **24–30** / printed **15–21** — **7/7 verified**, audit PASS.
+- `ஆட்டக்காவடி` — scans **31–38** / printed **22–29** — **8/8 verified**, audit PASS.
+- `குப்பைத்தொட்டி` — scans **39–46** / printed **30–37** — **8/8 verified**, audit PASS.
+- `சந்தனக்கிண்ணம்` — scans **47–56** / printed **38–47** — **10/10 verified**, audit PASS; scan 57 boundary confirmed as `சங்கிலிச்சாமி`.
 
-`../../../stories/pugazhendhi/`
-
-- scans **10–15** / printed pages **1–6**
-- **6 / 6 verified**, 0 blocked, audit PASS
-- assembled Tamil complete; possible-error queue open
-
-### நளாயினி
-
-`../../../stories/nalayini/`
-
-- scans **16–23** / printed pages **7–14**
-- **8 / 8 verified**, 0 blocked, audit PASS
-- scan 17 `மெளத் கல்யர்` vs scan 18 `மெளத்கல்யர்` preserved
-- page-14 `குறிப்பு :—` retained separately from narrative
-- possible-error queue open
-
-### சபலம்
-
-`../../../stories/sabalam/`
-
-- scans **24–30** / printed pages **15–21**
-- **7 / 7 verified**, 0 blocked, audit PASS
-- scan 31 boundary confirmed as `ஆட்டக்காவடி`
-- possible-error queue open
-
-### ஆட்டக்காவடி
-
-`../../../stories/aattakkavadi/`
-
-- scans **31–38** / printed pages **22–29**
-- **8 / 8 verified**, 0 blocked, 0 unresolved story text, audit PASS
-- assembled Tamil complete
-- scan 39 visually confirmed as next-story opening `குப்பைத்தொட்டி`
-- possible-error queue open
-
-### குப்பைத்தொட்டி
-
-`../../../stories/kuppai-thotti/`
-
-- scans **39–46** / printed pages **30–37**
-- **8 / 8 verified**, 0 blocked, 0 unresolved story text, audit PASS
-- assembled Tamil complete
-- scan 47 visually confirmed as next-story opening `சந்தனக்கிண்ணம்`
-- possible-error queue open
-
-The possible-error queues are human-review layers and do not automatically alter verified source readings.
+All completed anthology stories have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -118,9 +78,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 6 — **`சந்தனக்கிண்ணம்`**:
+Story 7 — **`சங்கிலிச்சாமி`**:
 
-- printed pages **38–47**
-- anthology scans **47–56**
+- printed pages **48–59**
+- anthology scans **57–68**
 
-Do not create placeholder folders for later stories; process Story 6 only when it becomes active.
+Do not create placeholder folders for later stories; process Story 7 only when it becomes active.
