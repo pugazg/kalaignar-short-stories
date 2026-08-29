@@ -26,7 +26,7 @@ Durable state when this handoff was prepared:
 
 - anthology: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, first edition 1977;
 - 37 stories registered;
-- Tamil source processing complete: **6 / 37**;
+- Tamil source processing complete: **8 / 37**;
 - completed anthology stories:
   1. `புகழேந்தி` — scans 10–15 / printed 1–6 — 6/6 verified;
   2. `நளாயினி` — scans 16–23 / printed 7–14 — 8/8 verified;
@@ -34,7 +34,9 @@ Durable state when this handoff was prepared:
   4. `ஆட்டக்காவடி` — scans 31–38 / printed 22–29 — 8/8 verified;
   5. `குப்பைத்தொட்டி` — scans 39–46 / printed 30–37 — 8/8 verified;
   6. `சந்தனக்கிண்ணம்` — scans 47–56 / printed 38–47 — 10/10 verified;
-- all six completed anthology stories have **0 blocked / 0 unresolved story text** and persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queues;
+  7. `சங்கிலிச்சாமி` — scans 57–68 / printed 48–59 — 12/12 verified;
+  8. `கங்கையின் காதல்` — scans 69–72 / printed 60–63 — 4/4 verified;
+- all eight completed anthology stories have **0 blocked / 0 unresolved story text** and persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queues;
 - English translation has not been started for these anthology stories;
 - independent story `கிழவன் கனவு` remains complete.
 
@@ -52,13 +54,13 @@ After fetching live `main`, read completely:
 
 Then inspect the latest completed story as the immediate structural reference:
 
-8. `stories/santhana-kinnam/README.md`
-9. `stories/santhana-kinnam/metadata/source.md`
-10. `stories/santhana-kinnam/indexes/page-map.md`
-11. `stories/santhana-kinnam/audit.md`
-12. `stories/santhana-kinnam/POSSIBLE_ERRORS_FOR_REVIEW.md`
+8. `stories/gangaiyin-kadhal/README.md`
+9. `stories/gangaiyin-kadhal/metadata/source.md`
+10. `stories/gangaiyin-kadhal/indexes/page-map.md`
+11. `stories/gangaiyin-kadhal/audit.md`
+12. `stories/gangaiyin-kadhal/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-Use Story 6 only as a structural/audit reference; do not copy its wording into Story 7.
+Use Story 8 only as a structural/audit reference; do not copy its wording into Story 9.
 
 ## PERMANENT SOURCE RULES
 
@@ -73,47 +75,47 @@ Use Story 6 only as a structural/audit reference; do not copy its wording into S
 - Do not commit generated render/crop images or the controlling PDF.
 - Use narrow, descriptive commits.
 
-## NEXT EXACT ACTIVITY — STORY 7 ONLY
+## NEXT EXACT ACTIVITY — STORY 9 ONLY
 
-Process anthology Story **7 — `சங்கிலிச்சாமி`** only.
+Process anthology Story **9 — `தாய்மை`** only.
 
 Exact range:
 
-- printed pages: **48–59**
-- anthology PDF scans: **57–68**
+- printed pages: **64–74**
+- anthology PDF scans: **73–83**
 
 Required boundary checks:
 
-- visually confirm scan **57** opens `சங்கிலிச்சாமி`;
-- visually confirm scan **68** contains the end of Story 7;
-- visually inspect scan **69** and confirm it begins Story 8 **`கங்கையின் காதல்`**;
-- do not include any scan-69 Story 8 text in the Story 7 workspace.
+- visually confirm scan **73** opens `தாய்மை`;
+- visually confirm scan **83** contains the end of Story 9;
+- visually inspect scan **84** and confirm it begins Story 10 **`தப்பிவிட்டார்கள்`**;
+- do not include any scan-84 Story 10 text in the Story 9 workspace.
 
 ### Required actions
 
-1. Fetch live `main` and confirm there is no existing canonical `சங்கிலிச்சாமி` workspace under another slug/title. If one exists, attach this anthology as an additional witness instead of creating a duplicate.
-2. Verify the scan 57 / 68 / 69 boundaries from the controlling PDF.
-3. If no canonical workspace exists, create a stable Story 7 workspace only after source identity check.
+1. Fetch live `main` and confirm there is no existing canonical `தாய்மை` workspace under another slug/title. If one exists, attach this anthology as an additional witness instead of creating a duplicate.
+2. Verify the scan 73 / 83 / 84 boundaries from the controlling PDF.
+3. If no canonical workspace exists, create a stable Story 9 workspace only after source identity check.
 4. Register the 1977 anthology and exact source coordinates in `metadata/source.md`.
-5. Create **12 page records** for scans **57–68**, printed pages **48–59**.
+5. Create **11 page records** for scans **73–83**, printed pages **64–74**.
 6. Transcribe directly from the source scan page by page.
 7. Run direct visual/full-span source-fidelity review on every page before marking it `verified`.
 8. Exhaustively investigate difficult readings; do not stop at a first plausible crop.
 9. Create and maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` for unusual/easily misread but legible source readings.
-10. Create/update story README, source metadata, page map, all 12 page records, assembled Tamil, audit and human-review queue.
-11. Verify every physical page-boundary continuation across scans 57–68.
-12. Before closing Story 7, confirm there are no omitted/duplicated pages and no unresolved markers that have not gone through the exhaustive protocol.
-13. Synchronize after Story 7: collection story inventory, collection README, root README, scan map, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`.
-14. **Do not start Story 8 — `கங்கையின் காதல்` — in the same activity.**
+10. Create/update story README, source metadata, page map, all 11 page records, assembled Tamil, audit and human-review queue.
+11. Verify every physical page-boundary continuation across scans 73–83.
+12. Before closing Story 9, confirm there are no omitted/duplicated pages and no unresolved markers that have not gone through the exhaustive protocol.
+13. Synchronize after Story 9: collection story inventory, collection README, root README, scan map, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`.
+14. **Do not start Story 10 — `தப்பிவிட்டார்கள்` — in the same activity.**
 
-## EXPECTED PROGRESS AFTER SUCCESSFUL STORY 7 CLOSURE
+## EXPECTED PROGRESS AFTER SUCCESSFUL STORY 9 CLOSURE
 
-If Story 7 completes cleanly:
+If Story 9 completes cleanly:
 
-- Tamil source processing complete: **7 / 37**;
-- not yet transcribed: **30 / 37**;
-- next exact story: Story 8 `கங்கையின் காதல்`, printed pages **60–63**, scans **69–72**;
-- advance to that activity only after Story 7 is fully synchronized and closed.
+- Tamil source processing complete: **9 / 37**;
+- not yet transcribed: **28 / 37**;
+- next exact story: Story 10 `தப்பிவிட்டார்கள்`, printed pages **75–82**, scans **84–91**;
+- advance to that activity only after Story 9 is fully synchronized and closed.
 
 ## USER COMMAND BEHAVIOUR
 
