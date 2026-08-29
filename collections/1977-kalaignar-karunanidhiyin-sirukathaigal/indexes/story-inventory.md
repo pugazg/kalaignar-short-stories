@@ -1,6 +1,6 @@
 # Story Inventory — கலைஞர் கருணாநிதியின் சிறுகதைகள் (1977)
 
-> This inventory records the anthology's printed `பொருளடக்கம்` title, the story-opening heading, printed-page range, and PDF scan range. The scan is controlling; TOC/opening differences are preserved rather than silently normalized.
+> The controlling scan governs title, pagination and text. TOC/opening-heading differences are preserved rather than silently normalized.
 
 ## Inventory
 
@@ -8,7 +8,7 @@
 |---:|---|---|---:|---:|---|
 | 1 | `புகழேந்தி` | `புகழேந்தி` | 1–6 | 10–15 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/pugazhendhi/` |
 | 2 | `நளாயினி` | `நளாயினி` | 7–14 | 16–23 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/nalayini/` |
-| 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | registered — not transcribed |
+| 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/sabalam/` |
 | 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | registered — not transcribed |
 | 5 | `குப்பைத்தொட்டி` | `குப்பைத்தொட்டி` | 30–37 | 39–46 | registered — not transcribed |
 | 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | registered — not transcribed |
@@ -33,7 +33,7 @@
 | 25 | `வாழ முடியாதவர்கள்` | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | registered — not transcribed |
 | 26 | `அபாக்ய சிந்தாமணி` | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | registered — not transcribed |
 | 27 | `பாலைவன ரோஜா` | `பாலைவன ரோஜா` | 180–184 | 189–193 | registered — not transcribed |
-| 28 | `புரட்சிப்படம்` | `புரட்சிப் படம்` | 185–189 | 194–198 | registered — not transcribed; **source-title variance:** TOC `புரட்சிப்படம்`; opening `புரட்சிப் படம்` |
+| 28 | `புரட்சிப்படம்` | `புரட்சிப் படம்` | 185–189 | 194–198 | registered — not transcribed; **source-title variance** |
 | 29 | `திடுக்கிடும் கதை` | `திடுக்கிடும் கதை` | 190–195 | 199–204 | registered — not transcribed |
 | 30 | `கடைசிக் கட்டம்` | `கடைசிக் கட்டம்` | 196–201 | 205–210 | registered — not transcribed |
 | 31 | `அய்யோ ராஜா!` | `அய்யோ ராஜா!` | 202–208 | 211–217 | registered — not transcribed |
@@ -41,68 +41,67 @@
 | 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | registered — not transcribed |
 | 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | registered — not transcribed |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | registered — not transcribed |
-| 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | registered — not transcribed; **source-title variance:** TOC `சித்தார்த்தன்`; opening `சித்தார்த்தன் சிலை` |
+| 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | registered — not transcribed; **source-title variance** |
 | 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | registered — not transcribed |
 
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **2 / 37** — `புகழேந்தி`, `நளாயினி`
-- not yet transcribed: **35 / 37**
-- English translation started: **0 / 37**
+- Tamil source processing complete: **3 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`
+- not yet transcribed: **34 / 37**
+- English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces from this anthology:
+## Completed canonical workspaces
 
 ### புகழேந்தி
 
 `../../../stories/pugazhendhi/`
 
 - scans **10–15** / printed pages **1–6**
-- page records: **6 / 6 verified**
-- blocked / unresolved story text: **0**
-- assembled Tamil: complete
-- source audit: **PASS**
-- human `POSSIBLE_ERRORS_FOR_REVIEW.md`: open
+- **6 / 6 verified**, 0 blocked, audit PASS
+- assembled Tamil complete; possible-error queue open
 
 ### நளாயினி
 
 `../../../stories/nalayini/`
 
 - scans **16–23** / printed pages **7–14**
-- page records: **8 / 8 verified**
-- blocked / unresolved story text: **0**
-- assembled Tamil: complete
-- source audit: **PASS**
-- human `POSSIBLE_ERRORS_FOR_REVIEW.md`: open
-- source-form distinction preserved: scan 17 `மெளத் கல்யர்` vs scan 18 `மெளத்கல்யர்`
-- printed page-14 `குறிப்பு :—` retained separately from the narrative ending
+- **8 / 8 verified**, 0 blocked, audit PASS
+- scan 17 `மெளத் கல்யர்` vs scan 18 `மெளத்கல்யர்` preserved
+- page-14 `குறிப்பு :—` retained separately from narrative
+- possible-error queue open
 
-The possible-error queues are human-review layers and do not automatically change a verified source reading.
+### சபலம்
 
-## Source-title variances found during start-page verification
+`../../../stories/sabalam/`
 
-- **Story 28:** TOC prints `புரட்சிப்படம்`; story-opening heading prints `புரட்சிப் படம்`.
-- **Story 36:** TOC prints `சித்தார்த்தன்`; story-opening heading prints `சித்தார்த்தன் சிலை`.
+- scans **24–30** / printed pages **15–21**
+- **7 / 7 verified**, 0 blocked, 0 unresolved story text, audit PASS
+- assembled Tamil complete
+- scan 31 visually confirmed as next-story opening `ஆட்டக்காவடி`
+- possible-error queue open
 
-These are edition-level source facts. Do not silently choose one form as though the other were an error. When each story workspace is created, preserve both and document which form is used as the canonical folder/display label.
+The possible-error queues are human-review layers and do not automatically alter verified source readings.
 
-## Range calculation / verification
+## Source-title variances
 
-- Printed story pagination runs from **1** through **250**.
-- Story block begins at PDF scan **10** and ends at scan **259**.
-- For this anthology's story block, **scan page = printed page + 9**.
-- The start scan for all 37 stories was visually checked against the story-opening heading.
-- Scan **260** is the back cover and is not part of Story 37.
+- Story 28: TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`
+- Story 36: TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`
 
-## Canonical-story rule
+Both source forms must be preserved.
 
-Before processing an inventory item, check whether a matching canonical workspace already exists. If one exists, register this anthology as an additional witness rather than creating a duplicate story.
+## Pagination
+
+- printed story pagination: **1–250**
+- story scans: **10–259**
+- relation: **scan = printed page + 9**
+- scan **260**: back cover
 
 ## Next processing activity
 
-Story 3 — **`சபலம்`**:
+Story 4 — **`ஆட்டக்காவடி`**:
 
-- printed pages **15–21**
-- anthology scans **24–30**
+- printed pages **22–29**
+- anthology scans **31–38**
 
-Do not create empty placeholder folders for later stories. Process Story 3 only when it becomes active.
+Do not create placeholder folders for later stories; process Story 4 only when it becomes active.
