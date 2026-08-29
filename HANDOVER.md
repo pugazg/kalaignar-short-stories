@@ -14,7 +14,7 @@
 - **No stones should be left unturned.** Difficult story readings must receive full-span visual escalation before terminal `blocked` status.
 - **Processed-crop confidence is not source confidence.** Verify the complete phrase/clause/sentence against the source span.
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue. Its entries are possible errors, not automatic corrections.
-- If a later user correction is source-supported, reopen the affected verified page and resynchronize page record, Tamil assembly, audit, story README, anthology inventory, collection README, root README and this handover.
+- If a later user correction is source-supported, reopen the affected verified page and resynchronize page record, Tamil assembly, audit, story README, anthology inventory, collection README, root README, scan map and this handover.
 
 ## Completed independent story — கிழவன் கனவு
 
@@ -60,8 +60,8 @@ Anthology registration / processing:
 
 - contents inventory: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **3 / 37**
-- stories not yet transcribed: **34 / 37**
+- Tamil source processing complete: **4 / 37**
+- stories not yet transcribed: **33 / 37**
 - English translation started from anthology: **0 / 37**
 
 Edition-level title differences to preserve:
@@ -114,29 +114,53 @@ Printed page 14 ends the narrative with `அந்த ஆசிரமத்த�
 
 ## Anthology Story 3 — சபலம் — COMPLETE TAMIL SOURCE PASS
 
-Canonical workspace:
-
-`stories/sabalam/`
-
-Range:
+Canonical workspace: `stories/sabalam/`
 
 - printed pages: **15–21**
 - anthology scans: **24–30**
+- page records: **7 / 7 verified**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved story text: **0**
+- assembled Tamil: complete
+- source audit: **PASS**
+- human review queue: `stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- English: not started
+
+Verified physical joins include:
+
+1. printed 15→16: `கழுத்தில் நிற்கச் சக்தி` → `யிழந்து தொங்கும் தலையை...`
+2. printed 16→17: `“மூர்த்தி” என்று கணீரென்று உச்சரித்தது` → `குழந்தை.`
+3. printed 17→18: `அந்தப் பெட்டியில்` → `இருந்தவர்கள்...`
+4. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
+
+Scan 31 begins `ஆட்டக்காவடி`.
+
+## Anthology Story 4 — ஆட்டக்காவடி — COMPLETE TAMIL SOURCE PASS
+
+Canonical workspace:
+
+`stories/aattakkavadi/`
+
+Range:
+
+- printed pages: **22–29**
+- anthology scans: **31–38**
 
 Files/control layers:
 
-- `stories/sabalam/README.md`
-- `stories/sabalam/metadata/source.md`
-- `stories/sabalam/indexes/page-map.md`
-- `stories/sabalam/pages/0024-sabalam-01.md` through `0030-sabalam-07.md`
-- `stories/sabalam/sections/sabalam.md`
-- `stories/sabalam/audit.md`
-- `stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- `stories/aattakkavadi/README.md`
+- `stories/aattakkavadi/metadata/source.md`
+- `stories/aattakkavadi/indexes/page-map.md`
+- `stories/aattakkavadi/pages/0031-aattakkavadi-01.md` through `0038-aattakkavadi-08.md`
+- `stories/aattakkavadi/sections/aattakkavadi.md`
+- `stories/aattakkavadi/audit.md`
+- `stories/aattakkavadi/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
 Final current source state:
 
-- page records: **7 / 7**
-- `verified`: **7 / 7**
+- page records: **8 / 8**
+- `verified`: **8 / 8**
 - `needs-review`: **0**
 - `blocked`: **0**
 - explicit missing/unresolved story text: **0**
@@ -146,35 +170,31 @@ Final current source state:
 
 ### Verified physical joins
 
-1. printed 15→16: `கழுத்தில் நிற்கச் சக்தி` → `யிழந்து தொங்கும் தலையை...`
-2. printed 16→17: `“மூர்த்தி” என்று கணீரென்று உச்சரித்தது` → `குழந்தை.`
-3. printed 17→18: `அந்தப் பெட்டியில்` → `இருந்தவர்கள் தூக்க மயக்கத்தில்...`
-4. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
-5. printed 20→21: the station/child exchange continues into the concluding page.
+1. printed 22→23: `...உழைத்தாலும்` → `முழுசாகக் காண முடியாத பணம்...`
+2. printed 25→26: `தாயற்ற அவள் இப்போது` → `அனாதைப் பட்டத்துக்குரியவளானாள்.`
+3. printed 27→28: `கந்தனின் வழியிலே பல` → `காளையர் நடைபோடத் தொடங்கினர்.`
+4. printed 28→29: Kanimozhi's letter continues onto the concluding page.
 
-Scan **31 / printed page 22** was visually checked and begins the next story **`ஆட்டக்காவடி`**. No Story 4 text is included in `சபலம்`.
+Scan **39 / printed page 30** was visually checked and begins the next story **`குப்பைத்தொட்டி`**. No Story 5 text is included in `ஆட்டக்காவடி`.
 
 ### Human possible-error queue
 
-`stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md`
+`stories/aattakkavadi/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
 High-value rechecks include:
 
-- `பிரத்யட்சமாவது போல`
-- `இமைகளேப் பிடித்திழுத்து`
-- `ஒருவரோ டொருவர்`
-- `முக்கால் பாகந்தான்`
-- `கணீரென்று`
-- `ஜாடையாகப்`
-- `நடசத்திரத்துக்குக்`
-- `கையுங்களவுமாகப்`
-- `ஊற்றுவதாகயிருந்தது`
-- `அந்தப் பசலை`
-- `கன்னக் கதுப்பை`
-- `சபலம் பிடித்த மைனர்`
-- `நாலா புறமிருந்தும்`
+- `‘பாவலா’`
+- `வாக்கலித்துவிட்டு`
+- `கொஞ்சந் தோரணையில்`
+- `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்`
+- `சிங்காரச் சிட்டெழுப்பும்`
+- `அதிருப சுந்தரன்`
+- `ஊரதிர ...`
+- `கண்ணியவானு நீ?`
+- `கருவிழியானை`
+- `‘சுண்’கள்`
 
-Do not change these merely because they look unusual. A source-supported correction must be checked against the complete source span and then propagated through every dependent layer.
+Do not change these merely because they look unusual. A source-supported correction must be checked against the complete source span and propagated through every dependent layer.
 
 ## Canonical-story / anthology rule
 
@@ -192,22 +212,22 @@ Before each story:
 
 ## Next exact activity
 
-Process anthology Story **4 — `ஆட்டக்காவடி`** only.
+Process anthology Story **5 — `குப்பைத்தொட்டி`** only.
 
 Range:
 
-- printed pages: **22–29**
-- anthology scans: **31–38**
+- printed pages: **30–37**
+- anthology scans: **39–46**
 
 Actions:
 
-1. fetch live `main` and confirm no canonical `ஆட்டக்காவடி` workspace already exists;
-2. visually confirm scan **31** opening and scan **38** ending / scan **39** next-story (`குப்பைத்தொட்டி`) boundary;
-3. create `stories/aattakkavadi/` or another stable slug only after source identity check;
+1. fetch live `main` and confirm no canonical `குப்பைத்தொட்டி` workspace already exists;
+2. visually confirm scan **39** opening and scan **46** ending / scan **47** next-story (`சந்தனக்கிண்ணம்`) boundary;
+3. create `stories/kuppai-thotti/` or another stable slug only after source identity check;
 4. register the 1977 anthology as controlling source;
-5. create **8** page records for scans **31–38** / printed pages **22–29**;
+5. create **8** page records for scans **39–46** / printed pages **30–37**;
 6. transcribe directly from source scans and run full-span visual fidelity review;
 7. resolve difficult readings as far as defensibly possible; keep unusual-but-legible forms in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
 8. create assembled Tamil, source audit and story README;
-9. synchronize anthology inventory, collection README, root README and HANDOVER;
-10. **do not begin Story 5 (`குப்பைத்தொட்டி`) in the same activity.**
+9. synchronize anthology inventory, collection README, root README, scan map and HANDOVER;
+10. **do not begin Story 6 (`சந்தனக்கிண்ணம்`) in the same activity.**
