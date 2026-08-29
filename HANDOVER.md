@@ -21,7 +21,7 @@
 
 1. Fetch live GitHub `main` first and treat it as authoritative.
 2. Read completely: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, collection README, story inventory and scan map.
-3. Inspect the latest completed story workspace (`stories/aatharikkirar/`) as structural reference.
+3. Inspect the latest completed story workspace (`stories/iragasiyam/`) as structural reference.
 4. Do not redo completed stories without new correction evidence or repository inconsistency.
 5. The controlling PDF must be available before transcription/visual verification.
 6. When the user says **“Proceed with next activity”**, execute the exact activity below without routine clarification.
@@ -43,8 +43,8 @@ Anthology processing state:
 
 - contents inventory: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **12 / 37**
-- stories not yet transcribed: **25 / 37**
+- Tamil source processing complete: **13 / 37**
+- stories not yet transcribed: **24 / 37**
 - English translation started: **0 / 37**
 
 ## Completed anthology stories
@@ -60,16 +60,17 @@ Anthology processing state:
 9. `தாய்மை` — 11/11 verified.
 10. `தப்பிவிட்டார்கள்` — 8/8 verified.
 11. `தப்பவில்லை` — 10/10 verified.
-12. `ஆதரிக்கிறார்` — `stories/aatharikkirar/` — printed **93–98**, scans **102–107**, **6/6 verified**, 0 blocked, 0 unresolved, audit PASS.
+12. `ஆதரிக்கிறார்` — 6/6 verified.
+13. `இரகசியம்!` — `stories/iragasiyam/` — printed **99–102**, scans **108–111**, **4/4 verified**, 0 blocked, 0 unresolved, audit PASS.
 
 All completed anthology stories have complete Tamil assemblies and persistent human possible-error queues.
 
-## Story 12 — ஆதரிக்கிறார் — COMPLETE TAMIL SOURCE PASS
+## Story 13 — இரகசியம்! — COMPLETE TAMIL SOURCE PASS
 
-Canonical workspace: `stories/aatharikkirar/`
+Canonical workspace: `stories/iragasiyam/`
 
-- page records: **6 / 6**
-- verified: **6 / 6**
+- page records: **4 / 4**
+- verified: **4 / 4**
 - blocked: **0**
 - unresolved story text: **0**
 - Tamil assembly: complete
@@ -78,42 +79,41 @@ Canonical workspace: `stories/aatharikkirar/`
 
 Boundary / continuation checks:
 
-- scan 102 opens `ஆதரிக்கிறார்`.
-- scans 104→105 / printed 95→96: `...தன் வீட்டைத் தாராள` → `மாகத் தந்த தங்கை...`.
-- scans 105→106 / printed 96→97: `...இப்போதும் ஒன்றும் முழுகி` → `விடவில்லை; ஒரு கை...`.
-- scans 106→107 / printed 97→98: `...கடைசியில் அந்தக் காதகன்` → `நகரசபைத் தலைவனுக வந்துவிட்டானே”...`.
-- scan 107 contains the conclusion and closing ornament.
-- scan 108 opens Story 13 `இரகசியம்!`; Story 13 text is not included.
+- scan 108 opens `இரகசியம்!`.
+- scans 109→110 / printed 100→101: `...கலையுலகத்துப் பணிபுரிய—` → `அதுவும் உன் கவிதைகளைப் பாடித் தொண்டாற்றத்—தோழனே...`.
+- scans 110→111 / printed 101→102: `...தமிழ்த் தாய்க்குச் சிலம்பு பூட்டிச் சிங்கார அணிகள் சூட்டி மகிழ்ந்தவன்.` → `உத்திரத்திலே தொங்கிக்கொண்டிருந்து அந்த உத்தமனின் பிணம்!`.
+- scan 111 contains the final explanation and closing ornament.
+- scan 112 opens Story 14 `முந்நூறு ரூபாய்`; Story 14 text is not included.
 
-High-value source-close/full-span rechecks recorded in the story workspace include scan 102 `பெறவிட்டாலும்` and `தமிழக மெங்கணும்`, scan 105 `தந்த தங்கை புண்யகோடி` and `பெயர்மட்டுந்தானு`, scan 106 `இனாமாகத் தந்த இடத்துக்கு`, and scan 107 `தலைவனுக`. Unusual readings remain in `stories/aatharikkirar/POSSIBLE_ERRORS_FOR_REVIEW.md` for later human checking without downgrading verified page status.
+High-value source-close/full-span rechecks recorded in the story workspace include scan 109 `விதவைத்துயர்`, `பல நாட்களாய்ப் பேரவா`, and the physical `ஏந்தி` / `னாலும்` line join read continuously as `ஏந்தினாலும்`; scan 110's cross-page quoted-letter continuation; and scan 111 `உத்திரத்திலே தொங்கிக்கொண்டிருந்து`, `என் வலுவில் உயிர்விட்டான்?`, `என் காலடி யிலே உள்ள பெட்டிதான்`, and `செத்துக்காட்டினான்`. Unusual readings remain in `stories/iragasiyam/POSSIBLE_ERRORS_FOR_REVIEW.md` for later human checking without downgrading verified page status.
 
 ## Next exact activity
 
-Process anthology Story **13 — `இரகசியம்!`** only.
+Process anthology Story **14 — `முந்நூறு ரூபாய்`** only.
 
-- printed pages: **99–102**
-- anthology scans: **108–111**
+- printed pages: **103–105**
+- anthology scans: **112–114**
 
 Boundary checks:
 
-- scan **108** must open `இரகசியம்!`;
-- scan **111** must close Story 13;
-- scan **112** must be checked as the opening of Story 14 `முந்நூறு ரூபாய்`.
+- scan **112** must open `முந்நூறு ரூபாய்`;
+- scan **114** must close Story 14;
+- scan **115** must be checked as the opening of Story 15 `ஏழை`.
 
 Actions:
 
-1. fetch live `main` and confirm no matching canonical `இரகசியம்!` workspace exists;
-2. visually verify scans 108 / 111 / 112 from the controlling PDF;
-3. create the Story 13 workspace only after canonical-story check;
-4. create **4** page records for scans 108–111 / printed pages 99–102;
+1. fetch live `main` and confirm no matching canonical `முந்நூறு ரூபாய்` workspace exists;
+2. visually verify scans 112 / 114 / 115 from the controlling PDF;
+3. create the Story 14 workspace only after canonical-story check;
+4. create **3** page records for scans 112–114 / printed pages 103–105;
 5. transcribe directly from scan and perform full-span visual review on every page;
 6. exhaust difficult readings before `blocked` and maintain a human possible-error queue;
 7. create assembled Tamil, audit, source metadata, page map and story README;
 8. verify every physical page-boundary continuation and confirm no omitted/duplicated pages;
 9. synchronize anthology/root control files;
-10. **do not begin Story 14 (`முந்நூறு ரூபாய்`) in the same activity.**
+10. **do not begin Story 15 (`ஏழை`) in the same activity.**
 
-Expected progress after successful Story 13 closure: **13 / 37 complete, 24 remaining**.
+Expected progress after successful Story 14 closure: **14 / 37 complete, 23 remaining**.
 
 ## New-chat readiness
 
