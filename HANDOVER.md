@@ -56,12 +56,12 @@ Source identity:
 - story-block relation: **scan = printed page + 9**
 - source PDF in repository: **No**
 
-Anthology registration:
+Anthology registration / processing:
 
 - contents inventory: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **2 / 37**
-- stories not yet transcribed: **35 / 37**
+- Tamil source processing complete: **3 / 37**
+- stories not yet transcribed: **34 / 37**
 - English translation started from anthology: **0 / 37**
 
 Edition-level title differences to preserve:
@@ -73,13 +73,8 @@ Edition-level title differences to preserve:
 
 Canonical workspace: `stories/pugazhendhi/`
 
-Range:
-
 - printed pages: **1–6**
 - anthology scans: **10–15**
-
-State:
-
 - page records: **6 / 6 verified**
 - `needs-review`: **0**
 - `blocked`: **0**
@@ -99,25 +94,49 @@ Verified physical joins:
 
 Canonical workspace: `stories/nalayini/`
 
-Range:
-
 - printed pages: **7–14**
 - anthology scans: **16–23**
+- page records: **8 / 8 verified**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved story text: **0**
+- assembled Tamil: complete
+- source audit: **PASS**
+- human review queue: `stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- English: not started
+
+Preserve the source's two visible husband-name forms:
+
+- scan 17: `மெளத் கல்யர்`
+- scan 18: `மெளத்கல்யர்`
+
+Printed page 14 ends the narrative with `அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!`; the subsequent `குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.` remains a separate source layer.
+
+## Anthology Story 3 — சபலம் — COMPLETE TAMIL SOURCE PASS
+
+Canonical workspace:
+
+`stories/sabalam/`
+
+Range:
+
+- printed pages: **15–21**
+- anthology scans: **24–30**
 
 Files/control layers:
 
-- `stories/nalayini/README.md`
-- `stories/nalayini/metadata/source.md`
-- `stories/nalayini/indexes/page-map.md`
-- `stories/nalayini/pages/0016-nalayini-01.md` through `0023-nalayini-08.md`
-- `stories/nalayini/sections/nalayini.md`
-- `stories/nalayini/audit.md`
-- `stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- `stories/sabalam/README.md`
+- `stories/sabalam/metadata/source.md`
+- `stories/sabalam/indexes/page-map.md`
+- `stories/sabalam/pages/0024-sabalam-01.md` through `0030-sabalam-07.md`
+- `stories/sabalam/sections/sabalam.md`
+- `stories/sabalam/audit.md`
+- `stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
 Final current source state:
 
-- page records: **8 / 8**
-- `verified`: **8 / 8**
+- page records: **7 / 7**
+- `verified`: **7 / 7**
 - `needs-review`: **0**
 - `blocked`: **0**
 - explicit missing/unresolved story text: **0**
@@ -127,53 +146,35 @@ Final current source state:
 
 ### Verified physical joins
 
-1. printed 7→8: `கால்` → `பாகத்துக்குமேல் இழந்துவிட்ட மனிதன்...`
-2. printed 9→10: `தனக்குத்` → `தானே ஆச்சரியப்பட்டுக் கொண்டாள்.`
-3. printed 10→11: unfinished உலகா quotation → `க்ஷமித்துவிடு நளாயினி!...`
-4. printed 11→12: `காணப்படு` → `கிறார்கள்.`
-5. printed 13→14: `“இதயா! இது உண்மையா?”` → `“பொய் இல்லை!...”`
+1. printed 15→16: `கழுத்தில் நிற்கச் சக்தி` → `யிழந்து தொங்கும் தலையை...`
+2. printed 16→17: `“மூர்த்தி” என்று கணீரென்று உச்சரித்தது` → `குழந்தை.`
+3. printed 17→18: `அந்தப் பெட்டியில்` → `இருந்தவர்கள் தூக்க மயக்கத்தில்...`
+4. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
+5. printed 20→21: the station/child exchange continues into the concluding page.
 
-### Source-form distinctions
-
-Preserve both visible forms:
-
-- scan 17 / printed page 8: `மெளத் கல்யர்`
-- scan 18 / printed page 9: `மெளத்கல்யர்`
-
-Do not silently standardize either form.
-
-### Page-14 note boundary
-
-Narrative conclusion:
-
-`அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!`
-
-Then the source separately prints:
-
-`குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.`
-
-The note remains a separate physical/textual layer, not part of the final narrative paragraph.
+Scan **31 / printed page 22** was visually checked and begins the next story **`ஆட்டக்காவடி`**. No Story 4 text is included in `சபலம்`.
 
 ### Human possible-error queue
 
-`stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md`
+`stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
 High-value rechecks include:
 
-- `வரவிழைந்த`
-- `விசாரத்தைக்`
-- `தாசிநாதீனத்தொழு!`
-- `நயனவல்லித்ததை`
-- `வண்ணேயாளர்`
-- `எடெமுது வோர்`
-- `அம்சதூளிகா`
-- `கண்ணாடை காட்டினாள்`
-- `எண்ணுதெல்லாம்`
-- `விரகதாபத்தை`
-- `அந்த வார்த்தின் காரணமாக`
-- `குட்டம் பிடித்தவன்`
+- `பிரத்யட்சமாவது போல`
+- `இமைகளேப் பிடித்திழுத்து`
+- `ஒருவரோ டொருவர்`
+- `முக்கால் பாகந்தான்`
+- `கணீரென்று`
+- `ஜாடையாகப்`
+- `நடசத்திரத்துக்குக்`
+- `கையுங்களவுமாகப்`
+- `ஊற்றுவதாகயிருந்தது`
+- `அந்தப் பசலை`
+- `கன்னக் கதுப்பை`
+- `சபலம் பிடித்த மைனர்`
+- `நாலா புறமிருந்தும்`
 
-Do not change these solely because they look unusual. A source-supported correction must be propagated through all dependent layers.
+Do not change these merely because they look unusual. A source-supported correction must be checked against the complete source span and then propagated through every dependent layer.
 
 ## Canonical-story / anthology rule
 
@@ -191,22 +192,22 @@ Before each story:
 
 ## Next exact activity
 
-Process anthology Story **3 — `சபலம்`** only.
+Process anthology Story **4 — `ஆட்டக்காவடி`** only.
 
 Range:
 
-- printed pages: **15–21**
-- anthology scans: **24–30**
+- printed pages: **22–29**
+- anthology scans: **31–38**
 
 Actions:
 
-1. fetch live `main` and confirm no canonical `சபலம்` workspace already exists;
-2. visually confirm scan 24 opening and scan 30 ending / scan 31 next-story boundary;
-3. create `stories/sabalam/` (stable slug after source identity check);
+1. fetch live `main` and confirm no canonical `ஆட்டக்காவடி` workspace already exists;
+2. visually confirm scan **31** opening and scan **38** ending / scan **39** next-story (`குப்பைத்தொட்டி`) boundary;
+3. create `stories/aattakkavadi/` or another stable slug only after source identity check;
 4. register the 1977 anthology as controlling source;
-5. create 7 page records for scans 24–30 / printed pages 15–21;
-6. transcribe directly from the source scans and run full-span visual fidelity review;
-7. resolve every difficult reading as far as defensibly possible; use possible-error queue for unusual but legible forms;
+5. create **8** page records for scans **31–38** / printed pages **22–29**;
+6. transcribe directly from source scans and run full-span visual fidelity review;
+7. resolve difficult readings as far as defensibly possible; keep unusual-but-legible forms in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
 8. create assembled Tamil, source audit and story README;
 9. synchronize anthology inventory, collection README, root README and HANDOVER;
-10. **do not begin Story 4 (`ஆட்டக்காவடி`) in the same activity.**
+10. **do not begin Story 5 (`குப்பைத்தொட்டி`) in the same activity.**
