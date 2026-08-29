@@ -6,6 +6,7 @@
 - Branch: `main`
 - Story workflow: `SHORT_STORY_PROCESSING_GUIDE.md`
 - Anthology workflow: `COLLECTION_SOURCE_GUIDE.md`
+- Cross-chat resume prompt: `NEXT_CHAT_PROMPT.md`
 - Source PDFs are **not** committed to GitHub.
 
 ## Permanent source rules
@@ -14,7 +15,27 @@
 - **No stones should be left unturned.** Difficult story readings must receive full-span visual escalation before terminal `blocked` status.
 - **Processed-crop confidence is not source confidence.** Verify the complete phrase/clause/sentence against the source span.
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue. Its entries are possible errors, not automatic corrections.
-- If a later user correction is source-supported, reopen the affected verified page and resynchronize page record, Tamil assembly, audit, story README, anthology inventory, collection README, root README, scan map and this handover.
+- If a later user correction is source-supported, reopen the affected verified page and resynchronize page record, Tamil assembly, audit, story README, anthology inventory, collection README, root README, scan map, this handover, and `NEXT_CHAT_PROMPT.md` when the next activity changes.
+
+## Cross-chat restart rules
+
+When continuing in a new chat window:
+
+1. **fetch live GitHub `main` first and treat it as authoritative**; never assume the checkpoint in a pasted prompt is still HEAD;
+2. read completely before source-dependent writes:
+   - `SHORT_STORY_PROCESSING_GUIDE.md`
+   - `COLLECTION_SOURCE_GUIDE.md`
+   - `HANDOVER.md`
+   - `NEXT_CHAT_PROMPT.md`
+   - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md`
+   - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md`
+   - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md`;
+3. inspect the latest completed story workspace (`stories/aattakkavadi/`) as the immediate structural reference;
+4. do not redo completed stories/pages unless a user correction, stronger scan evidence, or live-repository inconsistency requires reopening them;
+5. the controlling anthology PDF must be available to the new chat/tool context before transcription or visual verification. Do not reconstruct source text from prior-chat memory;
+6. when the user says **“Proceed with next activity”**, execute the exact activity in the `Next exact activity` section without routine clarification;
+7. process **one anthology story at a time** and do not begin the following story in the same activity;
+8. after completing the active story, synchronize story workspace + anthology inventory + collection README + root README + scan map + this handover + `NEXT_CHAT_PROMPT.md`.
 
 ## Completed independent story — கிழவன் கனவு
 
@@ -219,15 +240,29 @@ Range:
 - printed pages: **30–37**
 - anthology scans: **39–46**
 
+Boundary checks:
+
+- scan **39** must open `குப்பைத்தொட்டி`;
+- scan **46** must close Story 5;
+- scan **47** must be checked as the opening of Story 6 `சந்தனக்கிண்ணம்` before closing the range.
+
 Actions:
 
 1. fetch live `main` and confirm no canonical `குப்பைத்தொட்டி` workspace already exists;
-2. visually confirm scan **39** opening and scan **46** ending / scan **47** next-story (`சந்தனக்கிண்ணம்`) boundary;
+2. make the boundary checks above from the controlling scan;
 3. create `stories/kuppai-thotti/` or another stable slug only after source identity check;
 4. register the 1977 anthology as controlling source;
 5. create **8** page records for scans **39–46** / printed pages **30–37**;
 6. transcribe directly from source scans and run full-span visual fidelity review;
 7. resolve difficult readings as far as defensibly possible; keep unusual-but-legible forms in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
 8. create assembled Tamil, source audit and story README;
-9. synchronize anthology inventory, collection README, root README, scan map and HANDOVER;
+9. synchronize anthology inventory, collection README, root README, scan map, HANDOVER, and `NEXT_CHAT_PROMPT.md`;
 10. **do not begin Story 6 (`சந்தனக்கிண்ணம்`) in the same activity.**
+
+## New-chat readiness
+
+**READY FOR NEW CHAT.**
+
+The durable resume file is `NEXT_CHAT_PROMPT.md`. The user should attach the controlling anthology PDF in the new chat (or otherwise make that exact source available to the file tools), paste the prompt from that file, and continue from Story 5 only.
+
+If live `main` has moved beyond this state by then, use the newer repository state rather than reverting to this handover.
