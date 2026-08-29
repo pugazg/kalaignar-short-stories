@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **11/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **12/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -31,7 +31,7 @@
 | 9 | `தாய்மை` | 64–74 | 73–83 | **complete — 11/11 verified** |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **complete — 8/8 verified** |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | **complete — 10/10 verified** |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | not started |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **complete — 6/6 verified** |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | not started |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | not started |
 | 15 | `ஏழை` | 106–109 | 115–118 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–11, scans **10–101**. Story 11 `தப்பவில்லை` is complete for scans **92–101 / printed pages 83–92**, with **10/10 verified**, 0 blocked and 0 unresolved story text. Scan **102 / printed page 93** was visually confirmed as the opening of Story 12 `ஆதரிக்கிறார்` while closing the Story 11 boundary.
+Completed Tamil source passes are Stories 1–12, scans **10–107**. Story 12 `ஆதரிக்கிறார்` is complete for scans **102–107 / printed pages 93–98**, with **6/6 verified**, 0 blocked and 0 unresolved story text. Scan **108 / printed page 99** was visually confirmed as the opening of Story 13 `இரகசியம்!` while closing the Story 12 boundary.
 
-Next active source range: **Story 12 `ஆதரிக்கிறார்`, scans 102–107 / printed pages 93–98**. Its ending must be checked against scan **108**, which should begin Story 13 `இரகசியம்!`.
+Next active source range: **Story 13 `இரகசியம்!`, scans 108–111 / printed pages 99–102**. Its ending must be checked against scan **112**, which should begin Story 14 `முந்நூறு ரூபாய்`.
 
 ## Per-story page-record policy
 
