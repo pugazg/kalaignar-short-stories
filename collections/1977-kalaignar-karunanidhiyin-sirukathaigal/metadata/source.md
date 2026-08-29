@@ -60,13 +60,9 @@ These are preserved as source-layer differences. They must not be silently norma
 
 ## Repository relationship
 
-At registration time the repository contains one existing canonical story workspace:
+`கிழவன் கனவு` is an independently processed canonical story from another source and is not present in this anthology.
 
-- `stories/kizhavan-kanavu/`
-
-`கிழவன் கனவு` is **not** in this anthology's 37-story contents list. Therefore this anthology currently introduces **37 unprocessed story entries** relative to the existing repository state.
-
-Future rule: if any anthology story later matches an already-created canonical story from another source, do not create a duplicate canonical story. Register this anthology as an additional edition/witness under that story and compare source readings explicitly.
+The anthology is a source container. Each story receives a canonical `stories/<slug>/` workspace only when it becomes active. If a later anthology story matches an already-existing canonical story from another source, this anthology must be registered as an additional edition/witness instead of creating a duplicate canonical story.
 
 ## Current processing state
 
@@ -74,16 +70,22 @@ Future rule: if any anthology story later matches an already-created canonical s
 - front-matter structure mapped: **complete at structural level**
 - 37-story contents inventory: **complete**
 - 37 story start pages visually checked: **complete**
-- per-story transcription: **not started**
-- per-story visual fidelity audit: **not started**
-- English translation: **not started**
+- Tamil source processing complete: **3 / 37**
+  1. `புகழேந்தி` — scans 10–15 / printed 1–6 — **6/6 verified**
+  2. `நளாயினி` — scans 16–23 / printed 7–14 — **8/8 verified**
+  3. `சபலம்` — scans 24–30 / printed 15–21 — **7/7 verified**
+- completed-story source blocks: **0**
+- stories not yet transcribed: **34 / 37**
+- English translation started from anthology: **0 / 37**
 
 ## Next exact activity
 
-Begin with Story 1, **`புகழேந்தி`**, printed pages **1–6**, PDF scans **10–15**:
+Process Story 4, **`ஆட்டக்காவடி`**, printed pages **22–29**, PDF scans **31–38**:
 
-1. create its canonical `stories/<slug>/` workspace;
-2. treat this anthology as its controlling source;
-3. transcribe scans 10–15 page by page;
-4. perform direct visual/full-span fidelity review before marking any page `verified`;
-5. create a `POSSIBLE_ERRORS_FOR_REVIEW.md` queue for suspicious readings rather than hiding uncertainty.
+1. confirm no matching canonical workspace exists on live `main`;
+2. verify scan 31 opening and scan 38 ending / scan 39 next-story boundary;
+3. create the canonical story workspace and eight page records;
+4. transcribe directly from the scans and perform full-span visual fidelity review;
+5. create assembled Tamil, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+6. synchronize collection/root control files;
+7. do not begin Story 5 in the same activity.
