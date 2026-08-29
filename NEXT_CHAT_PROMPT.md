@@ -16,113 +16,75 @@ The controlling anthology source is:
 
 `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 
-I am attaching / making that exact PDF available in this new chat. Do **not** commit the source PDF to GitHub.
+Treat live GitHub `main` as authoritative. Fetch live HEAD first and do not revert newer completed work.
 
-## AUTHORITATIVE STATE
-
-Treat **live GitHub `main` as authoritative**. Fetch the live HEAD before doing anything else. If `main` has advanced beyond the state described here, use the newer live state and do not revert completed work.
-
-Durable state when this handoff was prepared:
+## AUTHORITATIVE DURABLE STATE
 
 - anthology: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, first edition 1977;
-- 37 stories registered;
-- Tamil source processing complete: **8 / 37**;
+- stories registered: **37 / 37**;
+- Tamil source processing complete: **9 / 37**;
+- not yet transcribed: **28 / 37**;
 - completed anthology stories:
-  1. `புகழேந்தி` — scans 10–15 / printed 1–6 — 6/6 verified;
-  2. `நளாயினி` — scans 16–23 / printed 7–14 — 8/8 verified;
-  3. `சபலம்` — scans 24–30 / printed 15–21 — 7/7 verified;
-  4. `ஆட்டக்காவடி` — scans 31–38 / printed 22–29 — 8/8 verified;
-  5. `குப்பைத்தொட்டி` — scans 39–46 / printed 30–37 — 8/8 verified;
-  6. `சந்தனக்கிண்ணம்` — scans 47–56 / printed 38–47 — 10/10 verified;
-  7. `சங்கிலிச்சாமி` — scans 57–68 / printed 48–59 — 12/12 verified;
-  8. `கங்கையின் காதல்` — scans 69–72 / printed 60–63 — 4/4 verified;
-- all eight completed anthology stories have **0 blocked / 0 unresolved story text** and persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queues;
-- English translation has not been started for these anthology stories;
-- independent story `கிழவன் கனவு` remains complete.
+  1. `புகழேந்தி` — scans 10–15 — 6/6 verified;
+  2. `நளாயினி` — scans 16–23 — 8/8 verified;
+  3. `சபலம்` — scans 24–30 — 7/7 verified;
+  4. `ஆட்டக்காவடி` — scans 31–38 — 8/8 verified;
+  5. `குப்பைத்தொட்டி` — scans 39–46 — 8/8 verified;
+  6. `சந்தனக்கிண்ணம்` — scans 47–56 — 10/10 verified;
+  7. `சங்கிலிச்சாமி` — scans 57–68 — 12/12 verified;
+  8. `கங்கையின் காதல்` — scans 69–72 — 4/4 verified;
+  9. `தாய்மை` — scans 73–83 — 11/11 verified;
+- all nine completed anthology stories have **0 blocked / 0 unresolved story text** and persistent human possible-error queues;
+- English translation has not been started for these anthology stories.
 
-## MANDATORY STARTUP — READ COMPLETELY BEFORE WRITES
+## MANDATORY STARTUP
 
-After fetching live `main`, read completely:
+Read completely before source-dependent writes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
 3. `HANDOVER.md`
 4. `NEXT_CHAT_PROMPT.md`
-5. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md`
-6. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md`
-7. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md`
+5. collection `README.md`
+6. collection `indexes/story-inventory.md`
+7. collection `indexes/scan-map.md`
 
-Then inspect the latest completed story as the immediate structural reference:
-
-8. `stories/gangaiyin-kadhal/README.md`
-9. `stories/gangaiyin-kadhal/metadata/source.md`
-10. `stories/gangaiyin-kadhal/indexes/page-map.md`
-11. `stories/gangaiyin-kadhal/audit.md`
-12. `stories/gangaiyin-kadhal/POSSIBLE_ERRORS_FOR_REVIEW.md`
-
-Use Story 8 only as a structural/audit reference; do not copy its wording into Story 9.
+Then inspect `stories/thaaymai/` as the latest completed structural reference, especially README, source metadata, page map, audit, and possible-error queue.
 
 ## PERMANENT SOURCE RULES
 
-- **The supplied scan is the controlling textual authority.**
-- Do not silently modernize spelling, punctuation, grammar, sandhi, names, dates, numbers, paragraph structure or source anomalies.
-- Do not guess unclear Tamil from context, memory, OCR, another edition or general knowledge.
-- OCR/extracted text may assist navigation only.
-- **No stones should be left unturned.** Before leaving story text unresolved, use native/high-resolution inspection, enlarged crops, alternate resampling/contrast/sharpening variants, character comparison and page-boundary checks as required.
-- A plausible isolated crop is not enough for `verified`; verify the complete phrase/clause/sentence source span.
-- `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors.
-- Do not use `blocked` as a shortcut. Recover defensible readings without fabrication.
-- Do not commit generated render/crop images or the controlling PDF.
-- Use narrow, descriptive commits.
+The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
 
-## NEXT EXACT ACTIVITY — STORY 9 ONLY
+## NEXT EXACT ACTIVITY — STORY 10 ONLY
 
-Process anthology Story **9 — `தாய்மை`** only.
+Process anthology Story **10 — `தப்பிவிட்டார்கள்`** only.
 
 Exact range:
 
-- printed pages: **64–74**
-- anthology PDF scans: **73–83**
+- printed pages: **75–82**
+- anthology PDF scans: **84–91**
 
 Required boundary checks:
 
-- visually confirm scan **73** opens `தாய்மை`;
-- visually confirm scan **83** contains the end of Story 9;
-- visually inspect scan **84** and confirm it begins Story 10 **`தப்பிவிட்டார்கள்`**;
-- do not include any scan-84 Story 10 text in the Story 9 workspace.
+- visually confirm scan **84** opens `தப்பிவிட்டார்கள்`;
+- visually confirm scan **91** contains the end of Story 10;
+- visually inspect scan **92** and confirm it begins Story 11 **`தப்பவில்லை`**;
+- do not include any scan-92 Story 11 text in Story 10.
 
-### Required actions
+Required actions:
 
-1. Fetch live `main` and confirm there is no existing canonical `தாய்மை` workspace under another slug/title. If one exists, attach this anthology as an additional witness instead of creating a duplicate.
-2. Verify the scan 73 / 83 / 84 boundaries from the controlling PDF.
-3. If no canonical workspace exists, create a stable Story 9 workspace only after source identity check.
-4. Register the 1977 anthology and exact source coordinates in `metadata/source.md`.
-5. Create **11 page records** for scans **73–83**, printed pages **64–74**.
-6. Transcribe directly from the source scan page by page.
-7. Run direct visual/full-span source-fidelity review on every page before marking it `verified`.
-8. Exhaustively investigate difficult readings; do not stop at a first plausible crop.
-9. Create and maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` for unusual/easily misread but legible source readings.
-10. Create/update story README, source metadata, page map, all 11 page records, assembled Tamil, audit and human-review queue.
-11. Verify every physical page-boundary continuation across scans 73–83.
-12. Before closing Story 9, confirm there are no omitted/duplicated pages and no unresolved markers that have not gone through the exhaustive protocol.
-13. Synchronize after Story 9: collection story inventory, collection README, root README, scan map, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`.
-14. **Do not start Story 10 — `தப்பிவிட்டார்கள்` — in the same activity.**
+1. Fetch live main and confirm there is no existing canonical `தப்பிவிட்டார்கள்` workspace under another title/slug.
+2. Verify scan 84 / 91 / 92 boundaries from the controlling PDF.
+3. Create a stable Story 10 workspace only after canonical-story check.
+4. Register the 1977 anthology and exact source coordinates.
+5. Create **8 page records** for scans **84–91**, printed pages **75–82**.
+6. Transcribe directly from the source scan page by page and run full-span visual-fidelity verification on every page.
+7. Exhaust difficult readings before using `blocked`; preserve unusual-but-legible forms and queue them for human review.
+8. Create story README, source metadata, page map, all page records, assembled Tamil, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+9. Verify every physical page-boundary continuation.
+10. Synchronize story inventory, collection README, root README, scan map, HANDOVER and NEXT_CHAT_PROMPT after closure.
+11. **Do not start Story 11 — `தப்பவில்லை` — in the same activity.**
 
-## EXPECTED PROGRESS AFTER SUCCESSFUL STORY 9 CLOSURE
+Expected progress after successful Story 10 closure: **10 / 37 complete, 27 remaining**.
 
-If Story 9 completes cleanly:
-
-- Tamil source processing complete: **9 / 37**;
-- not yet transcribed: **28 / 37**;
-- next exact story: Story 10 `தப்பிவிட்டார்கள்`, printed pages **75–82**, scans **84–91**;
-- advance to that activity only after Story 9 is fully synchronized and closed.
-
-## USER COMMAND BEHAVIOUR
-
-When I say **“Proceed with next activity”**, execute the exact next activity recorded in live `HANDOVER.md` / `NEXT_CHAT_PROMPT.md` directly. Do not ask me to choose a routine next step.
-
-If the controlling PDF is not actually available in the new chat/tool context, stop source transcription rather than fabricating text from this prompt.
-
----
-
-End of durable restart prompt.
+When the user says **“Proceed with next activity”**, execute this exact activity directly without routine clarification.
