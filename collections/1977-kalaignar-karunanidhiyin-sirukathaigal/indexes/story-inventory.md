@@ -19,7 +19,7 @@
 | 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | **Tamil source complete — 10/10 verified; human recheck queue open** — `stories/thappavillai/` |
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/aatharikkirar/` |
 | 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/iragasiyam/` |
-| 14 | `முந்நூறு ரூபாய்` | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | registered — not transcribed |
+| 14 | `முந்நூறு ரூபாய்` | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **Tamil source complete — 3/3 verified; human recheck queue open** — `stories/munnuru-rupai/` |
 | 15 | `ஏழை` | `ஏழை` | 106–109 | 115–118 | registered — not transcribed |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | registered — not transcribed |
 | 17 | `பனங்குலை` | `பனங்குலை` | 117–121 | 126–130 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **13 / 37**
-- not yet transcribed: **24 / 37**
+- Tamil source processing complete: **14 / 37**
+- not yet transcribed: **23 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 13 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 14 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 14 — **`முந்நூறு ரூபாய்`**:
+Story 15 — **`ஏழை`**:
 
-- printed pages **103–105**
-- anthology scans **112–114**
+- printed pages **106–109**
+- anthology scans **115–118**
 
-Before closure, visually confirm scan **115** begins Story 15 `ஏழை`. Do not create or transcribe Story 15 in the same activity.
+Before closure, visually confirm scan **119** begins Story 16 `ஒரிஜினலில் உள்ளபடி`. Do not create or transcribe Story 16 in the same activity.
