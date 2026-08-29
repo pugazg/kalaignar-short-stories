@@ -186,3 +186,22 @@ Translation தொடங்குவதற்கு முன்:
 - ஒவ்வொரு batch-க்கும் repository/story status புதுப்பிக்கவும்;
 - `HANDOVER.md`-ல் branch, current state, source identity/checksum, completed pages, unresolved items, next exact action பதிவு செய்யவும்;
 - source PDF repository-க்கு push செய்யக்கூடாது.
+
+## 11. Cross-chat continuation protocol
+
+இந்த archive நீண்டகாலமாக பல chat windows-ல் தொடரப்படுவதால் root `NEXT_CHAT_PROMPT.md` ஒரு **durable resume contract** ஆக பராமரிக்கப்பட வேண்டும்.
+
+ஒவ்வொரு chat/window முடிவதற்கு முன் அல்லது user வேறு chat-ல் தொடர விரும்பும்போது:
+
+1. முதலில் live GitHub `main`-ஐ fetch செய்து அதையே authoritative state ஆகக் கொள்ளவும்;
+2. `HANDOVER.md`-ஐ current durable boundary, completed work, unresolved review queues, மற்றும் **next exact activity** உடன் புதுப்பிக்கவும்;
+3. `NEXT_CHAT_PROMPT.md`-ஐ புதிய chat நேரடியாக paste செய்து தொடரக்கூடிய வகையில் புதுப்பிக்கவும்;
+4. anthology project என்றால் `COLLECTION_SOURCE_GUIDE.md`, collection inventory/scan-map மற்றும் progress counts ஆகியவை handover/prompt-க்கு ஒத்திருக்க வேண்டும்;
+5. user புதிய chat-ல் `Proceed with next activity` என்றால், `HANDOVER.md` / `NEXT_CHAT_PROMPT.md`-ல் பதிவு செய்யப்பட்ட next exact activity-ஐ routine clarification இல்லாமல் execute செய்ய வேண்டும்;
+6. புதிய chat முன்பே completed/verified pages-ஐ காரணமின்றி redo செய்யக்கூடாது. User correction, stronger scan evidence, அல்லது live GitHub state inconsistency இருந்தால் மட்டும் reopen செய்யவும்;
+7. புதிய chat தொடங்கும்போது குறைந்தது `SHORT_STORY_PROCESSING_GUIDE.md`, anthology என்றால் `COLLECTION_SOURCE_GUIDE.md`, `HANDOVER.md`, மற்றும் `NEXT_CHAT_PROMPT.md`-ஐ முழுமையாகப் படிக்க வேண்டும்;
+8. prompt-ல் உள்ள checkpoint-ஐவிட live `main` முன்னேறியிருந்தால் **live `main` wins**. Prompt/chat summary-ஐ வைத்து newer repository work-ஐ overwrite/revert செய்யக்கூடாது;
+9. controlling source scan புதிய chat-ல் கிடைக்கவில்லை என்றால் story transcription/verification-ஐ guess செய்து தொடரக்கூடாது. Source-ஐ மீண்டும் attach/resolve செய்த பிறகே source-dependent work செய்யவும்;
+10. ஒவ்வொரு completed story/activity-க்கும் downstream control files-ஐ synchronize செய்த பின் `NEXT_CHAT_PROMPT.md`-ஐ அடுத்த exact activity-க்கு advance செய்யவும்.
+
+**Cross-chat invariant:** repository files—not memory of an earlier chat—are the durable project state.
