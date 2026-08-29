@@ -25,6 +25,7 @@ Permanent guides:
 | [`புகழேந்தி`](stories/pugazhendhi/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`நளாயினி`](stories/nalayini/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`சபலம்`](stories/sabalam/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues:
 
@@ -32,6 +33,7 @@ Manual possible-error review queues:
 - [`புகழேந்தி`](stories/pugazhendhi/POSSIBLE_ERRORS_FOR_REVIEW.md)
 - [`நளாயினி`](stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md)
 - [`சபலம்`](stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md)
+- [`ஆட்டக்காவடி`](stories/aattakkavadi/POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Registered anthology source
 
@@ -53,8 +55,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **3 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`
-- anthology stories not yet transcribed: **34 / 37**
+- Tamil source processing complete from anthology: **4 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`
+- anthology stories not yet transcribed: **33 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata:
@@ -112,6 +114,19 @@ Important source distinctions retained in `நளாயினி`:
 - scan **31** confirmed as the opening of next story `ஆட்டக்காவடி`
 - English: not started
 
+### Story 4 — ஆட்டக்காவடி — completed Tamil source pass
+
+- printed pages **22–29**
+- PDF scans **31–38**
+- canonical workspace: [`stories/aattakkavadi/`](stories/aattakkavadi/README.md)
+- page records: **8 / 8 verified**
+- Tamil assembly: complete
+- Tamil audit: **PASS**
+- source blocks / unresolved story text: **0**
+- human possible-error queue: created
+- scan **39** confirmed as the opening of next story `குப்பைத்தொட்டி`
+- English: not started
+
 ### Edition-level title differences already preserved
 
 - TOC `புரட்சிப்படம்` ↔ story-opening heading `புரட்சிப் படம்`
@@ -142,15 +157,17 @@ stories/
   nalayini/
     ...
   sabalam/
+    ...
+  aattakkavadi/
     README.md
     metadata/
       source.md
     indexes/
       page-map.md
     pages/
-      0024-sabalam-01.md ... 0030-sabalam-07.md
+      0031-aattakkavadi-01.md ... 0038-aattakkavadi-08.md
     sections/
-      sabalam.md
+      aattakkavadi.md
     audit.md
     POSSIBLE_ERRORS_FOR_REVIEW.md
 ```
@@ -159,9 +176,9 @@ Anthology folders preserve physical collection identity. Canonical story text al
 
 ## Next exact activity
 
-Begin anthology Story **4 — `ஆட்டக்காவடி`**:
+Begin anthology Story **5 — `குப்பைத்தொட்டி`**:
 
-- printed pages **22–29**
-- PDF scans **31–38**
+- printed pages **30–37**
+- PDF scans **39–46**
 
-First confirm live `main` has no existing matching canonical workspace. Then visually confirm scan 31 opening and scan 38 ending / scan 39 next-story boundary, create and complete the Tamil source pass for Story 4 only, and do not begin Story 5 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Then visually confirm scan 39 opening and scan 46 ending / scan 47 next-story boundary, create and complete the Tamil source pass for Story 5 only, and do not begin Story 6 in the same activity.
