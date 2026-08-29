@@ -34,6 +34,7 @@ Permanent guides:
 | [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`தப்பவில்லை`](stories/thappavillai/README.md) | **10 / 10 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`ஆதரிக்கிறார்`](stories/aatharikkirar/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`இரகசியம்!`](stories/iragasiyam/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -57,8 +58,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **12 / 37**
-- anthology stories not yet transcribed: **25 / 37**
+- Tamil source processing complete from anthology: **13 / 37**
+- anthology stories not yet transcribed: **24 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -77,20 +78,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 10. **தப்பிவிட்டார்கள்** — printed **75–82**, scans **84–91**, **8/8 verified**, audit PASS.
 11. **தப்பவில்லை** — printed **83–92**, scans **92–101**, **10/10 verified**, audit PASS.
 12. **ஆதரிக்கிறார்** — printed **93–98**, scans **102–107**, **6/6 verified**, audit PASS.
+13. **இரகசியம்!** — printed **99–102**, scans **108–111**, **4/4 verified**, audit PASS.
 
-All twelve have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All thirteen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 12 — ஆதரிக்கிறார்
+### Story 13 — இரகசியம்!
 
-Canonical workspace: [`stories/aatharikkirar/`](stories/aatharikkirar/README.md)
+Canonical workspace: [`stories/iragasiyam/`](stories/iragasiyam/README.md)
 
-- printed pages **93–98**
-- PDF scans **102–107**
-- page records: **6 / 6 verified**
+- printed pages **99–102**
+- PDF scans **108–111**
+- page records: **4 / 4 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **108** confirmed as next-story opening `இரகசியம்!`
+- scan **112** confirmed as next-story opening `முந்நூறு ரூபாய்`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -100,9 +102,9 @@ Canonical workspace: [`stories/aatharikkirar/`](stories/aatharikkirar/README.md)
 
 ## Next exact activity
 
-Process anthology Story **13 — `இரகசியம்!`** only:
+Process anthology Story **14 — `முந்நூறு ரூபாய்`** only:
 
-- printed pages **99–102**
-- PDF scans **108–111**
+- printed pages **103–105**
+- PDF scans **112–114**
 
-First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **108** opens `இரகசியம்!`, scan **111** closes it, and scan **112** begins Story 14 `முந்நூறு ரூபாய்`. Complete Story 13 only; do not begin Story 14 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **112** opens `முந்நூறு ரூபாய்`, scan **114** closes it, and scan **115** begins Story 15 `ஏழை`. Complete Story 14 only; do not begin Story 15 in the same activity.
