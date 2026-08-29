@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **9 / 37**
-- not yet transcribed: **28 / 37**
+- Tamil source processing complete: **10 / 37**
+- not yet transcribed: **27 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -35,11 +35,12 @@ Completed from this collection:
 6. `சந்தனக்கிண்ணம்` — printed **38–47**, scans **47–56**, **10/10 verified**, audit PASS.
 7. `சங்கிலிச்சாமி` — printed **48–59**, scans **57–68**, **12/12 verified**, audit PASS.
 8. `கங்கையின் காதல்` — printed **60–63**, scans **69–72**, **4/4 verified**, audit PASS.
-9. `தாய்மை` — workspace [`../../stories/thaaymai/`](../../stories/thaaymai/) — printed **64–74**, scans **73–83**, **11/11 verified**, 0 blocked, audit PASS.
+9. `தாய்மை` — printed **64–74**, scans **73–83**, **11/11 verified**, audit PASS.
+10. `தப்பிவிட்டார்கள்` — workspace [`../../stories/thappivittargal/`](../../stories/thappivittargal/) — printed **75–82**, scans **84–91**, **8/8 verified**, 0 blocked, audit PASS.
 
-All nine have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All ten have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `தாய்மை`, scan **84** was visually confirmed as the next-story opening `தப்பிவிட்டார்கள்`.
+For `தப்பிவிட்டார்கள்`, scan **92** was visually confirmed as the next-story opening `தப்பவில்லை`.
 
 ## Source-title differences
 
@@ -61,9 +62,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 10 **`தப்பிவிட்டார்கள்`**:
+Process Story 11 **`தப்பவில்லை`**:
 
-- printed pages **75–82**
-- anthology scans **84–91**
+- printed pages **83–92**
+- anthology scans **92–101**
 
-Confirm scan **84** opens Story 10, scan **91** closes it, and scan **92** opens Story 11 `தப்பவில்லை`. Do not begin Story 11 in the same activity.
+Confirm scan **92** opens Story 11, scan **101** closes it, and scan **102** opens Story 12 `ஆதரிக்கிறார்`. Do not begin Story 12 in the same activity.
