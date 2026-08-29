@@ -2,7 +2,7 @@
 
 This folder registers the anthology **`கலைஞர் கருணாநிதியின் சிறுகதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
 
-The anthology is **not** treated as one story. Its 37 stories will be processed into canonical `stories/<slug>/` workspaces one at a time, while this folder preserves the anthology identity, contents order, printed pagination, scan mapping, and edition-specific title variants.
+The anthology is **not** treated as one story. Its 37 stories are processed into canonical `stories/<slug>/` workspaces one at a time, while this folder preserves anthology identity, contents order, printed pagination, scan mapping and edition-specific title variants.
 
 ## Source snapshot
 
@@ -31,14 +31,31 @@ collections/1977-kalaignar-karunanidhiyin-sirukathaigal/
     scan-map.md
 ```
 
-## Inventory state
+## Inventory / processing state
 
-The printed contents on scans **8–9** has been transcribed into a 37-story inventory. Every calculated story-start scan was then visually checked against the actual story-opening heading.
+The printed contents on scans **8–9** has been transcribed into a 37-story inventory. Every calculated story-start scan was visually checked against the actual story-opening heading.
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- per-story transcription: **0 / 37 started**
-- per-story English translation: **0 / 37 started**
+- Tamil source processing complete: **1 / 37**
+- not yet transcribed: **36 / 37**
+- English translation: **0 / 37 started**
+
+Completed from this collection:
+
+### 1. புகழேந்தி
+
+- canonical workspace: [`../../stories/pugazhendhi/`](../../stories/pugazhendhi/)
+- printed pages: **1–6**
+- source scans: **10–15**
+- page records: **6 / 6 verified**
+- blocked / missing source text: **0**
+- Tamil assembly: complete
+- source audit: **PASS**
+- persistent human possible-error queue: created
+- English translation: not started
+
+The human review queue deliberately retains unusual readings for later source checking without silently correcting them.
 
 See [`indexes/story-inventory.md`](indexes/story-inventory.md).
 
@@ -73,17 +90,20 @@ When a story is processed:
 3. register this anthology and exact scan/printed-page range in that story's source metadata;
 4. if another edition/source already exists, add this anthology as an additional witness instead of creating a duplicate story;
 5. preserve TOC vs opening-heading differences as edition metadata;
-6. do not use anthology text to silently overwrite another edition.
+6. do not use anthology text to silently overwrite another edition;
+7. create a persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` for unusual or easily misread source forms.
 
-## Existing repository cross-check
+## Existing repository relationship
 
-At registration time the only canonical story folder in `stories/` is `kizhavan-kanavu`. `கிழவன் கனவு` is not among these 37 contents entries, so all 37 anthology entries are currently new processing candidates.
+`கிழவன் கனவு` remains an independently processed canonical story from another source and is not in this anthology.
+
+The first anthology story, `புகழேந்தி`, now has its own canonical workspace. Later stories should only receive workspaces when they become active.
 
 ## Next exact activity
 
-Process Story 1 **`புகழேந்தி`**:
+Process Story 2 **`நளாயினி`**:
 
-- printed pages **1–6**
-- anthology scans **10–15**
+- printed pages **7–14**
+- anthology scans **16–23**
 
-Create the story workspace, transcribe its six pages from this anthology source, run direct visual/full-span verification, and start its human `POSSIBLE_ERRORS_FOR_REVIEW.md` queue.
+Before starting it, confirm no matching canonical workspace has appeared on live `main`; then follow the same page-by-page visual/full-span workflow used for `புகழேந்தி`.
