@@ -6,7 +6,7 @@
 
 | # | TOC title | Story-opening heading | Printed pages | Scan pages | Status / note |
 |---:|---|---|---:|---:|---|
-| 1 | `புகழேந்தி` | `புகழேந்தி` | 1–6 | 10–15 | registered — not transcribed |
+| 1 | `புகழேந்தி` | `புகழேந்தி` | 1–6 | 10–15 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/pugazhendhi/` |
 | 2 | `நளாயினி` | `நளாயினி` | 7–14 | 16–23 | registered — not transcribed |
 | 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | registered — not transcribed |
 | 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | registered — not transcribed |
@@ -44,6 +44,19 @@
 | 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | registered — not transcribed; **source-title variance:** TOC `சித்தார்த்தன்`; opening `சித்தார்த்தன் சிலை` |
 | 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | registered — not transcribed |
 
+## Processing progress
+
+- anthology stories registered: **37 / 37**
+- Tamil source processing complete: **1 / 37** — `புகழேந்தி`
+- not yet transcribed: **36 / 37**
+- English translation started: **0 / 37**
+
+`புகழேந்தி` workspace:
+
+`../../../stories/pugazhendhi/`
+
+It contains six verified page records, assembled Tamil, source audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`. The possible-error queue is a later human review layer and does not automatically change verified readings.
+
 ## Source-title variances found during start-page verification
 
 - **Story 28:** TOC prints `புரட்சிப்படம்`; story-opening heading prints `புரட்சிப் படம்`.
@@ -59,10 +72,15 @@ These are edition-level source facts. Do not silently choose one form as though 
 - The start scan for all 37 stories was visually checked against the story-opening heading.
 - Scan **260** is the back cover and is not part of Story 37.
 
-## Existing-repository cross-check
+## Canonical-story rule
 
-At registration time the repository's only existing canonical story workspace is `stories/kizhavan-kanavu/`. `கிழவன் கனவு` does **not** appear in this anthology's 37-item contents list, so none of these 37 entries duplicates the current canonical story workspace.
+Before processing an inventory item, check whether a matching canonical workspace already exists. If one exists, register this anthology as an additional witness rather than creating a duplicate story.
 
-## Next processing rule
+## Next processing activity
 
-Do **not** create all 37 story folders merely as empty placeholders. Select the next anthology story in source order, verify its opening/ending range against the scan, then create `stories/<slug>/` and attach this anthology as its controlling source (or as an additional witness if a canonical story workspace already exists by then).
+Story 2 — **`நளாயினி`**:
+
+- printed pages **7–14**
+- anthology scans **16–23**
+
+Do not create empty placeholder folders for later stories. Process the next story only when it becomes active.
