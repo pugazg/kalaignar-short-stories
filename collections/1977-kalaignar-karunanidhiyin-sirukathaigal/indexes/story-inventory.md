@@ -15,7 +15,7 @@
 | 7 | `சங்கிலிச்சாமி` | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **Tamil source complete — 12/12 verified; human recheck queue open** — `stories/sangilichami/` |
 | 8 | `கங்கையின் காதல்` | `கங்கையின் காதல்` | 60–63 | 69–72 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/gangaiyin-kadhal/` |
 | 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | **Tamil source complete — 11/11 verified; human recheck queue open** — `stories/thaaymai/` |
-| 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | registered — not transcribed |
+| 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/thappivittargal/` |
 | 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | registered — not transcribed |
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | registered — not transcribed |
 | 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **9 / 37**
-- not yet transcribed: **28 / 37**
+- Tamil source processing complete: **10 / 37**
+- not yet transcribed: **27 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 9 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 10 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 10 — **`தப்பிவிட்டார்கள்`**:
+Story 11 — **`தப்பவில்லை`**:
 
-- printed pages **75–82**
-- anthology scans **84–91**
+- printed pages **83–92**
+- anthology scans **92–101**
 
-Before closure, visually confirm scan **92** begins Story 11 `தப்பவில்லை`. Do not create or transcribe Story 11 in the same activity.
+Before closure, visually confirm scan **102** begins Story 12 `ஆதரிக்கிறார்`. Do not create or transcribe Story 12 in the same activity.
