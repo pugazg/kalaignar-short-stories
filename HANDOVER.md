@@ -28,7 +28,7 @@ Important retained rules/results:
 
 Do not reopen these readings without stronger source evidence. Human review items are possible errors, not automatic corrections.
 
-## Active source — 1977 anthology
+## Active collection source — 1977 anthology
 
 Collection workspace:
 
@@ -39,7 +39,7 @@ Source:
 - filename: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
 - file size: **268,486,609 bytes**
-- actual PDF scans: **260**
+- PDF scans: **260**
 - printed title: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**
 - author line: **கலைஞர் மு. கருணாநிதி**
 - publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
@@ -49,68 +49,114 @@ Source:
 - back cover: scan **260**
 - source PDF in repository: **No**
 
-## Anthology registration completed
+Anthology registration:
+
+- contents inventory: **37 / 37**
+- start-scan visual checks: **37 / 37**
+- story-block relation: **scan = printed page + 9**
+- Tamil source processing complete: **1 / 37**
+- stories not yet transcribed: **36 / 37**
+
+Source-title differences to preserve:
+
+1. TOC `புரட்சிப்படம்` — opening `புரட்சிப் படம்`
+2. TOC `சித்தார்த்தன்` — opening `சித்தார்த்தன் சிலை`
+
+## Anthology Story 1 — புகழேந்தி — COMPLETE TAMIL SOURCE PASS
+
+Canonical workspace:
+
+`stories/pugazhendhi/`
+
+Range:
+
+- printed pages: **1–6**
+- anthology scans: **10–15**
 
 Files created:
 
-- `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md`
-- `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/metadata/source.md`
-- `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md`
-- `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md`
-- `COLLECTION_SOURCE_GUIDE.md`
+- `stories/pugazhendhi/README.md`
+- `stories/pugazhendhi/metadata/source.md`
+- `stories/pugazhendhi/indexes/page-map.md`
+- `stories/pugazhendhi/pages/0001.md`
+- `stories/pugazhendhi/pages/0002.md`
+- `stories/pugazhendhi/pages/0003.md`
+- `stories/pugazhendhi/pages/0004.md`
+- `stories/pugazhendhi/pages/0005.md`
+- `stories/pugazhendhi/pages/0006.md`
+- `stories/pugazhendhi/sections/pugazhendhi.md`
+- `stories/pugazhendhi/audit.md`
+- `stories/pugazhendhi/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-Registration state:
+Final current source state:
 
-- printed contents transcribed: **37 / 37 stories**
-- printed ranges calculated: **37 / 37**
-- PDF scan ranges calculated: **37 / 37**
-- all 37 calculated start scans visually checked against actual opening headings: **complete**
-- per-story transcription: **0 / 37 started**
+- page records: **6 / 6**
+- `verified`: **6 / 6**
+- `needs-review`: **0**
+- `blocked`: **0**
+- explicit missing source text: **0**
+- Tamil assembly: complete
+- Tamil source audit: **PASS**
+- English translation: **not started**
 
-Story-block pagination relation:
+The native embedded scan images are **3146 × 4826**. All six pages were visually inspected from native images and difficult spans were enlarged where needed.
 
-**scan page = printed page + 9**
+### Verified physical joins
 
-## Source-title differences already found
+1. printed 1→2: `அவனது பெயர் கூறவே` → `மக்கள் தயங்குவர்—...`
+2. printed 3→4: `“உங்கள் இலட்சியம்` → `கைகூடும் வரையில்...`
+3. printed 5→6: `திருமணமும்` → `வேண்டார்!”`
 
-Preserve both forms:
+### Human possible-error queue
 
-1. TOC `புரட்சிப்படம்` — story-opening heading `புரட்சிப் படம்`
-2. TOC `சித்தார்த்தன்` — story-opening heading `சித்தார்த்தன் சிலை`
+`stories/pugazhendhi/POSSIBLE_ERRORS_FOR_REVIEW.md` persists unusual/easily misread readings for later review. An entry there is **not a confirmed error** and does not itself downgrade the verified page.
 
-Do not silently normalize these.
+High-value rechecks include:
+
+- `பாராட்டுப் படித்தது`
+- `அவனோர் பிடேல்டோ!`
+- `மணக்கும் அவன் நெஞ்சம்.`
+- `புகழ்தரும் தீவலி`
+- `தத்தரூபமாகச்`
+- `மாட்டானும்!`
+- `வயித்துக்கிடக்கிறது`
+- `காதற் கண்கள்`
+- `கால்ப் பணிவிடைகள்`
+- `ஏறெடுத்தும் பாராமல்`
+
+Do not change these merely because they look unusual. A correction must be checked against the full native source span and then propagated to page record, assembly, audit, inventory, README and this handover.
 
 ## Canonical-story / anthology rule
 
 An anthology is a source container, not one canonical story.
 
-Before creating each story workspace:
+Before each story:
 
-1. check `stories/` for the TOC title, opening heading and known alternate title;
-2. if a canonical story already exists, register this anthology as an additional edition/witness;
-3. if none exists, create `stories/<slug>/` only when that story becomes active;
-4. do not create 37 empty placeholder folders;
-5. preserve anthology scan + printed-page coordinates in story page records;
-6. use `POSSIBLE_ERRORS_FOR_REVIEW.md` for suspicious readings.
-
-At registration time the only existing story folder is `kizhavan-kanavu`; `கிழவன் கனவு` does not occur in the anthology contents, so the 37 inventory entries are currently new processing candidates.
+1. check live `stories/` for TOC title, opening heading and alternate title;
+2. if canonical story exists, attach anthology as additional edition/witness;
+3. otherwise create the story workspace only when active;
+4. do not create empty placeholders for all 37 stories;
+5. preserve anthology scan + printed-page coordinates;
+6. create `POSSIBLE_ERRORS_FOR_REVIEW.md` for unusual readings;
+7. use complete-span verification rather than isolated-crop confidence.
 
 ## Next exact activity
 
-Process anthology Story **1 — `புகழேந்தி`**.
+Process anthology Story **2 — `நளாயினி`** only.
 
 Range:
 
-- printed pages: **1–6**
-- source scans: **10–15**
+- printed pages: **7–14**
+- anthology scans: **16–23**
 
 Actions:
 
-1. confirm no existing canonical `புகழேந்தி` workspace;
-2. create `stories/pugazhendhi/` (or another stable slug only after confirming heading/source identity);
-3. register the 1977 anthology as its controlling source with exact scan range;
-4. create six page records for scans 10–15 / printed pages 1–6;
-5. transcribe from the scan page by page;
-6. run direct visual + full-span fidelity verification;
-7. create `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-8. do not begin Story 2 until Story 1's Tamil source audit is complete.
+1. fetch live `main` and confirm no canonical `நளாயினி` workspace already exists;
+2. visually confirm scan 16 opening and scan 23 story ending / scan 24 next-story boundary;
+3. create `stories/nalayini/` using this 1977 anthology as controlling source;
+4. create 8 page records for scans 16–23 / printed pages 7–14;
+5. transcribe directly from native scan images;
+6. run full-span visual fidelity review and page-boundary checks;
+7. create assembled Tamil, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+8. synchronize anthology inventory, collection README, root README and HANDOVER;
+9. **do not begin Story 3 (`சபலம்`) in the same activity.**
