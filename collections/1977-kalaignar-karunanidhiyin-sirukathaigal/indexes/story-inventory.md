@@ -18,7 +18,7 @@
 | 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/thappivittargal/` |
 | 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | **Tamil source complete — 10/10 verified; human recheck queue open** — `stories/thappavillai/` |
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/aatharikkirar/` |
-| 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | registered — not transcribed |
+| 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/iragasiyam/` |
 | 14 | `முந்நூறு ரூபாய்` | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | registered — not transcribed |
 | 15 | `ஏழை` | `ஏழை` | 106–109 | 115–118 | registered — not transcribed |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **12 / 37**
-- not yet transcribed: **25 / 37**
+- Tamil source processing complete: **13 / 37**
+- not yet transcribed: **24 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 12 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 13 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 13 — **`இரகசியம்!`**:
+Story 14 — **`முந்நூறு ரூபாய்`**:
 
-- printed pages **99–102**
-- anthology scans **108–111**
+- printed pages **103–105**
+- anthology scans **112–114**
 
-Before closure, visually confirm scan **112** begins Story 14 `முந்நூறு ரூபாய்`. Do not create or transcribe Story 14 in the same activity.
+Before closure, visually confirm scan **115** begins Story 15 `ஏழை`. Do not create or transcribe Story 15 in the same activity.
