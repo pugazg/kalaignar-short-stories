@@ -126,3 +126,20 @@ English may begin only after that individual story has:
 - current story number/title and exact scan range;
 - whether it is a new canonical story or an additional witness;
 - next exact action.
+
+## 11. Cross-chat anthology continuation
+
+Anthology work is especially vulnerable to off-by-one ranges and accidentally skipping/repeating stories. For every cross-chat handoff:
+
+1. root `NEXT_CHAT_PROMPT.md` must name the **next story number, exact TOC/opening title, printed-page range, and scan range**;
+2. it must also name the **next story's first scan** so the ending boundary can be visually checked before closing the active story;
+3. the new chat must fetch live `main` before creating any folder and confirm the canonical story does not already exist;
+4. the new chat must read `SHORT_STORY_PROCESSING_GUIDE.md`, this guide, `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, the active collection `README.md`, `indexes/story-inventory.md`, and `indexes/scan-map.md` before source-dependent writes;
+5. the latest completed story workspace should be inspected as the immediate implementation reference, but its wording must not be copied into the new story;
+6. completed-story counts in `story-inventory.md`, collection `README.md`, root `README.md`, `scan-map.md`, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md` must agree before the activity is considered closed;
+7. do **one anthology story at a time** unless the user explicitly changes that rule. Do not begin the following story in the same activity after finishing the current one;
+8. when the user says `Proceed with next activity`, execute the exact next story/activity recorded in live repository state without asking them to select among routine options;
+9. if the controlling PDF is not available in the new chat/tool context, stop source transcription rather than using OCR memory, prior chat prose, or inferred text as a substitute;
+10. after the story is fully synchronized, advance `NEXT_CHAT_PROMPT.md` to the following exact story/activity so another chat can resume immediately.
+
+**Authority order on restart:** live GitHub `main` → controlling scan → repository handover/guides → pasted prompt/chat context.
