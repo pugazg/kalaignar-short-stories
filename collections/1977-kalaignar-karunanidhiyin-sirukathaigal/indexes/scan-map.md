@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **6/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **7/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -26,7 +26,7 @@
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **complete — 8/8 verified** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **complete — 8/8 verified** |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **complete — 10/10 verified** |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | not started |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **complete — 12/12 verified** |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | not started |
 | 9 | `தாய்மை` | 64–74 | 73–83 | not started |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | not started |
@@ -83,10 +83,11 @@ Completed Tamil source passes:
 4. `ஆட்டக்காவடி` — scans 31–38
 5. `குப்பைத்தொட்டி` — scans 39–46
 6. `சந்தனக்கிண்ணம்` — scans 47–56
+7. `சங்கிலிச்சாமி` — scans 57–68
 
-Scan **57 / printed page 48** was visually confirmed as the opening of Story 7 `சங்கிலிச்சாமி` while closing the Story 6 boundary.
+Scan **69 / printed page 60** was visually confirmed as the opening of Story 8 `கங்கையின் காதல்` while closing the Story 7 boundary.
 
-Next active source range: **Story 7 `சங்கிலிச்சாமி`, scans 57–68 / printed pages 48–59**. Its ending must be checked against scan **69**, which should begin Story 8 `கங்கையின் காதல்`.
+Next active source range: **Story 8 `கங்கையின் காதல்`, scans 69–72 / printed pages 60–63**. Its ending must be checked against scan **73**, which should begin Story 9 `தாய்மை`.
 
 ## Per-story page-record policy
 
