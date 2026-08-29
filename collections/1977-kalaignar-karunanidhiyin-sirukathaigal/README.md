@@ -25,8 +25,8 @@ The printed contents on scans **8–9** has been transcribed into a 37-story inv
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **6 / 37**
-- not yet transcribed: **31 / 37**
+- Tamil source processing complete: **7 / 37**
+- not yet transcribed: **30 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -37,10 +37,11 @@ Completed from this collection:
 4. `ஆட்டக்காவடி` — workspace [`../../stories/aattakkavadi/`](../../stories/aattakkavadi/) — printed **22–29**, scans **31–38**, **8/8 verified**, 0 blocked, audit PASS.
 5. `குப்பைத்தொட்டி` — workspace [`../../stories/kuppai-thotti/`](../../stories/kuppai-thotti/) — printed **30–37**, scans **39–46**, **8/8 verified**, 0 blocked, audit PASS.
 6. `சந்தனக்கிண்ணம்` — workspace [`../../stories/santhana-kinnam/`](../../stories/santhana-kinnam/) — printed **38–47**, scans **47–56**, **10/10 verified**, 0 blocked, audit PASS.
+7. `சங்கிலிச்சாமி` — workspace [`../../stories/sangilichami/`](../../stories/sangilichami/) — printed **48–59**, scans **57–68**, **12/12 verified**, 0 blocked, audit PASS.
 
-All six have complete Tamil assemblies, zero unresolved story text, persistent possible-error queues, and no English translation started from this anthology.
+All seven have complete Tamil assemblies, zero unresolved story text, persistent possible-error queues, and no English translation started from this anthology.
 
-For `சந்தனக்கிண்ணம்`, scan **57** was visually confirmed as the next-story opening `சங்கிலிச்சாமி`.
+For `சங்கிலிச்சாமி`, scan **69** was visually confirmed as the next-story opening `கங்கையின் காதல்`.
 
 ## Source-title differences
 
@@ -80,7 +81,7 @@ When a story is processed:
 
 `கிழவன் கனவு` remains an independently processed canonical story from another source and is not in this anthology.
 
-The first six anthology stories now have canonical workspaces:
+The first seven anthology stories now have canonical workspaces:
 
 - `புகழேந்தி`
 - `நளாயினி`
@@ -88,14 +89,15 @@ The first six anthology stories now have canonical workspaces:
 - `ஆட்டக்காவடி`
 - `குப்பைத்தொட்டி`
 - `சந்தனக்கிண்ணம்`
+- `சங்கிலிச்சாமி`
 
 Later stories should only receive workspaces when they become active.
 
 ## Next exact activity
 
-Process Story 7 **`சங்கிலிச்சாமி`**:
+Process Story 8 **`கங்கையின் காதல்`**:
 
-- printed pages **48–59**
-- anthology scans **57–68**
+- printed pages **60–63**
+- anthology scans **69–72**
 
-Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 57 opening and scan 68 ending / scan 69 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 8 in the same activity.
+Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 69 opening and scan 72 ending / scan 73 next-story boundary (`தாய்மை`), then follow the same page-by-page visual/full-span workflow. Do not begin Story 9 in the same activity.
