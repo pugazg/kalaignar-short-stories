@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **4/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **5/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -24,7 +24,7 @@
 | 2 | `நளாயினி` | 7–14 | 16–23 | **complete — 8/8 verified** |
 | 3 | `சபலம்` | 15–21 | 24–30 | **complete — 7/7 verified** |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **complete — 8/8 verified** |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | not started |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **complete — 8/8 verified** |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | not started |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | not started |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | not started |
@@ -82,10 +82,11 @@ Completed Tamil source passes:
 2. `நளாயினி` — scans 16–23
 3. `சபலம்` — scans 24–30
 4. `ஆட்டக்காவடி` — scans 31–38
+5. `குப்பைத்தொட்டி` — scans 39–46
 
-Scan **39 / printed page 30** was visually confirmed as the opening of Story 5 `குப்பைத்தொட்டி` while closing the Story 4 boundary.
+Scan **47 / printed page 38** was visually confirmed as the opening of Story 6 `சந்தனக்கிண்ணம்` while closing the Story 5 boundary.
 
-Next active source range when authorized: **Story 5 `குப்பைத்தொட்டி`, scans 39–46 / printed pages 30–37**. Its ending must be checked against scan 47, which should begin Story 6 `சந்தனக்கிண்ணம்`.
+Next active source range: **Story 6 `சந்தனக்கிண்ணம்`, scans 47–56 / printed pages 38–47**. Its ending must be checked against scan **57**, which should begin Story 7 `சங்கிலிச்சாமி`.
 
 ## Per-story page-record policy
 

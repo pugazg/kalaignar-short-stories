@@ -26,13 +26,14 @@ The durable state when this handoff was prepared is:
 
 - anthology: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, first edition 1977;
 - 37 stories registered;
-- Tamil source processing complete: **4 / 37**;
+- Tamil source processing complete: **5 / 37**;
 - completed anthology stories:
   1. `புகழேந்தி` — scans 10–15 / printed pages 1–6 — 6/6 verified;
   2. `நளாயினி` — scans 16–23 / printed pages 7–14 — 8/8 verified;
   3. `சபலம்` — scans 24–30 / printed pages 15–21 — 7/7 verified;
   4. `ஆட்டக்காவடி` — scans 31–38 / printed pages 22–29 — 8/8 verified;
-- all four completed anthology stories have **0 blocked / 0 unresolved story text** and persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queues;
+  5. `குப்பைத்தொட்டி` — scans 39–46 / printed pages 30–37 — 8/8 verified;
+- all five completed anthology stories have **0 blocked / 0 unresolved story text** and persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queues;
 - English translation has **not** been started for these anthology stories;
 - the independent story `கிழவன் கனவு` remains complete and should not be reopened unless new correction evidence is supplied.
 
@@ -50,13 +51,13 @@ After fetching live `main`, read these repository files **completely**:
 
 Then inspect the latest completed story as the immediate structural reference:
 
-8. `stories/aattakkavadi/README.md`
-9. `stories/aattakkavadi/metadata/source.md`
-10. `stories/aattakkavadi/indexes/page-map.md`
-11. `stories/aattakkavadi/audit.md`
-12. `stories/aattakkavadi/POSSIBLE_ERRORS_FOR_REVIEW.md`
+8. `stories/kuppai-thotti/README.md`
+9. `stories/kuppai-thotti/metadata/source.md`
+10. `stories/kuppai-thotti/indexes/page-map.md`
+11. `stories/kuppai-thotti/audit.md`
+12. `stories/kuppai-thotti/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-Do not copy `ஆட்டக்காவடி` wording into the next story; use it only to understand repository structure and audit expectations.
+Do not copy `குப்பைத்தொட்டி` wording into the next story; use it only to understand repository structure and audit expectations.
 
 ## PERMANENT SOURCE RULES
 
@@ -72,29 +73,29 @@ Do not copy `ஆட்டக்காவடி` wording into the next story; use
 - Do not commit generated render/crop images or the controlling PDF to GitHub.
 - Use narrow, descriptive commits.
 
-## NEXT EXACT ACTIVITY — STORY 5 ONLY
+## NEXT EXACT ACTIVITY — STORY 6 ONLY
 
-Process anthology Story **5 — `குப்பைத்தொட்டி`** only.
+Process anthology Story **6 — `சந்தனக்கிண்ணம்`** only.
 
 Exact range:
 
-- printed pages: **30–37**
-- anthology PDF scans: **39–46**
+- printed pages: **38–47**
+- anthology PDF scans: **47–56**
 
 Required boundary checks:
 
-- visually confirm scan **39** opens `குப்பைத்தொட்டி`;
-- visually confirm scan **46** contains the end of Story 5;
-- visually inspect scan **47** and confirm it begins Story 6 **`சந்தனக்கிண்ணம்`**;
-- do not include any scan-47 Story 6 text in the Story 5 workspace.
+- visually confirm scan **47** opens `சந்தனக்கிண்ணம்`;
+- visually confirm scan **56** contains the end of Story 6;
+- visually inspect scan **57** and confirm it begins Story 7 **`சங்கிலிச்சாமி`**;
+- do not include any scan-57 Story 7 text in the Story 6 workspace.
 
 ### Required actions
 
-1. Fetch live `main` and confirm there is no existing canonical `குப்பைத்தொட்டி` workspace under another slug/title. If one exists, attach this anthology as an additional witness instead of creating a duplicate.
-2. Verify the scan 39 / 46 / 47 boundaries from the controlling PDF.
-3. If no canonical workspace exists, create a stable workspace, expected slug `stories/kuppai-thotti/` unless live repository/source evidence supports another established slug.
+1. Fetch live `main` and confirm there is no existing canonical `சந்தனக்கிண்ணம்` workspace under another slug/title. If one exists, attach this anthology as an additional witness instead of creating a duplicate.
+2. Verify the scan 47 / 56 / 57 boundaries from the controlling PDF.
+3. If no canonical workspace exists, create a stable workspace, expected slug `stories/santhana-kinnam/` unless live repository/source evidence supports another established slug.
 4. Register the 1977 anthology and exact source coordinates in `metadata/source.md`.
-5. Create **8 page records** for scans **39–46**, printed pages **30–37**.
+5. Create **10 page records** for scans **47–56**, printed pages **38–47**.
 6. Transcribe directly from the source scan page by page.
 7. Run direct visual/full-span source-fidelity review on every page before marking it `verified`.
 8. Exhaustively investigate difficult readings; do not stop at a first plausible crop.
@@ -103,29 +104,29 @@ Required boundary checks:
    - story `README.md`;
    - `metadata/source.md`;
    - `indexes/page-map.md`;
-   - all 8 `pages/*.md` records;
+   - all 10 `pages/*.md` records;
    - assembled Tamil under `sections/`;
    - `audit.md`;
    - `POSSIBLE_ERRORS_FOR_REVIEW.md`.
-11. Verify every physical page-boundary continuation across scans 39–46.
-12. Before closing Story 5, confirm there are no omitted/duplicated pages and no unresolved markers that have not gone through the exhaustive protocol.
-13. Synchronize after Story 5:
+11. Verify every physical page-boundary continuation across scans 47–56.
+12. Before closing Story 6, confirm there are no omitted/duplicated pages and no unresolved markers that have not gone through the exhaustive protocol.
+13. Synchronize after Story 6:
    - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md`;
    - collection `README.md`;
    - root `README.md`;
    - collection `indexes/scan-map.md`;
    - root `HANDOVER.md`;
    - root `NEXT_CHAT_PROMPT.md` so it points to the following exact activity.
-14. **Do not start Story 6 — `சந்தனக்கிண்ணம்` — in the same activity.**
+14. **Do not start Story 7 — `சங்கிலிச்சாமி` — in the same activity.**
 
-## EXPECTED PROGRESS AFTER SUCCESSFUL STORY 5 CLOSURE
+## EXPECTED PROGRESS AFTER SUCCESSFUL STORY 6 CLOSURE
 
-If Story 5 completes cleanly, anthology progress should become:
+If Story 6 completes cleanly, anthology progress should become:
 
-- Tamil source processing complete: **5 / 37**;
-- not yet transcribed: **32 / 37**;
-- next exact story: Story 6 `சந்தனக்கிண்ணம்`, printed pages **38–47**, scans **47–56**;
-- however, only update to that next activity after Story 5 is fully synchronized and closed.
+- Tamil source processing complete: **6 / 37**;
+- not yet transcribed: **31 / 37**;
+- next exact story: Story 7 `சங்கிலிச்சாமி`, printed pages **48–59**, scans **57–68**;
+- however, only update to that next activity after Story 6 is fully synchronized and closed.
 
 ## USER COMMAND BEHAVIOUR
 

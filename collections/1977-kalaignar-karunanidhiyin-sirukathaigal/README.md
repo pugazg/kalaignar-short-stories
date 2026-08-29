@@ -37,8 +37,8 @@ The printed contents on scans **8–9** has been transcribed into a 37-story inv
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **4 / 37**
-- not yet transcribed: **33 / 37**
+- Tamil source processing complete: **5 / 37**
+- not yet transcribed: **32 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -99,6 +99,19 @@ Important source distinctions retained for `நளாயினி`:
 - scan **39** visually confirmed as next-story opening `குப்பைத்தொட்டி`
 - English translation: not started
 
+### 5. குப்பைத்தொட்டி
+
+- canonical workspace: [`../../stories/kuppai-thotti/`](../../stories/kuppai-thotti/)
+- printed pages: **30–37**
+- source scans: **39–46**
+- page records: **8 / 8 verified**
+- blocked / missing source text: **0**
+- Tamil assembly: complete
+- source audit: **PASS**
+- persistent human possible-error queue: created
+- scan **47** visually confirmed as next-story opening `சந்தனக்கிண்ணம்`
+- English translation: not started
+
 The human review queues deliberately retain unusual readings for later source checking without silently correcting them.
 
 See [`indexes/story-inventory.md`](indexes/story-inventory.md).
@@ -107,8 +120,8 @@ See [`indexes/story-inventory.md`](indexes/story-inventory.md).
 
 Two edition-level TOC/opening-heading differences were found during registration:
 
-1. TOC `புரட்சிப்படம்` ↔ opening heading `புரட்சிப் படம்`
-2. TOC `சித்தார்த்தன்` ↔ opening heading `சித்தார்த்தன் சிலை`
+1. TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`
+2. TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`
 
 Both forms are source evidence and are preserved. Neither is silently normalized.
 
@@ -141,20 +154,21 @@ When a story is processed:
 
 `கிழவன் கனவு` remains an independently processed canonical story from another source and is not in this anthology.
 
-The first four anthology stories now have canonical workspaces:
+The first five anthology stories now have canonical workspaces:
 
 - `புகழேந்தி`
 - `நளாயினி`
 - `சபலம்`
 - `ஆட்டக்காவடி`
+- `குப்பைத்தொட்டி`
 
 Later stories should only receive workspaces when they become active.
 
 ## Next exact activity
 
-Process Story 5 **`குப்பைத்தொட்டி`**:
+Process Story 6 **`சந்தனக்கிண்ணம்`**:
 
-- printed pages **30–37**
-- anthology scans **39–46**
+- printed pages **38–47**
+- anthology scans **47–56**
 
-Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 39 opening and scan 46 ending / scan 47 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 6 in the same activity.
+Before starting it, confirm no matching canonical workspace has appeared on live `main`; visually confirm scan 47 opening and scan 56 ending / scan 57 next-story boundary, then follow the same page-by-page visual/full-span workflow. Do not begin Story 7 in the same activity.

@@ -10,7 +10,7 @@
 | 2 | `நளாயினி` | `நளாயினி` | 7–14 | 16–23 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/nalayini/` |
 | 3 | `சபலம்` | `சபலம்` | 15–21 | 24–30 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/sabalam/` |
 | 4 | `ஆட்டக்காவடி` | `ஆட்டக்காவடி` | 22–29 | 31–38 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/aattakkavadi/` |
-| 5 | `குப்பைத்தொட்டி` | `குப்பைத்தொட்டி` | 30–37 | 39–46 | registered — not transcribed |
+| 5 | `குப்பைத்தொட்டி` | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/kuppai-thotti/` |
 | 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | registered — not transcribed |
 | 7 | `சங்கிலிச்சாமி` | `சங்கிலிச்சாமி` | 48–59 | 57–68 | registered — not transcribed |
 | 8 | `கங்கையின் காதல்` | `கங்கையின் காதல்` | 60–63 | 69–72 | registered — not transcribed |
@@ -47,8 +47,8 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **4 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`
-- not yet transcribed: **33 / 37**
+- Tamil source processing complete: **5 / 37** — `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`
+- not yet transcribed: **32 / 37**
 - English translation started from anthology: **0 / 37**
 
 ## Completed canonical workspaces
@@ -90,6 +90,16 @@
 - scan 39 visually confirmed as next-story opening `குப்பைத்தொட்டி`
 - possible-error queue open
 
+### குப்பைத்தொட்டி
+
+`../../../stories/kuppai-thotti/`
+
+- scans **39–46** / printed pages **30–37**
+- **8 / 8 verified**, 0 blocked, 0 unresolved story text, audit PASS
+- assembled Tamil complete
+- scan 47 visually confirmed as next-story opening `சந்தனக்கிண்ணம்`
+- possible-error queue open
+
 The possible-error queues are human-review layers and do not automatically alter verified source readings.
 
 ## Source-title variances
@@ -108,9 +118,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 5 — **`குப்பைத்தொட்டி`**:
+Story 6 — **`சந்தனக்கிண்ணம்`**:
 
-- printed pages **30–37**
-- anthology scans **39–46**
+- printed pages **38–47**
+- anthology scans **47–56**
 
-Do not create placeholder folders for later stories; process Story 5 only when it becomes active.
+Do not create placeholder folders for later stories; process Story 6 only when it becomes active.

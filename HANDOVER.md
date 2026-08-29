@@ -30,7 +30,7 @@ When continuing in a new chat window:
    - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md`
    - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/story-inventory.md`
    - `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md`;
-3. inspect the latest completed story workspace (`stories/aattakkavadi/`) as the immediate structural reference;
+3. inspect the latest completed story workspace (`stories/kuppai-thotti/`) as the immediate structural reference;
 4. do not redo completed stories/pages unless a user correction, stronger scan evidence, or live-repository inconsistency requires reopening them;
 5. the controlling anthology PDF must be available to the new chat/tool context before transcription or visual verification. Do not reconstruct source text from prior-chat memory;
 6. when the user says **“Proceed with next activity”**, execute the exact activity in the `Next exact activity` section without routine clarification;
@@ -81,8 +81,8 @@ Anthology registration / processing:
 
 - contents inventory: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **4 / 37**
-- stories not yet transcribed: **33 / 37**
+- Tamil source processing complete: **5 / 37**
+- stories not yet transcribed: **32 / 37**
 - English translation started from anthology: **0 / 37**
 
 Edition-level title differences to preserve:
@@ -90,93 +90,35 @@ Edition-level title differences to preserve:
 1. TOC `புரட்சிப்படம்` — opening `புரட்சிப் படம்`
 2. TOC `சித்தார்த்தன்` — opening `சித்தார்த்தன் சிலை`
 
-## Anthology Story 1 — புகழேந்தி — COMPLETE TAMIL SOURCE PASS
+## Anthology Stories 1–4 — COMPLETE TAMIL SOURCE PASSES
 
-Canonical workspace: `stories/pugazhendhi/`
+1. `புகழேந்தி` — `stories/pugazhendhi/` — printed **1–6**, scans **10–15**, **6/6 verified**, 0 blocked, audit PASS.
+2. `நளாயினி` — `stories/nalayini/` — printed **7–14**, scans **16–23**, **8/8 verified**, 0 blocked, audit PASS.
+3. `சபலம்` — `stories/sabalam/` — printed **15–21**, scans **24–30**, **7/7 verified**, 0 blocked, audit PASS.
+4. `ஆட்டக்காவடி` — `stories/aattakkavadi/` — printed **22–29**, scans **31–38**, **8/8 verified**, 0 blocked, 0 unresolved story text, audit PASS.
 
-- printed pages: **1–6**
-- anthology scans: **10–15**
-- page records: **6 / 6 verified**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved story text: **0**
-- assembled Tamil: complete
-- audit: **PASS**
-- human review queue: `stories/pugazhendhi/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- English: not started
+All four have persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queues. English translation has not been started for these anthology stories.
 
-Verified physical joins:
-
-1. printed 1→2: `அவனது பெயர் கூறவே` → `மக்கள் தயங்குவர்—...`
-2. printed 3→4: `“உங்கள் இலட்சியம்` → `கைகூடும் வரையில்...`
-3. printed 5→6: `திருமணமும்` → `வேண்டார்!”`
-
-## Anthology Story 2 — நளாயினி — COMPLETE TAMIL SOURCE PASS
-
-Canonical workspace: `stories/nalayini/`
-
-- printed pages: **7–14**
-- anthology scans: **16–23**
-- page records: **8 / 8 verified**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved story text: **0**
-- assembled Tamil: complete
-- source audit: **PASS**
-- human review queue: `stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- English: not started
-
-Preserve the source's two visible husband-name forms:
-
-- scan 17: `மெளத் கல்யர்`
-- scan 18: `மெளத்கல்யர்`
-
-Printed page 14 ends the narrative with `அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!`; the subsequent `குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.` remains a separate source layer.
-
-## Anthology Story 3 — சபலம் — COMPLETE TAMIL SOURCE PASS
-
-Canonical workspace: `stories/sabalam/`
-
-- printed pages: **15–21**
-- anthology scans: **24–30**
-- page records: **7 / 7 verified**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved story text: **0**
-- assembled Tamil: complete
-- source audit: **PASS**
-- human review queue: `stories/sabalam/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- English: not started
-
-Verified physical joins include:
-
-1. printed 15→16: `கழுத்தில் நிற்கச் சக்தி` → `யிழந்து தொங்கும் தலையை...`
-2. printed 16→17: `“மூர்த்தி” என்று கணீரென்று உச்சரித்தது` → `குழந்தை.`
-3. printed 17→18: `அந்தப் பெட்டியில்` → `இருந்தவர்கள்...`
-4. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
-
-Scan 31 begins `ஆட்டக்காவடி`.
-
-## Anthology Story 4 — ஆட்டக்காவடி — COMPLETE TAMIL SOURCE PASS
+## Anthology Story 5 — குப்பைத்தொட்டி — COMPLETE TAMIL SOURCE PASS
 
 Canonical workspace:
 
-`stories/aattakkavadi/`
+`stories/kuppai-thotti/`
 
 Range:
 
-- printed pages: **22–29**
-- anthology scans: **31–38**
+- printed pages: **30–37**
+- anthology scans: **39–46**
 
 Files/control layers:
 
-- `stories/aattakkavadi/README.md`
-- `stories/aattakkavadi/metadata/source.md`
-- `stories/aattakkavadi/indexes/page-map.md`
-- `stories/aattakkavadi/pages/0031-aattakkavadi-01.md` through `0038-aattakkavadi-08.md`
-- `stories/aattakkavadi/sections/aattakkavadi.md`
-- `stories/aattakkavadi/audit.md`
-- `stories/aattakkavadi/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- `stories/kuppai-thotti/README.md`
+- `stories/kuppai-thotti/metadata/source.md`
+- `stories/kuppai-thotti/indexes/page-map.md`
+- `stories/kuppai-thotti/pages/0039-kuppai-thotti-01.md` through `0046-kuppai-thotti-08.md`
+- `stories/kuppai-thotti/sections/kuppai-thotti.md`
+- `stories/kuppai-thotti/audit.md`
+- `stories/kuppai-thotti/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
 Final current source state:
 
@@ -191,31 +133,38 @@ Final current source state:
 
 ### Verified physical joins
 
-1. printed 22→23: `...உழைத்தாலும்` → `முழுசாகக் காண முடியாத பணம்...`
-2. printed 25→26: `தாயற்ற அவள் இப்போது` → `அனாதைப் பட்டத்துக்குரியவளானாள்.`
-3. printed 27→28: `கந்தனின் வழியிலே பல` → `காளையர் நடைபோடத் தொடங்கினர்.`
-4. printed 28→29: Kanimozhi's letter continues onto the concluding page.
+1. printed 30→31: `...நட்சத்திரங்கள் மேனகை,` → `ரம்பை, ஊர்வசி, திலோத்தமை ஆகியோர்.`
+2. printed 32→33: `அதிலிருந்து நேரம்` → `இரவாகத்தானிருக்குமென முடிவுகட்டி விடலாம்.`
+3. printed 33→34: `...குப்பைத் தொட்டிவந்து சேரக்` → `கூடாதா?`
+4. printed 34→35: `...இதற்குக் கைமாறாக முன்` → `கூட்டியே மூன்றூறு ரூபாய்...`
+5. printed 35→36: `நான் தூங்குவதுபோல்` → `நடித்து நடப்பவைகளைக்...`
+6. printed 36→37: `இந்நாட்டு மன்னர்களிலே ஒருவனல்லவா,` → `எந்தக் குப்பைத்தொட்டி மறைவுக்குப் போனேனோ;...`
 
-Scan **39 / printed page 30** was visually checked and begins the next story **`குப்பைத்தொட்டி`**. No Story 5 text is included in `ஆட்டக்காவடி`.
+Scan **47 / printed page 38** was visually checked and begins the next story **`சந்தனக்கிண்ணம்`**. No Story 6 text is included in `குப்பைத்தொட்டி`.
 
 ### Human possible-error queue
 
-`stories/aattakkavadi/POSSIBLE_ERRORS_FOR_REVIEW.md`
+`stories/kuppai-thotti/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
 High-value rechecks include:
 
-- `‘பாவலா’`
-- `வாக்கலித்துவிட்டு`
-- `கொஞ்சந் தோரணையில்`
-- `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்`
-- `சிங்காரச் சிட்டெழுப்பும்`
-- `அதிருப சுந்தரன்`
-- `ஊரதிர ...`
-- `கண்ணியவானு நீ?`
-- `கருவிழியானை`
-- `‘சுண்’கள்`
+- `போதுதானு`
+- `மனமனவென்று`
+- `காரணகரமான`
+- `உணர்ச்சி என்னை வளர்த்துக்கொண்டது`
+- `சபரகூட மஞ்சமாகி`
+- `குப்பைத்தொட்டி எங்கேயிருந்தால் என்ன வென்று!`
+- `மூன்றூறு`
+- `அவசரியப் புத்தி`
+- `தூராற்றம்`
+- `வீதிப்பக்கம் வந்து உண்மைதான்`
+- `போனேனோ`
+- `சந்தித்தாகிவிட்டது`
+- `வயிறாச் சோறின்றி`
 
-Do not change these merely because they look unusual. A source-supported correction must be checked against the complete source span and propagated through every dependent layer.
+`பல்லைக்காட்டி`, `சற்று மறைந்து கொள்கிறாள்`, and final `ஏன் ஓடுகிறாள்?` were resolved by enlarged source review and are recorded as resolved/rechecked items where appropriate.
+
+Do not change queued readings merely because they look unusual. A source-supported correction must be checked against the complete source span and propagated through every dependent layer.
 
 ## Canonical-story / anthology rule
 
@@ -233,36 +182,34 @@ Before each story:
 
 ## Next exact activity
 
-Process anthology Story **5 — `குப்பைத்தொட்டி`** only.
+Process anthology Story **6 — `சந்தனக்கிண்ணம்`** only.
 
 Range:
 
-- printed pages: **30–37**
-- anthology scans: **39–46**
+- printed pages: **38–47**
+- anthology scans: **47–56**
 
 Boundary checks:
 
-- scan **39** must open `குப்பைத்தொட்டி`;
-- scan **46** must close Story 5;
-- scan **47** must be checked as the opening of Story 6 `சந்தனக்கிண்ணம்` before closing the range.
+- scan **47** must open `சந்தனக்கிண்ணம்`;
+- scan **56** must close Story 6;
+- scan **57** must be checked as the opening of Story 7 `சங்கிலிச்சாமி` before closing the range.
 
 Actions:
 
-1. fetch live `main` and confirm no canonical `குப்பைத்தொட்டி` workspace already exists;
+1. fetch live `main` and confirm no canonical `சந்தனக்கிண்ணம்` workspace already exists;
 2. make the boundary checks above from the controlling scan;
-3. create `stories/kuppai-thotti/` or another stable slug only after source identity check;
+3. create `stories/santhana-kinnam/` or another stable slug only after source identity check;
 4. register the 1977 anthology as controlling source;
-5. create **8** page records for scans **39–46** / printed pages **30–37**;
+5. create **10** page records for scans **47–56** / printed pages **38–47**;
 6. transcribe directly from source scans and run full-span visual fidelity review;
 7. resolve difficult readings as far as defensibly possible; keep unusual-but-legible forms in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
 8. create assembled Tamil, source audit and story README;
 9. synchronize anthology inventory, collection README, root README, scan map, HANDOVER, and `NEXT_CHAT_PROMPT.md`;
-10. **do not begin Story 6 (`சந்தனக்கிண்ணம்`) in the same activity.**
+10. **do not begin Story 7 (`சங்கிலிச்சாமி`) in the same activity.**
 
 ## New-chat readiness
 
-**READY FOR NEW CHAT.**
+**READY FOR CONTINUATION.**
 
-The durable resume file is `NEXT_CHAT_PROMPT.md`. The user should attach the controlling anthology PDF in the new chat (or otherwise make that exact source available to the file tools), paste the prompt from that file, and continue from Story 5 only.
-
-If live `main` has moved beyond this state by then, use the newer repository state rather than reverting to this handover.
+The durable resume file is `NEXT_CHAT_PROMPT.md`. The controlling anthology PDF must be available for source-dependent work. If live `main` has moved beyond this state, use the newer repository state rather than reverting to this handover.
