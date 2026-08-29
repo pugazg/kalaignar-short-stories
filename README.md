@@ -9,6 +9,7 @@
 - silent modernization / normalization செய்யக்கூடாது;
 - difficult story text-ஐ விரைவாக `blocked` என்று விட்டுவிடக்கூடாது — **No stones should be left unturned**;
 - processed-crop confidence மட்டும் `verified`-க்கு போதாது; complete phrase/clause/sentence span source-க்கு எதிராக உறுதிப்படுத்தப்பட வேண்டும்;
+- unusual source reading `verified` ஆனாலும் later human review-க்கு `POSSIBLE_ERRORS_FOR_REVIEW.md`-ல் வைத்திருக்கலாம்;
 - source PDF files GitHub-க்கு commit செய்யப்படாது.
 
 Permanent guides:
@@ -21,10 +22,12 @@ Permanent guides:
 | Story | Source state | English |
 |---|---|---|
 | [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
+| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
 
-`கிழவன் கனவு`-க்கான manual recheck queue:
+Manual possible-error review queues:
 
-- [`stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md`](stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md)
+- [`கிழவன் கனவு`](stories/kizhavan-kanavu/POSSIBLE_ERRORS_FOR_REVIEW.md)
+- [`புகழேந்தி`](stories/pugazhendhi/POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Registered anthology source
 
@@ -46,7 +49,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- per-story transcription from this anthology: **not started**
+- Tamil source processing complete from anthology: **1 / 37** — `புகழேந்தி`
+- anthology stories not yet transcribed: **36 / 37**
 
 Exact source metadata:
 
@@ -59,6 +63,18 @@ Exact 37-story inventory:
 Scan / printed-page ranges:
 
 - [`indexes/scan-map.md`](collections/1977-kalaignar-karunanidhiyin-sirukathaigal/indexes/scan-map.md)
+
+### Story 1 — புகழேந்தி — completed Tamil source pass
+
+- printed pages **1–6**
+- PDF scans **10–15**
+- canonical workspace: [`stories/pugazhendhi/`](stories/pugazhendhi/README.md)
+- six page records: **6 / 6 verified**
+- Tamil assembly: complete
+- Tamil audit: **PASS**
+- source blocks: **0**
+- human possible-error queue: created
+- English: not started
 
 ### Edition-level title differences already preserved
 
@@ -85,15 +101,27 @@ collections/
 stories/
   kizhavan-kanavu/
     ...
+  pugazhendhi/
+    README.md
+    metadata/
+      source.md
+    indexes/
+      page-map.md
+    pages/
+      0001.md ... 0006.md
+    sections/
+      pugazhendhi.md
+    audit.md
+    POSSIBLE_ERRORS_FOR_REVIEW.md
 ```
 
 Anthology folders preserve physical collection identity. Canonical story text always lives under `stories/<slug>/`. If a later anthology entry matches an already-existing story, register the anthology as an additional edition/witness rather than creating a duplicate canonical story.
 
 ## Next exact activity
 
-Begin anthology Story **1 — `புகழேந்தி`**:
+Begin anthology Story **2 — `நளாயினி`**:
 
-- printed pages **1–6**
-- PDF scans **10–15**
+- printed pages **7–14**
+- PDF scans **16–23**
 
-Create its canonical story workspace, register this 1977 anthology as the controlling source, transcribe the six story pages page-by-page, run direct visual/full-span verification, and create its `POSSIBLE_ERRORS_FOR_REVIEW.md` queue.
+First confirm live `main` has no existing matching canonical workspace. Then create and complete the Tamil source pass for Story 2 only; do not begin Story 3 in the same activity.
