@@ -23,7 +23,7 @@
 | 15 | `ஏழை` | `ஏழை` | 106–109 | 115–118 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/ezhai/` |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/originalil-ullapadi/` |
 | 17 | `பனங்குலை` | `பனங்குலை` | 117–121 | 126–130 | **Tamil source complete — 5/5 verified; human recheck queue open** — `stories/panangulai/` |
-| 18 | `செத்தவள் கதை` | `செத்தவள் கதை` | 122–130 | 131–139 | registered — not transcribed |
+| 18 | `செத்தவள் கதை` | `செத்தவள் கதை` | 122–130 | 131–139 | **Tamil source complete — 9/9 verified; human recheck queue open** — `stories/seththaval-kathai/` |
 | 19 | `பிரேத விசாரணை` | `பிரேத விசாரணை` | 131–136 | 140–145 | registered — not transcribed |
 | 20 | `கண்டதும் காதல் ஒழிக!` | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | registered — not transcribed |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **17 / 37**
-- not yet transcribed: **20 / 37**
+- Tamil source processing complete: **18 / 37**
+- not yet transcribed: **19 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 17 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 18 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 18 — **`செத்தவள் கதை`**:
+Story 19 — **`பிரேத விசாரணை`**:
 
-- printed pages **122–130**
-- anthology scans **131–139**
+- printed pages **131–136**
+- anthology scans **140–145**
 
-Before closure, visually confirm scan **140** begins Story 19 `பிரேத விசாரணை`. Do not create or transcribe Story 19 in the same activity.
+Before closure, visually confirm scan **146** begins Story 20 `கண்டதும் காதல் ஒழிக!`. Do not create or transcribe Story 20 in the same activity.

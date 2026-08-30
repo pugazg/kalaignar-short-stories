@@ -21,7 +21,7 @@
 
 1. Fetch live GitHub `main` first and treat it as authoritative.
 2. Read completely: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, collection README, story inventory and scan map.
-3. Inspect the latest completed story workspace (`stories/panangulai/`) as structural reference.
+3. Inspect the latest completed story workspace (`stories/seththaval-kathai/`) as structural reference.
 4. Do not redo completed stories without new correction evidence or repository inconsistency.
 5. The controlling PDF must be available before transcription/visual verification.
 6. When the user says **“Proceed with next activity”**, execute the exact activity below without routine clarification.
@@ -43,8 +43,8 @@ Anthology processing state:
 
 - contents inventory: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **17 / 37**
-- stories not yet transcribed: **20 / 37**
+- Tamil source processing complete: **18 / 37**
+- stories not yet transcribed: **19 / 37**
 - English translation started: **0 / 37**
 
 ## Completed anthology stories
@@ -65,16 +65,17 @@ Anthology processing state:
 14. `முந்நூறு ரூபாய்` — 3/3 verified.
 15. `ஏழை` — 4/4 verified.
 16. `ஒரிஜினலில் உள்ளபடி` — 7/7 verified.
-17. `பனங்குலை` — `stories/panangulai/` — printed **117–121**, scans **126–130**, **5/5 verified**, 0 blocked, 0 unresolved, audit PASS.
+17. `பனங்குலை` — 5/5 verified.
+18. `செத்தவள் கதை` — `stories/seththaval-kathai/` — printed **122–130**, scans **131–139**, **9/9 verified**, 0 blocked, 0 unresolved, audit PASS.
 
 All completed anthology stories have complete Tamil assemblies and persistent human possible-error queues.
 
-## Story 17 — பனங்குலை — COMPLETE TAMIL SOURCE PASS
+## Story 18 — செத்தவள் கதை — COMPLETE TAMIL SOURCE PASS
 
-Canonical workspace: `stories/panangulai/`
+Canonical workspace: `stories/seththaval-kathai/`
 
-- page records: **5 / 5**
-- verified: **5 / 5**
+- page records: **9 / 9**
+- verified: **9 / 9**
 - blocked: **0**
 - unresolved story text: **0**
 - Tamil assembly: complete
@@ -83,42 +84,43 @@ Canonical workspace: `stories/panangulai/`
 
 Boundary / continuation checks:
 
-- scan 126 opens `பனங்குலை`.
-- scans 128→129 / printed 119→120: `...அன்றைய இரவு இன்ப கீதம் பாடி, மெல்ல மெல்ல` → `நகர்ந்தது.`.
-- scans 129→130 / printed 120→121: `...போட்டுவிட்டுப் போய்விட்டார்களாம். அதன்` → `பிறகே, அனாதை இல்லம் உன்னை எடுத்து வளர்த்ததாம்.`.
-- the 126→127 and 127→128 boundaries were also visually checked with no omission/duplication.
-- scan 130 contains the final sentence `இப்படியும் பல பிறவிகள் உண்டு உலகத்தில்!` and closing ornament.
-- scan 131 opens Story 18 `செத்தவள் கதை`; Story 18 text is not included.
+- scan 131 opens `செத்தவள் கதை`.
+- scans 134→135 / printed 125→126: `...ஒரு சிறு இரும்புக் கம்பி ஆடிக்` → `கொண்டிருந்தது.`.
+- scans 135→136 / printed 126→127: `...வார்த்தையின் ஒவ்வொரு எழுத்தும்` → `நடுங்கின.`.
+- scans 138→139 / printed 129→130: `...என் நெஞ்சிலே உன்னைப் ‘போட்டோ’ படமாக்கி` → `வச்சிருந்தேன்! எல்லாத்தையும்...`.
+- the remaining physical boundaries were visually checked with no omission/duplication.
+- scan 139 contains the final `‘மங்களம்’` sentence and closing ornament.
+- scan 140 opens Story 19 `பிரேத விசாரணை`; Story 19 text is not included.
 
-High-value source-close/full-span rechecks recorded in the story workspace include scan 126 `கண் காணாத சீமைக்கு` and `கரங்கள்தாம்`; scan 127 `பனை நுங்கு`, `பனங் குலைகள்`, `சொந்தந்தானே`; scan 128 `திருடுகிறு?`, `சபலக் குறி தல காட்டியது`, `பாத்தியதை`; scan 129 `சேவல் கூவிற்று`, `ஆணில் வயதேறிக் காணப்படும்`, `மீனாட்சியைத்`, `உன்னைப் பறி கொடுத்ததாக`; and scan 130 the printed colon in `உன் தங்கையைத்:தேடிப்`, plus `பிரக்ஞையற்றுக்`, `இவளைக் தட்டிக்`, `தீக்குச்சியைக் கிழித்து`, `குணாளர்`, and `வீட்டுக்குப்போய்`. Unusual readings remain in `stories/panangulai/POSSIBLE_ERRORS_FOR_REVIEW.md` for later human checking without downgrading verified page status.
+High-value source-close/full-span rechecks recorded in the story workspace include scan 131 `கேட்கத் தூண்டும்`, `ஓட்டப்பம் வீட்டைச் சுடும்` and the opening verse; scan 132 `போடுறியே`; scan 133 `அடுக்கினுக்குள்`; scan 134 `காலோடிய நின்றாள்` and `திமிரென்று முனைத்ததுபோல்`; scan 135 `வருணையா வாரும்`; scan 136 `அதைக் கோதினன்`; scan 137 `ஜீவே`; scan 138 `சமுதாயக் கோளாறுன்னு சங்க நாதம்`; and scan 139 `பேச்சால்`, `கோசா வாக முழிக்கமாட்டேன்`, `தெருவினொப்பாரி` and the final verse. Unusual readings remain in `stories/seththaval-kathai/POSSIBLE_ERRORS_FOR_REVIEW.md` for later human checking without downgrading verified page status.
 
 ## Next exact activity
 
-Process anthology Story **18 — `செத்தவள் கதை`** only.
+Process anthology Story **19 — `பிரேத விசாரணை`** only.
 
-- printed pages: **122–130**
-- anthology scans: **131–139**
+- printed pages: **131–136**
+- anthology scans: **140–145**
 
 Boundary checks:
 
-- scan **131** must open `செத்தவள் கதை`;
-- scan **139** must close Story 18;
-- scan **140** must be checked as the opening of Story 19 `பிரேத விசாரணை`.
+- scan **140** must open `பிரேத விசாரணை`;
+- scan **145** must close Story 19;
+- scan **146** must be checked as the opening of Story 20 `கண்டதும் காதல் ஒழிக!`.
 
 Actions:
 
-1. fetch live `main` and confirm no matching canonical `செத்தவள் கதை` workspace exists;
-2. visually verify scans 131 / 139 / 140 from the controlling PDF;
-3. create the Story 18 workspace only after canonical-story check;
-4. create **9** page records for scans 131–139 / printed pages 122–130;
+1. fetch live `main` and confirm no matching canonical `பிரேத விசாரணை` workspace exists;
+2. visually verify scans 140 / 145 / 146 from the controlling PDF;
+3. create the Story 19 workspace only after canonical-story check;
+4. create **6** page records for scans 140–145 / printed pages 131–136;
 5. transcribe directly from scan and perform full-span visual review on every page;
 6. exhaust difficult readings before `blocked` and maintain a human possible-error queue;
 7. create assembled Tamil, audit, source metadata, page map and story README;
 8. verify every physical page-boundary continuation and confirm no omitted/duplicated pages;
 9. synchronize anthology/root control files;
-10. **do not begin Story 19 (`பிரேத விசாரணை`) in the same activity.**
+10. **do not begin Story 20 (`கண்டதும் காதல் ஒழிக!`) in the same activity.**
 
-Expected progress after successful Story 18 closure: **18 / 37 complete, 19 remaining**.
+Expected progress after successful Story 19 closure: **19 / 37 complete, 18 remaining**.
 
 ## New-chat readiness
 
