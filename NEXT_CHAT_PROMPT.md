@@ -30,30 +30,30 @@ Read completely before making project changes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect the latest completed Story 26 workspace `stories/abagya-chinthamani/` as the immediate structural reference. Do not copy its story wording into Story 27.
+Then inspect the latest completed Story 27 workspace `stories/palaivana-roja/` as the immediate structural reference. Do not copy its story wording into Story 28.
 
 ## FULLY SYNCHRONIZED DURABLE STATE
 
-Stories **1–26** are fully closed and synchronized into root/collection progress controls.
+Stories **1–27** are fully closed and synchronized into root/collection progress controls.
 
 Anthology status:
 
 - registered stories: **37 / 37**;
-- Tamil source processing complete: **26 / 37**;
-- remaining unprocessed stories: **11**;
+- Tamil source processing complete: **27 / 37**;
+- remaining unprocessed stories: **10**;
 - English translation started from anthology: **0 / 37**.
 
-Story 26 — **`அபாக்ய சிந்தாமணி`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
+Story 27 — **`பாலைவன ரோஜா`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
 
-Story 26 canonical workspace:
+Story 27 canonical workspace:
 
-`stories/abagya-chinthamani/`
+`stories/palaivana-roja/`
 
-Story 26 state:
+Story 27 state:
 
-- printed pages **172–179**;
-- scans **181–188**;
-- **8 / 8 verified**;
+- printed pages **180–184**;
+- scans **189–193**;
+- **5 / 5 verified**;
 - **0 needs-review status pages**;
 - **0 blocked**;
 - **0 unresolved story text**;
@@ -62,46 +62,45 @@ Story 26 state:
 - persistent human possible-error queue present;
 - English translation not started.
 
-The Story 26 closure pass corrected several earlier scan misreadings before final synchronization; consult its `metadata/source.md`, `audit.md` and `POSSIBLE_ERRORS_FOR_REVIEW.md` rather than restoring earlier forms.
-
 Boundary checks already completed:
 
-- scan **181** opens `அபாக்ய சிந்தாமணி`;
-- scan **188** closes Story 26 with its final paragraph and ornament;
-- scan **189** opens Story 27 `பாலைவன ரோஜா`;
-- no Story 27 text is included in Story 26.
+- scan **189** opens `பாலைவன ரோஜா`;
+- scan **193** closes Story 27 with its final paragraph and ornament;
+- scan **194** opens Story 28 with heading `புரட்சிப் படம்`;
+- Story 28's printed TOC title is `புரட்சிப்படம்`;
+- no Story 28 text is included in Story 27.
 
-## NEXT EXACT ACTIVITY — STORY 27 SOURCE WORK ONLY
+## NEXT EXACT ACTIVITY — STORY 28 SOURCE WORK ONLY
 
-Execute this directly when I say **“Proceed with next activity”**. Do not ask me to choose a routine next step.
+Story 28 has a source-title variance that must be preserved exactly:
 
-Story 27 — **`பாலைவன ரோஜா`**:
-
-- printed pages **180–184**;
-- anthology scans **189–193**;
-- scan **189** is already visually confirmed as the Story 27 opening;
-- before Story 27 closure, visually inspect scan **194** and confirm it begins Story 28 with opening heading **`புரட்சிப் படம்`**;
-- Story 28's printed TOC title is **`புரட்சிப்படம்`**; preserve this source-title variance;
-- do not include scan-194 Story 28 text in Story 27.
+- printed TOC title: **`புரட்சிப்படம்`**;
+- story-opening heading: **`புரட்சிப் படம்`**;
+- printed pages **185–189**;
+- anthology scans **194–198**;
+- scan **194** is already visually confirmed as the Story 28 opening;
+- before Story 28 closure, visually inspect scan **199** and confirm it begins Story 29 **`திடுக்கிடும் கதை`**;
+- do not silently normalize the two Story 28 title forms;
+- do not include scan-199 Story 29 text in Story 28.
 
 Required activity:
 
 1. Fetch live `main` again and preserve newer work if present.
-2. Confirm there is no existing matching canonical Story 27 workspace requiring deduplication or additional-witness handling.
-3. Use the controlling PDF for Story 27 scans **189–193** only.
-4. Create/process the Story 27 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
+2. Confirm there is no existing matching canonical Story 28 workspace under either `புரட்சிப்படம்` or `புரட்சிப் படம்` requiring deduplication or additional-witness handling.
+3. Use the controlling PDF for Story 28 scans **194–198** only.
+4. Create/process the Story 28 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`, explicitly documenting the TOC/opening-heading variance.
 5. Preserve source spelling, punctuation, paragraphing, names, historical forms and anomalies exactly; do not silently normalize.
 6. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
 7. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
-8. Confirm scan **194** is the Story 28 opening boundary witness and preserve the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` title variance.
-9. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 27 is fully complete.
-10. Re-fetch live `main` plus changed controls before declaring Story 27 closed.
-11. **Do not start Story 28 in the same activity.**
+8. Confirm scan **199** is the Story 29 opening boundary witness `திடுக்கிடும் கதை`.
+9. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 28 is fully complete.
+10. Re-fetch live `main` plus changed controls before declaring Story 28 closed.
+11. **Do not start Story 29 in the same activity.**
 
-Expected result after Story 27 closure: **27 / 37 fully synchronized complete, 10 remaining**.
+Expected result after Story 28 closure: **28 / 37 fully synchronized complete, 9 remaining**.
 
 ## CONTROLLING-SOURCE RULES
 
-The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
+The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs, title forms or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
 
 ---
