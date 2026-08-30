@@ -54,28 +54,26 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **28 / 37**
-- remaining unprocessed anthology stories: **9 / 37**
+- Tamil source processing complete: **29 / 37**
+- remaining unprocessed anthology stories: **8 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–28** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
+Stories **1–29** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
 
-Story 28 workspace checkpoint:
+Story 29 final workspace-assembly checkpoint:
 
-`6651f06f8d497b5e055247c2d67ee5e272ee4eb3` — `Complete Story 28 canonical workspace`
+`902fa17a20e2caa3850b5bc9beef16fa03a40ec2` — `Assemble Story 29 Tamil section`
 
-### Story 28 — TOC `புரட்சிப்படம்`, opening `புரட்சிப் படம்` — FULLY CLOSED
+### Story 29 — `திடுக்கிடும் கதை` — FULLY CLOSED
 
-Canonical workspace: `stories/puratchip-padam/`
+Canonical workspace: `stories/thidukkidum-kathai/`
 
-- printed TOC title: **`புரட்சிப்படம்`**
-- story-opening heading: **`புரட்சிப் படம்`**
-- printed pages: **185–189**
-- anthology scans: **194–198**
-- page records: **5 / 5**
-- verified: **5 / 5**
+- printed pages: **190–195**
+- anthology scans: **199–204**
+- page records: **6 / 6**
+- verified: **6 / 6**
 - needs-review status pages: **0**
 - blocked: **0**
 - unresolved story text: **0**
@@ -86,51 +84,50 @@ Canonical workspace: `stories/puratchip-padam/`
 
 Boundary / continuation checks completed during source work:
 
-- scan **194** visibly opens with heading `புரட்சிப் படம்`;
-- printed **185→186** / scans **194→195**: `...மக்களத்` → `திருத்தும் வகையில்...`;
-- printed **186→187** / scans **195→196**: `...பாடல்கள் தேன்பாகு` → `கற்கண்டு!`;
-- printed **187→188** / scans **196→197**: `...என்ற சேதி` → `நாடெங்கும் பரவிற்று;`;
-- printed **188→189** / scans **197→198**: question about the censor's two cuts → answer beginning `ஆமாம் தோழர்களே!`;
-- scan **198** contains the final censor punchline and closing ornament;
-- scan **199** visibly opens Story 29 `திடுக்கிடும் கதை`;
-- no Story 29 text is included in Story 28.
+- scan **199** visibly opens `திடுக்கிடும் கதை`;
+- scans **199→200**: scan 199 closes `அதாவது;` and scan 200 opens the quoted lift notice;
+- scans **200→201**: `...வேலை பார்த்து வந்தது.` → `யாரின் கண்களைவிடக்...`;
+- scans **201→202**: scan 201 closes with திஸ்பே turning toward the sound and scan 202 opens with the lion;
+- printed **193→194** / scans **202→203**: `...நிசின் சமாதிக்கு அருகிலே பிணமாகச்` → `சாய்ந்து கிடந்தார்கள்.`;
+- printed **194→195** / scans **203→204**: `...புதுத்தலைவனின் மிரட்டலைக்` → `கண்ட கிளர்ச்சித் தலைவர்...`;
+- scan **204** contains the final staircase-key punchline and closing ornament;
+- scan **205** visibly opens Story 30 `கடைசிக் கட்டம்`;
+- no Story 30 text is included in Story 29.
 
-The source-title variance is a controlling-source fact and must not be normalized: printed TOC **`புரட்சிப்படம்`** ↔ opening heading **`புரட்சிப் படம்`**. The canonical workspace/display follows the opening heading while both forms remain recorded.
+High-value source-close forms retained in `stories/thidukkidum-kathai/POSSIBLE_ERRORS_FOR_REVIEW.md` include `சிலநாட்கள்`, `திரும்பினர்கள்`, `ஓவிட்`, `காதலே மூடி மறைக்க`, `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `வேற்றார் சென்று`, the source variation `மல்பெரி` / `மல்பரி`, `என்னுல் தான்`, `இளையவளாம்`, `வனப்புகொள்`, `கண்காணச் சீமை`, `கெளவிக்கொண்டிருந்தது`, `சாக்காடென்னும் பூக்காட்டிற்கு`, `கர்ச்சனை`, `பரிபாலித்துவந்தான்`, visibly spaced `துரத்து வதாகவோ`, `இதுதானப்பா`, and `பாக்கியிருந்தது`. These remain source-faithful review-queue entries, not confirmed errors.
 
-High-value source-close forms retained in `stories/puratchip-padam/POSSIBLE_ERRORS_FOR_REVIEW.md` include `படப் பிடிப்பு`, `அறிவுக்கதை யொன்றை`, `படப்பிடிப்புவேலை`, `விளக்குவதாகயிருந்தது`, `ஆஷாடபூதித்தனங்கள்`, `படந்தான்`, `தாராசசாங்கத்தைப்`, `பாரபக்ஷம்`, `எதாவது`, `ஏமாற்றுதே`, `பரவிற்று`, `திலகநகரத்திலே`, `வெளுப்பாயிருந்தது`, `முற்றிற்று`, repeated `வெட்டினர்கள்`, and `வீசிற்று`. These remain source-faithful review-queue entries, not confirmed errors.
+The root README, collection README, collection story inventory and collection scan map are synchronized to Story 29 completion: **29 / 37 complete, 8 remaining**.
 
-The root README, collection README, collection story inventory and collection scan map are synchronized to Story 28 completion: **28 / 37 complete, 9 remaining**.
+## NEXT EXACT ACTIVITY — STORY 30 SOURCE WORK ONLY
 
-## NEXT EXACT ACTIVITY — STORY 29 SOURCE WORK ONLY
+Story 30 — **`கடைசிக் கட்டம்`**:
 
-Story 29 — **`திடுக்கிடும் கதை`**:
-
-- printed pages: **190–195**
-- anthology scans: **199–204**
-- scan **199** is already visually confirmed as its opening while closing Story 28;
-- before Story 29 closure, inspect scan **205** and confirm it begins Story 30 **`கடைசிக் கட்டம்`**;
-- do not include scan-205 Story 30 text in Story 29.
+- printed pages: **196–201**
+- anthology scans: **205–210**
+- scan **205** is already visually confirmed as its opening while closing Story 29;
+- before Story 30 closure, inspect scan **211** and confirm it begins Story 31 **`அய்யோ ராஜா!`**;
+- do not include scan-211 Story 31 text in Story 30.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 29 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 29 scans **199–204** only;
-4. create/process the canonical Story 29 workspace under the permanent guides;
+2. confirm no existing matching canonical Story 30 workspace needs deduplication/attachment handling;
+3. use the controlling PDF for Story 30 scans **205–210** only;
+4. create/process the canonical Story 30 workspace under the permanent guides;
 5. complete direct visual/full-span verification and physical boundary checks;
-6. confirm scan **205** is the Story 30 opening boundary witness `கடைசிக் கட்டம்`;
-7. synchronize Story 29 into all downstream anthology/root controls;
-8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 30 only after Story 29 is fully closed;
-9. do **not** start Story 30 in the same activity.
+6. confirm scan **211** is the Story 31 opening boundary witness `அய்யோ ராஜா!`;
+7. synchronize Story 30 into all downstream anthology/root controls;
+8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 31 only after Story 30 is fully closed;
+9. do **not** start Story 31 in the same activity.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 28.**
+**FULLY SYNCHRONIZED THROUGH STORY 29.**
 
-- Tamil source passes complete: **28 / 37**
-- remaining: **9**
-- next exact story: **29 — `திடுக்கிடும் கதை`**
+- Tamil source passes complete: **29 / 37**
+- remaining: **8**
+- next exact story: **30 — `கடைசிக் கட்டம்`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 29 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 30 source work after mandatory startup and controlling-source resolution.
