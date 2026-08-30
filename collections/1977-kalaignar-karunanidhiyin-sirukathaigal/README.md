@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **19 / 37**
-- not yet transcribed: **18 / 37**
+- Tamil source processing complete: **20 / 37**
+- not yet transcribed: **17 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -46,10 +46,11 @@ Completed from this collection:
 17. `பனங்குலை` — workspace [`../../stories/panangulai/`](../../stories/panangulai/) — printed **117–121**, scans **126–130**, **5/5 verified**, 0 blocked, audit PASS.
 18. `செத்தவள் கதை` — workspace [`../../stories/seththaval-kathai/`](../../stories/seththaval-kathai/) — printed **122–130**, scans **131–139**, **9/9 verified**, 0 blocked, audit PASS.
 19. `பிரேத விசாரணை` — workspace [`../../stories/pretha-visaranai/`](../../stories/pretha-visaranai/) — printed **131–136**, scans **140–145**, **6/6 verified**, 0 blocked, audit PASS.
+20. `கண்டதும் காதல் ஒழிக!` — workspace [`../../stories/kandathum-kadhal-ozhiga/`](../../stories/kandathum-kadhal-ozhiga/) — printed **137–141**, scans **146–150**, **5/5 verified**, 0 blocked, audit PASS.
 
-All nineteen have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All twenty have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `பிரேத விசாரணை`, scan **146** was visually confirmed as the next-story opening `கண்டதும் காதல் ஒழிக!`.
+For `கண்டதும் காதல் ஒழிக!`, scan **151** was visually confirmed as the next-story opening `ஆலமரத்துப் புறாக்கள்`.
 
 ## Source-title differences
 
@@ -71,9 +72,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 20 **`கண்டதும் காதல் ஒழிக!`**:
+Process Story 21 **`ஆலமரத்துப் புறாக்கள்`**:
 
-- printed pages **137–141**
-- anthology scans **146–150**
+- printed pages **142–146**
+- anthology scans **151–155**
 
-Scan **146** is already confirmed as the Story 20 opening. Before Story 20 closure, confirm scan **151** opens Story 21 `ஆலமரத்துப் புறாக்கள்`. Do not begin Story 21 in the same activity.
+Scan **151** is already confirmed as the Story 21 opening. Before Story 21 closure, confirm scan **156** opens Story 22 `தொத்துக்கிளி`. Do not begin Story 22 in the same activity.
