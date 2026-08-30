@@ -42,6 +42,7 @@ Permanent guides:
 | [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **9 / 9 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`பிரேத விசாரணை`](stories/pretha-visaranai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`கண்டதும் காதல் ஒழிக!`](stories/kandathum-kadhal-ozhiga/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`ஆலமரத்துப் புறாக்கள்`](stories/aalamarathup-puraakkal/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -65,8 +66,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **20 / 37**
-- anthology stories not yet transcribed: **17 / 37**
+- Tamil source processing complete from anthology: **21 / 37**
+- anthology stories not yet transcribed: **16 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -93,20 +94,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 18. **செத்தவள் கதை** — printed **122–130**, scans **131–139**, **9/9 verified**, audit PASS.
 19. **பிரேத விசாரணை** — printed **131–136**, scans **140–145**, **6/6 verified**, audit PASS.
 20. **கண்டதும் காதல் ஒழிக!** — printed **137–141**, scans **146–150**, **5/5 verified**, audit PASS.
+21. **ஆலமரத்துப் புறாக்கள்** — printed **142–146**, scans **151–155**, **5/5 verified**, audit PASS.
 
-All twenty have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All twenty-one have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 20 — கண்டதும் காதல் ஒழிக!
+### Story 21 — ஆலமரத்துப் புறாக்கள்
 
-Canonical workspace: [`stories/kandathum-kadhal-ozhiga/`](stories/kandathum-kadhal-ozhiga/README.md)
+Canonical workspace: [`stories/aalamarathup-puraakkal/`](stories/aalamarathup-puraakkal/README.md)
 
-- printed pages **137–141**
-- PDF scans **146–150**
+- printed pages **142–146**
+- PDF scans **151–155**
 - page records: **5 / 5 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **151** confirmed as next-story opening `ஆலமரத்துப் புறாக்கள்`
+- scan **156** confirmed as next-story opening `தொத்துக்கிளி`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -116,9 +118,9 @@ Canonical workspace: [`stories/kandathum-kadhal-ozhiga/`](stories/kandathum-kadh
 
 ## Next exact activity
 
-Process anthology Story **21 — `ஆலமரத்துப் புறாக்கள்`** only:
+Process anthology Story **22 — `தொத்துக்கிளி`** only:
 
-- printed pages **142–146**
-- PDF scans **151–155**
+- printed pages **147–151**
+- PDF scans **156–160**
 
-Scan **151** is already visually confirmed as Story 21's opening. Before Story 21 closure, visually confirm scan **156** begins Story 22 `தொத்துக்கிளி`. Complete Story 21 only; do not begin Story 22 in the same activity.
+Scan **156** is already visually confirmed as Story 22's opening. Before Story 22 closure, visually confirm scan **161** begins Story 23 `காதல் கடிதம்`. Complete Story 22 only; do not begin Story 23 in the same activity.
