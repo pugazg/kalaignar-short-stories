@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **24 / 37**
-- not yet transcribed: **13 / 37**
+- Tamil source processing complete: **25 / 37**
+- not yet transcribed: **12 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -51,10 +51,11 @@ Completed from this collection:
 22. `தொத்துக்கிளி` — workspace [`../../stories/thothukkili/`](../../stories/thothukkili/) — printed **147–151**, scans **156–160**, **5/5 verified**, 0 blocked, audit PASS.
 23. `காதல் கடிதம்` — workspace [`../../stories/kadhal-kaditham/`](../../stories/kadhal-kaditham/) — printed **152–156**, scans **161–165**, **5/5 verified**, 0 blocked, audit PASS.
 24. `கண்ணடக்கம்` — workspace [`../../stories/kannadakkam/`](../../stories/kannadakkam/) — printed **157–163**, scans **166–172**, **7/7 verified**, 0 blocked, audit PASS.
+25. `வாழ முடியாதவர்கள்` — workspace [`../../stories/vazha-mudiyathavargal/`](../../stories/vazha-mudiyathavargal/) — printed **164–171**, scans **173–180**, **8/8 verified**, 0 blocked, audit PASS.
 
-All twenty-four have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All twenty-five have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `கண்ணடக்கம்`, scan **173** was visually confirmed as the next-story opening `வாழ முடியாதவர்கள்`.
+For `வாழ முடியாதவர்கள்`, scan **181** was visually confirmed as the next-story opening `அபாக்ய சிந்தாமணி`.
 
 ## Source-title differences
 
@@ -76,9 +77,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 25 **`வாழ முடியாதவர்கள்`**:
+Process Story 26 **`அபாக்ய சிந்தாமணி`**:
 
-- printed pages **164–171**
-- anthology scans **173–180**
+- printed pages **172–179**
+- anthology scans **181–188**
 
-Scan **173** is already confirmed as the Story 25 opening. Before Story 25 closure, confirm scan **181** opens Story 26 `அபாக்ய சிந்தாமணி`. Do not begin Story 26 in the same activity.
+Scan **181** is already confirmed as the Story 26 opening. Before Story 26 closure, confirm scan **189** opens Story 27 `பாலைவன ரோஜா`. Do not begin Story 27 in the same activity.
