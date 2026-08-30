@@ -31,7 +31,7 @@
 | 23 | `காதல் கடிதம்` | `காதல் கடிதம்` | 152–156 | 161–165 | **Tamil source complete — 5/5 verified; human recheck queue open** — `stories/kadhal-kaditham/` |
 | 24 | `கண்ணடக்கம்` | `கண்ணடக்கம்` | 157–163 | 166–172 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/kannadakkam/` |
 | 25 | `வாழ முடியாதவர்கள்` | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/vazha-mudiyathavargal/` |
-| 26 | `அபாக்ய சிந்தாமணி` | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | registered — not transcribed |
+| 26 | `அபாக்ய சிந்தாமணி` | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/abagya-chinthamani/` |
 | 27 | `பாலைவன ரோஜா` | `பாலைவன ரோஜா` | 180–184 | 189–193 | registered — not transcribed |
 | 28 | `புரட்சிப்படம்` | `புரட்சிப் படம்` | 185–189 | 194–198 | registered — not transcribed; **source-title variance** |
 | 29 | `திடுக்கிடும் கதை` | `திடுக்கிடும் கதை` | 190–195 | 199–204 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **25 / 37**
-- not yet transcribed: **12 / 37**
+- Tamil source processing complete: **26 / 37**
+- not yet transcribed: **11 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 25 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 26 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 26 — **`அபாக்ய சிந்தாமணி`**:
+Story 27 — **`பாலைவன ரோஜா`**:
 
-- printed pages **172–179**
-- anthology scans **181–188**
+- printed pages **180–184**
+- anthology scans **189–193**
 
-Scan **181** is already confirmed as Story 26's opening. Before closure, visually confirm scan **189** begins Story 27 `பாலைவன ரோஜா`. Do not create or transcribe Story 27 in the same activity.
+Scan **189** is already confirmed as Story 27's opening. Before closure, visually confirm scan **194** begins Story 28 with opening heading `புரட்சிப் படம்` (TOC title `புரட்சிப்படம்`). Do not create or transcribe Story 28 in the same activity.
