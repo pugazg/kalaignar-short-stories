@@ -33,6 +33,8 @@ Source PDF repository-க்குள் commit செய்யப்படா�
 - scan condition;
 - handwritten notes, library stamps, accession marks, bleed-through, illustrations, advertisements போன்ற anomalies.
 
+Generated page renders, crops, enhancement intermediates போன்ற source-inspection artefacts-ஐயும் repository-க்கு commit செய்யக்கூடாது unless a future explicit archival policy says otherwise.
+
 ## 3. ஒவ்வொரு சிறுகதைக்கும் அமைப்பு
 
 ```text
@@ -51,6 +53,7 @@ stories/<story>/
 
 ```text
   audit.md
+  POSSIBLE_ERRORS_FOR_REVIEW.md
   translations/en/
   TRANSLATION_REVIEW.md
   HANDOVER.md
@@ -60,7 +63,7 @@ stories/<story>/
 
 ஒவ்வொரு scan page-க்கும் Markdown record கட்டாயம் — cover, review, preface, body text, contents/advertisement, blank page, back cover அனைத்தும் உட்பட.
 
-Front matter:
+Front matter example:
 
 ```yaml
 ---
@@ -117,7 +120,7 @@ Image enhancement ஒரு plausible word அல்லது short fragment-ஐ
 2. enhanced crop-ல் கண்ட fragment, left/right neighbouring words மற்றும் line continuation-க்கு எழுத்துருவாரியாக பொருந்துகிறதா பார்க்கவும்;
 3. crop processing உருவாக்கிய artificial joins/splits உள்ளதா original pixels-ோடு ஒப்பிடு;
 4. user ஒரு நீளமான exact reading கொடுத்தால், அதில் உள்ள ஒவ்வொரு recoverable word-ஐ source span-க்கு எதிராகச் சரிபார்; முன்பு `verified` செய்யப்பட்ட reading-ஐயும் தேவையானால் reopen செய்;
-5. ஒரு short fragment-ஐ தீர்த்ததால் முழு sentence தீர்ந்துவிட்டதாகக் கருதக்கூடாது—stamp/mark கடக்கும் **முழு sentence path** ஆய்வு செய்யப்பட வேண்டும்;
+5. ஒரு short fragment-ஐ தீர்த்ததால் முழு sentence தீர்ந்துவிட்டதாகக் கருதக்கூடாது — stamp/mark கடக்கும் **முழு sentence path** ஆய்வு செய்யப்பட வேண்டும்;
 6. ஒரு later correction பழைய `verified` reading தவறு என நிரூபித்தால், page record மட்டும் அல்லாமல் Tamil assembly, English translation, source map, audit, review/report files அனைத்தையும் resynchronize செய்;
 7. audit note-ல் **what was previously read, what replaced it, and why the earlier verification failed** என்பதைக் குறிப்பிடு.
 
@@ -144,6 +147,7 @@ Image enhancement ஒரு plausible word அல்லது short fragment-ஐ
 - front-matter reviews, publisher notes, author notes ஆகியவை story body-யுடன் கலக்கப்படக்கூடாது; அவற்றின் source position தனியாகப் பாதுகாக்கப்பட வேண்டும்.
 - story முடிந்த பின் உள்ள publisher catalogue / commercial advertisements கூட scan publication-ன் physical record ஆக page-level-ல் பதிவு செய்யப்பட வேண்டும்; அவை story body அல்ல என்பது metadata-வில் தெளிவாக இருக்க வேண்டும்.
 - story text-க்கு `blocked` marker வந்தவுடன் அடுத்த batch-க்கு இயந்திரமாக நகராமல், மேலுள்ள exhaustive resolution protocol-ஐ முதலில் இயக்க வேண்டும்.
+- `POSSIBLE_ERRORS_FOR_REVIEW.md` என்பது **human review queue** மட்டுமே. அதில் entry இருப்பது confirmed error அல்லது page status downgrade என்று பொருள் கொள்ளக்கூடாது.
 
 ## 7. Batch workflow
 
@@ -156,7 +160,9 @@ Image enhancement ஒரு plausible word அல்லது short fragment-ஐ
 7. தெளிவில்லாதவை முதலில் `partial` அல்லது `needs-review` ஆக வைத்திருந்து exhaustive resolution protocol-க்கு அனுப்பு; story text-ல் `blocked` status-ஐ shortcut ஆகப் பயன்படுத்தக்கூடாது.
 8. batch முடிந்ததும் story README மற்றும் root `HANDOVER.md` புதுப்பி.
 9. direct visual comparison + தேவையான exhaustive escalation + full-span sanity check முடிந்த பின் மட்டும் page status `verified` ஆக மாற்று.
-10. முழு தமிழ் source audit முடியும் வரை English translation தொடங்கக்கூடாது.
+10. எல்லா physical page boundaries-யும் முன்னும் பின்னும் பார்த்து omitted/duplicated text இல்லை என்று உறுதி செய்.
+11. next-story opening page-ஐ boundary witness ஆக inspect செய்; அந்த next-story text-ஐ current story-க்கு சேர்க்காதே.
+12. முழு தமிழ் source audit முடியும் வரை English translation தொடங்கக்கூடாது.
 
 ## 8. Source-page marker
 
@@ -178,14 +184,16 @@ Translation தொடங்குவதற்கு முன்:
 4. page-map மற்றும் story README status ஒன்றோடொன்று பொருந்த வேண்டும்;
 5. source text-ஐ silently modernize/correct செய்யாதது உறுதிப்படுத்தப்பட வேண்டும்;
 6. secondary witness பயன்படுத்தப்பட்ட இடமெல்லாம் provenance மற்றும் source-vs-witness distinction audit note-ல் இருக்க வேண்டும்;
-7. difficult readings-க்கு isolated-fragment confidence அல்ல, complete phrase/clause/sentence source-span confidence உறுதி செய்யப்பட்டிருக்க வேண்டும்.
+7. difficult readings-க்கு isolated-fragment confidence அல்ல, complete phrase/clause/sentence source-span confidence உறுதி செய்யப்பட்டிருக்க வேண்டும்;
+8. physical boundary checks மற்றும் next-story exclusion audit-ல் தெளிவாக இருக்க வேண்டும்.
 
 ## 10. Git / handover நடைமுறை
 
 - narrow, descriptive commits செய்யவும்;
 - ஒவ்வொரு batch-க்கும் repository/story status புதுப்பிக்கவும்;
 - `HANDOVER.md`-ல் branch, current state, source identity/checksum, completed pages, unresolved items, next exact action பதிவு செய்யவும்;
-- source PDF repository-க்கு push செய்யக்கூடாது.
+- `NEXT_CHAT_PROMPT.md`-ஐ மற்றொரு chat நேரடியாக paste செய்து resume செய்யும் அளவுக்கு self-contained ஆக வைத்திருக்கவும்;
+- source PDF, renders, crops repository-க்கு push செய்யக்கூடாது.
 
 ## 11. Cross-chat continuation protocol
 
@@ -204,4 +212,53 @@ Translation தொடங்குவதற்கு முன்:
 9. controlling source scan புதிய chat-ல் கிடைக்கவில்லை என்றால் story transcription/verification-ஐ guess செய்து தொடரக்கூடாது. Source-ஐ மீண்டும் attach/resolve செய்த பிறகே source-dependent work செய்யவும்;
 10. ஒவ்வொரு completed story/activity-க்கும் downstream control files-ஐ synchronize செய்த பின் `NEXT_CHAT_PROMPT.md`-ஐ அடுத்த exact activity-க்கு advance செய்யவும்.
 
-**Cross-chat invariant:** repository files—not memory of an earlier chat—are the durable project state.
+## 12. Durable Git state and closure verification — mandatory
+
+Cross-chat work-ல் **prepared** என்பதும் **durable** என்பதும் ஒன்றல்ல.
+
+### Durable-state definition
+
+கீழ்கண்டவை தனியாக durable project state அல்ல:
+
+- chat memory / assistant summary;
+- container/local files;
+- prepared Markdown not yet written to GitHub;
+- Git blobs or trees that exist but are not reachable from the live branch;
+- a commit object that has been created but to which `main` has not been moved.
+
+**Only content reachable from live GitHub `main` counts as durable project state.**
+
+### Before declaring a story/activity complete
+
+1. write/commit the canonical workspace;
+2. ensure the live branch ref actually points to a commit containing that workspace;
+3. synchronize every required downstream control file (for anthology work: story inventory, collection README, root README, scan map, HANDOVER and NEXT_CHAT_PROMPT unless the handover explicitly records a partial-closure state);
+4. re-fetch live `main` after the write;
+5. re-fetch enough key files to prove the workspace and control state are reachable;
+6. only then announce fully synchronized progress or advance the next exact story.
+
+### If a chat stops in the middle of closure
+
+`HANDOVER.md` and `NEXT_CHAT_PROMPT.md` must explicitly distinguish among:
+
+- **prepared but uncommitted**;
+- **workspace committed, downstream controls pending**;
+- **fully synchronized and closed**.
+
+If the state is `workspace committed, downstream controls pending`, the next exact activity is **closure synchronization**, not transcription of the next story. The next chat must not repeat already verified source work simply because stale counters have not yet been updated.
+
+If only unreferenced Git objects/local files exist, the next chat must not assume them durable; it must inspect live `main` and either safely commit/reconstruct them from source evidence or continue from the actual branch state.
+
+### Final post-write check
+
+After every closure/handover write, re-fetch:
+
+- live branch HEAD;
+- the latest story README/audit or equivalent completion record;
+- `HANDOVER.md`;
+- `NEXT_CHAT_PROMPT.md`;
+- anthology progress controls when applicable.
+
+If these disagree, record the mismatch explicitly and make synchronization—not the next story—the next exact activity.
+
+**Cross-chat invariant:** repository files reachable from live `main` — not memory, local preparation, or unreferenced Git objects — are the durable project state.
