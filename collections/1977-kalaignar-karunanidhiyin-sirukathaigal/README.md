@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **29 / 37**
-- not yet transcribed: **8 / 37**
+- Tamil source processing complete: **30 / 37**
+- not yet transcribed: **7 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -56,10 +56,11 @@ Completed from this collection:
 27. `பாலைவன ரோஜா` — workspace [`../../stories/palaivana-roja/`](../../stories/palaivana-roja/) — printed **180–184**, scans **189–193**, **5/5 verified**, 0 blocked, audit PASS.
 28. `புரட்சிப் படம்` — TOC `புரட்சிப்படம்`, workspace [`../../stories/puratchip-padam/`](../../stories/puratchip-padam/) — printed **185–189**, scans **194–198**, **5/5 verified**, 0 blocked, audit PASS.
 29. `திடுக்கிடும் கதை` — workspace [`../../stories/thidukkidum-kathai/`](../../stories/thidukkidum-kathai/) — printed **190–195**, scans **199–204**, **6/6 verified**, 0 blocked, audit PASS.
+30. `கடைசிக் கட்டம்` — workspace [`../../stories/kadaisi-kattam/`](../../stories/kadaisi-kattam/) — printed **196–201**, scans **205–210**, **6/6 verified**, 0 blocked, audit PASS.
 
-All twenty-nine have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All thirty have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `திடுக்கிடும் கதை`, scan **205** was visually confirmed as the next-story opening `கடைசிக் கட்டம்`.
+For `கடைசிக் கட்டம்`, scan **211** was visually confirmed as the next-story opening `அய்யோ ராஜா!`.
 
 ## Source-title differences
 
@@ -81,9 +82,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 30 **`கடைசிக் கட்டம்`**:
+Process Story 31 **`அய்யோ ராஜா!`**:
 
-- printed pages **196–201**
-- anthology scans **205–210**
+- printed pages **202–208**
+- anthology scans **211–217**
 
-Scan **205** is already confirmed as Story 30's opening. Before Story 30 closure, confirm scan **211** opens Story 31 `அய்யோ ராஜா!`. Do not begin Story 31 in the same activity.
+Scan **211** is already confirmed as Story 31's opening. Before Story 31 closure, confirm scan **218** opens Story 32 `விஷம் இனிது`. Do not begin Story 32 in the same activity.
