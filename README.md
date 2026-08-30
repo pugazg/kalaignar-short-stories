@@ -46,6 +46,7 @@ Permanent guides:
 | [`தொத்துக்கிளி`](stories/thothukkili/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`காதல் கடிதம்`](stories/kadhal-kaditham/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`கண்ணடக்கம்`](stories/kannadakkam/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`வாழ முடியாதவர்கள்`](stories/vazha-mudiyathavargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -69,8 +70,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **24 / 37**
-- anthology stories not yet transcribed: **13 / 37**
+- Tamil source processing complete from anthology: **25 / 37**
+- anthology stories not yet transcribed: **12 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -101,20 +102,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 22. **தொத்துக்கிளி** — printed **147–151**, scans **156–160**, **5/5 verified**, audit PASS.
 23. **காதல் கடிதம்** — printed **152–156**, scans **161–165**, **5/5 verified**, audit PASS.
 24. **கண்ணடக்கம்** — printed **157–163**, scans **166–172**, **7/7 verified**, audit PASS.
+25. **வாழ முடியாதவர்கள்** — printed **164–171**, scans **173–180**, **8/8 verified**, audit PASS.
 
-All twenty-four have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All twenty-five have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 24 — கண்ணடக்கம்
+### Story 25 — வாழ முடியாதவர்கள்
 
-Canonical workspace: [`stories/kannadakkam/`](stories/kannadakkam/README.md)
+Canonical workspace: [`stories/vazha-mudiyathavargal/`](stories/vazha-mudiyathavargal/README.md)
 
-- printed pages **157–163**
-- PDF scans **166–172**
-- page records: **7 / 7 verified**
+- printed pages **164–171**
+- PDF scans **173–180**
+- page records: **8 / 8 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **173** confirmed as next-story opening `வாழ முடியாதவர்கள்`
+- scan **181** confirmed as next-story opening `அபாக்ய சிந்தாமணி`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -124,9 +126,9 @@ Canonical workspace: [`stories/kannadakkam/`](stories/kannadakkam/README.md)
 
 ## Next exact activity
 
-Process anthology Story **25 — `வாழ முடியாதவர்கள்`** only:
+Process anthology Story **26 — `அபாக்ய சிந்தாமணி`** only:
 
-- printed pages **164–171**
-- PDF scans **173–180**
+- printed pages **172–179**
+- PDF scans **181–188**
 
-Scan **173** is already visually confirmed as Story 25's opening. Before Story 25 closure, visually confirm scan **181** begins Story 26 `அபாக்ய சிந்தாமணி`. Complete Story 25 only; do not begin Story 26 in the same activity.
+Scan **181** is already visually confirmed as Story 26's opening. Before Story 26 closure, visually confirm scan **189** begins Story 27 `பாலைவன ரோஜா`. Complete Story 26 only; do not begin Story 27 in the same activity.
