@@ -30,21 +30,22 @@ Read completely before making project changes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect `stories/pretha-visaranai/`, especially its README, metadata/source.md, indexes/page-map.md, audit.md, six page records, assembled Tamil and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+Then inspect the latest completed Story 19 workspace `stories/pretha-visaranai/` as the immediate structural reference. Do not copy its story wording into Story 20.
 
-## AUTHORITATIVE STORY-WORKSPACE STATE
+## FULLY SYNCHRONIZED DURABLE STATE
 
-Story 19 — **`பிரேத விசாரணை`** — source work is already complete and committed.
+Stories **1–19** are fully closed and synchronized into root/collection progress controls.
 
-Story-workspace checkpoint:
+Anthology status:
 
-`d12bb38dc45627b7d5ba9edcf1f780892907b025`
+- registered stories: **37 / 37**;
+- Tamil source processing complete: **19 / 37**;
+- remaining unprocessed stories: **18**;
+- English translation started from anthology: **0 / 37**.
 
-Commit message:
+Story 19 — **`பிரேத விசாரணை`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
 
-`Complete Story 19 Pretha Visaranai workspace`
-
-Canonical workspace:
+Story 19 canonical workspace:
 
 `stories/pretha-visaranai/`
 
@@ -61,71 +62,43 @@ Story 19 state:
 - persistent human possible-error queue present;
 - English translation not started.
 
-Boundary checks are already complete:
+Boundary checks already completed:
 
 - scan **140** opens `பிரேத விசாரணை`;
 - scan **145** closes Story 19 with its final paragraph and ornament;
 - scan **146** opens Story 20 `கண்டதும் காதல் ஒழிக!`;
 - no Story 20 text is included in Story 19.
 
-Verified physical continuations include:
-
-- scans 140→141 / printed 131→132: `...சாவிக் கொத்தை எடுத்து விரலில்` → `சுழற்றிக்கொண்டே நகர ஆரம்பித்தார் நாயுடுகாரு.`;
-- scans 142→143 / printed 133→134: `...‘ஆம்படையா—’ அவதி தாங்க` → `மாட்டாமல் அனலிடைப் புழுப்போல்...`.
-
-The other boundaries were also checked with no omission or duplication.
-
-**Do not re-transcribe or re-audit Story 19 unless live GitHub reveals an actual inconsistency or the user provides new correction evidence.**
-
-## KNOWN PARTIAL-CLOSURE STATE
-
-The Story 19 workspace is durable on `main`, but the Story 19 workspace commit did not synchronize all collection/root progress controls.
-
-The following files may still say **18 / 37 complete** and may still identify Story 19 as next:
-
-- root `README.md`;
-- `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md`;
-- collection `indexes/story-inventory.md`;
-- collection `indexes/scan-map.md`.
-
-This is known synchronization debt. It does **not** mean Story 19 source work is unfinished.
-
-Current semantic state before synchronization:
-
-- committed canonical story workspaces complete: **19 / 37**;
-- downstream collection/root counters: may still show **18 / 37**;
-- unprocessed anthology stories after Story 19: **18**.
-
-## NEXT EXACT ACTIVITY — CLOSURE SYNCHRONIZATION ONLY
+## NEXT EXACT ACTIVITY — STORY 20 SOURCE WORK ONLY
 
 Execute this directly when I say **“Proceed with next activity”**. Do not ask me to choose a routine next step.
 
-1. Fetch live `main` again and confirm `stories/pretha-visaranai/` is present and complete.
-2. **Do not redo Story 19 transcription or visual verification.**
-3. Synchronize:
-   - root `README.md`;
-   - collection `README.md`;
-   - collection `indexes/story-inventory.md`;
-   - collection `indexes/scan-map.md`.
-4. Change anthology progress to **19 / 37 Tamil source passes complete, 18 remaining**.
-5. Mark Story 19 `பிரேத விசாரணை` as complete: printed **131–136**, scans **140–145**, 6/6 verified, 0 blocked, audit PASS.
-6. Advance those controls to Story 20 **`கண்டதும் காதல் ஒழிக!`** as the next source activity.
-7. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after the synchronization so all durable files agree.
-8. Re-fetch live `main` plus the changed controls and verify they are reachable from the branch before declaring closure.
-9. **Do not start Story 20 transcription in this same closure-synchronization activity.**
-
-Expected result after this activity: **19 / 37 fully synchronized complete, 18 remaining**.
-
-## STORY 20 — FOLLOWING ACTIVITY, NOT YET STARTED
-
 Story 20 — **`கண்டதும் காதல் ஒழிக!`**:
 
-- printed pages: **137–141**
-- anthology scans: **146–150**
-- scan **146** has already been visually confirmed as its opening while closing Story 19;
+- printed pages **137–141**;
+- anthology scans **146–150**;
+- scan **146** is already visually confirmed as the Story 20 opening;
 - before Story 20 closure, visually inspect scan **151** and confirm it begins Story 21 **`ஆலமரத்துப் புறாக்கள்`**;
 - do not include scan-151 Story 21 text in Story 20.
 
-The supplied scan remains the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
+Required activity:
+
+1. Fetch live `main` again and preserve newer work if present.
+2. Confirm there is no existing matching canonical Story 20 workspace requiring deduplication or additional-witness handling.
+3. Use the controlling PDF for Story 20 scans **146–150** only.
+4. Create/process the Story 20 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
+5. Preserve source spelling, punctuation, paragraphing, names, historical forms and anomalies exactly; do not silently normalize.
+6. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
+7. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
+8. Confirm scan **151** is the Story 21 opening boundary witness before Story 20 closure.
+9. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 20 is fully complete.
+10. Re-fetch live `main` plus changed controls before declaring Story 20 closed.
+11. **Do not start Story 21 in the same activity.**
+
+Expected result after Story 20 closure: **20 / 37 fully synchronized complete, 17 remaining**.
+
+## CONTROLLING-SOURCE RULES
+
+The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
 
 ---
