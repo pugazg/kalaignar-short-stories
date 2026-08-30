@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **16 / 37**
-- not yet transcribed: **21 / 37**
+- Tamil source processing complete: **17 / 37**
+- not yet transcribed: **20 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -43,10 +43,11 @@ Completed from this collection:
 14. `முந்நூறு ரூபாய்` — printed **103–105**, scans **112–114**, **3/3 verified**, audit PASS.
 15. `ஏழை` — printed **106–109**, scans **115–118**, **4/4 verified**, audit PASS.
 16. `ஒரிஜினலில் உள்ளபடி` — workspace [`../../stories/originalil-ullapadi/`](../../stories/originalil-ullapadi/) — printed **110–116**, scans **119–125**, **7/7 verified**, 0 blocked, audit PASS.
+17. `பனங்குலை` — workspace [`../../stories/panangulai/`](../../stories/panangulai/) — printed **117–121**, scans **126–130**, **5/5 verified**, 0 blocked, audit PASS.
 
-All sixteen have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All seventeen have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `ஒரிஜினலில் உள்ளபடி`, scan **126** was visually confirmed as the next-story opening `பனங்குலை`.
+For `பனங்குலை`, scan **131** was visually confirmed as the next-story opening `செத்தவள் கதை`.
 
 ## Source-title differences
 
@@ -68,9 +69,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 17 **`பனங்குலை`**:
+Process Story 18 **`செத்தவள் கதை`**:
 
-- printed pages **117–121**
-- anthology scans **126–130**
+- printed pages **122–130**
+- anthology scans **131–139**
 
-Confirm scan **126** opens Story 17, scan **130** closes it, and scan **131** opens Story 18 `செத்தவள் கதை`. Do not begin Story 18 in the same activity.
+Confirm scan **131** opens Story 18, scan **139** closes it, and scan **140** opens Story 19 `பிரேத விசாரணை`. Do not begin Story 19 in the same activity.
