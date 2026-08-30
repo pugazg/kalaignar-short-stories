@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **24/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **25/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -44,7 +44,7 @@
 | 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **complete — 5/5 verified** |
 | 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **complete — 5/5 verified** |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **complete — 7/7 verified** |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | not started |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **complete — 8/8 verified** |
 | 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | not started |
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | not started |
 | 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–24, scans **10–172**. Story 24 `கண்ணடக்கம்` is complete for scans **166–172 / printed pages 157–163**, with **7/7 verified**, 0 blocked and 0 unresolved story text. Scan **173 / printed page 164** was visually confirmed as the opening of Story 25 `வாழ முடியாதவர்கள்` while closing the Story 24 boundary.
+Completed Tamil source passes are Stories 1–25, scans **10–180**. Story 25 `வாழ முடியாதவர்கள்` is complete for scans **173–180 / printed pages 164–171**, with **8/8 verified**, 0 blocked and 0 unresolved story text. Scan **181 / printed page 172** was visually confirmed as the opening of Story 26 `அபாக்ய சிந்தாமணி` while closing the Story 25 boundary.
 
-Next active source range: **Story 25 `வாழ முடியாதவர்கள்`, scans 173–180 / printed pages 164–171**. Its ending must be checked against scan **181**, which should begin Story 26 `அபாக்ய சிந்தாமணி`.
+Next active source range: **Story 26 `அபாக்ய சிந்தாமணி`, scans 181–188 / printed pages 172–179**. Its ending must be checked against scan **189**, which should begin Story 27 `பாலைவன ரோஜா`.
 
 ## Per-story page-record policy
 
