@@ -54,26 +54,26 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **26 / 37**
-- remaining unprocessed anthology stories: **11 / 37**
+- Tamil source processing complete: **27 / 37**
+- remaining unprocessed anthology stories: **10 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–26** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
+Stories **1–27** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
 
-Story 26 workspace checkpoint:
+Story 27 workspace checkpoint:
 
-`360bca5cdaf5c5f7ace0e3eb14be23700b4ec23b` — `Complete Story 26 canonical workspace`
+`03a6c287886ce6dca1ccd3d925459a62cbdb0e4c` — `Complete Story 27 canonical workspace`
 
-### Story 26 — `அபாக்ய சிந்தாமணி` — FULLY CLOSED
+### Story 27 — `பாலைவன ரோஜா` — FULLY CLOSED
 
-Canonical workspace: `stories/abagya-chinthamani/`
+Canonical workspace: `stories/palaivana-roja/`
 
-- printed pages: **172–179**
-- anthology scans: **181–188**
-- page records: **8 / 8**
-- verified: **8 / 8**
+- printed pages: **180–184**
+- anthology scans: **189–193**
+- page records: **5 / 5**
+- verified: **5 / 5**
 - needs-review status pages: **0**
 - blocked: **0**
 - unresolved story text: **0**
@@ -84,54 +84,53 @@ Canonical workspace: `stories/abagya-chinthamani/`
 
 Boundary / continuation checks completed during source work:
 
-- scan **181** opens `அபாக்ய சிந்தாமணி`;
-- scans 181→182 were directly checked with no omitted or duplicated text;
-- printed 173→174 / scans 182→183: `...சிந்தாமணிக்குப்` → `பத்து வயது நிரம்பியபோது...`;
-- printed 174→175 / scans 183→184: `...அடுத்த படியிலே காலே` → `அழுத்தமாக ஊன்றி...`;
-- printed 175→176 / scans 184→185: `...உங்களிடம், அதை` → `வேறு நினைவுபடுத்திப்...`;
-- scans 185→186 and 186→187 were directly checked with no omission or duplication;
-- printed 178→179 / scans 187→188: `...அதற்` → `காகவே...`;
-- scan **188** contains Story 26's final paragraph and closing ornament;
-- scan **189** opens Story 27 `பாலைவன ரோஜா`;
-- no Story 27 text is included in Story 26.
+- scan **189** opens `பாலைவன ரோஜா`;
+- scans **189→190** were directly checked: scan 189 closes `...திகழ்ந்தான் கந்தையா.` and scan 190 begins a new quotation, with no omitted or duplicated text;
+- scans **190→191** were directly checked: scan 190 closes `...அவர்கள் எதிர்காலம்.` and scan 191 opens `பாவம்!`, with no omission or duplication;
+- printed **182→183** / scans **191→192**: `...அவர்கள்` → `எல்லாருமே இப்போது குமாஸ்தாக்கள்”`;
+- printed **183→184** / scans **192→193**: `...குன்றென உலவு` → `கிறான்.`;
+- scan **193** contains Story 27's final paragraph and closing ornament;
+- scan **194** opens Story 28 with heading `புரட்சிப் படம்`;
+- Story 28's printed TOC title is `புரட்சிப்படம்`; that source-title variance is preserved;
+- no Story 28 text is included in Story 27.
 
-A final closure recheck corrected several earlier page readings directly from the native scan before release: `காற்றுல்` → `காற்றில்`, `பிற்காக்களைப்` → `பிர்க்காக்களைப்`, `மனுஷனையிருக்கும்` → `மனுஷனாயிருக்கும்`, `நாலொரு` → `நாளொரு`, `தண்டுமாக` → `கண்டமுமாக`, `கவமடைந்தேன்` → `கர்வமடைந்தேன்`, `பாலைப் பாஷாணம்` → `பாலப் பாஷாணம்`, `தன்னுள்` → `தன்னால்`, and `எண்ணியிருந்திருன்` → `எண்ணியிருக்கிறான்`. These corrections are synchronized in the page records, metadata, Tamil assembly, audit and review queue.
+High-value source-close forms retained in `stories/palaivana-roja/POSSIBLE_ERRORS_FOR_REVIEW.md` include `ஜாக்கையை`, `படை யெடுக்கும்`, `மேடனிக் காட்சி`, `வசிஷ்ட மண்டலமென`, `பெர்ணட்ஷாவைப்`, `இங்கர்சாலைக்`, `துதிபாடி`, `‘பெஞ்சி’லே`, `‘ஈன்ஸ்டினின் தியரி’`, `மாறுத புகழ்`, `மாசமருவின்றித்`, `மாயமாலக்காரி`, `கந்தையாக்கள்`, `அறிஞனைத் திகழ்வான்`, `கூட்டாளிகெல்லாம்`, `அத்திம்பேர்`, `செக்ரெட்டரியெட்டில்`, `கவிதா சிரோன்மணி`, `இஞ்சினீயர்`, `வெள்ளெருக்கை`, `மாசுபடிந்த`, and `கண்—நீர்தான்`. Source-sensitive readings remain in the later human-recheck queue without changing verified page status.
 
-High-value source-close forms retained in `stories/abagya-chinthamani/POSSIBLE_ERRORS_FOR_REVIEW.md` include `பன்னிராட்டைப் பிராயத்துப்`, `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `பிச்சைபுகினும்`, `பிர்க்காக்களைப்`, `அபாக்கிய சிந்தாமணி`, `பத்து வயதுப் பசலையின்`, `வசைமாரி`, `பாலப் பாஷாணம்`, `மடிப்பிச்சை`, `புலம்பினர்கள்`, `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை`, `விபச்சாரியாக வாவது`, `இறங்கினள்`, `அவன் எண்ணியிருக்கிறான்`, `போஷாக்கில்லாத`, and `பிரதி பலிப்பு`. Source-sensitive readings remain in the later human-recheck queue without changing verified page status.
+The root README, collection README, collection story inventory and collection scan map are synchronized to Story 27 completion: **27 / 37 complete, 10 remaining**.
 
-The root README, collection README, collection story inventory and collection scan map are synchronized to Story 26 completion: **26 / 37 complete, 11 remaining**.
+## NEXT EXACT ACTIVITY — STORY 28 SOURCE WORK ONLY
 
-## NEXT EXACT ACTIVITY — STORY 27 SOURCE WORK ONLY
+Story 28 has a source-title variance:
 
-Story 27 — **`பாலைவன ரோஜா`**:
-
-- printed pages: **180–184**
-- anthology scans: **189–193**
-- scan **189** is already visually confirmed as its opening while closing Story 26;
-- before Story 27 closure, inspect scan **194** and confirm it begins Story 28 with opening heading **`புரட்சிப் படம்`**;
-- Story 28's TOC title is **`புரட்சிப்படம்`**; preserve that source-title variance;
-- do not include scan-194 Story 28 text in Story 27.
+- printed TOC title: **`புரட்சிப்படம்`**;
+- story-opening heading: **`புரட்சிப் படம்`**;
+- printed pages: **185–189**;
+- anthology scans: **194–198**;
+- scan **194** is already visually confirmed as its opening while closing Story 27;
+- before Story 28 closure, inspect scan **199** and confirm it begins Story 29 **`திடுக்கிடும் கதை`**;
+- preserve both Story 28 title forms and do not silently normalize them;
+- do not include scan-199 Story 29 text in Story 28.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 27 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 27 scans **189–193** only;
-4. create/process the canonical Story 27 workspace under the permanent guides;
+2. confirm no existing matching canonical Story 28 workspace under either `புரட்சிப்படம்` or `புரட்சிப் படம்` needs deduplication/additional-witness handling;
+3. use the controlling PDF for Story 28 scans **194–198** only;
+4. create/process the canonical Story 28 workspace under the permanent guides, explicitly documenting the TOC/opening-heading variance;
 5. complete direct visual/full-span verification and physical boundary checks;
-6. confirm scan **194** is the Story 28 opening boundary witness with heading `புரட்சிப் படம்`;
-7. synchronize Story 27 into all downstream anthology/root controls;
-8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 28 only after Story 27 is fully closed;
-9. do **not** start Story 28 in the same activity.
+6. confirm scan **199** is the Story 29 opening boundary witness `திடுக்கிடும் கதை`;
+7. synchronize Story 28 into all downstream anthology/root controls;
+8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 29 only after Story 28 is fully closed;
+9. do **not** start Story 29 in the same activity.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 26.**
+**FULLY SYNCHRONIZED THROUGH STORY 27.**
 
-- Tamil source passes complete: **26 / 37**
-- remaining: **11**
-- next exact story: **27 — `பாலைவன ரோஜா`**
+- Tamil source passes complete: **27 / 37**
+- remaining: **10**
+- next exact story: **28 — TOC `புரட்சிப்படம்`, opening `புரட்சிப் படம்`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 27 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 28 source work after mandatory startup and controlling-source resolution.
