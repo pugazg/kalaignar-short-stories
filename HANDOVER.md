@@ -54,24 +54,24 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **25 / 37**
-- remaining unprocessed anthology stories: **12 / 37**
+- Tamil source processing complete: **26 / 37**
+- remaining unprocessed anthology stories: **11 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–25** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
+Stories **1–26** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
 
-Story 25 workspace checkpoint:
+Story 26 workspace checkpoint:
 
-`2c0a2d528a6c3bcb70b440d4e27288b2ab0b4bfd` — `Complete Story 25 canonical workspace`
+`360bca5cdaf5c5f7ace0e3eb14be23700b4ec23b` — `Complete Story 26 canonical workspace`
 
-### Story 25 — `வாழ முடியாதவர்கள்` — FULLY CLOSED
+### Story 26 — `அபாக்ய சிந்தாமணி` — FULLY CLOSED
 
-Canonical workspace: `stories/vazha-mudiyathavargal/`
+Canonical workspace: `stories/abagya-chinthamani/`
 
-- printed pages: **164–171**
-- anthology scans: **173–180**
+- printed pages: **172–179**
+- anthology scans: **181–188**
 - page records: **8 / 8**
 - verified: **8 / 8**
 - needs-review status pages: **0**
@@ -84,51 +84,54 @@ Canonical workspace: `stories/vazha-mudiyathavargal/`
 
 Boundary / continuation checks completed during source work:
 
-- scan **173** opens `வாழ முடியாதவர்கள்`;
-- scans 173→174 and 174→175 were directly checked with no omitted or duplicated text;
-- scans 175→176: `...உட்கார்ந்திருந்த அவனிடம்,` → `வான வெளியில்...`;
-- printed 167→168 / scans 176→177: `...பருவ` → `மடைந்து...`;
-- printed 168→169 / scans 177→178: `...பவளக் கட்டி` → `யும்,...`;
-- printed 169→170 / scans 178→179: `...எடுத்துக்` → `காட்டிற்று.`;
-- scans 179→180 were directly checked with no omission or duplication;
-- scan **180** contains Story 25's final paragraph and closing ornament;
-- scan **181** opens Story 26 `அபாக்ய சிந்தாமணி`;
-- no Story 26 text is included in Story 25.
+- scan **181** opens `அபாக்ய சிந்தாமணி`;
+- scans 181→182 were directly checked with no omitted or duplicated text;
+- printed 173→174 / scans 182→183: `...சிந்தாமணிக்குப்` → `பத்து வயது நிரம்பியபோது...`;
+- printed 174→175 / scans 183→184: `...அடுத்த படியிலே காலே` → `அழுத்தமாக ஊன்றி...`;
+- printed 175→176 / scans 184→185: `...உங்களிடம், அதை` → `வேறு நினைவுபடுத்திப்...`;
+- scans 185→186 and 186→187 were directly checked with no omission or duplication;
+- printed 178→179 / scans 187→188: `...அதற்` → `காகவே...`;
+- scan **188** contains Story 26's final paragraph and closing ornament;
+- scan **189** opens Story 27 `பாலைவன ரோஜா`;
+- no Story 27 text is included in Story 26.
 
-High-value source-close forms are retained in `stories/vazha-mudiyathavargal/POSSIBLE_ERRORS_FOR_REVIEW.md`, including `கம்ப ரசம்`, `கேட்கிறயா`, `பரவாயில்ல`, `பிடித்தமில்லே`, `கவாட்டா`, `‘காலேஜ் வேடர்’ களும்`, `சிறகை படித்துக் கொண்டன`, `சின்னசாமி`, `ஜீலு ஜீலுப்பைப்`, `கல்யாண எழவா`, `கேட்கவேண்டிய தில்ல`, `‘கிம்பள சான்ஸ்’`, `பெண்ணுல்தான்`, `அகட்டிப்`, `விஷமேறி`, `அழுக்கியது`, `கற்பினைக் பெயரால்`, `தீவிதி` and `தீவிதிக்காளான`. Source-sensitive readings remain in the later human-recheck queue without changing verified page status.
+A final closure recheck corrected several earlier page readings directly from the native scan before release: `காற்றுல்` → `காற்றில்`, `பிற்காக்களைப்` → `பிர்க்காக்களைப்`, `மனுஷனையிருக்கும்` → `மனுஷனாயிருக்கும்`, `நாலொரு` → `நாளொரு`, `தண்டுமாக` → `கண்டமுமாக`, `கவமடைந்தேன்` → `கர்வமடைந்தேன்`, `பாலைப் பாஷாணம்` → `பாலப் பாஷாணம்`, `தன்னுள்` → `தன்னால்`, and `எண்ணியிருந்திருன்` → `எண்ணியிருக்கிறான்`. These corrections are synchronized in the page records, metadata, Tamil assembly, audit and review queue.
 
-The root README, collection README, collection story inventory and collection scan map are synchronized to Story 25 completion: **25 / 37 complete, 12 remaining**.
+High-value source-close forms retained in `stories/abagya-chinthamani/POSSIBLE_ERRORS_FOR_REVIEW.md` include `பன்னிராட்டைப் பிராயத்துப்`, `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `பிச்சைபுகினும்`, `பிர்க்காக்களைப்`, `அபாக்கிய சிந்தாமணி`, `பத்து வயதுப் பசலையின்`, `வசைமாரி`, `பாலப் பாஷாணம்`, `மடிப்பிச்சை`, `புலம்பினர்கள்`, `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை`, `விபச்சாரியாக வாவது`, `இறங்கினள்`, `அவன் எண்ணியிருக்கிறான்`, `போஷாக்கில்லாத`, and `பிரதி பலிப்பு`. Source-sensitive readings remain in the later human-recheck queue without changing verified page status.
 
-## NEXT EXACT ACTIVITY — STORY 26 SOURCE WORK ONLY
+The root README, collection README, collection story inventory and collection scan map are synchronized to Story 26 completion: **26 / 37 complete, 11 remaining**.
 
-Story 26 — **`அபாக்ய சிந்தாமணி`**:
+## NEXT EXACT ACTIVITY — STORY 27 SOURCE WORK ONLY
 
-- printed pages: **172–179**
-- anthology scans: **181–188**
-- scan **181** is already visually confirmed as its opening while closing Story 25;
-- before Story 26 closure, inspect scan **189** and confirm it begins Story 27 **`பாலைவன ரோஜா`**;
-- do not include scan-189 Story 27 text in Story 26.
+Story 27 — **`பாலைவன ரோஜா`**:
+
+- printed pages: **180–184**
+- anthology scans: **189–193**
+- scan **189** is already visually confirmed as its opening while closing Story 26;
+- before Story 27 closure, inspect scan **194** and confirm it begins Story 28 with opening heading **`புரட்சிப் படம்`**;
+- Story 28's TOC title is **`புரட்சிப்படம்`**; preserve that source-title variance;
+- do not include scan-194 Story 28 text in Story 27.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 26 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 26 scans **181–188** only;
-4. create/process the canonical Story 26 workspace under the permanent guides;
+2. confirm no existing matching canonical Story 27 workspace needs deduplication/attachment handling;
+3. use the controlling PDF for Story 27 scans **189–193** only;
+4. create/process the canonical Story 27 workspace under the permanent guides;
 5. complete direct visual/full-span verification and physical boundary checks;
-6. confirm scan **189** is the Story 27 opening boundary witness;
-7. synchronize Story 26 into all downstream anthology/root controls;
-8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 27 only after Story 26 is fully closed;
-9. do **not** start Story 27 in the same activity.
+6. confirm scan **194** is the Story 28 opening boundary witness with heading `புரட்சிப் படம்`;
+7. synchronize Story 27 into all downstream anthology/root controls;
+8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 28 only after Story 27 is fully closed;
+9. do **not** start Story 28 in the same activity.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 25.**
+**FULLY SYNCHRONIZED THROUGH STORY 26.**
 
-- Tamil source passes complete: **25 / 37**
-- remaining: **12**
-- next exact story: **26 — `அபாக்ய சிந்தாமணி`**
+- Tamil source passes complete: **26 / 37**
+- remaining: **11**
+- next exact story: **27 — `பாலைவன ரோஜா`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 26 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 27 source work after mandatory startup and controlling-source resolution.
