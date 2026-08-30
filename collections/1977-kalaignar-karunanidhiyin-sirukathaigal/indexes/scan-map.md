@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **21/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **22/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -41,7 +41,7 @@
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **complete — 6/6 verified** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **complete — 5/5 verified** |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **complete — 5/5 verified** |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | not started |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **complete — 5/5 verified** |
 | 23 | `காதல் கடிதம்` | 152–156 | 161–165 | not started |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | not started |
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–21, scans **10–155**. Story 21 `ஆலமரத்துப் புறாக்கள்` is complete for scans **151–155 / printed pages 142–146**, with **5/5 verified**, 0 blocked and 0 unresolved story text. Scan **156 / printed page 147** was visually confirmed as the opening of Story 22 `தொத்துக்கிளி` while closing the Story 21 boundary.
+Completed Tamil source passes are Stories 1–22, scans **10–160**. Story 22 `தொத்துக்கிளி` is complete for scans **156–160 / printed pages 147–151**, with **5/5 verified**, 0 blocked and 0 unresolved story text. Scan **161 / printed page 152** was visually confirmed as the opening of Story 23 `காதல் கடிதம்` while closing the Story 22 boundary.
 
-Next active source range: **Story 22 `தொத்துக்கிளி`, scans 156–160 / printed pages 147–151**. Its ending must be checked against scan **161**, which should begin Story 23 `காதல் கடிதம்`.
+Next active source range: **Story 23 `காதல் கடிதம்`, scans 161–165 / printed pages 152–156**. Its ending must be checked against scan **166**, which should begin Story 24 `கண்ணடக்கம்`.
 
 ## Per-story page-record policy
 
