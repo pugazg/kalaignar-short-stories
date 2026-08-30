@@ -52,6 +52,7 @@ Permanent guides:
 | [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -75,8 +76,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **30 / 37**
-- anthology stories not yet transcribed: **7 / 37**
+- Tamil source processing complete from anthology: **31 / 37**
+- anthology stories not yet transcribed: **6 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -113,20 +114,22 @@ Exact source metadata, inventory and scan map are under the collection workspace
 28. **புரட்சிப் படம்** — TOC `புரட்சிப்படம்`, printed **185–189**, scans **194–198**, **5/5 verified**, audit PASS.
 29. **திடுக்கிடும் கதை** — printed **190–195**, scans **199–204**, **6/6 verified**, audit PASS.
 30. **கடைசிக் கட்டம்** — printed **196–201**, scans **205–210**, **6/6 verified**, audit PASS.
+31. **அய்யோ ராஜா!** — printed **202–208**, scans **211–217**, **7/7 verified**, audit PASS.
 
-All thirty have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All thirty-one have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 30 — கடைசிக் கட்டம்
+### Story 31 — அய்யோ ராஜா!
 
-Canonical workspace: [`stories/kadaisi-kattam/`](stories/kadaisi-kattam/README.md)
+Canonical workspace: [`stories/ayyo-raja/`](stories/ayyo-raja/README.md)
 
-- printed pages **196–201**
-- PDF scans **205–210**
-- page records: **6 / 6 verified**
+- printed pages **202–208**
+- PDF scans **211–217**
+- page records: **7 / 7 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **211** confirmed as next-story opening `அய்யோ ராஜா!`
+- scan **217** old-glyph reading confirmed as `என்றாள் முத்தம்மா`
+- scan **218** confirmed as next-story opening `விஷம் இனிது`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -136,9 +139,9 @@ Canonical workspace: [`stories/kadaisi-kattam/`](stories/kadaisi-kattam/README.m
 
 ## Next exact activity
 
-Process anthology Story **31 — `அய்யோ ராஜா!`** only:
+Process anthology Story **32 — `விஷம் இனிது`** only:
 
-- printed pages **202–208**
-- PDF scans **211–217**
+- printed pages **209–215**
+- PDF scans **218–224**
 
-Scan **211** is already visually confirmed as Story 31's opening. Before Story 31 closure, visually confirm scan **218** begins Story 32 `விஷம் இனிது`. Complete Story 31 only; do not begin Story 32 in the same activity.
+Scan **218** is already visually confirmed as Story 32's opening. Before Story 32 closure, visually confirm scan **225** begins Story 33 `வேணியின் காதலன்`. Complete Story 32 only; do not begin Story 33 in the same activity.
