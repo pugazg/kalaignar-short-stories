@@ -30,30 +30,30 @@ Read completely before making project changes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect the latest completed Story 30 workspace `stories/kadaisi-kattam/` as the immediate structural reference. Do not copy its story wording into Story 31.
+Then inspect the latest completed Story 31 workspace `stories/ayyo-raja/` as the immediate structural reference. Do not copy its story wording into Story 32.
 
 ## FULLY SYNCHRONIZED DURABLE STATE
 
-Stories **1–30** are fully closed and synchronized into root/collection progress controls.
+Stories **1–31** are fully closed and synchronized into root/collection progress controls.
 
 Anthology status:
 
 - registered stories: **37 / 37**;
-- Tamil source processing complete: **30 / 37**;
-- remaining unprocessed stories: **7**;
+- Tamil source processing complete: **31 / 37**;
+- remaining unprocessed stories: **6**;
 - English translation started from anthology: **0 / 37**.
 
-Story 30 — **`கடைசிக் கட்டம்`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
+Story 31 — **`அய்யோ ராஜா!`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
 
-Story 30 canonical workspace:
+Story 31 canonical workspace:
 
-`stories/kadaisi-kattam/`
+`stories/ayyo-raja/`
 
-Story 30 state:
+Story 31 state:
 
-- printed pages **196–201**;
-- scans **205–210**;
-- **6 / 6 verified**;
+- printed pages **202–208**;
+- scans **211–217**;
+- **7 / 7 verified**;
 - **0 needs-review status pages**;
 - **0 blocked**;
 - **0 unresolved story text**;
@@ -64,41 +64,49 @@ Story 30 state:
 
 Boundary checks already completed:
 
-- scan **205** opens Story 30 `கடைசிக் கட்டம்`;
-- scan **210** closes Story 30 with its final stage-company punchline and ornament;
 - scan **211** opens Story 31 `அய்யோ ராஜா!`;
-- no Story 31 text is included in Story 30.
+- scan **217** closes Story 31 with its final paragraph and ornament;
+- scan **218** opens Story 32 `விஷம் இனிது`;
+- no Story 32 text is included in Story 31.
 
-## NEXT EXACT ACTIVITY — STORY 31 SOURCE WORK ONLY
+Important old-glyph correction now durable:
+
+- scan **217** reads **`என்றாள் முத்தம்மா`**;
+- earlier provisional `என்றுள்` was wrong;
+- the misread came from interpreting the older Tamil `றா` glyph with modern-glyph expectations;
+- the corrected reading is propagated through all Story 31 canonical layers.
+
+## NEXT EXACT ACTIVITY — STORY 32 SOURCE WORK ONLY
 
 Execute this directly when I say **“Proceed with next activity”**. Do not ask me to choose a routine next step.
 
-Story 31 — **`அய்யோ ராஜா!`**:
+Story 32 — **`விஷம் இனிது`**:
 
-- printed pages **202–208**;
-- anthology scans **211–217**;
-- scan **211** is already visually confirmed as the Story 31 opening;
-- before Story 31 closure, visually inspect scan **218** and confirm it begins Story 32 **`விஷம் இனிது`**;
-- do not include scan-218 Story 32 text in Story 31.
+- printed pages **209–215**;
+- anthology scans **218–224**;
+- scan **218** is already visually confirmed as the Story 32 opening;
+- before Story 32 closure, visually inspect scan **225** and confirm it begins Story 33 **`வேணியின் காதலன்`**;
+- do not include scan-225 Story 33 text in Story 32.
 
 Required activity:
 
 1. Fetch live `main` again and preserve newer work if present.
-2. Confirm there is no existing matching canonical Story 31 workspace requiring deduplication or additional-witness handling.
-3. Use the controlling PDF for Story 31 scans **211–217** only.
-4. Create/process the Story 31 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
+2. Confirm there is no existing matching canonical Story 32 workspace requiring deduplication or additional-witness handling.
+3. Use the controlling PDF for Story 32 scans **218–224** only.
+4. Create/process the Story 32 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
 5. Preserve source spelling, punctuation, paragraphing, names, historical forms and anomalies exactly; do not silently normalize.
-6. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
-7. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
-8. Confirm scan **218** is the Story 32 opening boundary witness `விஷம் இனிது`.
-9. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 31 is fully complete.
-10. Re-fetch live `main` plus changed controls before declaring Story 31 closed.
-11. **Do not start Story 32 in the same activity.**
+6. Pay explicit attention to **old Tamil glyph forms**. Do not interpret an older glyph by modern-font appearance alone; compare the full source span and neighboring occurrences before deciding a reading.
+7. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
+8. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
+9. Confirm scan **225** is the Story 33 opening boundary witness `வேணியின் காதலன்`.
+10. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 32 is fully complete.
+11. Re-fetch live `main` plus changed controls before declaring Story 32 closed.
+12. **Do not start Story 33 in the same activity.**
 
-Expected result after Story 31 closure: **31 / 37 fully synchronized complete, 6 remaining**.
+Expected result after Story 32 closure: **32 / 37 fully synchronized complete, 5 remaining**.
 
 ## CONTROLLING-SOURCE RULES
 
-The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs, title forms or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
+The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs, title forms or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. Older Tamil glyph shapes must be checked against the physical typeface and surrounding source evidence rather than modern-font expectations. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
 
 ---
