@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **15/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **16/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -35,7 +35,7 @@
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **complete — 4/4 verified** |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **complete — 3/3 verified** |
 | 15 | `ஏழை` | 106–109 | 115–118 | **complete — 4/4 verified** |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | not started |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **complete — 7/7 verified** |
 | 17 | `பனங்குலை` | 117–121 | 126–130 | not started |
 | 18 | `செத்தவள் கதை` | 122–130 | 131–139 | not started |
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–15, scans **10–118**. Story 15 `ஏழை` is complete for scans **115–118 / printed pages 106–109**, with **4/4 verified**, 0 blocked and 0 unresolved story text. Scan **119 / printed page 110** was visually confirmed as the opening of Story 16 `ஒரிஜினலில் உள்ளபடி` while closing the Story 15 boundary.
+Completed Tamil source passes are Stories 1–16, scans **10–125**. Story 16 `ஒரிஜினலில் உள்ளபடி` is complete for scans **119–125 / printed pages 110–116**, with **7/7 verified**, 0 blocked and 0 unresolved story text. Scan **126 / printed page 117** was visually confirmed as the opening of Story 17 `பனங்குலை` while closing the Story 16 boundary.
 
-Next active source range: **Story 16 `ஒரிஜினலில் உள்ளபடி`, scans 119–125 / printed pages 110–116**. Its ending must be checked against scan **126**, which should begin Story 17 `பனங்குலை`.
+Next active source range: **Story 17 `பனங்குலை`, scans 126–130 / printed pages 117–121**. Its ending must be checked against scan **131**, which should begin Story 18 `செத்தவள் கதை`.
 
 ## Per-story page-record policy
 

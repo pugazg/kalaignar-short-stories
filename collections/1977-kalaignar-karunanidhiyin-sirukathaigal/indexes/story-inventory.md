@@ -21,7 +21,7 @@
 | 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/iragasiyam/` |
 | 14 | `முந்நூறு ரூபாய்` | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **Tamil source complete — 3/3 verified; human recheck queue open** — `stories/munnuru-rupai/` |
 | 15 | `ஏழை` | `ஏழை` | 106–109 | 115–118 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/ezhai/` |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | registered — not transcribed |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/originalil-ullapadi/` |
 | 17 | `பனங்குலை` | `பனங்குலை` | 117–121 | 126–130 | registered — not transcribed |
 | 18 | `செத்தவள் கதை` | `செத்தவள் கதை` | 122–130 | 131–139 | registered — not transcribed |
 | 19 | `பிரேத விசாரணை` | `பிரேத விசாரணை` | 131–136 | 140–145 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **15 / 37**
-- not yet transcribed: **22 / 37**
+- Tamil source processing complete: **16 / 37**
+- not yet transcribed: **21 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 15 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 16 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 16 — **`ஒரிஜினலில் உள்ளபடி`**:
+Story 17 — **`பனங்குலை`**:
 
-- printed pages **110–116**
-- anthology scans **119–125**
+- printed pages **117–121**
+- anthology scans **126–130**
 
-Before closure, visually confirm scan **126** begins Story 17 `பனங்குலை`. Do not create or transcribe Story 17 in the same activity.
+Before closure, visually confirm scan **131** begins Story 18 `செத்தவள் கதை`. Do not create or transcribe Story 18 in the same activity.

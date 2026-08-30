@@ -21,7 +21,7 @@
 
 1. Fetch live GitHub `main` first and treat it as authoritative.
 2. Read completely: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, collection README, story inventory and scan map.
-3. Inspect the latest completed story workspace (`stories/ezhai/`) as structural reference.
+3. Inspect the latest completed story workspace (`stories/originalil-ullapadi/`) as structural reference.
 4. Do not redo completed stories without new correction evidence or repository inconsistency.
 5. The controlling PDF must be available before transcription/visual verification.
 6. When the user says **“Proceed with next activity”**, execute the exact activity below without routine clarification.
@@ -43,8 +43,8 @@ Anthology processing state:
 
 - contents inventory: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **15 / 37**
-- stories not yet transcribed: **22 / 37**
+- Tamil source processing complete: **16 / 37**
+- stories not yet transcribed: **21 / 37**
 - English translation started: **0 / 37**
 
 ## Completed anthology stories
@@ -63,16 +63,17 @@ Anthology processing state:
 12. `ஆதரிக்கிறார்` — 6/6 verified.
 13. `இரகசியம்!` — 4/4 verified.
 14. `முந்நூறு ரூபாய்` — 3/3 verified.
-15. `ஏழை` — `stories/ezhai/` — printed **106–109**, scans **115–118**, **4/4 verified**, 0 blocked, 0 unresolved, audit PASS.
+15. `ஏழை` — 4/4 verified.
+16. `ஒரிஜினலில் உள்ளபடி` — `stories/originalil-ullapadi/` — printed **110–116**, scans **119–125**, **7/7 verified**, 0 blocked, 0 unresolved, audit PASS.
 
 All completed anthology stories have complete Tamil assemblies and persistent human possible-error queues.
 
-## Story 15 — ஏழை — COMPLETE TAMIL SOURCE PASS
+## Story 16 — ஒரிஜினலில் உள்ளபடி — COMPLETE TAMIL SOURCE PASS
 
-Canonical workspace: `stories/ezhai/`
+Canonical workspace: `stories/originalil-ullapadi/`
 
-- page records: **4 / 4**
-- verified: **4 / 4**
+- page records: **7 / 7**
+- verified: **7 / 7**
 - blocked: **0**
 - unresolved story text: **0**
 - Tamil assembly: complete
@@ -81,42 +82,43 @@ Canonical workspace: `stories/ezhai/`
 
 Boundary / continuation checks:
 
-- scan 115 opens `ஏழை`.
-- scans 115→116 / printed 106→107: `...ஒரு சில நிமிடங்கள் கூட ஒதுக்க` → `முடியவில்லை.`.
-- scans 116→117 / printed 107→108: `...இவைகளிலே மோதிக்கொண்டிருந்தன. இன்பக்` → `கனவு இல்லாவிட்டால்...`.
-- scans 117→118 / printed 108→109: `...மரத்தடியில் நின்றுவிட்டாள்` → `பார்வதி.`.
-- scan 118 contains the final reveal and closing ornament.
-- scan 119 opens Story 16 `ஒரிஜினலில் உள்ளபடி`; Story 16 text is not included.
+- scan 119 opens `ஒரிஜினலில் உள்ளபடி`.
+- scans 120→121 / printed 111→112: `...“மகாகும்பாபிஷேகம்..........ம்......மட உலகம்......” அலட்சியம்` → `நிறைந்த வெறுப்பு அவன் முகத்தில் கோடுகளைக் கிழித்தது.`.
+- scans 121→122 / printed 112→113: `...செட்டியாரின் தோளில்` → `போட்டுவிட்டான்.`.
+- scans 122→123 / printed 113→114: `...செட்டியார் உத்தரவுப்` → `படி ‘பத்தாயிரம் நோட்டீசை’யும் ஊரெங்கும்...`.
+- the 119→120, 123→124 and 124→125 boundaries were also visually checked and do not split story text.
+- scan 125 contains the final explanation and closing ornament.
+- scan 126 opens Story 17 `பனங்குலை`; Story 17 text is not included.
 
-High-value source-close/full-span rechecks recorded in the story workspace include scan 115 `மழலை மொழிகட்குப்` and `அந்தத் தீராத விளையாட்டுப் பிள்ளை தொடர்ச்சி கெடுக்கும்படி`; scan 116 `காம வீணையை மீட்டதும் புலம்பவும் கடவுளை எண்ணி அழவும் போதுபோக`, `காப்பப் பையை மாற்றிப் போட்ட வசதியா`, and `இப்பேர்ப்பட்டவன்தான்`; scan 117 repeated `முக்குத்தி` and source-form `பார்வதிக்கு பானு நனைந்து விடுவாளே என்று பயந்தான்.`; and scan 118 final `யார் அது? “ஏழை”!`. Unusual readings remain in `stories/ezhai/POSSIBLE_ERRORS_FOR_REVIEW.md` for later human checking without downgrading verified page status.
+High-value source-close/full-span rechecks recorded in the story workspace include scan 119 `போட்டாமல்`; scan 120 old-form `திரெளபதி`, `எளனம்`, and `அலக் கழியும்`; scan 121 `வெங்கடாசலபதி கீர்த்தின் வைரங்களைப் பெயர்த்து` and `“என்று கம்பாசிட்டர், ஆச்சா?”`; scan 122 source `நாறு`; scan 123 final character-level confirmation of `படி ‘பத்தாயிரம் நோட்டீசை’யும்...`, `‘லக்னம்’`, and `உபன்யாசத்திற்காகச்`; scan 124 the deliberately distinct `விபசாரம்` / `விபச்சாரம்` forms and `உடன் யாசிப்பார்கள்`; and scan 125 `சித்தரிக்கப்பட்டிருக்கிறள்`, `காமக் காண்டா மிருகம்`, and `பொறும்`. Unusual readings remain in `stories/originalil-ullapadi/POSSIBLE_ERRORS_FOR_REVIEW.md` for later human checking without downgrading verified page status.
 
 ## Next exact activity
 
-Process anthology Story **16 — `ஒரிஜினலில் உள்ளபடி`** only.
+Process anthology Story **17 — `பனங்குலை`** only.
 
-- printed pages: **110–116**
-- anthology scans: **119–125**
+- printed pages: **117–121**
+- anthology scans: **126–130**
 
 Boundary checks:
 
-- scan **119** must open `ஒரிஜினலில் உள்ளபடி`;
-- scan **125** must close Story 16;
-- scan **126** must be checked as the opening of Story 17 `பனங்குலை`.
+- scan **126** must open `பனங்குலை`;
+- scan **130** must close Story 17;
+- scan **131** must be checked as the opening of Story 18 `செத்தவள் கதை`.
 
 Actions:
 
-1. fetch live `main` and confirm no matching canonical `ஒரிஜினலில் உள்ளபடி` workspace exists;
-2. visually verify scans 119 / 125 / 126 from the controlling PDF;
-3. create the Story 16 workspace only after canonical-story check;
-4. create **7** page records for scans 119–125 / printed pages 110–116;
+1. fetch live `main` and confirm no matching canonical `பனங்குலை` workspace exists;
+2. visually verify scans 126 / 130 / 131 from the controlling PDF;
+3. create the Story 17 workspace only after canonical-story check;
+4. create **5** page records for scans 126–130 / printed pages 117–121;
 5. transcribe directly from scan and perform full-span visual review on every page;
 6. exhaust difficult readings before `blocked` and maintain a human possible-error queue;
 7. create assembled Tamil, audit, source metadata, page map and story README;
 8. verify every physical page-boundary continuation and confirm no omitted/duplicated pages;
 9. synchronize anthology/root control files;
-10. **do not begin Story 17 (`பனங்குலை`) in the same activity.**
+10. **do not begin Story 18 (`செத்தவள் கதை`) in the same activity.**
 
-Expected progress after successful Story 16 closure: **16 / 37 complete, 21 remaining**.
+Expected progress after successful Story 17 closure: **17 / 37 complete, 20 remaining**.
 
 ## New-chat readiness
 
