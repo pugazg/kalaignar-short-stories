@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **21 / 37**
-- not yet transcribed: **16 / 37**
+- Tamil source processing complete: **22 / 37**
+- not yet transcribed: **15 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -48,10 +48,11 @@ Completed from this collection:
 19. `பிரேத விசாரணை` — workspace [`../../stories/pretha-visaranai/`](../../stories/pretha-visaranai/) — printed **131–136**, scans **140–145**, **6/6 verified**, 0 blocked, audit PASS.
 20. `கண்டதும் காதல் ஒழிக!` — workspace [`../../stories/kandathum-kadhal-ozhiga/`](../../stories/kandathum-kadhal-ozhiga/) — printed **137–141**, scans **146–150**, **5/5 verified**, 0 blocked, audit PASS.
 21. `ஆலமரத்துப் புறாக்கள்` — workspace [`../../stories/aalamarathup-puraakkal/`](../../stories/aalamarathup-puraakkal/) — printed **142–146**, scans **151–155**, **5/5 verified**, 0 blocked, audit PASS.
+22. `தொத்துக்கிளி` — workspace [`../../stories/thothukkili/`](../../stories/thothukkili/) — printed **147–151**, scans **156–160**, **5/5 verified**, 0 blocked, audit PASS.
 
-All twenty-one have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All twenty-two have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `ஆலமரத்துப் புறாக்கள்`, scan **156** was visually confirmed as the next-story opening `தொத்துக்கிளி`.
+For `தொத்துக்கிளி`, scan **161** was visually confirmed as the next-story opening `காதல் கடிதம்`.
 
 ## Source-title differences
 
@@ -73,9 +74,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 22 **`தொத்துக்கிளி`**:
+Process Story 23 **`காதல் கடிதம்`**:
 
-- printed pages **147–151**
-- anthology scans **156–160**
+- printed pages **152–156**
+- anthology scans **161–165**
 
-Scan **156** is already confirmed as the Story 22 opening. Before Story 22 closure, confirm scan **161** opens Story 23 `காதல் கடிதம்`. Do not begin Story 23 in the same activity.
+Scan **161** is already confirmed as the Story 23 opening. Before Story 23 closure, confirm scan **166** opens Story 24 `கண்ணடக்கம்`. Do not begin Story 24 in the same activity.
