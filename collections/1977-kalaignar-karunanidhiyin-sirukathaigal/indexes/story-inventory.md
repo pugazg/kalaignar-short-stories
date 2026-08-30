@@ -35,7 +35,7 @@
 | 27 | `பாலைவன ரோஜா` | `பாலைவன ரோஜா` | 180–184 | 189–193 | **Tamil source complete — 5/5 verified; human recheck queue open** — `stories/palaivana-roja/` |
 | 28 | `புரட்சிப்படம்` | `புரட்சிப் படம்` | 185–189 | 194–198 | **Tamil source complete — 5/5 verified; human recheck queue open; source-title variance preserved** — `stories/puratchip-padam/` |
 | 29 | `திடுக்கிடும் கதை` | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/thidukkidum-kathai/` |
-| 30 | `கடைசிக் கட்டம்` | `கடைசிக் கட்டம்` | 196–201 | 205–210 | registered — not transcribed |
+| 30 | `கடைசிக் கட்டம்` | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/kadaisi-kattam/` |
 | 31 | `அய்யோ ராஜா!` | `அய்யோ ராஜா!` | 202–208 | 211–217 | registered — not transcribed |
 | 32 | `விஷம் இனிது` | `விஷம் இனிது` | 209–215 | 218–224 | registered — not transcribed |
 | 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **29 / 37**
-- not yet transcribed: **8 / 37**
+- Tamil source processing complete: **30 / 37**
+- not yet transcribed: **7 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 29 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 30 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 30 — **`கடைசிக் கட்டம்`**:
+Story 31 — **`அய்யோ ராஜா!`**:
 
-- printed pages **196–201**
-- anthology scans **205–210**
+- printed pages **202–208**
+- anthology scans **211–217**
 
-Scan **205** is already confirmed as Story 30's opening. Before closure, visually confirm scan **211** begins Story 31 `அய்யோ ராஜா!`. Do not create or transcribe Story 31 in the same activity.
+Scan **211** is already confirmed as Story 31's opening. Before closure, visually confirm scan **218** begins Story 32 `விஷம் இனிது`. Do not create or transcribe Story 32 in the same activity.
