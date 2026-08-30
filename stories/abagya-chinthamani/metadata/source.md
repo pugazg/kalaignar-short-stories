@@ -46,4 +46,8 @@ The eight story pages are high-resolution scan images. Native embedded page imag
 
 ## Source-sensitive forms
 
-The scan preserves source-close and historically/typeset-sensitive forms including `பன்னிராட்டைப் பிராயத்துப்`, `பருவக் காற்றுல்`, `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `பிச்சைபுகினும்`, `பிர்க்காக்களைப்`, `நாலொரு வியாதியும்`, `பொழுதொரு தண்டுமாக`, `கவமடைந்தேன்`, `நாயைக் குளிப்பாட்டி`, `வசைமாரி`, `ராமலிங்க சிவானந்தம்`, `மடிப்பிச்சை`, `புலம்பினர்கள்`, `கட்டுமஸ்தான்`, `எண்ணியிருந்திருன்`, `அழுதுகொண்டே`, and `போஷாக்கில்லாத`. These are preserved rather than silently normalized and are available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+The scan preserves source-close and historically/typeset-sensitive forms including `பன்னிராட்டைப் பிராயத்துப்`, `பருவக் காற்றில்`, `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `பிச்சைபுகினும்`, `பிர்க்காக்களைப்`, `சாதாரண மனுஷனாயிருக்கும்`, `நாளொரு வியாதியும்`, `பொழுதொரு கண்டமுமாக`, `கர்வமடைந்தேன்`, `நாயைக் குளிப்பாட்டி`, `வசைமாரி`, `ராமலிங்க சிவானந்தம்`, `பாலப் பாஷாணம்`, `தன்னால்`, `மடிப்பிச்சை`, `புலம்பினர்கள்`, `கட்டு மஸ்தான்`, `விபச்சாரியாக வாவது`, `இறங்கினள்`, `அவன் எண்ணியிருக்கிறான்`, `அழுதுகொண்டே`, and `போஷாக்கில்லாத`. These are preserved rather than silently normalized and are available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+
+## Closure recheck corrections
+
+A final native-scan pass corrected several earlier transcription readings before Story 26 closure: `காற்றுல்` → `காற்றில்`, `பிற்காக்களைப்` → `பிர்க்காக்களைப்`, `மனுஷனையிருக்கும்` → `மனுஷனாயிருக்கும்`, `நாலொரு` → `நாளொரு`, `தண்டுமாக` → `கண்டமுமாக`, `கவமடைந்தேன்` → `கர்வமடைந்தேன்`, `பாலைப் பாஷாணம்` → `பாலப் பாஷாணம்`, `தன்னுள்` → `தன்னால்`, and `எண்ணியிருந்திருன்` → `எண்ணியிருக்கிறான்`. These corrections were made from the controlling scan, not by contextual normalization.
