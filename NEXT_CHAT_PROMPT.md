@@ -30,30 +30,30 @@ Read completely before making project changes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect the latest completed Story 23 workspace `stories/kadhal-kaditham/` as the immediate structural reference. Do not copy its story wording into Story 24.
+Then inspect the latest completed Story 24 workspace `stories/kannadakkam/` as the immediate structural reference. Do not copy its story wording into Story 25.
 
 ## FULLY SYNCHRONIZED DURABLE STATE
 
-Stories **1–23** are fully closed and synchronized into root/collection progress controls.
+Stories **1–24** are fully closed and synchronized into root/collection progress controls.
 
 Anthology status:
 
 - registered stories: **37 / 37**;
-- Tamil source processing complete: **23 / 37**;
-- remaining unprocessed stories: **14**;
+- Tamil source processing complete: **24 / 37**;
+- remaining unprocessed stories: **13**;
 - English translation started from anthology: **0 / 37**.
 
-Story 23 — **`காதல் கடிதம்`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
+Story 24 — **`கண்ணடக்கம்`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
 
-Story 23 canonical workspace:
+Story 24 canonical workspace:
 
-`stories/kadhal-kaditham/`
+`stories/kannadakkam/`
 
-Story 23 state:
+Story 24 state:
 
-- printed pages **152–156**;
-- scans **161–165**;
-- **5 / 5 verified**;
+- printed pages **157–163**;
+- scans **166–172**;
+- **7 / 7 verified**;
 - **0 needs-review status pages**;
 - **0 blocked**;
 - **0 unresolved story text**;
@@ -64,38 +64,38 @@ Story 23 state:
 
 Boundary checks already completed:
 
-- scan **161** opens `காதல் கடிதம்`;
-- scan **165** closes Story 23 with its final paragraph and ornament;
-- scan **166** opens Story 24 `கண்ணடக்கம்`;
-- no Story 24 text is included in Story 23.
+- scan **166** opens `கண்ணடக்கம்`;
+- scan **172** closes Story 24 with its final paragraph and ornament;
+- scan **173** opens Story 25 `வாழ முடியாதவர்கள்`;
+- no Story 25 text is included in Story 24.
 
-## NEXT EXACT ACTIVITY — STORY 24 SOURCE WORK ONLY
+## NEXT EXACT ACTIVITY — STORY 25 SOURCE WORK ONLY
 
 Execute this directly when I say **“Proceed with next activity”**. Do not ask me to choose a routine next step.
 
-Story 24 — **`கண்ணடக்கம்`**:
+Story 25 — **`வாழ முடியாதவர்கள்`**:
 
-- printed pages **157–163**;
-- anthology scans **166–172**;
-- scan **166** is already visually confirmed as the Story 24 opening;
-- before Story 24 closure, visually inspect scan **173** and confirm it begins Story 25 **`வாழ முடியாதவர்கள்`**;
-- do not include scan-173 Story 25 text in Story 24.
+- printed pages **164–171**;
+- anthology scans **173–180**;
+- scan **173** is already visually confirmed as the Story 25 opening;
+- before Story 25 closure, visually inspect scan **181** and confirm it begins Story 26 **`அபாக்ய சிந்தாமணி`**;
+- do not include scan-181 Story 26 text in Story 25.
 
 Required activity:
 
 1. Fetch live `main` again and preserve newer work if present.
-2. Confirm there is no existing matching canonical Story 24 workspace requiring deduplication or additional-witness handling.
-3. Use the controlling PDF for Story 24 scans **166–172** only.
-4. Create/process the Story 24 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
+2. Confirm there is no existing matching canonical Story 25 workspace requiring deduplication or additional-witness handling.
+3. Use the controlling PDF for Story 25 scans **173–180** only.
+4. Create/process the Story 25 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
 5. Preserve source spelling, punctuation, paragraphing, names, historical forms and anomalies exactly; do not silently normalize.
 6. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
 7. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
-8. Confirm scan **173** is the Story 25 opening boundary witness before Story 24 closure.
-9. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 24 is fully complete.
-10. Re-fetch live `main` plus changed controls before declaring Story 24 closed.
-11. **Do not start Story 25 in the same activity.**
+8. Confirm scan **181** is the Story 26 opening boundary witness before Story 25 closure.
+9. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 25 is fully complete.
+10. Re-fetch live `main` plus changed controls before declaring Story 25 closed.
+11. **Do not start Story 26 in the same activity.**
 
-Expected result after Story 24 closure: **24 / 37 fully synchronized complete, 13 remaining**.
+Expected result after Story 25 closure: **25 / 37 fully synchronized complete, 12 remaining**.
 
 ## CONTROLLING-SOURCE RULES
 
