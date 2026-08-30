@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **29/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **30/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -49,7 +49,7 @@
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **complete — 5/5 verified** |
 | 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | **complete — 5/5 verified; opening `புரட்சிப் படம்`** |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **complete — 6/6 verified** |
-| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | not started |
+| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **complete — 6/6 verified** |
 | 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | not started |
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | not started |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–29, scans **10–204**. Story 29 `திடுக்கிடும் கதை` is complete for scans **199–204 / printed pages 190–195**, with **6/6 verified**, 0 blocked and 0 unresolved story text. Scan **205 / printed page 196** was visually confirmed as the opening of Story 30 `கடைசிக் கட்டம்` while closing the Story 29 boundary.
+Completed Tamil source passes are Stories 1–30, scans **10–210**. Story 30 `கடைசிக் கட்டம்` is complete for scans **205–210 / printed pages 196–201**, with **6/6 verified**, 0 blocked and 0 unresolved story text. Scan **211 / printed page 202** was visually confirmed as the opening of Story 31 `அய்யோ ராஜா!` while closing the Story 30 boundary.
 
-Next active source range: **Story 30 `கடைசிக் கட்டம்`, scans 205–210 / printed pages 196–201**. Its ending must be checked against scan **211**, which should begin Story 31 `அய்யோ ராஜா!`.
+Next active source range: **Story 31 `அய்யோ ராஜா!`, scans 211–217 / printed pages 202–208**. Its ending must be checked against scan **218**, which should begin Story 32 `விஷம் இனிது`.
 
 ## Per-story page-record policy
 
