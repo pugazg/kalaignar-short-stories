@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **30/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **31/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -50,7 +50,7 @@
 | 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | **complete — 5/5 verified; opening `புரட்சிப் படம்`** |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **complete — 6/6 verified** |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **complete — 6/6 verified** |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | not started |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **complete — 7/7 verified** |
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | not started |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | not started |
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–30, scans **10–210**. Story 30 `கடைசிக் கட்டம்` is complete for scans **205–210 / printed pages 196–201**, with **6/6 verified**, 0 blocked and 0 unresolved story text. Scan **211 / printed page 202** was visually confirmed as the opening of Story 31 `அய்யோ ராஜா!` while closing the Story 30 boundary.
+Completed Tamil source passes are Stories 1–31, scans **10–217**. Story 31 `அய்யோ ராஜா!` is complete for scans **211–217 / printed pages 202–208**, with **7/7 verified**, 0 blocked and 0 unresolved story text. Scan **218 / printed page 209** was visually confirmed as the opening of Story 32 `விஷம் இனிது` while closing the Story 31 boundary.
 
-Next active source range: **Story 31 `அய்யோ ராஜா!`, scans 211–217 / printed pages 202–208**. Its ending must be checked against scan **218**, which should begin Story 32 `விஷம் இனிது`.
+Next active source range: **Story 32 `விஷம் இனிது`, scans 218–224 / printed pages 209–215**. Its ending must be checked against scan **225**, which should begin Story 33 `வேணியின் காதலன்`.
 
 ## Per-story page-record policy
 
