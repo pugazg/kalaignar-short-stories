@@ -40,6 +40,7 @@ Permanent guides:
 | [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`பனங்குலை`](stories/panangulai/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **9 / 9 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`பிரேத விசாரணை`](stories/pretha-visaranai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -63,8 +64,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **18 / 37**
-- anthology stories not yet transcribed: **19 / 37**
+- Tamil source processing complete from anthology: **19 / 37**
+- anthology stories not yet transcribed: **18 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -89,20 +90,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 16. **ஒரிஜினலில் உள்ளபடி** — printed **110–116**, scans **119–125**, **7/7 verified**, audit PASS.
 17. **பனங்குலை** — printed **117–121**, scans **126–130**, **5/5 verified**, audit PASS.
 18. **செத்தவள் கதை** — printed **122–130**, scans **131–139**, **9/9 verified**, audit PASS.
+19. **பிரேத விசாரணை** — printed **131–136**, scans **140–145**, **6/6 verified**, audit PASS.
 
-All eighteen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All nineteen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 18 — செத்தவள் கதை
+### Story 19 — பிரேத விசாரணை
 
-Canonical workspace: [`stories/seththaval-kathai/`](stories/seththaval-kathai/README.md)
+Canonical workspace: [`stories/pretha-visaranai/`](stories/pretha-visaranai/README.md)
 
-- printed pages **122–130**
-- PDF scans **131–139**
-- page records: **9 / 9 verified**
+- printed pages **131–136**
+- PDF scans **140–145**
+- page records: **6 / 6 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **140** confirmed as next-story opening `பிரேத விசாரணை`
+- scan **146** confirmed as next-story opening `கண்டதும் காதல் ஒழிக!`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -112,9 +114,9 @@ Canonical workspace: [`stories/seththaval-kathai/`](stories/seththaval-kathai/RE
 
 ## Next exact activity
 
-Process anthology Story **19 — `பிரேத விசாரணை`** only:
+Process anthology Story **20 — `கண்டதும் காதல் ஒழிக!`** only:
 
-- printed pages **131–136**
-- PDF scans **140–145**
+- printed pages **137–141**
+- PDF scans **146–150**
 
-First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **140** opens `பிரேத விசாரணை`, scan **145** closes it, and scan **146** begins Story 20 `கண்டதும் காதல் ஒழிக!`. Complete Story 19 only; do not begin Story 20 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Scan **146** is already visually confirmed as Story 20's opening. Before Story 20 closure, visually confirm scan **151** begins Story 21 `ஆலமரத்துப் புறாக்கள்`. Complete Story 20 only; do not begin Story 21 in the same activity.
