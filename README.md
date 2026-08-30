@@ -38,6 +38,7 @@ Permanent guides:
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`ஏழை`](stories/ezhai/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`பனங்குலை`](stories/panangulai/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -61,8 +62,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **16 / 37**
-- anthology stories not yet transcribed: **21 / 37**
+- Tamil source processing complete from anthology: **17 / 37**
+- anthology stories not yet transcribed: **20 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -85,20 +86,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 14. **முந்நூறு ரூபாய்** — printed **103–105**, scans **112–114**, **3/3 verified**, audit PASS.
 15. **ஏழை** — printed **106–109**, scans **115–118**, **4/4 verified**, audit PASS.
 16. **ஒரிஜினலில் உள்ளபடி** — printed **110–116**, scans **119–125**, **7/7 verified**, audit PASS.
+17. **பனங்குலை** — printed **117–121**, scans **126–130**, **5/5 verified**, audit PASS.
 
-All sixteen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All seventeen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 16 — ஒரிஜினலில் உள்ளபடி
+### Story 17 — பனங்குலை
 
-Canonical workspace: [`stories/originalil-ullapadi/`](stories/originalil-ullapadi/README.md)
+Canonical workspace: [`stories/panangulai/`](stories/panangulai/README.md)
 
-- printed pages **110–116**
-- PDF scans **119–125**
-- page records: **7 / 7 verified**
+- printed pages **117–121**
+- PDF scans **126–130**
+- page records: **5 / 5 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **126** confirmed as next-story opening `பனங்குலை`
+- scan **131** confirmed as next-story opening `செத்தவள் கதை`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -108,9 +110,9 @@ Canonical workspace: [`stories/originalil-ullapadi/`](stories/originalil-ullapad
 
 ## Next exact activity
 
-Process anthology Story **17 — `பனங்குலை`** only:
+Process anthology Story **18 — `செத்தவள் கதை`** only:
 
-- printed pages **117–121**
-- PDF scans **126–130**
+- printed pages **122–130**
+- PDF scans **131–139**
 
-First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **126** opens `பனங்குலை`, scan **130** closes it, and scan **131** begins Story 18 `செத்தவள் கதை`. Complete Story 17 only; do not begin Story 18 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **131** opens `செத்தவள் கதை`, scan **139** closes it, and scan **140** begins Story 19 `பிரேத விசாரணை`. Complete Story 18 only; do not begin Story 19 in the same activity.
