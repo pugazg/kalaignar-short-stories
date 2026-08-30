@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **27 / 37**
-- not yet transcribed: **10 / 37**
+- Tamil source processing complete: **28 / 37**
+- not yet transcribed: **9 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -54,10 +54,11 @@ Completed from this collection:
 25. `வாழ முடியாதவர்கள்` — workspace [`../../stories/vazha-mudiyathavargal/`](../../stories/vazha-mudiyathavargal/) — printed **164–171**, scans **173–180**, **8/8 verified**, 0 blocked, audit PASS.
 26. `அபாக்ய சிந்தாமணி` — workspace [`../../stories/abagya-chinthamani/`](../../stories/abagya-chinthamani/) — printed **172–179**, scans **181–188**, **8/8 verified**, 0 blocked, audit PASS.
 27. `பாலைவன ரோஜா` — workspace [`../../stories/palaivana-roja/`](../../stories/palaivana-roja/) — printed **180–184**, scans **189–193**, **5/5 verified**, 0 blocked, audit PASS.
+28. `புரட்சிப் படம்` — TOC `புரட்சிப்படம்`, workspace [`../../stories/puratchip-padam/`](../../stories/puratchip-padam/) — printed **185–189**, scans **194–198**, **5/5 verified**, 0 blocked, audit PASS.
 
-All twenty-seven have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All twenty-eight have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `பாலைவன ரோஜா`, scan **194** was visually confirmed as the next-story opening heading `புரட்சிப் படம்`; the printed TOC title is `புரட்சிப்படம்`.
+For `புரட்சிப் படம்`, scan **199** was visually confirmed as the next-story opening `திடுக்கிடும் கதை`. The TOC/opening-title variance `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` remains preserved.
 
 ## Source-title differences
 
@@ -79,9 +80,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**:
+Process Story 29 **`திடுக்கிடும் கதை`**:
 
-- printed pages **185–189**
-- anthology scans **194–198**
+- printed pages **190–195**
+- anthology scans **199–204**
 
-Scan **194** is already confirmed as the Story 28 opening heading `புரட்சிப் படம்`. Preserve the TOC/opening-title variance. Before Story 28 closure, confirm scan **199** opens Story 29 `திடுக்கிடும் கதை`. Do not begin Story 29 in the same activity.
+Scan **199** is already confirmed as Story 29's opening. Before Story 29 closure, confirm scan **205** opens Story 30 `கடைசிக் கட்டம்`. Do not begin Story 30 in the same activity.

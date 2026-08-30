@@ -33,7 +33,7 @@
 | 25 | `வாழ முடியாதவர்கள்` | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/vazha-mudiyathavargal/` |
 | 26 | `அபாக்ய சிந்தாமணி` | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/abagya-chinthamani/` |
 | 27 | `பாலைவன ரோஜா` | `பாலைவன ரோஜா` | 180–184 | 189–193 | **Tamil source complete — 5/5 verified; human recheck queue open** — `stories/palaivana-roja/` |
-| 28 | `புரட்சிப்படம்` | `புரட்சிப் படம்` | 185–189 | 194–198 | registered — not transcribed; **source-title variance** |
+| 28 | `புரட்சிப்படம்` | `புரட்சிப் படம்` | 185–189 | 194–198 | **Tamil source complete — 5/5 verified; human recheck queue open; source-title variance preserved** — `stories/puratchip-padam/` |
 | 29 | `திடுக்கிடும் கதை` | `திடுக்கிடும் கதை` | 190–195 | 199–204 | registered — not transcribed |
 | 30 | `கடைசிக் கட்டம்` | `கடைசிக் கட்டம்` | 196–201 | 205–210 | registered — not transcribed |
 | 31 | `அய்யோ ராஜா!` | `அய்யோ ராஜா!` | 202–208 | 211–217 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **27 / 37**
-- not yet transcribed: **10 / 37**
+- Tamil source processing complete: **28 / 37**
+- not yet transcribed: **9 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 27 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 28 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**:
+Story 29 — **`திடுக்கிடும் கதை`**:
 
-- printed pages **185–189**
-- anthology scans **194–198**
+- printed pages **190–195**
+- anthology scans **199–204**
 
-Scan **194** is already confirmed as Story 28's opening heading `புரட்சிப் படம்`. Preserve the TOC/opening-title variance. Before closure, visually confirm scan **199** begins Story 29 `திடுக்கிடும் கதை`. Do not create or transcribe Story 29 in the same activity.
+Scan **199** is already confirmed as Story 29's opening. Before closure, visually confirm scan **205** begins Story 30 `கடைசிக் கட்டம்`. Do not create or transcribe Story 30 in the same activity.

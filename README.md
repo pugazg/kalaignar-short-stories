@@ -49,6 +49,7 @@ Permanent guides:
 | [`வாழ முடியாதவர்கள்`](stories/vazha-mudiyathavargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`அபாக்ய சிந்தாமணி`](stories/abagya-chinthamani/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`பாலைவன ரோஜா`](stories/palaivana-roja/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -72,8 +73,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **27 / 37**
-- anthology stories not yet transcribed: **10 / 37**
+- Tamil source processing complete from anthology: **28 / 37**
+- anthology stories not yet transcribed: **9 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -107,21 +108,23 @@ Exact source metadata, inventory and scan map are under the collection workspace
 25. **வாழ முடியாதவர்கள்** — printed **164–171**, scans **173–180**, **8/8 verified**, audit PASS.
 26. **அபாக்ய சிந்தாமணி** — printed **172–179**, scans **181–188**, **8/8 verified**, audit PASS.
 27. **பாலைவன ரோஜா** — printed **180–184**, scans **189–193**, **5/5 verified**, audit PASS.
+28. **புரட்சிப் படம்** — TOC `புரட்சிப்படம்`, printed **185–189**, scans **194–198**, **5/5 verified**, audit PASS.
 
-All twenty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All twenty-eight have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 27 — பாலைவன ரோஜா
+### Story 28 — புரட்சிப் படம்
 
-Canonical workspace: [`stories/palaivana-roja/`](stories/palaivana-roja/README.md)
+Canonical workspace: [`stories/puratchip-padam/`](stories/puratchip-padam/README.md)
 
-- printed pages **180–184**
-- PDF scans **189–193**
+- printed TOC title: `புரட்சிப்படம்`
+- story-opening heading: `புரட்சிப் படம்`
+- printed pages **185–189**
+- PDF scans **194–198**
 - page records: **5 / 5 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **194** confirmed as next-story opening heading `புரட்சிப் படம்`
-- Story 28 TOC title is `புரட்சிப்படம்`; source-title variance preserved
+- scan **199** confirmed as next-story opening `திடுக்கிடும் கதை`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -131,9 +134,9 @@ Canonical workspace: [`stories/palaivana-roja/`](stories/palaivana-roja/README.m
 
 ## Next exact activity
 
-Process anthology Story **28 — TOC `புரட்சிப்படம்`, opening heading `புரட்சிப் படம்`** only:
+Process anthology Story **29 — `திடுக்கிடும் கதை`** only:
 
-- printed pages **185–189**
-- PDF scans **194–198**
+- printed pages **190–195**
+- PDF scans **199–204**
 
-Scan **194** is already visually confirmed as Story 28's opening with heading `புரட்சிப் படம்`. Preserve the TOC/opening-title variance. Before Story 28 closure, visually confirm scan **199** begins Story 29 `திடுக்கிடும் கதை`. Complete Story 28 only; do not begin Story 29 in the same activity.
+Scan **199** is already visually confirmed as Story 29's opening. Before Story 29 closure, visually confirm scan **205** begins Story 30 `கடைசிக் கட்டம்`. Complete Story 29 only; do not begin Story 30 in the same activity.
