@@ -26,7 +26,7 @@
 | 18 | `செத்தவள் கதை` | `செத்தவள் கதை` | 122–130 | 131–139 | **Tamil source complete — 9/9 verified; human recheck queue open** — `stories/seththaval-kathai/` |
 | 19 | `பிரேத விசாரணை` | `பிரேத விசாரணை` | 131–136 | 140–145 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/pretha-visaranai/` |
 | 20 | `கண்டதும் காதல் ஒழிக!` | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **Tamil source complete — 5/5 verified; human recheck queue open** — `stories/kandathum-kadhal-ozhiga/` |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | registered — not transcribed |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **Tamil source complete — 5/5 verified; human recheck queue open** — `stories/aalamarathup-puraakkal/` |
 | 22 | `தொத்துக்கிளி` | `தொத்துக்கிளி` | 147–151 | 156–160 | registered — not transcribed |
 | 23 | `காதல் கடிதம்` | `காதல் கடிதம்` | 152–156 | 161–165 | registered — not transcribed |
 | 24 | `கண்ணடக்கம்` | `கண்ணடக்கம்` | 157–163 | 166–172 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **20 / 37**
-- not yet transcribed: **17 / 37**
+- Tamil source processing complete: **21 / 37**
+- not yet transcribed: **16 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 20 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 21 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 21 — **`ஆலமரத்துப் புறாக்கள்`**:
+Story 22 — **`தொத்துக்கிளி`**:
 
-- printed pages **142–146**
-- anthology scans **151–155**
+- printed pages **147–151**
+- anthology scans **156–160**
 
-Scan **151** is already confirmed as Story 21's opening. Before closure, visually confirm scan **156** begins Story 22 `தொத்துக்கிளி`. Do not create or transcribe Story 22 in the same activity.
+Scan **156** is already confirmed as Story 22's opening. Before closure, visually confirm scan **161** begins Story 23 `காதல் கடிதம்`. Do not create or transcribe Story 23 in the same activity.
