@@ -47,6 +47,7 @@ Permanent guides:
 | [`காதல் கடிதம்`](stories/kadhal-kaditham/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`கண்ணடக்கம்`](stories/kannadakkam/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`வாழ முடியாதவர்கள்`](stories/vazha-mudiyathavargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`அபாக்ய சிந்தாமணி`](stories/abagya-chinthamani/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -70,8 +71,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **25 / 37**
-- anthology stories not yet transcribed: **12 / 37**
+- Tamil source processing complete from anthology: **26 / 37**
+- anthology stories not yet transcribed: **11 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -103,20 +104,22 @@ Exact source metadata, inventory and scan map are under the collection workspace
 23. **காதல் கடிதம்** — printed **152–156**, scans **161–165**, **5/5 verified**, audit PASS.
 24. **கண்ணடக்கம்** — printed **157–163**, scans **166–172**, **7/7 verified**, audit PASS.
 25. **வாழ முடியாதவர்கள்** — printed **164–171**, scans **173–180**, **8/8 verified**, audit PASS.
+26. **அபாக்ய சிந்தாமணி** — printed **172–179**, scans **181–188**, **8/8 verified**, audit PASS.
 
-All twenty-five have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All twenty-six have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 25 — வாழ முடியாதவர்கள்
+### Story 26 — அபாக்ய சிந்தாமணி
 
-Canonical workspace: [`stories/vazha-mudiyathavargal/`](stories/vazha-mudiyathavargal/README.md)
+Canonical workspace: [`stories/abagya-chinthamani/`](stories/abagya-chinthamani/README.md)
 
-- printed pages **164–171**
-- PDF scans **173–180**
+- printed pages **172–179**
+- PDF scans **181–188**
 - page records: **8 / 8 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **181** confirmed as next-story opening `அபாக்ய சிந்தாமணி`
+- final closure recheck corrections documented in metadata/audit
+- scan **189** confirmed as next-story opening `பாலைவன ரோஜா`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -126,9 +129,9 @@ Canonical workspace: [`stories/vazha-mudiyathavargal/`](stories/vazha-mudiyathav
 
 ## Next exact activity
 
-Process anthology Story **26 — `அபாக்ய சிந்தாமணி`** only:
+Process anthology Story **27 — `பாலைவன ரோஜா`** only:
 
-- printed pages **172–179**
-- PDF scans **181–188**
+- printed pages **180–184**
+- PDF scans **189–193**
 
-Scan **181** is already visually confirmed as Story 26's opening. Before Story 26 closure, visually confirm scan **189** begins Story 27 `பாலைவன ரோஜா`. Complete Story 26 only; do not begin Story 27 in the same activity.
+Scan **189** is already visually confirmed as Story 27's opening. Before Story 27 closure, visually confirm scan **194** begins Story 28 with the opening heading `புரட்சிப் படம்` (TOC title `புரட்சிப்படம்`). Complete Story 27 only; do not begin Story 28 in the same activity.
