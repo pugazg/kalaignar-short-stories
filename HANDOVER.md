@@ -54,26 +54,26 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **19 / 37**
-- remaining unprocessed anthology stories: **18 / 37**
+- Tamil source processing complete: **20 / 37**
+- remaining unprocessed anthology stories: **17 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–19** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
+Stories **1–20** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
 
-Story 19 source-work checkpoint:
+Story 20 workspace checkpoint:
 
-`d12bb38dc45627b7d5ba9edcf1f780892907b025` — `Complete Story 19 Pretha Visaranai workspace`
+`a94cdf55f9f13506ded6947a8b5cc01fba8e4057` — `Complete Story 20 canonical workspace`
 
-### Story 19 — `பிரேத விசாரணை` — FULLY CLOSED
+### Story 20 — `கண்டதும் காதல் ஒழிக!` — FULLY CLOSED
 
-Canonical workspace: `stories/pretha-visaranai/`
+Canonical workspace: `stories/kandathum-kadhal-ozhiga/`
 
-- printed pages: **131–136**
-- anthology scans: **140–145**
-- page records: **6 / 6**
-- verified: **6 / 6**
+- printed pages: **137–141**
+- anthology scans: **146–150**
+- page records: **5 / 5**
+- verified: **5 / 5**
 - needs-review: **0**
 - blocked: **0**
 - unresolved story text: **0**
@@ -82,47 +82,50 @@ Canonical workspace: `stories/pretha-visaranai/`
 - persistent human possible-error queue: present
 - English translation: not started
 
-Boundary / continuation checks already completed during source work:
+Boundary / continuation checks completed during source work:
 
-- scan **140** opens `பிரேத விசாரணை`;
-- printed 131→132 / scans 140→141: `...சாவிக் கொத்தை எடுத்து விரலில்` → `சுழற்றிக்கொண்டே நகர ஆரம்பித்தார் நாயுடுகாரு.`;
-- printed 133→134 / scans 142→143: `...‘ஆம்படையா—’ அவதி தாங்க` → `மாட்டாமல் அனலிடைப் புழுப்போல்...`;
-- 141→142, 143→144 and 144→145 were also directly checked with no omission or duplication;
-- scan **145** contains Story 19's final paragraph and closing ornament;
-- scan **146** opens Story 20 `கண்டதும் காதல் ஒழிக!`;
-- no Story 20 text is included in Story 19.
+- scan **146** opens `கண்டதும் காதல் ஒழிக!`;
+- scans 146→147: the audience-call sequence continues with no omission or duplication;
+- scans 147→148: `...பெண்ணுரல்....?` → `நாடகக்காரி பெண்ணுரல் மட்டுமா?...`;
+- printed 139→140 / scans 148→149: `...“அன்பே! சீதா! அருகில் வா!” என்று` → `முடிக்கவில்லை; கொட்டகை “சே! உள்ளே போடா!” என்று சிரித்தது.`;
+- printed 140→141 / scans 149→150: `...“லங்கா தகனம்” நாடகம் ஆரம்பமாயிற்று. தீ` → `வளர்ந்து, தாவியது.`;
+- scan **150** contains Story 20's final sentence and closing ornament;
+- scan **151** opens Story 21 `ஆலமரத்துப் புறாக்கள்`;
+- no Story 21 text is included in Story 20.
 
-The root README, collection README, collection story inventory and collection scan map are now synchronized to Story 19 completion: **19 / 37 complete, 18 remaining**.
+High-value source-close forms are retained in `stories/kandathum-kadhal-ozhiga/POSSIBLE_ERRORS_FOR_REVIEW.md`, including `எலிபெண்டு சிகரெட்`, `காலணு பீடி`, `பெண்ணுரல்`, `கன்னி யொருத்தியைக்`, `தருமனுய்`, `சகாதேவனுய்`, `ஒரு நடிகனைச் சேர்ந்து விடுவது!`, `திக்விஜயம்`, `ஓடினள்`, `ஓடினர்கள்`, `தீங்கனியாக`, `நன்றுக நிதானம்`, `கொள்ளிடத்து வெள்ளமாயிற்று` and `‘டோபா’ முடியை எடுத்தான்!`.
 
-## NEXT EXACT ACTIVITY — STORY 20 SOURCE WORK ONLY
+The root README, collection README, collection story inventory and collection scan map are synchronized to Story 20 completion: **20 / 37 complete, 17 remaining**.
 
-Story 20 — **`கண்டதும் காதல் ஒழிக!`**:
+## NEXT EXACT ACTIVITY — STORY 21 SOURCE WORK ONLY
 
-- printed pages: **137–141**
-- anthology scans: **146–150**
-- scan **146** is already visually confirmed as its opening while closing Story 19;
-- before Story 20 closure, inspect scan **151** and confirm it begins Story 21 **`ஆலமரத்துப் புறாக்கள்`**;
-- do not include scan-151 Story 21 text in Story 20.
+Story 21 — **`ஆலமரத்துப் புறாக்கள்`**:
+
+- printed pages: **142–146**
+- anthology scans: **151–155**
+- scan **151** is already visually confirmed as its opening while closing Story 20;
+- before Story 21 closure, inspect scan **156** and confirm it begins Story 22 **`தொத்துக்கிளி`**;
+- do not include scan-156 Story 22 text in Story 21.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 20 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 20 scans 146–150 only;
-4. create/process the canonical Story 20 workspace under the permanent guides;
+2. confirm no existing matching canonical Story 21 workspace needs deduplication/attachment handling;
+3. use the controlling PDF for Story 21 scans **151–155** only;
+4. create/process the canonical Story 21 workspace under the permanent guides;
 5. complete direct visual/full-span verification and physical boundary checks;
-6. synchronize Story 20 into all downstream anthology/root controls;
-7. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 21 only after Story 20 is fully closed;
-8. do **not** start Story 21 in the same activity.
+6. synchronize Story 21 into all downstream anthology/root controls;
+7. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 22 only after Story 21 is fully closed;
+8. do **not** start Story 22 in the same activity.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 19.**
+**FULLY SYNCHRONIZED THROUGH STORY 20.**
 
-- Tamil source passes complete: **19 / 37**
-- remaining: **18**
-- next exact story: **20 — `கண்டதும் காதல் ஒழிக!`**
+- Tamil source passes complete: **20 / 37**
+- remaining: **17**
+- next exact story: **21 — `ஆலமரத்துப் புறாக்கள்`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 20 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 21 source work after mandatory startup and controlling-source resolution.
