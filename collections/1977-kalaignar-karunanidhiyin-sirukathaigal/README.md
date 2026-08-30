@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **25 / 37**
-- not yet transcribed: **12 / 37**
+- Tamil source processing complete: **26 / 37**
+- not yet transcribed: **11 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -52,10 +52,11 @@ Completed from this collection:
 23. `காதல் கடிதம்` — workspace [`../../stories/kadhal-kaditham/`](../../stories/kadhal-kaditham/) — printed **152–156**, scans **161–165**, **5/5 verified**, 0 blocked, audit PASS.
 24. `கண்ணடக்கம்` — workspace [`../../stories/kannadakkam/`](../../stories/kannadakkam/) — printed **157–163**, scans **166–172**, **7/7 verified**, 0 blocked, audit PASS.
 25. `வாழ முடியாதவர்கள்` — workspace [`../../stories/vazha-mudiyathavargal/`](../../stories/vazha-mudiyathavargal/) — printed **164–171**, scans **173–180**, **8/8 verified**, 0 blocked, audit PASS.
+26. `அபாக்ய சிந்தாமணி` — workspace [`../../stories/abagya-chinthamani/`](../../stories/abagya-chinthamani/) — printed **172–179**, scans **181–188**, **8/8 verified**, 0 blocked, audit PASS.
 
-All twenty-five have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All twenty-six have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `வாழ முடியாதவர்கள்`, scan **181** was visually confirmed as the next-story opening `அபாக்ய சிந்தாமணி`.
+For `அபாக்ய சிந்தாமணி`, scan **189** was visually confirmed as the next-story opening `பாலைவன ரோஜா`.
 
 ## Source-title differences
 
@@ -77,9 +78,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 26 **`அபாக்ய சிந்தாமணி`**:
+Process Story 27 **`பாலைவன ரோஜா`**:
 
-- printed pages **172–179**
-- anthology scans **181–188**
+- printed pages **180–184**
+- anthology scans **189–193**
 
-Scan **181** is already confirmed as the Story 26 opening. Before Story 26 closure, confirm scan **189** opens Story 27 `பாலைவன ரோஜா`. Do not begin Story 27 in the same activity.
+Scan **189** is already confirmed as the Story 27 opening. Before Story 27 closure, confirm scan **194** opens Story 28 with heading `புரட்சிப் படம்` (TOC title `புரட்சிப்படம்`). Do not begin Story 28 in the same activity.
