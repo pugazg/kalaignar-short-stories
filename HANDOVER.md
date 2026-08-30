@@ -54,24 +54,24 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **21 / 37**
-- remaining unprocessed anthology stories: **16 / 37**
+- Tamil source processing complete: **22 / 37**
+- remaining unprocessed anthology stories: **15 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–21** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
+Stories **1–22** have committed canonical Tamil workspaces and are fully synchronized into the anthology/root progress controls.
 
-Story 21 workspace checkpoint:
+Story 22 workspace checkpoint:
 
-`393ffa648e42b1f37a03dd72a5213c23f2f5b299` — `Complete Story 21 canonical workspace`
+`f56bf3b16c1b08450dd6af7e42c12e2dee7b1089` — `Complete Story 22 canonical workspace`
 
-### Story 21 — `ஆலமரத்துப் புறாக்கள்` — FULLY CLOSED
+### Story 22 — `தொத்துக்கிளி` — FULLY CLOSED
 
-Canonical workspace: `stories/aalamarathup-puraakkal/`
+Canonical workspace: `stories/thothukkili/`
 
-- printed pages: **142–146**
-- anthology scans: **151–155**
+- printed pages: **147–151**
+- anthology scans: **156–160**
 - page records: **5 / 5**
 - verified: **5 / 5**
 - needs-review: **0**
@@ -84,47 +84,48 @@ Canonical workspace: `stories/aalamarathup-puraakkal/`
 
 Boundary / continuation checks completed during source work:
 
-- scan **151** opens `ஆலமரத்துப் புறாக்கள்`;
-- printed 142→143 / scans 151→152: `...மரத்தின் கிளையிலே அமரும்` → `வல்லூறு!`;
-- printed 143→144 / scans 152→153: `...இதற்குக் காரணம்` → `கவர்ப்புறுவின் செயல்தானே;`;
-- scans 153→154 and 154→155 were directly checked with no omission or duplication;
-- scan **155** contains Story 21's final paragraph and closing ornament;
-- scan **156** opens Story 22 `தொத்துக்கிளி`;
-- no Story 22 text is included in Story 21.
+- scan **156** opens `தொத்துக்கிளி`;
+- printed 147→148 / scans 156→157: `...பற்றிக் கவலைகொள்ள` → `வில்லை. ஆனால்...`;
+- scans 157→158 were directly checked with no omission or duplication;
+- printed 149→150 / scans 158→159: `...அவள் முன்னே கண்ணகி` → `யும், மாதவியும் வந்து வந்து போயினர்.`;
+- scans 159→160 were directly checked with no omission or duplication;
+- scan **160** contains Story 22's final paragraph and closing ornament;
+- scan **161** opens Story 23 `காதல் கடிதம்`;
+- no Story 23 text is included in Story 22.
 
-High-value source-close forms are retained in `stories/aalamarathup-puraakkal/POSSIBLE_ERRORS_FOR_REVIEW.md`, including repeated `புறு` / `புறுக்கள்`, `சங்கீதப்புறு`, `அல்மோதிக்`, `வந்தேன் எமாத்தினேன்`, `கொள்வினை கொடுப்பினை`, `விடுதலை விருத்தம்`, `வெற்றி முரசொலி`, `கவர்ப்புறு`, `மரத்தின்கீழ்`, `கங்காணி`, `இஷ்டபூர்வமான`, `“தல”யால்`, `“சக்தி”யைத்`, the source-emphasized `இது வல்லூறின் மரம்`, and the source-emphasized final `வல்லூறை விரட்டுவதுதான்!`.
+High-value source-close forms are retained in `stories/thothukkili/POSSIBLE_ERRORS_FOR_REVIEW.md`, including `அண்ணுமலை`, `குஷ்டரோகம்பிடித்த`, `‘ஜூலியட்’டுக்குத்தான்`, `சேல் கெண்டைக்கு`, `‘களுக்’`, `திரும்பினன்`, `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்`, `ஒவ்வொரு திங்களும்`, `“டிசை”னில்`, `‘டால்’ அடிக்கும்`, `“மேக்-அப்” பையும்`, `படுமடுவிலே`, `காம்பொடிக்கப் பட்ட`, `யொழிய`, `சிக்கினள்`, `வேட்டை யாடுகிறான்`, `அவள் புலியானாள்!`, `விமலா முக்கி முனகிக் கொண்டே`, `கொட்டினள்`, `கருகு தாளிக்கப் பட்டது`, `“நைட்ரிக் ஆசிடைக்”`, `அக்கினித் திராவகத்தை!` and `குரூபியாக்கப்பட்டுக்`.
 
-The root README, collection README, collection story inventory and collection scan map are synchronized to Story 21 completion: **21 / 37 complete, 16 remaining**.
+The root README, collection README, collection story inventory and collection scan map are synchronized to Story 22 completion: **22 / 37 complete, 15 remaining**.
 
-## NEXT EXACT ACTIVITY — STORY 22 SOURCE WORK ONLY
+## NEXT EXACT ACTIVITY — STORY 23 SOURCE WORK ONLY
 
-Story 22 — **`தொத்துக்கிளி`**:
+Story 23 — **`காதல் கடிதம்`**:
 
-- printed pages: **147–151**
-- anthology scans: **156–160**
-- scan **156** is already visually confirmed as its opening while closing Story 21;
-- before Story 22 closure, inspect scan **161** and confirm it begins Story 23 **`காதல் கடிதம்`**;
-- do not include scan-161 Story 23 text in Story 22.
+- printed pages: **152–156**
+- anthology scans: **161–165**
+- scan **161** is already visually confirmed as its opening while closing Story 22;
+- before Story 23 closure, inspect scan **166** and confirm it begins Story 24 **`கண்ணடக்கம்`**;
+- do not include scan-166 Story 24 text in Story 23.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 22 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 22 scans **156–160** only;
-4. create/process the canonical Story 22 workspace under the permanent guides;
+2. confirm no existing matching canonical Story 23 workspace needs deduplication/attachment handling;
+3. use the controlling PDF for Story 23 scans **161–165** only;
+4. create/process the canonical Story 23 workspace under the permanent guides;
 5. complete direct visual/full-span verification and physical boundary checks;
-6. synchronize Story 22 into all downstream anthology/root controls;
-7. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 23 only after Story 22 is fully closed;
-8. do **not** start Story 23 in the same activity.
+6. synchronize Story 23 into all downstream anthology/root controls;
+7. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 24 only after Story 23 is fully closed;
+8. do **not** start Story 24 in the same activity.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 21.**
+**FULLY SYNCHRONIZED THROUGH STORY 22.**
 
-- Tamil source passes complete: **21 / 37**
-- remaining: **16**
-- next exact story: **22 — `தொத்துக்கிளி`**
+- Tamil source passes complete: **22 / 37**
+- remaining: **15**
+- next exact story: **23 — `காதல் கடிதம்`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 22 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 23 source work after mandatory startup and controlling-source resolution.
