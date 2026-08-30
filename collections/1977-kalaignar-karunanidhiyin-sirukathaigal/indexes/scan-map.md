@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **26/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **27/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -46,7 +46,7 @@
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **complete — 7/7 verified** |
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **complete — 8/8 verified** |
 | 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **complete — 8/8 verified** |
-| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | not started |
+| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **complete — 5/5 verified** |
 | 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | not started |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | not started |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–26, scans **10–188**. Story 26 `அபாக்ய சிந்தாமணி` is complete for scans **181–188 / printed pages 172–179**, with **8/8 verified**, 0 blocked and 0 unresolved story text. Scan **189 / printed page 180** was visually confirmed as the opening of Story 27 `பாலைவன ரோஜா` while closing the Story 26 boundary.
+Completed Tamil source passes are Stories 1–27, scans **10–193**. Story 27 `பாலைவன ரோஜா` is complete for scans **189–193 / printed pages 180–184**, with **5/5 verified**, 0 blocked and 0 unresolved story text. Scan **194 / printed page 185** was visually confirmed as the opening of Story 28 with heading `புரட்சிப் படம்`; the printed TOC title is `புரட்சிப்படம்`.
 
-Next active source range: **Story 27 `பாலைவன ரோஜா`, scans 189–193 / printed pages 180–184**. Its ending must be checked against scan **194**, whose opening heading is recorded as Story 28 `புரட்சிப் படம்` (TOC title `புரட்சிப்படம்`).
+Next active source range: **Story 28 — TOC `புரட்சிப்படம்`, opening heading `புரட்சிப் படம்`, scans 194–198 / printed pages 185–189**. Its ending must be checked against scan **199**, which should begin Story 29 `திடுக்கிடும் கதை`.
 
 ## Per-story page-record policy
 
