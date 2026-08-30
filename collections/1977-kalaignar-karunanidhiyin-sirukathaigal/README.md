@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **14 / 37**
-- not yet transcribed: **23 / 37**
+- Tamil source processing complete: **15 / 37**
+- not yet transcribed: **22 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -40,11 +40,12 @@ Completed from this collection:
 11. `தப்பவில்லை` — printed **83–92**, scans **92–101**, **10/10 verified**, audit PASS.
 12. `ஆதரிக்கிறார்` — printed **93–98**, scans **102–107**, **6/6 verified**, audit PASS.
 13. `இரகசியம்!` — printed **99–102**, scans **108–111**, **4/4 verified**, audit PASS.
-14. `முந்நூறு ரூபாய்` — workspace [`../../stories/munnuru-rupai/`](../../stories/munnuru-rupai/) — printed **103–105**, scans **112–114**, **3/3 verified**, 0 blocked, audit PASS.
+14. `முந்நூறு ரூபாய்` — printed **103–105**, scans **112–114**, **3/3 verified**, audit PASS.
+15. `ஏழை` — workspace [`../../stories/ezhai/`](../../stories/ezhai/) — printed **106–109**, scans **115–118**, **4/4 verified**, 0 blocked, audit PASS.
 
-All fourteen have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All fifteen have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `முந்நூறு ரூபாய்`, scan **115** was visually confirmed as the next-story opening `ஏழை`.
+For `ஏழை`, scan **119** was visually confirmed as the next-story opening `ஒரிஜினலில் உள்ளபடி`.
 
 ## Source-title differences
 
@@ -66,9 +67,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 15 **`ஏழை`**:
+Process Story 16 **`ஒரிஜினலில் உள்ளபடி`**:
 
-- printed pages **106–109**
-- anthology scans **115–118**
+- printed pages **110–116**
+- anthology scans **119–125**
 
-Confirm scan **115** opens Story 15, scan **118** closes it, and scan **119** opens Story 16 `ஒரிஜினலில் உள்ளபடி`. Do not begin Story 16 in the same activity.
+Confirm scan **119** opens Story 16, scan **125** closes it, and scan **126** opens Story 17 `பனங்குலை`. Do not begin Story 17 in the same activity.

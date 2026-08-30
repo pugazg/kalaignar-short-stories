@@ -20,7 +20,7 @@
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/aatharikkirar/` |
 | 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/iragasiyam/` |
 | 14 | `முந்நூறு ரூபாய்` | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **Tamil source complete — 3/3 verified; human recheck queue open** — `stories/munnuru-rupai/` |
-| 15 | `ஏழை` | `ஏழை` | 106–109 | 115–118 | registered — not transcribed |
+| 15 | `ஏழை` | `ஏழை` | 106–109 | 115–118 | **Tamil source complete — 4/4 verified; human recheck queue open** — `stories/ezhai/` |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | registered — not transcribed |
 | 17 | `பனங்குலை` | `பனங்குலை` | 117–121 | 126–130 | registered — not transcribed |
 | 18 | `செத்தவள் கதை` | `செத்தவள் கதை` | 122–130 | 131–139 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **14 / 37**
-- not yet transcribed: **23 / 37**
+- Tamil source processing complete: **15 / 37**
+- not yet transcribed: **22 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 14 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 15 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 15 — **`ஏழை`**:
+Story 16 — **`ஒரிஜினலில் உள்ளபடி`**:
 
-- printed pages **106–109**
-- anthology scans **115–118**
+- printed pages **110–116**
+- anthology scans **119–125**
 
-Before closure, visually confirm scan **119** begins Story 16 `ஒரிஜினலில் உள்ளபடி`. Do not create or transcribe Story 16 in the same activity.
+Before closure, visually confirm scan **126** begins Story 17 `பனங்குலை`. Do not create or transcribe Story 17 in the same activity.

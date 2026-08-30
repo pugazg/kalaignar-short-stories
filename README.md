@@ -36,6 +36,7 @@ Permanent guides:
 | [`ஆதரிக்கிறார்`](stories/aatharikkirar/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`இரகசியம்!`](stories/iragasiyam/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`ஏழை`](stories/ezhai/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -59,8 +60,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **14 / 37**
-- anthology stories not yet transcribed: **23 / 37**
+- Tamil source processing complete from anthology: **15 / 37**
+- anthology stories not yet transcribed: **22 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -81,20 +82,21 @@ Exact source metadata, inventory and scan map are under the collection workspace
 12. **ஆதரிக்கிறார்** — printed **93–98**, scans **102–107**, **6/6 verified**, audit PASS.
 13. **இரகசியம்!** — printed **99–102**, scans **108–111**, **4/4 verified**, audit PASS.
 14. **முந்நூறு ரூபாய்** — printed **103–105**, scans **112–114**, **3/3 verified**, audit PASS.
+15. **ஏழை** — printed **106–109**, scans **115–118**, **4/4 verified**, audit PASS.
 
-All fourteen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All fifteen have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 14 — முந்நூறு ரூபாய்
+### Story 15 — ஏழை
 
-Canonical workspace: [`stories/munnuru-rupai/`](stories/munnuru-rupai/README.md)
+Canonical workspace: [`stories/ezhai/`](stories/ezhai/README.md)
 
-- printed pages **103–105**
-- PDF scans **112–114**
-- page records: **3 / 3 verified**
+- printed pages **106–109**
+- PDF scans **115–118**
+- page records: **4 / 4 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **115** confirmed as next-story opening `ஏழை`
+- scan **119** confirmed as next-story opening `ஒரிஜினலில் உள்ளபடி`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -104,9 +106,9 @@ Canonical workspace: [`stories/munnuru-rupai/`](stories/munnuru-rupai/README.md)
 
 ## Next exact activity
 
-Process anthology Story **15 — `ஏழை`** only:
+Process anthology Story **16 — `ஒரிஜினலில் உள்ளபடி`** only:
 
-- printed pages **106–109**
-- PDF scans **115–118**
+- printed pages **110–116**
+- PDF scans **119–125**
 
-First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **115** opens `ஏழை`, scan **118** closes it, and scan **119** begins Story 16 `ஒரிஜினலில் உள்ளபடி`. Complete Story 15 only; do not begin Story 16 in the same activity.
+First confirm live `main` has no existing matching canonical workspace. Visually confirm scan **119** opens `ஒரிஜினலில் உள்ளபடி`, scan **125** closes it, and scan **126** begins Story 17 `பனங்குலை`. Complete Story 16 only; do not begin Story 17 in the same activity.

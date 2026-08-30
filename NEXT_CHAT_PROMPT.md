@@ -22,8 +22,8 @@ Treat live GitHub `main` as authoritative. Fetch live HEAD first and do not reve
 
 - anthology: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, first edition 1977;
 - stories registered: **37 / 37**;
-- Tamil source processing complete: **14 / 37**;
-- not yet transcribed: **23 / 37**;
+- Tamil source processing complete: **15 / 37**;
+- not yet transcribed: **22 / 37**;
 - completed anthology stories:
   1. `புகழேந்தி` — scans 10–15 — 6/6 verified;
   2. `நளாயினி` — scans 16–23 — 8/8 verified;
@@ -39,7 +39,8 @@ Treat live GitHub `main` as authoritative. Fetch live HEAD first and do not reve
   12. `ஆதரிக்கிறார்` — scans 102–107 — 6/6 verified;
   13. `இரகசியம்!` — scans 108–111 — 4/4 verified;
   14. `முந்நூறு ரூபாய்` — scans 112–114 — 3/3 verified;
-- all fourteen completed anthology stories have **0 blocked / 0 unresolved story text** and persistent human possible-error queues;
+  15. `ஏழை` — scans 115–118 — 4/4 verified;
+- all fifteen completed anthology stories have **0 blocked / 0 unresolved story text** and persistent human possible-error queues;
 - English translation has not been started for these anthology stories.
 
 ## MANDATORY STARTUP
@@ -54,7 +55,7 @@ Read completely before source-dependent writes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect `stories/munnuru-rupai/` as the latest completed structural reference, especially README, source metadata, page map, audit, page records, assembled Tamil and possible-error queue.
+Then inspect `stories/ezhai/` as the latest completed structural reference, especially README, source metadata, page map, audit, page records, assembled Tamil and possible-error queue.
 
 ## PERMANENT SOURCE RULES
 
@@ -62,45 +63,45 @@ The supplied scan is the controlling textual authority. Do not silently moderniz
 
 ## LATEST COMPLETED STORY
 
-Story 14 — **`முந்நூறு ரூபாய்`** — is complete at `stories/munnuru-rupai/`:
+Story 15 — **`ஏழை`** — is complete at `stories/ezhai/`:
 
-- printed pages **103–105**;
-- scans **112–114**;
-- **3/3 verified**;
+- printed pages **106–109**;
+- scans **115–118**;
+- **4/4 verified**;
 - **0 blocked / 0 unresolved story text**;
-- scan **115** independently confirmed as the opening of Story 15 `ஏழை`;
-- Story 15 text was not included in Story 14.
+- scan **119** independently confirmed as the opening of Story 16 `ஒரிஜினலில் உள்ளபடி`;
+- Story 16 text was not included in Story 15.
 
-## NEXT EXACT ACTIVITY — STORY 15 ONLY
+## NEXT EXACT ACTIVITY — STORY 16 ONLY
 
-Process anthology Story **15 — `ஏழை`** only.
+Process anthology Story **16 — `ஒரிஜினலில் உள்ளபடி`** only.
 
 Exact range:
 
-- printed pages: **106–109**
-- anthology PDF scans: **115–118**
+- printed pages: **110–116**
+- anthology PDF scans: **119–125**
 
 Required boundary checks:
 
-- visually confirm scan **115** opens `ஏழை`;
-- visually confirm scan **118** contains the end of Story 15;
-- visually inspect scan **119** and confirm it begins Story 16 **`ஒரிஜினலில் உள்ளபடி`**;
-- do not include any scan-119 Story 16 text in Story 15.
+- visually confirm scan **119** opens `ஒரிஜினலில் உள்ளபடி`;
+- visually confirm scan **125** contains the end of Story 16;
+- visually inspect scan **126** and confirm it begins Story 17 **`பனங்குலை`**;
+- do not include any scan-126 Story 17 text in Story 16.
 
 Required actions:
 
-1. Fetch live `main` and confirm there is no existing canonical `ஏழை` workspace under another title/slug.
-2. Verify scan 115 / 118 / 119 boundaries from the controlling PDF.
-3. Create a stable Story 15 workspace only after canonical-story check.
+1. Fetch live `main` and confirm there is no existing canonical `ஒரிஜினலில் உள்ளபடி` workspace under another title/slug.
+2. Verify scan 119 / 125 / 126 boundaries from the controlling PDF.
+3. Create a stable Story 16 workspace only after canonical-story check.
 4. Register the 1977 anthology and exact source coordinates.
-5. Create **4 page records** for scans **115–118**, printed pages **106–109**.
+5. Create **7 page records** for scans **119–125**, printed pages **110–116**.
 6. Transcribe directly from the source scan page by page and run full-span visual-fidelity verification on every page.
 7. Exhaust difficult readings before using `blocked`; preserve unusual-but-legible forms and queue them for human review.
 8. Create story README, source metadata, page map, all page records, assembled Tamil, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 9. Verify every physical page-boundary continuation and confirm no omitted or duplicated page.
 10. Synchronize story inventory, collection README, root README, scan map, HANDOVER and NEXT_CHAT_PROMPT after closure.
-11. **Do not start Story 16 — `ஒரிஜினலில் உள்ளபடி` — in the same activity.**
+11. **Do not start Story 17 — `பனங்குலை` — in the same activity.**
 
-Expected progress after successful Story 15 closure: **15 / 37 complete, 22 remaining**.
+Expected progress after successful Story 16 closure: **16 / 37 complete, 21 remaining**.
 
 When the user says **“Proceed with next activity”**, execute this exact activity directly without routine clarification.

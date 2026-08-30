@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **14/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **15/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -34,7 +34,7 @@
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **complete — 6/6 verified** |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **complete — 4/4 verified** |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **complete — 3/3 verified** |
-| 15 | `ஏழை` | 106–109 | 115–118 | not started |
+| 15 | `ஏழை` | 106–109 | 115–118 | **complete — 4/4 verified** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | not started |
 | 17 | `பனங்குலை` | 117–121 | 126–130 | not started |
 | 18 | `செத்தவள் கதை` | 122–130 | 131–139 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–14, scans **10–114**. Story 14 `முந்நூறு ரூபாய்` is complete for scans **112–114 / printed pages 103–105**, with **3/3 verified**, 0 blocked and 0 unresolved story text. Scan **115 / printed page 106** was visually confirmed as the opening of Story 15 `ஏழை` while closing the Story 14 boundary.
+Completed Tamil source passes are Stories 1–15, scans **10–118**. Story 15 `ஏழை` is complete for scans **115–118 / printed pages 106–109**, with **4/4 verified**, 0 blocked and 0 unresolved story text. Scan **119 / printed page 110** was visually confirmed as the opening of Story 16 `ஒரிஜினலில் உள்ளபடி` while closing the Story 15 boundary.
 
-Next active source range: **Story 15 `ஏழை`, scans 115–118 / printed pages 106–109**. Its ending must be checked against scan **119**, which should begin Story 16 `ஒரிஜினலில் உள்ளபடி`.
+Next active source range: **Story 16 `ஒரிஜினலில் உள்ளபடி`, scans 119–125 / printed pages 110–116**. Its ending must be checked against scan **126**, which should begin Story 17 `பனங்குலை`.
 
 ## Per-story page-record policy
 
