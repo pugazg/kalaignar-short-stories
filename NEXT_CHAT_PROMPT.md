@@ -59,8 +59,8 @@ Visual fidelity checks source-significant structure such as story headings and p
 
 Current durable state:
 
-- complete: **3 / 37**
-- pending: **34 / 37**
+- complete: **4 / 37**
+- pending: **33 / 37**
 - needs recheck: **0**
 
 ### Story 1 — `புகழேந்தி` — COMPLETE
@@ -82,41 +82,46 @@ Current durable state:
 - scans **24–30 / printed pages 15–21**
 - result: **PASS — corrected**
 - record: `stories/sabalam/visual-fidelity.md`
-- structural corrections: opening horizontal rule; scan-28 enlarged initial `வ`; final `story-ending` role; removal of the non-source ending `அச்சு உரை` heading; closing ornament; synchronized assembly/page map
-- the visually prominent scan-27 page-start `இ` is not a semantic drop-cap because it continues the scan-26 sentence
-- scan-26 printer signature `க—2` remains excluded as page furniture
 - story wording changed: **No**
-- scan **31** confirmed as Story 4 `ஆட்டக்காவடி` opening
 
-## NEXT EXACT ACTIVITY — STORY 4 ONLY
+### Story 4 — `ஆட்டக்காவடி` — COMPLETE
 
-Perform the visual fidelity check for Story 4 — **`ஆட்டக்காவடி`**.
+- scans **31–38 / printed pages 22–29**
+- result: **PASS — corrected**
+- record: `stories/aattakkavadi/visual-fidelity.md`
+- structural corrections: opening horizontal rule; enlarged opening `ஆ`; source-bold `காவடி ஆட்டக் கச்சேரி`; scan-34 enlarged `க`; scan-37 enlarged `ம`; final `story-ending` role; removal of the non-source ending `அச்சு உரை` heading; preserved letter alternatives/sign-off; closing ornament; synchronized assembly/page map
+- story wording changed: **No**
+- scan **39** confirmed as Story 5 `குப்பைத்தொட்டி` opening
+
+## NEXT EXACT ACTIVITY — STORY 5 ONLY
+
+Perform the visual fidelity check for Story 5 — **`குப்பைத்தொட்டி`**.
 
 Canonical workspace:
 
-`stories/aattakkavadi/`
+`stories/kuppai-thotti/`
 
 Source coordinates:
 
-- printed pages **22–29**
-- anthology scans **31–38**
-- scan **39** is the boundary witness and opens Story 5 **`குப்பைத்தொட்டி`**
+- printed pages **30–37**
+- anthology scans **39–46**
+- scan **47** is the boundary witness and opens Story 6 **`சந்தனக்கிண்ணம்`**
 
 Required activity when I say **“Proceed with next activity”**:
 
 1. Fetch live `main` and preserve newer work.
-2. Inspect source scans **31–38** directly from the controlling PDF.
+2. Inspect source scans **39–46** directly from the controlling PDF.
 3. Compare every page with the committed page record and Tamil assembly.
 4. Check story opening and ending roles, paragraph/dialogue boundaries, verse/display/emphasis structure, non-text marks, page furniture and all physical joins.
-5. Inspect scan **39** only as the next-story boundary witness.
+5. Inspect scan **47** only as the next-story boundary witness.
 6. Correct any source-significant structural mismatch found. If wording itself is wrong, verify the complete source span before correction and propagate it through all affected layers.
-7. Create `stories/aattakkavadi/visual-fidelity.md` with findings and result.
+7. Create `stories/kuppai-thotti/visual-fidelity.md` with findings and result.
 8. Update `VISUAL_FIDELITY_PROGRESS.md`.
-9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 5 only after Story 4 visual fidelity is fully closed.
+9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 6 only after Story 5 visual fidelity is fully closed.
 10. Re-fetch live `main` and changed controls before declaring closure.
-11. **Do not start Story 5 in the same activity.**
+11. **Do not start Story 6 in the same activity.**
 
-Expected result: **4 / 37 visual-fidelity complete, 33 remaining**.
+Expected result: **5 / 37 visual-fidelity complete, 32 remaining**.
 
 ## PHASE GUARD
 
