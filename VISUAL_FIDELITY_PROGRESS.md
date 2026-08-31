@@ -7,10 +7,10 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **4 / 37**
-- pending: **33 / 37**
+- visual fidelity complete: **5 / 37**
+- pending: **32 / 37**
 - needs recheck: **0**
-- current target: **Story 5 — `குப்பைத்தொட்டி`**
+- current target: **Story 6 — `சந்தனக்கிண்ணம்`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -18,8 +18,8 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 2 | `நளாயினி` | 7–14 | 16–23 | **PASS — corrected** |
 | 3 | `சபலம்` | 15–21 | 24–30 | **PASS — corrected** |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS — corrected** |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **pending** |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | pending |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS — corrected** |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **pending** |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | pending |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | pending |
 | 9 | `தாய்மை` | 64–74 | 73–83 | pending |
@@ -90,8 +90,20 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 - scan **39** confirmed as Story 5 `குப்பைத்தொட்டி` opening
 - record: `stories/aattakkavadi/visual-fidelity.md`
 
+### Story 5 — `குப்பைத்தொட்டி`
+
+- scans **39–46 / printed pages 30–37**
+- result: **PASS — corrected**
+- structural-only corrections: opening horizontal rule and enlarged initial `வீ`; final-page `story-ending` role; centered closing ornament; assembly/page-map synchronization
+- scan-42 four-line quoted verse was already source-lineated and remains preserved
+- scan-45 three isolated quoted lines were already structurally faithful and remain separate
+- scan-42 printer signature `க—3` remains excluded as page furniture
+- story wording changed: **No**
+- scan **47** confirmed as Story 6 `சந்தனக்கிண்ணம்` opening
+- record: `stories/kuppai-thotti/visual-fidelity.md`
+
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 5 — `குப்பைத்தொட்டி`**, scans **39–46 / printed pages 30–37**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Perform the visual fidelity check for **Story 6 — `சந்தனக்கிண்ணம்`**, scans **47–56 / printed pages 38–47**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-Inspect scan **47** only as the next-story boundary witness (`சந்தனக்கிண்ணம்`). Do not begin Story 6 in the same activity.
+Inspect scan **57** only as the next-story boundary witness (`சங்கிலிச்சாமி`). Do not begin Story 7 in the same activity.
