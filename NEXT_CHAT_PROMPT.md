@@ -47,7 +47,7 @@ The 1977 anthology Tamil source-text pass is fully complete:
 - all 37 have **0 blocked / 0 unresolved story text**
 - English translation from the anthology: **0 / 37 started**
 
-Do not redo the completed Tamil source pass unless new source-supported correction evidence appears during the visual-fidelity phase.
+Do not redo the completed Tamil source pass unless new source-supported correction evidence appears during visual-fidelity review.
 
 ## USER-AUTHORIZED CURRENT PHASE — VISUAL FIDELITY CHECK
 
@@ -59,8 +59,8 @@ Visual fidelity checks source-significant structure such as story headings and p
 
 Current durable state:
 
-- complete: **1 / 37**
-- pending: **36 / 37**
+- complete: **2 / 37**
+- pending: **35 / 37**
 - needs recheck: **0**
 
 ### Story 1 — `புகழேந்தி` — COMPLETE
@@ -68,39 +68,46 @@ Current durable state:
 - scans **10–15 / printed pages 1–6**
 - result: **PASS — corrected**
 - record: `stories/pugazhendhi/visual-fidelity.md`
-- corrections were structural only: opening/ending `page_type`, removal of non-source `அச்சு உரை` heading, and recording of the source opening/closing ornamented rules
 - story wording changed: **No**
-- scan **16** confirmed as Story 2 `நளாயினி` opening
 
-## NEXT EXACT ACTIVITY — STORY 2 ONLY
+### Story 2 — `நளாயினி` — COMPLETE
 
-Perform the visual fidelity check for Story 2 — **`நளாயினி`**.
+- scans **16–23 / printed pages 7–14**
+- result: **PASS — corrected**
+- record: `stories/nalayini/visual-fidelity.md`
+- structural corrections: opening underline rule; scan-20 enlarged initial `ச`; final `story-ending` role; removal of non-source ending labels; separator above the printed note; closing ornament; synchronized assembly/page map
+- story wording changed: **No**
+- scan **24** confirmed as Story 3 `சபலம்` opening
+
+## NEXT EXACT ACTIVITY — STORY 3 ONLY
+
+Perform the visual fidelity check for Story 3 — **`சபலம்`**.
 
 Canonical workspace:
 
-`stories/nalayini/`
+`stories/sabalam/`
 
 Source coordinates:
 
-- printed pages **7–14**
-- anthology scans **16–23**
-- scan **24** is the boundary witness and opens Story 3 **`சபலம்`**
+- printed pages **15–21**
+- anthology scans **24–30**
+- scan **31** is the boundary witness and opens Story 4 **`ஆட்டக்காவடி`**
 
 Required activity when I say **“Proceed with next activity”**:
 
 1. Fetch live `main` and preserve newer work.
-2. Inspect source scans **16–23** directly from the controlling PDF.
+2. Inspect source scans **24–30** directly from the controlling PDF.
 3. Compare every page with the committed page record and Tamil assembly.
-4. Check the story opening and ending roles, paragraph/dialogue boundaries, verse/display/emphasis structure, non-text marks, page furniture and all physical joins.
-5. Inspect scan **24** only as the next-story boundary witness.
+4. Check story opening and ending roles, paragraph/dialogue boundaries, verse/display/emphasis structure, non-text marks, page furniture and all physical joins.
+5. Inspect scan **31** only as the next-story boundary witness.
 6. Correct any source-significant structural mismatch found. If wording itself is wrong, verify the complete source span before correction and propagate it through all affected layers.
-7. Create `stories/nalayini/visual-fidelity.md` with findings and result.
+7. Create `stories/sabalam/visual-fidelity.md` with findings and result.
 8. Update `VISUAL_FIDELITY_PROGRESS.md`.
-9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 3 only after Story 2 visual fidelity is fully closed.
+9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 4 only after Story 3 visual fidelity is fully closed.
 10. Re-fetch live `main` and changed controls before declaring closure.
-11. **Do not start Story 3 in the same activity.**
+11. **Do not start Story 4 in the same activity.**
 
-Expected result: **2 / 37 visual-fidelity complete, 35 remaining**.
+Expected result: **3 / 37 visual-fidelity complete, 34 remaining**.
 
 ## PHASE GUARD
 
