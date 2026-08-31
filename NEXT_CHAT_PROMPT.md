@@ -1,9 +1,5 @@
 # NEXT CHAT PROMPT — Kalaignar Short Stories Archive
 
-Copy the prompt below into a new chat window when continuing this repository. Attach the controlling anthology PDF again before any new source-dependent transcription or visual verification.
-
----
-
 Continue the **Kalaignar Short Stories archival project** directly in:
 
 `https://github.com/pugazg/kalaignar-short-stories`
@@ -16,7 +12,11 @@ Controlling anthology source:
 
 `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 
-Treat live GitHub `main` as authoritative. Fetch live HEAD first. If `main` has moved beyond any checkpoint below, preserve the newer state and do not revert completed work.
+Attach / resolve the controlling PDF before source-dependent visual checking.
+
+## LIVE MAIN IS AUTHORITATIVE
+
+Fetch live `main` first. If it has advanced beyond any checkpoint copied into this prompt, preserve the newer durable state and continue from it.
 
 ## MANDATORY STARTUP
 
@@ -24,87 +24,95 @@ Read completely before making project changes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
-3. `HANDOVER.md`
-4. `NEXT_CHAT_PROMPT.md`
-5. collection `README.md`
-6. collection `indexes/story-inventory.md`
-7. collection `indexes/scan-map.md`
+3. `VISUAL_FIDELITY_CHECK_GUIDE.md`
+4. `VISUAL_FIDELITY_PROGRESS.md`
+5. `HANDOVER.md`
+6. `NEXT_CHAT_PROMPT.md`
+7. collection `README.md`
+8. collection `indexes/story-inventory.md`
+9. collection `indexes/scan-map.md`
 
-Then inspect the latest relevant canonical story workspace. For the anthology completion boundary, the immediate reference is `stories/nunikkarumbu/`.
+Then inspect the active story's existing page records, Tamil assembly, audit and page map.
 
-## FULLY SYNCHRONIZED DURABLE STATE
+## DURABLE COMPLETED MILESTONE
 
-The 1977 anthology Tamil source pass is **complete**.
+The 1977 anthology Tamil source-text pass is fully complete:
 
-Anthology status:
+- stories registered: **37 / 37**
+- Tamil source processing: **37 / 37 complete**
+- untranscribed stories: **0 / 37**
+- story-text coverage: scans **10–259 / printed pages 1–250**
+- scan **260**: verified back cover
+- all 37 canonical anthology story workspaces have complete Tamil assemblies and audits
+- all 37 have **0 blocked / 0 unresolved story text**
+- English translation from the anthology: **0 / 37 started**
 
-- registered stories: **37 / 37**;
-- Tamil source processing complete: **37 / 37**;
-- remaining unprocessed stories: **0**;
-- English translation started from anthology: **0 / 37**;
-- story-text coverage: scans **10–259 / printed pages 1–250**;
-- scan **260**: visually confirmed back cover.
+Do not redo the completed Tamil source pass unless new source-supported correction evidence appears during the visual-fidelity phase.
 
-All 37 anthology story workspaces have:
+## USER-AUTHORIZED CURRENT PHASE — VISUAL FIDELITY CHECK
 
-- complete Tamil page records and assemblies;
-- direct source audits;
-- persistent human possible-error queues where needed;
-- **0 blocked / 0 unresolved story text**.
+The user explicitly authorized **visual fidelity check** as the next phase.
 
-Edition-level title variances remain preserved, including:
+Follow `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-- TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`;
-- TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`.
+The check covers source-significant visual structure such as:
 
-## Story 37 — `நுனிக்கரும்பு` — FINAL ANTHOLOGY STORY
+- story headings and opening/ending roles;
+- paragraph boundaries and dialogue separation;
+- verse / song / display-line lineation;
+- intentional display emphasis or structural lead-ins;
+- opening rules, closing ornaments, illustrations and captions where source-significant;
+- page joins and story boundaries;
+- correct exclusion of running headers and printed page numbers from story body.
+
+It does not require facsimile recreation of fonts, exact prose line wraps, margins, paper colour or scan defects.
+
+If a visual check reveals a textual error, apply the permanent source rules: verify the complete source span, correct only what the scan supports, and propagate the correction through affected layers.
+
+## VISUAL-FIDELITY PHASE STATE
+
+See `VISUAL_FIDELITY_PROGRESS.md`.
+
+Current durable state:
+
+- complete: **0 / 37**
+- pending: **37 / 37**
+- needs recheck: **0**
+
+## NEXT EXACT ACTIVITY — STORY 1 ONLY
+
+Perform the visual fidelity check for Story 1 — **`புகழேந்தி`**.
 
 Canonical workspace:
 
-`stories/nunikkarumbu/`
+`stories/pugazhendhi/`
 
-Story 37 state:
+Source coordinates:
 
-- printed pages **244–250**;
-- scans **253–259**;
-- **7 / 7 verified**;
-- **0 needs-review status pages**;
-- **0 blocked**;
-- **0 unresolved story text**;
-- Tamil assembly complete;
-- audit PASS;
-- persistent human possible-error queue present;
-- English translation not started.
+- printed pages **1–6**
+- anthology scans **10–15**
+- scan **16** is the boundary witness and opens Story 2 `நளாயினி`
 
-Boundary checks completed:
+Required activity when I say **“Proceed with next activity”**:
 
-- scan **253** opens `நுனிக்கரும்பு`;
-- scan **259** contains the final story lines and closing ornament;
-- scan **260** is the physical back cover;
-- no back-cover matter is included in Story 37.
+1. Fetch live `main` and preserve newer work.
+2. Inspect source scans **10–15** directly.
+3. Compare every page with the committed page record and Tamil assembly.
+4. Check opening heading/rule, paragraph structure, dialogue/display lines, source-significant emphasis, page-role metadata, non-text marks, all physical joins, and the ending ornament.
+5. Inspect scan **16** only as the next-story boundary witness.
+6. Correct any source-significant structural mismatch found. If wording itself is wrong, use the full-span source-verification rules before correction.
+7. Create `stories/pugazhendhi/visual-fidelity.md` with findings and result.
+8. Update `VISUAL_FIDELITY_PROGRESS.md`.
+9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 2 only after Story 1 visual fidelity is fully closed.
+10. Re-fetch live `main` and changed controls before declaring closure.
+11. **Do not start Story 2 in the same activity.**
 
-Important physical joins include:
+Expected result: **1 / 37 visual-fidelity complete, 36 remaining**.
 
-- scans **257→258**: `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?`;
-- scans **258→259**: `“டே, டே! கண்ணு! எங்கே, தாத்தாவுக்கு வணக்கம் சொல்லு!”` → `என்று அவன் கரங்களைத் தொழுவதற்கான முறையில் கூப்பி வைத்தாள்.`.
+## PHASE GUARD
 
-Important source-close forms now durable include `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `சாடை`, `நாறுவது`, `அத்தனைநாள் கடந்தவம்`, `முன்னேடி`, `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `சாபங்`, `காலக்கடன்களை`, `கேட்டாமலே`, `தணலான`, `அடுக்குளப்பக்கம்`, `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, `இவனத் தெரியுமா?`, and `நம்பப் பயலா?`. These are source-faithful review-queue forms, not confirmed errors.
-
-The provisional `இவன் தெரியுமா?` reading was reopened during final scan-258 verification and corrected to source-supported **`இவனத் தெரியுமா?`** before closure.
-
-## NEXT EXACT ACTIVITY
-
-There is **no automatically authorized next phase** recorded after the anthology Tamil source pass.
-
-When I next say **“Proceed with next activity”**:
-
-1. Fetch live `main` first.
-2. If live repository state contains a newer explicitly authorized next phase, execute that exact phase.
-3. Otherwise, do **not** begin English translation, modernization, republication, or another downstream phase without my explicit authorization.
-4. Source-supported corrections to already completed stories remain allowed when I provide new evidence or request a recheck; propagate any correction through all affected Tamil, audit and control layers.
+Do not begin English translation, modernization, republication or another downstream phase during visual-fidelity work unless separately authorized by the user or mandated by newer live repository state.
 
 ## CONTROLLING-SOURCE RULES
 
-The supplied scan is the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs, title forms or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Exhaust native/high-resolution inspection, enlarged crops, alternate processing, character comparison and full-span verification before leaving story text unresolved. Older Tamil glyph shapes must be checked against the physical typeface and surrounding source evidence rather than modern-font expectations. `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors. Do not commit the PDF or generated crops/renders.
-
----
+The supplied scan remains the controlling textual authority. Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs, title forms or source anomalies. Do not guess unclear Tamil from context, OCR, memory or another edition. Older Tamil glyph shapes must be checked against the source typeface and full surrounding span. Do not commit the PDF or generated renders/crops.
