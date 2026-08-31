@@ -80,10 +80,10 @@ The user explicitly authorized **visual fidelity check** after Tamil source tran
 ## Visual-fidelity progress
 
 - total stories: **37**
-- complete: **6 / 37**
-- pending: **31 / 37**
+- complete: **7 / 37**
+- pending: **30 / 37**
 - needs recheck: **0**
-- current target: **Story 7 — `சங்கிலிச்சாமி`**
+- current target: **Story 8 — `கங்கையின் காதல்`**
 
 ### Story 1 — `புகழேந்தி` — VISUAL FIDELITY CLOSED
 
@@ -166,31 +166,55 @@ Structural-only corrections made:
 
 **No story wording changed during Story 6 visual-fidelity review.** The existing human possible-error queue remains unchanged.
 
-A prior control-path typo `stories/sandhana-kinnam/` was corrected during closure; the canonical repository workspace is **`stories/santhana-kinnam/`**.
+A prior control-path typo `stories/sandhana-kinnam/` was corrected during Story 6 closure; the canonical repository workspace is **`stories/santhana-kinnam/`**.
 
-## NEXT EXACT ACTIVITY — STORY 7 VISUAL FIDELITY ONLY
+### Story 7 — `சங்கிலிச்சாமி` — VISUAL FIDELITY CLOSED
 
-Story 7 — **`சங்கிலிச்சாமி`**:
+Canonical workspace: `stories/sangilichami/`
 
-- canonical workspace: `stories/sangilichami/`
 - printed pages: **48–59**
-- anthology scans: **57–68**
-- boundary witness: scan **69**, opening Story 8 **`கங்கையின் காதல்`**
+- scans: **57–68**
+- boundary witness: scan **69**, opening `கங்கையின் காதல்`
+- result: **PASS — corrected**
+- story-local record: `stories/sangilichami/visual-fidelity.md`
+
+Direct visual review covered all twelve source pages plus scan 69. Paragraph/dialogue boundaries, opening chant display, scan-58 petitions, scan-67 false-letter display/sign-off, page furniture and every physical join were checked.
+
+Structural-only corrections/annotations made:
+
+1. scan 57 / assembly: recorded the long horizontal rule beneath `சங்கிலிச்சாமி` and the two isolated opening chants;
+2. scan 58: four devotee petitions remain isolated as printed; printer signature `க—4` remains excluded as page furniture;
+3. scan 67 / assembly: explicitly recorded the false-letter display/sign-off and source-bold `சங்கிலிச்சாமி` signature;
+4. scan 68: `story-conclusion` → `story-ending`;
+5. scan 68 / assembly: recorded the centered floral closing ornament;
+6. page map synchronized with source-significant structure and the physical-join check;
+7. all 11 internal joins checked; scan **67→68** preserves the lexical sentence split `...அன்றைக்கே` → `ஆயிரம் ரூபாய்!`.
+
+**No story wording changed during Story 7 visual-fidelity review.** The existing human possible-error queue remains unchanged.
+
+## NEXT EXACT ACTIVITY — STORY 8 VISUAL FIDELITY ONLY
+
+Story 8 — **`கங்கையின் காதல்`**:
+
+- canonical workspace: `stories/gangaiyin-kadhal/`
+- printed pages: **60–63**
+- anthology scans: **69–72**
+- boundary witness: scan **73**, opening Story 9 **`தாய்மை`**
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` first and preserve newer work;
-2. inspect scans **57–68** directly from the controlling PDF;
-3. compare all twelve pages against `stories/sangilichami/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
-4. inspect scan **69** only as the next-story boundary witness;
+2. inspect scans **69–72** directly from the controlling PDF;
+3. compare all four pages against `stories/gangaiyin-kadhal/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
+4. inspect scan **73** only as the next-story boundary witness;
 5. check opening/ending roles, paragraph/dialogue structure, verse/display/emphasis, non-text marks, page furniture and every physical join;
 6. apply only source-supported structural corrections; if wording itself is wrong, verify the complete source span before correction and propagate all affected layers;
-7. create `stories/sangilichami/visual-fidelity.md`;
+7. create `stories/gangaiyin-kadhal/visual-fidelity.md`;
 8. update `VISUAL_FIDELITY_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-9. re-fetch live `main` and changed controls before declaring Story 7 visually complete;
-10. **do not begin Story 8 in the same activity**.
+9. re-fetch live `main` and changed controls before declaring Story 8 visually complete;
+10. **do not begin Story 9 in the same activity**.
 
-Expected result after Story 7 closure: **7 / 37 visual-fidelity complete, 30 pending**.
+Expected result after Story 8 closure: **8 / 37 visual-fidelity complete, 29 pending**.
 
 ## Downstream phase guard
 
@@ -199,5 +223,5 @@ Do **not** begin English translation, modernization, republication or another do
 ## Current closure state
 
 - Tamil source pass: **37 / 37 COMPLETE**
-- visual fidelity: **6 / 37 COMPLETE**
-- next exact activity: **Story 7 `சங்கிலிச்சாமி` visual fidelity**
+- visual fidelity: **7 / 37 COMPLETE**
+- next exact activity: **Story 8 `கங்கையின் காதல்` visual fidelity**
