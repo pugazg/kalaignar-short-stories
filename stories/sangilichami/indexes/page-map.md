@@ -15,7 +15,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 65 | 56 | story body | verified | `../pages/0065-sangilichami-09.md` |
 | 66 | 57 | story body | verified | `../pages/0066-sangilichami-10.md` |
 | 67 | 58 | story body | verified | `../pages/0067-sangilichami-11.md` |
-| 68 | 59 | story conclusion | verified | `../pages/0068-sangilichami-12.md` |
+| 68 | 59 | story ending | verified | `../pages/0068-sangilichami-12.md` |
 
 ## Status
 
@@ -28,3 +28,12 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 Scan **69** begins Story 8, `கங்கையின் காதல்`, and is outside this story range.
 
 Unusual but visually legible source forms remain in the page records and are separately queued in `../POSSIBLE_ERRORS_FOR_REVIEW.md`; the review queue does not by itself downgrade verified status.
+
+## Visual-fidelity notes
+
+- scan **57**: story opening with long horizontal rule; the two opening chants are isolated display lines;
+- scan **58**: four devotee petitions remain isolated as printed; printer signature `க—4` is page furniture and remains excluded from story text;
+- scan **67**: the false letter is a distinct display layer with separated `இங்ஙனம்,` sign-off and source-bold `சங்கிலிச்சாமி` signature;
+- scan **68**: `story-ending`; centered floral closing ornament is recorded;
+- all **11** internal physical joins were checked; the only lexical sentence split is scan **67→68**, `...அன்றைக்கே` → `ஆயிரம் ரூபாய்!`;
+- scan **69** independently confirms the next-story boundary, opening `கங்கையின் காதல்`.
