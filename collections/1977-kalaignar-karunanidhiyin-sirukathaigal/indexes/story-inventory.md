@@ -42,16 +42,16 @@
 | 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/amirthamathi/` |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | **Tamil source complete — 11/11 verified; human recheck queue open** — `stories/sumanthaval/` |
 | 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **Tamil source complete — 3/3 verified; human recheck queue open; source-title variance preserved** — `stories/siddharthan-silai/` |
-| 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | registered — not transcribed |
+| 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/nunikkarumbu/` |
 
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **36 / 37**
-- not yet transcribed: **1 / 37**
+- Tamil source processing complete: **37 / 37**
+- not yet transcribed: **0 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 36 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+All 37 canonical anthology story workspaces have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -67,11 +67,8 @@ Both source forms must be preserved.
 - relation: **scan = printed page + 9**
 - scan **260**: back cover
 
-## Next processing activity
+## Tamil source processing status
 
-Story 37 — **`நுனிக்கரும்பு`**:
+**COMPLETE — Stories 1–37 are fully source-processed and synchronized.**
 
-- printed pages **244–250**
-- anthology scans **253–259**
-
-Scan **253** is already confirmed as Story 37's opening. Before final Story 37 and anthology closure, visually confirm scan **260** is the back cover. Complete Story 37 only.
+Story 37 `நுனிக்கரும்பு` closes the story-text block on scan **259 / printed page 250**. Scan **260** is the verified back cover. No anthology Tamil story remains untranscribed.
