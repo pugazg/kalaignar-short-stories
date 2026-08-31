@@ -1,5 +1,7 @@
 # நளாயினி
 
+<!-- source opening rule: long horizontal rule directly beneath the story heading -->
+
 <!-- source scan 16; printed page 7 -->
 
 அழகான பெண். ஒளிமுகம் படைத்த உருக்குலையா மங்கை. வெள்ளை உடையாள் அவள் அன்ன நடைக்கு அழகு சேர்க்கிறாள். சிவந்த கழுத்திலே ஒரு கறுப்பு மணிமாலை. அந்தக் கோதி முடித்த கூந்தலையுடைய கோதை—கையில் ஒரு கூடையுடன் தெருவிலே போகிறாள். அப்பழுக்கற்ற பெண்ணத்தின் தனித் தன்மை வாய்ந்த அழகு ஊர்வலம்! இருள் படிந்த தெருவிலே அவள் நடந்து செல்வது—வையத்து மண்ணுக்கு வரவிழைந்த வானத்துத் தாரகைதான் வந்துற்றதோ என எண்ணத் தோன்றியது!
@@ -60,6 +62,8 @@
 
 விம்மி விம்மி அழுதபடி ஆசிரமத்துக்குள்ளே நுழைந்து தரையில் குப்புற விழுகிறாள் நளாயினி. அவளது நீலத் திருவிழிகளிலேயிருந்து நீர்வீழ்ச்சிகள் புறப்படுகின்றன. முழு நிலவை மறைக்கும் முகிலென அவள் முகத்தை மறைக்கிறது விரிந்து கிடக்கும் கருங்கூந்தல்.
 
+<!-- source display structure: enlarged initial `ச` marks the paragraph opening `சோலையின்...` -->
+
 சோலையின் பக்கமிருந்து ஒரு கீதம் ஆசிரமத்துக்குள்ளே கேட்கிறது. அழுது கொண்டேயிருக்கும் நளாயினி அந்தக் கீதத்தைக் கவனிக்கிறாள். ஆம்—உலகாவின் குரல் அது! அதோடு இன்னொரு ஆண் குரலும் கீதமிசைக்கிறது! ‘என்னைப் பத்தினியென ஒத்துக்கொண்டு—என் கரங்களைக் கண்ணிலே ஒத்திக்கொண்ட உலகா தன் காதலனுடன்—கள்ளக் காதலுடன் கனி மரச் சோலையில் இன்ப கீதம் பாடுகிறாள். என் வயதுதான் அவளுக்கும்; அவளைவிட அழகி நான். நானே இங்கே நாதியற்றுக் கிடக்கிறேன். “தேனே! மானே!” என்று அவளை வர்ணித்துக் கொண்டிருப்பான் அவள் காதலன்.’
 
 இப்படி எண்ணுதெல்லாம் எண்ணுகிறாள் நளாயினி. மீண்டும் அழுகிறாள். ஆசிரமத்துக் கதவு திறக்கப்படுகிறது. அழுகையை நிறுத்தினாள். ஆனால் கண்களைத் துடைக்கவில்லை; கதவைத் திறந்து கொண்டு ஒரு பெண் உள்ளே வருகிறாள். ஏறத்தாழ நளாயினியும் அவளும் ஒரே மாதிரி காணப்படு
@@ -104,10 +108,12 @@
 
 “புரிந்துகொண்டேன்!” என்று பூரிப்புடன் துள்ளியபடி நளாயினி, இதயாவைத் தழுவிக்கொள்கிறாள். சோகக் கண்ணீர், ஆனந்தக் கண்ணீராக மாறிவிட்டது அவளுக்கு! அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!
 
-## அச்சு குறிப்பு
+<!-- source separator: long horizontal rule between the narrative conclusion and the printed note -->
 
 **குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.**
 
+<!-- source closing ornament: centered short horizontal rule with three small central diamond-like marks -->
+
 ## Assembly note
 
-This reading layer is assembled from the eight verified page records, scans 16–23 / printed pages 7–14. Physical page boundaries remain explicit. The printed note on page 14 is preserved separately from the narrative conclusion. Suspicious/unusual readings are tracked in `../POSSIBLE_ERRORS_FOR_REVIEW.md`; they are not silently normalized here.
+This reading layer is assembled from the eight verified page records, scans 16–23 / printed pages 7–14. Physical page boundaries remain explicit. Visual-fidelity structure now records the opening underline, the scan-20 enlarged paragraph initial, the separator above the printed page-14 note, and the closing ornament. The printed note remains separate from the narrative conclusion. Suspicious/unusual readings are tracked in `../POSSIBLE_ERRORS_FOR_REVIEW.md`; they are not silently normalized here.
