@@ -3,7 +3,7 @@ scan_page: 46
 printed_page: 37
 story: "kuppai-thotti"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -20,12 +20,14 @@ transcription_method: "direct visual comparison with native source scan; enlarge
 
 கழுத்து முறிக்கப்பட்டிருக்கிறது—சரிதான் அவள்தான் குழந்தையின் தாய்! குழந்தையை என் வயிற்றுக்குள் போட்டுப் போகிறாள்—போட்டேவிட்டாள்; அவள் ஓடுகிறாள்; என்னைப் போலீஸ் வரையிலே மாட்டி விட்டு அவள் ஓடுகிறாள்—ஏன் ஓடுகிறாள்? புரிகிறது! புரிகிறது! அவள் கழுத்தில் தாலியைக் காணோம்.
 
+<!-- source closing ornament: centered short horizontal floral/diamond-like mark beneath the final sentence -->
+
 ## Source-review note
 
 - The opening directly completes scan 45's `இந்நாட்டு மன்னர்களிலே ஒருவனல்லவா,`.
 - High-resolution review confirms the printed form `போனேனோ`; it is not normalized to a contextually expected alternative.
 - Enlarged review also resolves `சற்று மறைந்து கொள்கிறாள்`, `துறவிகளைவிட`, and the final `ஏன் ஓடுகிறாள்?`.
-- The ornamental rule below the last sentence is non-text decoration.
+- Visual-fidelity review normalizes this page's structural role to `story-ending` and records the centered closing ornament; story wording is unchanged.
 - Scan 47 was inspected separately and begins Story 6, `சந்தனக்கிண்ணம்`; no scan-47 text is included here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 46; அச்சுப் பக்கம்: 37 -->
