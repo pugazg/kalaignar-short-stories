@@ -22,7 +22,7 @@ Always fetch live GitHub `main` first. Live `main` is authoritative over chat su
 - Difficult story readings require full-span visual escalation before terminal `blocked` status.
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors.
 - A source-supported textual correction must be propagated through all affected page, assembly, audit and control layers.
-- Running headers and printed page numbers are page furniture, not story body.
+- Running headers, printed page numbers and printer signatures are page furniture, not story body.
 - Do not commit the source PDF or generated page renders/crops.
 
 ## Mandatory startup
@@ -80,10 +80,10 @@ The user explicitly authorized **visual fidelity check** after Tamil source tran
 ## Visual-fidelity progress
 
 - total stories: **37**
-- complete: **2 / 37**
-- pending: **35 / 37**
+- complete: **3 / 37**
+- pending: **34 / 37**
 - needs recheck: **0**
-- current target: **Story 3 — `சபலம்`**
+- current target: **Story 4 — `ஆட்டக்காவடி`**
 
 ### Story 1 — `புகழேந்தி` — VISUAL FIDELITY CLOSED
 
@@ -94,50 +94,61 @@ The user explicitly authorized **visual fidelity check** after Tamil source tran
 
 ### Story 2 — `நளாயினி` — VISUAL FIDELITY CLOSED
 
-Canonical workspace: `stories/nalayini/`
-
-- printed pages: **7–14**
-- scans: **16–23**
-- boundary witness: scan **24**, opening `சபலம்`
+- scans **16–23 / printed pages 7–14**
 - result: **PASS — corrected**
-- story-local record: `stories/nalayini/visual-fidelity.md`
+- record: `stories/nalayini/visual-fidelity.md`
+- corrections were structural only; story wording changed: **No**
 
-Direct visual review covered all eight source pages plus scan 24. Paragraph/dialogue separation, page furniture and all physical joins were checked.
+### Story 3 — `சபலம்` — VISUAL FIDELITY CLOSED
+
+Canonical workspace: `stories/sabalam/`
+
+- printed pages: **15–21**
+- scans: **24–30**
+- boundary witness: scan **31**, opening `ஆட்டக்காவடி`
+- result: **PASS — corrected**
+- story-local record: `stories/sabalam/visual-fidelity.md`
+
+Direct visual review covered all seven source pages plus scan 31. Paragraph/dialogue separation, page furniture and every physical join were checked.
 
 Structural-only corrections made:
 
-1. scan 16 / assembly: recorded the long horizontal rule beneath `நளாயினி`;
-2. scan 20 / assembly: recorded the enlarged initial `ச` marking the `சோலையின்...` paragraph opening;
-3. scan 23: `story-conclusion-and-note` → `story-ending`;
-4. scan 23: removed non-source display headings `அச்சு உரை` and `அச்சு குறிப்பு`;
-5. scan 23 / assembly: recorded the long separator above the printed `குறிப்பு :—` and the centered closing ornament below it;
-6. page map synchronized with these source-significant roles.
+1. scan 24 / assembly: recorded the long horizontal rule beneath `சபலம்`;
+2. scan 28 / assembly: recorded the enlarged initial `வ` marking the new `வண்டி...` paragraph;
+3. scan 30: `story-conclusion` → `story-ending`;
+4. scan 30: removed the non-source display heading `அச்சு உரை`;
+5. scan 30 / assembly: recorded the centered closing ornament;
+6. page map synchronized with the source-significant roles.
 
-**No story wording changed during Story 2 visual-fidelity review.** The printed note remains separate from the narrative conclusion. The existing human possible-error queue remains unchanged.
+The visually prominent initial `இ` at the top of scan 27 was **not** encoded as a semantic drop-cap because `இருந்தவர்கள்...` is a direct continuation of scan 26's unfinished `அந்தப் பெட்டியில்`.
 
-## NEXT EXACT ACTIVITY — STORY 3 VISUAL FIDELITY ONLY
+Scan 26's printer gathering signature `க—2`, running headers and printed page numbers remain excluded as page furniture.
 
-Story 3 — **`சபலம்`**:
+**No story wording changed during Story 3 visual-fidelity review.** The existing human possible-error queue remains unchanged.
 
-- canonical workspace: `stories/sabalam/`
-- printed pages: **15–21**
-- anthology scans: **24–30**
-- boundary witness: scan **31**, opening Story 4 **`ஆட்டக்காவடி`**
+## NEXT EXACT ACTIVITY — STORY 4 VISUAL FIDELITY ONLY
+
+Story 4 — **`ஆட்டக்காவடி`**:
+
+- canonical workspace: `stories/aattakkavadi/`
+- printed pages: **22–29**
+- anthology scans: **31–38**
+- boundary witness: scan **39**, opening Story 5 **`குப்பைத்தொட்டி`**
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` first and preserve newer work;
-2. inspect scans **24–30** directly from the controlling PDF;
-3. compare all seven pages against `stories/sabalam/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
-4. inspect scan **31** only as the next-story boundary witness;
+2. inspect scans **31–38** directly from the controlling PDF;
+3. compare all eight pages against `stories/aattakkavadi/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
+4. inspect scan **39** only as the next-story boundary witness;
 5. check opening/ending roles, paragraph/dialogue structure, display/verse/emphasis, non-text marks, page furniture and every physical join;
 6. apply only source-supported structural corrections; if wording itself is wrong, verify the complete source span before correction and propagate all affected layers;
-7. create `stories/sabalam/visual-fidelity.md`;
+7. create `stories/aattakkavadi/visual-fidelity.md`;
 8. update `VISUAL_FIDELITY_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-9. re-fetch live `main` and changed controls before declaring Story 3 visually complete;
-10. **do not begin Story 4 in the same activity**.
+9. re-fetch live `main` and changed controls before declaring Story 4 visually complete;
+10. **do not begin Story 5 in the same activity**.
 
-Expected result after Story 3 closure: **3 / 37 visual-fidelity complete, 34 pending**.
+Expected result after Story 4 closure: **4 / 37 visual-fidelity complete, 33 pending**.
 
 ## Downstream phase guard
 
@@ -146,5 +157,5 @@ Do **not** begin English translation, modernization, republication or another do
 ## Current closure state
 
 - Tamil source pass: **37 / 37 COMPLETE**
-- visual fidelity: **2 / 37 COMPLETE**
-- next exact activity: **Story 3 `சபலம்` visual fidelity**
+- visual fidelity: **3 / 37 COMPLETE**
+- next exact activity: **Story 4 `ஆட்டக்காவடி` visual fidelity**
