@@ -39,7 +39,7 @@
 | 31 | `அய்யோ ராஜா!` | `அய்யோ ராஜா!` | 202–208 | 211–217 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/ayyo-raja/` |
 | 32 | `விஷம் இனிது` | `விஷம் இனிது` | 209–215 | 218–224 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/visham-inidhu/` |
 | 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/veniyin-kadhalan/` |
-| 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | registered — not transcribed |
+| 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/amirthamathi/` |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | registered — not transcribed |
 | 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | registered — not transcribed; **source-title variance** |
 | 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **33 / 37**
-- not yet transcribed: **4 / 37**
+- Tamil source processing complete: **34 / 37**
+- not yet transcribed: **3 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 33 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 34 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 34 — **`அமிர்தமதி`**:
+Story 35 — **`சுமந்தவள்`**:
 
-- printed pages **222–229**
-- anthology scans **231–238**
+- printed pages **230–240**
+- anthology scans **239–249**
 
-Scan **231** is already confirmed as Story 34's opening. Before closure, visually confirm scan **239** begins Story 35 `சுமந்தவள்`. Do not create or transcribe Story 35 in the same activity.
+Scan **239** is already confirmed as Story 35's opening. Before closure, visually confirm scan **250** begins Story 36 with opening heading `சித்தார்த்தன் சிலை` (TOC title `சித்தார்த்தன்`). Do not create or transcribe Story 36 in the same activity.
