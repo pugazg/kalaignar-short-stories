@@ -1,3 +1,5 @@
+<!-- source opening ornament: centered horizontal rule with a small central diamond-like motif -->
+
 # புகழேந்தி
 
 > **Assembled Tamil archival reading text.** Controlling source: 1977 anthology `கலைஞர் கருணாநிதியின் சிறுகதைகள்`, scans **10–15**, printed pages **1–6**. Page-boundary comments are retained for traceability. Unusual source readings are not silently modernized; see `../POSSIBLE_ERRORS_FOR_REVIEW.md`.
@@ -78,11 +80,16 @@
 
 “மேதை வாழ்க!” என்ற முழக்கத்துடன் மாணவர்களும் ஆசிரியர்களும் கிளம்பினார்கள்.
 
+<!-- source closing ornament: centered horizontal rule with three small central diamond-like marks -->
+
 ## Assembly note
 
 - Source scope: anthology scans **10–15**, printed pages **1–6**.
 - All **6 / 6** story pages are represented once and in order.
 - Cross-page joins remain traceable at 1→2, 3→4 and 5→6.
+- Source opening and closing ornamented rules are recorded conservatively without facsimile recreation.
+- Scan 11's isolated `புகழ்! புகழ்!! புகழ்!!!` display line remains isolated and emphasized as a semantic approximation of the source presentation.
 - No story text from scan 16 / `நளாயினி` is included.
 - Current source disposition: **6 verified / 0 needs-review / 0 blocked**.
+- Visual fidelity: **PASS — corrected**; structural corrections only, with no story-wording change.
 - Possible-but-not-confirmed transcription concerns are listed separately in `../POSSIBLE_ERRORS_FOR_REVIEW.md`.
