@@ -47,7 +47,7 @@ Before visual-fidelity source work:
 ## Active collection source — 1977 anthology
 
 - title: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**
-- filename: `TVA_BOK_0064142_கலைஞரின்_கருணாநிதியின்_சிறுகதைகள்.pdf` is **not** the registered filename; the registered controlling filename remains `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- filename: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
 - file size: **268,486,609 bytes**
 - PDF scans: **260**
