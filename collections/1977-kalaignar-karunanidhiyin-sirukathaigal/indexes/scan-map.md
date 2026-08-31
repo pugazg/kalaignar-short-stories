@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **32/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **33/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -52,7 +52,7 @@
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **complete — 6/6 verified** |
 | 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **complete — 7/7 verified** |
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | **complete — 7/7 verified** |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | not started |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **complete — 6/6 verified** |
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | not started |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | not started |
 | 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | not started |
@@ -60,9 +60,9 @@
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–32, scans **10–224**. Story 32 `விஷம் இனிது` is complete for scans **218–224 / printed pages 209–215**, with **7/7 verified**, 0 blocked and 0 unresolved story text. Scan **225 / printed page 216** was visually confirmed as the opening of Story 33 `வேணியின் காதலன்` while closing the Story 32 boundary.
+Completed Tamil source passes are Stories 1–33, scans **10–230**. Story 33 `வேணியின் காதலன்` is complete for scans **225–230 / printed pages 216–221**, with **6/6 verified**, 0 blocked and 0 unresolved story text. Scan **231 / printed page 222** was visually confirmed as the opening of Story 34 `அமிர்தமதி` while closing the Story 33 boundary.
 
-Next active source range: **Story 33 `வேணியின் காதலன்`, scans 225–230 / printed pages 216–221**. Its ending must be checked against scan **231**, which should begin Story 34 `அமிர்தமதி`.
+Next active source range: **Story 34 `அமிர்தமதி`, scans 231–238 / printed pages 222–229**. Its ending must be checked against scan **239**, which should begin Story 35 `சுமந்தவள்`.
 
 ## Per-story page-record policy
 
