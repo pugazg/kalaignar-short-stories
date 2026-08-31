@@ -13,9 +13,7 @@
 
 ## Authoritative-state rule
 
-Always fetch live GitHub `main` first. Live `main` is authoritative over chat summaries, prompts and remembered checkpoints.
-
-Only files reachable from live `main` are durable project state.
+Always fetch live GitHub `main` first. Live `main` is authoritative over chat summaries, prompts and remembered checkpoints. Preserve any newer durable state.
 
 ## Permanent source rules
 
@@ -25,6 +23,7 @@ Only files reachable from live `main` are durable project state.
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors.
 - A source-supported textual correction must be propagated through all affected page, assembly, audit and control layers.
 - Running headers and printed page numbers are normally page furniture, not story body.
+- Do not commit the source PDF or generated page renders/crops.
 
 ## Mandatory startup
 
@@ -74,61 +73,66 @@ Edition-level source-title variances already preserved include:
 - TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`
 - TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`
 
-## USER-AUTHORIZED NEXT PHASE — VISUAL FIDELITY CHECK
+## USER-AUTHORIZED CURRENT PHASE — VISUAL FIDELITY CHECK
 
-The user explicitly authorized **visual fidelity check** as the next activity after Tamil source transcription.
+The user explicitly authorized **visual fidelity check** after Tamil source transcription.
 
-This phase is governed by `VISUAL_FIDELITY_CHECK_GUIDE.md`.
-
-Visual fidelity means checking source-significant visual structure against the committed archival Markdown, including:
-
-- story opening / ending structure;
-- paragraph boundaries and dialogue separation;
-- verse / display-line lineation;
-- intentional emphasis / structural display treatment;
-- rules, ornaments, illustrations and captions where source-significant;
-- page-role metadata (`story-opening`, `story`, `story-ending`) where applicable;
-- page joins and physical boundaries;
-- exclusion of running headers / page numbers from story body.
-
-It does **not** mean recreating original fonts, exact prose line wraps, paper colour, margins or scan defects.
-
-If a visual check exposes an actual textual error, reopen that reading under the permanent source rules and propagate the source-supported correction. Do not normalize surrounding wording.
+This phase is governed by `VISUAL_FIDELITY_CHECK_GUIDE.md` and checks source-significant visual structure rather than facsimile typography.
 
 ## Visual-fidelity progress
 
-See `VISUAL_FIDELITY_PROGRESS.md` for the durable tracker.
-
-Current phase state:
-
-- visual fidelity complete: **0 / 37**
-- pending: **37 / 37**
+- total stories: **37**
+- visual fidelity complete: **1 / 37**
+- pending: **36 / 37**
 - needs recheck: **0**
-- current target: **Story 1 — `புகழேந்தி`**
+- current target: **Story 2 — `நளாயினி`**
 
-## NEXT EXACT ACTIVITY — STORY 1 VISUAL FIDELITY ONLY
+### Story 1 — `புகழேந்தி` — VISUAL FIDELITY CLOSED
 
-Story 1 — **`புகழேந்தி`**:
+Canonical workspace: `stories/pugazhendhi/`
 
-- canonical workspace: `stories/pugazhendhi/`
 - printed pages: **1–6**
-- anthology scans: **10–15**
-- boundary witness: scan **16**, opening Story 2 `நளாயினி`
+- scans: **10–15**
+- boundary witness: scan **16**, opening `நளாயினி`
+- result: **PASS — corrected**
+- story-local record: `stories/pugazhendhi/visual-fidelity.md`
+
+Direct visual review covered all six pages plus the boundary witness. Paragraph/dialogue structure, the isolated scan-11 `புகழ்! புகழ்!! புகழ்!!!` display line, page furniture, physical joins and story boundary were checked.
+
+Structural-only corrections made:
+
+1. scan 10 page record: `story-body` → `story-opening`;
+2. scan 10 page record: removed non-source Markdown heading `அச்சு உரை`;
+3. scan 10 / assembly: recorded the source opening ornamented rule above `புகழேந்தி`;
+4. scan 15 page record: `story-body` → `story-ending`;
+5. scan 15 / assembly: recorded the source closing ornamented rule;
+6. Tamil assembly synchronized with the source-significant visual structure.
+
+**No story wording changed during Story 1 visual-fidelity review.**
+
+## NEXT EXACT ACTIVITY — STORY 2 VISUAL FIDELITY ONLY
+
+Story 2 — **`நளாயினி`**:
+
+- canonical workspace: `stories/nalayini/`
+- printed pages: **7–14**
+- anthology scans: **16–23**
+- boundary witness: scan **24**, opening Story 3 **`சபலம்`**
 
 When the user says **“Proceed with next activity”**:
 
-1. fetch live `main` first;
-2. inspect scans **10–15** directly from the controlling PDF;
-3. compare all six pages against `stories/pugazhendhi/pages/` and `sections/pugazhendhi.md` under the visual-fidelity guide;
-4. inspect scan **16** only as the next-story boundary witness;
-5. correct source-significant structural mismatches and any source-supported textual mismatch found during the visual pass;
-6. create `stories/pugazhendhi/visual-fidelity.md`;
-7. update `VISUAL_FIDELITY_PROGRESS.md`;
-8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 2 only after Story 1 visual fidelity is fully closed;
-9. re-fetch live `main` and changed controls before declaring Story 1 visual fidelity complete;
-10. do **not** begin Story 2 in the same activity.
+1. fetch live `main` first and preserve newer work;
+2. inspect scans **16–23** directly from the controlling PDF;
+3. compare all eight pages against `stories/nalayini/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
+4. inspect scan **24** only as the next-story boundary witness;
+5. check opening/ending roles, paragraph/dialogue structure, display/verse/emphasis, non-text marks, page furniture and every physical join;
+6. apply only source-supported visual-structure corrections, and textual corrections only if the controlling scan directly proves them;
+7. create `stories/nalayini/visual-fidelity.md`;
+8. update `VISUAL_FIDELITY_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
+9. re-fetch live `main` and changed controls before declaring Story 2 visually complete;
+10. **do not begin Story 3 in the same activity**.
 
-Expected result after this activity: **1 / 37 visual-fidelity complete, 36 remaining**.
+Expected result after Story 2 closure: **2 / 37 visual-fidelity complete, 35 pending**.
 
 ## Downstream phase guard
 
@@ -137,5 +141,5 @@ Visual fidelity is the authorized current phase. Do **not** begin English transl
 ## Current closure state
 
 - Tamil source pass: **37 / 37 COMPLETE**
-- visual fidelity: **AUTHORIZED — 0 / 37 COMPLETE**
-- next exact activity: **Story 1 `புகழேந்தி` visual fidelity**
+- visual fidelity: **1 / 37 COMPLETE**
+- next exact activity: **Story 2 `நளாயினி` visual fidelity**
