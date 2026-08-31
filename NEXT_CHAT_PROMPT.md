@@ -1,6 +1,6 @@
 # NEXT CHAT PROMPT — Kalaignar Short Stories Archive
 
-Copy the prompt below into a new chat window. Attach the controlling anthology PDF again before any new source-dependent transcription or visual verification.
+Copy the prompt below into a new chat window when continuing this repository. Attach the controlling anthology PDF again before any new source-dependent transcription or visual verification.
 
 ---
 
@@ -30,33 +30,44 @@ Read completely before making project changes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect the latest completed Story 36 workspace `stories/siddharthan-silai/` as the immediate structural reference. Do not copy its story wording into Story 37.
+Then inspect the latest relevant canonical story workspace. For the anthology completion boundary, the immediate reference is `stories/nunikkarumbu/`.
 
 ## FULLY SYNCHRONIZED DURABLE STATE
 
-Stories **1–36** are fully closed and synchronized into root/collection progress controls.
+The 1977 anthology Tamil source pass is **complete**.
 
 Anthology status:
 
 - registered stories: **37 / 37**;
-- Tamil source processing complete: **36 / 37**;
-- remaining unprocessed stories: **1**;
-- English translation started from anthology: **0 / 37**.
+- Tamil source processing complete: **37 / 37**;
+- remaining unprocessed stories: **0**;
+- English translation started from anthology: **0 / 37**;
+- story-text coverage: scans **10–259 / printed pages 1–250**;
+- scan **260**: visually confirmed back cover.
 
-Story 36 has two source title forms and both must remain preserved:
+All 37 anthology story workspaces have:
 
-- TOC title: **`சித்தார்த்தன்`**;
-- story-opening heading / canonical display title: **`சித்தார்த்தன் சிலை`**.
+- complete Tamil page records and assemblies;
+- direct source audits;
+- persistent human possible-error queues where needed;
+- **0 blocked / 0 unresolved story text**.
 
-Story 36 canonical workspace:
+Edition-level title variances remain preserved, including:
 
-`stories/siddharthan-silai/`
+- TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`;
+- TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`.
 
-Story 36 state:
+## Story 37 — `நுனிக்கரும்பு` — FINAL ANTHOLOGY STORY
 
-- printed pages **241–243**;
-- scans **250–252**;
-- **3 / 3 verified**;
+Canonical workspace:
+
+`stories/nunikkarumbu/`
+
+Story 37 state:
+
+- printed pages **244–250**;
+- scans **253–259**;
+- **7 / 7 verified**;
 - **0 needs-review status pages**;
 - **0 blocked**;
 - **0 unresolved story text**;
@@ -65,49 +76,32 @@ Story 36 state:
 - persistent human possible-error queue present;
 - English translation not started.
 
-Boundary checks already completed:
+Boundary checks completed:
 
-- scan **250** opens `சித்தார்த்தன் சிலை`;
-- scan **252** contains the final exchange and closing ornament;
-- scan **253** opens Story 37 `நுனிக்கரும்பு`;
-- no Story 37 text is included in Story 36.
+- scan **253** opens `நுனிக்கரும்பு`;
+- scan **259** contains the final story lines and closing ornament;
+- scan **260** is the physical back cover;
+- no back-cover matter is included in Story 37.
 
-Important physical joins already verified include:
+Important physical joins include:
 
-- scans **250→251**: `...அவளோடு வாழ்வதிலே காண்கின்றேன் எனப் பெருமை கொண்டிருந்தான்.` → `அத்தகையோன் எப்படித்தான் அவளைப் பிரிந்தான்...`;
-- scans **251→252**: `...அவளருகே உறங்குகின்ற அருமைச்` → `செல்வன்—இருவரையும் ஏங்கவிட்டு “அன்பு” போதிக்கத் துறவு பூண்டவன் நான்.`.
+- scans **257→258**: `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?`;
+- scans **258→259**: `“டே, டே! கண்ணு! எங்கே, தாத்தாவுக்கு வணக்கம் சொல்லு!”` → `என்று அவன் கரங்களைத் தொழுவதற்கான முறையில் கூப்பி வைத்தாள்.`.
 
-Important source-close forms now durable include `கெண்டை`, `அன்றித்`, `என்றெண்ணத்`, `நடைபழகில்`, `ஒளி!,`, `அவளைப் பெற்றவனே-உலகம்!`, `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி`, `அவனிக்கு`, `துணவியிடம்`, `வைக்க-உலகோரின்`, `அவரில்லை`, and `தீமை! தீமை!!`. These are source-faithful review-queue forms, not confirmed errors.
+Important source-close forms now durable include `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `சாடை`, `நாறுவது`, `அத்தனைநாள் கடந்தவம்`, `முன்னேடி`, `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `சாபங்`, `காலக்கடன்களை`, `கேட்டாமலே`, `தணலான`, `அடுக்குளப்பக்கம்`, `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, `இவனத் தெரியுமா?`, and `நம்பப் பயலா?`. These are source-faithful review-queue forms, not confirmed errors.
 
-## NEXT EXACT ACTIVITY — STORY 37 SOURCE WORK ONLY
+The provisional `இவன் தெரியுமா?` reading was reopened during final scan-258 verification and corrected to source-supported **`இவனத் தெரியுமா?`** before closure.
 
-Execute this directly when I say **“Proceed with next activity”**. Do not ask me to choose a routine next step.
+## NEXT EXACT ACTIVITY
 
-Story 37 — **`நுனிக்கரும்பு`**:
+There is **no automatically authorized next phase** recorded after the anthology Tamil source pass.
 
-- printed pages **244–250**;
-- anthology scans **253–259**;
-- scan **253** is already visually confirmed as the Story 37 opening;
-- this is the final story in the anthology;
-- before Story 37 closure, visually inspect scan **260** and confirm it is the back-cover boundary witness;
-- do not include scan-260 back-cover matter in Story 37 story text.
+When I next say **“Proceed with next activity”**:
 
-Required activity:
-
-1. Fetch live `main` again and preserve newer work if present.
-2. Confirm there is no existing matching canonical Story 37 workspace requiring deduplication or additional-witness handling.
-3. Use the controlling PDF for Story 37 scans **253–259** only.
-4. Create/process the Story 37 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
-5. Preserve source spelling, punctuation, paragraphing, names, historical forms and anomalies exactly; do not silently normalize.
-6. Pay explicit attention to **old Tamil glyph forms**. Do not interpret an older glyph by modern-font appearance alone; compare the full source span and neighboring occurrences before deciding a reading.
-7. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
-8. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
-9. Confirm scan **260** is the back cover / final anthology boundary witness.
-10. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 37 is fully complete.
-11. Re-fetch live `main` plus changed controls before declaring the anthology Tamil source pass complete.
-12. Do **not** begin English translation or another downstream phase in the same activity unless explicitly authorized by the user or mandated by newer live repository state.
-
-Expected result after Story 37 closure: **37 / 37 anthology Tamil source stories fully synchronized complete, 0 remaining**.
+1. Fetch live `main` first.
+2. If live repository state contains a newer explicitly authorized next phase, execute that exact phase.
+3. Otherwise, do **not** begin English translation, modernization, republication, or another downstream phase without my explicit authorization.
+4. Source-supported corrections to already completed stories remain allowed when I provide new evidence or request a recheck; propagate any correction through all affected Tamil, audit and control layers.
 
 ## CONTROLLING-SOURCE RULES
 
