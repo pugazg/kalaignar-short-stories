@@ -20,6 +20,8 @@ transcription_method: "direct visual comparison with native embedded scan; full-
 
 விம்மி விம்மி அழுதபடி ஆசிரமத்துக்குள்ளே நுழைந்து தரையில் குப்புற விழுகிறாள் நளாயினி. அவளது நீலத் திருவிழிகளிலேயிருந்து நீர்வீழ்ச்சிகள் புறப்படுகின்றன. முழு நிலவை மறைக்கும் முகிலென அவள் முகத்தை மறைக்கிறது விரிந்து கிடக்கும் கருங்கூந்தல்.
 
+<!-- source display structure: enlarged initial `ச` marks the paragraph opening `சோலையின்...` -->
+
 சோலையின் பக்கமிருந்து ஒரு கீதம் ஆசிரமத்துக்குள்ளே கேட்கிறது. அழுது கொண்டேயிருக்கும் நளாயினி அந்தக் கீதத்தைக் கவனிக்கிறாள். ஆம்—உலகாவின் குரல் அது! அதோடு இன்னொரு ஆண் குரலும் கீதமிசைக்கிறது! ‘என்னைப் பத்தினியென ஒத்துக்கொண்டு—என் கரங்களைக் கண்ணிலே ஒத்திக்கொண்ட உலகா தன் காதலனுடன்—கள்ளக் காதலுடன் கனி மரச் சோலையில் இன்ப கீதம் பாடுகிறாள். என் வயதுதான் அவளுக்கும்; அவளைவிட அழகி நான். நானே இங்கே நாதியற்றுக் கிடக்கிறேன். “தேனே! மானே!” என்று அவளை வர்ணித்துக் கொண்டிருப்பான் அவள் காதலன்.’
 
 இப்படி எண்ணுதெல்லாம் எண்ணுகிறாள் நளாயினி. மீண்டும் அழுகிறாள். ஆசிரமத்துக் கதவு திறக்கப்படுகிறது. அழுகையை நிறுத்தினாள். ஆனால் கண்களைத் துடைக்கவில்லை; கதவைத் திறந்து கொண்டு ஒரு பெண் உள்ளே வருகிறாள். ஏறத்தாழ நளாயினியும் அவளும் ஒரே மாதிரி காணப்படு
@@ -27,6 +29,8 @@ transcription_method: "direct visual comparison with native embedded scan; full-
 ## Source-review note
 
 - The opening completes scan 19's unfinished quotation.
+- Visual-fidelity review records the enlarged source initial `ச` at the start of the `சோலையின்...` paragraph as a structural paragraph-opening effect; no facsimile font treatment is attempted.
+- The repeated story-title running header and printed page number are page furniture and remain excluded from story text.
 - Page-ending `காணப்படு` continues onto scan 21 / printed page 12 as `கிறார்கள்.`
 - `க்ஷமித்துவிடு`, `புண்ய வதியையும்`, `தோத்திரம்`, `கீதமிசைக்கிறது`, and `எண்ணுதெல்லாம்` are kept source-close and listed for later human recheck.
 
