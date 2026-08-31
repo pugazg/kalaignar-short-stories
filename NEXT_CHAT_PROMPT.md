@@ -30,30 +30,30 @@ Read completely before making project changes:
 6. collection `indexes/story-inventory.md`
 7. collection `indexes/scan-map.md`
 
-Then inspect the latest completed Story 33 workspace `stories/veniyin-kadhalan/` as the immediate structural reference. Do not copy its story wording into Story 34.
+Then inspect the latest completed Story 34 workspace `stories/amirthamathi/` as the immediate structural reference. Do not copy its story wording into Story 35.
 
 ## FULLY SYNCHRONIZED DURABLE STATE
 
-Stories **1–33** are fully closed and synchronized into root/collection progress controls.
+Stories **1–34** are fully closed and synchronized into root/collection progress controls.
 
 Anthology status:
 
 - registered stories: **37 / 37**;
-- Tamil source processing complete: **33 / 37**;
-- remaining unprocessed stories: **4**;
+- Tamil source processing complete: **34 / 37**;
+- remaining unprocessed stories: **3**;
 - English translation started from anthology: **0 / 37**.
 
-Story 33 — **`வேணியின் காதலன்`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
+Story 34 — **`அமிர்தமதி`** — is complete and must not be re-transcribed without new source-supported correction evidence or a live-repository inconsistency.
 
-Story 33 canonical workspace:
+Story 34 canonical workspace:
 
-`stories/veniyin-kadhalan/`
+`stories/amirthamathi/`
 
-Story 33 state:
+Story 34 state:
 
-- printed pages **216–221**;
-- scans **225–230**;
-- **6 / 6 verified**;
+- printed pages **222–229**;
+- scans **231–238**;
+- **8 / 8 verified**;
 - **0 needs-review status pages**;
 - **0 blocked**;
 - **0 unresolved story text**;
@@ -64,47 +64,46 @@ Story 33 state:
 
 Boundary checks already completed:
 
-- scan **225** opens Story 33 `வேணியின் காதலன்`;
-- scan **230** closes Story 33 with its final scene and ornament;
 - scan **231** opens Story 34 `அமிர்தமதி`;
-- no Story 34 text is included in Story 33.
+- scan **238** closes Story 34 with its final dialogue and ornament;
+- scan **239** opens Story 35 `சுமந்தவள்`;
+- no Story 35 text is included in Story 34.
 
-Important source correction now durable:
+Important physical joins already verified include:
 
-- scan **228** reads **`கூண்டுக் கிளி ஆக்குவேனென்றான்`**;
-- provisional `கூண்டுக் கிளி ஆகுவேனென்றான்` was rejected after direct full-span reinspection;
-- the corrected reading is propagated through all Story 33 canonical layers.
+- scans **234→235**: `...அவர்கள் ஓடி, ஆடிப்பாடி` → `அரசனை அழைத்து வருவர்.`;
+- scans **236→237**: `...அவனையே தீர்த்துக்கட்டி` → `விட்டாள், அந்தப் பாகனின் பாட்டிலே சுகம் கண்ட பாதகி.`
 
-Important source-close forms now durable include `பென்வார்டில்`, `பிரார்த்தனையினூடே`, older-glyph `வரவேற்றாள்`, `எப்படியிருக்கிறாள்`, `படுக்கையண்டை`, `பிரக்ஞையற்றிருந்து`, `புண்ணகிப்போன`, `பஞ்சணைக்கு`, `துவளத் துவள`, `தரித்திர நாராயணனும் கந்தனுக்கு`, `சொத்து சுகத்தை யெல்லாம்`, `ஹைகோர்ட்டின் படிக்கட்டுகளைக் கட்டுப்பதிலேயே`, `கந்தர்வ லோகத்திலே`, `கந்தனே வேறொரு பெண்ணும் வேணி உரிமை கொண்டாடுவதா?`, `பிளாரென்ஸ் நைட்டிங்கேல்களின்`, source spacing `நான் தான்`, `கந்தனு?`, and `வாழ்க்கைத் துண்டித்த`. These are source-faithful review-queue forms, not confirmed errors.
+Important source-close forms now durable include `தாங்க முடியவில்ல`, `பிள்ளையில்ல பென்கிறார்கள்`, `அதுவுமில்ல`, `பேசுகிறேன்பென்று`, `வராத்து வந்துவிடவில்ல`, `சொன்னுய்`, `குதர்களால்`, `எதாவது`, `படித்த தில்ல`, `படித்ததில்ல?`, `வித்தியாச மில்ல`, `ஆண்மேல் அம்பாரியா?`, `பூண் ரோமத்தால் மிதியடியா?`, `பலவாறுக`, `அண்ணத்து மகிழத்தான்`, `நாளொருமேனியாக`, `அட்டபங்கன்`, `விலா விலே`, `சொன்னுயே`, and `பென்று`. These are source-faithful review-queue forms, not confirmed errors.
 
-## NEXT EXACT ACTIVITY — STORY 34 SOURCE WORK ONLY
+## NEXT EXACT ACTIVITY — STORY 35 SOURCE WORK ONLY
 
 Execute this directly when I say **“Proceed with next activity”**. Do not ask me to choose a routine next step.
 
-Story 34 — **`அமிர்தமதி`**:
+Story 35 — **`சுமந்தவள்`**:
 
-- printed pages **222–229**;
-- anthology scans **231–238**;
-- scan **231** is already visually confirmed as the Story 34 opening;
-- before Story 34 closure, visually inspect scan **239** and confirm it begins Story 35 **`சுமந்தவள்`**;
-- do not include scan-239 Story 35 text in Story 34.
+- printed pages **230–240**;
+- anthology scans **239–249**;
+- scan **239** is already visually confirmed as the Story 35 opening;
+- before Story 35 closure, visually inspect scan **250** and confirm it begins Story 36 with story-opening heading **`சித்தார்த்தன் சிலை`** while preserving the TOC title **`சித்தார்த்தன்`**;
+- do not include scan-250 Story 36 text in Story 35.
 
 Required activity:
 
 1. Fetch live `main` again and preserve newer work if present.
-2. Confirm there is no existing matching canonical Story 34 workspace requiring deduplication or additional-witness handling.
-3. Use the controlling PDF for Story 34 scans **231–238** only.
-4. Create/process the Story 34 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
+2. Confirm there is no existing matching canonical Story 35 workspace requiring deduplication or additional-witness handling.
+3. Use the controlling PDF for Story 35 scans **239–249** only.
+4. Create/process the Story 35 canonical workspace under `SHORT_STORY_PROCESSING_GUIDE.md` and `COLLECTION_SOURCE_GUIDE.md`.
 5. Preserve source spelling, punctuation, paragraphing, names, historical forms and anomalies exactly; do not silently normalize.
 6. Pay explicit attention to **old Tamil glyph forms**. Do not interpret an older glyph by modern-font appearance alone; compare the full source span and neighboring occurrences before deciding a reading.
 7. Perform direct visual/full-span verification of every page and all page boundaries; use exhaustive escalation for difficult readings before terminal unresolved status.
 8. Maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human review queue, not a confirmed-error list.
-9. Confirm scan **239** is the Story 35 opening boundary witness `சுமந்தவள்`.
-10. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 34 is fully complete.
-11. Re-fetch live `main` plus changed controls before declaring Story 34 closed.
-12. **Do not start Story 35 in the same activity.**
+9. Confirm scan **250** is the Story 36 opening boundary witness `சித்தார்த்தன் சிலை` and preserve the TOC/opening-heading variance.
+10. Synchronize root README, collection README, story inventory, scan map, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after Story 35 is fully complete.
+11. Re-fetch live `main` plus changed controls before declaring Story 35 closed.
+12. **Do not start Story 36 in the same activity.**
 
-Expected result after Story 34 closure: **34 / 37 fully synchronized complete, 3 remaining**.
+Expected result after Story 35 closure: **35 / 37 fully synchronized complete, 2 remaining**.
 
 ## CONTROLLING-SOURCE RULES
 
