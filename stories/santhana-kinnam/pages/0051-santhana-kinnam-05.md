@@ -12,6 +12,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 பாராட்டுக்குரிய ஓர் அன்புத் துணை தன் தோழிக்குக் கிடைத்தது கண்டு விஜயாவுக்கு அளவிட முடியாத மகிழ்ச்சி! அந்த ஆனந்தத்தில் மெய்ம்மறந்திருந்தாள். கணவன் மணமேடையில் புகழப்படும் போதெல்லாம் கமலா, விஜயாவைக் கெண்டைக் கண்ணால் பார்த்ததை விஜயா மட்டுமே உணரமுடிந்தது. பரிசளிப்புகள் முடியும் தறுவாயிலிருந்தன. இன்ப வெள்ளத்தில் எல்லாவற்றையும் மறந்திருந்த விஜயா திடுக்கிட்டு எழுந்தாள். பரபரப்புடன் மணமேடைக்கு ஓடினாள். தன் கையிலேயிருந்த ஒரு தாள் சுருளைப் பிரித்தாள்.
 
+<!-- source display block: விஜயா's seven-line gift inscription is visually inset and isolated from the surrounding prose -->
+
 “கண்ணே, கமலா...! நீ அதிர்ஷ்டசாலி  
 இதைப் பெற்றுக்கொள், நம் அன்பின்  
 அடையாளமாக! எந்த நெருக்கடி வந்தாலும்  
@@ -21,6 +23,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 சின்னம்!”
 
 என்று கூறிக்கொண்டே கமலாவைத் தழுவிக்கொண்டாள். ஆனந்தக் கண்ணீர் பொழிந்தாள். கமலாவும் கண்கலங்கிவிட்டாள் சந்தோஷத்தால். வாழ்வின் ஆரம்பவிழா அரும்பிவிட்டது.
+
+<!-- source enlarged initial: கு in குடும்பம் marks the new paragraph -->
 
 குடும்பம் குதூகலமாய்த் துவங்கியது. கமலா கொஞ்சம் பழமைப்பித்துப் பிடித்தவள். காதலர்களுக்குள் ஊடல் ஏற்படுவதெல்லாம் பழமை—புதுமைச் சண்டையினாலேயே என்ற நிலைமை சிலநாள் தொடர்ந்தது. பிறகு இருவருமே கடவுளர்களைக் கேலி செய்ய ஆரம்பித்தனர்.
 
@@ -33,6 +37,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Scan 50→51 continuation is `அறிஞர்களின்` → `பாராட்டுக்குரிய...`.
+- Visual-fidelity review confirms the seven-line gift inscription is a distinct inset display block and records the enlarged initial `கு` at `குடும்பம்...`.
 - `கெண்டைக் கண்ணால்` and `பழமைப்பித்துப் பிடித்தவள்` are retained as printed.
 - The final dialogue setup is answered at the top of scan 52.
 
