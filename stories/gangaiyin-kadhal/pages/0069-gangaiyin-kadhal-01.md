@@ -12,6 +12,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # கங்கையின் காதல்
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening கை in கைலாயத்தில் marks the first paragraph -->
+
 கைலாயத்தில் சிவபெருமான் நன்றாகத் தூங்கிக்கொண்டிருந்தார். கழுத்திலிருந்த பாம்பு கீழே இறங்கி மான் குட்டியோடு விளையாடிக்கொண்டிருந்தது. அருகில் ஆழ்ந்த நித்திரையிலிருந்த பார்வதி தேவிக்குத் தன் பாதங்களை காள மாடு சொரசொரப்பான நாக்கால் நக்கிக்கொண்டிருந்ததுகூடத் தெரியவில்லை. தேவலோகத்துப் பெண்களுக்கே தூக்கத்தில் இடி விழுந்தாலும் தெரியாது போலிருக்கிறது; இல்லாவிட்டால் சீதா பிராட்டி தூங்கும்போது அவள் மேனியை இந்திரன் மகன் காக்கை உருவில் ரசித்திருக்க முடியுமா? பார்வதியின் முகத்தில் வியர்வை அரும்பு கட்டி இருந்தது. பரமசிவனின் உடலும் தூக்கத்தில் அசை வற்றுக் கிடந்தது. மகேஸ்வரனுக்கு ஐந்து தலைகள் அல்லவா? நான்கு தலைகளைக் கழற்றி மான் தோலில் சுருட்டி ஒரு மூலையில் வைத்திருந்தார், இல்லாவிட்டால் தூங்குவதற்கு வசதிப்படாதே!
 
 ஆழ்ந்த உறக்கம்—அமைதி—அந்த அமைதியைக் கிழித்துக் கொண்டு கிளம்பும் சிவன் தம்பதிகளின் பெரிய மூச்சுக்கள்.
@@ -23,6 +26,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Story-opening heading `கங்கையின் காதல்` is visually confirmed.
+- Visual-fidelity review records the long horizontal rule beneath the heading and the enlarged opening `கை` in `கைலாயத்தில்`.
+- The standalone `ஆழ்ந்த உறக்கம்—அமைதி—...` sentence remains a separate source paragraph.
 - `காள மாடு`, `அசை வற்றுக்`, and `சற்று முற்றும்` are retained source-close and queued for human recheck.
 - The final word is physically split across the page boundary: `எதிர்பார்த்திருந்` → scan 70 `தாள்.`.
 
