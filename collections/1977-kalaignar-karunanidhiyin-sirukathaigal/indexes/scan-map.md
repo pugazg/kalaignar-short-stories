@@ -13,8 +13,8 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **36/37 Tamil source passes complete** |
-| 260 | — | back cover | structurally registered |
+| 10–259 | 1–250 | 37 short stories | **37/37 Tamil source passes complete** |
+| 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
 
@@ -56,13 +56,15 @@
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | **complete — 8/8 verified** |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | **complete — 11/11 verified** |
 | 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | **complete — 3/3 verified; opening `சித்தார்த்தன் சிலை`** |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | not started |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **complete — 7/7 verified** |
 
-## Current processing boundary
+## Final processing boundary
 
-Completed Tamil source passes are Stories 1–36, scans **10–252**. Story 36 has TOC title `சித்தார்த்தன்` and story-opening heading `சித்தார்த்தன் சிலை`; it is complete for scans **250–252 / printed pages 241–243**, with **3/3 verified**, 0 blocked and 0 unresolved story text. Scan **253 / printed page 244** was visually confirmed as the opening of Story 37 `நுனிக்கரும்பு` while closing the Story 36 boundary.
+Completed Tamil source passes are Stories **1–37**, scans **10–259 / printed pages 1–250**. Story 37 `நுனிக்கரும்பு` is complete for scans **253–259 / printed pages 244–250**, with **7/7 verified**, 0 blocked and 0 unresolved story text.
 
-Next active source range: **Story 37 `நுனிக்கரும்பு`, scans 253–259 / printed pages 244–250**. Because this is the anthology's final story, its ending must be checked against scan **260**, the back cover.
+Scan **259** contains the final story paragraph and closing ornament. Scan **260** was visually confirmed as the anthology back cover and contains no Story 37 story text.
+
+**Anthology Tamil story processing is complete: 37 / 37 stories, 0 remaining.**
 
 ## Per-story page-record policy
 
