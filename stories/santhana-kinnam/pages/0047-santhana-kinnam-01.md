@@ -12,6 +12,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # சந்தனக்கிண்ணம்
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening த in தலைவர் marks the first paragraph -->
+
 தலைவர் பேச ஆரம்பித்தார். புது நிலவு போன்ற மணமகளையும், பூரிப்பு வழிய அமர்ந்திருக்கும் மணமகனையும் பாராட்டினார். பழமையின் அடிச்சுவடுகள் மறையாமலிருக்கிற அந்தப் பட்டிக் காட்டிலே பகுத்தறிவுச் சுடர் கொளுத்திவைத்த அந்த இளைஞனை இதயபூர்வமாக வாழ்த்தி மகிழ்ந்தார். வாழ்வுக்கு ஒளி தரப்போகும் தன் காதலனைத் தலைவர் பாராட்ட, அது கேட்டு வெட்கத்தோடு அமர்ந்திருக்கும் புதுப் பெண்ணின் நெஞ்சம் இன்ப ஓடையாயிற்று.
 
 புரோகித மணம் ஏன் கூடாது—புரட்சித் திருமணம் எப்படி வளர்ந்தது என்பதற்கான விளக்கங்களை வாரி வாரித் தலைவர் இறைத்தார். வந்திருந்த வண்டினங்கள் அந்தத் தீந்தமிழ்த் தேனை உண்டு மகிழ்ந்தன.
@@ -25,6 +28,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Story-opening heading `சந்தனக்கிண்ணம்` is visually confirmed.
+- Visual-fidelity review records the long horizontal rule beneath the heading and the enlarged opening `த` in `தலைவர்`.
 - `பூரிப்பு வழிய` and `தீந்தமிழ்த் தேனை` are retained as printed and queued for later human recheck.
 - This page ends with a complete sentence; scan 48 continues the speech with a new paragraph.
 
