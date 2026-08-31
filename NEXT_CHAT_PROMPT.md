@@ -59,8 +59,8 @@ Visual fidelity checks source-significant structure such as story headings and p
 
 Current durable state:
 
-- complete: **6 / 37**
-- pending: **31 / 37**
+- complete: **7 / 37**
+- pending: **30 / 37**
 - needs recheck: **0**
 
 ### Story 1 — `புகழேந்தி` — COMPLETE
@@ -114,37 +114,47 @@ Current durable state:
 - story wording changed: **No**
 - scan **57** confirmed as Story 7 `சங்கிலிச்சாமி` opening
 
-A previous handover/prompt typo used `stories/sandhana-kinnam/`; the actual canonical workspace is **`stories/santhana-kinnam/`** and the typo has been corrected.
+### Story 7 — `சங்கிலிச்சாமி` — COMPLETE
 
-## NEXT EXACT ACTIVITY — STORY 7 ONLY
+- scans **57–68 / printed pages 48–59**
+- result: **PASS — corrected**
+- canonical workspace: `stories/sangilichami/`
+- record: `stories/sangilichami/visual-fidelity.md`
+- structural corrections/annotations: opening horizontal rule and isolated opening chants; scan-67 false-letter display/sign-off with source-bold `சங்கிலிச்சாமி`; final `story-ending` role; centered floral closing ornament; synchronized assembly/page map
+- scan-58 four devotee petitions remain isolated as printed; printer signature `க—4` remains excluded as page furniture
+- all 11 internal joins checked; scan **67→68** preserves the lexical split `...அன்றைக்கே` → `ஆயிரம் ரூபாய்!`
+- story wording changed: **No**
+- scan **69** confirmed as Story 8 `கங்கையின் காதல்` opening
 
-Perform the visual fidelity check for Story 7 — **`சங்கிலிச்சாமி`**.
+## NEXT EXACT ACTIVITY — STORY 8 ONLY
+
+Perform the visual fidelity check for Story 8 — **`கங்கையின் காதல்`**.
 
 Canonical workspace:
 
-`stories/sangilichami/`
+`stories/gangaiyin-kadhal/`
 
 Source coordinates:
 
-- printed pages **48–59**
-- anthology scans **57–68**
-- scan **69** is the boundary witness and opens Story 8 **`கங்கையின் காதல்`**
+- printed pages **60–63**
+- anthology scans **69–72**
+- scan **73** is the boundary witness and opens Story 9 **`தாய்மை`**
 
 Required activity when I say **“Proceed with next activity”**:
 
 1. Fetch live `main` and preserve newer work.
-2. Inspect source scans **57–68** directly from the controlling PDF.
+2. Inspect source scans **69–72** directly from the controlling PDF.
 3. Compare every page with the committed page record and Tamil assembly.
 4. Check story opening and ending roles, paragraph/dialogue boundaries, verse/display/emphasis structure, non-text marks, page furniture and all physical joins.
-5. Inspect scan **69** only as the next-story boundary witness.
+5. Inspect scan **73** only as the next-story boundary witness.
 6. Correct any source-significant structural mismatch found. If wording itself is wrong, verify the complete source span before correction and propagate it through all affected layers.
-7. Create `stories/sangilichami/visual-fidelity.md` with findings and result.
+7. Create `stories/gangaiyin-kadhal/visual-fidelity.md` with findings and result.
 8. Update `VISUAL_FIDELITY_PROGRESS.md`.
-9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 8 only after Story 7 visual fidelity is fully closed.
+9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 9 only after Story 8 visual fidelity is fully closed.
 10. Re-fetch live `main` and changed controls before declaring closure.
-11. **Do not start Story 8 in the same activity.**
+11. **Do not start Story 9 in the same activity.**
 
-Expected result: **7 / 37 visual-fidelity complete, 30 remaining**.
+Expected result: **8 / 37 visual-fidelity complete, 29 remaining**.
 
 ## PHASE GUARD
 
