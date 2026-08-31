@@ -23,7 +23,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 பிணக் குவியலிலே பெருமூச்சு வாங்க நடந்தாள்.  
 மணப் பந்தலிலும் அந்த மகிழ்ச்சியில்லை;  
 மகன் பிறந்தபோதும் மகிழ்ச்சிக்கு எல்லையுண்டு.  
-அவன் இறந்து கிடந்தான் ஈட்டிக்கு மார்பு காட்டி!  
+அவன் இறந்து கிடந்தான் ஈட்டிக்கு **மார்பு காட்டி!**  
 இதைக் கண்டாள்—இதயம் குளிர்ந்தாள்;  
 “எதைக் கண்டாலும் இனிக் கவலையில்லை;  
 என் மகன் வீரனாய் இறந்தான்!” என்றாள்,  
@@ -37,6 +37,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - `எண்பதை நெருங்கிய` and `புதுப்புறாவின்` were checked against the high-resolution page and preserved.
+- Visual-fidelity review preserves the visibly heavier source emphasis on `மார்பு காட்டி!` with Markdown bold; wording is unchanged.
+- The long poem begun on scan 48 closes on this page before prose resumes.
 - The final word `அறிஞர்களின்` continues mechanically onto scan 51 with `பாராட்டுக்குரிய...`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 50; அச்சுப் பக்கம்: 41 -->
