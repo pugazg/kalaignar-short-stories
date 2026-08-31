@@ -55,26 +55,26 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **32 / 37**
-- remaining unprocessed anthology stories: **5 / 37**
+- Tamil source processing complete: **33 / 37**
+- remaining unprocessed anthology stories: **4 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–32** have committed canonical Tamil workspaces and are synchronized into the anthology/root progress controls.
+Stories **1–33** have committed canonical Tamil workspaces and are synchronized into the anthology/root progress controls.
 
-Story 32 canonical-workspace checkpoint:
+Story 33 canonical-workspace checkpoint:
 
-`976e4e4fd5b4094416aa11899acdaa66371f0f8d` — `Audit Story 32 Tamil source`
+`b6f5c0e9eff4d78f553a535a59733e19508cc796` — `Complete Story 33 canonical workspace`
 
-### Story 32 — `விஷம் இனிது` — FULLY CLOSED
+### Story 33 — `வேணியின் காதலன்` — FULLY CLOSED
 
-Canonical workspace: `stories/visham-inidhu/`
+Canonical workspace: `stories/veniyin-kadhalan/`
 
-- printed pages: **209–215**
-- anthology scans: **218–224**
-- page records: **7 / 7**
-- verified: **7 / 7**
+- printed pages: **216–221**
+- anthology scans: **225–230**
+- page records: **6 / 6**
+- verified: **6 / 6**
 - needs-review status pages: **0**
 - blocked: **0**
 - unresolved story text: **0**
@@ -85,53 +85,56 @@ Canonical workspace: `stories/visham-inidhu/`
 
 Boundary / continuation checks completed during source work:
 
-- scan **218** visibly opens `விஷம் இனிது`;
-- printed **209→210** / scans **218→219**: `...நான் சத்தியவதியை` → `தவறு கூறுகிறேன் என்று கருதாதே.`;
-- printed **210→211** / scans **219→220**: `...ஆலயம் மிகச் சிறப்புடையதாயிருக்க` → `வேண்டும்; அதற்கு ஏராளமான பொன் வேண்டும்...`;
-- printed **211→212** / scans **220→221**: `...நாம் வைரங்களை ரகசியமாகச்` → `சேமித்து, வைகுந்த நாதனின் கோயிலைக் கட்டி முடித்து விடுவோம்!`;
-- printed **212→213** / scans **221→222**: `...ராமகீர்த்தனை பாடிக்கொண்டிருக்` → `கிறாள் சத்தியவதி.`;
-- scans **222→223**: scan 222 closes ஜெகவீரனின் `பாசாங்கு செய்யாதே!` accusation and scan 223 continues with சத்தியவதியின் `பிரபு! என் கற்பை இகழாதீர்கள்.`;
-- scans **223→224**: scan 223 closes the poison-test demand and scan 224 begins அர்தோலின் `சாப்பிடுகிறேன்.` reply;
-- scan **224** contains the final paragraph and closing ornament;
-- scan **225** visibly opens Story 33 `வேணியின் காதலன்`;
-- no Story 33 text is included in Story 32.
+- scan **225** visibly opens `வேணியின் காதலன்`;
+- printed **216→217** / scans **225→226**: scan 225 closes with `“எப்படியிருக்கிறாள் வேணி?”` and scan 226 immediately answers `“பூரண சுகம்—நல்ல ரெஸ்ட் வேணும். அவ்வளவுதான்!”`;
+- printed **217→218** / scans **226→227**: scan 226 leaves வேணியின் speech open at `...உத்தமர் ஊமையாகிக் கிடக்கிறார் தாயே!` and scan 227 continues the same speech;
+- printed **218→219** / scans **227→228**: exact physical split `...நான் தொத்தி விளையாண்ட` → `தோள்கள்.....`;
+- printed **219→220** / scans **228→229**: scan 228 closes `சூர்யாவின் நினைவிலே மீண்டும் புகுந்துகொண்டான்.` and scan 229 begins சூர்யாவின் reflection on வேணி as a rival;
+- printed **220→221** / scans **229→230**: scan 229 closes with வேணி asking whether கந்தன் spoke her name and scan 230 begins `“ஆமாம், ஒரு நாள் உன் பெயரைச் சொல்லிப் புலம்பினான்.”`;
+- scan **230** contains the final scene and closing ornament;
+- scan **231** visibly opens Story 34 `அமிர்தமதி`;
+- no Story 34 text is included in Story 33.
 
-High-value source-close forms retained in `stories/visham-inidhu/POSSIBLE_ERRORS_FOR_REVIEW.md` include `தீக்குளித்த திலகங்களைப்`, `அப்படி யெல்லாம்`, `அன்பழைப்பு`, `புலி யொன்றினால்`, `வரிப்பளுவைத்`, `சாகசக்காரியா?`, `கண்டெடுக்கிறேன்`, `அர்த்த ராத்திரியிலும்`, `சுக மடைய`, `கோயில்கொள்ளப்போகிறான்`, `காஞ்சரங் கனியே`, `பேசுகிறாய்க்கும்?`, `பாஷாணம்`, `இல்லை யென்பதை`, `என் அண்ணை`, `தகாப் போக்குடையோன்`, `அவதூறிலிருந்துகாப்பாற்றுகிறாய்`, and final `ஆண்டவனை விட ஆலஹாலம் இனிது`. These remain source-faithful review-queue entries, not confirmed errors.
+### Source-supported correction — durable
 
-The root README, collection README, story inventory and scan map are synchronized to Story 32 completion: **32 / 37 complete, 5 remaining**.
+During the final full-span pass, scan **228** was reopened. The provisional reading `கூண்டுக் கிளி ஆகுவேனென்றான்` was corrected to the visibly printed **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** and propagated through the page record, Tamil assembly, metadata, review queue, audit and Story 33 README.
 
-## NEXT EXACT ACTIVITY — STORY 33 SOURCE WORK ONLY
+High-value source-close forms retained in `stories/veniyin-kadhalan/POSSIBLE_ERRORS_FOR_REVIEW.md` include `பென்வார்டில்`, `பிரார்த்தனையினூடே`, older-glyph `வரவேற்றாள்`, `எப்படியிருக்கிறாள்`, `படுக்கையண்டை`, `பிரக்ஞையற்றிருந்து`, `புண்ணகிப்போன`, `பஞ்சணைக்கு`, `துவளத் துவள`, `தரித்திர நாராயணனும் கந்தனுக்கு`, `சொத்து சுகத்தை யெல்லாம்`, `ஹைகோர்ட்டின் படிக்கட்டுகளைக் கட்டுப்பதிலேயே`, `கந்தர்வ லோகத்திலே`, `கந்தனே வேறொரு பெண்ணும் வேணி உரிமை கொண்டாடுவதா?`, `பிளாரென்ஸ் நைட்டிங்கேல்களின்`, source spacing `நான் தான்`, `கந்தனு?`, and `வாழ்க்கைத் துண்டித்த`. These remain source-faithful review-queue entries, not confirmed errors.
 
-Story 33 — **`வேணியின் காதலன்`**:
+The root README, collection README, story inventory and scan map are synchronized to Story 33 completion: **33 / 37 complete, 4 remaining**.
 
-- printed pages: **216–221**
-- anthology scans: **225–230**
-- scan **225** is already visually confirmed as its opening while closing Story 32;
-- before Story 33 closure, inspect scan **231** and confirm it begins Story 34 **`அமிர்தமதி`**;
-- do not include scan-231 Story 34 text in Story 33.
+## NEXT EXACT ACTIVITY — STORY 34 SOURCE WORK ONLY
+
+Story 34 — **`அமிர்தமதி`**:
+
+- printed pages: **222–229**
+- anthology scans: **231–238**
+- scan **231** is already visually confirmed as its opening while closing Story 33;
+- before Story 34 closure, inspect scan **239** and confirm it begins Story 35 **`சுமந்தவள்`**;
+- do not include scan-239 Story 35 text in Story 34.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 33 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 33 scans **225–230** only;
-4. create/process the canonical Story 33 workspace under the permanent guides;
+2. confirm no existing matching canonical Story 34 workspace needs deduplication/attachment handling;
+3. use the controlling PDF for Story 34 scans **231–238** only;
+4. create/process the canonical Story 34 workspace under the permanent guides;
 5. complete direct visual/full-span verification, with explicit attention to old Tamil glyph forms, and physical boundary checks;
-6. confirm scan **231** is the Story 34 opening boundary witness `அமிர்தமதி`;
-7. synchronize Story 33 into all downstream anthology/root controls;
-8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 34 only after Story 33 is fully closed;
-9. do **not** start Story 34 in the same activity.
+6. confirm scan **239** is the Story 35 opening boundary witness `சுமந்தவள்`;
+7. synchronize Story 34 into all downstream anthology/root controls;
+8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 35 only after Story 34 is fully closed;
+9. do **not** start Story 35 in the same activity.
 
-Expected result after Story 33 closure: **33 / 37 fully synchronized complete, 4 remaining**.
+Expected result after Story 34 closure: **34 / 37 fully synchronized complete, 3 remaining**.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 32.**
+**FULLY SYNCHRONIZED THROUGH STORY 33.**
 
-- Tamil source passes complete: **32 / 37**
-- remaining: **5**
-- next exact story: **33 — `வேணியின் காதலன்`**
+- Tamil source passes complete: **33 / 37**
+- remaining: **4**
+- next exact story: **34 — `அமிர்தமதி`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 33 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 34 source work after mandatory startup and controlling-source resolution.
