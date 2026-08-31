@@ -7,15 +7,15 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **0 / 37**
-- pending: **37 / 37**
+- visual fidelity complete: **1 / 37**
+- pending: **36 / 37**
 - needs recheck: **0**
-- current target: **Story 1 — `புகழேந்தி`**
+- current target: **Story 2 — `நளாயினி`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
-| 1 | `புகழேந்தி` | 1–6 | 10–15 | **pending** |
-| 2 | `நளாயினி` | 7–14 | 16–23 | pending |
+| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS — corrected** |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **pending** |
 | 3 | `சபலம்` | 15–21 | 24–30 | pending |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | pending |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | pending |
@@ -52,8 +52,18 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
+## Completed visual-fidelity activities
+
+### Story 1 — `புகழேந்தி`
+
+- scans **10–15 / printed pages 1–6**
+- result: **PASS — corrected**
+- structural-only corrections: opening/ending `page_type`, removal of non-source `அச்சு உரை` display heading, and recording of the source opening/closing ornamented rules
+- story wording changed: **No**
+- record: `stories/pugazhendhi/visual-fidelity.md`
+
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 1 — `புகழேந்தி`**, scans **10–15 / printed pages 1–6**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Perform the visual fidelity check for **Story 2 — `நளாயினி`**, scans **16–23 / printed pages 7–14**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-Inspect scan **16** only as the next-story boundary witness (`நளாயினி`). Do not begin Story 2 in the same activity.
+Inspect scan **24** only as the next-story boundary witness (`சபலம்`). Do not begin Story 3 in the same activity.
