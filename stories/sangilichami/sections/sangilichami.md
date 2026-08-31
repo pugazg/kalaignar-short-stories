@@ -1,5 +1,8 @@
 # சங்கிலிச்சாமி
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source display: the two opening chants are isolated lines in the source -->
+
 <!-- source scan 57; printed page 48 -->
 
 “சங்கிலியானந்த சாமிக்கு ஜே!”
@@ -330,6 +333,8 @@
 
 அங்கே ஒரு கடிதம் கிடந்தது. அதில்,
 
+<!-- source display letter: body and sign-off are visually set apart; the signature சங்கிலிச்சாமி is source-bold -->
+
 நாம் இனி இந்த நாற்ற உடலுடன் வாழ விரும்பவில்லை. ஆவியாக இருந்து அருள் புரிவோம். மக்கள் என் சமாதியை வழிபட்டுச் சகல சம்பத்தும் பெறுவார்களாக!
 
 இங்ஙனம்,
@@ -347,3 +352,5 @@
 சாமிகளுக்கு மாபெரும் மடம், சம்பந்தம் மடத்தின் சாமி! முதலியார் மடத்தின் சொந்தக்காரர்! இரண்டாயிர ரூபாய் எடை வெள்ளிக்கட்டி நஷ்டம்!
 
 ஆனால்...இருபதாயிரம் ரூபாய் எடை வெள்ளிக் கட்டி லாபம்! அதுவும் வளர்கிற லாபம்!....மக்களிடம் மடமை இருக்கும் வரை அந்த லாபம் குறையாது.
+
+<!-- source closing ornament: centered floral flourish beneath the final paragraph -->
