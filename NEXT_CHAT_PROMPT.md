@@ -34,7 +34,7 @@ Read completely before making project changes:
 
 Then inspect the active story's existing page records, Tamil assembly, audit and page map.
 
-## DURABLE COMPLETED MILESTONE
+## DURABLE COMPLETED TAMIL MILESTONE
 
 The 1977 anthology Tamil source-text pass is fully complete:
 
@@ -51,63 +51,56 @@ Do not redo the completed Tamil source pass unless new source-supported correcti
 
 ## USER-AUTHORIZED CURRENT PHASE — VISUAL FIDELITY CHECK
 
-The user explicitly authorized **visual fidelity check** as the next phase.
-
 Follow `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-The check covers source-significant visual structure such as:
-
-- story headings and opening/ending roles;
-- paragraph boundaries and dialogue separation;
-- verse / song / display-line lineation;
-- intentional display emphasis or structural lead-ins;
-- opening rules, closing ornaments, illustrations and captions where source-significant;
-- page joins and story boundaries;
-- correct exclusion of running headers and printed page numbers from story body.
-
-It does not require facsimile recreation of fonts, exact prose line wraps, margins, paper colour or scan defects.
-
-If a visual check reveals a textual error, apply the permanent source rules: verify the complete source span, correct only what the scan supports, and propagate the correction through affected layers.
+Visual fidelity checks source-significant structure such as story headings and page roles, paragraph/dialogue separation, verse/display lineation, intentional display emphasis, opening/closing rules or ornaments, illustrations/captions, page joins, story boundaries and exclusion of running headers/page numbers from story body. It does not require facsimile fonts, exact prose line wraps, margins, paper colour or scan defects.
 
 ## VISUAL-FIDELITY PHASE STATE
 
-See `VISUAL_FIDELITY_PROGRESS.md`.
-
 Current durable state:
 
-- complete: **0 / 37**
-- pending: **37 / 37**
+- complete: **1 / 37**
+- pending: **36 / 37**
 - needs recheck: **0**
 
-## NEXT EXACT ACTIVITY — STORY 1 ONLY
+### Story 1 — `புகழேந்தி` — COMPLETE
 
-Perform the visual fidelity check for Story 1 — **`புகழேந்தி`**.
+- scans **10–15 / printed pages 1–6**
+- result: **PASS — corrected**
+- record: `stories/pugazhendhi/visual-fidelity.md`
+- corrections were structural only: opening/ending `page_type`, removal of non-source `அச்சு உரை` heading, and recording of the source opening/closing ornamented rules
+- story wording changed: **No**
+- scan **16** confirmed as Story 2 `நளாயினி` opening
+
+## NEXT EXACT ACTIVITY — STORY 2 ONLY
+
+Perform the visual fidelity check for Story 2 — **`நளாயினி`**.
 
 Canonical workspace:
 
-`stories/pugazhendhi/`
+`stories/nalayini/`
 
 Source coordinates:
 
-- printed pages **1–6**
-- anthology scans **10–15**
-- scan **16** is the boundary witness and opens Story 2 `நளாயினி`
+- printed pages **7–14**
+- anthology scans **16–23**
+- scan **24** is the boundary witness and opens Story 3 **`சபலம்`**
 
 Required activity when I say **“Proceed with next activity”**:
 
 1. Fetch live `main` and preserve newer work.
-2. Inspect source scans **10–15** directly.
+2. Inspect source scans **16–23** directly from the controlling PDF.
 3. Compare every page with the committed page record and Tamil assembly.
-4. Check opening heading/rule, paragraph structure, dialogue/display lines, source-significant emphasis, page-role metadata, non-text marks, all physical joins, and the ending ornament.
-5. Inspect scan **16** only as the next-story boundary witness.
-6. Correct any source-significant structural mismatch found. If wording itself is wrong, use the full-span source-verification rules before correction.
-7. Create `stories/pugazhendhi/visual-fidelity.md` with findings and result.
+4. Check the story opening and ending roles, paragraph/dialogue boundaries, verse/display/emphasis structure, non-text marks, page furniture and all physical joins.
+5. Inspect scan **24** only as the next-story boundary witness.
+6. Correct any source-significant structural mismatch found. If wording itself is wrong, verify the complete source span before correction and propagate it through all affected layers.
+7. Create `stories/nalayini/visual-fidelity.md` with findings and result.
 8. Update `VISUAL_FIDELITY_PROGRESS.md`.
-9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 2 only after Story 1 visual fidelity is fully closed.
+9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 3 only after Story 2 visual fidelity is fully closed.
 10. Re-fetch live `main` and changed controls before declaring closure.
-11. **Do not start Story 2 in the same activity.**
+11. **Do not start Story 3 in the same activity.**
 
-Expected result: **1 / 37 visual-fidelity complete, 36 remaining**.
+Expected result: **2 / 37 visual-fidelity complete, 35 remaining**.
 
 ## PHASE GUARD
 
