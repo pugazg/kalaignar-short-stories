@@ -3,27 +3,31 @@ scan_page: 23
 printed_page: 14
 story: "nalayini"
 section: "story"
-page_type: "story-conclusion-and-note"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
 transcription_method: "direct visual comparison with native embedded scan; full-page/full-span review"
 ---
 
-# அச்சு உரை
-
 “பொய் இல்லை! புது வாழ்வு ஆரம்பமாகிறது, உனக்கு! புது வாழ்வு—புனர் ஜென்மம்—இரண்டும் பொருளில் ஒன்று தான்! அதைப் புரிந்து கொள்ளடி, என் தோழி!”
 
 “புரிந்துகொண்டேன்!” என்று பூரிப்புடன் துள்ளியபடி நளாயினி, இதயாவைத் தழுவிக்கொள்கிறாள். சோகக் கண்ணீர், ஆனந்தக் கண்ணீராக மாறிவிட்டது அவளுக்கு! அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!
 
-## அச்சு குறிப்பு
+<!-- source separator: long horizontal rule between the narrative conclusion and the printed note -->
 
 **குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.**
+
+<!-- source closing ornament: centered short horizontal rule with three small central diamond-like marks -->
 
 ## Source-review note
 
 - The narrative ends with `அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!`.
-- The `குறிப்பு :—` below the horizontal rule is preserved as a separate printed note, not merged into the narrative paragraph.
+- Visual-fidelity review corrected `page_type` from `story-conclusion-and-note` to `story-ending`.
+- The non-source Markdown display headings `அச்சு உரை` and `அச்சு குறிப்பு` were removed from this ending record.
+- The long separator rule above `குறிப்பு :—` and the centered closing ornament below the note are now recorded conservatively without facsimile typography.
+- The repeated anthology running header and printed page number are page furniture and remain excluded from story text.
+- Scan 24 independently opens Story 3 `சபலம்`; no Story 3 text is included here.
 - `புனர் ஜென்மம்`, `பூரிப்புடன்`, `இன்பகீதம்`, and `திரெளபதையாகப்` remain source-close.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 14 -->
