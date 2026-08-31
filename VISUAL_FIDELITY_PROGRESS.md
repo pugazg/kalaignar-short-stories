@@ -7,17 +7,17 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **2 / 37**
-- pending: **35 / 37**
+- visual fidelity complete: **3 / 37**
+- pending: **34 / 37**
 - needs recheck: **0**
-- current target: **Story 3 — `சபலம்`**
+- current target: **Story 4 — `ஆட்டக்காவடி`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
 | 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS — corrected** |
 | 2 | `நளாயினி` | 7–14 | 16–23 | **PASS — corrected** |
-| 3 | `சபலம்` | 15–21 | 24–30 | **pending** |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | pending |
+| 3 | `சபலம்` | 15–21 | 24–30 | **PASS — corrected** |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **pending** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | pending |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | pending |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | pending |
@@ -71,8 +71,18 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 - scan **24** confirmed as Story 3 `சபலம்` opening
 - record: `stories/nalayini/visual-fidelity.md`
 
+### Story 3 — `சபலம்`
+
+- scans **24–30 / printed pages 15–21**
+- result: **PASS — corrected**
+- structural-only corrections: opening horizontal rule, scan-28 enlarged initial `வ`, final-page `story-ending` role, removal of the non-source ending `அச்சு உரை` heading, closing ornament, and page-map synchronization
+- scan-27 prominent page-start `இ` was explicitly not encoded as a semantic drop-cap because it continues the scan-26 sentence
+- story wording changed: **No**
+- scan **31** confirmed as Story 4 `ஆட்டக்காவடி` opening
+- record: `stories/sabalam/visual-fidelity.md`
+
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 3 — `சபலம்`**, scans **24–30 / printed pages 15–21**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Perform the visual fidelity check for **Story 4 — `ஆட்டக்காவடி`**, scans **31–38 / printed pages 22–29**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-Inspect scan **31** only as the next-story boundary witness (`ஆட்டக்காவடி`). Do not begin Story 4 in the same activity.
+Inspect scan **39** only as the next-story boundary witness (`குப்பைத்தொட்டி`). Do not begin Story 5 in the same activity.
