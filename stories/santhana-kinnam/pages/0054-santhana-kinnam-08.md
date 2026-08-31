@@ -22,6 +22,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 அடக்குமுறை தர்பார் துவண்டது. இந்தி வெறியர்கள் ‘இனிப் பலிக்காது நம் முயற்சி’ என மிரண்டனர். கட்டாய இந்தி, கடையைக் கட்டியது! தமிழர் படை வென்றது. வீரர் உலாப் பாடினர்; கட்டாய இந்தி, கழுதை தேய்ந்து கட்டெறும் பாயிற்று! வென்றது மொழிப்போர்!
 
+<!-- source enlarged initial: க in கமலாவும் marks the post-struggle return-home paragraph -->
+
 கமலாவும் கந்தனும் தமிழ் காத்த தடந் தோள்களிலே வெற்றிமாலை சூடி, வீட்டுக்குத் திரும்பினர். “வீண் வேலையில் ஈடுபட்டாய், இனி வேலை கிடையாது உனக்கு!” என்ற ஆபீஸ் உத்தரவும் அவனுக்கு முன் வீட்டுக்கு வந்திருந்தது. தாயாரோ, புகையும் எரிமலையாக இருந்தாள்.
 
 “அம்மா, உனக்கு ஒரு கேடு என்றால் துள்ளியெழ மாட்டேனா நான்? அது போலத்தான் தாயே, தாய் மொழியைப் பழித்தவரை எதிர்த்தேன்; இது குற்றமா அம்மா?” என்று
@@ -29,6 +31,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Source punctuation around `......இப்போதுதான்` / `“......என்னை விட்டுவிட்டு?”` is preserved.
+- Visual-fidelity review records the enlarged `க` beginning `கமலாவும் கந்தனும் தமிழ் காத்த...`, which visibly marks the post-struggle return-home paragraph.
 - `மோகனத்திலே`, `கழுதை தேய்ந்து கட்டெறும் பாயிற்று!`, and `தடந் தோள்களிலே` are visually legible but unusual and remain in the review queue.
 - The final `என்று` continues onto scan 55 with `அழுதான் கந்தன்.`.
 
