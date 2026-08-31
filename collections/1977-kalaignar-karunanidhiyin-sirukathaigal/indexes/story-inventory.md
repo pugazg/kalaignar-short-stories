@@ -41,17 +41,17 @@
 | 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/veniyin-kadhalan/` |
 | 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | **Tamil source complete — 8/8 verified; human recheck queue open** — `stories/amirthamathi/` |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | **Tamil source complete — 11/11 verified; human recheck queue open** — `stories/sumanthaval/` |
-| 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | registered — not transcribed; **source-title variance** |
+| 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **Tamil source complete — 3/3 verified; human recheck queue open; source-title variance preserved** — `stories/siddharthan-silai/` |
 | 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | registered — not transcribed |
 
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **35 / 37**
-- not yet transcribed: **2 / 37**
+- Tamil source processing complete: **36 / 37**
+- not yet transcribed: **1 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 35 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 36 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 36 — TOC **`சித்தார்த்தன்`**, opening heading **`சித்தார்த்தன் சிலை`**:
+Story 37 — **`நுனிக்கரும்பு`**:
 
-- printed pages **241–243**
-- anthology scans **250–252**
+- printed pages **244–250**
+- anthology scans **253–259**
 
-Scan **250** is already confirmed as Story 36's opening. Before closure, visually confirm scan **253** begins Story 37 `நுனிக்கரும்பு`. Do not create or transcribe Story 37 in the same activity.
+Scan **253** is already confirmed as Story 37's opening. Before final Story 37 and anthology closure, visually confirm scan **260** is the back cover. Complete Story 37 only.
