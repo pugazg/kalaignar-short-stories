@@ -37,7 +37,7 @@
 | 29 | `திடுக்கிடும் கதை` | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/thidukkidum-kathai/` |
 | 30 | `கடைசிக் கட்டம்` | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **Tamil source complete — 6/6 verified; human recheck queue open** — `stories/kadaisi-kattam/` |
 | 31 | `அய்யோ ராஜா!` | `அய்யோ ராஜா!` | 202–208 | 211–217 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/ayyo-raja/` |
-| 32 | `விஷம் இனிது` | `விஷம் இனிது` | 209–215 | 218–224 | registered — not transcribed |
+| 32 | `விஷம் இனிது` | `விஷம் இனிது` | 209–215 | 218–224 | **Tamil source complete — 7/7 verified; human recheck queue open** — `stories/visham-inidhu/` |
 | 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | registered — not transcribed |
 | 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | registered — not transcribed |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | registered — not transcribed |
@@ -47,11 +47,11 @@
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
-- Tamil source processing complete: **31 / 37**
-- not yet transcribed: **6 / 37**
+- Tamil source processing complete: **32 / 37**
+- not yet transcribed: **5 / 37**
 - English translation started from anthology: **0 / 37**
 
-Completed canonical workspaces through Story 31 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
+Completed canonical workspaces through Story 32 all have 0 blocked / 0 unresolved story text and persistent possible-error queues.
 
 ## Source-title variances
 
@@ -69,9 +69,9 @@ Both source forms must be preserved.
 
 ## Next processing activity
 
-Story 32 — **`விஷம் இனிது`**:
+Story 33 — **`வேணியின் காதலன்`**:
 
-- printed pages **209–215**
-- anthology scans **218–224**
+- printed pages **216–221**
+- anthology scans **225–230**
 
-Scan **218** is already confirmed as Story 32's opening. Before closure, visually confirm scan **225** begins Story 33 `வேணியின் காதலன்`. Do not create or transcribe Story 33 in the same activity.
+Scan **225** is already confirmed as Story 33's opening. Before closure, visually confirm scan **231** begins Story 34 `அமிர்தமதி`. Do not create or transcribe Story 34 in the same activity.
