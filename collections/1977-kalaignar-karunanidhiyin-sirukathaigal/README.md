@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **31 / 37**
-- not yet transcribed: **6 / 37**
+- Tamil source processing complete: **32 / 37**
+- not yet transcribed: **5 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -58,10 +58,11 @@ Completed from this collection:
 29. `திடுக்கிடும் கதை` — workspace [`../../stories/thidukkidum-kathai/`](../../stories/thidukkidum-kathai/) — printed **190–195**, scans **199–204**, **6/6 verified**, 0 blocked, audit PASS.
 30. `கடைசிக் கட்டம்` — workspace [`../../stories/kadaisi-kattam/`](../../stories/kadaisi-kattam/) — printed **196–201**, scans **205–210**, **6/6 verified**, 0 blocked, audit PASS.
 31. `அய்யோ ராஜா!` — workspace [`../../stories/ayyo-raja/`](../../stories/ayyo-raja/) — printed **202–208**, scans **211–217**, **7/7 verified**, 0 blocked, audit PASS.
+32. `விஷம் இனிது` — workspace [`../../stories/visham-inidhu/`](../../stories/visham-inidhu/) — printed **209–215**, scans **218–224**, **7/7 verified**, 0 blocked, audit PASS.
 
-All thirty-one have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All thirty-two have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `அய்யோ ராஜா!`, scan **218** was visually confirmed as the next-story opening `விஷம் இனிது`.
+For `விஷம் இனிது`, scan **225** was visually confirmed as the next-story opening `வேணியின் காதலன்`.
 
 ## Source-title differences
 
@@ -83,9 +84,9 @@ Before processing each story, inspect whether a matching canonical story already
 
 ## Next exact activity
 
-Process Story 32 **`விஷம் இனிது`**:
+Process Story 33 **`வேணியின் காதலன்`**:
 
-- printed pages **209–215**
-- anthology scans **218–224**
+- printed pages **216–221**
+- anthology scans **225–230**
 
-Scan **218** is already confirmed as Story 32's opening. Before Story 32 closure, confirm scan **225** opens Story 33 `வேணியின் காதலன்`. Do not begin Story 33 in the same activity.
+Scan **225** is already confirmed as Story 33's opening. Before Story 33 closure, confirm scan **231** opens Story 34 `அமிர்தமதி`. Do not begin Story 34 in the same activity.
