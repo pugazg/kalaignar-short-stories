@@ -20,6 +20,8 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 நின்றுகொண்டிருந்த கந்தன், திடீரென அந்த இடத்தை விட்டு வேகமாக அகன்றான்.
 
+<!-- source enlarged initial: ம at the paragraph beginning மறுநாள்... -->
+
 மறுநாள் அவனது பழனிப் பயணம் ஆரம்பமாயிற்று. ஆட்டக் காவடி ஆட்டமும் பழனித் தெருக்களில் பிரமாதமாக நடைபெற்றது. அவன் எதிர்பார்த்தபடியே, அங்கேயே அவனுக்கு மூன்று நான்கு கிராக்கிகள் மோதின. முந்நூறு ரூபாய் கிடைத்தது. எடுத்துக்கொண்டு ஊருக்குத் திரும்பினான். பணத்தைக் காட்டிக் கனிமொழியின் கோபத்தைப் போக்கிவிடலாம் என்று பூரண நம்பிக்கையோடு வீட்டுக்குள் நுழைந்தான். அங்கே கனிமொழி இல்லை. அந்தப் பகுத்தறிவுச் சிட்டு எங்கேயோ பறந்து விட்டது. கட்டில் மேலே ஒரு காகிதச் சுருள் கிடந்தது. அதை எடுத்துப் பிரித்துப் பார்த்தான் கந்தன்.
 
 “பொது வாழ்க்கை என்பது கரும்பைச் சுவைப்பது போல அல்ல; கரும்பைக் கைகளால் தடவுவதுபோல! தடவிப் பார்த்தால்தான் தெரியும்—கை முழுதும் ‘சுண்’கள் குத்திக் கொள்ளும்!”
@@ -27,6 +29,7 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 ## Source-review note
 
 - Opening `காளையர்` completes scan 36's final `கந்தனின் வழியிலே பல` phrase.
+- Visual-fidelity review records the enlarged initial `ம` marking the new `மறுநாள்...` paragraph; the letter begins later on this page.
 - `மனத் தீர்க்கு`, `பீதாம்பரத்தின்`, `கிராக்கிகள் மோதின`, `பகுத்தறிவுச் சிட்டு`, and quoted `‘சுண்’கள்` are retained source-close and queued for human recheck.
 - The letter continues onto scan 38 / printed page 29.
 
