@@ -24,6 +24,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 அங்கே ஒரு கடிதம் கிடந்தது. அதில்,
 
+<!-- source display letter: body and sign-off are visually set apart; the signature சங்கிலிச்சாமி is source-bold -->
+
 நாம் இனி இந்த நாற்ற உடலுடன் வாழ விரும்பவில்லை. ஆவியாக இருந்து அருள் புரிவோம். மக்கள் என் சமாதியை வழிபட்டுச் சகல சம்பத்தும் பெறுவார்களாக!
 
 இங்ஙனம்,
@@ -37,7 +39,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - `சடலந்தான்`, `கொலைகாரனுக்கிவிட்டாயே`, `பக்தாதி பக்தர்கள்`, `கோவெனக்`, and `காட்டினன்` are retained as printed.
-- The displayed letter is kept as a distinct textual layer inside the story.
+- The displayed letter remains a distinct textual layer; visual-fidelity review explicitly records its separated sign-off and the source-bold `சங்கிலிச்சாமி` signature.
 - The final sentence is physically split: scan 67 `சமாதியில் மக்கள் இறைத்த பணம் அன்றைக்கே` → scan 68 `ஆயிரம் ரூபாய்!`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 67; அச்சுப் பக்கம்: 58 -->
