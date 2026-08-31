@@ -3,7 +3,7 @@ scan_page: 56
 printed_page: 47
 story: "santhana-kinnam"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -18,9 +18,13 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “கமலா, அதை நான்தான் திருடி அடகு வைத்திருக்கிறேன்—பணம் வந்ததும் மீட்டுவிடலாம்” என்று கதறினான். அவன் கதறலிடையே கமலா கண்ணை மூடினாள். பிறகு திறக்கவே யில்லை; கந்தன் அழுதான்; அழுதுகொண்டேயிருந்தான்!
 
+<!-- source enlarged initial: இ in இப்போது marks the retrospective closing section -->
+
 இப்போது கந்தன் ஏழையல்லன். பணக்காரனுமில்லா விட்டாலும் பண வசதி இருக்கிறது.
 
 இருபது ரூபாய்க்கு அடகு வைத்த சந்தனக் கிண்ணத்தை வட்டியோடு முப்பது ரூபாய் கொடுத்தால் மீட்டு விடலாம்.
+
+<!-- source standalone transition line -->
 
 ஆனால்,
 
@@ -28,10 +32,12 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 கந்தன் சந்தனக் கிண்ணத்தை மீட்டுவிடத் தயாரா யிருக்கிறான். எப்போது? கிடைத்ததும் மீண்டும் இலட்சியப் போரின் வெற்றி விழாவிலே, வீரர்களுக்குச் சந்தனம் வழங்கும் சந்தர்ப்பம் வருமே; அப்போது!
 
+<!-- source closing ornament: centered short floral rule beneath the final paragraph -->
+
 ## Source-review note
 
 - `திறக்கவே யில்லை`, `ஏழையல்லன்`, `பணக்காரனுமில்லா விட்டாலும்`, and `தயாரா யிருக்கிறான்` are preserved exactly as visible rather than silently normalized.
-- The ornamental rule below the final paragraph is non-text decoration.
+- Visual-fidelity review changes this page's structural role from `story-conclusion` to `story-ending`, records the enlarged `இ` at `இப்போது...`, preserves the isolated transition `ஆனால்,`, and records the centered closing ornament.
 - Scan 57 was separately inspected and begins `சங்கிலிச்சாமி`; no Story 7 text is included here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 56; அச்சுப் பக்கம்: 47 -->
