@@ -55,26 +55,26 @@ Before source-dependent writes:
 - relation: **scan = printed page + 9**
 - registered stories: **37 / 37**
 - story-start visual checks: **37 / 37**
-- Tamil source processing complete: **34 / 37**
-- remaining unprocessed anthology stories: **3 / 37**
+- Tamil source processing complete: **35 / 37**
+- remaining unprocessed anthology stories: **2 / 37**
 - English translation started for anthology stories: **0 / 37**
 
 ## Durable story-source state
 
-Stories **1–34** have committed canonical Tamil workspaces and are synchronized into the anthology/root progress controls.
+Stories **1–35** have committed canonical Tamil workspaces and are synchronized into the anthology/root progress controls.
 
-Story 34 canonical-workspace checkpoint:
+Story 35 canonical-workspace checkpoint:
 
-`debf8b7c9a83b555163af931742f0976dd4882dd` — `Complete Story 34 canonical workspace`
+`417406d927dc7a276b0a5ac1db9218c7a140b657` — `Assemble Story 35 Tamil text`
 
-### Story 34 — `அமிர்தமதி` — FULLY CLOSED
+### Story 35 — `சுமந்தவள்` — FULLY CLOSED
 
-Canonical workspace: `stories/amirthamathi/`
+Canonical workspace: `stories/sumanthaval/`
 
-- printed pages: **222–229**
-- anthology scans: **231–238**
-- page records: **8 / 8**
-- verified: **8 / 8**
+- printed pages: **230–240**
+- anthology scans: **239–249**
+- page records: **11 / 11**
+- verified: **11 / 11**
 - needs-review status pages: **0**
 - blocked: **0**
 - unresolved story text: **0**
@@ -85,54 +85,61 @@ Canonical workspace: `stories/amirthamathi/`
 
 Boundary / continuation checks completed during source work:
 
-- scan **231** visibly opens `அமிர்தமதி`;
-- scans **231→232**: narrator's account of a `கோர நிகழ்ச்சி` continues into சுந்தரின் questioning without omission or duplication;
-- scans **232→233**: `அதுதான் சகோதரா! குதர்களால் களவாடப்பட்டு விட்டது!` → `“தலைப்புதானே!”`;
-- scans **233→234**: சுந்தரின் `மெளனமாக இரு!` → narrator's `முடியாது சுந்தர்!`;
-- scans **234→235**: exact physical continuation `...அவர்கள் ஓடி, ஆடிப்பாடி` → `அரசனை அழைத்து வருவர்.`;
-- scans **235→236**: `தோழி வாயிலாகக் கவிஞர் கூறுகிறார் கேள்:—` → quoted verse beginning `‘நரம்புகள்விசித்த மெய்யன்...`;
-- scans **236→237**: exact physical continuation `...அவனையே தீர்த்துக்கட்டி` → `விட்டாள், அந்தப் பாகனின் பாட்டிலே சுகம் கண்ட பாதகி.`;
-- scans **237→238**: `இந்த அக்கிரமத்திற்கு அழிவே கிடையாதா?` → `“ஏன் கிடையாது!...”`;
-- scan **238** contains the final dialogue and closing ornament;
-- scan **239** visibly opens Story 35 `சுமந்தவள்`;
-- no Story 35 text is included in Story 34.
+- scan **239** visibly opens `சுமந்தவள்`;
+- scans **239→240** continue the narrator's reflection on his mother into the motherhood questions without omission or duplication;
+- scans **240→241**: `“ம்! மேலே சொல்லு!”` → `“தாய்மை என்றால் என்ன?...”`;
+- scans **241→242**: `...உன் அண்ணி துடியாய்த் துடிக்கிறாள்.` → `அண்ணியின் மனம் கோண நீ நடக்கமாட்டாய்...`;
+- scans **242→243** move from the marriage arrangement into married life without omission or duplication;
+- scans **243→244**: exact physical continuation `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல ஆர்ப்பாட்டங்கள் நடத்திவந்தாள்.`;
+- scans **244→245**: exact physical continuation `...அந்தக் குழந்தை அளித்த வேதனையால்` → `ஏற்கனவே அவளது உடல் இளைத்துப் போய்விட்டது.`;
+- scans **245→246** move from animal-mother observations to the competing inner voice;
+- scans **246→247**: `இரண்டு குழந்தைகளுக்கும் அவளே தாயாக விளங்கினாள்.` → செளந்தரியின் பாராட்டு;
+- scans **247→248**: exact physical continuation `இரண்டு தொட்டில்களையும் ஆட்டுவதும் “ஆராரோ” பாடுவதும்` → `பிணிக்கு மருந்து தருவதும்...`;
+- scans **248→249** move from the armed confrontation setup into `யார் வெடிக்கிற தோட்டா...`;
+- scan **249** contains the final paragraph and closing ornament;
+- scan **250** visibly opens Story 36 with heading `சித்தார்த்தன் சிலை`;
+- Story 36 TOC title is `சித்தார்த்தன்`; the source-title variance is preserved;
+- no Story 36 text is included in Story 35.
 
-High-value source-close forms retained in `stories/amirthamathi/POSSIBLE_ERRORS_FOR_REVIEW.md` include `தாங்க முடியவில்ல`, `பிள்ளையில்ல பென்கிறார்கள்`, `அதுவுமில்ல`, `பேசுகிறேன்பென்று`, `வராத்து வந்துவிடவில்ல`, `சொன்னுய்`, `குதர்களால்`, `எதாவது`, `படித்த தில்ல`, `படித்ததில்ல?`, `வித்தியாச மில்ல`, `ஆண்மேல் அம்பாரியா?`, `பூண் ரோமத்தால் மிதியடியா?`, `பலவாறுக`, `அண்ணத்து மகிழத்தான்`, `நாளொருமேனியாக`, `அட்டபங்கன்`, `விலா விலே`, `சொன்னுயே`, and `பென்று`. These remain source-faithful review-queue entries, not confirmed errors.
+High-value source-close forms retained in `stories/sumanthaval/POSSIBLE_ERRORS_FOR_REVIEW.md` include `சுறு சுறுப்பு`, `அடுக்களை`, `திரு திருவென்று`, `குஞ்சு குளுவான்கள்`, `படுகிழம்`, `களித்துப்போய்`, `அண்ணு`, `கெளரவம்`, `ஐதர் காலத்துத் தையல் மிஷின்தான்`, `குழறல்`, `கர்ப்பவதி`, `கர்ப்பமாயிருக்கிறாளே`, `கனிமரமென`, `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `உளறினன்`, `தயங்கினன்`, `‘பெட்காபி’`, `யெளவனத்தின்`, `அலறினள்`, `தொடங்கினள்`, and `எமை விட்டு எச்சில் இலையே!`. These remain source-faithful review-queue entries, not confirmed errors.
 
-The root README, collection README, story inventory and scan map are synchronized to Story 34 completion: **34 / 37 complete, 3 remaining**.
+The root README, collection README, story inventory and scan map are synchronized to Story 35 completion: **35 / 37 complete, 2 remaining**.
 
-## NEXT EXACT ACTIVITY — STORY 35 SOURCE WORK ONLY
+## NEXT EXACT ACTIVITY — STORY 36 SOURCE WORK ONLY
 
-Story 35 — **`சுமந்தவள்`**:
+Story 36:
 
-- printed pages: **230–240**
-- anthology scans: **239–249**
-- scan **239** is already visually confirmed as its opening while closing Story 34;
-- before Story 35 closure, inspect scan **250** and confirm it begins Story 36 with story-opening heading **`சித்தார்த்தன் சிலை`** (TOC title **`சித்தார்த்தன்`**);
-- do not include scan-250 Story 36 text in Story 35.
+- TOC title: **`சித்தார்த்தன்`**
+- story-opening heading: **`சித்தார்த்தன் சிலை`**
+- printed pages: **241–243**
+- anthology scans: **250–252**
+- scan **250** is already visually confirmed as its opening while closing Story 35;
+- before Story 36 closure, inspect scan **253** and confirm it begins Story 37 **`நுனிக்கரும்பு`**;
+- do not include scan-253 Story 37 text in Story 36.
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` and preserve any newer completed work;
-2. confirm no existing matching canonical Story 35 workspace needs deduplication/attachment handling;
-3. use the controlling PDF for Story 35 scans **239–249** only;
-4. create/process the canonical Story 35 workspace under the permanent guides;
-5. complete direct visual/full-span verification, with explicit attention to old Tamil glyph forms, and physical boundary checks;
-6. confirm scan **250** is the Story 36 opening boundary witness `சித்தார்த்தன் சிலை` while preserving TOC title `சித்தார்த்தன்`;
-7. synchronize Story 35 into all downstream anthology/root controls;
-8. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 36 only after Story 35 is fully closed;
-9. do **not** start Story 36 in the same activity.
+2. confirm no existing matching canonical Story 36 workspace needs deduplication/attachment handling;
+3. use the controlling PDF for Story 36 scans **250–252** only;
+4. create/process the canonical Story 36 workspace under the permanent guides;
+5. preserve both source title forms: TOC `சித்தார்த்தன்` and opening heading `சித்தார்த்தன் சிலை`;
+6. complete direct visual/full-span verification, with explicit attention to old Tamil glyph forms and all physical joins;
+7. confirm scan **253** is the Story 37 opening boundary witness `நுனிக்கரும்பு`;
+8. synchronize Story 36 into all downstream anthology/root controls;
+9. update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 37 only after Story 36 is fully closed;
+10. do **not** start Story 37 in the same activity.
 
-Expected result after Story 35 closure: **35 / 37 fully synchronized complete, 2 remaining**.
+Expected result after Story 36 closure: **36 / 37 fully synchronized complete, 1 remaining**.
 
 ## Current closure state
 
-**FULLY SYNCHRONIZED THROUGH STORY 34.**
+**FULLY SYNCHRONIZED THROUGH STORY 35.**
 
-- Tamil source passes complete: **34 / 37**
-- remaining: **3**
-- next exact story: **35 — `சுமந்தவள்`**
+- Tamil source passes complete: **35 / 37**
+- remaining: **2**
+- next exact story: **36 — TOC `சித்தார்த்தன்`, opening `சித்தார்த்தன் சிலை`**
 
 ## New-chat readiness
 
-**READY FOR CONTINUATION.** The next chat may begin Story 35 source work after mandatory startup and controlling-source resolution.
+**READY FOR CONTINUATION.** The next chat may begin Story 36 source work after mandatory startup and controlling-source resolution.
