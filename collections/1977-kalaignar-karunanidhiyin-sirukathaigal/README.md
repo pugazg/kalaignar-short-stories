@@ -21,8 +21,8 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
-- Tamil source processing complete: **36 / 37**
-- not yet transcribed: **1 / 37**
+- Tamil source processing complete: **37 / 37**
+- not yet transcribed: **0 / 37**
 - English translation: **0 / 37 started**
 
 Completed from this collection:
@@ -63,10 +63,11 @@ Completed from this collection:
 34. `அமிர்தமதி` — workspace [`../../stories/amirthamathi/`](../../stories/amirthamathi/) — printed **222–229**, scans **231–238**, **8/8 verified**, 0 blocked, audit PASS.
 35. `சுமந்தவள்` — workspace [`../../stories/sumanthaval/`](../../stories/sumanthaval/) — printed **230–240**, scans **239–249**, **11/11 verified**, 0 blocked, audit PASS.
 36. `சித்தார்த்தன் சிலை` — TOC `சித்தார்த்தன்`, workspace [`../../stories/siddharthan-silai/`](../../stories/siddharthan-silai/) — printed **241–243**, scans **250–252**, **3/3 verified**, 0 blocked, audit PASS.
+37. `நுனிக்கரும்பு` — workspace [`../../stories/nunikkarumbu/`](../../stories/nunikkarumbu/) — printed **244–250**, scans **253–259**, **7/7 verified**, 0 blocked, audit PASS.
 
-All thirty-six have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All thirty-seven have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
 
-For `சித்தார்த்தன் சிலை`, scan **253** was visually confirmed as the next-story opening `நுனிக்கரும்பு`. The Story 36 TOC/opening-title variance `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை` is preserved.
+For `நுனிக்கரும்பு`, scan **260** was visually confirmed as the physical back cover. The story ends on scan **259 / printed page 250** with its final paragraph and closing ornament.
 
 ## Source-title differences
 
@@ -86,11 +87,8 @@ Both source forms are preserved.
 
 Before processing each story, inspect whether a matching canonical story already exists. If it does, attach this anthology as an additional witness instead of creating a duplicate. Preserve exact scan/printed-page coordinates and create a persistent human possible-error queue.
 
-## Next exact activity
+## Tamil source-pass closure
 
-Process Story 37 **`நுனிக்கரும்பு`**:
+**COMPLETE — 37 / 37 anthology stories fully transcribed, verified, audited and synchronized; 0 remaining.**
 
-- printed pages **244–250**
-- anthology scans **253–259**
-
-Scan **253** is already confirmed as Story 37's opening. Before final Story 37 and anthology closure, confirm scan **260** is the back cover. Complete Story 37 only.
+The story-text range closes at scan **259 / printed page 250**. Scan **260** is the verified back cover. English translation or another downstream phase has not been started as part of this closure.
