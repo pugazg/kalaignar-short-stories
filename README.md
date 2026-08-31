@@ -58,6 +58,7 @@ Permanent guides:
 | [`அமிர்தமதி`](stories/amirthamathi/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`சுமந்தவள்`](stories/sumanthaval/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -81,8 +82,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **36 / 37**
-- anthology stories not yet transcribed: **1 / 37**
+- Tamil source processing complete from anthology: **37 / 37**
+- anthology stories not yet transcribed: **0 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -125,23 +126,22 @@ Exact source metadata, inventory and scan map are under the collection workspace
 34. **அமிர்தமதி** — printed **222–229**, scans **231–238**, **8/8 verified**, audit PASS.
 35. **சுமந்தவள்** — printed **230–240**, scans **239–249**, **11/11 verified**, audit PASS.
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
+37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-six have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 36 — சித்தார்த்தன் சிலை
+### Story 37 — நுனிக்கரும்பு
 
-Canonical workspace: [`stories/siddharthan-silai/`](stories/siddharthan-silai/README.md)
+Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
-- TOC title **`சித்தார்த்தன்`**
-- story-opening heading **`சித்தார்த்தன் சிலை`**
-- printed pages **241–243**
-- PDF scans **250–252**
-- page records: **3 / 3 verified**
+- printed pages **244–250**
+- PDF scans **253–259**
+- page records: **7 / 7 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **252** contains the closing ornament
-- scan **253** confirmed as next-story opening `நுனிக்கரும்பு`
+- scan **259** contains the closing ornament
+- scan **260** confirmed as anthology back cover
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -149,11 +149,8 @@ Canonical workspace: [`stories/siddharthan-silai/`](stories/siddharthan-silai/RE
 - TOC `புரட்சிப்படம்` ↔ story-opening heading `புரட்சிப் படம்`
 - TOC `சித்தார்த்தன்` ↔ story-opening heading `சித்தார்த்தன் சிலை`
 
-## Next exact activity
+## Anthology Tamil source pass status
 
-Process anthology Story **37 — `நுனிக்கரும்பு`** only:
+**COMPLETE — 37 / 37 stories fully source-processed and synchronized; 0 remaining.**
 
-- printed pages **244–250**
-- PDF scans **253–259**
-
-Scan **253** is already visually confirmed as Story 37's opening. Before final Story 37/anthology closure, visually inspect scan **260** as the back-cover boundary witness. Complete Story 37 only.
+The Tamil source pass for the 1977 anthology is closed through scan **259 / printed page 250**. Scan **260** is the verified back cover. No English translation or later downstream phase has been started as part of this closure.
