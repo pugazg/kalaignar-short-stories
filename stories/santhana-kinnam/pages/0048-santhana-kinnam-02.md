@@ -16,6 +16,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 பின்னர் வாழ்வுப் பாதையில் குறுக்கிடும் வளைவுகளை எடுத்துச் சொல்லி எதையும் தாங்கிடும் துணிவு வேண்டும் என்று தைரியமூட்டினார். குடும்பம் என்பது மணல் வீடு கட்டி மரப் பொம்மை வைத்து மழலை விளையாட்டு விளையாடிய கொழுந்துப் பருவ நிகழ்ச்சியல்ல எனக் காட்டி, ‘வாழ்க்கை வானில் பறக்கச் சிறகடிக்கும் வெண் புறாக்கள்! வாழ்க நீவிர் வளமெல்லாம் பெற்று!’ என வாழ்த்தினார், பலமுறை. புறநானூற்றில் உலவிடும் தாய்மார்கள் பலர் தேவை என்று முழங்கினார். சுருக்கமாகவும் சுவையாகவும் புறநானூறு கூறுகிற ஓர் அழகான கவிதைக்கு மெருகேற்றி எளிய நடையிலே கீதமிசைத்துத் தந்தார். அந்தக் கீதமே ஒரு கதையாக இருந்தது.
 
+<!-- source enlarged initial: கு in குடிசைதான் marks the opening of the long poem -->
+
 குடிசைதான் ஒரு புறத்தில் கூரிய வேல், வாள்  
 வரிசையாய் அமைந்திருக்கும்,  
 வையத்தைப் பிடிப்பதற்கும்,  
@@ -29,6 +31,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - `திராவிட உட்கல வங்க`, `திராவிட வித்யாபூஷணம்`, `கீதமிசைத்துத் தந்தார்`, and `கிலியும்` were checked against the full high-resolution source span.
+- Visual-fidelity review records the enlarged initial `கு` beginning `குடிசைதான்...`; the poem's printed lineation is preserved and continues through scans 49–50.
 - `கிலியும்` is unusual but visually supported and remains in the review queue.
 - The poem continues on scan 49.
 
