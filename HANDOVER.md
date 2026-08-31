@@ -80,10 +80,10 @@ The user explicitly authorized **visual fidelity check** after Tamil source tran
 ## Visual-fidelity progress
 
 - total stories: **37**
-- complete: **4 / 37**
-- pending: **33 / 37**
+- complete: **5 / 37**
+- pending: **32 / 37**
 - needs recheck: **0**
-- current target: **Story 5 — `குப்பைத்தொட்டி`**
+- current target: **Story 6 — `சந்தனக்கிண்ணம்`**
 
 ### Story 1 — `புகழேந்தி` — VISUAL FIDELITY CLOSED
 
@@ -108,53 +108,59 @@ The user explicitly authorized **visual fidelity check** after Tamil source tran
 
 ### Story 4 — `ஆட்டக்காவடி` — VISUAL FIDELITY CLOSED
 
-Canonical workspace: `stories/aattakkavadi/`
-
-- printed pages: **22–29**
-- scans: **31–38**
-- boundary witness: scan **39**, opening `குப்பைத்தொட்டி`
+- scans **31–38 / printed pages 22–29**
 - result: **PASS — corrected**
-- story-local record: `stories/aattakkavadi/visual-fidelity.md`
+- record: `stories/aattakkavadi/visual-fidelity.md`
+- corrections were structural only; story wording changed: **No**
 
-Direct visual review covered all eight source pages plus scan 39. Paragraph/dialogue separation, source-significant emphasis, page furniture, letter layout and every physical join were checked.
+### Story 5 — `குப்பைத்தொட்டி` — VISUAL FIDELITY CLOSED
+
+Canonical workspace: `stories/kuppai-thotti/`
+
+- printed pages: **30–37**
+- scans: **39–46**
+- boundary witness: scan **47**, opening `சந்தனக்கிண்ணம்`
+- result: **PASS — corrected**
+- story-local record: `stories/kuppai-thotti/visual-fidelity.md`
+
+Direct visual review covered all eight source pages plus scan 47. Paragraph structure, the scan-42 verse display, scan-45 isolated quoted lines, page furniture and every physical join were checked.
 
 Structural-only corrections made:
 
-1. scan 31 / assembly: recorded the long horizontal rule beneath `ஆட்டக்காவடி`;
-2. scan 31 / assembly: recorded the enlarged opening `ஆ`;
-3. scan 31 / assembly: preserved the source-bold phrase `காவடி ஆட்டக் கச்சேரி` without changing wording;
-4. scan 34 / assembly: recorded the enlarged `க` marking the flashback paragraph `கனிமொழி நெசவாளர்...`;
-5. scan 37 / assembly: recorded the enlarged `ம` marking the `மறுநாள்...` paragraph;
-6. scan 38: `story-conclusion` → `story-ending`;
-7. scan 38: removed the non-source display heading `அச்சு உரை`;
-8. scan 38 / assembly: recorded the standalone letter alternatives, the visually separated `இப்படிக்கு / கனிமொழி / பகுத்தறிவுப் பெண்.` sign-off, and the centered closing ornament;
-9. page map synchronized with these source-significant roles.
+1. scan 39 / assembly: recorded the long horizontal rule beneath `குப்பைத்தொட்டி`;
+2. scan 39 / assembly: recorded the enlarged opening `வீ` in `வீதியோரத்தில்`;
+3. scan 42: confirmed the four-line quoted verse is already source-lineated in page record and assembly;
+4. scan 42 printer signature `க—3` remains excluded as page furniture;
+5. scan 45: confirmed `‘கண்ணு!’ / ‘என் மூக்கு!’ / ‘அய்யோ என் மன்மதராஜா!’` remain isolated as in the source;
+6. scan 46: `story-conclusion` → `story-ending`;
+7. scan 46 / assembly: recorded the centered closing ornament;
+8. page map synchronized with the opening, display, page-furniture and ending roles.
 
-**No story wording changed during Story 4 visual-fidelity review.** Markdown emphasis was added only to represent source-visible bolding. The existing human possible-error queue remains unchanged.
+**No story wording changed during Story 5 visual-fidelity review.** The existing human possible-error queue remains unchanged.
 
-## NEXT EXACT ACTIVITY — STORY 5 VISUAL FIDELITY ONLY
+## NEXT EXACT ACTIVITY — STORY 6 VISUAL FIDELITY ONLY
 
-Story 5 — **`குப்பைத்தொட்டி`**:
+Story 6 — **`சந்தனக்கிண்ணம்`**:
 
-- canonical workspace: `stories/kuppai-thotti/`
-- printed pages: **30–37**
-- anthology scans: **39–46**
-- boundary witness: scan **47**, opening Story 6 **`சந்தனக்கிண்ணம்`**
+- canonical workspace: `stories/sandhana-kinnam/`
+- printed pages: **38–47**
+- anthology scans: **47–56**
+- boundary witness: scan **57**, opening Story 7 **`சங்கிலிச்சாமி`**
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` first and preserve newer work;
-2. inspect scans **39–46** directly from the controlling PDF;
-3. compare all eight pages against `stories/kuppai-thotti/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
-4. inspect scan **47** only as the next-story boundary witness;
-5. check opening/ending roles, paragraph/dialogue structure, display/verse/emphasis, non-text marks, page furniture and every physical join;
+2. inspect scans **47–56** directly from the controlling PDF;
+3. compare all ten pages against `stories/sandhana-kinnam/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
+4. inspect scan **57** only as the next-story boundary witness;
+5. check opening/ending roles, paragraph/dialogue structure, verse/display/emphasis, non-text marks, page furniture and every physical join;
 6. apply only source-supported structural corrections; if wording itself is wrong, verify the complete source span before correction and propagate all affected layers;
-7. create `stories/kuppai-thotti/visual-fidelity.md`;
+7. create `stories/sandhana-kinnam/visual-fidelity.md`;
 8. update `VISUAL_FIDELITY_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-9. re-fetch live `main` and changed controls before declaring Story 5 visually complete;
-10. **do not begin Story 6 in the same activity**.
+9. re-fetch live `main` and changed controls before declaring Story 6 visually complete;
+10. **do not begin Story 7 in the same activity**.
 
-Expected result after Story 5 closure: **5 / 37 visual-fidelity complete, 32 pending**.
+Expected result after Story 6 closure: **6 / 37 visual-fidelity complete, 31 pending**.
 
 ## Downstream phase guard
 
@@ -163,5 +169,5 @@ Do **not** begin English translation, modernization, republication or another do
 ## Current closure state
 
 - Tamil source pass: **37 / 37 COMPLETE**
-- visual fidelity: **4 / 37 COMPLETE**
-- next exact activity: **Story 5 `குப்பைத்தொட்டி` visual fidelity**
+- visual fidelity: **5 / 37 COMPLETE**
+- next exact activity: **Story 6 `சந்தனக்கிண்ணம்` visual fidelity**
