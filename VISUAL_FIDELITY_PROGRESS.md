@@ -7,10 +7,10 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **6 / 37**
-- pending: **31 / 37**
+- visual fidelity complete: **7 / 37**
+- pending: **30 / 37**
 - needs recheck: **0**
-- current target: **Story 7 — `சங்கிலிச்சாமி`**
+- current target: **Story 8 — `கங்கையின் காதல்`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -20,8 +20,8 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS — corrected** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS — corrected** |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS — corrected** |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **pending** |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | pending |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS — corrected** |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **pending** |
 | 9 | `தாய்மை` | 64–74 | 73–83 | pending |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | pending |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | pending |
@@ -113,8 +113,19 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 - scan **57** confirmed as Story 7 `சங்கிலிச்சாமி` opening
 - record: `stories/santhana-kinnam/visual-fidelity.md`
 
+### Story 7 — `சங்கிலிச்சாமி`
+
+- scans **57–68 / printed pages 48–59**
+- result: **PASS — corrected**
+- structural-only corrections/annotations: opening horizontal rule and isolated opening chants; scan-67 false-letter display/sign-off with source-bold `சங்கிலிச்சாமி`; final-page `story-ending` role; centered floral closing ornament; assembly/page-map synchronization
+- scan-58 four devotee petitions remain isolated as printed; printer signature `க—4` remains excluded as page furniture
+- all 11 internal joins checked; scan 67→68 preserves the lexical split `...அன்றைக்கே` → `ஆயிரம் ரூபாய்!`
+- story wording changed: **No**
+- scan **69** confirmed as Story 8 `கங்கையின் காதல்` opening
+- record: `stories/sangilichami/visual-fidelity.md`
+
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 7 — `சங்கிலிச்சாமி`**, scans **57–68 / printed pages 48–59**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Perform the visual fidelity check for **Story 8 — `கங்கையின் காதல்`**, scans **69–72 / printed pages 60–63**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-Inspect scan **69** only as the next-story boundary witness (`கங்கையின் காதல்`). Do not begin Story 8 in the same activity.
+Inspect scan **73** only as the next-story boundary witness (`தாய்மை`). Do not begin Story 9 in the same activity.
