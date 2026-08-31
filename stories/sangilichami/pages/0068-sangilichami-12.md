@@ -3,7 +3,7 @@ scan_page: 68
 printed_page: 59
 story: "sangilichami"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -16,11 +16,13 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 ஆனால்...இருபதாயிரம் ரூபாய் எடை வெள்ளிக் கட்டி லாபம்! அதுவும் வளர்கிற லாபம்!....மக்களிடம் மடமை இருக்கும் வரை அந்த லாபம் குறையாது.
 
+<!-- source closing ornament: centered floral flourish beneath the final paragraph -->
+
 ## Source-review note
 
 - The opening `ஆயிரம் ரூபாய்!` completes the sentence split from scan 67.
 - `மாபெரும் மடம்` was confirmed by character-level enlarged source inspection.
-- The ornamental rule below the final paragraph is non-text decoration.
+- Visual-fidelity review classifies this as the `story-ending` page and records the centered floral flourish below the final paragraph.
 - Scan 69 was visually checked and opens Story 8, `கங்கையின் காதல்`; no Story 8 text is included here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 68; அச்சுப் பக்கம்: 59 -->
