@@ -12,6 +12,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # சங்கிலிச்சாமி
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source display: the two opening chants are isolated lines in the source -->
+
 “சங்கிலியானந்த சாமிக்கு ஜே!”
 
 “சங்கிலியானந்த சாமிக்கு ஜே! ஜே! ஜே!”
@@ -27,6 +30,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Story-opening heading `சங்கிலிச்சாமி` is visually confirmed.
+- Visual-fidelity review records the long horizontal rule beneath the heading; the two opening chants remain isolated display lines as printed.
 - `அஷ்டமா சித்துபுரி`, `துடுக் கடக்கும் தாயனே`, and quoted `‘நமப்பார்வதி படே’` are retained source-close and queued for later human review.
 - Scan 57 ends with a complete sentence; scan 58 begins a new paragraph about devotees' requests.
 
