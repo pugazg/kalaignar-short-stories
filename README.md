@@ -55,6 +55,7 @@ Permanent guides:
 | [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`அமிர்தமதி`](stories/amirthamathi/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -78,8 +79,8 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **33 / 37**
-- anthology stories not yet transcribed: **4 / 37**
+- Tamil source processing complete from anthology: **34 / 37**
+- anthology stories not yet transcribed: **3 / 37**
 - English translation started from anthology: **0 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
@@ -119,21 +120,22 @@ Exact source metadata, inventory and scan map are under the collection workspace
 31. **அய்யோ ராஜா!** — printed **202–208**, scans **211–217**, **7/7 verified**, audit PASS.
 32. **விஷம் இனிது** — printed **209–215**, scans **218–224**, **7/7 verified**, audit PASS.
 33. **வேணியின் காதலன்** — printed **216–221**, scans **225–230**, **6/6 verified**, audit PASS.
+34. **அமிர்தமதி** — printed **222–229**, scans **231–238**, **8/8 verified**, audit PASS.
 
-All thirty-three have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All thirty-four have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
 
-### Story 33 — வேணியின் காதலன்
+### Story 34 — அமிர்தமதி
 
-Canonical workspace: [`stories/veniyin-kadhalan/`](stories/veniyin-kadhalan/README.md)
+Canonical workspace: [`stories/amirthamathi/`](stories/amirthamathi/README.md)
 
-- printed pages **216–221**
-- PDF scans **225–230**
-- page records: **6 / 6 verified**
+- printed pages **222–229**
+- PDF scans **231–238**
+- page records: **8 / 8 verified**
 - Tamil assembly: complete
 - Tamil audit: **PASS**
 - source blocks / unresolved story text: **0**
-- scan **230** contains the closing ornament
-- scan **231** confirmed as next-story opening `அமிர்தமதி`
+- scan **238** contains the closing ornament
+- scan **239** confirmed as next-story opening `சுமந்தவள்`
 - English: not started
 
 ### Edition-level title differences already preserved
@@ -143,9 +145,9 @@ Canonical workspace: [`stories/veniyin-kadhalan/`](stories/veniyin-kadhalan/READ
 
 ## Next exact activity
 
-Process anthology Story **34 — `அமிர்தமதி`** only:
+Process anthology Story **35 — `சுமந்தவள்`** only:
 
-- printed pages **222–229**
-- PDF scans **231–238**
+- printed pages **230–240**
+- PDF scans **239–249**
 
-Scan **231** is already visually confirmed as Story 34's opening. Before Story 34 closure, visually confirm scan **239** begins Story 35 `சுமந்தவள்`. Complete Story 34 only; do not begin Story 35 in the same activity.
+Scan **239** is already visually confirmed as Story 35's opening. Before Story 35 closure, visually confirm scan **250** begins Story 36, whose TOC title is `சித்தார்த்தன்` and story-opening heading is `சித்தார்த்தன் சிலை`. Complete Story 35 only; do not begin Story 36 in the same activity.
