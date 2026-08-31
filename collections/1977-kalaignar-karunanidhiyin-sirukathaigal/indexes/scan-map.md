@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **33/37 Tamil source passes complete** |
+| 10–259 | 1–250 | 37 short stories | **34/37 Tamil source passes complete** |
 | 260 | — | back cover | structurally registered |
 
 ## Story ranges
@@ -53,16 +53,16 @@
 | 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **complete — 7/7 verified** |
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | **complete — 7/7 verified** |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **complete — 6/6 verified** |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | not started |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **complete — 8/8 verified** |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | not started |
 | 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | not started |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | not started |
 
 ## Current processing boundary
 
-Completed Tamil source passes are Stories 1–33, scans **10–230**. Story 33 `வேணியின் காதலன்` is complete for scans **225–230 / printed pages 216–221**, with **6/6 verified**, 0 blocked and 0 unresolved story text. Scan **231 / printed page 222** was visually confirmed as the opening of Story 34 `அமிர்தமதி` while closing the Story 33 boundary.
+Completed Tamil source passes are Stories 1–34, scans **10–238**. Story 34 `அமிர்தமதி` is complete for scans **231–238 / printed pages 222–229**, with **8/8 verified**, 0 blocked and 0 unresolved story text. Scan **239 / printed page 230** was visually confirmed as the opening of Story 35 `சுமந்தவள்` while closing the Story 34 boundary.
 
-Next active source range: **Story 34 `அமிர்தமதி`, scans 231–238 / printed pages 222–229**. Its ending must be checked against scan **239**, which should begin Story 35 `சுமந்தவள்`.
+Next active source range: **Story 35 `சுமந்தவள்`, scans 239–249 / printed pages 230–240**. Its ending must be checked against scan **250**, which should begin Story 36 with story-opening heading `சித்தார்த்தன் சிலை` (TOC title `சித்தார்த்தன்`).
 
 ## Per-story page-record policy
 
