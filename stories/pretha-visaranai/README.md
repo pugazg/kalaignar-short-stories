@@ -32,6 +32,12 @@ Final current Tamil assembly: [`sections/pretha-visaranai.md`](sections/pretha-v
 
 The assembly preserves all six anthology scan boundaries. Scan 146, which opens `கண்டதும் காதல் ஒழிக!`, is excluded.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+Opening rule/enlarged `ட`, final `story-ending` role, closing ornament and all physical joins are recorded. **Story wording changed: No.**
+
 ## Human possible-error review
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic, colloquial or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
@@ -43,7 +49,7 @@ High-value source-close readings include `கண்ணப்புக் கண�
 - printed 131→132 / scans 140→141: `...சாவிக் கொத்தை எடுத்து விரலில்` → `சுழற்றிக்கொண்டே நகர ஆரம்பித்தார் நாயுடுகாரு.`
 - printed 133→134 / scans 142→143: `...‘ஆம்படையா—’ அவதி தாங்க` → `மாட்டாமல் அனலிடைப் புழுப்போல்...`
 
-The 141→142, 143→144 and 144→145 boundaries were also directly checked; no story text is omitted or duplicated.
+The other internal boundaries were also directly checked; no story text is omitted or duplicated.
 
 ## Story boundary
 
@@ -52,16 +58,18 @@ The 141→142, 143→144 and 144→145 boundaries were also directly checked; no
 - scan **146**: heading `கண்டதும் காதல் ஒழிக!`, Story 20 opening confirmed;
 - Story 20 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/pretha-visaranai.md`](translations/en/pretha-visaranai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **6 / 6** source-page markers represented
+- physical continuations **140→141** and **142→143** remain traceable
+- source-printed historical caste-language is represented conservatively and documented rather than silently modernized
+- hospital refusal, landlord contrast, Karuppayi backstory, temple-entry scene, post-mortem irony, and final social diagnosis remain complete
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**பிரேத விசாரணை Tamil archival source processing: COMPLETE for scans 140–145 / printed pages 131–136, with 6/6 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 20 — **கண்டதும் காதல் ஒழிக!**, printed pages **137–141**, anthology scans **146–150**.
-
-Do not begin Story 20 as part of the Story 19 activity.
+**பிரேத விசாரணை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 140–145 / printed pages 131–136.**
