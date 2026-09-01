@@ -41,28 +41,40 @@ High-value source-close readings include `கம்ப ரசம்`, `கேட
 ## Verified physical continuations
 
 - scans 175→176: `...உட்கார்ந்திருந்த அவனிடம்,` → `வான வெளியில்...`.
-- printed 167→168 / scans 176→177: `...பருவ` → `மடைந்து...`.
-- printed 168→169 / scans 177→178: `...பவளக் கட்டி` → `யும்,...`.
-- printed 169→170 / scans 178→179: `...எடுத்துக்` → `காட்டிற்று.`.
-- scans 173→174, 174→175, and 179→180 were also directly checked; no story text is omitted or duplicated.
+- scans 176→177: `...பருவ` → `மடைந்து...`.
+- scans 177→178: `...பவளக் கட்டி` → `யும்,...`.
+- scans 178→179: `...எடுத்துக்` → `காட்டிற்று.`.
+- scans 173→174, 174→175, and 179→180 were also checked with no omitted or duplicated story text.
+
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The source-bold sentence `சின்னச்சாமி வாழமுடியாதவன். காந்தா அவனால் வாழவைக்கப்பட முடியாதவள்.` and emphasized `“ஆண்டவன் படைப்பு”` remain represented; opening/ending structure is synchronized. **Story wording changed: No.**
 
 ## Story boundary
 
-- scan **173**: heading `வாழ முடியாதவர்கள்`, Story 25 opening confirmed;
-- scan **180**: final paragraph and ornamental closing rule;
-- scan **181**: heading `அபாக்ய சிந்தாமணி`, Story 26 opening confirmed;
-- Story 26 text included here: **No**.
+- scan **173** opens `வாழ முடியாதவர்கள்`;
+- scan **180** contains the conclusion and closing ornament;
+- scan **181** opens `அபாக்ய சிந்தாமணி` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/vazha-mudiyathavargal.md`](translations/en/vazha-mudiyathavargal.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **8 / 8** source-page markers represented
+- physical continuations **175→176**, **176→177**, **177→178**, and **178→179** remain traceable
+- Thilothama cinema opening, poverty/marriage commentary, source emphasis, night sequence and morning closing image remain complete
+- source-sensitive `கவாட்டா`, `‘காலேஜ் வேடர்’`, `‘கிம்பள சான்ஸ்’`, `அழுக்கியது`, and `தீவிதி` handled conservatively without Tamil repair
+- the father–daughter night sequence is translated to the same degree of explicitness as the source, without added mechanics or euphemistic omission
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**வாழ முடியாதவர்கள் Tamil archival source processing: COMPLETE for scans 173–180 / printed pages 164–171, with 8/8 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**வாழ முடியாதவர்கள் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 173–180 / printed pages 164–171.**
 
-## Next anthology activity
+## Next anthology English activity
 
-Story 26 — **அபாக்ய சிந்தாமணி**, printed pages **172–179**, anthology scans **181–188**.
-
-Do not begin Story 26 as part of the Story 25 activity.
+Story 26 — **அபாக்ய சிந்தாமணி**, printed pages **172–179**, anthology scans **181–188**; included in the user-authorized current batch.
