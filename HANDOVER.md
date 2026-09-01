@@ -36,13 +36,13 @@ All 37 stories have story-local `visual-fidelity.md` records with result `PASS` 
 
 ## English translation phase — ACTIVE
 
-The user explicitly authorized English translation and explicitly expanded the latest activity to Stories 7–8. The repeated `கங்கையின் காதல்` in the user request was treated as the same Story 8, not as a third distinct story.
+The user explicitly authorized English translation and explicitly expanded the latest activity to Stories 9–10.
 
 - total anthology stories: **37**
-- complete: **8 / 37**
-- pending: **29 / 37**
+- complete: **10 / 37**
+- pending: **27 / 37**
 - needs review: **0**
-- next target: **Story 9 — `தாய்மை`**
+- next target: **Story 11 — `தப்பவில்லை`**
 
 English is a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
 
@@ -64,56 +64,60 @@ Before translating each story:
 6. `சந்தனக்கிண்ணம்` — scans **47–56 / printed 38–47** — **PASS**
 7. `சங்கிலிச்சாமி` — scans **57–68 / printed 48–59** — **PASS**
 8. `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — **PASS**
+9. `தாய்மை` — scans **73–83 / printed 64–74** — **PASS**
+10. `தப்பிவிட்டார்கள்` — scans **84–91 / printed 75–82** — **PASS**
 
-For all eight, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
+For all ten, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
 
-### Latest completed Story 7 — `சங்கிலிச்சாமி`
+### Latest completed Story 9 — `தாய்மை`
 
-- workspace: `stories/sangilichami/`
-- English: `translations/en/sangilichami.md`
+- workspace: `stories/thaaymai/`
+- English: `translations/en/thaaymai.md`
 - review: `TRANSLATION_REVIEW.md`
-- opening chants and scan-58 devotee petitions remain display-separated
-- scan-67 false letter and sign-off remain distinct; source-bold signature is preserved semantically
-- physical 67→68 continuation remains traceable
-- unusual verified forms such as `அஷ்டமா சித்துபுரி`, `‘நமப்பார்வதி படே’`, `செக்கச் செவேன்னு`, `மூடாத்மா ஞானத்மாவாக`, `தவறுக என்னை மதிக்காதீர்`, `தடியன் தானு?`, and `கொலைகாரனுக்கிவிட்டாயே` were handled conservatively and documented
+- all **11** source-page markers preserved
+- physical continuations **74→75**, **78→79** and **80→81** remain traceable
+- source-bold scan-82 `“நிறுத்தாதே! ஊது!! ஊது!” என்று.` is represented semantically in English
+- all Tamil spans restored during the earlier visual-fidelity reopen were translated from the current canonical assembly
+- unusual forms including `மல்லிகர்த்தவரை`, `திட்டசனயமிக்க`, `கரடித் திருமனியன்`, `மாயமாலத்தில்`, `மொண்டு மொண்டு`, `தணலிவிட்ட புழுவாயிற்று`, and `படந்தாக்கி` were handled conservatively
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-### Latest completed Story 8 — `கங்கையின் காதல்`
+### Latest completed Story 10 — `தப்பிவிட்டார்கள்`
 
-- workspace: `stories/gangaiyin-kadhal/`
-- English: `translations/en/gangaiyin-kadhal.md`
+- workspace: `stories/thappivittargal/`
+- English: `translations/en/thappivittargal.md`
 - review: `TRANSLATION_REVIEW.md`
-- scans 69→70 and 71→72 physical continuations remain traceable
-- dialogue structure and final narrative paragraph remain distinct
-- unusual verified forms including `அல்வித் தண்டில்`, `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`, `சல்லாப ரூபா`, `என்..பார்வதியால் தான் முடிந்ததா?`, and `தோன்றுமலிருக்க` were not silently normalized
+- all **8** source-page markers preserved
+- physical continuations **84→85**, **86→87** and **90→91** remain traceable
+- public praise of Ramadurai, assault disclosure, Vittal’s retaliation/escape, and the final station sequence remain in source order
+- unusual source-close forms such as `பச்சைப் பசங்களியே`, `போக்களத்தில்`, `எச்சிற் பண்டம்`, `கொல்காரன்`, `பலங் கொண்ட மட்டும்`, `கீழ்ஸ்தாயியில்`, and short `-னள்` verb forms were not silently normalized
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-## NEXT ACTIVITY — STORY 9
+## NEXT ACTIVITY — STORY 11
 
-Story 9 — **`தாய்மை`**:
+Story 11 — **`தப்பவில்லை`**:
 
-- canonical workspace: `stories/thaaymai/`
-- printed pages: **64–74**
-- anthology scans: **73–83**
-- boundary witness: scan **84**, opening Story 10 **`தப்பிவிட்டார்கள்`**
-- Tamil audit: **PASS — 11 / 11 verified**
-- English target: `stories/thaaymai/translations/en/thaaymai.md`
-- translation review target: `stories/thaaymai/TRANSLATION_REVIEW.md`
+- canonical workspace: `stories/thappavillai/`
+- printed pages: **83–92**
+- anthology scans: **92–101**
+- boundary witness: scan **102**, opening Story 12 **`ஆதரிக்கிறார்`**
+- Tamil audit: **PASS — 10 / 10 verified**
+- English target: `stories/thappavillai/translations/en/thappavillai.md`
+- translation review target: `stories/thappavillai/TRANSLATION_REVIEW.md`
 
 Process **one story per activity** unless the user explicitly expands the translation batch.
 
-## Expected closure after Story 9
+## Expected closure after Story 11
 
-After `தாய்மை` translation/review is complete:
+After `தப்பவில்லை` translation/review is complete:
 
-- English translation complete: **9 / 37**
-- pending: **28 / 37**
-- next target: Story 10 — **`தப்பிவிட்டார்கள்`**
-- Story 10 printed pages: **75–82**
-- Story 10 scans: **84–91**
-- Story 10 boundary witness: scan **92**, opening Story 11 **`தப்பவில்லை`**
+- English translation complete: **11 / 37**
+- pending: **26 / 37**
+- next target: Story 12 — **`ஆதரிக்கிறார்`**
+- Story 12 printed pages: **93–98**
+- Story 12 scans: **102–107**
+- Story 12 boundary witness: scan **108**, opening Story 13 **`இரகசியம்!`**
 
 Update the story README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, this handover and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring closure.
 
