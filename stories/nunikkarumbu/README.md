@@ -25,13 +25,26 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/nunikkarumbu.md`](sections/nunikkarumbu.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+- visual fidelity: **PASS**
 
 ## Source-sensitive verification
 
 The opening Bharathidasan verse and later old-typeface/sensitive spans were checked against enlarged source images. Source-close readings retained include `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `நாறுவது`, `அத்தனைநாள் கடந்தவம்`, `முன்னேடி`, `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `காலக்கடன்களை`, `கேட்டாமலே`, `தணலான`, `அடுக்குளப்பக்கம்`, `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, and `இவனத் தெரியுமா?`.
 
 The exact physical split `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?` was explicitly verified.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/nunikkarumbu.md`](translations/en/nunikkarumbu.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **7 / 7** source-page markers retained
+- opening Bharathidasan verse kept as a distinct three-line block
+- exact **257→258** split remains traceable
+- Arulnambi’s age-denial, Amudha fixation, telephone/dinner sequence and final `தாத்தா` reversal remain complete
+- opaque `நாறுவது` retained conservatively in transliterated form rather than silently regularized
+- canonical Tamil changed during translation: **No**
 
 ## Final anthology boundary
 
@@ -42,6 +55,6 @@ The exact physical split `...காட்சிகளைக் காட்ட�
 
 ## Completion state
 
-**நுனிக்கரும்பு Tamil archival source processing: COMPLETE for scans 253–259 / printed pages 244–250, with 7/7 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**நுனிக்கரும்பு Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 253–259 / printed pages 244–250.**
 
-This closes the Tamil source transcription pass for all **37 / 37** stories in the 1977 anthology. English translation has not been started for these anthology stories.
+This closes story-level Tamil, visual-fidelity and English-translation work for all **37 / 37** stories in the 1977 anthology.
