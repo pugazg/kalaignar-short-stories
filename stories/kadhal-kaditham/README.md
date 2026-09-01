@@ -44,25 +44,30 @@ High-value source-close readings include `பக்கந்தான்`, `ச�
 - printed 154→155 / scans 163→164: `...திரும்பிவர ஆரம்` → `பித்தன.`.
 - printed 155→156 / scans 164→165: `...தன் நிலை மறந்தாள்; நீ அடிக்கடி` → `கூறுவாயே...`.
 
-The 162→163 boundary was also directly checked; the quoted letter continues with no omitted or duplicated text.
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The opening structure, continuous letter across scans 162–163, centered two-line sign-off/source-bold `சுந்தர் பாபு”`, final ending role and closing ornament are synchronized. **Story wording changed: No.**
 
 ## Story boundary
 
-- scan **161**: heading `காதல் கடிதம்`, Story 23 opening confirmed;
-- scan **165**: final paragraph and ornamental closing rule;
-- scan **166**: heading `கண்ணடக்கம்`, Story 24 opening confirmed;
-- Story 24 text included here: **No**.
+- scan **161** opens this story;
+- scan **165** contains the story ending and closing ornament;
+- scan **166** independently opens `கண்ணடக்கம்` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/kadhal-kaditham.md`](translations/en/kadhal-kaditham.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **5 / 5** source-page markers represented
+- physical continuations **161→162**, **163→164**, and **164→165** remain traceable
+- the quoted letter and its source-significant sign-off remain structurally distinct
+- wartime framing, post-war revelation and final ironic reflection remain complete
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**காதல் கடிதம் Tamil archival source processing: COMPLETE for scans 161–165 / printed pages 152–156, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 24 — **கண்ணடக்கம்**, printed pages **157–163**, anthology scans **166–172**.
-
-Do not begin Story 24 as part of the Story 23 activity.
+**காதல் கடிதம் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 161–165 / printed pages 152–156.**
