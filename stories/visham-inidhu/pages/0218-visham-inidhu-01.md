@@ -12,6 +12,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # விஷம் இனிது
 
+<!-- source visual: long horizontal opening rule beneath title; enlarged/heavier opening `ஜெ` in `ஜெகவீரா` marks the first dialogue line -->
+<!-- page furniture: printer signature `க—14` at the lower margin is excluded from story body -->
+
 “ஜெகவீரா, சத்தியவதியின் போக்கு எனக்குப் பிடிக்கவில்லை மகனே!”
 
 “அம்மா!”
