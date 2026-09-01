@@ -3,7 +3,7 @@ scan_page: 165
 printed_page: 156
 story: "kadhal-kaditham"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -14,4 +14,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 பாலன் அந்தச் செய்தியைக் கூறிய பிறகு, உலகப் போர் இன்னும் முடியவில்லை என்றே எனக்குத் தோன்றியது—தோன்றுகிறது. பாலன் என்னோடு இரண்டு நாள் தங்கியிருந்தான். அவனும் போய்விட்டான்; அவனது ‘அத்தை மகள்’ அவசர அழைப்பு அனுப்பினாள் என்று. நான் என்ன செய்வேன்? என் கடிதத்தைச் சுமந்து வந்தவன் பெற்ற பாக்கியம்கூடக், கடிதம் எழுதிய நான் பெறமுடியவில்லையே! அதிகமாகக் கடிதம் எழுதுவதிலும் இப்படி ஒரு ஆபத்து இருக்கிறது என்று எனக்குத் தெரியாமல் போய்விட்டதே! அப்போதே அந்த ஜெர்மனியரின் குண்டுகள் என் தலையில் விழுந்திருக்கக்கூடாதா?
 
+<!-- source closing ornament: centered short rule with diamond/dot flourish -->
 <!-- மூல ஸ்கேன் பக்கம்: 165; அச்சுப் பக்கம்: 156 -->
