@@ -10,6 +10,7 @@
 - Visual-fidelity tracker: `VISUAL_FIDELITY_PROGRESS.md`
 - English-translation workflow: `ENGLISH_TRANSLATION_GUIDE.md`
 - English-translation tracker: `ENGLISH_TRANSLATION_PROGRESS.md`
+- English final QA: `ENGLISH_TRANSLATION_FINAL_QA.md`
 - Source PDFs / renders / crops are **not** committed.
 
 ## Authoritative-state rule
@@ -27,11 +28,12 @@ Always fetch live `main` first and preserve newer durable work.
 
 ## Durable anthology milestones
 
-The 1977 anthology now has all three archival layers closed:
+The 1977 anthology now has all archival/translation control layers closed:
 
 1. **Tamil source transcription/audit — COMPLETE: 37 / 37 stories**, scans **10–259 / printed pages 1–250**, with **0 blocked / 0 unresolved story text**;
-2. **visual fidelity — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs recheck**; and
-3. **English translation/review — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs review**.
+2. **visual fidelity — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs recheck**;
+3. **English translation/review — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs review**; and
+4. **English final structural/control QA — PASS**, recorded in `ENGLISH_TRANSLATION_FINAL_QA.md`.
 
 All 37 stories have story-local `visual-fidelity.md`, `translations/en/<slug>.md`, and `TRANSLATION_REVIEW.md` records with final result `PASS` or `PASS — corrected` as applicable to the source layer.
 
@@ -39,7 +41,7 @@ English remains a separate, non-authoritative transformation layer. The verified
 
 ## Final English batch
 
-The user explicitly expanded the final activity to all remaining stories:
+The user explicitly expanded the final translation activity to all remaining stories:
 
 35. `சுமந்தவள்` — scans **239–249 / printed 230–240** — **PASS**
 36. TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` — scans **250–252 / printed 241–243** — **PASS**
@@ -85,12 +87,28 @@ The user explicitly expanded the final activity to all remaining stories:
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
+## Final structural/control QA
+
+A post-translation QA pass has now been completed and recorded in `ENGLISH_TRANSLATION_FINAL_QA.md`.
+
+The QA independently checked the completed English phase against the pre-English visual-fidelity baseline and verified that:
+
+- all **37** anthology story workspaces have one English file under `translations/en/`;
+- all **37** have a story-local `TRANSLATION_REVIEW.md`;
+- the tracker and control files agree on **37 / 37 PASS**, **0 pending**, **0 needs review**;
+- the title variances `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` and `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை` remain preserved;
+- scan **260** remains the verified back-cover boundary;
+- no canonical Tamil text was changed by the QA pass.
+
+QA result: **PASS**.
+
 ## Final phase state
 
 - anthology stories: **37**
 - Tamil source complete: **37 / 37**
 - visual fidelity complete: **37 / 37**
 - English translation complete: **37 / 37**
+- English final structural/control QA: **PASS**
 - English pending: **0**
 - English needs review: **0**
 - story-level unresolved source text: **0**
@@ -99,16 +117,16 @@ The user explicitly expanded the final activity to all remaining stories:
 
 ## Future continuation rule
 
-There is **no pending anthology English story**. Do not restart Story 35, 36 or 37 from an older prompt.
+There is **no pending anthology English story or English final-QA activity**. Do not restart Story 35, 36 or 37 or repeat the final QA from an older prompt.
 
 If future work is explicitly authorized:
 
 1. fetch live `main` first;
-2. treat the 37/37 Tamil, visual and English closure as authoritative unless newer repository evidence says otherwise;
+2. treat the 37/37 Tamil, visual, English and final-QA closure as authoritative unless newer repository evidence says otherwise;
 3. if an English revision suggests a Tamil source problem, reopen that exact Tamil span against the controlling scan under `SHORT_STORY_PROCESSING_GUIDE.md` before changing any source or translation layer;
 4. preserve the TOC/opening-title differences `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` and `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை`;
 5. do not begin a new phase such as modernization, adaptation, republication or release packaging without explicit authorization.
 
 ## Phase guard
 
-English translation completion does not authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
+English translation and final QA completion do not authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
