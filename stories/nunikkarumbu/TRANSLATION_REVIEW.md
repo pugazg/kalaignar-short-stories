@@ -63,4 +63,4 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 
 **PASS — English translation complete for Story 37.**
 
-The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative. This completes the story-level English translation/review work for all **37 / 37** anthology stories, subject to synchronization of the anthology-level control files.
+The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative. This completes the story-level English translation/review work for all **37 / 37** anthology stories, and the anthology-level control files are synchronized to the same 37/37 closure.
