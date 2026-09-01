@@ -8,7 +8,15 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 195 | 186 | story body | verified | `../pages/0195-puratchip-padam-02.md` |
 | 196 | 187 | story body | verified | `../pages/0196-puratchip-padam-03.md` |
 | 197 | 188 | story body | verified | `../pages/0197-puratchip-padam-04.md` |
-| 198 | 189 | story conclusion | verified | `../pages/0198-puratchip-padam-05.md` |
+| 198 | 189 | story ending | verified | `../pages/0198-puratchip-padam-05.md` |
+
+## Visual-fidelity notes
+
+- scan **194**: opening heading `புரட்சிப் படம்`, long horizontal rule, enlarged/heavier opening `டை` in `டைரக்டர்`;
+- TOC form **`புரட்சிப்படம்`** remains distinct and is not normalized;
+- scan **196**: two bold publicity slogans are already represented semantically;
+- scan **197**: source-bold `“செவ்வானம்”`, `“தயாரிப்பு பரமசிவானந்தம்”`, and `“படம் முற்றிற்று—வணக்கம்”` remain represented;
+- scan **198**: final censor punchline, `story-ending` role, and centered closing ornament.
 
 ## Status
 
