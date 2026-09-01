@@ -19,8 +19,8 @@ Fetch live `main` first and preserve any newer durable state. Do not reset or re
 
 - Tamil source processing: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
-- English translation: **6 / 37 complete**
-- English pending: **31 / 37**
+- English translation: **8 / 37 complete**
+- English pending: **29 / 37**
 - English needs review: **0**
 
 English is a separate translation layer. The verified canonical Tamil remains authoritative.
@@ -46,7 +46,7 @@ Translate the **current verified Tamil actually preserved in the repository**. D
 
 ## COMPLETED ENGLISH STORIES
 
-The current durable English boundary is **Story 6**.
+The current durable English boundary is **Story 8**.
 
 1. `புகழேந்தி` — scans **10–15 / printed 1–6** — **PASS**
 2. `நளாயினி` — scans **16–23 / printed 7–14** — **PASS**
@@ -54,8 +54,10 @@ The current durable English boundary is **Story 6**.
 4. `ஆட்டக்காவடி` — scans **31–38 / printed 22–29** — **PASS**
 5. `குப்பைத்தொட்டி` — scans **39–46 / printed 30–37** — **PASS**
 6. `சந்தனக்கிண்ணம்` — scans **47–56 / printed 38–47** — **PASS**
+7. `சங்கிலிச்சாமி` — scans **57–68 / printed 48–59** — **PASS**
+8. `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — **PASS**
 
-For all six:
+For all eight:
 
 - English file and `TRANSLATION_REVIEW.md` are committed;
 - source-page markers are complete;
@@ -64,43 +66,41 @@ For all six:
 
 Latest structural facts preserved:
 
-- `குப்பைத்தொட்டி`: scan-42 four-line quoted prayer/verse and scan-45 isolated quoted lines remain display-separated;
-- `சந்தனக்கிண்ணம்`: scans 48–50 long poem remains continuous, Vijayā's seven-line gift inscription is preserved, source emphasis on `மார்பு காட்டி!` is represented, and the closing standalone `ஆனால்,` remains separate.
+- `சங்கிலிச்சாமி`: opening chants and devotee petitions remain display-separated; the false letter and source-bold sign-off remain distinct; scan 67→68 remains traceable;
+- `கங்கையின் காதல்`: dialogue remains source-separated; scan 69→70 and scan 71→72 continuations remain traceable; unusual forms including `அல்வித் தண்டில்`, `என்..பார்வதியால் தான் முடிந்ததா?`, and `தோன்றுமலிருக்க` were not silently normalized.
 
-## NEXT ACTIVITY — STORY 7 ONLY
+## NEXT ACTIVITY — STORY 9 ONLY
 
-Translate and review Story 7 — **`சங்கிலிச்சாமி`**.
+Translate and review Story 9 — **`தாய்மை`**.
 
-- canonical workspace: `stories/sangilichami/`
-- printed pages: **48–59**
-- anthology scans: **57–68**
-- boundary witness: scan **69**, opening Story 8 **`கங்கையின் காதல்`**
-- Tamil audit: **PASS — 12 / 12 verified**
-- English target: `stories/sangilichami/translations/en/sangilichami.md`
-- review target: `stories/sangilichami/TRANSLATION_REVIEW.md`
+- canonical workspace: `stories/thaaymai/`
+- printed pages: **64–74**
+- anthology scans: **73–83**
+- boundary witness: scan **84**, opening Story 10 **`தப்பிவிட்டார்கள்`**
+- Tamil audit: **PASS — 11 / 11 verified**
+- English target: `stories/thaaymai/translations/en/thaaymai.md`
+- review target: `stories/thaaymai/TRANSLATION_REVIEW.md`
 
-Before translating Story 7, read its complete human-review queue. High-value source forms include `அஷ்டமா சித்துபுரி`, `துடுக் கடக்கும் தாயனே`, `‘நமப்பார்வதி படே’`, `பிள்ளையில்ல....அருள் தேவை`, `செக்கச் செவேன்னு`, `பேய்....தீராத வினையெல்லாம் இவுரு விபூதியினாலே தீரும்டா.`, `மூடாத்மா ஞானத்மாவாக`, `கருவாடு களவு கொடுத்த பாப்பாத்தி`, `தவறுக என்னை மதிக்காதீர்`, `தடியன் தானு?`, and `கொலைகாரனுக்கிவிட்டாயே`. Do not normalize these from expectation.
+For Story 9:
 
-For Story 7:
-
-1. read the complete verified Tamil assembly and review queue first;
-2. preserve paragraph/dialogue/display structure and all twelve source-page markers;
-3. preserve names, devotional/satirical vocabulary and unusual verified forms conservatively;
+1. read its complete verified Tamil assembly and review queue first;
+2. preserve paragraph/dialogue/display structure and all eleven source-page markers;
+3. preserve names, cultural references and unusual verified forms conservatively;
 4. do not import corrections or explanations from outside editions or general knowledge;
 5. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
 6. create the complete English file and `TRANSLATION_REVIEW.md`;
-7. update Story 7 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 7 complete.
+7. update Story 9 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
+8. re-fetch live `main` and changed controls before declaring Story 9 complete.
 
-Do **not** begin Story 8 in the same activity unless the user explicitly expands the translation batch.
+Do **not** begin Story 10 in the same activity unless the user explicitly expands the translation batch.
 
-## EXPECTED STATE AFTER STORY 7
+## EXPECTED STATE AFTER STORY 9
 
-- English translation complete: **7 / 37**
-- pending: **30 / 37**
-- needs review: **0**, unless Story 7 genuinely requires review
-- next target: Story 8 — **`கங்கையின் காதல்`**, scans **69–72 / printed pages 60–63**
-- Story 8 boundary witness: scan **73**, opening `தாய்மை`
+- English translation complete: **9 / 37**
+- pending: **28 / 37**
+- needs review: **0**, unless Story 9 genuinely requires review
+- next target: Story 10 — **`தப்பிவிட்டார்கள்`**, scans **84–91 / printed pages 75–82**
+- Story 10 boundary witness: scan **92**, opening `தப்பவில்லை`
 
 ## SOURCE / PHASE RULES
 
