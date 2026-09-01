@@ -29,6 +29,17 @@ Opening rule/enlarged `அ`, final `story-ending` role and closing ornament are 
 
 Scan 112 opens this story; scan 114 ends it; scan 115 independently opens `ஏழை` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/munnuru-rupai.md`](translations/en/munnuru-rupai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **3 / 3** source-page markers represented
+- both physical page continuations remain traceable
+- unusual source forms such as `எழுபட்டு`, `குதாகலமாய்` and `ஓடும்பிள்ளையாய்` handled conservatively
+- canonical Tamil changed during translation: **No**
+
+## Completion state
+
+**முந்நூறு ரூபாய் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 112–114 / printed pages 103–105.**
