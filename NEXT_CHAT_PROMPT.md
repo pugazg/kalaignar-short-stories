@@ -19,8 +19,8 @@ Fetch live `main` first and preserve any newer durable state. Do not reset or re
 
 - Tamil source processing: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
-- English translation: **23 / 37 complete**
-- English pending: **14 / 37**
+- English translation: **26 / 37 complete**
+- English pending: **11 / 37**
 - English needs review: **0**
 
 English is a separate translation layer. The verified canonical Tamil remains authoritative.
@@ -46,33 +46,15 @@ Translate the **current verified Tamil actually preserved in the repository**. D
 
 ## COMPLETED ENGLISH STORIES
 
-The current durable English boundary is **Story 23**.
+The current durable English boundary is **Story 26**. Stories **1–26 are PASS**.
 
-1. `புகழேந்தி` — scans **10–15 / printed 1–6** — **PASS**
-2. `நளாயினி` — scans **16–23 / printed 7–14** — **PASS**
-3. `சபலம்` — scans **24–30 / printed 15–21** — **PASS**
-4. `ஆட்டக்காவடி` — scans **31–38 / printed 22–29** — **PASS**
-5. `குப்பைத்தொட்டி` — scans **39–46 / printed 30–37** — **PASS**
-6. `சந்தனக்கிண்ணம்` — scans **47–56 / printed 38–47** — **PASS**
-7. `சங்கிலிச்சாமி` — scans **57–68 / printed 48–59** — **PASS**
-8. `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — **PASS**
-9. `தாய்மை` — scans **73–83 / printed 64–74** — **PASS**
-10. `தப்பிவிட்டார்கள்` — scans **84–91 / printed 75–82** — **PASS**
-11. `தப்பவில்லை` — scans **92–101 / printed 83–92** — **PASS**
-12. `ஆதரிக்கிறார்` — scans **102–107 / printed 93–98** — **PASS**
-13. `இரகசியம்!` — scans **108–111 / printed 99–102** — **PASS**
-14. `முந்நூறு ரூபாய்` — scans **112–114 / printed 103–105** — **PASS**
-15. `ஏழை` — scans **115–118 / printed 106–109** — **PASS**
-16. `ஒரிஜினலில் உள்ளபடி` — scans **119–125 / printed 110–116** — **PASS**
-17. `பனங்குலை` — scans **126–130 / printed 117–121** — **PASS**
-18. `செத்தவள் கதை` — scans **131–139 / printed 122–130** — **PASS**
-19. `பிரேத விசாரணை` — scans **140–145 / printed 131–136** — **PASS**
-20. `கண்டதும் காதல் ஒழிக!` — scans **146–150 / printed 137–141** — **PASS**
-21. `ஆலமரத்துப் புறாக்கள்` — scans **151–155 / printed 142–146** — **PASS**
-22. `தொத்துக்கிளி` — scans **156–160 / printed 147–151** — **PASS**
-23. `காதல் கடிதம்` — scans **161–165 / printed 152–156** — **PASS**
+Latest completed batch:
 
-For all twenty-three:
+24. `கண்ணடக்கம்` — scans **166–172 / printed 157–163** — **PASS**
+25. `வாழ முடியாதவர்கள்` — scans **173–180 / printed 164–171** — **PASS**
+26. `அபாக்ய சிந்தாமணி` — scans **181–188 / printed 172–179** — **PASS**
+
+For all twenty-six completed stories:
 
 - English file and `TRANSLATION_REVIEW.md` are committed;
 - source-page markers are complete;
@@ -81,43 +63,45 @@ For all twenty-three:
 
 Latest structural facts preserved:
 
-- `கண்டதும் காதல் ஒழிக!`: five page markers; 148→149 and 149→150 continuations traceable; source-bold Sita line/`ராமாயணம்`, theatre riot/fire sequence and final `‘டோபா’` reveal preserved.
-- `ஆலமரத்துப் புறாக்கள்`: five page markers; 151→152 and 152→153 continuations traceable; repeated `புறு` forms/compound labels retained conservatively; source-bold anti-`வல்லூறு` statements preserved; no outside political decoding inserted.
-- `தொத்துக்கிளி`: five page markers; 156→157 and 158→159 continuations traceable; difficult queue forms retained conservatively; Vimala/Annumalai laboratory ending and final quoted admonition preserved.
-- `காதல் கடிதம்`: five page markers; 161→162, 163→164 and 164→165 continuations traceable; long letter across scans 162–163 and its centered/source-bold sign-off preserved; postman revelation and final ironic line retained.
+- `கண்ணடக்கம்`: seven page markers; 169→170 continuation traceable; epidemic/cremation opening, Kali dialogue, `கண்ணடக்கம்` explanation, removal of the silver eye-covering, doctors/public-health response and final eye-hospital frame preserved; difficult `துணி ஏண்`, `பிணக்கொலு`, and `நம்முலகு செல்லும்` handled conservatively.
+- `வாழ முடியாதவர்கள்`: eight page markers; 175→176, 176→177, 177→178 and 178→179 continuations traceable; source-emphasized central sentence and `“ஆண்டவன் படைப்பு”` preserved; father–daughter night sequence retained to the source’s degree of explicitness without added mechanics or omission.
+- `அபாக்ய சிந்தாமணி`: eight page markers; 182→183, 183→184, 184→185 and 187→188 continuations traceable; source song/display blocks and emphasis preserved; final Tamil closure corrections respected; mother/gurukulam/love/staged-infidelity/pregnancy/stillbirth sequence complete.
 
-## NEXT ACTIVITY — STORY 24 ONLY
+## NEXT ACTIVITY — STORY 27 ONLY
 
-Translate and review Story 24 — **`கண்ணடக்கம்`**.
+Translate and review Story 27 — **`பாலைவன ரோஜா`**.
 
-- canonical workspace: `stories/kannadakkam/`
-- printed pages: **157–163**
-- anthology scans: **166–172**
-- boundary witness: scan **173**, opening Story 25 **`வாழ முடியாதவர்கள்`**
-- Tamil audit: **PASS — 7 / 7 verified**
-- English target: `stories/kannadakkam/translations/en/kannadakkam.md`
-- review target: `stories/kannadakkam/TRANSLATION_REVIEW.md`
+- canonical workspace: `stories/palaivana-roja/`
+- printed pages: **180–184**
+- anthology scans: **189–193**
+- boundary witness: scan **194**, opening Story 28
+- Story 28 TOC title: **`புரட்சிப்படம்`**
+- Story 28 opening heading: **`புரட்சிப் படம்`**
+- Tamil audit: **PASS — 5 / 5 verified**
+- English target: `stories/palaivana-roja/translations/en/palaivana-roja.md`
+- review target: `stories/palaivana-roja/TRANSLATION_REVIEW.md`
 
-For Story 24:
+For Story 27:
 
 1. read its complete verified Tamil assembly and review queue first;
-2. preserve paragraph/dialogue/display structure and all seven source-page markers;
+2. preserve paragraph/dialogue/display structure and all five source-page markers;
 3. preserve names, cultural references, source emphasis, physical joins and unusual verified forms conservatively;
-4. do not import corrections or explanations from outside editions or general knowledge;
-5. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
-6. create the complete English file and `TRANSLATION_REVIEW.md`;
-7. update Story 24 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 24 complete.
+4. verify the scan **193→194** boundary and retain the Story 28 TOC/opening-title difference exactly as repository source fact;
+5. do not import corrections or explanations from outside editions or general knowledge;
+6. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
+7. create the complete English file and `TRANSLATION_REVIEW.md`;
+8. update Story 27 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
+9. re-fetch live `main` and changed controls before declaring Story 27 complete.
 
-Do **not** begin Story 25 in the same activity unless the user explicitly expands the translation batch.
+Do **not** begin Story 28 in the same activity unless the user explicitly expands the translation batch.
 
-## EXPECTED STATE AFTER STORY 24
+## EXPECTED STATE AFTER STORY 27
 
-- English translation complete: **24 / 37**
-- pending: **13 / 37**
-- needs review: **0**, unless Story 24 genuinely requires review
-- next target: Story 25 — **`வாழ முடியாதவர்கள்`**, scans **173–180 / printed pages 164–171**
-- Story 25 boundary witness: scan **181**, opening `அபாக்ய சிந்தாமணி`
+- English translation complete: **27 / 37**
+- pending: **10 / 37**
+- needs review: **0**, unless Story 27 genuinely requires review
+- next target: Story 28 — TOC **`புரட்சிப்படம்`** / opening **`புரட்சிப் படம்`**, scans **194–198 / printed pages 185–189**
+- Story 28 boundary witness: scan **199**, opening Story 29 `திடுக்கிடும் கதை`
 
 ## SOURCE / PHASE RULES
 
