@@ -25,7 +25,6 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/thidukkidum-kathai.md`](sections/thidukkidum-kathai.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
 
 ## Visual fidelity
 
@@ -40,6 +39,20 @@ Direct source review synchronized the scan-199 opening rule/enlarged initial and
 - scan **205** opens Story 30 `கடைசிக் கட்டம்`;
 - Story 30 text included here: **No**.
 
+## English translation
+
+**PASS — complete.**
+
+- English: [`translations/en/thidukkidum-kathai.md`](translations/en/thidukkidum-kathai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers: **6 / 6 represented**
+- source note and `காதல் கதை` / `வீரக்கதை` subsection structure preserved: **Yes**
+- canonical Tamil changed during translation: **No**
+
 ## Completion state
 
-**திடுக்கிடும் கதை Tamil archival source processing and visual-fidelity review: COMPLETE for scans 199–204 / printed pages 190–195, with 6/6 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**திடுக்கிடும் கதை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 199–204 / printed pages 190–195. English review result: PASS.**
+
+## Next anthology English activity
+
+Story 30 — **கடைசிக் கட்டம்**, printed pages **196–201**, anthology scans **205–210**. Scan **211** opens Story 31 `அய்யோ ராஜா!`.
