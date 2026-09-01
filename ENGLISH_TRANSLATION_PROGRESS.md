@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **4 / 37**
-- pending: **33 / 37**
+- English translation complete: **6 / 37**
+- pending: **31 / 37**
 - needs review: **0**
-- current target: **Story 5 — `குப்பைத்தொட்டி`**
+- current target: **Story 7 — `சங்கிலிச்சாமி`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -20,8 +20,8 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** |
 | 3 | `சபலம்` | 15–21 | 24–30 | **PASS** |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | pending |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | pending |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | pending |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | pending |
 | 9 | `தாய்மை` | 64–74 | 73–83 | pending |
@@ -57,41 +57,44 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Completed English translations
 
 ### Story 1 — `புகழேந்தி`
-
 - English: `stories/pugazhendhi/translations/en/pugazhendhi.md`
 - review: `stories/pugazhendhi/TRANSLATION_REVIEW.md`
-- scans **10–15 / printed 1–6**
-- Tamil source changed during translation: **No**
 - result: **PASS**
 
 ### Story 2 — `நளாயினி`
-
 - English: `stories/nalayini/translations/en/nalayini.md`
 - review: `stories/nalayini/TRANSLATION_REVIEW.md`
-- scans **16–23 / printed 7–14**
-- printed source note kept separate: **Yes**
-- Tamil source changed during translation: **No**
 - result: **PASS**
 
 ### Story 3 — `சபலம்`
-
 - English: `stories/sabalam/translations/en/sabalam.md`
 - review: `stories/sabalam/TRANSLATION_REVIEW.md`
-- scans **24–30 / printed 15–21**
-- Tamil source changed during translation: **No**
 - result: **PASS**
 
 ### Story 4 — `ஆட்டக்காவடி`
-
 - English: `stories/aattakkavadi/translations/en/aattakkavadi.md`
 - review: `stories/aattakkavadi/TRANSLATION_REVIEW.md`
-- scans **31–38 / printed 22–29**
-- Kanimozhi letter/display structure preserved: **Yes**
+- result: **PASS**
+
+### Story 5 — `குப்பைத்தொட்டி`
+- English: `stories/kuppai-thotti/translations/en/kuppai-thotti.md`
+- review: `stories/kuppai-thotti/TRANSLATION_REVIEW.md`
+- scans **39–46 / printed 30–37**
+- four-line quoted prayer and isolated scan-45 lines preserved: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 6 — `சந்தனக்கிண்ணம்`
+- English: `stories/santhana-kinnam/translations/en/santhana-kinnam.md`
+- review: `stories/santhana-kinnam/TRANSLATION_REVIEW.md`
+- scans **47–56 / printed 38–47**
+- long poem and Vijayā gift display preserved: **Yes**
+- source emphasis `மார்பு காட்டி!` preserved semantically: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 5 — `குப்பைத்தொட்டி`**, canonical workspace `stories/kuppai-thotti/`, scans **39–46 / printed pages 30–37**. Scan **47** is the physical boundary witness opening Story 6 `சந்தனக்கிண்ணம்`.
+Translate and review **Story 7 — `சங்கிலிச்சாமி`**, canonical workspace `stories/sangilichami/`, scans **57–68 / printed pages 48–59**. Scan **69** is the physical boundary witness opening Story 8 `கங்கையின் காதல்`.
 
-Do not begin Story 6 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 8 in the same activity unless the user explicitly expands the batch.
