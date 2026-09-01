@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **19 / 37**
-- pending: **18 / 37**
+- English translation complete: **23 / 37**
+- pending: **14 / 37**
 - needs review: **0**
-- current target: **Story 20 — `கண்டதும் காதல் ஒழிக!`**
+- current target: **Story 24 — `கண்ணடக்கம்`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -35,10 +35,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** |
 | 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** |
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | pending |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | pending |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | pending |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | pending |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | pending |
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | pending |
 | 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | pending |
@@ -75,43 +75,46 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 17. `பனங்குலை` — `stories/panangulai/translations/en/panangulai.md` — **PASS**
 18. `செத்தவள் கதை` — `stories/seththaval-kathai/translations/en/seththaval-kathai.md` — **PASS**
 19. `பிரேத விசாரணை` — `stories/pretha-visaranai/translations/en/pretha-visaranai.md` — **PASS**
+20. `கண்டதும் காதல் ஒழிக!` — `stories/kandathum-kadhal-ozhiga/translations/en/kandathum-kadhal-ozhiga.md` — **PASS**
+21. `ஆலமரத்துப் புறாக்கள்` — `stories/aalamarathup-puraakkal/translations/en/aalamarathup-puraakkal.md` — **PASS**
+22. `தொத்துக்கிளி` — `stories/thothukkili/translations/en/thothukkili.md` — **PASS**
+23. `காதல் கடிதம்` — `stories/kadhal-kaditham/translations/en/kadhal-kaditham.md` — **PASS**
 
-### Story 16 — `ஒரிஜினலில் உள்ளபடி`
-- scans **119–125 / printed 110–116**
-- all seven source-page markers represented: **Yes**
-- physical continuations 120→121, 121→122 and 122→123 represented traceably: **Yes**
-- notice/program emphasis, `எல்லாம் என்`, and deliberate name/word substitutions preserved: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
-
-### Story 17 — `பனங்குலை`
-- scans **126–130 / printed 117–121**
+### Story 20 — `கண்டதும் காதல் ஒழிக!`
+- scans **146–150 / printed 137–141**
 - all five source-page markers represented: **Yes**
-- physical continuations 128→129 and 129→130 represented traceably: **Yes**
-- source-anomalous `உன் தங்கையைத்:தேடிப்` and title/object motif handled conservatively: **Yes**
+- physical continuations 148→149 and 149→150 represented traceably: **Yes**
+- source-bold Sita quotation and `ராமாயணம்`, theatre riot/fire sequence and final `‘டோபா’`-wig reveal preserved: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 18 — `செத்தவள் கதை`
-- scans **131–139 / printed 122–130**
-- all nine source-page markers represented: **Yes**
-- physical continuations 134→135, 135→136 and 138→139 represented traceably: **Yes**
-- fire refrains on scans 131, 136 and 139 retain source display lineation: **Yes**
-- coercive assault, confrontation, killing, cremation and final `மங்களம்` remain complete: **Yes**
+### Story 21 — `ஆலமரத்துப் புறாக்கள்`
+- scans **151–155 / printed 142–146**
+- all five source-page markers represented: **Yes**
+- physical continuations 151→152 and 152→153 represented traceably: **Yes**
+- repeated `புறு` / compound labels, source-bold `இது வல்லூறின் மரம்` and final `வல்லூறை விரட்டுவதுதான்!` handled conservatively: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 19 — `பிரேத விசாரணை`
-- scans **140–145 / printed 131–136**
-- all six source-page markers represented: **Yes**
-- physical continuations 140→141 and 142→143 represented traceably: **Yes**
-- historical caste-language represented source-close and documented rather than silently modernized: **Yes**
-- hospital refusal, landlord contrast, backstory, post-mortem irony and final social diagnosis remain complete: **Yes**
+### Story 22 — `தொத்துக்கிளி`
+- scans **156–160 / printed 147–151**
+- all five source-page markers represented: **Yes**
+- physical continuations 156→157 and 158→159 represented traceably: **Yes**
+- opaque queue forms handled conservatively without Tamil repair; Vimala/Annumalai laboratory ending and final quoted admonition remain complete: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 23 — `காதல் கடிதம்`
+- scans **161–165 / printed 152–156**
+- all five source-page markers represented: **Yes**
+- physical continuations 161→162, 163→164 and 164→165 represented traceably: **Yes**
+- long letter across scans 162–163 and its two-line/source-bold sign-off preserved: **Yes**
+- wartime framing, returned-letter sequence, postman revelation and final ironic line remain complete: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 20 — `கண்டதும் காதல் ஒழிக!`**, canonical workspace `stories/kandathum-kadhal-ozhiga/`, scans **146–150 / printed pages 137–141**. Scan **151** is the physical boundary witness opening Story 21 `ஆலமரத்துப் புறாக்கள்`.
+Translate and review **Story 24 — `கண்ணடக்கம்`**, canonical workspace `stories/kannadakkam/`, scans **166–172 / printed pages 157–163**. Scan **173** is the physical boundary witness opening Story 25 `வாழ முடியாதவர்கள்`.
 
-Do not begin Story 21 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 25 in the same activity unless the user explicitly expands the batch.
