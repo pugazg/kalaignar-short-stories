@@ -33,48 +33,43 @@ Then inspect the active story page records, Tamil assembly, audit and page map, 
 ## DURABLE MILESTONES
 
 - Tamil source processing: **37 / 37 complete**
-- visual fidelity: **27 / 37 complete**
-- pending: **10 / 37**
+- visual fidelity: **29 / 37 complete**
+- pending: **8 / 37**
 - needs recheck: **0**
 - English translation: **0 / 37 started**
 
-Stories **1–27** are closed with `PASS — corrected`.
+Stories **1–29** are closed with `PASS — corrected`.
 
-Recent completed work:
-- `தொத்துக்கிளி` — scans **156–160**
-- `காதல் கடிதம்` — scans **161–165**
-- `கண்ணடக்கம்` — scans **166–172**
-- `வாழ முடியாதவர்கள்` — scans **173–180**
-- `அபாக்ய சிந்தாமணி` — scans **181–188**
-- `பாலைவன ரோஜா` — scans **189–193**
+Latest user-expanded batch completed:
+- Story 28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` — scans **194–198**
+- Story 29 — `திடுக்கிடும் கதை` — scans **199–204**
 
-For `பாலைவன ரோஜா`, scan 189 opening rule and source-bold opening `நாம்` were synchronized, existing source-bold `கந்தையா` was retained, scan 193 was changed to `story-ending`, and the closing ornament was recorded. **No story wording changed.** Scan **194** independently opens Story 28 with heading `புரட்சிப் படம்` while the TOC form remains `புரட்சிப்படம்`.
+Story 28 preserved the TOC/opening-title variance, recorded opening and closing structure, and reconfirmed existing source-bold publicity/display text. Story 29 recorded opening structure/source-note treatment, confirmed `காதல் கதை` and `வீரக்கதை` subsection headings, excluded printer signature `க—13` as page furniture, and synchronized its ending. **No story wording changed in either story.** Scan **205** independently opens `கடைசிக் கட்டம்`.
 
-## NEXT EXACT ACTIVITY — STORY 28 ONLY
+## NEXT EXACT ACTIVITY — STORY 30 ONLY
 
-Perform the visual-fidelity check for Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**.
+Perform the visual-fidelity check for Story 30 — **`கடைசிக் கட்டம்`**.
 
 Canonical workspace:
-`stories/puratchip-padam/`
+`stories/kadaisi-kattam/`
 
 Source coordinates:
-- printed pages **185–189**
-- anthology scans **194–198**
-- scan **199** is the boundary witness and opens Story 29 **`திடுக்கிடும் கதை`**
+- printed pages **196–201**
+- anthology scans **205–210**
+- scan **211** is the boundary witness and opens Story 31 **`அய்யோ ராஜா!`**
 
 Required:
 1. fetch live `main`;
-2. inspect scans **194–198** directly;
+2. inspect scans **205–210** directly;
 3. compare every page with committed page records and Tamil assembly;
-4. preserve the TOC/opening-title variance exactly;
-5. check page roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and all physical joins;
-6. inspect scan **199** only as boundary witness;
-7. make only source-supported corrections/annotations and synchronize all affected layers;
-8. create/update `stories/puratchip-padam/visual-fidelity.md` and phase controls;
-9. re-fetch live `main` before declaring closure;
-10. do not start Story 29 unless the user explicitly expands the batch.
+4. check page roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and all physical joins;
+5. inspect scan **211** only as boundary witness;
+6. make only source-supported corrections/annotations and synchronize all affected layers;
+7. create/update `stories/kadaisi-kattam/visual-fidelity.md` and phase controls;
+8. re-fetch live `main` before declaring closure;
+9. do not start Story 31 unless the user explicitly expands the batch.
 
-Expected result: **28 / 37 complete, 9 pending**.
+Expected result: **30 / 37 complete, 7 pending**.
 
 ## SOURCE RULES
 
