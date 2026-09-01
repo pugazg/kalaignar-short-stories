@@ -59,10 +59,17 @@ Other scan boundaries occur between complete sentences, paragraphs or dialogue t
 - scan **102**: heading `ஆதரிக்கிறார்`, Story 12 opening confirmed;
 - Story 12 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/thappavillai.md`](translations/en/thappavillai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **10 / 10** source-page markers represented
+- physical joins **92→93**, **93→94** and **95→96** remain traceable
+- source-bold `நாட்கள் ஓடின...` represented semantically
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**தப்பவில்லை Tamil archival source processing and visual fidelity: COMPLETE for scans 92–101 / printed pages 83–92, with 10/10 verified, 0 blocked, 0 unresolved story text.**
+**தப்பவில்லை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 92–101 / printed pages 83–92.**
