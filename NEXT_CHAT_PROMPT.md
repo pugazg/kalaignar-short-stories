@@ -33,12 +33,12 @@ Then inspect the active story page records, Tamil assembly, audit and page map, 
 ## DURABLE MILESTONES
 
 - Tamil source processing: **37 / 37 complete**
-- visual fidelity: **26 / 37 complete**
-- pending: **11 / 37**
+- visual fidelity: **27 / 37 complete**
+- pending: **10 / 37**
 - needs recheck: **0**
 - English translation: **0 / 37 started**
 
-Stories **1–26** are closed with `PASS — corrected`.
+Stories **1–27** are closed with `PASS — corrected`.
 
 Recent completed work:
 - `தொத்துக்கிளி` — scans **156–160**
@@ -46,33 +46,35 @@ Recent completed work:
 - `கண்ணடக்கம்` — scans **166–172**
 - `வாழ முடியாதவர்கள்` — scans **173–180**
 - `அபாக்ய சிந்தாமணி` — scans **181–188**
+- `பாலைவன ரோஜா` — scans **189–193**
 
-All five were directly visually checked. Source-significant opening/ending structure, display lineation, source emphasis and printer-signature/page-furniture handling were synchronized. **No story wording changed.** Scan **189** independently opens `பாலைவன ரோஜா`.
+For `பாலைவன ரோஜா`, scan 189 opening rule and source-bold opening `நாம்` were synchronized, existing source-bold `கந்தையா` was retained, scan 193 was changed to `story-ending`, and the closing ornament was recorded. **No story wording changed.** Scan **194** independently opens Story 28 with heading `புரட்சிப் படம்` while the TOC form remains `புரட்சிப்படம்`.
 
-## NEXT EXACT ACTIVITY — STORY 27 ONLY
+## NEXT EXACT ACTIVITY — STORY 28 ONLY
 
-Perform the visual-fidelity check for Story 27 — **`பாலைவன ரோஜா`**.
+Perform the visual-fidelity check for Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**.
 
 Canonical workspace:
-`stories/palaivana-roja/`
+`stories/puratchip-padam/`
 
 Source coordinates:
-- printed pages **180–184**
-- anthology scans **189–193**
-- scan **194** is the boundary witness and opens Story 28: TOC `புரட்சிப்படம்`, opening heading `புரட்சிப் படம்`
+- printed pages **185–189**
+- anthology scans **194–198**
+- scan **199** is the boundary witness and opens Story 29 **`திடுக்கிடும் கதை`**
 
 Required:
 1. fetch live `main`;
-2. inspect scans **189–193** directly;
+2. inspect scans **194–198** directly;
 3. compare every page with committed page records and Tamil assembly;
-4. check page roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and all physical joins;
-5. inspect scan **194** only as boundary witness;
-6. make only source-supported corrections/annotations and synchronize all affected layers;
-7. create/update `stories/palaivana-roja/visual-fidelity.md` and phase controls;
-8. re-fetch live `main` before declaring closure;
-9. do not start Story 28 unless the user explicitly expands the batch.
+4. preserve the TOC/opening-title variance exactly;
+5. check page roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and all physical joins;
+6. inspect scan **199** only as boundary witness;
+7. make only source-supported corrections/annotations and synchronize all affected layers;
+8. create/update `stories/puratchip-padam/visual-fidelity.md` and phase controls;
+9. re-fetch live `main` before declaring closure;
+10. do not start Story 29 unless the user explicitly expands the batch.
 
-Expected result: **27 / 37 complete, 10 pending**.
+Expected result: **28 / 37 complete, 9 pending**.
 
 ## SOURCE RULES
 
