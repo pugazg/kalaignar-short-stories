@@ -19,8 +19,8 @@ Fetch live `main` first and preserve any newer durable state. Do not reset or re
 
 - Tamil source processing: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
-- English translation: **30 / 37 complete**
-- English pending: **7 / 37**
+- English translation: **34 / 37 complete**
+- English pending: **3 / 37**
 - English needs review: **0**
 
 English is a separate translation layer. The verified canonical Tamil remains authoritative.
@@ -46,16 +46,16 @@ Translate the **current verified Tamil actually preserved in the repository**. D
 
 ## COMPLETED ENGLISH STORIES
 
-The current durable English boundary is **Story 30**. Stories **1–30 are PASS**.
+The current durable English boundary is **Story 34**. Stories **1–34 are PASS**.
 
 Latest completed batch:
 
-27. `பாலைவன ரோஜா` — scans **189–193 / printed 180–184** — **PASS**
-28. TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` — scans **194–198 / printed 185–189** — **PASS**
-29. `திடுக்கிடும் கதை` — scans **199–204 / printed 190–195** — **PASS**
-30. `கடைசிக் கட்டம்` — scans **205–210 / printed 196–201** — **PASS**
+31. `அய்யோ ராஜா!` — scans **211–217 / printed 202–208** — **PASS**
+32. `விஷம் இனிது` — scans **218–224 / printed 209–215** — **PASS**
+33. `வேணியின் காதலன்` — scans **225–230 / printed 216–221** — **PASS**
+34. `அமிர்தமதி` — scans **231–238 / printed 222–229** — **PASS**
 
-For all thirty completed stories:
+For all thirty-four completed stories:
 
 - English file and `TRANSLATION_REVIEW.md` are committed;
 - source-page markers are complete;
@@ -64,43 +64,46 @@ For all thirty completed stories:
 
 Latest structural facts preserved:
 
-- `பாலைவன ரோஜா`: five page markers; 191→192 and 192→193 continuations traceable; source-bold opening, college ambitions, clerk reversal, constitutional quotation and desert-rose conclusion preserved.
-- `புரட்சிப்படம்` / `புரட்சிப் படம்`: five page markers; 194→195, 195→196, 196→197 and 197→198 continuations traceable; TOC/opening-title variance retained; publicity slogans, `செவ்வானம்` credits and censor punchline preserved.
-- `திடுக்கிடும் கதை`: six page markers; standalone source note and `காதல் கதை` / `வீரக்கதை` headings preserved; Pyramus–Thisbe story, unnamed heroic parable and final staircase-key reveal complete.
-- `கடைசிக் கட்டம்`: six page markers; 205→206, 207→208, 208→209 and 209→210 continuations traceable; Kokila letter/sign-off and source emphasis preserved; courtroom-to-stage reveal complete.
+- `அய்யோ ராஜா!`: seven page markers; 212→213, 214→215 and 215→216 joins traceable; old-glyph `என்றாள் முத்தம்மா` correction respected; Kodambakkam gate, Raja illness, Nepal-king roadblock and final doctor scene complete.
+- `விஷம் இனிது`: seven page markers; all six joins traceable; Amirtharani letter/sign-off and source emphasis retained; temple/diamond plan, poison test, Arthol death and final `ஆலஹாலம்` contrast complete.
+- `வேணியின் காதலன்`: six page markers; 226→227 open speech, 227→228 exact split and 229→230 join traceable; source-corrected `கூண்டுக் கிளி ஆக்குவேனென்றான்` retained; Surya/Veni/Kandan ending complete.
+- `அமிர்தமதி`: eight page markers; 234→235 and 236→237 exact joins traceable; literary-theft frame, `சுகம் எங்கே?` / `யசோதர காவியம்` embedded narrative and quoted scan-236 description preserved; alleged thieves remain unnamed.
 
-## NEXT ACTIVITY — STORY 31 ONLY
+## NEXT ACTIVITY — STORY 35 ONLY
 
-Translate and review Story 31 — **`அய்யோ ராஜா!`**.
+Translate and review Story 35 — **`சுமந்தவள்`**.
 
-- canonical workspace: `stories/ayyo-raja/`
-- printed pages: **202–208**
-- anthology scans: **211–217**
-- boundary witness: scan **218**, opening Story 32 **`விஷம் இனிது`**
-- Tamil audit: **PASS — 7 / 7 verified**
-- English target: `stories/ayyo-raja/translations/en/ayyo-raja.md`
-- review target: `stories/ayyo-raja/TRANSLATION_REVIEW.md`
+- canonical workspace: `stories/sumanthaval/`
+- printed pages: **230–240**
+- anthology scans: **239–249**
+- boundary witness: scan **250**, opening Story 36
+- Story 36 TOC title: **`சித்தார்த்தன்`**
+- Story 36 opening heading: **`சித்தார்த்தன் சிலை`**
+- Tamil audit: **PASS — 11 / 11 verified**
+- English target: `stories/sumanthaval/translations/en/sumanthaval.md`
+- review target: `stories/sumanthaval/TRANSLATION_REVIEW.md`
 
-For Story 31:
+For Story 35:
 
 1. read its complete verified Tamil assembly and review queue first;
-2. preserve paragraph/dialogue/display structure and all seven source-page markers;
+2. preserve paragraph/dialogue/display structure and all eleven source-page markers;
 3. preserve names, cultural references, source emphasis, physical joins and unusual verified forms conservatively;
-4. do not import corrections or explanations from outside editions or general knowledge;
-5. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
-6. create the complete English file and `TRANSLATION_REVIEW.md`;
-7. update Story 31 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 31 complete.
+4. verify the scan **249→250** boundary and preserve the Story 36 TOC/opening-title difference exactly as a source fact;
+5. do not import corrections or explanations from outside editions or general knowledge;
+6. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
+7. create the complete English file and `TRANSLATION_REVIEW.md`;
+8. update Story 35 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
+9. re-fetch live `main` and changed controls before declaring Story 35 complete.
 
-Do **not** begin Story 32 in the same activity unless the user explicitly expands the translation batch.
+Do **not** begin Story 36 in the same activity unless the user explicitly expands the translation batch.
 
-## EXPECTED STATE AFTER STORY 31
+## EXPECTED STATE AFTER STORY 35
 
-- English translation complete: **31 / 37**
-- pending: **6 / 37**
-- needs review: **0**, unless Story 31 genuinely requires review
-- next target: Story 32 — **`விஷம் இனிது`**, scans **218–224 / printed pages 209–215**
-- Story 32 boundary witness: scan **225**, opening `வேணியின் காதலன்`
+- English translation complete: **35 / 37**
+- pending: **2 / 37**
+- needs review: **0**, unless Story 35 genuinely requires review
+- next target: Story 36 — TOC **`சித்தார்த்தன்`** / opening **`சித்தார்த்தன் சிலை`**, scans **250–252 / printed pages 241–243**
+- Story 36 boundary witness: scan **253**, opening Story 37 `நுனிக்கரும்பு`
 
 ## SOURCE / PHASE RULES
 
