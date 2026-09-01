@@ -10,7 +10,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 122 | 113 | story body | verified | `../pages/0122-originalil-ullapadi-04.md` |
 | 123 | 114 | story body | verified | `../pages/0123-originalil-ullapadi-05.md` |
 | 124 | 115 | story body | verified | `../pages/0124-originalil-ullapadi-06.md` |
-| 125 | 116 | story conclusion | verified | `../pages/0125-originalil-ullapadi-07.md` |
+| 125 | 116 | story ending | verified | `../pages/0125-originalil-ullapadi-07.md` |
 
 ## Status
 
@@ -19,5 +19,9 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+
+## Visual-fidelity notes
+
+Opening rule/enlarged `இ`, source-bold notice spans, source-bold `எல்லாம் என்`, excluded printer signature `க—8`, closing ornament, and all six internal joins were checked. Source wording remains unchanged.
 
 Scan **126** begins Story 17, `பனங்குலை`, and is outside this story range.

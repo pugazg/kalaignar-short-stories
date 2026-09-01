@@ -2,15 +2,15 @@
 
 Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 
-Tamil source-text processing is already complete for **37 / 37** anthology stories. This tracker covers the separately authorized **visual fidelity check** defined in `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Tamil source-text processing is complete for **37 / 37** anthology stories. This tracker covers the separately authorized visual-fidelity phase.
 
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **12 / 37**
-- pending: **25 / 37**
+- visual fidelity complete: **17 / 37**
+- pending: **20 / 37**
 - needs recheck: **0**
-- current target: **Story 13 — `இரகசியம்!`**
+- current target: **Story 18 — `செத்தவள் கதை`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -26,11 +26,11 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS — corrected** |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS — corrected** |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS — corrected** |
-| 13 | `இரகசியம்!` | 99–102 | 108–111 | pending |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | pending |
-| 15 | `ஏழை` | 106–109 | 115–118 | pending |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | pending |
-| 17 | `பனங்குலை` | 117–121 | 126–130 | pending |
+| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS — corrected** |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS — corrected** |
+| 15 | `ஏழை` | 106–109 | 115–118 | **PASS — corrected** |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS — corrected** |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS — corrected** |
 | 18 | `செத்தவள் கதை` | 122–130 | 131–139 | pending |
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | pending |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | pending |
@@ -52,41 +52,18 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
-## Completed visual-fidelity activities
+## Latest completed batch — Stories 13–17
 
-Stories **1–9** remain closed as previously recorded, each with its canonical story-local `visual-fidelity.md`. Their earlier detailed findings remain durable in those story-local records and Git history.
+The user explicitly requested these five stories together, overriding the default one-story batch boundary for this activity only.
 
-### Story 10 — `தப்பிவிட்டார்கள்`
-- scans **84–91 / printed pages 75–82**
-- result: **PASS — corrected**
-- structural-only corrections/annotations: opening rule and enlarged `ஊ`; enlarged `லீ` on scan 86; enlarged `இ` and excluded printer signature `க—6` on scan 90; final `story-ending` role and centered closing ornament on scan 91
-- all 7 internal joins checked; explicit continuations are **84→85**, **86→87**, and **90→91**
-- story wording changed: **No**
-- scan **92** confirmed as Story 11 `தப்பவில்லை` opening
-- record: `stories/thappivittargal/visual-fidelity.md`
+- **13 `இரகசியம்!`** — scans 108–111 — `PASS — corrected`; opening/closing structure and multiple source-bold spans represented; wording changed **No**.
+- **14 `முந்நூறு ரூபாய்`** — scans 112–114 — `PASS — corrected`; opening/enlarged initial and closing ornament recorded; source `குதாகலமாய்` retained; wording changed **No**.
+- **15 `ஏழை`** — scans 115–118 — `PASS — corrected`; opening/ending structure recorded; unusual `...என்று பயந்தான்.` rechecked and retained; wording changed **No**.
+- **16 `ஒரிஜினலில் உள்ளபடி`** — scans 119–125 — `PASS — corrected`; source-bold notice spans represented, `க—8` excluded, closing structure synchronized; wording changed **No**.
+- **17 `பனங்குலை`** — scans 126–130 — `PASS — corrected`; opening/ending structure synchronized; printed anomalies retained; wording changed **No**.
 
-### Story 11 — `தப்பவில்லை`
-- scans **92–101 / printed pages 83–92**
-- result: **PASS — corrected**
-- structural corrections/annotations: opening rule and enlarged `க`; enlarged `வீ` on scan 93; source-bold `நாட்கள் ஓடின...` on scan 100; final `story-ending` role and centered closing ornament on scan 101
-- source-supported textual correction: scan **95** `இரவு-பகல்` → `இரவு—பகல்` after complete-sentence recheck
-- all 9 internal joins checked; explicit continuations are **92→93**, **93→94**, and **95→96**
-- story wording changed: **Yes — source-supported punctuation only**
-- scan **102** confirmed as Story 12 `ஆதரிக்கிறார்` opening
-- record: `stories/thappavillai/visual-fidelity.md`
-
-### Story 12 — `ஆதரிக்கிறார்`
-- scans **102–107 / printed pages 93–98**
-- result: **PASS — corrected**
-- structural corrections/annotations: opening rule and enlarged `பு`; source-bold first `ராஜ நிலையத்தார்` on scan 105; printer signature `க—7` excluded on scan 106; source-bold final `புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்;`, final `story-ending` role and centered closing ornament on scan 107
-- source-supported textual correction: scan **106** `பொதுத்தொண்டு சங்கம் புண்யகோடி...` → `பொதுத்தொண்டு சிங்கம் புண்யகோடி...` after complete-span recheck
-- all 5 internal joins checked; explicit continuations are **104→105**, **105→106**, and **106→107**
-- story wording changed: **Yes — source-supported correction only**
-- scan **108** confirmed as Story 13 `இரகசியம்!` opening
-- record: `stories/aatharikkirar/visual-fidelity.md`
+Scan **131** independently opens Story 18 `செத்தவள் கதை`.
 
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 13 — `இரகசியம்!`**, scans **108–111 / printed pages 99–102**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
-
-Inspect scan **112** only as the next-story boundary witness (`முந்நூறு ரூபாய்`). Do not begin Story 14 in the same activity unless the user explicitly changes the batch rule.
+Perform the visual-fidelity check for **Story 18 — `செத்தவள் கதை`**, scans **131–139 / printed pages 122–130**. Inspect scan **140** only as the boundary witness opening Story 19 `பிரேத விசாரணை`. Do not begin Story 19 in the same activity unless the user explicitly changes the batch rule.

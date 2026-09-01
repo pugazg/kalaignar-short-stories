@@ -3,7 +3,7 @@ scan_page: 125
 printed_page: 116
 story: "originalil-ullapadi"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -33,5 +33,10 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 “பொறும். நீர்தானே சொன்னீர், ஒரிஜினலில் உள்ளபடி போடு என்று!” கந்தசாமி மீண்டும் சிரித்துக் கொண்டே வேதாந்தி பிரசை விட்டு வெளியேறினான்.
 
 செட்டியாரும் மானேஜரும் ஒருவரை யொருவர் பார்த்துக் கொண்டனர்.
+
+## Source-review note
+
+- Final page role synchronized to `story-ending`.
+- A centered ornamental closing rule follows the final text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 125; அச்சுப் பக்கம்: 116 -->

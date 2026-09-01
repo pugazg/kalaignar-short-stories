@@ -32,36 +32,28 @@ Final current Tamil assembly: [`sections/iragasiyam.md`](sections/iragasiyam.md)
 
 The assembly preserves all four anthology scan boundaries. Scan 112, which opens `முந்நூறு ரூபாய்`, is excluded.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The visual pass records the opening rule/enlarged initial, source-bold display and transition lines, final source-bold explanation, `story-ending` role and closing ornament. **Story wording changed: No.**
+
 ## Human possible-error review
 
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
-
-High-value source-close readings include `விதவைத்துயர்`, `விடுத்திடுவாய்`, `திறமை யுடையவன்`, `முடங்கல்`, `பேரவா`, the physical `ஏந்தி` / `னாலும்` join read continuously as `ஏந்தினாலும்`, `அரிதாரம்`, `பல முடங்கல்`, `உத்திரத்திலே தொங்கிக்கொண்டிருந்து`, `என் வலுவில் உயிர்விட்டான்?`, `என் காலடி யிலே உள்ள பெட்டிதான்`, and `செத்துக்காட்டினான்`.
+[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) remains the persistent human recheck queue; unusual source forms are not silently normalized.
 
 ## Verified physical continuations
 
-- printed 100→101 / scans 109→110: `...கலையுலகத்துப் பணிபுரிய—` → `அதுவும் உன் கவிதைகளைப் பாடித் தொண்டாற்றத்—தோழனே...`
-- printed 101→102 / scans 110→111: scan 110 ends `...தமிழ்த் தாய்க்குச் சிலம்பு பூட்டிச் சிங்கார அணிகள் சூட்டி மகிழ்ந்தவன்.` and scan 111 continues the death scene with `உத்திரத்திலே தொங்கிக்கொண்டிருந்து அந்த உத்தமனின் பிணம்!`
-
-The scan 108→109 boundary falls between complete narrative prose and the first incoming letter.
+- 109→110: `...கலையுலகத்துப் பணிபுரிய—` → `அதுவும் உன் கவிதைகளைப் பாடித் தொண்டாற்றத்—தோழனே...`
+- 110→111: the death narrative continues into `உத்திரத்திலே தொங்கிக்கொண்டிருந்து...`.
 
 ## Story boundary
 
-- scan **108**: heading `இரகசியம்!`, Story 13 opening confirmed;
-- scan **111**: story conclusion and ornamental closing rule;
-- scan **112**: heading `முந்நூறு ரூபாய்`, Story 14 opening confirmed;
+- scan **108** opens `இரகசியம்!`;
+- scan **111** is the story ending and carries the closing ornament;
+- scan **112** opens `முந்நூறு ரூபாய்`;
 - Story 14 text included here: **No**.
 
 ## Translation
 
 English translation has **not** been started.
-
-## Completion state
-
-**இரகசியம்! Tamil archival source processing: COMPLETE for scans 108–111 / printed pages 99–102, with 4/4 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 14 — **முந்நூறு ரூபாய்**, printed pages **103–105**, anthology scans **112–114**.
-
-Do not begin Story 14 as part of the Story 13 activity.

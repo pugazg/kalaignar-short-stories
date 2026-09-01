@@ -7,7 +7,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 108 | 99 | story opening | verified | `../pages/0108-iragasiyam-01.md` |
 | 109 | 100 | story body | verified | `../pages/0109-iragasiyam-02.md` |
 | 110 | 101 | story body | verified | `../pages/0110-iragasiyam-03.md` |
-| 111 | 102 | story conclusion | verified | `../pages/0111-iragasiyam-04.md` |
+| 111 | 102 | story ending | verified | `../pages/0111-iragasiyam-04.md` |
 
 ## Status
 
@@ -16,5 +16,9 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+
+## Visual-fidelity notes
+
+Opening rule/enlarged initial, source-bold display/transition spans, final emphasis and closing ornament are synchronized. All three internal joins were checked.
 
 Scan **112** begins Story 14, `முந்நூறு ரூபாய்`, and is outside this story range.

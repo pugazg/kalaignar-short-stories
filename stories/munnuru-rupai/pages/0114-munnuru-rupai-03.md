@@ -3,7 +3,7 @@ scan_page: 114
 printed_page: 105
 story: "munnuru-rupai"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -15,5 +15,11 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 லக்ஷ்மிநாராயணன் வெற்றிலை பாக்குக்கடை துவக்க விழா, குதாகலமாய் நடைபெற்றது. முதலாளி ஸ்தானத்தில் லக்ஷ்மிநாராயணன். வேலைக்காரனாய்—ஓடும்பிள்ளையாய் அந்தப் பொடிப் பயல். என்ன சுறுசுறுப்பாய் வேலை செய்கிறான் தெரியுமா? வெற்றிலைப் பாக்குக்கடையும் வியாபாரச் செழிப்பில் வளர்ந்தது. திருச்சியில் இந்தக் கடைக்குத்தான் அபார மதிப்பு,
 
 லக்ஷ்மிநாராயணன் கண்ணை விழித்துப் பார்த்தான். திருச்சி ஜங்ஷனில் வண்டி நின்றது—மணி நான்கு. பக்கத்திலிருந்த பையலைப் பார்த்தான்—காணவில்லை. பையைப் பார்த்தான்; பணமில்லை. ஒரு பெருமூச்சு—தங்கப்பன் எதிரே வந்து நின்று சிரிப்பது போலிருந்தது. நல்லவேளை வெளியே செல்ல டிக்கெட்டாவது இருந்தது!
+
+## Source-review note
+
+- Final page role synchronized to `story-ending`.
+- Source `குதாகலமாய்` was rechecked and retained without normalization.
+- A centered ornamental closing rule follows the final text.
 
 <!-- மூல ஸ்கேன் பக்கம்: 114; அச்சுப் பக்கம்: 105 -->
