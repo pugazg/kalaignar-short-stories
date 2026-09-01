@@ -3,7 +3,7 @@ scan_page: 198
 printed_page: 189
 story: "puratchip-padam"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -18,4 +18,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 மக்கள் வெள்ளம் “சென்சார் ஆபீஸ்” திசையை நோக்கி, ஒரு ஆத்திரப் பார்வையை வீசிற்று!
 
+<!-- source closing ornament: centered short rule with diamond/dot flourish -->
 <!-- மூல ஸ்கேன் பக்கம்: 198; அச்சுப் பக்கம்: 189 -->
