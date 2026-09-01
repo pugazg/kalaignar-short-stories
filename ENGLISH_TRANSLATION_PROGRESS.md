@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **6 / 37**
-- pending: **31 / 37**
+- English translation complete: **8 / 37**
+- pending: **29 / 37**
 - needs review: **0**
-- current target: **Story 7 — `சங்கிலிச்சாமி`**
+- current target: **Story 9 — `தாய்மை`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -22,8 +22,8 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | pending |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | pending |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** |
 | 9 | `தாய்மை` | 64–74 | 73–83 | pending |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | pending |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | pending |
@@ -79,22 +79,32 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ### Story 5 — `குப்பைத்தொட்டி`
 - English: `stories/kuppai-thotti/translations/en/kuppai-thotti.md`
 - review: `stories/kuppai-thotti/TRANSLATION_REVIEW.md`
-- scans **39–46 / printed 30–37**
-- four-line quoted prayer and isolated scan-45 lines preserved: **Yes**
-- Tamil source changed during translation: **No**
 - result: **PASS**
 
 ### Story 6 — `சந்தனக்கிண்ணம்`
 - English: `stories/santhana-kinnam/translations/en/santhana-kinnam.md`
 - review: `stories/santhana-kinnam/TRANSLATION_REVIEW.md`
-- scans **47–56 / printed 38–47**
-- long poem and Vijayā gift display preserved: **Yes**
-- source emphasis `மார்பு காட்டி!` preserved semantically: **Yes**
+- result: **PASS**
+
+### Story 7 — `சங்கிலிச்சாமி`
+- English: `stories/sangilichami/translations/en/sangilichami.md`
+- review: `stories/sangilichami/TRANSLATION_REVIEW.md`
+- scans **57–68 / printed 48–59**
+- opening chants, devotee petitions and false-letter/sign-off structure preserved: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 8 — `கங்கையின் காதல்`
+- English: `stories/gangaiyin-kadhal/translations/en/gangaiyin-kadhal.md`
+- review: `stories/gangaiyin-kadhal/TRANSLATION_REVIEW.md`
+- scans **69–72 / printed 60–63**
+- physical joins 69→70 and 71→72 represented traceably: **Yes**
+- unusual verified source forms retained conservatively: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 7 — `சங்கிலிச்சாமி`**, canonical workspace `stories/sangilichami/`, scans **57–68 / printed pages 48–59**. Scan **69** is the physical boundary witness opening Story 8 `கங்கையின் காதல்`.
+Translate and review **Story 9 — `தாய்மை`**, canonical workspace `stories/thaaymai/`, scans **73–83 / printed pages 64–74**. Scan **84** is the physical boundary witness opening Story 10 `தப்பிவிட்டார்கள்`.
 
-Do not begin Story 8 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 10 in the same activity unless the user explicitly expands the batch.
