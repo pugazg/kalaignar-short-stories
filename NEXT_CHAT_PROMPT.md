@@ -19,8 +19,8 @@ Fetch live `main` first and preserve any newer durable state. Do not reset or re
 
 - Tamil source processing: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
-- English translation: **10 / 37 complete**
-- English pending: **27 / 37**
+- English translation: **15 / 37 complete**
+- English pending: **22 / 37**
 - English needs review: **0**
 
 English is a separate translation layer. The verified canonical Tamil remains authoritative.
@@ -46,7 +46,7 @@ Translate the **current verified Tamil actually preserved in the repository**. D
 
 ## COMPLETED ENGLISH STORIES
 
-The current durable English boundary is **Story 10**.
+The current durable English boundary is **Story 15**.
 
 1. `புகழேந்தி` — scans **10–15 / printed 1–6** — **PASS**
 2. `நளாயினி` — scans **16–23 / printed 7–14** — **PASS**
@@ -58,8 +58,13 @@ The current durable English boundary is **Story 10**.
 8. `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — **PASS**
 9. `தாய்மை` — scans **73–83 / printed 64–74** — **PASS**
 10. `தப்பிவிட்டார்கள்` — scans **84–91 / printed 75–82** — **PASS**
+11. `தப்பவில்லை` — scans **92–101 / printed 83–92** — **PASS**
+12. `ஆதரிக்கிறார்` — scans **102–107 / printed 93–98** — **PASS**
+13. `இரகசியம்!` — scans **108–111 / printed 99–102** — **PASS**
+14. `முந்நூறு ரூபாய்` — scans **112–114 / printed 103–105** — **PASS**
+15. `ஏழை` — scans **115–118 / printed 106–109** — **PASS**
 
-For all ten:
+For all fifteen:
 
 - English file and `TRANSLATION_REVIEW.md` are committed;
 - source-page markers are complete;
@@ -68,41 +73,45 @@ For all ten:
 
 Latest structural facts preserved:
 
-- `தாய்மை`: all eleven page markers are retained; source-bold scan-82 warning line remains emphasized; restored visual-fidelity source spans are included; physical continuations 74→75, 78→79 and 80→81 remain traceable.
-- `தப்பிவிட்டார்கள்`: all eight page markers are retained; physical continuations 84→85, 86→87 and 90→91 remain traceable; the public-reaction framing, assault disclosure, escape sequence and final social-critique ending remain in source order.
+- `தப்பவில்லை`: all ten page markers retained; physical continuations 92→93, 93→94 and 95→96 traceable; source-bold `நாட்கள் ஓடின...` represented; final appeal reversal preserved.
+- `ஆதரிக்கிறார்`: all six page markers retained; physical joins 104→105, 105→106 and 106→107 traceable; source-bold spans and source-corrected `பொதுத்தொண்டு சிங்கம்` represented.
+- `இரகசியம்!`: all four page markers retained; source-bold letter-transition labels, death note and final explanation preserved; 109→110 correspondence continuation traceable.
+- `முந்நூறு ரூபாய்`: all three page markers retained; both physical continuations traceable; unusual `எழுபட்டு`, `குதாகலமாய்`, `ஓடும்பிள்ளையாய்` handled conservatively.
+- `ஏழை`: all four page markers retained; all three physical joins traceable; anomalous verified `...பயந்தான்.` handled without Tamil change; final `யார் அது? “ஏழை”!` reveal preserved.
 
-## NEXT ACTIVITY — STORY 11 ONLY
+## NEXT ACTIVITY — STORY 16 ONLY
 
-Translate and review Story 11 — **`தப்பவில்லை`**.
+Translate and review Story 16 — **`ஒரிஜினலில் உள்ளபடி`**.
 
-- canonical workspace: `stories/thappavillai/`
-- printed pages: **83–92**
-- anthology scans: **92–101**
-- boundary witness: scan **102**, opening Story 12 **`ஆதரிக்கிறார்`**
-- Tamil audit: **PASS — 10 / 10 verified**
-- English target: `stories/thappavillai/translations/en/thappavillai.md`
-- review target: `stories/thappavillai/TRANSLATION_REVIEW.md`
+- canonical workspace: `stories/originalil-ullapadi/`
+- printed pages: **110–116**
+- anthology scans: **119–125**
+- boundary witness: scan **126**, opening Story 17 **`பனங்குலை`**
+- Tamil audit: **PASS — 7 / 7 verified**
+- English target: `stories/originalil-ullapadi/translations/en/originalil-ullapadi.md`
+- review target: `stories/originalil-ullapadi/TRANSLATION_REVIEW.md`
 
-For Story 11:
+For Story 16:
 
 1. read its complete verified Tamil assembly and review queue first;
-2. preserve paragraph/dialogue/display structure and all ten source-page markers;
-3. preserve names, cultural references and unusual verified forms conservatively;
-4. do not import corrections or explanations from outside editions or general knowledge;
-5. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
-6. create the complete English file and `TRANSLATION_REVIEW.md`;
-7. update Story 11 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 11 complete.
+2. preserve paragraph/dialogue/display structure and all seven source-page markers;
+3. preserve source-bold advertisement/display spans and the source-bold `எல்லாம் என்` exactly at the semantic level recorded by visual fidelity;
+4. preserve names, cultural references and unusual verified forms conservatively;
+5. do not import corrections or explanations from outside editions or general knowledge;
+6. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
+7. create the complete English file and `TRANSLATION_REVIEW.md`;
+8. update Story 16 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
+9. re-fetch live `main` and changed controls before declaring Story 16 complete.
 
-Do **not** begin Story 12 in the same activity unless the user explicitly expands the translation batch.
+Do **not** begin Story 17 in the same activity unless the user explicitly expands the translation batch.
 
-## EXPECTED STATE AFTER STORY 11
+## EXPECTED STATE AFTER STORY 16
 
-- English translation complete: **11 / 37**
-- pending: **26 / 37**
-- needs review: **0**, unless Story 11 genuinely requires review
-- next target: Story 12 — **`ஆதரிக்கிறார்`**, scans **102–107 / printed pages 93–98**
-- Story 12 boundary witness: scan **108**, opening `இரகசியம்!`
+- English translation complete: **16 / 37**
+- pending: **21 / 37**
+- needs review: **0**, unless Story 16 genuinely requires review
+- next target: Story 17 — **`பனங்குலை`**, scans **126–130 / printed pages 117–121**
+- Story 17 boundary witness: scan **131**, opening `செத்தவள் கதை`
 
 ## SOURCE / PHASE RULES
 
