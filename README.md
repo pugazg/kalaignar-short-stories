@@ -30,8 +30,8 @@ Permanent guides:
 | [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`குப்பைத்தொட்டி`](stories/kuppai-thotti/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`சந்தனக்கிண்ணம்`](stories/santhana-kinnam/README.md) | **10 / 10 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **12 / 12 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **12 / 12 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தாய்மை`](stories/thaaymai/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`தப்பவில்லை`](stories/thappavillai/README.md) | **10 / 10 pages verified; 0 blocks; manual recheck queue open** | not started |
@@ -86,8 +86,8 @@ Source registration state:
 - story-opening scan checks: **37 / 37 complete**
 - Tamil source processing complete from anthology: **37 / 37**
 - anthology stories not yet transcribed: **0 / 37**
-- English translation complete from anthology: **6 / 37**
-- English translation pending: **31 / 37**
+- English translation complete from anthology: **8 / 37**
+- English translation pending: **29 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
 
@@ -131,7 +131,7 @@ Exact source metadata, inventory and scan map are under the collection workspace
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Stories 1–6 are PASS**, with Stories **7–37 pending**.
+All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Stories 1–8 are PASS**, with Stories **9–37 pending**.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -160,7 +160,7 @@ The Tamil source pass for the 1977 anthology is closed through scan **259 / prin
 
 ## Anthology English translation status
 
-**ACTIVE — 6 / 37 complete; 31 pending; 0 needs review.**
+**ACTIVE — 8 / 37 complete; 29 pending; 0 needs review.**
 
 - Story 1 — `புகழேந்தி`: **PASS**
 - Story 2 — `நளாயினி`: **PASS**
@@ -168,8 +168,10 @@ The Tamil source pass for the 1977 anthology is closed through scan **259 / prin
 - Story 4 — `ஆட்டக்காவடி`: **PASS**
 - Story 5 — `குப்பைத்தொட்டி`: **PASS**
 - Story 6 — `சந்தனக்கிண்ணம்`: **PASS**
-- next target: Story 7 — `சங்கிலிச்சாமி`, scans **57–68 / printed pages 48–59**
-- boundary witness: scan **69**, opening `கங்கையின் காதல்`
+- Story 7 — `சங்கிலிச்சாமி`: **PASS**
+- Story 8 — `கங்கையின் காதல்`: **PASS**
+- next target: Story 9 — `தாய்மை`, scans **73–83 / printed pages 64–74**
+- boundary witness: scan **84**, opening `தப்பிவிட்டார்கள்`
 - translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
 - tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
