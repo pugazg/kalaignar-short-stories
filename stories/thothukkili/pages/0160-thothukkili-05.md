@@ -3,7 +3,7 @@ scan_page: 160
 printed_page: 151
 story: "thothukkili"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -14,4 +14,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 எல்லா மாணவர்களுக்கும் ஒன்றும் விளங்கவில்லை; திகைத்துப் போனார்கள், அந்தத் தொத்துக்கிளி அண்ணுமலைக்கு மட்டும் தெரியும் அந்தக் காரணம். அவன் முன்னே புதுவைப் புரட்சிக் கவிஞர் சிரித்தபடி நின்றார். அவர் உதடு அசைந்தது. “செல்வப் பிள்ளாய்! இன்று புவியில் பெண்கள் சிறுநிலையில் இருக்கவில்லை; விழித்துக்கொண்டனர்! விளையாட நினைத்து விட்டாய் ஊர்ப்பெண்கள் மேல்! பொல்லாத மனிதனே, மனச்சான்றுக்குள் புகுந்து கொள்வாய்! நிற்காதே!” கவிஞர் மறைந்துவிட்டார். அண்ணுமலை கண்களை இறுக மூடிக் கொண்டான், எரிச்சல் தாங்க மாட்டாமல்.
 
+<!-- source closing ornament: centered short rule with diamond/dot flourish -->
 <!-- மூல ஸ்கேன் பக்கம்: 160; அச்சுப் பக்கம்: 151 -->
