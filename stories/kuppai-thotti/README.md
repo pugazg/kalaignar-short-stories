@@ -24,7 +24,8 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - explicit missing / unresolved story text: **0**
 
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+Audit: [`audit.md`](audit.md).  
+Visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS — corrected**.
 
 ## Reading layer
 
@@ -72,16 +73,22 @@ The difficult scan-44 word was independently enlarged at native resolution and r
 - scan **47**: heading `சந்தனக்கிண்ணம்`, Story 6 opening confirmed;
 - Story 6 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English file: [`translations/en/kuppai-thotti.md`](translations/en/kuppai-thotti.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **8 / 8**
+- scan-42 four-line verse preserved as display: **Yes**
+- scan-45 isolated quoted lines preserved: **Yes**
+- possible-error queue read and respected: **Yes**
+- Tamil source changed during translation: **No**
 
 ## Completion state
 
-**குப்பைத்தொட்டி Tamil archival source processing: COMPLETE for scans 39–46 / printed pages 30–37, with 8/8 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**குப்பைத்தொட்டி Tamil archival source processing and English translation: COMPLETE for scans 39–46 / printed pages 30–37.**
 
-## Next anthology activity
+## Next anthology English activity
 
-Story 6 — **சந்தனக்கிண்ணம்**, printed pages **38–47**, anthology scans **47–56**.
-
-Do not begin Story 6 as part of the Story 5 activity.
+Story 6 — **சந்தனக்கிண்ணம்**, printed pages **38–47**, anthology scans **47–56**. In the current user-expanded batch, Story 6 is processed immediately after Story 5.
