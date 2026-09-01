@@ -19,8 +19,8 @@ Fetch live `main` first and preserve any newer durable state. Do not reset or re
 
 - Tamil source processing: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
-- English translation: **26 / 37 complete**
-- English pending: **11 / 37**
+- English translation: **30 / 37 complete**
+- English pending: **7 / 37**
 - English needs review: **0**
 
 English is a separate translation layer. The verified canonical Tamil remains authoritative.
@@ -46,15 +46,16 @@ Translate the **current verified Tamil actually preserved in the repository**. D
 
 ## COMPLETED ENGLISH STORIES
 
-The current durable English boundary is **Story 26**. Stories **1–26 are PASS**.
+The current durable English boundary is **Story 30**. Stories **1–30 are PASS**.
 
 Latest completed batch:
 
-24. `கண்ணடக்கம்` — scans **166–172 / printed 157–163** — **PASS**
-25. `வாழ முடியாதவர்கள்` — scans **173–180 / printed 164–171** — **PASS**
-26. `அபாக்ய சிந்தாமணி` — scans **181–188 / printed 172–179** — **PASS**
+27. `பாலைவன ரோஜா` — scans **189–193 / printed 180–184** — **PASS**
+28. TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` — scans **194–198 / printed 185–189** — **PASS**
+29. `திடுக்கிடும் கதை` — scans **199–204 / printed 190–195** — **PASS**
+30. `கடைசிக் கட்டம்` — scans **205–210 / printed 196–201** — **PASS**
 
-For all twenty-six completed stories:
+For all thirty completed stories:
 
 - English file and `TRANSLATION_REVIEW.md` are committed;
 - source-page markers are complete;
@@ -63,45 +64,43 @@ For all twenty-six completed stories:
 
 Latest structural facts preserved:
 
-- `கண்ணடக்கம்`: seven page markers; 169→170 continuation traceable; epidemic/cremation opening, Kali dialogue, `கண்ணடக்கம்` explanation, removal of the silver eye-covering, doctors/public-health response and final eye-hospital frame preserved; difficult `துணி ஏண்`, `பிணக்கொலு`, and `நம்முலகு செல்லும்` handled conservatively.
-- `வாழ முடியாதவர்கள்`: eight page markers; 175→176, 176→177, 177→178 and 178→179 continuations traceable; source-emphasized central sentence and `“ஆண்டவன் படைப்பு”` preserved; father–daughter night sequence retained to the source’s degree of explicitness without added mechanics or omission.
-- `அபாக்ய சிந்தாமணி`: eight page markers; 182→183, 183→184, 184→185 and 187→188 continuations traceable; source song/display blocks and emphasis preserved; final Tamil closure corrections respected; mother/gurukulam/love/staged-infidelity/pregnancy/stillbirth sequence complete.
+- `பாலைவன ரோஜா`: five page markers; 191→192 and 192→193 continuations traceable; source-bold opening, college ambitions, clerk reversal, constitutional quotation and desert-rose conclusion preserved.
+- `புரட்சிப்படம்` / `புரட்சிப் படம்`: five page markers; 194→195, 195→196, 196→197 and 197→198 continuations traceable; TOC/opening-title variance retained; publicity slogans, `செவ்வானம்` credits and censor punchline preserved.
+- `திடுக்கிடும் கதை`: six page markers; standalone source note and `காதல் கதை` / `வீரக்கதை` headings preserved; Pyramus–Thisbe story, unnamed heroic parable and final staircase-key reveal complete.
+- `கடைசிக் கட்டம்`: six page markers; 205→206, 207→208, 208→209 and 209→210 continuations traceable; Kokila letter/sign-off and source emphasis preserved; courtroom-to-stage reveal complete.
 
-## NEXT ACTIVITY — STORY 27 ONLY
+## NEXT ACTIVITY — STORY 31 ONLY
 
-Translate and review Story 27 — **`பாலைவன ரோஜா`**.
+Translate and review Story 31 — **`அய்யோ ராஜா!`**.
 
-- canonical workspace: `stories/palaivana-roja/`
-- printed pages: **180–184**
-- anthology scans: **189–193**
-- boundary witness: scan **194**, opening Story 28
-- Story 28 TOC title: **`புரட்சிப்படம்`**
-- Story 28 opening heading: **`புரட்சிப் படம்`**
-- Tamil audit: **PASS — 5 / 5 verified**
-- English target: `stories/palaivana-roja/translations/en/palaivana-roja.md`
-- review target: `stories/palaivana-roja/TRANSLATION_REVIEW.md`
+- canonical workspace: `stories/ayyo-raja/`
+- printed pages: **202–208**
+- anthology scans: **211–217**
+- boundary witness: scan **218**, opening Story 32 **`விஷம் இனிது`**
+- Tamil audit: **PASS — 7 / 7 verified**
+- English target: `stories/ayyo-raja/translations/en/ayyo-raja.md`
+- review target: `stories/ayyo-raja/TRANSLATION_REVIEW.md`
 
-For Story 27:
+For Story 31:
 
 1. read its complete verified Tamil assembly and review queue first;
-2. preserve paragraph/dialogue/display structure and all five source-page markers;
+2. preserve paragraph/dialogue/display structure and all seven source-page markers;
 3. preserve names, cultural references, source emphasis, physical joins and unusual verified forms conservatively;
-4. verify the scan **193→194** boundary and retain the Story 28 TOC/opening-title difference exactly as repository source fact;
-5. do not import corrections or explanations from outside editions or general knowledge;
-6. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
-7. create the complete English file and `TRANSLATION_REVIEW.md`;
-8. update Story 27 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
-9. re-fetch live `main` and changed controls before declaring Story 27 complete.
+4. do not import corrections or explanations from outside editions or general knowledge;
+5. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
+6. create the complete English file and `TRANSLATION_REVIEW.md`;
+7. update Story 31 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
+8. re-fetch live `main` and changed controls before declaring Story 31 complete.
 
-Do **not** begin Story 28 in the same activity unless the user explicitly expands the translation batch.
+Do **not** begin Story 32 in the same activity unless the user explicitly expands the translation batch.
 
-## EXPECTED STATE AFTER STORY 27
+## EXPECTED STATE AFTER STORY 31
 
-- English translation complete: **27 / 37**
-- pending: **10 / 37**
-- needs review: **0**, unless Story 27 genuinely requires review
-- next target: Story 28 — TOC **`புரட்சிப்படம்`** / opening **`புரட்சிப் படம்`**, scans **194–198 / printed pages 185–189**
-- Story 28 boundary witness: scan **199**, opening Story 29 `திடுக்கிடும் கதை`
+- English translation complete: **31 / 37**
+- pending: **6 / 37**
+- needs review: **0**, unless Story 31 genuinely requires review
+- next target: Story 32 — **`விஷம் இனிது`**, scans **218–224 / printed pages 209–215**
+- Story 32 boundary witness: scan **225**, opening `வேணியின் காதலன்`
 
 ## SOURCE / PHASE RULES
 
