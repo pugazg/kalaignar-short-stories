@@ -7,10 +7,10 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **9 / 37**
-- pending: **28 / 37**
+- visual fidelity complete: **12 / 37**
+- pending: **25 / 37**
 - needs recheck: **0**
-- current target: **Story 10 — `தப்பிவிட்டார்கள்`**
+- current target: **Story 13 — `இரகசியம்!`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -23,9 +23,9 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS — corrected** |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS — corrected** |
 | 9 | `தாய்மை` | 64–74 | 73–83 | **PASS — corrected** |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | pending |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | pending |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | pending |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS — corrected** |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS — corrected** |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS — corrected** |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | pending |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | pending |
 | 15 | `ஏழை` | 106–109 | 115–118 | pending |
@@ -54,79 +54,39 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 
 ## Completed visual-fidelity activities
 
-### Story 1 — `புகழேந்தி`
-- scans **10–15 / printed pages 1–6**
-- result: **PASS — corrected**
-- structural-only corrections: opening/ending page roles, removal of non-source ending label, opening/closing ornament recording
-- story wording changed: **No**
-- record: `stories/pugazhendhi/visual-fidelity.md`
+Stories **1–9** remain closed as previously recorded, each with its canonical story-local `visual-fidelity.md`. Their earlier detailed findings remain durable in those story-local records and Git history.
 
-### Story 2 — `நளாயினி`
-- scans **16–23 / printed pages 7–14**
+### Story 10 — `தப்பிவிட்டார்கள்`
+- scans **84–91 / printed pages 75–82**
 - result: **PASS — corrected**
-- structural-only corrections: opening underline rule, enlarged initial, final `story-ending`, ending separators/ornament, page-map synchronization
+- structural-only corrections/annotations: opening rule and enlarged `ஊ`; enlarged `லீ` on scan 86; enlarged `இ` and excluded printer signature `க—6` on scan 90; final `story-ending` role and centered closing ornament on scan 91
+- all 7 internal joins checked; explicit continuations are **84→85**, **86→87**, and **90→91**
 - story wording changed: **No**
-- record: `stories/nalayini/visual-fidelity.md`
+- scan **92** confirmed as Story 11 `தப்பவில்லை` opening
+- record: `stories/thappivittargal/visual-fidelity.md`
 
-### Story 3 — `சபலம்`
-- scans **24–30 / printed pages 15–21**
+### Story 11 — `தப்பவில்லை`
+- scans **92–101 / printed pages 83–92**
 - result: **PASS — corrected**
-- structural-only corrections: opening rule, enlarged initial, final `story-ending`, closing ornament, page-map synchronization
-- story wording changed: **No**
-- record: `stories/sabalam/visual-fidelity.md`
+- structural corrections/annotations: opening rule and enlarged `க`; enlarged `வீ` on scan 93; source-bold `நாட்கள் ஓடின...` on scan 100; final `story-ending` role and centered closing ornament on scan 101
+- source-supported textual correction: scan **95** `இரவு-பகல்` → `இரவு—பகல்` after complete-sentence recheck
+- all 9 internal joins checked; explicit continuations are **92→93**, **93→94**, and **95→96**
+- story wording changed: **Yes — source-supported punctuation only**
+- scan **102** confirmed as Story 12 `ஆதரிக்கிறார்` opening
+- record: `stories/thappavillai/visual-fidelity.md`
 
-### Story 4 — `ஆட்டக்காவடி`
-- scans **31–38 / printed pages 22–29**
+### Story 12 — `ஆதரிக்கிறார்`
+- scans **102–107 / printed pages 93–98**
 - result: **PASS — corrected**
-- structural-only corrections: opening rule/enlarged initial, source-bold display, structural initials, letter display/sign-off, final `story-ending`, closing ornament
-- story wording changed: **No**
-- record: `stories/aattakkavadi/visual-fidelity.md`
-
-### Story 5 — `குப்பைத்தொட்டி`
-- scans **39–46 / printed pages 30–37**
-- result: **PASS — corrected**
-- structural-only corrections: opening rule/enlarged initial, final `story-ending`, centered closing ornament; existing verse and isolated dialogue remain preserved
-- story wording changed: **No**
-- record: `stories/kuppai-thotti/visual-fidelity.md`
-
-### Story 6 — `சந்தனக்கிண்ணம்`
-- scans **47–56 / printed pages 38–47**
-- result: **PASS — corrected**
-- structural-only corrections: opening rule, structural enlarged initials, long-poem/display annotations, source emphasis, final `story-ending`, isolated transition line, closing ornament
-- story wording changed: **No**
-- record: `stories/santhana-kinnam/visual-fidelity.md`
-
-### Story 7 — `சங்கிலிச்சாமி`
-- scans **57–68 / printed pages 48–59**
-- result: **PASS — corrected**
-- structural-only corrections/annotations: opening rule/chants, false-letter display/sign-off with source-bold signature, final `story-ending`, floral closing ornament
-- printer signature `க—4` remains excluded as page furniture; all 11 internal joins checked
-- story wording changed: **No**
-- record: `stories/sangilichami/visual-fidelity.md`
-
-### Story 8 — `கங்கையின் காதல்`
-- scans **69–72 / printed pages 60–63**
-- result: **PASS — corrected**
-- structural-only corrections/annotations: opening horizontal rule; enlarged opening `கை` in `கைலாயத்தில்`; final-page `story-ending` role; centered floral closing ornament; assembly/page-map synchronization
-- standalone `ஆழ்ந்த உறக்கம்—அமைதி—...` paragraph and dense dialogue structure were already source-faithful
-- all 3 internal joins checked; scan **69→70** preserves `எதிர்பார்த்திருந்` → `தாள்.` and scan **71→72** preserves `...என்பொருட்டுச் சொல்` → `....என் போன்ற பெண்கள்...`
-- story wording changed: **No**
-- scan **73** confirmed as Story 9 `தாய்மை` opening
-- record: `stories/gangaiyin-kadhal/visual-fidelity.md`
-
-### Story 9 — `தாய்மை`
-- scans **73–83 / printed pages 64–74**
-- result: **PASS — corrected**
-- structural corrections/annotations: opening horizontal rule and enlarged `ச`; scan-74 printer signature `க—5` excluded; scan-82 source-bold warning line represented; final `story-ending` role and centered closing ornament; page map/assembly synchronized
-- visual review exposed source-supported textual omissions/misreadings on scans **74, 75, 77, 79, 80, 81, 82 and 83**; every affected complete source span was re-read before correction and propagated through page/assembly/audit/review layers
-- key restored spans include scan 77 `படையெடுப்புக்கு ஏற்ற நேரமாகி விட்டது...மனக் கோட்டையைச் சுக்கு நூறாக்கி, நொறுங்கிப்போன...`, scan 79 `கடைசியில் அந்தக் காம்பை எறிந்து விடுவார்கள்!`, scan 81 `அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு...`, and scan 82's omitted `இன்ப சாகரா!...வாத்தியத்தை நிறுத்தாதே!...` warning passage
-- all 10 internal joins checked; scan **74→75** now preserves `...சித்திக்கும் யோசனைகளைத் தரவும்` → `நான் தயங்கமாட்டேன்.`; scan **78→79** and **80→81** continuations remain preserved
-- story wording changed: **Yes — source-supported corrections only**
-- scan **84** confirmed as Story 10 `தப்பிவிட்டார்கள்` opening
-- record: `stories/thaaymai/visual-fidelity.md`
+- structural corrections/annotations: opening rule and enlarged `பு`; source-bold first `ராஜ நிலையத்தார்` on scan 105; printer signature `க—7` excluded on scan 106; source-bold final `புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்;`, final `story-ending` role and centered closing ornament on scan 107
+- source-supported textual correction: scan **106** `பொதுத்தொண்டு சங்கம் புண்யகோடி...` → `பொதுத்தொண்டு சிங்கம் புண்யகோடி...` after complete-span recheck
+- all 5 internal joins checked; explicit continuations are **104→105**, **105→106**, and **106→107**
+- story wording changed: **Yes — source-supported correction only**
+- scan **108** confirmed as Story 13 `இரகசியம்!` opening
+- record: `stories/aatharikkirar/visual-fidelity.md`
 
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 10 — `தப்பிவிட்டார்கள்`**, scans **84–91 / printed pages 75–82**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Perform the visual fidelity check for **Story 13 — `இரகசியம்!`**, scans **108–111 / printed pages 99–102**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-Inspect scan **92** only as the next-story boundary witness (`தப்பவில்லை`). Do not begin Story 11 in the same activity.
+Inspect scan **112** only as the next-story boundary witness (`முந்நூறு ரூபாய்`). Do not begin Story 14 in the same activity unless the user explicitly changes the batch rule.

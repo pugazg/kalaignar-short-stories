@@ -32,6 +32,12 @@ Final current Tamil assembly: [`sections/thappivittargal.md`](sections/thappivit
 
 The assembly preserves all eight anthology scan boundaries. Scan 92, which opens `தப்பவில்லை`, is excluded.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The visual pass recorded the opening/ending structure, enlarged source initials, printer signature `க—6` as excluded page furniture, the final closing ornament, and all physical joins. **No story wording changed.**
+
 ## Human possible-error review
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic or enhancement-sensitive source forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
@@ -51,7 +57,7 @@ Other scan boundaries occur between complete sentences, paragraphs or dialogue t
 ## Story boundary
 
 - scan **84**: heading `தப்பிவிட்டார்கள்`, Story 10 opening confirmed;
-- scan **91**: story conclusion and ornamental closing rule;
+- scan **91**: story ending and ornamental closing rule;
 - scan **92**: heading `தப்பவில்லை`, Story 11 opening confirmed;
 - Story 11 text included here: **No**.
 
@@ -61,10 +67,4 @@ English translation has **not** been started.
 
 ## Completion state
 
-**தப்பிவிட்டார்கள் Tamil archival source processing: COMPLETE for scans 84–91 / printed pages 75–82, with 8/8 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 11 — **தப்பவில்லை**, printed pages **83–92**, anthology scans **92–101**.
-
-Do not begin Story 11 as part of the Story 10 activity.
+**தப்பிவிட்டார்கள் Tamil archival source processing and visual fidelity: COMPLETE for scans 84–91 / printed pages 75–82, with 8/8 verified, 0 blocked, 0 unresolved story text.**

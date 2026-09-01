@@ -18,28 +18,28 @@ Always fetch live GitHub `main` first. Live `main` is authoritative over chat su
 ## Permanent source rules
 
 - **Controlling scan first.** Do not silently modernize spelling, grammar, punctuation, names, sandhi or source anomalies.
-- Old Tamil glyph shapes must be interpreted from the source typeface and full span, not modern-font expectation.
+- Old Tamil glyph shapes must be interpreted from the source typeface and complete source span, not modern-font expectation.
 - Difficult readings require full-span visual escalation before terminal `blocked` status.
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not a list of confirmed errors.
 - Running headers, printed page numbers and printer signatures are page furniture, not story body.
-- A source-supported textual correction must be propagated through all affected page, assembly, audit and control layers.
+- A source-supported textual correction must be propagated through all affected page, assembly, audit, review and control layers.
 - Do not commit the source PDF or generated page renders/crops.
 
 ## Mandatory startup before visual-fidelity source work
 
-1. fetch live `main` and preserve newer work;
-2. read completely:
-   - `SHORT_STORY_PROCESSING_GUIDE.md`
-   - `COLLECTION_SOURCE_GUIDE.md`
-   - `VISUAL_FIDELITY_CHECK_GUIDE.md`
-   - `VISUAL_FIDELITY_PROGRESS.md`
-   - `HANDOVER.md`
-   - `NEXT_CHAT_PROMPT.md`
-   - collection `README.md`
-   - collection `indexes/story-inventory.md`
-   - collection `indexes/scan-map.md`;
-3. inspect the active story's page records, Tamil assembly, audit and page map;
-4. use the controlling PDF for all source-dependent decisions.
+Before changing anything, fetch live `main`, then read completely:
+
+1. `SHORT_STORY_PROCESSING_GUIDE.md`
+2. `COLLECTION_SOURCE_GUIDE.md`
+3. `VISUAL_FIDELITY_CHECK_GUIDE.md`
+4. `VISUAL_FIDELITY_PROGRESS.md`
+5. `HANDOVER.md`
+6. `NEXT_CHAT_PROMPT.md`
+7. collection `README.md`
+8. collection `indexes/story-inventory.md`
+9. collection `indexes/scan-map.md`
+
+Then inspect the active story's page records, Tamil assembly, audit and page map and resolve the controlling PDF before source-dependent decisions.
 
 ## Active collection source — 1977 anthology
 
@@ -71,76 +71,76 @@ Edition-level title variances remain preserved:
 
 ## USER-AUTHORIZED CURRENT PHASE — VISUAL FIDELITY CHECK
 
-The user explicitly authorized **visual fidelity check** after Tamil source transcription. This phase preserves source-significant structure without facsimile typography.
+The user explicitly authorized visual-fidelity checking after the Tamil source pass. In the latest activity the user explicitly requested **Stories 10–12 together**, overriding the default one-story-per-activity rule for that activity only.
 
 ### Current visual-fidelity progress
 
 - total stories: **37**
-- complete: **9 / 37**
-- pending: **28 / 37**
+- complete: **12 / 37**
+- pending: **25 / 37**
 - needs recheck: **0**
-- current target: **Story 10 — `தப்பிவிட்டார்கள்`**
+- current target: **Story 13 — `இரகசியம்!`**
 
-Stories 1–9 are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
+Stories **1–12** are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
 
-## Story 9 — `தாய்மை` — VISUAL FIDELITY CLOSED
+## Latest completed batch — Stories 10–12
 
-Canonical workspace: `stories/thaaymai/`
+### Story 10 — `தப்பிவிட்டார்கள்`
 
-- printed pages: **64–74**
-- scans: **73–83**
-- boundary witness: scan **84**, opening `தப்பிவிட்டார்கள்`
-- pages directly inspected: **11 / 11**, plus boundary witness
+- workspace: `stories/thappivittargal/`
+- scans **84–91 / printed pages 75–82**
+- boundary witness: scan **92**, opening `தப்பவில்லை`
 - result: **PASS — corrected**
-- story-local record: `stories/thaaymai/visual-fidelity.md`
+- structural-only changes: opening rule/enlarged initials; printer signature `க—6` excluded; final `story-ending`; closing ornament; joins synchronized
+- story wording changed: **No**
+- record: `stories/thappivittargal/visual-fidelity.md`
 
-Direct visual review checked opening/ending roles, paragraph/dialogue structure, display emphasis, page furniture and all ten internal joins.
+### Story 11 — `தப்பவில்லை`
 
-Structural corrections/annotations:
-1. scan 73 / assembly: recorded the long horizontal rule beneath `தாய்மை`;
-2. scan 73 / assembly: recorded the enlarged opening `ச` in `சரசத்தாலும்`;
-3. scan 74: printer signature `க—5` explicitly classified as excluded page furniture;
-4. scan 82 / assembly: represented source-bold `“நிறுத்தாதே! ஊது!! ஊது!” என்று.`;
-5. scan 83: `story-conclusion` → `story-ending`;
-6. scan 83 / assembly: recorded the centered short ornamental closing rule with central geometric flourish;
-7. page map synchronized with roles, emphasis, furniture, corrected paragraphs and joins;
-8. scan 84 independently opens Story 10 `தப்பிவிட்டார்கள்` beneath its own heading and horizontal rule.
+- workspace: `stories/thappavillai/`
+- scans **92–101 / printed pages 83–92**
+- boundary witness: scan **102**, opening `ஆதரிக்கிறார்`
+- result: **PASS — corrected**
+- structural changes: opening rule/enlarged initials; source-bold `நாட்கள் ஓடின...`; final `story-ending`; closing ornament
+- source-supported correction: scan **95** `இரவு-பகல்` → `இரவு—பகல்`, verified against the complete source sentence
+- story wording changed: **Yes — punctuation only**
+- record: `stories/thappavillai/visual-fidelity.md`
 
-The visual review also exposed source-supported textual omissions/misreadings. Complete source spans were reopened before correction and synchronized through page records, Tamil assembly, audit, story README and review queue. Key corrections include:
-- scan 74: `குணதிசையங்களைக்` → `குணதிசயங்களைக்`; `...சித்திக்கும் யோசனைகள் தரவும்` → `...சித்திக்கும் யோசனைகளைத் தரவும்`;
-- scan 75: `இன்னென்று கொடு` → `இன்னொன்று கொடு`;
-- scan 77: restored `படையெடுப்புக்கு ஏற்ற நேரமாகி விட்டது`, `முடிசூடியை`, `வெள்ளைக் கொடியைப்`, and omitted `மனக் கோட்டையைச் சுக்கு நூறாக்கி, நொறுங்கிப்போன`;
-- scan 79: restored `கடைசியில் அந்தக் காம்பை எறிந்து விடுவார்கள்!` and the source paragraph break;
-- scan 80: `சுமலியின்` → `சுழலியின்`; restored `—அழகே உருவெடுத்த அரசிளங்குமரன் ஆர்ப்பித்து விட்டான்`; `குழலிலே பிறந்து` → `குழலிலேயிருந்து`; `தன்னே` → `தன்னை`;
-- scan 81: restored `அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு...` and the following paragraph break;
-- scan 82: restored the omitted warning passage including source-variant `இன்ப சாகரா!` and the complete source paragraph through `ஆகி விட்டான்!`;
-- scan 83: `பார்த்துக்கொள்ளுங்கள்` → `பார்த்துக் கொள்ளுங்கள்`.
+### Story 12 — `ஆதரிக்கிறார்`
 
-**Story wording changed during Story 9 visual-fidelity review: Yes — only where directly supported by the controlling scan.** Remaining unusual-but-legible readings stay in the persistent human recheck queue.
+- workspace: `stories/aatharikkirar/`
+- scans **102–107 / printed pages 93–98**
+- boundary witness: scan **108**, opening `இரகசியம்!`
+- result: **PASS — corrected**
+- structural changes: opening rule/enlarged initial; source-bold first `ராஜ நிலையத்தார்`; printer signature `க—7` excluded; source-bold final `புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்;`; final `story-ending`; closing ornament
+- source-supported correction: scan **106** `பொதுத்தொண்டு சங்கம் புண்யகோடி...` → `பொதுத்தொண்டு சிங்கம் புண்யகோடி...`, verified against the complete source span
+- source anomaly `தலைவனுக` remains retained exactly as printed
+- story wording changed: **Yes — source-supported correction only**
+- record: `stories/aatharikkirar/visual-fidelity.md`
 
-## NEXT EXACT ACTIVITY — STORY 10 VISUAL FIDELITY ONLY
+## NEXT EXACT ACTIVITY — STORY 13 VISUAL FIDELITY ONLY
 
-Story 10 — **`தப்பிவிட்டார்கள்`**:
+Story 13 — **`இரகசியம்!`**:
 
-- canonical workspace: `stories/thappivittargal/`
-- printed pages: **75–82**
-- anthology scans: **84–91**
-- boundary witness: scan **92**, opening Story 11 **`தப்பவில்லை`**
+- canonical workspace: `stories/iragasiyam/`
+- printed pages: **99–102**
+- anthology scans: **108–111**
+- boundary witness: scan **112**, opening Story 14 **`முந்நூறு ரூபாய்`**
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` first and preserve newer work;
-2. inspect scans **84–91** directly from the controlling PDF;
-3. compare all eight pages against `stories/thappivittargal/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
-4. inspect scan **92** only as the next-story boundary witness;
+2. inspect scans **108–111** directly from the controlling PDF;
+3. compare all four pages against `stories/iragasiyam/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
+4. inspect scan **112** only as the next-story boundary witness;
 5. check opening/ending roles, paragraph/dialogue structure, verse/display/emphasis, non-text marks, page furniture and every physical join;
 6. apply only source-supported structural corrections; if wording itself is wrong, verify the complete source span before correction and propagate all affected layers;
-7. create `stories/thappivittargal/visual-fidelity.md`;
+7. create `stories/iragasiyam/visual-fidelity.md`;
 8. update `VISUAL_FIDELITY_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-9. re-fetch live `main` and changed controls before declaring Story 10 visually complete;
-10. **do not begin Story 11 in the same activity**.
+9. re-fetch live `main` and changed controls before declaring Story 13 visually complete;
+10. **do not begin Story 14 in the same activity unless the user explicitly changes the batch rule**.
 
-Expected result after Story 10 closure: **10 / 37 visual-fidelity complete, 27 pending**.
+Expected result after Story 13 closure: **13 / 37 visual-fidelity complete, 24 pending**.
 
 ## Downstream phase guard
 
@@ -149,5 +149,5 @@ Do **not** begin English translation, modernization, republication or another do
 ## Current closure state
 
 - Tamil source pass: **37 / 37 COMPLETE**
-- visual fidelity: **9 / 37 COMPLETE**
-- next exact activity: **Story 10 `தப்பிவிட்டார்கள்` visual fidelity**
+- visual fidelity: **12 / 37 COMPLETE**
+- next exact activity: **Story 13 `இரகசியம்!` visual fidelity**
