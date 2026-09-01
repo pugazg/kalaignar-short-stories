@@ -84,18 +84,19 @@ After that, the source separately prints:
 
 This note is preserved as a separate textual layer and is not merged into the story's final narrative paragraph.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete and reviewed.**
 
-The Tamil source audit is complete for the current reading. Any future user correction should first be checked against the controlling scan and then propagated through page record, assembly, audit and collection/root status files.
+- English: [`translations/en/nalayini.md`](translations/en/nalayini.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **8 / 8**
+- printed page-14 note kept separate: **Yes**
+- possible-error queue read and respected: **Yes**
+- Tamil source changed during translation: **No**
+
+The source's distinct `மெளத் கல்யர்` / `மெளத்கல்யர்` forms remain distinct in English transliteration rather than being silently standardized.
 
 ## Completion state
 
-**நளாயினி Tamil archival source processing: COMPLETE for scans 16–23 / printed pages 7–14, with persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 3 — **சபலம்**, printed pages **15–21**, anthology scans **24–30**.
-
-Do not begin Story 3 until the collection inventory, collection README, root README and root `HANDOVER.md` have been synchronized to this completed state.
+**நளாயினி Tamil archival source processing + English translation: COMPLETE for scans 16–23 / printed pages 7–14, with persistent human recheck queue.**
