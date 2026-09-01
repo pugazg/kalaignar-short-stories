@@ -43,25 +43,30 @@ High-value source-close readings include repeated `புறு` / `புறு
 - printed 142→143 / scans 151→152: `...மரத்தின் கிளையிலே அமரும்` → `வல்லூறு!`.
 - printed 143→144 / scans 152→153: `...இதற்குக் காரணம்` → `கவர்ப்புறுவின் செயல்தானே;`.
 
-The 153→154 and 154→155 boundaries were also directly checked; no story text is omitted or duplicated.
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+Opening/ending rules, the repeated source `புறு` forms, source-bold `“இது வல்லூறின் மரம்”`, and final source-bold `வல்லூறை விரட்டுவதுதான்!` remain synchronized. **Story wording changed: No.**
 
 ## Story boundary
 
-- scan **151**: heading `ஆலமரத்துப் புறாக்கள்`, Story 21 opening confirmed;
-- scan **155**: final paragraph and ornamental closing rule;
-- scan **156**: heading `தொத்துக்கிளி`, Story 22 opening confirmed;
-- Story 22 text included here: **No**.
+- scan **151** opens this story;
+- scan **155** contains the story ending and closing ornament;
+- scan **156** independently opens `தொத்துக்கிளி` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/aalamarathup-puraakkal.md`](translations/en/aalamarathup-puraakkal.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **5 / 5** source-page markers represented
+- physical continuations **151→152** and **152→153** remain traceable
+- repeated `புறு` vocabulary and compound labels are handled conservatively rather than silently normalized
+- source-bold anti-`வல்லூறு` statements and the full allegorical sequence are preserved
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**ஆலமரத்துப் புறாக்கள் Tamil archival source processing: COMPLETE for scans 151–155 / printed pages 142–146, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 22 — **தொத்துக்கிளி**, printed pages **147–151**, anthology scans **156–160**.
-
-Do not begin Story 22 as part of the Story 21 activity.
+**ஆலமரத்துப் புறாக்கள் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 151–155 / printed pages 142–146.**
