@@ -63,8 +63,19 @@ Other scan boundaries occur between complete sentences, paragraphs or dialogue t
 
 ## Translation
 
-English translation has **not** been started.
+**PASS — English translation complete.**
+
+- English: [`translations/en/thappivittargal.md`](translations/en/thappivittargal.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **8 / 8**
+- canonical Tamil changed during translation: **No**
+
+The English preserves the source’s public-reaction framing, assault disclosure, escape sequence and final social-critique ending without silently normalizing the persistent human-review queue.
 
 ## Completion state
 
-**தப்பிவிட்டார்கள் Tamil archival source processing and visual fidelity: COMPLETE for scans 84–91 / printed pages 75–82, with 8/8 verified, 0 blocked, 0 unresolved story text.**
+**தப்பிவிட்டார்கள் Tamil archival source processing, visual fidelity and English translation: COMPLETE for scans 84–91 / printed pages 75–82.**
+
+## Next English activity
+
+Story 11 — **தப்பவில்லை**, printed pages **83–92**, anthology scans **92–101**. Boundary witness: scan **102**, opening Story 12 `ஆதரிக்கிறார்`.
