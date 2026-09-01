@@ -23,9 +23,9 @@ Always fetch live `main` first and preserve newer durable work.
 - Source-supported textual corrections must propagate through every affected page, assembly, audit/review and control layer.
 - Do not commit the controlling PDF or generated visual-inspection artefacts.
 
-## Mandatory startup
+## Mandatory startup for future source-dependent work
 
-Before source-dependent visual work, fetch live `main`, then read completely:
+Before any new source-dependent phase, fetch live `main`, then read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -37,75 +37,90 @@ Before source-dependent visual work, fetch live `main`, then read completely:
 8. collection `indexes/story-inventory.md`
 9. collection `indexes/scan-map.md`
 
-Then inspect the active story page records, Tamil assembly, audit and page map and resolve the controlling PDF.
+Then read any guide/control files specific to the newly authorized phase before changing story content.
 
 ## Durable Tamil milestone
 
 The 1977 anthology Tamil source pass is complete: **37 / 37 stories**, scans **10–259 / printed pages 1–250**, with **0 blocked / 0 unresolved story text**.
 
-## Visual-fidelity phase state
+## Visual-fidelity phase — COMPLETE
 
-- complete: **32 / 37**
-- pending: **5 / 37**
+- complete: **37 / 37**
+- pending: **0 / 37**
 - needs recheck: **0**
-- current target: **Story 33 — `வேணியின் காதலன்`**
+- current target: **none**
 
-Stories **1–32** are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
+All **37 / 37** anthology stories have story-local `visual-fidelity.md` records with result `PASS` or `PASS — corrected`.
 
-## Latest completed batch — Stories 30–32
+### Final completed batch — Stories 33–37
 
-The user explicitly requested these three stories together.
+The user explicitly requested all remaining stories in one batch.
 
-### Story 30 — `கடைசிக் கட்டம்`
-- workspace: `stories/kadaisi-kattam/`
-- scans **205–210 / printed 196–201**
-- boundary witness: scan **211**, opening `அய்யோ ராஜா!`
-- scan 205 opening rule recorded; existing source-bold `டாக்டர் பாபு` retained
-- scan 206 existing source-bold `மஞ்சுளாவை` retained
-- scan 209 two-line கோகிலா letter sign-off display treatment recorded
-- scan 210 synchronized to `story-ending` and closing ornament recorded
-- story wording changed: **No — structure/visual annotation only**
+#### Story 33 — `வேணியின் காதலன்`
+- workspace: `stories/veniyin-kadhalan/`
+- scans **225–230 / printed 216–221**
+- boundary witness: scan **231**, opening `அமிர்தமதி`
+- all six source-reviewed pages and physical joins reconciled with current canonical records
+- prior source-corrected `கூண்டுக் கிளி ஆக்குவேனென்றான்` retained
+- ending role and `◆ ◆ ◆` ornament already correct
+- story wording changed in visual-fidelity phase: **No**
+- result: **PASS**
 
-### Story 31 — `அய்யோ ராஜா!`
-- workspace: `stories/ayyo-raja/`
-- scans **211–217 / printed 202–208**
-- boundary witness: scan **218**, opening `விஷம் இனிது`
-- scan 211 opening rule and enlarged/heavier `செ` in `சென்னை` recorded
-- prior old-Tamil-glyph correction `என்றாள் முத்தம்மா` retained exactly
-- scan 217 already correctly `story-ending`; closing ornament retained
-- story wording changed: **No — structure/visual annotation only**
+#### Story 34 — `அமிர்தமதி`
+- workspace: `stories/amirthamathi/`
+- scans **231–238 / printed 222–229**
+- boundary witness: scan **239**, opening `சுமந்தவள்`
+- paragraph/dialogue structure, quoted descriptive span and all joins reconciled
+- ending role and `◆ ◆ ◆` ornament already correct
+- story wording changed in visual-fidelity phase: **No**
+- result: **PASS**
 
-### Story 32 — `விஷம் இனிது`
-- workspace: `stories/visham-inidhu/`
-- scans **218–224 / printed 209–215**
-- boundary witness: scan **225**, opening `வேணியின் காதலன்`
-- scan 218 opening rule and enlarged/heavier `ஜெ` recorded; printer signature `க—14` excluded as page furniture
-- scan 221 two-line அமிர்தராணி letter sign-off treatment recorded; existing source-bold `அமிர்த ராணி` retained
-- scan 224 existing source-bold `ஆண்டவனை விட ஆலஹாலம் இனிது`, `story-ending`, and closing ornament retained
-- story wording changed: **No — structure/visual annotation only**
+#### Story 35 — `சுமந்தவள்`
+- workspace: `stories/sumanthaval/`
+- scans **239–249 / printed 230–240**
+- boundary witness: scan **250**, opening `சித்தார்த்தன் சிலை`
+- all eleven source-reviewed pages, difficult older-glyph forms and physical joins reconciled
+- ending role and `◆ ◆ ◆` ornament already correct
+- story wording changed in visual-fidelity phase: **No**
+- result: **PASS**
 
-## NEXT EXACT ACTIVITY — STORY 33 ONLY
+#### Story 36 — TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`
+- workspace: `stories/siddharthan-silai/`
+- scans **250–252 / printed 241–243**
+- boundary witness: scan **253**, opening `நுனிக்கரும்பு`
+- TOC/opening-title variance preserved exactly; neither form normalized
+- all three source-reviewed pages and both joins reconciled
+- ending role and `◆ ◆ ◆` ornament already correct
+- story wording changed in visual-fidelity phase: **No**
+- result: **PASS**
 
-Story 33 — **`வேணியின் காதலன்`**:
+#### Story 37 — `நுனிக்கரும்பு`
+- workspace: `stories/nunikkarumbu/`
+- scans **253–259 / printed 244–250**
+- final boundary witness: scan **260**, anthology back cover
+- opening Bharathidasan verse lineation preserved
+- prior source-corrected `இவனத் தெரியுமா?` retained
+- all seven source-reviewed pages and physical joins reconciled
+- ending role and `◆ ◆ ◆` ornament already correct
+- scan 260 confirmed outside story text
+- story wording changed in visual-fidelity phase: **No**
+- result: **PASS**
 
-- canonical workspace: `stories/veniyin-kadhalan/`
-- printed pages: **216–221**
-- anthology scans: **225–230**
-- boundary witness: scan **231**, opening Story 34 **`அமிர்தமதி`**
+## Current durable boundary
 
-When the user says “Proceed with next activity”:
-1. fetch live `main` first;
-2. inspect scans **225–230** directly from the controlling PDF;
-3. compare all six pages with page records and Tamil assembly;
-4. check opening/ending roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and every physical join;
-5. inspect scan **231** only as the boundary witness;
-6. apply only source-supported corrections/annotations and propagate any actual wording correction through all affected layers;
-7. create/update `stories/veniyin-kadhalan/visual-fidelity.md` and controls;
-8. re-fetch live `main` and changed controls before declaring closure;
-9. do **not** begin Story 34 unless the user explicitly expands the batch.
+The archive now has both:
 
-Expected after Story 33: **33 / 37 complete, 4 pending**.
+1. **Tamil source transcription/audit complete — 37 / 37 stories**; and
+2. **visual fidelity complete — 37 / 37 stories**.
+
+There is no unfinished visual-fidelity story and no `needs recheck` item in this phase.
+
+## NEXT ACTIVITY
+
+**No downstream phase is authorized.** Do not begin English translation, modernization, republication, metadata redesign, or another phase merely because visual fidelity is complete.
+
+When the user explicitly authorizes the next phase, first fetch live `main`, read this handover plus the applicable guides, define the new phase boundary durably, and only then begin work.
 
 ## Phase guard
 
-Do not begin English translation, modernization, republication or another downstream phase unless separately authorized.
+Visual-fidelity completion does not imply authorization for English translation or any other downstream transformation.
