@@ -59,10 +59,17 @@ Other scan boundaries occur between complete sentences or paragraphs.
 - scan **108**: heading `இரகசியம்!`, Story 13 opening confirmed;
 - Story 13 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/aatharikkirar.md`](translations/en/aatharikkirar.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **6 / 6** source-page markers represented
+- source-bold spans and physical joins preserved
+- source-supported `பொதுத்தொண்டு சிங்கம்` reading translated from the current canonical Tamil
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**ஆதரிக்கிறார் Tamil archival source processing and visual fidelity: COMPLETE for scans 102–107 / printed pages 93–98, with 6/6 verified, 0 blocked, 0 unresolved story text.**
+**ஆதரிக்கிறார் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 102–107 / printed pages 93–98.**
