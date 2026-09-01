@@ -25,7 +25,16 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/kadaisi-kattam.md`](sections/kadaisi-kattam.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+- scan 205 opening rule and source-bold `டாக்டர் பாபு` retained;
+- scan 206 source-bold `மஞ்சுளாவை` retained;
+- scan 209 Kokila letter and two-line/right-aligned sign-off represented structurally;
+- scan 210 synchronized to `story-ending` with its closing ornament;
+- story wording changed during visual review: **No**.
 
 ## Story boundary
 
@@ -34,12 +43,21 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - scan **211** opens Story 31 `அய்யோ ராஜா!`;
 - Story 31 text included here: **No**.
 
+## English translation
+
+**PASS — complete.**
+
+- English: [`translations/en/kadaisi-kattam.md`](translations/en/kadaisi-kattam.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers: **6 / 6 represented**
+- Kokila letter/sign-off structure preserved: **Yes**
+- stage-company reveal preserved: **Yes**
+- canonical Tamil changed during translation: **No**
+
 ## Completion state
 
-**கடைசிக் கட்டம் Tamil archival source processing: COMPLETE for scans 205–210 / printed pages 196–201, with 6/6 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**கடைசிக் கட்டம் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 205–210 / printed pages 196–201. English review result: PASS.**
 
-## Next anthology activity
+## Next anthology English activity
 
-Story 31 — **அய்யோ ராஜா!**, printed pages **202–208**, anthology scans **211–217**. Before Story 31 closure, inspect scan **218** and confirm it begins Story 32 `விஷம் இனிது`.
-
-Do not begin Story 31 as part of the Story 30 activity.
+Story 31 — **அய்யோ ராஜா!**, printed pages **202–208**, anthology scans **211–217**. Scan **218** opens Story 32 `விஷம் இனிது`.
