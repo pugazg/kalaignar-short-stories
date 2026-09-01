@@ -2,13 +2,13 @@
 
 | Story seq. | Scan | Printed page | Status | Page role |
 |---:|---:|---:|---|---|
-| 1 | 218 | 209 | verified | story opening; அமிர்தராணி warns ஜெகவீரன் about சத்தியவதி |
+| 1 | 218 | 209 | verified | story opening; title + long opening rule; enlarged/heavier opening `ஜெ`; printer signature `க—14` excluded as page furniture |
 | 2 | 219 | 210 | verified | ஜெகவீரசிம்மன் background; அர்தோல் / இராமபிரான் கோயில் setup; ends physical split `சிறப்புடையதாயிருக்க` |
 | 3 | 220 | 211 | verified | temple funding / வைரச் சுரங்க discussion; ends `ரகசியமாகச்` |
-| 4 | 221 | 212 | verified | completes வைர plan; அமிர்தராணியின் ஓலை; ஜெகவீரன் returns; ends `பாடிக்கொண்டிருக்` |
+| 4 | 221 | 212 | verified | completes வைர plan; அமிர்தராணியின் ஓலை; two-line sign-off with source-bold `அமிர்த ராணி`; ஜெகவீரன் returns; ends `பாடிக்கொண்டிருக்` |
 | 5 | 222 | 213 | verified | completes prayer scene; ஜெகவீரன் confronts சத்தியவதி and orders poison test |
 | 6 | 223 | 214 | verified | சத்தியவதி brings poisoned milk to அர்தோல்; family-honour confrontation |
-| 7 | 224 | 215 | verified | அர்தோல் drinks poison; conclusion `ஆண்டவனை விட ஆலஹாலம் இனிது`; closing ornament |
+| 7 | 224 | 215 | verified | story ending; அர்தோல் drinks poison; source-bold conclusion `ஆண்டவனை விட ஆலஹாலம் இனிது`; centered closing ornament |
 
 Totals: **7 / 7 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
