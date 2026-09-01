@@ -34,6 +34,16 @@ Final current Tamil assembly:
 
 The assembly retains source-scan boundary markers for all six pages and does not include Story 2 (`நளாயினி`).
 
+## Visual fidelity
+
+**PASS — corrected.**
+
+Story-local visual-fidelity record:
+
+[`visual-fidelity.md`](visual-fidelity.md)
+
+The visual pass corrected structural presentation only; no Tamil story wording was changed.
+
 ## Human possible-error review
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) collects unusual or easily misread passages for later human review.
@@ -57,18 +67,26 @@ The following physical continuations were verified:
 2. page 3→4: `“உங்கள் இலட்சியம்` / `கைகூடும் வரையில்...`
 3. page 5→6: `திருமணமும்` / `வேண்டார்!”`
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete for Story 1.**
 
-The Tamil source audit is complete for the current reading. Before future translation, first review any user-supplied corrections against the source and resynchronize the Tamil assembly if necessary.
+English reading layer:
+
+[`translations/en/pugazhendhi.md`](translations/en/pugazhendhi.md)
+
+Translation review:
+
+[`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+
+The English layer follows the current verified Tamil assembly, retains all six source-page markers and does not include Story 2. Unusual verified Tamil forms remain unchanged in the canonical source layer; conservative English choices are documented in the translation review.
 
 ## Completion state
 
-**புகழேந்தி Tamil archival source processing: COMPLETE for scans 10–15 / printed pages 1–6, with persistent human recheck queue.**
+**புகழேந்தி Tamil archival source processing, visual fidelity and English translation: COMPLETE for scans 10–15 / printed pages 1–6, with persistent human Tamil recheck queue.**
 
-## Next anthology activity
+## Next anthology English activity
 
-Story 2 — **நளாயினி**, printed pages **7–14**, anthology scans **16–23**.
+Story 2 — **நளாயினி**, printed pages **7–14**, anthology scans **16–23**. Scan **24** is the physical boundary witness opening Story 3 `சபலம்`.
 
-Do not begin it until the current activity's collection inventory and root handover are synchronized.
+Process Story 2 as a separate translation activity unless the user explicitly expands the batch.
