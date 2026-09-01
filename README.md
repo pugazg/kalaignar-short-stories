@@ -50,10 +50,10 @@ Permanent guides:
 | [`கண்ணடக்கம்`](stories/kannadakkam/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`வாழ முடியாதவர்கள்`](stories/vazha-mudiyathavargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அபாக்ய சிந்தாமணி`](stories/abagya-chinthamani/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`பாலைவன ரோஜா`](stories/palaivana-roja/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`பாலைவன ரோஜா`](stories/palaivana-roja/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
@@ -86,8 +86,8 @@ Source registration state:
 - story-opening scan checks: **37 / 37 complete**
 - Tamil source processing complete from anthology: **37 / 37**
 - anthology stories not yet transcribed: **0 / 37**
-- English translation complete from anthology: **26 / 37**
-- English translation pending: **11 / 37**
+- English translation complete from anthology: **30 / 37**
+- English translation pending: **7 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
 
@@ -131,7 +131,7 @@ Exact source metadata, inventory and scan map are under the collection workspace
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Stories 1–26 are PASS**, with Stories **27–37 pending**.
+All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Stories 1–30 are PASS**, with Stories **31–37 pending**.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -160,12 +160,12 @@ The Tamil source pass for the 1977 anthology is closed through scan **259 / prin
 
 ## Anthology English translation status
 
-**ACTIVE — 26 / 37 complete; 11 pending; 0 needs review.**
+**ACTIVE — 30 / 37 complete; 7 pending; 0 needs review.**
 
-- Stories **1–26**: **PASS**
-- latest completed batch: `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`
-- next target: Story 27 — `பாலைவன ரோஜா`, scans **189–193 / printed pages 180–184**
-- boundary witness: scan **194**, opening Story 28 `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`)
+- Stories **1–30**: **PASS**
+- latest completed batch: `பாலைவன ரோஜா`, TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`, `திடுக்கிடும் கதை`, `கடைசிக் கட்டம்`
+- next target: Story 31 — `அய்யோ ராஜா!`, scans **211–217 / printed pages 202–208**
+- boundary witness: scan **218**, opening Story 32 `விஷம் இனிது`
 - translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
 - tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
