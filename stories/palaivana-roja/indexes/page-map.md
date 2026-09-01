@@ -8,7 +8,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 190 | 181 | story body | verified | `../pages/0190-palaivana-roja-02.md` |
 | 191 | 182 | story body | verified | `../pages/0191-palaivana-roja-03.md` |
 | 192 | 183 | story body | verified | `../pages/0192-palaivana-roja-04.md` |
-| 193 | 184 | story conclusion | verified | `../pages/0193-palaivana-roja-05.md` |
+| 193 | 184 | story ending | verified | `../pages/0193-palaivana-roja-05.md` |
 
 ## Status
 
@@ -17,5 +17,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+
+Visual fidelity: **PASS — corrected**; scan 189 opening rule/source emphasis and scan 193 ending ornament/role synchronized.
 
 Scan **194** begins Story 28 with opening heading `புரட்சிப் படம்` (TOC title `புரட்சிப்படம்`) and is outside this story range.
