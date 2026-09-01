@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **34 / 37**
-- pending: **3 / 37**
+- English translation complete: **37 / 37**
+- pending: **0 / 37**
 - needs review: **0**
-- current target: **Story 35 — `சுமந்தவள்`**
+- phase state: **COMPLETE**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -50,20 +50,19 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** |
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | pending |
-| 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** |
+| 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** |
 
 ## Completed English translations
 
-Stories **1–34** are **PASS**. Each completed story has a complete `translations/en/<slug>.md` and story-local `TRANSLATION_REVIEW.md`, with source-page markers and source-significant structure retained.
+Stories **1–37** are **PASS**. Every anthology story now has a complete `translations/en/<slug>.md` and story-local `TRANSLATION_REVIEW.md`, with source-page markers and source-significant structure retained.
 
 Latest completed batch:
 
-31. `அய்யோ ராஜா!` — `stories/ayyo-raja/translations/en/ayyo-raja.md` — **PASS**
-32. `விஷம் இனிது` — `stories/visham-inidhu/translations/en/visham-inidhu.md` — **PASS**
-33. `வேணியின் காதலன்` — `stories/veniyin-kadhalan/translations/en/veniyin-kadhalan.md` — **PASS**
-34. `அமிர்தமதி` — `stories/amirthamathi/translations/en/amirthamathi.md` — **PASS**
+35. `சுமந்தவள்` — `stories/sumanthaval/translations/en/sumanthaval.md` — **PASS**
+36. TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` — `stories/siddharthan-silai/translations/en/siddharthan-silai.md` — **PASS**
+37. `நுனிக்கரும்பு` — `stories/nunikkarumbu/translations/en/nunikkarumbu.md` — **PASS**
 
 ### Story 31 — `அய்யோ ராஜா!`
 - scans **211–217 / printed 202–208**
@@ -101,8 +100,38 @@ Latest completed batch:
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-## Next activity
+### Story 35 — `சுமந்தவள்`
+- scans **239–249 / printed 230–240**
+- all eleven source-page markers represented: **Yes**
+- exact joins 243→244, 244→245 and 247→248 represented traceably: **Yes**
+- narrator/mother frame, embedded Maragatham–Soundari story, motherhood/beauty conflict, armed confrontation and diagnosis ending preserved: **Yes**
+- source-sensitive queue items handled conservatively: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
 
-Translate and review **Story 35 — `சுமந்தவள்`**, canonical workspace `stories/sumanthaval/`, scans **239–249 / printed pages 230–240**. Scan **250** is the physical boundary witness opening Story 36, whose TOC title is `சித்தார்த்தன்` and story-opening heading is `சித்தார்த்தன் சிலை`.
+### Story 36 — TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`
+- scans **250–252 / printed 241–243**
+- all three source-page markers represented: **Yes**
+- exact 251→252 mid-speech join represented traceably: **Yes**
+- TOC/opening-title variance preserved: **Yes**
+- idealized portrait, shrine lament, apparent statue speech and husband reveal preserved: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
 
-Do not begin Story 36 in the same activity unless the user explicitly expands the batch.
+### Story 37 — `நுனிக்கரும்பு`
+- scans **253–259 / printed 244–250**
+- all seven source-page markers represented: **Yes**
+- opening Bharathidasan quotation preserved as a three-line verse block: **Yes**
+- exact 257→258 `உள்ளங்` → `களைக்` continuation represented traceably: **Yes**
+- Arulnambi/Amudha stage, phone and dinner sequence and final `தாத்தா` reversal preserved: **Yes**
+- scan 260 confirmed as back-cover boundary and excluded: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+## Phase closure
+
+**COMPLETE — 37 / 37 anthology stories are PASS in English; 0 pending; 0 needs review.**
+
+The English translation phase is closed through Story 37 `நுனிக்கரும்பு`, scan **259 / printed page 250**. Scan **260** remains the verified anthology back cover and is outside story text.
+
+Canonical Tamil remains authoritative. Any future English revision that appears to expose a Tamil source issue must reopen that exact Tamil span against the controlling scan under `SHORT_STORY_PROCESSING_GUIDE.md` before any source-layer change.
