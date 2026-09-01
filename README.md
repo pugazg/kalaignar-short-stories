@@ -16,13 +16,15 @@ Permanent guides:
 
 - [`SHORT_STORY_PROCESSING_GUIDE.md`](SHORT_STORY_PROCESSING_GUIDE.md)
 - [`COLLECTION_SOURCE_GUIDE.md`](COLLECTION_SOURCE_GUIDE.md)
+- [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
+- [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
 ## Canonical stories
 
 | Story | Source state | English |
 |---|---|---|
 | [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
-| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நளாயினி`](stories/nalayini/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`சபலம்`](stories/sabalam/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | not started |
@@ -84,7 +86,8 @@ Source registration state:
 - story-opening scan checks: **37 / 37 complete**
 - Tamil source processing complete from anthology: **37 / 37**
 - anthology stories not yet transcribed: **0 / 37**
-- English translation started from anthology: **0 / 37**
+- English translation complete from anthology: **1 / 37**
+- English translation pending: **36 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
 
@@ -128,7 +131,7 @@ Exact source metadata, inventory and scan map are under the collection workspace
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. English translation has not been started for these anthology stories.
+All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Story 1 `புகழேந்தி` is PASS**, with Stories **2–37 pending**.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -153,4 +156,15 @@ Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
 **COMPLETE — 37 / 37 stories fully source-processed and synchronized; 0 remaining.**
 
-The Tamil source pass for the 1977 anthology is closed through scan **259 / printed page 250**. Scan **260** is the verified back cover. No English translation or later downstream phase has been started as part of this closure.
+The Tamil source pass for the 1977 anthology is closed through scan **259 / printed page 250**. Scan **260** is the verified back cover.
+
+## Anthology English translation status
+
+**ACTIVE — 1 / 37 complete; 36 pending; 0 needs review.**
+
+- Story 1 — `புகழேந்தி`: **PASS**
+- next target: Story 2 — `நளாயினி`, scans **16–23 / printed pages 7–14**
+- translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
+- tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+
+English remains a separate translation layer; the verified Tamil assemblies remain authoritative.
