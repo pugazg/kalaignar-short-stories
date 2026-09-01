@@ -36,13 +36,13 @@ All 37 stories have story-local `visual-fidelity.md` records with result `PASS` 
 
 ## English translation phase — ACTIVE
 
-The user explicitly authorized English translation and explicitly expanded the latest activity to Stories 5–6.
+The user explicitly authorized English translation and explicitly expanded the latest activity to Stories 7–8. The repeated `கங்கையின் காதல்` in the user request was treated as the same Story 8, not as a third distinct story.
 
 - total anthology stories: **37**
-- complete: **6 / 37**
-- pending: **31 / 37**
+- complete: **8 / 37**
+- pending: **29 / 37**
 - needs review: **0**
-- next target: **Story 7 — `சங்கிலிச்சாமி`**
+- next target: **Story 9 — `தாய்மை`**
 
 English is a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
 
@@ -62,59 +62,58 @@ Before translating each story:
 4. `ஆட்டக்காவடி` — scans **31–38 / printed 22–29** — **PASS**
 5. `குப்பைத்தொட்டி` — scans **39–46 / printed 30–37** — **PASS**
 6. `சந்தனக்கிண்ணம்` — scans **47–56 / printed 38–47** — **PASS**
+7. `சங்கிலிச்சாமி` — scans **57–68 / printed 48–59** — **PASS**
+8. `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — **PASS**
 
-For all six, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
+For all eight, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
 
-### Latest completed Story 5 — `குப்பைத்தொட்டி`
+### Latest completed Story 7 — `சங்கிலிச்சாமி`
 
-- workspace: `stories/kuppai-thotti/`
-- English: `translations/en/kuppai-thotti.md`
+- workspace: `stories/sangilichami/`
+- English: `translations/en/sangilichami.md`
 - review: `TRANSLATION_REVIEW.md`
-- scan-42 four-line prayer/verse remains a display block
-- scan-45 three isolated quoted lines remain isolated
-- unusual verified readings such as `போதுதானு`, `மனமனவென்று`, `சபரகூட மஞ்சமாகி`, `தூராற்றம்`, `வந்து உண்மைதான்`, `போனேனோ`, and `வயிறாச் சோறின்றி` were handled conservatively and documented
+- opening chants and scan-58 devotee petitions remain display-separated
+- scan-67 false letter and sign-off remain distinct; source-bold signature is preserved semantically
+- physical 67→68 continuation remains traceable
+- unusual verified forms such as `அஷ்டமா சித்துபுரி`, `‘நமப்பார்வதி படே’`, `செக்கச் செவேன்னு`, `மூடாத்மா ஞானத்மாவாக`, `தவறுக என்னை மதிக்காதீர்`, `தடியன் தானு?`, and `கொலைகாரனுக்கிவிட்டாயே` were handled conservatively and documented
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-### Latest completed Story 6 — `சந்தனக்கிண்ணம்`
+### Latest completed Story 8 — `கங்கையின் காதல்`
 
-- workspace: `stories/santhana-kinnam/`
-- English: `translations/en/santhana-kinnam.md`
+- workspace: `stories/gangaiyin-kadhal/`
+- English: `translations/en/gangaiyin-kadhal.md`
 - review: `TRANSLATION_REVIEW.md`
-- scans 48–50 long martial poem preserved as a continuous display
-- scan-51 Vijayā seven-line gift inscription preserved
-- source emphasis on `மார்பு காட்டி!` preserved semantically
-- standalone closing transition `ஆனால்,` remains structurally separate
-- unusual verified forms including `திராவிட உட்கல வங்க`, `கிலியும்`, `மோழைக்குப் பெயர் போர்வீரனும்!`, `மோகனத்திலே`, `கழுதை தேய்ந்து கட்டெறும் பாயிற்று!`, `தோழி யளித்தது`, and `தயாரா யிருக்கிறான்` were not silently normalized
+- scans 69→70 and 71→72 physical continuations remain traceable
+- dialogue structure and final narrative paragraph remain distinct
+- unusual verified forms including `அல்வித் தண்டில்`, `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`, `சல்லாப ரூபா`, `என்..பார்வதியால் தான் முடிந்ததா?`, and `தோன்றுமலிருக்க` were not silently normalized
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-## NEXT ACTIVITY — STORY 7
+## NEXT ACTIVITY — STORY 9
 
-Story 7 — **`சங்கிலிச்சாமி`**:
+Story 9 — **`தாய்மை`**:
 
-- canonical workspace: `stories/sangilichami/`
-- printed pages: **48–59**
-- anthology scans: **57–68**
-- boundary witness: scan **69**, opening Story 8 **`கங்கையின் காதல்`**
-- Tamil audit: **PASS — 12 / 12 verified**
-- English target: `stories/sangilichami/translations/en/sangilichami.md`
-- translation review target: `stories/sangilichami/TRANSLATION_REVIEW.md`
-
-The Story 7 human-review queue includes unusual verified forms such as `அஷ்டமா சித்துபுரி`, `துடுக் கடக்கும் தாயனே`, `‘நமப்பார்வதி படே’`, `பிள்ளையில்ல....அருள் தேவை`, `செக்கச் செவேன்னு`, `மூடாத்மா ஞானத்மாவாக`, `கருவாடு களவு கொடுத்த பாப்பாத்தி`, `தவறுக என்னை மதிக்காதீர்`, `தடியன் தானு?`, and `கொலைகாரனுக்கிவிட்டாயே`. Read the complete queue before translating and preserve the current verified Tamil conservatively.
+- canonical workspace: `stories/thaaymai/`
+- printed pages: **64–74**
+- anthology scans: **73–83**
+- boundary witness: scan **84**, opening Story 10 **`தப்பிவிட்டார்கள்`**
+- Tamil audit: **PASS — 11 / 11 verified**
+- English target: `stories/thaaymai/translations/en/thaaymai.md`
+- translation review target: `stories/thaaymai/TRANSLATION_REVIEW.md`
 
 Process **one story per activity** unless the user explicitly expands the translation batch.
 
-## Expected closure after Story 7
+## Expected closure after Story 9
 
-After `சங்கிலிச்சாமி` translation/review is complete:
+After `தாய்மை` translation/review is complete:
 
-- English translation complete: **7 / 37**
-- pending: **30 / 37**
-- next target: Story 8 — **`கங்கையின் காதல்`**
-- Story 8 printed pages: **60–63**
-- Story 8 scans: **69–72**
-- Story 8 boundary witness: scan **73**, opening Story 9 **`தாய்மை`**
+- English translation complete: **9 / 37**
+- pending: **28 / 37**
+- next target: Story 10 — **`தப்பிவிட்டார்கள்`**
+- Story 10 printed pages: **75–82**
+- Story 10 scans: **84–91**
+- Story 10 boundary witness: scan **92**, opening Story 11 **`தப்பவில்லை`**
 
 Update the story README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, this handover and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring closure.
 
