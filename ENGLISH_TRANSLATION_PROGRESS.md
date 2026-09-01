@@ -9,17 +9,17 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **1 / 37**
-- pending: **36 / 37**
+- English translation complete: **4 / 37**
+- pending: **33 / 37**
 - needs review: **0**
-- current target: **Story 2 — `நளாயினி`**
+- current target: **Story 5 — `குப்பைத்தொட்டி`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
 | 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** |
-| 2 | `நளாயினி` | 7–14 | 16–23 | pending |
-| 3 | `சபலம்` | 15–21 | 24–30 | pending |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | pending |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** |
+| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | pending |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | pending |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | pending |
@@ -58,16 +58,40 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 
 ### Story 1 — `புகழேந்தி`
 
-- workspace: `stories/pugazhendhi/`
-- English file: `stories/pugazhendhi/translations/en/pugazhendhi.md`
+- English: `stories/pugazhendhi/translations/en/pugazhendhi.md`
 - review: `stories/pugazhendhi/TRANSLATION_REVIEW.md`
-- scans: **10–15 / printed pages 1–6**
-- page markers represented: **6 / 6**
+- scans **10–15 / printed 1–6**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 2 — `நளாயினி`
+
+- English: `stories/nalayini/translations/en/nalayini.md`
+- review: `stories/nalayini/TRANSLATION_REVIEW.md`
+- scans **16–23 / printed 7–14**
+- printed source note kept separate: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 3 — `சபலம்`
+
+- English: `stories/sabalam/translations/en/sabalam.md`
+- review: `stories/sabalam/TRANSLATION_REVIEW.md`
+- scans **24–30 / printed 15–21**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 4 — `ஆட்டக்காவடி`
+
+- English: `stories/aattakkavadi/translations/en/aattakkavadi.md`
+- review: `stories/aattakkavadi/TRANSLATION_REVIEW.md`
+- scans **31–38 / printed 22–29**
+- Kanimozhi letter/display structure preserved: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 2 — `நளாயினி`**, canonical workspace `stories/nalayini/`, scans **16–23 / printed pages 7–14**. Scan **24** is the physical boundary witness opening Story 3 `சபலம்`.
+Translate and review **Story 5 — `குப்பைத்தொட்டி`**, canonical workspace `stories/kuppai-thotti/`, scans **39–46 / printed pages 30–37**. Scan **47** is the physical boundary witness opening Story 6 `சந்தனக்கிண்ணம்`.
 
-Do not begin Story 3 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 6 in the same activity unless the user explicitly expands the batch.
