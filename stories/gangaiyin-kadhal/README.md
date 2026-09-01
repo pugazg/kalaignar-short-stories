@@ -68,16 +68,21 @@ Printed 61→62 occurs between complete dialogue turns rather than inside a phys
 - scan **73**: heading `தாய்மை`, Story 9 opening confirmed;
 - Story 9 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English file: [`translations/en/gangaiyin-kadhal.md`](translations/en/gangaiyin-kadhal.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **4 / 4**
+- physical continuations 69→70 and 71→72 preserved traceably: **Yes**
+- possible-error queue read and handled conservatively: **Yes**
+- Tamil source changed during translation: **No**
 
 ## Completion state
 
-**கங்கையின் காதல் Tamil archival source processing: COMPLETE for scans 69–72 / printed pages 60–63, with 4/4 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**கங்கையின் காதல் Tamil archival source processing: COMPLETE; English translation: PASS for scans 69–72 / printed pages 60–63.**
 
-## Next anthology activity
+## Next anthology English activity
 
 Story 9 — **தாய்மை**, printed pages **64–74**, anthology scans **73–83**.
-
-Do not begin Story 9 as part of the Story 8 activity.
