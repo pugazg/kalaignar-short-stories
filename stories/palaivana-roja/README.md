@@ -63,18 +63,20 @@ High-value source-close readings include `ஜாக்கையை`, `படை 
 - Tamil assembly/page map/audit synchronized;
 - story wording changed: **No — structure/emphasis only**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/palaivana-roja.md`](translations/en/palaivana-roja.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers: **5 / 5 represented**
+- difficult/review-sensitive Tamil forms handled conservatively: **Yes**
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**பாலைவன ரோஜா Tamil archival source processing and visual fidelity are COMPLETE for scans 189–193 / printed pages 180–184, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**பாலைவன ரோஜா Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 189–193 / printed pages 180–184. English review result: PASS.**
 
-## Next anthology activity
+## Next anthology English activity
 
 Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**, printed pages **185–189**, anthology scans **194–198**.
-
-Before Story 28 closure, inspect scan **199** and confirm it begins Story 29 `திடுக்கிடும் கதை`.
-
-Do not begin Story 28 as part of the Story 27 activity.
