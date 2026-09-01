@@ -3,7 +3,7 @@ scan_page: 107
 printed_page: 98
 story: "aatharikkirar"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -26,6 +26,14 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “எல்லாம் நன்மைக்குத்தான்” என்றனர் புண்யகோடியின் பரம்பரைப் பக்தர்கள்.
 
-பாவம்; அவர்களுக்கெல்லாம் தெரியாது—புண்யகோடி, மீண்டும் அனுப்பிய பழைய விண்ணப்பத்தைப் புதிய சேர்மன் கவனித்துப் பத்தாயிர ரூபாயை வீடு பழுது பார்க்கத் தந்து விட்டார் என்ற சேதியும்—புண்யகோடியிடம் பழைய நகரசபை நஷ்ட ஈடாகப் பெற்ற பத்தாயிரத்தைத் திருப்பிக் கொடுத்து விட்டார் என்ற தகவலும். எல்லாம் எப்படியோ மறைக்கப்பட்டு விட்டன. புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்; இதை மட்டும் அவர் காரியதரிசி சொல்கிறார்.
+பாவம்; அவர்களுக்கெல்லாம் தெரியாது—புண்யகோடி, மீண்டும் அனுப்பிய பழைய விண்ணப்பத்தைப் புதிய சேர்மன் கவனித்துப் பத்தாயிர ரூபாயை வீடு பழுது பார்க்கத் தந்து விட்டார் என்ற சேதியும்—புண்யகோடியிடம் பழைய நகரசபை நஷ்ட ஈடாகப் பெற்ற பத்தாயிரத்தைத் திருப்பிக் கொடுத்து விட்டார் என்ற தகவலும். எல்லாம் எப்படியோ மறைக்கப்பட்டு விட்டன. **புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்;** இதை மட்டும் அவர் காரியதரிசி சொல்கிறார்.
+
+<!-- source closing ornament: centered short ornamental rule with small central geometric marks beneath the final paragraph -->
+
+## Source-review note
+
+- Visual-fidelity review represents the source-bold `புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்;` span.
+- Page role synchronized to `story-ending`; closing ornament recorded.
+- Scan 108 independently opens `இரகசியம்!` and is excluded.
 
 <!-- மூல ஸ்கேன் பக்கம்: 107; அச்சுப் பக்கம்: 98 -->

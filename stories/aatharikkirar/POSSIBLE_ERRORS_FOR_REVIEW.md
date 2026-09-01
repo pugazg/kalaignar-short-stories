@@ -7,7 +7,7 @@
 ## Review notation
 
 - `[ ]` human review pending
-- `[x]` source rechecked; current reading confirmed
+- `[x]` source rechecked; current reading confirmed or source-supported correction applied
 - `[~]` correction required
 
 ## Scan 102 / printed 93
@@ -32,26 +32,26 @@
 - [ ] `முயற்சிலே`
 - [ ] `பரிதாபகரமாக`
 - [x] `பெயர்மட்டுந்தானு` — source form directly rechecked and retained.
-- [ ] `ராஜ நிலையத்தார்`
+- [x] source-bold first occurrence `ராஜ நிலையத்தார்` — visual-fidelity emphasis recorded.
 
 ## Scan 106 / printed 97
 - [x] `அம்மாமி ஆட்டுக்கறியைக் களவு கொடுத்த கதையாகப்` — complete phrase retained from source.
 - [x] `இனாமாகத் தந்த இடத்துக்கு` — enlarged full-span recheck confirms current reading.
 - [ ] `புஸ்வாணமாகிவிட்டன`
 - [ ] `மானநஷ்டமுண்டாக்கியதாகக்`
-- [ ] `பொதுத்தொண்டு சங்கம் புண்யகோடி பூரிப்போடு உலவினர்`
+- [x] visual-fidelity correction: `பொதுத்தொண்டு சங்கம் புண்யகோடி...` → source `பொதுத்தொண்டு சிங்கம் புண்யகோடி...`.
 - [ ] `காதகன்`
 
 ## Scan 107 / printed 98
 - [x] `தலைவனுக` — native isolated enlargement confirms the printed source form; not modernized to `தலைவனாக`.
 - [ ] `பரம்பரைப் பக்தர்கள்`
-- [ ] `பொதுஜனத் தொண்டர்போல்தான்`
+- [x] source-bold `புண்யகோடி பொதுஜனத் தொண்டர்போல்தான் உலவுகிறார்;` — emphasis recorded.
 
 ## Boundary checks
 - [x] 104→105: `...தன் வீட்டைத் தாராள` → `மாகத் தந்த தங்கை...`.
 - [x] 105→106: `...இப்போதும் ஒன்றும் முழுகி` → `விடவில்லை; ஒரு கை...`.
 - [x] 106→107: `...கடைசியில் அந்தக் காதகன்` → `நகரசபைத் தலைவனுக வந்துவிட்டானே”...`.
-- [x] scan 107 contains the story conclusion and closing ornament.
+- [x] scan 107 contains the story ending and closing ornament.
 - [x] scan 108 independently checked as Story 13 opening `இரகசியம்!`; no Story 13 text belongs here.
 
 A later correction must be checked against the controlling scan and propagated to the page record, assembled Tamil, audit, story README and affected collection/root control files.

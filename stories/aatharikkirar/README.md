@@ -32,11 +32,17 @@ Final current Tamil assembly: [`sections/aatharikkirar.md`](sections/aatharikkir
 
 The assembly preserves all six anthology scan boundaries. Scan 108, which opens `இரகசியம்!`, is excluded.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The visual pass recorded the opening/ending structure, source-bold display spans, printer signature `க—7` as excluded page furniture, and corrected `பொதுத்தொண்டு சங்கம்` → source `பொதுத்தொண்டு சிங்கம்` after complete-span review.
+
 ## Human possible-error review
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
 
-High-value source-close readings include `பெறவிட்டாலும்`, `தமிழக மெங்கணும்`, `வியாக்யானம்`, `சிரமங்கள் ஏற்றுச் செல்வக் குவியலிலே`, `தந்த தங்கை புண்யகோடி`, `முயற்சிலே`, `பெயர்மட்டுந்தானு`, `அம்மாமி ஆட்டுக்கறியைக் களவு கொடுத்த கதையாகப்`, `இனாமாகத் தந்த இடத்துக்கு`, `புஸ்வாணமாகிவிட்டன`, `பொதுத்தொண்டு சங்கம் புண்யகோடி பூரிப்போடு உலவினர்`, and `தலைவனுக`.
+High-value source-close readings include `பெறவிட்டாலும்`, `தமிழக மெங்கணும்`, `வியாக்யானம்`, `சிரமங்கள் ஏற்றுச் செல்வக் குவியலிலே`, `தந்த தங்கை புண்யகோடி`, `முயற்சிலே`, `பெயர்மட்டுந்தானு`, `அம்மாமி ஆட்டுக்கறியைக் களவு கொடுத்த கதையாகப்`, `இனாமாகத் தந்த இடத்துக்கு`, `புஸ்வாணமாகிவிட்டன`, `பொதுத்தொண்டு சிங்கம் புண்யகோடி பூரிப்போடு உலவினர்`, and `தலைவனுக`.
 
 ## Verified physical continuations
 
@@ -49,7 +55,7 @@ Other scan boundaries occur between complete sentences or paragraphs.
 ## Story boundary
 
 - scan **102**: heading `ஆதரிக்கிறார்`, Story 12 opening confirmed;
-- scan **107**: story conclusion and ornamental closing rule;
+- scan **107**: story ending and ornamental closing rule;
 - scan **108**: heading `இரகசியம்!`, Story 13 opening confirmed;
 - Story 13 text included here: **No**.
 
@@ -59,10 +65,4 @@ English translation has **not** been started.
 
 ## Completion state
 
-**ஆதரிக்கிறார் Tamil archival source processing: COMPLETE for scans 102–107 / printed pages 93–98, with 6/6 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 13 — **இரகசியம்!**, printed pages **99–102**, anthology scans **108–111**.
-
-Do not begin Story 13 as part of the Story 12 activity.
+**ஆதரிக்கிறார் Tamil archival source processing and visual fidelity: COMPLETE for scans 102–107 / printed pages 93–98, with 6/6 verified, 0 blocked, 0 unresolved story text.**
