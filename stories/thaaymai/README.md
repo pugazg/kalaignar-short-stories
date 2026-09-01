@@ -63,14 +63,20 @@ Other scan boundaries occur between complete sentences, paragraphs or dialogue t
 
 ## Translation
 
-English translation has **not** been started.
+**PASS — English translation complete.**
+
+- English: [`translations/en/thaaymai.md`](translations/en/thaaymai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **11 / 11**
+- source-bold scan-82 warning preserved semantically: **Yes**
+- canonical Tamil changed during translation: **No**
+
+The English follows the current verified Tamil assembly, including source-supported visual-fidelity corrections and conservative handling of unresolved human-review queue forms.
 
 ## Completion state
 
-**தாய்மை Tamil archival source processing and visual-fidelity review: COMPLETE for scans 73–83 / printed pages 64–74, with 11/11 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**தாய்மை Tamil archival source processing, visual-fidelity review and English translation: COMPLETE for scans 73–83 / printed pages 64–74.**
 
-## Next anthology activity
+## Next English activity
 
 Story 10 — **தப்பிவிட்டார்கள்**, printed pages **75–82**, anthology scans **84–91**.
-
-Do not begin Story 10 as part of the Story 9 activity.
