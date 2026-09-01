@@ -7,10 +7,10 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **27 / 37**
-- pending: **10 / 37**
+- visual fidelity complete: **29 / 37**
+- pending: **8 / 37**
 - needs recheck: **0**
-- current target: **Story 28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`**
+- current target: **Story 30 — `கடைசிக் கட்டம்`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -41,8 +41,8 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS — corrected** |
 | 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS — corrected** |
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS — corrected** |
-| 28 | TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` | 185–189 | 194–198 | pending |
-| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | pending |
+| 28 | TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS — corrected** |
+| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS — corrected** |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | pending |
 | 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | pending |
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | pending |
@@ -52,17 +52,15 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
-## Latest completed activities — Stories 22–27
+## Latest completed batch — Stories 28–29
 
-- **22 `தொத்துக்கிளி`** — scans **156–160** — `PASS — corrected`; opening/ending structure synchronized; wording changed **No**.
-- **23 `காதல் கடிதம்`** — scans **161–165** — `PASS — corrected`; opening structure, two-line letter sign-off/source emphasis and closing ornament synchronized; wording changed **No**.
-- **24 `கண்ணடக்கம்`** — scans **166–172** — `PASS — corrected`; opening structure, source emphasis, printer signature `க—11` exclusion and ending synchronized; wording changed **No**.
-- **25 `வாழ முடியாதவர்கள்`** — scans **173–180** — `PASS — corrected`; opening rule, source emphasis and ending synchronized; wording changed **No**.
-- **26 `அபாக்ய சிந்தாமணி`** — scans **181–188** — `PASS — corrected`; opening structure/source-bold quotation, scan-182 display lineation, scan-185 emphasis, printer signature `க—12` exclusion and ending synchronized; wording changed **No**.
-- **27 `பாலைவன ரோஜா`** — scans **189–193** — `PASS — corrected`; opening rule, source-bold opening `நாம்` plus existing `கந்தையா`, final `story-ending` role and closing ornament synchronized; wording changed **No**.
+The user explicitly requested Stories 28 and 29 together.
 
-Scan **194** independently opens Story 28 with heading `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`).
+- **28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`** — scans **194–198** — `PASS — corrected`; title variance preserved, opening rule/enlarged initial recorded, existing publicity/display emphasis confirmed, final `story-ending` role and closing ornament synchronized; wording changed **No**.
+- **29 `திடுக்கிடும் கதை`** — scans **199–204** — `PASS — corrected`; opening rule/enlarged initial/source-note display treatment recorded, `காதல் கதை` and `வீரக்கதை` subheads confirmed, printer signature `க—13` excluded as page furniture, final `story-ending` role and closing ornament synchronized; wording changed **No**.
+
+Scan **205** independently opens Story 30 `கடைசிக் கட்டம்`.
 
 ## Next exact activity
 
-Perform the visual-fidelity check for **Story 28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`**, scans **194–198 / printed pages 185–189**. Inspect scan **199** only as the boundary witness opening Story 29 **`திடுக்கிடும் கதை`**. Do not begin Story 29 in the same activity unless the user explicitly expands the batch.
+Perform the visual-fidelity check for **Story 30 — `கடைசிக் கட்டம்`**, scans **205–210 / printed pages 196–201**. Inspect scan **211** only as the boundary witness opening Story 31 **`அய்யோ ராஜா!`**. Do not begin Story 31 in the same activity unless the user explicitly expands the batch.
