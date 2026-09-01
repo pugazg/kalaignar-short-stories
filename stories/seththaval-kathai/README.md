@@ -32,6 +32,12 @@ Final current Tamil assembly: [`sections/seththaval-kathai.md`](sections/seththa
 
 The assembly preserves all nine anthology scan boundaries. Scan 140, which opens `பிரேத விசாரணை`, is excluded.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The opening fire stanza, scan-136 fire stanza, final fire stanza, source-emphasized title phrase, `story-ending` role and closing ornament are represented. **Story wording changed: No.**
+
 ## Human possible-error review
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic, colloquial or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
@@ -44,7 +50,7 @@ High-value source-close readings include `முன்னயிட்ட` / `ப
 - printed 126→127 / scans 135→136: `...வார்த்தையின் ஒவ்வொரு எழுத்தும்` → `நடுங்கின.`
 - printed 129→130 / scans 138→139: `...என் நெஞ்சிலே உன்னைப் ‘போட்டோ’ படமாக்கி` → `வச்சிருந்தேன்! எல்லாத்தையும்...`
 
-The 131→132, 132→133, 133→134, 136→137 and 137→138 boundaries were also directly checked; no story page is omitted or duplicated.
+The other internal boundaries were also directly checked; no story page is omitted or duplicated.
 
 ## Story boundary
 
@@ -53,16 +59,18 @@ The 131→132, 132→133, 133→134, 136→137 and 137→138 boundaries were als
 - scan **140**: heading `பிரேத விசாரணை`, Story 19 opening confirmed;
 - Story 19 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/seththaval-kathai.md`](translations/en/seththaval-kathai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **9 / 9** source-page markers represented
+- physical continuations **134→135**, **135→136**, and **138→139** remain traceable
+- all three fire-refrain displays retain their separate source lineation
+- coercive assault, later confrontation, killing, cremation, and final `மங்களம்` remain in source order without added editorial material
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**செத்தவள் கதை Tamil archival source processing: COMPLETE for scans 131–139 / printed pages 122–130, with 9/9 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 19 — **பிரேத விசாரணை**, printed pages **131–136**, anthology scans **140–145**.
-
-Do not begin Story 19 as part of the Story 18 activity.
+**செத்தவள் கதை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 131–139 / printed pages 122–130.**
