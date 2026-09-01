@@ -45,59 +45,66 @@ The 1977 anthology Tamil source pass is complete: **37 / 37 stories**, scans **1
 
 ## Visual-fidelity phase state
 
-- complete: **29 / 37**
-- pending: **8 / 37**
+- complete: **32 / 37**
+- pending: **5 / 37**
 - needs recheck: **0**
-- current target: **Story 30 — `கடைசிக் கட்டம்`**
+- current target: **Story 33 — `வேணியின் காதலன்`**
 
-Stories **1–29** are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
+Stories **1–32** are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
 
-## Latest completed batch — Stories 28–29
+## Latest completed batch — Stories 30–32
 
-The user explicitly requested these two stories together.
+The user explicitly requested these three stories together.
 
-### Story 28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`
-- workspace: `stories/puratchip-padam/`
-- scans **194–198 / printed 185–189**
-- boundary witness: scan **199**, opening `திடுக்கிடும் கதை`
-- TOC/opening title variance preserved exactly
-- scan 194 opening rule and enlarged/heavier `டை` recorded
-- scan 196 bold publicity slogans and scan 197 source-bold display text confirmed as already represented
-- scan 198 synchronized to `story-ending` and closing ornament recorded
+### Story 30 — `கடைசிக் கட்டம்`
+- workspace: `stories/kadaisi-kattam/`
+- scans **205–210 / printed 196–201**
+- boundary witness: scan **211**, opening `அய்யோ ராஜா!`
+- scan 205 opening rule recorded; existing source-bold `டாக்டர் பாபு` retained
+- scan 206 existing source-bold `மஞ்சுளாவை` retained
+- scan 209 two-line கோகிலா letter sign-off display treatment recorded
+- scan 210 synchronized to `story-ending` and closing ornament recorded
 - story wording changed: **No — structure/visual annotation only**
 
-### Story 29 — `திடுக்கிடும் கதை`
-- workspace: `stories/thidukkidum-kathai/`
-- scans **199–204 / printed 190–195**
-- boundary witness: scan **205**, opening `கடைசிக் கட்டம்`
-- scan 199 opening rule, enlarged/heavier `நி`, and standalone source-note display treatment recorded
-- centered subsection headings `காதல் கதை` and `வீரக்கதை` confirmed
-- scan 202 printer signature `க—13` excluded as page furniture
-- scan 204 synchronized to `story-ending` and closing ornament recorded
-- all internal joins and boundary witness directly checked
+### Story 31 — `அய்யோ ராஜா!`
+- workspace: `stories/ayyo-raja/`
+- scans **211–217 / printed 202–208**
+- boundary witness: scan **218**, opening `விஷம் இனிது`
+- scan 211 opening rule and enlarged/heavier `செ` in `சென்னை` recorded
+- prior old-Tamil-glyph correction `என்றாள் முத்தம்மா` retained exactly
+- scan 217 already correctly `story-ending`; closing ornament retained
 - story wording changed: **No — structure/visual annotation only**
 
-## NEXT EXACT ACTIVITY — STORY 30 ONLY
+### Story 32 — `விஷம் இனிது`
+- workspace: `stories/visham-inidhu/`
+- scans **218–224 / printed 209–215**
+- boundary witness: scan **225**, opening `வேணியின் காதலன்`
+- scan 218 opening rule and enlarged/heavier `ஜெ` recorded; printer signature `க—14` excluded as page furniture
+- scan 221 two-line அமிர்தராணி letter sign-off treatment recorded; existing source-bold `அமிர்த ராணி` retained
+- scan 224 existing source-bold `ஆண்டவனை விட ஆலஹாலம் இனிது`, `story-ending`, and closing ornament retained
+- story wording changed: **No — structure/visual annotation only**
 
-Story 30 — **`கடைசிக் கட்டம்`**:
+## NEXT EXACT ACTIVITY — STORY 33 ONLY
 
-- canonical workspace: `stories/kadaisi-kattam/`
-- printed pages: **196–201**
-- anthology scans: **205–210**
-- boundary witness: scan **211**, opening Story 31 **`அய்யோ ராஜா!`**
+Story 33 — **`வேணியின் காதலன்`**:
+
+- canonical workspace: `stories/veniyin-kadhalan/`
+- printed pages: **216–221**
+- anthology scans: **225–230**
+- boundary witness: scan **231**, opening Story 34 **`அமிர்தமதி`**
 
 When the user says “Proceed with next activity”:
 1. fetch live `main` first;
-2. inspect scans **205–210** directly from the controlling PDF;
+2. inspect scans **225–230** directly from the controlling PDF;
 3. compare all six pages with page records and Tamil assembly;
 4. check opening/ending roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and every physical join;
-5. inspect scan **211** only as the boundary witness;
+5. inspect scan **231** only as the boundary witness;
 6. apply only source-supported corrections/annotations and propagate any actual wording correction through all affected layers;
-7. create/update `stories/kadaisi-kattam/visual-fidelity.md` and controls;
+7. create/update `stories/veniyin-kadhalan/visual-fidelity.md` and controls;
 8. re-fetch live `main` and changed controls before declaring closure;
-9. do **not** begin Story 31 unless the user explicitly expands the batch.
+9. do **not** begin Story 34 unless the user explicitly expands the batch.
 
-Expected after Story 30: **30 / 37 complete, 7 pending**.
+Expected after Story 33: **33 / 37 complete, 4 pending**.
 
 ## Phase guard
 
