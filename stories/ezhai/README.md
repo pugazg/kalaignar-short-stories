@@ -29,6 +29,18 @@ Opening rule/enlarged `வ`, final `story-ending` role and closing ornament are 
 
 Scan 115 opens this story; scan 118 ends it; scan 119 independently opens `ஒரிஜினலில் உள்ளபடி` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/ezhai.md`](translations/en/ezhai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **4 / 4** source-page markers represented
+- physical continuations **115→116**, **116→117** and **117→118** remain traceable
+- source-anomalous `பார்வதிக்கு பானு நனைந்து விடுவாளே என்று பயந்தான்.` translated by narrative sense without changing Tamil
+- final `யார் அது? “ஏழை”!` reveal preserved
+- canonical Tamil changed during translation: **No**
+
+## Completion state
+
+**ஏழை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 115–118 / printed pages 106–109.**
