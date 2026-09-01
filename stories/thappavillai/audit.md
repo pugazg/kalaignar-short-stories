@@ -10,58 +10,56 @@
 
 ## Source-review method
 
-All ten story scans were directly reviewed from the supplied controlling PDF. Native/high-resolution page images and enlarged full-span crops were used for difficult Tamil, punctuation and physical page joins. OCR was navigation assistance only. No contextual modernization or inferred correction was substituted for visible source text.
+All ten story scans were directly reviewed from the supplied controlling PDF. Native/high-resolution images and complete-span crops were used for Tamil, punctuation, paragraph/display structure and joins. Visual fidelity reopened the complete source sentence when a punctuation mismatch was detected.
 
 ## Page disposition
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
-| 83 | 92 | verified | story opening `தப்பவில்லை`; ends `என்ன என்று` |
-| 84 | 93 | verified | completes scan 92; ends `மணமகளாகத்` |
-| 85 | 94 | verified | completes scan 93; source-close `கண்கள் நன்றாகத் துடைத்துக்கொண்டு` retained |
-| 86 | 95 | verified | ends `அவள் பெயர்` |
-| 87 | 96 | verified | completes scan 95; social-description passage source-reviewed |
+| 83 | 92 | verified | opening rule and enlarged `க`; ends `என்ன என்று` |
+| 84 | 93 | verified | completes scan 92; enlarged `வீ`; ends `மணமகளாகத்` |
+| 85 | 94 | verified | completes scan 93; source-close forms retained |
+| 86 | 95 | verified | `இரவு—பகல்` corrected from source; ends `அவள் பெயர்` |
+| 87 | 96 | verified | completes scan 95 |
 | 88 | 97 | verified | prison acquaintance / release passage |
 | 89 | 98 | verified | conviction and appeal discussion |
-| 90 | 99 | verified | appeal support; physical line-join `சம்பாதிச்` + `சுருக்கேன்` resolved |
-| 91 | 100 | verified | appeal dream and transfer to condemned-prisoner enclosure |
-| 92 | 101 | verified | final dialogue, concluding sentence and closing ornament |
+| 90 | 99 | verified | appeal support; line-join `சம்பாதிச்` + `சுருக்கேன்` remains resolved |
+| 91 | 100 | verified | source-bold `நாட்கள் ஓடின...` represented |
+| 92 | 101 | verified | `story-ending` and closing ornament |
 
 Totals: **10/10 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
+
+## Visual-fidelity correction log
+
+1. scan **95**: committed `இரவு-பகல்` was rechecked across the complete opening sentence; the controlling scan prints a long dash, so it is corrected to `இரவு—பகல்` in the page record and assembly.
+2. scan **92**: opening rule and enlarged `க` recorded.
+3. scan **93**: enlarged `வீ` recorded.
+4. scan **100**: source-bold `நாட்கள் ஓடின...` represented semantically.
+5. scan **101**: `story-conclusion` → `story-ending`; closing ornament recorded.
+
+No modernization or surrounding wording change was made.
 
 ## Cross-page audit
 
 **PASS**
 
-Explicit physical continuations:
+1. scans **92→93**: `...என்ன என்று` → `மனக்கோட்டை கட்ட...`.
+2. scans **93→94**: `...மணமகளாகத்` → `தேர்ந்தெடுக்கிறார்கள்.`
+3. scans **95→96**: `...அவள் பெயர்` → `தங்கமில்லாவிட்டாலும்,...`.
 
-1. printed 83→84 / scans 92→93: `...என்ன என்று` → `மனக்கோட்டை கட்ட...`.
-2. printed 84→85 / scans 93→94: `...மணமகளாகத்` → `தேர்ந்தெடுக்கிறார்கள்.`
-3. printed 86→87 / scans 95→96: `...அவள் பெயர்` → `தங்கமில்லாவிட்டாலும்,...`.
-
-Other page boundaries fall between complete sentences, paragraphs or dialogue turns. The scan 100→101 boundary changes from the officer's complete quoted statement to Muthu's response and therefore contains no lost continuation.
+Other boundaries are complete source sentences, paragraphs or dialogue turns. Scan 100→101 changes between complete dialogue turns.
 
 ## Story-boundary audit
 
-- scan 92 / printed 83 opens `தப்பவில்லை`.
-- scan 101 / printed 92 contains the conclusion and ornamental closing rule.
-- scan 102 visibly opens **`ஆதரிக்கிறார்`**.
+- scan 92 opens `தப்பவில்லை` beneath its own heading/rule.
+- scan 101 is the story ending with closing ornament.
+- scan 102 opens **`ஆதரிக்கிறார்`**.
 - Story 12 text included: **No**.
 
 ## Difficult-reading / human-review layer
 
-Unusual but legible readings are retained in `POSSIBLE_ERRORS_FOR_REVIEW.md`; queue status is not proof of error. High-value complete-span rechecks include scan 94 `கண்கள் நன்றாகத் துடைத்துக்கொண்டு`, scan 99 `சம்பாதிச்சுருக்கேன்` reconstructed only across the physical line break visible in the controlling source, scan 100 `தூக்குமேடைக் கைதிகள் அடைத்துப் போடும்`, and scan 101 `“நிரபராதிகள் தண்டிக்கப்படமாட்டார்கள்!” ... கேலி செய்தபடியே இருந்தது.`
-
-## Assembly gate
-
-- scans represented: **10 / 10**
-- scan order: **92 → 101**
-- printed order: **83 → 92**
-- duplicated pages: **none**
-- omitted pages: **none**
-- Story 12 included: **No**
-- unresolved story markers: **0**
+Unusual but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; queue status is not proof of error.
 
 ## Audit result
 
-**PASS — தப்பவில்லை source range is fully transcribed and structurally source-complete for the current reading: 10/10 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — தப்பவில்லை is fully source-synchronized after visual-fidelity review: 10/10 verified, 0 blocked, 0 unresolved story text.**

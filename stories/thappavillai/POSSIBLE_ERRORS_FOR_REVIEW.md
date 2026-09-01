@@ -7,7 +7,7 @@
 ## Review notation
 
 - `[ ]` human review pending
-- `[x]` source rechecked; current reading confirmed
+- `[x]` source rechecked; current reading confirmed or source-supported correction applied
 - `[~]` correction required
 
 ## Scan 92 / printed 83
@@ -37,6 +37,7 @@
 - [ ] `உத்திரவு`
 
 ## Scan 95 / printed 86
+- [x] visual-fidelity correction: `இரவு-பகல்` → source `இரவு—பகல்` after complete opening-sentence recheck.
 - [ ] `வேறுபடுத்திவிட்ட`
 - [ ] `தங்கமாச்சே—வைரமாச்சே`
 - [ ] `உத்தண்டிக் கோனாரின்`
@@ -102,7 +103,7 @@
 - [x] 92→93: `...என்ன என்று` → `மனக்கோட்டை கட்ட...`.
 - [x] 93→94: `...மணமகளாகத்` → `தேர்ந்தெடுக்கிறார்கள்.`
 - [x] 95→96: `...அவள் பெயர்` → `தங்கமில்லாவிட்டாலும்,...`.
-- [x] scan 101 contains the story conclusion and closing ornament.
+- [x] scan 101 contains the story ending and closing ornament.
 - [x] scan 102 independently checked as Story 12 opening `ஆதரிக்கிறார்`; no Story 12 text belongs here.
 
 A later correction must be checked against the controlling scan and propagated to the page record, assembled Tamil, audit, story README and affected collection/root control files.

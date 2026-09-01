@@ -32,6 +32,12 @@ Final current Tamil assembly: [`sections/thappavillai.md`](sections/thappavillai
 
 The assembly preserves all ten anthology scan boundaries. Scan 102, which opens `ஆதரிக்கிறார்`, is excluded.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The visual pass recorded the opening/ending structure, enlarged source initials, the source-bold `நாட்கள் ஓடின...`, and corrected scan 95 punctuation `இரவு-பகல்` → source `இரவு—பகல்` after a complete-sentence source recheck.
+
 ## Human possible-error review
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic, colloquial or enhancement-sensitive source forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
@@ -49,7 +55,7 @@ Other scan boundaries occur between complete sentences, paragraphs or dialogue t
 ## Story boundary
 
 - scan **92**: heading `தப்பவில்லை`, Story 11 opening confirmed;
-- scan **101**: story conclusion and ornamental closing rule;
+- scan **101**: story ending and ornamental closing rule;
 - scan **102**: heading `ஆதரிக்கிறார்`, Story 12 opening confirmed;
 - Story 12 text included here: **No**.
 
@@ -59,10 +65,4 @@ English translation has **not** been started.
 
 ## Completion state
 
-**தப்பவில்லை Tamil archival source processing: COMPLETE for scans 92–101 / printed pages 83–92, with 10/10 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 12 — **ஆதரிக்கிறார்**, printed pages **93–98**, anthology scans **102–107**.
-
-Do not begin Story 12 as part of the Story 11 activity.
+**தப்பவில்லை Tamil archival source processing and visual fidelity: COMPLETE for scans 92–101 / printed pages 83–92, with 10/10 verified, 0 blocked, 0 unresolved story text.**
