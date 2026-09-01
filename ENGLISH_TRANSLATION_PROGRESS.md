@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **30 / 37**
-- pending: **7 / 37**
+- English translation complete: **34 / 37**
+- pending: **3 / 37**
 - needs review: **0**
-- current target: **Story 31 — `அய்யோ ராஜா!`**
+- current target: **Story 35 — `சுமந்தவள்`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -46,84 +46,63 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 28 | TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | pending |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | pending |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | pending |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | pending |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | pending |
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
 ## Completed English translations
 
-1. `புகழேந்தி` — `stories/pugazhendhi/translations/en/pugazhendhi.md` — **PASS**
-2. `நளாயினி` — `stories/nalayini/translations/en/nalayini.md` — **PASS**
-3. `சபலம்` — `stories/sabalam/translations/en/sabalam.md` — **PASS**
-4. `ஆட்டக்காவடி` — `stories/aattakkavadi/translations/en/aattakkavadi.md` — **PASS**
-5. `குப்பைத்தொட்டி` — `stories/kuppai-thotti/translations/en/kuppai-thotti.md` — **PASS**
-6. `சந்தனக்கிண்ணம்` — `stories/santhana-kinnam/translations/en/santhana-kinnam.md` — **PASS**
-7. `சங்கிலிச்சாமி` — `stories/sangilichami/translations/en/sangilichami.md` — **PASS**
-8. `கங்கையின் காதல்` — `stories/gangaiyin-kadhal/translations/en/gangaiyin-kadhal.md` — **PASS**
-9. `தாய்மை` — `stories/thaaymai/translations/en/thaaymai.md` — **PASS**
-10. `தப்பிவிட்டார்கள்` — `stories/thappivittargal/translations/en/thappivittargal.md` — **PASS**
-11. `தப்பவில்லை` — `stories/thappavillai/translations/en/thappavillai.md` — **PASS**
-12. `ஆதரிக்கிறார்` — `stories/aatharikkirar/translations/en/aatharikkirar.md` — **PASS**
-13. `இரகசியம்!` — `stories/iragasiyam/translations/en/iragasiyam.md` — **PASS**
-14. `முந்நூறு ரூபாய்` — `stories/munnuru-rupai/translations/en/munnuru-rupai.md` — **PASS**
-15. `ஏழை` — `stories/ezhai/translations/en/ezhai.md` — **PASS**
-16. `ஒரிஜினலில் உள்ளபடி` — `stories/originalil-ullapadi/translations/en/originalil-ullapadi.md` — **PASS**
-17. `பனங்குலை` — `stories/panangulai/translations/en/panangulai.md` — **PASS**
-18. `செத்தவள் கதை` — `stories/seththaval-kathai/translations/en/seththaval-kathai.md` — **PASS**
-19. `பிரேத விசாரணை` — `stories/pretha-visaranai/translations/en/pretha-visaranai.md` — **PASS**
-20. `கண்டதும் காதல் ஒழிக!` — `stories/kandathum-kadhal-ozhiga/translations/en/kandathum-kadhal-ozhiga.md` — **PASS**
-21. `ஆலமரத்துப் புறாக்கள்` — `stories/aalamarathup-puraakkal/translations/en/aalamarathup-puraakkal.md` — **PASS**
-22. `தொத்துக்கிளி` — `stories/thothukkili/translations/en/thothukkili.md` — **PASS**
-23. `காதல் கடிதம்` — `stories/kadhal-kaditham/translations/en/kadhal-kaditham.md` — **PASS**
-24. `கண்ணடக்கம்` — `stories/kannadakkam/translations/en/kannadakkam.md` — **PASS**
-25. `வாழ முடியாதவர்கள்` — `stories/vazha-mudiyathavargal/translations/en/vazha-mudiyathavargal.md` — **PASS**
-26. `அபாக்ய சிந்தாமணி` — `stories/abagya-chinthamani/translations/en/abagya-chinthamani.md` — **PASS**
-27. `பாலைவன ரோஜா` — `stories/palaivana-roja/translations/en/palaivana-roja.md` — **PASS**
-28. TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` — `stories/puratchip-padam/translations/en/puratchip-padam.md` — **PASS**
-29. `திடுக்கிடும் கதை` — `stories/thidukkidum-kathai/translations/en/thidukkidum-kathai.md` — **PASS**
-30. `கடைசிக் கட்டம்` — `stories/kadaisi-kattam/translations/en/kadaisi-kattam.md` — **PASS**
+Stories **1–34** are **PASS**. Each completed story has a complete `translations/en/<slug>.md` and story-local `TRANSLATION_REVIEW.md`, with source-page markers and source-significant structure retained.
 
-### Story 27 — `பாலைவன ரோஜா`
-- scans **189–193 / printed 180–184**
-- all five source-page markers represented: **Yes**
-- physical continuations 191→192 and 192→193 represented traceably: **Yes**
-- source-bold opening, college/future frame, clerk reversal, constitutional quotation and desert-rose conclusion preserved: **Yes**
+Latest completed batch:
+
+31. `அய்யோ ராஜா!` — `stories/ayyo-raja/translations/en/ayyo-raja.md` — **PASS**
+32. `விஷம் இனிது` — `stories/visham-inidhu/translations/en/visham-inidhu.md` — **PASS**
+33. `வேணியின் காதலன்` — `stories/veniyin-kadhalan/translations/en/veniyin-kadhalan.md` — **PASS**
+34. `அமிர்தமதி` — `stories/amirthamathi/translations/en/amirthamathi.md` — **PASS**
+
+### Story 31 — `அய்யோ ராஜா!`
+- scans **211–217 / printed 202–208**
+- all seven source-page markers represented: **Yes**
+- physical continuations 212→213, 214→215 and 215→216 represented traceably: **Yes**
+- Kodambakkam railway-gate frame, Muthamma/Raja survival context, rickshaw journey, Nepal-king roadblock and final doctor scene preserved: **Yes**
+- corrected old-glyph source reading `என்றாள் முத்தம்மா` respected: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`
-- scans **194–198 / printed 185–189**
-- all five source-page markers represented: **Yes**
-- physical continuations 194→195, 195→196, 196→197 and 197→198 represented traceably: **Yes**
-- TOC/opening title variance and source-bold publicity/display text preserved: **Yes**
-- final two-censor-cut punchline preserved: **Yes**
+### Story 32 — `விஷம் இனிது`
+- scans **218–224 / printed 209–215**
+- all seven source-page markers represented: **Yes**
+- all six internal joins represented traceably: **Yes**
+- Amirtharani letter/sign-off and final source emphasis preserved: **Yes**
+- temple/diamond plan, accusation, poison test, Arthol death and final `ஆலஹாலம்` contrast preserved: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 29 — `திடுக்கிடும் கதை`
-- scans **199–204 / printed 190–195**
+### Story 33 — `வேணியின் காதலன்`
+- scans **225–230 / printed 216–221**
 - all six source-page markers represented: **Yes**
-- source note and `காதல் கதை` / `வீரக்கதை` subsection structure preserved: **Yes**
-- physical continuations through the Pyramus–Thisbe and heroic-story sections represented traceably: **Yes**
-- final staircase/key punchline preserved: **Yes**
+- open speech 226→227, exact split 227→228 and 229→230 join represented traceably: **Yes**
+- corrected `கூண்டுக் கிளி ஆக்குவேனென்றான்` retained: **Yes**
+- Veni/Kandan/Gundappan account, Surya’s past and moral conflict, and final trolley scene preserved: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 30 — `கடைசிக் கட்டம்`
-- scans **205–210 / printed 196–201**
-- all six source-page markers represented: **Yes**
-- physical continuations 205→206, 207→208, 208→209 and 209→210 represented traceably: **Yes**
-- Kokila letter/sign-off and source emphasis preserved: **Yes**
-- courtroom-confession to stage-company reveal remains complete: **Yes**
+### Story 34 — `அமிர்தமதி`
+- scans **231–238 / printed 222–229**
+- all eight source-page markers represented: **Yes**
+- exact joins 234→235 and 236→237 represented traceably: **Yes**
+- literary-theft frame, `சுகம் எங்கே?` / `யசோதர காவியம்` embedded narrative and scan-236 quoted description preserved: **Yes**
+- alleged thieves remain unnamed as in source: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 31 — `அய்யோ ராஜா!`**, canonical workspace `stories/ayyo-raja/`, scans **211–217 / printed pages 202–208**. Scan **218** is the physical boundary witness opening Story 32 `விஷம் இனிது`.
+Translate and review **Story 35 — `சுமந்தவள்`**, canonical workspace `stories/sumanthaval/`, scans **239–249 / printed pages 230–240**. Scan **250** is the physical boundary witness opening Story 36, whose TOC title is `சித்தார்த்தன்` and story-opening heading is `சித்தார்த்தன் சிலை`.
 
-Do not begin Story 32 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 36 in the same activity unless the user explicitly expands the batch.
