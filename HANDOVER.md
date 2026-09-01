@@ -45,14 +45,14 @@ The 1977 anthology Tamil source pass is complete: **37 / 37 stories**, scans **1
 
 ## Visual-fidelity phase state
 
-- complete: **26 / 37**
-- pending: **11 / 37**
+- complete: **27 / 37**
+- pending: **10 / 37**
 - needs recheck: **0**
-- current target: **Story 27 — `பாலைவன ரோஜா`**
+- current target: **Story 28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`**
 
-Stories **1–26** are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
+Stories **1–27** are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
 
-## Recently completed — Stories 22–26
+## Recently completed — Stories 22–27
 
 ### Story 22 — `தொத்துக்கிளி`
 - workspace: `stories/thothukkili/`
@@ -87,34 +87,40 @@ Stories **1–26** are closed with `PASS — corrected` and story-local `visual-
 - workspace: `stories/abagya-chinthamani/`
 - scans **181–188 / printed 172–179**
 - boundary witness: scan **189**, opening `பாலைவன ரோஜா`
-- scan 181 opening rule/enlarged `அ` and source-bold quoted characterization represented
-- scan 182 two song/verse blocks kept as display lineation; source emphasis on `எங்கள் ஒளவைப் பாட்டிதான்` represented
-- scan 185 source emphasis `நாயைக் குளிப்பாட்டி நடுவுள்ளே வைத்தால்...` represented
-- scan 186 printer signature `க—12` excluded as page furniture
-- scan 188 `story-ending` and closing ornament synchronized
+- opening rule/enlarged `அ`, source-bold quotation, display lineation/emphasis, printer signature `க—12` exclusion and final ending/ornament synchronized
+- story wording changed: **No**
+
+### Story 27 — `பாலைவன ரோஜா`
+- workspace: `stories/palaivana-roja/`
+- scans **189–193 / printed 180–184**
+- boundary witness: scan **194**, opening Story 28 `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`)
+- scan 189 opening rule recorded; source-bold opening `நாம்` represented; existing source-bold `கந்தையா` retained
+- scan 193 synchronized to `story-ending` and closing ornament recorded
+- all four internal joins and scan-194 boundary directly checked
 - story wording changed: **No — structure/emphasis only**
 
-## NEXT EXACT ACTIVITY — STORY 27 ONLY
+## NEXT EXACT ACTIVITY — STORY 28 ONLY
 
-Story 27 — **`பாலைவன ரோஜா`**:
+Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**:
 
-- canonical workspace: `stories/palaivana-roja/`
-- printed pages: **180–184**
-- anthology scans: **189–193**
-- boundary witness: scan **194**, opening Story 28 — TOC `புரட்சிப்படம்`, opening heading `புரட்சிப் படம்`
+- canonical workspace: `stories/puratchip-padam/`
+- printed pages: **185–189**
+- anthology scans: **194–198**
+- boundary witness: scan **199**, opening Story 29 **`திடுக்கிடும் கதை`**
 
 When the user says “Proceed with next activity”:
 1. fetch live `main` first;
-2. inspect scans **189–193** directly from the controlling PDF;
+2. inspect scans **194–198** directly from the controlling PDF;
 3. compare all five pages with page records and Tamil assembly;
-4. check opening/ending roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and every physical join;
-5. inspect scan **194** only as the boundary witness;
-6. apply only source-supported corrections/annotations and propagate any actual wording correction through all affected layers;
-7. create/update `stories/palaivana-roja/visual-fidelity.md` and controls;
-8. re-fetch live `main` and changed controls before declaring closure;
-9. do **not** begin Story 28 unless the user explicitly expands the batch.
+4. preserve the TOC/opening-title variance rather than normalizing it;
+5. check opening/ending roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and every physical join;
+6. inspect scan **199** only as the boundary witness;
+7. apply only source-supported corrections/annotations and propagate any actual wording correction through all affected layers;
+8. create/update `stories/puratchip-padam/visual-fidelity.md` and controls;
+9. re-fetch live `main` and changed controls before declaring closure;
+10. do **not** begin Story 29 unless the user explicitly expands the batch.
 
-Expected after Story 27: **27 / 37 complete, 10 pending**.
+Expected after Story 28: **28 / 37 complete, 9 pending**.
 
 ## Phase guard
 
