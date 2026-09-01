@@ -61,18 +61,18 @@ Representative high-value rechecks include:
 4. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
 5. printed 20→21: the station/child exchange continues into the concluding page.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete and reviewed.**
 
-The Tamil source audit is complete for the current reading. Before future translation, first review any user-supplied corrections against the source and resynchronize the Tamil assembly if necessary.
+- English: [`translations/en/sabalam.md`](translations/en/sabalam.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **7 / 7**
+- possible-error queue read and respected: **Yes**
+- Tamil source changed during translation: **No**
+
+The title is retained as **Sabalam** rather than being reduced to one interpretive English equivalent. Unusual source forms such as `கையுங்களவுமாகப்`, `அந்தப் பசலை`, `கன்னக் கதுப்பை`, and `மைனர்` are handled conservatively and documented in the translation review.
 
 ## Completion state
 
-**சபலம் Tamil archival source processing: COMPLETE for scans 24–30 / printed pages 15–21, with persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 4 — **ஆட்டக்காவடி**, printed pages **22–29**, anthology scans **31–38**.
-
-Do not begin Story 4 until the collection inventory, collection README, root README and root `HANDOVER.md` have been synchronized to this completed state.
+**சபலம் Tamil archival source processing + English translation: COMPLETE for scans 24–30 / printed pages 15–21, with persistent human recheck queue.**
