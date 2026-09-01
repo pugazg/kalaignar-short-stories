@@ -3,7 +3,7 @@ scan_page: 180
 printed_page: 171
 story: "vazha-mudiyathavargal"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -16,4 +16,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 காலையில் ஒன்பது மணியிருக்கும்; காந்தா கன்னத்தில் கைவைத்துக்கொண்டு வாயிற்படியில் சாய்ந்திருந்தாள். ‘திலோத்தமா’ சினிமாப் பட விளம்பர வண்டி தெருவில் போய்க்கொண்டிருந்தது.
 
+<!-- source closing ornament: centered short rule with diamond/dot flourish -->
 <!-- மூல ஸ்கேன் பக்கம்: 180; அச்சுப் பக்கம்: 171 -->
