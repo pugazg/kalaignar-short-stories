@@ -7,8 +7,14 @@
 | 3 | 227 | 218 | verified | completes வேணியின் plea; கந்தன் / குண்டப்பன் background; ends physical split `நான் தொத்தி விளையாண்ட` |
 | 4 | 228 | 219 | verified | begins `தோள்கள்.....`; சூர்யா–கந்தன் past revealed; widowhood / nursing background |
 | 5 | 229 | 220 | verified | சூர்யாவின் jealousy and moral struggle; she resolves to help; வேணி asks about கந்தன் |
-| 6 | 230 | 221 | verified | கந்தன்'s death revealed; சூர்யா and வேணி collapse; closing ornament |
+| 6 | 230 | 221 | verified | கந்தன்'s death revealed; சூர்யா and வேணி collapse; story ending and closing ornament |
 
 Totals: **6 / 6 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
 Physical next-story boundary witness: scan **231 / printed page 222** visibly opens Story 34 **`அமிர்தமதி`** and is not included in this workspace.
+
+## Visual fidelity
+
+- result: **PASS**
+- story-local record: [`../visual-fidelity.md`](../visual-fidelity.md)
+- wording changed during visual-fidelity closure: **No**
