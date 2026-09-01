@@ -39,10 +39,10 @@ All 37 stories have story-local `visual-fidelity.md` records with result `PASS` 
 The user explicitly authorized the English translation phase.
 
 - total anthology stories: **37**
-- complete: **0 / 37**
-- in progress: **Story 1 — `புகழேந்தி`**
-- pending after Story 1: **36**
+- complete: **1 / 37**
+- pending: **36 / 37**
 - needs review: **0**
+- next target: **Story 2 — `நளாயினி`**
 
 English is a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
 
@@ -54,7 +54,7 @@ Before translating each story:
 4. follow the current verified Tamil reading exactly; suspicious queue items are not silent corrections;
 5. if translation exposes a likely Tamil issue, reopen it against the controlling scan under the Tamil guide before changing any layer.
 
-## CURRENT ACTIVITY — STORY 1
+## COMPLETED ENGLISH ACTIVITY — STORY 1
 
 Story 1 — **`புகழேந்தி`**:
 
@@ -64,23 +64,39 @@ Story 1 — **`புகழேந்தி`**:
 - boundary witness: scan **16**, opening Story 2 **`நளாயினி`**
 - Tamil audit: **PASS — 6 / 6 verified**
 - visual fidelity: **PASS — corrected**
-- English target: `stories/pugazhendhi/translations/en/pugazhendhi.md`
+- English file: `stories/pugazhendhi/translations/en/pugazhendhi.md`
 - translation review: `stories/pugazhendhi/TRANSLATION_REVIEW.md`
+- all six source-page markers represented in English: **Yes**
+- possible-error queue read and respected: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
 
-The story's possible-error queue contains unusual source forms such as `பாராட்டுப் படித்தது`, `அவனோர் பிடேல்டோ!`, `புகழ்தரும் தீவலி`, `தத்தரூபமாகச்`, `வயித்துக்கிடக்கிறது`, `காதற் கண்கள்`, `கால்ப் பணிவிடைகள்` and others. Translate the **current verified Tamil** conservatively; do not infer an outside identity or silently normalize those source readings.
+Conservative translation choices preserve the current verified Tamil reading. In particular, the unusual source form `பிடேல்டோ` is transliterated rather than externally identified, `மேதை` is rendered as **Genius** while retaining the `மே` + `தை` wordplay, and other queued forms are documented in the translation review instead of silently normalizing the Tamil.
 
-Process **one story per activity** unless the user explicitly expands the translation batch.
+## NEXT ACTIVITY — STORY 2
 
-## Expected closure after Story 1
+Story 2 — **`நளாயினி`**:
 
-After `புகழேந்தி` translation/review is complete:
+- canonical workspace: `stories/nalayini/`
+- printed pages: **7–14**
+- anthology scans: **16–23**
+- boundary witness: scan **24**, opening Story 3 **`சபலம்`**
+- Tamil audit: **PASS — 8 / 8 verified**
+- English target: `stories/nalayini/translations/en/nalayini.md`
+- translation review target: `stories/nalayini/TRANSLATION_REVIEW.md`
 
-- English translation complete: **1 / 37**
-- pending: **36 / 37**
-- next target: Story 2 — **`நளாயினி`**
-- Story 2 printed pages: **7–14**
-- Story 2 scans: **16–23**
-- Story 2 boundary witness: scan **24**, opening Story 3 **`சபலம்`**
+Process **one story per activity** unless the user explicitly expands the translation batch. Read Story 2's current possible-error queue and visual-fidelity record before translating; do not infer corrections from English expectations.
+
+## Expected closure after Story 2
+
+After `நளாயினி` translation/review is complete:
+
+- English translation complete: **2 / 37**
+- pending: **35 / 37**
+- next target: Story 3 — **`சபலம்`**
+- Story 3 printed pages: **15–21**
+- Story 3 scans: **24–30**
+- Story 3 boundary witness: scan **31**, opening Story 4 **`ஆட்டக்காவடி`**
 
 Update the story README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, this handover and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring closure.
 
