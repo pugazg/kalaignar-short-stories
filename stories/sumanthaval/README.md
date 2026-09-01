@@ -25,13 +25,25 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/sumanthaval.md`](sections/sumanthaval.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+- visual fidelity: **PASS**
 
 ## Source-sensitive verification
 
 Direct/full-span review resolved older-glyph spans including `அடுக்களை`, `கர்ப்பவதி`, and `கர்ப்பமாயிருக்கிறாளே`. Source-close forms retained include `களித்துப்போய்`, `குழறல்`, `கனிமரமென`, `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `உளறினன்`, `தயங்கினன்`, `‘பெட்காபி’`, `யெளவனத்தின்`, `அலறினள்`, and `எமை விட்டு எச்சில் இலையே!`. These are preserved from the controlling scan rather than silently normalized.
 
 Physical page joins were explicitly checked, including `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`, `...அந்தக் குழந்தை அளித்த வேதனையால்` → `ஏற்கனவே...`, and `“ஆராரோ” பாடுவதும்` → `பிணிக்கு மருந்து தருவதும்...`.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/sumanthaval.md`](translations/en/sumanthaval.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **11 / 11** source-page markers retained
+- exact joins **243→244**, **244→245**, and **247→248** remain traceable
+- narrator/mother frame, embedded Maragatham–Soundari story, motherhood/beauty conflict, armed confrontation and diagnosis ending remain complete
+- difficult queue forms handled conservatively without source normalization
+- canonical Tamil changed during translation: **No**
 
 ## Story boundary
 
@@ -43,10 +55,4 @@ Physical page joins were explicitly checked, including `செளந்தரி
 
 ## Completion state
 
-**சுமந்தவள் Tamil archival source processing: COMPLETE for scans 239–249 / printed pages 230–240, with 11/11 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 36 — TOC **`சித்தார்த்தன்`**, story-opening heading **`சித்தார்த்தன் சிலை`**, printed pages **241–243**, anthology scans **250–252**. Before Story 36 closure, inspect scan **253** and confirm it begins Story 37 **`நுனிக்கரும்பு`**.
-
-Do not begin Story 36 as part of the Story 35 activity.
+**சுமந்தவள் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 239–249 / printed pages 230–240.**
