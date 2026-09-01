@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **8 / 37**
-- pending: **29 / 37**
+- English translation complete: **10 / 37**
+- pending: **27 / 37**
 - needs review: **0**
-- current target: **Story 9 — `தாய்மை`**
+- current target: **Story 11 — `தப்பவில்லை`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -24,8 +24,8 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** |
-| 9 | `தாய்மை` | 64–74 | 73–83 | pending |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | pending |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | pending |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | pending |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | pending |
@@ -56,55 +56,35 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 
 ## Completed English translations
 
-### Story 1 — `புகழேந்தி`
-- English: `stories/pugazhendhi/translations/en/pugazhendhi.md`
-- review: `stories/pugazhendhi/TRANSLATION_REVIEW.md`
-- result: **PASS**
+1. `புகழேந்தி` — `stories/pugazhendhi/translations/en/pugazhendhi.md` — **PASS**
+2. `நளாயினி` — `stories/nalayini/translations/en/nalayini.md` — **PASS**
+3. `சபலம்` — `stories/sabalam/translations/en/sabalam.md` — **PASS**
+4. `ஆட்டக்காவடி` — `stories/aattakkavadi/translations/en/aattakkavadi.md` — **PASS**
+5. `குப்பைத்தொட்டி` — `stories/kuppai-thotti/translations/en/kuppai-thotti.md` — **PASS**
+6. `சந்தனக்கிண்ணம்` — `stories/santhana-kinnam/translations/en/santhana-kinnam.md` — **PASS**
+7. `சங்கிலிச்சாமி` — `stories/sangilichami/translations/en/sangilichami.md` — **PASS**
+8. `கங்கையின் காதல்` — `stories/gangaiyin-kadhal/translations/en/gangaiyin-kadhal.md` — **PASS**
+9. `தாய்மை` — `stories/thaaymai/translations/en/thaaymai.md` — **PASS**
+10. `தப்பிவிட்டார்கள்` — `stories/thappivittargal/translations/en/thappivittargal.md` — **PASS**
 
-### Story 2 — `நளாயினி`
-- English: `stories/nalayini/translations/en/nalayini.md`
-- review: `stories/nalayini/TRANSLATION_REVIEW.md`
-- result: **PASS**
-
-### Story 3 — `சபலம்`
-- English: `stories/sabalam/translations/en/sabalam.md`
-- review: `stories/sabalam/TRANSLATION_REVIEW.md`
-- result: **PASS**
-
-### Story 4 — `ஆட்டக்காவடி`
-- English: `stories/aattakkavadi/translations/en/aattakkavadi.md`
-- review: `stories/aattakkavadi/TRANSLATION_REVIEW.md`
-- result: **PASS**
-
-### Story 5 — `குப்பைத்தொட்டி`
-- English: `stories/kuppai-thotti/translations/en/kuppai-thotti.md`
-- review: `stories/kuppai-thotti/TRANSLATION_REVIEW.md`
-- result: **PASS**
-
-### Story 6 — `சந்தனக்கிண்ணம்`
-- English: `stories/santhana-kinnam/translations/en/santhana-kinnam.md`
-- review: `stories/santhana-kinnam/TRANSLATION_REVIEW.md`
-- result: **PASS**
-
-### Story 7 — `சங்கிலிச்சாமி`
-- English: `stories/sangilichami/translations/en/sangilichami.md`
-- review: `stories/sangilichami/TRANSLATION_REVIEW.md`
-- scans **57–68 / printed 48–59**
-- opening chants, devotee petitions and false-letter/sign-off structure preserved: **Yes**
+### Story 9 — `தாய்மை`
+- scans **73–83 / printed 64–74**
+- all eleven source-page markers represented: **Yes**
+- source-bold scan-82 warning line preserved semantically: **Yes**
+- visual-fidelity-restored Tamil spans translated from the current canonical assembly: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 8 — `கங்கையின் காதல்`
-- English: `stories/gangaiyin-kadhal/translations/en/gangaiyin-kadhal.md`
-- review: `stories/gangaiyin-kadhal/TRANSLATION_REVIEW.md`
-- scans **69–72 / printed 60–63**
-- physical joins 69→70 and 71→72 represented traceably: **Yes**
-- unusual verified source forms retained conservatively: **Yes**
+### Story 10 — `தப்பிவிட்டார்கள்`
+- scans **84–91 / printed 75–82**
+- all eight source-page markers represented: **Yes**
+- physical joins 84→85, 86→87 and 90→91 represented traceably: **Yes**
+- assault, escape and final social-critique sequence preserved without omission: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 9 — `தாய்மை`**, canonical workspace `stories/thaaymai/`, scans **73–83 / printed pages 64–74**. Scan **84** is the physical boundary witness opening Story 10 `தப்பிவிட்டார்கள்`.
+Translate and review **Story 11 — `தப்பவில்லை`**, canonical workspace `stories/thappavillai/`, scans **92–101 / printed pages 83–92**. Scan **102** is the physical boundary witness opening Story 12 `ஆதரிக்கிறார்`.
 
-Do not begin Story 10 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 12 in the same activity unless the user explicitly expands the batch.
