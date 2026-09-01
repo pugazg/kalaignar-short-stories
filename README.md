@@ -39,10 +39,10 @@ Permanent guides:
 | [`இரகசியம்!`](stories/iragasiyam/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஏழை`](stories/ezhai/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`பனங்குலை`](stories/panangulai/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **9 / 9 pages verified; 0 blocks; manual recheck queue open** | not started |
-| [`பிரேத விசாரணை`](stories/pretha-visaranai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | not started |
+| [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`பனங்குலை`](stories/panangulai/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **9 / 9 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`பிரேத விசாரணை`](stories/pretha-visaranai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`கண்டதும் காதல் ஒழிக!`](stories/kandathum-kadhal-ozhiga/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`ஆலமரத்துப் புறாக்கள்`](stories/aalamarathup-puraakkal/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
 | [`தொத்துக்கிளி`](stories/thothukkili/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | not started |
@@ -86,8 +86,8 @@ Source registration state:
 - story-opening scan checks: **37 / 37 complete**
 - Tamil source processing complete from anthology: **37 / 37**
 - anthology stories not yet transcribed: **0 / 37**
-- English translation complete from anthology: **15 / 37**
-- English translation pending: **22 / 37**
+- English translation complete from anthology: **19 / 37**
+- English translation pending: **18 / 37**
 
 Exact source metadata, inventory and scan map are under the collection workspace.
 
@@ -131,7 +131,7 @@ Exact source metadata, inventory and scan map are under the collection workspace
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Stories 1–15 are PASS**, with Stories **16–37 pending**.
+All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies and persistent human-review queues. The English translation phase is active; **Stories 1–19 are PASS**, with Stories **20–37 pending**.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -160,12 +160,12 @@ The Tamil source pass for the 1977 anthology is closed through scan **259 / prin
 
 ## Anthology English translation status
 
-**ACTIVE — 15 / 37 complete; 22 pending; 0 needs review.**
+**ACTIVE — 19 / 37 complete; 18 pending; 0 needs review.**
 
-- Stories **1–15**: **PASS**
-- latest completed batch: `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`
-- next target: Story 16 — `ஒரிஜினலில் உள்ளபடி`, scans **119–125 / printed pages 110–116**
-- boundary witness: scan **126**, opening `பனங்குலை`
+- Stories **1–19**: **PASS**
+- latest completed batch: `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`
+- next target: Story 20 — `கண்டதும் காதல் ஒழிக!`, scans **146–150 / printed pages 137–141**
+- boundary witness: scan **151**, opening `ஆலமரத்துப் புறாக்கள்`
 - translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
 - tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
