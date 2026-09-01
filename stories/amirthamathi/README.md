@@ -25,13 +25,25 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/amirthamathi.md`](sections/amirthamathi.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+- visual fidelity: **PASS**
 
 ## Source-sensitive forms retained
 
 Direct/full-span review retained edition-specific or unusual forms including `தாங்க முடியவில்ல`, `பிள்ளையில்ல பென்கிறார்கள்`, `அதுவுமில்ல`, `பேசுகிறேன்பென்று`, `வராத்து வந்துவிடவில்ல`, `சொன்னுய்`, `குதர்களால்`, `எதாவது`, `படித்த தில்ல`, `படித்ததில்ல?`, `வித்தியாச மில்ல`, `ஆண்மேல் அம்பாரியா?`, `பூண் ரோமத்தால் மிதியடியா?`, `பலவாறுக`, `அண்ணத்து மகிழத்தான்`, `நாளொருமேனியாக`, `அட்டபங்கன்`, `விலா விலே`, `சொன்னுயே`, and `பென்று`. These are preserved from the controlling scan, not silently normalized.
 
 The quoted verse on scan 236 was retained source-close after enlarged full-span review, and the physical page joins `ஓடி, ஆடிப்பாடி` → `அரசனை அழைத்து வருவர்.` and `தீர்த்துக்கட்டி` → `விட்டாள்` were explicitly verified.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/amirthamathi.md`](translations/en/amirthamathi.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **8 / 8** source-page markers retained
+- exact joins **234→235** and **236→237** remain traceable
+- literary-theft frame, `சுகம் எங்கே?` / `யசோதர காவியம்` embedded narrative, scan-236 quoted description, and final consolation remain complete
+- source-sensitive forms and withheld identity of the alleged thieves preserved conservatively
+- canonical Tamil changed during translation: **No**
 
 ## Story boundary
 
@@ -42,10 +54,4 @@ The quoted verse on scan 236 was retained source-close after enlarged full-span 
 
 ## Completion state
 
-**அமிர்தமதி Tamil archival source processing: COMPLETE for scans 231–238 / printed pages 222–229, with 8/8 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 35 — **சுமந்தவள்**, printed pages **230–240**, anthology scans **239–249**. Before Story 35 closure, inspect scan **250** and confirm it begins Story 36, whose TOC title is `சித்தார்த்தன்` and story-opening heading is `சித்தார்த்தன் சிலை`.
-
-Do not begin Story 35 as part of the Story 34 activity.
+**அமிர்தமதி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 231–238 / printed pages 222–229.**
