@@ -25,11 +25,23 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/visham-inidhu.md`](sections/visham-inidhu.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+- visual fidelity: **PASS — corrected**
 
 ## Source-sensitive forms retained
 
 Direct/native review retained edition-specific or unusual forms including `தீக்குளித்த திலகங்களைப்`, `அப்படி யெல்லாம்`, `அன்பழைப்பு`, `புலி யொன்றினால்`, `வரிப்பளுவைத்`, `சாகசக்காரியா?`, `கண்டெடுக்கிறேன்`, `அர்த்த ராத்திரியிலும்`, `சுக மடைய`, `கோயில்கொள்ளப்போகிறான்`, `காஞ்சரங் கனியே`, `பேசுகிறாய்க்கும்?`, `பாஷாணம்`, `என் அண்ணை`, `தகாப் போக்குடையோன்`, `அவதூறிலிருந்துகாப்பாற்றுகிறாய்`, and the final `ஆண்டவனை விட ஆலஹாலம் இனிது`. These are preserved from the controlling scan, not silently normalized.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/visham-inidhu.md`](translations/en/visham-inidhu.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **7 / 7** source-page markers retained
+- all six internal physical joins remain traceable
+- Amirtharani’s letter/sign-off and final source emphasis preserved
+- temple/diamond plan, suspicion, poison test, Arthol’s death and final `ஆலஹாலம்` contrast remain complete
+- canonical Tamil changed during translation: **No**
 
 ## Story boundary
 
@@ -40,10 +52,4 @@ Direct/native review retained edition-specific or unusual forms including `த�
 
 ## Completion state
 
-**விஷம் இனிது Tamil archival source processing: COMPLETE for scans 218–224 / printed pages 209–215, with 7/7 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 33 — **வேணியின் காதலன்**, printed pages **216–221**, anthology scans **225–230**. Before Story 33 closure, inspect scan **231** and confirm it begins Story 34 `அமிர்தமதி`.
-
-Do not begin Story 33 as part of the Story 32 activity.
+**விஷம் இனிது Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 218–224 / printed pages 209–215.**
