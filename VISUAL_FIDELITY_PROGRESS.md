@@ -7,10 +7,10 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **29 / 37**
-- pending: **8 / 37**
+- visual fidelity complete: **32 / 37**
+- pending: **5 / 37**
 - needs recheck: **0**
-- current target: **Story 30 — `கடைசிக் கட்டம்`**
+- current target: **Story 33 — `வேணியின் காதலன்`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -43,24 +43,25 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS — corrected** |
 | 28 | TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS — corrected** |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS — corrected** |
-| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | pending |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | pending |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | pending |
+| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS — corrected** |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS — corrected** |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS — corrected** |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | pending |
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | pending |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | pending |
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
-## Latest completed batch — Stories 28–29
+## Latest completed batch — Stories 30–32
 
-The user explicitly requested Stories 28 and 29 together.
+The user explicitly requested Stories 30, 31 and 32 together.
 
-- **28 — TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்`** — scans **194–198** — `PASS — corrected`; title variance preserved, opening rule/enlarged initial recorded, existing publicity/display emphasis confirmed, final `story-ending` role and closing ornament synchronized; wording changed **No**.
-- **29 `திடுக்கிடும் கதை`** — scans **199–204** — `PASS — corrected`; opening rule/enlarged initial/source-note display treatment recorded, `காதல் கதை` and `வீரக்கதை` subheads confirmed, printer signature `க—13` excluded as page furniture, final `story-ending` role and closing ornament synchronized; wording changed **No**.
+- **30 `கடைசிக் கட்டம்`** — scans **205–210** — `PASS — corrected`; opening rule recorded, existing source-bold `டாக்டர் பாபு` and `மஞ்சுளாவை` retained, scan-209 two-line letter sign-off treatment recorded, final page synchronized to `story-ending` with closing ornament; wording changed **No**.
+- **31 `அய்யோ ராஜா!`** — scans **211–217** — `PASS — corrected`; opening rule and enlarged/heavier `செ` recorded, previous old-glyph correction `என்றாள் முத்தம்மா` retained, final `story-ending` and closing ornament confirmed; wording changed **No**.
+- **32 `விஷம் இனிது`** — scans **218–224** — `PASS — corrected`; opening rule and enlarged/heavier `ஜெ` recorded, printer signature `க—14` excluded as page furniture, scan-221 letter sign-off/source-bold `அமிர்த ராணி` confirmed, final source-bold `ஆண்டவனை விட ஆலஹாலம் இனிது`, `story-ending`, and closing ornament retained; wording changed **No**.
 
-Scan **205** independently opens Story 30 `கடைசிக் கட்டம்`.
+Scan **225** independently opens Story 33 `வேணியின் காதலன்`.
 
 ## Next exact activity
 
-Perform the visual-fidelity check for **Story 30 — `கடைசிக் கட்டம்`**, scans **205–210 / printed pages 196–201**. Inspect scan **211** only as the boundary witness opening Story 31 **`அய்யோ ராஜா!`**. Do not begin Story 31 in the same activity unless the user explicitly expands the batch.
+Perform the visual-fidelity check for **Story 33 — `வேணியின் காதலன்`**, scans **225–230 / printed pages 216–221**. Inspect scan **231** only as the boundary witness opening Story 34 **`அமிர்தமதி`**. Do not begin Story 34 in the same activity unless the user explicitly expands the batch.
