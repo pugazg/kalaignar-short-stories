@@ -53,13 +53,23 @@ High-value source-close readings include `ஜாக்கையை`, `படை 
 - Story 28 TOC title: `புரட்சிப்படம்`;
 - Story 28 text included here: **No**.
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+- scan 189 opening rule recorded;
+- source-bold opening `நாம்` represented; existing source-bold `கந்தையா` retained;
+- scan 193 synchronized to `story-ending` and its closing ornament recorded;
+- Tamil assembly/page map/audit synchronized;
+- story wording changed: **No — structure/emphasis only**.
+
 ## Translation
 
 English translation has **not** been started.
 
 ## Completion state
 
-**பாலைவன ரோஜா Tamil archival source processing: COMPLETE for scans 189–193 / printed pages 180–184, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**பாலைவன ரோஜா Tamil archival source processing and visual fidelity are COMPLETE for scans 189–193 / printed pages 180–184, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
 
 ## Next anthology activity
 
