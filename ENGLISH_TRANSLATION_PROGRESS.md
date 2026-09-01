@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **23 / 37**
-- pending: **14 / 37**
+- English translation complete: **26 / 37**
+- pending: **11 / 37**
 - needs review: **0**
-- current target: **Story 24 — `கண்ணடக்கம்`**
+- current target: **Story 27 — `பாலைவன ரோஜா`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -39,9 +39,9 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** |
 | 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** |
 | 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | pending |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | pending |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | pending |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** |
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | pending |
 | 28 | TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` | 185–189 | 194–198 | pending |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | pending |
@@ -79,42 +79,39 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 21. `ஆலமரத்துப் புறாக்கள்` — `stories/aalamarathup-puraakkal/translations/en/aalamarathup-puraakkal.md` — **PASS**
 22. `தொத்துக்கிளி` — `stories/thothukkili/translations/en/thothukkili.md` — **PASS**
 23. `காதல் கடிதம்` — `stories/kadhal-kaditham/translations/en/kadhal-kaditham.md` — **PASS**
+24. `கண்ணடக்கம்` — `stories/kannadakkam/translations/en/kannadakkam.md` — **PASS**
+25. `வாழ முடியாதவர்கள்` — `stories/vazha-mudiyathavargal/translations/en/vazha-mudiyathavargal.md` — **PASS**
+26. `அபாக்ய சிந்தாமணி` — `stories/abagya-chinthamani/translations/en/abagya-chinthamani.md` — **PASS**
 
-### Story 20 — `கண்டதும் காதல் ஒழிக!`
-- scans **146–150 / printed 137–141**
-- all five source-page markers represented: **Yes**
-- physical continuations 148→149 and 149→150 represented traceably: **Yes**
-- source-bold Sita quotation and `ராமாயணம்`, theatre riot/fire sequence and final `‘டோபா’`-wig reveal preserved: **Yes**
+### Story 24 — `கண்ணடக்கம்`
+- scans **166–172 / printed 157–163**
+- all seven source-page markers represented: **Yes**
+- physical continuation 169→170 represented traceably: **Yes**
+- epidemic/cremation opening, Kali dialogue, `கண்ணடக்கம்` explanation, public-health response and final eye-hospital frame remain complete: **Yes**
+- difficult `துணி ஏண்`, `பிணக்கொலு`, and `நம்முலகு செல்லும்` handled conservatively: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 21 — `ஆலமரத்துப் புறாக்கள்`
-- scans **151–155 / printed 142–146**
-- all five source-page markers represented: **Yes**
-- physical continuations 151→152 and 152→153 represented traceably: **Yes**
-- repeated `புறு` / compound labels, source-bold `இது வல்லூறின் மரம்` and final `வல்லூறை விரட்டுவதுதான்!` handled conservatively: **Yes**
+### Story 25 — `வாழ முடியாதவர்கள்`
+- scans **173–180 / printed 164–171**
+- all eight source-page markers represented: **Yes**
+- physical continuations 175→176, 176→177, 177→178 and 178→179 represented traceably: **Yes**
+- source-emphasized central sentence and `“ஆண்டவன் படைப்பு”` preserved: **Yes**
+- father–daughter night sequence kept to the source’s degree of explicitness without added mechanics or omission: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 22 — `தொத்துக்கிளி`
-- scans **156–160 / printed 147–151**
-- all five source-page markers represented: **Yes**
-- physical continuations 156→157 and 158→159 represented traceably: **Yes**
-- opaque queue forms handled conservatively without Tamil repair; Vimala/Annumalai laboratory ending and final quoted admonition remain complete: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
-
-### Story 23 — `காதல் கடிதம்`
-- scans **161–165 / printed 152–156**
-- all five source-page markers represented: **Yes**
-- physical continuations 161→162, 163→164 and 164→165 represented traceably: **Yes**
-- long letter across scans 162–163 and its two-line/source-bold sign-off preserved: **Yes**
-- wartime framing, returned-letter sequence, postman revelation and final ironic line remain complete: **Yes**
+### Story 26 — `அபாக்ய சிந்தாமணி`
+- scans **181–188 / printed 172–179**
+- all eight source-page markers represented: **Yes**
+- physical continuations 182→183, 183→184, 184→185 and 187→188 represented traceably: **Yes**
+- scan-182 display blocks, source emphasis and final-audit corrected Tamil readings preserved: **Yes**
+- mother/gurukulam/love/staged-infidelity/pregnancy/stillbirth sequence remains complete: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 24 — `கண்ணடக்கம்`**, canonical workspace `stories/kannadakkam/`, scans **166–172 / printed pages 157–163**. Scan **173** is the physical boundary witness opening Story 25 `வாழ முடியாதவர்கள்`.
+Translate and review **Story 27 — `பாலைவன ரோஜா`**, canonical workspace `stories/palaivana-roja/`, scans **189–193 / printed pages 180–184**. Scan **194** is the physical boundary witness opening Story 28, whose TOC title is `புரட்சிப்படம்` and opening heading is `புரட்சிப் படம்`.
 
-Do not begin Story 25 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 28 in the same activity unless the user explicitly expands the batch.
