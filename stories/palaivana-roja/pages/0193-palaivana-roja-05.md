@@ -3,7 +3,7 @@ scan_page: 193
 printed_page: 184
 story: "palaivana-roja"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -16,4 +16,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “அழு! மாசுபடிந்த திராவிடமே அழு! கறுத்துப் போன மேகம், சோகத்தால் கனத்துப்போன உள்ளம், இவைகளுக்கு மாற்று; கண்—நீர்தான்! அந்த கண்ணீர் ஓடையில்தான் புதிய சமுதாயத்தின் விடுதலைப் படகு மிதந்திடவேண்டும்” என்று உரக்கச் சிரித்துக்கொண்டே சொன்னான் கந்தையா! சொல்லிக் கொண்டே அழுதான்! அந்த அலறலோடு வண்டி நகர்ந்தது!
 
+<!-- source closing ornament: centered short rule with diamond/dot flourish -->
 <!-- மூல ஸ்கேன் பக்கம்: 193; அச்சுப் பக்கம்: 184 -->
