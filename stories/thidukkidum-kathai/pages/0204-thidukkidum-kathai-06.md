@@ -3,7 +3,7 @@ scan_page: 204
 printed_page: 195
 story: "thidukkidum-kathai"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -20,4 +20,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 (இருவருக்கும் அது திடுக்கிடும் கதையாகத்தானே இருந்திருக்கும்.)
 
+<!-- source closing ornament: centered short decorative rule -->
 <!-- மூல ஸ்கேன் பக்கம்: 204; அச்சுப் பக்கம்: 195 -->
