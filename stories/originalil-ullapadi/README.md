@@ -29,6 +29,18 @@ The visual pass records the opening rule/enlarged `இ`, source-bold advertiseme
 
 Scan 119 opens this story; scan 125 ends it; scan 126 independently opens `பனங்குலை` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/originalil-ullapadi.md`](translations/en/originalil-ullapadi.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **7 / 7** source-page markers represented
+- physical continuations **120→121**, **121→122** and **122→123** remain traceable
+- source-bold notice/program spans and `எல்லாம் என்` preserved semantically
+- `யோகானந்த`/`போகானந்த`, `ராமநாதன்`/`காமநாதன்`, and `விபசாரம்`/`விபச்சாரம்` wordplay retained conservatively
+- canonical Tamil changed during translation: **No**
+
+## Completion state
+
+**ஒரிஜினலில் உள்ளபடி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 119–125 / printed pages 110–116.**
