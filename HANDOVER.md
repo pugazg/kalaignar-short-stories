@@ -36,13 +36,21 @@ All 37 stories have story-local `visual-fidelity.md` records with result `PASS` 
 
 ## English translation phase — ACTIVE
 
-The user explicitly authorized English translation and explicitly expanded the latest activity to Stories 9–10.
+The user explicitly authorized English translation and explicitly expanded the latest activity to Stories **11–15**:
+
+- `தப்பவில்லை`
+- `ஆதரிக்கிறார்`
+- `இரகசியம்!`
+- `முந்நூறு ரூபாய்`
+- `ஏழை`
+
+Current durable translation state:
 
 - total anthology stories: **37**
-- complete: **10 / 37**
-- pending: **27 / 37**
+- complete: **15 / 37**
+- pending: **22 / 37**
 - needs review: **0**
-- next target: **Story 11 — `தப்பவில்லை`**
+- next target: **Story 16 — `ஒரிஜினலில் உள்ளபடி`**
 
 English is a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
 
@@ -66,58 +74,97 @@ Before translating each story:
 8. `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — **PASS**
 9. `தாய்மை` — scans **73–83 / printed 64–74** — **PASS**
 10. `தப்பிவிட்டார்கள்` — scans **84–91 / printed 75–82** — **PASS**
+11. `தப்பவில்லை` — scans **92–101 / printed 83–92** — **PASS**
+12. `ஆதரிக்கிறார்` — scans **102–107 / printed 93–98** — **PASS**
+13. `இரகசியம்!` — scans **108–111 / printed 99–102** — **PASS**
+14. `முந்நூறு ரூபாய்` — scans **112–114 / printed 103–105** — **PASS**
+15. `ஏழை` — scans **115–118 / printed 106–109** — **PASS**
 
-For all ten, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
+For all fifteen, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
 
-### Latest completed Story 9 — `தாய்மை`
+### Latest completed Story 11 — `தப்பவில்லை`
 
-- workspace: `stories/thaaymai/`
-- English: `translations/en/thaaymai.md`
+- workspace: `stories/thappavillai/`
+- English: `translations/en/thappavillai.md`
 - review: `TRANSLATION_REVIEW.md`
-- all **11** source-page markers preserved
-- physical continuations **74→75**, **78→79** and **80→81** remain traceable
-- source-bold scan-82 `“நிறுத்தாதே! ஊது!! ஊது!” என்று.` is represented semantically in English
-- all Tamil spans restored during the earlier visual-fidelity reopen were translated from the current canonical assembly
-- unusual forms including `மல்லிகர்த்தவரை`, `திட்டசனயமிக்க`, `கரடித் திருமனியன்`, `மாயமாலத்தில்`, `மொண்டு மொண்டு`, `தணலிவிட்ட புழுவாயிற்று`, and `படந்தாக்கி` were handled conservatively
+- all **10** source-page markers preserved
+- physical continuations **92→93**, **93→94**, **95→96** remain traceable
+- source-bold `நாட்கள் ஓடின...` represented semantically
+- final appeal/death-row reversal preserved
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-### Latest completed Story 10 — `தப்பிவிட்டார்கள்`
+### Latest completed Story 12 — `ஆதரிக்கிறார்`
 
-- workspace: `stories/thappivittargal/`
-- English: `translations/en/thappivittargal.md`
+- workspace: `stories/aatharikkirar/`
+- English: `translations/en/aatharikkirar.md`
 - review: `TRANSLATION_REVIEW.md`
-- all **8** source-page markers preserved
-- physical continuations **84→85**, **86→87** and **90→91** remain traceable
-- public praise of Ramadurai, assault disclosure, Vittal’s retaliation/escape, and the final station sequence remain in source order
-- unusual source-close forms such as `பச்சைப் பசங்களியே`, `போக்களத்தில்`, `எச்சிற் பண்டம்`, `கொல்காரன்`, `பலங் கொண்ட மட்டும்`, `கீழ்ஸ்தாயியில்`, and short `-னள்` verb forms were not silently normalized
+- all **6** source-page markers preserved
+- source-bold `ராஜ நிலையத்தார்` and final disclosure span represented
+- physical continuations **104→105**, **105→106**, **106→107** remain traceable
+- source-supported `பொதுத்தொண்டு சிங்கம்` translated from current canonical Tamil
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-## NEXT ACTIVITY — STORY 11
+### Latest completed Story 13 — `இரகசியம்!`
 
-Story 11 — **`தப்பவில்லை`**:
+- workspace: `stories/iragasiyam/`
+- English: `translations/en/iragasiyam.md`
+- review: `TRANSLATION_REVIEW.md`
+- all **4** source-page markers preserved
+- source-bold correspondence labels, death note, `சிபாரிசுக் கடிதங்கள்`, and final two-line explanation preserved
+- physical continuation **109→110** remains within the same letter
+- result: **PASS**
+- Tamil source changed during translation: **No**
 
-- canonical workspace: `stories/thappavillai/`
-- printed pages: **83–92**
-- anthology scans: **92–101**
-- boundary witness: scan **102**, opening Story 12 **`ஆதரிக்கிறார்`**
-- Tamil audit: **PASS — 10 / 10 verified**
-- English target: `stories/thappavillai/translations/en/thappavillai.md`
-- translation review target: `stories/thappavillai/TRANSLATION_REVIEW.md`
+### Latest completed Story 14 — `முந்நூறு ரூபாய்`
+
+- workspace: `stories/munnuru-rupai/`
+- English: `translations/en/munnuru-rupai.md`
+- review: `TRANSLATION_REVIEW.md`
+- all **3** source-page markers preserved
+- both physical continuations remain traceable
+- unusual `எழுபட்டு`, `குதாகலமாய்`, `ஓடும்பிள்ளையாய்` handled conservatively
+- train-dream reversal preserved as the ending
+- result: **PASS**
+- Tamil source changed during translation: **No**
+
+### Latest completed Story 15 — `ஏழை`
+
+- workspace: `stories/ezhai/`
+- English: `translations/en/ezhai.md`
+- review: `TRANSLATION_REVIEW.md`
+- all **4** source-page markers preserved
+- physical continuations **115→116**, **116→117**, **117→118** remain traceable
+- anomalous verified `...பயந்தான்.` handled by narrative sense without modifying Tamil
+- final `யார் அது? “ஏழை”!` reveal preserved
+- result: **PASS**
+- Tamil source changed during translation: **No**
+
+## NEXT ACTIVITY — STORY 16
+
+Story 16 — **`ஒரிஜினலில் உள்ளபடி`**:
+
+- canonical workspace: `stories/originalil-ullapadi/`
+- printed pages: **110–116**
+- anthology scans: **119–125**
+- boundary witness: scan **126**, opening Story 17 **`பனங்குலை`**
+- Tamil audit: **PASS — 7 / 7 verified**
+- English target: `stories/originalil-ullapadi/translations/en/originalil-ullapadi.md`
+- translation review target: `stories/originalil-ullapadi/TRANSLATION_REVIEW.md`
 
 Process **one story per activity** unless the user explicitly expands the translation batch.
 
-## Expected closure after Story 11
+## Expected closure after Story 16
 
-After `தப்பவில்லை` translation/review is complete:
+After `ஒரிஜினலில் உள்ளபடி` translation/review is complete:
 
-- English translation complete: **11 / 37**
-- pending: **26 / 37**
-- next target: Story 12 — **`ஆதரிக்கிறார்`**
-- Story 12 printed pages: **93–98**
-- Story 12 scans: **102–107**
-- Story 12 boundary witness: scan **108**, opening Story 13 **`இரகசியம்!`**
+- English translation complete: **16 / 37**
+- pending: **21 / 37**
+- next target: Story 17 — **`பனங்குலை`**
+- Story 17 printed pages: **117–121**
+- Story 17 scans: **126–130**
+- Story 17 boundary witness: scan **131**, opening Story 18 **`செத்தவள் கதை`**
 
 Update the story README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, this handover and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring closure.
 
