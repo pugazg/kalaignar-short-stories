@@ -24,7 +24,8 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - explicit missing / unresolved story text: **0**
 
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+Audit: [`audit.md`](audit.md).  
+Visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS — corrected**.
 
 ## Reading layer
 
@@ -76,16 +77,23 @@ Pages 38→39 and 43→44 end with complete sentences and start new paragraphs o
 - scan **57**: heading `சங்கிலிச்சாமி`, Story 7 opening confirmed;
 - Story 7 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English file: [`translations/en/santhana-kinnam.md`](translations/en/santhana-kinnam.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **10 / 10**
+- scans 48–50 long poem preserved as one continuous display: **Yes**
+- scan-51 seven-line Vijayā gift inscription preserved: **Yes**
+- source emphasis on `மார்பு காட்டி!` preserved semantically: **Yes**
+- possible-error queue read and respected: **Yes**
+- Tamil source changed during translation: **No**
 
 ## Completion state
 
-**சந்தனக்கிண்ணம் Tamil archival source processing: COMPLETE for scans 47–56 / printed pages 38–47, with 10/10 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**சந்தனக்கிண்ணம் Tamil archival source processing and English translation: COMPLETE for scans 47–56 / printed pages 38–47.**
 
-## Next anthology activity
+## Next anthology English activity
 
-Story 7 — **சங்கிலிச்சாமி**, printed pages **48–59**, anthology scans **57–68**.
-
-Do not begin Story 7 as part of the Story 6 activity.
+Story 7 — **சங்கிலிச்சாமி**, printed pages **48–59**, anthology scans **57–68**. Scan **69** is the physical boundary witness opening Story 8 **கங்கையின் காதல்**.
