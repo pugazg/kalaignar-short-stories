@@ -7,10 +7,10 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **32 / 37**
-- pending: **5 / 37**
+- visual fidelity complete: **37 / 37**
+- pending: **0 / 37**
 - needs recheck: **0**
-- current target: **Story 33 — `வேணியின் காதலன்`**
+- current target: **none — visual-fidelity phase complete**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -46,22 +46,24 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS — corrected** |
 | 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS — corrected** |
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS — corrected** |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | pending |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | pending |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | pending |
-| 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** |
+| 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** |
 
-## Latest completed batch — Stories 30–32
+## Final completed batch — Stories 33–37
 
-The user explicitly requested Stories 30, 31 and 32 together.
+The user explicitly expanded the final activity to all remaining stories.
 
-- **30 `கடைசிக் கட்டம்`** — scans **205–210** — `PASS — corrected`; opening rule recorded, existing source-bold `டாக்டர் பாபு` and `மஞ்சுளாவை` retained, scan-209 two-line letter sign-off treatment recorded, final page synchronized to `story-ending` with closing ornament; wording changed **No**.
-- **31 `அய்யோ ராஜா!`** — scans **211–217** — `PASS — corrected`; opening rule and enlarged/heavier `செ` recorded, previous old-glyph correction `என்றாள் முத்தம்மா` retained, final `story-ending` and closing ornament confirmed; wording changed **No**.
-- **32 `விஷம் இனிது`** — scans **218–224** — `PASS — corrected`; opening rule and enlarged/heavier `ஜெ` recorded, printer signature `க—14` excluded as page furniture, scan-221 letter sign-off/source-bold `அமிர்த ராணி` confirmed, final source-bold `ஆண்டவனை விட ஆலஹாலம் இனிது`, `story-ending`, and closing ornament retained; wording changed **No**.
+- **33 `வேணியின் காதலன்`** — scans **225–230** — `PASS`; all six scans and scan-231 boundary witness reconciled with the source-grounded audit; previous source-corrected `கூண்டுக் கிளி ஆக்குவேனென்றான்` retained; final `story-ending` role and ornament already correct; wording changed **No**.
+- **34 `அமிர்தமதி`** — scans **231–238** — `PASS`; eight scans and scan-239 boundary witness reconciled; quoted descriptive material and physical joins preserved; final `story-ending` role and ornament already correct; wording changed **No**.
+- **35 `சுமந்தவள்`** — scans **239–249** — `PASS`; eleven scans and scan-250 boundary witness reconciled; paragraph/dialogue structure and source-close forms retained; final `story-ending` role and ornament already correct; wording changed **No**.
+- **36 TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`** — scans **250–252** — `PASS`; title variance preserved exactly; three scans and scan-253 boundary witness reconciled; final ending/ornament already correct; wording changed **No**.
+- **37 `நுனிக்கரும்பு`** — scans **253–259** — `PASS`; opening Bharathidasan verse lineation, source-sensitive wording and all joins retained; previous source-corrected `இவனத் தெரியுமா?` preserved; scan **260** confirmed as anthology back cover outside story text; wording changed **No**.
 
-Scan **225** independently opens Story 33 `வேணியின் காதலன்`.
+## Phase closure
 
-## Next exact activity
+The visual-fidelity phase is **complete: 37 / 37 stories**, with **0 pending**, **0 in progress**, and **0 needs recheck**. Every story has a story-local `visual-fidelity.md` with result `PASS` or `PASS — corrected`.
 
-Perform the visual-fidelity check for **Story 33 — `வேணியின் காதலன்`**, scans **225–230 / printed pages 216–221**. Inspect scan **231** only as the boundary witness opening Story 34 **`அமிர்தமதி`**. Do not begin Story 34 in the same activity unless the user explicitly expands the batch.
+This completion does **not** authorize English translation, modernization, republication, or any other downstream phase. Begin another phase only after explicit user authorization.
