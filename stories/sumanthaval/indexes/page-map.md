@@ -12,8 +12,14 @@
 | 8 | 246 | 237 | verified | competing inner voices over motherhood; மரகதம் nurses both children |
 | 9 | 247 | 238 | verified | household inequality continues; சேகர்'s patience breaks; sick children keep மரகதம் awake; page ends physically open |
 | 10 | 248 | 239 | verified | செளந்தரி abuses மரகதம்; brothers' quarrel escalates toward guns |
-| 11 | 249 | 240 | verified | confrontation, செளந்தரி's collapse and diagnosis; closing ornament |
+| 11 | 249 | 240 | verified | confrontation, செளந்தரி's collapse and diagnosis; story ending and closing ornament |
 
 Totals: **11 / 11 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
 Physical next-story boundary witness: scan **250 / printed page 241** visibly opens Story 36 with story-opening heading **`சித்தார்த்தன் சிலை`** (TOC **`சித்தார்த்தன்`**) and is not included in this workspace.
+
+## Visual fidelity
+
+- result: **PASS**
+- story-local record: [`../visual-fidelity.md`](../visual-fidelity.md)
+- wording changed during visual-fidelity closure: **No**
