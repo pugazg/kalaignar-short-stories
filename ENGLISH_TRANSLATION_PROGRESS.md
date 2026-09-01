@@ -9,14 +9,14 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **0 / 37**
-- pending: **37 / 37**
+- English translation complete: **1 / 37**
+- pending: **36 / 37**
 - needs review: **0**
-- current target: **Story 1 — `புகழேந்தி`**
+- current target: **Story 2 — `நளாயினி`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
-| 1 | `புகழேந்தி` | 1–6 | 10–15 | in progress |
+| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** |
 | 2 | `நளாயினி` | 7–14 | 16–23 | pending |
 | 3 | `சபலம்` | 15–21 | 24–30 | pending |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | pending |
@@ -54,8 +54,20 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
-## Current activity
+## Completed English translations
 
-Translate and review **Story 1 — `புகழேந்தி`**, canonical workspace `stories/pugazhendhi/`, scans **10–15 / printed pages 1–6**. Scan **16** is the physical boundary witness opening Story 2 `நளாயினி`.
+### Story 1 — `புகழேந்தி`
 
-Do not begin Story 2 in the same activity unless the user explicitly expands the batch.
+- workspace: `stories/pugazhendhi/`
+- English file: `stories/pugazhendhi/translations/en/pugazhendhi.md`
+- review: `stories/pugazhendhi/TRANSLATION_REVIEW.md`
+- scans: **10–15 / printed pages 1–6**
+- page markers represented: **6 / 6**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+## Next activity
+
+Translate and review **Story 2 — `நளாயினி`**, canonical workspace `stories/nalayini/`, scans **16–23 / printed pages 7–14**. Scan **24** is the physical boundary witness opening Story 3 `சபலம்`.
+
+Do not begin Story 3 in the same activity unless the user explicitly expands the batch.
