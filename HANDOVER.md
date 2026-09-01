@@ -25,131 +25,90 @@ Always fetch live `main` first and preserve newer durable work.
 - Source-supported textual corrections must propagate through every affected page, assembly, audit/review and dependent English layer.
 - Do not commit the controlling PDF or generated visual-inspection artefacts.
 
-## Durable Tamil / visual milestones
+## Durable anthology milestones
 
-The 1977 anthology has:
+The 1977 anthology now has all three archival layers closed:
 
-1. **Tamil source transcription/audit complete — 37 / 37 stories**, scans **10–259 / printed pages 1–250**, with **0 blocked / 0 unresolved story text**; and
-2. **visual fidelity complete — 37 / 37 stories**, with **0 pending / 0 needs recheck**.
+1. **Tamil source transcription/audit — COMPLETE: 37 / 37 stories**, scans **10–259 / printed pages 1–250**, with **0 blocked / 0 unresolved story text**;
+2. **visual fidelity — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs recheck**; and
+3. **English translation/review — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs review**.
 
-All 37 stories have story-local `visual-fidelity.md` records with result `PASS` or `PASS — corrected`.
+All 37 stories have story-local `visual-fidelity.md`, `translations/en/<slug>.md`, and `TRANSLATION_REVIEW.md` records with final result `PASS` or `PASS — corrected` as applicable to the source layer.
 
-## English translation phase — ACTIVE
+English remains a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
 
-The user explicitly expanded the latest activity to Stories **31–34**:
+## Final English batch
 
-- `அய்யோ ராஜா!`
-- `விஷம் இனிது`
-- `வேணியின் காதலன்`
-- `அமிர்தமதி`
+The user explicitly expanded the final activity to all remaining stories:
 
-Current durable translation state:
+35. `சுமந்தவள்` — scans **239–249 / printed 230–240** — **PASS**
+36. TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` — scans **250–252 / printed 241–243** — **PASS**
+37. `நுனிக்கரும்பு` — scans **253–259 / printed 244–250** — **PASS**
 
-- total anthology stories: **37**
-- complete: **34 / 37**
-- pending: **3 / 37**
-- needs review: **0**
-- next target: **Story 35 — `சுமந்தவள்`**
+### Story 35 — `சுமந்தவள்`
 
-English is a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
+- workspace: `stories/sumanthaval/`
+- English: `translations/en/sumanthaval.md`
+- review: `TRANSLATION_REVIEW.md`
+- all **11** source-page markers preserved
+- physical continuations **243→244**, **244→245**, and **247→248** remain traceable
+- narrator/mother framing, embedded Maragatham–Soundari story, motherhood/beauty conflict, armed confrontation and diagnosis ending remain complete
+- source-sensitive forms including `களித்துப்போய்`, source pronoun `அவள் உள்ளத்தில்`, `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `‘பெட்காபி’`, and `எமை விட்டு எச்சில் இலையே!` handled conservatively
+- result: **PASS**
+- Tamil source changed during translation: **No**
 
-Before translating each story:
+### Story 36 — TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`
 
-1. fetch live `main`;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `ENGLISH_TRANSLATION_GUIDE.md`, `ENGLISH_TRANSLATION_PROGRESS.md`, this handover and `NEXT_CHAT_PROMPT.md`;
-3. read the story README, Tamil assembly, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, visual-fidelity record and page map;
-4. follow the current verified Tamil reading exactly; suspicious queue items are not silent corrections;
-5. if translation exposes a likely Tamil issue, reopen it against the controlling scan under the Tamil guide before changing any layer.
+- workspace: `stories/siddharthan-silai/`
+- English: `translations/en/siddharthan-silai.md`
+- review: `TRANSLATION_REVIEW.md`
+- all **3** source-page markers preserved
+- exact **251→252** physical mid-speech continuation remains traceable
+- TOC/opening-heading variance preserved exactly
+- idealized opening, shrine lament, apparent Buddha-statue speech, husband reveal and final critique remain complete
+- source-sensitive forms including `கெண்டை`, `இரு கிழமை`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்` handled conservatively
+- no outside doctrinal or biographical explanation inserted
+- result: **PASS**
+- Tamil source changed during translation: **No**
 
-## Completed English translations
+### Story 37 — `நுனிக்கரும்பு`
 
-Stories **1–34** are now **PASS**. For all thirty-four, the English file and story-local `TRANSLATION_REVIEW.md` are committed, source-page markers are complete, review queues were read and respected, and canonical Tamil was **not changed** merely to improve English.
-
-Latest completed batch:
-
-31. `அய்யோ ராஜா!` — scans **211–217 / printed 202–208** — **PASS**
-32. `விஷம் இனிது` — scans **218–224 / printed 209–215** — **PASS**
-33. `வேணியின் காதலன்` — scans **225–230 / printed 216–221** — **PASS**
-34. `அமிர்தமதி` — scans **231–238 / printed 222–229** — **PASS**
-
-### Latest completed Story 31 — `அய்யோ ராஜா!`
-
-- workspace: `stories/ayyo-raja/`
-- English: `translations/en/ayyo-raja.md`
+- workspace: `stories/nunikkarumbu/`
+- English: `translations/en/nunikkarumbu.md`
 - review: `TRANSLATION_REVIEW.md`
 - all **7** source-page markers preserved
-- physical continuations **212→213**, **214→215**, and **215→216** remain traceable
-- Kodambakkam railway-gate opening, Muthamma’s survival context, Raja’s illness, rickshaw journey, Nepal-king roadblock and final doctor scene remain complete
-- old-glyph correction **`என்றாள் முத்தம்மா`** respected; provisional `என்றுள்` not reintroduced
+- opening Bharathidasan quotation retained as a three-line verse block
+- exact **257→258** `உள்ளங்` → `களைக்` continuation remains traceable
+- Arulnambi’s cultural status/age-denial, Amudha fixation, phone and dinner sequence, family return and final `தாத்தா` reversal remain complete
+- opaque `நாறுவது` preserved conservatively as transliterated `naaruvathu` rather than silently converted to an assumed ordinal
+- scan **260** independently confirmed as anthology back cover and excluded from story text
 - result: **PASS**
 - Tamil source changed during translation: **No**
 
-### Latest completed Story 32 — `விஷம் இனிது`
+## Final phase state
 
-- workspace: `stories/visham-inidhu/`
-- English: `translations/en/visham-inidhu.md`
-- review: `TRANSLATION_REVIEW.md`
-- all **7** source-page markers preserved and all six joins traceable
-- Amirtharani’s letter/two-line sign-off and source emphasis preserved
-- Rama-temple/diamond plan, suspicion, poison test, Arthol’s death and final `ஆண்டவனை விட ஆலஹாலம் இனிது` contrast remain complete
-- `பாஷாணம்` / `ஆலஹாலம்` handled conservatively rather than replaced with unsupported identifications
-- result: **PASS**
-- Tamil source changed during translation: **No**
+- anthology stories: **37**
+- Tamil source complete: **37 / 37**
+- visual fidelity complete: **37 / 37**
+- English translation complete: **37 / 37**
+- English pending: **0**
+- English needs review: **0**
+- story-level unresolved source text: **0**
+- final story boundary: scan **259 / printed page 250**
+- scan **260**: verified anthology back cover
 
-### Latest completed Story 33 — `வேணியின் காதலன்`
+## Future continuation rule
 
-- workspace: `stories/veniyin-kadhalan/`
-- English: `translations/en/veniyin-kadhalan.md`
-- review: `TRANSLATION_REVIEW.md`
-- all **6** source-page markers preserved
-- open speech **226→227**, exact split **227→228**, and **229→230** join remain traceable
-- source-corrected **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** respected
-- Veni/Kandan/Gundappan history, Surya’s past, her rejected poisoning thought, nursing-ethics decision and final trolley scene remain complete
-- result: **PASS**
-- Tamil source changed during translation: **No**
+There is **no pending anthology English story**. Do not restart Story 35, 36 or 37 from an older prompt.
 
-### Latest completed Story 34 — `அமிர்தமதி`
+If future work is explicitly authorized:
 
-- workspace: `stories/amirthamathi/`
-- English: `translations/en/amirthamathi.md`
-- review: `TRANSLATION_REVIEW.md`
-- all **8** source-page markers preserved
-- exact joins **234→235** and **236→237** remain traceable
-- literary-theft frame, `சுகம் எங்கே?` / `யசோதர காவியம்` embedded narrative and scan-236 quoted description remain complete
-- unusual `குதர்களால்`, royal-luxury list, quoted verse and other source-sensitive forms handled conservatively
-- alleged literary thieves remain unnamed at the ending exactly as the source does
-- result: **PASS**
-- Tamil source changed during translation: **No**
-
-## NEXT ACTIVITY — STORY 35
-
-Story 35 — **`சுமந்தவள்`**:
-
-- canonical workspace: `stories/sumanthaval/`
-- printed pages: **230–240**
-- anthology scans: **239–249**
-- boundary witness: scan **250**, opening Story 36
-- Story 36 TOC title: **`சித்தார்த்தன்`**
-- Story 36 opening heading: **`சித்தார்த்தன் சிலை`**
-- Tamil audit: **PASS — 11 / 11 verified**
-- English target: `stories/sumanthaval/translations/en/sumanthaval.md`
-- translation review target: `stories/sumanthaval/TRANSLATION_REVIEW.md`
-
-Process **one story per activity** unless the user explicitly expands the translation batch.
-
-## Expected closure after Story 35
-
-After `சுமந்தவள்` translation/review is complete:
-
-- English translation complete: **35 / 37**
-- pending: **2 / 37**
-- next target: Story 36 — TOC **`சித்தார்த்தன்`** / opening **`சித்தார்த்தன் சிலை`**
-- Story 36 printed pages: **241–243**
-- Story 36 scans: **250–252**
-- Story 36 boundary witness: scan **253**, opening Story 37 **`நுனிக்கரும்பு`**
-
-Update the story README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, this handover and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring closure.
+1. fetch live `main` first;
+2. treat the 37/37 Tamil, visual and English closure as authoritative unless newer repository evidence says otherwise;
+3. if an English revision suggests a Tamil source problem, reopen that exact Tamil span against the controlling scan under `SHORT_STORY_PROCESSING_GUIDE.md` before changing any source or translation layer;
+4. preserve the TOC/opening-title differences `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` and `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை`;
+5. do not begin a new phase such as modernization, adaptation, republication or release packaging without explicit authorization.
 
 ## Phase guard
 
-English translation does not authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
+English translation completion does not authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
