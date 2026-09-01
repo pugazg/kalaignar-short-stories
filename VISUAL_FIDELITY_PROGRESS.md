@@ -7,10 +7,10 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **21 / 37**
-- pending: **16 / 37**
+- visual fidelity complete: **26 / 37**
+- pending: **11 / 37**
 - needs recheck: **0**
-- current target: **Story 22 — `தொத்துக்கிளி`**
+- current target: **Story 27 — `பாலைவன ரோஜா`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -35,11 +35,11 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS — corrected** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS — corrected** |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS — corrected** |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | pending |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | pending |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | pending |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | pending |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | pending |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS — corrected** |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS — corrected** |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS — corrected** |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS — corrected** |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS — corrected** |
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | pending |
 | 28 | TOC `புரட்சிப்படம்` / opening `புரட்சிப் படம்` | 185–189 | 194–198 | pending |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | pending |
@@ -52,17 +52,18 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
-## Latest completed batch — Stories 18–21
+## Latest completed activities — Stories 22–26
 
-The user explicitly requested these four stories together, overriding the default one-story activity boundary for this activity only.
+The user explicitly expanded one activity to Stories 22–25, followed by the next activity for Story 26.
 
-- **18 `செத்தவள் கதை`** — scans **131–139** — `PASS — corrected`; opening and closing rules, three fire-verse display passages, source-emphasized final title phrase and final `story-ending` role synchronized; wording changed **No**.
-- **19 `பிரேத விசாரணை`** — scans **140–145** — `PASS — corrected`; opening rule/enlarged initial and final closing ornament synchronized; wording changed **No**.
-- **20 `கண்டதும் காதல் ஒழிக!`** — scans **146–150** — `PASS — corrected`; source-bold `“அன்பே! சீதா! அருகில் வா!”` and `“ராமாயணம்”` represented, final ornament recorded, lower-margin non-story mark excluded; wording changed **No**.
-- **21 `ஆலமரத்துப் புறாக்கள்`** — scans **151–155** — `PASS — corrected`; opening rule/enlarged initial, pre-existing source-bold spans confirmed, final ornament and ending role synchronized; wording changed **No**.
+- **22 `தொத்துக்கிளி`** — scans **156–160** — `PASS — corrected`; opening/ending structure synchronized; wording changed **No**.
+- **23 `காதல் கடிதம்`** — scans **161–165** — `PASS — corrected`; opening structure, two-line letter sign-off/source emphasis and closing ornament synchronized; wording changed **No**.
+- **24 `கண்ணடக்கம்`** — scans **166–172** — `PASS — corrected`; opening structure, source emphasis, printer signature `க—11` exclusion and ending synchronized; wording changed **No**.
+- **25 `வாழ முடியாதவர்கள்`** — scans **173–180** — `PASS — corrected`; opening rule, source emphasis and ending synchronized; wording changed **No**.
+- **26 `அபாக்ய சிந்தாமணி`** — scans **181–188** — `PASS — corrected`; opening structure/source-bold quotation, scan-182 display lineation, scan-185 emphasis, printer signature `க—12` exclusion and ending synchronized; wording changed **No**.
 
-Scan **156** independently opens Story 22 `தொத்துக்கிளி`.
+Scan **189** independently opens Story 27 `பாலைவன ரோஜா`.
 
 ## Next exact activity
 
-Perform the visual-fidelity check for **Story 22 — `தொத்துக்கிளி`**, scans **156–160 / printed pages 147–151**. Inspect scan **161** only as the boundary witness opening Story 23 **`காதல் கடிதம்`**. Do not begin Story 23 in the same activity unless the user explicitly expands the batch.
+Perform the visual-fidelity check for **Story 27 — `பாலைவன ரோஜா`**, scans **189–193 / printed pages 180–184**. Inspect scan **194** only as the boundary witness opening Story 28, TOC title `புரட்சிப்படம்` / opening heading `புரட்சிப் படம்`. Do not begin Story 28 in the same activity unless the user explicitly expands the batch.

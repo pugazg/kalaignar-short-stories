@@ -22,4 +22,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 அவள் கழுத்தை நெறிக்க ஜோதி துடித்தான். அதை அந்த வாலிபன் தடுத்தான்.
 
+<!-- page furniture excluded: printer signature க—12 -->
 <!-- மூல ஸ்கேன் பக்கம்: 186; அச்சுப் பக்கம்: 177 -->

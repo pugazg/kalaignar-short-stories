@@ -10,7 +10,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 169 | 160 | story body | verified | `../pages/0169-kannadakkam-04.md` |
 | 170 | 161 | story body | verified | `../pages/0170-kannadakkam-05.md` |
 | 171 | 162 | story body | verified | `../pages/0171-kannadakkam-06.md` |
-| 172 | 163 | story conclusion | verified | `../pages/0172-kannadakkam-07.md` |
+| 172 | 163 | story ending | verified | `../pages/0172-kannadakkam-07.md` |
 
 ## Status
 
@@ -19,5 +19,8 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+- visual fidelity: **PASS — corrected**
+
+Visual-fidelity synchronization records the opening rule/enlarged initial, source emphasis on `‘கண்ணடக்கம்’`, exclusion of printer signature `க—11`, and scan-172 closing ornament/ending role. Story wording was not changed.
 
 Scan **173** begins Story 25, `வாழ முடியாதவர்கள்`, and is outside this story range.

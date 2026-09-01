@@ -12,8 +12,10 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 வீட்டுக்கு வீடு வாயிலிலே நின்று கரகரத்த குரலிலே பாடுகிறாளே; அந்தப் பாட்டு என்ன பாட்டு என்று புரிகிறதா? புரியாவிட்டால் என்னைக் கேளுங்கள் சொல்லுகிறேன்.
 
+<!-- source display: two centered/indented song-like blocks; lineation preserved -->
+
 “ஏற்பதிகழ்ச்சியென்ற
-எங்கள் ஒளவைப் பாட்டிதான்
+**எங்கள் ஒளவைப் பாட்டிதான்**
 ஐயமிட்டுண் என்றும் பாடியிருக்காளே!”
 
 “பிச்சைபுகினும் கற்கை நன்றே

@@ -3,7 +3,7 @@ scan_page: 188
 printed_page: 179
 story: "abagya-chinthamani"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -14,4 +14,5 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 துயரத்தின் சாயல், அவளது ஒவ்வொரு வார்த்தையிலும் வெளிப்பட்டது. அதோ அந்த வீட்டுக்கெதிரே பாடுகிறாள் பாருங்கள்; அந்தச் சோக கதத்தில் கூட ஏழ்மையின் பிரதி பலிப்பு இல்லையே! காதலின் தோல்விதானே எதிரொலிக்கிறது!
 
+<!-- source closing ornament: centered short rule with diamond-like marks -->
 <!-- மூல ஸ்கேன் பக்கம்: 188; அச்சுப் பக்கம்: 179 -->

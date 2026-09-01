@@ -11,7 +11,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 185 | 176 | story body | verified | `../pages/0185-abagya-chinthamani-05.md` |
 | 186 | 177 | story body | verified | `../pages/0186-abagya-chinthamani-06.md` |
 | 187 | 178 | story body | verified | `../pages/0187-abagya-chinthamani-07.md` |
-| 188 | 179 | story conclusion | verified | `../pages/0188-abagya-chinthamani-08.md` |
+| 188 | 179 | story ending | verified | `../pages/0188-abagya-chinthamani-08.md` |
 
 ## Status
 
@@ -20,5 +20,8 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+- visual fidelity: **PASS — corrected**
+
+Visual-fidelity synchronization records the scan-181 opening structure/source-bold quotation, scan-182 display lineation/emphasis, scan-185 source emphasis, scan-186 printer signature `க—12` as page furniture, and scan-188 closing ornament/ending role. Story wording was not changed.
 
 Scan **189** begins Story 27, `பாலைவன ரோஜா`, and is outside this story range.

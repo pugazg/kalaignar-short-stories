@@ -33,45 +33,46 @@ Then inspect the active story page records, Tamil assembly, audit and page map, 
 ## DURABLE MILESTONES
 
 - Tamil source processing: **37 / 37 complete**
-- visual fidelity: **21 / 37 complete**
-- pending: **16 / 37**
+- visual fidelity: **26 / 37 complete**
+- pending: **11 / 37**
 - needs recheck: **0**
 - English translation: **0 / 37 started**
 
-Stories **1–21** are closed with `PASS — corrected`.
+Stories **1–26** are closed with `PASS — corrected`.
 
-Latest batch completed by explicit user request:
-- `செத்தவள் கதை` — scans **131–139**
-- `பிரேத விசாரணை` — scans **140–145**
-- `கண்டதும் காதல் ஒழிக!` — scans **146–150**
-- `ஆலமரத்துப் புறாக்கள்` — scans **151–155**
+Recent completed work:
+- `தொத்துக்கிளி` — scans **156–160**
+- `காதல் கடிதம்` — scans **161–165**
+- `கண்ணடக்கம்` — scans **166–172**
+- `வாழ முடியாதவர்கள்` — scans **173–180**
+- `அபாக்ய சிந்தாமணி` — scans **181–188**
 
-All four were directly visually checked. Source-significant opening/ending structure, verse/display lineation and emphasis were synchronized; **no story wording changed**. Scan **156** independently opens `தொத்துக்கிளி`.
+All five were directly visually checked. Source-significant opening/ending structure, display lineation, source emphasis and printer-signature/page-furniture handling were synchronized. **No story wording changed.** Scan **189** independently opens `பாலைவன ரோஜா`.
 
-## NEXT EXACT ACTIVITY — STORY 22 ONLY
+## NEXT EXACT ACTIVITY — STORY 27 ONLY
 
-Perform the visual-fidelity check for Story 22 — **`தொத்துக்கிளி`**.
+Perform the visual-fidelity check for Story 27 — **`பாலைவன ரோஜா`**.
 
 Canonical workspace:
-`stories/thothukkili/`
+`stories/palaivana-roja/`
 
 Source coordinates:
-- printed pages **147–151**
-- anthology scans **156–160**
-- scan **161** is the boundary witness and opens Story 23 **`காதல் கடிதம்`**
+- printed pages **180–184**
+- anthology scans **189–193**
+- scan **194** is the boundary witness and opens Story 28: TOC `புரட்சிப்படம்`, opening heading `புரட்சிப் படம்`
 
 Required:
 1. fetch live `main`;
-2. inspect scans **156–160** directly;
+2. inspect scans **189–193** directly;
 3. compare every page with committed page records and Tamil assembly;
 4. check page roles, paragraph/dialogue structure, display/emphasis, non-text marks, page furniture and all physical joins;
-5. inspect scan **161** only as boundary witness;
+5. inspect scan **194** only as boundary witness;
 6. make only source-supported corrections/annotations and synchronize all affected layers;
-7. create/update `stories/thothukkili/visual-fidelity.md` and phase controls;
+7. create/update `stories/palaivana-roja/visual-fidelity.md` and phase controls;
 8. re-fetch live `main` before declaring closure;
-9. do not start Story 23 unless the user explicitly expands the batch.
+9. do not start Story 28 unless the user explicitly expands the batch.
 
-Expected result: **22 / 37 complete, 15 pending**.
+Expected result: **27 / 37 complete, 10 pending**.
 
 ## SOURCE RULES
 

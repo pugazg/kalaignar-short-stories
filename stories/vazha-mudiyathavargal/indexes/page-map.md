@@ -11,7 +11,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 177 | 168 | story body | verified | `../pages/0177-vazha-mudiyathavargal-05.md` |
 | 178 | 169 | story body | verified | `../pages/0178-vazha-mudiyathavargal-06.md` |
 | 179 | 170 | story body | verified | `../pages/0179-vazha-mudiyathavargal-07.md` |
-| 180 | 171 | story conclusion | verified | `../pages/0180-vazha-mudiyathavargal-08.md` |
+| 180 | 171 | story ending | verified | `../pages/0180-vazha-mudiyathavargal-08.md` |
 
 ## Status
 
@@ -20,5 +20,8 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+- visual fidelity: **PASS — corrected**
+
+Visual-fidelity synchronization records the scan-173 opening rule, scan-178 source emphasis on `“ஆண்டவன் படைப்பு”`, and scan-180 closing ornament/ending role. Story wording was not changed.
 
 Scan **181** begins Story 26, `அபாக்ய சிந்தாமணி`, and is outside this story range.

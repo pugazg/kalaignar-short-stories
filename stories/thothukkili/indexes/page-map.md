@@ -8,7 +8,7 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 157 | 148 | story body | verified | `../pages/0157-thothukkili-02.md` |
 | 158 | 149 | story body | verified | `../pages/0158-thothukkili-03.md` |
 | 159 | 150 | story body | verified | `../pages/0159-thothukkili-04.md` |
-| 160 | 151 | story conclusion | verified | `../pages/0160-thothukkili-05.md` |
+| 160 | 151 | story ending | verified | `../pages/0160-thothukkili-05.md` |
 
 ## Status
 
@@ -17,5 +17,8 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+- visual fidelity: **PASS — corrected**
+
+Visual-fidelity synchronization records the scan-156 opening rule/enlarged initial and scan-160 closing ornament/ending role. Story wording was not changed.
 
 Scan **161** begins Story 23, `காதல் கடிதம்`, and is outside this story range.
