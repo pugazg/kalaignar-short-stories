@@ -2,15 +2,15 @@
 
 Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 
-Tamil source-text processing is complete for **37 / 37** anthology stories. This tracker covers the separately authorized visual-fidelity phase.
+Tamil source-text processing is complete for **37 / 37** anthology stories. This tracker covers the separately authorized visual-fidelity phase defined in `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **17 / 37**
-- pending: **20 / 37**
+- visual fidelity complete: **21 / 37**
+- pending: **16 / 37**
 - needs recheck: **0**
-- current target: **Story 18 — `செத்தவள் கதை`**
+- current target: **Story 22 — `தொத்துக்கிளி`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -31,10 +31,10 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 15 | `ஏழை` | 106–109 | 115–118 | **PASS — corrected** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS — corrected** |
 | 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS — corrected** |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | pending |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | pending |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | pending |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | pending |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS — corrected** |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS — corrected** |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS — corrected** |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS — corrected** |
 | 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | pending |
 | 23 | `காதல் கடிதம்` | 152–156 | 161–165 | pending |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | pending |
@@ -52,18 +52,17 @@ Tamil source-text processing is complete for **37 / 37** anthology stories. This
 | 36 | TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | pending |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | pending |
 
-## Latest completed batch — Stories 13–17
+## Latest completed batch — Stories 18–21
 
-The user explicitly requested these five stories together, overriding the default one-story batch boundary for this activity only.
+The user explicitly requested these four stories together, overriding the default one-story activity boundary for this activity only.
 
-- **13 `இரகசியம்!`** — scans 108–111 — `PASS — corrected`; opening/closing structure and multiple source-bold spans represented; wording changed **No**.
-- **14 `முந்நூறு ரூபாய்`** — scans 112–114 — `PASS — corrected`; opening/enlarged initial and closing ornament recorded; source `குதாகலமாய்` retained; wording changed **No**.
-- **15 `ஏழை`** — scans 115–118 — `PASS — corrected`; opening/ending structure recorded; unusual `...என்று பயந்தான்.` rechecked and retained; wording changed **No**.
-- **16 `ஒரிஜினலில் உள்ளபடி`** — scans 119–125 — `PASS — corrected`; source-bold notice spans represented, `க—8` excluded, closing structure synchronized; wording changed **No**.
-- **17 `பனங்குலை`** — scans 126–130 — `PASS — corrected`; opening/ending structure synchronized; printed anomalies retained; wording changed **No**.
+- **18 `செத்தவள் கதை`** — scans **131–139** — `PASS — corrected`; opening and closing rules, three fire-verse display passages, source-emphasized final title phrase and final `story-ending` role synchronized; wording changed **No**.
+- **19 `பிரேத விசாரணை`** — scans **140–145** — `PASS — corrected`; opening rule/enlarged initial and final closing ornament synchronized; wording changed **No**.
+- **20 `கண்டதும் காதல் ஒழிக!`** — scans **146–150** — `PASS — corrected`; source-bold `“அன்பே! சீதா! அருகில் வா!”` and `“ராமாயணம்”` represented, final ornament recorded, lower-margin non-story mark excluded; wording changed **No**.
+- **21 `ஆலமரத்துப் புறாக்கள்`** — scans **151–155** — `PASS — corrected`; opening rule/enlarged initial, pre-existing source-bold spans confirmed, final ornament and ending role synchronized; wording changed **No**.
 
-Scan **131** independently opens Story 18 `செத்தவள் கதை`.
+Scan **156** independently opens Story 22 `தொத்துக்கிளி`.
 
 ## Next exact activity
 
-Perform the visual-fidelity check for **Story 18 — `செத்தவள் கதை`**, scans **131–139 / printed pages 122–130**. Inspect scan **140** only as the boundary witness opening Story 19 `பிரேத விசாரணை`. Do not begin Story 19 in the same activity unless the user explicitly changes the batch rule.
+Perform the visual-fidelity check for **Story 22 — `தொத்துக்கிளி`**, scans **156–160 / printed pages 147–151**. Inspect scan **161** only as the boundary witness opening Story 23 **`காதல் கடிதம்`**. Do not begin Story 23 in the same activity unless the user explicitly expands the batch.
