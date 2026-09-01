@@ -27,6 +27,12 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 - English translation: not started
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+Direct source review synchronized the scan-199 opening rule/enlarged initial and standalone source-note treatment, confirmed the `காதல் கதை` and `வீரக்கதை` subsection headings, classified scan-202 printer signature `க—13` as page furniture, and synchronized scan 204 to `story-ending` with its closing ornament. **Story wording changed: No.**
+
 ## Story boundary
 
 - scan **199** opens `திடுக்கிடும் கதை`;
@@ -36,10 +42,4 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Completion state
 
-**திடுக்கிடும் கதை Tamil archival source processing: COMPLETE for scans 199–204 / printed pages 190–195, with 6/6 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 30 — **கடைசிக் கட்டம்**, printed pages **196–201**, anthology scans **205–210**. Before Story 30 closure, inspect scan **211** and confirm it begins Story 31 `அய்யோ ராஜா!`.
-
-Do not begin Story 30 as part of the Story 29 activity.
+**திடுக்கிடும் கதை Tamil archival source processing and visual-fidelity review: COMPLETE for scans 199–204 / printed pages 190–195, with 6/6 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
