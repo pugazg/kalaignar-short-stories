@@ -76,62 +76,71 @@ The user explicitly authorized **visual fidelity check** after Tamil source tran
 ### Current visual-fidelity progress
 
 - total stories: **37**
-- complete: **8 / 37**
-- pending: **29 / 37**
+- complete: **9 / 37**
+- pending: **28 / 37**
 - needs recheck: **0**
-- current target: **Story 9 — `தாய்மை`**
+- current target: **Story 10 — `தப்பிவிட்டார்கள்`**
 
-Stories 1–8 are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
+Stories 1–9 are closed with `PASS — corrected` and story-local `visual-fidelity.md` records.
 
-## Story 8 — `கங்கையின் காதல்` — VISUAL FIDELITY CLOSED
+## Story 9 — `தாய்மை` — VISUAL FIDELITY CLOSED
 
-Canonical workspace: `stories/gangaiyin-kadhal/`
+Canonical workspace: `stories/thaaymai/`
 
-- printed pages: **60–63**
-- scans: **69–72**
-- boundary witness: scan **73**, opening `தாய்மை`
-- pages directly inspected: **4 / 4**, plus boundary witness
-- result: **PASS — corrected**
-- story-local record: `stories/gangaiyin-kadhal/visual-fidelity.md`
-
-Direct visual review checked opening/ending roles, paragraph/dialogue structure, page furniture and all three internal joins.
-
-Structural-only corrections/annotations:
-1. scan 69 / assembly: recorded the long horizontal rule beneath `கங்கையின் காதல்`;
-2. scan 69 / assembly: recorded the enlarged opening `கை` in `கைலாயத்தில்`;
-3. scan 69: confirmed `ஆழ்ந்த உறக்கம்—அமைதி—...` remains a separate source paragraph;
-4. scan 72: `story-conclusion` → `story-ending`;
-5. scan 72 / assembly: recorded the centered floral closing ornament;
-6. page map synchronized with the opening/ending roles and physical joins;
-7. scan 69→70 preserves `எதிர்பார்த்திருந்` → `தாள்.`;
-8. scan 71→72 preserves `...என்பொருட்டுச் சொல்` → `....என் போன்ற பெண்கள்...`;
-9. scan 73 independently opens Story 9 `தாய்மை` beneath its own heading and horizontal rule.
-
-**No story wording changed during Story 8 visual-fidelity review.** Existing verified source readings and the persistent human possible-error queue remain intact.
-
-## NEXT EXACT ACTIVITY — STORY 9 VISUAL FIDELITY ONLY
-
-Story 9 — **`தாய்மை`**:
-
-- canonical workspace: `stories/thaaymai/`
 - printed pages: **64–74**
-- anthology scans: **73–83**
-- boundary witness: scan **84**, opening Story 10 **`தப்பிவிட்டார்கள்`**
+- scans: **73–83**
+- boundary witness: scan **84**, opening `தப்பிவிட்டார்கள்`
+- pages directly inspected: **11 / 11**, plus boundary witness
+- result: **PASS — corrected**
+- story-local record: `stories/thaaymai/visual-fidelity.md`
+
+Direct visual review checked opening/ending roles, paragraph/dialogue structure, display emphasis, page furniture and all ten internal joins.
+
+Structural corrections/annotations:
+1. scan 73 / assembly: recorded the long horizontal rule beneath `தாய்மை`;
+2. scan 73 / assembly: recorded the enlarged opening `ச` in `சரசத்தாலும்`;
+3. scan 74: printer signature `க—5` explicitly classified as excluded page furniture;
+4. scan 82 / assembly: represented source-bold `“நிறுத்தாதே! ஊது!! ஊது!” என்று.`;
+5. scan 83: `story-conclusion` → `story-ending`;
+6. scan 83 / assembly: recorded the centered short ornamental closing rule with central geometric flourish;
+7. page map synchronized with roles, emphasis, furniture, corrected paragraphs and joins;
+8. scan 84 independently opens Story 10 `தப்பிவிட்டார்கள்` beneath its own heading and horizontal rule.
+
+The visual review also exposed source-supported textual omissions/misreadings. Complete source spans were reopened before correction and synchronized through page records, Tamil assembly, audit, story README and review queue. Key corrections include:
+- scan 74: `குணதிசையங்களைக்` → `குணதிசயங்களைக்`; `...சித்திக்கும் யோசனைகள் தரவும்` → `...சித்திக்கும் யோசனைகளைத் தரவும்`;
+- scan 75: `இன்னென்று கொடு` → `இன்னொன்று கொடு`;
+- scan 77: restored `படையெடுப்புக்கு ஏற்ற நேரமாகி விட்டது`, `முடிசூடியை`, `வெள்ளைக் கொடியைப்`, and omitted `மனக் கோட்டையைச் சுக்கு நூறாக்கி, நொறுங்கிப்போன`;
+- scan 79: restored `கடைசியில் அந்தக் காம்பை எறிந்து விடுவார்கள்!` and the source paragraph break;
+- scan 80: `சுமலியின்` → `சுழலியின்`; restored `—அழகே உருவெடுத்த அரசிளங்குமரன் ஆர்ப்பித்து விட்டான்`; `குழலிலே பிறந்து` → `குழலிலேயிருந்து`; `தன்னே` → `தன்னை`;
+- scan 81: restored `அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு...` and the following paragraph break;
+- scan 82: restored the omitted warning passage including source-variant `இன்ப சாகரா!` and the complete source paragraph through `ஆகி விட்டான்!`;
+- scan 83: `பார்த்துக்கொள்ளுங்கள்` → `பார்த்துக் கொள்ளுங்கள்`.
+
+**Story wording changed during Story 9 visual-fidelity review: Yes — only where directly supported by the controlling scan.** Remaining unusual-but-legible readings stay in the persistent human recheck queue.
+
+## NEXT EXACT ACTIVITY — STORY 10 VISUAL FIDELITY ONLY
+
+Story 10 — **`தப்பிவிட்டார்கள்`**:
+
+- canonical workspace: `stories/thappivittargal/`
+- printed pages: **75–82**
+- anthology scans: **84–91**
+- boundary witness: scan **92**, opening Story 11 **`தப்பவில்லை`**
 
 When the user says **“Proceed with next activity”**:
 
 1. fetch live `main` first and preserve newer work;
-2. inspect scans **73–83** directly from the controlling PDF;
-3. compare all eleven pages against `stories/thaaymai/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
-4. inspect scan **84** only as the next-story boundary witness;
+2. inspect scans **84–91** directly from the controlling PDF;
+3. compare all eight pages against `stories/thappivittargal/pages/` and its Tamil assembly under `VISUAL_FIDELITY_CHECK_GUIDE.md`;
+4. inspect scan **92** only as the next-story boundary witness;
 5. check opening/ending roles, paragraph/dialogue structure, verse/display/emphasis, non-text marks, page furniture and every physical join;
 6. apply only source-supported structural corrections; if wording itself is wrong, verify the complete source span before correction and propagate all affected layers;
-7. create `stories/thaaymai/visual-fidelity.md`;
+7. create `stories/thappivittargal/visual-fidelity.md`;
 8. update `VISUAL_FIDELITY_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-9. re-fetch live `main` and changed controls before declaring Story 9 visually complete;
-10. **do not begin Story 10 in the same activity**.
+9. re-fetch live `main` and changed controls before declaring Story 10 visually complete;
+10. **do not begin Story 11 in the same activity**.
 
-Expected result after Story 9 closure: **9 / 37 visual-fidelity complete, 28 pending**.
+Expected result after Story 10 closure: **10 / 37 visual-fidelity complete, 27 pending**.
 
 ## Downstream phase guard
 
@@ -140,5 +149,5 @@ Do **not** begin English translation, modernization, republication or another do
 ## Current closure state
 
 - Tamil source pass: **37 / 37 COMPLETE**
-- visual fidelity: **8 / 37 COMPLETE**
-- next exact activity: **Story 9 `தாய்மை` visual fidelity**
+- visual fidelity: **9 / 37 COMPLETE**
+- next exact activity: **Story 10 `தப்பிவிட்டார்கள்` visual fidelity**

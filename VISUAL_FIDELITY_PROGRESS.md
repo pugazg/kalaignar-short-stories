@@ -7,10 +7,10 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 ## Progress
 
 - total anthology stories: **37**
-- visual fidelity complete: **8 / 37**
-- pending: **29 / 37**
+- visual fidelity complete: **9 / 37**
+- pending: **28 / 37**
 - needs recheck: **0**
-- current target: **Story 9 — `தாய்மை`**
+- current target: **Story 10 — `தப்பிவிட்டார்கள்`**
 
 | # | Story | Printed pages | Scans | Visual fidelity |
 |---:|---|---:|---:|---|
@@ -22,7 +22,7 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS — corrected** |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS — corrected** |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS — corrected** |
-| 9 | `தாய்மை` | 64–74 | 73–83 | **pending** |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS — corrected** |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | pending |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | pending |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | pending |
@@ -114,8 +114,19 @@ Tamil source-text processing is already complete for **37 / 37** anthology stori
 - scan **73** confirmed as Story 9 `தாய்மை` opening
 - record: `stories/gangaiyin-kadhal/visual-fidelity.md`
 
+### Story 9 — `தாய்மை`
+- scans **73–83 / printed pages 64–74**
+- result: **PASS — corrected**
+- structural corrections/annotations: opening horizontal rule and enlarged `ச`; scan-74 printer signature `க—5` excluded; scan-82 source-bold warning line represented; final `story-ending` role and centered closing ornament; page map/assembly synchronized
+- visual review exposed source-supported textual omissions/misreadings on scans **74, 75, 77, 79, 80, 81, 82 and 83**; every affected complete source span was re-read before correction and propagated through page/assembly/audit/review layers
+- key restored spans include scan 77 `படையெடுப்புக்கு ஏற்ற நேரமாகி விட்டது...மனக் கோட்டையைச் சுக்கு நூறாக்கி, நொறுங்கிப்போன...`, scan 79 `கடைசியில் அந்தக் காம்பை எறிந்து விடுவார்கள்!`, scan 81 `அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு...`, and scan 82's omitted `இன்ப சாகரா!...வாத்தியத்தை நிறுத்தாதே!...` warning passage
+- all 10 internal joins checked; scan **74→75** now preserves `...சித்திக்கும் யோசனைகளைத் தரவும்` → `நான் தயங்கமாட்டேன்.`; scan **78→79** and **80→81** continuations remain preserved
+- story wording changed: **Yes — source-supported corrections only**
+- scan **84** confirmed as Story 10 `தப்பிவிட்டார்கள்` opening
+- record: `stories/thaaymai/visual-fidelity.md`
+
 ## Next exact activity
 
-Perform the visual fidelity check for **Story 9 — `தாய்மை`**, scans **73–83 / printed pages 64–74**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
+Perform the visual fidelity check for **Story 10 — `தப்பிவிட்டார்கள்`**, scans **84–91 / printed pages 75–82**, under `VISUAL_FIDELITY_CHECK_GUIDE.md`.
 
-Inspect scan **84** only as the next-story boundary witness (`தப்பிவிட்டார்கள்`). Do not begin Story 10 in the same activity.
+Inspect scan **92** only as the next-story boundary witness (`தப்பவில்லை`). Do not begin Story 11 in the same activity.

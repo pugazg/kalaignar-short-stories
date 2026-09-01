@@ -57,54 +57,54 @@ Visual fidelity checks source-significant story headings/page roles, paragraph/d
 
 ## VISUAL-FIDELITY PHASE STATE
 
-- complete: **8 / 37**
-- pending: **29 / 37**
+- complete: **9 / 37**
+- pending: **28 / 37**
 - needs recheck: **0**
 
-Stories 1–8 are closed with `PASS — corrected`.
+Stories 1–9 are closed with `PASS — corrected`.
 
-### Story 8 — `கங்கையின் காதல்` — COMPLETE
+### Story 9 — `தாய்மை` — COMPLETE
 
-- canonical workspace: `stories/gangaiyin-kadhal/`
-- scans **69–72 / printed pages 60–63**
+- canonical workspace: `stories/thaaymai/`
+- scans **73–83 / printed pages 64–74**
 - result: **PASS — corrected**
-- record: `stories/gangaiyin-kadhal/visual-fidelity.md`
-- structural corrections/annotations: opening horizontal rule; enlarged opening `கை` in `கைலாயத்தில்`; final `story-ending` role; centered floral closing ornament; synchronized assembly/page map
-- `ஆழ்ந்த உறக்கம்—அமைதி—...` remains a separate source paragraph
-- scan **69→70** preserves `எதிர்பார்த்திருந்` → `தாள்.`
-- scan **71→72** preserves `...என்பொருட்டுச் சொல்` → `....என் போன்ற பெண்கள்...`
-- story wording changed: **No**
-- scan **73** confirmed as Story 9 `தாய்மை` opening
+- record: `stories/thaaymai/visual-fidelity.md`
+- structural corrections/annotations: opening horizontal rule; enlarged opening `ச`; scan-74 printer signature `க—5` excluded; scan-82 source-bold warning line; final `story-ending` role; centered closing ornament; synchronized assembly/page map
+- visual review exposed source-supported textual omissions/misreadings on scans **74, 75, 77, 79, 80, 81, 82 and 83**; all affected complete source spans were re-read before correction and synchronized through page/assembly/audit/review layers
+- key restorations include scan 77 `படையெடுப்புக்கு ஏற்ற நேரமாகி விட்டது...மனக் கோட்டையைச் சுக்கு நூறாக்கி, நொறுங்கிப்போன...`, scan 79 `கடைசியில் அந்தக் காம்பை எறிந்து விடுவார்கள்!`, scan 81 `அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு...`, and scan 82's omitted `இன்ப சாகரா!...வாத்தியத்தை நிறுத்தாதே!...` warning passage
+- scan **74→75** preserves corrected `...சித்திக்கும் யோசனைகளைத் தரவும்` → `நான் தயங்கமாட்டேன்.`; scan **78→79** and **80→81** continuations remain preserved
+- story wording changed: **Yes — source-supported corrections only**
+- scan **84** confirmed as Story 10 `தப்பிவிட்டார்கள்` opening
 
-## NEXT EXACT ACTIVITY — STORY 9 ONLY
+## NEXT EXACT ACTIVITY — STORY 10 ONLY
 
-Perform the visual fidelity check for Story 9 — **`தாய்மை`**.
+Perform the visual fidelity check for Story 10 — **`தப்பிவிட்டார்கள்`**.
 
 Canonical workspace:
 
-`stories/thaaymai/`
+`stories/thappivittargal/`
 
 Source coordinates:
 
-- printed pages **64–74**
-- anthology scans **73–83**
-- scan **84** is the boundary witness and opens Story 10 **`தப்பிவிட்டார்கள்`**
+- printed pages **75–82**
+- anthology scans **84–91**
+- scan **92** is the boundary witness and opens Story 11 **`தப்பவில்லை`**
 
 Required activity when I say **“Proceed with next activity”**:
 
 1. Fetch live `main` and preserve newer work.
-2. Inspect source scans **73–83** directly from the controlling PDF.
+2. Inspect source scans **84–91** directly from the controlling PDF.
 3. Compare every page with the committed page record and Tamil assembly.
 4. Check story opening and ending roles, paragraph/dialogue boundaries, verse/display/emphasis structure, non-text marks, page furniture and all physical joins.
-5. Inspect scan **84** only as the next-story boundary witness.
+5. Inspect scan **92** only as the next-story boundary witness.
 6. Correct any source-significant structural mismatch found. If wording itself is wrong, verify the complete source span before correction and propagate it through all affected layers.
-7. Create `stories/thaaymai/visual-fidelity.md` with findings and result.
+7. Create `stories/thappivittargal/visual-fidelity.md` with findings and result.
 8. Update `VISUAL_FIDELITY_PROGRESS.md`.
-9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 10 only after Story 9 visual fidelity is fully closed.
+9. Update `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 11 only after Story 10 visual fidelity is fully closed.
 10. Re-fetch live `main` and changed controls before declaring closure.
-11. **Do not start Story 10 in the same activity.**
+11. **Do not start Story 11 in the same activity.**
 
-Expected result: **9 / 37 visual-fidelity complete, 28 remaining**.
+Expected result: **10 / 37 visual-fidelity complete, 27 remaining**.
 
 ## PHASE GUARD
 
