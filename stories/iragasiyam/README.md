@@ -54,6 +54,17 @@ The visual pass records the opening rule/enlarged initial, source-bold display a
 - scan **112** opens `முந்நூறு ரூபாய்`;
 - Story 14 text included here: **No**.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/iragasiyam.md`](translations/en/iragasiyam.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **4 / 4** source-page markers represented
+- source-bold display/transition spans and final reveal preserved
+- physical joins **109→110** and **110→111** remain traceable
+- canonical Tamil changed during translation: **No**
+
+## Completion state
+
+**இரகசியம்! Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 108–111 / printed pages 99–102.**
