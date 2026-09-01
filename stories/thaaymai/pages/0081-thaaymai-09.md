@@ -18,7 +18,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 கண்கள் மூடிக்கொண்டே குழல் ஊதுவது—திடீரெனத் திறந்து பார்த்தால் எதிரே மயில்கள் ஆடும்—அதைப் பார்த்து மகிழ்வது! இப்படி ஓர் இன்பக் கனவோடு அவன் இசை முழக்கம் செய்து கொண்டிருந்தான்.
 
-பல்லிலே விஷம் தேக்கியபடி ஆடிக்கொண்டிருக்கிறது என்பதை! மயங்கி நிற்கிறது நாகம்! மயக்கம் தெளிந்தால் இளவரசன் அதற்கு இரையாவான்!
+அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு பல்லிலே விஷம் தேக்கியபடி ஆடிக்கொண்டிருக்கிறது என்பதை!
+
+மயங்கி நிற்கிறது நாகம்! மயக்கம் தெளிந்தால் இளவரசன் அதற்கு இரையாவான்!
 
 இசை நின்றால், உடனே பாம்பின் மயக்கமும் தெளிந்து விடும்!
 
@@ -35,6 +37,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Opens by completing scan 80's physical sentence.
-- Enlarged full-span inspection resolved `வயிற்றிலே கிடந்த வைடூரியம்! அதை விஷத்தால் குளிப்பாட்டி வேகவைக்க எதிரே மரணத்தின் மயக்கம் நிறைந்த சதிராட்டம்!`.
+- Visual-fidelity full-span review restored the omitted lead clause `அவன் என்ன கண்டான்—எதிரே உயிர் வாங்கும் பாம்பு` and restores the source paragraph break before `மயங்கி நிற்கிறது நாகம்!`.
+- Enlarged full-span inspection still confirms `வயிற்றிலே கிடந்த வைடூரியம்! அதை விஷத்தால் குளிப்பாட்டி வேகவைக்க எதிரே மரணத்தின் மயக்கம் நிறைந்த சதிராட்டம்!`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 81; அச்சுப் பக்கம்: 72 -->

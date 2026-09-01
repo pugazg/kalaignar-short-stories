@@ -14,7 +14,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “சொல்லும் மைத்துனரே சீக்கிரம்!”
 
-“இன்னென்று கொடு, சொல்லுகிறேன்!”
+“இன்னொன்று கொடு, சொல்லுகிறேன்!”
 
 “இதோ! ஒன்றென்ன; ஒன்பது!”
 
@@ -39,6 +39,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Opens by completing scan 74's sentence.
-- Source-close colloquial/unusual forms retained.
+- Visual-fidelity full-span recheck corrected `இன்னென்று கொடு` → source `இன்னொன்று கொடு`.
+- Other source-close colloquial/unusual forms remain retained.
 
 <!-- மூல ஸ்கேன் பக்கம்: 75; அச்சுப் பக்கம்: 66 -->

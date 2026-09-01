@@ -12,6 +12,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # தாய்மை
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening ச in சரசத்தாலும் marks the first paragraph -->
+
 “சரசத்தாலும் சாகசத்தாலும் எப்படியோ அரசியின் மீது அரசனுக்கு இருந்த அன்பை அழித்து விட்டேன். அரசனது இருதயத்திலே அழியாத சித்திரமாக அமர்ந்திருந்தாள் அந்தக் கோப்பெருந்தேவி! அந்தக் கலையாத ஓவியத்தைக் கரிகொண்டு மெழுகிவிட்டேன்.
 
 “மன்னரின் மன மாளிகையில் ஜோதி விளக்கு அவள், ஒரு காலத்தில்! அந்த ஜோதி விளக்கு இன்று வீதியிலே வீசப்பட்டு விட்டது. தோழிகள் புடை சூழ—தோகை மயில்கள் ஆடும் நந்தவனத்தில் மலரால் நடைபாதை அமைத்து, அவளும் அரசரும் ஆனந்த பவனிகள் நடத்தினரே—அது அந்தக் காலம்.
@@ -21,6 +24,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - Story-opening heading `தாய்மை` visually confirmed.
-- `சுழற் கண்ணியின்` and `கீர்த்தத்துக்குச்` retained source-close; latter rechecked at enlargement.
+- Visual-fidelity review records the long horizontal rule beneath the heading and the enlarged opening `ச` in `சரசத்தாலும்`.
+- `சுழற் கண்ணியின்` and `கீர்த்தத்துக்குச்` remain retained source-close; the latter was independently rechecked at enlargement.
 
 <!-- மூல ஸ்கேன் பக்கம்: 73; அச்சுப் பக்கம்: 64 -->
