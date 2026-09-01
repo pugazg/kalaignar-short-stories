@@ -3,7 +3,7 @@ scan_page: 91
 printed_page: 82
 story: "thappivittargal"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -17,5 +17,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 போலீஸ் படை “விடாதே! பிடி!” என்று கத்திக் கொண்டு ஓடி வந்ததைக் கண்டார்கள். விட்டலின் இடுப்பிலிருந்த கட்டாரியைத் தங்கம் எடுத்துக்கொண்டாள். போலீஸாரிடமிருந்து தப்புவதற்கு அவளுக்கு இப்போது வழி தெரிந்து விட்டது. தன் அன்பு அத்தானின் நெஞ்சில் ஓங்கி ஒரு குத்து—அவன் பிணமானான்! அந்த இரத்தம் சொட்டும் கட்டாரி அவள் கழுத்துக் குழியிலும் பாய்ந்தது! போலீஸாரிடமிருந்து விட்டலைக் காப்பாற்றினள். வேதனையிலிருந்து தன்னையும் காப்பாற்றிக் கொண்டாள்.
 
 சமுதாயக் கொடுமையிலிருந்து இருவருமே தப்பிவிட்டார்கள்.
+
+<!-- source closing ornament: centered short ornamental rule with a small central geometric flourish beneath the final paragraph -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 91; அச்சுப் பக்கம்: 82 -->
