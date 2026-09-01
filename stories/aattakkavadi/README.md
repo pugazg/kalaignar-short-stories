@@ -60,18 +60,19 @@ Representative high-value rechecks include:
 3. printed 27→28: `கந்தனின் வழியிலே பல` → `காளையர் நடைபோடத் தொடங்கினர்.`
 4. printed 28→29: Kanimozhi's letter continues onto the final page.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete and reviewed.**
 
-The Tamil source audit is complete for the current reading. Before future translation, review any user-supplied corrections against the controlling scan and resynchronize the Tamil assembly if needed.
+- English: [`translations/en/aattakkavadi.md`](translations/en/aattakkavadi.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers represented: **8 / 8**
+- letter display/sign-off preserved: **Yes**
+- possible-error queue read and respected: **Yes**
+- Tamil source changed during translation: **No**
+
+The title remains **Aattakkavadi**. Source-specific terms such as `‘பாவலா’`, `பம்பை`, `மிராசுதார்`, `அதிருப சுந்தரன்`, `கருவிழியானை` and `‘சுண்’கள்` are treated conservatively and documented in the translation review rather than silently normalized.
 
 ## Completion state
 
-**ஆட்டக்காவடி Tamil archival source processing: COMPLETE for scans 31–38 / printed pages 22–29, with persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 5 — **குப்பைத்தொட்டி**, printed pages **30–37**, anthology scans **39–46**.
-
-Do not begin Story 5 until the collection inventory, collection README, root README, scan map and root `HANDOVER.md` have been synchronized to this completed state.
+**ஆட்டக்காவடி Tamil archival source processing + English translation: COMPLETE for scans 31–38 / printed pages 22–29, with persistent human recheck queue.**
