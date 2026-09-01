@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive
+# NEXT CHAT PROMPT — Kalaignar Short Stories English Translation
 
 Continue the Kalaignar Short Stories archival project directly in:
 
@@ -13,47 +13,83 @@ Controlling anthology source:
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve any newer durable state.
+Fetch live `main` first and preserve any newer durable state. Do not reset or repeat work if the branch has advanced beyond a checkpoint copied into this prompt.
 
 ## DURABLE MILESTONES
 
 - Tamil source processing: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
-- pending visual-fidelity stories: **0 / 37**
-- needs recheck: **0**
-- English translation: **0 / 37 started**
+- English translation: **1 / 37 complete**
+- English pending: **36 / 37**
+- English needs review: **0**
 
-All **37 / 37** anthology stories have story-local `visual-fidelity.md` records with result `PASS` or `PASS — corrected`.
+English is a separate translation layer. The verified canonical Tamil remains authoritative.
 
-## FINAL VISUAL-FIDELITY BATCH — STORIES 33–37
+## MANDATORY STARTUP FOR EACH ENGLISH STORY
 
-The final user-expanded batch is complete:
+Before translating, read completely:
 
-- Story 33 — `வேணியின் காதலன்` — scans **225–230** — **PASS**
-- Story 34 — `அமிர்தமதி` — scans **231–238** — **PASS**
-- Story 35 — `சுமந்தவள்` — scans **239–249** — **PASS**
-- Story 36 — TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` — scans **250–252** — **PASS**
-- Story 37 — `நுனிக்கரும்பு` — scans **253–259** — **PASS**
+1. `SHORT_STORY_PROCESSING_GUIDE.md`
+2. `COLLECTION_SOURCE_GUIDE.md`
+3. `ENGLISH_TRANSLATION_GUIDE.md`
+4. `ENGLISH_TRANSLATION_PROGRESS.md`
+5. `HANDOVER.md`
+6. this `NEXT_CHAT_PROMPT.md`
+7. the active story `README.md`
+8. the active story Tamil assembly under `sections/`
+9. the active story `audit.md`
+10. the active story `POSSIBLE_ERRORS_FOR_REVIEW.md`
+11. the active story `visual-fidelity.md`
+12. the active story `indexes/page-map.md`
 
-The Story 36 TOC/opening-title variance remains preserved exactly. Story 37's opening Bharathidasan verse lineation remains preserved, and scan **260** is confirmed as the anthology back cover outside story text. Previous source-supported corrections such as `கூண்டுக் கிளி ஆக்குவேனென்றான்` and `இவனத் தெரியுமா?` remain intact. **No story wording changed in the final visual-fidelity batch.**
+Translate the **current verified Tamil actually preserved in the repository**. Do not silently correct a suspicious Tamil reading merely because smoother English suggests another wording.
 
-## VISUAL-FIDELITY PHASE STATUS
+## COMPLETED ENGLISH STORY
 
-**COMPLETE — 37 / 37.**
+Story 1 — **`புகழேந்தி`** is closed:
 
-There are no pending, in-progress or needs-recheck stories in this phase.
+- workspace: `stories/pugazhendhi/`
+- scans **10–15 / printed pages 1–6**
+- English: `stories/pugazhendhi/translations/en/pugazhendhi.md`
+- review: `stories/pugazhendhi/TRANSLATION_REVIEW.md`
+- result: **PASS**
+- Tamil source changed during translation: **No**
 
-## NEXT ACTIVITY — WAIT FOR EXPLICIT USER AUTHORIZATION
+The English retains all six source-page markers. Queued unusual Tamil readings were not silently normalized; conservative choices are documented in `TRANSLATION_REVIEW.md`.
 
-Do **not** automatically begin English translation, modernization, republication, metadata redesign, or any other downstream phase.
+## NEXT ACTIVITY — STORY 2 ONLY
 
-When the user explicitly chooses a next phase:
+Translate and review Story 2 — **`நளாயினி`**.
 
-1. fetch live `main` first;
-2. read `HANDOVER.md`, `VISUAL_FIDELITY_PROGRESS.md`, `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, and any guide specific to the newly authorized phase;
-3. define the new phase scope/boundary durably before editing story content;
-4. preserve the source-first rules and all existing verified Tamil wording unless the newly authorized activity explicitly requires a transformation layer separate from canonical source text.
+- canonical workspace: `stories/nalayini/`
+- printed pages: **7–14**
+- anthology scans: **16–23**
+- boundary witness: scan **24**, opening Story 3 **`சபலம்`**
+- Tamil audit: **PASS — 8 / 8 verified**
+- English target: `stories/nalayini/translations/en/nalayini.md`
+- review target: `stories/nalayini/TRANSLATION_REVIEW.md`
 
-## SOURCE RULES
+For Story 2:
 
-Do not silently modernize spelling, punctuation, grammar, sandhi, names, paragraphs, title forms or source anomalies. Do not guess unclear Tamil from context/OCR. Do not commit the source PDF or generated renders/crops.
+1. read its complete verified Tamil assembly and review queue first;
+2. preserve paragraph/dialogue/display structure and source-page markers;
+3. preserve names, cultural references and unusual verified forms conservatively;
+4. do not import corrections or explanations from outside editions or general knowledge;
+5. if translation exposes a likely Tamil transcription problem, stop at that span and reopen the Tamil reading against the controlling scan before changing any source layer;
+6. create the complete English file and `TRANSLATION_REVIEW.md`;
+7. update Story 2 README, root README, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt;
+8. re-fetch live `main` and changed controls before declaring Story 2 complete.
+
+Do **not** begin Story 3 in the same activity unless the user explicitly expands the translation batch.
+
+## EXPECTED STATE AFTER STORY 2
+
+- English translation complete: **2 / 37**
+- pending: **35 / 37**
+- needs review: **0**, unless Story 2 genuinely requires review
+- next target: Story 3 — **`சபலம்`**, scans **24–30 / printed pages 15–21**
+- Story 3 boundary witness: scan **31**, opening `ஆட்டக்காவடி`
+
+## SOURCE / PHASE RULES
+
+Do not silently modernize or normalize canonical Tamil spelling, punctuation, grammar, sandhi, names, title forms or source anomalies. Do not guess unclear Tamil from context or OCR. Do not commit the controlling source PDF or generated renders/crops. English translation does not authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
