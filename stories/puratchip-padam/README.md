@@ -27,7 +27,6 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/puratchip-padam.md`](sections/puratchip-padam.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
 
 ## Visual fidelity
 
@@ -42,6 +41,21 @@ Direct source review confirmed the scan-194 opening rule/enlarged initial, prese
 - scan **199** opens Story 29 `திடுக்கிடும் கதை`;
 - Story 29 text included here: **No**.
 
+## English translation
+
+**PASS — complete.**
+
+- English: [`translations/en/puratchip-padam.md`](translations/en/puratchip-padam.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source-page markers: **5 / 5 represented**
+- TOC/opening title variance preserved: **Yes**
+- publicity/display emphasis preserved: **Yes**
+- canonical Tamil changed during translation: **No**
+
 ## Completion state
 
-**புரட்சிப் படம் Tamil archival source processing and visual-fidelity review: COMPLETE for scans 194–198 / printed pages 185–189, with 5/5 verified, 0 blocked, 0 unresolved story text, persistent human recheck queue, and the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` source-title variance preserved.**
+**புரட்சிப் படம் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 194–198 / printed pages 185–189, with the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` source-title variance preserved. English review result: PASS.**
+
+## Next anthology English activity
+
+Story 29 — **திடுக்கிடும் கதை**, printed pages **190–195**, anthology scans **199–204**. Scan **205** opens Story 30 `கடைசிக் கட்டம்`.
