@@ -12,6 +12,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # ஆலமரத்துப் புறாக்கள்
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening அ in அருவிகளின் marks the first paragraph -->
+
 அருவிகளின் சலசலப்பு ஓசையும், அதைச் சுருதியாகக் கொண்டு குயில்கள் மீட்டிய கீதமும், அதற்கேற்றாற் போல மயில்கள் காட்டிய நடனமும் அந்தக் காட்டையே ஒரு சுந்தரபுரியாக விளங்கச் செய்யும்.
 
 காட்டின் நடுவிலே ஒரு பெரிய ஆலமரம். ஆலமரத்துப் பொந்துகளிலே அழகுற விளங்கும் சிறு சிறு புறாக்கூடுகள். அந்தக் கூடுகளிலிருந்து எட்டிப் பார்த்தபடி கானகத்து உற்சாகத்தை ரசித்திடும் மணிப்புறாக்கள்.

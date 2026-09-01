@@ -8,7 +8,14 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 152 | 143 | story body | verified | `../pages/0152-aalamarathup-puraakkal-02.md` |
 | 153 | 144 | story body | verified | `../pages/0153-aalamarathup-puraakkal-03.md` |
 | 154 | 145 | story body | verified | `../pages/0154-aalamarathup-puraakkal-04.md` |
-| 155 | 146 | story conclusion | verified | `../pages/0155-aalamarathup-puraakkal-05.md` |
+| 155 | 146 | story ending | verified | `../pages/0155-aalamarathup-puraakkal-05.md` |
+
+## Visual-fidelity notes
+
+- scan 151: long opening rule and enlarged initial `அ` recorded;
+- scan 154: source-bold `“இது வல்லூறின் மரம்”` was already represented and is retained;
+- scan 155: source-bold `வல்லூறை விரட்டுவதுதான்!` retained; closing ornament recorded;
+- all four internal joins and scan 155→156 boundary checked.
 
 ## Status
 

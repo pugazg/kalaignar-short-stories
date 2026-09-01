@@ -3,7 +3,7 @@ scan_page: 150
 printed_page: 141
 story: "kandathum-kadhal-ozhiga"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -19,5 +19,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 அவள் நன்றுக நிதானம் பெற்றுவிட்டாள். குமாரின் குதூகலம் கொள்ளிடத்து வெள்ளமாயிற்று. “கண்மணி!” என்று அவளைக் கட்டியணைத்தான்...
 
 திரெளபதி சிரித்துக்கொண்டே, தன் தலையில் கை வைத்து ‘டோபா’ முடியை எடுத்தான்!
+
+<!-- non-story mark excluded: small brown marginal/ink mark near the lower margin -->
+<!-- source closing ornament: centered short rule with small diamond marks -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 150; அச்சுப் பக்கம்: 141 -->

@@ -12,6 +12,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # கண்டதும் காதல் ஒழிக!
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+
 “முறுக்கு மசால்வடை!”
 
 “கரம் சாயா!”

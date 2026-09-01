@@ -3,7 +3,7 @@ scan_page: 155
 printed_page: 146
 story: "aalamarathup-puraakkal"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -15,5 +15,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 சில சில்லறை உதவிகளுக்காகவும், உடல் சுகமில்லா விட்டால் மருந்து கேட்கவும், கவர்ப்புறு வெண்புறுவிடம் வரும். அந்த உதவிகளை வெண்புறு செய்யும். ஆனால் இப்போது அந்த உதவிகளுக்கூடக் கரும்புறு, கவர்ப்புறுவுக்கு செய்வதில்லை.
 
 இந்தக் கதையைக் கேள்விப்பட்டுக் காட்டிலுள்ள பறவைகள் எல்லாம் சிரிக்கின்றன; ஆச்சரியப்படுகின்றன. அதே நேரத்தில் வெண்புறுவின் அறிவுத்திறனைக் கண்டு பாராட்டிப் புகழ்ந்திடவும் செய்கின்றன. பாராட்டையும் புகழ்ச்சியையும் கேட்கவா வெண்புறுவுக்கு நேரம்! அதனுடைய லட்சியமெல்லாம் **வல்லூறை விரட்டுவதுதான்!**
+
+<!-- source closing ornament: centered ornamental rule with circular/diamond marks -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 155; அச்சுப் பக்கம்: 146 -->

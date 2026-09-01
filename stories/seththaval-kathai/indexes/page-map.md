@@ -12,7 +12,14 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 136 | 127 | story body | verified | `../pages/0136-seththaval-kathai-06.md` |
 | 137 | 128 | story body | verified | `../pages/0137-seththaval-kathai-07.md` |
 | 138 | 129 | story body | verified | `../pages/0138-seththaval-kathai-08.md` |
-| 139 | 130 | story conclusion | verified | `../pages/0139-seththaval-kathai-09.md` |
+| 139 | 130 | story ending | verified | `../pages/0139-seththaval-kathai-09.md` |
+
+## Visual-fidelity notes
+
+- scan 131: long opening rule; opening fire verse preserved as five display lines;
+- scan 136: three-line fire verse preserved as display;
+- scan 139: final fire verse preserved as four display lines; source-bold `‘செத்தவள் கதை’`; centered closing ornament;
+- all eight internal joins and scan 139→140 boundary checked.
 
 ## Status
 

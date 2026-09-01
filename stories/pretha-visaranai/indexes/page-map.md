@@ -9,7 +9,13 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 142 | 133 | story body | verified | `../pages/0142-pretha-visaranai-03.md` |
 | 143 | 134 | story body | verified | `../pages/0143-pretha-visaranai-04.md` |
 | 144 | 135 | story body | verified | `../pages/0144-pretha-visaranai-05.md` |
-| 145 | 136 | story conclusion | verified | `../pages/0145-pretha-visaranai-06.md` |
+| 145 | 136 | story ending | verified | `../pages/0145-pretha-visaranai-06.md` |
+
+## Visual-fidelity notes
+
+- scan 140: long opening rule and enlarged opening `ட` recorded;
+- scan 145: centered closing ornament recorded;
+- all five internal joins and scan 145→146 boundary checked.
 
 ## Status
 

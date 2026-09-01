@@ -3,7 +3,7 @@ scan_page: 139
 printed_page: 130
 story: "seththaval-kathai"
 section: "story"
-page_type: "story-conclusion"
+page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
@@ -34,13 +34,17 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 செல்லாயி எரிந்தாள்.
 
-“முன்னயிட்ட தீ முப்புரத்திலே!
-பின்னயிட்ட தீ தென்னிலங்கையிலே!
-என்மனைவியிட்ட தீ மங்காத மானத்திலே!
+<!-- source display: final four-line fire verse -->
+
+“முன்னயிட்ட தீ முப்புரத்திலே!  
+பின்னயிட்ட தீ தென்னிலங்கையிலே!  
+என்மனைவியிட்ட தீ மங்காத மானத்திலே!  
 யானுமிட்ட தீ விபசாரக் கோட்டையில் மூள்க மூள்கவே!”
 
 எல்லப்பன் பாடவில்லை.
 
-‘செத்தவள் கதை’க்கு அவன் மனத்தில் அலை மோதிய ‘மங்களம்’ இது.
+**‘செத்தவள் கதை’**க்கு அவன் மனத்தில் அலை மோதிய ‘மங்களம்’ இது.
+
+<!-- source closing ornament: centered short rule with diamond-like central marks -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 139; அச்சுப் பக்கம்: 130 -->

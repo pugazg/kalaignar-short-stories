@@ -12,10 +12,13 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 # செத்தவள் கதை
 
-“முன்னயிட்ட தீ முப்புரத்திலே!
-பின்னயிட்ட தீ தென்னிலங்கையிலே!
-அன்னயிட்ட தீ அண்ணந்த அடுப்பிலே!
-யானுமிட்ட தீ யானுமார்க் சிகரெட்டிலே!
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source display: opening fire verse is a five-line stanza -->
+
+“முன்னயிட்ட தீ முப்புரத்திலே!  
+பின்னயிட்ட தீ தென்னிலங்கையிலே!  
+அன்னயிட்ட தீ அண்ணந்த அடுப்பிலே!  
+யானுமிட்ட தீ யானுமார்க் சிகரெட்டிலே!  
 மூள்க மூள்கவே!”
 
 யாரப்பா ‘நவீன பட்டினத்தார்’ என்று கேட்கத் தூண்டும்.

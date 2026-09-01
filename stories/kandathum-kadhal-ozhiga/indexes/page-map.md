@@ -8,7 +8,15 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 147 | 138 | story body | verified | `../pages/0147-kandathum-kadhal-ozhiga-02.md` |
 | 148 | 139 | story body | verified | `../pages/0148-kandathum-kadhal-ozhiga-03.md` |
 | 149 | 140 | story body | verified | `../pages/0149-kandathum-kadhal-ozhiga-04.md` |
-| 150 | 141 | story conclusion | verified | `../pages/0150-kandathum-kadhal-ozhiga-05.md` |
+| 150 | 141 | story ending | verified | `../pages/0150-kandathum-kadhal-ozhiga-05.md` |
+
+## Visual-fidelity notes
+
+- scan 146: long opening rule recorded;
+- scan 148: source-bold `“அன்பே! சீதா! அருகில் வா!”` represented;
+- scan 149: source-bold `“ராமாயணம்”` represented;
+- scan 150: closing ornament recorded; lower-margin brown mark excluded as non-story material;
+- all four internal joins and scan 150→151 boundary checked.
 
 ## Status
 
