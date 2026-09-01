@@ -43,25 +43,30 @@ High-value source-close readings include `அண்ணுமலை`, `குஷ�
 - printed 147→148 / scans 156→157: `...பற்றிக் கவலைகொள்ள` → `வில்லை. ஆனால்...`.
 - printed 149→150 / scans 158→159: `...அவள் முன்னே கண்ணகி` → `யும், மாதவியும் வந்து வந்து போயினர்.`.
 
-The 157→158 and 159→160 boundaries were also directly checked; no story text is omitted or duplicated.
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The opening rule/enlarged initial, final story-ending role and closing ornament are synchronized; paragraph/dialogue structure remains source-faithful. **Story wording changed: No.**
 
 ## Story boundary
 
-- scan **156**: heading `தொத்துக்கிளி`, Story 22 opening confirmed;
-- scan **160**: final paragraph and ornamental closing rule;
-- scan **161**: heading `காதல் கடிதம்`, Story 23 opening confirmed;
-- Story 23 text included here: **No**.
+- scan **156** opens this story;
+- scan **160** contains the story ending and closing ornament;
+- scan **161** independently opens `காதல் கடிதம்` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/thothukkili.md`](translations/en/thothukkili.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **5 / 5** source-page markers represented
+- physical continuations **156→157** and **158→159** remain traceable
+- difficult forms including `அக்கத்தாகக்...` and `கருகு தாளிக்கப் பட்டது` handled conservatively without Tamil repair
+- Vimala/Annumalai sequence, laboratory ending and final quoted admonition remain complete
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**தொத்துக்கிளி Tamil archival source processing: COMPLETE for scans 156–160 / printed pages 147–151, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 23 — **காதல் கடிதம்**, printed pages **152–156**, anthology scans **161–165**.
-
-Do not begin Story 23 as part of the Story 22 activity.
+**தொத்துக்கிளி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 156–160 / printed pages 147–151.**
