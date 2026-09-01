@@ -29,13 +29,26 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/siddharthan-silai.md`](sections/siddharthan-silai.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+- visual fidelity: **PASS**
 
 ## Source-sensitive verification
 
 High-resolution old-typeface checks were used to distinguish gendered endings and unusual source forms. Source-close readings retained include `கெண்டை`, `நடைபழகில்`, `ஒளி!,`, `அவளைப் பெற்றவனே-உலகம்!`, `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்`.
 
 The exact physical join `...அவளருகே உறங்குகின்ற அருமைச்` → `செல்வன்—இருவரையும் ஏங்கவிட்டு “அன்பு” போதிக்கத் துறவு பூண்டவன் நான்.` was explicitly verified.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/siddharthan-silai.md`](translations/en/siddharthan-silai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **3 / 3** source-page markers retained
+- exact **251→252** physical split remains traceable
+- TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` variance preserved
+- idealized opening, Buddha-statue lament, impersonated statue speech and husband reveal remain complete
+- difficult source forms handled conservatively; no external doctrinal explanation imported
+- canonical Tamil changed during translation: **No**
 
 ## Story boundary
 
@@ -46,10 +59,4 @@ The exact physical join `...அவளருகே உறங்குகின்
 
 ## Completion state
 
-**சித்தார்த்தன் சிலை Tamil archival source processing: COMPLETE for scans 250–252 / printed pages 241–243, with 3/3 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 37 — **`நுனிக்கரும்பு`**, printed pages **244–250**, anthology scans **253–259**. Before final anthology-story closure, inspect scan **260** as the back-cover boundary witness.
-
-Do not begin Story 37 as part of the Story 36 activity.
+**சித்தார்த்தன் சிலை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 250–252 / printed pages 241–243.**
