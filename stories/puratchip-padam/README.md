@@ -29,6 +29,12 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 - English translation: not started
 
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+Direct source review confirmed the scan-194 opening rule/enlarged initial, preserved the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` title variance, reconfirmed the existing source-bold publicity/display text on scans 196–197, and synchronized scan 198 to `story-ending` with its closing ornament. **Story wording changed: No.**
+
 ## Story boundary
 
 - scan **194** opens `புரட்சிப் படம்`;
@@ -38,10 +44,4 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Completion state
 
-**புரட்சிப் படம் Tamil archival source processing: COMPLETE for scans 194–198 / printed pages 185–189, with 5/5 verified, 0 blocked, 0 unresolved story text, persistent human recheck queue, and the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` source-title variance preserved.**
-
-## Next anthology activity
-
-Story 29 — **திடுக்கிடும் கதை**, printed pages **190–195**, anthology scans **199–204**. Before Story 29 closure, inspect scan **205** and confirm it begins Story 30 `கடைசிக் கட்டம்`.
-
-Do not begin Story 29 as part of the Story 28 activity.
+**புரட்சிப் படம் Tamil archival source processing and visual-fidelity review: COMPLETE for scans 194–198 / printed pages 185–189, with 5/5 verified, 0 blocked, 0 unresolved story text, persistent human recheck queue, and the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` source-title variance preserved.**
