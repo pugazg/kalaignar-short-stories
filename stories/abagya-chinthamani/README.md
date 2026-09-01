@@ -38,35 +38,46 @@ The assembly preserves all eight anthology scan boundaries. Scan 189, which open
 
 High-value source-close readings include `பன்னிராட்டைப் பிராயத்துப்`, `பருவக் காற்றில்`, `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `பிச்சைபுகினும்`, `பிர்க்காக்களைப்`, `சாதாரண மனுஷனாயிருக்கும்`, `நாளொரு வியாதியும்`, `பொழுதொரு கண்டமுமாக`, `கர்வமடைந்தேன்`, `வசைமாரி`, `பாலப் பாஷாணம்`, `தன்னால்`, `மடிப்பிச்சை`, `புலம்பினர்கள்`, `கட்டு மஸ்தான்`, `விபச்சாரியாக வாவது`, `இறங்கினள்`, `அவன் எண்ணியிருக்கிறான்`, and `போஷாக்கில்லாத`.
 
-The final closure recheck corrected several earlier misreadings against the native scan before this workspace was closed; those corrections are documented in the source metadata and audit rather than being silently normalized.
+The final Tamil closure recheck corrected several earlier misreadings against the native scan before this workspace was closed; those corrections remain documented in the source metadata and audit.
 
 ## Verified physical continuations
 
-- printed 173→174 / scans 182→183: `...சிந்தாமணிக்குப்` → `பத்து வயது நிரம்பியபோது...`.
-- printed 174→175 / scans 183→184: `...அடுத்த படியிலே காலே` → `அழுத்தமாக ஊன்றி...`.
-- printed 175→176 / scans 184→185: `...உங்களிடம், அதை` → `வேறு நினைவுபடுத்திப்...`.
-- printed 178→179 / scans 187→188: `...அதற்` → `காகவே...`.
-- scans 181→182, 185→186, and 186→187 were also directly checked; no story text is omitted or duplicated.
+- scans 182→183: `...சிந்தாமணிக்குப்` → `பத்து வயது நிரம்பியபோது...`.
+- scans 183→184: `...அடுத்த படியிலே காலே` → `அழுத்தமாக ஊன்றி...`.
+- scans 184→185: `...உங்களிடம், அதை` → `வேறு நினைவுபடுத்திப்...`.
+- scans 187→188: `...அதற்` → `காகவே...`.
+- scans 181→182, 185→186, and 186→187 were also checked with no omitted or duplicated story text.
+
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The source-bold opening characterization, two displayed song blocks, emphasized `எங்கள் ஒளவைப் பாட்டிதான்`, emphasized `நாயைக் குளிப்பாட்டி நடுவுள்ளே வைத்தால்...`, exclusion of printer signature `க—12`, and final ornament are synchronized. **Story wording changed: No.**
 
 ## Story boundary
 
-- scan **181**: heading `அபாக்ய சிந்தாமணி`, Story 26 opening confirmed;
-- scan **188**: final paragraph and ornamental closing rule;
-- scan **189**: heading `பாலைவன ரோஜா`, Story 27 opening confirmed;
-- Story 27 text included here: **No**.
+- scan **181** opens `அபாக்ய சிந்தாமணி`;
+- scan **188** contains the conclusion and closing ornament;
+- scan **189** opens `பாலைவன ரோஜா` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/abagya-chinthamani.md`](translations/en/abagya-chinthamani.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **8 / 8** source-page markers represented
+- physical continuations **182→183**, **183→184**, **184→185**, and **187→188** remain traceable
+- scan-182 display blocks and source emphasis remain structurally represented
+- final-audit Tamil corrections are respected and were not reverted during translation
+- source-sensitive `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `பிர்க்காக்களைப்`, `பாலப் பாஷாணம்`, `மடிப்பிச்சை`, and `விபச்சாரியாக வாவது` handled conservatively
+- Chinthamani’s mother’s history, gurukulam/love sequence, staged infidelity, pregnancy and stillbirth remain complete
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**அபாக்ய சிந்தாமணி Tamil archival source processing: COMPLETE for scans 181–188 / printed pages 172–179, with 8/8 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
+**அபாக்ய சிந்தாமணி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 181–188 / printed pages 172–179.**
 
-## Next anthology activity
+## Next anthology English activity
 
-Story 27 — **பாலைவன ரோஜா**, printed pages **180–184**, anthology scans **189–193**.
-
-Before Story 27 closure, inspect scan **194** and confirm the opening heading of Story 28, whose TOC title is `புரட்சிப்படம்` and opening heading is recorded as `புரட்சிப் படம்`.
-
-Do not begin Story 27 as part of the Story 26 activity.
+Story 27 — **பாலைவன ரோஜா**, printed pages **180–184**, anthology scans **189–193**. Before Story 27 closure, scan **194** remains the boundary witness opening Story 28, whose TOC title is `புரட்சிப்படம்` and opening heading is `புரட்சிப் படம்`.
