@@ -43,25 +43,30 @@ High-value source-close readings include `எலிபெண்டு சிக�
 - printed 139→140 / scans 148→149: `...“அன்பே! சீதா! அருகில் வா!” என்று` → `முடிக்கவில்லை; கொட்டகை “சே! உள்ளே போடா!” என்று சிரித்தது.`
 - printed 140→141 / scans 149→150: `...“லங்கா தகனம்” நாடகம் ஆரம்பமாயிற்று. தீ` → `வளர்ந்து, தாவியது.`
 
-The 146→147 and 147→148 boundaries were also directly checked; no story text is omitted or duplicated.
+## Visual fidelity
+
+**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+
+The opening rule, source-bold `“அன்பே! சீதா! அருகில் வா!”` / `“ராமாயணம்”`, final `‘டோபா’`-wig reveal, ending role and closing ornament are synchronized. **Story wording changed: No.**
 
 ## Story boundary
 
-- scan **146**: heading `கண்டதும் காதல் ஒழிக!`, Story 20 opening confirmed;
-- scan **150**: final sentence and ornamental closing rule;
-- scan **151**: heading `ஆலமரத்துப் புறாக்கள்`, Story 21 opening confirmed;
-- Story 21 text included here: **No**.
+- scan **146** opens this story;
+- scan **150** contains the story ending and closing ornament;
+- scan **151** independently opens `ஆலமரத்துப் புறாக்கள்` and is excluded.
 
-## Translation
+## English translation
 
-English translation has **not** been started.
+**PASS — complete.**
+
+- English: [`translations/en/kandathum-kadhal-ozhiga.md`](translations/en/kandathum-kadhal-ozhiga.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **5 / 5** source-page markers represented
+- physical continuations **148→149** and **149→150** remain traceable
+- source-significant emphasis, theatre confusion, riot/fire sequence and final wig reveal preserved
+- possible-error queue read and handled conservatively
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**கண்டதும் காதல் ஒழிக! Tamil archival source processing: COMPLETE for scans 146–150 / printed pages 137–141, with 5/5 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 21 — **ஆலமரத்துப் புறாக்கள்**, printed pages **142–146**, anthology scans **151–155**.
-
-Do not begin Story 21 as part of the Story 20 activity.
+**கண்டதும் காதல் ஒழிக! Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 146–150 / printed pages 137–141.**
