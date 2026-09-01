@@ -9,10 +9,10 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 ## Progress
 
 - total anthology stories: **37**
-- English translation complete: **10 / 37**
-- pending: **27 / 37**
+- English translation complete: **15 / 37**
+- pending: **22 / 37**
 - needs review: **0**
-- current target: **Story 11 — `தப்பவில்லை`**
+- current target: **Story 16 — `ஒரிஜினலில் உள்ளபடி`**
 
 | # | Story | Printed pages | Scans | English translation |
 |---:|---|---:|---:|---|
@@ -26,11 +26,11 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** |
 | 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | pending |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | pending |
-| 13 | `இரகசியம்!` | 99–102 | 108–111 | pending |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | pending |
-| 15 | `ஏழை` | 106–109 | 115–118 | pending |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** |
+| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** |
+| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | pending |
 | 17 | `பனங்குலை` | 117–121 | 126–130 | pending |
 | 18 | `செத்தவள் கதை` | 122–130 | 131–139 | pending |
@@ -66,25 +66,54 @@ The canonical Tamil source-text audit and visual-fidelity phases are complete fo
 8. `கங்கையின் காதல்` — `stories/gangaiyin-kadhal/translations/en/gangaiyin-kadhal.md` — **PASS**
 9. `தாய்மை` — `stories/thaaymai/translations/en/thaaymai.md` — **PASS**
 10. `தப்பிவிட்டார்கள்` — `stories/thappivittargal/translations/en/thappivittargal.md` — **PASS**
+11. `தப்பவில்லை` — `stories/thappavillai/translations/en/thappavillai.md` — **PASS**
+12. `ஆதரிக்கிறார்` — `stories/aatharikkirar/translations/en/aatharikkirar.md` — **PASS**
+13. `இரகசியம்!` — `stories/iragasiyam/translations/en/iragasiyam.md` — **PASS**
+14. `முந்நூறு ரூபாய்` — `stories/munnuru-rupai/translations/en/munnuru-rupai.md` — **PASS**
+15. `ஏழை` — `stories/ezhai/translations/en/ezhai.md` — **PASS**
 
-### Story 9 — `தாய்மை`
-- scans **73–83 / printed 64–74**
-- all eleven source-page markers represented: **Yes**
-- source-bold scan-82 warning line preserved semantically: **Yes**
-- visual-fidelity-restored Tamil spans translated from the current canonical assembly: **Yes**
+### Story 11 — `தப்பவில்லை`
+- scans **92–101 / printed 83–92**
+- all ten source-page markers represented: **Yes**
+- physical continuations 92→93, 93→94 and 95→96 represented traceably: **Yes**
+- source-bold `நாட்கள் ஓடின...` preserved semantically: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
-### Story 10 — `தப்பிவிட்டார்கள்`
-- scans **84–91 / printed 75–82**
-- all eight source-page markers represented: **Yes**
-- physical joins 84→85, 86→87 and 90→91 represented traceably: **Yes**
-- assault, escape and final social-critique sequence preserved without omission: **Yes**
+### Story 12 — `ஆதரிக்கிறார்`
+- scans **102–107 / printed 93–98**
+- all six source-page markers represented: **Yes**
+- source-bold spans and physical joins preserved: **Yes**
+- source-supported `பொதுத்தொண்டு சிங்கம்` translated from current canonical Tamil: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 13 — `இரகசியம்!`
+- scans **108–111 / printed 99–102**
+- all four source-page markers represented: **Yes**
+- source-bold correspondence transitions, death note and final explanation preserved: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 14 — `முந்நூறு ரூபாய்`
+- scans **112–114 / printed 103–105**
+- all three source-page markers represented: **Yes**
+- both physical continuations represented traceably: **Yes**
+- unusual `எழுபட்டு`, `குதாகலமாய்`, `ஓடும்பிள்ளையாய்` handled conservatively: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
+### Story 15 — `ஏழை`
+- scans **115–118 / printed 106–109**
+- all four source-page markers represented: **Yes**
+- all three physical continuations represented traceably: **Yes**
+- source-anomalous `...பயந்தான்.` handled by narrative sense without Tamil change: **Yes**
+- final `யார் அது? “ஏழை”!` reveal preserved: **Yes**
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
 ## Next activity
 
-Translate and review **Story 11 — `தப்பவில்லை`**, canonical workspace `stories/thappavillai/`, scans **92–101 / printed pages 83–92**. Scan **102** is the physical boundary witness opening Story 12 `ஆதரிக்கிறார்`.
+Translate and review **Story 16 — `ஒரிஜினலில் உள்ளபடி`**, canonical workspace `stories/originalil-ullapadi/`, scans **119–125 / printed pages 110–116**. Scan **126** is the physical boundary witness opening Story 17 `பனங்குலை`.
 
-Do not begin Story 12 in the same activity unless the user explicitly expands the batch.
+Do not begin Story 17 in the same activity unless the user explicitly expands the batch.
