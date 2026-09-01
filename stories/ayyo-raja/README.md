@@ -25,11 +25,23 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/ayyo-raja.md`](sections/ayyo-raja.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: not started
+- visual fidelity: **PASS — corrected**
 
 ## Old-glyph correction recorded
 
 On scan **217**, the correct source reading is **`என்றாள் முத்தம்மா`**. An earlier provisional `என்றுள்` reading was rejected after reinspection of the old Tamil `றா` glyph. The correction is propagated through the canonical Tamil layers and audit.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/ayyo-raja.md`](translations/en/ayyo-raja.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- all **7 / 7** source-page markers retained
+- physical continuations **212→213**, **214→215**, and **215→216** remain traceable
+- Kodambakkam railway-gate frame, Muthamma/Raja survival context, rickshaw journey, Nepal-king roadblock and final doctor scene preserved
+- corrected source reading `என்றாள் முத்தம்மா` respected
+- canonical Tamil changed during translation: **No**
 
 ## Story boundary
 
@@ -40,10 +52,4 @@ On scan **217**, the correct source reading is **`என்றாள் மு�
 
 ## Completion state
 
-**அய்யோ ராஜா! Tamil archival source processing: COMPLETE for scans 211–217 / printed pages 202–208, with 7/7 verified, 0 blocked, 0 unresolved story text and a persistent human recheck queue.**
-
-## Next anthology activity
-
-Story 32 — **விஷம் இனிது**, printed pages **209–215**, anthology scans **218–224**. Before Story 32 closure, inspect scan **225** and confirm it begins Story 33 `வேணியின் காதலன்`.
-
-Do not begin Story 32 as part of the Story 31 activity.
+**அய்யோ ராஜா! Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 211–217 / printed pages 202–208.**
