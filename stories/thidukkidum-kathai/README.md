@@ -49,6 +49,19 @@ Direct source review synchronized the scan-199 opening rule/enlarged initial and
 - source note and `காதல் கதை` / `வீரக்கதை` subsection structure preserved: **Yes**
 - canonical Tamil changed during translation: **No**
 
+### Post-completion English provenance correction — 2026-09-02
+
+Downstream Wave-2 ingestion exposed that the six English source-page markers were present and ordered but were **mis-anchored to content from scan 200 onward**. The English prose itself was complete.
+
+The marker positions have now been re-anchored against the six verified Tamil page records without changing the title, note, headings, English prose, punctuation or canonical Tamil. Scan **204 / printed 195** now contains its actual translated ending instead of an empty marker section.
+
+- pre-correction English blob: `0547de49e20f8ff96a5be5fb6a683d2b5b661d1e`
+- corrected English blob: `6e321b1b333d3d1c2bbc598cc73e6f6bd6aeae1d`
+- boundary manifest: [`translations/en/page-anchors.json`](translations/en/page-anchors.json)
+- regression validator: [`../../scripts/validate-english-page-anchors.py`](../../scripts/validate-english-page-anchors.py)
+- post-correction review result: **PASS**
+- canonical Tamil changed by correction: **No**
+
 ## Completion state
 
 **திடுக்கிடும் கதை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 199–204 / printed pages 190–195. English review result: PASS.**

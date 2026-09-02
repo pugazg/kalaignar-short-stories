@@ -119,6 +119,39 @@ A translation `PASS` means:
 - canonical Tamil was not modified merely to improve English;
 - no known translation issue remains unresolved.
 
+### 8.1 Physical source-page anchoring — mandatory provenance check
+
+Marker **presence and numeric order are not sufficient** to prove page traceability. A translation may contain every source-page marker in order while the markers delimit the wrong translated content.
+
+Before a story is declared page-traceable:
+
+1. use the verified Tamil `pages/*.md` records as the controlling per-scan boundary evidence;
+2. identify the actual Tamil opening and closing span of each physical source page, including split sentences/words that continue across a page boundary;
+3. confirm that the corresponding English source-page marker is placed at that same physical transition in the translated content;
+4. do **not** require Tamil and English paragraph counts to match — paragraph count is not a provenance invariant;
+5. every source page whose verified Tamil record contains story text must have substantive translated story content in its English marker section;
+6. the final story source page must not have an empty English section merely because its marker exists;
+7. cross-page sentences may continue naturally across the marker, but the marker must sit at the source-established transition;
+8. `TRANSLATION_REVIEW.md` must distinguish **marker presence/order** from **content-boundary alignment**.
+
+For a story where scan-level provenance is consumed downstream, or where a page-anchor defect has been corrected, a human-adjudicated boundary manifest may be maintained at:
+
+`stories/<slug>/translations/en/page-anchors.json`
+
+The manifest records source-backed Tamil boundary witnesses together with the corresponding English start/end anchors. The repository validator:
+
+`python3 scripts/validate-english-page-anchors.py stories/<slug>`
+
+checks marker sequence, printed-page agreement, non-empty translated sections and any recorded human-reviewed boundary anchors without using paragraph-count arithmetic.
+
+After fixing a page-anchor defect, regression verification must include:
+
+1. corrected state → **PASS**;
+2. the prior defective marker pattern, or an equivalent shifted-marker fixture → **FAIL because of page anchoring**;
+3. corrected/restored state → **PASS**.
+
+This regression check must not be satisfied by an unrelated syntax failure.
+
 ## 9. Phase closure
 
 The anthology English-translation phase is complete only when all **37 / 37** anthology stories are `PASS`, with no `pending`, `in progress` or `NEEDS REVIEW` story remaining.

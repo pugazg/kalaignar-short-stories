@@ -77,3 +77,52 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 29.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## Post-completion provenance-anchor correction — 2026-09-02
+
+A downstream Digital Library Bulk Onboarding Wave-2 ingestion check exposed a defect that the original translation review did not detect. The English prose was complete, and the source-page markers **199–204** were present once and in order, but marker presence/order was mistakenly treated as sufficient evidence of page traceability.
+
+### Defect confirmed
+
+Against the six verified Tamil page records:
+
+- scan **199 / printed 190** ends at `அதாவது;` / English `Namely:`;
+- scan **200 / printed 191** begins `“அன்புள்ள நண்பர்களே!...` / English `“Dear friends! Today you will have to walk to your room...`;
+- scan **201 / printed 192** begins `யாரின் கண்களைவிடக்...` / English `Whose eyes could be sharper than the eyes of lovers?...`;
+- scan **202 / printed 193** begins `புள்ளிமானைக்...` / English `A lioness that had killed a spotted deer...`;
+- scan **203 / printed 194** begins the physical continuation `சாய்ந்து கிடந்தார்கள்.` / English `—together.`;
+- scan **204 / printed 195** begins the physical continuation `கண்ட கிளர்ச்சித் தலைவர்...` / English `—the leader of the uprising immediately cried...` and contains the complete translated ending.
+
+In the pre-correction English blob `0547de49e20f8ff96a5be5fb6a683d2b5b661d1e`, the translation of scan 200 was still under marker 199; markers 200–203 each lagged the corresponding translated source page by one boundary; marker 204 was followed by no story prose.
+
+The original review sentence saying the joins were traceable was therefore **too strong with respect to English marker anchoring**. It accurately described prose completeness and source order, but did not prove physical-page attribution.
+
+### Correction performed
+
+Only the English source-page marker positions were changed. The corrected English blob is `6e321b1b333d3d1c2bbc598cc73e6f6bd6aeae1d`.
+
+- title: unchanged;
+- source note: unchanged;
+- headings: unchanged;
+- English prose and punctuation: unchanged;
+- canonical Tamil: unchanged;
+- scan/printed-page marker labels: unchanged;
+- marker positions: re-anchored to the actual six physical Tamil page boundaries.
+
+All five cross-page joins now remain traceable at the correct physical transition, including the split continuations 202→203 and 203→204.
+
+### Regression guard / re-verification
+
+`translations/en/page-anchors.json` records human-adjudicated start/end boundary evidence for all six scans, and the repository-level `scripts/validate-english-page-anchors.py` validator checks marker sequence, printed-page agreement, non-empty English sections for source pages containing story text, and the human-reviewed boundary anchors without relying on Tamil/English paragraph-count equality.
+
+Regression application:
+
+1. corrected mapping → **PASS**;
+2. pre-correction shifted mapping → **FAIL**, including a scan-200 start-anchor mismatch and an empty scan-204 translated section;
+3. corrected mapping restored → **PASS**.
+
+### Current result
+
+**PASS — Story 29 English translation remains complete and is re-verified for physical source-page provenance after the marker-only correction.**
+
+No Tamil source issue was reopened and no English prose was retranscribed or retranslated.

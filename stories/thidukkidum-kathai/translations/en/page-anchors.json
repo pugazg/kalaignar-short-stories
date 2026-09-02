@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "story": "thidukkidum-kathai",
+  "authority": "verified Tamil page records under stories/thidukkidum-kathai/pages/",
+  "purpose": "Human-adjudicated physical page-boundary anchors for English provenance validation. Paragraph counts are intentionally not used.",
+  "anchors": [
+    {
+      "scan": 199,
+      "printed_page": 190,
+      "tamil_starts_with": "நியூயார்க் நகரத்தைப்பற்றி நிறையக் கேள்விப்பட்டிருக்கிறோம்",
+      "tamil_ends_with": "அதாவது;",
+      "english_starts_with": "We have heard a great deal about New York City",
+      "english_ends_with": "Namely:"
+    },
+    {
+      "scan": 200,
+      "printed_page": 191,
+      "tamil_starts_with": "“அன்புள்ள நண்பர்களே! இன்று நீங்கள் உங்கள் அறைக்கு நடந்துதான் போகவேண்டும்",
+      "tamil_ends_with": "அதற்கு அந்தக் களிமண் சுவரோ உணர்ச்சிக்கு இடப்பட்ட வேலியாக இருந்து வேலை பார்த்து வந்தது.",
+      "english_starts_with": "“Dear friends! Today you will have to walk to your room",
+      "english_ends_with": "That clay wall served as a fence set against their feelings."
+    },
+    {
+      "scan": 201,
+      "printed_page": 192,
+      "tamil_starts_with": "யாரின் கண்களைவிடக் காதலர்களின் கண்களுக்குத்தான் கூர்மை அதிகமாயிற்றே!",
+      "tamil_ends_with": "“ஓ” வென்ற ஒலி அவள் கேட்டுத் திஸ்பே திரும்பினாள்.",
+      "english_starts_with": "Whose eyes could be sharper than the eyes of lovers?",
+      "english_ends_with": "She heard a sound like “O!” and turned."
+    },
+    {
+      "scan": 202,
+      "printed_page": 193,
+      "tamil_starts_with": "புள்ளிமானைக் கொன்று போட்ட பெண் சிங்கம் ஒன்று",
+      "tamil_ends_with": "காதலர்கள் நிசின் சமாதிக்கு அருகிலே பிணமாகச்",
+      "english_starts_with": "A lioness that had killed a spotted deer",
+      "english_ends_with": "the lovers lay as corpses beside Nisin’s tomb—"
+    },
+    {
+      "scan": 203,
+      "printed_page": 194,
+      "tamil_starts_with": "சாய்ந்து கிடந்தார்கள்.",
+      "tamil_ends_with": "புதுத்தலைவனின் மிரட்டலைக்",
+      "english_starts_with": "—together. The pair whom society would not unite",
+      "english_ends_with": "Faced with the new leader’s threat—"
+    },
+    {
+      "scan": 204,
+      "printed_page": 195,
+      "tamil_starts_with": "கண்ட கிளர்ச்சித் தலைவர்",
+      "tamil_ends_with": "(இருவருக்கும் அது திடுக்கிடும் கதையாகத்தானே இருந்திருக்கும்.)",
+      "english_starts_with": "—the leader of the uprising immediately cried",
+      "english_ends_with": "(Surely that must have been a startling story for the other two.)"
+    }
+  ]
+}

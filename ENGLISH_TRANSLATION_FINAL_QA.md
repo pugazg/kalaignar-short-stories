@@ -107,3 +107,62 @@ Durable state after this QA:
 - unresolved anthology story text: **0**
 
 This QA closure does not authorize modernization, adaptation, republication, release packaging or replacement of the canonical Tamil layer. Any such next phase requires explicit authorization.
+
+## Post-completion correction / QA strengthening — Story 29, 2026-09-02
+
+A downstream Digital Library Bulk Onboarding Wave-2 source-ingestion check found a provenance defect in Story 29 `திடுக்கிடும் கதை` that the original structural QA above did not detect.
+
+### What the original QA missed
+
+The Story-29 English file had all six markers **199–204** present once and in order, so presence/order checks passed. However, comparison with the six verified Tamil page records showed that marker **200** began one physical page too late, markers **201–203** continued that one-page lag, and marker **204** contained no story prose.
+
+The pre-correction English blob was:
+
+`0547de49e20f8ff96a5be5fb6a683d2b5b661d1e`
+
+The English prose itself was complete and in source order. The defect was **physical source-page anchoring only**.
+
+### Source-backed repair
+
+The markers were re-anchored against the verified Tamil page records so that:
+
+- scan **199 / printed 190** ends at English `Namely:`;
+- scan **200 / printed 191** begins `“Dear friends! Today you will have to walk to your room...`;
+- scan **201 / printed 192** begins `Whose eyes could be sharper than the eyes of lovers?...`;
+- scan **202 / printed 193** begins `A lioness that had killed a spotted deer...`;
+- scan **203 / printed 194** begins the physical continuation `—together.`;
+- scan **204 / printed 195** begins the physical continuation `—the leader of the uprising immediately cried...` and contains the complete translated ending.
+
+Corrected English blob:
+
+`6e321b1b333d3d1c2bbc598cc73e6f6bd6aeae1d`
+
+No English prose, punctuation, title, source note or heading changed. Canonical Tamil changed: **No**.
+
+### Strengthened regression guard
+
+`ENGLISH_TRANSLATION_GUIDE.md` now explicitly distinguishes marker presence/order from content-boundary alignment. A new generic validator, `scripts/validate-english-page-anchors.py`, checks:
+
+- expected marker scan sequence;
+- printed-page agreement;
+- a non-empty English marker section whenever the verified Tamil page record contains story text;
+- the final source page is not an empty translated section;
+- optional human-adjudicated boundary anchors without assuming Tamil/English paragraph-count equality.
+
+Story 29 now carries `translations/en/page-anchors.json`, recording human-reviewed Tamil boundary witnesses and corresponding English start/end anchors for all six scans.
+
+### Negative regression check
+
+Applying the strengthened guard to the page-anchor states gives:
+
+1. corrected Story-29 mapping → **PASS**;
+2. pre-correction shifted mapping → **FAIL** on page anchoring, including the scan-200 start-boundary mismatch and empty scan-204 translated section;
+3. corrected mapping restored → **PASS**.
+
+The failure is page-provenance specific, not a syntax failure or paragraph-count mismatch.
+
+### QA disposition after correction
+
+The original final QA remains valid for anthology completion counts and English prose completeness, but its former marker-presence criterion was insufficient for scan-level provenance. Story 29 has now been re-reviewed under the strengthened criterion.
+
+**Current final QA result: PASS — 37 / 37 English translations remain complete, with Story 29's physical source-page anchoring corrected and re-verified.**

@@ -102,6 +102,27 @@ The QA independently checked the completed English phase against the pre-English
 
 QA result: **PASS**.
 
+## Post-completion source correction — Story 29 English page anchoring
+
+On **2026-09-02**, downstream Digital Library Wave-2 ingestion exposed a provenance defect in `stories/thidukkidum-kathai/translations/en/thidukkidum-kathai.md`.
+
+The six English markers 199–204 were present and ordered, but the verified Tamil page records proved that content from scan **200** onward was anchored one marker too early and the scan-204 marker section contained no story prose. English prose itself was complete.
+
+Correction scope:
+
+- pre-correction source checkpoint: `a9b333f12128686785ee981f97313a64af12e29b`;
+- pre-correction English blob: `0547de49e20f8ff96a5be5fb6a683d2b5b661d1e`;
+- corrected English blob: `6e321b1b333d3d1c2bbc598cc73e6f6bd6aeae1d`;
+- English prose changed: **No**;
+- Tamil changed: **No**;
+- title/note/headings changed: **No**;
+- marker positions re-anchored: **Yes**;
+- Story-29 translation review: **PASS after re-verification**.
+
+A Story-29 boundary manifest and generic `scripts/validate-english-page-anchors.py` guard now verify content-boundary anchoring without assuming paragraph-count equality. The pre-correction shifted pattern fails this guard; the corrected mapping passes.
+
+The earlier downstream Wave-2 source pin `a9b333f12128686785ee981f97313a64af12e29b` is obsolete after this repair. **Wave 2 must recompute the 37-story source freeze from the newer live `main`; no Digital Library implementation is part of this source correction.**
+
 ## Final phase state
 
 - anthology stories: **37**

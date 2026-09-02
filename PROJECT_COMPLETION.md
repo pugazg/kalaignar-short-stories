@@ -200,3 +200,21 @@ This completion document was prepared against live `main` after the final Englis
 `a670e13684ca535d0d4f06aeefa4793b420cab49` — `Advance handoff after final English QA`
 
 The commit adding this document becomes the subsequent repository checkpoint.
+
+## Post-completion source correction — 2026-09-02
+
+A downstream Digital Library Bulk Onboarding Wave-2 source-ingestion check found that Story 29 `திடுக்கிடும் கதை` had a **page-provenance anchoring defect in its English translation markers**. The English prose was complete, but markers 200–204 did not delimit the correct physical source-page content; the final scan-204 marker section was empty.
+
+The defect was independently rechecked against all six verified Tamil page records before correction. The repair changed **marker positions only** in `stories/thidukkidum-kathai/translations/en/thidukkidum-kathai.md`.
+
+- pre-correction English blob: `0547de49e20f8ff96a5be5fb6a683d2b5b661d1e`
+- corrected English blob: `6e321b1b333d3d1c2bbc598cc73e6f6bd6aeae1d`
+- English prose changed: **No**
+- canonical Tamil changed: **No**
+- completion counts changed: **No**
+- Story 29 English result after re-verification: **PASS**
+- final English QA after correction: **PASS**
+
+The Story-29 translation review preserves the original review history and records the missed provenance condition, repair and re-verification. `ENGLISH_TRANSLATION_GUIDE.md` now requires content-boundary validation rather than marker presence/order alone, with `scripts/validate-english-page-anchors.py` and the Story-29 boundary manifest providing a regression guard.
+
+The earlier repository pin `a9b333f12128686785ee981f97313a64af12e29b` predates this correction and must not be used as a downstream source freeze after the correction lands. Any downstream Wave-2 source freeze must be recomputed from the newer live `main`.
