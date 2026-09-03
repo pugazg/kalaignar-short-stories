@@ -31,13 +31,13 @@ Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 - contents: **40 stories**
 - story-text scans: **9–81 / printed pages 7–79**
 - scan **82**: back cover
-- Tamil source complete: **11 / 40**
-- Tamil source pending: **29 / 40**
+- Tamil source complete: **21 / 40**
+- Tamil source pending: **19 / 40**
 - English from this collection: **0 / 40**
 
-Stories **1–11** are source-complete with **0 blocked / 0 unresolved story text**. The completed first 10-story iteration was Stories **2–11** after Story 1 had already been closed independently.
+Stories **1–21** are source-complete with **0 blocked / 0 unresolved story text**. Stories **12–21** are the completed second 10-story iteration.
 
-Six TOC/opening-heading variances are known; newly confirmed Story 11 is TOC **`சாவிதான் இல்லை`** ↔ opening **`சாவி தான் இல்லை`**.
+Six TOC/opening-heading variances are registered: Stories **2, 11, 24, 28, 35, 39**.
 
 ## ITERATION RULE
 
@@ -64,21 +64,23 @@ Read completely before source-dependent writes:
 7. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 8. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
 
-## EXACT NEXT ITERATION — STORIES 12–21
+## EXACT NEXT ITERATION — STORIES 22–31
 
-Process all ten stories in this iteration and stop after Story 21 unless the user explicitly expands it:
+Process all ten stories and stop after Story 31 unless the user explicitly expands the batch:
 
-12. **`கண்ணில் கால்`** — printed page **27**, source scan **29**, next-boundary scan **30**;
-13. **`மயில் ராவணன்`** — printed **28–29**, scans **30–31**, boundary **32**;
-14. **`ஜாடி குட்டி போடுமா?`** — printed **30**, scan **32**, boundary **33**;
-15. **`ஒண்ணு குடுமா?`** — printed **31–32**, scans **33–34**, boundary **35**;
-16. **`அத்திரி பாச்சா`** — printed **33**, scan **35**, boundary **36**;
-17. **`செருப்போடு இரு`** — printed **34**, scan **36**, boundary **37**;
-18. **`இடிக்குப் பின் மழை`** — printed **35–36**, scans **37–38**, boundary **39**;
-19. **`நடக்குமா நடக்காதா?`** — printed **37–39**, scans **39–41**, boundary **42**;
-20. **`கனியும் கணையும்`** — printed **40**, scan **42**, boundary **43**;
-21. **`இதயம் பேசுகிறது`** — printed **41**, scan **43**, boundary **44**.
+22. **`புலிவால்`** — printed **42**, source scan **44**, next-boundary scan **45**;
+23. **`தெரியாத பேச்சு`** — printed **43–44**, scans **45–46**, boundary **47**;
+24. TOC **`வெண்ணெய் உருகுது வெயிலில்!`** / opening **`வெண்ணெய் உருகுது வெயிலில்`** — printed **45–51**, scans **47–53**, boundary **54**;
+25. **`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`** — printed **52–57**, scans **54–59**, boundary **60**;
+26. **`பொறுமைக்கு சான்று`** — printed **58**, scan **60**, boundary **61**;
+27. **`எடுக்கவோ கோக்கவோ!`** — printed **59**, scan **61**, boundary **62**;
+28. TOC **`அந்த நாள் வந்திலை...`** / opening **`அந்த நாள் வந்திலை!`** — printed **60–61**, scans **62–63**, boundary **64**;
+29. **`பனித் துளியில் பனைமரம்`** — printed **62**, scan **64**, boundary **65**;
+30. **`பாரூர் போல...`** — printed **63**, scan **65**, boundary **66**;
+31. **`இராமனைப் பற்றி இராமன்`** — printed **64–66**, scans **66–68**, boundary **69**.
 
-The TOC-derived ranges are routing guides only. Inspect every next-boundary scan directly: the preceding story may continue above the next story heading, as repeatedly observed in Stories 1–10.
+Story 21 closes at the top of scan **44**; Story 22 begins below that already-closed asterisk. Preserve Story-21 text and begin Story 22 only below its heading boundary.
+
+TOC-derived ranges are routing guides only. Inspect every next-boundary scan directly: the preceding story may continue above the next story heading.
 
 The controlling PDF must be attached or otherwise resolved before page-level visual verification. Do not use OCR memory or inferred prose as a substitute for direct scan evidence.

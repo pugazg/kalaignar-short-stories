@@ -2,7 +2,7 @@
 
 This folder registers **`கலைஞர் சொன்ன கதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
 
-The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes are activated under canonical `stories/<slug>/` workspaces. Each story still receives its own live-main duplicate check and direct source verification; by current user instruction, execution proceeds in **10-story iterations**.
+The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes are activated under canonical `stories/<slug>/` workspaces. Each story receives its own live-main duplicate check and direct source verification; by current user instruction, execution proceeds in **10-story iterations**.
 
 ## Source snapshot
 
@@ -27,34 +27,44 @@ Full checksum, byte size, imprint and scan-condition notes are in `metadata/sour
 - calculated TOC-derived ranges: **40 / 40**
 - story-opening scans visually checked: **40 / 40**
 - final Story-40/back-cover boundary checked: **Yes**
-- canonical story workspaces activated from this collection: **11 / 40**
-- Tamil source processing complete: **11 / 40**
-- Tamil source processing pending: **29 / 40**
+- canonical story workspaces activated from this collection: **21 / 40**
+- Tamil source processing complete: **21 / 40**
+- Tamil source processing pending: **19 / 40**
 - English translation from this collection: **0 / 40**
 
-The story block uses **scan = printed page + 2**, but successive TOC start pages are only routing coordinates. Direct page review has repeatedly confirmed **shared physical boundary scans** where one story closes above the next story heading.
+The story block uses **scan = printed page + 2**, but successive TOC start pages are only routing coordinates. Direct page review repeatedly confirms **shared physical boundary scans** where one story closes above the next story heading.
 
-## Completed source work — Stories 1–11
+## Completed source work — Stories 1–21
 
 | # | Story | Canonical workspace | Verified physical source span | Tamil |
 |---:|---|---|---|---|
-| 1 | `அப்படித்தான் சிரிப்பேன்` | `stories/appadithan-sirippen/` | scan 9 + top of scan 10 | PASS |
-| 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | `stories/ice-katti/` | lower scan 10 → upper scan 11 | PASS |
-| 3 | `தலையில் மலை` | `stories/thalaiyil-malai/` | lower scan 11 → upper scan 16 | PASS |
-| 4 | `வெறும் கை முழம் போடும்` | `stories/verum-kai-muzham-podum/` | lower scan 16 → upper scan 17 | PASS |
-| 5 | `கூட்டணி` | `stories/koottani/` | lower scan 17 → upper scan 18 | PASS |
-| 6 | `சீற வேண்டாமா?` | `stories/seera-vendama/` | lower scan 18 → upper scan 19 | PASS |
-| 7 | `கழுதையின் கதை` | `stories/kazhuthaiyin-kathai/` | lower scan 19 → scan 20 → upper scan 21 | PASS |
-| 8 | `உனக்கு வயதென்ன?` | `stories/unakku-vayathenna/` | lower scan 21 → upper scan 22 | PASS |
-| 9 | `தமிழன் என்று சொல்லடா!` | `stories/thamizan-endru-sollada/` | lower scan 22 → scans 23–24 → upper scan 25 | PASS |
-| 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | `stories/kadamai-kanniyam-kattuppadu/` | lower scan 25 → scan 26 → upper scan 27 | PASS |
-| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | `stories/saavi-thaan-illai/` | lower scan 27 → scan 28 | PASS |
+| 1 | `அப்படித்தான் சிரிப்பேன்` | `stories/appadithan-sirippen/` | scan 9 → top 10 | PASS |
+| 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | `stories/ice-katti/` | lower 10 → upper 11 | PASS |
+| 3 | `தலையில் மலை` | `stories/thalaiyil-malai/` | lower 11 → upper 16 | PASS |
+| 4 | `வெறும் கை முழம் போடும்` | `stories/verum-kai-muzham-podum/` | lower 16 → upper 17 | PASS |
+| 5 | `கூட்டணி` | `stories/koottani/` | lower 17 → upper 18 | PASS |
+| 6 | `சீற வேண்டாமா?` | `stories/seera-vendama/` | lower 18 → upper 19 | PASS |
+| 7 | `கழுதையின் கதை` | `stories/kazhuthaiyin-kathai/` | lower 19 → 20 → upper 21 | PASS |
+| 8 | `உனக்கு வயதென்ன?` | `stories/unakku-vayathenna/` | lower 21 → upper 22 | PASS |
+| 9 | `தமிழன் என்று சொல்லடா!` | `stories/thamizan-endru-sollada/` | lower 22 → 23–24 → upper 25 | PASS |
+| 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | `stories/kadamai-kanniyam-kattuppadu/` | lower 25 → 26 → upper 27 | PASS |
+| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | `stories/saavi-thaan-illai/` | lower 27 → 28 | PASS |
+| 12 | `கண்ணில் கால்` | `stories/kannil-kaal/` | 29 → upper 30 | PASS |
+| 13 | `மயில் ராவணன்` | `stories/mayil-ravanan/` | lower 30 → 31 | PASS |
+| 14 | `ஜாடி குட்டி போடுமா?` | `stories/jaadi-kutti-poduma/` | 32 → upper 33 | PASS |
+| 15 | `ஒண்ணு குடுமா?` | `stories/onnu-kuduma/` | lower 33 → 34 → upper 35 | PASS |
+| 16 | `அத்திரி பாச்சா` | `stories/aththiri-paachaa/` | lower 35 → upper 36 | PASS |
+| 17 | `செருப்போடு இரு` | `stories/seruppodu-iru/` | lower 36 → upper 37 | PASS |
+| 18 | `இடிக்குப் பின் மழை` | `stories/idikkup-pin-mazhai/` | lower 37 → 38 → upper 39 | PASS |
+| 19 | `நடக்குமா நடக்காதா?` | `stories/nadakkuma-nadakkatha/` | lower 39 → 40–41 → upper 42 | PASS |
+| 20 | `கனியும் கணையும்` | `stories/kaniyum-kanaiyum/` | lower 42 → upper 43 | PASS |
+| 21 | `இதயம் பேசுகிறது` | `stories/idhayam-pesugirathu/` | lower 43 → upper 44 | PASS |
 
-All eleven completed stories have **0 blocked / 0 unresolved story text** and persistent human-review queues. English translation has not been opened for this collection.
+All twenty-one completed stories have **0 blocked / 0 unresolved story text** and persistent human-review queues. English translation has not been opened for this collection.
 
 ## Source-title differences
 
-Six TOC/opening-heading differences are now directly documented:
+Six TOC/opening-heading differences are directly documented:
 
 1. Story 2 — TOC **`ஐஸ்கட்டி`** ↔ opening **`ஐஸ் கட்டி`**;
 2. Story 11 — TOC **`சாவிதான் இல்லை`** ↔ opening **`சாவி தான் இல்லை`**;
@@ -65,19 +75,19 @@ Six TOC/opening-heading differences are now directly documented:
 
 No title form is silently normalized. `indexes/story-inventory.md` retains both witnesses.
 
-## Exact next iteration — Stories 12–21
+## Exact next iteration — Stories 22–31
 
-Process **10 stories** and stop after Story 21 unless the user explicitly expands the batch:
+Process **10 stories** and stop after Story 31 unless the user explicitly expands the batch:
 
-12. `கண்ணில் கால்` — printed 27 / scan 29; next boundary 30;
-13. `மயில் ராவணன்` — printed 28–29 / scans 30–31; boundary 32;
-14. `ஜாடி குட்டி போடுமா?` — printed 30 / scan 32; boundary 33;
-15. `ஒண்ணு குடுமா?` — printed 31–32 / scans 33–34; boundary 35;
-16. `அத்திரி பாச்சா` — printed 33 / scan 35; boundary 36;
-17. `செருப்போடு இரு` — printed 34 / scan 36; boundary 37;
-18. `இடிக்குப் பின் மழை` — printed 35–36 / scans 37–38; boundary 39;
-19. `நடக்குமா நடக்காதா?` — printed 37–39 / scans 39–41; boundary 42;
-20. `கனியும் கணையும்` — printed 40 / scan 42; boundary 43;
-21. `இதயம் பேசுகிறது` — printed 41 / scan 43; boundary 44.
+22. `புலிவால்` — printed 42 / scan 44; boundary 45;
+23. `தெரியாத பேச்சு` — printed 43–44 / scans 45–46; boundary 47;
+24. TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` — printed 45–51 / scans 47–53; boundary 54;
+25. `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — printed 52–57 / scans 54–59; boundary 60;
+26. `பொறுமைக்கு சான்று` — printed 58 / scan 60; boundary 61;
+27. `எடுக்கவோ கோக்கவோ!` — printed 59 / scan 61; boundary 62;
+28. TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` — printed 60–61 / scans 62–63; boundary 64;
+29. `பனித் துளியில் பனைமரம்` — printed 62 / scan 64; boundary 65;
+30. `பாரூர் போல...` — printed 63 / scan 65; boundary 66;
+31. `இராமனைப் பற்றி இராமன்` — printed 64–66 / scans 66–68; boundary 69.
 
-For every story, re-check live canonical deduplication, inspect the controlling scans directly, and treat the next heading scan as a boundary witness that may also contain the preceding story's tail. Do not force TOC-derived ranges to be physically non-overlapping.
+For every story, re-fetch live `main`, re-check canonical deduplication, inspect the controlling scans directly, and treat the next-heading scan as a boundary witness that may also contain the preceding story's tail. Do not force TOC-derived ranges to be physically non-overlapping.

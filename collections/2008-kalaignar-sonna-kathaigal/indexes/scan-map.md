@@ -63,23 +63,24 @@ Story-page formula: **scan = printed page + 2**.
 | 39 | `நன்றி சொல்லும் நேரம்...` | 78–78 | 80–80 | Yes | 81 |
 | 40 | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | Yes | 82 |
 
-## Source-verified processing overlay — Stories 1–11
+## Source-verified processing overlay
 
-| Story | Verified physical span | Boundary result |
-|---:|---|---|
-| 1 | scan 9 → top scan 10 | Story 2 begins below Story-1 asterisk on 10 |
-| 2 | lower 10 → upper 11 | Story 3 begins below Story-2 asterisk on 11 |
-| 3 | lower 11 → upper 16 | Story 4 begins below Story-3 ornament on 16 |
-| 4 | lower 16 → upper 17 | Story 5 begins below Story-4 asterisk on 17 |
-| 5 | lower 17 → upper 18 | Story 6 begins below Story-5 asterisk on 18 |
-| 6 | lower 18 → upper 19 | Story 7 begins below Story-6 ornament on 19 |
-| 7 | lower 19 → scan 20 → upper 21 | Story 8 begins below Story-7 asterisk on 21 |
-| 8 | lower 21 → upper 22 | Story 9 begins below Story-8 asterisk on 22 |
-| 9 | lower 22 → scans 23–24 → upper 25 | Story 10 begins below Story-9 asterisk on 25 |
-| 10 | lower 25 → scan 26 → upper 27 | Story 11 begins below Story-10 asterisk on 27 |
-| 11 | lower 27 → scan 28 | Story 11 ends on 28; scan 29 opens Story 12 |
+Stories **1–21** are Tamil source-complete. Direct review established the physical spans listed in `story-inventory.md`; many deliberately overlap the next story's opening scan because the preceding story ends above the next heading.
 
-Processing totals: **11 / 40 complete; 29 / 40 pending.**
+Important later-batch boundaries:
+
+- Story 12: scan **29 → upper 30**; Story 13 begins lower on 30;
+- Story 13: lower **30 → 31**; scan 32 is only the Story-14 boundary;
+- Story 14: **32 → upper 33**;
+- Story 15: lower **33 → 34 → upper 35**;
+- Story 16: lower **35 → upper 36**;
+- Story 17: lower **36 → upper 37**;
+- Story 18: lower **37 → 38 → upper 39**;
+- Story 19: lower **39 → 40–41 → upper 42**;
+- Story 20: lower **42 → upper 43**;
+- Story 21: lower **43 → upper 44**; Story 22 begins below its asterisk on scan 44.
+
+Processing totals: **21 / 40 complete; 19 / 40 pending.**
 
 ## Final collection boundary
 
@@ -87,4 +88,4 @@ Processing totals: **11 / 40 complete; 29 / 40 pending.**
 - The previous story ends above the Story-40 heading on the same physical page.
 - scan **82** is the physical back cover and contains no further story text.
 
-The TOC-derived ranges continuously route scans **9–81**, while source-verified overlays preserve legitimate shared boundary scans.
+TOC-derived ranges cover printed pages **7–79 / scans 9–81** continuously; source-verified overlays control actual shared story boundaries.

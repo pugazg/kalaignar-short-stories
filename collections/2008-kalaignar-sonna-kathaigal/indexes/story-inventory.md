@@ -8,7 +8,7 @@ Inventory rule: printed start pages come from contents scans 7–8; calculated p
 
 | # | TOC title | Story-opening heading | Printed pages | Scans | Next boundary | State |
 |---:|---|---|---:|---:|---:|---|
-| 1 | `அப்படித்தான் சிரிப்பேன்` | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | 10 | **Tamil complete — scan 9 + ending on shared scan 10; PASS** — `stories/appadithan-sirippen/` |
+| 1 | `அப்படித்தான் சிரிப்பேன்` | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | 10 | **Tamil complete — 9 → top 10; PASS** — `stories/appadithan-sirippen/` |
 | 2 | `ஐஸ்கட்டி` | `ஐஸ் கட்டி` | 8–8 | 10–10 | 11 | **Tamil complete — lower 10 → upper 11; PASS** — `stories/ice-katti/` |
 | 3 | `தலையில் மலை` | `தலையில் மலை` | 9–13 | 11–15 | 16 | **Tamil complete — lower 11 → upper 16; PASS** — `stories/thalaiyil-malai/` |
 | 4 | `வெறும் கை முழம் போடும்` | `வெறும் கை முழம் போடும்` | 14–14 | 16–16 | 17 | **Tamil complete — lower 16 → upper 17; PASS** — `stories/verum-kai-muzham-podum/` |
@@ -19,16 +19,16 @@ Inventory rule: printed start pages come from contents scans 7–8; calculated p
 | 9 | `தமிழன் என்று சொல்லடா!` | `தமிழன் என்று சொல்லடா!` | 20–22 | 22–24 | 25 | **Tamil complete — lower 22 → 23–24 → upper 25; PASS** — `stories/thamizan-endru-sollada/` |
 | 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | `கடமை கண்ணியம் கட்டுப்பாடு` | 23–24 | 25–26 | 27 | **Tamil complete — lower 25 → 26 → upper 27; PASS** — `stories/kadamai-kanniyam-kattuppadu/` |
 | 11 | `சாவிதான் இல்லை` | `சாவி தான் இல்லை` | 25–26 | 27–28 | 29 | **Tamil complete — lower 27 → 28; PASS** — `stories/saavi-thaan-illai/` |
-| 12 | `கண்ணில் கால்` | `கண்ணில் கால்` | 27–27 | 29–29 | 30 | registered / not activated |
-| 13 | `மயில் ராவணன்` | `மயில் ராவணன்` | 28–29 | 30–31 | 32 | registered / not activated |
-| 14 | `ஜாடி குட்டி போடுமா?` | `ஜாடி குட்டி போடுமா?` | 30–30 | 32–32 | 33 | registered / not activated |
-| 15 | `ஒண்ணு குடுமா?` | `ஒண்ணு குடுமா?` | 31–32 | 33–34 | 35 | registered / not activated |
-| 16 | `அத்திரி பாச்சா` | `அத்திரி பாச்சா` | 33–33 | 35–35 | 36 | registered / not activated |
-| 17 | `செருப்போடு இரு` | `செருப்போடு இரு` | 34–34 | 36–36 | 37 | registered / not activated |
-| 18 | `இடிக்குப் பின் மழை` | `இடிக்குப் பின் மழை` | 35–36 | 37–38 | 39 | registered / not activated |
-| 19 | `நடக்குமா நடக்காதா?` | `நடக்குமா நடக்காதா?` | 37–39 | 39–41 | 42 | registered / not activated |
-| 20 | `கனியும் கணையும்` | `கனியும் கணையும்` | 40–40 | 42–42 | 43 | registered / not activated |
-| 21 | `இதயம் பேசுகிறது` | `இதயம் பேசுகிறது` | 41–41 | 43–43 | 44 | registered / not activated |
+| 12 | `கண்ணில் கால்` | `கண்ணில் கால்` | 27–27 | 29–29 | 30 | **Tamil complete — 29 → upper 30; PASS** — `stories/kannil-kaal/` |
+| 13 | `மயில் ராவணன்` | `மயில் ராவணன்` | 28–29 | 30–31 | 32 | **Tamil complete — lower 30 → 31; PASS** — `stories/mayil-ravanan/` |
+| 14 | `ஜாடி குட்டி போடுமா?` | `ஜாடி குட்டி போடுமா?` | 30–30 | 32–32 | 33 | **Tamil complete — 32 → upper 33; PASS** — `stories/jaadi-kutti-poduma/` |
+| 15 | `ஒண்ணு குடுமா?` | `ஒண்ணு குடுமா?` | 31–32 | 33–34 | 35 | **Tamil complete — lower 33 → 34 → upper 35; PASS** — `stories/onnu-kuduma/` |
+| 16 | `அத்திரி பாச்சா` | `அத்திரி பாச்சா` | 33–33 | 35–35 | 36 | **Tamil complete — lower 35 → upper 36; PASS** — `stories/aththiri-paachaa/` |
+| 17 | `செருப்போடு இரு` | `செருப்போடு இரு` | 34–34 | 36–36 | 37 | **Tamil complete — lower 36 → upper 37; PASS** — `stories/seruppodu-iru/` |
+| 18 | `இடிக்குப் பின் மழை` | `இடிக்குப் பின் மழை` | 35–36 | 37–38 | 39 | **Tamil complete — lower 37 → 38 → upper 39; PASS** — `stories/idikkup-pin-mazhai/` |
+| 19 | `நடக்குமா நடக்காதா?` | `நடக்குமா நடக்காதா?` | 37–39 | 39–41 | 42 | **Tamil complete — lower 39 → 40–41 → upper 42; PASS** — `stories/nadakkuma-nadakkatha/` |
+| 20 | `கனியும் கணையும்` | `கனியும் கணையும்` | 40–40 | 42–42 | 43 | **Tamil complete — lower 42 → upper 43; PASS** — `stories/kaniyum-kanaiyum/` |
+| 21 | `இதயம் பேசுகிறது` | `இதயம் பேசுகிறது` | 41–41 | 43–43 | 44 | **Tamil complete — lower 43 → upper 44; PASS** — `stories/idhayam-pesugirathu/` |
 | 22 | `புலிவால்` | `புலிவால்` | 42–42 | 44–44 | 45 | registered / not activated |
 | 23 | `தெரியாத பேச்சு` | `தெரியாத பேச்சு` | 43–44 | 45–46 | 47 | registered / not activated |
 | 24 | `வெண்ணெய் உருகுது வெயிலில்!` | `வெண்ணெய் உருகுது வெயிலில்` | 45–51 | 47–53 | 54 | registered / not activated |
@@ -51,25 +51,20 @@ Inventory rule: printed start pages come from contents scans 7–8; calculated p
 
 ## Source-verified boundary overlay
 
-Stories 1–10 all use at least one shared physical scan. The completed physical spans are:
+Completed physical spans through Story 21:
 
-- #1 scan 9 → top 10;
-- #2 lower 10 → upper 11;
-- #3 lower 11 → upper 16;
-- #4 lower 16 → upper 17;
-- #5 lower 17 → upper 18;
-- #6 lower 18 → upper 19;
-- #7 lower 19 → 20 → upper 21;
-- #8 lower 21 → upper 22;
-- #9 lower 22 → 23–24 → upper 25;
-- #10 lower 25 → 26 → upper 27;
-- #11 lower 27 → 28; scan 29 is the next-story boundary witness.
+- #1 9 → top 10; #2 lower 10 → upper 11; #3 lower 11 → upper 16;
+- #4 lower 16 → upper 17; #5 lower 17 → upper 18; #6 lower 18 → upper 19;
+- #7 lower 19 → 20 → upper 21; #8 lower 21 → upper 22; #9 lower 22 → 23–24 → upper 25;
+- #10 lower 25 → 26 → upper 27; #11 lower 27 → 28;
+- #12 29 → upper 30; #13 lower 30 → 31; #14 32 → upper 33;
+- #15 lower 33 → 34 → upper 35; #16 lower 35 → upper 36; #17 lower 36 → upper 37;
+- #18 lower 37 → 38 → upper 39; #19 lower 39 → 40–41 → upper 42;
+- #20 lower 42 → upper 43; #21 lower 43 → upper 44.
 
-TOC-derived range columns remain unchanged for provenance; completed-state notes record the source-verified physical spans.
+TOC-derived range columns remain unchanged for provenance; completed-state notes record source-verified physical spans.
 
 ## Title-variance register
-
-Six TOC/opening differences are directly documented:
 
 - #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
 - #11 `சாவிதான் இல்லை` ↔ `சாவி தான் இல்லை`;
@@ -78,10 +73,8 @@ Six TOC/opening differences are directly documented:
 - #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
 - #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
 
-Both witnesses must be retained. Do not choose a normalized third form.
-
 ## Processing status
 
-**11 / 40 Tamil source complete; 29 / 40 pending; 0 blocked / 0 unresolved among completed stories.**
+**21 / 40 Tamil source-complete; 19 / 40 pending; completed stories have 0 blocked / 0 unresolved story text.**
 
-Current iteration policy: **10 stories per iteration**. Stories **2–11** are the first completed 10-story iteration after Story 1. Next iteration: **Stories 12–21**, beginning `கண்ணில் கால்` on scan 29 / printed page 27.
+Next exact iteration: **Stories 22–31**, beginning Story 22 `புலிவால்` on scan 44 below the already-closed Story-21 ending and using scan 45 as the first next-boundary witness.
