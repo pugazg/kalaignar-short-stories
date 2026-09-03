@@ -20,8 +20,6 @@ Story-page formula: **scan = printed page + 2**.
 
 ## TOC-derived story ranges
 
-These ranges are calculated from successive contents start pages. Direct story processing may reveal a shared physical page at a boundary; such overlaps are recorded in the source-verified overlay below.
-
 | # | TOC title | Printed pages | PDF scans | Opening checked | Next boundary |
 |---:|---|---:|---:|---|---:|
 | 1 | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | Yes | 10 |
@@ -65,19 +63,23 @@ These ranges are calculated from successive contents start pages. Direct story p
 | 39 | `நன்றி சொல்லும் நேரம்...` | 78–78 | 80–80 | Yes | 81 |
 | 40 | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | Yes | 82 |
 
-## Source-verified processing overlay
+## Source-verified processing overlay — Stories 1–11
 
-### Story 1 — அப்படித்தான் சிரிப்பேன்
+| Story | Verified physical span | Boundary result |
+|---:|---|---|
+| 1 | scan 9 → top scan 10 | Story 2 begins below Story-1 asterisk on 10 |
+| 2 | lower 10 → upper 11 | Story 3 begins below Story-2 asterisk on 11 |
+| 3 | lower 11 → upper 16 | Story 4 begins below Story-3 ornament on 16 |
+| 4 | lower 16 → upper 17 | Story 5 begins below Story-4 asterisk on 17 |
+| 5 | lower 17 → upper 18 | Story 6 begins below Story-5 asterisk on 18 |
+| 6 | lower 18 → upper 19 | Story 7 begins below Story-6 ornament on 19 |
+| 7 | lower 19 → scan 20 → upper 21 | Story 8 begins below Story-7 asterisk on 21 |
+| 8 | lower 21 → upper 22 | Story 9 begins below Story-8 asterisk on 22 |
+| 9 | lower 22 → scans 23–24 → upper 25 | Story 10 begins below Story-9 asterisk on 25 |
+| 10 | lower 25 → scan 26 → upper 27 | Story 11 begins below Story-10 asterisk on 27 |
+| 11 | lower 27 → scan 28 | Story 11 ends on 28; scan 29 opens Story 12 |
 
-- primary opening/body: **scan 9 / printed page 7**;
-- source-verified ending: **top of scan 10 / printed page 8**;
-- scan 9 ends mid-speech at `“ஆமாம்!`;
-- scan 10 continues Story 1, closes it with a printed asterisk, then opens Story 2 `ஐஸ் கட்டி` below;
-- this is an intentional **shared-scan boundary**, not an omitted or duplicated page;
-- canonical workspace: `stories/appadithan-sirippen/`;
-- Tamil source status: **PASS — 0 blocked / 0 unresolved**.
-
-Processing totals: **1 / 40 complete; 39 / 40 pending.**
+Processing totals: **11 / 40 complete; 29 / 40 pending.**
 
 ## Final collection boundary
 
@@ -85,4 +87,4 @@ Processing totals: **1 / 40 complete; 39 / 40 pending.**
 - The previous story ends above the Story-40 heading on the same physical page.
 - scan **82** is the physical back cover and contains no further story text.
 
-The TOC-derived ranges cover printed pages **7–79 / scans 9–81** continuously. Direct page-level processing may legitimately produce shared boundary scans where one story ends above the next story heading; Story 1 → Story 2 on scan 10 is the first verified example.
+The TOC-derived ranges continuously route scans **9–81**, while source-verified overlays preserve legitimate shared boundary scans.

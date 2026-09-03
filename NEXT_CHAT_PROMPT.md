@@ -15,63 +15,45 @@ The 1977 anthology `கலைஞர் கருணாநிதியின் �
 - visual fidelity: **37 / 37 complete**
 - English translation/review: **37 / 37 complete**
 - English final structural/control QA: **PASS**
-- English pending: **0 / 37**
-- English needs review: **0**
 - unresolved anthology story text: **0**
-- scan **260**: verified anthology back cover
+- scan **260**: verified back cover
 
-Story 29 `திடுக்கிடும் கதை` received the post-completion marker-only provenance correction. Its English prose and canonical Tamil were unchanged; the corrected Story-29 scan anchoring is PASS. The obsolete pre-correction Wave-2 source pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
+Story 29 `திடுக்கிடும் கதை` retains its post-completion marker-only provenance correction. The obsolete pre-correction Wave-2 source pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
 ## ACTIVE COLLECTION — கலைஞர் சொன்ன கதைகள்
 
-Controlling source:
+Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
 
-`TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 
-Collection workspace:
-
-`collections/2008-kalaignar-sonna-kathaigal/`
-
-Registered physical source:
-
-- printed title: **கலைஞர் சொன்ன கதைகள்**
-- author: **டாக்டர் கலைஞர் மு. கருணாநிதி**
 - represented edition: **Second Edition, December 2008**
 - PDF scans: **82**
-- printed contents entries: **40**
+- contents: **40 stories**
 - story-text scans: **9–81 / printed pages 7–79**
 - scan **82**: back cover
-- contents transcribed: **40 / 40**
-- TOC-derived story ranges calculated: **40 / 40**
-- story-opening scans visually checked: **40 / 40**
-- story workspaces activated from this collection: **1 / 40**
-- Tamil source processing complete: **1 / 40**
-- Tamil source processing pending: **39 / 40**
+- Tamil source complete: **11 / 40**
+- Tamil source pending: **29 / 40**
+- English from this collection: **0 / 40**
 
-## COMPLETED STORY 1 — அப்படித்தான் சிரிப்பேன்
+Stories **1–11** are source-complete with **0 blocked / 0 unresolved story text**. The completed first 10-story iteration was Stories **2–11** after Story 1 had already been closed independently.
 
-Canonical workspace:
+Six TOC/opening-heading variances are known; newly confirmed Story 11 is TOC **`சாவிதான் இல்லை`** ↔ opening **`சாவி தான் இல்லை`**.
 
-`stories/appadithan-sirippen/`
+## ITERATION RULE
 
-Story 1 is **Tamil source PASS**:
+The user explicitly instructed: **process 10 stories in each iteration**.
 
-- TOC title / opening heading: **`அப்படித்தான் சிரிப்பேன்`**
-- primary opening/body: scan **9 / printed page 7**
-- source-verified ending: top of **scan 10 / printed page 8**
-- scan 9 ends mid-speech at `“ஆமாம்!`
-- scan 10 continues `அப்படித்தான் சிரிப்பேன்!” ...`
-- Story 1 closes with a printed asterisk on scan 10
-- Story 2 begins below that mark on the same scan
-- verified source records: **2 / 2**
-- blocked / unresolved Story-1 text: **0 / 0**
-- Tamil assembly: complete
-- Tamil audit: **PASS**
-- English: **not started**
+Each story still requires:
 
-The original TOC-derived Story-1 primary range was scan 9 only. Direct boundary review established that scan 10 is a shared physical page; this source fact is synchronized in the story workspace, collection inventory, scan map, handover and collection metadata. Do not move the Story-1 tail onto scan 9 and do not duplicate it into Story 2.
+1. fresh live-main duplicate check under TOC/opening/alternate forms;
+2. direct controlling-scan verification;
+3. canonical story workspace with page records, Tamil assembly, metadata, page map, audit and persistent human-review queue;
+4. exact shared-page boundary handling;
+5. no OCR-memory or inferred prose substituted for source evidence.
 
-Read completely before source-dependent changes:
+## MANDATORY STARTUP
+
+Read completely before source-dependent writes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -81,30 +63,22 @@ Read completely before source-dependent changes:
 6. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`
 7. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 8. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
-9. `stories/appadithan-sirippen/README.md`
-10. `stories/appadithan-sirippen/indexes/page-map.md`
-11. `stories/appadithan-sirippen/audit.md`
 
-## EXACT NEXT ACTIVITY
+## EXACT NEXT ITERATION — STORIES 12–21
 
-Process **Story 2 only**.
+Process all ten stories in this iteration and stop after Story 21 unless the user explicitly expands it:
 
-- TOC title: **`ஐஸ்கட்டி`**
-- story-opening heading: **`ஐஸ் கட்டி`**
-- printed page: **8**
-- source scan: **10**
-- shared-page guard: Story 1 occupies the top of scan 10 and ends at the printed asterisk; Story 2 begins only below that boundary
-- next-boundary witness: scan **11**
-- Story 3 TOC/opening title: **`தலையில் மலை`**
+12. **`கண்ணில் கால்`** — printed page **27**, source scan **29**, next-boundary scan **30**;
+13. **`மயில் ராவணன்`** — printed **28–29**, scans **30–31**, boundary **32**;
+14. **`ஜாடி குட்டி போடுமா?`** — printed **30**, scan **32**, boundary **33**;
+15. **`ஒண்ணு குடுமா?`** — printed **31–32**, scans **33–34**, boundary **35**;
+16. **`அத்திரி பாச்சா`** — printed **33**, scan **35**, boundary **36**;
+17. **`செருப்போடு இரு`** — printed **34**, scan **36**, boundary **37**;
+18. **`இடிக்குப் பின் மழை`** — printed **35–36**, scans **37–38**, boundary **39**;
+19. **`நடக்குமா நடக்காதா?`** — printed **37–39**, scans **39–41**, boundary **42**;
+20. **`கனியும் கணையும்`** — printed **40**, scan **42**, boundary **43**;
+21. **`இதயம் பேசுகிறது`** — printed **41**, scan **43**, boundary **44**.
 
-Before creating or extending Story 2:
+The TOC-derived ranges are routing guides only. Inspect every next-boundary scan directly: the preceding story may continue above the next story heading, as repeatedly observed in Stories 1–10.
 
-1. re-fetch live `main`;
-2. confirm no canonical story already exists under `ஐஸ்கட்டி`, `ஐஸ் கட்டி`, or a documented alternate form;
-3. if no canonical match exists, create the Story-2 workspace following the permanent guide;
-4. transcribe only the Story-2 span from controlling scan 10 — do not duplicate the already-closed Story-1 text above it;
-5. preserve punctuation, paragraph structure and non-text source facts exactly;
-6. use scan 11 only as the Story-2 ending/boundary witness;
-7. do **not** begin Story 3 in the same activity unless the user explicitly expands the batch.
-
-The controlling source must be attached or otherwise resolved in the fresh chat before page-level visual verification. Do not use OCR memory or inferred prose as a substitute for direct scan verification.
+The controlling PDF must be attached or otherwise resolved before page-level visual verification. Do not use OCR memory or inferred prose as a substitute for direct scan evidence.

@@ -4,21 +4,21 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 
 Edition represented: **Second Edition, December 2008**
 
-Inventory rule: printed start pages come from the contents on scans 7–8; calculated primary end pages come from the next contents entry; scan coordinates use `scan = printed page + 2`; every calculated opening scan was visually checked against the printed story heading. When direct story processing reveals text continuing on the next story's opening scan, that shared physical boundary is documented explicitly rather than hidden by the TOC-derived range.
+Inventory rule: printed start pages come from contents scans 7–8; calculated primary end pages come from the next contents entry; scan coordinates use `scan = printed page + 2`. Direct source processing controls physical story boundaries and may add a shared ending span on the next story's opening scan.
 
-| # | TOC title | Story-opening heading | Printed pages | Scans | Next boundary scan | State |
+| # | TOC title | Story-opening heading | Printed pages | Scans | Next boundary | State |
 |---:|---|---|---:|---:|---:|---|
-| 1 | `அப்படித்தான் சிரிப்பேன்` | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | 10 | **Tamil source complete — scan 9 verified + Story-1 ending span on shared scan 10 verified; human recheck queue open** — `stories/appadithan-sirippen/` |
-| 2 | `ஐஸ்கட்டி` | `ஐஸ் கட்டி` | 8–8 | 10–10 | 11 | registered / not activated |
-| 3 | `தலையில் மலை` | `தலையில் மலை` | 9–13 | 11–15 | 16 | registered / not activated |
-| 4 | `வெறும் கை முழம் போடும்` | `வெறும் கை முழம் போடும்` | 14–14 | 16–16 | 17 | registered / not activated |
-| 5 | `கூட்டணி` | `கூட்டணி` | 15–15 | 17–17 | 18 | registered / not activated |
-| 6 | `சீற வேண்டாமா?` | `சீற வேண்டாமா?` | 16–16 | 18–18 | 19 | registered / not activated |
-| 7 | `கழுதையின் கதை` | `கழுதையின் கதை` | 17–18 | 19–20 | 21 | registered / not activated |
-| 8 | `உனக்கு வயதென்ன?` | `உனக்கு வயதென்ன?` | 19–19 | 21–21 | 22 | registered / not activated |
-| 9 | `தமிழன் என்று சொல்லடா!` | `தமிழன் என்று சொல்லடா!` | 20–22 | 22–24 | 25 | registered / not activated |
-| 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | `கடமை கண்ணியம் கட்டுப்பாடு` | 23–24 | 25–26 | 27 | registered / not activated |
-| 11 | `சாவிதான் இல்லை` | `சாவிதான் இல்லை` | 25–26 | 27–28 | 29 | registered / not activated |
+| 1 | `அப்படித்தான் சிரிப்பேன்` | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | 10 | **Tamil complete — scan 9 + ending on shared scan 10; PASS** — `stories/appadithan-sirippen/` |
+| 2 | `ஐஸ்கட்டி` | `ஐஸ் கட்டி` | 8–8 | 10–10 | 11 | **Tamil complete — lower 10 → upper 11; PASS** — `stories/ice-katti/` |
+| 3 | `தலையில் மலை` | `தலையில் மலை` | 9–13 | 11–15 | 16 | **Tamil complete — lower 11 → upper 16; PASS** — `stories/thalaiyil-malai/` |
+| 4 | `வெறும் கை முழம் போடும்` | `வெறும் கை முழம் போடும்` | 14–14 | 16–16 | 17 | **Tamil complete — lower 16 → upper 17; PASS** — `stories/verum-kai-muzham-podum/` |
+| 5 | `கூட்டணி` | `கூட்டணி` | 15–15 | 17–17 | 18 | **Tamil complete — lower 17 → upper 18; PASS** — `stories/koottani/` |
+| 6 | `சீற வேண்டாமா?` | `சீற வேண்டாமா?` | 16–16 | 18–18 | 19 | **Tamil complete — lower 18 → upper 19; PASS** — `stories/seera-vendama/` |
+| 7 | `கழுதையின் கதை` | `கழுதையின் கதை` | 17–18 | 19–20 | 21 | **Tamil complete — lower 19 → 20 → upper 21; PASS** — `stories/kazhuthaiyin-kathai/` |
+| 8 | `உனக்கு வயதென்ன?` | `உனக்கு வயதென்ன?` | 19–19 | 21–21 | 22 | **Tamil complete — lower 21 → upper 22; PASS** — `stories/unakku-vayathenna/` |
+| 9 | `தமிழன் என்று சொல்லடா!` | `தமிழன் என்று சொல்லடா!` | 20–22 | 22–24 | 25 | **Tamil complete — lower 22 → 23–24 → upper 25; PASS** — `stories/thamizan-endru-sollada/` |
+| 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | `கடமை கண்ணியம் கட்டுப்பாடு` | 23–24 | 25–26 | 27 | **Tamil complete — lower 25 → 26 → upper 27; PASS** — `stories/kadamai-kanniyam-kattuppadu/` |
+| 11 | `சாவிதான் இல்லை` | `சாவி தான் இல்லை` | 25–26 | 27–28 | 29 | **Tamil complete — lower 27 → 28; PASS** — `stories/saavi-thaan-illai/` |
 | 12 | `கண்ணில் கால்` | `கண்ணில் கால்` | 27–27 | 29–29 | 30 | registered / not activated |
 | 13 | `மயில் ராவணன்` | `மயில் ராவணன்` | 28–29 | 30–31 | 32 | registered / not activated |
 | 14 | `ஜாடி குட்டி போடுமா?` | `ஜாடி குட்டி போடுமா?` | 30–30 | 32–32 | 33 | registered / not activated |
@@ -49,32 +49,39 @@ Inventory rule: printed start pages come from the contents on scans 7–8; calcu
 | 39 | `நன்றி சொல்லும் நேரம்...` | `நன்றி சொல்லும் நேரம்` | 78–78 | 80–80 | 81 | registered / not activated |
 | 40 | `பந்தலிலே பாகற்காய்` | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | 82 | registered / not activated |
 
-## Source-verified boundary correction
+## Source-verified boundary overlay
 
-Story 1 demonstrates the first shared-page ending in this collection:
+Stories 1–10 all use at least one shared physical scan. The completed physical spans are:
 
-- its TOC-derived primary range is printed **7 / scan 9**;
-- scan **9** ends mid-speech;
-- Story 1 continues and ends at the top of **scan 10 / printed page 8**;
-- a printed asterisk closes Story 1;
-- Story 2 (`ஐஸ் கட்டி`) begins below that mark on the same scan.
+- #1 scan 9 → top 10;
+- #2 lower 10 → upper 11;
+- #3 lower 11 → upper 16;
+- #4 lower 16 → upper 17;
+- #5 lower 17 → upper 18;
+- #6 lower 18 → upper 19;
+- #7 lower 19 → 20 → upper 21;
+- #8 lower 21 → upper 22;
+- #9 lower 22 → 23–24 → upper 25;
+- #10 lower 25 → 26 → upper 27;
+- #11 lower 27 → 28; scan 29 is the next-story boundary witness.
 
-The row retains the original TOC-derived primary range for provenance, while the completed-state note records the source-verified shared ending span. Story 2 must begin below the already-closed Story-1 boundary when processed.
+TOC-derived range columns remain unchanged for provenance; completed-state notes record the source-verified physical spans.
 
 ## Title-variance register
 
-Five TOC/opening differences were directly observed:
+Six TOC/opening differences are directly documented:
 
-- #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி` — joined/separated form;
-- #24 `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்` — exclamation mark present only in TOC;
-- #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!` — ellipsis versus exclamation mark;
-- #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்` — internal ellipses present only in TOC;
-- #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்` — ellipsis present only in TOC.
+- #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
+- #11 `சாவிதான் இல்லை` ↔ `சாவி தான் இல்லை`;
+- #24 `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்`;
+- #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
+- #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
+- #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
 
-Both witnesses must be retained in any later story workspace. Do not choose a normalized third form.
+Both witnesses must be retained. Do not choose a normalized third form.
 
 ## Processing status
 
-**REGISTERED — 40 / 40 inventoried and opening-checked; 1 / 40 canonical workspaces activated; 1 / 40 Tamil source complete; 39 / 40 pending.**
+**11 / 40 Tamil source complete; 29 / 40 pending; 0 blocked / 0 unresolved among completed stories.**
 
-Next exact target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`, printed page 8 / scan 10**. Scan 11 is the next boundary witness and opens Story 3 `தலையில் மலை`. Preserve the already-closed Story-1 span at the top of scan 10.
+Current iteration policy: **10 stories per iteration**. Stories **2–11** are the first completed 10-story iteration after Story 1. Next iteration: **Stories 12–21**, beginning `கண்ணில் கால்` on scan 29 / printed page 27.
