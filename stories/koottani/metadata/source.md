@@ -1,0 +1,20 @@
+# Source metadata — கூட்டணி
+
+- Anthology: **கலைஞர் சொன்ன கதைகள்**
+- Author: **டாக்டர் கலைஞர் மு. கருணாநிதி**
+- Edition: **Second Edition, December 2008**
+- Source filename: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+- SHA-256: `1b2bf86892717776b1b3dc7fcb18dc146d5bfd0d60986509dc9cbbf5f235444b`
+- File size: **24,840,000 bytes**
+- PDF scans: **82**
+- source PDF committed: **No**
+
+## Story coordinates
+
+- sequence: **5 / 40**
+- TOC / opening: `கூட்டணி`
+- slug: `koottani`
+- TOC opening coordinate: printed **15** / scan **17**
+- verified source span: lower scan **17 / printed 15** through upper scan **18 / printed 16**
+
+Both physical endpoints are shared with adjacent stories and were directly reviewed at high resolution.
