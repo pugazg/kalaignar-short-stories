@@ -36,7 +36,7 @@ The book's story pagination begins after unnumbered/front-matter scans.
 - story-page relation: **scan = printed page + 2**;
 - scan **82**: back cover.
 
-The contents list gives forty story start pages. Story end pages are calculated from the next contents entry, with Story 40 ending on printed page 79 immediately before the back cover.
+The contents list gives forty story start pages. Primary story ranges are calculated from the next contents entry, but direct source processing may reveal shared physical boundary pages. Story 1 is the first confirmed example: it opens on scan 9 / printed 7, then continues and ends at the top of scan 10 / printed 8 before Story 2 starts below.
 
 ## Front matter / source features
 
@@ -60,12 +60,17 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - TOC wording and story-opening headings are preserved separately where they differ.
 - No canonical story folder is created from the contents list alone.
 - Each story is activated one at a time after a fresh live-main duplicate check.
+- Shared physical boundary scans must preserve each story's exact source span; text must not be reassigned to the wrong page merely to keep calculated ranges non-overlapping.
 - Any difficult reading must follow the exhaustive source-first protocol in `SHORT_STORY_PROCESSING_GUIDE.md`.
 
-## Intake verification
+## Intake / processing verification
 
 - contents transcribed: **40 / 40**
 - story-opening scans visually checked: **40 / 40**
 - final story/back-cover boundary checked: **Yes**
 - source registration state: **COMPLETE**
-- story transcription state from this collection: **0 / 40 started**
+- canonical story workspaces activated: **1 / 40**
+- Tamil source processing complete: **1 / 40**
+- Tamil source processing pending: **39 / 40**
+- latest completed story: **Story 1 `அப்படித்தான் சிரிப்பேன்`** — primary scan 9 plus Story-1 ending span on shared scan 10; audit PASS; 0 blocked / 0 unresolved
+- next exact target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`, scan 10, with scan 11 as next boundary witness**
