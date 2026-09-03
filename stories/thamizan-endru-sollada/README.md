@@ -1,0 +1,24 @@
+# தமிழன் என்று சொல்லடா!
+
+Canonical story workspace for **தமிழன் என்று சொல்லடா!**, Story 9 in the 2008 second-edition anthology **கலைஞர் சொன்ன கதைகள்**.
+
+## Source
+
+- Author: **டாக்டர் கலைஞர் மு. கருணாநிதி**
+- Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+- Collection edition: **Second Edition, December 2008**
+- TOC / opening title: **`தமிழன் என்று சொல்லடா!`**
+- Collection sequence: **9 / 40**
+- Verified source span: lower scan **22 / printed 20**, scans **23–24 / printed 21–22**, and upper scan **25 / printed 23**
+- Source PDF committed to GitHub: **No**
+
+## Tamil archival status
+
+**PASS — 4 / 4 source records verified; 0 blocked; 0 unresolved story text.**
+
+- Tamil assembly: [`sections/thamizan-endru-sollada.md`](sections/thamizan-endru-sollada.md)
+- audit: [`audit.md`](audit.md)
+- human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- English translation: **not started**
+
+Story 8 closes above the Story-9 heading on scan 22. Story 9 ends with the printed asterisk on scan 25; Story 10 `கடமை கண்ணியம் கட்டுப்பாடு` begins below it on that same scan.
