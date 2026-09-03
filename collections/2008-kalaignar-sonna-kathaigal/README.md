@@ -2,7 +2,7 @@
 
 This folder registers **`கலைஞர் சொன்ன கதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
 
-The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes will be activated under canonical `stories/<slug>/` workspaces one at a time, following `COLLECTION_SOURCE_GUIDE.md` and `SHORT_STORY_PROCESSING_GUIDE.md`.
+The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes are activated under canonical `stories/<slug>/` workspaces one at a time, following `COLLECTION_SOURCE_GUIDE.md` and `SHORT_STORY_PROCESSING_GUIDE.md`.
 
 ## Source snapshot
 
@@ -25,15 +25,16 @@ The book is a physical collection/source container, not one canonical story. Its
 
 Full checksum, byte size, imprint and scan-condition notes are in `metadata/source.md`.
 
-## Intake / inventory state
+## Intake / processing state
 
 - printed contents transcribed: **40 / 40**
 - calculated printed-page ranges: **40 / 40**
 - calculated scan ranges: **40 / 40**
 - calculated story-opening scans visually checked: **40 / 40**
 - final story ending / back-cover boundary checked: **Yes**
-- canonical story workspaces activated from this collection: **0 / 40**
-- Tamil source processing complete from this collection: **0 / 40**
+- canonical story workspaces activated from this collection: **1 / 40**
+- Tamil source processing complete from this collection: **1 / 40**
+- Tamil source processing pending: **39 / 40**
 - English translation from this collection: **0 / 40**
 
 The story block follows a stable pagination offset:
@@ -42,6 +43,21 @@ The story block follows a stable pagination offset:
 - scan **81** = printed page **79**;
 - therefore story pages use **scan = printed page + 2**;
 - scan **82** is the physical back cover and is outside story text.
+
+### Story 1 completion — அப்படித்தான் சிரிப்பேன்
+
+Canonical workspace: [`../../stories/appadithan-sirippen/`](../../stories/appadithan-sirippen/README.md)
+
+- TOC title / opening heading: **`அப்படித்தான் சிரிப்பேன்`**;
+- primary opening: scan **9 / printed page 7**;
+- direct boundary review found a Story-1 tail at the top of **scan 10 / printed page 8**;
+- scan 10 is therefore a **shared physical boundary**: Story 1 ends above its printed asterisk, then Story 2 begins below;
+- Story-1 source records verified: **2 / 2**;
+- blocked / unresolved Story-1 text: **0 / 0**;
+- Tamil audit: **PASS**;
+- Story-2 prose transcribed during Story-1 activity: **No**.
+
+The initial range table was TOC-start-derived. The shared scan-10 boundary is now explicitly documented in the inventory/scan map rather than silently assigning Story-1 text to the wrong scan.
 
 ## Front matter / physical structure
 
@@ -69,18 +85,17 @@ No title form is silently normalized. `indexes/story-inventory.md` retains both 
 
 ## Canonical-story deduplication
 
-The live repository's existing canonical-story register was checked during intake. No direct title match for Story 1 `அப்படித்தான் சிரிப்பேன்` exists at the registration checkpoint. No empty story folders were created for the forty contents entries.
+Story 1 was re-checked against live `main` before activation under its TOC/opening title and documented forms. No existing canonical match was found, so `stories/appadithan-sirippen/` was created.
 
-Every story must still repeat the live-main duplicate check immediately before its workspace is created, because later repository work may add a matching canonical story.
+Every later story must repeat the live-main duplicate check immediately before its workspace is created.
 
 ## Exact next activity
 
-Activate **Story 1 — `அப்படித்தான் சிரிப்பேன்`** only.
+Process **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` only**.
 
-- printed page: **7**
-- source scan: **9**
-- next-boundary witness: scan **10**, opening Story 2
-- Story 2 TOC title: **`ஐஸ்கட்டி`**
-- Story 2 opening heading: **`ஐஸ் கட்டி`**
+- printed page: **8**
+- source scan: **10**
+- next-boundary witness: scan **11**, opening Story 3
+- Story 3 title: **`தலையில் மலை`**
 
-Before creating the Story-1 workspace, fetch live `main`, re-check canonical deduplication, read the permanent story/collection guides and this collection's intake files, then transcribe directly from the controlling scan. Do not begin Story 2 in the same activity unless the user explicitly expands the batch.
+Before Story-2 writes, fetch live `main`, re-check canonical deduplication under both Story-2 title forms, inspect scan 10 directly from the controlling source, and use scan 11 only as the next ending/boundary witness. Preserve the already-closed Story-1 span at the top of scan 10 and do not duplicate it into Story 2.
