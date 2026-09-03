@@ -61,10 +61,37 @@ Permanent guides:
 | [`சுமந்தவள்`](stories/sumanthaval/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — scan 9 + Story-1 ending span on shared scan 10 verified; 0 blocks; manual recheck queue open** | **not started** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
 ## Registered anthology source
+
+### கலைஞர் சொன்ன கதைகள் — Second Edition, December 2008
+
+Collection workspace:
+
+- [`collections/2008-kalaignar-sonna-kathaigal/`](collections/2008-kalaignar-sonna-kathaigal/README.md)
+
+Source registration / processing state:
+
+- anthology source PDF: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+- printed title: **கலைஞர் சொன்ன கதைகள்**
+- printed author: **டாக்டர் கலைஞர் மு. கருணாநிதி**
+- represented edition: **Second Edition, December 2008**
+- PDF scans: **82**
+- printed story pages: **7–79**
+- stories in contents: **40**
+- story inventory: **40 / 40 registered**
+- story-opening scan checks: **40 / 40 complete**
+- Tamil source processing complete: **1 / 40**
+- Tamil source processing pending: **39 / 40**
+- English translation complete from this collection: **0 / 40**
+- latest completed: **Story 1 `அப்படித்தான் சிரிப்பேன்` — PASS**
+- Story-1 source boundary: **scan 9 plus ending span at top of shared scan 10**
+- next exact target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`, scan 10; scan 11 boundary witness**
+
+Direct Story-1 review established that scan 10 is a shared physical page: Story 1 ends above its printed asterisk, then Story 2 begins below. The collection inventory and scan map preserve this overlap explicitly.
 
 ### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
