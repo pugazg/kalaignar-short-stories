@@ -82,6 +82,16 @@ Permanent guides:
 | [`நடக்குமா நடக்காதா?`](stories/nadakkuma-nadakkatha/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`கனியும் கணையும்`](stories/kaniyum-kanaiyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`இதயம் பேசுகிறது`](stories/idhayam-pesugirathu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`புலிவால்`](stories/pulivaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`தெரியாத பேச்சு`](stories/theriyatha-pechu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`வெண்ணெய் உருகுது வெயிலில்`](stories/vennai-uruguthu-veyilil/README.md) | **Tamil source PASS — 8/8 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`](stories/mamiyar-udaithaal-mattum-manchattiya/README.md) | **Tamil source PASS — 7/7 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`பொறுமைக்கு சான்று`](stories/porumaikku-saandru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`எடுக்கவோ கோக்கவோ`](stories/edukkavo-kokkavo/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`அந்த நாள் வந்திலை!`](stories/antha-naal-vanthilai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`பனித்துளியில் பனை மரம்`](stories/panithuliyil-panai-maram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`பாரூர் போல...`](stories/paarur-pola/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`இராமனைப் பற்றி இராமன்`](stories/iramanai-patri-iraman/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -104,15 +114,15 @@ Source registration / processing state:
 - stories in contents: **40**
 - story inventory: **40 / 40 registered**
 - story-opening scan checks: **40 / 40 complete**
-- Tamil source processing complete: **21 / 40**
-- Tamil source processing pending: **19 / 40**
+- Tamil source processing complete: **31 / 40**
+- Tamil source processing pending: **9 / 40**
 - English translation complete from this collection: **0 / 40**
-- latest completed: **Story 21 `இதயம் பேசுகிறது` — PASS**
-- Story-21 source boundary: **lower scan 43 through upper scan 44**
-- current execution policy: **10 stories per iteration**
-- next exact iteration: **Stories 22–31**, beginning `புலிவால்` at scan **44 / printed page 42**
+- latest completed: **Story 31 `இராமனைப் பற்றி இராமன்` — PASS**
+- Story-31 source boundary: **lower scan 66 through upper scan 69**
+- current execution policy: **10 stories per iteration while possible; 9 stories remain for the final source iteration**
+- next exact iteration: **Stories 32–40**, beginning `மானும் பெருமானும்` below Story 31 on scan **69 / printed page 67**
 
-Direct source processing confirms shared physical boundaries through Story 21. Story 21 ends above its printed asterisk on scan 44 and Story 22 `புலிவால்` begins below on the same scan. Six TOC/opening title differences are registered at Stories 2, 11, 24, 28, 35 and 39.
+Direct source processing confirms shared physical boundaries through Story 31. Story 31 ends above its printed asterisk on scan 69 and Story 32 `மானும் பெருமானும்` begins below on the same scan. Eight TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35 and 39.
 
 ### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
