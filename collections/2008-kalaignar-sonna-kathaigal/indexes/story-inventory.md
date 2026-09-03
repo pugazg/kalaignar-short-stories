@@ -4,11 +4,11 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 
 Edition represented: **Second Edition, December 2008**
 
-Inventory rule: printed start pages come from the contents on scans 7–8; end pages are calculated from the next contents entry; scan ranges use `scan = printed page + 2`; every calculated opening scan was visually checked against the printed story heading.
+Inventory rule: printed start pages come from the contents on scans 7–8; calculated primary end pages come from the next contents entry; scan coordinates use `scan = printed page + 2`; every calculated opening scan was visually checked against the printed story heading. When direct story processing reveals text continuing on the next story's opening scan, that shared physical boundary is documented explicitly rather than hidden by the TOC-derived range.
 
 | # | TOC title | Story-opening heading | Printed pages | Scans | Next boundary scan | State |
 |---:|---|---|---:|---:|---:|---|
-| 1 | `அப்படித்தான் சிரிப்பேன்` | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | 10 | registered / not activated |
+| 1 | `அப்படித்தான் சிரிப்பேன்` | `அப்படித்தான் சிரிப்பேன்` | 7–7 | 9–9 | 10 | **Tamil source complete — scan 9 verified + Story-1 ending span on shared scan 10 verified; human recheck queue open** — `stories/appadithan-sirippen/` |
 | 2 | `ஐஸ்கட்டி` | `ஐஸ் கட்டி` | 8–8 | 10–10 | 11 | registered / not activated |
 | 3 | `தலையில் மலை` | `தலையில் மலை` | 9–13 | 11–15 | 16 | registered / not activated |
 | 4 | `வெறும் கை முழம் போடும்` | `வெறும் கை முழம் போடும்` | 14–14 | 16–16 | 17 | registered / not activated |
@@ -49,6 +49,18 @@ Inventory rule: printed start pages come from the contents on scans 7–8; end p
 | 39 | `நன்றி சொல்லும் நேரம்...` | `நன்றி சொல்லும் நேரம்` | 78–78 | 80–80 | 81 | registered / not activated |
 | 40 | `பந்தலிலே பாகற்காய்` | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | 82 | registered / not activated |
 
+## Source-verified boundary correction
+
+Story 1 demonstrates the first shared-page ending in this collection:
+
+- its TOC-derived primary range is printed **7 / scan 9**;
+- scan **9** ends mid-speech;
+- Story 1 continues and ends at the top of **scan 10 / printed page 8**;
+- a printed asterisk closes Story 1;
+- Story 2 (`ஐஸ் கட்டி`) begins below that mark on the same scan.
+
+The row retains the original TOC-derived primary range for provenance, while the completed-state note records the source-verified shared ending span. Story 2 must begin below the already-closed Story-1 boundary when processed.
+
 ## Title-variance register
 
 Five TOC/opening differences were directly observed:
@@ -61,8 +73,8 @@ Five TOC/opening differences were directly observed:
 
 Both witnesses must be retained in any later story workspace. Do not choose a normalized third form.
 
-## Intake status
+## Processing status
 
-**REGISTERED — 40 / 40 inventoried and opening-checked; 0 story workspaces activated from this collection.**
+**REGISTERED — 40 / 40 inventoried and opening-checked; 1 / 40 canonical workspaces activated; 1 / 40 Tamil source complete; 39 / 40 pending.**
 
-Next exact target: **Story 1 `அப்படித்தான் சிரிப்பேன்`, printed page 7 / scan 9**. Scan 10 is the boundary witness and opens Story 2 (`ஐஸ்கட்டி` in the TOC / `ஐஸ் கட்டி` at the opening).
+Next exact target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`, printed page 8 / scan 10**. Scan 11 is the next boundary witness and opens Story 3 `தலையில் மலை`. Preserve the already-closed Story-1 span at the top of scan 10.
