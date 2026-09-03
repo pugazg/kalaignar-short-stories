@@ -1,0 +1,86 @@
+# கலைஞர் சொன்ன கதைகள் — 2008 second-edition anthology source
+
+This folder registers **`கலைஞர் சொன்ன கதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
+
+The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes will be activated under canonical `stories/<slug>/` workspaces one at a time, following `COLLECTION_SOURCE_GUIDE.md` and `SHORT_STORY_PROCESSING_GUIDE.md`.
+
+## Source snapshot
+
+- source filename: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+- printed title: **கலைஞர் சொன்ன கதைகள்**
+- printed author line: **டாக்டர் கலைஞர் மு. கருணாநிதி**
+- English colophon title: **KALAIGNAR SONNA KATHAIGAL**
+- English colophon description: **Collection of Short stories**
+- publisher: **பாரதி பதிப்பகம்**, 126/108, உஸ்மான் சாலை, தி.நகர், சென்னை-600017
+- copyright line: **© TamizhkkaniPathippagam**
+- first edition: **August 2004**
+- registered scanned edition: **Second Edition: December 2008**
+- printed price: **Rs. 30.00**
+- PDF scans: **82**
+- printed story pages: **7–79**
+- stories in printed contents: **40**
+- story-text scans: **9–81**
+- scan **82**: back cover
+- source PDF committed to GitHub: **No**
+
+Full checksum, byte size, imprint and scan-condition notes are in `metadata/source.md`.
+
+## Intake / inventory state
+
+- printed contents transcribed: **40 / 40**
+- calculated printed-page ranges: **40 / 40**
+- calculated scan ranges: **40 / 40**
+- calculated story-opening scans visually checked: **40 / 40**
+- final story ending / back-cover boundary checked: **Yes**
+- canonical story workspaces activated from this collection: **0 / 40**
+- Tamil source processing complete from this collection: **0 / 40**
+- English translation from this collection: **0 / 40**
+
+The story block follows a stable pagination offset:
+
+- scan **9** = printed page **7**;
+- scan **81** = printed page **79**;
+- therefore story pages use **scan = printed page + 2**;
+- scan **82** is the physical back cover and is outside story text.
+
+## Front matter / physical structure
+
+- scan 1: front cover;
+- scan 2: donation/bookplate label;
+- scan 3: title page, with library stamp;
+- scan 4: colophon/imprint, with handwritten accession/call-number marks;
+- scan 5: `கலைஞர் உரை` page with photograph and handwritten message/signature; library stamp present;
+- scan 6: `பதிப்புரை`;
+- scans 7–8: printed contents;
+- scans 9–81: forty numbered story units, printed pages 7–79;
+- scan 82: back cover.
+
+## Source-title differences found during intake
+
+The contents title and story-opening heading are both source facts. Five differences were found and must remain explicit:
+
+1. Story 2 — TOC **`ஐஸ்கட்டி`** ↔ opening **`ஐஸ் கட்டி`**;
+2. Story 24 — TOC **`வெண்ணெய் உருகுது வெயிலில்!`** ↔ opening **`வெண்ணெய் உருகுது வெயிலில்`**;
+3. Story 28 — TOC **`அந்த நாள் வந்திலை...`** ↔ opening **`அந்த நாள் வந்திலை!`**;
+4. Story 35 — TOC **`தும்... பம்... தீம்... தோம்`** ↔ opening **`தும் பம் தீம் தோம்`**;
+5. Story 39 — TOC **`நன்றி சொல்லும் நேரம்...`** ↔ opening **`நன்றி சொல்லும் நேரம்`**.
+
+No title form is silently normalized. `indexes/story-inventory.md` retains both witnesses.
+
+## Canonical-story deduplication
+
+The live repository's existing canonical-story register was checked during intake. No direct title match for Story 1 `அப்படித்தான் சிரிப்பேன்` exists at the registration checkpoint. No empty story folders were created for the forty contents entries.
+
+Every story must still repeat the live-main duplicate check immediately before its workspace is created, because later repository work may add a matching canonical story.
+
+## Exact next activity
+
+Activate **Story 1 — `அப்படித்தான் சிரிப்பேன்`** only.
+
+- printed page: **7**
+- source scan: **9**
+- next-boundary witness: scan **10**, opening Story 2
+- Story 2 TOC title: **`ஐஸ்கட்டி`**
+- Story 2 opening heading: **`ஐஸ் கட்டி`**
+
+Before creating the Story-1 workspace, fetch live `main`, re-check canonical deduplication, read the permanent story/collection guides and this collection's intake files, then transcribe directly from the controlling scan. Do not begin Story 2 in the same activity unless the user explicitly expands the batch.
