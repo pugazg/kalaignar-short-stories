@@ -18,7 +18,9 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 
 Story-page formula: **scan = printed page + 2**.
 
-## Story ranges
+## TOC-derived story ranges
+
+These ranges are calculated from successive contents start pages. Direct story processing may reveal a shared physical page at a boundary; such overlaps are recorded in the source-verified overlay below.
 
 | # | TOC title | Printed pages | PDF scans | Opening checked | Next boundary |
 |---:|---|---:|---:|---|---:|
@@ -63,10 +65,24 @@ Story-page formula: **scan = printed page + 2**.
 | 39 | `நன்றி சொல்லும் நேரம்...` | 78–78 | 80–80 | Yes | 81 |
 | 40 | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | Yes | 82 |
 
-## Boundary closure
+## Source-verified processing overlay
+
+### Story 1 — அப்படித்தான் சிரிப்பேன்
+
+- primary opening/body: **scan 9 / printed page 7**;
+- source-verified ending: **top of scan 10 / printed page 8**;
+- scan 9 ends mid-speech at `“ஆமாம்!`;
+- scan 10 continues Story 1, closes it with a printed asterisk, then opens Story 2 `ஐஸ் கட்டி` below;
+- this is an intentional **shared-scan boundary**, not an omitted or duplicated page;
+- canonical workspace: `stories/appadithan-sirippen/`;
+- Tamil source status: **PASS — 0 blocked / 0 unresolved**.
+
+Processing totals: **1 / 40 complete; 39 / 40 pending.**
+
+## Final collection boundary
 
 - Story 40 opens on scan **81 / printed page 79**.
 - The previous story ends above the Story-40 heading on the same physical page.
 - scan **82** is the physical back cover and contains no further story text.
 
-Range coverage is therefore contiguous across printed pages **7–79 / scans 9–81**, with no gap or overlap between the forty calculated story ranges.
+The TOC-derived ranges cover printed pages **7–79 / scans 9–81** continuously. Direct page-level processing may legitimately produce shared boundary scans where one story ends above the next story heading; Story 1 → Story 2 on scan 10 is the first verified example.
