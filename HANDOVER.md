@@ -7,10 +7,7 @@
 - Story workflow: `SHORT_STORY_PROCESSING_GUIDE.md`
 - Anthology workflow: `COLLECTION_SOURCE_GUIDE.md`
 - Visual-fidelity workflow: `VISUAL_FIDELITY_CHECK_GUIDE.md`
-- Visual-fidelity tracker: `VISUAL_FIDELITY_PROGRESS.md`
 - English-translation workflow: `ENGLISH_TRANSLATION_GUIDE.md`
-- English-translation tracker: `ENGLISH_TRANSLATION_PROGRESS.md`
-- English final QA: `ENGLISH_TRANSLATION_FINAL_QA.md`
 - Source PDFs / renders / crops are **not** committed.
 
 ## Authoritative-state rule
@@ -20,134 +17,94 @@ Always fetch live `main` first and preserve newer durable work.
 ## Permanent source rules
 
 - Controlling scan first; do not silently modernize spelling, punctuation, grammar, sandhi, names or source anomalies.
-- Old Tamil glyphs require complete-span visual interpretation.
 - Running headers, printed page numbers and printer signatures are page furniture, not story body.
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error.
 - Source-supported textual corrections must propagate through every affected page, assembly, audit/review and dependent English layer.
-- Do not commit the controlling PDF or generated visual-inspection artefacts.
+- Do not commit controlling PDFs or generated visual-inspection artefacts.
 
-## Durable anthology milestones
+## Closed 1977 anthology
 
-The 1977 anthology now has all archival/translation control layers closed:
+The 1977 anthology `கலைஞர் கருணாநிதியின் சிறுகதைகள்` remains durably closed:
 
-1. **Tamil source transcription/audit — COMPLETE: 37 / 37 stories**, scans **10–259 / printed pages 1–250**, with **0 blocked / 0 unresolved story text**;
-2. **visual fidelity — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs recheck**;
-3. **English translation/review — COMPLETE: 37 / 37 stories**, with **0 pending / 0 needs review**; and
-4. **English final structural/control QA — PASS**, recorded in `ENGLISH_TRANSLATION_FINAL_QA.md`.
+1. Tamil source transcription/audit — **37 / 37 complete**, scans **10–259 / printed 1–250**, **0 blocked / 0 unresolved story text**;
+2. visual fidelity — **37 / 37 complete**;
+3. English translation/review — **37 / 37 complete**, **0 pending / 0 needs review**;
+4. final English structural/control QA — **PASS**;
+5. scan **260** — verified back cover.
 
-All 37 stories have story-local `visual-fidelity.md`, `translations/en/<slug>.md`, and `TRANSLATION_REVIEW.md` records with final result `PASS` or `PASS — corrected` as applicable to the source layer.
+Story 29 `திடுக்கிடும் கதை` later received the evidence-driven English page-anchor correction. The repair changed marker positions only; canonical Tamil and English prose were unchanged. The corrected Story-29 state remains **PASS**. The old downstream Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` is obsolete.
 
-English remains a separate, non-authoritative transformation layer. The verified Tamil assembly remains authoritative and must not be altered merely to improve English.
+## New active collection — கலைஞர் சொன்ன கதைகள்
 
-## Final English batch
+The user supplied the next physical source and explicitly authorized repository continuation.
 
-The user explicitly expanded the final translation activity to all remaining stories:
+Collection workspace:
 
-35. `சுமந்தவள்` — scans **239–249 / printed 230–240** — **PASS**
-36. TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை` — scans **250–252 / printed 241–243** — **PASS**
-37. `நுனிக்கரும்பு` — scans **253–259 / printed 244–250** — **PASS**
+`collections/2008-kalaignar-sonna-kathaigal/`
 
-### Story 35 — `சுமந்தவள்`
+Controlling source:
 
-- workspace: `stories/sumanthaval/`
-- English: `translations/en/sumanthaval.md`
-- review: `TRANSLATION_REVIEW.md`
-- all **11** source-page markers preserved
-- physical continuations **243→244**, **244→245**, and **247→248** remain traceable
-- narrator/mother framing, embedded Maragatham–Soundari story, motherhood/beauty conflict, armed confrontation and diagnosis ending remain complete
-- source-sensitive forms including `களித்துப்போய்`, source pronoun `அவள் உள்ளத்தில்`, `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `‘பெட்காபி’`, and `எமை விட்டு எச்சில் இலையே!` handled conservatively
-- result: **PASS**
-- Tamil source changed during translation: **No**
+`TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
 
-### Story 36 — TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`
+Registered identity:
 
-- workspace: `stories/siddharthan-silai/`
-- English: `translations/en/siddharthan-silai.md`
-- review: `TRANSLATION_REVIEW.md`
-- all **3** source-page markers preserved
-- exact **251→252** physical mid-speech continuation remains traceable
-- TOC/opening-heading variance preserved exactly
-- idealized opening, shrine lament, apparent Buddha-statue speech, husband reveal and final critique remain complete
-- source-sensitive forms including `கெண்டை`, `இரு கிழமை`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்` handled conservatively
-- no outside doctrinal or biographical explanation inserted
-- result: **PASS**
-- Tamil source changed during translation: **No**
+- printed title: **கலைஞர் சொன்ன கதைகள்**;
+- printed author: **டாக்டர் கலைஞர் மு. கருணாநிதி**;
+- publisher: **பாரதி பதிப்பகம்**;
+- first edition: **August 2004**;
+- scanned edition: **Second Edition, December 2008**;
+- source SHA-256: `1b2bf86892717776b1b3dc7fcb18dc146d5bfd0d60986509dc9cbbf5f235444b`;
+- file size: **24,840,000 bytes**;
+- PDF scans: **82**;
+- printed contents entries: **40**;
+- story-text range: scans **9–81 / printed pages 7–79**;
+- scan **82**: verified back cover;
+- pagination relation: **scan = printed page + 2** for story pages.
 
-### Story 37 — `நுனிக்கரும்பு`
+### Intake completion
 
-- workspace: `stories/nunikkarumbu/`
-- English: `translations/en/nunikkarumbu.md`
-- review: `TRANSLATION_REVIEW.md`
-- all **7** source-page markers preserved
-- opening Bharathidasan quotation retained as a three-line verse block
-- exact **257→258** `உள்ளங்` → `களைக்` continuation remains traceable
-- Arulnambi’s cultural status/age-denial, Amudha fixation, phone and dinner sequence, family return and final `தாத்தா` reversal remain complete
-- opaque `நாறுவது` preserved conservatively as transliterated `naaruvathu` rather than silently converted to an assumed ordinal
-- scan **260** independently confirmed as anthology back cover and excluded from story text
-- result: **PASS**
-- Tamil source changed during translation: **No**
+The source-intake activity is complete:
 
-## Final structural/control QA
+- contents transcribed: **40 / 40**;
+- story printed-page ranges calculated: **40 / 40**;
+- scan ranges calculated: **40 / 40**;
+- calculated story-opening scans visually checked: **40 / 40**;
+- final Story-40/back-cover boundary checked: **Yes**;
+- canonical story workspaces created from this collection: **0 / 40**;
+- Tamil story processing started from this collection: **No**.
 
-A post-translation QA pass has now been completed and recorded in `ENGLISH_TRANSLATION_FINAL_QA.md`.
+Five TOC/opening-heading differences are preserved in the collection inventory:
 
-The QA independently checked the completed English phase against the pre-English visual-fidelity baseline and verified that:
+1. #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
+2. #24 `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்`;
+3. #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
+4. #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
+5. #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
 
-- all **37** anthology story workspaces have one English file under `translations/en/`;
-- all **37** have a story-local `TRANSLATION_REVIEW.md`;
-- the tracker and control files agree on **37 / 37 PASS**, **0 pending**, **0 needs review**;
-- the title variances `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` and `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை` remain preserved;
-- scan **260** remains the verified back-cover boundary;
-- no canonical Tamil text was changed by the QA pass.
+## Exact next activity
 
-QA result: **PASS**.
+Process **Story 1 — `அப்படித்தான் சிரிப்பேன்` only**.
 
-## Post-completion source correction — Story 29 English page anchoring
+- printed page: **7**;
+- source scan: **9**;
+- next-boundary witness: scan **10**;
+- Story 2 TOC title: **`ஐஸ்கட்டி`**;
+- Story 2 opening heading: **`ஐஸ் கட்டி`**;
+- current canonical-match check for Story 1: **no direct existing title match found at intake**, but re-check live `main` before workspace creation.
 
-On **2026-09-02**, downstream Digital Library Wave-2 ingestion exposed a provenance defect in `stories/thidukkidum-kathai/translations/en/thidukkidum-kathai.md`.
+Before the Story-1 write, read completely:
 
-The six English markers 199–204 were present and ordered, but the verified Tamil page records proved that content from scan **200** onward was anchored one marker too early and the scan-204 marker section contained no story prose. English prose itself was complete.
+1. `SHORT_STORY_PROCESSING_GUIDE.md`;
+2. `COLLECTION_SOURCE_GUIDE.md`;
+3. this `HANDOVER.md`;
+4. `NEXT_CHAT_PROMPT.md`;
+5. `collections/2008-kalaignar-sonna-kathaigal/README.md`;
+6. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`;
+7. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`;
+8. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`.
 
-Correction scope:
-
-- pre-correction source checkpoint: `a9b333f12128686785ee981f97313a64af12e29b`;
-- pre-correction English blob: `0547de49e20f8ff96a5be5fb6a683d2b5b661d1e`;
-- corrected English blob: `6e321b1b333d3d1c2bbc598cc73e6f6bd6aeae1d`;
-- English prose changed: **No**;
-- Tamil changed: **No**;
-- title/note/headings changed: **No**;
-- marker positions re-anchored: **Yes**;
-- Story-29 translation review: **PASS after re-verification**.
-
-A Story-29 boundary manifest and generic `scripts/validate-english-page-anchors.py` guard now verify content-boundary anchoring without assuming paragraph-count equality. The pre-correction shifted pattern fails this guard; the corrected mapping passes.
-
-The earlier downstream Wave-2 source pin `a9b333f12128686785ee981f97313a64af12e29b` is obsolete after this repair. **Wave 2 must recompute the 37-story source freeze from the newer live `main`; no Digital Library implementation is part of this source correction.**
-
-## Final phase state
-
-- anthology stories: **37**
-- Tamil source complete: **37 / 37**
-- visual fidelity complete: **37 / 37**
-- English translation complete: **37 / 37**
-- English final structural/control QA: **PASS**
-- English pending: **0**
-- English needs review: **0**
-- story-level unresolved source text: **0**
-- final story boundary: scan **259 / printed page 250**
-- scan **260**: verified anthology back cover
-
-## Future continuation rule
-
-There is **no pending anthology English story or English final-QA activity**. Do not restart Story 35, 36 or 37 or repeat the final QA from an older prompt.
-
-If future work is explicitly authorized:
-
-1. fetch live `main` first;
-2. treat the 37/37 Tamil, visual, English and final-QA closure as authoritative unless newer repository evidence says otherwise;
-3. if an English revision suggests a Tamil source problem, reopen that exact Tamil span against the controlling scan under `SHORT_STORY_PROCESSING_GUIDE.md` before changing any source or translation layer;
-4. preserve the TOC/opening-title differences `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` and `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை`;
-5. do not begin a new phase such as modernization, adaptation, republication or release packaging without explicit authorization.
+Then re-check canonical deduplication, create Story 1 only if no canonical match exists, transcribe directly from scan 9, and use scan 10 only as the ending/boundary witness. Do not begin Story 2 in the same activity unless the user explicitly expands the batch.
 
 ## Phase guard
 
-English translation and final QA completion do not authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
+The new collection intake authorizes source-first processing of `கலைஞர் சொன்ன கதைகள்`; it does not authorize modernization, adaptation, republication, Digital Library onboarding, or changes to other repositories.
