@@ -2,7 +2,7 @@
 
 This folder registers **`கலைஞர் சொன்ன கதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
 
-The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes are activated under canonical `stories/<slug>/` workspaces. Each story receives its own live-main duplicate check and direct source verification; by current user instruction, execution proceeds in **10-story iterations**.
+The book is a physical collection/source container, not one canonical story. Its forty numbered stories/anecdotes are activated under canonical `stories/<slug>/` workspaces. Each story receives its own live-main duplicate check and direct source verification; by current user instruction, execution proceeds in **10-story iterations** while ten stories remain.
 
 ## Source snapshot
 
@@ -27,14 +27,14 @@ Full checksum, byte size, imprint and scan-condition notes are in `metadata/sour
 - calculated TOC-derived ranges: **40 / 40**
 - story-opening scans visually checked: **40 / 40**
 - final Story-40/back-cover boundary checked: **Yes**
-- canonical story workspaces activated from this collection: **21 / 40**
-- Tamil source processing complete: **21 / 40**
-- Tamil source processing pending: **19 / 40**
+- canonical story workspaces activated from this collection: **31 / 40**
+- Tamil source processing complete: **31 / 40**
+- Tamil source processing pending: **9 / 40**
 - English translation from this collection: **0 / 40**
 
 The story block uses **scan = printed page + 2**, but successive TOC start pages are only routing coordinates. Direct page review repeatedly confirms **shared physical boundary scans** where one story closes above the next story heading.
 
-## Completed source work — Stories 1–21
+## Completed source work — Stories 1–31
 
 | # | Story | Canonical workspace | Verified physical source span | Tamil |
 |---:|---|---|---|---|
@@ -59,35 +59,46 @@ The story block uses **scan = printed page + 2**, but successive TOC start pages
 | 19 | `நடக்குமா நடக்காதா?` | `stories/nadakkuma-nadakkatha/` | lower 39 → 40–41 → upper 42 | PASS |
 | 20 | `கனியும் கணையும்` | `stories/kaniyum-kanaiyum/` | lower 42 → upper 43 | PASS |
 | 21 | `இதயம் பேசுகிறது` | `stories/idhayam-pesugirathu/` | lower 43 → upper 44 | PASS |
+| 22 | `புலிவால்` | `stories/pulivaal/` | lower 44 → upper 45 | PASS |
+| 23 | `தெரியாத பேச்சு` | `stories/theriyatha-pechu/` | lower 45 → 46 → upper 47 | PASS |
+| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | `stories/vennai-uruguthu-veyilil/` | lower 47 → 48–53 → upper 54 | PASS |
+| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | `stories/mamiyar-udaithaal-mattum-manchattiya/` | lower 54 → 55–59 → upper 60 | PASS |
+| 26 | `பொறுமைக்கு சான்று` | `stories/porumaikku-saandru/` | lower 60 → upper 61 | PASS |
+| 27 | TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` | `stories/edukkavo-kokkavo/` | lower 61 → upper 62 | PASS |
+| 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | `stories/antha-naal-vanthilai/` | lower 62 → 63 → upper 64 | PASS |
+| 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | `stories/panithuliyil-panai-maram/` | lower 64 → upper 65 | PASS |
+| 30 | `பாரூர் போல...` | `stories/paarur-pola/` | lower 65 → upper 66 | PASS |
+| 31 | `இராமனைப் பற்றி இராமன்` | `stories/iramanai-patri-iraman/` | lower 66 → 67–68 → upper 69 | PASS |
 
-All twenty-one completed stories have **0 blocked / 0 unresolved story text** and persistent human-review queues. English translation has not been opened for this collection.
+All thirty-one completed stories have **0 blocked / 0 unresolved story text** and persistent human-review queues. English translation has not been opened for this collection.
 
 ## Source-title differences
 
-Six TOC/opening-heading differences are directly documented:
+Eight TOC/opening-heading differences are directly documented:
 
 1. Story 2 — TOC **`ஐஸ்கட்டி`** ↔ opening **`ஐஸ் கட்டி`**;
 2. Story 11 — TOC **`சாவிதான் இல்லை`** ↔ opening **`சாவி தான் இல்லை`**;
 3. Story 24 — TOC **`வெண்ணெய் உருகுது வெயிலில்!`** ↔ opening **`வெண்ணெய் உருகுது வெயிலில்`**;
-4. Story 28 — TOC **`அந்த நாள் வந்திலை...`** ↔ opening **`அந்த நாள் வந்திலை!`**;
-5. Story 35 — TOC **`தும்... பம்... தீம்... தோம்`** ↔ opening **`தும் பம் தீம் தோம்`**;
-6. Story 39 — TOC **`நன்றி சொல்லும் நேரம்...`** ↔ opening **`நன்றி சொல்லும் நேரம்`**.
+4. Story 27 — TOC **`எடுக்கவோ கோக்கவோ!`** ↔ opening **`எடுக்கவோ கோக்கவோ`**;
+5. Story 28 — TOC **`அந்த நாள் வந்திலை...`** ↔ opening **`அந்த நாள் வந்திலை!`**;
+6. Story 29 — TOC **`பனித் துளியில் பனைமரம்`** ↔ opening **`பனித்துளியில் பனை மரம்`**;
+7. Story 35 — TOC **`தும்... பம்... தீம்... தோம்`** ↔ opening **`தும் பம் தீம் தோம்`**;
+8. Story 39 — TOC **`நன்றி சொல்லும் நேரம்...`** ↔ opening **`நன்றி சொல்லும் நேரம்`**.
 
 No title form is silently normalized. `indexes/story-inventory.md` retains both witnesses.
 
-## Exact next iteration — Stories 22–31
+## Final source iteration — remaining Stories 32–40
 
-Process **10 stories** and stop after Story 31 unless the user explicitly expands the batch:
+Only **9 stories remain**, so the final iteration necessarily contains nine rather than ten:
 
-22. `புலிவால்` — printed 42 / scan 44; boundary 45;
-23. `தெரியாத பேச்சு` — printed 43–44 / scans 45–46; boundary 47;
-24. TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` — printed 45–51 / scans 47–53; boundary 54;
-25. `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — printed 52–57 / scans 54–59; boundary 60;
-26. `பொறுமைக்கு சான்று` — printed 58 / scan 60; boundary 61;
-27. `எடுக்கவோ கோக்கவோ!` — printed 59 / scan 61; boundary 62;
-28. TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` — printed 60–61 / scans 62–63; boundary 64;
-29. `பனித் துளியில் பனைமரம்` — printed 62 / scan 64; boundary 65;
-30. `பாரூர் போல...` — printed 63 / scan 65; boundary 66;
-31. `இராமனைப் பற்றி இராமன்` — printed 64–66 / scans 66–68; boundary 69.
+32. `மானும் பெருமானும்` — printed 67–68 / scans 69–70; boundary 71;
+33. `எழுச்சிக்கு அடையாளம்` — printed 69 / scan 71; boundary 72;
+34. `தலையும் நுனியும்` — printed 70 / scan 72; boundary 73;
+35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — printed 71–73 / scans 73–75; boundary 76;
+36. `நல்லவழியும் நல்ல வழியும்` — printed 74 / scan 76; boundary 77;
+37. `நாக்குத் தமிழ் மணக்கும்` — printed 75–76 / scans 77–78; boundary 79;
+38. `நீதி தேவதையே!` — printed 77 / scan 79; boundary 80;
+39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — printed 78 / scan 80; boundary 81;
+40. `பந்தலிலே பாகற்காய்` — printed 79 / scan 81; scan 82 is the back-cover boundary witness.
 
-For every story, re-fetch live `main`, re-check canonical deduplication, inspect the controlling scans directly, and treat the next-heading scan as a boundary witness that may also contain the preceding story's tail. Do not force TOC-derived ranges to be physically non-overlapping.
+For every story, re-fetch live `main`, re-check canonical deduplication, inspect the controlling scans directly, and treat the next-heading/back-cover scan as a boundary witness. Do not force TOC-derived ranges to be physically non-overlapping.

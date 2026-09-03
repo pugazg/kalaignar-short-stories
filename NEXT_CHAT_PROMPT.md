@@ -31,17 +31,17 @@ Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 - contents: **40 stories**
 - story-text scans: **9–81 / printed pages 7–79**
 - scan **82**: back cover
-- Tamil source complete: **21 / 40**
-- Tamil source pending: **19 / 40**
+- Tamil source complete: **31 / 40**
+- Tamil source pending: **9 / 40**
 - English from this collection: **0 / 40**
 
-Stories **1–21** are source-complete with **0 blocked / 0 unresolved story text**. Stories **12–21** are the completed second 10-story iteration.
+Stories **1–31** are source-complete with **0 blocked / 0 unresolved story text**. Stories **22–31** are the completed third 10-story iteration.
 
-Six TOC/opening-heading variances are registered: Stories **2, 11, 24, 28, 35, 39**.
+Eight TOC/opening-heading variances are registered: Stories **2, 11, 24, 27, 28, 29, 35, 39**.
 
 ## ITERATION RULE
 
-The user explicitly instructed: **process 10 stories in each iteration**.
+The user explicitly instructed: **process 10 stories in each iteration**. Only nine source stories remain, so the final source iteration is **Stories 32–40**.
 
 Each story still requires:
 
@@ -64,23 +64,22 @@ Read completely before source-dependent writes:
 7. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 8. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
 
-## EXACT NEXT ITERATION — STORIES 22–31
+## EXACT FINAL SOURCE ITERATION — STORIES 32–40
 
-Process all ten stories and stop after Story 31 unless the user explicitly expands the batch:
+Process all remaining nine stories and stop after Story 40:
 
-22. **`புலிவால்`** — printed **42**, source scan **44**, next-boundary scan **45**;
-23. **`தெரியாத பேச்சு`** — printed **43–44**, scans **45–46**, boundary **47**;
-24. TOC **`வெண்ணெய் உருகுது வெயிலில்!`** / opening **`வெண்ணெய் உருகுது வெயிலில்`** — printed **45–51**, scans **47–53**, boundary **54**;
-25. **`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`** — printed **52–57**, scans **54–59**, boundary **60**;
-26. **`பொறுமைக்கு சான்று`** — printed **58**, scan **60**, boundary **61**;
-27. **`எடுக்கவோ கோக்கவோ!`** — printed **59**, scan **61**, boundary **62**;
-28. TOC **`அந்த நாள் வந்திலை...`** / opening **`அந்த நாள் வந்திலை!`** — printed **60–61**, scans **62–63**, boundary **64**;
-29. **`பனித் துளியில் பனைமரம்`** — printed **62**, scan **64**, boundary **65**;
-30. **`பாரூர் போல...`** — printed **63**, scan **65**, boundary **66**;
-31. **`இராமனைப் பற்றி இராமன்`** — printed **64–66**, scans **66–68**, boundary **69**.
+32. **`மானும் பெருமானும்`** — printed **67–68**, scans **69–70**, next-boundary scan **71**;
+33. **`எழுச்சிக்கு அடையாளம்`** — printed **69**, scan **71**, boundary **72**;
+34. **`தலையும் நுனியும்`** — printed **70**, scan **72**, boundary **73**;
+35. TOC **`தும்... பம்... தீம்... தோம்`** / opening **`தும் பம் தீம் தோம்`** — printed **71–73**, scans **73–75**, boundary **76**;
+36. **`நல்லவழியும் நல்ல வழியும்`** — printed **74**, scan **76**, boundary **77**;
+37. **`நாக்குத் தமிழ் மணக்கும்`** — printed **75–76**, scans **77–78**, boundary **79**;
+38. **`நீதி தேவதையே!`** — printed **77**, scan **79**, boundary **80**;
+39. TOC **`நன்றி சொல்லும் நேரம்...`** / opening **`நன்றி சொல்லும் நேரம்`** — printed **78**, scan **80**, boundary **81**;
+40. **`பந்தலிலே பாகற்காய்`** — printed **79**, scan **81**, back-cover boundary witness **82**.
 
-Story 21 closes at the top of scan **44**; Story 22 begins below that already-closed asterisk. Preserve Story-21 text and begin Story 22 only below its heading boundary.
+Story 31 closes at the top of scan **69**; Story 32 begins below that already-closed asterisk. Preserve Story-31 text and begin Story 32 only below its heading boundary.
 
-TOC-derived ranges are routing guides only. Inspect every next-boundary scan directly: the preceding story may continue above the next story heading.
+TOC-derived ranges are routing guides only. Inspect every next-boundary scan directly: the preceding story may continue above the next story heading. For Story 40, scan 82 is the physical back-cover witness.
 
 The controlling PDF must be attached or otherwise resolved before page-level visual verification. Do not use OCR memory or inferred prose as a substitute for direct scan evidence.

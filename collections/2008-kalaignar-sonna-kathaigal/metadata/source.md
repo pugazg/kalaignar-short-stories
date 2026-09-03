@@ -67,10 +67,11 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - story-opening scans visually checked: **40 / 40**
 - final story/back-cover boundary checked: **Yes**
 - source registration state: **COMPLETE**
-- canonical story workspaces activated: **21 / 40**
-- Tamil source processing complete: **21 / 40**
-- Tamil source processing pending: **19 / 40**
+- canonical story workspaces activated: **31 / 40**
+- Tamil source processing complete: **31 / 40**
+- Tamil source processing pending: **9 / 40**
 - English translation complete from this collection: **0 / 40**
-- latest completed: **Story 21 `இதயம் பேசுகிறது` — lower scan 43 through upper scan 44; audit PASS; 0 blocked / 0 unresolved**
-- current execution policy: **10 stories per iteration**
-- next exact iteration: **Stories 22–31**, beginning Story 22 `புலிவால்` on scan **44 / printed page 42**, with scan **45** as its first boundary witness.
+- latest completed: **Story 31 `இராமனைப் பற்றி இராமன்` — lower scan 66 through upper scan 69; audit PASS; 0 blocked / 0 unresolved**
+- directly registered title variances: **8** — Stories 2, 11, 24, 27, 28, 29, 35 and 39
+- execution policy: **10 stories per iteration while possible; final source iteration has the remaining 9 stories**
+- next exact iteration: **Stories 32–40**, beginning Story 32 `மானும் பெருமானும்` below Story 31 on scan **69 / printed page 67**, with scan **71** as its next-boundary witness after scan 70.

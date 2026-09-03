@@ -29,16 +29,16 @@ Inventory rule: printed start pages come from contents scans 7–8; calculated p
 | 19 | `நடக்குமா நடக்காதா?` | `நடக்குமா நடக்காதா?` | 37–39 | 39–41 | 42 | **Tamil complete — lower 39 → 40–41 → upper 42; PASS** — `stories/nadakkuma-nadakkatha/` |
 | 20 | `கனியும் கணையும்` | `கனியும் கணையும்` | 40–40 | 42–42 | 43 | **Tamil complete — lower 42 → upper 43; PASS** — `stories/kaniyum-kanaiyum/` |
 | 21 | `இதயம் பேசுகிறது` | `இதயம் பேசுகிறது` | 41–41 | 43–43 | 44 | **Tamil complete — lower 43 → upper 44; PASS** — `stories/idhayam-pesugirathu/` |
-| 22 | `புலிவால்` | `புலிவால்` | 42–42 | 44–44 | 45 | registered / not activated |
-| 23 | `தெரியாத பேச்சு` | `தெரியாத பேச்சு` | 43–44 | 45–46 | 47 | registered / not activated |
-| 24 | `வெண்ணெய் உருகுது வெயிலில்!` | `வெண்ணெய் உருகுது வெயிலில்` | 45–51 | 47–53 | 54 | registered / not activated |
-| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | 52–57 | 54–59 | 60 | registered / not activated |
-| 26 | `பொறுமைக்கு சான்று` | `பொறுமைக்கு சான்று` | 58–58 | 60–60 | 61 | registered / not activated |
-| 27 | `எடுக்கவோ கோக்கவோ!` | `எடுக்கவோ கோக்கவோ!` | 59–59 | 61–61 | 62 | registered / not activated |
-| 28 | `அந்த நாள் வந்திலை...` | `அந்த நாள் வந்திலை!` | 60–61 | 62–63 | 64 | registered / not activated |
-| 29 | `பனித் துளியில் பனைமரம்` | `பனித் துளியில் பனைமரம்` | 62–62 | 64–64 | 65 | registered / not activated |
-| 30 | `பாரூர் போல...` | `பாரூர் போல...` | 63–63 | 65–65 | 66 | registered / not activated |
-| 31 | `இராமனைப் பற்றி இராமன்` | `இராமனைப் பற்றி இராமன்` | 64–66 | 66–68 | 69 | registered / not activated |
+| 22 | `புலிவால்` | `புலிவால்` | 42–42 | 44–44 | 45 | **Tamil complete — lower 44 → upper 45; PASS** — `stories/pulivaal/` |
+| 23 | `தெரியாத பேச்சு` | `தெரியாத பேச்சு` | 43–44 | 45–46 | 47 | **Tamil complete — lower 45 → 46 → upper 47; PASS** — `stories/theriyatha-pechu/` |
+| 24 | `வெண்ணெய் உருகுது வெயிலில்!` | `வெண்ணெய் உருகுது வெயிலில்` | 45–51 | 47–53 | 54 | **Tamil complete — lower 47 → 48–53 → upper 54; PASS** — `stories/vennai-uruguthu-veyilil/` |
+| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | 52–57 | 54–59 | 60 | **Tamil complete — lower 54 → 55–59 → upper 60; PASS** — `stories/mamiyar-udaithaal-mattum-manchattiya/` |
+| 26 | `பொறுமைக்கு சான்று` | `பொறுமைக்கு சான்று` | 58–58 | 60–60 | 61 | **Tamil complete — lower 60 → upper 61; PASS** — `stories/porumaikku-saandru/` |
+| 27 | `எடுக்கவோ கோக்கவோ!` | `எடுக்கவோ கோக்கவோ` | 59–59 | 61–61 | 62 | **Tamil complete — lower 61 → upper 62; PASS** — `stories/edukkavo-kokkavo/` |
+| 28 | `அந்த நாள் வந்திலை...` | `அந்த நாள் வந்திலை!` | 60–61 | 62–63 | 64 | **Tamil complete — lower 62 → 63 → upper 64; PASS** — `stories/antha-naal-vanthilai/` |
+| 29 | `பனித் துளியில் பனைமரம்` | `பனித்துளியில் பனை மரம்` | 62–62 | 64–64 | 65 | **Tamil complete — lower 64 → upper 65; PASS** — `stories/panithuliyil-panai-maram/` |
+| 30 | `பாரூர் போல...` | `பாரூர் போல...` | 63–63 | 65–65 | 66 | **Tamil complete — lower 65 → upper 66; PASS** — `stories/paarur-pola/` |
+| 31 | `இராமனைப் பற்றி இராமன்` | `இராமனைப் பற்றி இராமன்` | 64–66 | 66–68 | 69 | **Tamil complete — lower 66 → 67–68 → upper 69; PASS** — `stories/iramanai-patri-iraman/` |
 | 32 | `மானும் பெருமானும்` | `மானும் பெருமானும்` | 67–68 | 69–70 | 71 | registered / not activated |
 | 33 | `எழுச்சிக்கு அடையாளம்` | `எழுச்சிக்கு அடையாளம்` | 69–69 | 71–71 | 72 | registered / not activated |
 | 34 | `தலையும் நுனியும்` | `தலையும் நுனியும்` | 70–70 | 72–72 | 73 | registered / not activated |
@@ -51,7 +51,7 @@ Inventory rule: printed start pages come from contents scans 7–8; calculated p
 
 ## Source-verified boundary overlay
 
-Completed physical spans through Story 21:
+Completed physical spans through Story 31:
 
 - #1 9 → top 10; #2 lower 10 → upper 11; #3 lower 11 → upper 16;
 - #4 lower 16 → upper 17; #5 lower 17 → upper 18; #6 lower 18 → upper 19;
@@ -60,7 +60,12 @@ Completed physical spans through Story 21:
 - #12 29 → upper 30; #13 lower 30 → 31; #14 32 → upper 33;
 - #15 lower 33 → 34 → upper 35; #16 lower 35 → upper 36; #17 lower 36 → upper 37;
 - #18 lower 37 → 38 → upper 39; #19 lower 39 → 40–41 → upper 42;
-- #20 lower 42 → upper 43; #21 lower 43 → upper 44.
+- #20 lower 42 → upper 43; #21 lower 43 → upper 44;
+- #22 lower 44 → upper 45; #23 lower 45 → 46 → upper 47;
+- #24 lower 47 → 48–53 → upper 54; #25 lower 54 → 55–59 → upper 60;
+- #26 lower 60 → upper 61; #27 lower 61 → upper 62;
+- #28 lower 62 → 63 → upper 64; #29 lower 64 → upper 65;
+- #30 lower 65 → upper 66; #31 lower 66 → 67–68 → upper 69.
 
 TOC-derived range columns remain unchanged for provenance; completed-state notes record source-verified physical spans.
 
@@ -69,12 +74,14 @@ TOC-derived range columns remain unchanged for provenance; completed-state notes
 - #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
 - #11 `சாவிதான் இல்லை` ↔ `சாவி தான் இல்லை`;
 - #24 `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்`;
+- #27 `எடுக்கவோ கோக்கவோ!` ↔ `எடுக்கவோ கோக்கவோ`;
 - #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
+- #29 `பனித் துளியில் பனைமரம்` ↔ `பனித்துளியில் பனை மரம்`;
 - #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
 - #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
 
 ## Processing status
 
-**21 / 40 Tamil source-complete; 19 / 40 pending; completed stories have 0 blocked / 0 unresolved story text.**
+**31 / 40 Tamil source-complete; 9 / 40 pending; completed stories have 0 blocked / 0 unresolved story text.**
 
-Next exact iteration: **Stories 22–31**, beginning Story 22 `புலிவால்` on scan 44 below the already-closed Story-21 ending and using scan 45 as the first next-boundary witness.
+Next exact iteration: **Stories 32–40**, beginning Story 32 `மானும் பெருமானும்` on the lower part of scan 69 below the already-closed Story-31 ending. The final iteration contains the remaining **9 stories**.

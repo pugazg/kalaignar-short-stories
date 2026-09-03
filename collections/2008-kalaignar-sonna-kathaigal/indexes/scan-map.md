@@ -65,22 +65,22 @@ Story-page formula: **scan = printed page + 2**.
 
 ## Source-verified processing overlay
 
-Stories **1–21** are Tamil source-complete. Direct review established the physical spans listed in `story-inventory.md`; many deliberately overlap the next story's opening scan because the preceding story ends above the next heading.
+Stories **1–31** are Tamil source-complete. Direct review established the physical spans listed in `story-inventory.md`; many deliberately overlap the next story's opening scan because the preceding story ends above the next heading.
 
-Important later-batch boundaries:
+Important latest boundaries:
 
-- Story 12: scan **29 → upper 30**; Story 13 begins lower on 30;
-- Story 13: lower **30 → 31**; scan 32 is only the Story-14 boundary;
-- Story 14: **32 → upper 33**;
-- Story 15: lower **33 → 34 → upper 35**;
-- Story 16: lower **35 → upper 36**;
-- Story 17: lower **36 → upper 37**;
-- Story 18: lower **37 → 38 → upper 39**;
-- Story 19: lower **39 → 40–41 → upper 42**;
-- Story 20: lower **42 → upper 43**;
-- Story 21: lower **43 → upper 44**; Story 22 begins below its asterisk on scan 44.
+- Story 22: lower **44 → upper 45**;
+- Story 23: lower **45 → 46 → upper 47**;
+- Story 24: lower **47 → 48–53 → upper 54**;
+- Story 25: lower **54 → 55–59 → upper 60**;
+- Story 26: lower **60 → upper 61**;
+- Story 27: lower **61 → upper 62**;
+- Story 28: lower **62 → 63 → upper 64**;
+- Story 29: lower **64 → upper 65**;
+- Story 30: lower **65 → upper 66**;
+- Story 31: lower **66 → 67–68 → upper 69**; Story 32 begins below its asterisk on scan 69.
 
-Processing totals: **21 / 40 complete; 19 / 40 pending.**
+Processing totals: **31 / 40 complete; 9 / 40 pending.**
 
 ## Final collection boundary
 
