@@ -1,0 +1,26 @@
+# Source metadata — கனியும் கணையும்
+
+## Controlling source
+
+- Anthology: **கலைஞர் சொன்ன கதைகள்**
+- Author: **டாக்டர் கலைஞர் மு. கருணாநிதி**
+- Edition: **Second Edition, December 2008**
+- Source filename: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+- SHA-256: `1b2bf86892717776b1b3dc7fcb18dc146d5bfd0d60986509dc9cbbf5f235444b`
+- File size: **24,840,000 bytes**
+- PDF scans: **82**
+- source PDF committed: **No**
+
+## Story coordinates
+
+- sequence: **20 / 40**
+- TOC / opening heading: **`கனியும் கணையும்`**
+- canonical slug: `kaniyum-kanaiyum`
+- TOC-derived range: printed **40 / scan 42**
+- verified source span: lower scan **42** through upper scan **43**
+- previous boundary: Story 19 ends above Story 20 on scan 42
+- next boundary: Story 21 opens below Story 20 on scan 43
+
+## Source-review notes
+
+Direct high-resolution review confirms the story begins after Story 19's asterisk on scan 42 and ends above Story 21 on scan 43. The source's `சென்னை. 66ஆவது`, four-dot lead-in, William Tell analogy, dash structure, and political abbreviations are retained source-close.
