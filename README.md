@@ -61,7 +61,17 @@ Permanent guides:
 | [`சுமந்தவள்`](stories/sumanthaval/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — scan 9 + Story-1 ending span on shared scan 10 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **not started** |
+| [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`வெறும் கை முழம் போடும்`](stories/verum-kai-muzham-podum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`கூட்டணி`](stories/koottani/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`சீற வேண்டாமா?`](stories/seera-vendama/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`கழுதையின் கதை`](stories/kazhuthaiyin-kathai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`உனக்கு வயதென்ன?`](stories/unakku-vayathenna/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`தமிழன் என்று சொல்லடா!`](stories/thamizan-endru-sollada/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`கடமை கண்ணியம் கட்டுப்பாடு`](stories/kadamai-kanniyam-kattuppadu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`சாவி தான் இல்லை`](stories/saavi-thaan-illai/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -84,14 +94,14 @@ Source registration / processing state:
 - stories in contents: **40**
 - story inventory: **40 / 40 registered**
 - story-opening scan checks: **40 / 40 complete**
-- Tamil source processing complete: **1 / 40**
-- Tamil source processing pending: **39 / 40**
+- Tamil source processing complete: **11 / 40**
+- Tamil source processing pending: **29 / 40**
 - English translation complete from this collection: **0 / 40**
-- latest completed: **Story 1 `அப்படித்தான் சிரிப்பேன்` — PASS**
-- Story-1 source boundary: **scan 9 plus ending span at top of shared scan 10**
-- next exact target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`, scan 10; scan 11 boundary witness**
+- latest completed: **Story 11 — TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` — PASS**
+- current execution policy: **10 stories per iteration**
+- next exact iteration: **Stories 12–21**, beginning `கண்ணில் கால்` at scan **29 / printed page 27**
 
-Direct Story-1 review established that scan 10 is a shared physical page: Story 1 ends above its printed asterisk, then Story 2 begins below. The collection inventory and scan map preserve this overlap explicitly.
+Direct source processing confirms shared physical boundary scans throughout Stories 1–10. Story 11 ends on scan 28; scan 29 opens Story 12. Six TOC/opening title differences are now registered, including Story 11's joined/separated form.
 
 ### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
