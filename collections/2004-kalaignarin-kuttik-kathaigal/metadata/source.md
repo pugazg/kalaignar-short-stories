@@ -38,36 +38,40 @@ The intake metadata describes the book as a collection of **34 குட்ட�
 
 No TOC was reconstructed. Direct heading inspection established **34 / 34** story openings.
 
-## Heading correction established during processing
+## Source-supported heading corrections established during processing
 
-Story 16 was initially registered during intake as `அபாசமே அபாசம்!`. Direct high-resolution review of the printed heading on scan **23 / printed page 22** establishes **`ஆபாசமே ஆபாசம்!`**. The source-verified form is authoritative and is propagated to the collection inventory and scan map.
+- Story 16: intake `அபாசமே அபாசம்!` → printed **`ஆபாசமே ஆபாசம்!`**.
+- Story 21: intake `விருந்தாளிக்குத் தோன்றாது...` → printed **`விஞ்ஞானிக்குத் தோன்றாது...`**.
+- Story 26: intake `கூற்றுவன் எப்படி மறித்தான்?` → printed **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
+
+These corrections come from direct visual review of the printed headings and are propagated through collection controls.
 
 ## Processing verification
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **18 / 34**
-- Tamil source processing complete: **18 / 34**
-- pending: **16 / 34**
+- canonical story workspaces activated: **28 / 34**
+- Tamil source processing complete: **28 / 34**
+- pending: **6 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
 
-Stories **14–18** were processed as one user-authorized five-story source-first iteration; all five are PASS with direct visual scan review and no source text left blocked or unresolved.
+The latest user-authorized Stories **19–28** source-first iteration is **10 / 10 PASS** with direct visual scan review and no story text left blocked or unresolved.
 
 ## Latest completed source work
 
-Story 18 **`இலங்கை மன்னர் பரம்பரை`**:
+Story 28 **`இளமைக் காலம்`**:
 
-- workspace: `stories/ilangai-mannar-parambarai/`;
-- verified span: **scan 25 / printed 24 → top scan 27 / printed 26**;
+- workspace: `stories/ilamai-kaalam/`;
+- verified span: **lower scan 37 / printed 36 → scan 38 / printed 37 → upper scan 39 / printed 38**;
 - source records: **3 / 3 verified**;
 - audit: **PASS**;
 - blocked / unresolved: **0**;
-- Story 19 material below the ending on scan 27: excluded.
+- Story 29 material below the ending on scan 39: excluded.
 
 ## Next source target
 
-Story 19 **`கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**:
+Story 29 **`தலைவனின் பரிசு`**:
 
-- opens on scan **27 / printed page 26** below Story 18;
-- Story 20 **`சிறை கொடியது`** opens on scan **28 / printed page 27** and is the required next-opening boundary witness.
+- opens on scan **39 / printed page 38** below Story 28;
+- Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** opens on scan **41 / printed page 40** and is the required next-opening boundary witness.

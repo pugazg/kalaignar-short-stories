@@ -23,7 +23,13 @@ Full identity and scan-condition notes are in [`metadata/source.md`](metadata/so
 
 The scan moves from the colophon on scan 3 directly into story text on scan 4. Because no printed contents page is present, the 34-story inventory is based on direct sequential visual inspection of the printed story-opening headings across scans **4–49**. No TOC wording has been invented.
 
-During Story-16 activation, high-resolution direct source review corrected the intake heading `அபாசமே அபாசம்!` to the printed **`ஆபாசமே ஆபாசம்!`**. This source-supported correction is propagated through the collection controls.
+Direct activation review has established three intake-heading corrections so far:
+
+- Story 16: `அபாசமே அபாசம்!` → **`ஆபாசமே ஆபாசம்!`**;
+- Story 21: `விருந்தாளிக்குத் தோன்றாது...` → **`விஞ்ஞானிக்குத் தோன்றாது...`**;
+- Story 26: `கூற்றுவன் எப்படி மறித்தான்?` → **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
+
+The source-verified forms are authoritative and propagated through the controls.
 
 ## Pagination model
 
@@ -31,9 +37,9 @@ Across the story block, **PDF scan = printed page + 1**.
 
 ## Tamil source-processing state
 
-- canonical story workspaces activated: **18 / 34**
-- Tamil source processing complete: **18 / 34**
-- Tamil source processing pending: **16 / 34**
+- canonical story workspaces activated: **28 / 34**
+- Tamil source processing complete: **28 / 34**
+- Tamil source processing pending: **6 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation for this collection: **not opened**
 
@@ -59,25 +65,32 @@ Across the story block, **PDF scan = printed page + 1**.
 | 16 | `ஆபாசமே ஆபாசம்!` | `stories/aabasame-aabasam/` | scan 23 → top scan 24 | PASS |
 | 17 | `ஆடிக் காற்றே!` | `stories/aadik-kaatre/` | scan 24 only | PASS |
 | 18 | `இலங்கை மன்னர் பரம்பரை` | `stories/ilangai-mannar-parambarai/` | scan 25 → top scan 27 | PASS |
+| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | `stories/kazhuthile-oru-mudichu-atharku-oru-kathai/` | scan 27 → scan 28 | PASS |
+| 20 | `சிறை கொடியது` | `stories/sirai-kodiyathu/` | scan 28 → scan 29 | PASS |
+| 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | `stories/vignaanikku-thondraathu/` | scan 29 only | PASS |
+| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | `stories/adutha-piraviyil-aindhu-kanavan/` | scan 29 → scan 31 | PASS |
+| 23 | `புகழே நீ ஒரு புதிர்` | `stories/pugazhe-nee-oru-pudhir/` | scan 31 → scan 32 | PASS |
+| 24 | `மலையைத் தூக்குவேன்!` | `stories/malaiyai-thookkuven/` | scan 32 → scan 34 | PASS |
+| 25 | `முதியவர் தீர்ப்பு` | `stories/muthiyavar-theerppu/` | scan 34 → scan 35 | PASS |
+| 26 | `கூற்றுவன் எப்படிப் மறித்தான்?` | `stories/kootruvan-eppadip-mariththaan/` | scan 35 only | PASS |
+| 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | `stories/veeran-thalai-kavizhnthathu-en/` | scan 36 → scan 37 | PASS |
+| 28 | `இளமைக் காலம்` | `stories/ilamai-kaalam/` | scan 37 → scan 39 | PASS |
 
-The latest user-authorized five-story iteration, Stories **14–18**, is **5 / 5 source-complete**. All five have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
+The latest user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**. All ten have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
-## Shared-page controls closed through Story 18
+## Shared-page controls closed through Story 28
 
-- scan **5 / printed 4**: Story 1 ending, complete Story 2, Story 3 opening;
-- scan **6 / printed 5**: Story 3 ending, Story 4 opening;
-- scan **11 / printed 10**: Story 4 ending, Story 5 opening;
-- scan **13 / printed 12**: Story 5 ending, Story 6 opening;
-- scan **14 / printed 13**: Story 6 ending, Story 7 opening;
-- scan **15 / printed 14**: Story 7 ending, complete Story 8, Story 9 opening;
-- scan **16 / printed 15**: Story 9 ending, Story 10 opening;
-- scan **17 / printed 16**: Story 10 ending and complete Story 11;
-- scan **18 / printed 17**: complete Story 12 followed by Story 13 opening;
-- scan **19 / printed 18**: Story 13 ending followed by Story 14 opening;
-- scan **22 / printed 21**: Story 14 ending followed by Story 15 opening;
-- scan **23 / printed 22**: Story 15 ending followed by Story 16 opening;
-- scan **24 / printed 23**: Story 16 ending followed by complete Story 17;
-- scan **27 / printed 26**: Story 18 ending followed by Story 19 opening.
+In addition to the earlier boundaries through Story 18:
+
+- scan **27 / printed 26**: Story 18 ending followed by Story 19 opening;
+- scan **28 / printed 27**: Story 19 ending followed by Story 20 opening;
+- scan **29 / printed 28**: Story 20 ending, complete Story 21, Story 22 opening;
+- scan **31 / printed 30**: Story 22 ending followed by Story 23 opening;
+- scan **32 / printed 31**: Story 23 ending followed by Story 24 opening;
+- scan **34 / printed 33**: Story 24 ending followed by Story 25 opening;
+- scan **35 / printed 34**: Story 25 ending followed by complete Story 26;
+- scan **37 / printed 36**: Story 27 ending followed by Story 28 opening;
+- scan **39 / printed 38**: Story 28 ending followed by Story 29 opening.
 
 ## Canonical deduplication gate
 
@@ -85,9 +98,9 @@ Every remaining story still requires a fresh live-`main` exact-title / alternate
 
 ## Next exact activity
 
-Process **Story 19 — `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**.
+Process **Story 29 — `தலைவனின் பரிசு`**.
 
-- opens: scan **27 / printed page 26**, below the completed Story-18 ending;
-- next boundary witness: Story 20 **`சிறை கொடியது`** opens on scan **28 / printed page 27**.
+- opens: scan **39 / printed page 38**, immediately below the completed Story-28 ending;
+- next boundary witness: Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** opens on scan **41 / printed page 40**.
 
-Do not begin Story 19 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
+Do not begin Story 29 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.

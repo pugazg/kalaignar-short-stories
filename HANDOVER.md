@@ -53,38 +53,46 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 
 ## Completed Tamil source work
 
-Collection state after the latest five-story batch:
+Collection state after the latest ten-story batch:
 
-- activated: **18 / 34**
-- Tamil source complete: **18 / 34**
-- pending: **16 / 34**
+- activated: **28 / 34**
+- Tamil source complete: **28 / 34**
+- pending: **6 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-The user-authorized **Stories 14–18** iteration is **5 / 5 PASS**:
+The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**:
 
-14. `சொர்க்கத்திற்கு வந்தது எப்படி?` — scans 19–22 — **4 / 4 verified** — PASS
-15. `கள்ளியும் ரோஜாவும்` — scans 22–23 — **2 / 2 verified** — PASS
-16. `ஆபாசமே ஆபாசம்!` — scans 23–24 — **2 / 2 verified** — PASS
-17. `ஆடிக் காற்றே!` — scan 24 only — **1 / 1 verified** — PASS
-18. `இலங்கை மன்னர் பரம்பரை` — scans 25–27 — **3 / 3 verified** — PASS
+19. `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` — scans 27–28 — PASS
+20. `சிறை கொடியது` — scans 28–29 — PASS
+21. `விஞ்ஞானிக்குத் தோன்றாது...` — scan 29 only — PASS
+22. `அடுத்த பிறவியில் ஐந்து கணவன்` — scans 29–31 — PASS
+23. `புகழே நீ ஒரு புதிர்` — scans 31–32 — PASS
+24. `மலையைத் தூக்குவேன்!` — scans 32–34 — PASS
+25. `முதியவர் தீர்ப்பு` — scans 34–35 — **2 / 2 verified** — PASS
+26. `கூற்றுவன் எப்படிப் மறித்தான்?` — scan 35 only — **1 / 1 verified** — PASS
+27. `வீரன் தலை கவிழ்ந்தது ஏன்?` — scans 36–37 — **2 / 2 verified** — PASS
+28. `இளமைக் காலம்` — scans 37–39 — **3 / 3 verified** — PASS
 
-All five have canonical workspaces, page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
+All ten have canonical workspaces, page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
 ### Batch-specific source controls
 
-- Story 16: the intake inventory had `அபாசமே அபாசம்!`; direct high-resolution heading review establishes **`ஆபாசமே ஆபாசம்!`**. The corrected source heading is authoritative and has been propagated to collection controls.
-- Story 18: page boundary split is `அனுப்பு` on scan 26 → `கிறான்.` on scan 27; page records retain the physical split and the canonical assembly joins `அனுப்புகிறான்.`.
-- Story 18 ends above Story 19 on shared scan **27 / printed 26**.
+- Story 21: source heading is **`விஞ்ஞானிக்குத் தோன்றாது...`**, correcting intake `விருந்தாளிக்குத் தோன்றாது...`.
+- Story 25: source opens an unmatched single quotation before `சின்னஞ்`; preserved exactly and queued for human review.
+- Story 26: source heading is **`கூற்றுவன் எப்படிப் மறித்தான்?`**, correcting intake `கூற்றுவன் எப்படி மறித்தான்?`; displayed verse and `இரந்தன்றாகல்` retained.
+- Story 27: source punctuation `அந்தப் பீடு நடை எங்கே?....` and source wording `புழுவாக நெளிவானேன்?` retained.
+- Story 28: source-specific `ஜெயப்பிரதன்` and `வில்லை வளைச்சச் சொல்ல வில் வளைத்து` retained without normalization.
+- Story 28 ends above Story 29 on shared scan **39 / printed 38**.
 
 ## Current exact next activity
 
-Process **Story 19 — `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**.
+Process **Story 29 — `தலைவனின் பரிசு`**.
 
 Routing coordinates:
 
-- opening: scan **27 / printed page 26**, below completed Story 18;
-- required boundary witness: Story 20 **`சிறை கொடியது`**, opening scan **28 / printed page 27**.
+- opening: scan **39 / printed page 38**, immediately below completed Story 28;
+- required boundary witness: Story 30 **`கிருஷ்ணனையும் விடாத சாதி`**, opening scan **41 / printed page 40**.
 
 Before activation:
 
@@ -92,7 +100,7 @@ Before activation:
 2. read mandatory guides and current active collection controls;
 3. perform exact-title / alternate-title / distinctive-content equivalence search;
 4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. transcribe only the verified Story-19 physical span;
+5. transcribe only the verified Story-29 physical span;
 6. preserve source spelling, punctuation, paragraph/display structure and shared-page boundary;
 7. do not begin English translation unless explicitly authorized;
 8. synchronize controls after durable closure.

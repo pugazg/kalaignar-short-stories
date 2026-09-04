@@ -36,16 +36,16 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 16 | `ஆபாசமே ஆபாசம்!` | 23 | 22 | PASS |
 | 17 | `ஆடிக் காற்றே!` | 24 | 23 | PASS |
 | 18 | `இலங்கை மன்னர் பரம்பரை` | 25 | 24 | PASS |
-| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | 27 | 26 | pending |
-| 20 | `சிறை கொடியது` | 28 | 27 | pending |
-| 21 | `விருந்தாளிக்குத் தோன்றாது...` | 29 | 28 | pending |
-| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | 29 | 28 | pending |
-| 23 | `புகழே நீ ஒரு புதிர்` | 31 | 30 | pending |
-| 24 | `மலையைத் தூக்குவேன்!` | 32 | 31 | pending |
-| 25 | `முதியவர் தீர்ப்பு` | 34 | 33 | pending |
-| 26 | `கூற்றுவன் எப்படி மறித்தான்?` | 35 | 34 | pending |
-| 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | 36 | 35 | pending |
-| 28 | `இளமைக் காலம்` | 37 | 36 | pending |
+| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | 27 | 26 | PASS |
+| 20 | `சிறை கொடியது` | 28 | 27 | PASS |
+| 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | 29 | 28 | PASS |
+| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | 29 | 28 | PASS |
+| 23 | `புகழே நீ ஒரு புதிர்` | 31 | 30 | PASS |
+| 24 | `மலையைத் தூக்குவேன்!` | 32 | 31 | PASS |
+| 25 | `முதியவர் தீர்ப்பு` | 34 | 33 | PASS |
+| 26 | `கூற்றுவன் எப்படிப் மறித்தான்?` | 35 | 34 | PASS |
+| 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | 36 | 35 | PASS |
+| 28 | `இளமைக் காலம்` | 37 | 36 | PASS |
 | 29 | `தலைவனின் பரிசு` | 39 | 38 | pending |
 | 30 | `கிருஷ்ணனையும் விடாத சாதி` | 41 | 40 | pending |
 | 31 | `புதிர்` | 41 | 40 | pending |
@@ -53,26 +53,28 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 33 | `கைதியின் கதை` | 44 | 43 | pending |
 | 34 | `கிழவியின் மனைவி` | 47 | 46 | pending |
 
-## Verified shared-page boundaries through Story 18
+## Verified shared-page boundaries through Story 28
 
-Story-local adjudication is closed through the Story-18 ending. In addition to earlier shared scans through Story 13:
+- scan **27 / printed 26** — Story 18 ending followed by Story 19 opening;
+- scan **28 / printed 27** — Story 19 ending followed by Story 20 opening;
+- scan **29 / printed 28** — Story 20 ending, complete Story 21, Story 22 opening;
+- scan **31 / printed 30** — Story 22 ending followed by Story 23 opening;
+- scan **32 / printed 31** — Story 23 ending followed by Story 24 opening;
+- scan **34 / printed 33** — Story 24 ending followed by Story 25 opening;
+- scan **35 / printed 34** — Story 25 ending followed by complete Story 26;
+- scan **37 / printed 36** — Story 27 ending followed by Story 28 opening;
+- scan **39 / printed 38** — Story 28 ending followed by Story 29 opening.
 
-- scan **19 / printed 18** — Story 13 ending followed by Story 14 opening;
-- scan **22 / printed 21** — Story 14 ending followed by Story 15 opening;
-- scan **23 / printed 22** — Story 15 ending followed by Story 16 opening;
-- scan **24 / printed 23** — Story 16 ending followed by complete Story 17;
-- scan **27 / printed 26** — Story 18 ending followed by Story 19 opening.
+Earlier shared-page controls through Story 18 remain closed and unchanged.
 
-Story 18 has the physical word split `அனுப்பு` (scan 26) → `கிறான்.` (scan 27); story page records preserve that split, while the canonical assembly joins `அனுப்புகிறான்.`.
-
-Story 16's direct source heading is **`ஆபாசமே ஆபாசம்!`**; the earlier intake `அபாசமே அபாசம்!` has been corrected in this map.
+Direct source heading corrections now locked in this map: Story 16 **`ஆபாசமே ஆபாசம்!`**, Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`**, Story 26 **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
 
 ## Processing state
 
 - source registration: complete
 - heading inventory: **34 / 34**
-- Tamil source complete: **18 / 34**
-- pending: **16 / 34**
+- Tamil source complete: **28 / 34**
+- pending: **6 / 34**
 - completed-story blocked / unresolved: **0**
 
-Next: Story 19 `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`, opening scan **27 / printed 26**, with Story 20 on scan 28 as the next-opening boundary witness.
+Next: Story 29 `தலைவனின் பரிசு`, opening scan **39 / printed 38**, with Story 30 on scan 41 as the next-opening boundary witness.
