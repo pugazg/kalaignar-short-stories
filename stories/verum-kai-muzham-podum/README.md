@@ -18,6 +18,25 @@ Canonical story workspace for **வெறும் கை முழம் போ
 - Tamil assembly: [`sections/verum-kai-muzham-podum.md`](sections/verum-kai-muzham-podum.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- word-by-word text fidelity: **PASS — no correction required**
+- visual fidelity: **PASS**
 
 Both endpoints are shared pages: Story 3 closes above the Story-4 heading on scan 16; Story 5 `கூட்டணி` begins below the Story-4 asterisk on scan 17.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English file: [`translations/en/verum-kai-muzham-podum.md`](translations/en/verum-kai-muzham-podum.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Verum Kai Muzham Podum**
+- source markers: **16 → 17**, once and in physical order
+- physical page-boundary alignment: **PASS**
+- Story-3 / Story-5 adjacent material: excluded
+- source opening quotation asymmetry: preserved in the English/source-control treatment
+- final source-significant `*`: preserved
+- canonical Tamil changed during translation: **No**
+
+## Completion state
+
+**வெறும் கை முழம் போடும் is COMPLETE through reviewed English translation: Tamil source 2/2 verified, text fidelity PASS, visual fidelity PASS, English PASS, 0 blocked / 0 unresolved story text.**
