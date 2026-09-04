@@ -6,6 +6,8 @@
 - Branch: `main`
 - Story workflow: `SHORT_STORY_PROCESSING_GUIDE.md`
 - Anthology workflow: `COLLECTION_SOURCE_GUIDE.md`
+- Text-fidelity workflow: `TEXT_FIDELITY_CHECK_GUIDE.md`
+- Text-fidelity tracker: `TEXT_FIDELITY_PROGRESS.md`
 - Visual-fidelity workflow: `VISUAL_FIDELITY_CHECK_GUIDE.md`
 - English-translation workflow: `ENGLISH_TRANSLATION_GUIDE.md`
 - Source PDFs / renders / crops are **not** committed.
@@ -19,7 +21,7 @@ Always fetch live `main` first and preserve newer durable work.
 - controlling scan first; no silent modernization of spelling, punctuation, grammar, sandhi, names or source anomalies;
 - running headers/page numbers are furniture, not body text;
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error;
-- source-supported corrections propagate through page, assembly, audit/review and dependent English layers;
+- source-supported corrections propagate through page, assembly, audit/review and dependent layers;
 - shared physical boundary scans preserve each story's exact source span;
 - do not commit controlling PDFs or inspection artefacts.
 
@@ -51,60 +53,80 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 - scan **82**: verified back cover, no further story text;
 - relation: **scan = printed page + 2**.
 
-### Collection source state
+Source-pass state remains:
 
-- contents: **40 / 40 transcribed**;
-- TOC-derived ranges: **40 / 40 calculated**;
-- story-opening scans: **40 / 40 visually checked**;
-- canonical workspaces activated: **40 / 40**;
+- canonical workspaces: **40 / 40**;
 - Tamil source complete: **40 / 40**;
 - Tamil source pending: **0 / 40**;
-- completed-story blocked / unresolved story text: **0**;
+- blocked / unresolved story text: **0**;
 - English from this collection: **0 / 40**.
 
-The user's 10-story iteration instruction was followed through Stories 2–11, 12–21 and 22–31; the final source iteration contained the remaining nine Stories 32–40.
+Nine TOC/opening-heading differences remain registered and must not be normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-### Completed final iteration — Stories 32–40
+## Active phase — word-by-word text fidelity
 
-32. `மானும் பெருமானும்` — lower 69 → 70 → upper 71 — PASS, 3/3;
-33. `எழுச்சிக்கு அடையாளம்` — lower 71 → upper 72 — PASS, 2/2;
-34. `தலையும் நுனியும்` — lower 72 → upper 73 — PASS, 2/2;
-35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — lower 73 → 74–75 → upper 76 — PASS, 4/4;
-36. TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — lower 76 → upper 77 — PASS, 2/2;
-37. `நாக்குத் தமிழ் மணக்கும்` — lower 77 → 78 → upper 79 — PASS, 3/3;
-38. `நீதி தேவதையே!` — lower 79 → upper 80 — PASS, 2/2;
-39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — lower 80 → upper 81 — PASS, 2/2;
-40. `பந்தலிலே பாகற்காய்` — lower 81 — PASS, 1/1; scan 82 is the verified back-cover witness.
+The user explicitly authorized a new **text-fidelity pass for every word** and retained the **10 stories per iteration** rule.
 
-Story 39 closes above Story 40 on scan 81. Story 40 then closes on that same physical scan. Scan 82 contains no further story text.
+Permanent rules are in `TEXT_FIDELITY_CHECK_GUIDE.md`. Existing `verified` status is not accepted as proof in this second pass: every active story is re-read directly against the controlling scans, word by word.
 
-### Title-variance register
+### Current progress
 
-Nine TOC/opening-heading differences are registered and must remain distinct:
+- total: **40**
+- fidelity complete: **10 / 40**
+- `PASS`: **6**
+- `PASS — corrected`: **4**
+- pending: **30 / 40**
+- needs recheck: **0**
+- unresolved fidelity issues among completed stories: **0**
 
-1. #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
-2. #11 `சாவிதான் இல்லை` ↔ `சாவி தான் இல்லை`;
-3. #24 `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்`;
-4. #27 `எடுக்கவோ கோக்கவோ!` ↔ `எடுக்கவோ கோக்கவோ`;
-5. #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
-6. #29 `பனித் துளியில் பனைமரம்` ↔ `பனித்துளியில் பனை மரம்`;
-7. #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
-8. #36 `நல்லவழியும் நல்ல வழியும்` ↔ `நல்வழியும் நல்ல வழியும்`;
-9. #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
+### Completed first fidelity iteration — Stories 1–10
 
-## Exact next activity
+1. `அப்படித்தான் சிரிப்பேன்` — scan 9 → top 10 — **PASS**;
+2. TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` — lower 10 → upper 11 — **PASS — corrected**;
+3. `தலையில் மலை` — lower 11 → upper 16 — **PASS — corrected**;
+4. `வெறும் கை முழம் போடும்` — lower 16 → upper 17 — **PASS**;
+5. `கூட்டணி` — lower 17 → upper 18 — **PASS**;
+6. `சீற வேண்டாமா?` — lower 18 → upper 19 — **PASS — corrected**;
+7. `கழுதையின் கதை` — lower 19 → 20 → upper 21 — **PASS**;
+8. `உனக்கு வயதென்ன?` — lower 21 → upper 22 — **PASS**;
+9. `தமிழன் என்று சொல்லடா!` — lower 22 → 23–24 → upper 25 — **PASS — corrected**;
+10. `கடமை கண்ணியம் கட்டுப்பாடு` — lower 25 → 26 → upper 27 — **PASS**.
 
-The **Tamil source pass for the 2008 collection is closed**. There is no Story 41 and no further source transcription activity.
+### First-batch correction summary
 
-Before any future phase:
+- Story 2: restored `என்னப்பா!`, source `மக்களுக்கு`, and `அரசே!` punctuation;
+- Story 3: restored source `அமர்ச்சியப்படுத்தாமல்`, `இயலாதது`, `எடுத்துக் கொள்க!`, and the scan-15 sentence beginning `அடே! அப்படியொரு ஆசையிருந்தால்`;
+- Story 6: restored source `ஒரு சீறு சீறி காட்டக்கூடாது என்றா சொன்னேன்.`;
+- Story 9: corrected nine word/punctuation mismatches including `உள்ளத்தை`, `தொகுப்பு நூலில்`, `குமரகுருபர்` / `குமரகுருபரை`, and `சொல்லுகிறார்`.
 
-1. fetch live `main` and preserve newer durable work;
-2. confirm the collection controls still agree at **40 / 40 complete, 0 pending**;
-3. do **not** reopen closed Tamil text without new source evidence or a user correction;
-4. do **not** automatically start English translation, visual-fidelity review, Digital Library onboarding, modernization, adaptation or republication merely because the source pass is complete.
+All affected page records, Tamil assemblies, audits and review queues are synchronized. Story-local `text-fidelity.md` records exist for Stories 1–10.
 
-A new downstream phase should begin only when the user explicitly requests or authorizes that phase. If English translation is selected later, follow `ENGLISH_TRANSLATION_GUIDE.md` and keep verified Tamil assemblies authoritative.
+## Exact next activity — text fidelity Stories 11–20
+
+Process **all ten** stories in this iteration and stop after Story 20:
+
+11. TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` — lower scan **27 → 28**;
+12. `கண்ணில் கால்` — scan **29 → upper 30**;
+13. `மயில் ராவணன்` — lower **30 → 31**;
+14. `ஜாடி குட்டி போடுமா?` — scan **32 → upper 33**;
+15. `ஒண்ணு குடுமா?` — lower **33 → 34 → upper 35**;
+16. `அத்திரி பாச்சா` — lower **35 → upper 36**;
+17. `செருப்போடு இரு` — lower **36 → upper 37**;
+18. `இடிக்குப் பின் மழை` — lower **37 → 38 → upper 39**;
+19. `நடக்குமா நடக்காதா?` — lower **39 → 40–41 → upper 42**;
+20. `கனியும் கணையும்` — lower **42 → upper 43**.
+
+For every story:
+
+1. re-fetch live `main` before source-dependent writes;
+2. inspect every registered story span directly, including shared boundary material;
+3. compare every word, spelling/sandhi form, punctuation, quotation boundary, paragraph and physical join;
+4. if a mismatch exists, verify the surrounding full phrase and propagate the source-supported correction through page, assembly, audit/review and `text-fidelity.md`;
+5. if no mismatch exists, create `text-fidelity.md` with `PASS`;
+6. update `TEXT_FIDELITY_PROGRESS.md` only after the story is durably closed.
+
+Story 10 closes above Story 11 on scan **27**; exclude the already-closed Story-10 material. Story 20 closes above Story 21 on scan **43**; inspect that shared boundary but do not begin Story 21 in this iteration.
 
 ## Phase guard
 
-The completed source-first processing of `கலைஞர் சொன்ன கதைகள்` does not itself authorize modernization, adaptation, republication, Digital Library onboarding, or changes to other repositories.
+Text fidelity does not authorize modernization, adaptation, republication, Digital Library onboarding, or English translation. Verified Tamil remains authoritative after source-supported corrections.
