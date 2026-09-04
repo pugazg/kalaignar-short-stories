@@ -7,10 +7,10 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 ## Status
 
 - total stories: **40**
-- text-fidelity complete: **10 / 40**
-- `PASS`: **6**
-- `PASS — corrected`: **4**
-- pending: **30 / 40**
+- text-fidelity complete: **20 / 40**
+- `PASS`: **8**
+- `PASS — corrected`: **12**
+- pending: **20 / 40**
 - needs recheck: **0**
 - unresolved fidelity issue among completed stories: **0**
 
@@ -26,16 +26,16 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 | 8 | `உனக்கு வயதென்ன?` | lower 21 → upper 22 | **PASS** |
 | 9 | `தமிழன் என்று சொல்லடா!` | lower 22 → 23–24 → upper 25 | **PASS — corrected** |
 | 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | lower 25 → 26 → upper 27 | **PASS** |
-| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | lower 27 → 28 | pending |
-| 12 | `கண்ணில் கால்` | 29 → upper 30 | pending |
-| 13 | `மயில் ராவணன்` | lower 30 → 31 | pending |
-| 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | pending |
-| 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | pending |
-| 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | pending |
-| 17 | `செருப்போடு இரு` | lower 36 → upper 37 | pending |
-| 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | pending |
-| 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | pending |
-| 20 | `கனியும் கணையும்` | lower 42 → upper 43 | pending |
+| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | lower 27 → 28 | **PASS** |
+| 12 | `கண்ணில் கால்` | 29 → upper 30 | **PASS — corrected** |
+| 13 | `மயில் ராவணன்` | lower 30 → 31 | **PASS — corrected** |
+| 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | **PASS — corrected** |
+| 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | **PASS — corrected** |
+| 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | **PASS** |
+| 17 | `செருப்போடு இரு` | lower 36 → upper 37 | **PASS — corrected** |
+| 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | **PASS — corrected** |
+| 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | **PASS — corrected** |
+| 20 | `கனியும் கணையும்` | lower 42 → upper 43 | **PASS — corrected** |
 | 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | pending |
 | 22 | `புலிவால்` | lower 44 → upper 45 | pending |
 | 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | pending |
@@ -57,10 +57,16 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 | 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | pending |
 | 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | pending |
 
-## Batch 1 correction summary
+## Batch 1 correction summary — Stories 1–10
 
-Stories **1–10** were re-read directly against scans **9–27**. Stories **2, 3, 6 and 9** required source-supported corrections. Stories **1, 4, 5, 7, 8 and 10** matched the controlling source at word level.
+Stories **2, 3, 6 and 9** required source-supported corrections. Stories **1, 4, 5, 7, 8 and 10** matched the controlling source at word level.
+
+## Batch 2 correction summary — Stories 11–20
+
+Stories **11 and 16** matched the controlling source at word level. Stories **12, 13, 14, 15, 17, 18, 19 and 20** required source-supported corrections, all now propagated through page records, Tamil assemblies, audits/review queues and story-local fidelity records.
+
+Key recovered readings include `தொடவும்`, `ஊடுதல் செயலாளராக`, first `காப்புமுற்றிருக்கின்றது`, `உயர் ஜாதிக்காரனுக்குக்`, `போர் வீரன்படம்`, `பேச்சைக்`, `என்னடா?`, and Story-20 comma/period punctuation.
 
 ## Exact next iteration
 
-Process **Stories 11–20** only, in order, with direct word-by-word scan comparison. Do not advance to Story 21 until all ten records and any corrections are synchronized.
+Process **Stories 21–30** only, in order, with direct word-by-word scan comparison. Do not advance to Story 31 until all ten records and any corrections are synchronized.
