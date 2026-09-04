@@ -7,10 +7,10 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 ## Status
 
 - total stories: **40**
-- text-fidelity complete: **30 / 40**
-- `PASS`: **15**
-- `PASS — corrected`: **15**
-- pending: **10 / 40**
+- text-fidelity complete: **40 / 40**
+- `PASS`: **19**
+- `PASS — corrected`: **21**
+- pending: **0 / 40**
 - needs recheck: **0**
 - unresolved fidelity issue among completed stories: **0**
 
@@ -46,16 +46,16 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 | 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | **PASS — corrected** |
 | 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | lower 64 → upper 65 | **PASS** |
 | 30 | `பாரூர் போல...` | lower 65 → upper 66 | **PASS** |
-| 31 | `இராமனைப் பற்றி இராமன்` | lower 66 → 67–68 → upper 69 | pending |
-| 32 | `மானும் பெருமானும்` | lower 69 → 70 → upper 71 | pending |
-| 33 | `எழுச்சிக்கு அடையாளம்` | lower 71 → upper 72 | pending |
-| 34 | `தலையும் நுனியும்` | lower 72 → upper 73 | pending |
-| 35 | TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` | lower 73 → 74–75 → upper 76 | pending |
-| 36 | TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` | lower 76 → upper 77 | pending |
-| 37 | `நாக்குத் தமிழ் மணக்கும்` | lower 77 → 78 → upper 79 | pending |
-| 38 | `நீதி தேவதையே!` | lower 79 → upper 80 | pending |
-| 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | pending |
-| 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | pending |
+| 31 | `இராமனைப் பற்றி இராமன்` | lower 66 → 67–68 → upper 69 | **PASS — corrected** |
+| 32 | `மானும் பெருமானும்` | lower 69 → 70 → upper 71 | **PASS — corrected** |
+| 33 | `எழுச்சிக்கு அடையாளம்` | lower 71 → upper 72 | **PASS — corrected** |
+| 34 | `தலையும் நுனியும்` | lower 72 → upper 73 | **PASS — corrected** |
+| 35 | TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` | lower 73 → 74–75 → upper 76 | **PASS — corrected** |
+| 36 | TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` | lower 76 → upper 77 | **PASS** |
+| 37 | `நாக்குத் தமிழ் மணக்கும்` | lower 77 → 78 → upper 79 | **PASS — corrected** |
+| 38 | `நீதி தேவதையே!` | lower 79 → upper 80 | **PASS** |
+| 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | **PASS** |
+| 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | **PASS** |
 
 ## Batch 1 correction summary — Stories 1–10
 
@@ -73,6 +73,14 @@ Stories **21, 22, 23, 26, 27, 29 and 30** matched the controlling source at word
 
 Key recovered readings include Story-24 `தூக்கி நிறுத்திய`, `கடிதமாகத் தீட்டினேன்`, `தொடுவான்! துவளமாட்டான்.`, `சல்லாபத்`, `தொடங்குவதற்கு`, Story-25 `புராணிகள் கூறுவர்`, `முதல்வராக அமர்ந்து அரசோச்சியவர்`, `தீர்ப்பையொட்டி`, `சொர்க்கத்தில் இருக்கலாம்`, `சொர்க்கம் செல்பவனின்`, and Story-28 `பதைத்துப் போன புலவர்`.
 
-## Exact next iteration
+## Batch 4 correction summary — Stories 31–40
 
-Process **Stories 31–40** only, in order, with direct word-by-word scan comparison. Story 31 begins below Story 30 on shared scan **66**. Story 40 ends on scan **81**; scan **82** is the verified back-cover witness and must be used only as the final boundary check.
+Stories **36, 38, 39 and 40** matched the controlling source at word level. Stories **31, 32, 33, 34, 35 and 37** required source-supported corrections, all propagated through page records, Tamil assemblies, audits/review queues and story-local fidelity records.
+
+Key recovered details include Story-31 `மாட்டா(து)` and `எவ்வளவு நாள்`, Story-32 `மாத்திர மல்ல`, `வருகின்ற வரை`, `குட்டியைத் தேடி` and restored dialogue quotation marks, Story-33 `கரம் இழந்தான்.`, Story-34 `ஒவ்வொருவராக`, Story-35 source quotation/punctuation including `(தும், ‘தும்’, ‘பம்’, ‘பம்’, ‘தீம்..... தீம்’)`, and Story-37's asymmetric opening/closing quotation marks around the completed couplet.
+
+## Phase closure
+
+The collection's word-by-word Tamil text-fidelity phase is **COMPLETE — 40 / 40**. Every story workspace now contains `text-fidelity.md`; pending and unresolved fidelity counts are zero.
+
+Do not begin another downstream phase from this tracker without explicit user authorization.
