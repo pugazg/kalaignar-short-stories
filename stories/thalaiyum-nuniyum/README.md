@@ -21,4 +21,16 @@ Canonical story workspace for **தலையும் நுனியும்**
 - Tamil assembly: [`sections/thalaiyum-nuniyum.md`](sections/thalaiyum-nuniyum.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/thalaiyum-nuniyum.md`](translations/en/thalaiyum-nuniyum.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **72 → 73 — PASS**
+- corrected source `ஒவ்வொருவராக`: followed
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
