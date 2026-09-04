@@ -5,22 +5,22 @@ Branch: `main`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work.
+Fetch live `main` first and preserve newer durable work. Do not reset or repeat completed fidelity work because a copied checkpoint is older.
 
-## COMPLETED 1977 ANTHOLOGY STATE
+## CLOSED 1977 ANTHOLOGY
 
-The 1977 anthology `கலைஞர் கருணாநிதியின் சிறுகதைகள்` remains fully closed:
+`கலைஞர் கருணாநிதியின் சிறுகதைகள்` remains fully closed:
 
-- Tamil source processing: **37 / 37 complete**
+- Tamil source: **37 / 37 complete**
 - visual fidelity: **37 / 37 complete**
 - English translation/review: **37 / 37 complete**
-- English final structural/control QA: **PASS**
+- final English structural/control QA: **PASS**
 - unresolved anthology story text: **0**
 - scan **260**: verified back cover
 
-Story 29 `திடுக்கிடும் கதை` retains its post-completion marker-only provenance correction. The obsolete pre-correction Wave-2 source pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
+Story 29 `திடுக்கிடும் கதை` retains its post-completion marker-only provenance correction. The obsolete pre-correction Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## COMPLETED TAMIL SOURCE PASS — கலைஞர் சொன்ன கதைகள்
+## 2008 COLLECTION — SOURCE PASS CLOSED
 
 Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
 
@@ -30,56 +30,82 @@ Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 - PDF scans: **82**
 - contents: **40 stories**
 - story-text scans: **9–81 / printed pages 7–79**
-- scan **82**: verified physical back cover; no further story text
-- canonical workspaces: **40 / 40 activated**
+- scan **82**: verified physical back cover
 - Tamil source complete: **40 / 40**
 - Tamil source pending: **0 / 40**
-- completed-story blocked / unresolved story text: **0**
-- English from this collection: **0 / 40**
+- blocked / unresolved source story text: **0**
 
-Stories **1–40** are source-complete. Story 40 `பந்தலிலே பாகற்காய்` closes on scan **81 / printed page 79**. Scan **82** is the collection back-cover boundary witness.
+Nine TOC/opening-heading variances remain registered at Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-Nine TOC/opening-heading variances are registered: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**. Story 36 is TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
+## ACTIVE PHASE — WORD-BY-WORD TEXT FIDELITY
 
-## MANDATORY STARTUP FOR ANY FUTURE PHASE
+The user explicitly requested **text fidelity for each word** and **10 stories per iteration**.
 
-Read completely before source-dependent or downstream writes:
+Permanent phase files:
+
+- `TEXT_FIDELITY_CHECK_GUIDE.md`
+- `TEXT_FIDELITY_PROGRESS.md`
+
+Existing `verified` Tamil must be re-read directly from the controlling scan. Do not treat the earlier source pass, OCR memory, prior-chat prose, grammar, or contextual expectation as proof of a word.
+
+### Current durable fidelity state
+
+- complete: **10 / 40**
+- `PASS`: **6**
+- `PASS — corrected`: **4**
+- pending: **30 / 40**
+- needs recheck: **0**
+- unresolved fidelity issue among completed stories: **0**
+
+Stories **1–10** are fidelity-complete. Corrected stories in that batch were **2, 3, 6 and 9**; all page/assembly/audit/review layers are synchronized and each Story 1–10 workspace has `text-fidelity.md`.
+
+## MANDATORY STARTUP
+
+Read completely before source-dependent writes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
-3. `HANDOVER.md`
-4. this `NEXT_CHAT_PROMPT.md`
-5. `collections/2008-kalaignar-sonna-kathaigal/README.md`
-6. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`
-7. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
-8. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
+3. `TEXT_FIDELITY_CHECK_GUIDE.md`
+4. `TEXT_FIDELITY_PROGRESS.md`
+5. `HANDOVER.md`
+6. this `NEXT_CHAT_PROMPT.md`
+7. `collections/2008-kalaignar-sonna-kathaigal/README.md`
+8. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`
+9. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
+10. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
 
-## EXACT NEXT ACTIVITY — PHASE GATE
+Inspect the latest completed story-local `text-fidelity.md` records as implementation references, but never copy their wording into another story's source text.
 
-There is **no Story 41** and no further Tamil source transcription activity for this collection.
+## EXACT NEXT ITERATION — STORIES 11–20
 
-On restart:
+Process all ten stories and stop after Story 20:
 
-1. fetch live `main`;
-2. confirm all collection/root controls still agree at **40 / 40 Tamil source complete; 0 pending**;
-3. preserve the verified Story-40 / scan-82 closure;
-4. do not reopen source-complete Tamil text without new source evidence or a user correction;
-5. do **not** automatically begin English translation, visual-fidelity review, Digital Library onboarding, modernization, adaptation or republication.
+11. TOC **`சாவிதான் இல்லை`** / opening **`சாவி தான் இல்லை`** — lower scan **27 → 28**;
+12. **`கண்ணில் கால்`** — scan **29 → upper 30**;
+13. **`மயில் ராவணன்`** — lower **30 → 31**;
+14. **`ஜாடி குட்டி போடுமா?`** — scan **32 → upper 33**;
+15. **`ஒண்ணு குடுமா?`** — lower **33 → 34 → upper 35**;
+16. **`அத்திரி பாச்சா`** — lower **35 → upper 36**;
+17. **`செருப்போடு இரு`** — lower **36 → upper 37**;
+18. **`இடிக்குப் பின் மழை`** — lower **37 → 38 → upper 39**;
+19. **`நடக்குமா நடக்காதா?`** — lower **39 → 40–41 → upper 42**;
+20. **`கனியும் கணையும்`** — lower **42 → upper 43**.
 
-Wait for the user to explicitly select or authorize the next downstream phase. If English translation is later authorized, follow `ENGLISH_TRANSLATION_GUIDE.md`; the verified Tamil assemblies remain authoritative and English stays a separate layer.
+Story 10 closes above Story 11 on scan **27**. Exclude its already-closed material. Story 20 closes above Story 21 on shared scan **43**; use the Story-21 heading only as the ending witness and do not begin Story 21 in this iteration.
 
-## FINAL SOURCE-ITERATION RECORD
+For each active story:
 
-The last source iteration contained the remaining nine Stories 32–40:
+1. re-fetch live `main` before source-dependent changes;
+2. inspect every source span directly at sufficient resolution;
+3. compare **every word**, source spelling/sandhi, joined/separated forms, punctuation, quotation marks, numerals, paragraphs and page joins;
+4. verify the full phrase around any suspected mismatch;
+5. propagate confirmed corrections through `pages/`, `sections/`, `audit.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md` where appropriate, and story-local `text-fidelity.md`;
+6. use `PASS` only if no word-level mismatch exists; use `PASS — corrected` after all confirmed mismatches are synchronized;
+7. keep `TEXT_FIDELITY_PROGRESS.md` synchronized;
+8. after Story 20, update `HANDOVER.md` / this prompt to Stories **21–30** and re-fetch live `main`.
 
-- 32 `மானும் பெருமானும்` — PASS, 3/3;
-- 33 `எழுச்சிக்கு அடையாளம்` — PASS, 2/2;
-- 34 `தலையும் நுனியும்` — PASS, 2/2;
-- 35 TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — PASS, 4/4;
-- 36 TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — PASS, 2/2;
-- 37 `நாக்குத் தமிழ் மணக்கும்` — PASS, 3/3;
-- 38 `நீதி தேவதையே!` — PASS, 2/2;
-- 39 TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — PASS, 2/2;
-- 40 `பந்தலிலே பாகற்காய்` — PASS, 1/1; scan 82 back-cover witness.
+Do not use OCR memory or inferred prose as a substitute for direct scan verification.
 
-The controlling PDF need only be resolved again if a future activity requires new page-level source verification.
+## PHASE GUARD
+
+This phase authorizes source-faithful word-level correction only. It does not authorize English translation, modernization, adaptation, republication, Digital Library onboarding, or work in another repository.
