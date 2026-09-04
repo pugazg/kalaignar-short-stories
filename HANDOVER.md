@@ -49,19 +49,10 @@ Story 29 `திடுக்கிடும் கதை` retains its later mark
 - scan **82** verified back cover;
 - canonical Tamil changed during English/final QA: **No**.
 
-Durable final-QA record:
-
-`collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_FINAL_QA.md`
-
 ## ACTIVE COLLECTION — கலைஞரின் குட்டிக் கதைகள்
 
-Workspace:
-
-`collections/2004-kalaignarin-kuttik-kathaigal/`
-
-Controlling source:
-
-`TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
+Workspace: `collections/2004-kalaignarin-kuttik-kathaigal/`  
+Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
 
 ### Exact source identity
 
@@ -74,56 +65,65 @@ Controlling source:
 - colophon: **Revised Edition: Aug. 1998; Second Edition: March 2004**;
 - represented edition: **Second Edition, March 2004**.
 
-User-supplied bibliographic metadata identifies the author as **கலைஞர் மு. கருணாநிதி** and describes the work as a 34-story `மணி விழா` collection addressing social conditions through religious, economic, political and cultural themes. This remains intake/catalogue context; printed scan wording controls transcription.
+User-supplied bibliographic metadata identifies the author as **கலைஞர் மு. கருணாநிதி** and describes the work as a 34-story `மணி விழா` collection. This remains intake/catalogue context; the scan controls transcription.
 
 ### Physical structure
 
 - scans **1–3**: unnumbered front matter;
-- scans **4–49**: story block;
-- story printed pages represented: **3–48**;
+- scans **4–49**: story block / printed pages **3–48**;
 - story-block relation: **scan = printed page + 1**;
-- scan **50**: physical back cover, no further story text.
+- scan **50**: physical back cover, no further story text;
+- printed contents page: **none visible**;
+- direct heading inventory: **34 / 34**.
 
-No printed contents page is visible in this source. The book moves from colophon scan 3 directly to story text on scan 4.
+## Story 1 completed — வள்ளுவர் சொன்ன பொய்
 
-### Intake completed
+Canonical workspace:
 
-The collection source is now registered on live `main` with:
+`stories/valluvar-sonna-poi/`
 
-- `collections/2004-kalaignarin-kuttik-kathaigal/README.md`;
-- `metadata/source.md`;
-- `indexes/story-inventory.md`;
-- `indexes/scan-map.md`.
+Fresh live-main exact-title and distinctive-content searches found no existing canonical equivalent, so Story 1 was activated as a new canonical story.
 
-A direct source-heading survey established **34 / 34** story openings across scans 4–49. No TOC wording was invented.
+Source result:
 
-Canonical story workspaces activated: **0 / 34**.  
-Tamil source processing complete: **0 / 34**.  
-English translation: **not opened**.
+- opening: scan **4 / printed page 3**;
+- ending: top of scan **5 / printed page 4**;
+- source records: **2 / 2 verified**;
+- Tamil assembly: complete;
+- audit: **PASS**;
+- `needs-review`: **0**;
+- `blocked`: **0**;
+- unresolved story text: **0**;
+- English: **not opened**.
 
-### Final physical boundary
+Physical boundary: scan 4 contains the heading and main two paragraphs. Scan 5 begins with the final Valluvar answer and then opens Story 2 `நீயும் கைதி - நானும் கைதி`; Story-2 material was excluded. Source-close `எங்கேல்லாமோ`, joined `தன்வீட்டிற்குள்ளே`, quoted `‘வரவில்லை’`, and `வாய்மையா, அல்லவா!!` were retained without normalization.
 
-Story 34 `கிழவியின் மனைவி` opens on scan **47 / printed page 46**, continues through scans **48–49**, and ends with `முற்றும்` on scan **49 / printed page 48**. Scan **50** is back-cover matter only.
+Collection state after Story 1:
+
+- canonical story workspaces activated: **1 / 34**;
+- Tamil source processing complete: **1 / 34**;
+- pending: **33 / 34**;
+- completed-story blocked / unresolved: **0**.
 
 ## Current exact next activity
 
-Process **Story 1 — `வள்ளுவர் சொன்ன பொய்`**.
+Process **Story 2 — `நீயும் கைதி - நானும் கைதி`**.
 
 Routing coordinates:
 
-- opening: scan **4 / printed page 3**;
-- required next-story boundary witness: scan **5 / printed page 4**;
-- Story 2 heading on scan 5: **`நீயும் கைதி - நானும் கைதி`**.
+- Story 2 opens on scan **5 / printed page 4**, immediately below the completed Story-1 ending;
+- Story 3 **`குருவி ராமேஸ்வரம்`** begins later on the **same scan 5 / printed page 4** and is the required Story-2 ending-boundary witness.
 
-Before creating Story 1:
+Before Story-2 activation:
 
 1. fetch live `main`;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, active collection README, source metadata, story inventory and scan map;
-3. perform the required canonical duplicate/content-equivalence search, including plausible alternate-title/content checks;
-4. exact-title and key-phrase searches during intake found no existing repository hit for `வள்ளுவர் சொன்ன பொய்`, but this is not a substitute for the final activation check;
-5. if no canonical equivalent exists, create the Story-1 workspace and directly transcribe/verify only its true physical span using scan 5 as the ending boundary witness;
-6. do not include Story-2 heading/prose in Story 1;
-7. follow the default **one story per activity** rule unless the user explicitly expands the batch;
-8. synchronize collection controls, handover and next prompt after Story 1 is durably closed.
+2. read the mandatory startup guides and active collection controls;
+3. perform a fresh exact-title / alternate-title / content-equivalence search;
+4. if an equivalent canonical story exists, add this 2004 witness rather than creating a duplicate;
+5. otherwise create the canonical Story-2 workspace;
+6. transcribe only the Story-2 text between its heading and the Story-3 heading on scan 5;
+7. do not include the Story-1 ending above or Story-3 text below;
+8. default to **one story per activity** unless the user explicitly expands the batch;
+9. synchronize collection/root controls, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after durable closure.
 
-If the controlling PDF is not available in a fresh chat, reattach/resolve it before source-dependent Story-1 work.
+If the controlling PDF is unavailable in a fresh chat, reattach/resolve it before source-dependent Story-2 work.
