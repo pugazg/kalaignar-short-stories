@@ -1,8 +1,6 @@
 # கலைஞரின் குட்டிக் கதைகள் — 2004 second-edition collection source
 
-This folder registers **`கலைஞரின் குட்டிக் கதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
-
-The PDF is a physical collection/source container, not one canonical story. Individual story units are activated only under canonical `stories/<slug>/` workspaces after a fresh live-`main` duplicate/content-equivalence check.
+This folder registers **`கலைஞரின் குட்டிக் கதைகள்`** as the active collection-level source in `pugazg/kalaignar-short-stories`.
 
 ## Source snapshot
 
@@ -10,79 +8,73 @@ The PDF is a physical collection/source container, not one canonical story. Indi
 - printed title: **கலைஞரின் குட்டிக் கதைகள்**
 - publisher: **பாரதி பதிப்பகம்**
 - colophon: **Revised Edition: Aug. 1998; Second Edition: March 2004**
-- registered physical edition represented by this PDF: **Second Edition, March 2004**
+- represented edition: **Second Edition, March 2004**
 - PDF scans: **50**
 - story-text scans: **4–49**
-- printed story pages represented: **3–48**
-- story units found by direct heading survey: **34**
+- printed story pages: **3–48**
+- direct story-heading inventory: **34 / 34**
+- printed contents page: **none visible**
 - scan **50**: physical back cover; no further story text
 - source PDF committed to GitHub: **No**
 
-Full checksum, byte size, imprint and scan-condition notes are in `metadata/source.md`.
+Full identity and scan-condition notes are in [`metadata/source.md`](metadata/source.md).
 
-## Important intake fact — no printed contents page in this scan
+## Inventory method
 
-This 50-scan edition has **no printed contents list visible between the front matter and the story block**. Scan 3 is the colophon and scan 4 begins the collection/story text.
-
-Therefore the 34-story inventory was not reconstructed from a guessed TOC. It was established by direct sequential inspection of every story-opening heading across scans **4–49**. `indexes/story-inventory.md` records those opening headings and their routing boundaries.
+The scan moves from the colophon on scan 3 directly into story text on scan 4. Because no printed contents page is present, the 34-story inventory is based on direct sequential visual inspection of the printed story-opening headings across scans **4–49**. No TOC wording has been invented.
 
 ## Pagination model
 
-Across the story block:
+Across the story block, **PDF scan = printed page + 1**.
 
-`PDF scan = printed page + 1`
+## Tamil source-processing state
 
-Examples:
-
-- scan **4** → printed page **3**;
-- scan **5** → printed page **4**;
-- scan **49** → printed page **48**.
-
-Scans 1–3 are unnumbered front matter. Scan 50 is the back cover.
-
-## Processing state
-
-- file identity / checksum / size verified: **Yes**
-- cover / title / colophon inspected: **Yes**
-- printed contents page present: **No**
-- direct story-heading inventory: **34 / 34 complete**
-- story-opening headings visually checked: **34 / 34**
-- final story ending / back-cover boundary checked: **Yes**
-- canonical story workspaces activated from this collection: **1 / 34**
-- Tamil source processing complete from this collection: **1 / 34**
-- Tamil source processing pending: **33 / 34**
+- canonical story workspaces activated: **12 / 34**
+- Tamil source processing complete: **12 / 34**
+- Tamil source processing pending: **22 / 34**
 - completed-story blocked / unresolved story text: **0**
-- English translation from this collection: **not opened**
+- English translation for this collection: **not opened**
 
-## Completed source work
+### Completed stories
 
-| # | Story | Canonical workspace | Verified physical source span | Tamil |
+| # | Story | Workspace | Verified source span | Tamil |
 |---:|---|---|---|---|
-| 1 | `வள்ளுவர் சொன்ன பொய்` | `stories/valluvar-sonna-poi/` | scan 4 → top scan 5 | **PASS** |
+| 1 | `வள்ளுவர் சொன்ன பொய்` | `stories/valluvar-sonna-poi/` | scan 4 → top scan 5 | PASS |
+| 2 | `நீயும் கைதி - நானும் கைதி` | `stories/neeyum-kaithi-naanum-kaithi/` | scan 5 only | PASS |
+| 3 | `குருவி ராமேஸ்வரம்` | `stories/kuruvi-rameswaram/` | scan 5 → scan 6 | PASS |
+| 4 | `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` | `stories/pengalukku-en-meesai-thadiyillai/` | scan 6 → scan 11 | PASS |
+| 5 | `கடலைத் தூர்ப்பது மிக எளிது` | `stories/kadalai-thoorppathu-miga-elithu/` | scan 11 → scan 13 | PASS |
+| 6 | `மனைவி சொன்ன விளக்கம்` | `stories/manaivi-sonna-vilakkam/` | scan 13 → scan 14 | PASS |
+| 7 | `நாதம் எழாது - நரம்புதான் அறும்` | `stories/naatham-ezhaathu-narambuthaan-arum/` | scan 14 → scan 15 | PASS |
+| 8 | `அவள் சொன்னாள்` | `stories/aval-sonnaal/` | scan 15 only | PASS |
+| 9 | `இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்` | `stories/iruvarum-koodiyiruppathu-aathi-maalaithaan/` | scan 15 → scan 16 | PASS |
+| 10 | `கொல்லப்பட வேண்டியது புலி, ஆனால்...` | `stories/kollappada-vendiyathu-puli-aanaal/` | scan 16 → scan 17 | PASS |
+| 11 | `அந்தக் காலத்திலே!` | `stories/anthak-kaalathile/` | scan 17 only | PASS |
+| 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | `stories/aandavan-dharisanam-kodutha-oor/` | scan 18 only | PASS |
 
-Story 1 was activated only after a fresh exact-title and content-equivalence check found no existing canonical match. Its two source records are verified; scan 5 is a shared boundary where Story 1 closes above Story 2.
+The user-authorized 11-story iteration, Stories **2–12**, is therefore **11 / 11 source-complete**.
 
-## Source design / boundary notes
+## Shared-page controls closed through Story 12
 
-- story headings are printed as bold display headings framed by horizontal rules;
-- several physical pages contain the ending of one story followed by the heading/opening of the next story;
-- running page headers and printed page numbers are publication furniture, not story body text;
-- the final story `கிழவியின் மனைவி` begins on scan **47 / printed page 46**, continues through scans **48–49**, and closes with `முற்றும்` on scan **49 / printed page 48**;
-- scan **50** is back-cover matter only.
-
-Exact per-story boundaries must still be verified when each story is activated; the collection inventory is a routing/control map and does not replace story-local page records.
+- scan **5 / printed 4**: Story 1 ending, complete Story 2, Story 3 opening;
+- scan **6 / printed 5**: Story 3 ending, Story 4 opening;
+- scan **11 / printed 10**: Story 4 ending, Story 5 opening;
+- scan **13 / printed 12**: Story 5 ending, Story 6 opening;
+- scan **14 / printed 13**: Story 6 ending, Story 7 opening;
+- scan **15 / printed 14**: Story 7 ending, complete Story 8, Story 9 opening;
+- scan **16 / printed 15**: Story 9 ending, Story 10 opening;
+- scan **17 / printed 16**: Story 10 ending and complete Story 11;
+- scan **18 / printed 17**: complete Story 12 followed by Story 13 opening.
 
 ## Canonical deduplication gate
 
-Do not create the remaining story workspaces from the inventory alone. Each row still requires a fresh live-`main` duplicate/content-equivalence check before activation.
+Every remaining story still requires a fresh live-`main` exact-title / alternate-title / distinctive-content equivalence check before activation. Do not create placeholder story folders from the inventory.
 
 ## Next exact activity
 
-Activate and process **Story 2 — `நீயும் கைதி - நானும் கைதி`**.
+Process **Story 13 — `வீரவாடி`**.
 
-Routing coordinates:
+- opens: scan **18 / printed page 17**, below completed Story 12;
+- next boundary witness: Story 14 **`சொர்க்கத்திற்கு வந்தது எப்படி?`** opens on scan **19 / printed page 18**.
 
-- opens on scan **5 / printed page 4**, immediately below the completed Story-1 ending;
-- Story 3 `குருவி ராமேஸ்வரம்` begins later on the **same scan 5 / printed page 4** and is the required ending-boundary witness.
-
-Before creating Story 2, fetch live `main`, complete the duplicate/content-equivalence check, and isolate only the Story-2 text between the two headings on scan 5. Do not include Story-1 or Story-3 material.
+Do not begin Story 13 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
