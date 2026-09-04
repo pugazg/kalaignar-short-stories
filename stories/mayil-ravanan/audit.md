@@ -5,6 +5,7 @@
 - verified physical span: lower scan **30** through scan **31**
 - source records: **2 / 2**
 - direct high-resolution review: **complete**
+- second-pass word-by-word text fidelity: **complete**
 
 ## Boundary audit
 
@@ -12,10 +13,14 @@
 
 ## Source-sensitive points
 
-- source forms `ஆணையிடப் பட்டிருக்கின்ற`, `முப்பத்து முக்கோடி`, `மும்மூர்த்திகளாலும்`, `பளிங்குமண்டபம்`, `உசேன்`, and `மயில்ராவணனாகிய` are retained;
+- source forms `ஊடுதல் செயலாளராக`, `ஆணையிடப் பட்டிருக்கின்ற`, `முப்பத்து முக்கோடி`, `மும்மூர்த்திகளாலும்`, `பளிங்குமண்டபம்`, `உசேன்`, and `மயில்ராவணனாகிய` are retained;
 - parenthetical audience markers `(பலத்த கைதட்டல்)` are preserved;
 - no contextual normalization has been made.
 
+## Text-fidelity correction
+
+The second-pass scan-30 comparison corrected earlier committed `ஊடுருவல் செயலாளராக` to the printed source reading **`ஊடுதல் செயலாளராக`**. The page record and Tamil assembly are synchronized.
+
 ## Audit result
 
-**PASS — 2/2 verified; 0 blocked; 0 unresolved story text.**
+**PASS — corrected — 2/2 verified; 0 blocked; 0 unresolved story text; 0 unresolved fidelity issue.**
