@@ -21,4 +21,17 @@ Canonical story workspace for **இடிக்குப் பின் மழ�
 - Tamil assembly: [`sections/idikkup-pin-mazhai.md`](sections/idikkup-pin-mazhai.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/idikkup-pin-mazhai.md`](translations/en/idikkup-pin-mazhai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Rain After Thunder**
+- source markers / physical alignment: **37 → 38 → 39 — PASS**
+- Karl Marx/Socrates passages, corrected `சாக்ரட்டீசின் பேச்சைக் கேட்க`, thunder/rain dialogue, and closing names are source-faithful
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
