@@ -9,16 +9,26 @@ The 2008 collection entered English translation only after explicit user authori
 ## Status
 
 - total stories: **40**
-- English translation complete: **15 / 40**
-- `PASS`: **15**
-- pending: **25 / 40**
+- English translation complete: **25 / 40**
+- `PASS`: **25**
+- pending: **15 / 40**
 - `NEEDS REVIEW`: **0**
-- latest completed batch: **Stories 5–14 — 10 / 10 PASS**
-- latest completed story: **Story 15 — `ஒண்ணு குடுமா?` — PASS**
-- current target: **Story 16 — `அத்திரி பாச்சா`**
-- current target physical span: **lower scan 35 / printed 33 → upper scan 36 / printed 34**
+- latest completed iteration: **Stories 16–25 — 10 / 10 PASS**
+- current target: **Story 26 — `பொறுமைக்கு சான்று`**
+- current target physical span: **lower scan 60 / printed 58 → upper scan 61 / printed 59**
 
-The user explicitly expanded the prior activity to 10 stories, so Stories 5–14 were processed together. Story 15 was then processed under the default one-story activity rule.
+## Standing iteration rule
+
+The user has explicitly directed that the 2008 English phase process **10 stories in each iteration**. Continue in collection order:
+
+- completed: Stories **1–4** individually;
+- completed expanded iteration: Stories **5–14** — **10 / 10 PASS**;
+- completed individual bridge: Story **15** — **PASS**;
+- completed current iteration: Stories **16–25** — **10 / 10 PASS**;
+- next iteration: Stories **26–35**;
+- final iteration: Stories **36–40**.
+
+Do not revert to the default one-story rule unless the user changes this standing directive.
 
 | # | Story | Verified physical span | English translation |
 |---:|---|---|---|
@@ -37,16 +47,16 @@ The user explicitly expanded the prior activity to 10 stories, so Stories 5–14
 | 13 | `மயில் ராவணன்` | lower 30 → 31 | **PASS** |
 | 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | **PASS** |
 | 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | **PASS** |
-| 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | pending |
-| 17 | `செருப்போடு இரு` | lower 36 → upper 37 | pending |
-| 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | pending |
-| 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | pending |
-| 20 | `கனியும் கணையும்` | lower 42 → upper 43 | pending |
-| 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | pending |
-| 22 | `புலிவால்` | lower 44 → upper 45 | pending |
-| 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | pending |
-| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | lower 47 → 48–53 → upper 54 | pending |
-| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | lower 54 → 55–59 → upper 60 | pending |
+| 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | **PASS** |
+| 17 | `செருப்போடு இரு` | lower 36 → upper 37 | **PASS** |
+| 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | **PASS** |
+| 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | **PASS** |
+| 20 | `கனியும் கணையும்` | lower 42 → upper 43 | **PASS** |
+| 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | **PASS** |
+| 22 | `புலிவால்` | lower 44 → upper 45 | **PASS** |
+| 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | **PASS** |
+| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | lower 47 → 48–53 → upper 54 | **PASS** |
+| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | lower 54 → 55–59 → upper 60 | **PASS** |
 | 26 | `பொறுமைக்கு சான்று` | lower 60 → upper 61 | pending |
 | 27 | TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` | lower 61 → upper 62 | pending |
 | 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | pending |
@@ -63,37 +73,32 @@ The user explicitly expanded the prior activity to 10 stories, so Stories 5–14
 | 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | pending |
 | 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | pending |
 
-## Completed English translations — control notes
+## Latest completed iteration — Stories 16–25
 
-Stories **1–4** retain their existing story-local English files and `TRANSLATION_REVIEW.md` records. Their verified source boundaries, title/source anomalies and final ornaments remain closed and unchanged.
+All ten stories now have complete English files, `TRANSLATION_REVIEW.md`, synchronized story READMEs, verified physical source-page anchoring and result **PASS**. Canonical Tamil changed during this iteration: **No**.
 
-The explicitly expanded ten-story batch **Stories 5–14** remains complete at **10 / 10 PASS** with its previously recorded source-control notes unchanged.
+- **16 `அத்திரி பாச்சா`** — markers **35→36**; `அடம்` → `பிடித்தான்` physical join aligned; `அத்திரிப் பாச்சா` / `அத்திரி பாச்சா` variation retained in control; **PASS**.
+- **17 `செருப்போடு இரு`** — markers **36→37**; corrected `போர் வீரன்படம்` used; closing admonition translated directly without importing an outside proverb; **PASS**.
+- **18 `இடிக்குப் பின் மழை`** — markers **37→38→39**; `சாக்ரட்டீஸ் தலை` → `யிலே` split anchored; thunder/rain dialogue and closing names retained; **PASS**.
+- **19 `நடக்குமா நடக்காதா?`** — markers **39→40→41→42**; bull→goat→hen→tea chain, wager and corrected `என்னடா?` retained; **PASS**.
+- **20 `கனியும் கணையும்`** — markers **42→43**; William Tell and Republic Day/Hindi/DMK analogy retained; source-open quotation not silently closed; **PASS**.
+- **21 `இதயம் பேசுகிறது`** — markers **43→44**; speaking-heart punctuation and Tamil mother-tongue close preserved; **PASS**.
+- **22 `புலிவால்`** — markers **44→45**; quoted `நாயர் புடிச்ச` → `புலிவால்` page split aligned; both applause cues retained; **PASS**.
+- **23 `தெரியாத பேச்சு`** — markers **45→46→47**; source-open concluding quotation and `லெனினைப் பற்றி` page join retained; **PASS**.
+- **24** TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` — markers **47→48→49→50→51→52→53→54**; embedded 1977 letter, Amirthamathi passage and three-line Kuruntokai display preserved without importing outside editions; **PASS**.
+- **25 `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`** — markers **54→55→56→57→58→59→60**; Yama/party-discipline analogy, Politburo statement, unusual source forms and final pot comparison retained without normalization; **PASS**.
 
-### Story 15 — `ஒண்ணு குடுமா?`
+## Next exact activity — iteration Stories 26–35
 
-- workspace: `../../stories/onnu-kuduma/`
-- English: `../../stories/onnu-kuduma/translations/en/onnu-kuduma.md`
-- review: `../../stories/onnu-kuduma/TRANSLATION_REVIEW.md`
-- English title treatment: **Onnu Kuduma?**
-- source-page markers: **33 / printed 31 → 34 / printed 32 → 35 / printed 33**
-- scan **33** contains only the opening Kalaivaanar / Udumalai Narayana Kavi statement and the English boundary matches it;
-- scan **34** contains the `Uthama Puthiran` social-reform passage and complete mango/kiss anecdote through Kalaivaanar receiving the kiss;
-- scan **35** contains the final comedy reflection and `*`;
-- source-colloquial `ஒண்ணு` ambiguity is preserved as “one” inside the dialogue while the title remains transliterated;
-- `புல்கட்டு`, corrected `உயர் ஜாதிக்காரனுக்குக்`, and `ஆதிதிராவிடப் பெண்` were handled conservatively from the verified Tamil;
-- Story-14 / Story-16 adjacent material excluded: **Yes**;
-- canonical Tamil changed during translation: **No**;
-- result: **PASS**.
+Begin with **Story 26 `பொறுமைக்கு சான்று`** and process ten stories through **Story 35 `தும் பம் தீம் தோம்`**, closing the entire iteration before advancing.
 
-## Next exact activity
+Story 26:
 
-Process **Story 16 `அத்திரி பாச்சா`** next unless the user explicitly expands the batch again.
-
-- workspace: `../../stories/aththiri-paachaa/`
-- verified physical span: **lower scan 35 / printed 33 → upper scan 36 / printed 34**
-- Story 15 ends above Story 16 on shared scan 35;
-- Story 17 `செருப்போடு இரு` begins below Story 16's ending ornament on shared scan 36.
+- workspace: `../../stories/porumaikku-saandru/`
+- verified physical span: **lower scan 60 / printed 58 → upper scan 61 / printed 59**
+- Story 25 ends above Story 26 on shared scan 60;
+- Story 27 opens below Story 26's ending ornament on shared scan 61.
 
 ## Phase gate
 
-English translation is **IN PROGRESS — 15 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
+English translation is **IN PROGRESS — 25 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
