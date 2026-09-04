@@ -1,0 +1,3 @@
+# Possible errors for human review — கொல்லப்பட வேண்டியது புலி, ஆனால்...
+
+Human-review queue only. Preserve both the heading ellipsis and body-leading `...கொல்லி`; do not regularize them away.
