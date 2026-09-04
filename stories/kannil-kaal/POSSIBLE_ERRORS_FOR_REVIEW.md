@@ -4,6 +4,7 @@ Persistent human recheck queue; both Story-12 records remain `verified`.
 
 | Scan | Printed | Source-close reading / point | Review note |
 |---:|---:|---|---|
+| 29 | 27 | `தொடவும்` | word-by-word fidelity pass corrected earlier committed `தொட்டாலும்`; source form retained |
 | 29 | 27 | `பெயர்த்து` | source spelling retained |
 | 29 | 27 | `கண் அப்பியவன் - கண்ணப்பன்` | source word separation retained |
 | 30 | 28 | `செருப்பணிந்த` | source compound retained |
