@@ -7,10 +7,10 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 ## Status
 
 - total stories: **40**
-- visual fidelity complete: **10 / 40**
-- `PASS`: **10**
+- visual fidelity complete: **20 / 40**
+- `PASS`: **20**
 - `PASS — corrected`: **0**
-- pending: **30 / 40**
+- pending: **20 / 40**
 - needs recheck: **0**
 - unresolved visual-fidelity issues among completed stories: **0**
 
@@ -26,16 +26,16 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 | 8 | `உனக்கு வயதென்ன?` | lower 21 → upper 22 | **PASS** |
 | 9 | `தமிழன் என்று சொல்லடா!` | lower 22 → 23–24 → upper 25 | **PASS** |
 | 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | lower 25 → 26 → upper 27 | **PASS** |
-| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | lower 27 → 28 | pending |
-| 12 | `கண்ணில் கால்` | 29 → upper 30 | pending |
-| 13 | `மயில் ராவணன்` | lower 30 → 31 | pending |
-| 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | pending |
-| 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | pending |
-| 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | pending |
-| 17 | `செருப்போடு இரு` | lower 36 → upper 37 | pending |
-| 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | pending |
-| 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | pending |
-| 20 | `கனியும் கணையும்` | lower 42 → upper 43 | pending |
+| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | lower 27 → 28 | **PASS** |
+| 12 | `கண்ணில் கால்` | 29 → upper 30 | **PASS** |
+| 13 | `மயில் ராவணன்` | lower 30 → 31 | **PASS** |
+| 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | **PASS** |
+| 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | **PASS** |
+| 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | **PASS** |
+| 17 | `செருப்போடு இரு` | lower 36 → upper 37 | **PASS** |
+| 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | **PASS** |
+| 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | **PASS** |
+| 20 | `கனியும் கணையும்` | lower 42 → upper 43 | **PASS** |
 | 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | pending |
 | 22 | `புலிவால்` | lower 44 → upper 45 | pending |
 | 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | pending |
@@ -59,12 +59,24 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 
 ## Iteration 1 — Stories 1–10
 
-All ten stories were inspected directly against scans **9–27**. Each story's source-significant heading, paragraph/dialogue structure, physical joins, shared-page boundaries, display blocks and closing `*` ornament are already represented correctly at the semantic archival level.
+All ten stories were inspected directly against scans **9–27**. Each story's source-significant heading, paragraph/dialogue structure, physical joins, shared-page boundaries, display blocks and closing `*` ornament are represented correctly at the semantic archival level.
 
-The recurring boxed story number, vertical gutter rule and opening title rule were classified as collection-design furniture: visually documented in story-local records but not injected into canonical prose.
+The recurring boxed story number, vertical gutter rule and opening title rule are collection-design furniture: visually documented in story-local records but not injected into canonical prose.
 
 Story 3's two-line Tirukkural display and Story 10's isolated `கடமை / கண்ணியம் / கட்டுப்பாடு` lines are preserved. No Tamil wording or page/assembly structure required correction.
 
+## Iteration 2 — Stories 11–20
+
+All ten stories were inspected directly against scans **27–43**, including every shared-page boundary. Stories **11–20** are all **PASS**.
+
+- Story 11's TOC/opening title variance remains preserved without normalization.
+- Story 15's sequence of short dialogue paragraphs remains separated as printed.
+- Stories 18–20 preserve their longer narrative/dialogue paragraph structure and all physical joins.
+- Every story retains the centered single `*` closing ornament.
+- Boxed sequence numbers, gutter rules, title rules, printed page numbers and running headers remain correctly classified as furniture rather than canonical story text.
+
+No Tamil wording or meaningful page/assembly structure required correction in this iteration.
+
 ## Exact next iteration
 
-Process **Stories 11–20** only, using the same direct visual comparison standard. Begin with Story 11 below Story 10 on shared scan **27** and stop after Story 20 closes on shared scan **43**. Do not begin Story 21 in the same iteration.
+Process **Stories 21–30** only, using the same direct visual comparison standard. Begin with Story 21 below Story 20 on shared scan **43** and stop after Story 30 closes on shared scan **66**. Do not begin Story 31 in the same iteration.
