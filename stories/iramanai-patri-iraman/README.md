@@ -21,4 +21,17 @@ Canonical story workspace for **இராமனைப் பற்றி இர�
 - Tamil assembly: [`sections/iramanai-patri-iraman.md`](sections/iramanai-patri-iraman.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/iramanai-patri-iraman.md`](translations/en/iramanai-patri-iraman.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **66 → 67 → 68 → 69 — PASS**
+- three source Kamban verse/display blocks: preserved
+- source-sensitive parenthetical letters and corrected `எவ்வளவு நாள்`: followed without external reconciliation
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
