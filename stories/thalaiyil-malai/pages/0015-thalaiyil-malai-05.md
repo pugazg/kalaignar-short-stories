@@ -7,7 +7,7 @@ page_type: "story"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; native/high-resolution full-span review"
+transcription_method: "direct visual comparison with source scan; native/high-resolution full-span review; word-by-word text-fidelity pass"
 ---
 
 முழுவதும் நடக்கிறேனா, இல்லையா என்பதைப் பிறகு பாருங்கள்!”
@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 புன்முறுவல் முகத்தில் பூத்திட அந்த வாலிபன் அச்சமின்றிப் பதில் அளித்தான்.
 
-“அடே அப்படியா? ஆணையிருந்தால், உன்னால் செய்ய முடிந்ததைச் சொல்லி அதற்குப் பரிசாக அரண்மனையில் தின்று தொலைத்திருக்கலாமே?” என்று மன்னர் கடிந்து கொண்டார்.
+“அடே! அப்படியொரு ஆசையிருந்தால், உன்னால் செய்ய முடிந்ததைச் சொல்லி அதற்குப் பரிசாக அரண்மனையில் தின்று தொலைத்திருக்கலாமே?” என்று மன்னர் கடிந்து கொண்டார்.
 
 “செய்யக்கூடியதைச் சொன்னால் அப்படிச் சொல்கிறவனை யார் மதிக்கிறார்கள்? அரசே! அற்புதங்களைச் செய்து முடிப்பேன் என்று கூறினால் தான் ஆராதனைகள். அன்பான வரவேற்புகள், அத்தனையும் கிடைக்கின்றன!”
 
