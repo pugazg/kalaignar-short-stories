@@ -71,18 +71,19 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **15 / 40**
-- English translation pending from this collection: **25 / 40**
+- English translation complete from this collection: **25 / 40**
+- English translation pending from this collection: **15 / 40**
 - English translation `NEEDS REVIEW`: **0**
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
-- latest completed English work: **Story 15 `ஒண்ணு குடுமா?` — PASS; lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33; Tamil unchanged**
-- latest expanded English batch: **Stories 5–14 — 10 / 10 PASS**
-- next English target: **Story 16 `அத்திரி பாச்சா` — lower scan 35 / printed 33 → upper scan 36 / printed 34**
+- latest completed English work: **Story 25 `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — PASS; lower scan 54 / printed 52 → scans 55–59 → upper scan 60 / printed 58; Tamil unchanged**
+- latest English iteration: **Stories 16–25 — 10 / 10 PASS**
+- standing English iteration rule: **10 stories per iteration**
+- next English iteration: **Stories 26–35**, beginning Story 26 `பொறுமைக்கு சான்று` — lower scan **60 / printed 58 → upper scan 61 / printed 59**
 - final source boundary: **scan 82 — verified physical back cover; no further story text**
 - directly registered title variances: **9** — Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39
 - Tamil source pass: **CLOSED / COMPLETE**
-- English translation phase: **IN PROGRESS — explicitly authorized, 15 / 40 PASS**
-- canonical Tamil changed during English Story-15 work: **No**
+- English translation phase: **IN PROGRESS — explicitly authorized, 25 / 40 PASS**
+- canonical Tamil changed during English Stories 16–25 work: **No**
 
 The ninth title variance was established by direct opening review of Story 36: TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
 
