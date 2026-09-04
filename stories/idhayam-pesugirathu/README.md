@@ -21,4 +21,17 @@ Canonical story workspace for **இதயம் பேசுகிறது**, S
 - Tamil assembly: [`sections/idhayam-pesugirathu.md`](sections/idhayam-pesugirathu.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/idhayam-pesugirathu.md`](translations/en/idhayam-pesugirathu.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **The Heart Speaks**
+- source markers / physical alignment: **43 → 44 — PASS**
+- `ஆசைநாயகி`, `அந்த கட்டழகன்`, the mother's invitation, speaking-heart punctuation, and Tamil mother-tongue close are handled from verified Tamil
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
