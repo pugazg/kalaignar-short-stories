@@ -17,6 +17,19 @@ Canonical story workspace for **கூட்டணி**, Story 5 in the 2008 sec
 - assembly: [`sections/koottani.md`](sections/koottani.md)
 - audit: [`audit.md`](audit.md)
 - recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English: **not started**
+- word-by-word text fidelity: **PASS**
+- visual fidelity: **PASS**
 
 Story 4 ends above the Story-5 heading on scan 17; Story 6 `சீற வேண்டாமா?` begins below Story 5's closing asterisk on scan 18.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/koottani.md`](translations/en/koottani.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Koottani**
+- source markers: **17 → 18**; physical boundary aligned
+- adjacent Story-4 / Story-6 text: excluded
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
