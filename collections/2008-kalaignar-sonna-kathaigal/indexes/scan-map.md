@@ -65,27 +65,28 @@ Story-page formula: **scan = printed page + 2**.
 
 ## Source-verified processing overlay
 
-Stories **1–31** are Tamil source-complete. Direct review established the physical spans listed in `story-inventory.md`; many deliberately overlap the next story's opening scan because the preceding story ends above the next heading.
+Stories **1–40** are Tamil source-complete. Direct review established the physical spans listed in `story-inventory.md`; many deliberately overlap the next story's opening scan because the preceding story ends above the next heading.
 
-Important latest boundaries:
+Final-iteration boundaries:
 
-- Story 22: lower **44 → upper 45**;
-- Story 23: lower **45 → 46 → upper 47**;
-- Story 24: lower **47 → 48–53 → upper 54**;
-- Story 25: lower **54 → 55–59 → upper 60**;
-- Story 26: lower **60 → upper 61**;
-- Story 27: lower **61 → upper 62**;
-- Story 28: lower **62 → 63 → upper 64**;
-- Story 29: lower **64 → upper 65**;
-- Story 30: lower **65 → upper 66**;
-- Story 31: lower **66 → 67–68 → upper 69**; Story 32 begins below its asterisk on scan 69.
+- Story 32: lower **69 → 70 → upper 71**;
+- Story 33: lower **71 → upper 72**;
+- Story 34: lower **72 → upper 73**;
+- Story 35: lower **73 → 74–75 → upper 76**;
+- Story 36: lower **76 → upper 77**;
+- Story 37: lower **77 → 78 → upper 79**;
+- Story 38: lower **79 → upper 80**;
+- Story 39: lower **80 → upper 81**;
+- Story 40: lower **81**; scan **82** is the verified back-cover witness.
 
-Processing totals: **31 / 40 complete; 9 / 40 pending.**
+Processing totals: **40 / 40 complete; 0 / 40 pending.**
 
 ## Final collection boundary
 
-- Story 40 opens on scan **81 / printed page 79**.
-- The previous story ends above the Story-40 heading on the same physical page.
+- Story 39 closes above the Story-40 heading on scan **81 / printed page 79**.
+- Story 40 opens and closes on scan **81 / printed page 79**.
 - scan **82** is the physical back cover and contains no further story text.
 
 TOC-derived ranges cover printed pages **7–79 / scans 9–81** continuously; source-verified overlays control actual shared story boundaries.
+
+**Tamil source pass: COMPLETE.**
