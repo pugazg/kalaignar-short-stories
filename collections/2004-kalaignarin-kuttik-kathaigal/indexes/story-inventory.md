@@ -12,7 +12,7 @@ Every bold story-opening heading was visually inspected in source order across s
 
 | # | Story-opening heading | Opening scan | Printed start | Next opening / final witness | Canonical activation |
 |---:|---|---:|---:|---|---|
-| 1 | `வள்ளுவர் சொன்ன பொய்` | 4 | 3 | Story 2 on scan 5 / p.4 | **pending** |
+| 1 | `வள்ளுவர் சொன்ன பொய்` | 4 | 3 | Story 2 on scan 5 / p.4 | **PASS — `stories/valluvar-sonna-poi/`; scan 4 → top scan 5** |
 | 2 | `நீயும் கைதி - நானும் கைதி` | 5 | 4 | Story 3 later on scan 5 / p.4 | **pending** |
 | 3 | `குருவி ராமேஸ்வரம்` | 5 | 4 | Story 4 on scan 6 / p.5 | **pending** |
 | 4 | `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` | 6 | 5 | Story 5 on scan 11 / p.10 | **pending** |
@@ -52,8 +52,14 @@ Every bold story-opening heading was visually inspected in source order across s
 - story-opening headings found: **34**
 - story-opening headings directly checked: **34 / 34**
 - printed TOC available: **No**
-- canonical story workspaces activated from this source: **0 / 34**
-- pending canonical activation / source processing: **34 / 34**
+- canonical story workspaces activated from this source: **1 / 34**
+- Tamil source processing complete: **1 / 34**
+- pending canonical activation / source processing: **33 / 34**
+- completed-story blocked / unresolved story text: **0**
+
+## Completed Story 1 boundary
+
+Story 1 `வள்ளுவர் சொன்ன பொய்` opens on scan **4 / printed page 3** and closes in the top paragraph of scan **5 / printed page 4**. Story 2 begins immediately below. The completed Story-1 workspace is `stories/valluvar-sonna-poi/`.
 
 ## Final boundary
 
@@ -61,7 +67,7 @@ Story 34 `கிழவியின் மனைவி` begins on scan **47 / pri
 
 ## Deduplication rule
 
-`pending` does not mean `new story`. Before activating each row:
+`pending` does not mean `new story`. Before activating each remaining row:
 
 1. fetch live `main`;
 2. search the exact opening heading;
@@ -70,4 +76,6 @@ Story 34 `கிழவியின் மனைவி` begins on scan **47 / pri
 5. create a new `stories/<slug>/` workspace only if no canonical story exists;
 6. otherwise register this 2004 source as an explicit additional edition/source witness without overwriting the existing canonical source layer.
 
-Story 1 exact-title and key-phrase searches found no existing repository hit at intake, but its final content-level deduplication is still required immediately before workspace creation.
+## Next exact target
+
+Story 2 **`நீயும் கைதி - நானும் கைதி`** begins on scan **5 / printed page 4** and ends before Story 3 **`குருவி ராமேஸ்வரம்`**, which begins later on that same physical scan.
