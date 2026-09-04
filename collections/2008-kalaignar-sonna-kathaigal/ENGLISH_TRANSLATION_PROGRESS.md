@@ -9,19 +9,19 @@ The 2008 collection entered English translation only after explicit user authori
 ## Status
 
 - total stories: **40**
-- English translation complete: **3 / 40**
-- `PASS`: **3**
-- pending: **37 / 40**
+- English translation complete: **4 / 40**
+- `PASS`: **4**
+- pending: **36 / 40**
 - `NEEDS REVIEW`: **0**
-- current target: **Story 4 — `வெறும் கை முழம் போடும்`**
-- current target physical span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**
+- current target: **Story 5 — `கூட்டணி`**
+- current target physical span: **lower scan 17 / printed 15 → upper scan 18 / printed 16**
 
 | # | Story | Verified physical span | English translation |
 |---:|---|---|---|
 | 1 | `அப்படித்தான் சிரிப்பேன்` | scan 9 → top 10 | **PASS** |
 | 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | lower 10 → upper 11 | **PASS** |
 | 3 | `தலையில் மலை` | lower 11 → upper 16 | **PASS** |
-| 4 | `வெறும் கை முழம் போடும்` | lower 16 → upper 17 | pending |
+| 4 | `வெறும் கை முழம் போடும்` | lower 16 → upper 17 | **PASS** |
 | 5 | `கூட்டணி` | lower 17 → upper 18 | pending |
 | 6 | `சீற வேண்டாமா?` | lower 18 → upper 19 | pending |
 | 7 | `கழுதையின் கதை` | lower 19 → 20 → upper 21 | pending |
@@ -103,15 +103,31 @@ The 2008 collection entered English translation only after explicit user authori
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
+### Story 4 — `வெறும் கை முழம் போடும்`
+
+- workspace: `../../stories/verum-kai-muzham-podum/`
+- English: `../../stories/verum-kai-muzham-podum/translations/en/verum-kai-muzham-podum.md`
+- review: `../../stories/verum-kai-muzham-podum/TRANSLATION_REVIEW.md`
+- English title treatment: **Verum Kai Muzham Podum**
+- source-page markers: **16 / printed 14 → 17 / printed 15**
+- scan-16 → scan-17 content boundary aligned to verified Tamil page records: **Yes**
+- shared scan-16 Story-3 and shared scan-17 Story-5 material excluded: **Yes**
+- source opening quotation asymmetry preserved without Tamil normalization: **Yes**
+- source form `அற்புதமானப் பட்டு` retained in Tamil and handled conservatively in English: **Yes**
+- final source-significant `*` represented: **Yes**
+- possible-error queue read and not silently normalized: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
 ## Next exact activity
 
-Process **Story 4 only** under the standing one-story-per-activity translation rule:
+Process **Story 5 only** under the standing one-story-per-activity translation rule:
 
-- title: **`வெறும் கை முழம் போடும்`**
-- workspace: `../../stories/verum-kai-muzham-podum/`
-- verified physical span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**
-- preserve the shared-page boundaries: scan 16 begins Story 4 only below the Story-3 ending ornament, and scan 17 ends Story 4 above Story 5.
+- title: **`கூட்டணி`**
+- workspace: `../../stories/koottani/`
+- verified physical span: **lower scan 17 / printed 15 → upper scan 18 / printed 16**
+- preserve the shared-page boundaries: scan 17 begins Story 5 only below the Story-4 ending ornament, and scan 18 ends Story 5 above Story 6.
 
 ## Phase gate
 
-English translation is **IN PROGRESS — 3 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
+English translation is **IN PROGRESS — 4 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
