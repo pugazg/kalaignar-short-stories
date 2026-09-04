@@ -39,19 +39,19 @@ Inventory rule: printed start pages come from contents scans 7–8; calculated p
 | 29 | `பனித் துளியில் பனைமரம்` | `பனித்துளியில் பனை மரம்` | 62–62 | 64–64 | 65 | **Tamil complete — lower 64 → upper 65; PASS** — `stories/panithuliyil-panai-maram/` |
 | 30 | `பாரூர் போல...` | `பாரூர் போல...` | 63–63 | 65–65 | 66 | **Tamil complete — lower 65 → upper 66; PASS** — `stories/paarur-pola/` |
 | 31 | `இராமனைப் பற்றி இராமன்` | `இராமனைப் பற்றி இராமன்` | 64–66 | 66–68 | 69 | **Tamil complete — lower 66 → 67–68 → upper 69; PASS** — `stories/iramanai-patri-iraman/` |
-| 32 | `மானும் பெருமானும்` | `மானும் பெருமானும்` | 67–68 | 69–70 | 71 | registered / not activated |
-| 33 | `எழுச்சிக்கு அடையாளம்` | `எழுச்சிக்கு அடையாளம்` | 69–69 | 71–71 | 72 | registered / not activated |
-| 34 | `தலையும் நுனியும்` | `தலையும் நுனியும்` | 70–70 | 72–72 | 73 | registered / not activated |
-| 35 | `தும்... பம்... தீம்... தோம்` | `தும் பம் தீம் தோம்` | 71–73 | 73–75 | 76 | registered / not activated |
-| 36 | `நல்லவழியும் நல்ல வழியும்` | `நல்லவழியும் நல்ல வழியும்` | 74–74 | 76–76 | 77 | registered / not activated |
-| 37 | `நாக்குத் தமிழ் மணக்கும்` | `நாக்குத் தமிழ் மணக்கும்` | 75–76 | 77–78 | 79 | registered / not activated |
-| 38 | `நீதி தேவதையே!` | `நீதி தேவதையே!` | 77–77 | 79–79 | 80 | registered / not activated |
-| 39 | `நன்றி சொல்லும் நேரம்...` | `நன்றி சொல்லும் நேரம்` | 78–78 | 80–80 | 81 | registered / not activated |
-| 40 | `பந்தலிலே பாகற்காய்` | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | 82 | registered / not activated |
+| 32 | `மானும் பெருமானும்` | `மானும் பெருமானும்` | 67–68 | 69–70 | 71 | **Tamil complete — lower 69 → 70 → upper 71; PASS** — `stories/maanum-perumaanum/` |
+| 33 | `எழுச்சிக்கு அடையாளம்` | `எழுச்சிக்கு அடையாளம்` | 69–69 | 71–71 | 72 | **Tamil complete — lower 71 → upper 72; PASS** — `stories/ezhuchikku-adaiyaalam/` |
+| 34 | `தலையும் நுனியும்` | `தலையும் நுனியும்` | 70–70 | 72–72 | 73 | **Tamil complete — lower 72 → upper 73; PASS** — `stories/thalaiyum-nuniyum/` |
+| 35 | `தும்... பம்... தீம்... தோம்` | `தும் பம் தீம் தோம்` | 71–73 | 73–75 | 76 | **Tamil complete — lower 73 → 74–75 → upper 76; PASS** — `stories/thum-pam-theem-thom/` |
+| 36 | `நல்லவழியும் நல்ல வழியும்` | `நல்வழியும் நல்ல வழியும்` | 74–74 | 76–76 | 77 | **Tamil complete — lower 76 → upper 77; PASS** — `stories/nalvazhiyum-nalla-vazhiyum/` |
+| 37 | `நாக்குத் தமிழ் மணக்கும்` | `நாக்குத் தமிழ் மணக்கும்` | 75–76 | 77–78 | 79 | **Tamil complete — lower 77 → 78 → upper 79; PASS** — `stories/naakkuth-tamil-manakkum/` |
+| 38 | `நீதி தேவதையே!` | `நீதி தேவதையே!` | 77–77 | 79–79 | 80 | **Tamil complete — lower 79 → upper 80; PASS** — `stories/neethi-devathaiye/` |
+| 39 | `நன்றி சொல்லும் நேரம்...` | `நன்றி சொல்லும் நேரம்` | 78–78 | 80–80 | 81 | **Tamil complete — lower 80 → upper 81; PASS** — `stories/nandri-sollum-neram/` |
+| 40 | `பந்தலிலே பாகற்காய்` | `பந்தலிலே பாகற்காய்` | 79–79 | 81–81 | 82 | **Tamil complete — lower 81; scan 82 back-cover witness; PASS** — `stories/panthalile-paagarkai/` |
 
 ## Source-verified boundary overlay
 
-Completed physical spans through Story 31:
+Completed physical spans through Story 40:
 
 - #1 9 → top 10; #2 lower 10 → upper 11; #3 lower 11 → upper 16;
 - #4 lower 16 → upper 17; #5 lower 17 → upper 18; #6 lower 18 → upper 19;
@@ -65,7 +65,12 @@ Completed physical spans through Story 31:
 - #24 lower 47 → 48–53 → upper 54; #25 lower 54 → 55–59 → upper 60;
 - #26 lower 60 → upper 61; #27 lower 61 → upper 62;
 - #28 lower 62 → 63 → upper 64; #29 lower 64 → upper 65;
-- #30 lower 65 → upper 66; #31 lower 66 → 67–68 → upper 69.
+- #30 lower 65 → upper 66; #31 lower 66 → 67–68 → upper 69;
+- #32 lower 69 → 70 → upper 71; #33 lower 71 → upper 72;
+- #34 lower 72 → upper 73; #35 lower 73 → 74–75 → upper 76;
+- #36 lower 76 → upper 77; #37 lower 77 → 78 → upper 79;
+- #38 lower 79 → upper 80; #39 lower 80 → upper 81;
+- #40 lower 81; scan 82 is the verified back-cover witness and contains no further story text.
 
 TOC-derived range columns remain unchanged for provenance; completed-state notes record source-verified physical spans.
 
@@ -78,10 +83,11 @@ TOC-derived range columns remain unchanged for provenance; completed-state notes
 - #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
 - #29 `பனித் துளியில் பனைமரம்` ↔ `பனித்துளியில் பனை மரம்`;
 - #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
+- #36 `நல்லவழியும் நல்ல வழியும்` ↔ `நல்வழியும் நல்ல வழியும்`;
 - #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
 
 ## Processing status
 
-**31 / 40 Tamil source-complete; 9 / 40 pending; completed stories have 0 blocked / 0 unresolved story text.**
+**COMPLETE — 40 / 40 Tamil source-complete; 0 / 40 pending; all completed stories have 0 blocked / 0 unresolved story text.**
 
-Next exact iteration: **Stories 32–40**, beginning Story 32 `மானும் பெருமானும்` on the lower part of scan 69 below the already-closed Story-31 ending. The final iteration contains the remaining **9 stories**.
+Story 40 closes on scan **81 / printed page 79**. Scan **82** is the verified physical back cover. No additional source story is pending.
