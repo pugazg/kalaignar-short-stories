@@ -7,12 +7,14 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 ## Status
 
 - total stories: **40**
-- visual fidelity complete: **30 / 40**
-- `PASS`: **30**
+- visual fidelity complete: **40 / 40**
+- `PASS`: **40**
 - `PASS — corrected`: **0**
-- pending: **10 / 40**
+- pending: **0 / 40**
 - needs recheck: **0**
-- unresolved visual-fidelity issues among completed stories: **0**
+- unresolved visual-fidelity issues: **0**
+- story-local `visual-fidelity.md`: **40 / 40**
+- current target: **none — visual-fidelity phase complete**
 
 | # | Story | Verified physical span | Visual fidelity |
 |---:|---|---|---|
@@ -46,50 +48,49 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 | 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | **PASS** |
 | 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | lower 64 → upper 65 | **PASS** |
 | 30 | `பாரூர் போல...` | lower 65 → upper 66 | **PASS** |
-| 31 | `இராமனைப் பற்றி இராமன்` | lower 66 → 67–68 → upper 69 | pending |
-| 32 | `மானும் பெருமானும்` | lower 69 → 70 → upper 71 | pending |
-| 33 | `எழுச்சிக்கு அடையாளம்` | lower 71 → upper 72 | pending |
-| 34 | `தலையும் நுனியும்` | lower 72 → upper 73 | pending |
-| 35 | TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` | lower 73 → 74–75 → upper 76 | pending |
-| 36 | TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` | lower 76 → upper 77 | pending |
-| 37 | `நாக்குத் தமிழ் மணக்கும்` | lower 77 → 78 → upper 79 | pending |
-| 38 | `நீதி தேவதையே!` | lower 79 → upper 80 | pending |
-| 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | pending |
-| 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | pending |
+| 31 | `இராமனைப் பற்றி இராமன்` | lower 66 → 67–68 → upper 69 | **PASS** |
+| 32 | `மானும் பெருமானும்` | lower 69 → 70 → upper 71 | **PASS** |
+| 33 | `எழுச்சிக்கு அடையாளம்` | lower 71 → upper 72 | **PASS** |
+| 34 | `தலையும் நுனியும்` | lower 72 → upper 73 | **PASS** |
+| 35 | TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` | lower 73 → 74–75 → upper 76 | **PASS** |
+| 36 | TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` | lower 76 → upper 77 | **PASS** |
+| 37 | `நாக்குத் தமிழ் மணக்கும்` | lower 77 → 78 → upper 79 | **PASS** |
+| 38 | `நீதி தேவதையே!` | lower 79 → upper 80 | **PASS** |
+| 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | **PASS** |
+| 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | **PASS** |
 
 ## Iteration 1 — Stories 1–10
 
-All ten stories were inspected directly against scans **9–27**. Each story's source-significant heading, paragraph/dialogue structure, physical joins, shared-page boundaries, display blocks and closing `*` ornament are represented correctly at the semantic archival level.
-
-The recurring boxed story number, vertical gutter rule and opening title rule are collection-design furniture: visually documented in story-local records but not injected into canonical prose.
-
-Story 3's two-line Tirukkural display and Story 10's isolated `கடமை / கண்ணியம் / கட்டுப்பாடு` lines are preserved. No Tamil wording or page/assembly structure required correction.
+All ten stories were inspected directly against scans **9–27** and are **PASS**. No Tamil wording or meaningful visual structure required correction.
 
 ## Iteration 2 — Stories 11–20
 
-All ten stories were inspected directly against scans **27–43**, including every shared-page boundary. Stories **11–20** are all **PASS**.
-
-- Story 11's TOC/opening title variance remains preserved without normalization.
-- Story 15's sequence of short dialogue paragraphs remains separated as printed.
-- Stories 18–20 preserve their longer narrative/dialogue paragraph structure and all physical joins.
-- Every story retains the centered single `*` closing ornament.
-- Boxed sequence numbers, gutter rules, title rules, printed page numbers and running headers remain correctly classified as furniture rather than canonical story text.
-
-No Tamil wording or meaningful page/assembly structure required correction in this iteration.
+All ten stories were inspected directly against scans **27–43**, including every shared-page boundary, and are **PASS**. No Tamil wording or meaningful visual structure required correction.
 
 ## Iteration 3 — Stories 21–30
 
-All ten stories were inspected directly against scans **43–66**, including every shared-page boundary. Stories **21–30** are all **PASS**.
+All ten stories were inspected directly against scans **43–66**, including every shared-page boundary, and are **PASS**. No Tamil wording or meaningful visual structure required correction.
 
-- Stories 24, 27, 28 and 29 retain their registered TOC/opening-heading differences without normalization.
-- Story 23's dialogue/narrative paragraph separation is preserved.
-- Story 24's long `உடன்பிறப்பே` letter structure and three-line Kuruntokai quotation are preserved across scans 47–54.
-- Story 28's four-line quoted verse is preserved with source lineation.
-- Story 30's three four-line poetic quotation blocks are preserved as display verse across scans 65–66.
-- All physical joins and shared-page boundaries exclude adjacent-story material correctly, and every story retains its centered closing `*`.
+## Iteration 4 — Stories 31–40
 
-No Tamil wording or meaningful page/assembly structure required correction in this iteration.
+All ten stories were inspected directly against scans **66–82**, including every shared-page boundary and scan **82** as the final physical back-cover witness. Stories **31–40** are all **PASS**.
 
-## Exact next iteration
+Important confirmations from the final iteration:
 
-Process the final **Stories 31–40** only, using the same direct visual comparison standard. Begin with Story 31 below Story 30 on shared scan **66** and finish Story 40 on scan **81**, using scan **82** only as the verified back-cover/final-boundary witness. After all ten are durably closed, synchronize this tracker and close the 2008 visual-fidelity phase. Do not begin English translation automatically.
+- Story 31 preserves its three source verse/display blocks across scans 67–68;
+- Story 35 preserves the TOC/opening-heading difference, quoted dialogue and rhythmic `தும் / பம் / தீம்` material;
+- Story 36 preserves the TOC/opening-heading difference and two-line `நல் வழி` verse;
+- Story 37 preserves its incomplete/completed poetic display and source-sensitive asymmetric quotation punctuation;
+- Story 38 preserves the seven-line quoted poem;
+- Story 39 preserves its TOC/opening-heading difference;
+- Story 40 preserves all three op-pāri/song display blocks and its final `*`; scan 82 is back-cover matter only and is excluded from story text.
+
+Across all forty stories, boxed sequence numbers, vertical gutter rules and opening title rules remain collection-design furniture; printed page numbers and running headers remain excluded as page furniture. Every story retains its source-significant centered single `*` ending ornament.
+
+No Tamil wording or meaningful page/assembly structure required correction during the visual-fidelity phase.
+
+## Phase closure
+
+The 2008 visual-fidelity phase is **complete: 40 / 40 stories**, with **0 pending**, **0 needs recheck**, and **0 unresolved visual-fidelity issues**. Every story has a story-local `visual-fidelity.md` with result `PASS`.
+
+This completion does **not** automatically authorize English translation, modernization, adaptation, republication or Digital Library onboarding. Begin another downstream phase only after explicit user authorization.
