@@ -10,7 +10,7 @@
 - 2008 visual workflow/tracker: `collections/2008-kalaignar-sonna-kathaigal/VISUAL_FIDELITY_GUIDE.md` / `VISUAL_FIDELITY_PROGRESS.md`
 - English workflow: `ENGLISH_TRANSLATION_GUIDE.md`
 - 1977 English tracker: `ENGLISH_TRANSLATION_PROGRESS.md` — closed at **37 / 37**
-- 2008 English tracker: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+- 2008 English tracker: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md` — closed at **40 / 40**
 
 ## LIVE MAIN IS AUTHORITATIVE
 
@@ -41,7 +41,7 @@ Always fetch live `main` first and preserve newer durable work. Source PDFs / re
 
 Story 29 `திடுக்கிடும் கதை` retains the later marker-only provenance correction. Obsolete Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## 2008 collection — source / text / visual CLOSED
+## 2008 collection — SOURCE / TEXT / VISUAL / ENGLISH CLOSED
 
 Collection: **கலைஞர் சொன்ன கதைகள்**  
 Workspace: `collections/2008-kalaignar-sonna-kathaigal/`  
@@ -53,79 +53,65 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 - scan **82**: verified back cover, no further story text;
 - Tamil source: **40 / 40 complete**, 0 blocked / 0 unresolved;
 - word-by-word text fidelity: **40 / 40 complete — 19 PASS / 21 PASS — corrected**;
-- visual fidelity: **40 / 40 complete — all 40 PASS**.
+- visual fidelity: **40 / 40 complete — all 40 PASS**;
+- English translation/review: **40 / 40 PASS**, 0 pending, 0 `NEEDS REVIEW`;
+- canonical Tamil changed during English work: **No**.
 
 Nine TOC/opening-heading differences remain registered and must not be normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-## 2008 English translation — ACTIVE
+## Final English batching history
 
-Current durable state:
+- Stories **1–4**: completed individually;
+- Stories **5–14**: **10 / 10 PASS**;
+- Story **15**: completed individually;
+- Stories **16–25**: **10 / 10 PASS**;
+- user-expanded final iteration Stories **26–40**: **15 / 15 PASS**.
 
-- English complete: **25 / 40**;
-- `PASS`: **25**;
-- pending: **15 / 40**;
-- `NEEDS REVIEW`: **0**;
-- canonical Tamil changed during English work: **No**.
-
-Stories **1–15** remain closed as previously recorded. The latest completed iteration is Stories **16–25**, all **PASS**.
-
-## Standing English iteration rule
-
-The user explicitly directed: **process 10 stories in each iteration**. This is now the standing English-phase batching rule.
-
-- completed iteration: Stories **5–14** — **10 / 10 PASS**;
-- Story **15** was completed individually before this standing rule was established;
-- latest completed iteration: Stories **16–25** — **10 / 10 PASS**;
-- next iteration: Stories **26–35**;
-- final iteration: Stories **36–40**.
-
-Do not revert to the guide's default one-story-per-activity rule unless the user changes this directive.
-
-## Latest completed iteration — Stories 16–25
-
-Every story in the iteration has:
+Every 2008 story now has:
 
 - complete English under `translations/en/`;
 - story-local `TRANSLATION_REVIEW.md` with result **PASS**;
 - synchronized story README;
-- verified source-marker order and independently checked physical content-boundary alignment;
-- final source-significant `*` preserved;
-- no Tamil change caused by translation.
+- source-marker sequence checked;
+- actual physical content-boundary alignment checked independently of marker order;
+- source-significant final `*` preserved;
+- no Tamil change caused merely by translation.
 
-Key controls:
+## Final iteration — Stories 26–40
 
-16. **`அத்திரி பாச்சா`** — `stories/aththiri-paachaa/`; markers **35→36**; source `அடம்`→`பிடித்தான்` join aligned; `அத்திரிப் பாச்சா` / `அத்திரி பாச்சா` variation retained.
-17. **`செருப்போடு இரு`** — markers **36→37**; corrected `போர் வீரன்படம்` used; closing admonition translated directly without an outside proverb.
-18. **`இடிக்குப் பின் மழை`** — markers **37→38→39**; Socrates `தலை`→`யிலே` source split anchored; thunder/rain dialogue retained.
-19. **`நடக்குமா நடக்காதா?`** — markers **39→40→41→42**; bull→goat→hen→tea chain, wager and corrected `என்னடா?` retained.
-20. **`கனியும் கணையும்`** — markers **42→43**; William Tell and Republic Day/Hindi/DMK analogy retained; source-open quotation not silently closed.
-21. **`இதயம் பேசுகிறது`** — markers **43→44**; speaking-heart punctuation and Tamil mother-tongue close preserved.
-22. **`புலிவால்`** — markers **44→45**; quoted `நாயர் புடிச்ச`→`புலிவால்` split aligned; both applause cues retained.
-23. **`தெரியாத பேச்சு`** — markers **45→46→47**; source-open concluding quotation and `லெனினைப் பற்றி` join retained.
-24. TOC **`வெண்ணெய் உருகுது வெயிலில்!`** / opening **`வெண்ணெய் உருகுது வெயிலில்`** — markers **47→48→49→50→51→52→53→54**; embedded 1977 letter, Amirthamathi passage, source corrections and three-line Kuruntokai display preserved without importing outside editions.
-25. **`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`** — markers **54→55→56→57→58→59→60**; unusual source forms, Yama/party-discipline analogy, Politburo statement and final pot comparison retained without normalization or outside reconciliation.
+Key controls retained:
 
-## Current exact next activity — English iteration Stories 26–35
+26. **`பொறுமைக்கு சான்று`** — markers **60→61**; `வழக்கம்பொழுது` left untouched in Tamil; Prophet narrative translated conservatively.
+27. TOC **`எடுக்கவோ கோக்கவோ!`** / opening **`எடுக்கவோ கோக்கவோ`** — markers **61→62**; source `சோதரைப் போர்க்களத்தில்` not silently repaired.
+28. TOC **`அந்த நாள் வந்திலை...`** / opening **`அந்த நாள் வந்திலை!`** — markers **62→63→64**; corrected `பதைத்துப் போன புலவர்`; four-line verse preserved.
+29. TOC **`பனித் துளியில் பனைமரம்`** / opening **`பனித்துளியில் பனை மரம்`** — markers **64→65**; physical `பக்கத்`→`திலே` split aligned.
+30. **`பாரூர் போல...`** — markers **65→66**; all three source verse/display blocks preserved.
+31. **`இராமனைப் பற்றி இராமன்`** — markers **66→67→68→69**; three Kamban blocks and corrected `மாட்டா(து)` / `எவ்வளவு நாள்` retained.
+32. **`மானும் பெருமானும்`** — markers **69→70→71**; corrected dialogue punctuation and `மாத்திர மல்ல`, `வருகின்ற வரை`, `குட்டியைத் தேடி` retained.
+33. **`எழுச்சிக்கு அடையாளம்`** — markers **71→72**; corrected `கரம் இழந்தான்.` retained.
+34. **`தலையும் நுனியும்`** — markers **72→73**; corrected `ஒவ்வொருவராக` retained.
+35. TOC **`தும்... பம்... தீம்... தோம்`** / opening **`தும் பம் தீம் தோம்`** — markers **73→74→75→76**; source rhythmic wordplay and parenthetical punctuation retained.
+36. TOC **`நல்லவழியும் நல்ல வழியும்`** / opening **`நல்வழியும் நல்ல வழியும்`** — markers **76→77**; two-line `நல் வழி` verse preserved.
+37. **`நாக்குத் தமிழ் மணக்கும்`** — markers **77→78→79**; incomplete/completed poetic display and asymmetric source quotation punctuation preserved.
+38. **`நீதி தேவதையே!`** — markers **79→80**; seven-line Abdul Rahman poem preserved.
+39. TOC **`நன்றி சொல்லும் நேரம்...`** / opening **`நன்றி சொல்லும் நேரம்`** — markers **80→81**; unfinished-thought physical boundary aligned.
+40. **`பந்தலிலே பாகற்காய்`** — marker **81**; all three oppari/song blocks and repetitions preserved; scan **82** remains back-cover witness only.
 
-Process the next **10 stories in collection order**, beginning with Story 26 and ending with Story 35. Close all ten before advancing the tracker.
+## Current exact next activity — final 2008 English structural/control QA
 
-### Story 26 start
+No translation story remains.
 
-- title: **`பொறுமைக்கு சான்று`**;
-- workspace: `stories/porumaikku-saandru/`;
-- verified physical span: **lower scan 60 / printed page 58 → upper scan 61 / printed page 59**;
-- Story 25 closes above Story 26 on shared scan **60**;
-- Story 27 opens below Story 26's ending ornament on shared scan **61**.
+Perform a final collection-wide QA across all **40** 2008 English stories before opening any new downstream phase. Verify at minimum:
 
-### Iteration endpoint
+1. every story has exactly one expected English file under `translations/en/` and a story-local `TRANSLATION_REVIEW.md`;
+2. every review result is **PASS** and no story remains `pending`, `in progress` or `NEEDS REVIEW`;
+3. validator-compatible source markers use exactly `<!-- source scan N; printed page M -->`;
+4. marker sequence and printed-page values agree with the verified physical story spans;
+5. actual translated content boundaries align with the verified Tamil page records, including shared scans and split words/sentences;
+6. every source-significant final `*` remains present;
+7. the nine TOC/opening-heading differences remain documented and unnormalized;
+8. Story 40 ends on scan **81 / printed 79**, and scan **82** remains back-cover matter only;
+9. story READMEs, 2008 English tracker, collection README/source metadata, root README, this `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` all agree at **40 / 40 PASS**;
+10. re-fetch live `main` and key controls before declaring final QA closure.
 
-Story 35:
-
-- TOC: **`தும்... பம்... தீம்... தோம்`**;
-- opening: **`தும் பம் தீம் தோம்`**;
-- workspace: `stories/thum-pam-theem-thom/`;
-- verified physical span: **lower scan 73 → scans 74–75 → upper scan 76**.
-
-Before the iteration, read the mandatory startup controls in `NEXT_CHAT_PROMPT.md`. For each story read its README, canonical Tamil assembly, all page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`; translate from verified Tamil, not OCR; create English and review files; preserve physical page anchors and source-sensitive structure. Synchronize story READMEs and collection/root controls only after the full ten-story iteration is durable.
-
-Modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
+Modernization, adaptation, republication and Digital Library onboarding remain outside current authorization.
