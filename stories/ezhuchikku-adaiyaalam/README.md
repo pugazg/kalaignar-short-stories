@@ -21,4 +21,16 @@ Canonical story workspace for **எழுச்சிக்கு அடைய�
 - Tamil assembly: [`sections/ezhuchikku-adaiyaalam.md`](sections/ezhuchikku-adaiyaalam.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/ezhuchikku-adaiyaalam.md`](translations/en/ezhuchikku-adaiyaalam.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **71 → 72 — PASS**
+- corrected source punctuation `கரம் இழந்தான்.`: followed
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
