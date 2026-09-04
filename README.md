@@ -92,6 +92,15 @@ Permanent guides:
 | [`பனித்துளியில் பனை மரம்`](stories/panithuliyil-panai-maram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`பாரூர் போல...`](stories/paarur-pola/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`இராமனைப் பற்றி இராமன்`](stories/iramanai-patri-iraman/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`மானும் பெருமானும்`](stories/maanum-perumaanum/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`எழுச்சிக்கு அடையாளம்`](stories/ezhuchikku-adaiyaalam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`தலையும் நுனியும்`](stories/thalaiyum-nuniyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`தும் பம் தீம் தோம்`](stories/thum-pam-theem-thom/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`நல்வழியும் நல்ல வழியும்`](stories/nalvazhiyum-nalla-vazhiyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`நாக்குத் தமிழ் மணக்கும்`](stories/naakkuth-tamil-manakkum/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`நீதி தேவதையே!`](stories/neethi-devathaiye/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`நன்றி சொல்லும் நேரம்`](stories/nandri-sollum-neram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`பந்தலிலே பாகற்காய்`](stories/panthalile-paagarkai/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not started** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -114,15 +123,18 @@ Source registration / processing state:
 - stories in contents: **40**
 - story inventory: **40 / 40 registered**
 - story-opening scan checks: **40 / 40 complete**
-- Tamil source processing complete: **31 / 40**
-- Tamil source processing pending: **9 / 40**
+- Tamil source processing complete: **40 / 40**
+- Tamil source processing pending: **0 / 40**
+- completed-story blocked / unresolved story text: **0**
 - English translation complete from this collection: **0 / 40**
-- latest completed: **Story 31 `இராமனைப் பற்றி இராமன்` — PASS**
-- Story-31 source boundary: **lower scan 66 through upper scan 69**
-- current execution policy: **10 stories per iteration while possible; 9 stories remain for the final source iteration**
-- next exact iteration: **Stories 32–40**, beginning `மானும் பெருமானும்` below Story 31 on scan **69 / printed page 67**
+- latest completed: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
+- Story-40 source boundary: **scan 81 / printed page 79**
+- final physical boundary: **scan 82 — verified back cover; no further story text**
+- Tamil source pass: **COMPLETE / CLOSED**
 
-Direct source processing confirms shared physical boundaries through Story 31. Story 31 ends above its printed asterisk on scan 69 and Story 32 `மானும் பெருமானும்` begins below on the same scan. Eight TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35 and 39.
+Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
+
+No further source story is pending. English translation, visual-fidelity review and downstream publication work remain separate phases.
 
 ### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
