@@ -53,63 +53,52 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 
 Nine TOC/opening-heading differences remain registered and must not be normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-## Active phase — 2008 visual fidelity
+## Closed phase — 2008 visual fidelity
 
-Standing batch rule: **10 stories per iteration**.
+Standing collection batch rule was **10 stories per iteration**.
 
-### Current durable state
+### Final durable state
 
 - total: **40**;
-- complete: **30 / 40**;
-- `PASS`: **30**;
+- complete: **40 / 40**;
+- `PASS`: **40**;
 - `PASS — corrected`: **0**;
-- pending: **10 / 40**;
+- pending: **0**;
 - needs recheck: **0**;
 - unresolved visual-fidelity issues: **0**;
-- story-local `visual-fidelity.md`: **30 / 40**.
+- story-local `visual-fidelity.md`: **40 / 40**.
 
-### Completed iteration 1 — Stories 1–10
+All four visual-fidelity iterations are closed:
 
-Stories **1–10** were directly inspected across scans **9–27** and are all **PASS**. No Tamil wording or meaningful visual structure required correction.
+1. Stories **1–10** — scans **9–27** — all `PASS`;
+2. Stories **11–20** — scans **27–43** — all `PASS`;
+3. Stories **21–30** — scans **43–66** — all `PASS`;
+4. Stories **31–40** — scans **66–82** — all `PASS`.
 
-### Completed iteration 2 — Stories 11–20
+The final iteration directly confirmed:
 
-Stories **11–20** were directly inspected across scans **27–43** and are all **PASS**. No Tamil wording or meaningful visual structure required correction.
+- Story 31's three verse/display blocks across scans 67–68;
+- Story 35's TOC/opening-heading difference, quoted dialogue and rhythmic `தும் / பம் / தீம்` structure;
+- Story 36's TOC/opening-heading difference and two-line `நல் வழி` verse;
+- Story 37's incomplete/completed poetic display and source-sensitive asymmetric quotation punctuation;
+- Story 38's seven-line quoted poem;
+- Story 39's TOC/opening-heading difference;
+- Story 40's three op-pāri/song display blocks and final `*`;
+- scan **82** is the physical back cover only and contributes no Story-40 text.
 
-### Completed iteration 3 — Stories 21–30
+Across the collection, boxed story sequence numbers, vertical gutter rules and opening horizontal title rules are collection-design furniture and remain outside canonical prose. Printed page numbers and running headers remain excluded as page furniture. The centered single `*` is a source-significant story-ending ornament and is preserved for all forty stories.
 
-Stories **21–30** were directly inspected across scans **43–66**, including all shared-page boundaries, and are all **PASS**. No Tamil wording or meaningful visual structure required correction.
+No Tamil wording or meaningful page/assembly structure required correction during the 2008 visual-fidelity phase.
 
-Important visual confirmations:
+## Current phase gate
 
-- Stories **24, 27, 28, 29** retain their registered TOC/opening-heading differences;
-- Story 23's dialogue/narrative paragraph structure remains separated as printed;
-- Story 24 preserves the long `உடன்பிறப்பே` letter structure and three-line Kuruntokai quotation;
-- Story 28 preserves its four-line quoted verse;
-- Story 30 preserves its three four-line poetic display blocks;
-- all completed stories preserve the centered single `*` ending ornament;
-- recurring boxed sequence numbers, vertical gutter rules and opening title rules remain collection-design furniture outside canonical prose;
-- printed page numbers / running headers remain excluded as page furniture.
+The 2008 collection now has:
 
-## Exact next activity — final visual fidelity Stories 31–40
+- Tamil source processing: **40 / 40 complete**;
+- word-by-word text fidelity: **40 / 40 complete**;
+- visual fidelity: **40 / 40 complete**;
+- English translation: **0 / 40**.
 
-Process **Stories 31–40 only** in one iteration:
+There is no remaining source/text-fidelity/visual-fidelity activity and there is no Story 41.
 
-31. `இராமனைப் பற்றி இராமன்` — lower scan **66 → 67–68 → upper 69**;
-32. `மானும் பெருமானும்` — lower **69 → 70 → upper 71**;
-33. `எழுச்சிக்கு அடையாளம்` — lower **71 → upper 72**;
-34. `தலையும் நுனியும்` — lower **72 → upper 73**;
-35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — lower **73 → 74–75 → upper 76**;
-36. TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — lower **76 → upper 77**;
-37. `நாக்குத் தமிழ் மணக்கும்` — lower **77 → 78 → upper 79**;
-38. `நீதி தேவதையே!` — lower **79 → upper 80**;
-39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — lower **80 → upper 81**;
-40. `பந்தலிலே பாகற்காய்` — lower scan **81**, with scan **82** used only as the verified back-cover / final-boundary witness.
-
-Story 30 closes above Story 31 on shared scan **66**. Exclude Story-30 material. For each active story inspect all registered scans directly; check heading/title provenance, paragraph/dialogue structure, display or verse blocks, meaningful ornaments, collection-design furniture, page furniture and physical joins. Create `stories/<slug>/visual-fidelity.md`. Propagate a correction only when the source scan directly supports it.
-
-After all ten are durably closed, synchronize the tracker and close the 2008 visual-fidelity phase. Do **not** automatically open English translation.
-
-## Phase guard
-
-Visual fidelity does not authorize English translation, modernization, adaptation, republication or Digital Library onboarding. Do not open another downstream phase until visual fidelity is closed and the user explicitly authorizes the next phase.
+Do **not** automatically begin English translation, modernization, adaptation, republication or Digital Library onboarding. The next downstream phase must be explicitly authorized by the user. Live `main` remains authoritative at every fresh-chat start.
