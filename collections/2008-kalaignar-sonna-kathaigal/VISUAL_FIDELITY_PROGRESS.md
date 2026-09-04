@@ -7,10 +7,10 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 ## Status
 
 - total stories: **40**
-- visual fidelity complete: **20 / 40**
-- `PASS`: **20**
+- visual fidelity complete: **30 / 40**
+- `PASS`: **30**
 - `PASS — corrected`: **0**
-- pending: **20 / 40**
+- pending: **10 / 40**
 - needs recheck: **0**
 - unresolved visual-fidelity issues among completed stories: **0**
 
@@ -36,16 +36,16 @@ Guide: `VISUAL_FIDELITY_GUIDE.md`
 | 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | **PASS** |
 | 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | **PASS** |
 | 20 | `கனியும் கணையும்` | lower 42 → upper 43 | **PASS** |
-| 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | pending |
-| 22 | `புலிவால்` | lower 44 → upper 45 | pending |
-| 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | pending |
-| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | lower 47 → 48–53 → upper 54 | pending |
-| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | lower 54 → 55–59 → upper 60 | pending |
-| 26 | `பொறுமைக்கு சான்று` | lower 60 → upper 61 | pending |
-| 27 | TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` | lower 61 → upper 62 | pending |
-| 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | pending |
-| 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | lower 64 → upper 65 | pending |
-| 30 | `பாரூர் போல...` | lower 65 → upper 66 | pending |
+| 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | **PASS** |
+| 22 | `புலிவால்` | lower 44 → upper 45 | **PASS** |
+| 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | **PASS** |
+| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | lower 47 → 48–53 → upper 54 | **PASS** |
+| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | lower 54 → 55–59 → upper 60 | **PASS** |
+| 26 | `பொறுமைக்கு சான்று` | lower 60 → upper 61 | **PASS** |
+| 27 | TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` | lower 61 → upper 62 | **PASS** |
+| 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | **PASS** |
+| 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | lower 64 → upper 65 | **PASS** |
+| 30 | `பாரூர் போல...` | lower 65 → upper 66 | **PASS** |
 | 31 | `இராமனைப் பற்றி இராமன்` | lower 66 → 67–68 → upper 69 | pending |
 | 32 | `மானும் பெருமானும்` | lower 69 → 70 → upper 71 | pending |
 | 33 | `எழுச்சிக்கு அடையாளம்` | lower 71 → upper 72 | pending |
@@ -77,6 +77,19 @@ All ten stories were inspected directly against scans **27–43**, including eve
 
 No Tamil wording or meaningful page/assembly structure required correction in this iteration.
 
+## Iteration 3 — Stories 21–30
+
+All ten stories were inspected directly against scans **43–66**, including every shared-page boundary. Stories **21–30** are all **PASS**.
+
+- Stories 24, 27, 28 and 29 retain their registered TOC/opening-heading differences without normalization.
+- Story 23's dialogue/narrative paragraph separation is preserved.
+- Story 24's long `உடன்பிறப்பே` letter structure and three-line Kuruntokai quotation are preserved across scans 47–54.
+- Story 28's four-line quoted verse is preserved with source lineation.
+- Story 30's three four-line poetic quotation blocks are preserved as display verse across scans 65–66.
+- All physical joins and shared-page boundaries exclude adjacent-story material correctly, and every story retains its centered closing `*`.
+
+No Tamil wording or meaningful page/assembly structure required correction in this iteration.
+
 ## Exact next iteration
 
-Process **Stories 21–30** only, using the same direct visual comparison standard. Begin with Story 21 below Story 20 on shared scan **43** and stop after Story 30 closes on shared scan **66**. Do not begin Story 31 in the same iteration.
+Process the final **Stories 31–40** only, using the same direct visual comparison standard. Begin with Story 31 below Story 30 on shared scan **66** and finish Story 40 on scan **81**, using scan **82** only as the verified back-cover/final-boundary witness. After all ten are durably closed, synchronize this tracker and close the 2008 visual-fidelity phase. Do not begin English translation automatically.
