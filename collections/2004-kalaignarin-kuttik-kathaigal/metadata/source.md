@@ -70,7 +70,7 @@ The source uses repeated bold story headings framed by horizontal rules. Multipl
 - Difficult readings follow the exhaustive source-first protocol in `SHORT_STORY_PROCESSING_GUIDE.md`.
 - Existing canonical stories must not be overwritten by this edition; if a story proves to be the same work under another title, this source becomes an explicit additional edition/source witness.
 
-## Intake verification
+## Processing verification
 
 - source identity: **verified**
 - checksum / byte size: **verified**
@@ -80,13 +80,26 @@ The source uses repeated bold story headings framed by horizontal rules. Multipl
 - direct story-heading inventory: **34 / 34 complete**
 - story-opening heading checks: **34 / 34 complete**
 - final story/back-cover boundary: **verified**
-- canonical story workspaces activated from this source: **0 / 34**
-- Tamil source processing: **0 / 34 complete**
+- canonical story workspaces activated from this source: **1 / 34**
+- Tamil source processing: **1 / 34 complete**
+- Tamil source processing pending: **33 / 34**
+- completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
+
+## Completed Story 1
+
+Story 1 `வள்ளுவர் சொன்ன பொய்` was activated as a new canonical story after fresh exact-title and content-equivalence searches found no existing match.
+
+- workspace: `stories/valluvar-sonna-poi/`;
+- source span: **scan 4 / printed 3 → top scan 5 / printed 4**;
+- source records: **2 / 2 verified**;
+- audit: **PASS**;
+- blocked / unresolved: **0**;
+- Story 2 material on scan 5: excluded.
 
 ## Next source target
 
-Story 1: **`வள்ளுவர் சொன்ன பொய்`**
+Story 2: **`நீயும் கைதி - நானும் கைதி`**
 
-- opens: scan **4 / printed page 3**;
-- next-story witness: scan **5 / printed page 4**, where Story 2 `நீயும் கைதி - நானும் கைதி` begins.
+- opens: scan **5 / printed page 4**, below the completed Story-1 ending;
+- ending-boundary witness: Story 3 `குருவி ராமேஸ்வரம்`, which begins later on the same scan **5 / printed page 4**.
