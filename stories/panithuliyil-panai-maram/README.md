@@ -22,4 +22,17 @@ Canonical story workspace for **பனித்துளியில் பன�
 - Tamil assembly: [`sections/panithuliyil-panai-maram.md`](sections/panithuliyil-panai-maram.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/panithuliyil-panai-maram.md`](translations/en/panithuliyil-panai-maram.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- TOC/opening-title variance preserved: **Yes**
+- source markers / physical alignment: **64 → 65 — PASS**
+- `பக்கத்` → `திலே` physical split: aligned
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
