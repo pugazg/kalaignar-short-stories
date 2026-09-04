@@ -20,4 +20,17 @@ Canonical story workspace for **அத்திரி பாச்சா**, Stor
 - Tamil assembly: [`sections/aththiri-paachaa.md`](sections/aththiri-paachaa.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/aththiri-paachaa.md`](translations/en/aththiri-paachaa.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Aththiri Paachaa**
+- source markers / physical alignment: **35 → 36 — PASS**
+- `முணு முணுத்துக்`, the `அத்திரிப் பாச்சா` / `அத்திரி பாச்சா` variation, and source quotation anomalies remain unnormalized in Tamil
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
