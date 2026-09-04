@@ -102,6 +102,18 @@ Permanent guides:
 | [`நன்றி சொல்லும் நேரம்`](stories/nandri-sollum-neram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`பந்தலிலே பாகற்காய்`](stories/panthalile-paagarkai/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`வள்ளுவர் சொன்ன பொய்`](stories/valluvar-sonna-poi/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`நீயும் கைதி - நானும் கைதி`](stories/neeyum-kaithi-naanum-kaithi/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`குருவி ராமேஸ்வரம்`](stories/kuruvi-rameswaram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`பெண்களுக்கு ஏன் - மீசை தாடியில்லை?`](stories/pengalukku-en-meesai-thadiyillai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கடலைத் தூர்ப்பது மிக எளிது`](stories/kadalai-thoorppathu-miga-elithu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`மனைவி சொன்ன விளக்கம்`](stories/manaivi-sonna-vilakkam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`நாதம் எழாது - நரம்புதான் அறும்`](stories/naatham-ezhaathu-narambuthaan-arum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`அவள் சொன்னாள்`](stories/aval-sonnaal/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்`](stories/iruvarum-koodiyiruppathu-aathi-maalaithaan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கொல்லப்பட வேண்டியது புலி, ஆனால்...`](stories/kollappada-vendiyathu-puli-aanaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`அந்தக் காலத்திலே!`](stories/anthak-kaalathile/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`ஆண்டவன் தரிசனம் கொடுத்த ஊர்`](stories/aandavan-dharisanam-kodutha-oor/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`வீரவாடி`](stories/veeravadi/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -123,15 +135,15 @@ Source / processing state:
 - printed story pages represented: **3–48**
 - direct story-heading inventory: **34 / 34**
 - printed contents page: **none visible**
-- canonical story workspaces activated: **1 / 34**
-- Tamil source processing complete: **1 / 34**
-- Tamil source processing pending: **33 / 34**
+- canonical story workspaces activated: **13 / 34**
+- Tamil source processing complete: **13 / 34**
+- Tamil source processing pending: **21 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
-- latest completed source work: **Story 1 `வள்ளுவர் சொன்ன பொய்` — PASS; scan 4 → top scan 5**
-- next source work: **Story 2 `நீயும் கைதி - நானும் கைதி` — scan 5 / printed page 4; Story 3 begins later on same scan**
+- latest completed source work: **Story 13 `வீரவாடி` — PASS; scan 18 → top scan 19**
+- next source work: **Story 14 `சொர்க்கத்திற்கு வந்தது எப்படி?` — scan 19 / printed page 18; Story 15 opens scan 22 / printed page 21**
 
-Story 1 is fully source-closed with 2/2 verified records, synchronized Tamil assembly and audit PASS. The collection retains direct-heading inventory because this scan contains no printed TOC.
+Stories 1–13 are Tamil source-complete. The latest source join for Story 13 is `அந்த ஊரையே அவர்களுக்கு` → `மானியமாக வழங்கி...`. Source-sensitive `சிற்றாருக்கு` is retained exactly from the controlling scan and remains a human-review queue item, not a confirmed error.
 
 ## Registered anthology source
 
