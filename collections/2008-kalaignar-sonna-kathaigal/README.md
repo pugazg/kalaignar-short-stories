@@ -33,8 +33,8 @@ Full checksum, byte size, imprint and scan-condition notes are in `metadata/sour
 - word-by-word text fidelity complete: **40 / 40**
 - visual fidelity complete: **40 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **4 / 40**
-- English translation pending: **36 / 40**
+- English translation complete from this collection: **14 / 40**
+- English translation pending: **26 / 40**
 - English translation `NEEDS REVIEW`: **0**
 - English translation tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
@@ -93,25 +93,30 @@ All forty stories have **0 blocked / 0 unresolved story text**, complete Tamil a
 
 English translation was opened only after explicit user authorization, following closure of Tamil source, text-fidelity and visual-fidelity work.
 
-- complete: **4 / 40**;
-- PASS: **4**;
-- pending: **36 / 40**;
+- complete: **14 / 40**;
+- PASS: **14**;
+- pending: **26 / 40**;
 - needs review: **0**;
-- latest completed: **Story 4 `வெறும் கை முழம் போடும்` — PASS**;
-- latest English source span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**;
-- Story-4 physical page join **16→17** is source-aligned;
-- Story-4 source opening quotation asymmetry and final `*` are preserved;
-- canonical Tamil changed during English work: **No**;
-- next exact activity: **Story 5 `கூட்டணி` — lower scan 17 / printed 15 → upper scan 18 / printed 16**;
+- latest completed batch: **Stories 5–14 — 10 / 10 PASS**;
+- latest completed story: **Story 14 `ஜாடி குட்டி போடுமா?` — PASS**;
+- latest English source span: **scan 32 / printed 30 → upper scan 33 / printed 31**;
+- canonical Tamil changed during the ten-story English batch: **No**;
+- next exact activity: **Story 15 `ஒண்ணு குடுமா?` — lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**;
 - durable tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-Story 1's English layer preserves the verified scan **9 → 10** mid-quotation boundary and excludes Story-2 material below the ending ornament on the shared scan.
+The user explicitly expanded the latest activity to **10 stories**, so Stories **5–14** were completed in one batch rather than the default one-story-per-activity workflow.
 
-Story 2's English layer preserves the verified scan **10 → 11** physical continuation, keeps the TOC/opening-title variance in the review/control layer, excludes adjacent Story-1/Story-3 material, and retains the source-significant applause cue and final `*`.
+Notable source-control confirmations from this batch:
 
-Story 3's English layer preserves all six source markers **11 → 16**, all five source-established joins, the two-line Tirukkural display and final `*`, while excluding adjacent Story-2/Story-4 material.
-
-Story 4's English layer preserves the shared-page boundaries on scans **16–17**, the source-close opening quotation asymmetry, the empty-hand/cubit demonstration and final `*`, while excluding adjacent Story-3/Story-5 material.
+- Story 6 keeps the corrected verified `என்றா சொன்னேன்.` without Tamil normalization;
+- Story 7 keeps its physical ending on scan **21** rather than the shorter TOC-derived route;
+- Story 8 preserves the scan join `ஆட்சி மொழி` → `ஆவது?`;
+- Story 9 keeps `பெட்டி கலெக்டர்`, joined `அந்ததமிழருக்கு`, and `சொல்லடா.. தலைநிமிர்ந்து நில்லடா...` as source facts;
+- Story 10 keeps its physical ending on scan **27**, the riddle, and the three-line `கடமை / கண்ணியம் / கட்டுப்பாடு` display;
+- Story 11 preserves TOC `சாவிதான் இல்லை` ↔ opening `சாவி தான் இல்லை`;
+- Story 12 translates from corrected `தொடவும்` and keeps the physical ending on scan **30**;
+- Story 13 handles verified unusual `ஊடுதல் செயலாளராக` conservatively as `ooduthal secretary` and retains both applause cues;
+- Story 14 preserves the distinct source pregnancy forms in the Tamil/control layer and both laughter cues.
 
 ## Source-title differences
 
@@ -135,4 +140,4 @@ No title form is silently normalized. `indexes/story-inventory.md` retains both 
 
 The final source iteration closed Stories **32–40**. Story 39 ends above Story 40 on scan **81**; Story 40 then closes on that same scan. Scan **82** is the verified back cover and contains no further story text.
 
-No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is now a separately authorized downstream phase and is **IN PROGRESS — 4 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
+No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is now a separately authorized downstream phase and is **IN PROGRESS — 14 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
