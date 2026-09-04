@@ -19,6 +19,19 @@ Canonical story workspace for **மயில் ராவணன்**, Story 13 i
 - Tamil assembly: [`sections/mayil-ravanan.md`](sections/mayil-ravanan.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
 
 Story 12 closes above the Story-13 heading on scan 30. Story 13 ends with the printed asterisk on scan 31; scan 32 opens Story 14 and contains no Story-13 text.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/mayil-ravanan.md`](translations/en/mayil-ravanan.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Mayil Ravanan**
+- source markers: **30 → 31**; physical join source-aligned
+- verified source `ஊடுதல் செயலாளராக` handled conservatively as **“ooduthal secretary”** rather than normalized
+- both `(பலத்த கைதட்டல்)` cues and final `*`: preserved
+- canonical Tamil changed during translation: **No**
