@@ -68,10 +68,10 @@ Existing `verified` status is not proof in this phase. Every active story is re-
 ### Current progress
 
 - total: **40**
-- fidelity complete: **20 / 40**
-- `PASS`: **8**
-- `PASS — corrected`: **12**
-- pending: **20 / 40**
+- fidelity complete: **30 / 40**
+- `PASS`: **15**
+- `PASS — corrected`: **15**
+- pending: **10 / 40**
 - needs recheck: **0**
 - unresolved fidelity issues among completed stories: **0**
 
@@ -94,22 +94,32 @@ Second-iteration recovered readings include:
 - Story 19: `என்னப்பா?` → **`என்னடா?`**;
 - Story 20: `சென்னை.` → **`சென்னை,`** and `வில் நடுங்கியிருக்கும்;` → **`வில் நடுங்கியிருக்கும்.`**.
 
-All affected page records, Tamil assemblies, audits and review queues are synchronized. Story-local `text-fidelity.md` records exist for Stories **1–20**.
+### Completed fidelity iteration 3 — Stories 21–30
 
-## Exact next activity — text fidelity Stories 21–30
+Stories **21–30** are closed. Stories **21, 22, 23, 26, 27, 29 and 30** passed unchanged. Stories **24, 25 and 28** are **PASS — corrected**.
 
-Process **all ten** stories in this iteration and stop after Story 30:
+Third-iteration recovered readings include:
 
-21. `இதயம் பேசுகிறது` — lower scan **43 → upper 44**;
-22. `புலிவால்` — lower **44 → upper 45**;
-23. `தெரியாத பேச்சு` — lower **45 → 46 → upper 47**;
-24. TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` — lower **47 → 48–53 → upper 54**;
-25. `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — lower **54 → 55–59 → upper 60**;
-26. `பொறுமைக்கு சான்று` — lower **60 → upper 61**;
-27. TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` — lower **61 → upper 62**;
-28. TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` — lower **62 → 63 → upper 64**;
-29. TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` — lower **64 → upper 65**;
-30. `பாரூர் போல...` — lower **65 → upper 66**.
+- Story 24: source punctuation `எழுத்துத் தடை, பேச்சுத் தடை,`; `தூக்கி நிறுத்திய`; `கடிதங்கள் எழுதியே கழகத்தை காத்த`; `கடிதமாகத் தீட்டினேன்`; `தொடுவான்! துவளமாட்டான்.`; `கொண்டவனுக்குத் துணை`; `ஏராளமானப் பணியாட்கள் உண்டு!`; `மாற்றார் தலைகளைப் பந்தாடும்`; `தூங்கிடுவான்`; `சல்லாபத்`; `எழுதுகின்றார் - ஏசுகின்றார்`; `தொடங்குவதற்கு`; `மணப் பாறையா?`; `யாரையாவது, உதவிக்கு அழைக்கலாம் என்றாலோ`;
+- Story 25: `தெய்வீகக் கடமையின்`; `புராணிகள் கூறுவர்`; `பெரிய பதவிகளில்`; `முதல்வராக அமர்ந்து அரசோச்சியவர்`; `வருத்தம் தெரிவித்த பிறகும்`; `தீர்ப்பையொட்டி`; `நரகலோகத்திற்குச் சில`; `ஒன்று போல`; `சொர்க்கத்தில் இருக்கலாம்`; `தீவிரமாகக்`; `சொர்க்கம் செல்பவனின்`; `வெளியாகும் வங்காள`; `கட்சியின் மீதும் கட்சித் தலைவர்கள் மீதும்`;
+- Story 28: `பகைத்துப் போன புலவர்` → **`பதைத்துப் போன புலவர்`**.
+
+All affected page records, Tamil assemblies, audits and review queues are synchronized. Story-local `text-fidelity.md` records exist for Stories **1–30**.
+
+## Exact next activity — text fidelity Stories 31–40
+
+Process the **final ten** stories in this phase:
+
+31. `இராமனைப் பற்றி இராமன்` — lower scan **66 → 67–68 → upper 69**;
+32. `மானும் பெருமானும்` — lower **69 → 70 → upper 71**;
+33. `எழுச்சிக்கு அடையாளம்` — lower **71 → upper 72**;
+34. `தலையும் நுனியும்` — lower **72 → upper 73**;
+35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — lower **73 → 74–75 → upper 76**;
+36. TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — lower **76 → upper 77**;
+37. `நாக்குத் தமிழ் மணக்கும்` — lower **77 → 78 → upper 79**;
+38. `நீதி தேவதையே!` — lower **79 → upper 80**;
+39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — lower **80 → upper 81**;
+40. `பந்தலிலே பாகற்காய்` — lower **81**; scan **82** is the back-cover witness.
 
 For every story:
 
@@ -121,7 +131,7 @@ For every story:
 6. if no mismatch exists, create `text-fidelity.md` with `PASS`;
 7. update `TEXT_FIDELITY_PROGRESS.md` only after durable closure.
 
-Story 20 closes above Story 21 on shared scan **43**; exclude already-closed Story-20 material. Story 30 closes above Story 31 on scan **66**; inspect the Story-31 heading only as the ending witness and do not begin Story 31 in this iteration.
+Story 30 closes above Story 31 on shared scan **66**; exclude already-closed Story-30 material. Story 40 closes on scan **81**. Inspect scan **82** only as the verified physical back-cover/final-boundary witness; there is no Story 41.
 
 ## Phase guard
 
