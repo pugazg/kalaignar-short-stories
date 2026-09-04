@@ -22,4 +22,17 @@ Canonical story workspace for Story 39 in the 2008 second-edition anthology **�
 - Tamil assembly: [`sections/nandri-sollum-neram.md`](sections/nandri-sollum-neram.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/nandri-sollum-neram.md`](translations/en/nandri-sollum-neram.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- TOC/opening-title variance preserved: **Yes**
+- source markers / physical alignment: **80 → 81 — PASS**
+- scan-80 unfinished thought → scan-81 continuation: aligned to physical source boundary
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
