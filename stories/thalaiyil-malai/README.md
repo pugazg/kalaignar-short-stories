@@ -25,6 +25,8 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/thalaiyil-malai.md`](sections/thalaiyil-malai.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- word-by-word text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
 
 ## Shared-page boundaries
 
@@ -34,8 +36,18 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## English translation
 
-**Not started.**
+**PASS — complete and reviewed.**
+
+- English file: [`translations/en/thalaiyil-malai.md`](translations/en/thalaiyil-malai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Thalaiyil Malai**
+- source markers: **11 → 12 → 13 → 14 → 15 → 16**, once and in physical order
+- physical page-boundary alignment: **PASS**
+- two-line Tirukkural display: preserved
+- final source-significant `*`: preserved
+- Story-2 / Story-4 adjacent material: excluded
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**தலையில் மலை Tamil source processing is COMPLETE: 6/6 verified source records, 0 blocked, 0 unresolved story text.**
+**தலையில் மலை is COMPLETE through reviewed English translation: Tamil source 6/6 verified, text fidelity PASS — corrected, visual fidelity PASS, English PASS, 0 blocked / 0 unresolved story text.**
