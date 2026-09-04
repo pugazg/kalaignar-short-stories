@@ -28,13 +28,13 @@
 
 - scans **1–8**: cover/front matter/contents;
 - scan **9** carries printed page **7** and opens Story 1;
-- scan **81** carries printed page **79** and opens Story 40 after the previous story ending;
+- scan **81** carries printed page **79** and contains the Story-39 ending followed by Story 40;
 - story-text printed pages: **7–79**;
 - story-text scans: **9–81**;
 - story-page relation: **scan = printed page + 2**;
-- scan **82**: back cover.
+- scan **82**: verified back cover; no further story text.
 
-The contents list gives forty story start pages. Primary story ranges are calculated from the next contents entry, but direct source processing controls physical boundaries and repeatedly reveals shared pages.
+The contents list gives forty story start pages. Primary story ranges were calculated from successive contents entries, but direct source processing controls physical boundaries and repeatedly reveals shared pages.
 
 ## Front matter / source features
 
@@ -57,7 +57,7 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - The PDF and generated inspection renders/crops are not committed.
 - TOC wording and story-opening headings are preserved separately where they differ.
 - No canonical story folder is created from the contents list alone.
-- Each story is activated only after a fresh live-main duplicate check.
+- Each story was activated only after a fresh live-main duplicate check.
 - Shared physical boundary scans preserve each story's exact source span; text is not reassigned merely to keep calculated ranges non-overlapping.
 - Difficult readings follow the exhaustive source-first protocol in `SHORT_STORY_PROCESSING_GUIDE.md`.
 
@@ -67,11 +67,16 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - story-opening scans visually checked: **40 / 40**
 - final story/back-cover boundary checked: **Yes**
 - source registration state: **COMPLETE**
-- canonical story workspaces activated: **31 / 40**
-- Tamil source processing complete: **31 / 40**
-- Tamil source processing pending: **9 / 40**
+- canonical story workspaces activated: **40 / 40**
+- Tamil source processing complete: **40 / 40**
+- Tamil source processing pending: **0 / 40**
+- completed-story blocked / unresolved story text: **0**
 - English translation complete from this collection: **0 / 40**
-- latest completed: **Story 31 `இராமனைப் பற்றி இராமன்` — lower scan 66 through upper scan 69; audit PASS; 0 blocked / 0 unresolved**
-- directly registered title variances: **8** — Stories 2, 11, 24, 27, 28, 29, 35 and 39
-- execution policy: **10 stories per iteration while possible; final source iteration has the remaining 9 stories**
-- next exact iteration: **Stories 32–40**, beginning Story 32 `மானும் பெருமானும்` below Story 31 on scan **69 / printed page 67**, with scan **71** as its next-boundary witness after scan 70.
+- latest completed: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
+- final source boundary: **scan 82 — verified physical back cover; no further story text**
+- directly registered title variances: **9** — Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39
+- Tamil source pass: **CLOSED / COMPLETE**
+
+The ninth title variance was established by direct opening review of Story 36: TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
+
+No source story remains pending after Story 40. English translation, visual-fidelity review and downstream publication work remain separate phases.
