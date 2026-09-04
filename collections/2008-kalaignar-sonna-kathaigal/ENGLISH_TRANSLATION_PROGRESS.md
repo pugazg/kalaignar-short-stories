@@ -9,17 +9,17 @@ The 2008 collection entered English translation only after explicit user authori
 ## Status
 
 - total stories: **40**
-- English translation complete: **1 / 40**
-- `PASS`: **1**
-- pending: **39 / 40**
+- English translation complete: **2 / 40**
+- `PASS`: **2**
+- pending: **38 / 40**
 - `NEEDS REVIEW`: **0**
-- current target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`**
-- current target physical span: **lower scan 10 / printed 8 → upper scan 11 / printed 9**
+- current target: **Story 3 — `தலையில் மலை`**
+- current target physical span: **lower scan 11 / printed 9 → upper scan 16 / printed 14**
 
 | # | Story | Verified physical span | English translation |
 |---:|---|---|---|
 | 1 | `அப்படித்தான் சிரிப்பேன்` | scan 9 → top 10 | **PASS** |
-| 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | lower 10 → upper 11 | pending |
+| 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | lower 10 → upper 11 | **PASS** |
 | 3 | `தலையில் மலை` | lower 11 → upper 16 | pending |
 | 4 | `வெறும் கை முழம் போடும்` | lower 16 → upper 17 | pending |
 | 5 | `கூட்டணி` | lower 17 → upper 18 | pending |
@@ -73,16 +73,30 @@ The 2008 collection entered English translation only after explicit user authori
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
+### Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`
+
+- workspace: `../../stories/ice-katti/`
+- English: `../../stories/ice-katti/translations/en/ice-katti.md`
+- review: `../../stories/ice-katti/TRANSLATION_REVIEW.md`
+- English title treatment: **Ice Katti**
+- source-page markers: **10 / printed 8 → 11 / printed 9**
+- scan-10 → scan-11 content boundary aligned to verified Tamil page records: **Yes**
+- shared scan-10 Story-1 and shared scan-11 Story-3 material excluded: **Yes**
+- TOC/opening-title variance preserved in the review/control layer: **Yes**
+- source-significant `(பலத்த கைதட்டல்)` and final `*` represented: **Yes**
+- possible-error queue read and not silently normalized: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
 ## Next exact activity
 
-Process **Story 2 only** under the standing one-story-per-activity translation rule:
+Process **Story 3 only** under the standing one-story-per-activity translation rule:
 
-- TOC title: **`ஐஸ்கட்டி`**
-- opening heading: **`ஐஸ் கட்டி`**
-- workspace: `../../stories/ice-katti/`
-- verified physical span: **lower scan 10 / printed 8 → upper scan 11 / printed 9**
-- preserve the TOC/opening-title variance; do not normalize the two source witnesses.
+- title: **`தலையில் மலை`**
+- workspace: `../../stories/thalaiyil-malai/`
+- verified physical span: **lower scan 11 / printed 9 → scans 12–15 → upper scan 16 / printed 14**
+- preserve every verified source/page boundary and source-significant structure; exclude Story-2 and Story-4 material on the shared boundary scans.
 
 ## Phase gate
 
-English translation is **IN PROGRESS — 1 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
+English translation is **IN PROGRESS — 2 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
