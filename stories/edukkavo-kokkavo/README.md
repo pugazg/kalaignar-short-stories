@@ -22,4 +22,16 @@ Canonical story workspace for Story 27 in the 2008 second-edition anthology **�
 - Tamil assembly: [`sections/edukkavo-kokkavo.md`](sections/edukkavo-kokkavo.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/edukkavo-kokkavo.md`](translations/en/edukkavo-kokkavo.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- TOC/opening-title variance preserved: **Yes**
+- source markers / physical alignment: **61 → 62 — PASS**
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
