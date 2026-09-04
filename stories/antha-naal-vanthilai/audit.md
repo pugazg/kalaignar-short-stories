@@ -3,6 +3,7 @@
 - verified physical span: lower scan **62** through upper scan **64**
 - source records: **3 / 3**
 - direct high-resolution review: **complete**
+- second-pass word-by-word text fidelity: **complete**
 
 ## Boundary audit
 
@@ -12,6 +13,10 @@
 
 TOC **`அந்த நாள் வந்திலை...`** ↔ opening **`அந்த நாள் வந்திலை!`**. No title form is silently normalized.
 
+## Text-fidelity correction
+
+- scan 64: earlier `பகைத்துப் போன புலவர்` corrected to source **`பதைத்துப் போன புலவர்`**.
+
 ## Audit result
 
-**PASS — 3/3 verified; 0 blocked; 0 unresolved story text.**
+**PASS — corrected; 3/3 verified; 0 blocked; 0 unresolved story text; 0 unresolved text-fidelity issues.**
