@@ -7,10 +7,10 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 ## Status
 
 - total stories: **40**
-- text-fidelity complete: **20 / 40**
-- `PASS`: **8**
-- `PASS — corrected`: **12**
-- pending: **20 / 40**
+- text-fidelity complete: **30 / 40**
+- `PASS`: **15**
+- `PASS — corrected`: **15**
+- pending: **10 / 40**
 - needs recheck: **0**
 - unresolved fidelity issue among completed stories: **0**
 
@@ -36,16 +36,16 @@ Method: direct **word-by-word** comparison of committed Tamil against the contro
 | 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | **PASS — corrected** |
 | 19 | `நடக்குமா நடக்காதா?` | lower 39 → 40–41 → upper 42 | **PASS — corrected** |
 | 20 | `கனியும் கணையும்` | lower 42 → upper 43 | **PASS — corrected** |
-| 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | pending |
-| 22 | `புலிவால்` | lower 44 → upper 45 | pending |
-| 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | pending |
-| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | lower 47 → 48–53 → upper 54 | pending |
-| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | lower 54 → 55–59 → upper 60 | pending |
-| 26 | `பொறுமைக்கு சான்று` | lower 60 → upper 61 | pending |
-| 27 | TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` | lower 61 → upper 62 | pending |
-| 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | pending |
-| 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | lower 64 → upper 65 | pending |
-| 30 | `பாரூர் போல...` | lower 65 → upper 66 | pending |
+| 21 | `இதயம் பேசுகிறது` | lower 43 → upper 44 | **PASS** |
+| 22 | `புலிவால்` | lower 44 → upper 45 | **PASS** |
+| 23 | `தெரியாத பேச்சு` | lower 45 → 46 → upper 47 | **PASS** |
+| 24 | TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` | lower 47 → 48–53 → upper 54 | **PASS — corrected** |
+| 25 | `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` | lower 54 → 55–59 → upper 60 | **PASS — corrected** |
+| 26 | `பொறுமைக்கு சான்று` | lower 60 → upper 61 | **PASS** |
+| 27 | TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` | lower 61 → upper 62 | **PASS** |
+| 28 | TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` | lower 62 → 63 → upper 64 | **PASS — corrected** |
+| 29 | TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` | lower 64 → upper 65 | **PASS** |
+| 30 | `பாரூர் போல...` | lower 65 → upper 66 | **PASS** |
 | 31 | `இராமனைப் பற்றி இராமன்` | lower 66 → 67–68 → upper 69 | pending |
 | 32 | `மானும் பெருமானும்` | lower 69 → 70 → upper 71 | pending |
 | 33 | `எழுச்சிக்கு அடையாளம்` | lower 71 → upper 72 | pending |
@@ -63,10 +63,16 @@ Stories **2, 3, 6 and 9** required source-supported corrections. Stories **1, 4,
 
 ## Batch 2 correction summary — Stories 11–20
 
-Stories **11 and 16** matched the controlling source at word level. Stories **12, 13, 14, 15, 17, 18, 19 and 20** required source-supported corrections, all now propagated through page records, Tamil assemblies, audits/review queues and story-local fidelity records.
+Stories **11 and 16** matched the controlling source at word level. Stories **12, 13, 14, 15, 17, 18, 19 and 20** required source-supported corrections, all propagated through page records, Tamil assemblies, audits/review queues and story-local fidelity records.
 
 Key recovered readings include `தொடவும்`, `ஊடுதல் செயலாளராக`, first `காப்புமுற்றிருக்கின்றது`, `உயர் ஜாதிக்காரனுக்குக்`, `போர் வீரன்படம்`, `பேச்சைக்`, `என்னடா?`, and Story-20 comma/period punctuation.
 
+## Batch 3 correction summary — Stories 21–30
+
+Stories **21, 22, 23, 26, 27, 29 and 30** matched the controlling source at word level. Stories **24, 25 and 28** required source-supported corrections, all propagated through page records, Tamil assemblies, audits/review queues and story-local fidelity records.
+
+Key recovered readings include Story-24 `தூக்கி நிறுத்திய`, `கடிதமாகத் தீட்டினேன்`, `தொடுவான்! துவளமாட்டான்.`, `சல்லாபத்`, `தொடங்குவதற்கு`, Story-25 `புராணிகள் கூறுவர்`, `முதல்வராக அமர்ந்து அரசோச்சியவர்`, `தீர்ப்பையொட்டி`, `சொர்க்கத்தில் இருக்கலாம்`, `சொர்க்கம் செல்பவனின்`, and Story-28 `பதைத்துப் போன புலவர்`.
+
 ## Exact next iteration
 
-Process **Stories 21–30** only, in order, with direct word-by-word scan comparison. Do not advance to Story 31 until all ten records and any corrections are synchronized.
+Process **Stories 31–40** only, in order, with direct word-by-word scan comparison. Story 31 begins below Story 30 on shared scan **66**. Story 40 ends on scan **81**; scan **82** is the verified back-cover witness and must be used only as the final boundary check.
