@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977 / 2008 phases because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases because a copied checkpoint is older.
 
 ## Active controlling source
 
@@ -33,41 +33,46 @@ Read completely before source-dependent work:
 7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
 9. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-10. latest completed workspace `stories/veeravadi/` and, as needed, prior completed stories for shared-page precedents.
+10. latest completed workspace `stories/ilangai-mannar-parambarai/` and, as needed, Stories 14–17 for shared-page precedents.
 
 ## Current durable progress
 
-- Story 1: PASS
-- user-authorized Stories **2–12** iteration: **11 / 11 PASS**
-- Story 13 `வீரவாடி`: **PASS**
-- total Tamil source complete: **13 / 34**
-- pending: **21 / 34**
+- Stories **1–18**: Tamil source PASS
+- latest user-authorized Stories **14–18** iteration: **5 / 5 PASS**
+- total Tamil source complete: **18 / 34**
+- pending: **16 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-Story 13 verified span is **scan 18 / printed page 17 → top scan 19 / printed page 18**. The physical join is `அந்த ஊரையே அவர்களுக்கு` → `மானியமாக வழங்கி...`. Source-sensitive `சிற்றாருக்கு` was visually verified and retained without normalization; it remains in the human possible-error queue only.
+### Important durable notes from the latest batch
+
+- Story 16's printed heading is **`ஆபாசமே ஆபாசம்!`**. The older intake form `அபாசமே அபாசம்!` was corrected after direct high-resolution review of scan 23.
+- Story 18 spans scans **25–27**. Its physical word split `அனுப்பு` → `கிறான்.` is preserved in page records and joined as `அனுப்புகிறான்.` only in the canonical assembly.
+- Story 19 begins below the Story-18 ending on shared scan 27.
 
 Do not normalize source-sensitive wording. Do not invent a TOC. Do not create remaining story folders before their duplicate/content-equivalence checks.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 14
+## CURRENT EXACT NEXT ACTIVITY — STORY 19
 
-Story 14 opening heading: **`சொர்க்கத்திற்கு வந்தது எப்படி?`**
+Story 19 opening heading:
+
+**`கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**
 
 Routing coordinates:
 
-- opens on scan **19 / printed page 18**, immediately below completed Story 13;
-- Story 15 **`கள்ளியும் ரோஜாவும்`** opens on scan **22 / printed page 21** and is the required next-opening/boundary witness.
+- opens on scan **27 / printed page 26**, below completed Story 18;
+- Story 20 **`சிறை கொடியது`** opens on scan **28 / printed page 27** and is the required ending-boundary witness.
 
-### Before creating Story 14
+### Before creating Story 19
 
 1. fetch live `main` again;
 2. perform exact-title, plausible alternate-title and distinctive-content equivalence searches;
 3. if an existing canonical equivalent exists, register the 2004 source as an additional witness rather than duplicating it;
-4. otherwise create the Story-14 canonical workspace;
-5. inspect the controlling PDF directly across scans **19–22** and preserve the exact physical page joins and ending boundary;
-6. exclude Story-13 material above and Story-15 material at/after the boundary;
+4. otherwise create the Story-19 canonical workspace;
+5. inspect the controlling PDF directly across the Story-19 span and preserve the exact physical ending before Story 20;
+6. exclude Story-18 material above and Story-20 material at/after the boundary;
 7. preserve source spelling, punctuation, paragraph/display structure and non-text/source marks;
 8. do not begin English translation;
-9. synchronize collection controls, root handover and this prompt after Story 14 is durably closed.
+9. synchronize collection controls, root README, `HANDOVER.md` and this prompt after durable closure.
 
 If the controlling PDF is unavailable in a fresh chat/tool context, reattach or otherwise resolve it before direct visual transcription.

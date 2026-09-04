@@ -3,7 +3,7 @@
 Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`  
 Registered edition: **Second Edition, March 2004**
 
-No printed contents page is present. This is a direct visual story-heading inventory.
+No printed contents page is present. This is a direct visual story-heading inventory. Story 16's intake heading was corrected during direct high-resolution activation review from `அபாசமே அபாசம்!` to source-verified **`ஆபாசமே ஆபாசம்!`**.
 
 | # | Story-opening heading | Opening scan | Printed start | Next opening / final witness | Canonical activation |
 |---:|---|---:|---:|---|---|
@@ -20,11 +20,11 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 11 | `அந்தக் காலத்திலே!` | 17 | 16 | Story 12 scan 18 | **PASS — `stories/anthak-kaalathile/`** |
 | 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | 18 | 17 | Story 13 later scan 18 | **PASS — `stories/aandavan-dharisanam-kodutha-oor/`** |
 | 13 | `வீரவாடி` | 18 | 17 | Story 14 scan 19 | **PASS — `stories/veeravadi/`** |
-| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | 19 | 18 | Story 15 scan 22 | **pending** |
-| 15 | `கள்ளியும் ரோஜாவும்` | 22 | 21 | Story 16 scan 23 | **pending** |
-| 16 | `அபாசமே அபாசம்!` | 23 | 22 | Story 17 scan 24 | **pending** |
-| 17 | `ஆடிக் காற்றே!` | 24 | 23 | Story 18 scan 25 | **pending** |
-| 18 | `இலங்கை மன்னர் பரம்பரை` | 25 | 24 | Story 19 scan 27 | **pending** |
+| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | 19 | 18 | Story 15 scan 22 | **PASS — `stories/sorgaththirku-vandhathu-eppadi/`** |
+| 15 | `கள்ளியும் ரோஜாவும்` | 22 | 21 | Story 16 scan 23 | **PASS — `stories/kalliyum-rojavum/`** |
+| 16 | `ஆபாசமே ஆபாசம்!` | 23 | 22 | Story 17 scan 24 | **PASS — `stories/aabasame-aabasam/`** |
+| 17 | `ஆடிக் காற்றே!` | 24 | 23 | Story 18 scan 25 | **PASS — `stories/aadik-kaatre/`** |
+| 18 | `இலங்கை மன்னர் பரம்பரை` | 25 | 24 | Story 19 scan 27 | **PASS — `stories/ilangai-mannar-parambarai/`** |
 | 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | 27 | 26 | Story 20 scan 28 | **pending** |
 | 20 | `சிறை கொடியது` | 28 | 27 | Story 21 scan 29 | **pending** |
 | 21 | `விருந்தாளிக்குத் தோன்றாது...` | 29 | 28 | Story 22 later scan 29 | **pending** |
@@ -45,10 +45,10 @@ No printed contents page is present. This is a direct visual story-heading inven
 ## Totals
 
 - headings directly checked: **34 / 34**
-- activated / Tamil source complete: **13 / 34**
-- pending: **21 / 34**
+- activated / Tamil source complete: **18 / 34**
+- pending: **16 / 34**
 - completed-story blocked / unresolved: **0**
 
-Story 13 `வீரவாடி` is verified across scan **18 / printed 17 → top scan 19 / printed 18**. Story 14 begins below it on scan 19.
+Stories 14–18 are source-complete. Story 19 begins below Story 18 on scan **27 / printed page 26**.
 
 Before each remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.

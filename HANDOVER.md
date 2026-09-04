@@ -53,66 +53,48 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 
 ## Completed Tamil source work
 
-Story 1 `வள்ளுவர் சொன்ன பொய்` was completed first. The user then explicitly authorized an **11-story iteration**, Stories **2–12**; that batch is **11 / 11 PASS**. Story 13 `வீரவாடி` was subsequently processed as the next source activity and is also PASS.
+Collection state after the latest five-story batch:
 
-Collection state:
-
-- activated: **13 / 34**
-- Tamil source complete: **13 / 34**
-- pending: **21 / 34**
+- activated: **18 / 34**
+- Tamil source complete: **18 / 34**
+- pending: **16 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-Completed Stories 2–13:
+The user-authorized **Stories 14–18** iteration is **5 / 5 PASS**:
 
-2. `நீயும் கைதி - நானும் கைதி` — scan 5 only — PASS
-3. `குருவி ராமேஸ்வரம்` — scans 5–6 — PASS
-4. `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` — scans 6–11 — PASS
-5. `கடலைத் தூர்ப்பது மிக எளிது` — scans 11–13 — PASS
-6. `மனைவி சொன்ன விளக்கம்` — scans 13–14 — PASS
-7. `நாதம் எழாது - நரம்புதான் அறும்` — scans 14–15 — PASS
-8. `அவள் சொன்னாள்` — scan 15 only — PASS
-9. `இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்` — scans 15–16 — PASS
-10. `கொல்லப்பட வேண்டியது புலி, ஆனால்...` — scans 16–17 — PASS
-11. `அந்தக் காலத்திலே!` — scan 17 only — PASS
-12. `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` — scan 18 only — PASS
-13. `வீரவாடி` — scan 18 → top scan 19 — PASS
+14. `சொர்க்கத்திற்கு வந்தது எப்படி?` — scans 19–22 — **4 / 4 verified** — PASS
+15. `கள்ளியும் ரோஜாவும்` — scans 22–23 — **2 / 2 verified** — PASS
+16. `ஆபாசமே ஆபாசம்!` — scans 23–24 — **2 / 2 verified** — PASS
+17. `ஆடிக் காற்றே!` — scan 24 only — **1 / 1 verified** — PASS
+18. `இலங்கை மன்னர் பரம்பரை` — scans 25–27 — **3 / 3 verified** — PASS
 
-All have canonical workspaces, page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
+All five have canonical workspaces, page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
-### Latest completed Story 13 — வீரவாடி
+### Batch-specific source controls
 
-Workspace: `stories/veeravadi/`
-
-- fresh exact-title/content-equivalence searches found **no existing canonical match**;
-- verified source span: **scan 18 / printed 17 → top scan 19 / printed 18**;
-- source records: **2 / 2 verified**;
-- page join: `அந்த ஊரையே அவர்களுக்கு` → `மானியமாக வழங்கி...`;
-- Story 14 material below the ending on scan 19 is excluded;
-- audit: **PASS**;
-- blocked / unresolved: **0**;
-- English: **not opened**.
-
-Source-sensitive `சிற்றாருக்கு` is preserved exactly from direct visual review and retained in the human-review queue rather than silently changed. Other source forms retained include `பெயர் தான்`, `இனத்தவர்க்கு`, and `இறங்குகிறீர்களோ. அந்த ஊரையே...`.
+- Story 16: the intake inventory had `அபாசமே அபாசம்!`; direct high-resolution heading review establishes **`ஆபாசமே ஆபாசம்!`**. The corrected source heading is authoritative and has been propagated to collection controls.
+- Story 18: page boundary split is `அனுப்பு` on scan 26 → `கிறான்.` on scan 27; page records retain the physical split and the canonical assembly joins `அனுப்புகிறான்.`.
+- Story 18 ends above Story 19 on shared scan **27 / printed 26**.
 
 ## Current exact next activity
 
-Process **Story 14 — `சொர்க்கத்திற்கு வந்தது எப்படி?`**.
+Process **Story 19 — `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**.
 
 Routing coordinates:
 
-- opening: scan **19 / printed page 18**, immediately below completed Story 13;
-- next opening / boundary witness: Story 15 **`கள்ளியும் ரோஜாவும்`**, scan **22 / printed page 21**.
+- opening: scan **27 / printed page 26**, below completed Story 18;
+- required boundary witness: Story 20 **`சிறை கொடியது`**, opening scan **28 / printed page 27**.
 
 Before activation:
 
 1. fetch live `main`;
-2. read mandatory guides and current active collection controls, including `TAMIL_SOURCE_PROGRESS.md` and the completed `stories/veeravadi/` workspace;
+2. read mandatory guides and current active collection controls;
 3. perform exact-title / alternate-title / distinctive-content equivalence search;
 4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. inspect scans **19–22** directly and adjudicate Story 14's exact ending before the Story-15 heading;
+5. transcribe only the verified Story-19 physical span;
 6. preserve source spelling, punctuation, paragraph/display structure and shared-page boundary;
 7. do not begin English translation unless explicitly authorized;
-8. synchronize collection controls, root handover and next prompt after durable closure.
+8. synchronize controls after durable closure.
 
-If the controlling PDF is unavailable in a fresh chat, reattach or otherwise resolve it before page-level source work.
+If the controlling PDF is unavailable in a fresh chat, reattach/resolve it before source-dependent work.

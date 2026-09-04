@@ -38,32 +38,36 @@ The intake metadata describes the book as a collection of **34 குட்ட�
 
 No TOC was reconstructed. Direct heading inspection established **34 / 34** story openings.
 
+## Heading correction established during processing
+
+Story 16 was initially registered during intake as `அபாசமே அபாசம்!`. Direct high-resolution review of the printed heading on scan **23 / printed page 22** establishes **`ஆபாசமே ஆபாசம்!`**. The source-verified form is authoritative and is propagated to the collection inventory and scan map.
+
 ## Processing verification
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **13 / 34**
-- Tamil source processing complete: **13 / 34**
-- pending: **21 / 34**
+- canonical story workspaces activated: **18 / 34**
+- Tamil source processing complete: **18 / 34**
+- pending: **16 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
 
-Stories **2–12** were processed as one user-authorized 11-story source-first iteration; all are PASS with direct visual scan review and no source text left blocked or unresolved. Story 13 `வீரவாடி` was subsequently processed from scans **18–19** and is also PASS.
+Stories **14–18** were processed as one user-authorized five-story source-first iteration; all five are PASS with direct visual scan review and no source text left blocked or unresolved.
 
 ## Latest completed source work
 
-Story 13 **`வீரவாடி`**:
+Story 18 **`இலங்கை மன்னர் பரம்பரை`**:
 
-- workspace: `stories/veeravadi/`;
-- verified span: **scan 18 / printed 17 → top scan 19 / printed 18**;
-- source records: **2 / 2 verified**;
+- workspace: `stories/ilangai-mannar-parambarai/`;
+- verified span: **scan 25 / printed 24 → top scan 27 / printed 26**;
+- source records: **3 / 3 verified**;
 - audit: **PASS**;
 - blocked / unresolved: **0**;
-- Story 14 material on scan 19: excluded.
+- Story 19 material below the ending on scan 27: excluded.
 
 ## Next source target
 
-Story 14 **`சொர்க்கத்திற்கு வந்தது எப்படி?`**:
+Story 19 **`கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**:
 
-- opens on scan **19 / printed page 18** below Story 13;
-- Story 15 **`கள்ளியும் ரோஜாவும்`** opens on scan **22 / printed page 21** and is the required next-opening boundary witness.
+- opens on scan **27 / printed page 26** below Story 18;
+- Story 20 **`சிறை கொடியது`** opens on scan **28 / printed page 27** and is the required next-opening boundary witness.

@@ -23,15 +23,17 @@ Full identity and scan-condition notes are in [`metadata/source.md`](metadata/so
 
 The scan moves from the colophon on scan 3 directly into story text on scan 4. Because no printed contents page is present, the 34-story inventory is based on direct sequential visual inspection of the printed story-opening headings across scans **4–49**. No TOC wording has been invented.
 
+During Story-16 activation, high-resolution direct source review corrected the intake heading `அபாசமே அபாசம்!` to the printed **`ஆபாசமே ஆபாசம்!`**. This source-supported correction is propagated through the collection controls.
+
 ## Pagination model
 
 Across the story block, **PDF scan = printed page + 1**.
 
 ## Tamil source-processing state
 
-- canonical story workspaces activated: **13 / 34**
-- Tamil source processing complete: **13 / 34**
-- Tamil source processing pending: **21 / 34**
+- canonical story workspaces activated: **18 / 34**
+- Tamil source processing complete: **18 / 34**
+- Tamil source processing pending: **16 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation for this collection: **not opened**
 
@@ -52,10 +54,15 @@ Across the story block, **PDF scan = printed page + 1**.
 | 11 | `அந்தக் காலத்திலே!` | `stories/anthak-kaalathile/` | scan 17 only | PASS |
 | 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | `stories/aandavan-dharisanam-kodutha-oor/` | scan 18 only | PASS |
 | 13 | `வீரவாடி` | `stories/veeravadi/` | scan 18 → top scan 19 | PASS |
+| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | `stories/sorgaththirku-vandhathu-eppadi/` | scan 19 → top scan 22 | PASS |
+| 15 | `கள்ளியும் ரோஜாவும்` | `stories/kalliyum-rojavum/` | scan 22 → top scan 23 | PASS |
+| 16 | `ஆபாசமே ஆபாசம்!` | `stories/aabasame-aabasam/` | scan 23 → top scan 24 | PASS |
+| 17 | `ஆடிக் காற்றே!` | `stories/aadik-kaatre/` | scan 24 only | PASS |
+| 18 | `இலங்கை மன்னர் பரம்பரை` | `stories/ilangai-mannar-parambarai/` | scan 25 → top scan 27 | PASS |
 
-The user-authorized 11-story iteration, Stories **2–12**, is **11 / 11 source-complete**. Story 13 `வீரவாடி` was then processed separately and is also source-complete.
+The latest user-authorized five-story iteration, Stories **14–18**, is **5 / 5 source-complete**. All five have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
-## Shared-page controls closed through Story 13
+## Shared-page controls closed through Story 18
 
 - scan **5 / printed 4**: Story 1 ending, complete Story 2, Story 3 opening;
 - scan **6 / printed 5**: Story 3 ending, Story 4 opening;
@@ -66,7 +73,11 @@ The user-authorized 11-story iteration, Stories **2–12**, is **11 / 11 source-
 - scan **16 / printed 15**: Story 9 ending, Story 10 opening;
 - scan **17 / printed 16**: Story 10 ending and complete Story 11;
 - scan **18 / printed 17**: complete Story 12 followed by Story 13 opening;
-- scan **19 / printed 18**: Story 13 ending followed by Story 14 opening.
+- scan **19 / printed 18**: Story 13 ending followed by Story 14 opening;
+- scan **22 / printed 21**: Story 14 ending followed by Story 15 opening;
+- scan **23 / printed 22**: Story 15 ending followed by Story 16 opening;
+- scan **24 / printed 23**: Story 16 ending followed by complete Story 17;
+- scan **27 / printed 26**: Story 18 ending followed by Story 19 opening.
 
 ## Canonical deduplication gate
 
@@ -74,9 +85,9 @@ Every remaining story still requires a fresh live-`main` exact-title / alternate
 
 ## Next exact activity
 
-Process **Story 14 — `சொர்க்கத்திற்கு வந்தது எப்படி?`**.
+Process **Story 19 — `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`**.
 
-- opens: scan **19 / printed page 18**, immediately below completed Story 13;
-- next boundary witness: Story 15 **`கள்ளியும் ரோஜாவும்`** opens on scan **22 / printed page 21**.
+- opens: scan **27 / printed page 26**, below the completed Story-18 ending;
+- next boundary witness: Story 20 **`சிறை கொடியது`** opens on scan **28 / printed page 27**.
 
-Do not begin Story 14 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
+Do not begin Story 19 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.

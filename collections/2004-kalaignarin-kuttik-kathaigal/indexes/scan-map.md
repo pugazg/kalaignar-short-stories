@@ -31,11 +31,11 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 11 | `அந்தக் காலத்திலே!` | 17 | 16 | PASS |
 | 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | 18 | 17 | PASS |
 | 13 | `வீரவாடி` | 18 | 17 | PASS |
-| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | 19 | 18 | pending |
-| 15 | `கள்ளியும் ரோஜாவும்` | 22 | 21 | pending |
-| 16 | `அபாசமே அபாசம்!` | 23 | 22 | pending |
-| 17 | `ஆடிக் காற்றே!` | 24 | 23 | pending |
-| 18 | `இலங்கை மன்னர் பரம்பரை` | 25 | 24 | pending |
+| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | 19 | 18 | PASS |
+| 15 | `கள்ளியும் ரோஜாவும்` | 22 | 21 | PASS |
+| 16 | `ஆபாசமே ஆபாசம்!` | 23 | 22 | PASS |
+| 17 | `ஆடிக் காற்றே!` | 24 | 23 | PASS |
+| 18 | `இலங்கை மன்னர் பரம்பரை` | 25 | 24 | PASS |
 | 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | 27 | 26 | pending |
 | 20 | `சிறை கொடியது` | 28 | 27 | pending |
 | 21 | `விருந்தாளிக்குத் தோன்றாது...` | 29 | 28 | pending |
@@ -53,29 +53,26 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 33 | `கைதியின் கதை` | 44 | 43 | pending |
 | 34 | `கிழவியின் மனைவி` | 47 | 46 | pending |
 
-## Verified shared-page boundaries through Story 13
+## Verified shared-page boundaries through Story 18
 
-Story-local adjudication is closed through the Story-13 ending:
+Story-local adjudication is closed through the Story-18 ending. In addition to earlier shared scans through Story 13:
 
-- scan **5 / printed 4** — Story 1 ending, Story 2, Story 3 opening;
-- scan **6 / printed 5** — Story 3 ending, Story 4 opening;
-- scan **11 / printed 10** — Story 4 ending, Story 5 opening;
-- scan **13 / printed 12** — Story 5 ending, Story 6 opening;
-- scan **14 / printed 13** — Story 6 ending, Story 7 opening;
-- scan **15 / printed 14** — Story 7 ending, Story 8, Story 9 opening;
-- scan **16 / printed 15** — Story 9 ending, Story 10 opening;
-- scan **17 / printed 16** — Story 10 ending and Story 11;
-- scan **18 / printed 17** — Story 12 followed by Story 13 opening;
-- scan **19 / printed 18** — Story 13 ending followed by Story 14 opening.
+- scan **19 / printed 18** — Story 13 ending followed by Story 14 opening;
+- scan **22 / printed 21** — Story 14 ending followed by Story 15 opening;
+- scan **23 / printed 22** — Story 15 ending followed by Story 16 opening;
+- scan **24 / printed 23** — Story 16 ending followed by complete Story 17;
+- scan **27 / printed 26** — Story 18 ending followed by Story 19 opening.
 
-Story 13's physical page join is `அந்த ஊரையே அவர்களுக்கு` (scan 18) → `மானியமாக வழங்கி...` (scan 19).
+Story 18 has the physical word split `அனுப்பு` (scan 26) → `கிறான்.` (scan 27); story page records preserve that split, while the canonical assembly joins `அனுப்புகிறான்.`.
+
+Story 16's direct source heading is **`ஆபாசமே ஆபாசம்!`**; the earlier intake `அபாசமே அபாசம்!` has been corrected in this map.
 
 ## Processing state
 
 - source registration: complete
 - heading inventory: **34 / 34**
-- Tamil source complete: **13 / 34**
-- pending: **21 / 34**
+- Tamil source complete: **18 / 34**
+- pending: **16 / 34**
 - completed-story blocked / unresolved: **0**
 
-Next: Story 14 `சொர்க்கத்திற்கு வந்தது எப்படி?`, opening scan **19 / printed 18**, with Story 15 on scan 22 as the next-opening boundary witness.
+Next: Story 19 `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`, opening scan **27 / printed 26**, with Story 20 on scan 28 as the next-opening boundary witness.
