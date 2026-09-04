@@ -33,8 +33,8 @@ Full checksum, byte size, imprint and scan-condition notes are in `metadata/sour
 - word-by-word text fidelity complete: **40 / 40**
 - visual fidelity complete: **40 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **15 / 40**
-- English translation pending: **25 / 40**
+- English translation complete from this collection: **25 / 40**
+- English translation pending: **15 / 40**
 - English translation `NEEDS REVIEW`: **0**
 - English translation tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
@@ -93,20 +93,21 @@ All forty stories have **0 blocked / 0 unresolved story text**, complete Tamil a
 
 English translation was opened only after explicit user authorization, following closure of Tamil source, text-fidelity and visual-fidelity work.
 
-- complete: **15 / 40**;
-- PASS: **15**;
-- pending: **25 / 40**;
+- complete: **25 / 40**;
+- PASS: **25**;
+- pending: **15 / 40**;
 - needs review: **0**;
-- latest completed batch: **Stories 5–14 — 10 / 10 PASS**;
-- latest completed story: **Story 15 `ஒண்ணு குடுமா?` — PASS**;
-- latest English source span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**;
-- canonical Tamil changed during Story-15 English work: **No**;
-- next exact activity: **Story 16 `அத்திரி பாச்சா` — lower scan 35 / printed 33 → upper scan 36 / printed 34**;
+- latest completed iteration: **Stories 16–25 — 10 / 10 PASS**;
+- latest completed story: **Story 25 `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — PASS**;
+- latest English source span: **lower scan 54 / printed 52 → scans 55–59 → upper scan 60 / printed 58**;
+- canonical Tamil changed during Stories 16–25 English work: **No**;
+- standing English iteration rule: **10 stories per iteration**;
+- next iteration: **Stories 26–35**, beginning with Story 26 `பொறுமைக்கு சான்று` — lower scan **60 / printed 58 → upper scan 61 / printed 59**;
 - durable tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-Story 15 preserves the source-colloquial `ஒண்ணு` ambiguity that drives the mango/kiss joke. The English title remains **Onnu Kuduma?**, while the dialogue uses **“give him one”** so the source ambiguity remains functional. The three physical source sections **33 → 34 → 35** are aligned to the verified Tamil page records, adjacent Story-14/Story-16 material is excluded, and the final `*` remains present.
+Stories **16–25** all have complete English files, `TRANSLATION_REVIEW.md`, synchronized story READMEs, source-significant ending ornaments and verified physical page-boundary alignment. Notable controls include Story 18's Socrates `தலை`→`யிலே` split, Story 22's quoted `நாயர் புடிச்ச`→`புலிவால்` split, Story 24's TOC/opening-title variance and eight-page embedded literary letter, and Story 25's seven-page mythic/political analogy with unusual source forms left unnormalized.
 
-The previous explicitly expanded Stories **5–14** batch remains closed at **10 / 10 PASS** with its recorded source-sensitive controls unchanged.
+The user has explicitly directed that English work continue in **10-story iterations**. The next iteration is Stories **26–35**; the final iteration will be Stories **36–40**.
 
 ## Source-title differences
 
@@ -130,4 +131,4 @@ No title form is silently normalized. `indexes/story-inventory.md` retains both 
 
 The final source iteration closed Stories **32–40**. Story 39 ends above Story 40 on scan **81**; Story 40 then closes on that same scan. Scan **82** is the verified back cover and contains no further story text.
 
-No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is now a separately authorized downstream phase and is **IN PROGRESS — 15 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
+No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is a separately authorized downstream phase and is **IN PROGRESS — 25 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
