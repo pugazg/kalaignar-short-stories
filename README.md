@@ -76,16 +76,16 @@ Permanent guides:
 | [`மயில் ராவணன்`](stories/mayil-ravanan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஜாடி குட்டி போடுமா?`](stories/jaadi-kutti-poduma/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஒண்ணு குடுமா?`](stories/onnu-kuduma/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`அத்திரி பாச்சா`](stories/aththiri-paachaa/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`செருப்போடு இரு`](stories/seruppodu-iru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`இடிக்குப் பின் மழை`](stories/idikkup-pin-mazhai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`நடக்குமா நடக்காதா?`](stories/nadakkuma-nadakkatha/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`கனியும் கணையும்`](stories/kaniyum-kanaiyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`இதயம் பேசுகிறது`](stories/idhayam-pesugirathu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`புலிவால்`](stories/pulivaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`தெரியாத பேச்சு`](stories/theriyatha-pechu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`வெண்ணெய் உருகுது வெயிலில்`](stories/vennai-uruguthu-veyilil/README.md) | **Tamil source PASS — 8/8 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`](stories/mamiyar-udaithaal-mattum-manchattiya/README.md) | **Tamil source PASS — 7/7 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`அத்திரி பாச்சா`](stories/aththiri-paachaa/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`செருப்போடு இரு`](stories/seruppodu-iru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`இடிக்குப் பின் மழை`](stories/idikkup-pin-mazhai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நடக்குமா நடக்காதா?`](stories/nadakkuma-nadakkatha/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கனியும் கணையும்`](stories/kaniyum-kanaiyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`இதயம் பேசுகிறது`](stories/idhayam-pesugirathu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`புலிவால்`](stories/pulivaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`தெரியாத பேச்சு`](stories/theriyatha-pechu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`வெண்ணெய் உருகுது வெயிலில்`](stories/vennai-uruguthu-veyilil/README.md) | **Tamil source PASS — 8/8 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`](stories/mamiyar-udaithaal-mattum-manchattiya/README.md) | **Tamil source PASS — 7/7 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`பொறுமைக்கு சான்று`](stories/porumaikku-saandru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`எடுக்கவோ கோக்கவோ`](stories/edukkavo-kokkavo/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அந்த நாள் வந்திலை!`](stories/antha-naal-vanthilai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
@@ -126,19 +126,20 @@ Source registration / processing state:
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **15 / 40**
-- English translation pending: **25 / 40**
+- English translation complete from this collection: **25 / 40**
+- English translation pending: **15 / 40**
 - English translation tracker: [`collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
-- latest completed English work: **Story 15 `ஒண்ணு குடுமா?` — PASS**
-- latest completed expanded English batch: **Stories 5–14 — 10 / 10 PASS**
-- next English target: **Story 16 `அத்திரி பாச்சா` — lower scan 35 / printed page 33 → upper scan 36 / printed page 34**
+- latest completed English work: **Story 25 `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — PASS**
+- latest completed English iteration: **Stories 16–25 — 10 / 10 PASS**
+- standing English iteration rule: **10 stories per iteration**
+- next English iteration: **Stories 26–35**, beginning Story 26 `பொறுமைக்கு சான்று` — lower scan **60 / printed 58 → upper scan 61 / printed 59**
 - Story-40 source boundary: **scan 81 / printed page 79**
 - final physical boundary: **scan 82 — verified back cover; no further story text**
 - Tamil source pass: **COMPLETE / CLOSED**
 - word-by-word text fidelity: **COMPLETE / CLOSED — 40 / 40**
 - visual fidelity: **COMPLETE / CLOSED — 40 / 40**
-- English translation: **IN PROGRESS — 15 / 40 PASS**
+- English translation: **IN PROGRESS — 25 / 40 PASS**
 
 Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
 
