@@ -65,16 +65,16 @@ Permanent guides:
 | [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`வெறும் கை முழம் போடும்`](stories/verum-kai-muzham-podum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`கூட்டணி`](stories/koottani/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`சீற வேண்டாமா?`](stories/seera-vendama/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`கழுதையின் கதை`](stories/kazhuthaiyin-kathai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`உனக்கு வயதென்ன?`](stories/unakku-vayathenna/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`தமிழன் என்று சொல்லடா!`](stories/thamizan-endru-sollada/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`கடமை கண்ணியம் கட்டுப்பாடு`](stories/kadamai-kanniyam-kattuppadu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`சாவி தான் இல்லை`](stories/saavi-thaan-illai/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`கண்ணில் கால்`](stories/kannil-kaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`மயில் ராவணன்`](stories/mayil-ravanan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`ஜாடி குட்டி போடுமா?`](stories/jaadi-kutti-poduma/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`கூட்டணி`](stories/koottani/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`சீற வேண்டாமா?`](stories/seera-vendama/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கழுதையின் கதை`](stories/kazhuthaiyin-kathai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`உனக்கு வயதென்ன?`](stories/unakku-vayathenna/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`தமிழன் என்று சொல்லடா!`](stories/thamizan-endru-sollada/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கடமை கண்ணியம் கட்டுப்பாடு`](stories/kadamai-kanniyam-kattuppadu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`சாவி தான் இல்லை`](stories/saavi-thaan-illai/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கண்ணில் கால்`](stories/kannil-kaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`மயில் ராவணன்`](stories/mayil-ravanan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`ஜாடி குட்டி போடுமா?`](stories/jaadi-kutti-poduma/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஒண்ணு குடுமா?`](stories/onnu-kuduma/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அத்திரி பாச்சா`](stories/aththiri-paachaa/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`செருப்போடு இரு`](stories/seruppodu-iru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
@@ -126,18 +126,19 @@ Source registration / processing state:
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **4 / 40**
-- English translation pending: **36 / 40**
+- English translation complete from this collection: **14 / 40**
+- English translation pending: **26 / 40**
 - English translation tracker: [`collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
-- latest completed English work: **Story 4 `வெறும் கை முழம் போடும்` — PASS**
-- next English target: **Story 5 `கூட்டணி` — lower scan 17 / printed page 15 → upper scan 18 / printed page 16**
+- latest completed English work: **Story 14 `ஜாடி குட்டி போடுமா?` — PASS**
+- latest completed English batch: **Stories 5–14 — 10 / 10 PASS**
+- next English target: **Story 15 `ஒண்ணு குடுமா?` — lower scan 33 / printed page 31 → scan 34 / printed page 32 → upper scan 35 / printed page 33**
 - Story-40 source boundary: **scan 81 / printed page 79**
 - final physical boundary: **scan 82 — verified back cover; no further story text**
 - Tamil source pass: **COMPLETE / CLOSED**
 - word-by-word text fidelity: **COMPLETE / CLOSED — 40 / 40**
 - visual fidelity: **COMPLETE / CLOSED — 40 / 40**
-- English translation: **IN PROGRESS — 4 / 40 PASS**
+- English translation: **IN PROGRESS — 14 / 40 PASS**
 
 Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
 
