@@ -27,6 +27,8 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/ice-katti.md`](sections/ice-katti.md)
 - audit: [`audit.md`](audit.md)
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- word-by-word text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
 
 ## Shared-page boundaries
 
@@ -41,8 +43,18 @@ The collection TOC form **`ஐஸ்கட்டி`** and opening-heading form 
 
 ## English translation
 
-**Not started.** Tamil source closure does not automatically open the English-translation phase.
+**PASS — complete and reviewed.**
+
+- English file: [`translations/en/ice-katti.md`](translations/en/ice-katti.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Ice Katti**
+- source markers: **scan 10 / printed 8 → scan 11 / printed 9**
+- physical content-boundary alignment: **PASS**
+- Story-1 / Story-3 adjacent material excluded: **Yes**
+- title variance retained in review/control layer: **Yes**
+- final `*` ornament retained: **Yes**
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**ஐஸ் கட்டி Tamil source processing is COMPLETE: both shared-page source spans are verified, with 0 blocked / 0 unresolved story text.**
+**ஐஸ் கட்டி is COMPLETE for the currently authorized archival layers: Tamil source PASS, text fidelity PASS — corrected, visual fidelity PASS, and English translation/review PASS, with 0 blocked / 0 unresolved story text.**
