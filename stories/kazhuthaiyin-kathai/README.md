@@ -19,8 +19,21 @@ Canonical story workspace for **கழுதையின் கதை**, Story 7
 - Tamil assembly: [`sections/kazhuthaiyin-kathai.md`](sections/kazhuthaiyin-kathai.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
 
 ## Shared-page boundaries
 
 Story 6 closes above the Story-7 heading on scan 19. Story 7 continues through scan 20 and ends with the printed asterisk on scan 21; Story 8 `உனக்கு வயதென்ன?` begins below it on that same scan. Adjacent-story prose is excluded.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/kazhuthaiyin-kathai.md`](translations/en/kazhuthaiyin-kathai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Kazhuthaiyin Kathai**
+- source markers: **19 → 20 → 21**; both joins source-aligned
+- colloquial source forms left untouched in Tamil
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
