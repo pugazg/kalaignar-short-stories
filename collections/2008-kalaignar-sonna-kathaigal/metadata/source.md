@@ -71,17 +71,19 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **4 / 40**
-- English translation pending from this collection: **36 / 40**
+- English translation complete from this collection: **14 / 40**
+- English translation pending from this collection: **26 / 40**
 - English translation `NEEDS REVIEW`: **0**
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
-- latest completed English work: **Story 4 `வெறும் கை முழம் போடும்` — PASS; lower scan 16 → upper scan 17; Tamil unchanged**
-- next English target: **Story 5 `கூட்டணி` — lower scan 17 / printed 15 → upper scan 18 / printed 16**
+- latest completed English work: **Story 14 `ஜாடி குட்டி போடுமா?` — PASS; scan 32 / printed 30 → upper scan 33 / printed 31; Tamil unchanged**
+- latest English batch: **Stories 5–14 — 10 / 10 PASS**
+- next English target: **Story 15 `ஒண்ணு குடுமா?` — lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**
 - final source boundary: **scan 82 — verified physical back cover; no further story text**
 - directly registered title variances: **9** — Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39
 - Tamil source pass: **CLOSED / COMPLETE**
-- English translation phase: **IN PROGRESS — explicitly authorized, 4 / 40 PASS**
+- English translation phase: **IN PROGRESS — explicitly authorized, 14 / 40 PASS**
+- canonical Tamil changed during English Stories 5–14 batch: **No**
 
 The ninth title variance was established by direct opening review of Story 36: TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
 
-No source story remains pending after Story 40. Source/text/visual phases remain closed; English translation is now tracked separately under `ENGLISH_TRANSLATION_PROGRESS.md`.
+No source story remains pending after Story 40. Source/text/visual phases remain closed; English translation is tracked separately under `ENGLISH_TRANSLATION_PROGRESS.md`.
