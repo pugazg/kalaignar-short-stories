@@ -9,15 +9,16 @@ The 2008 collection entered English translation only after explicit user authori
 ## Status
 
 - total stories: **40**
-- English translation complete: **14 / 40**
-- `PASS`: **14**
-- pending: **26 / 40**
+- English translation complete: **15 / 40**
+- `PASS`: **15**
+- pending: **25 / 40**
 - `NEEDS REVIEW`: **0**
 - latest completed batch: **Stories 5–14 — 10 / 10 PASS**
-- current target: **Story 15 — `ஒண்ணு குடுமா?`**
-- current target physical span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**
+- latest completed story: **Story 15 — `ஒண்ணு குடுமா?` — PASS**
+- current target: **Story 16 — `அத்திரி பாச்சா`**
+- current target physical span: **lower scan 35 / printed 33 → upper scan 36 / printed 34**
 
-The user explicitly expanded the normal one-story-per-activity translation rule for the latest activity to **10 stories**, so Stories **5–14** were processed together. The next activity returns to Story 15 unless the user explicitly expands the batch again.
+The user explicitly expanded the prior activity to 10 stories, so Stories 5–14 were processed together. Story 15 was then processed under the default one-story activity rule.
 
 | # | Story | Verified physical span | English translation |
 |---:|---|---|---|
@@ -35,7 +36,7 @@ The user explicitly expanded the normal one-story-per-activity translation rule 
 | 12 | `கண்ணில் கால்` | 29 → upper 30 | **PASS** |
 | 13 | `மயில் ராவணன்` | lower 30 → 31 | **PASS** |
 | 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | **PASS** |
-| 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | pending |
+| 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | **PASS** |
 | 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | pending |
 | 17 | `செருப்போடு இரு` | lower 36 → upper 37 | pending |
 | 18 | `இடிக்குப் பின் மழை` | lower 37 → 38 → upper 39 | pending |
@@ -66,30 +67,33 @@ The user explicitly expanded the normal one-story-per-activity translation rule 
 
 Stories **1–4** retain their existing story-local English files and `TRANSLATION_REVIEW.md` records. Their verified source boundaries, title/source anomalies and final ornaments remain closed and unchanged.
 
-The explicitly expanded ten-story batch **Stories 5–14** is complete:
+The explicitly expanded ten-story batch **Stories 5–14** remains complete at **10 / 10 PASS** with its previously recorded source-control notes unchanged.
 
-- **5 `கூட்டணி`** — markers **17→18**; `அவைகள்` → `தங்கள் கால்களை...` boundary aligned; source quotation asymmetry and one-prey/two-prey close retained; **PASS**.
-- **6 `சீற வேண்டாமா?`** — markers **18→19**; corrected verified `என்றா சொன்னேன்.` translated without Tamil normalization; reflective close and `*` retained; **PASS**.
-- **7 `கழுதையின் கதை`** — markers **19→20→21**; physical ending on scan 21 retained despite shorter TOC routing range; colloquial Tamil forms not normalized; **PASS**.
-- **8 `உனக்கு வயதென்ன?`** — markers **21→22**; `ஆட்சி மொழி` → `ஆவது?` physical join aligned; final public-life statement retained; **PASS**.
-- **9 `தமிழன் என்று சொல்லடா!`** — markers **22→23→24→25**; `பெட்டி கலெக்டர்`, joined `அந்ததமிழருக்கு`, and final `சொல்லடா.. தலைநிமிர்ந்து நில்லடா...` source facts preserved; **PASS**.
-- **10 `கடமை கண்ணியம் கட்டுப்பாடு`** — markers **25→26→27**; physical ending on scan 27 retained; riddle, squirrel passage and three-line **Duty / Dignity / Discipline** display preserved; **PASS**.
-- **11** — TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை`; markers **27→28**; title variance preserved; source political analogy translated directly without outside gloss; **PASS**.
-- **12 `கண்ணில் கால்`** — markers **29→30**; corrected `தொடவும்` translated from verified Tamil; physical ending on scan 30 retained; **PASS**.
-- **13 `மயில் ராவணன்`** — markers **30→31**; verified unusual `ஊடுதல் செயலாளராக` handled conservatively as `ooduthal secretary`; both applause cues retained; **PASS**.
-- **14 `ஜாடி குட்டி போடுமா?`** — markers **32→33**; distinct source pregnancy forms retained in the Tamil/control layer, laughter cues and final `*` preserved; **PASS**.
+### Story 15 — `ஒண்ணு குடுமா?`
 
-Canonical Tamil changed during this ten-story English batch: **No**.
+- workspace: `../../stories/onnu-kuduma/`
+- English: `../../stories/onnu-kuduma/translations/en/onnu-kuduma.md`
+- review: `../../stories/onnu-kuduma/TRANSLATION_REVIEW.md`
+- English title treatment: **Onnu Kuduma?**
+- source-page markers: **33 / printed 31 → 34 / printed 32 → 35 / printed 33**
+- scan **33** contains only the opening Kalaivaanar / Udumalai Narayana Kavi statement and the English boundary matches it;
+- scan **34** contains the `Uthama Puthiran` social-reform passage and complete mango/kiss anecdote through Kalaivaanar receiving the kiss;
+- scan **35** contains the final comedy reflection and `*`;
+- source-colloquial `ஒண்ணு` ambiguity is preserved as “one” inside the dialogue while the title remains transliterated;
+- `புல்கட்டு`, corrected `உயர் ஜாதிக்காரனுக்குக்`, and `ஆதிதிராவிடப் பெண்` were handled conservatively from the verified Tamil;
+- Story-14 / Story-16 adjacent material excluded: **Yes**;
+- canonical Tamil changed during translation: **No**;
+- result: **PASS**.
 
 ## Next exact activity
 
-Process **Story 15 `ஒண்ணு குடுமா?`** next unless the user explicitly expands the batch again.
+Process **Story 16 `அத்திரி பாச்சா`** next unless the user explicitly expands the batch again.
 
-- workspace: `../../stories/onnu-kuduma/`
-- verified physical span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**
-- Story 14 ends above Story 15 on shared scan 33;
-- Story 16 `அத்திரி பாச்சா` begins below Story 15's ending ornament on shared scan 35.
+- workspace: `../../stories/aththiri-paachaa/`
+- verified physical span: **lower scan 35 / printed 33 → upper scan 36 / printed 34**
+- Story 15 ends above Story 16 on shared scan 35;
+- Story 17 `செருப்போடு இரு` begins below Story 16's ending ornament on shared scan 36.
 
 ## Phase gate
 
-English translation is **IN PROGRESS — 14 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
+English translation is **IN PROGRESS — 15 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
