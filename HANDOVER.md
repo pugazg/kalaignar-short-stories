@@ -60,9 +60,9 @@ The user explicitly authorized the English downstream phase after source/text/vi
 
 Current durable state:
 
-- English translation complete: **3 / 40**;
-- `PASS`: **3**;
-- pending: **37 / 40**;
+- English translation complete: **4 / 40**;
+- `PASS`: **4**;
+- pending: **36 / 40**;
 - `NEEDS REVIEW`: **0**;
 - canonical Tamil changed during English work: **No**.
 
@@ -90,35 +90,50 @@ Current durable state:
 
 ### Completed Story 3 — `தலையில் மலை`
 
-Workspace: `stories/thalaiyil-malai/`
-
-- English file: `translations/en/thalaiyil-malai.md`;
+- workspace: `stories/thalaiyil-malai/`;
+- English: `translations/en/thalaiyil-malai.md`;
 - review: `TRANSLATION_REVIEW.md`;
 - English title treatment: **Thalaiyil Malai**;
 - source span: **lower scan 11 / printed 9 → scans 12–15 → upper scan 16 / printed 14**;
-- source markers: **11 → 12 → 13 → 14 → 15 → 16**, once and in order;
+- source markers: **11 → 12 → 13 → 14 → 15 → 16**;
 - physical page-boundary alignment: **PASS** across all five joins;
 - scan **11** Story-2 material above the Story-3 opening: excluded;
 - scan **16** Story-4 material below the Story-3 ending: excluded;
 - source-sensitive `பீநடை` and `அமர்ச்சியப்படுத்தாமல்`: not normalized in Tamil;
-- previously corrected `இயலாதது`, `எடுத்துக் கொள்க!`, and `அடே! அப்படியொரு ஆசையிருந்தால்...`: translated from current verified Tamil without reopening;
-- final Tirukkural: preserved as a distinct two-line English display without importing an outside numbered/conventional translation;
+- final Tirukkural and `*`: preserved;
+- result: **PASS**.
+
+### Completed Story 4 — `வெறும் கை முழம் போடும்`
+
+Workspace: `stories/verum-kai-muzham-podum/`
+
+- English file: `translations/en/verum-kai-muzham-podum.md`;
+- review: `TRANSLATION_REVIEW.md`;
+- English title treatment: **Verum Kai Muzham Podum**;
+- source span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**;
+- source markers: **16 → 17**, once and in order;
+- physical page-boundary alignment: **PASS**;
+- scan **16** Story-3 material above the Story-4 opening: excluded;
+- scan **17** Story-5 material below the Story-4 ending: excluded;
+- source opening quotation asymmetry: preserved rather than silently normalized;
+- source `வராகன்` handled conservatively as **varagan**;
+- source `அற்புதமானப் பட்டு` retained in Tamil and rendered conservatively in English;
 - final source-significant `*`: preserved;
 - canonical Tamil changed during translation: **No**;
 - result: **PASS**.
 
 Important marker syntax precedent for validator compatibility: use exactly `<!-- source scan N; printed page M -->`. Put boundary notes in separate HTML comments.
 
-## Current exact next activity — 2008 Story 4 English
+## Current exact next activity — 2008 Story 5 English
 
 Process **one story only** under `ENGLISH_TRANSLATION_GUIDE.md` unless the user explicitly expands the batch.
 
-Story 4:
+Story 5:
 
-- title: **`வெறும் கை முழம் போடும்`**;
-- workspace: `stories/verum-kai-muzham-podum/`;
-- verified physical span: **lower scan 16 / printed page 14 → upper scan 17 / printed page 15**;
-- scan 16 is shared with Story 3 and scan 17 is shared with Story 5; exclude adjacent-story material exactly according to verified page records.
+- title: **`கூட்டணி`**;
+- workspace: `stories/koottani/`;
+- verified physical span: **lower scan 17 / printed page 15 → upper scan 18 / printed page 16**;
+- scan 17 is shared with Story 4 and scan 18 is shared with Story 6; exclude adjacent-story material exactly according to verified page records.
 
 Before translation, read completely:
 
@@ -131,8 +146,8 @@ Before translation, read completely:
 7. this `HANDOVER.md`;
 8. `NEXT_CHAT_PROMPT.md`;
 9. collection README, source metadata, story inventory and scan map;
-10. Story-4 README, canonical Tamil assembly, all Story-4 page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
+10. Story-5 README, canonical Tamil assembly, all Story-5 page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
 
-Translate from the verified canonical Tamil assembly, not OCR. Check actual physical page-boundary alignment against verified Tamil page records, create the English file and `TRANSLATION_REVIEW.md`, synchronize story/collection/root controls, re-fetch live `main`, and advance the exact next target only after Story 4 is fully durable.
+Translate from the verified canonical Tamil assembly, not OCR. Check actual physical page-boundary alignment against verified Tamil page records, create the English file and `TRANSLATION_REVIEW.md`, synchronize story/collection/root controls, re-fetch live `main`, and advance the exact next target only after Story 5 is fully durable.
 
 Modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
