@@ -30,7 +30,7 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 10 | `கொல்லப்பட வேண்டியது புலி, ஆனால்...` | 16 | 15 | PASS |
 | 11 | `அந்தக் காலத்திலே!` | 17 | 16 | PASS |
 | 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | 18 | 17 | PASS |
-| 13 | `வீரவாடி` | 18 | 17 | pending |
+| 13 | `வீரவாடி` | 18 | 17 | PASS |
 | 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | 19 | 18 | pending |
 | 15 | `கள்ளியும் ரோஜாவும்` | 22 | 21 | pending |
 | 16 | `அபாசமே அபாசம்!` | 23 | 22 | pending |
@@ -53,16 +53,29 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 33 | `கைதியின் கதை` | 44 | 43 | pending |
 | 34 | `கிழவியின் மனைவி` | 47 | 46 | pending |
 
-## Verified shared-page boundaries through Story 12
+## Verified shared-page boundaries through Story 13
 
-Scans **5, 6, 11, 13, 14, 15, 16, 17 and 18** have been story-locally adjudicated through the completed Story-12 boundary. Story 13 begins below Story 12 on scan 18 and remains outside the closed Stories 2–12 batch.
+Story-local adjudication is closed through the Story-13 ending:
+
+- scan **5 / printed 4** — Story 1 ending, Story 2, Story 3 opening;
+- scan **6 / printed 5** — Story 3 ending, Story 4 opening;
+- scan **11 / printed 10** — Story 4 ending, Story 5 opening;
+- scan **13 / printed 12** — Story 5 ending, Story 6 opening;
+- scan **14 / printed 13** — Story 6 ending, Story 7 opening;
+- scan **15 / printed 14** — Story 7 ending, Story 8, Story 9 opening;
+- scan **16 / printed 15** — Story 9 ending, Story 10 opening;
+- scan **17 / printed 16** — Story 10 ending and Story 11;
+- scan **18 / printed 17** — Story 12 followed by Story 13 opening;
+- scan **19 / printed 18** — Story 13 ending followed by Story 14 opening.
+
+Story 13's physical page join is `அந்த ஊரையே அவர்களுக்கு` (scan 18) → `மானியமாக வழங்கி...` (scan 19).
 
 ## Processing state
 
 - source registration: complete
 - heading inventory: **34 / 34**
-- Tamil source complete: **12 / 34**
-- pending: **22 / 34**
+- Tamil source complete: **13 / 34**
+- pending: **21 / 34**
 - completed-story blocked / unresolved: **0**
 
-Next: Story 13 `வீரவாடி`, scan **18 / printed 17**, with Story 14 on scan 19 as boundary witness.
+Next: Story 14 `சொர்க்கத்திற்கு வந்தது எப்படி?`, opening scan **19 / printed 18**, with Story 15 on scan 22 as the next-opening boundary witness.
