@@ -17,6 +17,19 @@ Canonical story workspace for **சீற வேண்டாமா?**, Story 6 i
 - assembly: [`sections/seera-vendama.md`](sections/seera-vendama.md)
 - audit: [`audit.md`](audit.md)
 - human recheck: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
 
 Story 5 closes above the Story-6 heading on scan 18; Story 7 `கழுதையின் கதை` begins below Story 6's ending ornament on scan 19.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/seera-vendama.md`](translations/en/seera-vendama.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Seera Vendama?**
+- source markers: **18 → 19**; physical boundary aligned
+- corrected source `என்றா சொன்னேன்.` translated without Tamil normalization
+- final reflective paragraph and `*`: preserved
+- canonical Tamil changed during translation: **No**
