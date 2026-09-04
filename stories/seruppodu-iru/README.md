@@ -21,4 +21,17 @@ Canonical story workspace for **செருப்போடு இரு**, Stor
 - Tamil assembly: [`sections/seruppodu-iru.md`](sections/seruppodu-iru.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/seruppodu-iru.md`](translations/en/seruppodu-iru.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Stick to the Shoe**
+- source markers / physical alignment: **36 → 37 — PASS**
+- corrected `போர் வீரன்படம் பிரமாதமாக இருக்கிறது`, `சும்மா இருக்கக் கூடாதா?`, and the closing admonition are translated from verified Tamil without normalization
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
