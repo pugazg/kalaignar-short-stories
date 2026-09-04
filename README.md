@@ -101,8 +101,37 @@ Permanent guides:
 | [`நீதி தேவதையே!`](stories/neethi-devathaiye/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நன்றி சொல்லும் நேரம்`](stories/nandri-sollum-neram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`பந்தலிலே பாகற்காய்`](stories/panthalile-paagarkai/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`வள்ளுவர் சொன்ன பொய்`](stories/valluvar-sonna-poi/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
+
+## Active anthology source
+
+### கலைஞரின் குட்டிக் கதைகள் — Second Edition, March 2004
+
+Collection workspace:
+
+- [`collections/2004-kalaignarin-kuttik-kathaigal/`](collections/2004-kalaignarin-kuttik-kathaigal/README.md)
+
+Source / processing state:
+
+- anthology source PDF: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
+- printed title: **கலைஞரின் குட்டிக் கதைகள்**
+- publisher: **பாரதி பதிப்பகம்**
+- represented edition: **Second Edition, March 2004**
+- PDF scans: **50**
+- printed story pages represented: **3–48**
+- direct story-heading inventory: **34 / 34**
+- printed contents page: **none visible**
+- canonical story workspaces activated: **1 / 34**
+- Tamil source processing complete: **1 / 34**
+- Tamil source processing pending: **33 / 34**
+- completed-story blocked / unresolved story text: **0**
+- English translation: **not opened**
+- latest completed source work: **Story 1 `வள்ளுவர் சொன்ன பொய்` — PASS; scan 4 → top scan 5**
+- next source work: **Story 2 `நீயும் கைதி - நானும் கைதி` — scan 5 / printed page 4; Story 3 begins later on same scan**
+
+Story 1 is fully source-closed with 2/2 verified records, synchronized Tamil assembly and audit PASS. The collection retains direct-heading inventory because this scan contains no printed TOC.
 
 ## Registered anthology source
 
@@ -139,10 +168,11 @@ Source registration / processing state:
 - word-by-word text fidelity: **COMPLETE / CLOSED — 40 / 40**
 - visual fidelity: **COMPLETE / CLOSED — 40 / 40**
 - English translation: **COMPLETE / CLOSED — 40 / 40 PASS**
+- final English structural/control QA: **PASS**
 
 Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
 
-No further source or English story is pending. Source, word-by-word text-fidelity, visual-fidelity and English-translation phases are closed. The next exact activity is a final 2008 English structural/control QA; modernization, adaptation, republication and Digital Library onboarding remain outside current authorization.
+No further routine work remains in the closed 2008 scope.
 
 ### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
