@@ -9,12 +9,15 @@ The 2008 collection entered English translation only after explicit user authori
 ## Status
 
 - total stories: **40**
-- English translation complete: **4 / 40**
-- `PASS`: **4**
-- pending: **36 / 40**
+- English translation complete: **14 / 40**
+- `PASS`: **14**
+- pending: **26 / 40**
 - `NEEDS REVIEW`: **0**
-- current target: **Story 5 — `கூட்டணி`**
-- current target physical span: **lower scan 17 / printed 15 → upper scan 18 / printed 16**
+- latest completed batch: **Stories 5–14 — 10 / 10 PASS**
+- current target: **Story 15 — `ஒண்ணு குடுமா?`**
+- current target physical span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**
+
+The user explicitly expanded the normal one-story-per-activity translation rule for the latest activity to **10 stories**, so Stories **5–14** were processed together. The next activity returns to Story 15 unless the user explicitly expands the batch again.
 
 | # | Story | Verified physical span | English translation |
 |---:|---|---|---|
@@ -22,16 +25,16 @@ The 2008 collection entered English translation only after explicit user authori
 | 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | lower 10 → upper 11 | **PASS** |
 | 3 | `தலையில் மலை` | lower 11 → upper 16 | **PASS** |
 | 4 | `வெறும் கை முழம் போடும்` | lower 16 → upper 17 | **PASS** |
-| 5 | `கூட்டணி` | lower 17 → upper 18 | pending |
-| 6 | `சீற வேண்டாமா?` | lower 18 → upper 19 | pending |
-| 7 | `கழுதையின் கதை` | lower 19 → 20 → upper 21 | pending |
-| 8 | `உனக்கு வயதென்ன?` | lower 21 → upper 22 | pending |
-| 9 | `தமிழன் என்று சொல்லடா!` | lower 22 → 23–24 → upper 25 | pending |
-| 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | lower 25 → 26 → upper 27 | pending |
-| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | lower 27 → 28 | pending |
-| 12 | `கண்ணில் கால்` | 29 → upper 30 | pending |
-| 13 | `மயில் ராவணன்` | lower 30 → 31 | pending |
-| 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | pending |
+| 5 | `கூட்டணி` | lower 17 → upper 18 | **PASS** |
+| 6 | `சீற வேண்டாமா?` | lower 18 → upper 19 | **PASS** |
+| 7 | `கழுதையின் கதை` | lower 19 → 20 → upper 21 | **PASS** |
+| 8 | `உனக்கு வயதென்ன?` | lower 21 → upper 22 | **PASS** |
+| 9 | `தமிழன் என்று சொல்லடா!` | lower 22 → 23–24 → upper 25 | **PASS** |
+| 10 | `கடமை கண்ணியம் கட்டுப்பாடு` | lower 25 → 26 → upper 27 | **PASS** |
+| 11 | TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` | lower 27 → 28 | **PASS** |
+| 12 | `கண்ணில் கால்` | 29 → upper 30 | **PASS** |
+| 13 | `மயில் ராவணன்` | lower 30 → 31 | **PASS** |
+| 14 | `ஜாடி குட்டி போடுமா?` | 32 → upper 33 | **PASS** |
 | 15 | `ஒண்ணு குடுமா?` | lower 33 → 34 → upper 35 | pending |
 | 16 | `அத்திரி பாச்சா` | lower 35 → upper 36 | pending |
 | 17 | `செருப்போடு இரு` | lower 36 → upper 37 | pending |
@@ -59,75 +62,34 @@ The 2008 collection entered English translation only after explicit user authori
 | 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | pending |
 | 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | pending |
 
-## Completed English translations
+## Completed English translations — control notes
 
-### Story 1 — `அப்படித்தான் சிரிப்பேன்`
+Stories **1–4** retain their existing story-local English files and `TRANSLATION_REVIEW.md` records. Their verified source boundaries, title/source anomalies and final ornaments remain closed and unchanged.
 
-- workspace: `../../stories/appadithan-sirippen/`
-- English: `../../stories/appadithan-sirippen/translations/en/appadithan-sirippen.md`
-- review: `../../stories/appadithan-sirippen/TRANSLATION_REVIEW.md`
-- source-page markers: **9 / printed 7 → 10 / printed 8**
-- scan-9 → scan-10 mid-quotation boundary aligned to verified Tamil page records: **Yes**
-- shared scan-10 Story-2 material excluded: **Yes**
-- possible-error queue read and not silently normalized: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
+The explicitly expanded ten-story batch **Stories 5–14** is complete:
 
-### Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`
+- **5 `கூட்டணி`** — markers **17→18**; `அவைகள்` → `தங்கள் கால்களை...` boundary aligned; source quotation asymmetry and one-prey/two-prey close retained; **PASS**.
+- **6 `சீற வேண்டாமா?`** — markers **18→19**; corrected verified `என்றா சொன்னேன்.` translated without Tamil normalization; reflective close and `*` retained; **PASS**.
+- **7 `கழுதையின் கதை`** — markers **19→20→21**; physical ending on scan 21 retained despite shorter TOC routing range; colloquial Tamil forms not normalized; **PASS**.
+- **8 `உனக்கு வயதென்ன?`** — markers **21→22**; `ஆட்சி மொழி` → `ஆவது?` physical join aligned; final public-life statement retained; **PASS**.
+- **9 `தமிழன் என்று சொல்லடா!`** — markers **22→23→24→25**; `பெட்டி கலெக்டர்`, joined `அந்ததமிழருக்கு`, and final `சொல்லடா.. தலைநிமிர்ந்து நில்லடா...` source facts preserved; **PASS**.
+- **10 `கடமை கண்ணியம் கட்டுப்பாடு`** — markers **25→26→27**; physical ending on scan 27 retained; riddle, squirrel passage and three-line **Duty / Dignity / Discipline** display preserved; **PASS**.
+- **11** — TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை`; markers **27→28**; title variance preserved; source political analogy translated directly without outside gloss; **PASS**.
+- **12 `கண்ணில் கால்`** — markers **29→30**; corrected `தொடவும்` translated from verified Tamil; physical ending on scan 30 retained; **PASS**.
+- **13 `மயில் ராவணன்`** — markers **30→31**; verified unusual `ஊடுதல் செயலாளராக` handled conservatively as `ooduthal secretary`; both applause cues retained; **PASS**.
+- **14 `ஜாடி குட்டி போடுமா?`** — markers **32→33**; distinct source pregnancy forms retained in the Tamil/control layer, laughter cues and final `*` preserved; **PASS**.
 
-- workspace: `../../stories/ice-katti/`
-- English: `../../stories/ice-katti/translations/en/ice-katti.md`
-- review: `../../stories/ice-katti/TRANSLATION_REVIEW.md`
-- English title treatment: **Ice Katti**
-- source-page markers: **10 / printed 8 → 11 / printed 9**
-- scan-10 → scan-11 content boundary aligned to verified Tamil page records: **Yes**
-- shared scan-10 Story-1 and shared scan-11 Story-3 material excluded: **Yes**
-- TOC/opening-title variance preserved in the review/control layer: **Yes**
-- source-significant `(பலத்த கைதட்டல்)` and final `*` represented: **Yes**
-- possible-error queue read and not silently normalized: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
-
-### Story 3 — `தலையில் மலை`
-
-- workspace: `../../stories/thalaiyil-malai/`
-- English: `../../stories/thalaiyil-malai/translations/en/thalaiyil-malai.md`
-- review: `../../stories/thalaiyil-malai/TRANSLATION_REVIEW.md`
-- English title treatment: **Thalaiyil Malai**
-- source-page markers: **11 / printed 9 → 12 / 10 → 13 / 11 → 14 / 12 → 15 / 13 → 16 / 14**
-- all five physical page joins aligned to verified Tamil page records: **Yes**
-- shared scan-11 Story-2 and shared scan-16 Story-4 material excluded: **Yes**
-- source-sensitive `பீநடை` and `அமர்ச்சியப்படுத்தாமல்` not normalized in Tamil: **Yes**
-- final two-line Tirukkural display and final `*` represented: **Yes**
-- possible-error queue read and not silently normalized: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
-
-### Story 4 — `வெறும் கை முழம் போடும்`
-
-- workspace: `../../stories/verum-kai-muzham-podum/`
-- English: `../../stories/verum-kai-muzham-podum/translations/en/verum-kai-muzham-podum.md`
-- review: `../../stories/verum-kai-muzham-podum/TRANSLATION_REVIEW.md`
-- English title treatment: **Verum Kai Muzham Podum**
-- source-page markers: **16 / printed 14 → 17 / printed 15**
-- scan-16 → scan-17 content boundary aligned to verified Tamil page records: **Yes**
-- shared scan-16 Story-3 and shared scan-17 Story-5 material excluded: **Yes**
-- source opening quotation asymmetry preserved without Tamil normalization: **Yes**
-- source form `அற்புதமானப் பட்டு` retained in Tamil and handled conservatively in English: **Yes**
-- final source-significant `*` represented: **Yes**
-- possible-error queue read and not silently normalized: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
+Canonical Tamil changed during this ten-story English batch: **No**.
 
 ## Next exact activity
 
-Process **Story 5 only** under the standing one-story-per-activity translation rule:
+Process **Story 15 `ஒண்ணு குடுமா?`** next unless the user explicitly expands the batch again.
 
-- title: **`கூட்டணி`**
-- workspace: `../../stories/koottani/`
-- verified physical span: **lower scan 17 / printed 15 → upper scan 18 / printed 16**
-- preserve the shared-page boundaries: scan 17 begins Story 5 only below the Story-4 ending ornament, and scan 18 ends Story 5 above Story 6.
+- workspace: `../../stories/onnu-kuduma/`
+- verified physical span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**
+- Story 14 ends above Story 15 on shared scan 33;
+- Story 16 `அத்திரி பாச்சா` begins below Story 15's ending ornament on shared scan 35.
 
 ## Phase gate
 
-English translation is **IN PROGRESS — 4 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
+English translation is **IN PROGRESS — 14 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
