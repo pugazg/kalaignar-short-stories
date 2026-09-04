@@ -21,4 +21,16 @@ Canonical story workspace for **நாக்குத் தமிழ் மண�
 - Tamil assembly: [`sections/naakkuth-tamil-manakkum.md`](sections/naakkuth-tamil-manakkum.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/naakkuth-tamil-manakkum.md`](translations/en/naakkuth-tamil-manakkum.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **77 → 78 → 79 — PASS**
+- incomplete line and completed couplet retained; source-sensitive asymmetric quotation punctuation documented
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
