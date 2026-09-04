@@ -21,4 +21,17 @@ Canonical story workspace for **கனியும் கணையும்**, S
 - Tamil assembly: [`sections/kaniyum-kanaiyum.md`](sections/kaniyum-kanaiyum.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/kaniyum-kanaiyum.md`](translations/en/kaniyum-kanaiyum.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **The Fruit and the Arrow**
+- source markers / physical alignment: **42 → 43 — PASS**
+- four-dot quoted lead-in, William Tell analogy, Republic Day/Hindi/DMK analogy, and source-open quotation structure are preserved without outside gloss
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
