@@ -60,13 +60,13 @@ Standing batch rule: **10 stories per iteration**.
 ### Current durable state
 
 - total: **40**;
-- complete: **20 / 40**;
-- `PASS`: **20**;
+- complete: **30 / 40**;
+- `PASS`: **30**;
 - `PASS — corrected`: **0**;
-- pending: **20 / 40**;
+- pending: **10 / 40**;
 - needs recheck: **0**;
 - unresolved visual-fidelity issues: **0**;
-- story-local `visual-fidelity.md`: **20 / 40**.
+- story-local `visual-fidelity.md`: **30 / 40**.
 
 ### Completed iteration 1 — Stories 1–10
 
@@ -76,33 +76,39 @@ Stories **1–10** were directly inspected across scans **9–27** and are all *
 
 Stories **11–20** were directly inspected across scans **27–43** and are all **PASS**. No Tamil wording or meaningful visual structure required correction.
 
+### Completed iteration 3 — Stories 21–30
+
+Stories **21–30** were directly inspected across scans **43–66**, including all shared-page boundaries, and are all **PASS**. No Tamil wording or meaningful visual structure required correction.
+
 Important visual confirmations:
 
-- Story 11's TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` variance remains preserved;
-- Story 15's short dialogue sequence remains separated as printed;
-- Stories 18–20 preserve their narrative/dialogue paragraph structure and all physical joins;
-- the recurring boxed sequence number, vertical gutter rule and opening title rule are collection-design furniture and remain outside canonical prose;
-- every completed story preserves the centered single `*` ending ornament;
+- Stories **24, 27, 28, 29** retain their registered TOC/opening-heading differences;
+- Story 23's dialogue/narrative paragraph structure remains separated as printed;
+- Story 24 preserves the long `உடன்பிறப்பே` letter structure and three-line Kuruntokai quotation;
+- Story 28 preserves its four-line quoted verse;
+- Story 30 preserves its three four-line poetic display blocks;
+- all completed stories preserve the centered single `*` ending ornament;
+- recurring boxed sequence numbers, vertical gutter rules and opening title rules remain collection-design furniture outside canonical prose;
 - printed page numbers / running headers remain excluded as page furniture.
 
-## Exact next activity — visual fidelity Stories 21–30
+## Exact next activity — final visual fidelity Stories 31–40
 
-Process **Stories 21–30 only** in one iteration:
+Process **Stories 31–40 only** in one iteration:
 
-21. `இதயம் பேசுகிறது` — lower scan **43 → upper 44**;
-22. `புலிவால்` — lower **44 → upper 45**;
-23. `தெரியாத பேச்சு` — lower **45 → 46 → upper 47**;
-24. TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` — lower **47 → 48–53 → upper 54**;
-25. `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — lower **54 → 55–59 → upper 60**;
-26. `பொறுமைக்கு சான்று` — lower **60 → upper 61**;
-27. TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` — lower **61 → upper 62**;
-28. TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` — lower **62 → 63 → upper 64**;
-29. TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` — lower **64 → upper 65**;
-30. `பாரூர் போல...` — lower **65 → upper 66**.
+31. `இராமனைப் பற்றி இராமன்` — lower scan **66 → 67–68 → upper 69**;
+32. `மானும் பெருமானும்` — lower **69 → 70 → upper 71**;
+33. `எழுச்சிக்கு அடையாளம்` — lower **71 → upper 72**;
+34. `தலையும் நுனியும்` — lower **72 → upper 73**;
+35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — lower **73 → 74–75 → upper 76**;
+36. TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — lower **76 → upper 77**;
+37. `நாக்குத் தமிழ் மணக்கும்` — lower **77 → 78 → upper 79**;
+38. `நீதி தேவதையே!` — lower **79 → upper 80**;
+39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — lower **80 → upper 81**;
+40. `பந்தலிலே பாகற்காய்` — lower scan **81**, with scan **82** used only as the verified back-cover / final-boundary witness.
 
-Story 20 closes above Story 21 on shared scan **43**. Story 31 begins below Story 30 on shared scan **66**. Exclude adjacent-story material and stop after Story 30.
+Story 30 closes above Story 31 on shared scan **66**. Exclude Story-30 material. For each active story inspect all registered scans directly; check heading/title provenance, paragraph/dialogue structure, display or verse blocks, meaningful ornaments, collection-design furniture, page furniture and physical joins. Create `stories/<slug>/visual-fidelity.md`. Propagate a correction only when the source scan directly supports it.
 
-For every active story inspect all registered scans directly; check heading/title provenance, paragraph/dialogue structure, display or verse blocks, meaningful ornaments, collection-design furniture, page furniture and physical joins. Create `stories/<slug>/visual-fidelity.md`. Propagate a correction only when the source scan directly supports it.
+After all ten are durably closed, synchronize the tracker and close the 2008 visual-fidelity phase. Do **not** automatically open English translation.
 
 ## Phase guard
 
