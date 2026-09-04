@@ -29,7 +29,7 @@ Story 29 `திடுக்கிடும் கதை` retains its later mark
 - scan **82** verified back cover;
 - no routine work remains in that closed scope.
 
-## ACTIVE NEW COLLECTION
+## ACTIVE COLLECTION
 
 Collection: **கலைஞரின் குட்டிக் கதைகள்**  
 Workspace: `collections/2004-kalaignarin-kuttik-kathaigal/`  
@@ -45,9 +45,9 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 - colophon: **Revised Edition: Aug. 1998; Second Edition: March 2004**;
 - represented edition: **Second Edition, March 2004**.
 
-User-supplied bibliographic metadata identifies the author as **கலைஞர் மு. கருணாநிதி** and describes this as a 34-story `மணி விழா` collection. Treat that as intake/catalogue context; the scanned source controls transcription.
+The source has **no printed contents page**. Direct heading inspection established **34 / 34** story openings across scans **4–49**. Scans **1–3** are front matter; scan **50** is back cover. Story-block pagination is **scan = printed page + 1**.
 
-## INTAKE COMPLETE
+## Mandatory startup
 
 Read completely before source-dependent work:
 
@@ -59,34 +59,54 @@ Read completely before source-dependent work:
 6. `collections/2004-kalaignarin-kuttik-kathaigal/metadata/source.md`
 7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
+9. latest completed reference workspace `stories/valluvar-sonna-poi/` — inspect its README, metadata, page map, pages, Tamil assembly, audit and possible-error queue.
 
-The source has **no printed contents page**. Direct visual heading inspection established **34 / 34** story openings across scans **4–49**. Scans **1–3** are front matter; scan **50** is back cover. Story-block pagination is **scan = printed page + 1**.
+Do not invent a TOC and do not create placeholder story folders.
 
-Do not invent a TOC and do not create 34 placeholder story folders.
+## COMPLETED STORY 1 — வள்ளுவர் சொன்ன பொய்
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 1
+Workspace: `stories/valluvar-sonna-poi/`
 
-Story 1 opening heading:
+- duplicate/content-equivalence check: **no existing canonical match**;
+- verified physical span: **scan 4 / printed 3 → top scan 5 / printed 4**;
+- source records: **2 / 2 verified**;
+- Tamil assembly: complete;
+- audit: **PASS**;
+- blocked / unresolved: **0**;
+- English: **not opened**.
 
-**`வள்ளுவர் சொன்ன பொய்`**
+Scan 5 begins with Story-1's final Valluvar answer. Story 2 begins immediately below. Story-1 source-sensitive readings including `எங்கேல்லாமோ`, joined `தன்வீட்டிற்குள்ளே`, `‘வரவில்லை’`, and `வாய்மையா, அல்லவா!!` remain source-faithful and unnormalized.
 
-Routing coordinates:
+Collection progress after Story 1:
 
-- opens on scan **4 / printed page 3**;
-- next boundary witness is scan **5 / printed page 4**;
-- Story 2 begins on scan 5 with heading **`நீயும் கைதி - நானும் கைதி`**.
+- activated: **1 / 34**;
+- Tamil source complete: **1 / 34**;
+- pending: **33 / 34**;
+- completed-story blocked / unresolved: **0**.
 
-### Before creating the Story-1 workspace
+## CURRENT EXACT NEXT ACTIVITY — STORY 2
+
+Story 2 opening heading:
+
+**`நீயும் கைதி - நானும் கைதி`**
+
+Routing / physical coordinates:
+
+- opens on scan **5 / printed page 4**, immediately below Story 1;
+- Story 3 **`குருவி ராமேஸ்வரம்`** begins later on the **same scan 5 / printed page 4**;
+- therefore Story 2 is a same-page bounded unit and Story 3 is its required ending-boundary witness.
+
+### Before creating Story 2
 
 1. fetch live `main` again;
-2. perform the canonical duplicate/content-equivalence check required by `COLLECTION_SOURCE_GUIDE.md`;
-3. intake searches found no existing exact-title or key-phrase hit for `வள்ளுவர் சொன்ன பொய்`, but still check plausible alternate-title/content equivalence;
-4. if an existing canonical story is found, register this 2004 edition as an additional source witness rather than creating a duplicate;
-5. if no equivalent exists, create the canonical Story-1 workspace and process the true Story-1 physical span directly from the attached controlling PDF;
-6. use scan 5 as the boundary witness and exclude Story-2 heading/prose;
-7. preserve source spelling, punctuation, paragraph structure and non-text/source marks under the permanent guide;
+2. perform the canonical exact-title / alternate-title / distinctive-content equivalence check required by `COLLECTION_SOURCE_GUIDE.md`;
+3. if an existing canonical story is found, register this 2004 edition as an additional source witness rather than creating a duplicate;
+4. otherwise create a new canonical Story-2 workspace;
+5. transcribe only the text between the Story-2 heading and Story-3 heading on scan 5;
+6. exclude the Story-1 ending above and Story-3 heading/prose below;
+7. preserve spelling, punctuation, paragraph/display structure and source-sensitive forms exactly from the scan;
 8. do not begin English translation;
 9. default to **one story per activity** unless the user explicitly expands the batch;
-10. after Story 1 is durably closed, synchronize the collection inventory/README/scan map, root handover and this prompt to Story 2.
+10. after Story 2 is durably closed, synchronize the story inventory, collection README/source metadata/scan map, root README, `HANDOVER.md` and this prompt to Story 3.
 
 If the source PDF is not available in the fresh chat/tool context, attach or otherwise resolve `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf` before direct visual transcription.
