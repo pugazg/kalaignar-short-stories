@@ -39,9 +39,9 @@ Durable tracker:
 
 Current state:
 
-- English complete: **3 / 40**
-- `PASS`: **3**
-- pending: **37 / 40**
+- English complete: **4 / 40**
+- `PASS`: **4**
+- pending: **36 / 40**
 - `NEEDS REVIEW`: **0**
 
 ### Story 1 complete — `அப்படித்தான் சிரிப்பேன்`
@@ -78,6 +78,22 @@ Current state:
 - Tamil changed during translation: **No**
 - result: **PASS**
 
+### Story 4 complete — `வெறும் கை முழம் போடும்`
+
+- English: `stories/verum-kai-muzham-podum/translations/en/verum-kai-muzham-podum.md`
+- review: `stories/verum-kai-muzham-podum/TRANSLATION_REVIEW.md`
+- title treatment: **Verum Kai Muzham Podum**
+- source span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**
+- source markers: **16 → 17**
+- physical content boundary: **PASS / source-aligned**
+- scan-16 Story-3 and scan-17 Story-5 material: excluded
+- opening quotation asymmetry preserved; no Tamil normalization
+- source `வராகன்` handled conservatively as `varagan`
+- source `அற்புதமானப் பட்டு` left untouched in Tamil
+- final `*`: preserved
+- Tamil changed during translation: **No**
+- result: **PASS**
+
 For validator-compatible English markers use exactly:
 
 `<!-- source scan N; printed page M -->`
@@ -86,7 +102,7 @@ Put boundary explanations in a separate HTML comment; do not append extra fields
 
 ## MANDATORY STARTUP
 
-Before any Story-4 English write, read completely:
+Before any Story-5 English write, read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -102,27 +118,27 @@ Before any Story-4 English write, read completely:
 12. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`
 13. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 14. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
-15. Story-4 README, canonical Tamil assembly, all page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
+15. Story-5 README, canonical Tamil assembly, all page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 4 ENGLISH
+## CURRENT EXACT NEXT ACTIVITY — STORY 5 ENGLISH
 
-Process **Story 4 only** unless the user explicitly expands the batch.
+Process **Story 5 only** unless the user explicitly expands the batch.
 
-- title: **`வெறும் கை முழம் போடும்`**
-- workspace: `stories/verum-kai-muzham-podum/`
-- verified physical span: **lower scan 16 / printed page 14 → upper scan 17 / printed page 15**
-- scan 16 is shared with Story 3 and scan 17 is shared with Story 5; adjacent-story material must remain excluded exactly according to verified page records.
+- title: **`கூட்டணி`**
+- workspace: `stories/koottani/`
+- verified physical span: **lower scan 17 / printed page 15 → upper scan 18 / printed page 16**
+- scan 17 is shared with Story 4 and scan 18 is shared with Story 6; adjacent-story material must remain excluded exactly according to verified page records.
 
 Workflow:
 
-1. translate the complete verified canonical Tamil assembly into `stories/verum-kai-muzham-podum/translations/en/verum-kai-muzham-podum.md`;
+1. translate the complete verified canonical Tamil assembly into `stories/koottani/translations/en/koottani.md`;
 2. preserve source/page boundaries and any meaningful dialogue, quotation, display or ending structure;
-3. check actual physical content-boundary alignment against both verified Story-4 page records — marker presence/order alone is not sufficient;
-4. create `stories/verum-kai-muzham-podum/TRANSLATION_REVIEW.md`;
+3. check actual physical content-boundary alignment against both verified Story-5 page records — marker presence/order alone is not sufficient;
+4. create `stories/koottani/TRANSLATION_REVIEW.md`;
 5. do not silently correct any item from `POSSIBLE_ERRORS_FOR_REVIEW.md`;
 6. if translation exposes a real Tamil issue, reopen only that exact span against the controlling scan under the source-first rules before changing Tamil;
-7. synchronize Story-4 README, 2008 English tracker, collection README/source metadata, root README, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 4 closed;
-9. only then advance the next exact target to Story 5.
+7. synchronize Story-5 README, 2008 English tracker, collection README/source metadata, root README, `HANDOVER.md` and this prompt;
+8. re-fetch live `main` and changed controls before declaring Story 5 closed;
+9. only then advance the next exact target to Story 6.
 
 Modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
