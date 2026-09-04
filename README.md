@@ -75,7 +75,7 @@ Permanent guides:
 | [`கண்ணில் கால்`](stories/kannil-kaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`மயில் ராவணன்`](stories/mayil-ravanan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஜாடி குட்டி போடுமா?`](stories/jaadi-kutti-poduma/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`ஒண்ணு குடுமா?`](stories/onnu-kuduma/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`ஒண்ணு குடுமா?`](stories/onnu-kuduma/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அத்திரி பாச்சா`](stories/aththiri-paachaa/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`செருப்போடு இரு`](stories/seruppodu-iru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`இடிக்குப் பின் மழை`](stories/idikkup-pin-mazhai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
@@ -126,19 +126,19 @@ Source registration / processing state:
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **14 / 40**
-- English translation pending: **26 / 40**
+- English translation complete from this collection: **15 / 40**
+- English translation pending: **25 / 40**
 - English translation tracker: [`collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
-- latest completed English work: **Story 14 `ஜாடி குட்டி போடுமா?` — PASS**
-- latest completed English batch: **Stories 5–14 — 10 / 10 PASS**
-- next English target: **Story 15 `ஒண்ணு குடுமா?` — lower scan 33 / printed page 31 → scan 34 / printed page 32 → upper scan 35 / printed page 33**
+- latest completed English work: **Story 15 `ஒண்ணு குடுமா?` — PASS**
+- latest completed expanded English batch: **Stories 5–14 — 10 / 10 PASS**
+- next English target: **Story 16 `அத்திரி பாச்சா` — lower scan 35 / printed page 33 → upper scan 36 / printed page 34**
 - Story-40 source boundary: **scan 81 / printed page 79**
 - final physical boundary: **scan 82 — verified back cover; no further story text**
 - Tamil source pass: **COMPLETE / CLOSED**
 - word-by-word text fidelity: **COMPLETE / CLOSED — 40 / 40**
 - visual fidelity: **COMPLETE / CLOSED — 40 / 40**
-- English translation: **IN PROGRESS — 14 / 40 PASS**
+- English translation: **IN PROGRESS — 15 / 40 PASS**
 
 Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
 
