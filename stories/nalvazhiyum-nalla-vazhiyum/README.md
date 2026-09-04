@@ -22,4 +22,17 @@ Canonical story workspace for Story 36 in the 2008 second-edition anthology **�
 - Tamil assembly: [`sections/nalvazhiyum-nalla-vazhiyum.md`](sections/nalvazhiyum-nalla-vazhiyum.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/nalvazhiyum-nalla-vazhiyum.md`](translations/en/nalvazhiyum-nalla-vazhiyum.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- TOC/opening-title variance preserved: **Yes**
+- source markers / physical alignment: **76 → 77 — PASS**
+- two-line `நல் வழி` source verse: preserved
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
