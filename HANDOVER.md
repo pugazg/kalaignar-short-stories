@@ -6,29 +6,21 @@
 - Branch: `main`
 - Story workflow: `SHORT_STORY_PROCESSING_GUIDE.md`
 - Collection workflow: `COLLECTION_SOURCE_GUIDE.md`
-- Text fidelity: `TEXT_FIDELITY_CHECK_GUIDE.md` / `TEXT_FIDELITY_PROGRESS.md`
-- 2008 visual fidelity: `collections/2008-kalaignar-sonna-kathaigal/VISUAL_FIDELITY_GUIDE.md` / `VISUAL_FIDELITY_PROGRESS.md`
 - English workflow: `ENGLISH_TRANSLATION_GUIDE.md`
-- 1977 English tracker: `ENGLISH_TRANSLATION_PROGRESS.md`
-- 1977 final QA: `ENGLISH_TRANSLATION_FINAL_QA.md`
-- 2008 English tracker: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
-- 2008 final QA: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_FINAL_QA.md`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Always fetch live `main` first and preserve newer durable work. Repository files reachable from live `main`, not chat memory or copied checkpoints, are the durable state. Source PDFs, renders and crops are not committed.
 
-## Permanent source / translation rules
+## Permanent source rules
 
 - controlling scan first; no silent modernization or normalization;
-- verified canonical Tamil is authoritative for English;
-- running headers and printed page numbers are page furniture, not body text;
+- do not create anthology story folders from an inventory alone;
+- every story requires a live-main duplicate/content-equivalence check before activation;
 - shared physical scans preserve exact story boundaries;
-- source-supported corrections propagate through page, assembly, audit/review and dependent layers;
+- source-supported corrections propagate through every dependent layer;
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error;
-- English source markers use exactly `<!-- source scan N; printed page M -->`;
-- boundary notes belong in separate HTML comments;
-- marker presence/order alone is insufficient: actual translated content boundaries must align to verified Tamil page records.
+- English cannot open before the Tamil/source-fidelity gates are closed for the story.
 
 ## Closed 1977 anthology
 
@@ -41,86 +33,97 @@ Always fetch live `main` first and preserve newer durable work. Repository files
 - unresolved story text **0**;
 - scan **260** verified back cover.
 
-Story 29 `திடுக்கிடும் கதை` retains the later marker-only provenance correction and strengthened page-anchor regression record. Obsolete Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
+Story 29 `திடுக்கிடும் கதை` retains its later marker-only provenance correction and strengthened page-anchor regression record. Obsolete Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## 2008 collection — ALL AUTHORIZED ARCHIVAL / ENGLISH PHASES CLOSED
+## Closed 2008 collection
 
-Collection: **கலைஞர் சொன்ன கதைகள்**  
-Workspace: `collections/2008-kalaignar-sonna-kathaigal/`  
-Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
+`கலைஞர் சொன்ன கதைகள்`, Second Edition, December 2008 remains fully closed:
 
-- represented edition: **Second Edition, December 2008**;
-- PDF scans: **82**;
-- story text: scans **9–81 / printed pages 7–79**;
-- scan **82**: verified back cover, no further story text;
-- Tamil source: **40 / 40 complete**, 0 blocked / 0 unresolved;
-- word-by-word text fidelity: **40 / 40 complete — 19 PASS / 21 PASS — corrected**;
-- visual fidelity: **40 / 40 PASS**;
-- English translation/review: **40 / 40 PASS**;
-- English pending: **0**;
-- English `NEEDS REVIEW`: **0**;
-- English final structural/control QA: **PASS**;
-- canonical Tamil changed during English work or final QA: **No**.
+- Tamil source **40 / 40**;
+- word-by-word text fidelity **40 / 40 — 19 PASS / 21 PASS — corrected**;
+- visual fidelity **40 / 40 PASS**;
+- English translation/review **40 / 40 PASS**;
+- final 2008 English structural/control QA **PASS**;
+- pending / `NEEDS REVIEW`: **0**;
+- final story boundary: scan **81 / printed page 79**;
+- scan **82** verified back cover;
+- canonical Tamil changed during English/final QA: **No**.
 
-Durable 2008 final-QA record:
+Durable final-QA record:
 
 `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_FINAL_QA.md`
 
-## 2008 English batching history
+## ACTIVE COLLECTION — கலைஞரின் குட்டிக் கதைகள்
 
-- Stories **1–4**: completed individually;
-- Stories **5–14**: **10 / 10 PASS**;
-- Story **15**: completed individually;
-- Stories **16–25**: **10 / 10 PASS**;
-- user-expanded final iteration Stories **26–40**: **15 / 15 PASS**.
+Workspace:
 
-Every 2008 story has:
+`collections/2004-kalaignarin-kuttik-kathaigal/`
 
-- complete English under `translations/en/`;
-- story-local `TRANSLATION_REVIEW.md` with result **PASS**;
-- synchronized story README;
-- source-marker sequence recorded;
-- actual physical content-boundary alignment independently checked against verified Tamil page records during story review;
-- source-significant final `*` preserved;
-- no Tamil change caused merely by translation.
+Controlling source:
 
-## Preserved 2008 title variances
+`TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
 
-Nine TOC/opening-heading differences remain source facts and must not be normalized:
+### Exact source identity
 
-1. Story 2 — `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
-2. Story 11 — `சாவிதான் இல்லை` ↔ `சாவி தான் இல்லை`;
-3. Story 24 — `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்`;
-4. Story 27 — `எடுக்கவோ கோக்கவோ!` ↔ `எடுக்கவோ கோக்கவோ`;
-5. Story 28 — `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
-6. Story 29 — `பனித் துளியில் பனைமரம்` ↔ `பனித்துளியில் பனை மரம்`;
-7. Story 35 — `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
-8. Story 36 — `நல்லவழியும் நல்ல வழியும்` ↔ `நல்வழியும் நல்ல வழியும்`;
-9. Story 39 — `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
+- SHA-256: `33bdfb4f47bc688750fff11f967a0d2b95a93a9aa09044c0467107dae583ab04`;
+- size: **98,897,868 bytes**;
+- PDF scans: **50**;
+- printed title: **கலைஞரின் குட்டிக் கதைகள்**;
+- title-page designation: **தொகுப்பு நூல்**;
+- publisher: **பாரதி பதிப்பகம்**;
+- colophon: **Revised Edition: Aug. 1998; Second Edition: March 2004**;
+- represented edition: **Second Edition, March 2004**.
 
-## Final 2008 English QA closure
+User-supplied bibliographic metadata identifies the author as **கலைஞர் மு. கருணாநிதி** and describes the work as a 34-story `மணி விழா` collection addressing social conditions through religious, economic, political and cultural themes. This remains intake/catalogue context; printed scan wording controls transcription.
 
-The final structural/control QA used the closed visual-fidelity checkpoint as baseline and reviewed the completed English/control state. The baseline→English-closure comparison is ahead by **172 commits**, behind by **0**, and accounts for the expected English translation, translation-review and README updates across all forty 2008 story workspaces.
+### Physical structure
 
-The QA confirms:
+- scans **1–3**: unnumbered front matter;
+- scans **4–49**: story block;
+- story printed pages represented: **3–48**;
+- story-block relation: **scan = printed page + 1**;
+- scan **50**: physical back cover, no further story text.
 
-- English artefacts: **40 / 40**;
-- story-local translation reviews: **40 / 40**;
-- tracker disposition: **40 PASS / 0 pending / 0 NEEDS REVIEW**;
-- physical page-provenance control retained through story-local reviews;
-- final source-significant `*` policy retained;
-- nine title variances retained;
-- Story 40 opens and closes on scan **81 / printed page 79**;
-- scan **82** remains back-cover matter only;
-- collection/root controls agree on the **40 / 40** material completion state;
-- canonical Tamil changed by final QA: **No**.
+No printed contents page is visible in this source. The book moves from colophon scan 3 directly to story text on scan 4.
 
-**Final result: PASS — 2008 English final structural/control QA complete.**
+### Intake completed
+
+The collection source is now registered on live `main` with:
+
+- `collections/2004-kalaignarin-kuttik-kathaigal/README.md`;
+- `metadata/source.md`;
+- `indexes/story-inventory.md`;
+- `indexes/scan-map.md`.
+
+A direct source-heading survey established **34 / 34** story openings across scans 4–49. No TOC wording was invented.
+
+Canonical story workspaces activated: **0 / 34**.  
+Tamil source processing complete: **0 / 34**.  
+English translation: **not opened**.
+
+### Final physical boundary
+
+Story 34 `கிழவியின் மனைவி` opens on scan **47 / printed page 46**, continues through scans **48–49**, and ends with `முற்றும்` on scan **49 / printed page 48**. Scan **50** is back-cover matter only.
 
 ## Current exact next activity
 
-**No routine archival or English-translation activity remains in the currently authorized 2008 scope.**
+Process **Story 1 — `வள்ளுவர் சொன்ன பொய்`**.
 
-Do not automatically begin modernization, normalization, adaptation, republication, release packaging, Digital Library onboarding, or another downstream phase. Wait for explicit user authorization of a new scope.
+Routing coordinates:
 
-If future work exposes a possible source or page-provenance defect, reopen only the exact affected span against the controlling source and propagate any source-supported correction through all dependent layers.
+- opening: scan **4 / printed page 3**;
+- required next-story boundary witness: scan **5 / printed page 4**;
+- Story 2 heading on scan 5: **`நீயும் கைதி - நானும் கைதி`**.
+
+Before creating Story 1:
+
+1. fetch live `main`;
+2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, active collection README, source metadata, story inventory and scan map;
+3. perform the required canonical duplicate/content-equivalence search, including plausible alternate-title/content checks;
+4. exact-title and key-phrase searches during intake found no existing repository hit for `வள்ளுவர் சொன்ன பொய்`, but this is not a substitute for the final activation check;
+5. if no canonical equivalent exists, create the Story-1 workspace and directly transcribe/verify only its true physical span using scan 5 as the ending boundary witness;
+6. do not include Story-2 heading/prose in Story 1;
+7. follow the default **one story per activity** rule unless the user explicitly expands the batch;
+8. synchronize collection controls, handover and next prompt after Story 1 is durably closed.
+
+If the controlling PDF is not available in a fresh chat, reattach/resolve it before source-dependent Story-1 work.
