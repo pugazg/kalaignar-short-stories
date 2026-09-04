@@ -22,4 +22,17 @@ Canonical story workspace for Story 24 in the 2008 second-edition anthology **�
 - Tamil assembly: [`sections/vennai-uruguthu-veyilil.md`](sections/vennai-uruguthu-veyilil.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/vennai-uruguthu-veyilil.md`](translations/en/vennai-uruguthu-veyilil.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Butter Melts in the Sun**, following the opening heading while preserving the TOC `!` variance in control records
+- source markers / physical alignment: **47 → 48 → 49 → 50 → 51 → 52 → 53 → 54 — PASS**
+- embedded 1977 letter, dense Amirthamathi passage, source corrections, and three-line Kuruntokai display are preserved conservatively without importing outside editions
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
