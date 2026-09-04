@@ -21,4 +21,16 @@ Canonical story workspace for **பாரூர் போல...**, Story 30 in t
 - Tamil assembly: [`sections/paarur-pola.md`](sections/paarur-pola.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/paarur-pola.md`](translations/en/paarur-pola.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **65 → 66 — PASS**
+- all three source verse/display blocks: preserved
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
