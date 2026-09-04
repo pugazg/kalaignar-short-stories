@@ -29,9 +29,9 @@ Across the story block, **PDF scan = printed page + 1**.
 
 ## Tamil source-processing state
 
-- canonical story workspaces activated: **12 / 34**
-- Tamil source processing complete: **12 / 34**
-- Tamil source processing pending: **22 / 34**
+- canonical story workspaces activated: **13 / 34**
+- Tamil source processing complete: **13 / 34**
+- Tamil source processing pending: **21 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation for this collection: **not opened**
 
@@ -51,10 +51,11 @@ Across the story block, **PDF scan = printed page + 1**.
 | 10 | `கொல்லப்பட வேண்டியது புலி, ஆனால்...` | `stories/kollappada-vendiyathu-puli-aanaal/` | scan 16 → scan 17 | PASS |
 | 11 | `அந்தக் காலத்திலே!` | `stories/anthak-kaalathile/` | scan 17 only | PASS |
 | 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | `stories/aandavan-dharisanam-kodutha-oor/` | scan 18 only | PASS |
+| 13 | `வீரவாடி` | `stories/veeravadi/` | scan 18 → top scan 19 | PASS |
 
-The user-authorized 11-story iteration, Stories **2–12**, is therefore **11 / 11 source-complete**.
+The user-authorized 11-story iteration, Stories **2–12**, is **11 / 11 source-complete**. Story 13 `வீரவாடி` was then processed separately and is also source-complete.
 
-## Shared-page controls closed through Story 12
+## Shared-page controls closed through Story 13
 
 - scan **5 / printed 4**: Story 1 ending, complete Story 2, Story 3 opening;
 - scan **6 / printed 5**: Story 3 ending, Story 4 opening;
@@ -64,7 +65,8 @@ The user-authorized 11-story iteration, Stories **2–12**, is therefore **11 / 
 - scan **15 / printed 14**: Story 7 ending, complete Story 8, Story 9 opening;
 - scan **16 / printed 15**: Story 9 ending, Story 10 opening;
 - scan **17 / printed 16**: Story 10 ending and complete Story 11;
-- scan **18 / printed 17**: complete Story 12 followed by Story 13 opening.
+- scan **18 / printed 17**: complete Story 12 followed by Story 13 opening;
+- scan **19 / printed 18**: Story 13 ending followed by Story 14 opening.
 
 ## Canonical deduplication gate
 
@@ -72,9 +74,9 @@ Every remaining story still requires a fresh live-`main` exact-title / alternate
 
 ## Next exact activity
 
-Process **Story 13 — `வீரவாடி`**.
+Process **Story 14 — `சொர்க்கத்திற்கு வந்தது எப்படி?`**.
 
-- opens: scan **18 / printed page 17**, below completed Story 12;
-- next boundary witness: Story 14 **`சொர்க்கத்திற்கு வந்தது எப்படி?`** opens on scan **19 / printed page 18**.
+- opens: scan **19 / printed page 18**, immediately below completed Story 13;
+- next boundary witness: Story 15 **`கள்ளியும் ரோஜாவும்`** opens on scan **22 / printed page 21**.
 
-Do not begin Story 13 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
+Do not begin Story 14 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
