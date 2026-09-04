@@ -48,8 +48,17 @@ Both Story-1 source spans were reviewed directly at high resolution. Source-clos
 
 ## English translation
 
-**Not started.** Tamil source closure does not automatically open the English-translation phase.
+**PASS — complete.**
+
+- English translation: [`translations/en/appadithan-sirippen.md`](translations/en/appadithan-sirippen.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Appadithan Sirippen**
+- source-page markers: **scan 9 / printed 7 → scan 10 / printed 8**
+- physical scan-9 → scan-10 quoted-speech boundary aligned to the verified Tamil page records: **Yes**
+- Story-2 material on shared scan 10 excluded: **Yes**
+- canonical Tamil changed during translation: **No**
+- translation result: **PASS**
 
 ## Completion state
 
-**அப்படித்தான் சிரிப்பேன் Tamil source processing is COMPLETE: scan 9 plus the Story-1 ending span on shared scan 10 are verified, with 0 blocked / 0 unresolved story text.**
+**அப்படித்தான் சிரிப்பேன் is source-complete and English-complete: Tamil source processing PASS, word-by-word text fidelity PASS, visual fidelity PASS, English translation/review PASS, with 0 blocked / 0 unresolved story text.**
