@@ -35,7 +35,7 @@ Always fetch live `main` first and preserve newer durable work.
 
 Story 29 `திடுக்கிடும் கதை` retains its later marker-only provenance correction. Canonical Tamil and English prose were unchanged; old Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` is obsolete.
 
-## Active collection — கலைஞர் சொன்ன கதைகள்
+## Closed Tamil source pass — கலைஞர் சொன்ன கதைகள்
 
 Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 
@@ -48,53 +48,63 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 - PDF scans: **82**;
 - contents entries: **40**;
 - story text: scans **9–81 / printed 7–79**;
-- scan **82**: verified back cover;
+- scan **82**: verified back cover, no further story text;
 - relation: **scan = printed page + 2**.
 
-### Current collection state
+### Collection source state
 
 - contents: **40 / 40 transcribed**;
 - TOC-derived ranges: **40 / 40 calculated**;
 - story-opening scans: **40 / 40 visually checked**;
-- canonical workspaces activated: **31 / 40**;
-- Tamil source complete: **31 / 40**;
-- Tamil source pending: **9 / 40**;
-- English from this collection: **0 / 40**;
-- completed Story 1–31 text: **0 blocked / 0 unresolved**.
+- canonical workspaces activated: **40 / 40**;
+- Tamil source complete: **40 / 40**;
+- Tamil source pending: **0 / 40**;
+- completed-story blocked / unresolved story text: **0**;
+- English from this collection: **0 / 40**.
 
-The user explicitly instructed: **process 10 stories in each iteration**. Stories 2–11 formed the first ten-story iteration after Story 1; Stories 12–21 formed the second; Stories 22–31 formed the third and are now fully source-complete. Only nine stories remain for the final source iteration.
+The user's 10-story iteration instruction was followed through Stories 2–11, 12–21 and 22–31; the final source iteration contained the remaining nine Stories 32–40.
 
-### Completed third iteration — Stories 22–31
+### Completed final iteration — Stories 32–40
 
-22. `புலிவால்` — lower 44 → upper 45 — PASS, 2/2;
-23. `தெரியாத பேச்சு` — lower 45 → 46 → upper 47 — PASS, 3/3;
-24. TOC `வெண்ணெய் உருகுது வெயிலில்!` / opening `வெண்ணெய் உருகுது வெயிலில்` — lower 47 → 48–53 → upper 54 — PASS, 8/8;
-25. `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — lower 54 → 55–59 → upper 60 — PASS, 7/7;
-26. `பொறுமைக்கு சான்று` — lower 60 → upper 61 — PASS, 2/2;
-27. TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` — lower 61 → upper 62 — PASS, 2/2;
-28. TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` — lower 62 → 63 → upper 64 — PASS, 3/3;
-29. TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` — lower 64 → upper 65 — PASS, 2/2;
-30. `பாரூர் போல...` — lower 65 → upper 66 — PASS, 2/2;
-31. `இராமனைப் பற்றி இராமன்` — lower 66 → 67–68 → upper 69 — PASS, 4/4.
+32. `மானும் பெருமானும்` — lower 69 → 70 → upper 71 — PASS, 3/3;
+33. `எழுச்சிக்கு அடையாளம்` — lower 71 → upper 72 — PASS, 2/2;
+34. `தலையும் நுனியும்` — lower 72 → upper 73 — PASS, 2/2;
+35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — lower 73 → 74–75 → upper 76 — PASS, 4/4;
+36. TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — lower 76 → upper 77 — PASS, 2/2;
+37. `நாக்குத் தமிழ் மணக்கும்` — lower 77 → 78 → upper 79 — PASS, 3/3;
+38. `நீதி தேவதையே!` — lower 79 → upper 80 — PASS, 2/2;
+39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — lower 80 → upper 81 — PASS, 2/2;
+40. `பந்தலிலே பாகற்காய்` — lower 81 — PASS, 1/1; scan 82 is the verified back-cover witness.
 
-Eight TOC/opening-heading differences are registered: #2, #11, #24, #27, #28, #29, #35 and #39. No title form is silently normalized.
+Story 39 closes above Story 40 on scan 81. Story 40 then closes on that same physical scan. Scan 82 contains no further story text.
 
-## Exact next activity — final source iteration, Stories 32–40
+### Title-variance register
 
-Process the remaining nine stories and stop after Story 40:
+Nine TOC/opening-heading differences are registered and must remain distinct:
 
-32. `மானும் பெருமானும்` — printed **67–68**, scans **69–70**, boundary **71**;
-33. `எழுச்சிக்கு அடையாளம்` — printed **69**, scan **71**, boundary **72**;
-34. `தலையும் நுனியும்` — printed **70**, scan **72**, boundary **73**;
-35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — printed **71–73**, scans **73–75**, boundary **76**;
-36. `நல்லவழியும் நல்ல வழியும்` — printed **74**, scan **76**, boundary **77**;
-37. `நாக்குத் தமிழ் மணக்கும்` — printed **75–76**, scans **77–78**, boundary **79**;
-38. `நீதி தேவதையே!` — printed **77**, scan **79**, boundary **80**;
-39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — printed **78**, scan **80**, boundary **81**;
-40. `பந்தலிலே பாகற்காய்` — printed **79**, scan **81**, boundary witness **82 / back cover**.
+1. #2 `ஐஸ்கட்டி` ↔ `ஐஸ் கட்டி`;
+2. #11 `சாவிதான் இல்லை` ↔ `சாவி தான் இல்லை`;
+3. #24 `வெண்ணெய் உருகுது வெயிலில்!` ↔ `வெண்ணெய் உருகுது வெயிலில்`;
+4. #27 `எடுக்கவோ கோக்கவோ!` ↔ `எடுக்கவோ கோக்கவோ`;
+5. #28 `அந்த நாள் வந்திலை...` ↔ `அந்த நாள் வந்திலை!`;
+6. #29 `பனித் துளியில் பனைமரம்` ↔ `பனித்துளியில் பனை மரம்`;
+7. #35 `தும்... பம்... தீம்... தோம்` ↔ `தும் பம் தீம் தோம்`;
+8. #36 `நல்லவழியும் நல்ல வழியும்` ↔ `நல்வழியும் நல்ல வழியும்`;
+9. #39 `நன்றி சொல்லும் நேரம்...` ↔ `நன்றி சொல்லும் நேரம்`.
 
-Story 31 closes above Story 32 on scan 69. For every story: re-fetch live `main`; duplicate-check TOC/opening/documented forms; inspect controlling and next-boundary scans directly; preserve punctuation/paragraphs/non-text facts; create canonical workspace with pages, assembly, metadata, page map, audit and review queue; do not use OCR memory or inferred prose as a substitute for the source.
+## Exact next activity
+
+The **Tamil source pass for the 2008 collection is closed**. There is no Story 41 and no further source transcription activity.
+
+Before any future phase:
+
+1. fetch live `main` and preserve newer durable work;
+2. confirm the collection controls still agree at **40 / 40 complete, 0 pending**;
+3. do **not** reopen closed Tamil text without new source evidence or a user correction;
+4. do **not** automatically start English translation, visual-fidelity review, Digital Library onboarding, modernization, adaptation or republication merely because the source pass is complete.
+
+A new downstream phase should begin only when the user explicitly requests or authorizes that phase. If English translation is selected later, follow `ENGLISH_TRANSLATION_GUIDE.md` and keep verified Tamil assemblies authoritative.
 
 ## Phase guard
 
-The active collection authorizes source-first processing of `கலைஞர் சொன்ன கதைகள்`; it does not authorize modernization, adaptation, republication, Digital Library onboarding, or changes to other repositories.
+The completed source-first processing of `கலைஞர் சொன்ன கதைகள்` does not itself authorize modernization, adaptation, republication, Digital Library onboarding, or changes to other repositories.
