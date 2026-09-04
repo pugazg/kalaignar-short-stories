@@ -86,21 +86,21 @@ Permanent guides:
 | [`தெரியாத பேச்சு`](stories/theriyatha-pechu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`வெண்ணெய் உருகுது வெயிலில்`](stories/vennai-uruguthu-veyilil/README.md) | **Tamil source PASS — 8/8 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`](stories/mamiyar-udaithaal-mattum-manchattiya/README.md) | **Tamil source PASS — 7/7 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`பொறுமைக்கு சான்று`](stories/porumaikku-saandru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`எடுக்கவோ கோக்கவோ`](stories/edukkavo-kokkavo/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`அந்த நாள் வந்திலை!`](stories/antha-naal-vanthilai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`பனித்துளியில் பனை மரம்`](stories/panithuliyil-panai-maram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`பாரூர் போல...`](stories/paarur-pola/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`இராமனைப் பற்றி இராமன்`](stories/iramanai-patri-iraman/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`மானும் பெருமானும்`](stories/maanum-perumaanum/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`எழுச்சிக்கு அடையாளம்`](stories/ezhuchikku-adaiyaalam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`தலையும் நுனியும்`](stories/thalaiyum-nuniyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`தும் பம் தீம் தோம்`](stories/thum-pam-theem-thom/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`நல்வழியும் நல்ல வழியும்`](stories/nalvazhiyum-nalla-vazhiyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`நாக்குத் தமிழ் மணக்கும்`](stories/naakkuth-tamil-manakkum/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`நீதி தேவதையே!`](stories/neethi-devathaiye/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`நன்றி சொல்லும் நேரம்`](stories/nandri-sollum-neram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`பந்தலிலே பாகற்காய்`](stories/panthalile-paagarkai/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`பொறுமைக்கு சான்று`](stories/porumaikku-saandru/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`எடுக்கவோ கோக்கவோ`](stories/edukkavo-kokkavo/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`அந்த நாள் வந்திலை!`](stories/antha-naal-vanthilai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`பனித்துளியில் பனை மரம்`](stories/panithuliyil-panai-maram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`பாரூர் போல...`](stories/paarur-pola/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`இராமனைப் பற்றி இராமன்`](stories/iramanai-patri-iraman/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`மானும் பெருமானும்`](stories/maanum-perumaanum/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`எழுச்சிக்கு அடையாளம்`](stories/ezhuchikku-adaiyaalam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`தலையும் நுனியும்`](stories/thalaiyum-nuniyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`தும் பம் தீம் தோம்`](stories/thum-pam-theem-thom/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நல்வழியும் நல்ல வழியும்`](stories/nalvazhiyum-nalla-vazhiyum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நாக்குத் தமிழ் மணக்கும்`](stories/naakkuth-tamil-manakkum/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நீதி தேவதையே!`](stories/neethi-devathaiye/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நன்றி சொல்லும் நேரம்`](stories/nandri-sollum-neram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`பந்தலிலே பாகற்காய்`](stories/panthalile-paagarkai/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -126,24 +126,23 @@ Source registration / processing state:
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **25 / 40**
-- English translation pending: **15 / 40**
+- English translation complete from this collection: **40 / 40**
+- English translation pending: **0 / 40**
 - English translation tracker: [`collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
-- latest completed English work: **Story 25 `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?` — PASS**
-- latest completed English iteration: **Stories 16–25 — 10 / 10 PASS**
-- standing English iteration rule: **10 stories per iteration**
-- next English iteration: **Stories 26–35**, beginning Story 26 `பொறுமைக்கு சான்று` — lower scan **60 / printed 58 → upper scan 61 / printed 59**
+- latest completed English work: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
+- latest completed English iteration: **Stories 26–40 — 15 / 15 PASS**
+- final English story boundary: **scan 81 / printed page 79**
 - Story-40 source boundary: **scan 81 / printed page 79**
 - final physical boundary: **scan 82 — verified back cover; no further story text**
 - Tamil source pass: **COMPLETE / CLOSED**
 - word-by-word text fidelity: **COMPLETE / CLOSED — 40 / 40**
 - visual fidelity: **COMPLETE / CLOSED — 40 / 40**
-- English translation: **IN PROGRESS — 25 / 40 PASS**
+- English translation: **COMPLETE / CLOSED — 40 / 40 PASS**
 
 Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
 
-No further source story is pending. Source, word-by-word text-fidelity and visual-fidelity phases remain closed. English translation is the separately authorized active downstream phase; modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
+No further source or English story is pending. Source, word-by-word text-fidelity, visual-fidelity and English-translation phases are closed. The next exact activity is a final 2008 English structural/control QA; modernization, adaptation, republication and Digital Library onboarding remain outside current authorization.
 
 ### கலைஞர் கருணாநிதியின் சிறுகதைகள் — முதல் பதிப்பு, 1977
 
