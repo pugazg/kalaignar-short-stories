@@ -9,4 +9,13 @@ Direct high-resolution source review confirms Story 6 occupies the lower portion
 
 The physical continuation `நல்ல பாம்பு என்ற பெயர்` → `இருந்தும் உன்னைக் கண்டு...` is preserved through source markers. Source dialogue punctuation and repeated `சீறு சீறி` wording are retained.
 
-**Audit result: PASS.**
+## Word-by-word text-fidelity pass
+
+The second-pass comparison found one earlier dialogue mismatch on scan 19:
+
+- committed: `ஒரு சீறு சீறி காட்டக்கூடாது என்று சொன்னேனா.`
+- source: `ஒரு சீறு சீறி காட்டக்கூடாது என்றா சொன்னேன்.`
+
+The page record and Tamil assembly have been corrected. The surrounding dialogue and final paragraph were re-read directly and require no further change.
+
+**Audit result: PASS — corrected; 0 unresolved text-fidelity issues.**
