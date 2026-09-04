@@ -20,8 +20,8 @@ There is no printed contents page in this scan. Story routing is based on direct
 
 | # | Opening heading | PDF scan | Printed page | Next opening witness |
 |---:|---|---:|---:|---|
-| 1 | `வள்ளுவர் சொன்ன பொய்` | 4 | 3 | scan 5 / p.4 |
-| 2 | `நீயும் கைதி - நானும் கைதி` | 5 | 4 | later on scan 5 / p.4 |
+| 1 | `வள்ளுவர் சொன்ன பொய்` | 4 | 3 | **verified ending: top scan 5 / p.4; Story 2 below** |
+| 2 | `நீயும் கைதி - நானும் கைதி` | 5 | 4 | Story 3 later on scan 5 / p.4 |
 | 3 | `குருவி ராமேஸ்வரம்` | 5 | 4 | scan 6 / p.5 |
 | 4 | `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` | 6 | 5 | scan 11 / p.10 |
 | 5 | `கடலைத் தூர்ப்பது மிக எளிது` | 11 | 10 | scan 13 / p.12 |
@@ -55,11 +55,20 @@ There is no printed contents page in this scan. Story routing is based on direct
 | 33 | `கைதியின் கதை` | 44 | 43 | scan 47 / p.46 |
 | 34 | `கிழவியின் மனைவி` | 47 | 46 | final ending scan 49 / p.48; back cover scan 50 |
 
+## Verified Story-1 overlay
+
+Story 1 `வள்ளுவர் சொன்ன பொய்` is now directly source-verified:
+
+- scan **4 / printed 3**: heading + two body paragraphs;
+- scan **5 / printed 4**: final Valluvar answer at top;
+- Story 2 begins immediately below on scan 5;
+- verified physical Story-1 span: **scan 4 → top scan 5**.
+
 ## Shared-page routing points
 
-At least four scans visibly contain more than one story opening/ending zone and must be treated as shared physical boundaries during story-local processing:
+Shared physical boundaries requiring story-local adjudication include:
 
-- scan **5 / printed page 4** — Story 1 ending area, Story 2, and Story 3 opening;
+- scan **5 / printed page 4** — verified Story-1 ending, Story 2, and Story 3 opening;
 - scan **15 / printed page 14** — Story 7 ending area, Story 8, and Story 9 opening;
 - scan **18 / printed page 17** — Story 11 ending area, Story 12, and Story 13 opening;
 - scan **29 / printed page 28** — Story 20 ending area, Story 21, and Story 22 opening;
@@ -78,7 +87,9 @@ Additional one-story-to-next-story shared boundaries must be adjudicated directl
 
 - source registration: **complete**
 - direct heading inventory: **34 / 34**
-- canonical story activation: **0 / 34**
-- Tamil source processing: **0 / 34 complete**
+- canonical story activation: **1 / 34**
+- Tamil source processing: **1 / 34 complete**
+- pending: **33 / 34**
+- completed-story blocked / unresolved story text: **0**
 
-The next source activity is Story 1 `வள்ளுவர் சொன்ன பொய்`, using scan 5 as the required next-story boundary witness.
+The next source activity is Story 2 `நீயும் கைதி - நானும் கைதி`, using Story 3 `குருவி ராமேஸ்வரம்` later on scan 5 as the required ending-boundary witness.
