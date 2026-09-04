@@ -17,6 +17,22 @@
 - final punctuation `சொல்லடா.. தலைநிமிர்ந்து நில்லடா...` preserved rather than normalized;
 - scan joins remain explicit in the assembly.
 
+## Word-by-word text-fidelity pass
+
+A later direct comparison corrected nine earlier transcription mismatches:
+
+- scan 22: `உள்ளத்தைப்` → `உள்ளத்தை`;
+- scan 22: `தொகுப்பு நாளில்` → `தொகுப்பு நூலில்`;
+- scan 23: `குமரகுருபரர்` → `குமரகுருபர்`;
+- scan 23: `குமரகுருபரரை` → `குமரகுருபரை`;
+- scan 24: `நீதிபதியை சந்தித்து.` → `நீதிபதியை சந்தித்து,`;
+- scan 24: `குமரகுருபரர் வீட்டிற்கு` → `குமரகுருபர் வீட்டிற்கு`;
+- scan 24: `குமரகுருபரரை நிற்கச்` → `குமரகுருபரை நிற்கச்`;
+- scan 24: `இவர் சொல்கிறார்.` → `இவர் சொல்லுகிறார்.`;
+- scan 25: `அந்த அம்மையார் சொல்கிறார்.` → `அந்த அம்மையார் சொல்லுகிறார்.`.
+
+All four page records and the Tamil assembly are synchronized. No other word-level mismatch remains.
+
 ## Audit result
 
-**PASS — 4/4 verified; 0 blocked; 0 unresolved story text.**
+**PASS — corrected — 4/4 verified; 0 blocked; 0 unresolved story text; 0 unresolved text-fidelity issues.**
