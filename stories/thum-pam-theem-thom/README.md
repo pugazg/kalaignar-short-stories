@@ -22,4 +22,17 @@ Canonical story workspace for Story 35 in the 2008 second-edition anthology **�
 - Tamil assembly: [`sections/thum-pam-theem-thom.md`](sections/thum-pam-theem-thom.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/thum-pam-theem-thom.md`](translations/en/thum-pam-theem-thom.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- TOC/opening-title variance preserved: **Yes**
+- source markers / physical alignment: **73 → 74 → 75 → 76 — PASS**
+- `தும் / பம் / தீம் / தோம்` sound-wordplay and source parenthetical punctuation: preserved conservatively
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
