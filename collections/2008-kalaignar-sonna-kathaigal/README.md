@@ -33,8 +33,9 @@ Full checksum, byte size, imprint and scan-condition notes are in `metadata/sour
 - word-by-word text fidelity complete: **40 / 40**
 - visual fidelity complete: **40 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **2 / 40**
-- English translation pending: **38 / 40**
+- English translation complete from this collection: **3 / 40**
+- English translation pending: **37 / 40**
+- English translation `NEEDS REVIEW`: **0**
 - English translation tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
 **Tamil source pass: COMPLETE.** The source closes with Story 40 on scan **81 / printed page 79**; scan **82** is the verified physical back cover and contains no further story text.
@@ -92,12 +93,16 @@ All forty stories have **0 blocked / 0 unresolved story text**, complete Tamil a
 
 English translation was opened only after explicit user authorization, following closure of Tamil source, text-fidelity and visual-fidelity work.
 
-- complete: **2 / 40**;
-- PASS: **2**;
-- pending: **38 / 40**;
+- complete: **3 / 40**;
+- PASS: **3**;
+- pending: **37 / 40**;
 - needs review: **0**;
-- latest completed: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` — PASS**;
-- next exact activity: **Story 3 `தலையில் மலை` — lower scan 11 / printed 9 → scans 12–15 → upper scan 16 / printed 14**;
+- latest completed: **Story 3 `தலையில் மலை` — PASS**;
+- latest English source span: **lower scan 11 / printed 9 → upper scan 16 / printed 14**;
+- Story-3 physical page joins **11→12, 12→13, 13→14, 14→15, 15→16** are source-aligned;
+- Story-3 final two-line Tirukkural display and `*` are preserved;
+- canonical Tamil changed during English work: **No**;
+- next exact activity: **Story 4 `வெறும் கை முழம் போடும்` — lower scan 16 / printed 14 → upper scan 17 / printed 15**;
 - durable tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
 Story 1's English layer preserves the verified scan **9 → 10** mid-quotation boundary and excludes Story-2 material below the ending ornament on the shared scan.
@@ -126,4 +131,4 @@ No title form is silently normalized. `indexes/story-inventory.md` retains both 
 
 The final source iteration closed Stories **32–40**. Story 39 ends above Story 40 on scan **81**; Story 40 then closes on that same scan. Scan **82** is the verified back cover and contains no further story text.
 
-No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is now a separately authorized downstream phase and is **IN PROGRESS — 2 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
+No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is now a separately authorized downstream phase and is **IN PROGRESS — 3 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
