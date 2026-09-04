@@ -50,14 +50,14 @@ Existing `verified` Tamil must be re-read directly from the controlling scan. Do
 
 ### Current durable fidelity state
 
-- complete: **10 / 40**
-- `PASS`: **6**
-- `PASS — corrected`: **4**
-- pending: **30 / 40**
+- complete: **20 / 40**
+- `PASS`: **8**
+- `PASS — corrected`: **12**
+- pending: **20 / 40**
 - needs recheck: **0**
 - unresolved fidelity issue among completed stories: **0**
 
-Stories **1–10** are fidelity-complete. Corrected stories in that batch were **2, 3, 6 and 9**; all page/assembly/audit/review layers are synchronized and each Story 1–10 workspace has `text-fidelity.md`.
+Stories **1–20** are fidelity-complete. In iteration 2, Stories **11 and 16** passed unchanged; Stories **12, 13, 14, 15, 17, 18, 19 and 20** required source-supported corrections. All corrections are propagated through page/assembly/audit/review layers and every Story 1–20 workspace has `text-fidelity.md`.
 
 ## MANDATORY STARTUP
 
@@ -76,22 +76,22 @@ Read completely before source-dependent writes:
 
 Inspect the latest completed story-local `text-fidelity.md` records as implementation references, but never copy their wording into another story's source text.
 
-## EXACT NEXT ITERATION — STORIES 11–20
+## EXACT NEXT ITERATION — STORIES 21–30
 
-Process all ten stories and stop after Story 20:
+Process all ten stories and stop after Story 30:
 
-11. TOC **`சாவிதான் இல்லை`** / opening **`சாவி தான் இல்லை`** — lower scan **27 → 28**;
-12. **`கண்ணில் கால்`** — scan **29 → upper 30**;
-13. **`மயில் ராவணன்`** — lower **30 → 31**;
-14. **`ஜாடி குட்டி போடுமா?`** — scan **32 → upper 33**;
-15. **`ஒண்ணு குடுமா?`** — lower **33 → 34 → upper 35**;
-16. **`அத்திரி பாச்சா`** — lower **35 → upper 36**;
-17. **`செருப்போடு இரு`** — lower **36 → upper 37**;
-18. **`இடிக்குப் பின் மழை`** — lower **37 → 38 → upper 39**;
-19. **`நடக்குமா நடக்காதா?`** — lower **39 → 40–41 → upper 42**;
-20. **`கனியும் கணையும்`** — lower **42 → upper 43**.
+21. **`இதயம் பேசுகிறது`** — lower scan **43 → upper 44**;
+22. **`புலிவால்`** — lower **44 → upper 45**;
+23. **`தெரியாத பேச்சு`** — lower **45 → 46 → upper 47**;
+24. TOC **`வெண்ணெய் உருகுது வெயிலில்!`** / opening **`வெண்ணெய் உருகுது வெயிலில்`** — lower **47 → 48–53 → upper 54**;
+25. **`மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`** — lower **54 → 55–59 → upper 60**;
+26. **`பொறுமைக்கு சான்று`** — lower **60 → upper 61**;
+27. TOC **`எடுக்கவோ கோக்கவோ!`** / opening **`எடுக்கவோ கோக்கவோ`** — lower **61 → upper 62**;
+28. TOC **`அந்த நாள் வந்திலை...`** / opening **`அந்த நாள் வந்திலை!`** — lower **62 → 63 → upper 64**;
+29. TOC **`பனித் துளியில் பனைமரம்`** / opening **`பனித்துளியில் பனை மரம்`** — lower **64 → upper 65**;
+30. **`பாரூர் போல...`** — lower **65 → upper 66**.
 
-Story 10 closes above Story 11 on scan **27**. Exclude its already-closed material. Story 20 closes above Story 21 on shared scan **43**; use the Story-21 heading only as the ending witness and do not begin Story 21 in this iteration.
+Story 20 closes above Story 21 on shared scan **43**. Exclude the already-closed Story-20 material. Story 30 closes above Story 31 on shared scan **66**; use the Story-31 heading only as the ending witness and do not begin Story 31 in this iteration.
 
 For each active story:
 
@@ -102,7 +102,7 @@ For each active story:
 5. propagate confirmed corrections through `pages/`, `sections/`, `audit.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md` where appropriate, and story-local `text-fidelity.md`;
 6. use `PASS` only if no word-level mismatch exists; use `PASS — corrected` after all confirmed mismatches are synchronized;
 7. keep `TEXT_FIDELITY_PROGRESS.md` synchronized;
-8. after Story 20, update `HANDOVER.md` / this prompt to Stories **21–30** and re-fetch live `main`.
+8. after Story 30, advance `HANDOVER.md` / this prompt to Stories **31–40** and re-fetch live `main`.
 
 Do not use OCR memory or inferred prose as a substitute for direct scan verification.
 
