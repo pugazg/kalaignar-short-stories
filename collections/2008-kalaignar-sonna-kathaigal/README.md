@@ -30,8 +30,12 @@ Full checksum, byte size, imprint and scan-condition notes are in `metadata/sour
 - canonical story workspaces activated from this collection: **40 / 40**
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
+- word-by-word text fidelity complete: **40 / 40**
+- visual fidelity complete: **40 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation from this collection: **0 / 40**
+- English translation complete from this collection: **1 / 40**
+- English translation pending: **39 / 40**
+- English translation tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
 **Tamil source pass: COMPLETE.** The source closes with Story 40 on scan **81 / printed page 79**; scan **82** is the verified physical back cover and contains no further story text.
 
@@ -82,7 +86,21 @@ The story block uses **scan = printed page + 2**, but successive TOC start pages
 | 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | `stories/nandri-sollum-neram/` | lower 80 → upper 81 | PASS |
 | 40 | `பந்தலிலே பாகற்காய்` | `stories/panthalile-paagarkai/` | lower 81; scan 82 back-cover witness | PASS |
 
-All forty stories have **0 blocked / 0 unresolved story text**, complete Tamil assemblies, source metadata, page maps, audits and persistent human-review queues. English translation has not been opened for this collection.
+All forty stories have **0 blocked / 0 unresolved story text**, complete Tamil assemblies, source metadata, page maps, audits and persistent human-review queues.
+
+## English translation phase
+
+English translation was opened only after explicit user authorization, following closure of Tamil source, text-fidelity and visual-fidelity work.
+
+- complete: **1 / 40**;
+- PASS: **1**;
+- pending: **39 / 40**;
+- needs review: **0**;
+- latest completed: **Story 1 `அப்படித்தான் சிரிப்பேன்` — PASS**;
+- next exact activity: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` — lower scan 10 / printed 8 → upper scan 11 / printed 9**;
+- durable tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
+
+Story 1's English layer preserves the verified scan **9 → 10** mid-quotation boundary and excludes Story-2 material below the ending ornament on the shared scan.
 
 ## Source-title differences
 
@@ -104,6 +122,6 @@ No title form is silently normalized. `indexes/story-inventory.md` retains both 
 
 **COMPLETE — 40 / 40 stories source-processed; 0 pending.**
 
-The final iteration closed Stories **32–40**. Story 39 ends above Story 40 on scan **81**; Story 40 then closes on that same scan. Scan **82** is the verified back cover and contains no further story text.
+The final source iteration closed Stories **32–40**. Story 39 ends above Story 40 on scan **81**; Story 40 then closes on that same scan. Scan **82** is the verified back cover and contains no further story text.
 
-No additional source story is implied after Story 40. English translation, visual-fidelity review or downstream publication work remain separate phases and must not be started merely from this source-pass closure.
+No additional source story is implied after Story 40. The source, text-fidelity and visual-fidelity phases remain closed. English translation is now a separately authorized downstream phase and is **IN PROGRESS — 1 / 40 PASS**; modernization, adaptation, republication and Digital Library onboarding remain outside this authorization.
