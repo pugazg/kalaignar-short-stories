@@ -14,8 +14,6 @@ Canonical story workspace for **சாவி தான் இல்லை**, Sto
 - Next-boundary witness: scan **29 / printed 27**, opening Story 12 **`கண்ணில் கால்`**
 - Source PDF committed to GitHub: **No**
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
-
 ## Tamil archival status
 
 **PASS — 2 / 2 source records verified; 0 blocked; 0 unresolved story text.**
@@ -23,12 +21,21 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - Tamil assembly: [`sections/saavi-thaan-illai.md`](sections/saavi-thaan-illai.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
 
 ## Title and boundary fidelity
 
 The printed contents joins the title as **`சாவிதான் இல்லை`**, while the actual Story-11 heading on scan 27 prints **`சாவி தான் இல்லை`**. Both witnesses are retained. Story 10 closes above the Story-11 heading on scan 27. Story 11 ends with the printed asterisk on scan 28. Scan 29 is used only as the next-boundary witness and opens Story 12 **`கண்ணில் கால்`**.
 
-## Completion state
+## English translation
 
-**சாவி தான் இல்லை Tamil source processing is COMPLETE: 2/2 verified, 0 blocked, 0 unresolved story text.**
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/saavi-thaan-illai.md`](translations/en/saavi-thaan-illai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Saavi Thaan Illai**
+- TOC/opening title variance: preserved in control layer
+- source markers: **27 → 28**; physical join source-aligned
+- final political analogy and `*`: preserved as source content
+- canonical Tamil changed during translation: **No**
