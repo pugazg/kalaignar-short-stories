@@ -17,6 +17,10 @@
 - the printed number `63` is retained;
 - the closing asterisk is preserved.
 
+## Text-fidelity correction — 2026-09-04
+
+The second-pass word-by-word comparison reopened one earlier reading on scan 29. The committed phrase `எந்த உணவை இப்போது தொட்டாலும் மறுப்பாரோ` was corrected to the source-supported `எந்த உணவை இப்போது தொடவும் மறுப்பாரோ`. The surrounding sentence and all remaining Story-12 text were rechecked directly against the controlling scans.
+
 ## Audit result
 
-**PASS — 2/2 verified; 0 blocked; 0 unresolved story text.**
+**PASS — corrected. 2/2 verified; 0 blocked; 0 unresolved story text or text-fidelity issue.**
