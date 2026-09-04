@@ -21,4 +21,16 @@ Canonical story workspace for **நீதி தேவதையே!**, Story 38 
 - Tamil assembly: [`sections/neethi-devathaiye.md`](sections/neethi-devathaiye.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/neethi-devathaiye.md`](translations/en/neethi-devathaiye.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **79 → 80 — PASS**
+- seven-line quoted poem: preserved as display verse
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
