@@ -35,30 +35,27 @@ Durable tracker: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION
 
 Current state:
 
-- English complete: **14 / 40**;
-- `PASS`: **14**;
-- pending: **26 / 40**;
+- English complete: **15 / 40**;
+- `PASS`: **15**;
+- pending: **25 / 40**;
 - `NEEDS REVIEW`: **0**;
 - canonical Tamil changed during English work: **No**.
 
-Stories **1–4** remain closed as previously recorded.
+Stories **1–4** remain closed as previously recorded. The explicitly expanded Stories **5–14** batch remains closed at **10 / 10 PASS**.
 
-### Latest completed batch — Stories 5–14
+### Story 15 complete — `ஒண்ணு குடுமா?`
 
-The user explicitly requested **10 stories** in the last activity, overriding the normal one-story-per-activity rule for that activity only. Stories **5–14** are all **PASS**, with English files, `TRANSLATION_REVIEW.md`, story README synchronization, physical source-page anchoring and final ornaments complete.
-
-Key controls from the batch:
-
-- Story 5 `கூட்டணி`: markers **17→18**, source quotation asymmetry preserved;
-- Story 6 `சீற வேண்டாமா?`: corrected verified `என்றா சொன்னேன்.` translated without Tamil normalization;
-- Story 7 `கழுதையின் கதை`: physical ending on scan **21** retained;
-- Story 8 `உனக்கு வயதென்ன?`: `ஆட்சி மொழி` → `ஆவது?` page join aligned;
-- Story 9 `தமிழன் என்று சொல்லடா!`: `பெட்டி கலெக்டர்`, joined `அந்ததமிழருக்கு`, and final `சொல்லடா.. தலைநிமிர்ந்து நில்லடா...` treated as source facts;
-- Story 10 `கடமை கண்ணியம் கட்டுப்பாடு`: physical ending scan **27**, riddle and three-line **Duty / Dignity / Discipline** display retained;
-- Story 11: TOC `சாவிதான் இல்லை` ↔ opening `சாவி தான் இல்லை` preserved;
-- Story 12 `கண்ணில் கால்`: physical ending scan **30**, corrected `தொடவும்` used;
-- Story 13 `மயில் ராவணன்`: verified unusual `ஊடுதல் செயலாளராக` handled conservatively as `ooduthal secretary`; both applause cues retained;
-- Story 14 `ஜாடி குட்டி போடுமா?`: distinct source pregnancy forms retained in Tamil/control; laughter cues retained.
+- English: `stories/onnu-kuduma/translations/en/onnu-kuduma.md`;
+- review: `stories/onnu-kuduma/TRANSLATION_REVIEW.md`;
+- title treatment: **Onnu Kuduma?**;
+- source span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**;
+- markers: **33 → 34 → 35**;
+- all physical content boundaries: **PASS / source-aligned**;
+- source-colloquial `ஒண்ணு` ambiguity retained through **“give him one”** in dialogue;
+- `புல்கட்டு`, corrected `உயர் ஜாதிக்காரனுக்குக்`, and `ஆதிதிராவிடப் பெண்` handled conservatively from verified Tamil;
+- final `*`: preserved;
+- Tamil changed during translation: **No**;
+- result: **PASS**.
 
 For validator-compatible English markers use exactly:
 
@@ -68,7 +65,7 @@ Put boundary explanations in a separate HTML comment. Marker presence/order alon
 
 ## MANDATORY STARTUP
 
-Before any Story-15 English write, read completely:
+Before any Story-16 English write, read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -84,28 +81,28 @@ Before any Story-15 English write, read completely:
 12. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`
 13. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 14. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
-15. Story-15 README, canonical Tamil assembly, all page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
+15. Story-16 README, canonical Tamil assembly, all page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 15 ENGLISH
+## CURRENT EXACT NEXT ACTIVITY — STORY 16 ENGLISH
 
 Return to **one story only** unless the user explicitly expands the batch again.
 
-- title: **`ஒண்ணு குடுமா?`**
-- workspace: `stories/onnu-kuduma/`
-- verified physical span: **lower scan 33 / printed page 31 → scan 34 / printed page 32 → upper scan 35 / printed page 33**
-- Story 14 ends above Story 15 on shared scan **33**;
-- Story 16 **`அத்திரி பாச்சா`** begins below Story 15's ending ornament on shared scan **35**.
+- title: **`அத்திரி பாச்சா`**
+- workspace: `stories/aththiri-paachaa/`
+- verified physical span: **lower scan 35 / printed page 33 → upper scan 36 / printed page 34**
+- Story 15 ends above Story 16 on shared scan **35**;
+- Story 17 **`செருப்போடு இரு`** begins below Story 16's ending ornament on shared scan **36**.
 
 Workflow:
 
-1. translate the complete verified canonical Tamil assembly into `stories/onnu-kuduma/translations/en/onnu-kuduma.md`;
+1. translate the complete verified canonical Tamil assembly into `stories/aththiri-paachaa/translations/en/aththiri-paachaa.md`;
 2. preserve source/page boundaries and meaningful dialogue, quotation, display and ending structure;
-3. check actual physical content-boundary alignment against all three verified Story-15 page records;
-4. create `stories/onnu-kuduma/TRANSLATION_REVIEW.md`;
+3. check actual physical content-boundary alignment against both verified Story-16 page records;
+4. create `stories/aththiri-paachaa/TRANSLATION_REVIEW.md`;
 5. do not silently correct any item from `POSSIBLE_ERRORS_FOR_REVIEW.md`;
 6. if translation exposes a real Tamil issue, reopen only that exact span against the controlling scan under source-first rules;
-7. synchronize Story-15 README, 2008 English tracker, collection README/source metadata, root README, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 15 closed;
-9. only then advance the next exact target to Story 16.
+7. synchronize Story-16 README, 2008 English tracker, collection README/source metadata, root README, `HANDOVER.md` and this prompt;
+8. re-fetch live `main` and changed controls before declaring Story 16 closed;
+9. only then advance the next exact target to Story 17.
 
 Modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
