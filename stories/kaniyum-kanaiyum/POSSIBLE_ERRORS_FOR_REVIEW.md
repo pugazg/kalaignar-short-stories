@@ -4,8 +4,9 @@ Persistent human recheck queue; both Story-20 records remain `verified`.
 
 | Scan | Printed | Source-close reading / point | Review note |
 |---:|---:|---|---|
-| 42 | 40 | `சென்னை. 66ஆவது` | source period retained |
+| 42 | 40 | `சென்னை, 66ஆவது` | second-pass fidelity restored source comma from earlier period |
 | 42 | 40 | `“.... ஆங்கிலக் கதையொன்றில்` | four-dot lead-in retained |
+| 42 | 40 | `வில் நடுங்கியிருக்கும்.` | second-pass fidelity restored source period from earlier semicolon |
 | 42 | 40 | `நாண் நடுங்கியிருக்கும்-அம்பு நடுங்கியிருக்கும்` | hyphen retained |
 | 43 | 41 | `குழந்தைக்கு எதும் சேதம் ஏற்படாமல்` | source wording retained |
 | 43 | 41 | open quotation continues without visible closing quote | no punctuation invented |
