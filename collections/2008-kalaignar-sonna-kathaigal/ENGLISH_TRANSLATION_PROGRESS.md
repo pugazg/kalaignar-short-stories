@@ -9,18 +9,18 @@ The 2008 collection entered English translation only after explicit user authori
 ## Status
 
 - total stories: **40**
-- English translation complete: **2 / 40**
-- `PASS`: **2**
-- pending: **38 / 40**
+- English translation complete: **3 / 40**
+- `PASS`: **3**
+- pending: **37 / 40**
 - `NEEDS REVIEW`: **0**
-- current target: **Story 3 — `தலையில் மலை`**
-- current target physical span: **lower scan 11 / printed 9 → upper scan 16 / printed 14**
+- current target: **Story 4 — `வெறும் கை முழம் போடும்`**
+- current target physical span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**
 
 | # | Story | Verified physical span | English translation |
 |---:|---|---|---|
 | 1 | `அப்படித்தான் சிரிப்பேன்` | scan 9 → top 10 | **PASS** |
 | 2 | TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` | lower 10 → upper 11 | **PASS** |
-| 3 | `தலையில் மலை` | lower 11 → upper 16 | pending |
+| 3 | `தலையில் மலை` | lower 11 → upper 16 | **PASS** |
 | 4 | `வெறும் கை முழம் போடும்` | lower 16 → upper 17 | pending |
 | 5 | `கூட்டணி` | lower 17 → upper 18 | pending |
 | 6 | `சீற வேண்டாமா?` | lower 18 → upper 19 | pending |
@@ -88,15 +88,30 @@ The 2008 collection entered English translation only after explicit user authori
 - Tamil source changed during translation: **No**
 - result: **PASS**
 
+### Story 3 — `தலையில் மலை`
+
+- workspace: `../../stories/thalaiyil-malai/`
+- English: `../../stories/thalaiyil-malai/translations/en/thalaiyil-malai.md`
+- review: `../../stories/thalaiyil-malai/TRANSLATION_REVIEW.md`
+- English title treatment: **Thalaiyil Malai**
+- source-page markers: **11 / printed 9 → 12 / 10 → 13 / 11 → 14 / 12 → 15 / 13 → 16 / 14**
+- all five physical page joins aligned to verified Tamil page records: **Yes**
+- shared scan-11 Story-2 and shared scan-16 Story-4 material excluded: **Yes**
+- source-sensitive `பீநடை` and `அமர்ச்சியப்படுத்தாமல்` not normalized in Tamil: **Yes**
+- final two-line Tirukkural display and final `*` represented: **Yes**
+- possible-error queue read and not silently normalized: **Yes**
+- Tamil source changed during translation: **No**
+- result: **PASS**
+
 ## Next exact activity
 
-Process **Story 3 only** under the standing one-story-per-activity translation rule:
+Process **Story 4 only** under the standing one-story-per-activity translation rule:
 
-- title: **`தலையில் மலை`**
-- workspace: `../../stories/thalaiyil-malai/`
-- verified physical span: **lower scan 11 / printed 9 → scans 12–15 → upper scan 16 / printed 14**
-- preserve every verified source/page boundary and source-significant structure; exclude Story-2 and Story-4 material on the shared boundary scans.
+- title: **`வெறும் கை முழம் போடும்`**
+- workspace: `../../stories/verum-kai-muzham-podum/`
+- verified physical span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**
+- preserve the shared-page boundaries: scan 16 begins Story 4 only below the Story-3 ending ornament, and scan 17 ends Story 4 above Story 5.
 
 ## Phase gate
 
-English translation is **IN PROGRESS — 2 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
+English translation is **IN PROGRESS — 3 / 40 PASS**. Canonical Tamil remains authoritative. Modernization, adaptation, republication and Digital Library onboarding are not authorized by this translation phase.
