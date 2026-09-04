@@ -19,7 +19,7 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 10 | `கொல்லப்பட வேண்டியது புலி, ஆனால்...` | 16 | 15 | Story 11 scan 17 | **PASS — `stories/kollappada-vendiyathu-puli-aanaal/`** |
 | 11 | `அந்தக் காலத்திலே!` | 17 | 16 | Story 12 scan 18 | **PASS — `stories/anthak-kaalathile/`** |
 | 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | 18 | 17 | Story 13 later scan 18 | **PASS — `stories/aandavan-dharisanam-kodutha-oor/`** |
-| 13 | `வீரவாடி` | 18 | 17 | Story 14 scan 19 | **pending** |
+| 13 | `வீரவாடி` | 18 | 17 | Story 14 scan 19 | **PASS — `stories/veeravadi/`** |
 | 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | 19 | 18 | Story 15 scan 22 | **pending** |
 | 15 | `கள்ளியும் ரோஜாவும்` | 22 | 21 | Story 16 scan 23 | **pending** |
 | 16 | `அபாசமே அபாசம்!` | 23 | 22 | Story 17 scan 24 | **pending** |
@@ -45,8 +45,10 @@ No printed contents page is present. This is a direct visual story-heading inven
 ## Totals
 
 - headings directly checked: **34 / 34**
-- activated / Tamil source complete: **12 / 34**
-- pending: **22 / 34**
+- activated / Tamil source complete: **13 / 34**
+- pending: **21 / 34**
 - completed-story blocked / unresolved: **0**
+
+Story 13 `வீரவாடி` is verified across scan **18 / printed 17 → top scan 19 / printed 18**. Story 14 begins below it on scan 19.
 
 Before each remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.
