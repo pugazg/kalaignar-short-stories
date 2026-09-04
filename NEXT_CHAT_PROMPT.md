@@ -33,29 +33,32 @@ Nine TOC/opening-heading variances remain registered at Stories **2, 11, 24, 27,
 
 Durable tracker: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 
-Current state:
+Current durable state:
 
-- English complete: **15 / 40**;
-- `PASS`: **15**;
-- pending: **25 / 40**;
+- English complete: **25 / 40**;
+- `PASS`: **25**;
+- pending: **15 / 40**;
 - `NEEDS REVIEW`: **0**;
 - canonical Tamil changed during English work: **No**.
 
-Stories **1–4** remain closed as previously recorded. The explicitly expanded Stories **5–14** batch remains closed at **10 / 10 PASS**.
+Stories **1–15** remain closed as previously recorded.
 
-### Story 15 complete — `ஒண்ணு குடுமா?`
+### Latest completed iteration — Stories 16–25
 
-- English: `stories/onnu-kuduma/translations/en/onnu-kuduma.md`;
-- review: `stories/onnu-kuduma/TRANSLATION_REVIEW.md`;
-- title treatment: **Onnu Kuduma?**;
-- source span: **lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**;
-- markers: **33 → 34 → 35**;
-- all physical content boundaries: **PASS / source-aligned**;
-- source-colloquial `ஒண்ணு` ambiguity retained through **“give him one”** in dialogue;
-- `புல்கட்டு`, corrected `உயர் ஜாதிக்காரனுக்குக்`, and `ஆதிதிராவிடப் பெண்` handled conservatively from verified Tamil;
-- final `*`: preserved;
-- Tamil changed during translation: **No**;
-- result: **PASS**.
+The user explicitly directed **10 stories in each iteration**. Stories **16–25** are all **PASS**, with English files, `TRANSLATION_REVIEW.md`, synchronized story READMEs and verified physical page anchoring.
+
+Key controls:
+
+- Story 16 `அத்திரி பாச்சா`: markers **35→36**; `அடம்`→`பிடித்தான்` source join aligned; source form variation retained.
+- Story 17 `செருப்போடு இரு`: markers **36→37**; corrected `போர் வீரன்படம்` used; closing admonition translated directly.
+- Story 18 `இடிக்குப் பின் மழை`: markers **37→38→39**; Socrates `தலை`→`யிலே` split aligned; thunder/rain dialogue retained.
+- Story 19 `நடக்குமா நடக்காதா?`: markers **39→40→41→42**; bull→goat→hen→tea sequence, wager and corrected `என்னடா?` retained.
+- Story 20 `கனியும் கணையும்`: markers **42→43**; William Tell and Republic Day/Hindi/DMK analogy retained; source-open quotation not silently closed.
+- Story 21 `இதயம் பேசுகிறது`: markers **43→44**; speaking-heart punctuation and Tamil mother-tongue close preserved.
+- Story 22 `புலிவால்`: markers **44→45**; quoted `நாயர் புடிச்ச`→`புலிவால்` split aligned; both applause cues retained.
+- Story 23 `தெரியாத பேச்சு`: markers **45→46→47**; source-open concluding quotation and `லெனினைப் பற்றி` page join retained.
+- Story 24: TOC `வெண்ணெய் உருகுது வெயிலில்!` ↔ opening `வெண்ணெய் உருகுது வெயிலில்`; markers **47→48→49→50→51→52→53→54**; embedded 1977 letter, Amirthamathi material and three-line Kuruntokai display retained without importing outside editions.
+- Story 25 `மாமியார் உடைத்தால் மட்டும் மண்சட்டியா?`: markers **54→55→56→57→58→59→60**; unusual source forms, Yama/party analogy, Politburo statement and final pot comparison retained without normalization.
 
 For validator-compatible English markers use exactly:
 
@@ -63,9 +66,16 @@ For validator-compatible English markers use exactly:
 
 Put boundary explanations in a separate HTML comment. Marker presence/order alone is not sufficient; actual translated content boundaries must align to verified Tamil page records.
 
+## STANDING BATCH RULE
+
+Process **10 stories in each English iteration** until fewer than ten remain. Do not revert to the guide's default one-story rule unless the user changes this directive.
+
+- next iteration: Stories **26–35**;
+- final iteration: Stories **36–40**.
+
 ## MANDATORY STARTUP
 
-Before any Story-16 English write, read completely:
+Before any write in the Stories 26–35 iteration, read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -81,28 +91,36 @@ Before any Story-16 English write, read completely:
 12. `collections/2008-kalaignar-sonna-kathaigal/metadata/source.md`
 13. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 14. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
-15. Story-16 README, canonical Tamil assembly, all page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 16 ENGLISH
+For **each** Story 26–35, read its README, canonical Tamil assembly, every page record, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md` before translating that story.
 
-Return to **one story only** unless the user explicitly expands the batch again.
+## CURRENT EXACT NEXT ACTIVITY — ENGLISH STORIES 26–35
 
-- title: **`அத்திரி பாச்சா`**
-- workspace: `stories/aththiri-paachaa/`
-- verified physical span: **lower scan 35 / printed page 33 → upper scan 36 / printed page 34**
-- Story 15 ends above Story 16 on shared scan **35**;
-- Story 17 **`செருப்போடு இரு`** begins below Story 16's ending ornament on shared scan **36**.
+Process all **10 stories** in collection order and close the full iteration before advancing:
 
-Workflow:
+26. `பொறுமைக்கு சான்று` — `stories/porumaikku-saandru/` — **lower scan 60 / printed 58 → upper scan 61 / printed 59**.
+27. TOC `எடுக்கவோ கோக்கவோ!` / opening `எடுக்கவோ கோக்கவோ` — `stories/edukkavo-kokkavo/` — **lower 61 → upper 62**.
+28. TOC `அந்த நாள் வந்திலை...` / opening `அந்த நாள் வந்திலை!` — `stories/antha-naal-vanthilai/` — **lower 62 → 63 → upper 64**.
+29. TOC `பனித் துளியில் பனைமரம்` / opening `பனித்துளியில் பனை மரம்` — `stories/panithuliyil-panai-maram/` — **lower 64 → upper 65**.
+30. `பாரூர் போல...` — `stories/paarur-pola/` — **lower 65 → upper 66**.
+31. `இராமனைப் பற்றி இராமன்` — `stories/iramanai-patri-iraman/` — **lower 66 → 67–68 → upper 69**.
+32. `மானும் பெருமானும்` — `stories/maanum-perumaanum/` — **lower 69 → 70 → upper 71**.
+33. `எழுச்சிக்கு அடையாளம்` — `stories/ezhuchikku-adaiyaalam/` — **lower 71 → upper 72**.
+34. `தலையும் நுனியும்` — `stories/thalaiyum-nuniyum/` — **lower 72 → upper 73**.
+35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — `stories/thum-pam-theem-thom/` — **lower 73 → 74–75 → upper 76**.
 
-1. translate the complete verified canonical Tamil assembly into `stories/aththiri-paachaa/translations/en/aththiri-paachaa.md`;
-2. preserve source/page boundaries and meaningful dialogue, quotation, display and ending structure;
-3. check actual physical content-boundary alignment against both verified Story-16 page records;
-4. create `stories/aththiri-paachaa/TRANSLATION_REVIEW.md`;
-5. do not silently correct any item from `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-6. if translation exposes a real Tamil issue, reopen only that exact span against the controlling scan under source-first rules;
-7. synchronize Story-16 README, 2008 English tracker, collection README/source metadata, root README, `HANDOVER.md` and this prompt;
-8. re-fetch live `main` and changed controls before declaring Story 16 closed;
-9. only then advance the next exact target to Story 17.
+Story 26 begins below Story 25 on shared scan **60**. Story 36 begins below Story 35's ending on shared scan **76**.
+
+Workflow for the iteration:
+
+1. translate each complete verified canonical Tamil assembly into its `translations/en/<slug>.md`;
+2. preserve exact source-marker sequence, meaningful dialogue/quotation/display/verse structure and final `*`;
+3. independently verify actual physical content-boundary alignment against every verified page record;
+4. create story-local `TRANSLATION_REVIEW.md` with result `PASS` or `NEEDS REVIEW`;
+5. do not silently correct possible-error queue items or title variants;
+6. if translation exposes a genuine Tamil source issue, reopen only that exact span against the controlling scan before changing Tamil;
+7. after all ten stories are durable, synchronize all ten story READMEs, the 2008 tracker, collection README/source metadata, root README, `HANDOVER.md` and this prompt;
+8. re-fetch live `main` and changed controls before declaring the iteration closed;
+9. only then advance to the final Stories **36–40** iteration.
 
 Modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
