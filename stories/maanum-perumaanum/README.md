@@ -21,4 +21,16 @@ Canonical story workspace for **மானும் பெருமானும�
 - Tamil assembly: [`sections/maanum-perumaanum.md`](sections/maanum-perumaanum.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/maanum-perumaanum.md`](translations/en/maanum-perumaanum.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **69 → 70 → 71 — PASS**
+- corrected source dialogue punctuation and `மாத்திர மல்ல` / `வருகின்ற வரை` / `குட்டியைத் தேடி`: followed
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
