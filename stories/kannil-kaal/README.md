@@ -21,6 +21,19 @@ Canonical story workspace for **கண்ணில் கால்**, Story 12 i
 - Tamil assembly: [`sections/kannil-kaal.md`](sections/kannil-kaal.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
 
 Direct source review confirms that Story 12 extends beyond its TOC-derived scan 29 and closes with a printed asterisk at the top of scan 30. Story 13 begins below that ornament on the same physical scan.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/kannil-kaal.md`](translations/en/kannil-kaal.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Kannil Kaal**
+- source markers: **29 → 30**; second-eye sentence boundary source-aligned
+- corrected `தொடவும்` translated from verified Tamil without reopening
+- final puranic close and `*`: preserved
+- canonical Tamil changed during translation: **No**
