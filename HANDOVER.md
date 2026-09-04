@@ -59,80 +59,56 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 
 Nine TOC/opening-heading differences remain registered and must not be normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-## Active phase — word-by-word text fidelity
+## Closed phase — word-by-word text fidelity
 
-The user explicitly authorized **text fidelity for every word** with **10 stories per iteration**.
+The user explicitly authorized **text fidelity for every word** with **10 stories per iteration**. That phase is now durably complete.
 
-Existing `verified` status is not proof in this phase. Every active story is re-read directly against the controlling scans, including words, joined/separated forms, punctuation, quotation marks, paragraph boundaries and physical page joins.
-
-### Current progress
+### Final status
 
 - total: **40**
-- fidelity complete: **30 / 40**
-- `PASS`: **15**
-- `PASS — corrected`: **15**
-- pending: **10 / 40**
+- fidelity complete: **40 / 40**
+- `PASS`: **19**
+- `PASS — corrected`: **21**
+- pending: **0 / 40**
 - needs recheck: **0**
-- unresolved fidelity issues among completed stories: **0**
+- unresolved fidelity issues: **0**
+- story-local `text-fidelity.md`: **40 / 40**
 
-### Completed fidelity iteration 1 — Stories 1–10
+Existing source-pass `verified` status was not treated as proof. Every story was re-read directly against the controlling scans for words, joined/separated forms, punctuation, quotation marks, paragraph boundaries and physical page joins.
 
-Stories **1–10** are closed. Stories **2, 3, 6 and 9** required source-supported corrections; Stories **1, 4, 5, 7, 8 and 10** passed unchanged.
+### Fidelity iteration 1 — Stories 1–10
 
-### Completed fidelity iteration 2 — Stories 11–20
+Stories **1, 4, 5, 7, 8 and 10** passed unchanged. Stories **2, 3, 6 and 9** required source-supported corrections.
 
-Stories **11–20** are closed. Stories **11 and 16** passed unchanged. Stories **12, 13, 14, 15, 17, 18, 19 and 20** are **PASS — corrected**.
+### Fidelity iteration 2 — Stories 11–20
 
-Second-iteration recovered readings include:
+Stories **11 and 16** passed unchanged. Stories **12, 13, 14, 15, 17, 18, 19 and 20** required source-supported corrections.
 
-- Story 12: `தொட்டாலும்` → **`தொடவும்`**;
-- Story 13: `ஊடுருவல் செயலாளராக` → **`ஊடுதல் செயலாளராக`**;
-- Story 14: first `காப்புமுற்றிருக்கிறது` → **`காப்புமுற்றிருக்கின்றது`**; later `காப்புமுற்றிருக்கிறது` remains source-faithful;
-- Story 15: `உயர ஜாதிக்காரனுக்குக்` → **`உயர் ஜாதிக்காரனுக்குக்`**;
-- Story 17: `போர் வீரனிடம்` → source **`போர் வீரன்படம்`** in `போர் வீரன்படம் பிரமாதமாக இருக்கிறது`;
-- Story 18: `பேச்சை கேட்க` → **`பேச்சைக் கேட்க`**;
-- Story 19: `என்னப்பா?` → **`என்னடா?`**;
-- Story 20: `சென்னை.` → **`சென்னை,`** and `வில் நடுங்கியிருக்கும்;` → **`வில் நடுங்கியிருக்கும்.`**.
+Recovered readings include `தொடவும்`, `ஊடுதல் செயலாளராக`, first `காப்புமுற்றிருக்கின்றது`, `உயர் ஜாதிக்காரனுக்குக்`, `போர் வீரன்படம்`, `பேச்சைக்`, `என்னடா?`, and Story-20 comma/period punctuation.
 
-### Completed fidelity iteration 3 — Stories 21–30
+### Fidelity iteration 3 — Stories 21–30
 
-Stories **21–30** are closed. Stories **21, 22, 23, 26, 27, 29 and 30** passed unchanged. Stories **24, 25 and 28** are **PASS — corrected**.
+Stories **21, 22, 23, 26, 27, 29 and 30** passed unchanged. Stories **24, 25 and 28** required source-supported corrections.
 
-Third-iteration recovered readings include:
+Recovered details include Story-24 `தூக்கி நிறுத்திய`, `கடிதமாகத் தீட்டினேன்`, `தொடுவான்! துவளமாட்டான்.`, `சல்லாபத்`, `தொடங்குவதற்கு`; Story-25 `புராணிகள் கூறுவர்`, `முதல்வராக அமர்ந்து அரசோச்சியவர்`, `தீர்ப்பையொட்டி`, `சொர்க்கத்தில் இருக்கலாம்`, `சொர்க்கம் செல்பவனின்`; and Story-28 `பதைத்துப் போன புலவர்`.
 
-- Story 24: source punctuation `எழுத்துத் தடை, பேச்சுத் தடை,`; `தூக்கி நிறுத்திய`; `கடிதங்கள் எழுதியே கழகத்தை காத்த`; `கடிதமாகத் தீட்டினேன்`; `தொடுவான்! துவளமாட்டான்.`; `கொண்டவனுக்குத் துணை`; `ஏராளமானப் பணியாட்கள் உண்டு!`; `மாற்றார் தலைகளைப் பந்தாடும்`; `தூங்கிடுவான்`; `சல்லாபத்`; `எழுதுகின்றார் - ஏசுகின்றார்`; `தொடங்குவதற்கு`; `மணப் பாறையா?`; `யாரையாவது, உதவிக்கு அழைக்கலாம் என்றாலோ`;
-- Story 25: `தெய்வீகக் கடமையின்`; `புராணிகள் கூறுவர்`; `பெரிய பதவிகளில்`; `முதல்வராக அமர்ந்து அரசோச்சியவர்`; `வருத்தம் தெரிவித்த பிறகும்`; `தீர்ப்பையொட்டி`; `நரகலோகத்திற்குச் சில`; `ஒன்று போல`; `சொர்க்கத்தில் இருக்கலாம்`; `தீவிரமாகக்`; `சொர்க்கம் செல்பவனின்`; `வெளியாகும் வங்காள`; `கட்சியின் மீதும் கட்சித் தலைவர்கள் மீதும்`;
-- Story 28: `பகைத்துப் போன புலவர்` → **`பதைத்துப் போன புலவர்`**.
+### Fidelity iteration 4 — Stories 31–40
 
-All affected page records, Tamil assemblies, audits and review queues are synchronized. Story-local `text-fidelity.md` records exist for Stories **1–30**.
+Stories **36, 38, 39 and 40** passed unchanged. Stories **31, 32, 33, 34, 35 and 37** are **PASS — corrected**.
 
-## Exact next activity — text fidelity Stories 31–40
+Important recovered source details:
 
-Process the **final ten** stories in this phase:
+- Story 31: `மாட்டா (து)` → **`மாட்டா(து)`**; `எவ்வளவு நான்` → **`எவ்வளவு நாள்`**;
+- Story 32: source double quotation marks restored; `மாத்திர மல்ல`; `வருகின்ற வரை`; `குட்டியைத் தேடி`;
+- Story 33: `கரம் இழந்தான்,` → **`கரம் இழந்தான்.`**;
+- Story 34: `ஒவ்வொருவருவாக` → **`ஒவ்வொருவராக`**;
+- Story 35: `ஊதுவார்களா?`, source `அப்போது புகழேந்தி.`, source double quotation marks on scan 75, and scan-76 **`(தும், ‘தும்’, ‘பம்’, ‘பம்’, ‘தீம்..... தீம்’)`**;
+- Story 37: the completed scan-78 couplet preserves its visibly asymmetric source quotation punctuation — single opening quote and double closing quote.
 
-31. `இராமனைப் பற்றி இராமன்` — lower scan **66 → 67–68 → upper 69**;
-32. `மானும் பெருமானும்` — lower **69 → 70 → upper 71**;
-33. `எழுச்சிக்கு அடையாளம்` — lower **71 → upper 72**;
-34. `தலையும் நுனியும்` — lower **72 → upper 73**;
-35. TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — lower **73 → 74–75 → upper 76**;
-36. TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — lower **76 → upper 77**;
-37. `நாக்குத் தமிழ் மணக்கும்` — lower **77 → 78 → upper 79**;
-38. `நீதி தேவதையே!` — lower **79 → upper 80**;
-39. TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — lower **80 → upper 81**;
-40. `பந்தலிலே பாகற்காய்` — lower **81**; scan **82** is the back-cover witness.
+All confirmed corrections are synchronized through affected page records, Tamil assemblies, audits, review queues and story-local fidelity records.
 
-For every story:
+## Current phase gate
 
-1. re-fetch live `main` before source-dependent writes;
-2. inspect every registered story span directly, including shared boundary material;
-3. compare every word, spelling/sandhi form, punctuation, quotation boundary, paragraph and physical join;
-4. verify the full phrase around every suspected mismatch;
-5. propagate confirmed corrections through page, assembly, audit/review and `text-fidelity.md`;
-6. if no mismatch exists, create `text-fidelity.md` with `PASS`;
-7. update `TEXT_FIDELITY_PROGRESS.md` only after durable closure.
+There is **no remaining text-fidelity work** for the 2008 collection and there is no Story 41. Do not silently begin English translation, visual-fidelity review, Digital Library onboarding, adaptation, modernization or another downstream phase.
 
-Story 30 closes above Story 31 on shared scan **66**; exclude already-closed Story-30 material. Story 40 closes on scan **81**. Inspect scan **82** only as the verified physical back-cover/final-boundary witness; there is no Story 41.
-
-## Phase guard
-
-Text fidelity authorizes source-faithful Tamil correction only. It does not authorize modernization, adaptation, republication, Digital Library onboarding or English translation.
+The next activity must be explicitly authorized by the user. Live `main` remains authoritative at every fresh-chat start.
