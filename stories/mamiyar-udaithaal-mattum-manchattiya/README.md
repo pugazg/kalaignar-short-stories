@@ -21,4 +21,17 @@ Canonical story workspace for **மாமியார் உடைத்தா�
 - Tamil assembly: [`sections/mamiyar-udaithaal-mattum-manchattiya.md`](sections/mamiyar-udaithaal-mattum-manchattiya.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/mamiyar-udaithaal-mattum-manchattiya.md`](translations/en/mamiyar-udaithaal-mattum-manchattiya.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Is It an Earthen Pot Only When the Mother-in-Law Breaks It?**
+- source markers / physical alignment: **54 → 55 → 56 → 57 → 58 → 59 → 60 — PASS**
+- mythic/political framing, unusual `புராணமும் தனமும்`, `காய்ச்சித்தான்`, source-spaced forms, Politburo statement and final pot comparison remain source-controlled without normalization or outside reconciliation
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
