@@ -71,16 +71,16 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **3 / 40**
-- English translation pending from this collection: **37 / 40**
+- English translation complete from this collection: **4 / 40**
+- English translation pending from this collection: **36 / 40**
 - English translation `NEEDS REVIEW`: **0**
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
-- latest completed English work: **Story 3 `தலையில் மலை` — PASS; lower scan 11 → upper scan 16; Tirukkural display preserved; Tamil unchanged**
-- next English target: **Story 4 `வெறும் கை முழம் போடும்` — lower scan 16 / printed 14 → upper scan 17 / printed 15**
+- latest completed English work: **Story 4 `வெறும் கை முழம் போடும்` — PASS; lower scan 16 → upper scan 17; Tamil unchanged**
+- next English target: **Story 5 `கூட்டணி` — lower scan 17 / printed 15 → upper scan 18 / printed 16**
 - final source boundary: **scan 82 — verified physical back cover; no further story text**
 - directly registered title variances: **9** — Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39
 - Tamil source pass: **CLOSED / COMPLETE**
-- English translation phase: **IN PROGRESS — explicitly authorized**
+- English translation phase: **IN PROGRESS — explicitly authorized, 4 / 40 PASS**
 
 The ninth title variance was established by direct opening review of Story 36: TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
 
