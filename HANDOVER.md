@@ -12,32 +12,36 @@
 - 1977 English tracker: `ENGLISH_TRANSLATION_PROGRESS.md` — closed at **37 / 37**
 - 2008 English tracker: `collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 
-## Authoritative-state rule
+## LIVE MAIN IS AUTHORITATIVE
 
-Always fetch live `main` first and preserve newer durable work. Source PDFs / renders / crops are not committed.
+Always fetch live `main` first and preserve newer durable work. Source PDFs / renders / crops are not committed. Repository files reachable from live `main`, not chat memory or local preparation, are durable state.
 
-## Permanent source rules
+## Permanent source / translation rules
 
 - controlling scan first; no silent modernization or normalization;
+- canonical verified Tamil is authoritative for English translation;
 - running headers and printed page numbers are page furniture, not body text;
 - shared physical scans preserve exact story boundaries;
 - source-supported textual corrections propagate through page, assembly, audit/review and dependent layers;
-- `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error.
+- `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error;
+- English page markers must use exactly `<!-- source scan N; printed page M -->`;
+- boundary notes belong in separate HTML comments;
+- marker presence/order alone is insufficient: actual translated content boundaries must align to the verified Tamil page records.
 
 ## Closed 1977 anthology
 
 `கலைஞர் கருணாநிதியின் சிறுகதைகள்` remains fully closed:
 
-- Tamil source: **37 / 37 complete**;
-- visual fidelity: **37 / 37 complete**;
-- English translation/review: **37 / 37 complete**;
-- final English structural/control QA: **PASS**;
-- unresolved story text: **0**;
-- scan **260**: verified back cover.
+- Tamil source **37 / 37**;
+- visual fidelity **37 / 37**;
+- English translation/review **37 / 37**;
+- final English structural/control QA **PASS**;
+- unresolved story text **0**;
+- scan **260** verified back cover.
 
 Story 29 `திடுக்கிடும் கதை` retains the later marker-only provenance correction. Obsolete Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## 2008 collection — source / text / visual closed
+## 2008 collection — source / text / visual CLOSED
 
 Collection: **கலைஞர் சொன்ன கதைகள்**  
 Workspace: `collections/2008-kalaignar-sonna-kathaigal/`  
@@ -48,94 +52,59 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 - story text: scans **9–81 / printed pages 7–79**;
 - scan **82**: verified back cover, no further story text;
 - Tamil source: **40 / 40 complete**, 0 blocked / 0 unresolved;
-- word-by-word text fidelity: **40 / 40 complete**;
-- text-fidelity split: **19 PASS / 21 PASS — corrected**;
-- visual fidelity: **40 / 40 complete**, all **40 PASS**.
+- word-by-word text fidelity: **40 / 40 complete — 19 PASS / 21 PASS — corrected**;
+- visual fidelity: **40 / 40 complete — all 40 PASS**.
 
 Nine TOC/opening-heading differences remain registered and must not be normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
 ## 2008 English translation — ACTIVE
 
-The user explicitly authorized the English downstream phase after source/text/visual closure.
+Current durable state after the latest user-expanded batch:
 
-Current durable state:
-
-- English translation complete: **4 / 40**;
-- `PASS`: **4**;
-- pending: **36 / 40**;
+- English complete: **14 / 40**;
+- `PASS`: **14**;
+- pending: **26 / 40**;
 - `NEEDS REVIEW`: **0**;
 - canonical Tamil changed during English work: **No**.
 
-### Completed Story 1 — `அப்படித்தான் சிரிப்பேன்`
+Stories **1–4** remain individually closed as previously recorded.
 
-- workspace: `stories/appadithan-sirippen/`;
-- English: `translations/en/appadithan-sirippen.md`;
-- review: `TRANSLATION_REVIEW.md`;
-- source span: **scan 9 / printed 7 → top scan 10 / printed 8**;
-- physical page-boundary alignment: **PASS**;
-- final `*`: preserved;
-- result: **PASS**.
+### Latest batch — Stories 5–14
 
-### Completed Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி`
+The user explicitly changed the default one-story-per-activity rule for this activity by requesting **10 stories**. Stories **5–14** were therefore processed as one English batch and are all **PASS**.
 
-- workspace: `stories/ice-katti/`;
-- English: `translations/en/ice-katti.md`;
-- review: `TRANSLATION_REVIEW.md`;
-- title treatment: **Ice Katti**;
-- source span: **lower scan 10 / printed 8 → upper scan 11 / printed 9**;
-- physical page-boundary alignment: **PASS**;
-- TOC/opening-title variance: preserved in review/control layer;
-- applause cue and final `*`: preserved;
-- result: **PASS**.
+5. **`கூட்டணி`** — workspace `stories/koottani/`; span lower **17 / 15 → upper 18 / 16**; boundary aligned; source quotation asymmetry and one-prey/two-prey close retained.
+6. **`சீற வேண்டாமா?`** — `stories/seera-vendama/`; lower **18 / 16 → upper 19 / 17**; corrected source `ஒரு சீறு சீறி காட்டக்கூடாது என்றா சொன்னேன்.` translated without Tamil normalization; reflective close retained.
+7. **`கழுதையின் கதை`** — `stories/kazhuthaiyin-kathai/`; lower **19 / 17 → 20 / 18 → upper 21 / 19**; physical ending on scan 21 retained despite shorter TOC-derived routing; colloquial forms not normalized.
+8. **`உனக்கு வயதென்ன?`** — `stories/unakku-vayathenna/`; lower **21 / 19 → upper 22 / 20**; `ஆட்சி மொழி` → `ஆவது?` join aligned; final public-life statement preserved.
+9. **`தமிழன் என்று சொல்லடா!`** — `stories/thamizan-endru-sollada/`; lower **22 / 20 → 23–24 → upper 25 / 23**; `பெட்டி கலெக்டர்`, joined `அந்ததமிழருக்கு`, and final `சொல்லடா.. தலைநிமிர்ந்து நில்லடா...` treated as source facts.
+10. **`கடமை கண்ணியம் கட்டுப்பாடு`** — `stories/kadamai-kanniyam-kattuppadu/`; lower **25 / 23 → 26 / 24 → upper 27 / 25**; physical ending on scan 27, riddle, squirrel passage, three-line **Duty / Dignity / Discipline** display and `*` retained.
+11. TOC **`சாவிதான் இல்லை`** / opening **`சாவி தான் இல்லை`** — `stories/saavi-thaan-illai/`; lower **27 / 25 → 28 / 26**; title variance preserved; source political analogy translated directly without outside constitutional or partisan gloss.
+12. **`கண்ணில் கால்`** — `stories/kannil-kaal/`; **29 / 27 → upper 30 / 28**; physical ending on scan 30 retained; corrected `தொடவும்` translated from current verified Tamil.
+13. **`மயில் ராவணன்`** — `stories/mayil-ravanan/`; lower **30 / 28 → 31 / 29**; verified unusual `ஊடுதல் செயலாளராக` handled conservatively as **`ooduthal secretary`** rather than normalized; both `(பலத்த கைதட்டல்)` cues preserved.
+14. **`ஜாடி குட்டி போடுமா?`** — `stories/jaadi-kutti-poduma/`; **32 / 30 → upper 33 / 31**; distinct source `காப்புமுற்று`, first `காப்புமுற்றிருக்கின்றது`, later `காப்புமுற்றிருக்கிறது`, `காப்பு மடைவதாவது?` remain distinct in Tamil/control; laughter cues and `*` preserved.
 
-### Completed Story 3 — `தலையில் மலை`
+Every Story **5–14** workspace now has:
 
-- workspace: `stories/thalaiyil-malai/`;
-- English: `translations/en/thalaiyil-malai.md`;
-- review: `TRANSLATION_REVIEW.md`;
-- English title treatment: **Thalaiyil Malai**;
-- source span: **lower scan 11 / printed 9 → scans 12–15 → upper scan 16 / printed 14**;
-- source markers: **11 → 12 → 13 → 14 → 15 → 16**;
-- physical page-boundary alignment: **PASS** across all five joins;
-- scan **11** Story-2 material above the Story-3 opening: excluded;
-- scan **16** Story-4 material below the Story-3 ending: excluded;
-- source-sensitive `பீநடை` and `அமர்ச்சியப்படுத்தாமல்`: not normalized in Tamil;
-- final Tirukkural and `*`: preserved;
-- result: **PASS**.
+- a complete English file under `translations/en/`;
+- `TRANSLATION_REVIEW.md` with result **PASS**;
+- synchronized story README;
+- verified physical page-boundary alignment;
+- no Tamil change caused by translation.
 
-### Completed Story 4 — `வெறும் கை முழம் போடும்`
+## Current exact next activity — Story 15 English
 
-Workspace: `stories/verum-kai-muzham-podum/`
+Return to the default **one story per activity** unless the user explicitly expands the batch again.
 
-- English file: `translations/en/verum-kai-muzham-podum.md`;
-- review: `TRANSLATION_REVIEW.md`;
-- English title treatment: **Verum Kai Muzham Podum**;
-- source span: **lower scan 16 / printed 14 → upper scan 17 / printed 15**;
-- source markers: **16 → 17**, once and in order;
-- physical page-boundary alignment: **PASS**;
-- scan **16** Story-3 material above the Story-4 opening: excluded;
-- scan **17** Story-5 material below the Story-4 ending: excluded;
-- source opening quotation asymmetry: preserved rather than silently normalized;
-- source `வராகன்` handled conservatively as **varagan**;
-- source `அற்புதமானப் பட்டு` retained in Tamil and rendered conservatively in English;
-- final source-significant `*`: preserved;
-- canonical Tamil changed during translation: **No**;
-- result: **PASS**.
+Story 15:
 
-Important marker syntax precedent for validator compatibility: use exactly `<!-- source scan N; printed page M -->`. Put boundary notes in separate HTML comments.
+- title: **`ஒண்ணு குடுமா?`**;
+- workspace: `stories/onnu-kuduma/`;
+- verified physical span: **lower scan 33 / printed page 31 → scan 34 / printed page 32 → upper scan 35 / printed page 33**;
+- Story 14 ends above the Story-15 opening on shared scan **33**;
+- Story 16 **`அத்திரி பாச்சா`** begins below the Story-15 ending ornament on shared scan **35**.
 
-## Current exact next activity — 2008 Story 5 English
-
-Process **one story only** under `ENGLISH_TRANSLATION_GUIDE.md` unless the user explicitly expands the batch.
-
-Story 5:
-
-- title: **`கூட்டணி`**;
-- workspace: `stories/koottani/`;
-- verified physical span: **lower scan 17 / printed page 15 → upper scan 18 / printed page 16**;
-- scan 17 is shared with Story 4 and scan 18 is shared with Story 6; exclude adjacent-story material exactly according to verified page records.
-
-Before translation, read completely:
+Before Story-15 English work, read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`;
 2. `COLLECTION_SOURCE_GUIDE.md`;
@@ -146,8 +115,8 @@ Before translation, read completely:
 7. this `HANDOVER.md`;
 8. `NEXT_CHAT_PROMPT.md`;
 9. collection README, source metadata, story inventory and scan map;
-10. Story-5 README, canonical Tamil assembly, all Story-5 page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
+10. Story-15 README, canonical Tamil assembly, all Story-15 page records, page map, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, `text-fidelity.md` and `visual-fidelity.md`.
 
-Translate from the verified canonical Tamil assembly, not OCR. Check actual physical page-boundary alignment against verified Tamil page records, create the English file and `TRANSLATION_REVIEW.md`, synchronize story/collection/root controls, re-fetch live `main`, and advance the exact next target only after Story 5 is fully durable.
+Translate from the verified canonical Tamil assembly, not OCR. Check actual physical content-boundary alignment against the verified Story-15 page records. Create the English file and `TRANSLATION_REVIEW.md`, synchronize story/collection/root controls, re-fetch live `main`, and advance only after Story 15 is fully durable.
 
 Modernization, adaptation, republication and Digital Library onboarding remain outside the current authorization.
