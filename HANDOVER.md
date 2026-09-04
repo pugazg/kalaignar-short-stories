@@ -5,10 +5,11 @@
 - Repository: `pugazg/kalaignar-short-stories`
 - Branch: `main`
 - Story workflow: `SHORT_STORY_PROCESSING_GUIDE.md`
-- Anthology workflow: `COLLECTION_SOURCE_GUIDE.md`
+- Collection workflow: `COLLECTION_SOURCE_GUIDE.md`
 - Text-fidelity workflow: `TEXT_FIDELITY_CHECK_GUIDE.md`
 - Text-fidelity tracker: `TEXT_FIDELITY_PROGRESS.md`
-- Visual-fidelity workflow: `VISUAL_FIDELITY_CHECK_GUIDE.md`
+- 1977 visual-fidelity workflow/tracker: `VISUAL_FIDELITY_CHECK_GUIDE.md` / `VISUAL_FIDELITY_PROGRESS.md`
+- 2008 visual-fidelity workflow/tracker: `collections/2008-kalaignar-sonna-kathaigal/VISUAL_FIDELITY_GUIDE.md` / `collections/2008-kalaignar-sonna-kathaigal/VISUAL_FIDELITY_PROGRESS.md`
 - English-translation workflow: `ENGLISH_TRANSLATION_GUIDE.md`
 - Source PDFs / renders / crops are **not** committed.
 
@@ -19,9 +20,9 @@ Always fetch live `main` first and preserve newer durable work.
 ## Permanent source rules
 
 - controlling scan first; no silent modernization of spelling, punctuation, grammar, sandhi, names or source anomalies;
-- running headers/page numbers are furniture, not body text;
+- running headers / printed page numbers are page furniture, not body text;
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error;
-- source-supported corrections propagate through page, assembly, audit/review and dependent layers;
+- source-supported textual corrections propagate through page, assembly, audit/review and dependent layers;
 - shared physical boundary scans preserve each story's exact source span;
 - do not commit controlling PDFs or inspection artefacts.
 
@@ -35,80 +36,98 @@ Always fetch live `main` first and preserve newer durable work.
 - final English structural/control QA: **PASS**;
 - scan **260**: verified back cover.
 
-Story 29 `திடுக்கிடும் கதை` retains its later marker-only provenance correction. Canonical Tamil and English prose were unchanged; old Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` is obsolete.
+Story 29 `திடுக்கிடும் கதை` retains its later marker-only provenance correction. Canonical Tamil and English prose were unchanged; obsolete Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## Closed Tamil source pass — கலைஞர் சொன்ன கதைகள்
+## 2008 collection — closed Tamil source pass
 
-Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
+Collection: **கலைஞர் சொன்ன கதைகள்**
+
+Workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 
 Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
 
-- printed author: **டாக்டர் கலைஞர் மு. கருணாநிதி**;
-- scanned edition: **Second Edition, December 2008**;
+- author: **டாக்டர் கலைஞர் மு. கருணாநிதி**;
+- represented edition: **Second Edition, December 2008**;
 - source SHA-256: `1b2bf86892717776b1b3dc7fcb18dc146d5bfd0d60986509dc9cbbf5f235444b`;
-- file size: **24,840,000 bytes**;
 - PDF scans: **82**;
 - contents entries: **40**;
-- story text: scans **9–81 / printed 7–79**;
+- story text: scans **9–81 / printed pages 7–79**;
 - scan **82**: verified back cover, no further story text;
-- relation: **scan = printed page + 2**;
 - canonical workspaces / Tamil source complete: **40 / 40**;
-- Tamil source pending: **0 / 40**;
+- source pending: **0 / 40**;
 - blocked / unresolved source story text: **0**;
 - English from this collection: **0 / 40**.
 
 Nine TOC/opening-heading differences remain registered and must not be normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-## Closed phase — word-by-word text fidelity
+## 2008 collection — closed word-by-word text fidelity
 
-The user explicitly authorized **text fidelity for every word** with **10 stories per iteration**. That phase is now durably complete.
+Text fidelity is durably complete:
 
-### Final status
+- complete: **40 / 40**;
+- `PASS`: **19**;
+- `PASS — corrected`: **21**;
+- pending: **0**;
+- needs recheck: **0**;
+- unresolved fidelity issues: **0**;
+- story-local `text-fidelity.md`: **40 / 40**.
 
-- total: **40**
-- fidelity complete: **40 / 40**
-- `PASS`: **19**
-- `PASS — corrected`: **21**
-- pending: **0 / 40**
-- needs recheck: **0**
-- unresolved fidelity issues: **0**
-- story-local `text-fidelity.md`: **40 / 40**
+All forty stories were directly re-read against the controlling scans for every word, spelling/sandhi form, joined/separated form, punctuation, quotation mark, paragraph structure and physical page join. All confirmed corrections are synchronized through affected page records, Tamil assemblies, audits and review queues.
 
-Existing source-pass `verified` status was not treated as proof. Every story was re-read directly against the controlling scans for words, joined/separated forms, punctuation, quotation marks, paragraph boundaries and physical page joins.
+## Active phase — 2008 visual fidelity
 
-### Fidelity iteration 1 — Stories 1–10
+The user's standing collection batch rule is **10 stories per iteration**.
 
-Stories **1, 4, 5, 7, 8 and 10** passed unchanged. Stories **2, 3, 6 and 9** required source-supported corrections.
+Collection-specific guide:
 
-### Fidelity iteration 2 — Stories 11–20
+`collections/2008-kalaignar-sonna-kathaigal/VISUAL_FIDELITY_GUIDE.md`
 
-Stories **11 and 16** passed unchanged. Stories **12, 13, 14, 15, 17, 18, 19 and 20** required source-supported corrections.
+Tracker:
 
-Recovered readings include `தொடவும்`, `ஊடுதல் செயலாளராக`, first `காப்புமுற்றிருக்கின்றது`, `உயர் ஜாதிக்காரனுக்குக்`, `போர் வீரன்படம்`, `பேச்சைக்`, `என்னடா?`, and Story-20 comma/period punctuation.
+`collections/2008-kalaignar-sonna-kathaigal/VISUAL_FIDELITY_PROGRESS.md`
 
-### Fidelity iteration 3 — Stories 21–30
+### Current visual-fidelity state
 
-Stories **21, 22, 23, 26, 27, 29 and 30** passed unchanged. Stories **24, 25 and 28** required source-supported corrections.
+- total stories: **40**;
+- complete: **10 / 40**;
+- `PASS`: **10**;
+- `PASS — corrected`: **0**;
+- pending: **30 / 40**;
+- needs recheck: **0**;
+- unresolved visual-fidelity issues among completed stories: **0**.
 
-Recovered details include Story-24 `தூக்கி நிறுத்திய`, `கடிதமாகத் தீட்டினேன்`, `தொடுவான்! துவளமாட்டான்.`, `சல்லாபத்`, `தொடங்குவதற்கு`; Story-25 `புராணிகள் கூறுவர்`, `முதல்வராக அமர்ந்து அரசோச்சியவர்`, `தீர்ப்பையொட்டி`, `சொர்க்கத்தில் இருக்கலாம்`, `சொர்க்கம் செல்பவனின்`; and Story-28 `பதைத்துப் போன புலவர்`.
+### Completed visual iteration 1 — Stories 1–10
 
-### Fidelity iteration 4 — Stories 31–40
+Stories **1–10** were directly inspected across source scans **9–27**. All ten are **PASS** with no visual-structure or Tamil wording correction required.
 
-Stories **36, 38, 39 and 40** passed unchanged. Stories **31, 32, 33, 34, 35 and 37** are **PASS — corrected**.
+Collection-specific visual policy established during this iteration:
 
-Important recovered source details:
+- the recurring boxed story sequence number, vertical gutter rule and opening horizontal title rule are source-visible **collection-design furniture**; document them in story-local visual records but do not inject them into canonical prose;
+- the centered single `*` before the next story is a source-significant ending ornament and remains represented;
+- exact font, margin and ordinary prose line wrapping are not required;
+- meaningful paragraph/dialogue/display structure and physical joins are required.
 
-- Story 31: `மாட்டா (து)` → **`மாட்டா(து)`**; `எவ்வளவு நான்` → **`எவ்வளவு நாள்`**;
-- Story 32: source double quotation marks restored; `மாத்திர மல்ல`; `வருகின்ற வரை`; `குட்டியைத் தேடி`;
-- Story 33: `கரம் இழந்தான்,` → **`கரம் இழந்தான்.`**;
-- Story 34: `ஒவ்வொருவருவாக` → **`ஒவ்வொருவராக`**;
-- Story 35: `ஊதுவார்களா?`, source `அப்போது புகழேந்தி.`, source double quotation marks on scan 75, and scan-76 **`(தும், ‘தும்’, ‘பம்’, ‘பம்’, ‘தீம்..... தீம்’)`**;
-- Story 37: the completed scan-78 couplet preserves its visibly asymmetric source quotation punctuation — single opening quote and double closing quote.
+Story 3's two-line Tirukkural display and Story 10's isolated `கடமை`, `கண்ணியம்`, `கட்டுப்பாடு` display lines were checked and are already preserved.
 
-All confirmed corrections are synchronized through affected page records, Tamil assemblies, audits, review queues and story-local fidelity records.
+Story-local `visual-fidelity.md` records now exist for Stories **1–10**.
 
-## Current phase gate
+## Exact next activity — visual fidelity Stories 11–20
 
-There is **no remaining text-fidelity work** for the 2008 collection and there is no Story 41. Do not silently begin English translation, visual-fidelity review, Digital Library onboarding, adaptation, modernization or another downstream phase.
+Process **Stories 11–20 only** in one iteration:
 
-The next activity must be explicitly authorized by the user. Live `main` remains authoritative at every fresh-chat start.
+11. TOC `சாவிதான் இல்லை` / opening `சாவி தான் இல்லை` — lower scan **27 → 28**, next boundary **29**;
+12. `கண்ணில் கால்` — scan **29 → upper 30**;
+13. `மயில் ராவணன்` — lower **30 → 31**, boundary **32**;
+14. `ஜாடி குட்டி போடுமா?` — scan **32 → upper 33**;
+15. `ஒண்ணு குடுமா?` — lower **33 → 34 → upper 35**;
+16. `அத்திரி பாச்சா` — lower **35 → upper 36**;
+17. `செருப்போடு இரு` — lower **36 → upper 37**;
+18. `இடிக்குப் பின் மழை` — lower **37 → 38 → upper 39**;
+19. `நடக்குமா நடக்காதா?` — lower **39 → 40–41 → upper 42**;
+20. `கனியும் கணையும்` — lower **42 → upper 43**.
+
+For each story inspect every registered scan directly plus the boundary witness where needed. Check opening/ending structure, paragraph/dialogue fidelity, verse/display blocks, collection-design furniture, page furniture and all physical joins. Create `stories/<slug>/visual-fidelity.md`. Propagate corrections only if the scan directly supports them. Stop after Story 20; do not begin Story 21 in the same iteration.
+
+## Phase guard
+
+Visual fidelity authorizes source-faithful structural correction only. It does **not** authorize English translation, modernization, adaptation, republication or Digital Library onboarding. English may open only after visual fidelity is closed for the relevant story/collection and the user authorizes that downstream phase.
