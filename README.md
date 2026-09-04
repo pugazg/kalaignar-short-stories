@@ -62,7 +62,7 @@ Permanent guides:
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`வெறும் கை முழம் போடும்`](stories/verum-kai-muzham-podum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`கூட்டணி`](stories/koottani/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not started** |
@@ -126,18 +126,18 @@ Source registration / processing state:
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **1 / 40**
-- English translation pending: **39 / 40**
+- English translation complete from this collection: **2 / 40**
+- English translation pending: **38 / 40**
 - English translation tracker: [`collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2008-kalaignar-sonna-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — PASS**
-- latest completed English work: **Story 1 `அப்படித்தான் சிரிப்பேன்` — PASS**
-- next English target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` — lower scan 10 / printed page 8 → upper scan 11 / printed page 9**
+- latest completed English work: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` — PASS**
+- next English target: **Story 3 `தலையில் மலை` — lower scan 11 / printed page 9 → scans 12–15 → upper scan 16 / printed page 14**
 - Story-40 source boundary: **scan 81 / printed page 79**
 - final physical boundary: **scan 82 — verified back cover; no further story text**
 - Tamil source pass: **COMPLETE / CLOSED**
 - word-by-word text fidelity: **COMPLETE / CLOSED — 40 / 40**
 - visual fidelity: **COMPLETE / CLOSED — 40 / 40**
-- English translation: **IN PROGRESS — 1 / 40 PASS**
+- English translation: **IN PROGRESS — 2 / 40 PASS**
 
 Direct source processing confirms shared physical boundaries through Story 40. Nine TOC/opening title differences are registered at Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39; Story 36 is TOC `நல்லவழியும் நல்ல வழியும்` ↔ opening `நல்வழியும் நல்ல வழியும்`.
 
