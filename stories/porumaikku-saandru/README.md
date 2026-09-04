@@ -21,4 +21,15 @@ Canonical story workspace for **பொறுமைக்கு சான்ற�
 - Tamil assembly: [`sections/porumaikku-saandru.md`](sections/porumaikku-saandru.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/porumaikku-saandru.md`](translations/en/porumaikku-saandru.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **60 → 61 — PASS**
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
