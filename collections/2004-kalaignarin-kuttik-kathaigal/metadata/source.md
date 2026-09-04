@@ -42,17 +42,28 @@ No TOC was reconstructed. Direct heading inspection established **34 / 34** stor
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **12 / 34**
-- Tamil source processing complete: **12 / 34**
-- pending: **22 / 34**
+- canonical story workspaces activated: **13 / 34**
+- Tamil source processing complete: **13 / 34**
+- pending: **21 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
 
-Stories **2–12** were processed as one user-authorized 11-story source-first iteration; all are PASS with direct visual scan review and no source text left blocked or unresolved.
+Stories **2–12** were processed as one user-authorized 11-story source-first iteration; all are PASS with direct visual scan review and no source text left blocked or unresolved. Story 13 `வீரவாடி` was subsequently processed from scans **18–19** and is also PASS.
 
-## Next source target
+## Latest completed source work
 
 Story 13 **`வீரவாடி`**:
 
-- opens on scan **18 / printed page 17** below Story 12;
-- Story 14 **`சொர்க்கத்திற்கு வந்தது எப்படி?`** opens on scan **19 / printed page 18** and is the required boundary witness.
+- workspace: `stories/veeravadi/`;
+- verified span: **scan 18 / printed 17 → top scan 19 / printed 18**;
+- source records: **2 / 2 verified**;
+- audit: **PASS**;
+- blocked / unresolved: **0**;
+- Story 14 material on scan 19: excluded.
+
+## Next source target
+
+Story 14 **`சொர்க்கத்திற்கு வந்தது எப்படி?`**:
+
+- opens on scan **19 / printed page 18** below Story 13;
+- Story 15 **`கள்ளியும் ரோஜாவும்`** opens on scan **22 / printed page 21** and is the required next-opening boundary witness.
