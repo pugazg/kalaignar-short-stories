@@ -20,4 +20,17 @@ Canonical story workspace for **ஜாடி குட்டி போடும�
 - Tamil assembly: [`sections/jaadi-kutti-poduma.md`](sections/jaadi-kutti-poduma.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/jaadi-kutti-poduma.md`](translations/en/jaadi-kutti-poduma.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Jaadi Kutti Poduma?**
+- source markers: **32 → 33**; physical `இரவல் கொடுத்த` → `வன் வீட்டிற்குச் சென்று` join source-aligned
+- distinct source forms `காப்புமுற்று`, `காப்புமுற்றிருக்கின்றது`, later `காப்புமுற்றிருக்கிறது`, and `காப்பு மடைவதாவது?` preserved in the Tamil/control layer without normalization
+- `(சிரிப்பு)`, `(பலத்த சிரிப்பு)` and final `*`: preserved in English
+- canonical Tamil changed during translation: **No**
