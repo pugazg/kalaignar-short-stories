@@ -19,6 +19,19 @@ Canonical story workspace for **தமிழன் என்று சொல்�
 - Tamil assembly: [`sections/thamizan-endru-sollada.md`](sections/thamizan-endru-sollada.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
 
 Story 8 closes above the Story-9 heading on scan 22. Story 9 ends with the printed asterisk on scan 25; Story 10 `கடமை கண்ணியம் கட்டுப்பாடு` begins below it on that same scan.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/thamizan-endru-sollada.md`](translations/en/thamizan-endru-sollada.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Thamizan Endru Sollada!**
+- source markers: **22 → 23 → 24 → 25**; all physical joins source-aligned
+- unusual `பெட்டி கலெக்டர்`, joined `அந்ததமிழருக்கு`, and final punctuation handled without Tamil normalization
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
