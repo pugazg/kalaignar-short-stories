@@ -4,7 +4,9 @@ Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_க�
 
 Translation workflow: `../../ENGLISH_TRANSLATION_GUIDE.md`
 
-The 2008 collection entered English translation only after explicit user authorization. Tamil source processing, word-by-word text fidelity and visual fidelity remain closed at **40 / 40** and were not reopened by English translation.
+Final structural/control QA: [`ENGLISH_TRANSLATION_FINAL_QA.md`](ENGLISH_TRANSLATION_FINAL_QA.md)
+
+The 2008 collection entered English translation only after explicit user authorization. Tamil source processing, word-by-word text fidelity and visual fidelity remain closed at **40 / 40** and were not reopened by English translation or final QA.
 
 ## Status
 
@@ -13,11 +15,13 @@ The 2008 collection entered English translation only after explicit user authori
 - `PASS`: **40**
 - pending: **0 / 40**
 - `NEEDS REVIEW`: **0**
+- English final structural/control QA: **PASS**
 - latest completed iteration: **Stories 26–40 — 15 / 15 PASS**
 - final completed story: **Story 40 — `பந்தலிலே பாகற்காய்`**
 - final English story boundary: **scan 81 / printed page 79**
 - scan **82**: verified back-cover witness; no further story text
-- canonical Tamil changed during English work: **No**
+- canonical Tamil changed during English work or final QA: **No**
+- routine next English activity: **none — phase closed**
 
 ## Completed batching history
 
@@ -72,33 +76,18 @@ No English story remains to translate.
 | 39 | TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` | lower 80 → upper 81 | **PASS** |
 | 40 | `பந்தலிலே பாகற்காய்` | lower 81; scan 82 back-cover witness | **PASS** |
 
-## Final iteration — Stories 26–40
+## Final English controls
 
-All fifteen stories have complete English files, story-local `TRANSLATION_REVIEW.md`, synchronized story READMEs, verified source-marker sequences and independently checked physical content-boundary alignment. Every story retains its source-significant final `*`. Canonical Tamil changed during this iteration: **No**.
+All forty stories have complete English files, story-local `TRANSLATION_REVIEW.md`, synchronized story READMEs, verified source-marker sequences and independently checked physical content-boundary alignment. Every story retains its source-significant final `*`. Canonical Tamil changed during the English phase: **No**.
 
-Important controls retained in this final batch include:
+Nine TOC/opening-heading differences remain source facts and are not normalized: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
 
-- Story 27 TOC/opening punctuation variance and source `சோதரைப் போர்க்களத்தில்` without outside repair;
-- Story 28 TOC/opening punctuation variance, corrected `பதைத்துப் போன புலவர்`, and four-line verse;
-- Story 29 TOC/opening spacing variance and `பக்கத்` → `திலே` physical split;
-- Story 30 three source verse/display blocks;
-- Story 31 corrected `மாட்டா(து)` / `எவ்வளவு நாள்` and three Kamban verse blocks;
-- Story 32 corrected dialogue punctuation and source forms `மாத்திர மல்ல`, `வருகின்ற வரை`, `குட்டியைத் தேடி`;
-- Story 33 corrected `கரம் இழந்தான்.` punctuation;
-- Story 34 corrected `ஒவ்வொருவராக`;
-- Story 35 TOC/opening-title variance and `தும் / பம் / தீம் / தோம்` sound-wordplay with source parenthetical punctuation;
-- Story 36 TOC/opening-title variance and two-line `நல் வழி` verse;
-- Story 37 source-sensitive asymmetric quotation punctuation around the completed couplet;
-- Story 38 seven-line Abdul Rahman poem;
-- Story 39 TOC/opening-title variance and scan-80 → scan-81 unfinished-thought boundary;
-- Story 40 three oppari/song blocks on scan 81, with scan 82 excluded as back-cover matter.
+Story 40 is complete on scan **81 / printed page 79**. Scan **82** remains the verified physical back cover and contains no English story text.
 
-## Phase closure
+## Final QA closure
 
-**COMPLETE — 40 / 40 PASS; 0 pending; 0 NEEDS REVIEW.**
+`ENGLISH_TRANSLATION_FINAL_QA.md` records **PASS** for the 2008 collection-wide English structural/control QA. The QA reviewed the post-visual-fidelity English change set, story-level artefact coverage, tracker/review dispositions, physical page-provenance controls, title variances, final ornament policy, final source boundary and control-file agreement.
 
-The verified Tamil assemblies remain authoritative. Completion of this English phase does not authorize modernization, adaptation, republication or Digital Library onboarding.
+**ENGLISH PHASE CLOSED — 40 / 40 PASS; FINAL STRUCTURAL/CONTROL QA PASS.**
 
-## Next exact activity
-
-Run a **final 2008 English structural/control QA** across all 40 stories before opening any new downstream phase. Verify translation/review file presence, marker syntax and sequence, physical boundary coverage, final ornaments, title-variance documentation, and agreement among story READMEs, this tracker, collection controls, root README, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`.
+The verified Tamil assemblies remain authoritative. This closure does not authorize modernization, adaptation, republication, release packaging or Digital Library onboarding. Any new downstream phase requires explicit user authorization.
