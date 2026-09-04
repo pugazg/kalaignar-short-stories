@@ -20,4 +20,25 @@ Canonical story workspace for **ஒண்ணு குடுமா?**, Story 15 
 - Tamil assembly: [`sections/onnu-kuduma.md`](sections/onnu-kuduma.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/onnu-kuduma.md`](translations/en/onnu-kuduma.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Onnu Kuduma?**
+- source markers: **33 → 34 → 35**, once and in physical order
+- physical page-boundary alignment: **PASS**
+- Story-14 / Story-16 adjacent material: excluded
+- source-colloquial `ஒண்ணு கொடுத்திடு` / `ஒண்ணு குடும்மா!` ambiguity preserved as “give him one” in dialogue
+- `புல்கட்டு` and corrected `உயர் ஜாதிக்காரனுக்குக்` handled from the verified Tamil without normalization
+- `ஆதிதிராவிடப் பெண்` retained conservatively as **Adi Dravidar woman**
+- final source-significant `*`: preserved
+- canonical Tamil changed during translation: **No**
+
+## Completion state
+
+**ஒண்ணு குடுமா? is COMPLETE through reviewed English translation: Tamil source 3/3 verified, text fidelity PASS — corrected, visual fidelity PASS, English PASS, 0 blocked / 0 unresolved story text.**
