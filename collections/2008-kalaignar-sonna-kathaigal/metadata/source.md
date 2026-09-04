@@ -71,18 +71,18 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **14 / 40**
-- English translation pending from this collection: **26 / 40**
+- English translation complete from this collection: **15 / 40**
+- English translation pending from this collection: **25 / 40**
 - English translation `NEEDS REVIEW`: **0**
 - latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
-- latest completed English work: **Story 14 `ஜாடி குட்டி போடுமா?` — PASS; scan 32 / printed 30 → upper scan 33 / printed 31; Tamil unchanged**
-- latest English batch: **Stories 5–14 — 10 / 10 PASS**
-- next English target: **Story 15 `ஒண்ணு குடுமா?` — lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33**
+- latest completed English work: **Story 15 `ஒண்ணு குடுமா?` — PASS; lower scan 33 / printed 31 → scan 34 / printed 32 → upper scan 35 / printed 33; Tamil unchanged**
+- latest expanded English batch: **Stories 5–14 — 10 / 10 PASS**
+- next English target: **Story 16 `அத்திரி பாச்சா` — lower scan 35 / printed 33 → upper scan 36 / printed 34**
 - final source boundary: **scan 82 — verified physical back cover; no further story text**
 - directly registered title variances: **9** — Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39
 - Tamil source pass: **CLOSED / COMPLETE**
-- English translation phase: **IN PROGRESS — explicitly authorized, 14 / 40 PASS**
-- canonical Tamil changed during English Stories 5–14 batch: **No**
+- English translation phase: **IN PROGRESS — explicitly authorized, 15 / 40 PASS**
+- canonical Tamil changed during English Story-15 work: **No**
 
 The ninth title variance was established by direct opening review of Story 36: TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
 
