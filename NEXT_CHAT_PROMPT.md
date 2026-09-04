@@ -20,7 +20,7 @@ The 1977 anthology `கலைஞர் கருணாநிதியின் �
 
 Story 29 `திடுக்கிடும் கதை` retains its post-completion marker-only provenance correction. The obsolete pre-correction Wave-2 source pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## ACTIVE COLLECTION — கலைஞர் சொன்ன கதைகள்
+## COMPLETED TAMIL SOURCE PASS — கலைஞர் சொன்ன கதைகள்
 
 Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
 
@@ -30,30 +30,20 @@ Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 - PDF scans: **82**
 - contents: **40 stories**
 - story-text scans: **9–81 / printed pages 7–79**
-- scan **82**: back cover
-- Tamil source complete: **31 / 40**
-- Tamil source pending: **9 / 40**
+- scan **82**: verified physical back cover; no further story text
+- canonical workspaces: **40 / 40 activated**
+- Tamil source complete: **40 / 40**
+- Tamil source pending: **0 / 40**
+- completed-story blocked / unresolved story text: **0**
 - English from this collection: **0 / 40**
 
-Stories **1–31** are source-complete with **0 blocked / 0 unresolved story text**. Stories **22–31** are the completed third 10-story iteration.
+Stories **1–40** are source-complete. Story 40 `பந்தலிலே பாகற்காய்` closes on scan **81 / printed page 79**. Scan **82** is the collection back-cover boundary witness.
 
-Eight TOC/opening-heading variances are registered: Stories **2, 11, 24, 27, 28, 29, 35, 39**.
+Nine TOC/opening-heading variances are registered: Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**. Story 36 is TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
 
-## ITERATION RULE
+## MANDATORY STARTUP FOR ANY FUTURE PHASE
 
-The user explicitly instructed: **process 10 stories in each iteration**. Only nine source stories remain, so the final source iteration is **Stories 32–40**.
-
-Each story still requires:
-
-1. fresh live-main duplicate check under TOC/opening/alternate forms;
-2. direct controlling-scan verification;
-3. canonical story workspace with page records, Tamil assembly, metadata, page map, audit and persistent human-review queue;
-4. exact shared-page boundary handling;
-5. no OCR-memory or inferred prose substituted for source evidence.
-
-## MANDATORY STARTUP
-
-Read completely before source-dependent writes:
+Read completely before source-dependent or downstream writes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -64,22 +54,32 @@ Read completely before source-dependent writes:
 7. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 8. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
 
-## EXACT FINAL SOURCE ITERATION — STORIES 32–40
+## EXACT NEXT ACTIVITY — PHASE GATE
 
-Process all remaining nine stories and stop after Story 40:
+There is **no Story 41** and no further Tamil source transcription activity for this collection.
 
-32. **`மானும் பெருமானும்`** — printed **67–68**, scans **69–70**, next-boundary scan **71**;
-33. **`எழுச்சிக்கு அடையாளம்`** — printed **69**, scan **71**, boundary **72**;
-34. **`தலையும் நுனியும்`** — printed **70**, scan **72**, boundary **73**;
-35. TOC **`தும்... பம்... தீம்... தோம்`** / opening **`தும் பம் தீம் தோம்`** — printed **71–73**, scans **73–75**, boundary **76**;
-36. **`நல்லவழியும் நல்ல வழியும்`** — printed **74**, scan **76**, boundary **77**;
-37. **`நாக்குத் தமிழ் மணக்கும்`** — printed **75–76**, scans **77–78**, boundary **79**;
-38. **`நீதி தேவதையே!`** — printed **77**, scan **79**, boundary **80**;
-39. TOC **`நன்றி சொல்லும் நேரம்...`** / opening **`நன்றி சொல்லும் நேரம்`** — printed **78**, scan **80**, boundary **81**;
-40. **`பந்தலிலே பாகற்காய்`** — printed **79**, scan **81**, back-cover boundary witness **82**.
+On restart:
 
-Story 31 closes at the top of scan **69**; Story 32 begins below that already-closed asterisk. Preserve Story-31 text and begin Story 32 only below its heading boundary.
+1. fetch live `main`;
+2. confirm all collection/root controls still agree at **40 / 40 Tamil source complete; 0 pending**;
+3. preserve the verified Story-40 / scan-82 closure;
+4. do not reopen source-complete Tamil text without new source evidence or a user correction;
+5. do **not** automatically begin English translation, visual-fidelity review, Digital Library onboarding, modernization, adaptation or republication.
 
-TOC-derived ranges are routing guides only. Inspect every next-boundary scan directly: the preceding story may continue above the next story heading. For Story 40, scan 82 is the physical back-cover witness.
+Wait for the user to explicitly select or authorize the next downstream phase. If English translation is later authorized, follow `ENGLISH_TRANSLATION_GUIDE.md`; the verified Tamil assemblies remain authoritative and English stays a separate layer.
 
-The controlling PDF must be attached or otherwise resolved before page-level visual verification. Do not use OCR memory or inferred prose as a substitute for direct scan evidence.
+## FINAL SOURCE-ITERATION RECORD
+
+The last source iteration contained the remaining nine Stories 32–40:
+
+- 32 `மானும் பெருமானும்` — PASS, 3/3;
+- 33 `எழுச்சிக்கு அடையாளம்` — PASS, 2/2;
+- 34 `தலையும் நுனியும்` — PASS, 2/2;
+- 35 TOC `தும்... பம்... தீம்... தோம்` / opening `தும் பம் தீம் தோம்` — PASS, 4/4;
+- 36 TOC `நல்லவழியும் நல்ல வழியும்` / opening `நல்வழியும் நல்ல வழியும்` — PASS, 2/2;
+- 37 `நாக்குத் தமிழ் மணக்கும்` — PASS, 3/3;
+- 38 `நீதி தேவதையே!` — PASS, 2/2;
+- 39 TOC `நன்றி சொல்லும் நேரம்...` / opening `நன்றி சொல்லும் நேரம்` — PASS, 2/2;
+- 40 `பந்தலிலே பாகற்காய்` — PASS, 1/1; scan 82 back-cover witness.
+
+The controlling PDF need only be resolved again if a future activity requires new page-level source verification.
