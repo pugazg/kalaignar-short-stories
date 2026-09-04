@@ -5,7 +5,7 @@ Branch: `main`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not reset or repeat completed fidelity work because a copied checkpoint is older.
+Fetch live `main` first and preserve newer durable work. Do not reset, repeat or reopen closed source/fidelity work merely because a copied checkpoint is older.
 
 ## CLOSED 1977 ANTHOLOGY
 
@@ -20,7 +20,7 @@ Fetch live `main` first and preserve newer durable work. Do not reset or repeat 
 
 Story 29 `திடுக்கிடும் கதை` retains its post-completion marker-only provenance correction. The obsolete pre-correction Wave-2 pin `a9b333f12128686785ee981f97313a64af12e29b` must not be reused.
 
-## 2008 COLLECTION — SOURCE PASS CLOSED
+## 2008 COLLECTION — TAMIL SOURCE PASS CLOSED
 
 Controlling source: `TVA_BOK_0065857_கலைஞர்_சொன்ன_கதைகள்.pdf`
 
@@ -30,40 +30,50 @@ Collection workspace: `collections/2008-kalaignar-sonna-kathaigal/`
 - PDF scans: **82**
 - contents: **40 stories**
 - story-text scans: **9–81 / printed pages 7–79**
-- scan **82**: verified physical back cover
+- scan **82**: verified physical back cover, no further story text
 - Tamil source complete: **40 / 40**
 - Tamil source pending: **0 / 40**
 - blocked / unresolved source story text: **0**
 
-Nine TOC/opening-heading variances remain registered at Stories **2, 11, 24, 27, 28, 29, 35, 36, 39**.
+Nine TOC/opening-heading variances remain registered at Stories **2, 11, 24, 27, 28, 29, 35, 36, 39** and must not be normalized.
 
-## ACTIVE PHASE — WORD-BY-WORD TEXT FIDELITY
-
-The user explicitly requested **text fidelity for each word** and **10 stories per iteration**.
+## WORD-BY-WORD TEXT FIDELITY — CLOSED
 
 Permanent phase files:
 
 - `TEXT_FIDELITY_CHECK_GUIDE.md`
 - `TEXT_FIDELITY_PROGRESS.md`
 
-Existing `verified` Tamil must be re-read directly from the controlling scan. Do not treat the earlier source pass, OCR memory, prior-chat prose, grammar, or contextual expectation as proof of a word.
+Final durable state:
 
-### Current durable fidelity state
-
-- complete: **30 / 40**
-- `PASS`: **15**
-- `PASS — corrected`: **15**
-- pending: **10 / 40**
+- complete: **40 / 40**
+- `PASS`: **19**
+- `PASS — corrected`: **21**
+- pending: **0 / 40**
 - needs recheck: **0**
-- unresolved fidelity issue among completed stories: **0**
+- unresolved fidelity issues: **0**
+- story-local `text-fidelity.md`: **40 / 40**
 
-Stories **1–30** are fidelity-complete. In iteration 3, Stories **21, 22, 23, 26, 27, 29 and 30** passed unchanged; Stories **24, 25 and 28** required source-supported corrections. All corrections are propagated through page/assembly/audit/review layers and every Story 1–30 workspace has `text-fidelity.md`.
+All forty stories were directly re-read against the controlling scans for every word, spelling/sandhi form, joined/separated form, punctuation, quotation marks, paragraph structure and physical page join. Earlier `verified` status was not treated as proof.
 
-Important iteration-3 recovered readings include Story-24 `தூக்கி நிறுத்திய`, `கடிதமாகத் தீட்டினேன்`, `தொடுவான்! துவளமாட்டான்.`, `சல்லாபத்`, `தொடங்குவதற்கு`; Story-25 `புராணிகள் கூறுவர்`, `முதல்வராக அமர்ந்து அரசோச்சியவர்`, `தீர்ப்பையொட்டி`, `சொர்க்கத்தில் இருக்கலாம்`, `சொர்க்கம் செல்பவனின்`; and Story-28 `பதைத்துப் போன புலவர்`.
+### Final iteration — Stories 31–40
 
-## MANDATORY STARTUP
+Stories **36, 38, 39 and 40** passed unchanged. Stories **31, 32, 33, 34, 35 and 37** are **PASS — corrected**.
 
-Read completely before source-dependent writes:
+Important recovered source details include:
+
+- Story 31: `மாட்டா(து)` and `எவ்வளவு நாள் மனச் சங்கடப்பட்டிருப்பான்`;
+- Story 32: restored source double quotation marks plus `மாத்திர மல்ல`, `வருகின்ற வரை`, `குட்டியைத் தேடி`;
+- Story 33: `கரம் இழந்தான்.`;
+- Story 34: `ஒவ்வொருவராக`;
+- Story 35: `ஊதுவார்களா?`, `அப்போது புகழேந்தி.`, source double quotation marks on scan 75, and `(தும், ‘தும்’, ‘பம்’, ‘பம்’, ‘தீம்..... தீம்’)` on scan 76;
+- Story 37: the completed scan-78 couplet preserves the source's asymmetric single-opening / double-closing quotation punctuation.
+
+All affected page records, Tamil assemblies, audits, human-review queues and `text-fidelity.md` records are synchronized.
+
+## MANDATORY STARTUP FOR ANY FUTURE SOURCE-DEPENDENT WORK
+
+Read completely before source-dependent changes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -76,38 +86,8 @@ Read completely before source-dependent writes:
 9. `collections/2008-kalaignar-sonna-kathaigal/indexes/story-inventory.md`
 10. `collections/2008-kalaignar-sonna-kathaigal/indexes/scan-map.md`
 
-Inspect the latest completed story-local `text-fidelity.md` records as implementation references, but never copy their wording into another story's source text.
+## CURRENT PHASE GATE
 
-## EXACT NEXT ITERATION — STORIES 31–40
+There is **no remaining text-fidelity activity** and there is no Story 41.
 
-Process the final ten stories and stop after Story 40:
-
-31. **`இராமனைப் பற்றி இராமன்`** — lower scan **66 → 67–68 → upper 69**;
-32. **`மானும் பெருமானும்`** — lower **69 → 70 → upper 71**;
-33. **`எழுச்சிக்கு அடையாளம்`** — lower **71 → upper 72**;
-34. **`தலையும் நுனியும்`** — lower **72 → upper 73**;
-35. TOC **`தும்... பம்... தீம்... தோம்`** / opening **`தும் பம் தீம் தோம்`** — lower **73 → 74–75 → upper 76**;
-36. TOC **`நல்லவழியும் நல்ல வழியும்`** / opening **`நல்வழியும் நல்ல வழியும்`** — lower **76 → upper 77**;
-37. **`நாக்குத் தமிழ் மணக்கும்`** — lower **77 → 78 → upper 79**;
-38. **`நீதி தேவதையே!`** — lower **79 → upper 80**;
-39. TOC **`நன்றி சொல்லும் நேரம்...`** / opening **`நன்றி சொல்லும் நேரம்`** — lower **80 → upper 81**;
-40. **`பந்தலிலே பாகற்காய்`** — lower **81**; scan **82** is the verified back-cover/final-boundary witness.
-
-Story 30 closes above Story 31 on shared scan **66**. Exclude already-closed Story-30 material. Story 40 closes on scan **81**. Use scan **82** only as the verified physical back-cover witness; there is no Story 41.
-
-For each active story:
-
-1. re-fetch live `main` before source-dependent changes;
-2. inspect every source span directly at sufficient resolution;
-3. compare **every word**, source spelling/sandhi, joined/separated forms, punctuation, quotation marks, numerals, paragraphs and page joins;
-4. verify the full phrase around any suspected mismatch;
-5. propagate confirmed corrections through `pages/`, `sections/`, `audit.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md` where appropriate, and story-local `text-fidelity.md`;
-6. use `PASS` only if no word-level mismatch exists; use `PASS — corrected` after all confirmed mismatches are synchronized;
-7. keep `TEXT_FIDELITY_PROGRESS.md` synchronized;
-8. after Story 40, close the 40/40 fidelity phase in `HANDOVER.md` / this prompt and re-fetch live `main`.
-
-Do not use OCR memory or inferred prose as a substitute for direct scan verification.
-
-## PHASE GUARD
-
-This phase authorizes source-faithful word-level correction only. It does not authorize English translation, modernization, adaptation, republication, Digital Library onboarding, or work in another repository.
+Do **not** automatically begin English translation, visual-fidelity review, Digital Library onboarding, modernization, adaptation, republication or another downstream phase. Wait for explicit user authorization specifying the next phase.
