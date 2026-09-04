@@ -19,6 +19,19 @@ Canonical story workspace for **உனக்கு வயதென்ன?**, Sto
 - Tamil assembly: [`sections/unakku-vayathenna.md`](sections/unakku-vayathenna.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
 
 Story 7 closes above the Story-8 heading on scan 21. Story 8 ends with the printed asterisk on scan 22; Story 9 `தமிழன் என்று சொல்லடா!` begins below it on the same scan.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/unakku-vayathenna.md`](translations/en/unakku-vayathenna.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Unakku Vayathenna?**
+- source markers: **21 → 22**; `ஆட்சி மொழி` → `ஆவது?` join source-aligned
+- Story-7 / Story-9 adjacent text excluded
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
