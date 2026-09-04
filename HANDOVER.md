@@ -53,17 +53,17 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 
 ## Completed Tamil source work
 
-Story 1 `வள்ளுவர் சொன்ன பொய்` was completed first. The user then explicitly authorized an **11-story iteration**, Stories **2–12**. That batch is now **11 / 11 PASS**.
+Story 1 `வள்ளுவர் சொன்ன பொய்` was completed first. The user then explicitly authorized an **11-story iteration**, Stories **2–12**; that batch is **11 / 11 PASS**. Story 13 `வீரவாடி` was subsequently processed as the next source activity and is also PASS.
 
 Collection state:
 
-- activated: **12 / 34**
-- Tamil source complete: **12 / 34**
-- pending: **22 / 34**
+- activated: **13 / 34**
+- Tamil source complete: **13 / 34**
+- pending: **21 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-Completed Stories 2–12:
+Completed Stories 2–13:
 
 2. `நீயும் கைதி - நானும் கைதி` — scan 5 only — PASS
 3. `குருவி ராமேஸ்வரம்` — scans 5–6 — PASS
@@ -76,25 +76,43 @@ Completed Stories 2–12:
 10. `கொல்லப்பட வேண்டியது புலி, ஆனால்...` — scans 16–17 — PASS
 11. `அந்தக் காலத்திலே!` — scan 17 only — PASS
 12. `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` — scan 18 only — PASS
+13. `வீரவாடி` — scan 18 → top scan 19 — PASS
 
 All have canonical workspaces, page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
-Source-sensitive examples intentionally retained include Story 3 `தன்மான உணர்வுகள் அடைக்கப்பட்டது`, Story 5 `தலையென்று`, Story 7's visibly unclosed outer quotation, Story 9's source verse forms, Story 10's body-leading ellipsis, Story 11's differing `...` / `....`, and Story 12's exact `“...அம்பல் திருமாரித்திலேதானே...`.
+### Latest completed Story 13 — வீரவாடி
+
+Workspace: `stories/veeravadi/`
+
+- fresh exact-title/content-equivalence searches found **no existing canonical match**;
+- verified source span: **scan 18 / printed 17 → top scan 19 / printed 18**;
+- source records: **2 / 2 verified**;
+- page join: `அந்த ஊரையே அவர்களுக்கு` → `மானியமாக வழங்கி...`;
+- Story 14 material below the ending on scan 19 is excluded;
+- audit: **PASS**;
+- blocked / unresolved: **0**;
+- English: **not opened**.
+
+Source-sensitive `சிற்றாருக்கு` is preserved exactly from direct visual review and retained in the human-review queue rather than silently changed. Other source forms retained include `பெயர் தான்`, `இனத்தவர்க்கு`, and `இறங்குகிறீர்களோ. அந்த ஊரையே...`.
 
 ## Current exact next activity
 
-Process **Story 13 — `வீரவாடி`**.
+Process **Story 14 — `சொர்க்கத்திற்கு வந்தது எப்படி?`**.
 
-- opening: scan **18 / printed page 17**, below completed Story 12;
-- required boundary witness: Story 14 **`சொர்க்கத்திற்கு வந்தது எப்படி?`**, opening scan **19 / printed page 18**.
+Routing coordinates:
+
+- opening: scan **19 / printed page 18**, immediately below completed Story 13;
+- next opening / boundary witness: Story 15 **`கள்ளியும் ரோஜாவும்`**, scan **22 / printed page 21**.
 
 Before activation:
 
 1. fetch live `main`;
-2. read mandatory guides and current active collection controls;
+2. read mandatory guides and current active collection controls, including `TAMIL_SOURCE_PROGRESS.md` and the completed `stories/veeravadi/` workspace;
 3. perform exact-title / alternate-title / distinctive-content equivalence search;
 4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. transcribe only the verified Story-13 physical span;
+5. inspect scans **19–22** directly and adjudicate Story 14's exact ending before the Story-15 heading;
 6. preserve source spelling, punctuation, paragraph/display structure and shared-page boundary;
 7. do not begin English translation unless explicitly authorized;
-8. synchronize controls after durable closure.
+8. synchronize collection controls, root handover and next prompt after durable closure.
+
+If the controlling PDF is unavailable in a fresh chat, reattach or otherwise resolve it before page-level source work.
