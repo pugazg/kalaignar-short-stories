@@ -21,4 +21,17 @@ Canonical story workspace for **நடக்குமா நடக்காத�
 - Tamil assembly: [`sections/nadakkuma-nadakkatha.md`](sections/nadakkuma-nadakkatha.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS — corrected**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/nadakkuma-nadakkatha.md`](translations/en/nadakkuma-nadakkatha.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Will It Happen or Not?**
+- source markers / physical alignment: **39 → 40 → 41 → 42 — PASS**
+- bull → goat → hen → tea sequence, unusual tea wording, and corrected `என்னடா?` are translated from verified Tamil
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
