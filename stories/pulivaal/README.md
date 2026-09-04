@@ -21,4 +21,17 @@ Canonical story workspace for **புலிவால்**, Story 22 in the 2008
 - Tamil assembly: [`sections/pulivaal.md`](sections/pulivaal.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/pulivaal.md`](translations/en/pulivaal.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **The Tiger's Tail**
+- source markers / physical alignment: **44 → 45 — PASS**, including the quoted `நாயர் புடிச்ச` → `புலிவால்` split
+- colloquial tiger-tail forms, joined `உடும்புஅவன்`, and both applause cues remain source-controlled
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
