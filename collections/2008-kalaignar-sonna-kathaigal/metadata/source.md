@@ -71,12 +71,16 @@ Light bleed-through and normal library-use wear are visible on multiple scans. T
 - Tamil source processing complete: **40 / 40**
 - Tamil source processing pending: **0 / 40**
 - completed-story blocked / unresolved story text: **0**
-- English translation complete from this collection: **0 / 40**
-- latest completed: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
+- English translation complete from this collection: **1 / 40**
+- English translation pending from this collection: **39 / 40**
+- latest completed Tamil source work: **Story 40 `பந்தலிலே பாகற்காய்` — scan 81 / printed page 79; audit PASS; 0 blocked / 0 unresolved**
+- latest completed English work: **Story 1 `அப்படித்தான் சிரிப்பேன்` — PASS; scan 9 → top scan 10; Tamil unchanged**
+- next English target: **Story 2 — TOC `ஐஸ்கட்டி` / opening `ஐஸ் கட்டி` — lower scan 10 → upper scan 11**
 - final source boundary: **scan 82 — verified physical back cover; no further story text**
 - directly registered title variances: **9** — Stories 2, 11, 24, 27, 28, 29, 35, 36 and 39
 - Tamil source pass: **CLOSED / COMPLETE**
+- English translation phase: **IN PROGRESS — explicitly authorized**
 
 The ninth title variance was established by direct opening review of Story 36: TOC **`நல்லவழியும் நல்ல வழியும்`** ↔ opening **`நல்வழியும் நல்ல வழியும்`**.
 
-No source story remains pending after Story 40. English translation, visual-fidelity review and downstream publication work remain separate phases.
+No source story remains pending after Story 40. Source/text/visual phases remain closed; English translation is now tracked separately under `ENGLISH_TRANSLATION_PROGRESS.md`.
