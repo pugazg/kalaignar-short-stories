@@ -21,4 +21,17 @@ Canonical story workspace for **தெரியாத பேச்சு**, Stor
 - Tamil assembly: [`sections/theriyatha-pechu.md`](sections/theriyatha-pechu.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/theriyatha-pechu.md`](translations/en/theriyatha-pechu.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Speaking Without Knowing**
+- source markers / physical alignment: **45 → 46 → 47 — PASS**
+- mountain-form variation, source-open final quotation, joined `சிலபேர்`, and Lenin/India comparison remain source-faithful without outside historical gloss
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
