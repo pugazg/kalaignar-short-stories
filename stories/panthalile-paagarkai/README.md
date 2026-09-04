@@ -21,4 +21,17 @@ Canonical story workspace for **பந்தலிலே பாகற்கா�
 - Tamil assembly: [`sections/panthalile-paagarkai.md`](sections/panthalile-paagarkai.md)
 - audit: [`audit.md`](audit.md)
 - human recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
-- English translation: **not started**
+- text fidelity: **PASS**
+- visual fidelity: **PASS**
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/panthalile-paagarkai.md`](translations/en/panthalile-paagarkai.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source markers / physical alignment: **81 — PASS**
+- scan **82** remains the verified back-cover witness; no English story text assigned to it
+- three quoted oppari/song blocks and repetitions: preserved
+- final `*`: preserved
+- canonical Tamil changed during translation: **No**
