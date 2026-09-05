@@ -51,7 +51,7 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 31 | `புதிர்` | 41 | 40 | PASS |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | PASS |
 | 33 | `கைதியின் கதை` | 44 | 43 | pending |
-| 34 | `கிழவியின் மனைவி` | 47 | 46 | pending |
+| 34 | `கிழவனின் மனைவி` | 47 | 46 | pending |
 
 ## Verified shared-page boundaries through Story 32
 
@@ -69,7 +69,7 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 - scan **42 / printed 41** — Story 31 ending followed by Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்`;
 - scan **44 / printed 43** — Story 32 ending followed by Story 33 `கைதியின் கதை`.
 
-Direct source heading corrections locked in this map: Story 16 **`ஆபாசமே ஆபாசம்!`**, Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`**, Story 26 **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
+Direct source heading corrections locked in this map: Story 16 **`ஆபாசமே ஆபாசம்!`**, Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`**, Story 26 **`கூற்றுவன் எப்படிப் மறித்தான்?`**, Story 34 **`கிழவனின் மனைவி`**.
 
 ## Processing state
 
@@ -79,4 +79,4 @@ Direct source heading corrections locked in this map: Story 16 **`ஆபாச�
 - pending: **2 / 34**
 - completed-story blocked / unresolved: **0**
 
-Next: Story 33 `கைதியின் கதை`, opening scan **44 / printed 43**, with Story 34 `கிழவியின் மனைவி` on scan **47 / printed 46** as the ending-boundary witness.
+Next: Story 33 `கைதியின் கதை`, opening scan **44 / printed 43**, with Story 34 `கிழவனின் மனைவி` on scan **47 / printed 46** as the ending-boundary witness.
