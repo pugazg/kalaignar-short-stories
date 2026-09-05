@@ -65,6 +65,7 @@ Permanent guides:
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`கொள்ளைபுரம்`](stories/kollaipuram/README.md) | **Tamil source PASS — 9/9 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`எழுத்தாளர் ஏகலைவன்`](stories/ezhuthalar-ekalaivan/README.md) | **Tamil source PASS — 12/12 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -174,9 +175,9 @@ Current intake state:
 - scan **183**: back cover
 - stories: **16 / 16 physically present**
 - new short stories at intake: **5**
-- completed new-story source processing: **3 / 5 — `காந்தி தேசம்` (13/13 PASS), `அணில் குஞ்சு` (10/10 PASS), and `கொள்ளைபுரம்` (9/9 PASS); all Tamil audit PASS, visual PASS, 0 unresolved, English not started**
-- current exact next activity: **`எழுத்தாளர் ஏகலைவன்` — scans 38–49 / printed 33–44; scan 50 `மலரவில்லை` is the next-story boundary**
-- remaining after that: `மலரவில்லை`.
+- completed new-story source processing: **4 / 5 — `காந்தி தேசம்` (13/13 PASS), `அணில் குஞ்சு` (10/10 PASS), `கொள்ளைபுரம்` (9/9 PASS), and `எழுத்தாளர் ஏகலைவன்` (12/12 PASS); all Tamil audit PASS, visual PASS, 0 unresolved, English not started**
+- current exact next activity: **`மலரவில்லை` — scans 50–63 / printed 45–58; scan 64 `சுமந்தவள்` is the next-story boundary**
+- remaining new story after current checkpoint: **`மலரவில்லை` only**.
 
 ## Completed anthology source / English phase closed
 
