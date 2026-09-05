@@ -23,7 +23,7 @@ Always fetch live `main` first. Preserve newer durable state. Repository files r
 ## Closed prior collections
 
 - **1977 — கலைஞர் கருணாநிதியின் சிறுகதைகள்:** Tamil 37/37, visual 37/37, English 37/37, final English QA PASS, unresolved 0, scan 260 back cover.
-- **2008 — கலைஞர் சொன்ன கதைகள்:** Tamil 40/40, text fidelity 40/40, visual 40/40, English 40/40, final English QA PASS, unresolved 0, scan 82 back cover.
+- **2008 — கலைஞர் சொன்ன கதைகள்:** Tamil 40/40, text fidelity 40/40, visual 40/40, English 40/40, final English structural/control QA PASS, unresolved 0, scan 82 back cover.
 
 ## 2004 collection — கலைஞரின் குட்டிக் கதைகள்
 
@@ -50,30 +50,34 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 - English `PASS`: **21 / 34**
 - pending: **13 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed: **21 / 34**
-- canonical Tamil changed during English work through Story 21: **No**
+- visual-fidelity prerequisites closed: **22 / 34**
+- canonical Tamil changed during English/visual work through Story 22 visual closure: **No**
 
-### Latest completed five-story batch — Stories 17–21
+### Latest completed English batch — Stories 17–21
 
-1. **Story 17 `ஆடிக் காற்றே!`** — scan 24 only; visual PASS + English PASS; rhetorical/display structure and political metaphors retained.
-2. **Story 18 `இலங்கை மன்னர் பரம்பரை`** — scans 25→27; visual PASS + English PASS; source framing and scan-26→27 `அனுப்பு` → `கிறான்.` split remain traceable; translation does not independently endorse or correct the historical claim.
-3. **Story 19 `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`** — scans 27→28; visual PASS + English PASS; title/body ellipses, four-dot punctuation and mythological vocabulary retained.
-4. **Story 20 `சிறை கொடியது`** — scans 28→29; visual PASS + English PASS; display-poem lineation and physical page break preserved.
-5. **Story 21 `விஞ்ஞானிக்குத் தோன்றாது...`** — scan 29 only; visual PASS + English PASS; scan-confirmed heading, `முகத்தான` and internal ellipsis retained without Tamil normalization.
+Stories 17–21 remain visual PASS + English PASS. No Tamil source issue was reopened and no Tamil text changed in that batch.
 
-No Tamil source issue was reopened and no Tamil text changed in the batch.
+### Latest visual closure — Story 22
+
+**Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்`** is now visual-fidelity **PASS**.
+
+- span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**;
+- Story 21 ends above on scan 29 and is excluded;
+- Story 23 `புகழே நீ ஒரு புதிர்` begins below on scan 31 and is excluded;
+- both physical page transitions occur between complete dialogue turns;
+- source-sensitive review-queue forms and asymmetric quotation punctuation remain unchanged;
+- Tamil correction during visual review: **None**.
 
 ## Current exact next activity
 
-Close the **Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்` visual-fidelity prerequisite**.
+Translate **Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்`** into English and create `TRANSLATION_REVIEW.md`.
 
 1. Fetch live `main` first.
-2. Ensure the controlling 2004 PDF is attached/resolved.
-3. Read Story-22 README, page map, all three page records, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
-4. Directly inspect **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**. Story 21 ends above Story 22 on scan 29; Story 23 `புகழே நீ ஒரு புதிர்` begins below Story 22 on scan 31.
-5. Check exact heading/opening/ending, paragraph/dialogue/display structure, physical page joins, separators and page furniture.
-6. Create `stories/adutha-piraviyil-aindhu-kanavan/visual-fidelity.md` only if source-supported; make only independently source-supported Tamil corrections if required.
-7. Do not create Story-22 English prose until the visual gate is durably PASS.
-8. Unless the user explicitly expands batching again, process one story per activity.
+2. Read `ENGLISH_TRANSLATION_GUIDE.md`, the collection English tracker, Story-22 README, canonical Tamil assembly, visual-fidelity record and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+3. Translate from verified canonical Tamil only; do not alter the Tamil layer.
+4. Insert physical provenance markers for scans **29, 30 and 31** at the actual source page transitions, which fall between complete dialogue turns.
+5. Exclude Story 21 above and Story 23 below.
+6. Review completeness, tone, source-sensitive terms and marker alignment in `TRANSLATION_REVIEW.md`.
+7. Do not begin Story 23 in this activity unless the user explicitly expands batching.
 
-After Story 22 visual PASS, the following activity is Story-22 English translation and `TRANSLATION_REVIEW.md`.
+After Story 22 English PASS, the following activity is Story 23 `புகழே நீ ஒரு புதிர்` visual-fidelity prerequisite.

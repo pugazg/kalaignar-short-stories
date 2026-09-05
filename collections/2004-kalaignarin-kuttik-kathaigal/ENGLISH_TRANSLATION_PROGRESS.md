@@ -13,31 +13,23 @@ The user explicitly authorized the 2004 English translation phase. The verified 
 - English `PASS`: **21 / 34**
 - pending: **13 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **21 / 34**
-- canonical Tamil changed during English work through Story 21: **No**
+- visual-fidelity prerequisites closed for English: **22 / 34**
+- canonical Tamil changed during English/visual work through Story 22 visual closure: **No**
 - default batching: **one story per activity unless the user explicitly expands it**
 
-## Latest completed batch
+## Latest completed English batch
 
-The user explicitly expanded the activity to **five stories**. Stories **17–21** are now visual-fidelity **PASS** and English **PASS**:
+Stories **17–21** remain the latest completed five-story English batch; all five are visual-fidelity **PASS** and English **PASS**.
 
-| # | Story | Verified span | Visual fidelity | English |
-|---:|---|---|---|---|
-| 17 | `ஆடிக் காற்றே!` | scan 24 only | **PASS** | **PASS** |
-| 18 | `இலங்கை மன்னர் பரம்பரை` | scan 25 → top scan 27 | **PASS** | **PASS** |
-| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → top scan 28 | **PASS** | **PASS** |
-| 20 | `சிறை கொடியது` | scan 28 → top scan 29 | **PASS** | **PASS** |
-| 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | scan 29 only | **PASS** | **PASS** |
+## Latest visual prerequisite closure
 
-Direct source review covered scans **24–30**, with scan 30 used as continuation evidence for Story 22. No Tamil source correction was required in Stories 17–21.
+Story **22 `அடுத்த பிறவியில் ஐந்து கணவன்`** is now visual-fidelity **PASS** after direct inspection of **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**.
 
-Source-sensitive closure notes:
-
-- Story 17 retains its repeated rhetorical questions, political metaphors, `ஆடிக்காற்றே!...` punctuation and review-queue compounds;
-- Story 18 retains the source narrative framing, names and unusual forms, while the scan-26→27 physical split `அனுப்பு` → `கிறான்.` remains explicitly traceable;
-- Story 19 retains the title/body ellipses, four-dot punctuation, satirical `தன்னல மற்றவர்கள்!`, and mythological vocabulary;
-- Story 20 retains the display-poem structure line-for-line and the scan-28→29 break between `கூண்டில் உன்னைப் போட்டதனாலே` and `தூண்டிற் புழுவாய்த்...`;
-- Story 21 retains the scan-verified heading `விஞ்ஞானிக்குத் தோன்றாது...`, the verified unusual `முகத்தான`, and the internal `பிறகுதான்... ஆகா` pause.
+- Story 21 above on scan 29: excluded;
+- Story 23 below on scan 31: excluded;
+- scan-29→30 and scan-30→31 transitions occur between complete dialogue turns;
+- review-queue forms and asymmetric quotation punctuation remain source-faithful;
+- Tamil correction required during visual closure: **No**.
 
 ## Story queue
 
@@ -64,7 +56,7 @@ Source-sensitive closure notes:
 | 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → scan 28 | PASS | **PASS** |
 | 20 | `சிறை கொடியது` | scan 28 → scan 29 | PASS | **PASS** |
 | 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | scan 29 only | PASS | **PASS** |
-| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | lower scan 29 → scan 30 → upper scan 31 | **next — visual prerequisite** | pending |
+| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | lower scan 29 → scan 30 → upper scan 31 | **PASS** | **next — pending** |
 | 23 | `புகழே நீ ஒரு புதிர்` | scan 31 → scan 32 | not yet checked | pending |
 | 24 | `மலையைத் தூக்குவேன்!` | scan 32 → scan 34 | not yet checked | pending |
 | 25 | `முதியவர் தீர்ப்பு` | scan 34 → scan 35 | not yet checked | pending |
@@ -80,12 +72,11 @@ Source-sensitive closure notes:
 
 ## Current exact next activity
 
-Close the **Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்` visual-fidelity prerequisite** before translating it.
+Translate Story **22 `அடுத்த பிறவியில் ஐந்து கணவன்`** from its verified canonical Tamil and create `TRANSLATION_REVIEW.md`.
 
-- verified span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**;
-- Story 21 ends above Story 22 on scan 29;
-- Story 23 `புகழே நீ ஒரு புதிர்` begins below Story 22 on scan 31 and is the lower boundary witness;
-- read Story-22 README, page map, all three page records, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-- directly inspect the complete Story-22 span and create `visual-fidelity.md` only if source-supported;
-- do **not** create Story-22 English prose until the visual gate is durably PASS;
-- unless the user explicitly expands batching again, return to one story per activity.
+- use provenance markers for **scan 29 / printed 28**, **scan 30 / printed 29**, and **scan 31 / printed 30**;
+- marker placement must align to the actual source transitions between dialogue turns;
+- read `POSSIBLE_ERRORS_FOR_REVIEW.md` before translating and do not silently normalize its source-sensitive forms;
+- Story 21 above and Story 23 below are excluded;
+- do not alter verified Tamil unless a newly discovered source-supported defect requires explicit reopening;
+- do not begin Story 23 in this activity unless the user explicitly expands batching.

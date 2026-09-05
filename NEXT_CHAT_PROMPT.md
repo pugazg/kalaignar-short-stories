@@ -37,12 +37,12 @@ Read completely:
 
 - Tamil: **34 / 34 PASS, COMPLETE / CLOSED**
 - English: **21 / 34 PASS, 13 pending, 0 NEEDS REVIEW**
-- visual prerequisites: **21 / 34 PASS**
-- canonical Tamil changed during English work through Story 21: **No**
+- visual prerequisites: **22 / 34 PASS**
+- canonical Tamil changed during English/visual work through Story 22 visual closure: **No**
 
-The latest user-authorized five-story batch completed Stories **17–21** after direct source visual review across scans 24–30. Do not redo them. Default batching returns to one story unless the user explicitly expands it again.
+Stories **1–21** are English PASS. Story 22 has now passed its visual prerequisite after direct inspection of scans 29–31. Default batching is one story unless the user explicitly expands it.
 
-## CURRENT EXACT NEXT ACTIVITY — Story 22 visual gate
+## CURRENT EXACT NEXT ACTIVITY — Story 22 English
 
 Story 22: **`அடுத்த பிறவியில் ஐந்து கணவன்`**
 
@@ -50,21 +50,20 @@ Story 22: **`அடுத்த பிறவியில் ஐந்து க�
 - verified Tamil span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**
 - source records: **3 / 3 verified**
 - Tamil audit: **PASS**
+- visual fidelity: **PASS**
 - blocked / unresolved: **0**
-- English: pending
-- story-local visual fidelity: not yet closed
+- English: **pending / translation-ready**
 - upper witness: Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`** ends above on scan 29
 - lower witness: Story 23 **`புகழே நீ ஒரு புதிர்`** begins below on scan 31
 
 Read before changing anything:
 
 - `stories/adutha-piraviyil-aindhu-kanavan/README.md`
-- `indexes/page-map.md`
-- all three page records under `pages/`
 - `sections/adutha-piraviyil-aindhu-kanavan.md`
+- `visual-fidelity.md`
 - `audit.md`
 - `POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-Directly inspect scans **29–31**. Check the complete Story-22 unit, centered heading, exact opening/ending, paragraph/dialogue/display structure, both physical page joins, separators and page furniture. Stories 21 and 23 are boundary witnesses only and must remain excluded.
+Translate from verified canonical Tamil only. Create `translations/en/adutha-piraviyil-aindhu-kanavan.md` and `TRANSLATION_REVIEW.md`. Insert provenance markers for **scan 29 / printed 28**, **scan 30 / printed 29**, and **scan 31 / printed 30** at the actual physical page transitions. Both transitions occur between complete dialogue turns. Preserve source-supported ambiguity and do not silently normalize review-queue forms. Story 21 above and Story 23 below must remain excluded.
 
-Create `visual-fidelity.md` only if source-supported. Do not begin Story-22 English until that gate is durably PASS. After visual PASS, the following activity is Story-22 English translation and `TRANSLATION_REVIEW.md`.
+After Story 22 English PASS, the next activity is Story 23 `புகழே நீ ஒரு புதிர்` visual-fidelity prerequisite.

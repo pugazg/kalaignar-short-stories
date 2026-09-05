@@ -15,8 +15,8 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 
 The English layer is separate and does not reopen verified Tamil.
 
-Current English state: **21 / 34 PASS, 13 pending, 0 NEEDS REVIEW; visual prerequisites 21 / 34 PASS**.
+Current English state: **21 / 34 PASS, 13 pending, 0 NEEDS REVIEW; visual prerequisites 22 / 34 PASS**.
 
 English tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-No canonical Tamil text changed during English/visual work through Story 21.
+No canonical Tamil text changed during English/visual work through Story 22 visual closure.

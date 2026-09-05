@@ -37,12 +37,12 @@ See [`TAMIL_SOURCE_PROGRESS.md`](TAMIL_SOURCE_PROGRESS.md).
 
 **OPEN — 21 / 34 PASS, 13 pending, 0 NEEDS REVIEW.**
 
-Visual-fidelity prerequisites closed: **21 / 34**.
+Visual-fidelity prerequisites closed: **22 / 34**.
 
 See [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-Completed English Stories **1–21**. The latest user-authorized five-story batch completed **Stories 17–21** after direct visual review across scans **24–30**. All five are visual-fidelity PASS and English PASS. No canonical Tamil text changed.
+Completed English Stories **1–21**. Story 22 **`அடுத்த பிறவியில் ஐந்து கணவன்`** has now passed its direct visual-fidelity prerequisite across lower scan 29 → scan 30 → upper scan 31. No canonical Tamil text changed.
 
 ## Current exact next activity
 
-Story 22 **`அடுத்த பிறவியில் ஐந்து கணவன்`** — close its visual-fidelity prerequisite across **lower scan 29 → scan 30 → upper scan 31**. Story 21 ends above it on scan 29; Story 23 begins below it on scan 31. English must not begin until Story 22's visual gate is PASS. Default batching returns to one story unless the user explicitly expands it again.
+Translate Story 22 **`அடுத்த பிறவியில் ஐந்து கணவன்`** into English and create `TRANSLATION_REVIEW.md`. Preserve source markers for scans **29, 30 and 31** at their actual dialogue-turn boundaries; exclude Story 21 above and Story 23 below. Do not begin Story 23 in the same activity unless the user explicitly expands batching.
