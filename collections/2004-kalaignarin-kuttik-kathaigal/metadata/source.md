@@ -50,28 +50,28 @@ These corrections come from direct visual review of the printed headings and are
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **28 / 34**
-- Tamil source processing complete: **28 / 34**
-- pending: **6 / 34**
+- canonical story workspaces activated: **29 / 34**
+- Tamil source processing complete: **29 / 34**
+- pending: **5 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
 
-The latest user-authorized Stories **19–28** source-first iteration is **10 / 10 PASS** with direct visual scan review and no story text left blocked or unresolved.
+Stories **1–29** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Story 29 was then completed as the next exact activity.
 
 ## Latest completed source work
 
-Story 28 **`இளமைக் காலம்`**:
+Story 29 **`தலைவனின் பரிசு`**:
 
-- workspace: `stories/ilamai-kaalam/`;
-- verified span: **lower scan 37 / printed 36 → scan 38 / printed 37 → upper scan 39 / printed 38**;
-- source records: **3 / 3 verified**;
+- workspace: `stories/thalaivanin-parisu/`;
+- verified span: **lower scan 39 / printed 38 → scan 40 / printed 39**;
+- source records: **2 / 2 verified**;
+- scan **41 / printed 40** checked as ending-boundary witness; Story 30 begins there and no Story-29 text continues;
 - audit: **PASS**;
-- blocked / unresolved: **0**;
-- Story 29 material below the ending on scan 39: excluded.
+- blocked / unresolved: **0**.
 
 ## Next source target
 
-Story 29 **`தலைவனின் பரிசு`**:
+Story 30 **`கிருஷ்ணனையும் விடாத சாதி`**:
 
-- opens on scan **39 / printed page 38** below Story 28;
-- Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** opens on scan **41 / printed page 40** and is the required next-opening boundary witness.
+- opens on scan **41 / printed page 40**;
+- Story 31 **`புதிர்`** opens later on that same scan and is the required ending-boundary witness.
