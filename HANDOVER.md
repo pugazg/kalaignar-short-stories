@@ -80,22 +80,37 @@ Workspace: `collections/2009-16-kathaiyinile/`
 
 The earlier 150-scan / incomplete-source statement was incorrect and has been superseded.
 
+### Newly onboarded — `காந்தி தேசம்`
+
+Canonical workspace: `stories/gandhi-desam/`
+
+- printed pages: **1–13**
+- scans: **6–18**
+- next boundary: scan **19**, opening `அணில் குஞ்சு`
+- page records: **13 / 13 verified**
+- Tamil source audit: **PASS**
+- visual fidelity: **PASS**
+- blocked / unresolved story text: **0**
+- English: **not started**
+- source-close corrections confirmed by direct recheck include scan 12 `பாத்த பாங்கிலேயே`, scan 13 `வந்தது மாதிரி`, and scan 14 `தோள்மீது`.
+
+New-story source-processing status for this collection: **1 / 5 complete**.
+
 ## Remaining new short-story queue
 
-1. `காந்தி தேசம்` — scans **6–18 / printed 1–13**
-2. `அணில் குஞ்சு` — scans **19–28 / printed 14–23**
-3. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
-4. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
-5. `மலரவில்லை` — scans **50–63 / printed 45–58**
+1. `அணில் குஞ்சு` — scans **19–28 / printed 14–23**
+2. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
+3. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
+4. `மலரவில்லை` — scans **50–63 / printed 45–58**
 
 ## Current exact next activity
 
-Process **`காந்தி தேசம்`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
+Process **`அணில் குஞ்சு`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
 
-1. fetch live `main` and confirm no canonical `காந்தி தேசம்` workspace has appeared;
+1. fetch live `main` and confirm no canonical `அணில் குஞ்சு` workspace has appeared;
 2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 2009 collection README/source/inventory/scan-map;
-3. transcribe and directly visually verify scans **6–18 / printed pages 1–13**;
-4. inspect scan **19**, opening `அணில் குஞ்சு`, as the next-story boundary and exclude it from `காந்தி தேசம்`;
+3. transcribe and directly visually verify scans **19–28 / printed pages 14–23**;
+4. inspect scan **29**, opening `கொள்ளைபுரம்`, as the next-story boundary and exclude it from `அணில் குஞ்சு`;
 5. create the canonical story workspace, Tamil assembly, source metadata, audit, possible-error queue, visual-fidelity record and required controls;
-6. do not begin `அணில் குஞ்சு` in the same activity;
+6. do not begin `கொள்ளைபுரம்` in the same activity;
 7. do not process `நடுத்தெரு நாராயணி` as a short story.
