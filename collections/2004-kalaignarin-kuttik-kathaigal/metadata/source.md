@@ -43,6 +43,7 @@ No TOC was reconstructed. Direct heading inspection established **34 / 34** stor
 - Story 16: intake `அபாசமே அபாசம்!` → printed **`ஆபாசமே ஆபாசம்!`**.
 - Story 21: intake `விருந்தாளிக்குத் தோன்றாது...` → printed **`விஞ்ஞானிக்குத் தோன்றாது...`**.
 - Story 26: intake `கூற்றுவன் எப்படி மறித்தான்?` → printed **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
+- Story 34: intake `கிழவியின் மனைவி` → printed **`கிழவனின் மனைவி`**.
 
 These corrections come from direct visual review of the printed headings and are propagated through collection controls.
 
@@ -77,4 +78,4 @@ Source-sensitive forms including `ரிப்பேரில்`, `நீர்
 Story 33 **`கைதியின் கதை`**:
 
 - opens on scan **44 / printed page 43** below Story 32;
-- Story 34 **`கிழவியின் மனைவி`** opens on scan **47 / printed page 46** and is the required next-opening boundary witness.
+- Story 34 **`கிழவனின் மனைவி`** opens on scan **47 / printed page 46** and is the required next-opening boundary witness.
