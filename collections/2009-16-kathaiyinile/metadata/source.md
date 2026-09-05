@@ -3,7 +3,7 @@
 - Source filename: `TVA_BOK_0065745_16_கதையினிலே.pdf`
 - SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
 - File size: **384,978,955 bytes**
-- PDF scans supplied: **150**
+- PDF scans: **183**
 - Source PDF stored in repository: **No**
 - Printed title: **16 கதையினிலே**
 - Author: **கலைஞர் மு. கருணாநிதி**
@@ -15,9 +15,19 @@ Front matter: scan 1 cover; scan 2 title/publisher; scan 3 edition; scan 4 `ம�
 
 ## Completeness
 
-The supplied PDF ends at scan **150**, which is the opening of Story 13 `ஏழை`. Story 13 is partial; Stories 14–16 are absent. No scan beyond 150 may be inferred.
+The supplied PDF contains **183 scans** and all **16 / 16** stories are physically present.
 
-Physically available story-opening headings were checked at scans **6, 19, 29, 38, 50, 64, 82, 90, 100, 111, 126, 137, 150**.
+Story-opening headings were checked at scans **6, 19, 29, 38, 50, 64, 82, 90, 100, 111, 126, 137, 150, 155, 164, 174**.
+
+Final source boundary:
+
+- `ஏழை` — scans **150–154 / printed 145–149**
+- `கண்ணடக்கம்` — scans **155–163 / printed 150–158**
+- `வாழ முடியாதவர்கள்` — scans **164–173 / printed 159–168**
+- `அய்யோ ராஜா` — scans **174–182 / printed 169–177**
+- scan **183** — back cover
+
+The earlier repository statement that the PDF ended at scan 150 was incorrect and has been removed.
 
 ## TOC / physical anomaly
 
