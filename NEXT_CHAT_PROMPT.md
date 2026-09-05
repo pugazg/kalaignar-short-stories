@@ -1,54 +1,50 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories / 2004 collection closed
+# NEXT CHAT PROMPT — New short-story onboarding
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977, 2008, or 2004 phases because a copied checkpoint is older.
-
-## 2004 controlling source
-
-`TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
-
-- SHA-256: `33bdfb4f47bc688750fff11f967a0d2b95a93a9aa09044c0467107dae583ab04`
-- size: **98,897,868 bytes**
-- scans: **50**
-- edition: **Second Edition, March 2004**
-- story block: scans **4–49 / printed pages 3–48**
-- scan 50: verified back cover
+Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases.
 
 ## Mandatory startup
 
-Read completely before any future 2004 change:
+Read completely before source-dependent writes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
-3. `ENGLISH_TRANSLATION_GUIDE.md`
-4. `HANDOVER.md`
-5. this `NEXT_CHAT_PROMPT.md`
-6. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
-7. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-8. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
-9. `collections/2004-kalaignarin-kuttik-kathaigal/FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md`
+3. `HANDOVER.md`
+4. this `NEXT_CHAT_PROMPT.md`
+5. `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/README.md`
+6. `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/metadata/source.md`
+7. `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/indexes/story-inventory.md`
+8. `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/indexes/scan-map.md`
 
-## Durable 2004 state
+Controlling source: `TVA_BOK_0064315_திராவிட_இயக்க_எழுத்தாளர்_சிறுகதைகள்.pdf`.
 
-- Tamil source: **34 / 34 PASS — COMPLETE / CLOSED**
-- blocked / unresolved Tamil story text: **0**
-- visual fidelity: **34 / 34 PASS — COMPLETE / CLOSED**
-- English translation: **34 / 34 PASS — COMPLETE / CLOSED**
-- English pending: **0 / 34**
-- English `NEEDS REVIEW`: **0**
-- `TRANSLATION_REVIEW.md`: **34 / 34 PASS**
-- final English structural/control QA: **PASS**
-- canonical Tamil changed during English work: **No**
-- final story boundary: **scan 49 / printed 48**, centered `முற்றும்`
-- final physical witness: **scan 50**, verified back cover with no further story text
+## User scope decision
 
-The final user-authorized batch completed Stories **22–34** after their required visual gates were closed. Physical English source markers were checked against the verified page spans and shared-page boundaries. No canonical Tamil section/page/audit file was modified in the final English batch.
+Onboard the short stories missing from the repository first. **Do not process `நடுத்தெரு நாராயணி` in this short-story queue.** It will be handled separately as a short-novel work.
 
-## CURRENT EXACT NEXT ACTIVITY
+## Current exact activity — `நண்பனா?`
 
-There is **no routine next activity for the closed 2004 Tamil / visual / English phase**.
+- collection item: **9**
+- TOC title: **`நண்பனா?`**
+- opening heading: **`நண்பனா?`**
+- printed pages: **94–96**
+- PDF scans: **104–106**
+- next story first scan: **107** — `பிரேத விசாரணை`
+- canonical state at intake: **not present**
 
-Do not reopen completed stories merely to create work. Wait for an explicit new instruction. A future instruction may authorize a source-supported correction/re-audit, a publication/release/export layer, or separate repository-wide validation/documentation work.
+Process only this story: direct source transcription, page records, assembled Tamil, source/audit controls, possible-error queue and required synchronization. Do not begin the following story in the same activity.
+
+## Subsequent queue
+
+Then use `collections/2009-16-kathaiyinile/`, one story per activity:
+
+1. `காந்தி தேசம்` — scans 6–18
+2. `அணில் குஞ்சு` — scans 19–28
+3. `கொள்ளைபுரம்` — scans 29–37
+4. `எழுத்தாளர் ஏகலைவன்` — scans 38–49
+5. `மலரவில்லை` — scans 50–63
+
+The `16 கதையினிலே` supplied PDF ends at scan 150 during Story 13 `ஏழை`; do not infer missing scans.
