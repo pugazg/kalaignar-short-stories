@@ -55,55 +55,54 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 
 Current collection state:
 
-- activated: **31 / 34**
-- Tamil source complete: **31 / 34**
-- pending: **3 / 34**
+- activated: **32 / 34**
+- Tamil source complete: **32 / 34**
+- pending: **2 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–31** were then completed as successive exact activities.
+The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–32** were then completed as successive exact activities.
 
-### Story 31 — புதிர்
+### Story 32 — உயிருக்கு விலை ஐம்பது லட்சம்
 
-- workspace: `stories/pudhir/`
-- verified span: **lower scan 41 / printed 40 → upper scan 42 / printed 41**
-- source records: **2 / 2 verified**
+- workspace: `stories/uyirukku-vilai-aimbathu-latcham/`
+- verified span: **lower scan 42 / printed 41 → upper scan 44 / printed 43**
+- source records: **3 / 3 verified**
 - duplicate/content-equivalence search: **no existing canonical match**
-- Story 30 ends above on scan 41 and is excluded
-- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` begins below on scan 42 and is excluded
+- Story 31 `புதிர்` ends above on scan 42 and is excluded
+- Story 33 `கைதியின் கதை` begins below on scan 44 and is excluded
 - audit: **PASS**
 - blocked / unresolved: **0**
 - English: **not opened**
 
-The scan-41 → scan-42 transition is continuous: scan 41 ends with `கண்ணாயிரம் இப்படிச் சொன்னதும் கார்மேகம் வெகுண்டார்.` and scan 42 resumes with கார்மேகம்’s quoted `“ஏய், இப்படியெல்லாம் பேசாதே...` response.
+The scan-42 → scan-43 and scan-43 → scan-44 transitions were checked as continuous and non-duplicative. Source-sensitive forms including `ரிப்பேரில்`, `நீர்வாகத்திற்கு`, `யூனியன்,முனிசிபாலிடி,`, asymmetric `‘சே, சே... வருவதற்கில்லை.”`, `கிறுகிறுத்தது`, four-dot lead-ins `....`, `‘கன்சஷன்’`, `காசாலேதான்`, `காசாலேசா! நீ காசாலே சா!`, and the final cheque amount `ஐம்பது லட்சம்` are retained exactly as printed.
 
-Source-sensitive forms including `திகைத்துநின்றனர்`, `எனது மாமனாருக்கு வாய்ப்பு என்றால் வாய்ப்புத்தான்`, `கிள்ளைகளா;`, separate `அது வரை`, and closing quotation form `பதர்”` were directly rechecked and retained; they are human-review queue items, not confirmed errors.
-
-### Earlier heading corrections remain locked
+### Heading corrections locked in the active source controls
 
 - Story 16: **`ஆபாசமே ஆபாசம்!`**
 - Story 21: **`விஞ்ஞானிக்குத் தோன்றாது...`**
 - Story 26: **`கூற்றுவன் எப்படிப் மறித்தான்?`**
+- Story 34: **`கிழவனின் மனைவி`**
 
 ## Current exact next activity
 
-Process **Story 32 — `உயிருக்கு விலை ஐம்பது லட்சம்`**.
+Process **Story 33 — `கைதியின் கதை`**.
 
 Routing coordinates:
 
-- opening: scan **42 / printed page 41**, immediately below completed Story 31;
-- required ending-boundary witness: Story 33 **`கைதியின் கதை`**, opening scan **44 / printed page 43**.
+- opening: scan **44 / printed page 43**, immediately below completed Story 32;
+- required ending-boundary witness: Story 34 **`கிழவனின் மனைவி`**, opening scan **47 / printed page 46**.
 
 Before activation:
 
 1. fetch live `main`;
 2. read mandatory guides and current active collection controls;
-3. perform exact-title / alternate-title / distinctive-content equivalence search;
+3. perform exact-title / plausible alternate-title / distinctive-content equivalence search;
 4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. inspect the controlling PDF directly across scans **42–44** and transcribe only the verified Story-32 physical span;
-6. preserve the Story-31/32 shared boundary on scan 42 and exclude Story-33 material at/after its heading on scan 44;
+5. inspect the controlling PDF directly across scans **44–47** and transcribe only the verified Story-33 physical span;
+6. preserve the Story-32/33 shared boundary on scan 44 and exclude Story-34 material at/after its heading on scan 47;
 7. preserve source spelling, punctuation, paragraph/display structure and non-text marks;
 8. do not begin English translation unless explicitly authorized;
-9. synchronize controls after durable closure.
+9. synchronize all collection controls, root README, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after durable closure.
 
 If the controlling PDF is unavailable in a fresh chat, reattach/resolve it before source-dependent work.
