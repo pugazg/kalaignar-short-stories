@@ -53,12 +53,19 @@ The source scan was read directly; no OCR reconstruction or outside version was 
 
 ## English translation
 
-The 2004 collection English phase is **authorized / OPEN**.
+**PASS — complete and reviewed.**
 
-Story 1's separate visual-fidelity prerequisite is now **PASS** after direct inspection of scan **4 / printed 3**, the Story-1 closing paragraph at the top of scan **5 / printed 4**, and the Story-2 boundary below it. No Tamil or structural correction was required.
+- English translation: [`translations/en/valluvar-sonna-poi.md`](translations/en/valluvar-sonna-poi.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- English title treatment: **Valluvar Sonna Poi**
+- source-page markers: scan **4 / printed 3** and scan **5 / printed 4**, both present and physically aligned to the verified Tamil boundary
+- Story 2 material on scan 5: **excluded**
+- queued Tamil source-sensitive readings silently corrected: **No**
+- Tamil source issue reopened during translation: **No**
+- canonical Tamil changed during English work: **No**
 
-English prose remains **pending**. The next exact activity is to create `translations/en/valluvar-sonna-poi.md` and `TRANSLATION_REVIEW.md` from the verified canonical Tamil, with English source-page markers aligned to the physical scan-4 → scan-5 boundary.
+The source distinction between `உண்மை` and `வாய்மை` is preserved conservatively in English by retaining *vaaymai* with a first-use gloss rather than flattening both Tamil terms into the same English word. The source double exclamation in `வாய்மையா, அல்லவா!!` remains represented in the English layer.
 
 ## Completion state
 
-**வள்ளுவர் சொன்ன பொய் is Tamil source-complete: 2 / 2 source records verified, audit PASS, visual fidelity PASS, 0 blocked / 0 unresolved story text. English: authorized and translation-ready; prose pending.**
+**வள்ளுவர் சொன்ன பொய் is complete for the current 2004 workflow: Tamil 2 / 2 verified, audit PASS, visual fidelity PASS, English PASS, 0 blocked / 0 unresolved story text.**
