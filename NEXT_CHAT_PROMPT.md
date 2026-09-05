@@ -33,50 +33,50 @@ Read completely before source-dependent work:
 7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
 9. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-10. latest completed workspace `stories/pudhir/` and, as needed, Story 30 for the shared scan-41 precedent.
+10. latest completed workspace `stories/uyirukku-vilai-aimbathu-latcham/` and, as needed, Story 31 `stories/pudhir/` for the shared scan-42 precedent.
 
 ## Current durable progress
 
-- Stories **1–31**: Tamil source PASS
-- total Tamil source complete: **31 / 34**
-- pending: **3 / 34**
+- Stories **1–32**: Tamil source PASS
+- total Tamil source complete: **32 / 34**
+- pending: **2 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-### Latest completed work — Story 31
+### Latest completed work — Story 32
 
-Story 31 **`புதிர்`**:
+Story 32 **`உயிருக்கு விலை ஐம்பது லட்சம்`**:
 
-- verified story span: **lower scan 41 / printed 40 → upper scan 42 / printed 41**;
-- source records: **2 / 2 verified**;
-- Story 30 ends above on scan 41 and is excluded;
-- Story 32 begins below on scan 42 and is excluded;
+- verified story span: **lower scan 42 / printed 41 → upper scan 44 / printed 43**;
+- source records: **3 / 3 verified**;
+- Story 31 `புதிர்` ends above on scan 42 and is excluded;
+- Story 33 `கைதியின் கதை` begins below on scan 44 and is excluded;
 - audit: **PASS**;
 - blocked / unresolved: **0**.
 
-The scan-41 → scan-42 transition is continuous: scan 41 ends after `கண்ணாயிரம் இப்படிச் சொன்னதும் கார்மேகம் வெகுண்டார்.`; scan 42 resumes with `“ஏய், இப்படியெல்லாம் பேசாதே...`.
+The scan-42 → scan-43 and scan-43 → scan-44 transitions were checked as continuous and non-duplicative. Source-sensitive forms including `ரிப்பேரில்`, `நீர்வாகத்திற்கு`, `யூனியன்,முனிசிபாலிடி,`, asymmetric `‘சே, சே... வருவதற்கில்லை.”`, `கிறுகிறுத்தது`, four-dot lead-ins `....`, `‘கன்சஷன்’`, `காசாலேதான்`, `காசாலேசா! நீ காசாலே சா!`, and the final cheque amount `ஐம்பது லட்சம்` are retained exactly; do not normalize them from semantics or memory.
 
-Source-sensitive Story-31 readings including `திகைத்துநின்றனர்`, `கிள்ளைகளா;`, separate `அது வரை`, and closing quotation form `பதர்”` are retained exactly; do not normalize from semantics or memory.
+Source-heading correction already locked for the next boundary witness: Story 34 is **`கிழவனின் மனைவி`**, not the earlier intake form `கிழவியின் மனைவி`.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 32
+## CURRENT EXACT NEXT ACTIVITY — STORY 33
 
-Story 32 opening heading:
+Story 33 opening heading:
 
-**`உயிருக்கு விலை ஐம்பது லட்சம்`**
+**`கைதியின் கதை`**
 
 Routing coordinates:
 
-- opens on scan **42 / printed page 41**, below completed Story 31;
-- Story 33 **`கைதியின் கதை`** opens on scan **44 / printed page 43** and is the required ending-boundary witness.
+- opens on scan **44 / printed page 43**, below completed Story 32;
+- Story 34 **`கிழவனின் மனைவி`** opens on scan **47 / printed page 46** and is the required ending-boundary witness.
 
-### Before creating Story 32
+### Before creating Story 33
 
 1. fetch live `main` again;
 2. perform exact-title, plausible alternate-title and distinctive-content equivalence searches;
 3. if an existing canonical equivalent exists, register the 2004 source as an additional witness rather than duplicating it;
-4. otherwise create the Story-32 canonical workspace;
-5. inspect the controlling PDF directly across scans **42–44** and isolate the exact Story-32 text;
-6. exclude Story-31 material above on scan 42 and Story-33 material at/after its heading on scan 44;
+4. otherwise create the Story-33 canonical workspace;
+5. inspect the controlling PDF directly across scans **44–47** and isolate the exact Story-33 text;
+6. exclude Story-32 material above on scan 44 and Story-34 material at/after its heading on scan 47;
 7. preserve source spelling, punctuation, paragraph/display structure and non-text/source marks;
 8. do not begin English translation;
 9. synchronize collection controls, root README, `HANDOVER.md` and this prompt after durable closure.
