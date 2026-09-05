@@ -35,6 +35,10 @@ TOC: `சங்கிலிச்சாமி` starts p105. Physical scan 110 is
 
 ## Repository relationship
 
-New candidates: **`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`**. Stories 6–16 already have canonical matches.
+Intake new candidates were **`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`**. Stories 6–16 already have canonical matches.
 
-Next for this collection, after `நண்பனா?`: `காந்தி தேசம்`, scans **6–18**, with scan **19** as next-story boundary.
+Current new-story source-processing state:
+
+- `காந்தி தேசம்` — **COMPLETE / PASS**, scans **6–18 / printed 1–13**, canonical workspace `stories/gandhi-desam/`, 13/13 verified, 0 unresolved.
+- `அணில் குஞ்சு` — **NEXT**, scans **19–28 / printed 14–23**; scan **29** (`கொள்ளைபுரம்`) is the next-story boundary.
+- `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை` — pending.
