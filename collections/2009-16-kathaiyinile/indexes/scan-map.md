@@ -2,11 +2,11 @@
 
 | # | Title | Physical scans | Source state |
 |---:|---|---:|---|
-| 1 | `காந்தி தேசம்` | 6–18 | **new candidate — complete physical span** |
-| 2 | `அணில் குஞ்சு` | 19–28 | **new candidate — complete physical span** |
-| 3 | `கொள்ளைபுரம்` | 29–37 | **new candidate — complete physical span** |
-| 4 | `எழுத்தாளர் ஏகலைவன்` | 38–49 | **new candidate — complete physical span** |
-| 5 | `மலரவில்லை` | 50–63 | **new candidate — complete physical span** |
+| 1 | `காந்தி தேசம்` | 6–18 | **COMPLETE / PASS — 13/13 verified; `stories/gandhi-desam/`** |
+| 2 | `அணில் குஞ்சு` | 19–28 | **new candidate — next active story; complete physical span** |
+| 3 | `கொள்ளைபுரம்` | 29–37 | **new candidate — pending; complete physical span** |
+| 4 | `எழுத்தாளர் ஏகலைவன்` | 38–49 | **new candidate — pending; complete physical span** |
+| 5 | `மலரவில்லை` | 50–63 | **new candidate — pending; complete physical span** |
 | 6 | `சுமந்தவள்` | 64–81 | existing canonical story |
 | 7 | `புகழேந்தி` | 82–89 | existing canonical story |
 | 8 | `நளாயினி` | 90–99 | existing canonical story |
@@ -30,3 +30,5 @@
 - scan **183** — back cover
 
 All **16 / 16** story-opening scans were visually checked. The source is complete; the earlier 150-scan truncation note was incorrect and is superseded by this map.
+
+Current new-story source-processing checkpoint: **1 / 5 complete** (`காந்தி தேசம்`). Next: **`அணில் குஞ்சு`, scans 19–28 / printed 14–23; scan 29 `கொள்ளைபுரம்` is the boundary witness.**
