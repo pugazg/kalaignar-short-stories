@@ -37,9 +37,9 @@ Across the story block, **PDF scan = printed page + 1**.
 
 ## Tamil source-processing state
 
-- canonical story workspaces activated: **28 / 34**
-- Tamil source processing complete: **28 / 34**
-- Tamil source processing pending: **6 / 34**
+- canonical story workspaces activated: **29 / 34**
+- Tamil source processing complete: **29 / 34**
+- Tamil source processing pending: **5 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation for this collection: **not opened**
 
@@ -75,12 +75,13 @@ Across the story block, **PDF scan = printed page + 1**.
 | 26 | `கூற்றுவன் எப்படிப் மறித்தான்?` | `stories/kootruvan-eppadip-mariththaan/` | scan 35 only | PASS |
 | 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | `stories/veeran-thalai-kavizhnthathu-en/` | scan 36 → scan 37 | PASS |
 | 28 | `இளமைக் காலம்` | `stories/ilamai-kaalam/` | scan 37 → scan 39 | PASS |
+| 29 | `தலைவனின் பரிசு` | `stories/thalaivanin-parisu/` | lower scan 39 → scan 40 | PASS |
 
-The latest user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**. All ten have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
+The user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**. Story **29** was then processed as the next exact activity. All completed stories have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
-## Shared-page controls closed through Story 28
+## Shared-page controls closed through Story 29
 
-In addition to the earlier boundaries through Story 18:
+In addition to earlier boundaries:
 
 - scan **27 / printed 26**: Story 18 ending followed by Story 19 opening;
 - scan **28 / printed 27**: Story 19 ending followed by Story 20 opening;
@@ -90,7 +91,8 @@ In addition to the earlier boundaries through Story 18:
 - scan **34 / printed 33**: Story 24 ending followed by Story 25 opening;
 - scan **35 / printed 34**: Story 25 ending followed by complete Story 26;
 - scan **37 / printed 36**: Story 27 ending followed by Story 28 opening;
-- scan **39 / printed 38**: Story 28 ending followed by Story 29 opening.
+- scan **39 / printed 38**: Story 28 ending followed by Story 29 opening;
+- scan **40 / printed 39**: Story 29 ends; scan 41 opens Story 30.
 
 ## Canonical deduplication gate
 
@@ -98,9 +100,9 @@ Every remaining story still requires a fresh live-`main` exact-title / alternate
 
 ## Next exact activity
 
-Process **Story 29 — `தலைவனின் பரிசு`**.
+Process **Story 30 — `கிருஷ்ணனையும் விடாத சாதி`**.
 
-- opens: scan **39 / printed page 38**, immediately below the completed Story-28 ending;
-- next boundary witness: Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** opens on scan **41 / printed page 40**.
+- opens: scan **41 / printed page 40**;
+- next boundary witness: Story 31 **`புதிர்`** opens later on the **same scan 41 / printed page 40**.
 
-Do not begin Story 29 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
+Do not begin Story 30 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
