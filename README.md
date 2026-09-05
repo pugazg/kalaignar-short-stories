@@ -114,6 +114,21 @@ Permanent guides:
 | [`அந்தக் காலத்திலே!`](stories/anthak-kaalathile/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`ஆண்டவன் தரிசனம் கொடுத்த ஊர்`](stories/aandavan-dharisanam-kodutha-oor/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`வீரவாடி`](stories/veeravadi/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`சொர்க்கத்திற்கு வந்தது எப்படி?`](stories/sorgaththirku-vandhathu-eppadi/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கள்ளியும் ரோஜாவும்`](stories/kalliyum-rojavum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`ஆபாசமே ஆபாசம்!`](stories/aabasame-aabasam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`ஆடிக் காற்றே!`](stories/aadik-kaatre/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`இலங்கை மன்னர் பரம்பரை`](stories/ilangai-mannar-parambarai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`](stories/kazhuthile-oru-mudichu-atharku-oru-kathai/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`சிறை கொடியது`](stories/sirai-kodiyathu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`விஞ்ஞானிக்குத் தோன்றாது...`](stories/vignaanikku-thondraathu/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`அடுத்த பிறவியில் ஐந்து கணவன்`](stories/adutha-piraviyil-aindhu-kanavan/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`புகழே நீ ஒரு புதிர்`](stories/pugazhe-nee-oru-pudhir/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`மலையைத் தூக்குவேன்!`](stories/malaiyai-thookkuven/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`முதியவர் தீர்ப்பு`](stories/muthiyavar-theerppu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கூற்றுவன் எப்படிப் மறித்தான்?`](stories/kootruvan-eppadip-mariththaan/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`வீரன் தலை கவிழ்ந்தது ஏன்?`](stories/veeran-thalai-kavizhnthathu-en/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`இளமைக் காலம்`](stories/ilamai-kaalam/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -135,15 +150,15 @@ Source / processing state:
 - printed story pages represented: **3–48**
 - direct story-heading inventory: **34 / 34**
 - printed contents page: **none visible**
-- canonical story workspaces activated: **13 / 34**
-- Tamil source processing complete: **13 / 34**
-- Tamil source processing pending: **21 / 34**
+- canonical story workspaces activated: **28 / 34**
+- Tamil source processing complete: **28 / 34**
+- Tamil source processing pending: **6 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
-- latest completed source work: **Story 13 `வீரவாடி` — PASS; scan 18 → top scan 19**
-- next source work: **Story 14 `சொர்க்கத்திற்கு வந்தது எப்படி?` — scan 19 / printed page 18; Story 15 opens scan 22 / printed page 21**
+- latest completed source work: **Story 28 `இளமைக் காலம்` — PASS; scan 37 → top scan 39**
+- next source work: **Story 29 `தலைவனின் பரிசு` — scan 39 / printed page 38; Story 30 opens scan 41 / printed page 40**
 
-Stories 1–13 are Tamil source-complete. The latest source join for Story 13 is `அந்த ஊரையே அவர்களுக்கு` → `மானியமாக வழங்கி...`. Source-sensitive `சிற்றாருக்கு` is retained exactly from the controlling scan and remains a human-review queue item, not a confirmed error.
+Stories **1–28 are Tamil source-complete**. The latest user-authorized Stories **19–28** iteration is **10 / 10 PASS**. Direct activation review corrected source headings for Story 16 (`ஆபாசமே ஆபாசம்!`), Story 21 (`விஞ்ஞானிக்குத் தோன்றாது...`) and Story 26 (`கூற்றுவன் எப்படிப் மறித்தான்?`); those source-verified forms are authoritative.
 
 ## Registered anthology source
 
