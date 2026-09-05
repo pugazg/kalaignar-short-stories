@@ -10,8 +10,9 @@ Story **22 / 34** in **கலைஞரின் குட்டிக் கத�
 - visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS**
 - blocked / unresolved story text: **0**
 - Tamil assembly: [`sections/adutha-piraviyil-aindhu-kanavan.md`](sections/adutha-piraviyil-aindhu-kanavan.md)
-- English: **pending / translation-ready**
+- English: [`translations/en/adutha-piraviyil-aindhu-kanavan.md`](translations/en/adutha-piraviyil-aindhu-kanavan.md) — **PASS**
+- English review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — **PASS**
 
-The controlling scans were re-read directly for the English prerequisite. The two physical page transitions occur between complete dialogue turns; neighbouring Stories 21 and 23 remain excluded. Source-sensitive `உலகா`, `குஷ்டரோகம`, `உன் பதிவத்தை!`, `பத்திபக்தி`, `வேதனைகளமாயிருக்கிறது` and asymmetric quotation punctuation remain unchanged.
+Physical English markers align to scans **29 → 30 → 31** at the verified dialogue-turn boundaries. Neighbouring Stories 21 and 23 remain excluded. Source-sensitive review-queue forms were not used to alter the Tamil layer.
 
-**PASS — Tamil source-complete and visual-fidelity closed; English translation may now begin.**
+**PASS — Tamil source-complete, visual-fidelity closed, English complete and reviewed.**
