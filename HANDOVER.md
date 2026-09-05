@@ -50,22 +50,28 @@ Workspace: `collections/2009-16-kathaiyinile/`
 - source: `TVA_BOK_0065745_16_கதையினிலே.pdf`
 - SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
 - size: **384,978,955 bytes**
-- scans supplied: **150**
+- scans: **183**
 - represented edition: **Fourth Edition, March 2009**
 - TOC: **16 stories**
+- story block: scans **6–182**
+- scan **183**: back cover
+- physical story openings checked: **16 / 16**
 - new short stories: **5**
 - canonical matches: **11**
-- supplied source is incomplete: Story 13 `ஏழை` is partial at scan 150; Stories 14–16 are absent.
+- source completeness: **complete — all 16 stories present**
+- final spans: `ஏழை` 150–154; `கண்ணடக்கம்` 155–163; `வாழ முடியாதவர்கள்` 164–173; `அய்யோ ராஜா` 174–182.
 - preserved anomaly: TOC places `சங்கிலிச்சாமி` at p105, while physical p105 on scan 110 still closes `குப்பைத் தொட்டி`; heading is scan 111.
+
+The earlier 150-scan / incomplete-source statement was incorrect and has been superseded.
 
 ## New short-story queue
 
 1. `நண்பனா?` — scans 104–106 / printed 94–96
-2. `காந்தி தேசம்` — scans 6–18 / TOC 1–13
-3. `அணில் குஞ்சு` — scans 19–28 / 14–23
-4. `கொள்ளைபுரம்` — scans 29–37 / 24–32
-5. `எழுத்தாளர் ஏகலைவன்` — scans 38–49 / 33–44
-6. `மலரவில்லை` — scans 50–63 / 45–58
+2. `காந்தி தேசம்` — scans 6–18 / printed 1–13
+3. `அணில் குஞ்சு` — scans 19–28 / printed 14–23
+4. `கொள்ளைபுரம்` — scans 29–37 / printed 24–32
+5. `எழுத்தாளர் ஏகலைவன்` — scans 38–49 / printed 33–44
+6. `மலரவில்லை` — scans 50–63 / printed 45–58
 
 ## Current exact next activity
 
