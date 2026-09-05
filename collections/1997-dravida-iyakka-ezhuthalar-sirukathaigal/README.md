@@ -17,13 +17,12 @@ Collection workspace for **`திராவிட இயக்க எழுத�
 
 ## Repository relationship
 
-The printed contents contain ten works. Current live-`main` deduplication gives:
+The printed contents contain ten works. Current live-`main` state gives:
 
-- **8** titles already represented by canonical story workspaces;
-- **1** new short-story candidate: **`நண்பனா?`**;
+- **9** short-story titles represented by canonical story workspaces, including newly onboarded **`நண்பனா?`**;
 - **1** work, **`நடுத்தெரு நாராயணி`**, deliberately **deferred from short-story onboarding**. The user has identified it as a short novel; it will be handled separately and must not be silently forced into a short-story workspace.
 
-Existing titles remain additional-source witnesses only until a later explicit comparison activity.
+The eight stories that pre-existed this source remain additional-source witnesses only until a later explicit comparison activity.
 
 ## Physical structure
 
@@ -36,13 +35,23 @@ Existing titles remain additional-source witnesses only until a later explicit c
 
 All ten calculated opening scans were visually checked against the supplied source.
 
+## New-story processing
+
+**`நண்பனா?` — COMPLETE / PASS**
+
+- canonical workspace: [`stories/nanbana/`](../../stories/nanbana/README.md)
+- printed pages: **94–96**
+- scans: **104–106**
+- page records: **3 / 3 verified**
+- Tamil audit: **PASS**
+- visual fidelity: **PASS**
+- blocked / unresolved story text: **0**
+- scan **103** checked as the preceding `தொத்துக்கிளி` boundary
+- scan **107** checked as the next `பிரேத விசாரணை` boundary
+- English: **not started**
+
 ## Current exact next activity
 
-Process only the new short story **`நண்பனா?`**:
+There is no further new short-story transcription in this 1997 collection. **Do not process `நடுத்தெரு நாராயணி` here.**
 
-- TOC / opening title: `நண்பனா?`
-- printed pages: **94–96**
-- PDF scans: **104–106**
-- next physical boundary: scan **107**, opening `பிரேத விசாரணை`
-
-Do not begin `நடுத்தெரு நாராயணி` as part of this short-story activity.
+Continue the missing-short-story onboarding queue with the 2009 collection `16 கதையினிலே`: process **`காந்தி தேசம்`**, scans **6–18 / printed pages 1–13**, using scan **19** (`அணில் குஞ்சு`) as the next-story boundary.
