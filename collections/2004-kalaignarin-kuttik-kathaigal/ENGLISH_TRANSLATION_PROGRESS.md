@@ -14,8 +14,8 @@ The user has explicitly authorized the English translation phase for this 2004 c
 - `PASS`: **1**
 - pending: **33 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **1 / 34**
-- canonical Tamil changed during English-phase opening / Story-1 visual closure / Story-1 translation: **No**
+- visual-fidelity prerequisites closed for English: **2 / 34**
+- canonical Tamil changed during English-phase opening / Story-1 work / Story-2 visual closure: **No**
 - default batching: **one story per activity**, unless the user explicitly expands the batch
 
 ## Latest completed English work
@@ -37,12 +37,28 @@ Story 1 `வள்ளுவர் சொன்ன பொய்` is **PASS**.
 
 The English keeps *kural* and *vaaymai* conservatively, preserves the `உண்மை` / `வாய்மை` distinction, retains the source double exclamation in the corresponding English sentence, and does not substitute conventional Tirukkural wording for the verified closing source form.
 
+## Latest translation-gate closure
+
+Story 2 `நீயும் கைதி - நானும் கைதி` is now **translation-ready**.
+
+- Tamil source records: **1 / 1 verified**;
+- Tamil audit: **PASS**;
+- blocked / unresolved story text: **0**;
+- verified physical span: **scan 5 / printed page 4 only**;
+- visual fidelity: **PASS**;
+- upper same-page boundary: Story 1 ends above and is excluded;
+- lower same-page boundary: Story 3 `குருவி ராமேஸ்வரம்` begins below and is excluded;
+- heading framing, three prose paragraphs and the two separate closing display lines were directly checked;
+- visual-fidelity corrections: **none**;
+- canonical Tamil changed during visual closure: **No**;
+- English prose: **pending**.
+
 ## Story queue
 
 | # | Story | Verified physical span | Visual-fidelity gate for English | English |
 |---:|---|---|---|---|
 | 1 | `வள்ளுவர் சொன்ன பொய்` | scan 4 → top scan 5 | **PASS** | **PASS** |
-| 2 | `நீயும் கைதி - நானும் கைதி` | scan 5 only | **next — record prerequisite** | pending |
+| 2 | `நீயும் கைதி - நானும் கைதி` | scan 5 only | **PASS — ready for English** | pending |
 | 3 | `குருவி ராமேஸ்வரம்` | scan 5 → scan 6 | not yet checked for English gate | pending |
 | 4 | `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` | scan 6 → scan 11 | not yet checked for English gate | pending |
 | 5 | `கடலைத் தூர்ப்பது மிக எளிது` | scan 11 → scan 13 | not yet checked for English gate | pending |
@@ -78,16 +94,15 @@ The English keeps *kural* and *vaaymai* conservatively, preserves the `உண்
 
 ## Current exact next activity
 
-Close the **Story 2 `நீயும் கைதி - நானும் கைதி` visual-fidelity prerequisite** before translating it.
+Translate **Story 2 `நீயும் கைதி - நானும் கைதி`** into English.
 
-- Story 2 is entirely on scan **5 / printed page 4**;
-- Story 1 `வள்ளுவர் சொன்ன பொய்` ends above it on the same physical scan and must remain excluded;
-- Story 3 `குருவி ராமேஸ்வரம்` begins below it on the same physical scan and is the next-story boundary witness;
-- read Story-2 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-- directly inspect the complete Story-2 span on scan 5 for heading/opening/ending structure, paragraph/dialogue/display fidelity, separators and page furniture;
-- create `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md` if the source supports closure;
-- make only source-supported structural/text corrections if independently required;
-- do **not** create Story-2 English prose until that prerequisite is durably `PASS`;
+- read the verified Tamil assembly, Story-2 page record, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, page map and `visual-fidelity.md`;
+- create `stories/neeyum-kaithi-naanum-kaithi/translations/en/neeyum-kaithi-naanum-kaithi.md`;
+- create `stories/neeyum-kaithi-naanum-kaithi/TRANSLATION_REVIEW.md`;
+- preserve provenance with `<!-- source scan 5; printed page 4 -->` before the translated Story-2 content;
+- Story 2 is entirely on this single source page, so that marker section must contain the complete translated story and the two separate closing display lines;
+- exclude Story 1 above and Story 3 below on the shared scan;
+- read and respect the possible-error queue; do not silently normalize `உனக்கென்ன வாழ்கிறதாம்!` or merge the two closing lines;
 - do not begin Story 3 in the same activity.
 
-Story 2 may enter English only after its visual-fidelity prerequisite is committed and the downstream controls are synchronized.
+Story 2 counts as English-complete only after the English file, translation review and downstream controls are synchronized and re-fetched from live `main`.
