@@ -132,6 +132,7 @@ Permanent guides:
 | [`தலைவனின் பரிசு`](stories/thalaivanin-parisu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`கிருஷ்ணனையும் விடாத சாதி`](stories/krishnanaiyum-vidaatha-saathi/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`புதிர்`](stories/pudhir/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`உயிருக்கு விலை ஐம்பது லட்சம்`](stories/uyirukku-vilai-aimbathu-latcham/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -153,15 +154,15 @@ Source / processing state:
 - printed story pages represented: **3–48**
 - direct story-heading inventory: **34 / 34**
 - printed contents page: **none visible**
-- canonical story workspaces activated: **31 / 34**
-- Tamil source processing complete: **31 / 34**
-- Tamil source processing pending: **3 / 34**
+- canonical story workspaces activated: **32 / 34**
+- Tamil source processing complete: **32 / 34**
+- Tamil source processing pending: **2 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
-- latest completed source work: **Story 31 `புதிர்` — PASS; lower scan 41 → upper scan 42**
-- next source work: **Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` — scan 42 / printed page 41; Story 33 opens scan 44 / printed page 43**
+- latest completed source work: **Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` — PASS; lower scan 42 → upper scan 44**
+- next source work: **Story 33 `கைதியின் கதை` — scan 44 / printed page 43; Story 34 `கிழவனின் மனைவி` opens scan 47 / printed page 46**
 
-Stories **1–31 are Tamil source-complete**. Story 31 has **2 / 2 verified** source records and is bounded by Story 30 above on scan 41 and Story 32 below on scan 42. The source-supported heading corrections for Stories 16, 21 and 26 remain authoritative.
+Stories **1–32 are Tamil source-complete**. Story 32 has **3 / 3 verified** source records and is bounded by Story 31 `புதிர்` above on scan 42 and Story 33 `கைதியின் கதை` below on scan 44. The source-supported heading corrections for Stories 16, 21, 26 and 34 remain authoritative; Story 34 is **`கிழவனின் மனைவி`**.
 
 ## Registered anthology source
 
