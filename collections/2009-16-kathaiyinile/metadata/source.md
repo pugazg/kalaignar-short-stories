@@ -40,5 +40,6 @@ Intake new candidates were **`காந்தி தேசம்`, `அணில
 Current new-story source-processing state:
 
 - `காந்தி தேசம்` — **COMPLETE / PASS**, scans **6–18 / printed 1–13**, canonical workspace `stories/gandhi-desam/`, 13/13 verified, 0 unresolved.
-- `அணில் குஞ்சு` — **NEXT**, scans **19–28 / printed 14–23**; scan **29** (`கொள்ளைபுரம்`) is the next-story boundary.
-- `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை` — pending.
+- `அணில் குஞ்சு` — **COMPLETE / PASS**, scans **19–28 / printed 14–23**, canonical workspace `stories/anil-kunju/`, 10/10 verified, 0 unresolved.
+- `கொள்ளைபுரம்` — **NEXT**, scans **29–37 / printed 24–32**; scan **38** (`எழுத்தாளர் ஏகலைவன்`) is the next-story boundary.
+- `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை` — pending.
