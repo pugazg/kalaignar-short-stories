@@ -2,11 +2,11 @@
 
 | # | TOC title | Opening heading in supplied PDF | Printed / TOC range | Physical scans | Repository state |
 |---:|---|---|---|---:|---|
-| 1 | `காந்தி தேசம்` | `காந்தி தேசம்` | 1–13 | 6–18 | **NEW** |
-| 2 | `அணில் குஞ்சு` | `அணில் குஞ்சு` | 14–23 | 19–28 | **NEW** |
-| 3 | `கொள்ளைபுரம்` | `கொள்ளைபுரம்` | 24–32 | 29–37 | **NEW** |
-| 4 | `எழுத்தாளர் ஏகலைவன்` | `எழுத்தாளர் ஏகலைவன்` | 33–44 | 38–49 | **NEW** |
-| 5 | `மலரவில்லை` | `மலரவில்லை` | 45–58 | 50–63 | **NEW** |
+| 1 | `காந்தி தேசம்` | `காந்தி தேசம்` | 1–13 | 6–18 | **COMPLETE / PASS — 13/13 verified; Tamil audit PASS; visual PASS; 0 unresolved — `stories/gandhi-desam/`** |
+| 2 | `அணில் குஞ்சு` | `அணில் குஞ்சு` | 14–23 | 19–28 | **NEW — next active story** |
+| 3 | `கொள்ளைபுரம்` | `கொள்ளைபுரம்` | 24–32 | 29–37 | **NEW — pending** |
+| 4 | `எழுத்தாளர் ஏகலைவன்` | `எழுத்தாளர் ஏகலைவன்` | 33–44 | 38–49 | **NEW — pending** |
+| 5 | `மலரவில்லை` | `மலரவில்லை` | 45–58 | 50–63 | **NEW — pending** |
 | 6 | `சுமந்தவள்` | `சுமந்தவள்` | 59–76 | 64–81 | canonical exists |
 | 7 | `புகழேந்தி` | `புகழேந்தி` | 77–84 | 82–89 | canonical exists |
 | 8 | `நளாயினி` | `நளாயினி` | 85–94 | 90–99 | canonical exists |
@@ -21,4 +21,4 @@
 
 Scan **183** is the back cover.
 
-Summary: TOC **16 / 16** registered; physical opening headings **16 / 16** checked; **5** new short stories; **11** canonical matches; all sixteen story spans are present in the supplied 183-scan PDF.
+Summary: TOC **16 / 16** registered; physical opening headings **16 / 16** checked; intake new short stories **5**; new-story source processing **1 / 5 complete** (`காந்தி தேசம்`); remaining new stories **4**; existing canonical matches **11**; all sixteen story spans are present in the supplied 183-scan PDF.
