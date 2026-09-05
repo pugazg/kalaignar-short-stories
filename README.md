@@ -102,16 +102,16 @@ Permanent guides:
 | [`நன்றி சொல்லும் நேரம்`](stories/nandri-sollum-neram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`பந்தலிலே பாகற்காய்`](stories/panthalile-paagarkai/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`வள்ளுவர் சொன்ன பொய்`](stories/valluvar-sonna-poi/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`நீயும் கைதி - நானும் கைதி`](stories/neeyum-kaithi-naanum-kaithi/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **translation-ready — visual PASS; English pending** |
-| [`குருவி ராமேஸ்வரம்`](stories/kuruvi-rameswaram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`பெண்களுக்கு ஏன் - மீசை தாடியில்லை?`](stories/pengalukku-en-meesai-thadiyillai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`கடலைத் தூர்ப்பது மிக எளிது`](stories/kadalai-thoorppathu-miga-elithu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`மனைவி சொன்ன விளக்கம்`](stories/manaivi-sonna-vilakkam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`நாதம் எழாது - நரம்புதான் அறும்`](stories/naatham-ezhaathu-narambuthaan-arum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`அவள் சொன்னாள்`](stories/aval-sonnaal/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்`](stories/iruvarum-koodiyiruppathu-aathi-maalaithaan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`கொல்லப்பட வேண்டியது புலி, ஆனால்...`](stories/kollappada-vendiyathu-puli-aanaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`அந்தக் காலத்திலே!`](stories/anthak-kaalathile/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`நீயும் கைதி - நானும் கைதி`](stories/neeyum-kaithi-naanum-kaithi/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`குருவி ராமேஸ்வரம்`](stories/kuruvi-rameswaram/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`பெண்களுக்கு ஏன் - மீசை தாடியில்லை?`](stories/pengalukku-en-meesai-thadiyillai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கடலைத் தூர்ப்பது மிக எளிது`](stories/kadalai-thoorppathu-miga-elithu/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`மனைவி சொன்ன விளக்கம்`](stories/manaivi-sonna-vilakkam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நாதம் எழாது - நரம்புதான் அறும்`](stories/naatham-ezhaathu-narambuthaan-arum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`அவள் சொன்னாள்`](stories/aval-sonnaal/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்`](stories/iruvarum-koodiyiruppathu-aathi-maalaithaan/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கொல்லப்பட வேண்டியது புலி, ஆனால்...`](stories/kollappada-vendiyathu-puli-aanaal/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`அந்தக் காலத்திலே!`](stories/anthak-kaalathile/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஆண்டவன் தரிசனம் கொடுத்த ஊர்`](stories/aandavan-dharisanam-kodutha-oor/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`வீரவாடி`](stories/veeravadi/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`சொர்க்கத்திற்கு வந்தது எப்படி?`](stories/sorgaththirku-vandhathu-eppadi/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not opened** |
@@ -160,19 +160,20 @@ Source / processing state:
 - Tamil source processing complete: **34 / 34**
 - Tamil source processing pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
-- English translation: **OPEN — 1 / 34 PASS, 33 pending**
+- English translation: **OPEN — 11 / 34 PASS, 23 pending**
 - English translation tracker: [`collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed source work: **Story 34 `கிழவனின் மனைவி` — PASS; lower scan 47 → scan 49**
-- latest completed English work: **Story 1 `வள்ளுவர் சொன்ன பொய்` — PASS; scan 4 → top scan 5**
-- latest English translation gate: **Story 2 `நீயும் கைதி - நானும் கைதி` — visual PASS; scan 5 only; translation-ready**
-- visual-fidelity prerequisites closed for 2004 English: **2 / 34**
+- latest completed English work: **Story 11 `அந்தக் காலத்திலே!` — PASS; scan 17 only**
+- latest completed English batch: **Stories 7–11 — 5 / 5 PASS**
+- visual-fidelity prerequisites closed for 2004 English: **11 / 34**
+- next English gate: **Story 12 `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` — visual prerequisite on scan 18 / printed 17**
 - final story boundary: **scan 49 / printed page 48 — centered `முற்றும்`**
 - final physical boundary: **scan 50 — verified back cover; no further story text**
 - Tamil source phase: **COMPLETE / CLOSED**
 
 Stories **1–34 are Tamil source-complete**. Story 34 has **3 / 3 verified** source records and is bounded above by Story 33 `கைதியின் கதை` on shared scan 47. The lower-page library stamp on scan 49 does not obscure story text. The source-supported heading corrections for Stories 16, 21, 26 and 34 remain authoritative; Story 34 is **`கிழவனின் மனைவி`**.
 
-No routine Tamil source work remains for the 2004 collection. The English phase is explicitly **OPEN**. Story 1 `வள்ளுவர் சொன்ன பொய்` is English PASS with aligned scan-4 / scan-5 provenance and no Tamil changes. Story 2 `நீயும் கைதி - நானும் கைதி` has visual-fidelity PASS on scan 5 / printed page 4 and is translation-ready. The current exact next activity is Story 2 English translation and `TRANSLATION_REVIEW.md`; Story 3 must not begin in the same activity.
+No routine Tamil source work remains for the 2004 collection. The English phase is **OPEN**. Stories **1–11 are English PASS** and visual-fidelity PASS, with no canonical Tamil changes. The current exact activity is Story 12 `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` visual-fidelity closure on scan 18 / printed page 17; Story 13 `வீரவாடி` begins later on that same scan and is the lower boundary witness. Story 12 English must not begin until its visual gate is PASS.
 
 ## Registered anthology source
 
