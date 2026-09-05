@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977/2008 collections, the closed 2004 Tamil phase, or completed 2004 English Stories 1–6 because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977/2008 work, the closed 2004 Tamil phase, or completed 2004 English Stories 1–11 because a copied checkpoint is older.
 
 ## Controlling source
 
@@ -31,40 +31,39 @@ Read completely:
 6. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
 7. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
-9. Story-7 workspace files listed below
+9. Story-12 workspace files listed below
 
 ## Durable state
 
 - Tamil: **34 / 34 PASS, COMPLETE / CLOSED**
-- English: **6 / 34 PASS, 28 pending, 0 NEEDS REVIEW**
-- visual prerequisites: **6 / 34 PASS**
-- canonical Tamil changed during English work through Story 6: **No**
+- English: **11 / 34 PASS, 23 pending, 0 NEEDS REVIEW**
+- visual prerequisites: **11 / 34 PASS**
+- canonical Tamil changed during English work through Story 11: **No**
 
-Completed English Stories 1–6: `வள்ளுவர் சொன்ன பொய்`, `நீயும் கைதி - நானும் கைதி`, `குருவி ராமேஸ்வரம்`, `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?`, `கடலைத் தூர்ப்பது மிக எளிது`, `மனைவி சொன்ன விளக்கம்`.
+The latest user-authorized five-story batch completed Stories **7–11** after direct source visual review. Do not redo them. Default batching returns to one story unless the user explicitly expands it again.
 
-The latest activity was explicitly expanded by the user to five stories and completed Stories 2–6. Default batching now returns to one story unless the user expands it again.
+## CURRENT EXACT NEXT ACTIVITY — Story 12 visual gate
 
-## CURRENT EXACT NEXT ACTIVITY — Story 7 visual gate
+Story 12: **`ஆண்டவன் தரிசனம் கொடுத்த ஊர்`**
 
-Story 7: **`நாதம் எழாது - நரம்புதான் அறும்`**
-
-- workspace: `stories/naatham-ezhaathu-narambuthaan-arum/`
-- verified Tamil span: **scan 14 → scan 15**
-- source records: **2 / 2 verified**
+- workspace: `stories/aandavan-dharisanam-kodutha-oor/`
+- verified Tamil span: **scan 18 / printed page 17 only**
+- source records: **1 / 1 verified**
 - Tamil audit: **PASS**
 - blocked / unresolved: **0**
 - English: pending
 - story-local visual fidelity: not yet closed
+- lower same-page witness: Story 13 **`வீரவாடி`** begins later on scan 18
 
 Read before changing anything:
 
-- `stories/naatham-ezhaathu-narambuthaan-arum/README.md`
+- `stories/aandavan-dharisanam-kodutha-oor/README.md`
 - `indexes/page-map.md`
-- both files under `pages/`
-- `sections/naatham-ezhaathu-narambuthaan-arum.md`
+- the page record under `pages/`
+- `sections/aandavan-dharisanam-kodutha-oor.md`
 - `audit.md`
 - `POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-Directly inspect scan **14 → 15**, using Story 6 above on scan 14 and Story 8 `அவள் சொன்னாள்` after Story 7 as boundary witnesses. Check heading, exact opening/ending, paragraphs/dialogue/display structure, page furniture and the scan-14→15 physical join.
+Directly inspect scan **18 / printed 17**. Check the complete Story-12 unit, its centered heading, opening/ending, paragraph/dialogue/display structure, horizontal separators and page furniture. Story 13 below is only a boundary witness and must remain excluded.
 
-Create `visual-fidelity.md` only if source-supported. Do not begin Story-7 English in the same activity until the gate is durably PASS. After visual PASS, the following activity is Story-7 English translation and `TRANSLATION_REVIEW.md`.
+Create `visual-fidelity.md` only if source-supported. Do not begin Story-12 English until that gate is durably PASS. After visual PASS, the following activity is Story-12 English translation and `TRANSLATION_REVIEW.md`.
