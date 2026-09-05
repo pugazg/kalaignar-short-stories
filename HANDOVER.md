@@ -44,40 +44,42 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 
 **COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 unresolved.**
 
+### Visual fidelity
+
+**COMPLETE / CLOSED — 34 / 34 PASS.**
+
 ### English
 
-- user authorization: **granted / OPEN**
-- English `PASS`: **21 / 34**
-- pending: **13 / 34**
+- user authorization: **granted**
+- English phase: **COMPLETE / CLOSED**
+- English `PASS`: **34 / 34**
+- pending: **0 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed: **22 / 34**
-- canonical Tamil changed during English/visual work through Story 22 visual closure: **No**
+- story-local visual prerequisites: **34 / 34 PASS**
+- `TRANSLATION_REVIEW.md`: **34 / 34 PASS**
+- final English structural/control QA: **PASS**
+- canonical Tamil changed during English work: **No**
 
-### Latest completed English batch — Stories 17–21
+Final QA record: `collections/2004-kalaignarin-kuttik-kathaigal/FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md`.
 
-Stories 17–21 remain visual PASS + English PASS. No Tamil source issue was reopened and no Tamil text changed in that batch.
+### Final English batch — Stories 22–34
 
-### Latest visual closure — Story 22
+The user explicitly authorized processing all remaining stories. Stories 22–34 were completed after direct source visual review of the remaining story span through scan 49, with scan 50 used as the final back-cover witness.
 
-**Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்`** is now visual-fidelity **PASS**.
+Physical marker sequences are PASS for every remaining story. Notable joins retained include Story 28 `தந்தை` → `யையும்`, Story 29 `மடை` → `திறந்த`, Story 33 `வைத்திய` → `சாலையில்`, and the Story-33 scan-46→47 continuation. No canonical Tamil section/page/audit file changed.
 
-- span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**;
-- Story 21 ends above on scan 29 and is excluded;
-- Story 23 `புகழே நீ ஒரு புதிர்` begins below on scan 31 and is excluded;
-- both physical page transitions occur between complete dialogue turns;
-- source-sensitive review-queue forms and asymmetric quotation punctuation remain unchanged;
-- Tamil correction during visual review: **None**.
+### Final boundary
+
+Story 34 **`கிழவனின் மனைவி`** closes on scan **49 / printed page 48** with centered `முற்றும்`. Scan **50** is the verified back cover and contains no further story text.
 
 ## Current exact next activity
 
-Translate **Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்`** into English and create `TRANSLATION_REVIEW.md`.
+There is **no remaining routine work in the 2004 Tamil, visual-fidelity, or English-translation scope**. Do not reopen completed stories merely to create more work.
 
-1. Fetch live `main` first.
-2. Read `ENGLISH_TRANSLATION_GUIDE.md`, the collection English tracker, Story-22 README, canonical Tamil assembly, visual-fidelity record and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
-3. Translate from verified canonical Tamil only; do not alter the Tamil layer.
-4. Insert physical provenance markers for scans **29, 30 and 31** at the actual source page transitions, which fall between complete dialogue turns.
-5. Exclude Story 21 above and Story 23 below.
-6. Review completeness, tone, source-sensitive terms and marker alignment in `TRANSLATION_REVIEW.md`.
-7. Do not begin Story 23 in this activity unless the user explicitly expands batching.
+Any future activity requires an explicit new instruction, such as:
 
-After Story 22 English PASS, the following activity is Story 23 `புகழே நீ ஒரு புதிர்` visual-fidelity prerequisite.
+- source-supported correction or re-audit;
+- a new publication/release/export layer;
+- repository-wide validation or documentation work not already covered by the closed 2004 phase.
+
+Until then, preserve the 2004 collection as **34 / 34 Tamil PASS, 34 / 34 visual PASS, 34 / 34 English PASS, final English QA PASS**.
