@@ -5,28 +5,29 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 ## Current state
 
 - total stories: **34**
-- source-complete / PASS: **28 / 34**
-- pending: **6 / 34**
+- source-complete / PASS: **29 / 34**
+- pending: **5 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
 
-Stories **1–28 are PASS**. The latest user-authorized iteration, Stories **19–28**, closed **10 / 10 PASS**.
+Stories **1–29 are PASS**. The user-authorized Stories **19–28** iteration closed **10 / 10 PASS**; Story 29 was then completed as the next exact activity.
 
-## Latest completed source work — Stories 19–28
+## Latest completed source work
 
-- 19 `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` — scans **27–28**, PASS.
-- 20 `சிறை கொடியது` — scans **28–29**, PASS.
-- 21 `விஞ்ஞானிக்குத் தோன்றாது...` — scan **29 only**, PASS; intake heading corrected from `விருந்தாளிக்குத் தோன்றாது...`.
-- 22 `அடுத்த பிறவியில் ஐந்து கணவன்` — scans **29–31**, PASS.
-- 23 `புகழே நீ ஒரு புதிர்` — scans **31–32**, PASS.
-- 24 `மலையைத் தூக்குவேன்!` — scans **32–34**, PASS.
-- 25 `முதியவர் தீர்ப்பு` — scans **34–35**, **2 / 2 verified**, PASS.
-- 26 `கூற்றுவன் எப்படிப் மறித்தான்?` — scan **35 only**, **1 / 1 verified**, PASS; intake heading corrected from `கூற்றுவன் எப்படி மறித்தான்?`.
-- 27 `வீரன் தலை கவிழ்ந்தது ஏன்?` — scans **36–37**, **2 / 2 verified**, PASS.
-- 28 `இளமைக் காலம்` — scans **37–39**, **3 / 3 verified**, PASS.
+Story 29 **`தலைவனின் பரிசு`**:
 
-Blocked / unresolved story text across completed Stories 1–28: **0**.
+- workspace: `stories/thalaivanin-parisu/`;
+- verified story span: **lower scan 39 / printed 38 → scan 40 / printed 39**;
+- source records: **2 / 2 verified**;
+- scan **41 / printed 40** checked as ending-boundary witness: Story 30 opens there; no Story-29 text;
+- audit: **PASS**;
+- blocked / unresolved: **0**;
+- English: **not opened**.
+
+The physical scan-39 → scan-40 join is `...என மடை` → `திறந்த காதல் வெள்ளம்...`. Source-sensitive forms are retained without silent normalization and queued for later human review where appropriate.
+
+Blocked / unresolved story text across completed Stories 1–29: **0**.
 
 ## Next exact target
 
-Story 29 **`தலைவனின் பரிசு`** — opens on scan **39 / printed page 38** below Story 28. Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** opens on scan **41 / printed page 40** and is the required next-opening boundary witness.
+Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** — opens on scan **41 / printed page 40**. Story 31 **`புதிர்`** opens later on that same scan and is the required ending-boundary witness.
