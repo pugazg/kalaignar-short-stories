@@ -50,28 +50,28 @@ These corrections come from direct visual review of the printed headings and are
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **29 / 34**
-- Tamil source processing complete: **29 / 34**
-- pending: **5 / 34**
+- canonical story workspaces activated: **30 / 34**
+- Tamil source processing complete: **30 / 34**
+- pending: **4 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
 
-Stories **1–29** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Story 29 was then completed as the next exact activity.
+Stories **1–30** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Stories 29–30 were then completed as successive exact activities.
 
 ## Latest completed source work
 
-Story 29 **`தலைவனின் பரிசு`**:
+Story 30 **`கிருஷ்ணனையும் விடாத சாதி`**:
 
-- workspace: `stories/thalaivanin-parisu/`;
-- verified span: **lower scan 39 / printed 38 → scan 40 / printed 39**;
-- source records: **2 / 2 verified**;
-- scan **41 / printed 40** checked as ending-boundary witness; Story 30 begins there and no Story-29 text continues;
+- workspace: `stories/krishnanaiyum-vidaatha-saathi/`;
+- verified span: **top of scan 41 / printed 40 only**;
+- source records: **1 / 1 verified**;
+- Story 31 `புதிர்` begins later on the same scan and is excluded;
 - audit: **PASS**;
 - blocked / unresolved: **0**.
 
 ## Next source target
 
-Story 30 **`கிருஷ்ணனையும் விடாத சாதி`**:
+Story 31 **`புதிர்`**:
 
-- opens on scan **41 / printed page 40**;
-- Story 31 **`புதிர்`** opens later on that same scan and is the required ending-boundary witness.
+- opens later on scan **41 / printed page 40**, below Story 30;
+- Story 32 **`உயிருக்கு விலை ஐம்பது லட்சம்`** opens on scan **42 / printed page 41** and is the required next-opening boundary witness.
