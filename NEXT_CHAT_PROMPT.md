@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases, the closed 2004 Tamil source phase, or completed 2004 Story-1 English work because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases, the closed 2004 Tamil source phase, completed 2004 Story-1 English work, or the closed Story-2 visual gate because a copied checkpoint is older.
 
 ## 2004 controlling source
 
@@ -20,7 +20,7 @@ Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the
 - scan **50**: verified back cover
 - no printed contents page; direct heading inventory **34 / 34**
 
-The controlling PDF must be attached/resolved again before source-dependent visual-fidelity work. Verified canonical Tamil remains authoritative for translation.
+The verified canonical Tamil is the translation authority. Re-open the controlling PDF only if translation exposes a source-fidelity question.
 
 ## Mandatory startup
 
@@ -36,11 +36,12 @@ Read completely before changing anything:
 8. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 9. `stories/neeyum-kaithi-naanum-kaithi/README.md`
 10. `stories/neeyum-kaithi-naanum-kaithi/indexes/page-map.md`
-11. the Story-2 page record under `stories/neeyum-kaithi-naanum-kaithi/pages/`
+11. `stories/neeyum-kaithi-naanum-kaithi/pages/0005-neeyum-kaithi-naanum-kaithi-01.md`
 12. `stories/neeyum-kaithi-naanum-kaithi/sections/neeyum-kaithi-naanum-kaithi.md`
 13. `stories/neeyum-kaithi-naanum-kaithi/audit.md`
 14. `stories/neeyum-kaithi-naanum-kaithi/POSSIBLE_ERRORS_FOR_REVIEW.md`
-15. Story 1 `stories/valluvar-sonna-poi/README.md`, `visual-fidelity.md`, English translation and `TRANSLATION_REVIEW.md` only as the immediate completed implementation precedent.
+15. `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md`
+16. Story 1 English translation and `TRANSLATION_REVIEW.md` only as the immediate completed implementation precedent.
 
 Do not import wording or interpretations from another story/source into Story 2.
 
@@ -63,7 +64,7 @@ The user explicitly authorized the 2004 English phase.
 - English `PASS`: **1 / 34**
 - pending: **33 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **1 / 34**
+- visual-fidelity prerequisites closed for English: **2 / 34**
 - tracker: `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 - default batching: **one story per activity unless the user explicitly expands it**
 
@@ -83,33 +84,38 @@ Story 1 is **PASS**:
 - Tamil changed during English work: **No**
 - unresolved translation issue: **0**
 
-Do not redo or rewrite Story 1 in the next activity.
+Do not redo or rewrite Story 1.
 
-## Story 2 translation gate
+## Story 2 translation gate — PASS
 
-Story 2 **`நீயும் கைதி - நானும் கைதி`**:
+Story 2 **`நீயும் கைதி - நானும் கைதி`** is translation-ready.
 
 - collection sequence: **2 / 34**
 - Tamil source records: **1 / 1 verified**
 - Tamil audit: **PASS**
+- visual fidelity: **PASS**
 - blocked / unresolved story text: **0**
 - verified physical span: **scan 5 / printed page 4 only**
-- upper same-scan boundary: Story 1 `வள்ளுவர் சொன்ன பொய்` ends above
-- lower same-scan boundary / next-story witness: Story 3 `குருவி ராமேஸ்வரம்` begins below
-- story-local `visual-fidelity.md`: **not yet present**
-- English prose: **pending / must not begin before visual PASS**
+- upper same-scan boundary: Story 1 `வள்ளுவர் சொன்ன பொய்` ends above and is excluded
+- lower same-scan boundary: Story 3 `குருவி ராமேஸ்வரம்` begins below and is excluded
+- structure: centered framed heading, three prose paragraphs, then separate `நானும் கைதி.` / `நீயும் கைதி.` closing lines
+- visual-fidelity correction required: **none**
+- Tamil changed during visual closure: **No**
+- English prose: **pending**
 
 ## CURRENT EXACT NEXT ACTIVITY
 
-Close the **Story 2 `நீயும் கைதி - நானும் கைதி` visual-fidelity prerequisite**.
+Translate **Story 2 `நீயும் கைதி - நானும் கைதி`** and create its translation review.
 
-- directly inspect the complete Story-2 span on scan **5 / printed page 4**;
-- use Story 1 above and Story 3 below only as physical boundary witnesses;
-- compare the Story-2 page record and canonical Tamil assembly against the source for exact heading/opening/ending structure, paragraph/dialogue/display fidelity, horizontal separators and page furniture;
-- ensure no Story-1 or Story-3 material leaks into Story 2;
-- create `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md` if closure is source-supported;
-- if a textual mismatch is found, reopen only that exact Tamil source span under `SHORT_STORY_PROCESSING_GUIDE.md` before correcting it;
-- do **not** create Story-2 English prose in the same activity until the visual prerequisite is durably `PASS`;
-- do not begin Story 3.
+- create `stories/neeyum-kaithi-naanum-kaithi/translations/en/neeyum-kaithi-naanum-kaithi.md` from the verified Tamil assembly;
+- use conservative English for source-sensitive forms and record difficult choices in `TRANSLATION_REVIEW.md` rather than changing Tamil;
+- place `<!-- source scan 5; printed page 4 -->` before the translated story content;
+- because Story 2 is entirely on a single source page, that marker section must contain the complete Story-2 translation;
+- preserve the rhetorical address to the crescent moon and the prison/captivity parallel without importing outside interpretation;
+- retain the final two source-significant lines as two separate English display lines corresponding to `நானும் கைதி.` and `நீயும் கைதி.`;
+- exclude Story 1 material above and Story 3 `குருவி ராமேஸ்வரம்` below on scan 5;
+- read and respect `POSSIBLE_ERRORS_FOR_REVIEW.md`; do not silently normalize `உனக்கென்ன வாழ்கிறதாம்!` or alter the verified Tamil layer;
+- create `stories/neeyum-kaithi-naanum-kaithi/TRANSLATION_REVIEW.md` with separate marker presence/order and physical content-boundary checks;
+- do not begin Story 3 in this activity.
 
-After Story 2 visual fidelity is durably PASS and controls are synchronized, the following activity is Story 2 English translation and `TRANSLATION_REVIEW.md`.
+After Story 2 English is durably PASS and all controls are synchronized, the following activity is the Story-3 translation-gate / visual-fidelity prerequisite, unless the user explicitly expands the batch.
