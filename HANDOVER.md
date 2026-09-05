@@ -85,44 +85,50 @@ Source-sensitive forms including `பஞ்சுப் பாதங்களை
 
 ## 2004 English translation phase — OPEN
 
-The user has explicitly authorized opening English translation for the 2004 collection.
+The user has explicitly authorized English translation for the 2004 collection.
 
 Tracker: `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 
 - English phase: **OPEN**
-- English `PASS`: **0 / 34**
-- pending: **34 / 34**
+- English `PASS`: **1 / 34**
+- pending: **33 / 34**
 - `NEEDS REVIEW`: **0**
 - visual-fidelity prerequisites closed for English: **1 / 34**
 - default batching: **one story per activity unless the user explicitly expands it**
-- canonical Tamil changed during English opening / Story-1 visual closure: **No**
+- canonical Tamil changed during English opening / Story-1 visual closure / Story-1 translation: **No**
 
-### Story 1 translation gate — PASS
+### Latest completed English work — Story 1
 
-Story 1 **`வள்ளுவர் சொன்ன பொய்`** is now translation-ready:
+Story 1 **`வள்ளுவர் சொன்ன பொய்`** is **English PASS**.
 
 - workspace: `stories/valluvar-sonna-poi/`
 - source records: **2 / 2 verified**
 - Tamil audit: **PASS**
-- visual fidelity: **PASS** — `stories/valluvar-sonna-poi/visual-fidelity.md`
+- visual fidelity: **PASS**
+- English: `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md`
+- translation review: `stories/valluvar-sonna-poi/TRANSLATION_REVIEW.md` — **PASS**
 - source span: **scan 4 / printed 3 → top scan 5 / printed 4**
+- English marker presence/order: **PASS**
+- English physical content-boundary alignment: **PASS**
 - Story 2 below on scan 5 excluded correctly
-- visual-fidelity corrections required: **None**
-- Tamil changed during visual closure: **No**
+- source-sensitive `உண்மை` / `வாய்மை` distinction preserved conservatively
+- source double exclamation represented in English
+- Tamil source issue reopened during translation: **No**
+- canonical Tamil changed during English work: **No**
 - blocked / unresolved: **0**
-- English prose: **pending**
-
-The visual review confirmed the centered Story-1 heading, two scan-4 paragraphs, one scan-5 closing paragraph, publication-furniture handling and the scan-4→5 physical join. No source-significant structural or textual mismatch was found.
 
 ## Current exact next activity
 
-Translate **Story 1 `வள்ளுவர் சொன்ன பொய்`** only.
+Close the **Story 2 `நீயும் கைதி - நானும் கைதி` visual-fidelity prerequisite** before English prose begins.
 
 1. Fetch live `main` again.
-2. Read `ENGLISH_TRANSLATION_GUIDE.md`, current tracker, Story-1 README, page map, both page records, Tamil assembly, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md` and `visual-fidelity.md`.
-3. Create `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md`.
-4. Preserve the physical source markers at scan **4 / printed 3** and scan **5 / printed 4** at the source-established content transition.
-5. Create `stories/valluvar-sonna-poi/TRANSLATION_REVIEW.md` and independently record marker presence/order plus content-boundary alignment.
-6. Do not alter canonical Tamil merely to improve English.
-7. Do not begin Story 2 in the same activity.
-8. Synchronize Story-1 README, the 2004 English tracker, collection/root controls, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring Story 1 English PASS.
+2. Ensure the controlling 2004 PDF is attached/resolved before direct visual work.
+3. Read `ENGLISH_TRANSLATION_GUIDE.md`, current English tracker, Story-2 README, page map, the Story-2 page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+4. Directly inspect Story 2 on scan **5 / printed page 4**. Story 1 `வள்ளுவர் சொன்ன பொய்` ends above it on the same scan; Story 3 `குருவி ராமேஸ்வரம்` begins below it on the same scan and is the next-story boundary witness.
+5. Check exact heading/opening/ending structure, paragraph/dialogue/display structure, separators, page furniture and exclusion of neighbouring stories.
+6. Create `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md` if closure is source-supported; make only independently source-supported corrections if required.
+7. Do **not** create Story-2 English prose until the visual prerequisite is durably `PASS`.
+8. Do not begin Story 3 in the same activity.
+9. Synchronize Story-2 README, the 2004 English tracker, collection/root controls, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring the Story-2 gate closed.
+
+After Story 2 visual fidelity is PASS, the following activity is Story 2 English translation and `TRANSLATION_REVIEW.md` under `ENGLISH_TRANSLATION_GUIDE.md`.
