@@ -134,10 +134,11 @@ Permanent guides:
 | [`புதிர்`](stories/pudhir/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`உயிருக்கு விலை ஐம்பது லட்சம்`](stories/uyirukku-vilai-aimbathu-latcham/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`கைதியின் கதை`](stories/kaithiyin-kathai/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கிழவனின் மனைவி`](stories/kizhavanin-manaivi/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
-## Active anthology source
+## Closed anthology source
 
 ### கலைஞரின் குட்டிக் கதைகள் — Second Edition, March 2004
 
@@ -155,15 +156,19 @@ Source / processing state:
 - printed story pages represented: **3–48**
 - direct story-heading inventory: **34 / 34**
 - printed contents page: **none visible**
-- canonical story workspaces activated: **33 / 34**
-- Tamil source processing complete: **33 / 34**
-- Tamil source processing pending: **1 / 34**
+- canonical story workspaces activated: **34 / 34**
+- Tamil source processing complete: **34 / 34**
+- Tamil source processing pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
-- latest completed source work: **Story 33 `கைதியின் கதை` — PASS; lower scan 44 → upper scan 47**
-- next source work: **Story 34 `கிழவனின் மனைவி` — scan 47 / printed page 46 through scan 49 / printed page 48; scan 50 back cover witness**
+- latest completed source work: **Story 34 `கிழவனின் மனைவி` — PASS; lower scan 47 → scan 49**
+- final story boundary: **scan 49 / printed page 48 — centered `முற்றும்`**
+- final physical boundary: **scan 50 — verified back cover; no further story text**
+- Tamil source phase: **COMPLETE / CLOSED**
 
-Stories **1–33 are Tamil source-complete**. Story 33 has **4 / 4 verified** source records and is bounded by Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` above on scan 44 and Story 34 `கிழவனின் மனைவி` below on scan 47. The source-supported heading corrections for Stories 16, 21, 26 and 34 remain authoritative; Story 34 is **`கிழவனின் மனைவி`**.
+Stories **1–34 are Tamil source-complete**. Story 34 has **3 / 3 verified** source records and is bounded above by Story 33 `கைதியின் கதை` on shared scan 47. The lower-page library stamp on scan 49 does not obscure story text. The source-supported heading corrections for Stories 16, 21, 26 and 34 remain authoritative; Story 34 is **`கிழவனின் மனைவி`**.
+
+No routine Tamil source work remains for the 2004 collection. English translation remains unopened and must not begin without explicit user authorization.
 
 ## Registered anthology source
 
