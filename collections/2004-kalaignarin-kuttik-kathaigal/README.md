@@ -53,12 +53,14 @@ The user has explicitly authorized English translation for this collection.
 - English `PASS`: **1 / 34**
 - pending: **33 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **1 / 34**
-- canonical Tamil changed during English opening / Story-1 visual closure / Story-1 translation: **No**
+- visual-fidelity prerequisites closed for English: **2 / 34**
+- canonical Tamil changed during English opening / Story-1 work / Story-2 visual closure: **No**
 
-Story 1 `வள்ளுவர் சொன்ன பொய்` is now **English PASS**. Its separate visual-fidelity prerequisite is PASS, its English translation and `TRANSLATION_REVIEW.md` are committed, both physical source-page markers are aligned to the verified scan-4 → scan-5 Tamil boundary, Story 2 material is excluded, and no Tamil source issue was reopened during translation.
+Story 1 `வள்ளுவர் சொன்ன பொய்` is **English PASS**. Its separate visual-fidelity prerequisite is PASS, its English translation and `TRANSLATION_REVIEW.md` are committed, both physical source-page markers are aligned to the verified scan-4 → scan-5 Tamil boundary, Story 2 material is excluded, and no Tamil source issue was reopened during translation.
 
-The next exact English-phase activity is the **Story 2 `நீயும் கைதி - நானும் கைதி` visual-fidelity prerequisite** on shared scan **5 / printed page 4**. Story 2 must not be translated until that prerequisite is durably PASS.
+Story 2 `நீயும் கைதி - நானும் கைதி` now has its separate visual-fidelity **PASS** on shared scan **5 / printed page 4**. Direct review confirmed its centered framed heading, three prose paragraphs, separate `நானும் கைதி.` / `நீயும் கைதி.` closing display lines, and exclusion of Story 1 above and Story 3 below. No Tamil or structural correction was required. Story 2 is translation-ready; its English prose remains pending.
+
+The next exact English-phase activity is **Story 2 English translation and `TRANSLATION_REVIEW.md`**. Story 3 must not begin in the same activity.
 
 ### Completed Tamil stories
 
@@ -128,4 +130,4 @@ All **34 / 34** story activations have passed the live-main duplicate/content-eq
 
 **Tamil source pass COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 unresolved.**
 
-**English translation phase OPEN — 1 / 34 PASS, 33 pending; visual-fidelity prerequisites closed 1 / 34.** Story 1 `வள்ளுவர் சொன்ன பொய்` is English-complete and reviewed. The exact next activity is the Story-2 visual-fidelity prerequisite; Story 2 English must not begin until that gate is PASS.
+**English translation phase OPEN — 1 / 34 PASS, 33 pending; visual-fidelity prerequisites closed 2 / 34.** Story 1 `வள்ளுவர் சொன்ன பொய்` is English-complete and reviewed. Story 2 `நீயும் கைதி - நானும் கைதி` is translation-ready after visual-fidelity PASS. The exact next activity is Story-2 English translation and `TRANSLATION_REVIEW.md`; Story 3 must not begin in the same activity.
