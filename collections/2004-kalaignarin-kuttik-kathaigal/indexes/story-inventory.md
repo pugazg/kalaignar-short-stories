@@ -38,17 +38,17 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 29 | `தலைவனின் பரிசு` | 39 | 38 | Story 30 scan 41 | **PASS — `stories/thalaivanin-parisu/`** |
 | 30 | `கிருஷ்ணனையும் விடாத சாதி` | 41 | 40 | Story 31 later scan 41 | **PASS — `stories/krishnanaiyum-vidaatha-saathi/`** |
 | 31 | `புதிர்` | 41 | 40 | Story 32 scan 42 | **PASS — `stories/pudhir/`** |
-| 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | Story 33 scan 44 | **pending** |
+| 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | Story 33 scan 44 | **PASS — `stories/uyirukku-vilai-aimbathu-latcham/`** |
 | 33 | `கைதியின் கதை` | 44 | 43 | Story 34 scan 47 | **pending** |
 | 34 | `கிழவியின் மனைவி` | 47 | 46 | ends scan 49; scan 50 back cover | **pending** |
 
 ## Totals
 
 - headings directly checked: **34 / 34**
-- activated / Tamil source complete: **31 / 34**
-- pending: **3 / 34**
+- activated / Tamil source complete: **32 / 34**
+- pending: **2 / 34**
 - completed-story blocked / unresolved: **0**
 
-Stories 1–31 are source-complete. Story 32 begins below Story 31 on scan **42 / printed page 41**.
+Stories 1–32 are source-complete. Story 33 begins below Story 32 on scan **44 / printed page 43**.
 
 Before each remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.
