@@ -41,10 +41,10 @@ Process only this story: direct source transcription, page records, assembled Ta
 
 Then use `collections/2009-16-kathaiyinile/`, one story per activity:
 
-1. `காந்தி தேசம்` — scans 6–18
-2. `அணில் குஞ்சு` — scans 19–28
-3. `கொள்ளைபுரம்` — scans 29–37
-4. `எழுத்தாளர் ஏகலைவன்` — scans 38–49
-5. `மலரவில்லை` — scans 50–63
+1. `காந்தி தேசம்` — scans 6–18 / printed 1–13
+2. `அணில் குஞ்சு` — scans 19–28 / printed 14–23
+3. `கொள்ளைபுரம்` — scans 29–37 / printed 24–32
+4. `எழுத்தாளர் ஏகலைவன்` — scans 38–49 / printed 33–44
+5. `மலரவில்லை` — scans 50–63 / printed 45–58
 
-The `16 கதையினிலே` supplied PDF ends at scan 150 during Story 13 `ஏழை`; do not infer missing scans.
+`TVA_BOK_0065745_16_கதையினிலே.pdf` is a **complete 183-scan source**: all 16 stories are present in scans 6–182 and scan 183 is the back cover. The earlier 150-scan truncation statement was incorrect and has been superseded.
