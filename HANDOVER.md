@@ -40,22 +40,8 @@ Workspace: `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`
 - contents: **10 works**
 - all 10 opening scans checked
 - short-story titles now represented by canonical workspaces: **9**
+- `நண்பனா?`: scans **104–106 / printed 94–96**, **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 - separately deferred work: **`நடுத்தெரு நாராயணி`** — handle separately as a short novel; do not process in this short-story queue.
-
-### Newly onboarded — `நண்பனா?`
-
-Canonical workspace: `stories/nanbana/`
-
-- printed pages: **94–96**
-- scans: **104–106**
-- preceding boundary: scan **103**, end of `தொத்துக்கிளி`
-- next boundary: scan **107**, opening `பிரேத விசாரணை`
-- page records: **3 / 3 verified**
-- Tamil source audit: **PASS**
-- visual fidelity: **PASS**
-- blocked / unresolved story text: **0**
-- English: **not started**
-- possible-error/recheck queue: retained; queue entries are not proof of error.
 
 The 1997 new-short-story onboarding is complete. The eight previously canonical titles remain additional-source witnesses until an explicit comparison activity.
 
@@ -82,63 +68,55 @@ The earlier 150-scan / incomplete-source statement was incorrect and has been su
 
 ### Newly onboarded — `காந்தி தேசம்`
 
-Canonical workspace: `stories/gandhi-desam/`
-
-- printed pages: **1–13**
-- scans: **6–18**
-- next boundary: scan **19**, opening `அணில் குஞ்சு`
-- page records: **13 / 13 verified**
-- Tamil source audit: **PASS**
-- visual fidelity: **PASS**
-- blocked / unresolved story text: **0**
-- English: **not started**
-- source-close corrections confirmed by direct recheck include scan 12 `பாத்த பாங்கிலேயே`, scan 13 `வந்தது மாதிரி`, and scan 14 `தோள்மீது`.
+- canonical workspace: `stories/gandhi-desam/`
+- printed pages **1–13** / scans **6–18**
+- **13 / 13 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started
+- scan **19** opens `அணில் குஞ்சு`.
 
 ### Newly onboarded — `அணில் குஞ்சு`
 
-Canonical workspace: `stories/anil-kunju/`
-
-- printed pages: **14–23**
-- scans: **19–28**
-- next boundary: scan **29**, opening `கொள்ளைபுரம்`
-- page records: **10 / 10 verified**
-- Tamil source audit: **PASS**
-- visual fidelity: **PASS**
-- blocked / unresolved story text: **0**
-- English: **not started**
-- source-close corrections/rechecks include protagonist `பருக்`, `கார்சேவை`, `துளியும்`, `தம்பித்துரை`, `இரண்டே தெருக்கள்`, `டேப் டான்ஸா?`, `ஒரு கரண்டியோ இரண்டு கரண்டியோ`, `அதுக்கப்பறமும்`, and `ஆராவமுத அய்யங்கார்`.
-- scan **28** closes with five circular ornaments; scan **29** visibly opens `கொள்ளைபுரம்`.
+- canonical workspace: `stories/anil-kunju/`
+- printed pages **14–23** / scans **19–28**
+- **10 / 10 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started
+- scan **29** opens `கொள்ளைபுரம்`.
 
 ### Newly onboarded — `கொள்ளைபுரம்`
 
-Canonical workspace: `stories/kollaipuram/`
+- canonical workspace: `stories/kollaipuram/`
+- printed pages **24–32** / scans **29–37**
+- **9 / 9 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started
+- scan **38** opens `எழுத்தாளர் ஏகலைவன்`.
 
-- printed pages: **24–32**
-- scans: **29–37**
-- next boundary: scan **38**, opening `எழுத்தாளர் ஏகலைவன்`
-- page records: **9 / 9 verified**
+### Newly onboarded — `எழுத்தாளர் ஏகலைவன்`
+
+Canonical workspace: `stories/ezhuthalar-ekalaivan/`
+
+- printed pages: **33–44**
+- scans: **38–49**
+- next boundary: scan **50**, opening `மலரவில்லை`
+- page records: **12 / 12 verified**
 - Tamil source audit: **PASS**
 - visual fidelity: **PASS**
 - blocked / unresolved story text: **0**
 - English: **not started**
-- direct source rechecks retained `சர்வாதிகாரம் செலுத்தி வந்த காலம்`, `கொலுவீற்றிருந்த`, `நவரத்தின் அணிகளாயின`, `போக போக்கியங்களின்`, `அம்சதூளிகா`, `நிலம் நீச்சு`, `ஆக்ரமிக்கத் தாக்கீது`, `மேய்ச்சல்காடு!,`, `ஒரு சொட்டுக் கண்ணீரும்`, `கலாசாரப் பிரசாரம்`, and `துணுக்குற்று`.
-- scan **37** closes with five circular ornaments; scan **38** visibly opens `எழுத்தாளர் ஏகலைவன்`.
+- source-close rechecks retained forms including `தமிழகமுழுதும்`, `புலித்தைலம்`, `அங்கணபோயி`, `ரெண்டு மணிக்கே கீழே`, `சுலபத்தில் விடாத மணலில்`, `பத்தாம்பசலிக் கட்டுப்பெட்டிக்`, `தரையிலிட்ட மீன்`, `கரையைவிட்டகன்று`, `கண்டல் முறுக்குக் கடலை`, `பாத்தோம்`, `மெளனமானான்`, `பொழைச்சிக்கிட்டாங்க`, `என்றே தெரியாத`, `பஸ்ஸில அடிபட்டு`, and `நம்மாலியன்ற`.
+- scan **49** closes with five circular ornaments; scan **50** visibly opens `மலரவில்லை`.
 
-New-story source-processing status for this collection: **3 / 5 complete**.
+New-story source-processing status for this collection: **4 / 5 complete**.
 
 ## Remaining new short-story queue
 
-1. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
-2. `மலரவில்லை` — scans **50–63 / printed 45–58**
+1. `மலரவில்லை` — scans **50–63 / printed 45–58**
 
 ## Current exact next activity
 
-Process **`எழுத்தாளர் ஏகலைவன்`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
+Process **`மலரவில்லை`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
 
-1. fetch live `main` and confirm no canonical `எழுத்தாளர் ஏகலைவன்` workspace has appeared;
+1. fetch live `main` and confirm no canonical `மலரவில்லை` workspace has appeared;
 2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 2009 collection README/source/inventory/scan-map;
-3. transcribe and directly visually verify scans **38–49 / printed pages 33–44**;
-4. inspect scan **50**, opening `மலரவில்லை`, as the next-story boundary and exclude it from `எழுத்தாளர் ஏகலைவன்`;
+3. transcribe and directly visually verify scans **50–63 / printed pages 45–58**;
+4. inspect scan **64**, opening `சுமந்தவள்`, as the next-story boundary and exclude it from `மலரவில்லை`;
 5. create the canonical story workspace, Tamil assembly, source metadata, audit, possible-error queue, visual-fidelity record and required controls;
-6. do not begin `மலரவில்லை` in the same activity;
-7. do not process `நடுத்தெரு நாராயணி` as a short story.
+6. do not begin `சுமந்தவள்` or additional-witness comparison in the same activity;
+7. after synchronization the five new 2009 stories will be **5 / 5 complete**;
+8. do not process `நடுத்தெரு நாராயணி` as a short story.
