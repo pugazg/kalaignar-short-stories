@@ -94,23 +94,37 @@ Canonical workspace: `stories/gandhi-desam/`
 - English: **not started**
 - source-close corrections confirmed by direct recheck include scan 12 `பாத்த பாங்கிலேயே`, scan 13 `வந்தது மாதிரி`, and scan 14 `தோள்மீது`.
 
-New-story source-processing status for this collection: **1 / 5 complete**.
+### Newly onboarded — `அணில் குஞ்சு`
+
+Canonical workspace: `stories/anil-kunju/`
+
+- printed pages: **14–23**
+- scans: **19–28**
+- next boundary: scan **29**, opening `கொள்ளைபுரம்`
+- page records: **10 / 10 verified**
+- Tamil source audit: **PASS**
+- visual fidelity: **PASS**
+- blocked / unresolved story text: **0**
+- English: **not started**
+- source-close corrections/rechecks include protagonist `பருக்`, `கார்சேவை`, `துளியும்`, `தம்பித்துரை`, `இரண்டே தெருக்கள்`, `டேப் டான்ஸா?`, `ஒரு கரண்டியோ இரண்டு கரண்டியோ`, `அதுக்கப்பறமும்`, and `ஆராவமுத அய்யங்கார்`.
+- scan **28** closes with five circular ornaments; scan **29** visibly opens `கொள்ளைபுரம்`.
+
+New-story source-processing status for this collection: **2 / 5 complete**.
 
 ## Remaining new short-story queue
 
-1. `அணில் குஞ்சு` — scans **19–28 / printed 14–23**
-2. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
-3. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
-4. `மலரவில்லை` — scans **50–63 / printed 45–58**
+1. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
+2. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
+3. `மலரவில்லை` — scans **50–63 / printed 45–58**
 
 ## Current exact next activity
 
-Process **`அணில் குஞ்சு`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
+Process **`கொள்ளைபுரம்`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
 
-1. fetch live `main` and confirm no canonical `அணில் குஞ்சு` workspace has appeared;
+1. fetch live `main` and confirm no canonical `கொள்ளைபுரம்` workspace has appeared;
 2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 2009 collection README/source/inventory/scan-map;
-3. transcribe and directly visually verify scans **19–28 / printed pages 14–23**;
-4. inspect scan **29**, opening `கொள்ளைபுரம்`, as the next-story boundary and exclude it from `அணில் குஞ்சு`;
+3. transcribe and directly visually verify scans **29–37 / printed pages 24–32**;
+4. inspect scan **38**, opening `எழுத்தாளர் ஏகலைவன்`, as the next-story boundary and exclude it from `கொள்ளைபுரம்`;
 5. create the canonical story workspace, Tamil assembly, source metadata, audit, possible-error queue, visual-fidelity record and required controls;
-6. do not begin `கொள்ளைபுரம்` in the same activity;
+6. do not begin `எழுத்தாளர் ஏகலைவன்` in the same activity;
 7. do not process `நடுத்தெரு நாராயணி` as a short story.
