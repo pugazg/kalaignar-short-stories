@@ -3,7 +3,7 @@
 Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`  
 Registered edition: **Second Edition, March 2004**
 
-No printed contents page is present. This is a direct visual story-heading inventory. Direct activation/source review has corrected intake headings at Stories 16, 21, 26 and 34; the source-verified forms below are authoritative.
+No printed contents page is present. This is a direct visual story-heading inventory. Direct activation/source review corrected intake headings at Stories 16, 21, 26 and 34; the source-verified forms below are authoritative.
 
 | # | Story-opening heading | Opening scan | Printed start | Next opening / final witness | Canonical activation |
 |---:|---|---:|---:|---|---|
@@ -40,15 +40,15 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 31 | `புதிர்` | 41 | 40 | Story 32 scan 42 | **PASS — `stories/pudhir/`** |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | Story 33 scan 44 | **PASS — `stories/uyirukku-vilai-aimbathu-latcham/`** |
 | 33 | `கைதியின் கதை` | 44 | 43 | Story 34 scan 47 | **PASS — `stories/kaithiyin-kathai/`** |
-| 34 | `கிழவனின் மனைவி` | 47 | 46 | ends scan 49; scan 50 back cover | **pending** |
+| 34 | `கிழவனின் மனைவி` | 47 | 46 | ends scan 49; scan 50 back cover | **PASS — `stories/kizhavanin-manaivi/`** |
 
 ## Totals
 
 - headings directly checked: **34 / 34**
-- activated / Tamil source complete: **33 / 34**
-- pending: **1 / 34**
+- activated / Tamil source complete: **34 / 34**
+- pending: **0 / 34**
 - completed-story blocked / unresolved: **0**
 
-Stories 1–33 are source-complete. Story 34 begins below Story 33 on scan **47 / printed page 46**.
+Stories **1–34 are source-complete**. Story 34 ends on scan **49 / printed page 48** with `முற்றும்`; scan **50** is the verified back cover and contains no further story text.
 
-Before the remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.
+No canonical activation remains pending for this source.

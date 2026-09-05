@@ -4,9 +4,9 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases, and do not reopen the now-closed 2004 Tamil source phase because a copied checkpoint is older.
 
-## Active controlling source
+## 2004 controlling source
 
 `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
 
@@ -17,12 +17,12 @@ Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the
 - size: **98,897,868 bytes**
 - scans: **50**
 - story block: scans **4–49 / printed pages 3–48**
-- scan **50**: back cover
+- scan **50**: verified back cover
 - no printed contents page; direct heading inventory **34 / 34**
 
 ## Mandatory startup
 
-Read completely before source-dependent work:
+Before any new phase work, read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -33,53 +33,51 @@ Read completely before source-dependent work:
 7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
 9. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-10. latest completed workspace `stories/kaithiyin-kathai/` and, as needed, Story 32 `stories/uyirukku-vilai-aimbathu-latcham/` for the shared scan-44 precedent.
+10. final workspace `stories/kizhavanin-manaivi/` and preceding `stories/kaithiyin-kathai/` if final-boundary provenance is needed.
+
+If the user explicitly authorizes English, also read `ENGLISH_TRANSLATION_GUIDE.md` before creating any English files.
 
 ## Current durable progress
 
-- Stories **1–33**: Tamil source PASS
-- total Tamil source complete: **33 / 34**
-- pending: **1 / 34**
+- Stories **1–34**: Tamil source PASS
+- total Tamil source complete: **34 / 34**
+- pending: **0 / 34**
 - completed-story blocked / unresolved: **0**
+- final story boundary: scan **49 / printed page 48**, centered `முற்றும்`
+- final physical boundary: scan **50**, verified back cover with no further story text
+- Tamil source phase: **COMPLETE / CLOSED**
 - English: **not opened**
 
-### Latest completed work — Story 33
+### Final completed work — Story 34
 
-Story 33 **`கைதியின் கதை`**:
+Story 34 **`கிழவனின் மனைவி`**:
 
-- verified story span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**;
-- source records: **4 / 4 verified**;
-- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded;
-- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded;
+- workspace: `stories/kizhavanin-manaivi/`;
+- verified story span: **lower scan 47 / printed 46 → scan 49 / printed 48**;
+- source records: **3 / 3 verified**;
+- Story 33 `கைதியின் கதை` ends above on scan 47 and is excluded;
+- centered `முற்றும்` closes the story on scan 49;
+- scan 49 lower-page library stamp does not obscure story text;
+- scan 50 is the verified physical back cover with no further story text;
 - audit: **PASS**;
 - blocked / unresolved: **0**.
 
-The scan-45 → scan-46 boundary contains the physical split `வைத்திய` / `சாலையில்`; the canonical assembly joins it as `வைத்தியசாலையில்`. Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்`, `கூஷ்டரோகம்`, and the closing `அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான்.` are retained exactly; do not normalize them from semantics or memory.
+Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and closing `வேட்டைதான்` are retained exactly; do not normalize them from semantics or memory. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
 
-Source-heading correction already locked for the final story: Story 34 is **`கிழவனின் மனைவி`**, not the earlier intake form `கிழவியின் மனைவி`.
+The source-heading correction remains locked: Story 34 is **`கிழவனின் மனைவி`**, not the earlier intake form `கிழவியின் மனைவி`.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 34
+## CURRENT EXACT NEXT ACTIVITY
 
-Story 34 opening heading:
+Within the presently authorized scope, **none**. The 2004 Tamil source pass is durably closed at **34 / 34 PASS**.
 
-**`கிழவனின் மனைவி`**
+Do not reopen completed Tamil work. Do not begin English translation unless the user explicitly authorizes opening the 2004 English phase.
 
-Routing coordinates:
-
-- opens on scan **47 / printed page 46**, below completed Story 33;
-- continues through scan **49 / printed page 48**;
-- scan **50** is the required physical back-cover/final-boundary witness and contains no further story text.
-
-### Before creating Story 34
+If English is explicitly authorized in a future chat:
 
 1. fetch live `main` again;
-2. perform exact-title, plausible alternate-title and distinctive-content equivalence searches;
-3. if an existing canonical equivalent exists, register the 2004 source as an additional witness rather than duplicating it;
-4. otherwise create the Story-34 canonical workspace;
-5. inspect the controlling PDF directly across scans **47–50** and isolate the exact Story-34 text;
-6. exclude Story-33 material above on scan 47 and verify that scan 50 contains no further story text after Story 34 ends on scan 49;
-7. preserve source spelling, punctuation, paragraph/display structure and non-text/source marks;
-8. do not begin English translation;
-9. synchronize collection controls, root README, `HANDOVER.md` and this prompt after durable closure.
-
-If the controlling PDF is unavailable in a fresh chat/tool context, reattach or otherwise resolve it before direct visual transcription.
+2. preserve newer durable work;
+3. read `ENGLISH_TRANSLATION_GUIDE.md` completely;
+4. inspect the existing English conventions from the closed 2008/1977 phases;
+5. create a 2004 English translation tracker/batching plan;
+6. translate only from the verified canonical Tamil layer without changing it;
+7. synchronize controls after each durable English batch.

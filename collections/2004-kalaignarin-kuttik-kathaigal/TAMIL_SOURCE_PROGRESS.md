@@ -5,30 +5,43 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 ## Current state
 
 - total stories: **34**
-- source-complete / PASS: **33 / 34**
-- pending: **1 / 34**
+- source-complete / PASS: **34 / 34**
+- pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
+- Tamil source phase: **COMPLETE / CLOSED**
 
-Stories **1–33 are PASS**. The user-authorized Stories **19–28** iteration closed **10 / 10 PASS**; Stories 29–33 were then completed as successive exact activities.
+Stories **1–34 are PASS**. The user-authorized Stories **19–28** iteration closed **10 / 10 PASS**; Stories 29–34 were then completed as successive exact activities.
 
 ## Latest completed source work
 
-Story 33 **`கைதியின் கதை`**:
+Story 34 **`கிழவனின் மனைவி`**:
 
-- workspace: `stories/kaithiyin-kathai/`;
-- verified story span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**;
-- source records: **4 / 4 verified**;
-- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded;
-- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded;
+- workspace: `stories/kizhavanin-manaivi/`;
+- verified story span: **lower scan 47 / printed 46 → scan 49 / printed 48**;
+- source records: **3 / 3 verified**;
+- Story 33 `கைதியின் கதை` ends above on scan 47 and is excluded;
+- scan 49 closes with centered `முற்றும்`;
+- lower-page library stamp on scan 49 does not obscure story text;
+- scan 50 was directly checked as the physical back cover and contains no further story text;
 - audit: **PASS**;
 - blocked / unresolved: **0**;
 - English: **not opened**.
 
-The physical split `வைத்திய` (scan 45) → `சாலையில்` (scan 46) was checked and joined as `வைத்தியசாலையில்` in the canonical assembly. Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்` and `கூஷ்டரோகம்` were directly rechecked and retained without silent normalization.
+Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, separate `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and closing `வேட்டைதான்` were directly rechecked and retained without silent normalization. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
 
-Blocked / unresolved story text across completed Stories 1–33: **0**.
+Blocked / unresolved story text across completed Stories 1–34: **0**.
 
-## Next exact target
+## Final Tamil closure
 
-Story 34 **`கிழவனின் மனைவி`** — opens on scan **47 / printed page 46** below Story 33, continues through scan **49 / printed page 48**, with scan **50** as the required physical back-cover/final-boundary witness.
+- story heading inventory: **34 / 34**
+- canonical activations: **34 / 34**
+- Tamil source PASS: **34 / 34**
+- pending: **0**
+- unresolved story text: **0**
+- final story boundary: scan **49 / printed 48**, `முற்றும்`
+- final physical boundary: scan **50**, verified back cover
+
+**COMPLETE / CLOSED.**
+
+English translation remains **not opened** and must not begin without explicit user authorization.

@@ -19,7 +19,7 @@ Always fetch live `main` first and preserve newer durable work. Repository files
 - shared physical scans preserve exact story boundaries;
 - source-supported corrections propagate through dependent layers;
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error;
-- English cannot open before the Tamil/source-fidelity gates are closed.
+- English cannot open before the Tamil/source-fidelity gates are closed and explicit authorization is given.
 
 ## Closed prior collections
 
@@ -31,7 +31,7 @@ Tamil **37 / 37**, visual **37 / 37**, English **37 / 37**, final English QA **P
 
 Tamil **40 / 40**, text fidelity **40 / 40**, visual **40 / 40**, English **40 / 40**, final English structural/control QA **PASS**, pending / needs review **0**, scan **82** verified back cover.
 
-## ACTIVE COLLECTION — கலைஞரின் குட்டிக் கதைகள்
+## 2004 COLLECTION — கலைஞரின் குட்டிக் கதைகள்
 
 Workspace: `collections/2004-kalaignarin-kuttik-kathaigal/`  
 Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
@@ -51,33 +51,34 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 
 User-supplied bibliographic metadata identifies the author as **கலைஞர் மு. கருணாநிதி** and describes the work as a 34-story `மணி விழா` collection. The scan remains authoritative for printed wording.
 
-## Completed Tamil source work
+## Tamil source closure
 
-Current collection state:
-
-- activated: **33 / 34**
-- Tamil source complete: **33 / 34**
-- pending: **1 / 34**
+- activated: **34 / 34**
+- Tamil source complete: **34 / 34**
+- pending: **0 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
+- Tamil source phase: **COMPLETE / CLOSED**
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–33** were then completed as successive exact activities.
+The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–34** were then completed as successive exact activities.
 
-### Story 33 — கைதியின் கதை
+### Final Story 34 — கிழவனின் மனைவி
 
-- workspace: `stories/kaithiyin-kathai/`
-- verified span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**
-- source records: **4 / 4 verified**
+- workspace: `stories/kizhavanin-manaivi/`
+- verified span: **lower scan 47 / printed 46 → scan 49 / printed 48**
+- source records: **3 / 3 verified**
 - duplicate/content-equivalence search: **no existing canonical match**
-- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded
-- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded
+- Story 33 `கைதியின் கதை` ends above on scan 47 and is excluded
+- centered `முற்றும்` closes Story 34 on scan 49
+- scan 49 lower-page library stamp does not obscure story text
+- scan 50 directly verified as physical back cover; no further story text
 - audit: **PASS**
 - blocked / unresolved: **0**
 - English: **not opened**
 
-The scan-45 → scan-46 physical split `வைத்திய` / `சாலையில்` was verified and joined as `வைத்தியசாலையில்` in the canonical assembly. Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்`, `கூஷ்டரோகம்`, and `அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான்.` are retained exactly as printed.
+Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and `வேட்டைதான்` are retained exactly as printed. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
 
-### Heading corrections locked in the active source controls
+### Heading corrections locked in the 2004 source controls
 
 - Story 16: **`ஆபாசமே ஆபாசம்!`**
 - Story 21: **`விஞ்ஞானிக்குத் தோன்றாது...`**
@@ -86,24 +87,8 @@ The scan-45 → scan-46 physical split `வைத்திய` / `சாலை�
 
 ## Current exact next activity
 
-Process **Story 34 — `கிழவனின் மனைவி`**.
+There is **no remaining authorized Tamil source activity** for the 2004 collection. The Tamil source phase is closed at **34 / 34 PASS**.
 
-Routing coordinates:
+Do **not** reopen completed Tamil stories merely to create more work. Do **not** begin English translation unless the user explicitly authorizes opening the 2004 English phase.
 
-- opening: scan **47 / printed page 46**, immediately below completed Story 33;
-- story continues through scan **49 / printed page 48**;
-- required final physical-boundary witness: scan **50**, the back cover, with no further story text.
-
-Before activation:
-
-1. fetch live `main`;
-2. read mandatory guides and current active collection controls;
-3. perform exact-title / plausible alternate-title / distinctive-content equivalence search;
-4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. inspect the controlling PDF directly across scans **47–50** and transcribe only the verified Story-34 physical span;
-6. preserve the Story-33/34 shared boundary on scan 47 and verify the final story/back-cover boundary at scans 49–50;
-7. preserve source spelling, punctuation, paragraph/display structure and non-text marks;
-8. do not begin English translation unless explicitly authorized;
-9. synchronize all collection controls, root README, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after durable closure.
-
-If the controlling PDF is unavailable in a fresh chat, reattach/resolve it before source-dependent work.
+If English is later authorized, fetch live `main` first, read `ENGLISH_TRANSLATION_GUIDE.md` and the current collection controls, then establish the English tracker/batch plan without altering verified Tamil text.

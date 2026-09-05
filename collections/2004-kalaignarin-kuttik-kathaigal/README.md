@@ -1,6 +1,6 @@
 # கலைஞரின் குட்டிக் கதைகள் — 2004 second-edition collection source
 
-This folder registers **`கலைஞரின் குட்டிக் கதைகள்`** as the active collection-level source in `pugazg/kalaignar-short-stories`.
+This folder registers **`கலைஞரின் குட்டிக் கதைகள்`** as the collection-level source in `pugazg/kalaignar-short-stories`.
 
 ## Source snapshot
 
@@ -23,7 +23,7 @@ Full identity and scan-condition notes are in [`metadata/source.md`](metadata/so
 
 The scan moves from the colophon on scan 3 directly into story text on scan 4. Because no printed contents page is present, the 34-story inventory is based on direct sequential visual inspection of the printed story-opening headings across scans **4–49**. No TOC wording has been invented.
 
-Direct activation/source review has established four intake-heading corrections so far:
+Direct activation/source review established four intake-heading corrections:
 
 - Story 16: `அபாசமே அபாசம்!` → **`ஆபாசமே ஆபாசம்!`**;
 - Story 21: `விருந்தாளிக்குத் தோன்றாது...` → **`விஞ்ஞானிக்குத் தோன்றாது...`**;
@@ -38,11 +38,12 @@ Across the story block, **PDF scan = printed page + 1**.
 
 ## Tamil source-processing state
 
-- canonical story workspaces activated: **33 / 34**
-- Tamil source processing complete: **33 / 34**
-- Tamil source processing pending: **1 / 34**
+- canonical story workspaces activated: **34 / 34**
+- Tamil source processing complete: **34 / 34**
+- Tamil source processing pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation for this collection: **not opened**
+- Tamil source phase: **COMPLETE / CLOSED**
 
 ### Completed stories
 
@@ -81,12 +82,11 @@ Across the story block, **PDF scan = printed page + 1**.
 | 31 | `புதிர்` | `stories/pudhir/` | lower scan 41 → upper scan 42 | PASS |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | `stories/uyirukku-vilai-aimbathu-latcham/` | lower scan 42 → upper scan 44 | PASS |
 | 33 | `கைதியின் கதை` | `stories/kaithiyin-kathai/` | lower scan 44 → upper scan 47 | PASS |
+| 34 | `கிழவனின் மனைவி` | `stories/kizhavanin-manaivi/` | lower scan 47 → scan 49 | PASS |
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**. Stories **29–33** were then processed as successive exact activities. All completed stories have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
+The user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**. Stories **29–34** were then processed as successive exact activities. All 34 stories now have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
 
-## Shared-page controls closed through Story 33
-
-In addition to earlier boundaries:
+## Shared-page and final physical controls
 
 - scan **27 / printed 26**: Story 18 ending followed by Story 19 opening;
 - scan **28 / printed 27**: Story 19 ending followed by Story 20 opening;
@@ -101,18 +101,16 @@ In addition to earlier boundaries:
 - scan **41 / printed 40**: complete Story 30 at the top followed by Story 31 `புதிர்`;
 - scan **42 / printed 41**: Story 31 ends above Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்`;
 - scan **44 / printed 43**: Story 32 ends above Story 33 `கைதியின் கதை`;
-- scan **47 / printed 46**: Story 33 ends above Story 34 `கிழவனின் மனைவி`.
+- scan **47 / printed 46**: Story 33 ends above Story 34 `கிழவனின் மனைவி`;
+- scan **49 / printed 48**: Story 34 ends with centered `முற்றும்`; a library stamp occupies lower blank space without obscuring story text;
+- scan **50**: verified physical back cover; no further story text.
 
 ## Canonical deduplication gate
 
-The remaining Story 34 still requires a fresh live-`main` exact-title / alternate-title / distinctive-content equivalence check before activation. Do not create a placeholder story folder from the inventory.
+All **34 / 34** story activations have passed the live-main duplicate/content-equivalence gate. No pending canonical activation remains for this source.
 
-## Next exact activity
+## Phase closure
 
-Process **Story 34 — `கிழவனின் மனைவி`**.
+**Tamil source pass COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 unresolved.**
 
-- opens: scan **47 / printed page 46**, below completed Story 33;
-- final story text ends on scan **49 / printed page 48**;
-- scan **50** is the required physical back-cover/final-boundary witness.
-
-Do not begin Story 34 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
+English translation for the 2004 collection remains **not opened**. Do not begin English without explicit user authorization.

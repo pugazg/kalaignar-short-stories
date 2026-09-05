@@ -51,32 +51,33 @@ These corrections come from direct visual review of the printed headings and are
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **33 / 34**
-- Tamil source processing complete: **33 / 34**
-- pending: **1 / 34**
+- canonical story workspaces activated: **34 / 34**
+- Tamil source processing complete: **34 / 34**
+- pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
+- Tamil source phase: **COMPLETE / CLOSED**
 
-Stories **1–33** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Stories 29–33 were then completed as successive exact activities.
+Stories **1–34** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Stories 29–34 were then completed as successive exact activities.
 
 ## Latest completed source work
 
-Story 33 **`கைதியின் கதை`**:
+Story 34 **`கிழவனின் மனைவி`**:
 
-- workspace: `stories/kaithiyin-kathai/`;
-- verified span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**;
-- source records: **4 / 4 verified**;
-- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded;
-- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded;
+- workspace: `stories/kizhavanin-manaivi/`;
+- verified span: **lower scan 47 / printed 46 → scan 49 / printed 48**;
+- source records: **3 / 3 verified**;
+- Story 33 `கைதியின் கதை` ends above on scan 47 and is excluded;
+- centered `முற்றும்` closes the story on scan 49;
+- scan 49 has a lower-page library stamp that does not obscure story text;
+- scan 50 is the verified physical back cover with no further story text;
 - audit: **PASS**;
 - blocked / unresolved: **0**.
 
-Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்`, `கூஷ்டரோகம்`, and `அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான்.` were directly rechecked and retained exactly as printed.
+Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, separate `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and closing `வேட்டைதான்` were directly rechecked and retained exactly as printed. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
 
-## Next source target
+## Final source closure
 
-Story 34 **`கிழவனின் மனைவி`**:
+Story text ends on scan **49 / printed page 48** with `முற்றும்`. Scan **50** was directly verified as the physical back cover and contains no further story text.
 
-- opens on scan **47 / printed page 46** below Story 33;
-- final story text ends on scan **49 / printed page 48**;
-- scan **50** is the required physical back-cover/final-boundary witness.
+**Tamil source pass COMPLETE / CLOSED — 34 / 34 PASS; 0 pending; 0 unresolved.**

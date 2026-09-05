@@ -51,9 +51,9 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 31 | `புதிர்` | 41 | 40 | PASS |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | PASS |
 | 33 | `கைதியின் கதை` | 44 | 43 | PASS |
-| 34 | `கிழவனின் மனைவி` | 47 | 46 | pending |
+| 34 | `கிழவனின் மனைவி` | 47 | 46 | PASS |
 
-## Verified shared-page boundaries through Story 33
+## Verified shared-page and final boundaries
 
 - scan **27 / printed 26** — Story 18 ending followed by Story 19 opening;
 - scan **28 / printed 27** — Story 19 ending followed by Story 20 opening;
@@ -68,7 +68,9 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 - scan **41 / printed 40** — Story 30 at the top followed by Story 31 `புதிர்` on the same physical page;
 - scan **42 / printed 41** — Story 31 ending followed by Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்`;
 - scan **44 / printed 43** — Story 32 ending followed by Story 33 `கைதியின் கதை`;
-- scan **47 / printed 46** — Story 33 ending followed by Story 34 `கிழவனின் மனைவி`.
+- scan **47 / printed 46** — Story 33 ending followed by Story 34 `கிழவனின் மனைவி`;
+- scan **49 / printed 48** — Story 34 ends with `முற்றும்`; lower-page library stamp does not obscure text;
+- scan **50** — verified physical back cover; no further story text.
 
 Direct source heading corrections locked in this map: Story 16 **`ஆபாசமே ஆபாசம்!`**, Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`**, Story 26 **`கூற்றுவன் எப்படிப் மறித்தான்?`**, Story 34 **`கிழவனின் மனைவி`**.
 
@@ -76,8 +78,10 @@ Direct source heading corrections locked in this map: Story 16 **`ஆபாச�
 
 - source registration: complete
 - heading inventory: **34 / 34**
-- Tamil source complete: **33 / 34**
-- pending: **1 / 34**
+- Tamil source complete: **34 / 34**
+- pending: **0 / 34**
 - completed-story blocked / unresolved: **0**
+- Tamil source phase: **COMPLETE / CLOSED**
+- English translation: **not opened**
 
-Next: Story 34 `கிழவனின் மனைவி`, opening scan **47 / printed 46**, ending scan **49 / printed 48**, with scan **50** as the physical back-cover/final-boundary witness.
+No routine Tamil source work remains for this collection.
