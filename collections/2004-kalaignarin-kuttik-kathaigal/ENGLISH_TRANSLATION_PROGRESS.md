@@ -10,34 +10,34 @@ The user explicitly authorized the 2004 English translation phase. The verified 
 
 - total stories: **34**
 - English phase: **OPEN**
-- English `PASS`: **16 / 34**
-- pending: **18 / 34**
+- English `PASS`: **21 / 34**
+- pending: **13 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **16 / 34**
-- canonical Tamil changed during English work through Story 16: **No**
+- visual-fidelity prerequisites closed for English: **21 / 34**
+- canonical Tamil changed during English work through Story 21: **No**
 - default batching: **one story per activity unless the user explicitly expands it**
 
 ## Latest completed batch
 
-The user explicitly expanded the activity to **five stories**. Stories **12–16** are now visual-fidelity **PASS** and English **PASS**:
+The user explicitly expanded the activity to **five stories**. Stories **17–21** are now visual-fidelity **PASS** and English **PASS**:
 
 | # | Story | Verified span | Visual fidelity | English |
 |---:|---|---|---|---|
-| 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | scan 18 only | **PASS** | **PASS** |
-| 13 | `வீரவாடி` | scan 18 → top scan 19 | **PASS** | **PASS** |
-| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | scan 19 → top scan 22 | **PASS** | **PASS** |
-| 15 | `கள்ளியும் ரோஜாவும்` | scan 22 → top scan 23 | **PASS** | **PASS** |
-| 16 | `ஆபாசமே ஆபாசம்!` | scan 23 → top scan 24 | **PASS** | **PASS** |
+| 17 | `ஆடிக் காற்றே!` | scan 24 only | **PASS** | **PASS** |
+| 18 | `இலங்கை மன்னர் பரம்பரை` | scan 25 → top scan 27 | **PASS** | **PASS** |
+| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → top scan 28 | **PASS** | **PASS** |
+| 20 | `சிறை கொடியது` | scan 28 → top scan 29 | **PASS** | **PASS** |
+| 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | scan 29 only | **PASS** | **PASS** |
 
-Direct source review covered scans **18–24**. Story-local physical markers were aligned to actual page transitions, including Story 13's split final sentence, Story 14's scan-20→21 Kotpuli quotation break, and Story 15's split after source `ஒரு`. No Tamil source correction was required in Stories 12–16.
+Direct source review covered scans **24–30**, with scan 30 used as continuation evidence for Story 22. No Tamil source correction was required in Stories 17–21.
 
 Source-sensitive closure notes:
 
-- Story 12 retains the unusual opening `அம்பல் திருமாரித்திலேதானே` and quoted `‘புலையர்கள்’`;
-- Story 13 retains `சிற்றாருக்கு`, `பெயர் தான்`, `இனத்தவர்க்கு` and `‘நோக்கர்’`;
-- Story 14 retains `ஒரு வாலிபம் மறைந்த மங்கையின்`, `பிணங் களையெல்லாம்`, `அழகுத் தொட்டிலில்`, `ரிடப வாகன ரூபராய்`, speaker labels and parenthetical remarks;
-- Story 15 retains the source botanical/literary forms and initial ellipsis;
-- Story 16 retains the scan-verified title `ஆபாசமே ஆபாசம்!`, `அரிக்கும் அரனுக்கும்` and `அனு சுயாவைப்`.
+- Story 17 retains its repeated rhetorical questions, political metaphors, `ஆடிக்காற்றே!...` punctuation and review-queue compounds;
+- Story 18 retains the source narrative framing, names and unusual forms, while the scan-26→27 physical split `அனுப்பு` → `கிறான்.` remains explicitly traceable;
+- Story 19 retains the title/body ellipses, four-dot punctuation, satirical `தன்னல மற்றவர்கள்!`, and mythological vocabulary;
+- Story 20 retains the display-poem structure line-for-line and the scan-28→29 break between `கூண்டில் உன்னைப் போட்டதனாலே` and `தூண்டிற் புழுவாய்த்...`;
+- Story 21 retains the scan-verified heading `விஞ்ஞானிக்குத் தோன்றாது...`, the verified unusual `முகத்தான`, and the internal `பிறகுதான்... ஆகா` pause.
 
 ## Story queue
 
@@ -59,12 +59,12 @@ Source-sensitive closure notes:
 | 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | scan 19 → top scan 22 | PASS | **PASS** |
 | 15 | `கள்ளியும் ரோஜாவும்` | scan 22 → top scan 23 | PASS | **PASS** |
 | 16 | `ஆபாசமே ஆபாசம்!` | scan 23 → top scan 24 | PASS | **PASS** |
-| 17 | `ஆடிக் காற்றே!` | scan 24 only | **next — visual prerequisite** | pending |
-| 18 | `இலங்கை மன்னர் பரம்பரை` | scan 25 → top scan 27 | not yet checked | pending |
-| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → scan 28 | not yet checked | pending |
-| 20 | `சிறை கொடியது` | scan 28 → scan 29 | not yet checked | pending |
-| 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | scan 29 only | not yet checked | pending |
-| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | scan 29 → scan 31 | not yet checked | pending |
+| 17 | `ஆடிக் காற்றே!` | scan 24 only | PASS | **PASS** |
+| 18 | `இலங்கை மன்னர் பரம்பரை` | scan 25 → top scan 27 | PASS | **PASS** |
+| 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → scan 28 | PASS | **PASS** |
+| 20 | `சிறை கொடியது` | scan 28 → scan 29 | PASS | **PASS** |
+| 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | scan 29 only | PASS | **PASS** |
+| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | lower scan 29 → scan 30 → upper scan 31 | **next — visual prerequisite** | pending |
 | 23 | `புகழே நீ ஒரு புதிர்` | scan 31 → scan 32 | not yet checked | pending |
 | 24 | `மலையைத் தூக்குவேன்!` | scan 32 → scan 34 | not yet checked | pending |
 | 25 | `முதியவர் தீர்ப்பு` | scan 34 → scan 35 | not yet checked | pending |
@@ -80,12 +80,12 @@ Source-sensitive closure notes:
 
 ## Current exact next activity
 
-Close the **Story 17 `ஆடிக் காற்றே!` visual-fidelity prerequisite** before translating it.
+Close the **Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்` visual-fidelity prerequisite** before translating it.
 
-- verified span: **scan 24 / printed page 23 only**;
-- Story 16 ends above the Story-17 heading on the same scan and must remain excluded;
-- Story 18 `இலங்கை மன்னர் பரம்பரை` begins on scan 25 and is the following boundary witness;
-- read Story-17 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-- directly inspect the complete Story-17 unit and create `visual-fidelity.md` only if source-supported;
-- do **not** create Story-17 English prose until the visual gate is durably PASS;
+- verified span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**;
+- Story 21 ends above Story 22 on scan 29;
+- Story 23 `புகழே நீ ஒரு புதிர்` begins below Story 22 on scan 31 and is the lower boundary witness;
+- read Story-22 README, page map, all three page records, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+- directly inspect the complete Story-22 span and create `visual-fidelity.md` only if source-supported;
+- do **not** create Story-22 English prose until the visual gate is durably PASS;
 - unless the user explicitly expands batching again, return to one story per activity.

@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977/2008 work, the closed 2004 Tamil phase, or completed 2004 English Stories 1–16 because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977/2008 work, the closed 2004 Tamil phase, or completed 2004 English Stories 1–21 because a copied checkpoint is older.
 
 ## Controlling source
 
@@ -31,40 +31,40 @@ Read completely:
 6. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
 7. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
-9. Story-17 workspace files listed below
+9. Story-22 workspace files listed below
 
 ## Durable state
 
 - Tamil: **34 / 34 PASS, COMPLETE / CLOSED**
-- English: **16 / 34 PASS, 18 pending, 0 NEEDS REVIEW**
-- visual prerequisites: **16 / 34 PASS**
-- canonical Tamil changed during English work through Story 16: **No**
+- English: **21 / 34 PASS, 13 pending, 0 NEEDS REVIEW**
+- visual prerequisites: **21 / 34 PASS**
+- canonical Tamil changed during English work through Story 21: **No**
 
-The latest user-authorized five-story batch completed Stories **12–16** after direct source visual review across scans 18–24. Do not redo them. Default batching returns to one story unless the user explicitly expands it again.
+The latest user-authorized five-story batch completed Stories **17–21** after direct source visual review across scans 24–30. Do not redo them. Default batching returns to one story unless the user explicitly expands it again.
 
-## CURRENT EXACT NEXT ACTIVITY — Story 17 visual gate
+## CURRENT EXACT NEXT ACTIVITY — Story 22 visual gate
 
-Story 17: **`ஆடிக் காற்றே!`**
+Story 22: **`அடுத்த பிறவியில் ஐந்து கணவன்`**
 
-- workspace: `stories/aadik-kaatre/`
-- verified Tamil span: **scan 24 / printed page 23 only**
-- source records: **1 / 1 verified**
+- workspace: `stories/adutha-piraviyil-aindhu-kanavan/`
+- verified Tamil span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**
+- source records: **3 / 3 verified**
 - Tamil audit: **PASS**
 - blocked / unresolved: **0**
 - English: pending
 - story-local visual fidelity: not yet closed
-- upper same-page witness: Story 16 **`ஆபாசமே ஆபாசம்!`** ends above
-- following witness: Story 18 **`இலங்கை மன்னர் பரம்பரை`** begins on scan 25
+- upper witness: Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`** ends above on scan 29
+- lower witness: Story 23 **`புகழே நீ ஒரு புதிர்`** begins below on scan 31
 
 Read before changing anything:
 
-- `stories/aadik-kaatre/README.md`
+- `stories/adutha-piraviyil-aindhu-kanavan/README.md`
 - `indexes/page-map.md`
-- the page record under `pages/`
-- `sections/aadik-kaatre.md`
+- all three page records under `pages/`
+- `sections/adutha-piraviyil-aindhu-kanavan.md`
 - `audit.md`
 - `POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-Directly inspect scan **24 / printed 23** and use scan 25 only as the following boundary witness if needed. Check the complete Story-17 unit, centered heading, exact opening/ending, paragraph/dialogue/display structure, horizontal separators and page furniture. Story 16 above must remain excluded.
+Directly inspect scans **29–31**. Check the complete Story-22 unit, centered heading, exact opening/ending, paragraph/dialogue/display structure, both physical page joins, separators and page furniture. Stories 21 and 23 are boundary witnesses only and must remain excluded.
 
-Create `visual-fidelity.md` only if source-supported. Do not begin Story-17 English until that gate is durably PASS. After visual PASS, the following activity is Story-17 English translation and `TRANSLATION_REVIEW.md`.
+Create `visual-fidelity.md` only if source-supported. Do not begin Story-22 English until that gate is durably PASS. After visual PASS, the following activity is Story-22 English translation and `TRANSLATION_REVIEW.md`.

@@ -35,14 +35,14 @@ See [`TAMIL_SOURCE_PROGRESS.md`](TAMIL_SOURCE_PROGRESS.md).
 
 ## English phase
 
-**OPEN — 16 / 34 PASS, 18 pending, 0 NEEDS REVIEW.**
+**OPEN — 21 / 34 PASS, 13 pending, 0 NEEDS REVIEW.**
 
-Visual-fidelity prerequisites closed: **16 / 34**.
+Visual-fidelity prerequisites closed: **21 / 34**.
 
 See [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-Completed English Stories **1–16**. The latest user-authorized five-story batch completed **Stories 12–16** after direct visual review across scans **18–24**. All five are visual-fidelity PASS and English PASS. No canonical Tamil text changed.
+Completed English Stories **1–21**. The latest user-authorized five-story batch completed **Stories 17–21** after direct visual review across scans **24–30**. All five are visual-fidelity PASS and English PASS. No canonical Tamil text changed.
 
 ## Current exact next activity
 
-Story 17 **`ஆடிக் காற்றே!`** — close its visual-fidelity prerequisite on **scan 24 / printed page 23**. Story 16 ends above it on the same scan; Story 18 `இலங்கை மன்னர் பரம்பரை` begins on scan 25 and is the following boundary witness. English must not begin until Story 17's visual gate is PASS. Default batching returns to one story unless the user explicitly expands it again.
+Story 22 **`அடுத்த பிறவியில் ஐந்து கணவன்`** — close its visual-fidelity prerequisite across **lower scan 29 → scan 30 → upper scan 31**. Story 21 ends above it on scan 29; Story 23 begins below it on scan 31. English must not begin until Story 22's visual gate is PASS. Default batching returns to one story unless the user explicitly expands it again.
