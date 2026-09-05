@@ -1,68 +1,34 @@
-# NEXT CHAT PROMPT — New short-story onboarding / எழுத்தாளர் ஏகலைவன்
+# NEXT CHAT PROMPT — New short-story onboarding / மலரவில்லை
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases, and do not redo completed `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு` or `கொள்ளைபுரம்` work merely because a copied prompt is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases, and do not redo completed `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்` or `எழுத்தாளர் ஏகலைவன்` work merely because a copied prompt is older.
 
 ## Completed new-story checkpoints
 
 ### `நண்பனா?`
 
-From the 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்` collection:
-
-- canonical workspace: `stories/nanbana/`
-- source scans **104–106 / printed 94–96**
-- **3 / 3 verified**
-- Tamil audit **PASS**
-- visual fidelity **PASS**
-- blocked / unresolved story text **0**
-- English **not started**
+From the 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்` collection: `stories/nanbana/`, scans **104–106 / printed 94–96**, **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 
 ### `காந்தி தேசம்`
 
-From the 2009 `16 கதையினிலே` collection:
-
-- canonical workspace: `stories/gandhi-desam/`
-- source scans **6–18 / printed 1–13**
-- **13 / 13 verified**
-- Tamil audit **PASS**
-- visual fidelity **PASS**
-- blocked / unresolved story text **0**
-- English **not started**
-- scan **19** independently checked as the opening of `அணில் குஞ்சு`
-- direct source rechecks include scan 12 `பாத்த பாங்கிலேயே`, scan 13 `வந்தது மாதிரி`, and scan 14 `தோள்மீது`; do not normalize these silently.
+From the 2009 `16 கதையினிலே` collection: `stories/gandhi-desam/`, scans **6–18 / printed 1–13**, **13/13 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started. Scan **19** opens `அணில் குஞ்சு`.
 
 ### `அணில் குஞ்சு`
 
-From the 2009 `16 கதையினிலே` collection:
-
-- canonical workspace: `stories/anil-kunju/`
-- source scans **19–28 / printed 14–23**
-- **10 / 10 verified**
-- Tamil audit **PASS**
-- visual fidelity **PASS**
-- blocked / unresolved story text **0**
-- English **not started**
-- scan **29** independently checked as the opening of `கொள்ளைபுரம்`
-- source-close rechecks include `பருக்`, `கார்சேவை`, `துளியும்`, `தம்பித்துரை`, `இரண்டே தெருக்கள்`, `டேப் டான்ஸா?`, `ஒரு கரண்டியோ இரண்டு கரண்டியோ`, `அதுக்கப்பறமும்`, and `ஆராவமுத அய்யங்கார்`.
-- scan **28** ends with five circular ornaments.
+`stories/anil-kunju/`, scans **19–28 / printed 14–23**, **10/10 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started. Scan **29** opens `கொள்ளைபுரம்`.
 
 ### `கொள்ளைபுரம்`
 
-From the 2009 `16 கதையினிலே` collection:
+`stories/kollaipuram/`, scans **29–37 / printed 24–32**, **9/9 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started. Scan **38** opens `எழுத்தாளர் ஏகலைவன்`.
 
-- canonical workspace: `stories/kollaipuram/`
-- source scans **29–37 / printed 24–32**
-- **9 / 9 verified**
-- Tamil audit **PASS**
-- visual fidelity **PASS**
-- blocked / unresolved story text **0**
-- English **not started**
-- scan **38** independently checked as the opening of `எழுத்தாளர் ஏகலைவன்`
-- source-close rechecks include `சர்வாதிகாரம் செலுத்தி வந்த காலம்`, `கொலுவீற்றிருந்த`, `நவரத்தின் அணிகளாயின`, `போக போக்கியங்களின்`, `அம்சதூளிகா`, `நிலம் நீச்சு`, `ஆக்ரமிக்கத் தாக்கீது`, `மேய்ச்சல்காடு!,`, `ஒரு சொட்டுக் கண்ணீரும்`, `கலாசாரப் பிரசாரம்`, and `துணுக்குற்று`.
-- scan **37** ends with five circular ornaments.
+### `எழுத்தாளர் ஏகலைவன்`
+
+`stories/ezhuthalar-ekalaivan/`, scans **38–49 / printed 33–44**, **12/12 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started. Scan **49** closes with five circular ornaments and scan **50** opens `மலரவில்லை`.
+
+Source-close rechecks retained forms including `தமிழகமுழுதும்`, `புலித்தைலம்`, `அங்கணபோயி`, `ரெண்டு மணிக்கே கீழே`, `சுலபத்தில் விடாத மணலில்`, `பத்தாம்பசலிக் கட்டுப்பெட்டிக்`, `தரையிலிட்ட மீன்`, `கரையைவிட்டகன்று`, `கண்டல் முறுக்குக் கடலை`, `பாத்தோம்`, `மெளனமானான்`, `பொழைச்சிக்கிட்டாங்க`, `என்றே தெரியாத`, `பஸ்ஸில அடிபட்டு`, and `நம்மாலியன்ற`. Do not silently normalize these.
 
 **Do not process `நடுத்தெரு நாராயணி` in this short-story queue.** The user has reserved it for separate short-novel handling.
 
@@ -92,31 +58,29 @@ Read completely before source-dependent writes:
 6. `collections/2009-16-kathaiyinile/metadata/source.md`
 7. `collections/2009-16-kathaiyinile/indexes/story-inventory.md`
 8. `collections/2009-16-kathaiyinile/indexes/scan-map.md`
-9. `stories/kollaipuram/README.md` as the latest implementation reference only; do not copy its wording into the new story.
+9. `stories/ezhuthalar-ekalaivan/README.md` as the latest implementation reference only; do not copy its wording into the new story.
 
-## Current exact activity — `எழுத்தாளர் ஏகலைவன்`
+## Current exact activity — `மலரவில்லை`
 
-- collection item: **4 / 16**
-- TOC title: **`எழுத்தாளர் ஏகலைவன்`**
-- opening heading: **`எழுத்தாளர் ஏகலைவன்`**
-- printed pages: **33–44**
-- PDF scans: **38–49**
-- next story first scan: **50** — `மலரவில்லை`
+- collection item: **5 / 16**
+- TOC title: **`மலரவில்லை`**
+- opening heading: **`மலரவில்லை`**
+- printed pages: **45–58**
+- PDF scans: **50–63**
+- next story first scan: **64** — `சுமந்தவள்`
 - canonical state at intake: **not present**
 
 Process only this story:
 
 1. confirm no canonical workspace has appeared on newer live `main`;
-2. inspect scans **38–49** directly from the controlling PDF and scan **50** as the ending boundary witness;
+2. inspect scans **50–63** directly from the controlling PDF and scan **64** as the ending boundary witness;
 3. create all per-page records and a source-faithful Tamil assembly;
 4. apply the exhaustive difficult-reading protocol where required; do not silently normalize old/source-close forms;
 5. complete source metadata, Tamil audit, possible-error/recheck queue and visual-fidelity review;
-6. synchronize collection README/inventory/scan-map, root README, `HANDOVER.md` and this prompt;
-7. do **not** begin `மலரவில்லை` in the same activity;
+6. synchronize collection README/source/inventory/scan-map, root README, `HANDOVER.md` and this prompt;
+7. do **not** begin `சுமந்தவள்` or additional-witness comparison in the same activity;
 8. do **not** start English until the Tamil/source and visual-fidelity gates are PASS.
 
-## Subsequent queue
+## After this activity
 
-After `எழுத்தாளர் ஏகலைவன்` is fully synchronized, advance to:
-
-1. `மலரவில்லை` — scans **50–63 / printed 45–58**
+When `மலரவில்லை` is fully synchronized, the five new stories identified from the 2009 source will be **5 / 5 complete**. Stop and record the completed onboarding state; do not automatically begin comparison of the eleven pre-existing canonical stories.
