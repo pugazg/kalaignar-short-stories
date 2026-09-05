@@ -27,12 +27,20 @@
 
 All ten opening scans were checked directly: **19, 30, 35, 44, 52, 62, 86, 99, 104, 107**.
 
-## Intake state
+## Intake / processing state
 
 - contents registered: **10 / 10**
-- canonical story matches: **8**
-- new short-story candidate: **`நண்பனா?`**
-- `நடுத்தெரு நாராயணி`: **deferred for separate handling by user instruction**
-- story transcription started: **No**
+- canonical short-story workspaces represented after onboarding: **9**
+- newly processed short story: **`நண்பனா?` — COMPLETE / PASS**
+  - printed pages **94–96**
+  - scans **104–106**
+  - 3 / 3 verified
+  - Tamil audit PASS
+  - visual fidelity PASS
+  - 0 blocked / 0 unresolved story text
+- `நடுத்தெரு நாராயணி`: **deferred for separate short-novel handling by user instruction**
+- other eight story titles: pre-existing canonical workspaces; this collection remains an additional witness until later comparison
 
-Next: `நண்பனா?`, printed **94–96**, scans **104–106**, with scan **107** (`பிரேத விசாரணை`) as the boundary witness.
+## Next queue activity
+
+No further new short story remains to be created from this 1997 source. Continue with 2009 `16 கதையினிலே`: **`காந்தி தேசம்`**, printed **1–13**, scans **6–18**, with scan **19** (`அணில் குஞ்சு`) as the next-story boundary.
