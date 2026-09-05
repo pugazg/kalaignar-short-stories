@@ -48,12 +48,12 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 | 28 | `இளமைக் காலம்` | 37 | 36 | PASS |
 | 29 | `தலைவனின் பரிசு` | 39 | 38 | PASS |
 | 30 | `கிருஷ்ணனையும் விடாத சாதி` | 41 | 40 | PASS |
-| 31 | `புதிர்` | 41 | 40 | pending |
+| 31 | `புதிர்` | 41 | 40 | PASS |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | pending |
 | 33 | `கைதியின் கதை` | 44 | 43 | pending |
 | 34 | `கிழவியின் மனைவி` | 47 | 46 | pending |
 
-## Verified shared-page boundaries through Story 30
+## Verified shared-page boundaries through Story 31
 
 - scan **27 / printed 26** — Story 18 ending followed by Story 19 opening;
 - scan **28 / printed 27** — Story 19 ending followed by Story 20 opening;
@@ -65,7 +65,8 @@ Story-block relation: **scan = printed page + 1**. No printed contents page is p
 - scan **37 / printed 36** — Story 27 ending followed by Story 28 opening;
 - scan **39 / printed 38** — Story 28 ending followed by Story 29 opening;
 - scan **40 / printed 39** — Story 29 ending; no later story begins on this page;
-- scan **41 / printed 40** — complete Story 30 at the top followed by Story 31 `புதிர்` below.
+- scan **41 / printed 40** — Story 30 at the top followed by Story 31 `புதிர்` on the same physical page;
+- scan **42 / printed 41** — Story 31 ending followed by Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்`.
 
 Direct source heading corrections locked in this map: Story 16 **`ஆபாசமே ஆபாசம்!`**, Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`**, Story 26 **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
 
@@ -73,8 +74,8 @@ Direct source heading corrections locked in this map: Story 16 **`ஆபாச�
 
 - source registration: complete
 - heading inventory: **34 / 34**
-- Tamil source complete: **30 / 34**
-- pending: **4 / 34**
+- Tamil source complete: **31 / 34**
+- pending: **3 / 34**
 - completed-story blocked / unresolved: **0**
 
-Next: Story 31 `புதிர்`, opening later on scan **41 / printed 40**, with Story 32 on scan **42 / printed 41** as the next-opening boundary witness.
+Next: Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்`, opening scan **42 / printed 41**, with Story 33 `கைதியின் கதை` on scan **44 / printed 43** as the ending-boundary witness.
