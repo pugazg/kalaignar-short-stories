@@ -129,6 +129,7 @@ Permanent guides:
 | [`கூற்றுவன் எப்படிப் மறித்தான்?`](stories/kootruvan-eppadip-mariththaan/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`வீரன் தலை கவிழ்ந்தது ஏன்?`](stories/veeran-thalai-kavizhnthathu-en/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`இளமைக் காலம்`](stories/ilamai-kaalam/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`தலைவனின் பரிசு`](stories/thalaivanin-parisu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -150,15 +151,15 @@ Source / processing state:
 - printed story pages represented: **3–48**
 - direct story-heading inventory: **34 / 34**
 - printed contents page: **none visible**
-- canonical story workspaces activated: **28 / 34**
-- Tamil source processing complete: **28 / 34**
-- Tamil source processing pending: **6 / 34**
+- canonical story workspaces activated: **29 / 34**
+- Tamil source processing complete: **29 / 34**
+- Tamil source processing pending: **5 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
-- latest completed source work: **Story 28 `இளமைக் காலம்` — PASS; scan 37 → top scan 39**
-- next source work: **Story 29 `தலைவனின் பரிசு` — scan 39 / printed page 38; Story 30 opens scan 41 / printed page 40**
+- latest completed source work: **Story 29 `தலைவனின் பரிசு` — PASS; lower scan 39 → scan 40**
+- next source work: **Story 30 `கிருஷ்ணனையும் விடாத சாதி` — scan 41 / printed page 40; Story 31 opens later on the same scan**
 
-Stories **1–28 are Tamil source-complete**. The latest user-authorized Stories **19–28** iteration is **10 / 10 PASS**. Direct activation review corrected source headings for Story 16 (`ஆபாசமே ஆபாசம்!`), Story 21 (`விஞ்ஞானிக்குத் தோன்றாது...`) and Story 26 (`கூற்றுவன் எப்படிப் மறித்தான்?`); those source-verified forms are authoritative.
+Stories **1–29 are Tamil source-complete**. Story 29 has **2 / 2 verified** source records; scan 41 confirms the next story begins with no Story-29 continuation. The source-supported heading corrections for Stories 16, 21 and 26 remain authoritative.
 
 ## Registered anthology source
 
