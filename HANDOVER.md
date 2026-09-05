@@ -55,27 +55,27 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 
 Current collection state:
 
-- activated: **32 / 34**
-- Tamil source complete: **32 / 34**
-- pending: **2 / 34**
+- activated: **33 / 34**
+- Tamil source complete: **33 / 34**
+- pending: **1 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–32** were then completed as successive exact activities.
+The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–33** were then completed as successive exact activities.
 
-### Story 32 — உயிருக்கு விலை ஐம்பது லட்சம்
+### Story 33 — கைதியின் கதை
 
-- workspace: `stories/uyirukku-vilai-aimbathu-latcham/`
-- verified span: **lower scan 42 / printed 41 → upper scan 44 / printed 43**
-- source records: **3 / 3 verified**
+- workspace: `stories/kaithiyin-kathai/`
+- verified span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**
+- source records: **4 / 4 verified**
 - duplicate/content-equivalence search: **no existing canonical match**
-- Story 31 `புதிர்` ends above on scan 42 and is excluded
-- Story 33 `கைதியின் கதை` begins below on scan 44 and is excluded
+- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded
+- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded
 - audit: **PASS**
 - blocked / unresolved: **0**
 - English: **not opened**
 
-The scan-42 → scan-43 and scan-43 → scan-44 transitions were checked as continuous and non-duplicative. Source-sensitive forms including `ரிப்பேரில்`, `நீர்வாகத்திற்கு`, `யூனியன்,முனிசிபாலிடி,`, asymmetric `‘சே, சே... வருவதற்கில்லை.”`, `கிறுகிறுத்தது`, four-dot lead-ins `....`, `‘கன்சஷன்’`, `காசாலேதான்`, `காசாலேசா! நீ காசாலே சா!`, and the final cheque amount `ஐம்பது லட்சம்` are retained exactly as printed.
+The scan-45 → scan-46 physical split `வைத்திய` / `சாலையில்` was verified and joined as `வைத்தியசாலையில்` in the canonical assembly. Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்`, `கூஷ்டரோகம்`, and `அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான்.` are retained exactly as printed.
 
 ### Heading corrections locked in the active source controls
 
@@ -86,12 +86,13 @@ The scan-42 → scan-43 and scan-43 → scan-44 transitions were checked as cont
 
 ## Current exact next activity
 
-Process **Story 33 — `கைதியின் கதை`**.
+Process **Story 34 — `கிழவனின் மனைவி`**.
 
 Routing coordinates:
 
-- opening: scan **44 / printed page 43**, immediately below completed Story 32;
-- required ending-boundary witness: Story 34 **`கிழவனின் மனைவி`**, opening scan **47 / printed page 46**.
+- opening: scan **47 / printed page 46**, immediately below completed Story 33;
+- story continues through scan **49 / printed page 48**;
+- required final physical-boundary witness: scan **50**, the back cover, with no further story text.
 
 Before activation:
 
@@ -99,8 +100,8 @@ Before activation:
 2. read mandatory guides and current active collection controls;
 3. perform exact-title / plausible alternate-title / distinctive-content equivalence search;
 4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. inspect the controlling PDF directly across scans **44–47** and transcribe only the verified Story-33 physical span;
-6. preserve the Story-32/33 shared boundary on scan 44 and exclude Story-34 material at/after its heading on scan 47;
+5. inspect the controlling PDF directly across scans **47–50** and transcribe only the verified Story-34 physical span;
+6. preserve the Story-33/34 shared boundary on scan 47 and verify the final story/back-cover boundary at scans 49–50;
 7. preserve source spelling, punctuation, paragraph/display structure and non-text marks;
 8. do not begin English translation unless explicitly authorized;
 9. synchronize all collection controls, root README, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` after durable closure.

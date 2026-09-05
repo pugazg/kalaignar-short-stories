@@ -33,50 +33,51 @@ Read completely before source-dependent work:
 7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
 9. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-10. latest completed workspace `stories/uyirukku-vilai-aimbathu-latcham/` and, as needed, Story 31 `stories/pudhir/` for the shared scan-42 precedent.
+10. latest completed workspace `stories/kaithiyin-kathai/` and, as needed, Story 32 `stories/uyirukku-vilai-aimbathu-latcham/` for the shared scan-44 precedent.
 
 ## Current durable progress
 
-- Stories **1–32**: Tamil source PASS
-- total Tamil source complete: **32 / 34**
-- pending: **2 / 34**
+- Stories **1–33**: Tamil source PASS
+- total Tamil source complete: **33 / 34**
+- pending: **1 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-### Latest completed work — Story 32
+### Latest completed work — Story 33
 
-Story 32 **`உயிருக்கு விலை ஐம்பது லட்சம்`**:
+Story 33 **`கைதியின் கதை`**:
 
-- verified story span: **lower scan 42 / printed 41 → upper scan 44 / printed 43**;
-- source records: **3 / 3 verified**;
-- Story 31 `புதிர்` ends above on scan 42 and is excluded;
-- Story 33 `கைதியின் கதை` begins below on scan 44 and is excluded;
+- verified story span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**;
+- source records: **4 / 4 verified**;
+- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded;
+- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded;
 - audit: **PASS**;
 - blocked / unresolved: **0**.
 
-The scan-42 → scan-43 and scan-43 → scan-44 transitions were checked as continuous and non-duplicative. Source-sensitive forms including `ரிப்பேரில்`, `நீர்வாகத்திற்கு`, `யூனியன்,முனிசிபாலிடி,`, asymmetric `‘சே, சே... வருவதற்கில்லை.”`, `கிறுகிறுத்தது`, four-dot lead-ins `....`, `‘கன்சஷன்’`, `காசாலேதான்`, `காசாலேசா! நீ காசாலே சா!`, and the final cheque amount `ஐம்பது லட்சம்` are retained exactly; do not normalize them from semantics or memory.
+The scan-45 → scan-46 boundary contains the physical split `வைத்திய` / `சாலையில்`; the canonical assembly joins it as `வைத்தியசாலையில்`. Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்`, `கூஷ்டரோகம்`, and the closing `அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான்.` are retained exactly; do not normalize them from semantics or memory.
 
-Source-heading correction already locked for the next boundary witness: Story 34 is **`கிழவனின் மனைவி`**, not the earlier intake form `கிழவியின் மனைவி`.
+Source-heading correction already locked for the final story: Story 34 is **`கிழவனின் மனைவி`**, not the earlier intake form `கிழவியின் மனைவி`.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 33
+## CURRENT EXACT NEXT ACTIVITY — STORY 34
 
-Story 33 opening heading:
+Story 34 opening heading:
 
-**`கைதியின் கதை`**
+**`கிழவனின் மனைவி`**
 
 Routing coordinates:
 
-- opens on scan **44 / printed page 43**, below completed Story 32;
-- Story 34 **`கிழவனின் மனைவி`** opens on scan **47 / printed page 46** and is the required ending-boundary witness.
+- opens on scan **47 / printed page 46**, below completed Story 33;
+- continues through scan **49 / printed page 48**;
+- scan **50** is the required physical back-cover/final-boundary witness and contains no further story text.
 
-### Before creating Story 33
+### Before creating Story 34
 
 1. fetch live `main` again;
 2. perform exact-title, plausible alternate-title and distinctive-content equivalence searches;
 3. if an existing canonical equivalent exists, register the 2004 source as an additional witness rather than duplicating it;
-4. otherwise create the Story-33 canonical workspace;
-5. inspect the controlling PDF directly across scans **44–47** and isolate the exact Story-33 text;
-6. exclude Story-32 material above on scan 44 and Story-34 material at/after its heading on scan 47;
+4. otherwise create the Story-34 canonical workspace;
+5. inspect the controlling PDF directly across scans **47–50** and isolate the exact Story-34 text;
+6. exclude Story-33 material above on scan 47 and verify that scan 50 contains no further story text after Story 34 ends on scan 49;
 7. preserve source spelling, punctuation, paragraph/display structure and non-text/source marks;
 8. do not begin English translation;
 9. synchronize collection controls, root README, `HANDOVER.md` and this prompt after durable closure.

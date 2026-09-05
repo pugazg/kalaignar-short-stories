@@ -51,31 +51,32 @@ These corrections come from direct visual review of the printed headings and are
 
 - source identity / checksum / size: **verified**
 - direct story-heading inventory: **34 / 34 complete**
-- canonical story workspaces activated: **32 / 34**
-- Tamil source processing complete: **32 / 34**
-- pending: **2 / 34**
+- canonical story workspaces activated: **33 / 34**
+- Tamil source processing complete: **33 / 34**
+- pending: **1 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not authorized/opened for this source**
 
-Stories **1–32** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Stories 29–32 were then completed as successive exact activities.
+Stories **1–33** are source-complete. The user-authorized Stories **19–28** source-first iteration closed **10 / 10 PASS**; Stories 29–33 were then completed as successive exact activities.
 
 ## Latest completed source work
 
-Story 32 **`உயிருக்கு விலை ஐம்பது லட்சம்`**:
+Story 33 **`கைதியின் கதை`**:
 
-- workspace: `stories/uyirukku-vilai-aimbathu-latcham/`;
-- verified span: **lower scan 42 / printed 41 → upper scan 44 / printed 43**;
-- source records: **3 / 3 verified**;
-- Story 31 `புதிர்` ends above on scan 42 and is excluded;
-- Story 33 `கைதியின் கதை` begins below on scan 44 and is excluded;
+- workspace: `stories/kaithiyin-kathai/`;
+- verified span: **lower scan 44 / printed 43 → upper scan 47 / printed 46**;
+- source records: **4 / 4 verified**;
+- Story 32 `உயிருக்கு விலை ஐம்பது லட்சம்` ends above on scan 44 and is excluded;
+- Story 34 `கிழவனின் மனைவி` begins below on scan 47 and is excluded;
 - audit: **PASS**;
 - blocked / unresolved: **0**.
 
-Source-sensitive forms including `ரிப்பேரில்`, `நீர்வாகத்திற்கு`, `யூனியன்,முனிசிபாலிடி,`, asymmetric `‘சே, சே... வருவதற்கில்லை.”`, `கிறுகிறுத்தது`, four-dot lead-ins `....`, `‘கன்சஷன்’`, `காசாலேதான்`, `காசாலேசா! நீ காசாலே சா!`, and the final cheque amount `ஐம்பது லட்சம்` were directly rechecked and retained exactly as printed.
+Source-sensitive forms including `குபேரன் வீட்டுக் கோதை`, `வளர்த்துவானேன்`, `அழுவானேன்!`, `பர்மாக்காரியை பாரியாளாக`, `பள்ளிக்கூடத்தாம் உணவு விடுதியில்`, `பகன்றேன்`, `கூஷ்டரோகம்`, and `அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான்.` were directly rechecked and retained exactly as printed.
 
 ## Next source target
 
-Story 33 **`கைதியின் கதை`**:
+Story 34 **`கிழவனின் மனைவி`**:
 
-- opens on scan **44 / printed page 43** below Story 32;
-- Story 34 **`கிழவனின் மனைவி`** opens on scan **47 / printed page 46** and is the required next-opening boundary witness.
+- opens on scan **47 / printed page 46** below Story 33;
+- final story text ends on scan **49 / printed page 48**;
+- scan **50** is the required physical back-cover/final-boundary witness.

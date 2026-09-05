@@ -39,16 +39,16 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 30 | `கிருஷ்ணனையும் விடாத சாதி` | 41 | 40 | Story 31 later scan 41 | **PASS — `stories/krishnanaiyum-vidaatha-saathi/`** |
 | 31 | `புதிர்` | 41 | 40 | Story 32 scan 42 | **PASS — `stories/pudhir/`** |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | Story 33 scan 44 | **PASS — `stories/uyirukku-vilai-aimbathu-latcham/`** |
-| 33 | `கைதியின் கதை` | 44 | 43 | Story 34 scan 47 | **pending** |
+| 33 | `கைதியின் கதை` | 44 | 43 | Story 34 scan 47 | **PASS — `stories/kaithiyin-kathai/`** |
 | 34 | `கிழவனின் மனைவி` | 47 | 46 | ends scan 49; scan 50 back cover | **pending** |
 
 ## Totals
 
 - headings directly checked: **34 / 34**
-- activated / Tamil source complete: **32 / 34**
-- pending: **2 / 34**
+- activated / Tamil source complete: **33 / 34**
+- pending: **1 / 34**
 - completed-story blocked / unresolved: **0**
 
-Stories 1–32 are source-complete. Story 33 begins below Story 32 on scan **44 / printed page 43**.
+Stories 1–33 are source-complete. Story 34 begins below Story 33 on scan **47 / printed page 46**.
 
-Before each remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.
+Before the remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.
