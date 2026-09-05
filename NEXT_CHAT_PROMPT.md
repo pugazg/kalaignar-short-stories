@@ -1,14 +1,16 @@
-# NEXT CHAT PROMPT — New short-story onboarding / காந்தி தேசம்
+# NEXT CHAT PROMPT — New short-story onboarding / அணில் குஞ்சு
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases, and do not redo completed `நண்பனா?` work merely because a copied prompt is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases, and do not redo completed `நண்பனா?` or `காந்தி தேசம்` work merely because a copied prompt is older.
 
-## Completed new-story checkpoint
+## Completed new-story checkpoints
 
-`நண்பனா?` from the 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்` collection is **COMPLETE / PASS**:
+### `நண்பனா?`
+
+From the 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்` collection:
 
 - canonical workspace: `stories/nanbana/`
 - source scans **104–106 / printed 94–96**
@@ -17,8 +19,20 @@ Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1
 - visual fidelity **PASS**
 - blocked / unresolved story text **0**
 - English **not started**
-- scan 103 confirmed as preceding `தொத்துக்கிளி` boundary
-- scan 107 confirmed as next `பிரேத விசாரணை` boundary
+
+### `காந்தி தேசம்`
+
+From the 2009 `16 கதையினிலே` collection:
+
+- canonical workspace: `stories/gandhi-desam/`
+- source scans **6–18 / printed 1–13**
+- **13 / 13 verified**
+- Tamil audit **PASS**
+- visual fidelity **PASS**
+- blocked / unresolved story text **0**
+- English **not started**
+- scan **19** independently checked as the opening of `அணில் குஞ்சு`
+- direct source rechecks include scan 12 `பாத்த பாங்கிலேயே`, scan 13 `வந்தது மாதிரி`, and scan 14 `தோள்மீது`; do not normalize these silently.
 
 **Do not process `நடுத்தெரு நாராயணி` in this short-story queue.** The user has reserved it for separate short-novel handling.
 
@@ -48,34 +62,33 @@ Read completely before source-dependent writes:
 6. `collections/2009-16-kathaiyinile/metadata/source.md`
 7. `collections/2009-16-kathaiyinile/indexes/story-inventory.md`
 8. `collections/2009-16-kathaiyinile/indexes/scan-map.md`
-9. `stories/nanbana/README.md` only as the latest implementation reference; do not copy its wording into the new story.
+9. `stories/gandhi-desam/README.md` as the latest implementation reference only; do not copy its wording into the new story.
 
-## Current exact activity — `காந்தி தேசம்`
+## Current exact activity — `அணில் குஞ்சு`
 
-- collection item: **1 / 16**
-- TOC title: **`காந்தி தேசம்`**
-- opening heading: **`காந்தி தேசம்`**
-- printed pages: **1–13**
-- PDF scans: **6–18**
-- next story first scan: **19** — `அணில் குஞ்சு`
+- collection item: **2 / 16**
+- TOC title: **`அணில் குஞ்சு`**
+- opening heading: **`அணில் குஞ்சு`**
+- printed pages: **14–23**
+- PDF scans: **19–28**
+- next story first scan: **29** — `கொள்ளைபுரம்`
 - canonical state at intake: **not present**
 
 Process only this story:
 
 1. confirm no canonical workspace has appeared on newer live `main`;
-2. inspect scans **6–18** directly from the controlling PDF and scan **19** as the ending boundary witness;
+2. inspect scans **19–28** directly from the controlling PDF and scan **29** as the ending boundary witness;
 3. create all per-page records and a source-faithful Tamil assembly;
 4. apply the exhaustive difficult-reading protocol where required; do not silently normalize old/source-close forms;
 5. complete source metadata, Tamil audit, possible-error/recheck queue and visual-fidelity review;
 6. synchronize collection README/inventory/scan-map, root README, `HANDOVER.md` and this prompt;
-7. do **not** begin `அணில் குஞ்சு` in the same activity;
+7. do **not** begin `கொள்ளைபுரம்` in the same activity;
 8. do **not** start English until the Tamil/source and visual-fidelity gates are PASS.
 
 ## Subsequent queue
 
-After `காந்தி தேசம்` is fully synchronized, advance one story at a time:
+After `அணில் குஞ்சு` is fully synchronized, advance one story at a time:
 
-1. `அணில் குஞ்சு` — scans **19–28 / printed 14–23**
-2. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
-3. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
-4. `மலரவில்லை` — scans **50–63 / printed 45–58**
+1. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
+2. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
+3. `மலரவில்லை` — scans **50–63 / printed 45–58**
