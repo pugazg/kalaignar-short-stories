@@ -9,27 +9,25 @@ The user explicitly authorized the 2004 English translation phase. The verified 
 ## Phase state
 
 - total stories: **34**
-- English phase: **OPEN**
-- English `PASS`: **21 / 34**
-- pending: **13 / 34**
+- English phase: **COMPLETE / CLOSED**
+- English `PASS`: **34 / 34**
+- pending: **0 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **22 / 34**
-- canonical Tamil changed during English/visual work through Story 22 visual closure: **No**
-- default batching: **one story per activity unless the user explicitly expands it**
+- visual-fidelity prerequisites closed for English: **34 / 34**
+- canonical Tamil changed during the English phase: **No**
+- final English structural/control QA: **PASS**
+- final QA record: [`FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md`](FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md)
 
-## Latest completed English batch
+## Final completed batch
 
-Stories **17–21** remain the latest completed five-story English batch; all five are visual-fidelity **PASS** and English **PASS**.
+The user explicitly expanded the final activity to all remaining stories. Stories **22–34** were completed after their required story-local visual-fidelity gates were closed. Each story has:
 
-## Latest visual prerequisite closure
+- visual fidelity: **PASS**;
+- English translation: **PASS**;
+- `TRANSLATION_REVIEW.md`: **PASS**;
+- unresolved English issues: **0**.
 
-Story **22 `அடுத்த பிறவியில் ஐந்து கணவன்`** is now visual-fidelity **PASS** after direct inspection of **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**.
-
-- Story 21 above on scan 29: excluded;
-- Story 23 below on scan 31: excluded;
-- scan-29→30 and scan-30→31 transitions occur between complete dialogue turns;
-- review-queue forms and asymmetric quotation punctuation remain source-faithful;
-- Tamil correction required during visual closure: **No**.
+No canonical Tamil section/page/audit file changed during the final English batch.
 
 ## Story queue
 
@@ -56,27 +54,24 @@ Story **22 `அடுத்த பிறவியில் ஐந்து க�
 | 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → scan 28 | PASS | **PASS** |
 | 20 | `சிறை கொடியது` | scan 28 → scan 29 | PASS | **PASS** |
 | 21 | `விஞ்ஞானிக்குத் தோன்றாது...` | scan 29 only | PASS | **PASS** |
-| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | lower scan 29 → scan 30 → upper scan 31 | **PASS** | **next — pending** |
-| 23 | `புகழே நீ ஒரு புதிர்` | scan 31 → scan 32 | not yet checked | pending |
-| 24 | `மலையைத் தூக்குவேன்!` | scan 32 → scan 34 | not yet checked | pending |
-| 25 | `முதியவர் தீர்ப்பு` | scan 34 → scan 35 | not yet checked | pending |
-| 26 | `கூற்றுவன் எப்படிப் மறித்தான்?` | scan 35 only | not yet checked | pending |
-| 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | scan 36 → scan 37 | not yet checked | pending |
-| 28 | `இளமைக் காலம்` | scan 37 → scan 39 | not yet checked | pending |
-| 29 | `தலைவனின் பரிசு` | lower scan 39 → scan 40 | not yet checked | pending |
-| 30 | `கிருஷ்ணனையும் விடாத சாதி` | top scan 41 only | not yet checked | pending |
-| 31 | `புதிர்` | lower scan 41 → upper scan 42 | not yet checked | pending |
-| 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | lower scan 42 → upper scan 44 | not yet checked | pending |
-| 33 | `கைதியின் கதை` | lower scan 44 → upper scan 47 | not yet checked | pending |
-| 34 | `கிழவனின் மனைவி` | lower scan 47 → scan 49 | not yet checked | pending |
+| 22 | `அடுத்த பிறவியில் ஐந்து கணவன்` | lower scan 29 → scan 30 → upper scan 31 | PASS | **PASS** |
+| 23 | `புகழே நீ ஒரு புதிர்` | scan 31 → scan 32 | PASS | **PASS** |
+| 24 | `மலையைத் தூக்குவேன்!` | scan 32 → scan 34 | PASS | **PASS** |
+| 25 | `முதியவர் தீர்ப்பு` | scan 34 → scan 35 | PASS | **PASS** |
+| 26 | `கூற்றுவன் எப்படிப் மறித்தான்?` | scan 35 only | PASS | **PASS** |
+| 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | scan 36 → scan 37 | PASS | **PASS** |
+| 28 | `இளமைக் காலம்` | scan 37 → scan 39 | PASS | **PASS** |
+| 29 | `தலைவனின் பரிசு` | lower scan 39 → scan 40 | PASS | **PASS** |
+| 30 | `கிருஷ்ணனையும் விடாத சாதி` | top scan 41 only | PASS | **PASS** |
+| 31 | `புதிர்` | lower scan 41 → upper scan 42 | PASS | **PASS** |
+| 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | lower scan 42 → upper scan 44 | PASS | **PASS** |
+| 33 | `கைதியின் கதை` | lower scan 44 → upper scan 47 | PASS | **PASS** |
+| 34 | `கிழவனின் மனைவி` | lower scan 47 → scan 49 | PASS | **PASS** |
+
+## Final boundary
+
+Story 34 closes on **scan 49 / printed page 48** with centered `முற்றும்`. Scan **50** is the directly verified back cover and contains no further story text.
 
 ## Current exact next activity
 
-Translate Story **22 `அடுத்த பிறவியில் ஐந்து கணவன்`** from its verified canonical Tamil and create `TRANSLATION_REVIEW.md`.
-
-- use provenance markers for **scan 29 / printed 28**, **scan 30 / printed 29**, and **scan 31 / printed 30**;
-- marker placement must align to the actual source transitions between dialogue turns;
-- read `POSSIBLE_ERRORS_FOR_REVIEW.md` before translating and do not silently normalize its source-sensitive forms;
-- Story 21 above and Story 23 below are excluded;
-- do not alter verified Tamil unless a newly discovered source-supported defect requires explicit reopening;
-- do not begin Story 23 in this activity unless the user explicitly expands batching.
+There is **no remaining routine Tamil, visual-fidelity, or English-translation activity** for this 2004 collection. The phase is closed at **34 / 34 PASS**. Do not reopen completed stories merely to create more work. Any future change requires a new, explicit source-supported correction, audit request, or publication-layer authorization.
