@@ -130,6 +130,7 @@ Permanent guides:
 | [`வீரன் தலை கவிழ்ந்தது ஏன்?`](stories/veeran-thalai-kavizhnthathu-en/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`இளமைக் காலம்`](stories/ilamai-kaalam/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`தலைவனின் பரிசு`](stories/thalaivanin-parisu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`கிருஷ்ணனையும் விடாத சாதி`](stories/krishnanaiyum-vidaatha-saathi/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
 
@@ -151,15 +152,15 @@ Source / processing state:
 - printed story pages represented: **3–48**
 - direct story-heading inventory: **34 / 34**
 - printed contents page: **none visible**
-- canonical story workspaces activated: **29 / 34**
-- Tamil source processing complete: **29 / 34**
-- Tamil source processing pending: **5 / 34**
+- canonical story workspaces activated: **30 / 34**
+- Tamil source processing complete: **30 / 34**
+- Tamil source processing pending: **4 / 34**
 - completed-story blocked / unresolved story text: **0**
 - English translation: **not opened**
-- latest completed source work: **Story 29 `தலைவனின் பரிசு` — PASS; lower scan 39 → scan 40**
-- next source work: **Story 30 `கிருஷ்ணனையும் விடாத சாதி` — scan 41 / printed page 40; Story 31 opens later on the same scan**
+- latest completed source work: **Story 30 `கிருஷ்ணனையும் விடாத சாதி` — PASS; top scan 41 / printed page 40**
+- next source work: **Story 31 `புதிர்` — later on scan 41 / printed page 40; Story 32 opens scan 42 / printed page 41**
 
-Stories **1–29 are Tamil source-complete**. Story 29 has **2 / 2 verified** source records; scan 41 confirms the next story begins with no Story-29 continuation. The source-supported heading corrections for Stories 16, 21 and 26 remain authoritative.
+Stories **1–30 are Tamil source-complete**. Story 30 has **1 / 1 verified** source record and ends above Story 31 on the same scan. The source-supported heading corrections for Stories 16, 21 and 26 remain authoritative.
 
 ## Registered anthology source
 
