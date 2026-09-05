@@ -10,33 +10,34 @@ The user explicitly authorized the 2004 English translation phase. The verified 
 
 - total stories: **34**
 - English phase: **OPEN**
-- English `PASS`: **11 / 34**
-- pending: **23 / 34**
+- English `PASS`: **16 / 34**
+- pending: **18 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **11 / 34**
-- canonical Tamil changed during English work through Story 11: **No**
+- visual-fidelity prerequisites closed for English: **16 / 34**
+- canonical Tamil changed during English work through Story 16: **No**
 - default batching: **one story per activity unless the user explicitly expands it**
 
 ## Latest completed batch
 
-The user explicitly expanded the activity to **five stories**. Stories **7–11** are now visual-fidelity **PASS** and English **PASS**:
+The user explicitly expanded the activity to **five stories**. Stories **12–16** are now visual-fidelity **PASS** and English **PASS**:
 
 | # | Story | Verified span | Visual fidelity | English |
 |---:|---|---|---|---|
-| 7 | `நாதம் எழாது - நரம்புதான் அறும்` | scan 14 → scan 15 | **PASS** | **PASS** |
-| 8 | `அவள் சொன்னாள்` | scan 15 only | **PASS** | **PASS** |
-| 9 | `இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்` | scan 15 → scan 16 | **PASS** | **PASS** |
-| 10 | `கொல்லப்பட வேண்டியது புலி, ஆனால்...` | scan 16 → scan 17 | **PASS** | **PASS** |
-| 11 | `அந்தக் காலத்திலே!` | scan 17 only | **PASS** | **PASS** |
+| 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | scan 18 only | **PASS** | **PASS** |
+| 13 | `வீரவாடி` | scan 18 → top scan 19 | **PASS** | **PASS** |
+| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | scan 19 → top scan 22 | **PASS** | **PASS** |
+| 15 | `கள்ளியும் ரோஜாவும்` | scan 22 → top scan 23 | **PASS** | **PASS** |
+| 16 | `ஆபாசமே ஆபாசம்!` | scan 23 → top scan 24 | **PASS** | **PASS** |
 
-Direct source review covered scans **14–18**, including the Story-12 opening witness on scan 18. No Tamil source correction was required in Stories 7–11.
+Direct source review covered scans **18–24**. Story-local physical markers were aligned to actual page transitions, including Story 13's split final sentence, Story 14's scan-20→21 Kotpuli quotation break, and Story 15's split after source `ஒரு`. No Tamil source correction was required in Stories 12–16.
 
 Source-sensitive closure notes:
 
-- Story 7 retains the visibly unclosed outer quotation and the scan-14→15 break inside `‘நான்`;
-- Story 9 retains four verse/display units and imports no external standard literary wording;
-- Story 10 retains the heading/body ellipses and aligns the scan-17 English marker inside the quoted cross-page sentence;
-- Story 11 retains differing `...` / `....` punctuation and conservatively handles `பாராளப் பிறந்த` / `அயோத்தியானுக்கு`.
+- Story 12 retains the unusual opening `அம்பல் திருமாரித்திலேதானே` and quoted `‘புலையர்கள்’`;
+- Story 13 retains `சிற்றாருக்கு`, `பெயர் தான்`, `இனத்தவர்க்கு` and `‘நோக்கர்’`;
+- Story 14 retains `ஒரு வாலிபம் மறைந்த மங்கையின்`, `பிணங் களையெல்லாம்`, `அழகுத் தொட்டிலில்`, `ரிடப வாகன ரூபராய்`, speaker labels and parenthetical remarks;
+- Story 15 retains the source botanical/literary forms and initial ellipsis;
+- Story 16 retains the scan-verified title `ஆபாசமே ஆபாசம்!`, `அரிக்கும் அரனுக்கும்` and `அனு சுயாவைப்`.
 
 ## Story queue
 
@@ -53,12 +54,12 @@ Source-sensitive closure notes:
 | 9 | `இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்` | scan 15 → scan 16 | PASS | **PASS** |
 | 10 | `கொல்லப்பட வேண்டியது புலி, ஆனால்...` | scan 16 → scan 17 | PASS | **PASS** |
 | 11 | `அந்தக் காலத்திலே!` | scan 17 only | PASS | **PASS** |
-| 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | scan 18 only | **next — visual prerequisite** | pending |
-| 13 | `வீரவாடி` | scan 18 → top scan 19 | not yet checked | pending |
-| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | scan 19 → top scan 22 | not yet checked | pending |
-| 15 | `கள்ளியும் ரோஜாவும்` | scan 22 → top scan 23 | not yet checked | pending |
-| 16 | `ஆபாசமே ஆபாசம்!` | scan 23 → top scan 24 | not yet checked | pending |
-| 17 | `ஆடிக் காற்றே!` | scan 24 only | not yet checked | pending |
+| 12 | `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` | scan 18 only | PASS | **PASS** |
+| 13 | `வீரவாடி` | scan 18 → top scan 19 | PASS | **PASS** |
+| 14 | `சொர்க்கத்திற்கு வந்தது எப்படி?` | scan 19 → top scan 22 | PASS | **PASS** |
+| 15 | `கள்ளியும் ரோஜாவும்` | scan 22 → top scan 23 | PASS | **PASS** |
+| 16 | `ஆபாசமே ஆபாசம்!` | scan 23 → top scan 24 | PASS | **PASS** |
+| 17 | `ஆடிக் காற்றே!` | scan 24 only | **next — visual prerequisite** | pending |
 | 18 | `இலங்கை மன்னர் பரம்பரை` | scan 25 → top scan 27 | not yet checked | pending |
 | 19 | `கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை` | scan 27 → scan 28 | not yet checked | pending |
 | 20 | `சிறை கொடியது` | scan 28 → scan 29 | not yet checked | pending |
@@ -79,13 +80,12 @@ Source-sensitive closure notes:
 
 ## Current exact next activity
 
-Close the **Story 12 `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` visual-fidelity prerequisite** before translating it.
+Close the **Story 17 `ஆடிக் காற்றே!` visual-fidelity prerequisite** before translating it.
 
-- verified span: **scan 18 / printed page 17 only**;
-- Story 11 ended on the preceding physical scan;
-- Story 13 `வீரவாடி` begins later on scan 18 and is the lower same-page boundary witness;
-- read Story-12 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-- directly inspect the complete Story-12 unit on scan 18 for heading/opening/ending, paragraph/dialogue/display structure, separators and page furniture;
-- create `stories/aandavan-dharisanam-kodutha-oor/visual-fidelity.md` only if source-supported;
-- do **not** create Story-12 English prose until that visual gate is durably PASS;
+- verified span: **scan 24 / printed page 23 only**;
+- Story 16 ends above the Story-17 heading on the same scan and must remain excluded;
+- Story 18 `இலங்கை மன்னர் பரம்பரை` begins on scan 25 and is the following boundary witness;
+- read Story-17 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+- directly inspect the complete Story-17 unit and create `visual-fidelity.md` only if source-supported;
+- do **not** create Story-17 English prose until the visual gate is durably PASS;
 - unless the user explicitly expands batching again, return to one story per activity.

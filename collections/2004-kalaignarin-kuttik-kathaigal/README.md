@@ -35,28 +35,14 @@ See [`TAMIL_SOURCE_PROGRESS.md`](TAMIL_SOURCE_PROGRESS.md).
 
 ## English phase
 
-**OPEN — 11 / 34 PASS, 23 pending, 0 NEEDS REVIEW.**
+**OPEN — 16 / 34 PASS, 18 pending, 0 NEEDS REVIEW.**
 
-Visual-fidelity prerequisites closed: **11 / 34**.
+Visual-fidelity prerequisites closed: **16 / 34**.
 
 See [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-Completed English Stories **1–11**:
-
-1. `வள்ளுவர் சொன்ன பொய்`
-2. `நீயும் கைதி - நானும் கைதி`
-3. `குருவி ராமேஸ்வரம்`
-4. `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?`
-5. `கடலைத் தூர்ப்பது மிக எளிது`
-6. `மனைவி சொன்ன விளக்கம்`
-7. `நாதம் எழாது - நரம்புதான் அறும்`
-8. `அவள் சொன்னாள்`
-9. `இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்`
-10. `கொல்லப்பட வேண்டியது புலி, ஆனால்...`
-11. `அந்தக் காலத்திலே!`
-
-The latest user-authorized five-story batch completed **Stories 7–11**. All five received direct visual-fidelity closure before or as a prerequisite to their English work; all five are English PASS. No canonical Tamil text changed.
+Completed English Stories **1–16**. The latest user-authorized five-story batch completed **Stories 12–16** after direct visual review across scans **18–24**. All five are visual-fidelity PASS and English PASS. No canonical Tamil text changed.
 
 ## Current exact next activity
 
-Story 12 **`ஆண்டவன் தரிசனம் கொடுத்த ஊர்`** — close its visual-fidelity prerequisite on **scan 18 / printed page 17**. Story 13 `வீரவாடி` begins later on the same scan and is the lower boundary witness. English must not begin until Story 12's visual gate is PASS. Default batching returns to one story unless the user explicitly expands it again.
+Story 17 **`ஆடிக் காற்றே!`** — close its visual-fidelity prerequisite on **scan 24 / printed page 23**. Story 16 ends above it on the same scan; Story 18 `இலங்கை மன்னர் பரம்பரை` begins on scan 25 and is the following boundary witness. English must not begin until Story 17's visual gate is PASS. Default batching returns to one story unless the user explicitly expands it again.

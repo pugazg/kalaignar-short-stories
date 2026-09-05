@@ -47,37 +47,33 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 ### English
 
 - user authorization: **granted / OPEN**
-- English `PASS`: **11 / 34**
-- pending: **23 / 34**
+- English `PASS`: **16 / 34**
+- pending: **18 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed: **11 / 34**
-- canonical Tamil changed during English work through Story 11: **No**
+- visual-fidelity prerequisites closed: **16 / 34**
+- canonical Tamil changed during English work through Story 16: **No**
 
-### Completed English Stories 1–11
+### Latest completed five-story batch — Stories 12–16
 
-Stories **1–6** remain closed and unchanged.
-
-Latest user-authorized five-story batch — **Stories 7–11**:
-
-1. **Story 7 `நாதம் எழாது - நரம்புதான் அறும்`** — scan 14→15; visual PASS + English PASS; marker aligned inside the nested quote at the source `‘நான்` break; visibly unclosed outer quotation preserved without invention.
-2. **Story 8 `அவள் சொன்னாள்`** — scan 15 only; visual PASS + English PASS; complete two-paragraph same-page unit isolated between Stories 7 and 9.
-3. **Story 9 `இருவரும் கூடியிருப்பது ஆத்தி மாலைதான்`** — scan 15→16; visual PASS + English PASS; four verse/display units retained; no external standard verse imported.
-4. **Story 10 `கொல்லப்பட வேண்டியது புலி, ஆனால்...`** — scan 16→17; visual PASS + English PASS; source ellipses retained; scan-17 marker aligned inside the quoted cross-page sentence immediately before translation of `எய்தாய்.`.
-5. **Story 11 `அந்தக் காலத்திலே!`** — scan 17 only; visual PASS + English PASS; differing `...` / `....` punctuation retained; scan 18 directly checked as the next-story witness.
+1. **Story 12 `ஆண்டவன் தரிசனம் கொடுத்த ஊர்`** — scan 18 only; visual PASS + English PASS; exact unusual opening and quoted `‘புலையர்கள்’` retained.
+2. **Story 13 `வீரவாடி`** — scan 18→19; visual PASS + English PASS; page marker aligned inside the final sentence at the verified source join.
+3. **Story 14 `சொர்க்கத்திற்கு வந்தது எப்படி?`** — scans 19→22; visual PASS + English PASS; four source markers, speaker labels and parenthetical remarks retained; the Kotpuli quotation's page break is aligned.
+4. **Story 15 `கள்ளியும் ரோஜாவும்`** — scans 22→23; visual PASS + English PASS; source page break after `ஒரு` is preserved in the English marker placement.
+5. **Story 16 `ஆபாசமே ஆபாசம்!`** — scans 23→24; visual PASS + English PASS; scan-verified title and source-sensitive names/forms retained.
 
 No Tamil source issue was reopened and no Tamil text changed in the batch.
 
 ## Current exact next activity
 
-Close the **Story 12 `ஆண்டவன் தரிசனம் கொடுத்த ஊர்` visual-fidelity prerequisite**.
+Close the **Story 17 `ஆடிக் காற்றே!` visual-fidelity prerequisite**.
 
 1. Fetch live `main` first.
 2. Ensure the controlling 2004 PDF is attached/resolved.
-3. Read Story-12 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
-4. Directly inspect **scan 18 / printed page 17**. Story 11 ended on scan 17; Story 13 `வீரவாடி` begins later on scan 18 and is the lower same-page boundary witness.
-5. Check exact heading/opening/ending, paragraph/dialogue/display structure, separators, page furniture and exclusion of Story 13.
-6. Create `stories/aandavan-dharisanam-kodutha-oor/visual-fidelity.md` only if source-supported; make only independently source-supported Tamil corrections if required.
-7. Do not create Story-12 English prose until the visual gate is durably PASS.
+3. Read Story-17 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+4. Directly inspect **scan 24 / printed page 23**. Story 16 ends above Story 17 on the same scan and is excluded; Story 18 `இலங்கை மன்னர் பரம்பரை` begins on scan 25 and is the following boundary witness.
+5. Check exact heading/opening/ending, paragraph/dialogue/display structure, separators and page furniture.
+6. Create `stories/aadik-kaatre/visual-fidelity.md` only if source-supported; make only independently source-supported Tamil corrections if required.
+7. Do not create Story-17 English prose until the visual gate is durably PASS.
 8. Unless the user explicitly expands batching again, process one story per activity.
 
-After Story 12 visual PASS, the following activity is Story-12 English translation and `TRANSLATION_REVIEW.md`.
+After Story 17 visual PASS, the following activity is Story-17 English translation and `TRANSLATION_REVIEW.md`.
