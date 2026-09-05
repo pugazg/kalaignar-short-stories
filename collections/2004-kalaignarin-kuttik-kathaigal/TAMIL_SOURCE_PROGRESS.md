@@ -31,4 +31,4 @@ Blocked / unresolved story text across completed Stories 1–32: **0**.
 
 ## Next exact target
 
-Story 33 **`கைதியின் கதை`** — opens on scan **44 / printed page 43** below Story 32. Story 34 **`கிழவியின் மனைவி`** opens on scan **47 / printed page 46** and is the required next-opening boundary witness.
+Story 33 **`கைதியின் கதை`** — opens on scan **44 / printed page 43** below Story 32. Story 34 **`கிழவனின் மனைவி`** opens on scan **47 / printed page 46** and is the required next-opening boundary witness.
