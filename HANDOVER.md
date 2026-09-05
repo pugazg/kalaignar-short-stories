@@ -55,28 +55,26 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 
 Current collection state:
 
-- activated: **29 / 34**
-- Tamil source complete: **29 / 34**
-- pending: **5 / 34**
+- activated: **30 / 34**
+- Tamil source complete: **30 / 34**
+- pending: **4 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Story **29 `தலைவனின் பரிசு`** was then completed as the next exact activity.
+The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29 `தலைவனின் பரிசு`** and **30 `கிருஷ்ணனையும் விடாத சாதி`** were then completed as successive exact activities.
 
-### Story 29 — தலைவனின் பரிசு
+### Story 30 — கிருஷ்ணனையும் விடாத சாதி
 
-- workspace: `stories/thalaivanin-parisu/`
-- verified span: **lower scan 39 / printed 38 → scan 40 / printed 39**
-- source records: **2 / 2 verified**
+- workspace: `stories/krishnanaiyum-vidaatha-saathi/`
+- verified span: **top of scan 41 / printed 40 only**
+- source records: **1 / 1 verified**
 - duplicate/content-equivalence search: **no existing canonical match**
-- scan **41 / printed 40** checked as required ending-boundary witness; Story 30 begins there and no Story-29 text continues
+- Story 31 `புதிர்` begins below on the same physical scan and is excluded
 - audit: **PASS**
 - blocked / unresolved: **0**
 - English: **not opened**
 
-Physical join: `...இடையில்லாப் பேரழகே!” என மடை` → `திறந்த காதல் வெள்ளம் விட்டு மறவனவன்...`.
-
-Source-sensitive forms including `விழிப் பண்பாடும் வடி வழகி`, `நம் காலை சுழல்காற்றாய்ப்`, `பலமழித்தான்`, `புகைப்படலம்`, `காவலனும்`, `களப்பட்டு`, and `தமைக் காத்த` were directly rechecked and retained; they are human-review queue items, not confirmed errors.
+Source-sensitive forms `யாதவ வகுப்பைச்`, `க்ஷத்திரியர்கள்தான்`, `‘துவாரகா’`, and `ராஜ்யத்தை` were directly rechecked and retained exactly as printed.
 
 ### Earlier heading corrections remain locked
 
@@ -86,12 +84,12 @@ Source-sensitive forms including `விழிப் பண்பாடும்
 
 ## Current exact next activity
 
-Process **Story 30 — `கிருஷ்ணனையும் விடாத சாதி`**.
+Process **Story 31 — `புதிர்`**.
 
 Routing coordinates:
 
-- opening: scan **41 / printed page 40**;
-- required ending-boundary witness: Story 31 **`புதிர்`**, which opens later on the **same scan 41 / printed page 40**.
+- opening: later on scan **41 / printed page 40**, below the completed Story-30 ending;
+- required ending-boundary witness: Story 32 **`உயிருக்கு விலை ஐம்பது லட்சம்`**, opening scan **42 / printed page 41**.
 
 Before activation:
 
@@ -99,7 +97,7 @@ Before activation:
 2. read mandatory guides and current active collection controls;
 3. perform exact-title / alternate-title / distinctive-content equivalence search;
 4. create a new canonical workspace only if no equivalent exists; otherwise register this source as an additional witness;
-5. transcribe only the verified Story-30 physical span and preserve the same-page Story-31 boundary;
+5. transcribe only the verified Story-31 physical span and preserve the scan-41 Story-30/31 boundary plus scan-42 Story-31/32 boundary;
 6. preserve source spelling, punctuation, paragraph/display structure and non-text marks;
 7. do not begin English translation unless explicitly authorized;
 8. synchronize controls after durable closure.
