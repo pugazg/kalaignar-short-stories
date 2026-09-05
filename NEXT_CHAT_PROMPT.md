@@ -1,12 +1,12 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories / 2004 English Translation
+# NEXT CHAT PROMPT — Kalaignar Short Stories / 2004 collection closed
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977/2008 work, the closed 2004 Tamil phase, or completed 2004 English Stories 1–21 because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977, 2008, or 2004 phases because a copied checkpoint is older.
 
-## Controlling source
+## 2004 controlling source
 
 `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
 
@@ -17,11 +17,9 @@ Fetch live `main` first. Preserve newer durable work. Do not reopen closed 1977/
 - story block: scans **4–49 / printed pages 3–48**
 - scan 50: verified back cover
 
-Attach/resolve the controlling PDF before source-dependent visual work.
-
 ## Mandatory startup
 
-Read completely:
+Read completely before any future 2004 change:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -31,39 +29,26 @@ Read completely:
 6. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
 7. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
-9. Story-22 workspace files listed below
+9. `collections/2004-kalaignarin-kuttik-kathaigal/FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md`
 
-## Durable state
+## Durable 2004 state
 
-- Tamil: **34 / 34 PASS, COMPLETE / CLOSED**
-- English: **21 / 34 PASS, 13 pending, 0 NEEDS REVIEW**
-- visual prerequisites: **22 / 34 PASS**
-- canonical Tamil changed during English/visual work through Story 22 visual closure: **No**
+- Tamil source: **34 / 34 PASS — COMPLETE / CLOSED**
+- blocked / unresolved Tamil story text: **0**
+- visual fidelity: **34 / 34 PASS — COMPLETE / CLOSED**
+- English translation: **34 / 34 PASS — COMPLETE / CLOSED**
+- English pending: **0 / 34**
+- English `NEEDS REVIEW`: **0**
+- `TRANSLATION_REVIEW.md`: **34 / 34 PASS**
+- final English structural/control QA: **PASS**
+- canonical Tamil changed during English work: **No**
+- final story boundary: **scan 49 / printed 48**, centered `முற்றும்`
+- final physical witness: **scan 50**, verified back cover with no further story text
 
-Stories **1–21** are English PASS. Story 22 has now passed its visual prerequisite after direct inspection of scans 29–31. Default batching is one story unless the user explicitly expands it.
+The final user-authorized batch completed Stories **22–34** after their required visual gates were closed. Physical English source markers were checked against the verified page spans and shared-page boundaries. No canonical Tamil section/page/audit file was modified in the final English batch.
 
-## CURRENT EXACT NEXT ACTIVITY — Story 22 English
+## CURRENT EXACT NEXT ACTIVITY
 
-Story 22: **`அடுத்த பிறவியில் ஐந்து கணவன்`**
+There is **no routine next activity for the closed 2004 Tamil / visual / English phase**.
 
-- workspace: `stories/adutha-piraviyil-aindhu-kanavan/`
-- verified Tamil span: **lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30**
-- source records: **3 / 3 verified**
-- Tamil audit: **PASS**
-- visual fidelity: **PASS**
-- blocked / unresolved: **0**
-- English: **pending / translation-ready**
-- upper witness: Story 21 **`விஞ்ஞானிக்குத் தோன்றாது...`** ends above on scan 29
-- lower witness: Story 23 **`புகழே நீ ஒரு புதிர்`** begins below on scan 31
-
-Read before changing anything:
-
-- `stories/adutha-piraviyil-aindhu-kanavan/README.md`
-- `sections/adutha-piraviyil-aindhu-kanavan.md`
-- `visual-fidelity.md`
-- `audit.md`
-- `POSSIBLE_ERRORS_FOR_REVIEW.md`
-
-Translate from verified canonical Tamil only. Create `translations/en/adutha-piraviyil-aindhu-kanavan.md` and `TRANSLATION_REVIEW.md`. Insert provenance markers for **scan 29 / printed 28**, **scan 30 / printed 29**, and **scan 31 / printed 30** at the actual physical page transitions. Both transitions occur between complete dialogue turns. Preserve source-supported ambiguity and do not silently normalize review-queue forms. Story 21 above and Story 23 below must remain excluded.
-
-After Story 22 English PASS, the next activity is Story 23 `புகழே நீ ஒரு புதிர்` visual-fidelity prerequisite.
+Do not reopen completed stories merely to create work. Wait for an explicit new instruction. A future instruction may authorize a source-supported correction/re-audit, a publication/release/export layer, or separate repository-wide validation/documentation work.
