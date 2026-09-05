@@ -18,7 +18,7 @@ Collection workspace for **`கலைஞரின் குட்டிக் �
 
 ## Permanent source controls
 
-The controlling scan is authoritative; no silent modernization/normalization is allowed. Shared-page boundaries remain explicit. `POSSIBLE_ERRORS_FOR_REVIEW.md` files are review queues, not proof of error. English begins only after story-local visual-fidelity PASS.
+The controlling scan is authoritative; no silent modernization/normalization is allowed. Shared-page boundaries remain explicit. `POSSIBLE_ERRORS_FOR_REVIEW.md` files are review queues, not proof of error. English began only after story-local visual-fidelity PASS.
 
 Locked source-supported heading corrections remain:
 
@@ -33,16 +33,27 @@ Locked source-supported heading corrections remain:
 
 See [`TAMIL_SOURCE_PROGRESS.md`](TAMIL_SOURCE_PROGRESS.md).
 
+## Visual-fidelity phase
+
+**COMPLETE / CLOSED — 34 / 34 PASS.**
+
+All story-local visual gates required for English have been closed against the controlling scan.
+
 ## English phase
 
-**OPEN — 21 / 34 PASS, 13 pending, 0 NEEDS REVIEW.**
+**COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 NEEDS REVIEW.**
 
-Visual-fidelity prerequisites closed: **22 / 34**.
+- Stories **1–34**: English PASS
+- `TRANSLATION_REVIEW.md`: **34 / 34 PASS**
+- canonical Tamil changed during English work: **No**
+- final English structural/control QA: **PASS**
 
-See [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
+See [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md) and [`FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md`](FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md).
 
-Completed English Stories **1–21**. Story 22 **`அடுத்த பிறவியில் ஐந்து கணவன்`** has now passed its direct visual-fidelity prerequisite across lower scan 29 → scan 30 → upper scan 31. No canonical Tamil text changed.
+## Final boundary
+
+Story 34 **`கிழவனின் மனைவி`** closes on scan **49 / printed page 48** with centered `முற்றும்`. Scan **50** is the directly verified back cover and contains no further story text.
 
 ## Current exact next activity
 
-Translate Story 22 **`அடுத்த பிறவியில் ஐந்து கணவன்`** into English and create `TRANSLATION_REVIEW.md`. Preserve source markers for scans **29, 30 and 31** at their actual dialogue-turn boundaries; exclude Story 21 above and Story 23 below. Do not begin Story 23 in the same activity unless the user explicitly expands batching.
+There is **no remaining routine activity** in the 2004 Tamil, visual-fidelity, or English-translation scope. Do not reopen completed stories merely to create more work. Any future activity must be explicitly authorized and source-supported, such as a correction, re-audit, or a new downstream publication/release layer.
