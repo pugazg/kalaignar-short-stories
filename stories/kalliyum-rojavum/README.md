@@ -2,13 +2,15 @@
 
 Story **15 / 34** in **கலைஞரின் குட்டிக் கதைகள்** (Second Edition, March 2004).
 
-- canonical workspace: `stories/kalliyum-rojavum/`
 - verified span: **scan 22 / printed 21 → top scan 23 / printed 22**
-- Story 14 ends above Story 15 on scan 22 and is excluded
-- Story 16 `ஆபாசமே ஆபாசம்!` begins below Story 15 on scan 23 and is excluded
 - source records: **2 / 2 verified**
-- duplicate / content-equivalence check: **no existing canonical match**
+- Tamil audit: **PASS**
+- visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS**
+- blocked / unresolved: **0**
 - Tamil assembly: [`sections/kalliyum-rojavum.md`](sections/kalliyum-rojavum.md)
-- audit: **PASS**
-- blocked / unresolved story text: **0**
-- English: **not opened**
+- English: [`translations/en/kalliyum-rojavum.md`](translations/en/kalliyum-rojavum.md) — **PASS**
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — **PASS**
+
+The scan-22→23 page marker follows the source break after `ஒரு`. Stories 14 and 16 remain excluded. No canonical Tamil changed during English work.
+
+**PASS — Tamil source-complete, visual-fidelity closed, English complete and reviewed.**
