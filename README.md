@@ -62,6 +62,7 @@ Permanent guides:
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -171,8 +172,9 @@ Current intake state:
 - scan **183**: back cover
 - stories: **16 / 16 physically present**
 - new short stories at intake: **5**
-- current exact next activity: **`காந்தி தேசம்` — scans 6–18 / printed 1–13; scan 19 `அணில் குஞ்சு` is the next-story boundary**
-- remaining after that: `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`.
+- completed new-story source processing: **1 / 5 — `காந்தி தேசம்`, scans 6–18 / printed 1–13, 13/13 verified; Tamil audit PASS; visual PASS; 0 unresolved; English not started**
+- current exact next activity: **`அணில் குஞ்சு` — scans 19–28 / printed 14–23; scan 29 `கொள்ளைபுரம்` is the next-story boundary**
+- remaining after that: `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`.
 
 ## Completed anthology source / English phase closed
 
