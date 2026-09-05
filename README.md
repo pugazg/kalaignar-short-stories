@@ -117,11 +117,11 @@ Permanent guides:
 | [`சொர்க்கத்திற்கு வந்தது எப்படி?`](stories/sorgaththirku-vandhathu-eppadi/README.md) | **Tamil source PASS — 4/4 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`கள்ளியும் ரோஜாவும்`](stories/kalliyum-rojavum/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஆபாசமே ஆபாசம்!`](stories/aabasame-aabasam/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`ஆடிக் காற்றே!`](stories/aadik-kaatre/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`இலங்கை மன்னர் பரம்பரை`](stories/ilangai-mannar-parambarai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`](stories/kazhuthile-oru-mudichu-atharku-oru-kathai/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`சிறை கொடியது`](stories/sirai-kodiyathu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
-| [`விஞ்ஞானிக்குத் தோன்றாது...`](stories/vignaanikku-thondraathu/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **not opened** |
+| [`ஆடிக் காற்றே!`](stories/aadik-kaatre/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`இலங்கை மன்னர் பரம்பரை`](stories/ilangai-mannar-parambarai/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`கழுத்திலே ஒரு முடிச்சு... அதற்கு ஒரு கதை`](stories/kazhuthile-oru-mudichu-atharku-oru-kathai/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`சிறை கொடியது`](stories/sirai-kodiyathu/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`விஞ்ஞானிக்குத் தோன்றாது...`](stories/vignaanikku-thondraathu/README.md) | **Tamil source PASS — 1/1 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அடுத்த பிறவியில் ஐந்து கணவன்`](stories/adutha-piraviyil-aindhu-kanavan/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`புகழே நீ ஒரு புதிர்`](stories/pugazhe-nee-oru-pudhir/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **not opened** |
 | [`மலையைத் தூக்குவேன்!`](stories/malaiyai-thookkuven/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not opened** |
@@ -160,20 +160,20 @@ Source / processing state:
 - Tamil source processing complete: **34 / 34**
 - Tamil source processing pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
-- English translation: **OPEN — 16 / 34 PASS, 18 pending**
+- English translation: **OPEN — 21 / 34 PASS, 13 pending**
 - English translation tracker: [`collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`](collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md)
 - latest completed source work: **Story 34 `கிழவனின் மனைவி` — PASS; lower scan 47 → scan 49**
-- latest completed English work: **Story 16 `ஆபாசமே ஆபாசம்!` — PASS; scan 23 → top scan 24**
-- latest completed English batch: **Stories 12–16 — 5 / 5 PASS**
-- visual-fidelity prerequisites closed for 2004 English: **16 / 34**
-- next English gate: **Story 17 `ஆடிக் காற்றே!` — visual prerequisite on scan 24 / printed 23**
+- latest completed English work: **Story 21 `விஞ்ஞானிக்குத் தோன்றாது...` — PASS; scan 29 only**
+- latest completed English batch: **Stories 17–21 — 5 / 5 PASS**
+- visual-fidelity prerequisites closed for 2004 English: **21 / 34**
+- next English gate: **Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்` — visual prerequisite across lower scan 29 → scan 30 → upper scan 31**
 - final story boundary: **scan 49 / printed page 48 — centered `முற்றும்`**
 - final physical boundary: **scan 50 — verified back cover; no further story text**
 - Tamil source phase: **COMPLETE / CLOSED**
 
 Stories **1–34 are Tamil source-complete**. Story 34 has **3 / 3 verified** source records and is bounded above by Story 33 `கைதியின் கதை` on shared scan 47. The lower-page library stamp on scan 49 does not obscure story text. The source-supported heading corrections for Stories 16, 21, 26 and 34 remain authoritative; Story 34 is **`கிழவனின் மனைவி`**.
 
-No routine Tamil source work remains for the 2004 collection. The English phase is **OPEN**. Stories **1–16 are English PASS** and visual-fidelity PASS, with no canonical Tamil changes. The current exact activity is Story 17 `ஆடிக் காற்றே!` visual-fidelity closure on scan 24 / printed page 23; Story 16 ends above it on the same scan and Story 18 `இலங்கை மன்னர் பரம்பரை` begins on scan 25 as the following boundary witness. Story 17 English must not begin until its visual gate is PASS.
+No routine Tamil source work remains for the 2004 collection. The English phase is **OPEN**. Stories **1–21 are English PASS** and visual-fidelity PASS, with no canonical Tamil changes. The current exact activity is Story 22 `அடுத்த பிறவியில் ஐந்து கணவன்` visual-fidelity closure across lower scan 29 / printed 28 → scan 30 / printed 29 → upper scan 31 / printed 30; Story 21 ends above on scan 29 and Story 23 `புகழே நீ ஒரு புதிர்` begins below on scan 31. Story 22 English must not begin until its visual gate is PASS.
 
 ## Registered anthology source
 
