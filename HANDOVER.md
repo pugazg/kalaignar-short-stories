@@ -109,22 +109,36 @@ Canonical workspace: `stories/anil-kunju/`
 - source-close corrections/rechecks include protagonist `பருக்`, `கார்சேவை`, `துளியும்`, `தம்பித்துரை`, `இரண்டே தெருக்கள்`, `டேப் டான்ஸா?`, `ஒரு கரண்டியோ இரண்டு கரண்டியோ`, `அதுக்கப்பறமும்`, and `ஆராவமுத அய்யங்கார்`.
 - scan **28** closes with five circular ornaments; scan **29** visibly opens `கொள்ளைபுரம்`.
 
-New-story source-processing status for this collection: **2 / 5 complete**.
+### Newly onboarded — `கொள்ளைபுரம்`
+
+Canonical workspace: `stories/kollaipuram/`
+
+- printed pages: **24–32**
+- scans: **29–37**
+- next boundary: scan **38**, opening `எழுத்தாளர் ஏகலைவன்`
+- page records: **9 / 9 verified**
+- Tamil source audit: **PASS**
+- visual fidelity: **PASS**
+- blocked / unresolved story text: **0**
+- English: **not started**
+- direct source rechecks retained `சர்வாதிகாரம் செலுத்தி வந்த காலம்`, `கொலுவீற்றிருந்த`, `நவரத்தின் அணிகளாயின`, `போக போக்கியங்களின்`, `அம்சதூளிகா`, `நிலம் நீச்சு`, `ஆக்ரமிக்கத் தாக்கீது`, `மேய்ச்சல்காடு!,`, `ஒரு சொட்டுக் கண்ணீரும்`, `கலாசாரப் பிரசாரம்`, and `துணுக்குற்று`.
+- scan **37** closes with five circular ornaments; scan **38** visibly opens `எழுத்தாளர் ஏகலைவன்`.
+
+New-story source-processing status for this collection: **3 / 5 complete**.
 
 ## Remaining new short-story queue
 
-1. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
-2. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
-3. `மலரவில்லை` — scans **50–63 / printed 45–58**
+1. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
+2. `மலரவில்லை` — scans **50–63 / printed 45–58**
 
 ## Current exact next activity
 
-Process **`கொள்ளைபுரம்`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
+Process **`எழுத்தாளர் ஏகலைவன்`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
 
-1. fetch live `main` and confirm no canonical `கொள்ளைபுரம்` workspace has appeared;
+1. fetch live `main` and confirm no canonical `எழுத்தாளர் ஏகலைவன்` workspace has appeared;
 2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 2009 collection README/source/inventory/scan-map;
-3. transcribe and directly visually verify scans **29–37 / printed pages 24–32**;
-4. inspect scan **38**, opening `எழுத்தாளர் ஏகலைவன்`, as the next-story boundary and exclude it from `கொள்ளைபுரம்`;
+3. transcribe and directly visually verify scans **38–49 / printed pages 33–44**;
+4. inspect scan **50**, opening `மலரவில்லை`, as the next-story boundary and exclude it from `எழுத்தாளர் ஏகலைவன்`;
 5. create the canonical story workspace, Tamil assembly, source metadata, audit, possible-error queue, visual-fidelity record and required controls;
-6. do not begin `எழுத்தாளர் ஏகலைவன்` in the same activity;
+6. do not begin `மலரவில்லை` in the same activity;
 7. do not process `நடுத்தெரு நாராயணி` as a short story.

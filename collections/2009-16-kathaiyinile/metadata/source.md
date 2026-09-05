@@ -41,5 +41,6 @@ Current new-story source-processing state:
 
 - `காந்தி தேசம்` — **COMPLETE / PASS**, scans **6–18 / printed 1–13**, canonical workspace `stories/gandhi-desam/`, 13/13 verified, 0 unresolved.
 - `அணில் குஞ்சு` — **COMPLETE / PASS**, scans **19–28 / printed 14–23**, canonical workspace `stories/anil-kunju/`, 10/10 verified, 0 unresolved.
-- `கொள்ளைபுரம்` — **NEXT**, scans **29–37 / printed 24–32**; scan **38** (`எழுத்தாளர் ஏகலைவன்`) is the next-story boundary.
-- `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை` — pending.
+- `கொள்ளைபுரம்` — **COMPLETE / PASS**, scans **29–37 / printed 24–32**, canonical workspace `stories/kollaipuram/`, 9/9 verified, 0 unresolved.
+- `எழுத்தாளர் ஏகலைவன்` — **NEXT**, scans **38–49 / printed 33–44**; scan **50** (`மலரவில்லை`) is the next-story boundary.
+- `மலரவில்லை` — pending.
