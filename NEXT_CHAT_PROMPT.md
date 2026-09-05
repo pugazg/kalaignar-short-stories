@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — New short-story onboarding / அணில் குஞ்சு
+# NEXT CHAT PROMPT — New short-story onboarding / கொள்ளைபுரம்
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases, and do not redo completed `நண்பனா?` or `காந்தி தேசம்` work merely because a copied prompt is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases, and do not redo completed `நண்பனா?`, `காந்தி தேசம்` or `அணில் குஞ்சு` work merely because a copied prompt is older.
 
 ## Completed new-story checkpoints
 
@@ -34,6 +34,21 @@ From the 2009 `16 கதையினிலே` collection:
 - scan **19** independently checked as the opening of `அணில் குஞ்சு`
 - direct source rechecks include scan 12 `பாத்த பாங்கிலேயே`, scan 13 `வந்தது மாதிரி`, and scan 14 `தோள்மீது`; do not normalize these silently.
 
+### `அணில் குஞ்சு`
+
+From the 2009 `16 கதையினிலே` collection:
+
+- canonical workspace: `stories/anil-kunju/`
+- source scans **19–28 / printed 14–23**
+- **10 / 10 verified**
+- Tamil audit **PASS**
+- visual fidelity **PASS**
+- blocked / unresolved story text **0**
+- English **not started**
+- scan **29** independently checked as the opening of `கொள்ளைபுரம்`
+- source-close rechecks include `பருக்`, `கார்சேவை`, `துளியும்`, `தம்பித்துரை`, `இரண்டே தெருக்கள்`, `டேப் டான்ஸா?`, `ஒரு கரண்டியோ இரண்டு கரண்டியோ`, `அதுக்கப்பறமும்`, and `ஆராவமுத அய்யங்கார்`.
+- scan **28** ends with five circular ornaments.
+
 **Do not process `நடுத்தெரு நாராயணி` in this short-story queue.** The user has reserved it for separate short-novel handling.
 
 ## Active controlling source
@@ -62,33 +77,32 @@ Read completely before source-dependent writes:
 6. `collections/2009-16-kathaiyinile/metadata/source.md`
 7. `collections/2009-16-kathaiyinile/indexes/story-inventory.md`
 8. `collections/2009-16-kathaiyinile/indexes/scan-map.md`
-9. `stories/gandhi-desam/README.md` as the latest implementation reference only; do not copy its wording into the new story.
+9. `stories/anil-kunju/README.md` as the latest implementation reference only; do not copy its wording into the new story.
 
-## Current exact activity — `அணில் குஞ்சு`
+## Current exact activity — `கொள்ளைபுரம்`
 
-- collection item: **2 / 16**
-- TOC title: **`அணில் குஞ்சு`**
-- opening heading: **`அணில் குஞ்சு`**
-- printed pages: **14–23**
-- PDF scans: **19–28**
-- next story first scan: **29** — `கொள்ளைபுரம்`
+- collection item: **3 / 16**
+- TOC title: **`கொள்ளைபுரம்`**
+- opening heading: **`கொள்ளைபுரம்`**
+- printed pages: **24–32**
+- PDF scans: **29–37**
+- next story first scan: **38** — `எழுத்தாளர் ஏகலைவன்`
 - canonical state at intake: **not present**
 
 Process only this story:
 
 1. confirm no canonical workspace has appeared on newer live `main`;
-2. inspect scans **19–28** directly from the controlling PDF and scan **29** as the ending boundary witness;
+2. inspect scans **29–37** directly from the controlling PDF and scan **38** as the ending boundary witness;
 3. create all per-page records and a source-faithful Tamil assembly;
 4. apply the exhaustive difficult-reading protocol where required; do not silently normalize old/source-close forms;
 5. complete source metadata, Tamil audit, possible-error/recheck queue and visual-fidelity review;
 6. synchronize collection README/inventory/scan-map, root README, `HANDOVER.md` and this prompt;
-7. do **not** begin `கொள்ளைபுரம்` in the same activity;
+7. do **not** begin `எழுத்தாளர் ஏகலைவன்` in the same activity;
 8. do **not** start English until the Tamil/source and visual-fidelity gates are PASS.
 
 ## Subsequent queue
 
-After `அணில் குஞ்சு` is fully synchronized, advance one story at a time:
+After `கொள்ளைபுரம்` is fully synchronized, advance one story at a time:
 
-1. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32**
-2. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
-3. `மலரவில்லை` — scans **50–63 / printed 45–58**
+1. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44**
+2. `மலரவில்லை` — scans **50–63 / printed 45–58**
