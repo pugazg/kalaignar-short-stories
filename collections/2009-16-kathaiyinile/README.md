@@ -28,15 +28,15 @@ Verified final spans:
 - `அய்யோ ராஜா` — scans **174–182 / printed 169–177**
 - scan **183** — back cover
 
-## New short stories
+## New short-story onboarding
 
-Five TOC stories have no canonical workspace on live `main`:
+Intake identified five TOC stories without canonical workspaces. Current processing state:
 
-1. `காந்தி தேசம்` — scans 6–18
-2. `அணில் குஞ்சு` — scans 19–28
-3. `கொள்ளைபுரம்` — scans 29–37
-4. `எழுத்தாளர் ஏகலைவன்` — scans 38–49
-5. `மலரவில்லை` — scans 50–63
+1. `காந்தி தேசம்` — scans **6–18 / printed 1–13** — **COMPLETE / PASS**; `stories/gandhi-desam/`; 13/13 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+2. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **NEXT**.
+3. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — pending.
+4. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — pending.
+5. `மலரவில்லை` — scans **50–63 / printed 45–58** — pending.
 
 Stories 6–16 already have canonical matches; additional-witness comparison is deferred.
 
@@ -44,4 +44,6 @@ Stories 6–16 already have canonical matches; additional-witness comparison is 
 
 The TOC lists `சங்கிலிச்சாமி` at printed page **105**, but physical scan **110** visibly closes the preceding `குப்பைத் தொட்டி` on printed page **105**. `சங்கிலிச்சாமி` begins on scan **111**. This is recorded, not normalized.
 
-After `நண்பனா?` is complete, process these five new stories one at a time in TOC order.
+## Current exact next activity
+
+Process only **`அணில் குஞ்சு`**, scans **19–28 / printed pages 14–23**. Use scan **29**, opening `கொள்ளைபுரம்`, as the next-story boundary witness. Do not begin `கொள்ளைபுரம்` in the same activity.
