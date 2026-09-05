@@ -10,76 +10,71 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Always fetch live `main` first. Preserve newer durable state. Repository files reachable from live `main`, not copied prompts or chat memory, are authoritative.
+Always fetch live `main` first. Preserve newer durable state.
 
 ## Permanent rules
 
 - controlling scan first; no silent normalization;
 - shared physical boundaries must remain exact;
-- `POSSIBLE_ERRORS_FOR_REVIEW.md` is a review queue, not proof of error;
-- English may begin only after Tamil/source audit and story-local visual-fidelity PASS;
-- physical English source markers must align to actual source content transitions, not merely appear in numeric order.
+- do one anthology story at a time unless the user explicitly changes that rule;
+- source PDFs are not committed;
+- English begins only after Tamil/source and visual-fidelity gates pass.
 
 ## Closed prior collections
 
-- **1977 — கலைஞர் கருணாநிதியின் சிறுகதைகள்:** Tamil 37/37, visual 37/37, English 37/37, final English QA PASS, unresolved 0, scan 260 back cover.
-- **2008 — கலைஞர் சொன்ன கதைகள்:** Tamil 40/40, text fidelity 40/40, visual 40/40, English 40/40, final English structural/control QA PASS, unresolved 0, scan 82 back cover.
+- **1977 — கலைஞர் கருணாநிதியின் சிறுகதைகள்:** Tamil 37/37, visual 37/37, English 37/37, final English QA PASS, unresolved 0.
+- **2008 — கலைஞர் சொன்ன கதைகள்:** Tamil 40/40, text fidelity 40/40, visual 40/40, English 40/40, final English QA PASS, unresolved 0.
+- **2004 — கலைஞரின் குட்டிக் கதைகள்:** Tamil 34/34, visual 34/34, English 34/34, final English QA PASS, unresolved 0. Final story scan 49 / printed 48; scan 50 back cover.
 
-## 2004 collection — கலைஞரின் குட்டிக் கதைகள்
+Do not reopen these closed phases merely to create work.
 
-Workspace: `collections/2004-kalaignarin-kuttik-kathaigal/`
+## New source 1 — 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்`
 
-Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`
+Workspace: `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`
 
-- SHA-256: `33bdfb4f47bc688750fff11f967a0d2b95a93a9aa09044c0467107dae583ab04`
-- size: **98,897,868 bytes**
-- scans: **50**
-- publisher: **பாரதி பதிப்பகம்**
-- represented edition: **Second Edition, March 2004**
-- story block: scans **4–49 / printed pages 3–48**
-- direct heading inventory: **34 / 34**
-- scan 50: verified back cover
+- source: `TVA_BOK_0064315_திராவிட_இயக்க_எழுத்தாளர்_சிறுகதைகள்.pdf`
+- SHA-256: `ead34f2d1e983568b79ef9d6185006844ee3e5d6443695633124975ecb77227c`
+- size: **156,733,137 bytes**
+- scans: **115**
+- edition: **First Edition, December 1997**
+- contents: **10 works**
+- all 10 opening scans checked
+- canonical story matches: **8**
+- new short story: **`நண்பனா?`** — scans **104–106 / printed 94–96**
+- **`நடுத்தெரு நாராயணி` is excluded from the short-story queue by user instruction and will be handled separately as a short-novel work.**
 
-### Tamil
+## New source 2 — 2009 `16 கதையினிலே`
 
-**COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 unresolved.**
+Workspace: `collections/2009-16-kathaiyinile/`
 
-### Visual fidelity
+- source: `TVA_BOK_0065745_16_கதையினிலே.pdf`
+- SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
+- size: **384,978,955 bytes**
+- scans supplied: **150**
+- represented edition: **Fourth Edition, March 2009**
+- TOC: **16 stories**
+- new short stories: **5**
+- canonical matches: **11**
+- supplied source is incomplete: Story 13 `ஏழை` is partial at scan 150; Stories 14–16 are absent.
+- preserved anomaly: TOC places `சங்கிலிச்சாமி` at p105, while physical p105 on scan 110 still closes `குப்பைத் தொட்டி`; heading is scan 111.
 
-**COMPLETE / CLOSED — 34 / 34 PASS.**
+## New short-story queue
 
-### English
-
-- user authorization: **granted**
-- English phase: **COMPLETE / CLOSED**
-- English `PASS`: **34 / 34**
-- pending: **0 / 34**
-- `NEEDS REVIEW`: **0**
-- story-local visual prerequisites: **34 / 34 PASS**
-- `TRANSLATION_REVIEW.md`: **34 / 34 PASS**
-- final English structural/control QA: **PASS**
-- canonical Tamil changed during English work: **No**
-
-Final QA record: `collections/2004-kalaignarin-kuttik-kathaigal/FINAL_ENGLISH_STRUCTURAL_CONTROL_QA.md`.
-
-### Final English batch — Stories 22–34
-
-The user explicitly authorized processing all remaining stories. Stories 22–34 were completed after direct source visual review of the remaining story span through scan 49, with scan 50 used as the final back-cover witness.
-
-Physical marker sequences are PASS for every remaining story. Notable joins retained include Story 28 `தந்தை` → `யையும்`, Story 29 `மடை` → `திறந்த`, Story 33 `வைத்திய` → `சாலையில்`, and the Story-33 scan-46→47 continuation. No canonical Tamil section/page/audit file changed.
-
-### Final boundary
-
-Story 34 **`கிழவனின் மனைவி`** closes on scan **49 / printed page 48** with centered `முற்றும்`. Scan **50** is the verified back cover and contains no further story text.
+1. `நண்பனா?` — scans 104–106 / printed 94–96
+2. `காந்தி தேசம்` — scans 6–18 / TOC 1–13
+3. `அணில் குஞ்சு` — scans 19–28 / 14–23
+4. `கொள்ளைபுரம்` — scans 29–37 / 24–32
+5. `எழுத்தாளர் ஏகலைவன்` — scans 38–49 / 33–44
+6. `மலரவில்லை` — scans 50–63 / 45–58
 
 ## Current exact next activity
 
-There is **no remaining routine work in the 2004 Tamil, visual-fidelity, or English-translation scope**. Do not reopen completed stories merely to create more work.
+Process **`நண்பனா?`** only:
 
-Any future activity requires an explicit new instruction, such as:
-
-- source-supported correction or re-audit;
-- a new publication/release/export layer;
-- repository-wide validation or documentation work not already covered by the closed 2004 phase.
-
-Until then, preserve the 2004 collection as **34 / 34 Tamil PASS, 34 / 34 visual PASS, 34 / 34 English PASS, final English QA PASS**.
+1. confirm no canonical workspace has appeared on newer live `main`;
+2. read the 1997 collection README/source/inventory/scan-map;
+3. transcribe and visually verify scans **104–106**;
+4. use scan **107**, opening `பிரேத விசாரணை`, as the physical ending boundary;
+5. create the canonical story workspace and synchronize controls only after source processing is complete;
+6. do not process `நடுத்தெரு நாராயணி`;
+7. then advance to `காந்தி தேசம்`, one story per activity.
