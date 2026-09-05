@@ -35,7 +35,7 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 26 | `கூற்றுவன் எப்படிப் மறித்தான்?` | 35 | 34 | Story 27 scan 36 | **PASS — `stories/kootruvan-eppadip-mariththaan/`** |
 | 27 | `வீரன் தலை கவிழ்ந்தது ஏன்?` | 36 | 35 | Story 28 scan 37 | **PASS — `stories/veeran-thalai-kavizhnthathu-en/`** |
 | 28 | `இளமைக் காலம்` | 37 | 36 | Story 29 scan 39 | **PASS — `stories/ilamai-kaalam/`** |
-| 29 | `தலைவனின் பரிசு` | 39 | 38 | Story 30 scan 41 | **pending** |
+| 29 | `தலைவனின் பரிசு` | 39 | 38 | Story 30 scan 41 | **PASS — `stories/thalaivanin-parisu/`** |
 | 30 | `கிருஷ்ணனையும் விடாத சாதி` | 41 | 40 | Story 31 later scan 41 | **pending** |
 | 31 | `புதிர்` | 41 | 40 | Story 32 scan 42 | **pending** |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | Story 33 scan 44 | **pending** |
@@ -45,10 +45,10 @@ No printed contents page is present. This is a direct visual story-heading inven
 ## Totals
 
 - headings directly checked: **34 / 34**
-- activated / Tamil source complete: **28 / 34**
-- pending: **6 / 34**
+- activated / Tamil source complete: **29 / 34**
+- pending: **5 / 34**
 - completed-story blocked / unresolved: **0**
 
-Stories 1–28 are source-complete. Story 29 begins below Story 28 on scan **39 / printed page 38**.
+Stories 1–29 are source-complete. Story 30 begins at the top of scan **41 / printed page 40**; Story 31 opens later on that same physical page.
 
 Before each remaining activation, fetch live `main` and perform the canonical duplicate/content-equivalence check.
