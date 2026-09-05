@@ -3,7 +3,7 @@
 Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டிக்_கதைகள்_2004.pdf`  
 Registered edition: **Second Edition, March 2004**
 
-No printed contents page is present. This is a direct visual story-heading inventory. Direct activation review has corrected intake headings at Stories 16, 21 and 26; the source-verified forms below are authoritative.
+No printed contents page is present. This is a direct visual story-heading inventory. Direct activation/source review has corrected intake headings at Stories 16, 21, 26 and 34; the source-verified forms below are authoritative.
 
 | # | Story-opening heading | Opening scan | Printed start | Next opening / final witness | Canonical activation |
 |---:|---|---:|---:|---|---|
@@ -40,7 +40,7 @@ No printed contents page is present. This is a direct visual story-heading inven
 | 31 | `புதிர்` | 41 | 40 | Story 32 scan 42 | **PASS — `stories/pudhir/`** |
 | 32 | `உயிருக்கு விலை ஐம்பது லட்சம்` | 42 | 41 | Story 33 scan 44 | **PASS — `stories/uyirukku-vilai-aimbathu-latcham/`** |
 | 33 | `கைதியின் கதை` | 44 | 43 | Story 34 scan 47 | **pending** |
-| 34 | `கிழவியின் மனைவி` | 47 | 46 | ends scan 49; scan 50 back cover | **pending** |
+| 34 | `கிழவனின் மனைவி` | 47 | 46 | ends scan 49; scan 50 back cover | **pending** |
 
 ## Totals
 
