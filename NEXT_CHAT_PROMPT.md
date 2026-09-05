@@ -20,7 +20,7 @@ Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the
 - scan **50**: verified back cover
 - no printed contents page; direct heading inventory **34 / 34**
 
-Attach or otherwise resolve the controlling PDF again before any source-dependent visual-fidelity work.
+The controlling PDF only needs to be re-opened during English work if translation exposes a source-fidelity question. The verified canonical Tamil remains the translation authority.
 
 ## Mandatory startup
 
@@ -32,17 +32,15 @@ Read completely before changing anything:
 4. root `HANDOVER.md`
 5. this `NEXT_CHAT_PROMPT.md`
 6. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
-7. `collections/2004-kalaignarin-kuttik-kathaigal/metadata/source.md`
-8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
-9. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
-10. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-11. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
-12. `stories/valluvar-sonna-poi/README.md`
-13. `stories/valluvar-sonna-poi/indexes/page-map.md`
-14. both Story-1 page records
-15. `stories/valluvar-sonna-poi/sections/valluvar-sonna-poi.md`
-16. `stories/valluvar-sonna-poi/audit.md`
-17. `stories/valluvar-sonna-poi/POSSIBLE_ERRORS_FOR_REVIEW.md`
+7. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
+8. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+9. `stories/valluvar-sonna-poi/README.md`
+10. `stories/valluvar-sonna-poi/indexes/page-map.md`
+11. both Story-1 page records
+12. `stories/valluvar-sonna-poi/sections/valluvar-sonna-poi.md`
+13. `stories/valluvar-sonna-poi/audit.md`
+14. `stories/valluvar-sonna-poi/POSSIBLE_ERRORS_FOR_REVIEW.md`
+15. `stories/valluvar-sonna-poi/visual-fidelity.md`
 
 Use the closed 1977 / 2008 English work only as implementation precedent. Do not import wording or interpretations from those sources into the 2004 Tamil layer.
 
@@ -65,23 +63,35 @@ The user explicitly authorized the 2004 English phase.
 - English `PASS`: **0 / 34**
 - pending: **34 / 34**
 - `NEEDS REVIEW`: **0**
+- visual-fidelity prerequisites closed for English: **1 / 34**
 - tracker: `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 - default batching: **one story per activity unless the user explicitly expands it**
 
-## Translation-gate finding
+## Story 1 translation gate
 
-`ENGLISH_TRANSLATION_GUIDE.md` requires story-local visual-fidelity closure before translation. Story 1 `வள்ளுவர் சொன்ன பொய்` already has a direct high-resolution Tamil source audit, but its current workspace has no separate `visual-fidelity.md` record. Do not silently treat the source audit as that separate prerequisite.
+Story 1 **`வள்ளுவர் சொன்ன பொய்`** is **translation-ready**.
+
+- verified Tamil source records: **2 / 2**
+- Tamil audit: **PASS**
+- visual fidelity: **PASS**
+- visual-fidelity corrections: **none**
+- canonical Tamil changed during visual closure: **No**
+- source span: scan **4 / printed 3 → top scan 5 / printed 4**
+- Story 2 below on scan 5 is excluded
+- English prose: **pending**
 
 ## CURRENT EXACT NEXT ACTIVITY
 
-Close the **Story 1 `வள்ளுவர் சொன்ன பொய்` visual-fidelity prerequisite**.
+Translate **Story 1 `வள்ளுவர் சொன்ன பொய்`** and create its translation review.
 
-- source span: scan **4 / printed 3 → top scan 5 / printed 4**;
-- Story 2 `நீயும் கைதி - நானும் கைதி` begins below on scan 5 and is the boundary witness only;
-- inspect source-significant heading/opening/ending structure, paragraph/dialogue structure, page furniture and the scan-4→5 join;
-- compare against Story-1 page records and canonical Tamil assembly;
-- create a durable Story-1 visual-fidelity record if closure is supportable;
-- if a textual problem is discovered, reopen only that exact Tamil span against the controlling source before any correction;
-- do **not** create Story-1 English prose in the same activity until the visual prerequisite is durably `PASS`.
+- create `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md` from the verified Tamil assembly;
+- use conservative English for source-sensitive forms and record difficult choices in `TRANSLATION_REVIEW.md` rather than changing Tamil;
+- preserve page provenance with `<!-- source scan 4; printed page 3 -->` and `<!-- source scan 5; printed page 4 -->` at the exact physical transition established by the Tamil page records;
+- the scan-4 English section must carry the two scan-4 Tamil paragraphs and end with the question asking why Valluvar told a lie;
+- the scan-5 English section must begin with Valluvar's answer and contain only the Story-1 closing paragraph;
+- exclude Story 2 `நீயும் கைதி - நானும் கைதி` and all later material on scan 5;
+- read and respect `POSSIBLE_ERRORS_FOR_REVIEW.md`; do not silently normalize `எங்கேல்லாமோ`, `தன்வீட்டிற்குள்ளே`, `‘வரவில்லை’`, `வாய்மையா, அல்லவா!!` or the closing `வாய்மை` wording;
+- create `stories/valluvar-sonna-poi/TRANSLATION_REVIEW.md` with separate checks for marker presence/order and physical content-boundary alignment;
+- do not begin Story 2 in this activity.
 
-Once Story 1 visual fidelity is closed, the following activity is its English translation and `TRANSLATION_REVIEW.md`, using physical source-page markers aligned to the verified Tamil page boundaries.
+After Story 1 English is durably PASS and all controls are synchronized, the following activity is the Story-2 translation-gate / visual-fidelity prerequisite, unless the user explicitly expands the batch.

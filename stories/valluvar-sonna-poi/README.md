@@ -34,6 +34,7 @@ Before activation, live `main` was searched for the exact title and distinctive 
 - Tamil assembly: [`sections/valluvar-sonna-poi.md`](sections/valluvar-sonna-poi.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - audit: [`audit.md`](audit.md)
+- visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS**
 - human possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Physical boundary
@@ -52,10 +53,12 @@ The source scan was read directly; no OCR reconstruction or outside version was 
 
 ## English translation
 
-The 2004 collection English phase is now **authorized / OPEN**.
+The 2004 collection English phase is **authorized / OPEN**.
 
-Story 1 English prose remains **pending** because `ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation. This workspace currently has the direct high-resolution Tamil audit but no separate `visual-fidelity.md` record. The next exact activity is to close that prerequisite against scans **4–5** and the Story-2 boundary witness. Canonical Tamil must not be changed unless direct source review independently supports a correction.
+Story 1's separate visual-fidelity prerequisite is now **PASS** after direct inspection of scan **4 / printed 3**, the Story-1 closing paragraph at the top of scan **5 / printed 4**, and the Story-2 boundary below it. No Tamil or structural correction was required.
+
+English prose remains **pending**. The next exact activity is to create `translations/en/valluvar-sonna-poi.md` and `TRANSLATION_REVIEW.md` from the verified canonical Tamil, with English source-page markers aligned to the physical scan-4 → scan-5 boundary.
 
 ## Completion state
 
-**வள்ளுவர் சொன்ன பொய் is Tamil source-complete: 2 / 2 source records verified, audit PASS, 0 blocked / 0 unresolved story text. English: authorized, pending translation gate.**
+**வள்ளுவர் சொன்ன பொய் is Tamil source-complete: 2 / 2 source records verified, audit PASS, visual fidelity PASS, 0 blocked / 0 unresolved story text. English: authorized and translation-ready; prose pending.**

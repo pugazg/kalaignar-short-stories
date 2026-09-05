@@ -14,20 +14,31 @@ The user has explicitly authorized opening the English translation phase for thi
 - `PASS`: **0**
 - pending: **34 / 34**
 - `NEEDS REVIEW`: **0**
-- canonical Tamil changed during English-phase opening: **No**
+- visual-fidelity prerequisites closed for English: **1 / 34**
+- canonical Tamil changed during English-phase opening / Story-1 visual closure: **No**
 - default batching: **one story per activity**, unless the user explicitly expands the batch
 
 ## Translation-gate note
 
-`ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation begins. Story 1 `வள்ளுவர் சொன்ன பொய்` has a direct high-resolution Tamil source audit and **0 unresolved text**, but its current workspace does not contain a story-local `visual-fidelity.md` record.
+`ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation begins.
 
-The direct Tamil audit must **not** be silently treated as equivalent to the separate visual-fidelity gate. The next activity is therefore to close and durably record Story 1's visual-fidelity prerequisite against the controlling scans before creating its English translation.
+Story 1 `வள்ளுவர் சொன்ன பொய்` now has:
+
+- Tamil source records: **2 / 2 verified**;
+- Tamil audit: **PASS**;
+- blocked / unresolved story text: **0**;
+- story-local visual fidelity: **PASS**;
+- direct physical boundary check: scan **4 / printed 3 → top scan 5 / printed 4**;
+- Story 2 below on scan 5 excluded correctly;
+- Tamil changed during visual-fidelity closure: **No**.
+
+Story 1 is therefore **translation-ready**.
 
 ## Story queue
 
 | # | Story | Verified physical span | Visual-fidelity gate for English | English |
 |---:|---|---|---|---|
-| 1 | `வள்ளுவர் சொன்ன பொய்` | scan 4 → top scan 5 | **next — record prerequisite** | pending |
+| 1 | `வள்ளுவர் சொன்ன பொய்` | scan 4 → top scan 5 | **PASS — ready for English** | pending |
 | 2 | `நீயும் கைதி - நானும் கைதி` | scan 5 only | not yet checked for English gate | pending |
 | 3 | `குருவி ராமேஸ்வரம்` | scan 5 → scan 6 | not yet checked for English gate | pending |
 | 4 | `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` | scan 6 → scan 11 | not yet checked for English gate | pending |
@@ -64,13 +75,14 @@ The direct Tamil audit must **not** be silently treated as equivalent to the sep
 
 ## Current exact next activity
 
-Close the **Story 1 `வள்ளுவர் சொன்ன பொய்` visual-fidelity prerequisite** for English translation.
+Translate **Story 1 `வள்ளுவர் சொன்ன பொய்`** into English.
 
-- inspect scan **4 / printed 3** and the Story-1 ending at the top of scan **5 / printed 4** directly;
-- use Story 2 on scan 5 only as the physical boundary witness;
-- read the Story-1 page records, Tamil assembly, page map, audit and possible-error queue;
-- create a durable story-local visual-fidelity record if the source supports closure;
-- make only source-supported structural corrections if any are found;
-- do **not** start the English prose until that prerequisite is durably `PASS`.
+- read the verified Tamil assembly, both per-scan page records, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, page map and `visual-fidelity.md`;
+- create `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md`;
+- create `stories/valluvar-sonna-poi/TRANSLATION_REVIEW.md`;
+- preserve the physical source transition with English markers for scan **4 / printed 3** and scan **5 / printed 4** at the same content boundary established by the Tamil page records;
+- keep Story 2 text below the scan-5 boundary excluded;
+- do not silently correct or normalize queued Tamil forms;
+- do not begin Story 2 in the same activity.
 
-After that prerequisite closes, the following activity is Story 1 English translation and `TRANSLATION_REVIEW.md` under `ENGLISH_TRANSLATION_GUIDE.md`.
+Story 1 counts as English-complete only after the English file, translation review and all downstream controls are synchronized and re-fetched from live `main`.
