@@ -33,45 +33,48 @@ Read completely before source-dependent work:
 7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
 8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
 9. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-10. latest completed workspace `stories/ilamai-kaalam/` and, as needed, Stories 19–27 for shared-page precedents.
+10. latest completed workspace `stories/thalaivanin-parisu/` and, as needed, Story 28 for the shared scan-39 precedent.
 
 ## Current durable progress
 
-- Stories **1–28**: Tamil source PASS
-- latest user-authorized Stories **19–28** iteration: **10 / 10 PASS**
-- total Tamil source complete: **28 / 34**
-- pending: **6 / 34**
+- Stories **1–29**: Tamil source PASS
+- total Tamil source complete: **29 / 34**
+- pending: **5 / 34**
 - completed-story blocked / unresolved: **0**
 - English: **not opened**
 
-### Important durable notes from the latest batch
+### Latest completed work — Story 29
 
-- Story 21 printed heading: **`விஞ்ஞானிக்குத் தோன்றாது...`**; intake `விருந்தாளிக்குத் தோன்றாது...` corrected.
-- Story 26 printed heading: **`கூற்றுவன் எப்படிப் மறித்தான்?`**; intake `கூற்றுவன் எப்படி மறித்தான்?` corrected.
-- Story 27 retains `அந்தப் பீடு நடை எங்கே?....` and `புழுவாக நெளிவானேன்?` exactly from source.
-- Story 28 spans scans **37–39** and ends above Story 29 on shared scan 39.
+Story 29 **`தலைவனின் பரிசு`**:
 
-Do not normalize source-sensitive wording. Do not invent a TOC. Do not create remaining story folders before their duplicate/content-equivalence checks.
+- verified story span: **lower scan 39 / printed 38 → scan 40 / printed 39**;
+- source records: **2 / 2 verified**;
+- physical join: `...என மடை` → `திறந்த காதல் வெள்ளம்...`;
+- scan **41 / printed 40** is a checked boundary witness: Story 30 opens there, with no Story-29 continuation;
+- audit: **PASS**;
+- blocked / unresolved: **0**.
 
-## CURRENT EXACT NEXT ACTIVITY — STORY 29
+Source-sensitive Story-29 readings are retained exactly; do not normalize from semantics or memory.
 
-Story 29 opening heading:
+## CURRENT EXACT NEXT ACTIVITY — STORY 30
 
-**`தலைவனின் பரிசு`**
+Story 30 opening heading:
+
+**`கிருஷ்ணனையும் விடாத சாதி`**
 
 Routing coordinates:
 
-- opens on scan **39 / printed page 38**, immediately below completed Story 28;
-- Story 30 **`கிருஷ்ணனையும் விடாத சாதி`** opens on scan **41 / printed page 40** and is the required ending-boundary witness.
+- opens at the top of scan **41 / printed page 40**;
+- Story 31 **`புதிர்`** opens later on that **same scan 41 / printed page 40** and is the required ending-boundary witness.
 
-### Before creating Story 29
+### Before creating Story 30
 
 1. fetch live `main` again;
 2. perform exact-title, plausible alternate-title and distinctive-content equivalence searches;
 3. if an existing canonical equivalent exists, register the 2004 source as an additional witness rather than duplicating it;
-4. otherwise create the Story-29 canonical workspace;
-5. inspect the controlling PDF directly across scans **39–41** and preserve the exact physical ending before Story 30;
-6. exclude Story-28 material above and Story-30 material at/after the boundary;
+4. otherwise create the Story-30 canonical workspace;
+5. inspect the controlling PDF directly on scan **41** and isolate the exact Story-30 text above the Story-31 heading;
+6. exclude Story-31 material at/after its heading on the same physical page;
 7. preserve source spelling, punctuation, paragraph/display structure and non-text/source marks;
 8. do not begin English translation;
 9. synchronize collection controls, root README, `HANDOVER.md` and this prompt after durable closure.
