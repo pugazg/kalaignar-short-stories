@@ -46,16 +46,17 @@ Across the story block, **PDF scan = printed page + 1**.
 
 ## English translation phase
 
-The user has explicitly authorized opening English translation for this collection.
+The user has explicitly authorized English translation for this collection.
 
 - phase state: **OPEN**
 - tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 - English `PASS`: **0 / 34**
 - pending: **34 / 34**
 - `NEEDS REVIEW`: **0**
-- canonical Tamil changed by phase opening: **No**
+- visual-fidelity prerequisites closed for English: **1 / 34**
+- canonical Tamil changed during English opening / Story-1 visual closure: **No**
 
-`ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation begins. Story 1 has a direct high-resolution Tamil source audit, but its workspace does not yet contain a separate `visual-fidelity.md` record. The next activity is therefore to close that prerequisite for Story 1 before creating English prose.
+Story 1 `வள்ளுவர் சொன்ன பொய்` now has a separate story-local visual-fidelity **PASS** after direct review of scan **4 / printed 3** and its closing paragraph at the top of scan **5 / printed 4**, with Story 2 below used only as the boundary witness. No Tamil or structural correction was required. Story 1 is therefore translation-ready; its English prose remains pending.
 
 ### Completed Tamil stories
 
@@ -125,4 +126,4 @@ All **34 / 34** story activations have passed the live-main duplicate/content-eq
 
 **Tamil source pass COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 unresolved.**
 
-**English translation phase OPEN — 0 / 34 PASS, 34 pending.** The exact next activity is the Story 1 visual-fidelity prerequisite required by the English translation gate; English prose starts only after that prerequisite is durably closed.
+**English translation phase OPEN — 0 / 34 PASS, 34 pending; visual-fidelity prerequisites closed 1 / 34.** Story 1 `வள்ளுவர் சொன்ன பொய்` is translation-ready. The exact next activity is its English translation and `TRANSLATION_REVIEW.md`; Story 2 must not begin in the same activity.
