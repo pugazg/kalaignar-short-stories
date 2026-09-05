@@ -42,10 +42,22 @@ Across the story block, **PDF scan = printed page + 1**.
 - Tamil source processing complete: **34 / 34**
 - Tamil source processing pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
-- English translation for this collection: **not opened**
 - Tamil source phase: **COMPLETE / CLOSED**
 
-### Completed stories
+## English translation phase
+
+The user has explicitly authorized opening English translation for this collection.
+
+- phase state: **OPEN**
+- tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+- English `PASS`: **0 / 34**
+- pending: **34 / 34**
+- `NEEDS REVIEW`: **0**
+- canonical Tamil changed by phase opening: **No**
+
+`ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation begins. Story 1 has a direct high-resolution Tamil source audit, but its workspace does not yet contain a separate `visual-fidelity.md` record. The next activity is therefore to close that prerequisite for Story 1 before creating English prose.
+
+### Completed Tamil stories
 
 | # | Story | Workspace | Verified source span | Tamil |
 |---:|---|---|---|---|
@@ -84,7 +96,7 @@ Across the story block, **PDF scan = printed page + 1**.
 | 33 | `கைதியின் கதை` | `stories/kaithiyin-kathai/` | lower scan 44 → upper scan 47 | PASS |
 | 34 | `கிழவனின் மனைவி` | `stories/kizhavanin-manaivi/` | lower scan 47 → scan 49 | PASS |
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**. Stories **29–34** were then processed as successive exact activities. All 34 stories now have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues. No English translation was opened.
+The user-authorized **Stories 19–28** Tamil iteration is **10 / 10 source-complete**. Stories **29–34** were then processed as successive exact activities. All 34 stories have canonical workspaces, verified page records, Tamil assemblies, source metadata, page maps, audits and persistent possible-error queues.
 
 ## Shared-page and final physical controls
 
@@ -109,8 +121,8 @@ The user-authorized **Stories 19–28** iteration is **10 / 10 source-complete**
 
 All **34 / 34** story activations have passed the live-main duplicate/content-equivalence gate. No pending canonical activation remains for this source.
 
-## Phase closure
+## Phase state
 
 **Tamil source pass COMPLETE / CLOSED — 34 / 34 PASS, 0 pending, 0 unresolved.**
 
-English translation for the 2004 collection remains **not opened**. Do not begin English without explicit user authorization.
+**English translation phase OPEN — 0 / 34 PASS, 34 pending.** The exact next activity is the Story 1 visual-fidelity prerequisite required by the English translation gate; English prose starts only after that prerequisite is durably closed.

@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories / கலைஞரின் குட்டிக் கதைகள்
+# NEXT CHAT PROMPT — Kalaignar Short Stories / 2004 English Translation
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases, and do not reopen the now-closed 2004 Tamil source phase because a copied checkpoint is older.
+Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the closed 1977 / 2008 phases or the closed 2004 Tamil source phase because a copied checkpoint is older.
 
 ## 2004 controlling source
 
@@ -20,64 +20,68 @@ Fetch live `main` first. Preserve newer durable work. Do not reset or reopen the
 - scan **50**: verified back cover
 - no printed contents page; direct heading inventory **34 / 34**
 
+Attach or otherwise resolve the controlling PDF again before any source-dependent visual-fidelity work.
+
 ## Mandatory startup
 
-Before any new phase work, read completely:
+Read completely before changing anything:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
-3. root `HANDOVER.md`
-4. this `NEXT_CHAT_PROMPT.md`
-5. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
-6. `collections/2004-kalaignarin-kuttik-kathaigal/metadata/source.md`
-7. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
-8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
-9. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
-10. final workspace `stories/kizhavanin-manaivi/` and preceding `stories/kaithiyin-kathai/` if final-boundary provenance is needed.
+3. `ENGLISH_TRANSLATION_GUIDE.md`
+4. root `HANDOVER.md`
+5. this `NEXT_CHAT_PROMPT.md`
+6. `collections/2004-kalaignarin-kuttik-kathaigal/README.md`
+7. `collections/2004-kalaignarin-kuttik-kathaigal/metadata/source.md`
+8. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/story-inventory.md`
+9. `collections/2004-kalaignarin-kuttik-kathaigal/indexes/scan-map.md`
+10. `collections/2004-kalaignarin-kuttik-kathaigal/TAMIL_SOURCE_PROGRESS.md`
+11. `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+12. `stories/valluvar-sonna-poi/README.md`
+13. `stories/valluvar-sonna-poi/indexes/page-map.md`
+14. both Story-1 page records
+15. `stories/valluvar-sonna-poi/sections/valluvar-sonna-poi.md`
+16. `stories/valluvar-sonna-poi/audit.md`
+17. `stories/valluvar-sonna-poi/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-If the user explicitly authorizes English, also read `ENGLISH_TRANSLATION_GUIDE.md` before creating any English files.
+Use the closed 1977 / 2008 English work only as implementation precedent. Do not import wording or interpretations from those sources into the 2004 Tamil layer.
 
-## Current durable progress
+## Durable phase state
 
-- Stories **1–34**: Tamil source PASS
-- total Tamil source complete: **34 / 34**
-- pending: **0 / 34**
-- completed-story blocked / unresolved: **0**
+### Tamil
+
+- Tamil source: **34 / 34 PASS**
+- pending: **0**
+- unresolved story text: **0**
 - final story boundary: scan **49 / printed page 48**, centered `முற்றும்`
-- final physical boundary: scan **50**, verified back cover with no further story text
-- Tamil source phase: **COMPLETE / CLOSED**
-- English: **not opened**
+- final physical boundary: scan **50**, verified back cover
+- Tamil phase: **COMPLETE / CLOSED**
 
-### Final completed work — Story 34
+### English
 
-Story 34 **`கிழவனின் மனைவி`**:
+The user explicitly authorized the 2004 English phase.
 
-- workspace: `stories/kizhavanin-manaivi/`;
-- verified story span: **lower scan 47 / printed 46 → scan 49 / printed 48**;
-- source records: **3 / 3 verified**;
-- Story 33 `கைதியின் கதை` ends above on scan 47 and is excluded;
-- centered `முற்றும்` closes the story on scan 49;
-- scan 49 lower-page library stamp does not obscure story text;
-- scan 50 is the verified physical back cover with no further story text;
-- audit: **PASS**;
-- blocked / unresolved: **0**.
+- English phase: **OPEN**
+- English `PASS`: **0 / 34**
+- pending: **34 / 34**
+- `NEEDS REVIEW`: **0**
+- tracker: `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+- default batching: **one story per activity unless the user explicitly expands it**
 
-Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and closing `வேட்டைதான்` are retained exactly; do not normalize them from semantics or memory. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
+## Translation-gate finding
 
-The source-heading correction remains locked: Story 34 is **`கிழவனின் மனைவி`**, not the earlier intake form `கிழவியின் மனைவி`.
+`ENGLISH_TRANSLATION_GUIDE.md` requires story-local visual-fidelity closure before translation. Story 1 `வள்ளுவர் சொன்ன பொய்` already has a direct high-resolution Tamil source audit, but its current workspace has no separate `visual-fidelity.md` record. Do not silently treat the source audit as that separate prerequisite.
 
 ## CURRENT EXACT NEXT ACTIVITY
 
-Within the presently authorized scope, **none**. The 2004 Tamil source pass is durably closed at **34 / 34 PASS**.
+Close the **Story 1 `வள்ளுவர் சொன்ன பொய்` visual-fidelity prerequisite**.
 
-Do not reopen completed Tamil work. Do not begin English translation unless the user explicitly authorizes opening the 2004 English phase.
+- source span: scan **4 / printed 3 → top scan 5 / printed 4**;
+- Story 2 `நீயும் கைதி - நானும் கைதி` begins below on scan 5 and is the boundary witness only;
+- inspect source-significant heading/opening/ending structure, paragraph/dialogue structure, page furniture and the scan-4→5 join;
+- compare against Story-1 page records and canonical Tamil assembly;
+- create a durable Story-1 visual-fidelity record if closure is supportable;
+- if a textual problem is discovered, reopen only that exact Tamil span against the controlling source before any correction;
+- do **not** create Story-1 English prose in the same activity until the visual prerequisite is durably `PASS`.
 
-If English is explicitly authorized in a future chat:
-
-1. fetch live `main` again;
-2. preserve newer durable work;
-3. read `ENGLISH_TRANSLATION_GUIDE.md` completely;
-4. inspect the existing English conventions from the closed 2008/1977 phases;
-5. create a 2004 English translation tracker/batching plan;
-6. translate only from the verified canonical Tamil layer without changing it;
-7. synchronize controls after each durable English batch.
+Once Story 1 visual fidelity is closed, the following activity is its English translation and `TRANSLATION_REVIEW.md`, using physical source-page markers aligned to the verified Tamil page boundaries.

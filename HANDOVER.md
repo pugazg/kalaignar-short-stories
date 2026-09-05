@@ -19,7 +19,7 @@ Always fetch live `main` first and preserve newer durable work. Repository files
 - shared physical scans preserve exact story boundaries;
 - source-supported corrections propagate through dependent layers;
 - `POSSIBLE_ERRORS_FOR_REVIEW.md` is a human-review queue, not proof of error;
-- English cannot open before the Tamil/source-fidelity gates are closed and explicit authorization is given.
+- English may only translate a story after its current translation gate is fully documented and closed.
 
 ## Closed prior collections
 
@@ -57,12 +57,11 @@ User-supplied bibliographic metadata identifies the author as **கலைஞர�
 - Tamil source complete: **34 / 34**
 - pending: **0 / 34**
 - completed-story blocked / unresolved: **0**
-- English: **not opened**
 - Tamil source phase: **COMPLETE / CLOSED**
 
-The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories **29–34** were then completed as successive exact activities.
+The user-authorized **Stories 19–28** Tamil iteration is **10 / 10 PASS**. Stories **29–34** were then completed as successive exact activities.
 
-### Final Story 34 — கிழவனின் மனைவி
+### Final Tamil Story 34 — கிழவனின் மனைவி
 
 - workspace: `stories/kizhavanin-manaivi/`
 - verified span: **lower scan 47 / printed 46 → scan 49 / printed 48**
@@ -74,7 +73,6 @@ The user-authorized **Stories 19–28** iteration is **10 / 10 PASS**. Stories *
 - scan 50 directly verified as physical back cover; no further story text
 - audit: **PASS**
 - blocked / unresolved: **0**
-- English: **not opened**
 
 Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and `வேட்டைதான்` are retained exactly as printed. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
 
@@ -85,10 +83,30 @@ Source-sensitive forms including `பஞ்சுப் பாதங்களை
 - Story 26: **`கூற்றுவன் எப்படிப் மறித்தான்?`**
 - Story 34: **`கிழவனின் மனைவி`**
 
+## 2004 English translation phase — OPEN
+
+The user has explicitly authorized opening English translation for the 2004 collection.
+
+Tracker: `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+
+- English phase: **OPEN**
+- English `PASS`: **0 / 34**
+- pending: **34 / 34**
+- `NEEDS REVIEW`: **0**
+- default batching: **one story per activity unless the user explicitly expands it**
+- canonical Tamil changed during phase opening: **No**
+
+`ENGLISH_TRANSLATION_GUIDE.md` requires visual-fidelity closure before a story enters English. Story 1 `வள்ளுவர் சொன்ன பொய்` has a direct high-resolution Tamil source audit and no unresolved text, but no separate story-local `visual-fidelity.md` is currently present. Do not silently equate those two controls.
+
 ## Current exact next activity
 
-There is **no remaining authorized Tamil source activity** for the 2004 collection. The Tamil source phase is closed at **34 / 34 PASS**.
+Close the **Story 1 `வள்ளுவர் சொன்ன பொய்` visual-fidelity prerequisite** before English prose begins.
 
-Do **not** reopen completed Tamil stories merely to create more work. Do **not** begin English translation unless the user explicitly authorizes opening the 2004 English phase.
+1. Fetch live `main` again.
+2. Ensure the controlling 2004 PDF is attached/resolved before visual work.
+3. Read `ENGLISH_TRANSLATION_GUIDE.md`, the Story-1 README, page map, page records, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+4. Directly inspect scan **4 / printed 3** and the Story-1 ending at the top of scan **5 / printed 4**; use Story 2 below as the boundary witness only.
+5. Record the visual-fidelity disposition durably at story level; make only source-supported structural corrections if any are required.
+6. Do **not** begin Story-1 English prose until this prerequisite is `PASS`.
 
-If English is later authorized, fetch live `main` first, read `ENGLISH_TRANSLATION_GUIDE.md` and the current collection controls, then establish the English tracker/batch plan without altering verified Tamil text.
+After that closure, the next activity is Story 1 English translation to `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md` plus `TRANSLATION_REVIEW.md`, with source-page markers physically aligned under `ENGLISH_TRANSLATION_GUIDE.md`.

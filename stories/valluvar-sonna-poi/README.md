@@ -52,8 +52,10 @@ The source scan was read directly; no OCR reconstruction or outside version was 
 
 ## English translation
 
-**Not opened.** Tamil/source processing is complete for this story, but English translation for the 2004 collection has not been authorized.
+The 2004 collection English phase is now **authorized / OPEN**.
+
+Story 1 English prose remains **pending** because `ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation. This workspace currently has the direct high-resolution Tamil audit but no separate `visual-fidelity.md` record. The next exact activity is to close that prerequisite against scans **4–5** and the Story-2 boundary witness. Canonical Tamil must not be changed unless direct source review independently supports a correction.
 
 ## Completion state
 
-**வள்ளுவர் சொன்ன பொய் is Tamil source-complete: 2 / 2 source records verified, audit PASS, 0 blocked / 0 unresolved story text.**
+**வள்ளுவர் சொன்ன பொய் is Tamil source-complete: 2 / 2 source records verified, audit PASS, 0 blocked / 0 unresolved story text. English: authorized, pending translation gate.**
