@@ -14,9 +14,19 @@
 | 10 | `சங்கிலிச்சாமி` | 111–125 | existing; TOC start anomaly |
 | 11 | `தப்பிவிட்டார்கள்` | 126–136 | existing canonical story |
 | 12 | `தப்பவில்லை` | 137–149 | existing canonical story |
-| 13 | `ஏழை` | 150 only | **partial; supplied file ends** |
-| 14 | `கண்ணடக்கம்` | — | absent from supplied PDF |
-| 15 | `வாழ முடியாதவர்கள்` | — | absent from supplied PDF |
-| 16 | `அய்யோ ராஜா` | — | absent from supplied PDF |
+| 13 | `ஏழை` | 150–154 | existing canonical story |
+| 14 | `கண்ணடக்கம்` | 155–163 | existing canonical story |
+| 15 | `வாழ முடியாதவர்கள்` | 164–173 | existing canonical story |
+| 16 | `அய்யோ ராஜா` | 174–182 | existing canonical story |
 
-Whole source: scan 1 cover; 2 title/publisher; 3 edition; 4 `முன்னுரை`; 5 contents; scans 6–149 Stories 1–12; scan 150 Story 13 opening. Do not infer scans beyond 150.
+## Whole-source structure
+
+- scan **1** — front cover
+- scan **2** — title / publisher
+- scan **3** — edition statement
+- scan **4** — `முன்னுரை`
+- scan **5** — `பொருளடக்கம்`
+- scans **6–182** — Stories **1–16**
+- scan **183** — back cover
+
+All **16 / 16** story-opening scans were visually checked. The source is complete; the earlier 150-scan truncation note was incorrect and is superseded by this map.
