@@ -23,11 +23,12 @@ Full identity and scan-condition notes are in [`metadata/source.md`](metadata/so
 
 The scan moves from the colophon on scan 3 directly into story text on scan 4. Because no printed contents page is present, the 34-story inventory is based on direct sequential visual inspection of the printed story-opening headings across scans **4–49**. No TOC wording has been invented.
 
-Direct activation review has established three intake-heading corrections so far:
+Direct activation/source review has established four intake-heading corrections so far:
 
 - Story 16: `அபாசமே அபாசம்!` → **`ஆபாசமே ஆபாசம்!`**;
 - Story 21: `விருந்தாளிக்குத் தோன்றாது...` → **`விஞ்ஞானிக்குத் தோன்றாது...`**;
-- Story 26: `கூற்றுவன் எப்படி மறித்தான்?` → **`கூற்றுவன் எப்படிப் மறித்தான்?`**.
+- Story 26: `கூற்றுவன் எப்படி மறித்தான்?` → **`கூற்றுவன் எப்படிப் மறித்தான்?`**;
+- Story 34: `கிழவியின் மனைவி` → **`கிழவனின் மனைவி`**.
 
 The source-verified forms are authoritative and propagated through the controls.
 
@@ -109,6 +110,6 @@ Every remaining story still requires a fresh live-`main` exact-title / alternate
 Process **Story 33 — `கைதியின் கதை`**.
 
 - opens: scan **44 / printed page 43**, below completed Story 32;
-- next boundary witness: Story 34 **`கிழவியின் மனைவி`** opens on scan **47 / printed page 46**.
+- next boundary witness: Story 34 **`கிழவனின் மனைவி`** opens on scan **47 / printed page 46**.
 
 Do not begin Story 33 until live `main` is fetched again and the canonical duplicate/content-equivalence check is complete.
