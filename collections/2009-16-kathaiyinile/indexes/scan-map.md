@@ -5,8 +5,8 @@
 | 1 | `காந்தி தேசம்` | 6–18 | **COMPLETE / PASS — 13/13 verified; `stories/gandhi-desam/`** |
 | 2 | `அணில் குஞ்சு` | 19–28 | **COMPLETE / PASS — 10/10 verified; `stories/anil-kunju/`** |
 | 3 | `கொள்ளைபுரம்` | 29–37 | **COMPLETE / PASS — 9/9 verified; `stories/kollaipuram/`** |
-| 4 | `எழுத்தாளர் ஏகலைவன்` | 38–49 | **new candidate — next active story; complete physical span** |
-| 5 | `மலரவில்லை` | 50–63 | **new candidate — pending; complete physical span** |
+| 4 | `எழுத்தாளர் ஏகலைவன்` | 38–49 | **COMPLETE / PASS — 12/12 verified; `stories/ezhuthalar-ekalaivan/`** |
+| 5 | `மலரவில்லை` | 50–63 | **new candidate — next active story; complete physical span** |
 | 6 | `சுமந்தவள்` | 64–81 | existing canonical story |
 | 7 | `புகழேந்தி` | 82–89 | existing canonical story |
 | 8 | `நளாயினி` | 90–99 | existing canonical story |
@@ -31,4 +31,4 @@
 
 All **16 / 16** story-opening scans were visually checked. The source is complete; the earlier 150-scan truncation note was incorrect and is superseded by this map.
 
-Current new-story source-processing checkpoint: **3 / 5 complete** (`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`). Next: **`எழுத்தாளர் ஏகலைவன்`, scans 38–49 / printed 33–44; scan 50 `மலரவில்லை` is the boundary witness.**
+Current new-story source-processing checkpoint: **4 / 5 complete** (`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`). Next: **`மலரவில்லை`, scans 50–63 / printed 45–58; scan 64 `சுமந்தவள்` is the boundary witness.**
