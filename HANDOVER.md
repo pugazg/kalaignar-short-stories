@@ -74,8 +74,6 @@ The user-authorized **Stories 19–28** Tamil iteration is **10 / 10 PASS**. Sto
 - audit: **PASS**
 - blocked / unresolved: **0**
 
-Source-sensitive forms including `பஞ்சுப் பாதங்களைச்`, `சுற்று முற்றும்`, `தங்கக் கரங்களைக் கிளைகளில்`, `அல்லித் தண்டில்`, `கீழ்ஸ்தாயி`, `வைத்திட்டனாகாது`, `தலை எழுத்து`, `சல்லாப ரூபா`, `தள்ளாத காலத்தில்`, and `வேட்டைதான்` are retained exactly as printed. The physical line split `பய` / `மில்லை` is assembled as `பயமில்லை`.
-
 ### Heading corrections locked in the 2004 source controls
 
 - Story 16: **`ஆபாசமே ஆபாசம்!`**
@@ -93,13 +91,13 @@ Tracker: `collections/2004-kalaignarin-kuttik-kathaigal/ENGLISH_TRANSLATION_PROG
 - English `PASS`: **1 / 34**
 - pending: **33 / 34**
 - `NEEDS REVIEW`: **0**
-- visual-fidelity prerequisites closed for English: **1 / 34**
+- visual-fidelity prerequisites closed for English: **2 / 34**
 - default batching: **one story per activity unless the user explicitly expands it**
-- canonical Tamil changed during English opening / Story-1 visual closure / Story-1 translation: **No**
+- canonical Tamil changed during English opening / Story-1 work / Story-2 visual closure: **No**
 
-### Latest completed English work — Story 1
+### Completed English Story 1 — வள்ளுவர் சொன்ன பொய்
 
-Story 1 **`வள்ளுவர் சொன்ன பொய்`** is **English PASS**.
+Story 1 is **English PASS**.
 
 - workspace: `stories/valluvar-sonna-poi/`
 - source records: **2 / 2 verified**
@@ -111,24 +109,43 @@ Story 1 **`வள்ளுவர் சொன்ன பொய்`** is **English
 - English marker presence/order: **PASS**
 - English physical content-boundary alignment: **PASS**
 - Story 2 below on scan 5 excluded correctly
-- source-sensitive `உண்மை` / `வாய்மை` distinction preserved conservatively
-- source double exclamation represented in English
 - Tamil source issue reopened during translation: **No**
 - canonical Tamil changed during English work: **No**
 - blocked / unresolved: **0**
 
+### Story 2 translation gate — PASS
+
+Story 2 **`நீயும் கைதி - நானும் கைதி`** is now translation-ready.
+
+- workspace: `stories/neeyum-kaithi-naanum-kaithi/`
+- source records: **1 / 1 verified**
+- Tamil audit: **PASS**
+- visual fidelity: **PASS** — `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md`
+- source span: **scan 5 / printed page 4 only**
+- upper boundary: Story 1 `வள்ளுவர் சொன்ன பொய்` ends above on the same scan and is excluded
+- lower boundary: Story 3 `குருவி ராமேஸ்வரம்` begins below on the same scan and is excluded
+- heading framing: checked
+- body structure: **three prose paragraphs**
+- closing structure: separate `நானும் கைதி.` / `நீயும் கைதி.` display lines
+- visual-fidelity corrections required: **None**
+- Tamil changed during visual closure: **No**
+- blocked / unresolved: **0**
+- English prose: **pending**
+
 ## Current exact next activity
 
-Close the **Story 2 `நீயும் கைதி - நானும் கைதி` visual-fidelity prerequisite** before English prose begins.
+Translate **Story 2 `நீயும் கைதி - நானும் கைதி`** only.
 
 1. Fetch live `main` again.
-2. Ensure the controlling 2004 PDF is attached/resolved before direct visual work.
-3. Read `ENGLISH_TRANSLATION_GUIDE.md`, current English tracker, Story-2 README, page map, the Story-2 page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
-4. Directly inspect Story 2 on scan **5 / printed page 4**. Story 1 `வள்ளுவர் சொன்ன பொய்` ends above it on the same scan; Story 3 `குருவி ராமேஸ்வரம்` begins below it on the same scan and is the next-story boundary witness.
-5. Check exact heading/opening/ending structure, paragraph/dialogue/display structure, separators, page furniture and exclusion of neighbouring stories.
-6. Create `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md` if closure is source-supported; make only independently source-supported corrections if required.
-7. Do **not** create Story-2 English prose until the visual prerequisite is durably `PASS`.
-8. Do not begin Story 3 in the same activity.
-9. Synchronize Story-2 README, the 2004 English tracker, collection/root controls, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring the Story-2 gate closed.
+2. Read `ENGLISH_TRANSLATION_GUIDE.md`, current tracker, Story-2 README, page map, page record, Tamil assembly, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md` and `visual-fidelity.md`.
+3. Create `stories/neeyum-kaithi-naanum-kaithi/translations/en/neeyum-kaithi-naanum-kaithi.md`.
+4. Preserve the source marker `<!-- source scan 5; printed page 4 -->` before the complete translated Story-2 text.
+5. Keep the three prose paragraphs and the two closing display lines source-faithfully represented in English; natural English paragraphing may differ only where allowed by the guide, but the two closing lines must remain distinct.
+6. Exclude Story 1 above and Story 3 below on the shared physical scan.
+7. Read and respect `POSSIBLE_ERRORS_FOR_REVIEW.md`; do not silently normalize `உனக்கென்ன வாழ்கிறதாம்!` or merge `நானும் கைதி.` / `நீயும் கைதி.`.
+8. Create `stories/neeyum-kaithi-naanum-kaithi/TRANSLATION_REVIEW.md` with separate marker presence/order and physical content-boundary checks.
+9. Do not alter canonical Tamil merely to improve English.
+10. Do not begin Story 3 in the same activity.
+11. Synchronize Story-2 README, the 2004 English tracker, collection/root controls, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, then re-fetch live `main` before declaring Story 2 English PASS.
 
-After Story 2 visual fidelity is PASS, the following activity is Story 2 English translation and `TRANSLATION_REVIEW.md` under `ENGLISH_TRANSLATION_GUIDE.md`.
+After Story 2 English is durably PASS, the following activity is the Story-3 translation-gate / visual-fidelity prerequisite unless the user explicitly expands the batch.
