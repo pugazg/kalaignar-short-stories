@@ -61,6 +61,7 @@ Permanent guides:
 | [`சுமந்தவள்`](stories/sumanthaval/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -137,6 +138,41 @@ Permanent guides:
 | [`கிழவனின் மனைவி`](stories/kizhavanin-manaivi/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 
 Manual possible-error review queues are retained inside each completed story workspace.
+
+## New-source onboarding
+
+### திராவிட இயக்க எழுத்தாளர் சிறுகதைகள் — First Edition, December 1997
+
+Collection workspace:
+
+- [`collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`](collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/README.md)
+
+Current state:
+
+- source PDF: `TVA_BOK_0064315_திராவிட_இயக்க_எழுத்தாளர்_சிறுகதைகள்.pdf`
+- scans: **115**
+- contents: **10 works**
+- short-story titles now represented canonically: **9**
+- newly onboarded `நண்பனா?`: **3/3 verified; Tamil audit PASS; visual PASS; 0 unresolved; English not started**
+- `நடுத்தெரு நாராயணி`: **explicitly deferred for separate short-novel handling**
+- no further new short-story transcription remains in this 1997 source.
+
+### 16 கதையினிலே — Fourth Edition, March 2009
+
+Collection workspace:
+
+- [`collections/2009-16-kathaiyinile/`](collections/2009-16-kathaiyinile/README.md)
+
+Current intake state:
+
+- source PDF: `TVA_BOK_0065745_16_கதையினிலே.pdf`
+- scans: **183**
+- story block: scans **6–182**
+- scan **183**: back cover
+- stories: **16 / 16 physically present**
+- new short stories at intake: **5**
+- current exact next activity: **`காந்தி தேசம்` — scans 6–18 / printed 1–13; scan 19 `அணில் குஞ்சு` is the next-story boundary**
+- remaining after that: `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`.
 
 ## Completed anthology source / English phase closed
 
