@@ -4,42 +4,45 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 
 Translation workflow: `../../ENGLISH_TRANSLATION_GUIDE.md`
 
-The user has explicitly authorized opening the English translation phase for this 2004 collection. The verified Tamil source layer remains authoritative and closed at **34 / 34 PASS**; opening English does not authorize any silent Tamil normalization or rewriting.
+The user has explicitly authorized the English translation phase for this 2004 collection. The verified Tamil source layer remains authoritative and closed at **34 / 34 PASS**; English work does not authorize any silent Tamil normalization or rewriting.
 
 ## Phase state
 
 - total stories: **34**
 - English phase authorization: **granted / OPEN**
-- English translation complete: **0 / 34**
-- `PASS`: **0**
-- pending: **34 / 34**
+- English translation complete: **1 / 34**
+- `PASS`: **1**
+- pending: **33 / 34**
 - `NEEDS REVIEW`: **0**
 - visual-fidelity prerequisites closed for English: **1 / 34**
-- canonical Tamil changed during English-phase opening / Story-1 visual closure: **No**
+- canonical Tamil changed during English-phase opening / Story-1 visual closure / Story-1 translation: **No**
 - default batching: **one story per activity**, unless the user explicitly expands the batch
 
-## Translation-gate note
+## Latest completed English work
 
-`ENGLISH_TRANSLATION_GUIDE.md` requires a story-local visual-fidelity closure before translation begins.
-
-Story 1 `வள்ளுவர் சொன்ன பொய்` now has:
+Story 1 `வள்ளுவர் சொன்ன பொய்` is **PASS**.
 
 - Tamil source records: **2 / 2 verified**;
 - Tamil audit: **PASS**;
-- blocked / unresolved story text: **0**;
 - story-local visual fidelity: **PASS**;
-- direct physical boundary check: scan **4 / printed 3 → top scan 5 / printed 4**;
+- blocked / unresolved story text: **0**;
+- English: `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md`;
+- translation review: `stories/valluvar-sonna-poi/TRANSLATION_REVIEW.md` — **PASS**;
+- physical marker span: scan **4 / printed 3 → scan 5 / printed 4**;
+- marker presence/order: **PASS**;
+- physical content-boundary alignment: **PASS**;
 - Story 2 below on scan 5 excluded correctly;
-- Tamil changed during visual-fidelity closure: **No**.
+- Tamil source issue reopened during translation: **No**;
+- canonical Tamil changed during English work: **No**.
 
-Story 1 is therefore **translation-ready**.
+The English keeps *kural* and *vaaymai* conservatively, preserves the `உண்மை` / `வாய்மை` distinction, retains the source double exclamation in the corresponding English sentence, and does not substitute conventional Tirukkural wording for the verified closing source form.
 
 ## Story queue
 
 | # | Story | Verified physical span | Visual-fidelity gate for English | English |
 |---:|---|---|---|---|
-| 1 | `வள்ளுவர் சொன்ன பொய்` | scan 4 → top scan 5 | **PASS — ready for English** | pending |
-| 2 | `நீயும் கைதி - நானும் கைதி` | scan 5 only | not yet checked for English gate | pending |
+| 1 | `வள்ளுவர் சொன்ன பொய்` | scan 4 → top scan 5 | **PASS** | **PASS** |
+| 2 | `நீயும் கைதி - நானும் கைதி` | scan 5 only | **next — record prerequisite** | pending |
 | 3 | `குருவி ராமேஸ்வரம்` | scan 5 → scan 6 | not yet checked for English gate | pending |
 | 4 | `பெண்களுக்கு ஏன் - மீசை தாடியில்லை?` | scan 6 → scan 11 | not yet checked for English gate | pending |
 | 5 | `கடலைத் தூர்ப்பது மிக எளிது` | scan 11 → scan 13 | not yet checked for English gate | pending |
@@ -75,14 +78,16 @@ Story 1 is therefore **translation-ready**.
 
 ## Current exact next activity
 
-Translate **Story 1 `வள்ளுவர் சொன்ன பொய்`** into English.
+Close the **Story 2 `நீயும் கைதி - நானும் கைதி` visual-fidelity prerequisite** before translating it.
 
-- read the verified Tamil assembly, both per-scan page records, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, page map and `visual-fidelity.md`;
-- create `stories/valluvar-sonna-poi/translations/en/valluvar-sonna-poi.md`;
-- create `stories/valluvar-sonna-poi/TRANSLATION_REVIEW.md`;
-- preserve the physical source transition with English markers for scan **4 / printed 3** and scan **5 / printed 4** at the same content boundary established by the Tamil page records;
-- keep Story 2 text below the scan-5 boundary excluded;
-- do not silently correct or normalize queued Tamil forms;
-- do not begin Story 2 in the same activity.
+- Story 2 is entirely on scan **5 / printed page 4**;
+- Story 1 `வள்ளுவர் சொன்ன பொய்` ends above it on the same physical scan and must remain excluded;
+- Story 3 `குருவி ராமேஸ்வரம்` begins below it on the same physical scan and is the next-story boundary witness;
+- read Story-2 README, page map, page record, Tamil assembly, audit and `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+- directly inspect the complete Story-2 span on scan 5 for heading/opening/ending structure, paragraph/dialogue/display fidelity, separators and page furniture;
+- create `stories/neeyum-kaithi-naanum-kaithi/visual-fidelity.md` if the source supports closure;
+- make only source-supported structural/text corrections if independently required;
+- do **not** create Story-2 English prose until that prerequisite is durably `PASS`;
+- do not begin Story 3 in the same activity.
 
-Story 1 counts as English-complete only after the English file, translation review and all downstream controls are synchronized and re-fetched from live `main`.
+Story 2 may enter English only after its visual-fidelity prerequisite is committed and the downstream controls are synchronized.
