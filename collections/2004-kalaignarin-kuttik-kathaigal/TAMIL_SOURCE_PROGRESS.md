@@ -9,7 +9,7 @@ Controlling source: `TVA_BOK_0065567_கலைஞரின்_குட்டி
 - pending: **0 / 34**
 - completed-story blocked / unresolved story text: **0**
 - Tamil source phase: **COMPLETE / CLOSED**
-- English translation phase: **authorized / OPEN — 0 / 34 PASS, 34 pending**
+- English translation phase: **authorized / OPEN — 1 / 34 PASS, 33 pending**
 - English tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
 Stories **1–34 are PASS** in Tamil. The user-authorized Stories **19–28** iteration closed **10 / 10 PASS**; Stories 29–34 were then completed as successive exact activities.
@@ -44,4 +44,4 @@ Blocked / unresolved story text across completed Stories 1–34: **0**.
 
 **TAMIL SOURCE COMPLETE / CLOSED.**
 
-English translation has now been explicitly authorized and opened as a separate downstream layer. That does not reopen or alter this Tamil closure. The current English exact next activity is recorded in `ENGLISH_TRANSLATION_PROGRESS.md`.
+English translation is an explicitly authorized, separate downstream layer. Story 1 `வள்ளுவர் சொன்ன பொய்` is now English PASS; this does not reopen or alter the Tamil closure. The current English exact next activity is recorded in `ENGLISH_TRANSLATION_PROGRESS.md`.
