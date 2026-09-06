@@ -4,14 +4,28 @@ printed_page: 58
 story: "malaravillai"
 section: "story"
 page_type: "story-ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065745_16_கதையினிலே.pdf"
-transcription_method: "direct visual comparison with source scan — story prose not yet promoted at this checkpoint"
+transcription_method: "direct visual comparison with controlling source scan; high-resolution full-span review"
 ---
 
-<!-- STORY PROSE NOT YET PROMOTED. Fill only from direct source verification; do not infer from OCR/memory. -->
+துவக்க நாளிலேயே அபசகுனம் ஏற்பட்டது எனக் கூறி “மலர்ந்தது” படத்தை நிறுத்தி விட்டார், அவிட்டம் ஸ்டுடியோ முதலாளி.
 
-<!-- Visible source structure: final story prose followed by five circular closing ornaments. -->
+மறுநாள்.........
+
+செய்திப் பத்திரிகையைப் பிரித்துப் படித்துக்கொண்டிருந்த திரையுலகப் புதுநடிகை ஆஷாவின் காதலன், “ஆஷா! நேற்று இறந்துபோன லைட்பாயைப்பற்றி பேப்பரில் செய்தி வந்திருக்கிறதே; படித்தாயா?” என்று கேட்டான்.
+
+“இல்லையே! நாம் நடிக்கப் போகிற புதிய படத்தின் விளம்பரத்தை மட்டும்தான் பார்த்தேன்!” என்றாள் ஆஷா!
+
+“அவன் பெயர் ஆதவனாம்!”
+
+“யாராக இருந்தால் என்ன? நம்முடைய படம் ஒன்றுக்கு அஸ்தமனம்தான் ஏற்பட்டது! சனியன்..... சாவதற்கு வேறு இடம் கிடைக்கவில்லை; முதல் ‘காண்ட்ராக்’டையே கெடுத்துத் தொலைத்துவிட்டானே?”
+
+ஆஷாவின் இந்தக் கண்டனக் குரல் ஓயுமுன்பே வாசலில் ஏதோ சப்தம் கேட்டது. எழுந்து சென்று பார்த்தார்கள் இருவரும். ஆதவன் இறுதி யாத்திரை செய்து கொண்டிருந்தான். அதற்குப் பின்னணியாக அவனைப் பெற்றவளின் சோகப் புலம்பல் எழும்பிக் கொண்டிருந்தது!
+
+ஆமாம்; திருமணத்துக்காகச் சேர்த்து வைத்திருந்த பணத்தைச் செலவிட்டு ஆதவனின் இறுதிச் சடங்கை நிறைவேற்றிக் கொண்டிருக்கிறாள், அந்த ஏழைக்கிழவி
+
+◉ ◉ ◉ ◉ ◉
 
 <!-- anthology scan: 63; printed page: 58 -->
