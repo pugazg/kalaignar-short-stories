@@ -94,7 +94,7 @@ Every story has a durable witness directory under:
 
 High-priority later-witness recheck candidates are preserved in the per-story witness records and final collection ledger.
 
-## ACTIVE PHASE — supplemental English translation — 2 / 6
+## ACTIVE PHASE — supplemental English translation — 3 / 6
 
 Tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`.
 
@@ -102,8 +102,8 @@ This phase was explicitly authorized after the 2009 onboarding/comparison closur
 
 1. `நண்பனா?` — 1997 source, scans **104–106 / printed 94–96** — **PASS**.
 2. `காந்தி தேசம்` — 2009 source, scans **6–18 / printed 1–13** — **PASS**.
-3. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **NEXT / pending**.
-4. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — pending.
+3. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **PASS**.
+4. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — **NEXT / pending**.
 5. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — pending.
 6. `மலரவில்லை` — scans **50–63 / printed 45–58** — pending.
 
@@ -126,16 +126,28 @@ This phase was explicitly authorized after the 2009 onboarding/comparison closur
 - Tamil changed during translation: **No**
 - result: **PASS**
 
-## CURRENT EXACT NEXT ACTIVITY — supplemental English 3 / 6 — `அணில் குஞ்சு`
+### Completed 3 / 6 — `அணில் குஞ்சு`
 
-Process only **`அணில் குஞ்சு`** unless the user explicitly expands the batch:
+- English: `stories/anil-kunju/translations/en/anil-kunju.md`
+- review: `stories/anil-kunju/TRANSLATION_REVIEW.md`
+- complete Tamil represented: **Yes**
+- source page markers **19–28**: **complete and physically aligned**
+- public speeches / squirrel-Ramayana account / religious argument / hawk ending: **preserved**
+- five closing ornaments: **preserved**
+- possible-error queue silently corrected: **No**
+- Tamil changed during translation: **No**
+- result: **PASS**
+
+## CURRENT EXACT NEXT ACTIVITY — supplemental English 4 / 6 — `கொள்ளைபுரம்`
+
+Process only **`கொள்ளைபுரம்`** unless the user explicitly expands the batch:
 
 1. fetch live `main` first;
-2. read `ENGLISH_TRANSLATION_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`, and all `stories/anil-kunju/` Tamil/source/visual/recheck controls;
-3. translate the complete verified Tamil assembly from scans **19–28 / printed pages 14–23**;
+2. read `ENGLISH_TRANSLATION_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`, and all `stories/kollaipuram/` Tamil/source/visual/recheck controls;
+3. translate the complete verified Tamil assembly from scans **29–37 / printed pages 24–32**;
 4. verify physical source-page anchoring against the story's `pages/*.md` records, not just marker sequence;
-5. create/update `stories/anil-kunju/translations/en/anil-kunju.md` and `stories/anil-kunju/TRANSLATION_REVIEW.md`;
-6. synchronize story, collection, root and phase controls to **3 / 6** when complete;
-7. stop before `கொள்ளைபுரம்` unless explicitly authorized otherwise.
+5. create/update `stories/kollaipuram/translations/en/kollaipuram.md` and `stories/kollaipuram/TRANSLATION_REVIEW.md`;
+6. synchronize story, collection, root and phase controls to **4 / 6** when complete;
+7. stop before `எழுத்தாளர் ஏகலைவன்` unless explicitly authorized otherwise.
 
 Do not treat 2009 later-witness readings as permission to modify canonical 1977 Tamil. `நடுத்தெரு நாராயணி` remains outside the short-story queue and reserved for a separate short-novel workflow.
