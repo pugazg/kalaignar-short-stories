@@ -7,6 +7,7 @@
 - story workflow: `SHORT_STORY_PROCESSING_GUIDE.md`
 - collection workflow: `COLLECTION_SOURCE_GUIDE.md`
 - English workflow: `ENGLISH_TRANSLATION_GUIDE.md`
+- supplemental English tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
@@ -33,7 +34,9 @@ Do not reopen those closed phases merely to create work. A specifically authoriz
 
 Workspace: `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`
 
-- `நண்பனா?`: **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+- `நண்பனா?`: **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, **English PASS**.
+- English file: `stories/nanbana/translations/en/nanbana.md`
+- translation review / physical page anchoring: **PASS**
 - `நடுத்தெரு நாராயணி`: **explicitly reserved for separate short-novel handling**.
 - new-short-story onboarding: **COMPLETE**.
 
@@ -61,8 +64,6 @@ A conversation working copy used in the final comparison iteration ends at scan 
 - `கொள்ளைபுரம்` — scans 29–37 — 9/9 verified; Tamil/visual PASS; 0 unresolved.
 - `எழுத்தாளர் ஏகலைவன்` — scans 38–49 — 12/12 verified; Tamil/visual PASS; 0 unresolved.
 - `மலரவில்லை` — scans 50–63 — 14/14 verified; Tamil/visual PASS; 0 unresolved.
-
-English for these five remains a separate future phase.
 
 ## 2009 existing-canonical additional-witness comparison — COMPLETE / CLOSED — 11 / 11
 
@@ -93,15 +94,40 @@ Every story has a durable witness directory under:
 
 High-priority later-witness recheck candidates are preserved in the per-story witness records and final collection ledger.
 
-## CURRENT STATE / NEXT ACTIVITY
+## ACTIVE PHASE — supplemental English translation — 1 / 6
 
-There is **no automatic next story in the 2009 queue**. Both its new-story onboarding and existing-canonical witness comparison phases are closed.
+Tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`.
 
-Do not automatically start:
+This phase was explicitly authorized after the 2009 onboarding/comparison closures. It covers the six Tamil-complete canonical stories that still lacked English at phase start.
 
-- English translation of the five newly onboarded stories;
-- canonical corrections from 2009 witness readings;
-- `நடுத்தெரு நாராயணி` as a short story;
-- another collection or source.
+1. `நண்பனா?` — 1997 source, scans **104–106 / printed 94–96** — **PASS**.
+2. `காந்தி தேசம்` — 2009 source, scans **6–18 / printed 1–13** — **NEXT / pending**.
+3. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — pending.
+4. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — pending.
+5. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — pending.
+6. `மலரவில்லை` — scans **50–63 / printed 45–58** — pending.
 
-Wait for the user's next authorized activity. If the user supplies the 1977 controlling PDF and explicitly asks to resolve the recheck candidates, that can be a separate source-correction phase. `நடுத்தெரு நாராயணி` remains a separate short-novel project.
+### Completed 1 / 6 — `நண்பனா?`
+
+- English: `stories/nanbana/translations/en/nanbana.md`
+- review: `stories/nanbana/TRANSLATION_REVIEW.md`
+- complete Tamil represented: **Yes**
+- source page markers 104–106: **complete and physically aligned**
+- letter/signature/separator structure: **preserved**
+- possible-error queue silently corrected: **No**
+- Tamil changed during translation: **No**
+- result: **PASS**
+
+## CURRENT EXACT NEXT ACTIVITY — supplemental English 2 / 6 — `காந்தி தேசம்`
+
+Process only **`காந்தி தேசம்`** unless the user explicitly expands the batch:
+
+1. fetch live `main` first;
+2. read `ENGLISH_TRANSLATION_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`, and all `stories/gandhi-desam/` Tamil/source/visual/recheck controls;
+3. translate the complete verified Tamil assembly from scans **6–18 / printed pages 1–13**;
+4. verify physical source-page anchoring against the story's `pages/*.md` records, not just marker sequence;
+5. create/update `stories/gandhi-desam/translations/en/gandhi-desam.md` and `stories/gandhi-desam/TRANSLATION_REVIEW.md`;
+6. synchronize story, collection, root and phase controls to **2 / 6** when complete;
+7. stop before `அணில் குஞ்சு` unless explicitly authorized otherwise.
+
+Do not treat 2009 later-witness readings as permission to modify canonical 1977 Tamil. `நடுத்தெரு நாராயணி` remains outside the short-story queue and reserved for a separate short-novel workflow.
