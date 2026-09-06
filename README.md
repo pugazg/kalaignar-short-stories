@@ -18,6 +18,7 @@ Permanent guides:
 - [`COLLECTION_SOURCE_GUIDE.md`](COLLECTION_SOURCE_GUIDE.md)
 - [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
 - [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+- [`NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`](NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md)
 
 ## Canonical stories
 
@@ -61,7 +62,7 @@ Permanent guides:
 | [`சுமந்தவள்`](stories/sumanthaval/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`கொள்ளைபுரம்`](stories/kollaipuram/README.md) | **Tamil source PASS — 9/9 verified; 0 blocks; manual recheck queue open** | **not started** |
@@ -158,7 +159,7 @@ Current state:
 - scans: **115**
 - contents: **10 works**
 - short-story titles now represented canonically: **9**
-- newly onboarded `நண்பனா?`: **3/3 verified; Tamil audit PASS; visual PASS; 0 unresolved; English not started**
+- newly onboarded `நண்பனா?`: **3/3 verified; Tamil audit PASS; visual PASS; 0 unresolved; English PASS**
 - `நடுத்தெரு நாராயணி`: **explicitly deferred for separate short-novel handling**
 - no further new short-story transcription remains in this 1997 source.
 
@@ -176,11 +177,25 @@ Current intake state:
 - scan **183**: back cover
 - stories: **16 / 16 physically present**
 - new short stories at intake: **5**
-- completed new-story source processing: **5 / 5 — `காந்தி தேசம்` (13/13 PASS), `அணில் குஞ்சு` (10/10 PASS), `கொள்ளைபுரம்` (9/9 PASS), `எழுத்தாளர் ஏகலைவன்` (12/12 PASS), and `மலரவில்லை` (14/14 PASS); all Tamil audit PASS, visual PASS, 0 unresolved, English not started**
+- completed new-story source processing: **5 / 5 — `காந்தி தேசம்` (13/13 PASS), `அணில் குஞ்சு` (10/10 PASS), `கொள்ளைபுரம்` (9/9 PASS), `எழுத்தாளர் ஏகலைவன்` (12/12 PASS), and `மலரவில்லை` (14/14 PASS); all Tamil audit PASS, visual PASS, 0 unresolved**
 - onboarding phase: **COMPLETE / CLOSED — 5 / 5**
 - remaining new short-story onboarding: **none**
-- scan **64 `சுமந்தவள்`** was used only as the ending boundary witness for `மலரவில்லை`.
-- additional-witness comparison of the eleven pre-existing canonical stories is **deferred** and is not an automatic next step.
+- additional-witness comparison of the eleven pre-existing canonical stories: **COMPLETE / CLOSED — 11 / 11**
+- final comparison ledger: [`collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md`](collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md)
+
+### Supplemental English translation — ACTIVE
+
+Tracker:
+
+- [`NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`](NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md)
+
+Current state:
+
+- six Tamil-complete stories without English at phase start: **6**
+- English PASS: **1 / 6 — `நண்பனா?`**
+- pending: **5 / 6**
+- next exact story: **`காந்தி தேசம்`**
+- the five 2009 new stories remain untranslated at this checkpoint.
 
 ## Completed anthology source / English phase closed
 
