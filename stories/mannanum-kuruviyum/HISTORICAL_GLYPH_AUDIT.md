@@ -2,41 +2,50 @@
 
 Guide: `../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 
-## Scope
+## Current status
 
-- controlling source: 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
-- scan: **5**
-- printed page: **4**
-- status: **PASS**
+**REOPENED / NEEDS REVIEW.**
 
-The complete page was inspected at enlarged resolution. Character identity was determined before Unicode transcription. No global replacement was used.
+The original pass covered scan **5 / printed 4** only. A later physical-boundary review established that the story continues into the **upper portion of scan 6 / printed 5**. Therefore the story-wide historical-glyph PASS is withdrawn until that shared upper span is audited.
 
-## Mandatory 13-family check
+## Scan 5 — PASS
 
-Checked on the complete page:
+The complete scan-5 story span was inspected at enlarged resolution. Character identity was determined before Unicode transcription. No global replacement was used.
+
+Mandatory set checked:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Representative positive occurrences on this page:
+Representative positive scan-5 occurrences:
 
-| Source occurrence | Historical-sensitive identity | Source-supported Unicode | Result |
-|---|---|---|---|
-| `வம்பில்லை` / `இல்லை` / `தேவையில்லை` | `லை` family | `லை` | confirmed |
-| `மன்னனைப்` | `னை` family | `னை` | confirmed |
-| `என்றான்` | `றா` family | `றா` | confirmed |
+| Source occurrence | Historical-sensitive identity | Result |
+|---|---|---|
+| `வம்பில்லை` / `இல்லை` / `தேவையில்லை` | `லை` | confirmed |
+| `மன்னனைப்` | `னை` | confirmed |
+| `என்றான்` | `றா` | confirmed |
 
-The other listed families were checked for possible occurrences / visual confusion and produced no unresolved cluster.
+Scan-5 unresolved glyphs: **0**.
 
-## Same-edition / context policy
+## Upper scan 6 — PENDING
 
-Grammar and expected wording were not used as proof. The page's repeated typeforms and surrounding same-edition letter shapes were used to confirm the above identities. Source wording was otherwise left untouched.
+Direct source inspection confirms that text **above `அரசாபிமானக் கதை` on scan 6 belongs to Story 1**.
+
+Before this span can be verified:
+
+1. transcribe it directly from enlarged source pixels;
+2. check all 13 families explicitly;
+3. compare same-edition forms when doubtful;
+4. preserve wording/spelling/punctuation outside proven glyph decoding;
+5. keep any unresolved cluster `needs-review`.
+
+No 1987 old glyph may be resolved by copying a modern-looking word from context.
 
 ## Separate ordinary correction
 
-The intake title `மன்னனும் குறவியும்.` was corrected to **`மன்னனும் குருவியும்!`** from the enlarged banner. This is **not** recorded as a historical-glyph-family correction because the issue was ordinary title reading/punctuation, not one of the reform-sensitive identities.
+The intake title `மன்னனும் குறவியும்.` → **`மன்னனும் குருவியும்!`** remains an ordinary title-reading/punctuation correction, not a historical-glyph-family change.
 
-## Unresolved
+## Story-wide disposition
 
-**0**.
-
-No page downgrade is required. Historical-glyph gate: **PASS**.
+- scan 5 historical-glyph audit: **PASS**
+- upper scan 6 audit: **PENDING / NEEDS REVIEW**
+- story-wide historical-glyph state: **OPEN**
