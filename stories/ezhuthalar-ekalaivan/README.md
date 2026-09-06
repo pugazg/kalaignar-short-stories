@@ -34,8 +34,18 @@ The boxed two-line opening heading on scan 38, alternating collection/author run
 
 ## English translation
 
-**Not started.** Tamil/source and visual-fidelity gates are PASS; no English layer was created during this onboarding activity.
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/ezhuthalar-ekalaivan.md`](translations/en/ezhuthalar-ekalaivan.md)
+- Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source pages represented: **12 / 12**
+- physical page-anchor alignment: **PASS**
+- Bharathidasan/Bharathi display verse: **preserved**
+- Sivakasi child-labour / interrupted mother-death sequence: **complete**
+- five closing ornaments retained: **Yes**
+- human-recheck queue silently corrected: **No**
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**எழுத்தாளர் ஏகலைவன் Tamil archival source processing and visual fidelity are COMPLETE for scans 38–49 / printed pages 33–44: 12/12 verified, 0 blocked, 0 unresolved story text.**
+**எழுத்தாளர் ஏகலைவன் is source-complete and English-complete for scans 38–49 / printed pages 33–44: Tamil 12/12 verified, visual PASS, English PASS, 0 blocked, 0 unresolved story text.**
