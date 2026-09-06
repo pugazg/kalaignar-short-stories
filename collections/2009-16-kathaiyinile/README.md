@@ -30,22 +30,24 @@ Verified final spans:
 
 ## New short-story onboarding
 
-Intake identified five TOC stories without canonical workspaces. Current processing state:
+Intake identified five TOC stories without canonical workspaces. All five source-first Tamil onboarding passes are now complete:
 
 1. `காந்தி தேசம்` — scans **6–18 / printed 1–13** — **COMPLETE / PASS**; `stories/gandhi-desam/`; 13/13 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 2. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **COMPLETE / PASS**; `stories/anil-kunju/`; 10/10 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 3. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — **COMPLETE / PASS**; `stories/kollaipuram/`; 9/9 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 4. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — **COMPLETE / PASS**; `stories/ezhuthalar-ekalaivan/`; 12/12 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
-5. `மலரவில்லை` — scans **50–63 / printed 45–58** — **IN PROGRESS**; `stories/malaravillai/` activated; exact boundary verified; 14/14 coordinate records created as `needs-review`; verified Tamil pages 0/14; Tamil assembly/audit/visual closure pending; English not started.
+5. `மலரவில்லை` — scans **50–63 / printed 45–58** — **COMPLETE / PASS**; `stories/malaravillai/`; 14/14 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started. Scan **64** opens `சுமந்தவள்` and is boundary evidence only.
 
-New-story source-processing remains **4 / 5 complete**, with **1 / 5 in progress**. Do not count `மலரவில்லை` as PASS until all fourteen page records and the assembled Tamil layer are directly source-verified.
+New-story source-processing is **5 / 5 complete**. This onboarding phase is closed.
 
-Stories 6–16 already have canonical matches; additional-witness comparison is deferred.
+Stories 6–16 already have canonical matches. Additional-witness comparison remains deferred and must not be started merely because onboarding is complete.
 
 ## Preserved source anomaly
 
 The TOC lists `சங்கிலிச்சாமி` at printed page **105**, but physical scan **110** visibly closes the preceding `குப்பைத் தொட்டி` on printed page **105**. `சங்கிலிச்சாமி` begins on scan **111**. This is recorded, not normalized.
 
-## Current exact next activity
+## Current state / stop boundary
 
-Continue **`மலரவில்லை`** only. Fill and directly source-check the fourteen page records for scans **50–63 / printed 45–58**, resolve difficult readings, build the Tamil assembly, close Tamil audit and visual fidelity, and only then synchronize the completed **5 / 5** state. Scan **64**, opening `சுமந்தவள்`, is boundary evidence only. Do not begin `சுமந்தவள்` or additional-witness comparison in this activity.
+The five newly identified short stories from this source are fully onboarded and synchronized. No additional short-story onboarding remains in the 2009 source.
+
+Do **not** automatically begin `சுமந்தவள்`, comparison of the eleven pre-existing canonical stories, or English translation. Those are separate future phases requiring explicit user direction.
