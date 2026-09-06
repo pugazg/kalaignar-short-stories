@@ -14,25 +14,26 @@
 - collection SHA-256: **PENDING** — do not invent while mounted-byte hashing is unavailable
 - source PDF committed to repository: **No**
 
-## Story coordinates
+## Corrected story coordinates
 
 - printed heading: **மன்னனும் குருவியும்!**
-- PDF scan: **5**
-- printed page: **4**
-- physical story span: **scan 5 only**
-- next physical heading: `அரசாபிமானக் கதை`, scan **6 / printed 5**
-- boundary state: **closed / source-confirmed**
+- opening: **scan 5 / printed page 4**
+- corrected physical story span: **scan 5 → upper scan 6 / printed pages 4 → 5**
+- shared-boundary structure on scan 6: Story-1 continuation above; `அரசாபிமானக் கதை` heading/body begins below
+- boundary state: **physically established; exact upper-span text still needs review**
+
+The earlier metadata statement `physical story span: scan 5 only` is withdrawn as an off-by-section-boundary error.
 
 ## Title correction provenance
 
-Initial collection intake recorded `மன்னனும் குறவியும்.` from ordinary preview reading. Enlarged direct source-pixel review of the heading established:
+Initial collection intake recorded `மன்னனும் குறவியும்.`. Enlarged direct source review established:
 
 - source title: **`மன்னனும் குருவியும்!`**
 - lexical correction: `குறவியும்` → `குருவியும்`
 - punctuation correction: `.` → `!`
 
-This is a direct visual source-reading correction, **not** spelling modernization and **not** a historical-reform glyph substitution.
+This remains a direct visual source-reading correction, not spelling modernization and not a historical-reform glyph substitution.
 
 ## Transcription authority
 
-The attached/source scan controls every reading. A secondary transcription or web copy may corroborate but cannot overwrite the scan. Historical Tamil typeforms are decoded under the repository's `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+The attached/source scan controls every reading. Historical Tamil typeforms are decoded under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. The untranscribed upper scan-6 continuation must not be supplied from memory, context or another edition.
