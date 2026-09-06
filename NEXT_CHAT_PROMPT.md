@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — supplemental English / கொள்ளைபுரம்
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — closed checkpoint
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -8,110 +8,54 @@ Fetch live `main` first. Preserve newer durable work. Do not reopen a closed pha
 
 ## Mandatory startup
 
-Read before translation-dependent writes:
+Before any new source- or translation-dependent activity, read:
 
-1. `ENGLISH_TRANSLATION_GUIDE.md`
-2. `SHORT_STORY_PROCESSING_GUIDE.md`
-3. `COLLECTION_SOURCE_GUIDE.md`
+1. `SHORT_STORY_PROCESSING_GUIDE.md`
+2. `COLLECTION_SOURCE_GUIDE.md`
+3. `ENGLISH_TRANSLATION_GUIDE.md`
 4. `HANDOVER.md`
 5. this `NEXT_CHAT_PROMPT.md`
-6. `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`
-7. `collections/2009-16-kathaiyinile/README.md`
-8. `stories/kollaipuram/README.md`
-9. `stories/kollaipuram/sections/kollaipuram.md`
-10. `stories/kollaipuram/indexes/page-map.md`
-11. all `stories/kollaipuram/pages/*.md` records
-12. `stories/kollaipuram/audit.md`
-13. `stories/kollaipuram/POSSIBLE_ERRORS_FOR_REVIEW.md`
-14. `stories/kollaipuram/visual-fidelity.md`
+6. the control/tracker files relevant to the newly authorized activity.
 
-## Closed phases — do not reopen
+## Closed phases — do not reopen automatically
 
 - 1977 canonical anthology: Tamil/visual/English **37/37 PASS**.
 - 2008 collection: Tamil/visual/English **40/40 PASS**.
 - 2004 collection: Tamil/visual/English **34/34 PASS**.
 - 2009 new-story Tamil onboarding: **5/5 COMPLETE / CLOSED**.
 - 2009 existing-canonical additional-witness comparison: **11/11 COMPLETE / CLOSED**.
+- supplemental English translation for the six newly onboarded short stories: **6/6 COMPLETE / CLOSED**.
 
-The 2009 comparison ledger is:
-
-`collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md`
-
-Do not use later-edition witness readings to silently modify canonical 1977 Tamil/English.
-
-## ACTIVE PHASE — supplemental English translation — 3 / 6
-
-This phase covers the six Tamil-complete stories that lacked English when the user authorized the phase.
-
-1. `நண்பனா?` — **PASS**.
-2. `காந்தி தேசம்` — **PASS**.
-3. `அணில் குஞ்சு` — **PASS**.
-4. `கொள்ளைபுரம்` — **NEXT / pending**.
-5. `எழுத்தாளர் ஏகலைவன்` — pending.
-6. `மலரவில்லை` — pending.
+## Supplemental English closure — 6 / 6 PASS
 
 Tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`.
 
-### Completed 1 / 6 — `நண்பனா?`
+1. `நண்பனா?` — **PASS** — `stories/nanbana/translations/en/nanbana.md`.
+2. `காந்தி தேசம்` — **PASS** — `stories/gandhi-desam/translations/en/gandhi-desam.md`.
+3. `அணில் குஞ்சு` — **PASS** — `stories/anil-kunju/translations/en/anil-kunju.md`.
+4. `கொள்ளைபுரம்` — **PASS** — `stories/kollaipuram/translations/en/kollaipuram.md`.
+5. `எழுத்தாளர் ஏகலைவன்` — **PASS** — `stories/ezhuthalar-ekalaivan/translations/en/ezhuthalar-ekalaivan.md`.
+6. `மலரவில்லை` — **PASS** — `stories/malaravillai/translations/en/malaravillai.md`.
 
-- source: 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்`
-- scans **104–106 / printed 94–96**
-- English: `stories/nanbana/translations/en/nanbana.md`
-- review: `stories/nanbana/TRANSLATION_REVIEW.md`
-- translation result: **PASS**
-- physical source-page anchoring: **PASS**
-- Tamil changed during translation: **No**
+All six have story-local `TRANSLATION_REVIEW.md` records with physical source-page anchoring PASS. No canonical Tamil was changed merely to improve English, and no possible-error/recheck item was silently corrected.
 
-### Completed 2 / 6 — `காந்தி தேசம்`
+## 2009 comparison disposition
 
-- source: 2009 `16 கதையினிலே`
-- scans **6–18 / printed 1–13**
-- English: `stories/gandhi-desam/translations/en/gandhi-desam.md`
-- review: `stories/gandhi-desam/TRANSLATION_REVIEW.md`
-- translation result: **PASS**
-- physical source-page anchoring: **PASS — 13/13**
-- Sornambikai letter / telegram / Bombay revelation: **complete**
-- source recheck queue silently corrected: **No**
-- Tamil changed during translation: **No**
+Final ledger:
 
-### Completed 3 / 6 — `அணில் குஞ்சு`
+`collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md`
 
-- source: 2009 `16 கதையினிலே`
-- scans **19–28 / printed 14–23**
-- English: `stories/anil-kunju/translations/en/anil-kunju.md`
-- review: `stories/anil-kunju/TRANSLATION_REVIEW.md`
-- translation result: **PASS**
-- physical source-page anchoring: **PASS — 10/10**
-- public speeches / squirrel-Ramayana account / Ibrahim–Aravamudha argument / hawk ending: **complete**
-- five closing ornaments: **retained**
-- source recheck queue silently corrected: **No**
-- Tamil changed during translation: **No**
+The 11/11 later-edition comparison remains evidence only where the 1977 controlling source would need reopening. Do not silently modify canonical 1977 Tamil/English from 2009 readings.
 
-## CURRENT EXACT ACTIVITY — supplemental English 4 / 6 — `கொள்ளைபுரம்`
+## NO AUTOMATIC NEXT ACTIVITY
 
-Source/canonical coordinates:
+At this checkpoint, all currently authorized short-story work is closed. A future chat must first determine what the user explicitly wants to authorize next.
 
-- source collection: **`16 கதையினிலே`**, Fourth Edition, March 2009
-- source filename: `TVA_BOK_0065745_16_கதையினிலே.pdf`
-- registered SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
-- story: **`கொள்ளைபுரம்`**
-- collection item: **3 / 16**
-- scans: **29–37**
-- printed pages: **24–32**
-- canonical workspace: `stories/kollaipuram/`
-- next-story boundary: scan **38**, opening `எழுத்தாளர் ஏகலைவன்`
+Do **not** automatically begin:
 
-Required procedure:
+- `நடுத்தெரு நாராயணி` — it is reserved for a separate **short-novel** workflow;
+- a 1977 canonical recheck — it requires the exact 1977 controlling PDF plus explicit authorization;
+- another source/collection onboarding — it requires an authorized source/intake decision;
+- additional translation or modernization merely to create work.
 
-1. confirm the Tamil/source and visual-fidelity gates remain PASS and no unresolved story text has appeared on newer live `main`;
-2. read the complete canonical Tamil assembly and every persistent recheck item before translating;
-3. translate the verified Tamil actually preserved in the repository — do not import outside corrections or normalize suspicious Tamil forms;
-4. create `stories/kollaipuram/translations/en/kollaipuram.md` with source-page markers aligned to the actual physical Tamil page transitions;
-5. preserve meaningful dialogue, quotations, display structure, names and source-significant repetition without inserting outside explanation;
-6. create `stories/kollaipuram/TRANSLATION_REVIEW.md` documenting title treatment, difficult choices, marker presence/order and physical content-boundary alignment separately;
-7. if translation exposes a likely Tamil issue, reopen that exact Tamil source span before changing anything; do not correct Tamil from English expectation;
-8. update the story README, 2009 collection controls as relevant, root README, `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and this prompt to **4 / 6 complete**;
-9. re-fetch live `main` and changed controls before declaring closure;
-10. stop before `எழுத்தாளர் ஏகலைவன்` unless the user explicitly expands the batch.
-
-`நடுத்தெரு நாராயணி` remains reserved for separate short-novel handling and is outside this short-story English queue.
+When a new activity is authorized, fetch live `main`, read the relevant controls fully, and continue from the newer durable state.
