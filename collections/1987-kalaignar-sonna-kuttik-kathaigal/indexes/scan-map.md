@@ -1,13 +1,15 @@
 # Scan Map — கலைஞர் சொன்ன குட்டிக் கதைகள் (1987)
 
+`TITLE_GLYPH_REAUDIT_2026-09-06.md` controls story-heading spelling and historical-glyph decoding.
+
 | # | Heading | Authoritative physical scans / span | Source / identity state |
 |---:|---|---|---|
 | 1 | `மன்னனும் குருவியும்!` | scan 5 → upper 6 | **new canonical identity; scan 5 verified; upper 6 lexical/glyph `needs-review`** |
-| 2 | `அரசாபிமானக் கதை` | lower 6 → upper 7 | **existing canonical `ஜாடி குட்டி போடுமா?`; 1987 witness only** |
-| 3 | `தென்னை மரத்தில் புல்` | lower 7 only | **distinct identity PASS; text/glyph closure open** |
-| 4 | `நாராயணு! நாராயணு!` | 8 → 9 → upper 10 | **distinct identity PASS; text/glyph closure open** |
+| 2 | `அராபியக் கதை` | lower 6 → upper 7 | **existing canonical `ஜாடி குட்டி போடுமா?`; 1987 witness only** |
+| 3 | `தென்னை மரத்தில் புல்` | lower 7 only | **distinct identity PASS; title `னை` high-res checked** |
+| 4 | `நாராயணா ! நாராயணா !` | 8 → 9 → upper 10 | **distinct identity PASS; historical `ணா` title decoding confirmed** |
 | 5 | `துறவியும் சீடர்களும்` | lower 10 → 11 → upper 12 | **distinct identity PASS; text/glyph closure open** |
-| 6 | `முல்லை முத்துக்குமரன்` | lower 12 → upper 13 | **distinct identity PASS; text/glyph closure open** |
+| 6 | `மூளி மூக்குக்காரன்` | lower 12 → upper 13 | **distinct identity PASS; corrected high-resolution title** |
 | 7 | `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` | lower 13 → 14 → upper 15 | **distinct identity PASS; not 2004 heaven story** |
 | 8 | `புத்தர் உணர்த்திய உண்மை` | lower 15 → 16 → 17 → upper 18 | **distinct identity PASS; not `சித்தார்த்தன் சிலை`** |
 | 9 | `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்` | lower 18 → 19 → upper 20 | **distinct identity PASS** |
@@ -20,12 +22,12 @@
 | 16 | `குறிக்கோள்` | 31 → upper 32 | **distinct identity PASS** |
 | 17 | `பாலும் தண்ணீரும்` | lower 32 → 33 → upper 34 | **distinct identity PASS** |
 | 18 | `ஜெயத்ரதனின் வீழ்ச்சி` | lower 34 → 35 → 36 → upper 37 | **distinct identity PASS; final span corrected in Batch 03** |
-| 19 | `தெனாலிராமன் கதை` | lower 37 → 38 → upper 39 | **distinct identity PASS; distinct from Story 24** |
+| 19 | `தெனாலிராமன் கதை` | lower 37 → 38 → upper 39 | **distinct identity PASS; distinct from Story 24; `னா` high-res checked** |
 | 20 | `வல்வில் ஓரி` | lower 39 → 40 → upper 41 | **distinct identity PASS** |
 | 21 | `யசோதர காவியம்` | lower 41 → 42 → 43 → upper 44 | **distinct identity PASS; `அமிர்தமதி` hold closed** |
 | 22 | `காடு சென்ற குமணன்` | lower 44 → upper 45 | **distinct identity PASS** |
-| 23 | `அகத்திணை அன்பு!` | lower 45 → upper 46 | **distinct identity PASS** |
-| 24 | `தெனாலிராமன் பூனை` | lower 46 → 47 → upper 48 | **distinct identity PASS; distinct from Story 19** |
+| 23 | `அகத்திணை அன்பு!` | lower 45 → upper 46 | **distinct identity PASS; `ணை` high-res checked** |
+| 24 | `தெனாலிராமன் பூனை` | lower 46 → 47 → upper 48 | **distinct identity PASS; distinct from Story 19; `னா` + `னை` high-res checked** |
 | 25 | `குழந்தையும் கிளியும்` | lower 48 → 49 | **distinct identity PASS** |
 
 ## Whole-source structure
@@ -69,6 +71,15 @@ User-authorized batch size: **15 physical scans per iteration**.
 - Batch 02: scans **21–35** — 15/15 source/structure/identity reviewed.
 - Batch 03: scans **36–50** — 15/15 source/structure/identity reviewed.
 
-The full source/structure/identity layer is now complete. Exact old-type transcription and character-level historical-glyph closure remain `needs-review` where rendered pixels do not support confident certification.
+The full source/structure/identity layer is complete. Heading re-audit is now **25/25 high-resolution PASS**.
+
+## Lexical verification rule
+
+For every page, final lexical/glyph verification requires two distinct passes:
+
+1. initial source-faithful transcription;
+2. a separate native/high-resolution historical-glyph audit across all 13 known families.
+
+A page must not be promoted to final `verified` from Pass 1 alone.
 
 Next lexical/glyph iteration: **scans 5–19 inclusive**.

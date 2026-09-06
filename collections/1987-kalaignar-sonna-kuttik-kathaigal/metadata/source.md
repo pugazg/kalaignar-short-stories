@@ -6,11 +6,9 @@
 - byte size: **107,757,858**
 - PDF scans: **50**
 - source PDF stored in repository: **No**
-- SHA-256: **PENDING**
+- SHA-256: **`29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`**
 
-### SHA-256 hold
-
-The mounted upload was available for visual/file inspection but local byte-execution/hash tools failed in the current session. Do **not** fabricate a checksum and do not substitute an external-file hash merely because the filename appears to match. Compute SHA-256 from this exact uploaded byte stream when local hashing is available, then update this record before calling source registration COMPLETE.
+The checksum was computed directly from the mounted controlling PDF byte stream on 2026-09-06.
 
 ## Printed / catalog identity
 
@@ -25,7 +23,7 @@ The mounted upload was available for visual/file inspection but local byte-execu
 - edition note: **`இது ஒரு மலிவுப் பதிப்பு`**
 - price: **ரூ. 2-00**
 
-The repository should preserve the distinction between the catalog/supplied author identity and the title-page `தொகுப்பு` credit. Do not silently rewrite one into the other.
+Preserve the distinction between the catalog/supplied author identity and the title-page `தொகுப்பு` credit.
 
 ## Physical source map
 
@@ -41,7 +39,15 @@ The repository should preserve the distinction between the catalog/supplied auth
 
 ## Source condition
 
-The scan is legible overall but contains period printing, uneven ink, page wear, occasional marks/stamps and historical Tamil typeforms. Stylized dark title banners are harder to decode than body type on several pages. Five title banners remain on an explicit exact-reading hold at scans **13, 20, 31, 37 and 45**.
+The scan is legible overall but contains period printing, uneven ink, page wear, occasional marks/stamps and historical Tamil typeforms. Stylized dark title banners require enlarged/native-pixel inspection.
+
+A complete high-resolution title re-audit was performed on 2026-09-06. All **25 / 25** story headings are now source-supported; there are **0 title holds**. See `../TITLE_GLYPH_REAUDIT_2026-09-06.md`.
+
+The re-audit corrected three earlier readings:
+
+- Story 2 → `அராபியக் கதை`;
+- Story 4 → `நாராயணா ! நாராயணா !` (`ணா` historical-glyph decoding);
+- Story 6 → `மூளி மூக்குக்காரன்`.
 
 ## Historical-glyph authority
 
@@ -49,12 +55,21 @@ For this source, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory al
 
 Character identity must be decoded from the printed glyph before encoding in modern Unicode. This does **not** authorize modernization of spelling, grammar, vocabulary, punctuation, spacing or sandhi.
 
-Minimum page-level audit families:
+Minimum audit families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+## Mandatory two-pass page verification
+
+For every lexical page:
+
+1. perform the initial source-faithful transcription;
+2. after that transcription, reopen the same page at native/high resolution and perform a separate historical-glyph check across all 13 families.
+
+Final `verified` status requires both passes. A first-pass transcription alone is insufficient.
 
 Same-edition evidence is preferred when a historical form is uncertain. OCR is not an authority for these forms.
 
 ## External corroboration
 
-Public Wikisource/Commons catalog records identify the same title as a **50-page** work by **மு. கருணாநிதி**. That external record is corroboration only; the supplied scan remains controlling for page text, typography, edition details and story boundaries.
+Public catalog records may corroborate identity only. The supplied scan remains controlling for page text, typography, edition details, story headings and boundaries.

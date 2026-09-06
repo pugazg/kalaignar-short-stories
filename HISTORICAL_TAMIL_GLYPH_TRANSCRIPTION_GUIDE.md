@@ -4,10 +4,10 @@
 
 This is a reusable source-first guide for transcribing older Tamil print into modern Unicode without silently changing the source text.
 
-It was created from two kinds of evidence:
+It was created from:
 
 1. the user-supplied Periyar எழுத்துச் சீர்திருத்தம் reference chart; and
-2. transcription failures and corrections encountered during direct scan review in this archive, especially `பெரிய இடத்துப் பெண்` (1953) and the earlier `புதையல்` work.
+2. direct scan-review failures/corrections encountered across this archive, including `பெரிய இடத்துப் பெண்`, `புதையல்`, and the 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` title re-audit.
 
 Use this document for future novels, stories, speeches, essays, poems, letters, newspapers and other older Tamil printed sources whenever historical typeforms may occur.
 
@@ -23,16 +23,16 @@ This is **glyph decoding**, not modernization of the text.
 
 Therefore:
 
-- preserve the source's word, spelling, grammar, vocabulary and punctuation;
+- preserve the source's word, spelling, grammar, vocabulary, spacing and punctuation;
 - convert only the proven historical glyph identity into its correct modern Unicode representation;
 - do not reproduce an old glyph according to the modern character it merely resembles;
 - do not use a historical-glyph finding as permission to rewrite the word into expected modern Tamil.
 
-Example from direct source review:
+Example:
 
-- apparent modern-shape reading `நன்றுக` was wrong;
-- the historical glyph was `றா`;
-- correct Unicode transcription: **`நன்றாக`**.
+- apparent modern-shape reading `நன்றுக`;
+- historical identity `றா`;
+- source-supported Unicode transcription **`நன்றாக`**.
 
 The source wording remains the source wording; only the character identity is decoded correctly.
 
@@ -40,9 +40,9 @@ The source wording remains the source wording; only the character identity is de
 
 # 2. Known Periyar-reform-sensitive forms
 
-The user-supplied reference chart establishes the following minimum set that must be checked explicitly in older print:
+The user-supplied reference chart establishes the following **minimum** set that must be checked explicitly in older print:
 
-| Modern Unicode identity | Example shown in the supplied chart | Audit family |
+| Modern Unicode identity | Example | Audit family |
 |---|---|---|
 | `ணா` | `அண்ணா` | `ணா` |
 | `ணை` | `அணை` | `ணை` |
@@ -58,30 +58,28 @@ The user-supplied reference chart establishes the following minimum set that mus
 | `னொ` | `என்னொடு` | `னொ` |
 | `னோ` | `என்னோடு` | `னோ` |
 
-This is a **minimum known reference set**, not a claim that every historical Tamil typeface has only these ambiguities. Remain alert for other old ligatures, faint vowel marks, worn type, broken ink and edition-specific forms.
+This is not exhaustive. Remain alert for other old ligatures, faint vowel marks, worn type, broken ink, touching characters, edition-specific forms and stylized display lettering.
 
 ---
 
 # 3. Why visual resemblance is dangerous
 
-A modern reader, OCR system or language model may see an old glyph and map it to the closest-looking current glyph. That can create a plausible-looking but false transcription.
+A modern reader, OCR system or language model may map an old glyph to the closest-looking current glyph. That can produce a plausible-looking but false transcription.
 
-Confirmed examples from this archive:
+Confirmed archive examples include:
 
-| Source / scan | Incorrect visual reading | Correct reading | Cause |
+| Source | Incorrect visual reading | Correct reading | Cause |
 |---|---|---|---|
-| `பெரிய இடத்துப் பெண்`, scan 14 | `ஆவிலைக்` | `ஆவலைக்` | historical `லை` identity |
-| `பெரிய இடத்துப் பெண்`, scan 14 | `நின்றூர்` | `நின்றார்` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 16 | `போகிறயே` | `போகிறாயே` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 20 | `நன்றுகத்` | `நன்றாகத்` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 21 | `நன்றுகத்தான்` | `நன்றாகத்தான்` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 24 | `நன்றுக` | `நன்றாக` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 24 | `விழுவேன் என்றுனா?` | `விழுவேன் என்றானா?` | historical `றா` identity |
-| `பெரிய இடத்துப் பெண்`, scan 25 | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | historical `னா` identity |
+| `பெரிய இடத்துப் பெண்` | `ஆவிலைக்` | `ஆவலைக்` | historical `லை` |
+| `பெரிய இடத்துப் பெண்` | `நின்றூர்` | `நின்றார்` | historical `றா` |
+| `பெரிய இடத்துப் பெண்` | `போகிறயே` | `போகிறாயே` | historical `றா` |
+| `பெரிய இடத்துப் பெண்` | `நன்றுக` | `நன்றாக` | historical `றா` |
+| `பெரிய இடத்துப் பெண்` | `வேலை மட்டுந்தானு?` | `வேலை மட்டுந்தானா?` | historical `னா` |
+| 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`, Story 4 heading | `நாராயணு! நாராயணு!` | `நாராயணா ! நாராயணா !` | historical `ணா`; source punctuation spacing also preserved |
 
-A different but related failure occurred in `புதையல்`: a faint/old `லை` could look like bare `ல்`, which tempted shortening such as `தெரியவில்லை` → `தெரியவில்ல`. High-resolution review showed that such apparent shortening could be an old/faint glyph effect rather than actual wording.
+A related failure in `புதையல்` showed that a faint/old `லை` may look like bare `ல்`, tempting a false shortening.
 
-The lesson is broader than any one letter:
+The lesson:
 
 > **Never infer character identity from ordinary-zoom appearance alone.**
 
@@ -91,38 +89,64 @@ The lesson is broader than any one letter:
 
 For every page from a potentially historical Tamil edition:
 
-1. **Inspect the whole page first.** Understand the typeface, ink quality, damage, bleed-through and repeated glyph behaviour.
-2. **Use enlarged/native pixels.** Do not decide a difficult glyph from a thumbnail or OCR text.
-3. **Check all 13 known reform-sensitive forms.** Do this even when the page appears easy.
-4. **Read the complete glyph cluster.** Do not isolate only the final curl, loop or vowel mark.
-5. **Compare same-edition evidence.** If a form is unclear, find a clearer occurrence of the same letter family in the same source edition.
-6. **Separate glyph identity from lexical expectation.** Grammar and expected wording can suggest where to look, but they are not proof.
-7. **Encode the proven identity in modern Unicode.** The canonical Markdown should contain the correct character identity, not a visual imitation of the old metal-type shape.
-8. **Preserve everything else.** Do not modernize spelling, sandhi, punctuation, vocabulary or grammar.
-9. **If still ambiguous, do not guess.** Keep the page `needs-review` and record the unresolved cluster.
-10. **Never global-replace.** Every occurrence must be checked on its own source pixels.
+1. inspect the whole page first;
+2. understand typeface, ink, damage, bleed-through, stamps and repeated glyph behaviour;
+3. use enlarged/native pixels for difficult characters;
+4. check all 13 known reform-sensitive families;
+5. read the complete glyph cluster, not only one curl/loop/vowel mark;
+6. compare clearer same-edition occurrences when uncertain;
+7. separate glyph identity from lexical expectation;
+8. encode only the positively supported identity in modern Unicode;
+9. preserve spelling, grammar, sandhi, compounds, spacing, vocabulary and punctuation otherwise;
+10. if still ambiguous, keep `needs-review`;
+11. never global-replace.
 
 ---
 
-# 5. Glyph decoding is not spelling correction
+# 5. Mandatory two-pass verification — NEW PERMANENT RULE
 
-These two operations must remain separate.
+Initial transcription and historical-glyph closure are **separate passes**.
 
-## Allowed
+## Pass 1 — initial transcription
 
-If the source uses an old form representing `றா`, encode `றா` in Unicode.
+- transcribe directly from the controlling scan;
+- preserve source wording and physical boundaries;
+- decode obvious historical identities where positively supported;
+- record uncertain clusters explicitly;
+- do not claim final glyph closure merely because the paragraph reads plausibly.
 
-Example:
+## Pass 2 — independent native/high-resolution glyph audit
 
-- apparent shape: `நன்றுக`
-- source character identity: `நன்றாக`
-- canonical transcription: `நன்றாக`
+**After Pass 1 transcription exists, reopen the same physical page at native/high resolution and perform a separate glyph-focused review.**
 
-## Not allowed
+During Pass 2:
 
-Do not change a source word merely because modern Tamil would normally be written differently.
+1. explicitly recheck `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+2. search the transcribed page for words containing or plausibly containing those families;
+3. compare each suspicious form against the actual high-resolution source cluster;
+4. compare same-edition/same-font examples where useful;
+5. verify full words, phrases and neighboring characters rather than isolated strokes;
+6. record every correction as apparent/earlier reading → source-supported reading → historical family;
+7. never global-replace even when the same visual pattern recurs;
+8. if a cluster remains uncertain, retain `needs-review`.
 
-Examples of things that must remain source-faithful unless the pixels prove otherwise:
+> **A page may not be promoted to final `verified` from Pass 1 alone. Pass 2 must also close.**
+
+This rule applies even when the first transcription was already performed at enlarged resolution. The second pass is intentionally independent so that transcription momentum/context does not hide a systematic old-glyph error.
+
+---
+
+# 6. Glyph decoding is not spelling correction
+
+Allowed:
+
+- source old form represents `றா` → encode `றா`.
+
+Not allowed:
+
+- changing a word because modern Tamil would normally be written differently.
+
+Preserve unless the source pixels prove otherwise:
 
 - old spelling;
 - unusual sandhi;
@@ -133,106 +157,125 @@ Examples of things that must remain source-faithful unless the pixels prove othe
 - unusual punctuation;
 - period-specific compounds and spacing.
 
-A historical-glyph correction changes **character identity only**. A separate lexical/source-text correction requires its own positive scan evidence and should be recorded separately in the audit.
+A historical-glyph correction changes **character identity only**. A lexical correction requires separate positive scan evidence.
 
 ---
 
-# 6. Same-edition comparison method
+# 7. Same-edition comparison method
 
 When a glyph is uncertain:
 
-1. identify its consonant/vowel family;
-2. locate a clearer instance of that family elsewhere in the same book or issue;
+1. identify the likely consonant/vowel family;
+2. locate clearer instances in the same book/issue/font;
 3. compare stroke direction, loop placement, vowel-mark attachment and surrounding spacing;
-4. prefer same-font/same-edition evidence over a generic internet chart when resolving the actual scan;
+4. prefer same-edition evidence over a generic chart;
 5. use the reform chart to identify candidate families, not to force a reading.
 
-A chart tells you **what old-form families can exist**. The scan tells you **which one is actually printed here**.
+A chart tells you what forms can exist. The scan tells you what is printed here.
 
 ---
 
-# 7. OCR policy
+# 8. OCR policy
 
 OCR may be used only as a discovery aid.
 
-Do not trust OCR for historical Tamil glyph identity because OCR can:
+Do not trust OCR for historical Tamil glyph identity because it may:
 
 - map an old glyph to the closest-looking modern character;
 - drop faint vowel marks;
-- merge neighboring characters;
-- split one historical ligature into multiple modern characters;
+- merge neighbors;
+- split one historical ligature;
 - normalize a rare source form into a common word.
 
-For any difficult or reform-sensitive cluster, the controlling authority is the source image.
+The controlling authority is the source image.
 
 ---
 
-# 8. Recommended canonical page note
+# 9. Difficult-reading escalation
 
-Each page record may include a short audit block such as:
+Before leaving story text terminally unresolved:
+
+1. inspect native embedded scan image if available;
+2. use progressively enlarged crops;
+3. compare nearest-neighbour and high-quality resampling;
+4. try non-destructive contrast/gamma/sharpening/grayscale variants;
+5. distinguish stamp/seal strokes from print strokes where relevant;
+6. compare same-font characters elsewhere on the page/work;
+7. inspect page-boundary continuation and split words;
+8. verify any user-supplied reading against source pixels;
+9. use an independent secondary witness only as provenance-aware corroboration;
+10. never silently import secondary-witness wording.
+
+`blocked` should be terminal only when the physical source and documented corroboration cannot recover a defensible reading.
+
+---
+
+# 10. Recommended page record note
 
 ```markdown
-## Historical-glyph first-pass notes
+## Historical-glyph audit
 
-- complete page inspected at enlarged/high resolution;
-- checked the full known set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- representative source occurrences: `<word>` (`<family>`), `<word>` (`<family>`);
-- character identities were decoded before transcription;
-- no global replacement or spelling modernization was used;
-- page remains `needs-review` unless the project verification policy explicitly permits closure.
+### Pass 1 — initial transcription
+- source-faithful transcription completed / partial;
+- uncertainty recorded explicitly;
+- no global replacement or modernization.
+
+### Pass 2 — native/high-resolution glyph check
+- complete page reopened at high resolution;
+- checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences: `<word>` (`<family>`);
+- same-edition comparisons used where needed;
+- corrections recorded individually;
+- remaining unresolved clusters: `<count/list>`;
+- final status: `needs-review` / `verified`.
 ```
 
-If a correction is made, record it explicitly:
+If a correction is made:
 
 ```markdown
 - apparent/earlier reading: `...`
 - source-supported Unicode reading: `...`
 - historical identity: `றா`
-- evidence: direct enlarged source-pixel comparison
+- evidence: native/high-resolution source-pixel comparison
 ```
 
 ---
 
-# 9. Recommended work-level audit table
+# 11. Recommended work-level audit table
 
 ```markdown
-| Scan | Printed page | Earlier/apparent reading | Source-supported reading | Historical family | Evidence | Status |
-|---:|:---:|---|---|---|---|---|
-| 24 | 23 | `நன்றுக` | `நன்றாக` | `றா` | enlarged source scan | needs-review |
+| Scan | Printed page | Pass | Earlier/apparent reading | Source-supported reading | Historical family | Evidence | Status |
+|---:|:---:|---|---|---|---|---|---|
+| 24 | 23 | high-res second pass | `நன்றுக` | `நன்றாக` | `றா` | native scan | needs-review |
 ```
 
-Keep historical-glyph corrections separate from ordinary transcription corrections. This makes later review much easier.
+Keep historical-glyph corrections separate from ordinary lexical corrections.
 
 ---
 
-# 10. Decision tree for a doubtful cluster
+# 12. Decision tree
 
 ```text
-Difficult Tamil glyph
+Initial transcription
         |
         v
-Inspect native/enlarged source pixels
+Separate native/high-resolution second pass
         |
         v
-Does it match one of the known 13 historical families?
-       / \
-     yes  no/unclear
-      |       |
-      v       v
-Compare     Check same-edition
-same-page   and same-font examples
-examples       |
-      \       /
-       v     v
+Check all 13 known families + suspicious clusters
+        |
+        v
+Compare same-edition forms if needed
+        |
+        v
 Is character identity positively supported?
        / \
      yes  no
       |    |
       v    v
 Encode      Keep `needs-review`;
-modern      do not guess from context
+correct     do not guess from context
 Unicode
-identity
       |
       v
 Preserve source wording unchanged
@@ -240,57 +283,62 @@ Preserve source wording unchanged
 
 ---
 
-# 11. Page breaks and historical glyphs are separate problems
+# 13. Page breaks and glyphs are separate problems
 
-Do not mix these decisions.
+A word may be physically split across lines/pages while also containing an old glyph. Resolve independently:
 
-A word may be physically split across lines or pages while also containing an old glyph. Resolve them independently:
+- determine character identity from the printed glyph;
+- separately record physical boundary;
+- join fragments only in an assembled layer when the join is positively established and provenance remains reversible.
 
-- first determine the correct character identity from the printed glyph;
-- separately record the physical page/line boundary;
-- join cross-page fragments only in an assembled reading layer when the join is positively established and provenance remains reversible.
-
-Do not use a likely cross-page word to force an uncertain glyph reading.
+Do not use a likely cross-page word to force an uncertain glyph.
 
 ---
 
-# 12. Verification policy
-
-A historical-glyph pass can be complete without calling a page `verified`.
+# 14. Verification policy
 
 Recommended states:
 
-- `not-started` — no canonical transcription yet;
+- `not-started` — no transcription;
 - `partial` — transcription incomplete;
-- `needs-review` — canonical text exists but project policy or unresolved questions prevent verification;
-- `verified` — only when the project's explicit visual-verification gate has been satisfied;
-- `blocked` — source evidence is unavailable or physically insufficient.
+- `needs-review` — text exists but one or more verification gates remain open;
+- `verified` — source transcription **and** independent high-resolution glyph second pass both closed under project policy;
+- `blocked` — source evidence genuinely unavailable/insufficient after escalation.
 
-If a project discovers a systematic glyph error after pages were previously called verified, reopen the affected coverage to `needs-review` and perform a retrospective source-pixel audit.
+If a systematic glyph error is discovered after pages were called verified, reopen affected coverage to `needs-review` and perform a retrospective high-resolution audit.
 
 ---
 
-# 13. Reusable startup checklist for future works
+# 15. Reusable startup / closure checklist
 
-Before transcribing a new older Tamil source:
+Before transcribing:
 
 - [ ] identify publication/edition and scan condition;
-- [ ] inspect several representative pages before bulk transcription;
-- [ ] determine whether historical Tamil typeforms are present;
-- [ ] keep this 13-form reference available;
-- [ ] record a project-specific historical-glyph policy in the work README/audit;
-- [ ] transcribe from source pixels, not OCR authority;
-- [ ] inspect difficult clusters at enlarged/native resolution;
+- [ ] inspect representative pages;
+- [ ] determine whether historical typeforms occur;
+- [ ] keep the 13-form reference available;
+- [ ] record project-specific glyph policy;
+- [ ] transcribe from source pixels, not OCR authority.
+
+After initial transcription of each page:
+
+- [ ] reopen the same page at native/high resolution;
+- [ ] perform the independent 13-family second pass;
 - [ ] compare same-edition examples when uncertain;
-- [ ] encode correct modern Unicode identity only;
-- [ ] preserve source spelling/grammar/punctuation;
-- [ ] record each correction with scan provenance;
+- [ ] record every correction with scan provenance;
+- [ ] preserve source spelling/grammar/punctuation/spacing;
 - [ ] avoid global replacements;
 - [ ] leave unresolved pages `needs-review`;
-- [ ] complete a work-level historical-glyph audit before release or translation.
+- [ ] only then consider `verified`.
+
+Before release/translation:
+
+- [ ] complete work-level historical-glyph audit;
+- [ ] confirm zero unexamined historical-family candidates;
+- [ ] confirm every `verified` page has evidence of the second high-resolution pass.
 
 ---
 
-# 14. Short rule to remember
+# 16. Short rule to remember
 
-> **Old shape ≠ modern look-alike. Identify the historical Tamil character first; then encode that identity in modern Unicode, while leaving the source wording untouched.**
+> **Old shape ≠ modern look-alike. Transcribe first, then independently re-open the page at high resolution and prove the historical character identity before final verification.**

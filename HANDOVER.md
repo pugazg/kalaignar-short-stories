@@ -24,6 +24,15 @@ Always fetch live `main` first and preserve newer durable state.
 - never global-replace historical-looking forms;
 - source PDFs are not committed.
 
+## New mandatory two-pass historical-glyph rule
+
+For every potentially historical Tamil page:
+
+1. **Pass 1 — initial transcription:** transcribe directly from the controlling scan, preserving source wording/spelling/grammar/spacing/punctuation and marking uncertainty honestly.
+2. **Pass 2 — independent high-resolution glyph check:** after Pass 1 exists, reopen the same physical page at native/high resolution and recheck all 13 known historical families: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Final `verified` status requires both passes. A first-pass transcription alone is never enough.
+
 ## Closed phases — preserve
 
 - 1977 — Tamil/visual/English **37/37 PASS**.
@@ -43,15 +52,29 @@ Source identity:
 
 - scans: **50**
 - size: **107,757,858 bytes**
+- SHA-256: **`29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`**
 - publisher: **செல்வகுமார் பதிப்பகம்**, மதுரை
 - first edition: **1984**
 - represented edition: **இரண்டாம் பதிப்பு — 1987**
-- headings: **25 / 25 exact**
-- SHA-256: **PENDING**; do not invent it.
+- headings: **25 / 25 native/high-resolution PASS**
 
-## USER-DIRECTED BATCHING — 15 PHYSICAL SCANS PER ITERATION
+## Title / historical-glyph re-audit — authoritative
 
-The source/structure/canonical-identity review phase is now complete:
+A complete high-resolution heading re-audit was completed on **2026-09-06**.
+
+Three earlier title readings were corrected:
+
+- Story 2: `அரசாபிமானக் கதை` → **`அராபியக் கதை`**;
+- Story 4: `நாராயணு! நாராயணு!` → **`நாராயணா ! நாராயணா !`** — historical `ணா` decoding; source punctuation spacing preserved;
+- Story 6: `முல்லை முத்துக்குமரன்` → **`மூளி மூக்குக்காரன்`**.
+
+No other heading changed. Sensitive forms in `தென்னை`, `தெனாலிராமன்`, `அகத்திணை`, and `பூனை` were explicitly rechecked at high resolution.
+
+Durable record: `collections/1987-kalaignar-sonna-kuttik-kathaigal/TITLE_GLYPH_REAUDIT_2026-09-06.md`.
+
+## User-directed batching — 15 physical scans per iteration
+
+Source/structure/canonical-identity review is complete:
 
 - Batch 01: **6–20** — COMPLETE.
 - Batch 02: **21–35** — COMPLETE.
@@ -69,7 +92,7 @@ The same 15-page rule now applies to lexical/historical-glyph closure.
 
 ### Existing-canonical witnesses — 2
 
-- Story 2 `அரசாபிமானக் கதை` → canonical `ஜாடி குட்டி போடுமா?`; 1987 witness only; lower 6 → upper 7.
+- Story 2 **`அராபியக் கதை`** → canonical `ஜாடி குட்டி போடுமா?`; 1987 witness only; lower 6 → upper 7.
 - Story 11 `குருவி ராமேஸ்வரம்` → canonical 2004 story; 1987 witness only; lower 23 → upper 24.
 
 No controlling canonical Tamil/English is changed from these witnesses.
@@ -78,62 +101,34 @@ No controlling canonical Tamil/English is changed from these witnesses.
 
 Story 1; Stories 3–10; Stories 12–25.
 
-Resolved collision checks:
+Resolved collision checks remain closed:
 
 - Story 7 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` ≠ 2004 `சொர்க்கத்திற்கு வந்தது எப்படி?`.
 - Story 8 `புத்தர் உணர்த்திய உண்மை` ≠ 1977 `சித்தார்த்தன் சிலை`.
 - Story 14 `புகழேந்திப் புலவர் கதை` ≠ 1977 `புகழேந்தி`.
-- Story 21 `யசோதர காவியம்` ≠ canonical `அமிர்தமதி`; the latter is a separate literary-theft story containing Yashodhara material as embedded source/adaptation.
+- Story 21 `யசோதர காவியம்` ≠ canonical `அமிர்தமதி`.
 - Story 19 `தெனாலிராமன் கதை` ≠ Story 24 `தெனாலிராமன் பூனை`.
 
 Unresolved identity holds: **0**.
 
-## Final Batch-03 authoritative boundaries
+## Current lexical phase / exact next activity
 
-- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: lower **34 → 35 → 36 → upper 37**.
-- Story 19 `தெனாலிராமன் கதை`: lower **37 → 38 → upper 39**.
-- Story 20 `வல்வில் ஓரி`: lower **39 → 40 → upper 41**.
-- Story 21 `யசோதர காவியம்`: lower **41 → 42 → 43 → upper 44**.
-- Story 22 `காடு சென்ற குமணன்`: lower **44 → upper 45**.
-- Story 23 `அகத்திணை அன்பு!`: lower **45 → upper 46**.
-- Story 24 `தெனாலிராமன் பூனை`: lower **46 → 47 → upper 48**.
-- Story 25 `குழந்தையும் கிளியும்`: lower **48 → 49**.
-- scan **50**: terminal blank/damaged rear leaf; no story continuation.
+Continue **Lexical/Glyph Batch L1 — scans 5–19 inclusive = 15 physical scans**.
 
-Do not revert to intake shorthand ranges.
+Authoritative routing in this range:
 
-## Historical-glyph status
+- Story 1 `மன்னனும் குருவியும்!`: scan 5 → upper 6;
+- Story 2 `அராபியக் கதை`: lower 6 → upper 7 — existing-canonical witness only;
+- Story 3 `தென்னை மரத்தில் புல்`: lower 7 only;
+- Story 4 `நாராயணா ! நாராயணா !`: 8 → 9 → upper 10;
+- Story 5 `துறவியும் சீடர்களும்`: lower 10 → 11 → upper 12;
+- Story 6 `மூளி மூக்குக்காரன்`: lower 12 → upper 13;
+- Story 7 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`: lower 13 → 14 → upper 15;
+- Story 8 `புத்தர் உணர்த்திய உண்மை`: lower 15 → 16 → 17 → upper 18;
+- Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`: lower 18 → 19 → continues upper 20.
 
-Mandatory families:
+For every physical page: complete Pass 1 initial transcription, then complete Pass 2 independent native/high-resolution glyph audit before final `verified` status.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-All three source-review batches used this checklist. The available rendered pages support headings, shared boundaries, illustrations and narrative identity, but do not justify release-level transcription of every small old-type body-text character.
-
-Therefore:
-
-- source/structure review: **COMPLETE for the full 1987 collection**;
-- canonical-identity routing: **25 / 25 COMPLETE**;
-- exact lexical / character-level historical-glyph closure: **OPEN** where pixels remain insufficient;
-- no global replacement;
-- no silent modernization;
-- no wording imported from another edition to fill uncertain 1987 text.
-
-## CURRENT STATE / EXACT NEXT ACTIVITY
-
-Begin the **Tamil lexical + historical-glyph closure phase** while retaining the user's 15-page rule.
-
-### Next iteration — scans 5–19 inclusive
-
-1. inspect/transcribe the 15 physical scans **5–19** using the authoritative story boundaries;
-2. apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` to every page and every candidate in all 13 families;
-3. preserve source wording, spelling, punctuation and historical character identity;
-4. create/update story-local page records, sections, audits and witness layers only where exact source text is supportable;
-5. keep unresolved clusters `needs-review` instead of guessing from grammar or another edition;
-6. Story 2 remains an additional witness for canonical `ஜாடி குட்டி போடுமா?`;
-7. do not modify closed canonical Tamil/English merely to match this 1987 printing;
-8. do not begin English.
-
-After scans 5–19, continue lexical/glyph closure in the same 15-page pattern.
+English remains unauthorized.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.

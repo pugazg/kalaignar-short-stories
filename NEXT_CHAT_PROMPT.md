@@ -12,7 +12,12 @@ Collection: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
 Controlling PDF: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 
-Source identity: **50 scans / 107,757,858 bytes / Second Edition 1987**. SHA-256 remains **PENDING** if byte hashing is unavailable.
+Source identity:
+
+- **50 scans**
+- **107,757,858 bytes**
+- Second Edition **1987**
+- SHA-256 **`29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`**
 
 ## Mandatory startup
 
@@ -24,94 +29,104 @@ Read completely before source-dependent writes:
 4. `HANDOVER.md`
 5. this `NEXT_CHAT_PROMPT.md`
 6. collection `README.md`
-7. collection `DUPLICATE_AUDIT.md`
-8. collection `indexes/story-inventory.md`
-9. collection `indexes/scan-map.md`
-10. `BATCH_0001_SCANS_0006_0020.md`
-11. `BATCH_0002_SCANS_0021_0035.md`
-12. `BATCH_0003_SCANS_0036_0050.md`
-13. relevant story-local canonical/witness controls for any page being written.
+7. collection `TITLE_GLYPH_REAUDIT_2026-09-06.md`
+8. collection `DUPLICATE_AUDIT.md`
+9. collection `indexes/story-inventory.md`
+10. collection `indexes/scan-map.md`
+11. `BATCH_0001_SCANS_0006_0020.md`
+12. `BATCH_0002_SCANS_0021_0035.md`
+13. `BATCH_0003_SCANS_0036_0050.md`
+14. relevant story-local canonical/witness controls for any page being written.
 
-Attach/resolve the exact 1987 PDF before visual work.
+Resolve the exact 1987 PDF before visual work.
 
 ## SOURCE / STRUCTURE / IDENTITY PHASE — CLOSED
 
-All three 15-page source-review batches are complete:
-
-- scans 6–20 — COMPLETE;
-- scans 21–35 — COMPLETE;
-- scans 36–50 — COMPLETE.
-
-Canonical-identity routing is **25 / 25 COMPLETE**:
+All three 15-page source-review batches are complete. Canonical-identity routing is **25 / 25 COMPLETE**:
 
 - **23 distinct 1987 identities** — Story 1; Stories 3–10; Stories 12–25;
-- **2 existing-canonical witnesses only** — Story 2 `அரசாபிமானக் கதை` → `ஜாடி குட்டி போடுமா?`, Story 11 `குருவி ராமேஸ்வரம்` → existing 2004 canonical story;
+- **2 existing-canonical witnesses only** — Story 2 `அராபியக் கதை` → `ஜாடி குட்டி போடுமா?`, Story 11 `குருவி ராமேஸ்வரம்` → existing 2004 canonical story;
 - unresolved identity holds: **0**.
 
-Resolved collisions include:
+## AUTHORITATIVE TITLE RE-AUDIT — DO NOT REVERT
 
-- `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` ≠ 2004 `சொர்க்கத்திற்கு வந்தது எப்படி?`;
-- `புத்தர் உணர்த்திய உண்மை` ≠ 1977 `சித்தார்த்தன் சிலை`;
-- `புகழேந்திப் புலவர் கதை` ≠ 1977 `புகழேந்தி`;
-- `யசோதர காவியம்` ≠ canonical `அமிர்தமதி`;
-- `தெனாலிராமன் கதை` ≠ `தெனாலிராமன் பூனை`.
+A native/high-resolution re-audit of all **25 / 25** headings was completed on 2026-09-06 under the historical-glyph guide.
 
-Do not reopen these identity decisions unless new controlling evidence appears.
+Three earlier readings were wrong:
+
+- Story 2: **`அராபியக் கதை`** — not `அரசாபிமானக் கதை`;
+- Story 4: **`நாராயணா ! நாராயணா !`** — not `நாராயணு! நாராயணு!`; this is historical `ணா`, with source spacing before `!` preserved;
+- Story 6: **`மூளி மூக்குக்காரன்`** — not `முல்லை முத்துக்குமரன்`.
+
+Historical title forms also explicitly high-res checked:
+
+- Story 3 `தென்னை மரத்தில் புல்` — `னை`;
+- Story 19 `தெனாலிராமன் கதை` — `னா`;
+- Story 23 `அகத்திணை அன்பு!` — `ணை`;
+- Story 24 `தெனாலிராமன் பூனை` — `னா` + `னை`.
+
+`TITLE_GLYPH_REAUDIT_2026-09-06.md` is authoritative over older batch text.
 
 ## USER-DIRECTED BATCH RULE
 
 Continue with **15 physical source scans per iteration**.
 
-The next phase is exact Tamil lexical transcription + historical-glyph closure.
-
 ### Lexical/Glyph Batch L1
 
 Process **scans 5–19 inclusive = 15 physical scans**.
 
-Use the authoritative shared boundaries from `indexes/scan-map.md`; do not assume one story per scan.
-
-Relevant physical routing in this range:
+Authoritative routing:
 
 - Story 1 `மன்னனும் குருவியும்!`: scan 5 → upper 6;
-- Story 2 `அரசாபிமானக் கதை`: lower 6 → upper 7 — existing canonical witness only;
+- Story 2 `அராபியக் கதை`: lower 6 → upper 7 — existing canonical witness only;
 - Story 3 `தென்னை மரத்தில் புல்`: lower 7 only;
-- Story 4 `நாராயணு! நாராயணு!`: 8 → 9 → upper 10;
+- Story 4 `நாராயணா ! நாராயணா !`: 8 → 9 → upper 10;
 - Story 5 `துறவியும் சீடர்களும்`: lower 10 → 11 → upper 12;
-- Story 6 `முல்லை முத்துக்குமரன்`: lower 12 → upper 13;
+- Story 6 `மூளி மூக்குக்காரன்`: lower 12 → upper 13;
 - Story 7 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`: lower 13 → 14 → upper 15;
 - Story 8 `புத்தர் உணர்த்திய உண்மை`: lower 15 → 16 → 17 → upper 18;
 - Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`: lower 18 → scan 19 → continues upper 20 outside this batch.
 
-Scan 20 may be reopened in the next iteration as boundary context; do not exceed the user-directed 15 new scans unless needed only for a boundary check.
+## MANDATORY TWO-PASS HISTORICAL-GLYPH WORKFLOW
 
-## Historical-glyph rule — mandatory
+Every physical page must be handled in two separate rounds.
 
-For every reviewed 1987 text span explicitly check:
+### Pass 1 — initial transcription
+
+- transcribe directly from the controlling 1987 scan;
+- preserve source spelling, grammar, compounds, spacing, punctuation and page boundaries;
+- decode historical character identity where positively supported;
+- unresolved clusters remain `needs-review`;
+- never borrow wording from another edition.
+
+### Pass 2 — separate native/high-resolution glyph audit
+
+**Only after Pass 1 transcription exists**, reopen the same physical page at native/high resolution and independently recheck:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Rules:
+During Pass 2:
 
-- character identity first; modern Unicode encoding second;
-- preserve source wording, spelling, compounds, grammar and punctuation otherwise;
-- compare same-edition forms for doubtful typeforms;
+- compare suspicious forms with clearer same-edition examples;
+- verify complete words/phrases, not isolated visual curls;
+- record every apparent/earlier reading → source-supported Unicode correction;
 - never global-replace;
-- never infer a word merely because grammar or another edition makes it likely;
-- keep unresolved clusters `needs-review`;
-- another edition may corroborate but may not overwrite the 1987 source layer.
+- do not use grammar or another edition as proof;
+- if uncertainty remains, keep `needs-review`.
+
+**A page cannot be final `verified` from Pass 1 alone. Pass 2 must close.**
 
 ## EXACT NEXT ACTIVITY
 
 1. process scans **5–19** whole-page-by-whole-page;
-2. transcribe exact Tamil only where the source pixels support character identity;
-3. run the full 13-family historical-glyph audit on every page;
-4. create/update story-local page records, section assembly, audit and visual/source status only where supportable;
-5. close Story 1 upper scan 6 only if exact source verification succeeds;
-6. write Story 2 into its **1987 witness layer only**; do not change canonical `ஜாடி குட்டி போடுமா?` merely from this printing;
-7. create new canonical story workspaces for distinct identities only when defensible exact source text is available — do not create empty/low-confidence placeholders;
-8. record unresolved text honestly as `needs-review`;
-9. update a lexical/glyph batch ledger and synchronize collection controls, `HANDOVER.md`, and this prompt;
-10. English remains unauthorized.
+2. complete Pass 1 transcription for every source span that can be read defensibly;
+3. immediately follow with Pass 2 native/high-resolution glyph audit for those same pages;
+4. create/update story-local page records, sections, audits and witness layers only with source-supported text;
+5. Story 2 belongs only in the **1987 witness layer** for `ஜாடி குட்டி போடுமா?`;
+6. do not create empty/low-confidence canonical folders merely because an identity is distinct;
+7. record unresolved text honestly as `needs-review`;
+8. update lexical/glyph batch ledger plus collection controls, `HANDOVER.md`, and this prompt;
+9. English remains unauthorized.
 
 Closed 1977/2008/2004/2009 phases remain untouched.
 

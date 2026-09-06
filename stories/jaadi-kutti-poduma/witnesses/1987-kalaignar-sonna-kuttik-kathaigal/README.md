@@ -1,8 +1,10 @@
-# Additional source witness — `அரசாபிமானக் கதை` — 1987
+# Additional source witness — `அராபியக் கதை` — 1987
 
 This directory records the 1987 **`கலைஞர் சொன்ன குட்டிக் கதைகள்`** witness for the already-canonical story **`ஜாடி குட்டி போடுமா?`**.
 
-The 1987 source uses the alternate heading **`அரசாபிமானக் கதை`**. Direct narrative comparison establishes that it is the same jar-borrowing / jar-gives-birth / jar-dies anecdote represented canonically under `stories/jaadi-kutti-poduma/`.
+A native/high-resolution title re-audit on 2026-09-06 corrected the earlier witness-heading misread `அரசாபிமானக் கதை` to the controlling source reading **`அராபியக் கதை`**.
+
+Direct narrative comparison still establishes that this is the same jar-borrowing / jar-gives-birth / jar-dies anecdote represented canonically under `stories/jaadi-kutti-poduma/`.
 
 ## Witness identity
 
@@ -14,8 +16,8 @@ The 1987 source uses the alternate heading **`அரசாபிமானக் 
 - source filename: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 - collection scans: **50**
 - collection byte size: **107,757,858**
-- collection SHA-256: **PENDING** — do not invent while byte hashing remains unavailable
-- 1987 heading: **`அரசாபிமானக் கதை`**
+- collection SHA-256: **`29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`**
+- 1987 heading: **`அராபியக் கதை`**
 - physical span: **lower scan 6 / printed page 5 → upper scan 7 / printed page 6**
 - next-story boundary: `தென்னை மரத்தில் புல்` opens below the Story-2 continuation on scan **7 / printed 6**
 
@@ -37,12 +39,19 @@ The 2008 canonical Tamil and English remain unchanged. This 1987 source is an **
 
 - physical identity / story boundary: **PASS**
 - narrative-identity comparison: **PASS**
+- high-resolution witness-title check: **PASS — `அராபியக் கதை`**
 - exact line-by-line 1987 transcription: **NEEDS REVIEW / not yet complete**
-- 1987 historical-glyph 13-family audit: **NEEDS REVIEW**
+- 1987 historical-glyph lexical closure: **NEEDS REVIEW**
 - canonical 2008 Tamil changed: **No**
 - canonical 2008 English changed: **No**
-- canonical verified statuses changed: **No**
 
-See `VARIANT_COMPARISON.md` and `HISTORICAL_GLYPH_AUDIT.md`.
+## Mandatory two-pass lexical verification
 
-No 1987 wording may be imported into the canonical 2008 layer merely because this witness is earlier or appears clearer.
+Every witness page requires:
+
+1. initial source-faithful transcription;
+2. a separate native/high-resolution historical-glyph audit after that transcription.
+
+Final `verified` status requires both passes. No 1987 wording may be imported into the canonical 2008 layer merely because this witness is earlier or clearer.
+
+See `VARIANT_COMPARISON.md`, `HISTORICAL_GLYPH_AUDIT.md`, and the collection-level `TITLE_GLYPH_REAUDIT_2026-09-06.md`.
