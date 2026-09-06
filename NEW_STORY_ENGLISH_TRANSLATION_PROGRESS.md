@@ -9,19 +9,19 @@ It is separate from [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROG
 ## Phase state
 
 - total stories in this supplemental English queue: **6**
-- complete / PASS: **3 / 6**
-- pending: **3 / 6**
+- complete / PASS: **6 / 6**
+- pending: **0 / 6**
 - needs review: **0**
-- current phase: **ACTIVE**
+- current phase: **COMPLETE / CLOSED**
 
 | # | Story | Controlling source | Source coordinates | English state |
 |---:|---|---|---|---|
 | 1 | `நண்பனா?` | 1997 `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்` | scans 104–106 / printed 94–96 | **PASS** |
 | 2 | `காந்தி தேசம்` | 2009 `16 கதையினிலே` | scans 6–18 / printed 1–13 | **PASS** |
 | 3 | `அணில் குஞ்சு` | 2009 `16 கதையினிலே` | scans 19–28 / printed 14–23 | **PASS** |
-| 4 | `கொள்ளைபுரம்` | 2009 `16 கதையினிலே` | scans 29–37 / printed 24–32 | **NEXT / pending** |
-| 5 | `எழுத்தாளர் ஏகலைவன்` | 2009 `16 கதையினிலே` | scans 38–49 / printed 33–44 | pending |
-| 6 | `மலரவில்லை` | 2009 `16 கதையினிலே` | scans 50–63 / printed 45–58 | pending |
+| 4 | `கொள்ளைபுரம்` | 2009 `16 கதையினிலே` | scans 29–37 / printed 24–32 | **PASS** |
+| 5 | `எழுத்தாளர் ஏகலைவன்` | 2009 `16 கதையினிலே` | scans 38–49 / printed 33–44 | **PASS** |
+| 6 | `மலரவில்லை` | 2009 `16 கதையினிலே` | scans 50–63 / printed 45–58 | **PASS** |
 
 ## Completed 1 / 6 — `நண்பனா?`
 
@@ -60,16 +60,48 @@ It is separate from [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROG
 - Tamil changed during translation: **No**
 - result: **PASS**
 
-## Current exact next activity
+## Completed 4 / 6 — `கொள்ளைபுரம்`
 
-Process **4 / 6 — `கொள்ளைபுரம்` only**:
+- canonical Tamil: `stories/kollaipuram/sections/kollaipuram.md`
+- English: `stories/kollaipuram/translations/en/kollaipuram.md`
+- review: `stories/kollaipuram/TRANSLATION_REVIEW.md`
+- source pages represented: **9 / 9**
+- physical page-anchor alignment: **PASS**
+- princely-state / British-imperial / tribunal satire structure preserved: **Yes**
+- five closing ornaments retained: **Yes**
+- possible-error queue silently corrected: **No**
+- Tamil changed during translation: **No**
+- result: **PASS**
 
-1. fetch live `main` first;
-2. read `ENGLISH_TRANSLATION_GUIDE.md`, root `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, this tracker and all `stories/kollaipuram/` Tamil/source/visual/recheck controls;
-3. translate the complete verified Tamil assembly from scans **29–37 / printed pages 24–32**;
-4. anchor every English source-page marker to the actual Tamil physical page boundary, not merely numeric order;
-5. create `stories/kollaipuram/translations/en/kollaipuram.md` and `stories/kollaipuram/TRANSLATION_REVIEW.md`;
-6. synchronize story/collection/root controls and this tracker to **4 / 6** when complete;
-7. stop before `எழுத்தாளர் ஏகலைவன்` unless the user explicitly requests a larger batch.
+## Completed 5 / 6 — `எழுத்தாளர் ஏகலைவன்`
 
-`நடுத்தெரு நாராயணி` is not part of this short-story English queue; it remains reserved for separate short-novel handling.
+- canonical Tamil: `stories/ezhuthalar-ekalaivan/sections/ezhuthalar-ekalaivan.md`
+- English: `stories/ezhuthalar-ekalaivan/translations/en/ezhuthalar-ekalaivan.md`
+- review: `stories/ezhuthalar-ekalaivan/TRANSLATION_REVIEW.md`
+- source pages represented: **12 / 12**
+- physical page-anchor alignment: **PASS**
+- Bharathidasan/Bharathi display verse and Sivakasi child sequence preserved: **Yes**
+- five closing ornaments retained: **Yes**
+- possible-error queue silently corrected: **No**
+- Tamil changed during translation: **No**
+- result: **PASS**
+
+## Completed 6 / 6 — `மலரவில்லை`
+
+- canonical Tamil: `stories/malaravillai/sections/malaravillai.md`
+- English: `stories/malaravillai/translations/en/malaravillai.md`
+- review: `stories/malaravillai/TRANSLATION_REVIEW.md`
+- source pages represented: **14 / 14**
+- physical page-anchor alignment: **PASS**
+- source-sensitive studio vocabulary handled conservatively: **Yes**
+- Anandhi/Asha reveal and funeral/marriage-savings reversal preserved: **Yes**
+- five closing ornaments retained: **Yes**
+- possible-error/recheck queue silently corrected: **No**
+- Tamil changed during translation: **No**
+- result: **PASS**
+
+## Closure
+
+**Supplemental English translation is COMPLETE / CLOSED — 6 / 6 PASS, 0 pending, 0 NEEDS REVIEW.**
+
+No automatic next short-story English activity remains in this queue. `நடுத்தெரு நாராயணி` is not part of this short-story phase and remains reserved for separate short-novel handling. Any future canonical 1977 recheck from later-edition evidence remains a separate, explicitly authorized source-comparison activity.
