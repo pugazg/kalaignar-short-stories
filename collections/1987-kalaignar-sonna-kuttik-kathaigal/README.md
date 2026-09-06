@@ -13,94 +13,99 @@ Collection workspace for the explicitly authorized source **`கலைஞர் 
 - publisher: **செல்வகுமார் பதிப்பகம்**, மதுரை
 - first edition: **1984**
 - represented edition: **இரண்டாம் பதிப்பு — 1987**
-- price line: **ரூ. 2-00**
 - source PDF committed to GitHub: **No**
-- SHA-256: **PENDING** — mounted-byte hashing remains unavailable in the current execution environment; do not invent or substitute a checksum.
+- SHA-256: **PENDING** — mounted-byte hashing remains unavailable; do not invent it.
 
-The source scan is controlling. OCR or another edition may be used only as secondary discovery/corroboration and never to override the pixels.
+The source scan is controlling. OCR or another edition may be used only as secondary corroboration and never to override the pixels.
 
 ## Physical structure
 
-- scan **1**: front cover
-- scan **2**: title / compilation / publisher page
-- scan **3**: edition / rights / price page
-- scan **4**: `பதிப்புரை`
+- scans **1–4**: front matter
 - scans **5–49**: story-bearing pages, printed pages **4–48**
-- scan **50**: blank / damaged rear leaf; no story text visible
-- story-block pagination relation: **scan = printed page + 1**
+- scan **50**: blank/damaged rear leaf
+- nominal relation: **scan = printed page + 1**
 - printed contents page: **none visible**
 
-Because there is no contents page, this collection uses a direct visual story-heading inventory.
+Direct-heading inventory: **25 / 25 exact**.
 
-## Direct-heading inventory — COMPLETE
+## Important shared-page correction — scans 6–7
 
-All **25 / 25** physical story openings now have source-decoded headings.
+Whole-page reinspection showed that the earlier intake model incorrectly treated a new heading as if it started at the top of its physical scan.
 
-The five previously held stylized banners were resolved by enlarged source-pixel inspection:
+Correct routing:
 
-1. scan **13 / printed 12** — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
-2. scan **20 / printed 19** — `இரு நிகழ்வுகள்`
-3. scan **31 / printed 30** — `குறிக்கோள்`
-4. scan **37 / printed 36** — `தெனாலிராமன் கதை`
-5. scan **45 / printed 44** — `அகத்திணை அன்பு!`
+- Story 1 `மன்னனும் குருவியும்!`: scan **5 → upper scan 6**;
+- Story 2 `அரசாபிமானக் கதை`: **lower scan 6 → upper scan 7**;
+- Story 3 `தென்னை மரத்தில் புல்`: begins **lower scan 7**.
 
-During Story 1 source review, the intake reading `மன்னனும் குறவியும்.` was also corrected from the banner pixels to **`மன்னனும் குருவியும்!`**. This is an ordinary source-reading correction, not historical-glyph modernization.
+This correction withdraws the earlier Story-1 scan-5-only PASS and the Story-2 scan-6-only range.
 
-## Duplicate / activation state
+## Story 1 — `மன்னனும் குருவியும்!` — REOPENED / NEEDS REVIEW
 
-User rule: **never create a new canonical story if the same story is already represented anywhere in this repository, including under an alternate title.**
+Canonical workspace: `stories/mannanum-kuruviyum/`.
 
-- exact canonical duplicate already established: `குருவி ராமேஸ்வரம்`, scan **23 / printed 22** → existing `stories/kuruvi-rameswaram/`; 1987 is additional-witness material only.
-- `புகழேந்திப் புலவர் கதை` remains an identity hold pending comparison with canonical `புகழேந்தி`.
-- `யசோதர காவியம்` remains an identity hold because canonical `அமிர்தமதி` contains an embedded `யசோதர காவியம்` narrative.
-- the five newly decoded stylized titles have no exact canonical-title match, but still require narrative/content comparison when each row is activated.
+- identity audit: **PASS — positively distinct / new canonical identity**
+- scan 5 / printed 4: **verified**
+- upper scan 6 / printed 5: continuation physically confirmed, exact transcription **needs-review**
+- source records: **1 verified + 1 needs-review**
+- historical-glyph audit: scan 5 PASS; upper scan 6 pending
+- visual/Tamil story-wide PASS: **withdrawn until shared ending is closed**
+- English: not authorized / not started
 
-### Story 1 — COMPLETE / PASS
+No missing upper-scan-6 text is inferred from context.
 
-`மன்னனும் குருவியும்!` — scan **5 / printed 4**
+## Story 2 — `அரசாபிமானக் கதை` — EXISTING CANONICAL WITNESS
 
-- exact title / punctuation: source-verified
-- physical ending: same scan; Story 2 starts scan **6**
-- exact-title, alternate-title and narrative-identity review: **PASS — positively distinct from current canon**
-- canonical workspace: `stories/mannanum-kuruviyum/`
-- source records: **1 / 1 verified**
-- Tamil audit: **PASS**
-- historical-glyph audit: **PASS**
-- visual fidelity: **PASS**
-- blocked / unresolved: **0**
-- English: **not authorized / not started**
+Direct narrative comparison establishes that `அரசாபிமானக் கதை` is the same story already canonical as **`ஜாடி குட்டி போடுமா?`**.
 
-Collection processing progress: **1 / 25 physical story blocks source-processed; 24 / 25 remain**. This count is physical-source progress and does not imply that all remaining blocks will become new canonical stories.
+- 1987 physical span: **lower scan 6 / printed 5 → upper scan 7 / printed 6**
+- identity result: **PASS — same jar-birth/jar-death anecdote**
+- new canonical Story-2 folder: **No**
+- witness path: `stories/jaadi-kutti-poduma/witnesses/1987-kalaignar-sonna-kuttik-kathaigal/`
+- physical/narrative comparison: **PASS**
+- exact 1987 line-level transcription: **NEEDS REVIEW**
+- historical-glyph audit: **NEEDS REVIEW**
+- 2008 canonical Tamil/English changed: **No**
 
-See [`DUPLICATE_AUDIT.md`](DUPLICATE_AUDIT.md).
+## Other duplicate/identity controls
+
+- `குருவி ராமேஸ்வரம்` — existing canonical; 1987 additional witness only.
+- `புகழேந்திப் புலவர் கதை` — identity hold vs canonical `புகழேந்தி`.
+- `யசோதர காவியம்` — identity hold vs embedded material in canonical `அமிர்தமதி`.
+
+See `DUPLICATE_AUDIT.md`.
 
 ## Historical Tamil glyph rule — mandatory
 
-The user supplied [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) specifically for this source.
+For every activated or witness text span:
 
-For every story-bearing page:
-
-1. inspect the whole source page at enlarged/native resolution;
+1. inspect enlarged/native source pixels;
 2. check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-3. decode historical character identity into modern Unicode without modernizing wording;
-4. compare same-edition examples when unclear;
+3. decode character identity into modern Unicode without modernizing wording;
+4. use same-edition evidence when unclear;
 5. never global-replace;
-6. leave unresolved material `needs-review`;
-7. keep historical-glyph corrections separate from ordinary transcription corrections.
+6. leave unresolved material `needs-review`.
 
-## Workflow boundary
+Narrative identity can be established before lexical closure, but textual verification cannot.
 
-Do **one story at a time** unless the user explicitly changes that rule. English does not begin until Tamil/source/visual closure and separate authorization.
+## Current progress
 
-## Current exact next activity
+- headings: **25 / 25 exact**
+- identity-routed rows: **2 / 25** (Stories 1–2)
+- fully source-closed rows after correction: **0 / 25**
+- Story 1: reopened for upper scan 6
+- Story 2: routed to existing canonical witness; lexical/glyph review open
+- Story 3: **not started**
+- English from 1987 source: **not authorized**
 
-Process Story **2 / 25**, **`அரசாபிமானக் கதை`**, scan **6 / printed page 5**.
+## Exact next activity
 
-Before creating or changing a canonical workspace:
+Before Story 3, finish the shared scans 6–7 review:
 
-1. re-fetch live `main`;
-2. perform exact-title, alternate-title and narrative duplicate checks against existing canon;
-3. confirm Story 2 ends on scan 6 because Story 3 `தென்னை மரத்தில் புல்` starts scan **7**;
-4. if positively new, create its canonical workspace and transcribe scan 6 source-faithfully;
-5. apply the historical-glyph audit before `verified` status;
-6. do not start Story 3 in the same activity unless the user changes the one-story-at-a-time rule.
+1. transcribe Story-1 **upper scan 6** exactly and run its historical-glyph audit;
+2. transcribe the Story-2 1987 witness **lower scan 6 → upper scan 7** exactly and run its historical-glyph audit;
+3. complete the reversible lexical comparison against canonical `ஜாடி குட்டி போடுமா?` without changing the canonical 2008 layer;
+4. re-close Story 1 only if the full scan-5 → upper-6 audit passes;
+5. then advance to Story 3 `தென்னை மரத்தில் புல்` beginning lower scan 7.
+
+Do not start English during this activity.
