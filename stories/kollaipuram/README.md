@@ -34,8 +34,16 @@ The large oval opening heading on scan 29, alternating running headers/folios on
 
 ## English translation
 
-**Not started.** Tamil/source and visual-fidelity gates are PASS; no English layer was created during this onboarding activity.
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/kollaipuram.md`](translations/en/kollaipuram.md)
+- Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source pages represented: **9 / 9**
+- physical page-anchor alignment: **PASS**
+- five closing ornaments retained: **Yes**
+- human-recheck queue silently corrected: **No**
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**கொள்ளைபுரம் Tamil archival source processing and visual fidelity are COMPLETE for scans 29–37 / printed pages 24–32: 9/9 verified, 0 blocked, 0 unresolved story text.**
+**கொள்ளைபுரம் is source-complete and English-complete for scans 29–37 / printed pages 24–32: Tamil 9/9 verified, visual PASS, English PASS, 0 blocked, 0 unresolved story text.**
