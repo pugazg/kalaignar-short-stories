@@ -52,9 +52,11 @@ The five new candidates are **5 / 5 complete**.
 The user subsequently authorized the separate comparison phase for Stories 6–16. The fourth edition is treated as an independent edition witness; it does not silently overwrite each story's controlling canonical source.
 
 - total existing canonical matches to compare: **11**
-- completed comparisons: **1 / 11**
+- completed comparisons: **2 / 11**
 - completed: `சுமந்தவள்` — 2009 scans **64–81 / printed 59–76**; comparison record under `stories/sumanthaval/witnesses/2009-16-kathaiyinile/`; materially revised/expanded edition; added epilogue on scans 80–81; canonical 1977 layer unchanged
-- next: `புகழேந்தி` — 2009 scans **82–89 / printed 77–84**
-- next-story boundary for that comparison: scan **90**, opening `நளாயினி`
+- completed: `புகழேந்தி` — 2009 scans **82–89 / printed 77–84**; comparison record under `stories/pugazhendhi/witnesses/2009-16-kathaiyinile/`; same narrative and ending, editorial/lexical revisions; canonical 1977 layer unchanged
+- strong `புகழேந்தி` controlling-source recheck candidates supplied by the later witness: `தீவலி` ↔ `தலைவலி`, `வயித்துக்கிடக்கிறது` ↔ `லயித்துக் கிடக்கிறது`, `காதற் கண்கள்` ↔ `காதற் கணைகள்`, `கால்ப் பணிவிடைகள்` ↔ `காலைப் பணிவிடைகள்`
+- next: `நளாயினி` — 2009 scans **90–99 / printed 85–94**
+- next-story boundary for that comparison: scan **100**, opening `குப்பைத் தொட்டி`
 
-Any 2009 reading that appears to correct or clarify a canonical source must be checked against that canonical story's own controlling scan before a source-layer change.
+Any 2009 reading that appears to correct or clarify a canonical source must be checked against that canonical story's own controlling scan before a source-layer change. The 1977 controlling PDF was not available during the first two comparisons, so their canonical Tamil and English layers were not changed from later-edition evidence alone.
