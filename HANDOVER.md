@@ -35,8 +35,8 @@ Do not reopen those closed phases merely to create work. A specifically authoriz
 Workspace: `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`
 
 - `நண்பனா?`: **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, **English PASS**.
-- English file: `stories/nanbana/translations/en/nanbana.md`
-- translation review / physical page anchoring: **PASS**
+- English: `stories/nanbana/translations/en/nanbana.md`
+- translation review / physical page anchoring: **PASS**.
 - `நடுத்தெரு நாராயணி`: **explicitly reserved for separate short-novel handling**.
 - new-short-story onboarding: **COMPLETE**.
 
@@ -55,7 +55,7 @@ Workspace: `collections/2009-16-kathaiyinile/`
 - source completeness: **16 / 16 physically present**
 - preserved anomaly: scan 110 / printed p105 still closes `குப்பைத் தொட்டி`; `சங்கிலிச்சாமி` begins scan 111 despite the TOC assigning p105 to it.
 
-A conversation working copy used in the final comparison iteration ends at scan **150**. It does not replace the registered 183-scan source. Wikimedia Commons independently records the same TVA file as 183 pages, and Tamil Wikisource has a proofread page set for that same `16 கதையினிலே.pdf` source through scan 182. Witness records after scan 150 explicitly preserve this provenance and avoid inventing unobserved glyph-level readings.
+A conversation working copy used in the final comparison iteration ends at scan **150**. It does not replace the registered 183-scan source. Witness records after scan 150 preserve provenance conservatively.
 
 ### New-story onboarding — COMPLETE / CLOSED — 5 / 5
 
@@ -77,77 +77,47 @@ Final ledger: `collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md
 6. `தப்பிவிட்டார்கள்` — scans **126–136** — same narrative; spelling/verb-form modernization.
 7. `தப்பவில்லை` — scans **137–149** — same narrative/final irony; editorial repagination.
 8. `ஏழை` — scans **150–154** — same story/boundary; lexical assertions beyond local scan 150 kept deliberately conservative.
-9. `கண்ணடக்கம்` — scans **155–163** — same narrative; strong later evidence including `வான மீனுக்கோ` ↔ `வாளை மீனுக்கோ` and `துணி ஏண்` ↔ `துணி ஏணை`.
-10. `வாழ முடியாதவர்கள்` — scans **164–173** — same narrative; high-priority later clarification `கற்பினைக்...தீவிதி` ↔ `கற்பனைப்...தலைவிதி`.
-11. `அய்யோ ராஜா` — scans **174–182** — same story/boundary; 2009 title punctuation differs from canonical `அய்யோ ராஜா!`; lexical disposition conservative where direct 2009 pixels were unavailable.
-
-Every story has a durable witness directory under:
-
-`stories/<canonical-slug>/witnesses/2009-16-kathaiyinile/`
+9. `கண்ணடக்கம்` — scans **155–163** — same narrative; strong later evidence retained for controlling-source recheck.
+10. `வாழ முடியாதவர்கள்` — scans **164–173** — same narrative; high-priority later clarification retained for controlling-source recheck.
+11. `அய்யோ ராஜா` — scans **174–182** — same story/boundary; title punctuation differs from canonical `அய்யோ ராஜா!`; lexical disposition conservative where direct pixels were unavailable.
 
 ### Canonical disposition
 
 - canonical 1977 Tamil changed from 2009 evidence: **No**
 - canonical 1977 English changed: **No**
 - canonical verified page statuses changed: **No**
-- reason: any apparent correction requires the exact 1977 controlling scan; that PDF was unavailable during the comparison phase
+- reason: apparent corrections require the exact 1977 controlling scan; that PDF was unavailable during the comparison phase.
 
-High-priority later-witness recheck candidates are preserved in the per-story witness records and final collection ledger.
-
-## ACTIVE PHASE — supplemental English translation — 3 / 6
+## Supplemental English translation — COMPLETE / CLOSED — 6 / 6
 
 Tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`.
 
-This phase was explicitly authorized after the 2009 onboarding/comparison closures. It covers the six Tamil-complete canonical stories that still lacked English at phase start.
+This separately authorized phase covered the six Tamil-complete canonical stories that still lacked English at phase start.
 
-1. `நண்பனா?` — 1997 source, scans **104–106 / printed 94–96** — **PASS**.
-2. `காந்தி தேசம்` — 2009 source, scans **6–18 / printed 1–13** — **PASS**.
-3. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **PASS**.
-4. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — **NEXT / pending**.
-5. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — pending.
-6. `மலரவில்லை` — scans **50–63 / printed 45–58** — pending.
+1. `நண்பனா?` — scans **104–106 / printed 94–96** — **PASS**; physical page anchoring PASS.
+2. `காந்தி தேசம்` — scans **6–18 / printed 1–13** — **PASS**; 13/13 physical page anchoring PASS.
+3. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **PASS**; 10/10 physical page anchoring PASS.
+4. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — **PASS**; 9/9 physical page anchoring PASS.
+5. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — **PASS**; 12/12 physical page anchoring PASS.
+6. `மலரவில்லை` — scans **50–63 / printed 45–58** — **PASS**; 14/14 physical page anchoring PASS.
 
-### Completed 1 / 6 — `நண்பனா?`
+For all six:
 
-- English: `stories/nanbana/translations/en/nanbana.md`
-- review: `stories/nanbana/TRANSLATION_REVIEW.md`
-- physical source-page anchoring: **PASS**
-- Tamil changed during translation: **No**
-- result: **PASS**
+- complete verified Tamil represented: **Yes**;
+- translation review: **PASS**;
+- possible-error/recheck material silently corrected: **No**;
+- canonical Tamil changed during translation: **No**;
+- pending: **0**;
+- NEEDS REVIEW: **0**.
 
-### Completed 2 / 6 — `காந்தி தேசம்`
+## CURRENT STATE / NEXT AUTHORIZATION
 
-- English: `stories/gandhi-desam/translations/en/gandhi-desam.md`
-- review: `stories/gandhi-desam/TRANSLATION_REVIEW.md`
-- complete Tamil represented: **Yes**
-- source page markers **6–18**: **complete and physically aligned**
-- Sornambikai letter / telegram / Bombay reveal: **preserved**
-- possible-error queue silently corrected: **No**
-- Tamil changed during translation: **No**
-- result: **PASS**
+All currently authorized short-story onboarding, 2009 witness-comparison, and supplemental-English work is **COMPLETE / CLOSED**.
 
-### Completed 3 / 6 — `அணில் குஞ்சு`
+There is **no automatic next short-story activity**. Do not invent or begin a new phase merely to continue work.
 
-- English: `stories/anil-kunju/translations/en/anil-kunju.md`
-- review: `stories/anil-kunju/TRANSLATION_REVIEW.md`
-- complete Tamil represented: **Yes**
-- source page markers **19–28**: **complete and physically aligned**
-- public speeches / squirrel-Ramayana account / religious argument / hawk ending: **preserved**
-- five closing ornaments: **preserved**
-- possible-error queue silently corrected: **No**
-- Tamil changed during translation: **No**
-- result: **PASS**
+Explicitly separate future possibilities include:
 
-## CURRENT EXACT NEXT ACTIVITY — supplemental English 4 / 6 — `கொள்ளைபுரம்`
-
-Process only **`கொள்ளைபுரம்`** unless the user explicitly expands the batch:
-
-1. fetch live `main` first;
-2. read `ENGLISH_TRANSLATION_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`, and all `stories/kollaipuram/` Tamil/source/visual/recheck controls;
-3. translate the complete verified Tamil assembly from scans **29–37 / printed pages 24–32**;
-4. verify physical source-page anchoring against the story's `pages/*.md` records, not just marker sequence;
-5. create/update `stories/kollaipuram/translations/en/kollaipuram.md` and `stories/kollaipuram/TRANSLATION_REVIEW.md`;
-6. synchronize story, collection, root and phase controls to **4 / 6** when complete;
-7. stop before `எழுத்தாளர் ஏகலைவன்` unless explicitly authorized otherwise.
-
-Do not treat 2009 later-witness readings as permission to modify canonical 1977 Tamil. `நடுத்தெரு நாராயணி` remains outside the short-story queue and reserved for a separate short-novel workflow.
+- `நடுத்தெரு நாராயணி` — reserved for a **separate short-novel workflow**, not this short-story queue;
+- canonical 1977 rechecks using 2009 witness evidence — require the exact 1977 controlling PDF and separate authorization;
+- any new collection/source onboarding — requires a supplied/authorized source and intake decision.
