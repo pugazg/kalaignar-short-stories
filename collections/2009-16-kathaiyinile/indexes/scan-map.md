@@ -6,7 +6,7 @@
 | 2 | `அணில் குஞ்சு` | 19–28 | **COMPLETE / PASS — 10/10 verified; `stories/anil-kunju/`** |
 | 3 | `கொள்ளைபுரம்` | 29–37 | **COMPLETE / PASS — 9/9 verified; `stories/kollaipuram/`** |
 | 4 | `எழுத்தாளர் ஏகலைவன்` | 38–49 | **COMPLETE / PASS — 12/12 verified; `stories/ezhuthalar-ekalaivan/`** |
-| 5 | `மலரவில்லை` | 50–63 | **IN PROGRESS — `stories/malaravillai/`; boundary verified; 14/14 coordinate records `needs-review`; source-text verification pending** |
+| 5 | `மலரவில்லை` | 50–63 | **COMPLETE / PASS — 14/14 verified; `stories/malaravillai/`; Tamil audit PASS; visual PASS; 0 unresolved** |
 | 6 | `சுமந்தவள்` | 64–81 | existing canonical story |
 | 7 | `புகழேந்தி` | 82–89 | existing canonical story |
 | 8 | `நளாயினி` | 90–99 | existing canonical story |
@@ -31,4 +31,4 @@
 
 All **16 / 16** story-opening scans were visually checked. The source is complete; the earlier 150-scan truncation note was incorrect and is superseded by this map.
 
-Current new-story source-processing checkpoint: **4 / 5 complete + `மலரவில்லை` in progress**. Its exact physical span is scans **50–63 / printed 45–58**; scan **64 `சுமந்தவள்`** is the boundary witness. Do not advance the count to 5/5 until all fourteen `மலரவில்லை` page records and the Tamil assembly are directly verified.
+Final new-story source-processing checkpoint: **5 / 5 COMPLETE / PASS**. `மலரவில்லை` occupies scans **50–63 / printed 45–58**; scan **64 `சுமந்தவள்`** was used only as its physical boundary witness. No additional-witness comparison or English phase has been started.
