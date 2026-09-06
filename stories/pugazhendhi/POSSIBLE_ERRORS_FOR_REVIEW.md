@@ -19,6 +19,7 @@
 
 - [ ] `இந்தியாவின் ஈன்ஸ்டன் என்று உபகண்டம் பாராட்டுப் படித்தது.`
   - Why flagged: `பாராட்டுப் படித்தது` is semantically unusual but the letters appear legible.
+  - 2009 witness: retains `பாராட்டுப் படித்தது`, while printing `ஈன்ஸ்டின்` for the name.
   - User correction:
 
 - [ ] `சார்லஸ் ஆண்டபோது நடந்ததைக் கூற வேண்டுமா?`
@@ -31,6 +32,7 @@
 
 - [ ] `அவனோர் பிடேல்டோ!`
   - Why flagged: highly unusual printed/transliterated form; enlarged source still appears to read this way.
+  - **2009 witness:** `அவனொரு பிடேல்டோ!` — later-edition regularization; fresh 1977 controlling-scan recheck recommended before any change.
   - User correction:
 
 - [ ] `பெர்னாட்ஷா—ஷேக்ஸ்பியர்`
@@ -45,6 +47,7 @@
 
 - [ ] `பெயரைக்கூறுவது`
   - Why flagged: confirm whether source should be represented with or without an internal word space.
+  - 2009 witness: `பெயரைக் கூறுவது`.
   - User correction:
 
 - [ ] `வயதோ முப்பது நிறையவில்லை; வாலிபத் தென்றல்!`
@@ -53,10 +56,12 @@
 
 - [ ] `மணக்கும் அவன் நெஞ்சம்.`
   - Why flagged: visually legible but semantically unusual.
+  - **2009 witness:** `மனக்கும் அவன் நெஞ்சம்` — divergent lexical reading; re-open 1977 scan before selecting either form.
   - User correction:
 
 - [ ] `புகழ்தரும் தீவலி தாங்காமல்`
   - Why flagged: `தீவலி` is an unusual form and should receive a high-resolution human check.
+  - **2009 witness:** clearly prints `புகழ்தரும் தலைவலி தாங்காமல்` — **high-priority 1977 controlling-source recheck candidate**.
   - User correction:
 
 ## Scan 12 / printed page 3
@@ -92,6 +97,7 @@
 
 - [ ] `அவருடைய எண்ணமெல்லாம் உலகத்திற்கு ஒரு புதிய வழி காண வேண்டுமென்பதிலேயே வயித்துக்கிடக்கிறது`
   - Why flagged: `வயித்துக்கிடக்கிறது` is visually unusual and may conceal a different printed form.
+  - **2009 witness:** clearly prints `...வேண்டுமென்பதிலேயே லயித்துக் கிடக்கிறது` — **high-priority 1977 controlling-source recheck candidate**.
   - User correction:
 
 - [ ] `நாற்றத்தையும் தாங்கிக்கொண்டு அழுக்கு ஆடைகள் உடுத்துவான்.`
@@ -102,6 +108,7 @@
 
 - [ ] `விருப்பத்திற்காகத் தனியாக மேல் மாடியில்`
   - Why flagged: verify exact clause wording.
+  - 2009 witness rephrases this as `யாரும் தொந்தரவு கொடுக்காமலிருப்பதற்காகத் தனியாக மேல் மாடியில்...`; treat as edition revision, not automatic correction.
   - User correction:
 
 - [ ] `அத்தனைப் பெரிய கருத்துக்களை மாணவரிடையே வாரியிறைத்தான் மேதை.`
@@ -121,6 +128,7 @@
 
 - [ ] `அவள் கண்களிலேயிருந்து புறப்படும் அந்தக் காதற் கண்கள் எவ்வளவு சக்தி வாய்ந்தவை!`
   - Why flagged: **high-priority recheck**. An enlarged native crop still appears to read `காதற் கண்கள்`, but the phrase is semantically unusual.
+  - **2009 witness:** clearly prints `அந்தக் காதற் கணைகள் எவ்வளவு சக்தி வாய்ந்தவை!` — **high-priority 1977 controlling-source glyph recheck candidate**.
   - User correction:
 
 - [ ] `ஆனால் அவைகள் மேதையை அசைக்கவும் முடியாதவை என எண்ணித் தவித்தாள் அந்த ரோஜா!`
@@ -133,6 +141,7 @@
 
 - [ ] `அவனுக்குக் கால்ப் பணிவிடைகள் புரிவதற்காக!`
   - Why flagged: unusual compound/spacing.
+  - **2009 witness:** clearly prints `காலைப் பணிவிடைகள் புரிவதற்காக!` — **high-priority 1977 controlling-source recheck candidate**.
   - User correction:
 
 - [ ] `என் கைகள் மிகவும் பாக்கியம் செய்த கைகளாம்`
@@ -140,6 +149,7 @@
 
 - [ ] `அவளோ, என் காலில் பட்ட உன் கரங்கள் முத்தமிடுகிறாள்!`
   - Why flagged: agreement/wording is unusual; preserve until source review says otherwise.
+  - 2009 witness: `அவளோ என் காலில் பட்ட உன் கரங்களை முத்தமிடுகிறாள்!` — later case/agreement regularization.
   - User correction:
 
 - [ ] `நல்ல புகழப்பா இது!`
@@ -147,9 +157,25 @@
 
 - [ ] `மேதை, எதிர்வீட்டு மாடியை ஏறெடுத்தும் பாராமல்`
   - Why flagged: check exact verb form `ஏறெடுத்தும்`.
+  - 2009 witness: also prints `ஏறெடுத்தும் பாராமல்`; this unusual form is cross-edition corroborated.
   - User correction:
 
 ---
+
+## 2009 additional-witness evidence summary
+
+Direct comparison source: `TVA_BOK_0065745_16_கதையினிலே.pdf`, Fourth Edition, March 2009, scans **82–89 / printed 77–84**; scan **90** is the `நளாயினி` boundary.
+
+The comparison is durable at `witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`.
+
+Highest-priority 1977 rechecks created/strengthened by the later witness:
+
+1. `புகழ்தரும் தீவலி` ↔ `புகழ்தரும் தலைவலி`;
+2. `வயித்துக்கிடக்கிறது` ↔ `லயித்துக் கிடக்கிறது`;
+3. `காதற் கண்கள்` ↔ `காதற் கணைகள்`;
+4. `கால்ப் பணிவிடைகள்` ↔ `காலைப் பணிவிடைகள்`.
+
+The 1977 controlling PDF was not available during this comparison, so **no checkbox is promoted to a correction and no canonical Tamil/English wording is changed solely from the 2009 witness**.
 
 ## Cross-page joins to review
 
@@ -161,9 +187,9 @@ These joins are structurally clear, but a human reviewer should confirm that no 
 
 ## Review rule
 
-When a reviewer supplies a correction:
+When a reviewer supplies a correction or a later witness suggests one:
 
-1. compare the proposed reading against the native scan at full phrase/clause/sentence span;
-2. update the relevant `pages/000N.md` file first;
-3. synchronize `sections/pugazhendhi.md`, `audit.md`, this queue, story README, anthology inventory and `HANDOVER.md`;
-4. never treat modern grammar or expected meaning as stronger evidence than the source image.
+1. compare the proposed reading against the native **1977 controlling scan** at full phrase/clause/sentence span;
+2. update the relevant canonical page record first;
+3. synchronize `sections/pugazhendhi.md`, `audit.md`, this queue, story README, translation review/English if meaning changed, anthology inventory and `HANDOVER.md`;
+4. never treat modern grammar, expected meaning, or a later edition as stronger authority than the controlling source image for the represented 1977 edition.
