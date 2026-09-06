@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 Batch 03 / scans 36–50
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 lexical/glyph Batch L1 / scans 5–19
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -29,92 +29,90 @@ Read completely before source-dependent writes:
 9. collection `indexes/scan-map.md`
 10. `BATCH_0001_SCANS_0006_0020.md`
 11. `BATCH_0002_SCANS_0021_0035.md`
-12. canonical `stories/amirthamathi/` controls before deciding Story 21
-13. canonical `stories/kuruvi-rameswaram/` witness controls if needed.
+12. `BATCH_0003_SCANS_0036_0050.md`
+13. relevant story-local canonical/witness controls for any page being written.
 
 Attach/resolve the exact 1987 PDF before visual work.
 
+## SOURCE / STRUCTURE / IDENTITY PHASE — CLOSED
+
+All three 15-page source-review batches are complete:
+
+- scans 6–20 — COMPLETE;
+- scans 21–35 — COMPLETE;
+- scans 36–50 — COMPLETE.
+
+Canonical-identity routing is **25 / 25 COMPLETE**:
+
+- **23 distinct 1987 identities** — Story 1; Stories 3–10; Stories 12–25;
+- **2 existing-canonical witnesses only** — Story 2 `அரசாபிமானக் கதை` → `ஜாடி குட்டி போடுமா?`, Story 11 `குருவி ராமேஸ்வரம்` → existing 2004 canonical story;
+- unresolved identity holds: **0**.
+
+Resolved collisions include:
+
+- `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` ≠ 2004 `சொர்க்கத்திற்கு வந்தது எப்படி?`;
+- `புத்தர் உணர்த்திய உண்மை` ≠ 1977 `சித்தார்த்தன் சிலை`;
+- `புகழேந்திப் புலவர் கதை` ≠ 1977 `புகழேந்தி`;
+- `யசோதர காவியம்` ≠ canonical `அமிர்தமதி`;
+- `தெனாலிராமன் கதை` ≠ `தெனாலிராமன் பூனை`.
+
+Do not reopen these identity decisions unless new controlling evidence appears.
+
 ## USER-DIRECTED BATCH RULE
 
-Process **15 new physical scans per iteration**.
+Continue with **15 physical source scans per iteration**.
 
-- Batch 01 scans 6–20: COMPLETE at source/structure/identity-review layer.
-- Batch 02 scans 21–35: COMPLETE at source/structure/identity-review layer.
-- Batch 03 = **15 new scans 36–50 inclusive**.
-- scan 35 may be reopened as Story-18 context only and does not count toward the 15 new scans.
+The next phase is exact Tamil lexical transcription + historical-glyph closure.
 
-This does not weaken duplicate, source-fidelity, shared-boundary or historical-glyph gates.
+### Lexical/Glyph Batch L1
 
-## Batch 02 durable state — DO NOT REVERT
+Process **scans 5–19 inclusive = 15 physical scans**.
 
-Physical spans:
+Use the authoritative shared boundaries from `indexes/scan-map.md`; do not assume one story per scan.
 
-- Story 10 `இரு நிகழ்வுகள்`: lower 20 → 21 → 22 → upper 23 — **distinct identity PASS**.
-- Story 11 `குருவி ராமேஸ்வரம்`: lower 23 → upper 24 — **existing canonical; 1987 witness only**.
-- Story 12 `சாமியாரும் பூக்காரியும்`: lower 24 → upper 25 — **distinct identity PASS**.
-- Story 13 `ஹஜ்ரத் அலியும் யூதனும்`: lower 25 → 26 → upper 27 — **distinct identity PASS**.
-- Story 14 `புகழேந்திப் புலவர் கதை`: lower 27 → 28 — **distinct from canonical 1977 `புகழேந்தி`; prior hold CLOSED**.
-- Story 15 `மன மாற்றம்`: 29 → 30 — **distinct identity PASS**.
-- Story 16 `குறிக்கோள்`: 31 → upper 32 — **distinct identity PASS**.
-- Story 17 `பாலும் தண்ணீரும்`: lower 32 → 33 → upper 34 — **distinct identity PASS**.
-- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: begins lower 34 → 35 and continues scan 36 — **identity OPEN**.
+Relevant physical routing in this range:
 
-Identity totals after Batch 02:
+- Story 1 `மன்னனும் குருவியும்!`: scan 5 → upper 6;
+- Story 2 `அரசாபிமானக் கதை`: lower 6 → upper 7 — existing canonical witness only;
+- Story 3 `தென்னை மரத்தில் புல்`: lower 7 only;
+- Story 4 `நாராயணு! நாராயணு!`: 8 → 9 → upper 10;
+- Story 5 `துறவியும் சீடர்களும்`: lower 10 → 11 → upper 12;
+- Story 6 `முல்லை முத்துக்குமரன்`: lower 12 → upper 13;
+- Story 7 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`: lower 13 → 14 → upper 15;
+- Story 8 `புத்தர் உணர்த்திய உண்மை`: lower 15 → 16 → 17 → upper 18;
+- Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`: lower 18 → scan 19 → continues upper 20 outside this batch.
 
-- distinct identities: **15** — Story 1; Stories 3–10; Stories 12–17;
-- existing-canonical matches: **2** — Stories 2 and 11;
-- Story 18 partial/open;
-- Story 21 explicit hold remains.
-
-## Batch 03 expected rows
-
-- finish Story 18 `ஜெயத்ரதனின் வீழ்ச்சி` on scan 36;
-- Story 19 `தெனாலிராமன் கதை` — scans 37–38 intake range;
-- Story 20 `வல்வில் ஓரி` — scans 39–40 intake range;
-- Story 21 `யசோதர காவியம்` — scans 41–43 intake range;
-- Story 22 `காடு சென்ற குமணன்` — scan 44 intake range;
-- Story 23 `அகத்திணை அன்பு!` — scan 45 intake range;
-- Story 24 `தெனாலிராமன் பூனை` — scans 46–47 intake range;
-- Story 25 `குழந்தையும் கிளியும்` — scans 48–49 intake range;
-- scan 50 — final blank/damaged rear leaf, to be directly reconfirmed.
-
-These are intake ranges only. Re-establish upper/lower shared boundaries from whole-page review.
-
-## Mandatory duplicate controls
-
-### Story 21 — `யசோதர காவியம்`
-
-Canonical `stories/amirthamathi/` contains embedded `யசோதர காவியம்` material. Compare the complete 1987 scans 41–43 against that canonical content before any new story workspace is allowed.
-
-### Stories 19 and 24 — Tenali Raman
-
-`தெனாலிராமன் கதை` and `தெனாலிராமன் பூனை` are separate source headings. Compare each independently against current canon and against each other. Do not merge them merely because both invoke Tenali Raman.
+Scan 20 may be reopened in the next iteration as boundary context; do not exceed the user-directed 15 new scans unless needed only for a boundary check.
 
 ## Historical-glyph rule — mandatory
 
-For every reviewed 1987 span check:
+For every reviewed 1987 text span explicitly check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Character identity first; modern Unicode encoding second. Preserve source wording/spelling/grammar/punctuation otherwise. Use same-edition evidence for doubts. Never global-replace. Never fill uncertain 1987 wording from another edition.
+Rules:
 
-Completed batches are source/structure/identity PASSes, not blanket lexical PASSes. Keep uncertain exact text `needs-review`.
+- character identity first; modern Unicode encoding second;
+- preserve source wording, spelling, compounds, grammar and punctuation otherwise;
+- compare same-edition forms for doubtful typeforms;
+- never global-replace;
+- never infer a word merely because grammar or another edition makes it likely;
+- keep unresolved clusters `needs-review`;
+- another edition may corroborate but may not overwrite the 1987 source layer.
 
 ## EXACT NEXT ACTIVITY
 
-Process Batch 03 — **new scans 36–50**:
+1. process scans **5–19** whole-page-by-whole-page;
+2. transcribe exact Tamil only where the source pixels support character identity;
+3. run the full 13-family historical-glyph audit on every page;
+4. create/update story-local page records, section assembly, audit and visual/source status only where supportable;
+5. close Story 1 upper scan 6 only if exact source verification succeeds;
+6. write Story 2 into its **1987 witness layer only**; do not change canonical `ஜாடி குட்டி போடுமா?` merely from this printing;
+7. create new canonical story workspaces for distinct identities only when defensible exact source text is available — do not create empty/low-confidence placeholders;
+8. record unresolved text honestly as `needs-review`;
+9. update a lexical/glyph batch ledger and synchronize collection controls, `HANDOVER.md`, and this prompt;
+10. English remains unauthorized.
 
-1. reopen scan 35 only as context and finish Story 18 on scan 36;
-2. close Story 18 identity;
-3. process Stories 19–25 whole-page-by-whole-page;
-4. preserve all intra-page story boundaries;
-5. run duplicate/alternate-title checks before any new workspace creation;
-6. resolve Story 21 against `அமிர்தமதி`;
-7. independently cross-check Stories 19 and 24;
-8. verify scan 50 as rear leaf / no story continuation;
-9. apply historical-glyph review throughout;
-10. write `BATCH_0003_SCANS_0036_0050.md` and synchronize README/inventory/scan-map/DUPLICATE_AUDIT/HANDOVER/this prompt.
-
-English is not authorized. Closed 1977/2008/2004/2009 phases remain untouched.
+Closed 1977/2008/2004/2009 phases remain untouched.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
