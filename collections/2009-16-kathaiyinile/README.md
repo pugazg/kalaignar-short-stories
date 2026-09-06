@@ -26,13 +26,13 @@ The registered source is complete for **16 / 16** stories. A conversation workin
 4. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — **PASS**, 12/12 verified, Tamil audit PASS, visual PASS, 0 unresolved.
 5. `மலரவில்லை` — scans **50–63 / printed 45–58** — **PASS**, 14/14 verified, Tamil audit PASS, visual PASS, 0 unresolved.
 
-## Supplemental English translation — ACTIVE — 1 / 5 within this collection
+## Supplemental English translation — ACTIVE — 2 / 5 within this collection
 
 The repository-wide supplemental English queue also includes the 1997 story `நண்பனா?`; this subsection tracks only the five newly onboarded stories from the 2009 collection.
 
 1. `காந்தி தேசம்` — **English PASS**; `stories/gandhi-desam/translations/en/gandhi-desam.md`; review PASS; 13/13 physical page anchors aligned; Tamil unchanged.
-2. `அணில் குஞ்சு` — **NEXT / pending**.
-3. `கொள்ளைபுரம்` — pending.
+2. `அணில் குஞ்சு` — **English PASS**; `stories/anil-kunju/translations/en/anil-kunju.md`; review PASS; 10/10 physical page anchors aligned; Tamil unchanged.
+3. `கொள்ளைபுரம்` — **NEXT / pending**.
 4. `எழுத்தாளர் ஏகலைவன்` — pending.
 5. `மலரவில்லை` — pending.
 
@@ -71,7 +71,7 @@ The TOC lists `சங்கிலிச்சாமி` at printed page **105**,
 
 - new-story Tamil onboarding: **5 / 5 COMPLETE / PASS**
 - existing-canonical witness comparison: **11 / 11 COMPLETE / CLOSED**
-- supplemental English for the five 2009 new stories: **1 / 5 PASS; 4 pending**
-- exact next 2009 English target: **`அணில் குஞ்சு` — scans 19–28 / printed 14–23**
+- supplemental English for the five 2009 new stories: **2 / 5 PASS; 3 pending**
+- exact next 2009 English target: **`கொள்ளைபுரம்` — scans 29–37 / printed 24–32**
 
 Do not automatically begin `நடுத்தெரு நாராயணி`; it remains a separate short-novel workflow.
