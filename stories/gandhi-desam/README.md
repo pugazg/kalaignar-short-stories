@@ -34,8 +34,16 @@ The boxed opening title on scan 6, alternating running headers/folios, dialogue 
 
 ## English translation
 
-**Not started.** Tamil/source and visual-fidelity gates are PASS; no English layer was created during this onboarding activity.
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/gandhi-desam.md`](translations/en/gandhi-desam.md)
+- Translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- verified Tamil assembly represented: **complete**
+- source-page markers: **13 / 13**, physically aligned to scans **6–18**
+- embedded Sornambikai letter and final Bombay revelation: **complete**
+- possible-error/recheck items silently corrected: **No**
+- Tamil changed during translation: **No**
 
 ## Completion state
 
-**காந்தி தேசம் Tamil archival source processing and visual fidelity are COMPLETE for scans 6–18 / printed pages 1–13: 13/13 verified, 0 blocked, 0 unresolved story text.**
+**காந்தி தேசம் is COMPLETE for the current archival scope: Tamil source PASS, visual-fidelity PASS, English PASS, 13/13 source pages traceable, 0 blocked and 0 unresolved story text.**
