@@ -18,7 +18,7 @@ Collection workspace for **`16 கதையினிலே`**.
 
 ## Source completeness
 
-The registered source is complete for all **16 / 16** stories. The earlier 150-scan limitation was incorrect and has been removed.
+The registered source is complete for all **16 / 16** stories. The earlier 150-scan limitation was incorrect and has been removed. A conversation working copy may itself stop at scan 150; it does not supersede this registered 183-scan identity.
 
 Verified final spans:
 
@@ -42,13 +42,13 @@ New-story source-processing is **5 / 5 complete**.
 
 ## Additional-witness comparison — ACTIVE
 
-Stories **6–16** already had canonical workspaces before this 2009 source was onboarded. The user has now explicitly authorized comparison of this fourth edition against those canonical editions. Each story is handled one at a time; the 2009 text is an **additional witness**, not an automatic replacement for the controlling canonical source.
+Stories **6–16** already had canonical workspaces before this 2009 source was onboarded. The user explicitly authorized comparison of this fourth edition against those canonical editions. Each story is handled one at a time; the 2009 text is an **additional witness**, not an automatic replacement for the controlling canonical source.
 
-Current progress: **1 / 11 complete**.
+Current progress: **2 / 11 complete**.
 
 1. `சுமந்தவள்` — scans **64–81 / printed 59–76** — **COMPARISON COMPLETE** against the canonical 1977 edition. The 2009 witness is materially revised and adds a substantial three-year epilogue on scans **80–81**. Canonical 1977 Tamil/English were not overwritten. Comparison record: `stories/sumanthaval/witnesses/2009-16-kathaiyinile/`.
-2. `புகழேந்தி` — scans **82–89 / printed 77–84** — **NEXT**; scan **90** opens `நளாயினி` and is the ending boundary witness.
-3. `நளாயினி` — scans **90–99 / printed 85–94** — pending comparison.
+2. `புகழேந்தி` — scans **82–89 / printed 77–84** — **COMPARISON COMPLETE** against the canonical 1977 edition. Same narrative arc and `மேதை வாழ்க!` ending; later editorial/lexical revisions but no added epilogue or major narrative block. Strong 1977 recheck candidates include `தீவலி` ↔ `தலைவலி`, `வயித்துக்கிடக்கிறது` ↔ `லயித்துக் கிடக்கிறது`, `காதற் கண்கள்` ↔ `காதற் கணைகள்`, and `கால்ப் பணிவிடைகள்` ↔ `காலைப் பணிவிடைகள்`. Canonical 1977 Tamil/English remain unchanged. Comparison record: `stories/pugazhendhi/witnesses/2009-16-kathaiyinile/`.
+3. `நளாயினி` — scans **90–99 / printed 85–94** — **NEXT**; scan **100** opens `குப்பைத் தொட்டி` and is the ending boundary witness.
 4. `குப்பைத் தொட்டி` — scans **100–110** — pending comparison; physical text continues through printed p105.
 5. `சங்கிலிச்சாமி` — scans **111–125** — pending comparison; TOC/physical start anomaly retained.
 6. `தப்பிவிட்டார்கள்` — scans **126–136 / printed 121–131** — pending comparison.
@@ -58,9 +58,11 @@ Current progress: **1 / 11 complete**.
 10. `வாழ முடியாதவர்கள்` — scans **164–173 / printed 159–168** — pending comparison.
 11. `அய்யோ ராஜா` — scans **174–182 / printed 169–177** — pending comparison.
 
-### `சுமந்தவள்` comparison finding
+### Comparison policy / findings
 
-The 2009 edition is not a simple reprint of the represented 1977 canonical edition. Besides widespread editorial/lexical variants, it contains internal five-ornament section breaks and an added epilogue after the illness/doctor sequence. Selected later readings also create targeted 1977 recheck candidates (`அவா`, `முழங்கால்`, `ஈன குரத்தை`), but no canonical change is allowed until the exact 1977 controlling scan is reopened.
+The 2009 fourth edition must remain separate from each represented canonical source. A smoother later reading is not permission to normalize the earlier edition. Any apparent canonical correction requires reopening that story's own controlling scan.
+
+`சுமந்தவள்` demonstrates genuine expansion: 2009 adds a three-year epilogue. `புகழேந்தி`, by contrast, preserves the represented narrative and ending while revising spelling, spacing, punctuation and selected wording. The 1977 controlling PDF was unavailable for fresh rechecks during both comparisons, so no 1977 Tamil/English source layer was changed from later-edition evidence alone.
 
 ## Preserved source anomaly
 
@@ -68,12 +70,12 @@ The TOC lists `சங்கிலிச்சாமி` at printed page **105**,
 
 ## Current exact next activity
 
-Process **2009 additional witness 2 / 11 — `புகழேந்தி` only**:
+Process **2009 additional witness 3 / 11 — `நளாயினி` only**:
 
-- 2009 scans **82–89 / printed 77–84**;
-- canonical workspace: `stories/pugazhendhi/`;
+- 2009 scans **90–99 / printed 85–94**;
+- canonical workspace: `stories/nalayini/`;
 - compare this edition against the canonical controlling source without silent overwrite;
-- inspect scan **90**, opening `நளாயினி`, only as the ending boundary witness;
-- record textual/structural variants explicitly and flag any canonical recheck candidate for the controlling-source scan;
-- synchronize comparison progress to **2 / 11** when complete;
-- do **not** begin `நளாயினி` in the same activity.
+- inspect scan **100**, opening `குப்பைத் தொட்டி`, only as the ending boundary witness;
+- record textual/structural variants explicitly and flag any canonical recheck candidate for its controlling-source scan;
+- synchronize comparison progress to **3 / 11** when complete;
+- do **not** begin `குப்பைத் தொட்டி` in the same activity.
