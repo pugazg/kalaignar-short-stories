@@ -65,6 +65,29 @@ These and other review-worthy readings are tracked in:
 
 An item in that file is a **human recheck candidate, not a confirmed error** and does not by itself downgrade the page from `verified`.
 
+## Additional-witness comparison — 2009 fourth edition
+
+The Fourth Edition (March 2009) `16 கதையினிலே` witness was directly reviewed across scans **82–89 / printed pages 77–84**; scan **90** was checked as the `நளாயினி` boundary.
+
+Comparison result: **COMPLETE**. The 2009 edition preserves the same story arc and `மேதை வாழ்க!` ending but contains systematic editorial/lexical revisions. The canonical 1977 Tamil and English layers remain unchanged.
+
+High-value later-witness evidence includes:
+
+- `அவனோர் பிடேல்டோ!` ↔ 2009 `அவனொரு பிடேல்டோ!`;
+- `மணக்கும் அவன் நெஞ்சம்.` ↔ 2009 `மனக்கும் அவன் நெஞ்சம்`;
+- `புகழ்தரும் தீவலி` ↔ 2009 `புகழ்தரும் தலைவலி`;
+- `வயித்துக்கிடக்கிறது` ↔ 2009 `லயித்துக் கிடக்கிறது`;
+- `காதற் கண்கள்` ↔ 2009 `காதற் கணைகள்`;
+- `கால்ப் பணிவிடைகள்` ↔ 2009 `காலைப் பணிவிடைகள்`.
+
+The latter four are especially strong **controlling-source recheck candidates**. They are not canonical corrections until the exact 1977 source scans are reopened. The 1977 controlling PDF was not available in the current file context for that fresh scan-level check.
+
+The later edition also corroborates several unusual source features, including the isolated `புகழ்! புகழ்!! புகழ்!!!` refrain, the same final `மேதை வாழ்க!` narrative close, and the unusual `ஏறெடுத்தும் பாராமல்` form.
+
+Durable comparison record:
+
+`witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`
+
 ## Assembly gate
 
 `sections/pugazhendhi.md` was assembled from all six page records in source order.
@@ -83,8 +106,8 @@ Checks:
 
 **Tamil story-source audit complete.**
 
-However, English translation should not begin automatically in the same activity. The next repository activity is Story 2 in source order unless the user chooses to review/correct `POSSIBLE_ERRORS_FOR_REVIEW.md` first. If translation of `புகழேந்தி` is later requested, re-read the manual recheck queue before opening the translation gate.
+English translation is already complete and remains based on the canonical verified 1977 Tamil layer. The 2009 witness comparison did **not** rewrite either canonical Tamil or English.
 
 ## Audit result
 
-**PASS — புகழேந்தி source range fully transcribed and structurally source-complete for the current reading, with a persistent human possible-error queue.**
+**PASS — புகழேந்தி canonical 1977 source range remains fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved. The 2009 additional-witness comparison is complete and supplies targeted recheck evidence without silently changing the controlling source.**
