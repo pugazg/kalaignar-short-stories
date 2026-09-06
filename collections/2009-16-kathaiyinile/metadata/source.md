@@ -37,10 +37,12 @@ TOC: `சங்கிலிச்சாமி` starts p105. Physical scan 110 is
 
 Intake new candidates were **`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`**. Stories 6–16 already have canonical matches.
 
-Current new-story source-processing state:
+Final new-story source-processing state:
 
-- `காந்தி தேசம்` — **COMPLETE / PASS**, scans **6–18 / printed 1–13**, canonical workspace `stories/gandhi-desam/`, 13/13 verified, 0 unresolved.
-- `அணில் குஞ்சு` — **COMPLETE / PASS**, scans **19–28 / printed 14–23**, canonical workspace `stories/anil-kunju/`, 10/10 verified, 0 unresolved.
-- `கொள்ளைபுரம்` — **COMPLETE / PASS**, scans **29–37 / printed 24–32**, canonical workspace `stories/kollaipuram/`, 9/9 verified, 0 unresolved.
-- `எழுத்தாளர் ஏகலைவன்` — **COMPLETE / PASS**, scans **38–49 / printed 33–44**, canonical workspace `stories/ezhuthalar-ekalaivan/`, 12/12 verified, 0 unresolved.
-- `மலரவில்லை` — **NEXT**, scans **50–63 / printed 45–58**; scan **64** (`சுமந்தவள்`) is the next-story boundary.
+- `காந்தி தேசம்` — **COMPLETE / PASS**, scans **6–18 / printed 1–13**, canonical workspace `stories/gandhi-desam/`, 13/13 verified, Tamil audit PASS, visual PASS, 0 unresolved.
+- `அணில் குஞ்சு` — **COMPLETE / PASS**, scans **19–28 / printed 14–23**, canonical workspace `stories/anil-kunju/`, 10/10 verified, Tamil audit PASS, visual PASS, 0 unresolved.
+- `கொள்ளைபுரம்` — **COMPLETE / PASS**, scans **29–37 / printed 24–32**, canonical workspace `stories/kollaipuram/`, 9/9 verified, Tamil audit PASS, visual PASS, 0 unresolved.
+- `எழுத்தாளர் ஏகலைவன்` — **COMPLETE / PASS**, scans **38–49 / printed 33–44**, canonical workspace `stories/ezhuthalar-ekalaivan/`, 12/12 verified, Tamil audit PASS, visual PASS, 0 unresolved.
+- `மலரவில்லை` — **COMPLETE / PASS**, scans **50–63 / printed 45–58**, canonical workspace `stories/malaravillai/`, 14/14 verified, Tamil audit PASS, visual PASS, 0 unresolved. Scan **64** (`சுமந்தவள்`) is boundary evidence only.
+
+The five new candidates are therefore **5 / 5 complete**. No further onboarding work remains in this source. Additional-witness comparison and English are separate future phases.
