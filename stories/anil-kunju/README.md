@@ -34,8 +34,17 @@ The large opening heading on scan 19, alternating running headers/folios, dialog
 
 ## English translation
 
-**Not started.** Tamil/source and visual-fidelity gates are PASS; no English layer was created during this onboarding activity.
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/anil-kunju.md`](translations/en/anil-kunju.md)
+- Translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source pages represented: **10 / 10**
+- physical page-anchor alignment: **PASS**
+- public-meeting speeches, squirrel/Ramayana account, religious argument and final hawk/sacrifice ending: **complete**
+- five closing ornaments retained: **Yes**
+- possible-error queue silently corrected: **No**
+- canonical Tamil changed during translation: **No**
 
 ## Completion state
 
-**அணில் குஞ்சு Tamil archival source processing and visual fidelity are COMPLETE for scans 19–28 / printed pages 14–23: 10/10 verified, 0 blocked, 0 unresolved story text.**
+**அணில் குஞ்சு Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 19–28 / printed pages 14–23: Tamil 10/10 verified, English PASS, 0 blocked, 0 unresolved story text.**
