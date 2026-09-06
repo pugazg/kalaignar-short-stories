@@ -63,44 +63,27 @@ Workspace: `collections/2009-16-kathaiyinile/`
 
 The earlier 150-scan / incomplete-source statement is incorrect and superseded.
 
-### Completed new stories
+### Completed new stories — 5 / 5
 
 - `காந்தி தேசம்` — `stories/gandhi-desam/` — scans **6–18 / printed 1–13** — **13/13 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 - `அணில் குஞ்சு` — `stories/anil-kunju/` — scans **19–28 / printed 14–23** — **10/10 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 - `கொள்ளைபுரம்` — `stories/kollaipuram/` — scans **29–37 / printed 24–32** — **9/9 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 - `எழுத்தாளர் ஏகலைவன்` — `stories/ezhuthalar-ekalaivan/` — scans **38–49 / printed 33–44** — **12/12 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+- `மலரவில்லை` — `stories/malaravillai/` — scans **50–63 / printed 45–58** — **14/14 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started. Scan **63** closes with five circular ornaments; scan **64** opens `சுமந்தவள்` and is excluded.
 
-### Active story — `மலரவில்லை`
+`மலரவில்லை` has a complete verified page layer, `sections/malaravillai.md`, closed recheck queue, Tamil audit PASS and visual-fidelity PASS. Source-close readings are documented in its audit; do not silently normalize them or reopen the story without new evidence.
 
-Canonical workspace now exists: `stories/malaravillai/`. **Do not recreate it.**
+New-story processing state for the 2009 source: **5 / 5 COMPLETE / PASS**.
 
-- printed pages: **45–58**
-- scans: **50–63**
-- scan **50** opens `மலரவில்லை`
-- scan **63 / printed 58** contains the conclusion and five circular closing ornaments
-- scan **64** opens `சுமந்தவள்` and is excluded
-- page-coordinate records: **14 / 14 present**
-- page status: **14 / 14 `needs-review`**
-- verified Tamil pages: **0 / 14**
-- Tamil assembly: **not yet created**
-- Tamil audit: **PENDING**
-- visual-fidelity closure: **PENDING**; physical boundary/layout checks recorded
-- English: **not started**
+## Current exact state / stop boundary
 
-The page records intentionally contain no guessed/OCR-reconstructed prose. They are a durable source-coordinate checkpoint only. Fill each page from direct visual comparison with the controlling scan and promote to `verified` only after full-span difficult-reading checks.
+The requested new-short-story onboarding phase is closed. There is **no active onboarding story**.
 
-New-story processing state for the 2009 source: **4 / 5 complete + 1 / 5 in progress**.
+Do not automatically begin any of the following:
 
-## Current exact next activity
+1. `சுமந்தவள்` — it already has a canonical workspace and scan 64 was used only as the `மலரவில்லை` boundary witness;
+2. additional-witness comparison for the eleven pre-existing canonical stories in the 2009 anthology;
+3. English translation for `நண்பனா?` or the five newly onboarded 2009 stories;
+4. `நடுத்தெரு நாராயணி` as a short story — it remains reserved for separate short-novel handling.
 
-Continue **`மலரவில்லை` only**:
-
-1. fetch live `main`; preserve the existing `stories/malaravillai/` workspace;
-2. read the permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, the 2009 collection controls, and `stories/malaravillai/README.md`;
-3. fill and directly verify the 14 page records for scans **50–63 / printed 45–58** from the controlling PDF;
-4. apply the exhaustive difficult-reading protocol; do not infer from OCR, memory, or context;
-5. build `sections/malaravillai.md` only from verified page text and audit it back against all scans;
-6. close Tamil audit and visual fidelity only when justified;
-7. synchronize collection/root controls and then mark the five new 2009 stories **5 / 5 complete**;
-8. do **not** begin `சுமந்தவள்`, English translation, or additional-witness comparison in the same activity;
-9. do **not** process `நடுத்தெரு நாராயணி` as a short story.
+Await explicit user direction for the next phase. Any future source-dependent work must begin by fetching live `main` and reading the relevant permanent guides and current controls.
