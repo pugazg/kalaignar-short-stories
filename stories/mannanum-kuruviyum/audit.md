@@ -2,30 +2,31 @@
 
 ## Result
 
-**PASS — scan 5 / printed page 4 is source-complete and verified.**
+**REOPENED / NEEDS REVIEW.**
 
-- canonical source records: **1 / 1 verified**
-- blocked / unresolved story text: **0**
-- next-story boundary: **PASS** — scan 6 starts `அரசாபிமானக் கதை`
-- historical-glyph audit: **PASS**
-- visual-fidelity audit: **PASS**
+The previous PASS was based on an incorrect scan-5-only boundary. Whole-scan reinspection establishes that Story 1 continues in the **upper portion of scan 6 / printed page 5**, above the next heading `அரசாபிமானக் கதை`.
+
+Current state:
+
+- scan **5 / printed 4**: **verified**
+- upper scan **6 / printed 5**: **needs-review** — exact transcription pending
+- source records: **1 verified + 1 needs-review**
+- blocked text: **0 declared**; the upper span is a review hold, not a fabricated or terminal block
+- historical-glyph audit: scan 5 PASS; upper scan 6 pending
+- visual boundary: corrected
 - English: not authorized / not started
 
 ## Duplicate / identity gate
 
-Before activation, the exact title, obvious variants, distinctive coin/alms/fear dialogue and complete narrative premise/ending were checked against the existing canonical inventories and plausible story identities.
+The story identity remains positively distinct from current canon. The boundary correction does not alter that result.
 
-Result: **positively distinct from current canon**. The canonical `குருவி ராமேஸ்வரம்` is unrelated narrative material despite the shared `குருவி` token.
+## Direct source title correction
 
-## Direct source correction
+The collection intake title `மன்னனும் குறவியும்.` was correctly changed to **`மன்னனும் குருவியும்!`** from enlarged source pixels. This remains an ordinary source-reading/punctuation correction, separate from historical-glyph decoding.
 
-The collection intake initially recorded the banner as `மன்னனும் குறவியும்.`. Enlarged source review establishes **`மன்னனும் குருவியும்!`**.
+## Verified scan-5 forms
 
-This is an ordinary source-reading/punctuation correction. It is not a historical-glyph modernization and is therefore kept separate from `HISTORICAL_GLYPH_AUDIT.md`.
-
-## Source forms deliberately preserved
-
-Verified source forms include:
+The following scan-5 readings remain verified and unchanged:
 
 - `ஒருகாசு`
 - `அந்தக்காசை`
@@ -39,10 +40,15 @@ Verified source forms include:
 - `தன்வழியில்`
 - `வந்துவிட்டது....`
 
-No spelling, grammar, colloquial wording, compounding or punctuation was modernized merely for readability.
+## Required closure work
 
-## Physical line-break note
+Before Story 1 can return to PASS:
 
-The source physically breaks `திரும்பு` / `வானேன்!` across adjacent lines. Character identity and syntax positively establish the continuous word **`திரும்புவானேன்!`**; it is joined in the reading layer while scan provenance remains reversible.
+1. transcribe the complete upper Story-1 span on scan 6 directly from enlarged source pixels;
+2. run the full 13-family historical-glyph audit on that span;
+3. synchronize the page record and canonical section;
+4. re-run full-span visual/Tamil QA across scan 5 → upper scan 6.
 
-**Tamil source audit: PASS.**
+No wording may be inferred from the following story or from contextual expectation.
+
+**Tamil source audit: OPEN / NEEDS REVIEW.**
