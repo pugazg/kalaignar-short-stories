@@ -1,92 +1,88 @@
-# NEXT CHAT PROMPT — 2009 additional-witness comparison / நளாயினி
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 2009 phases closed
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen closed canonical source/English phases merely because a copied prompt is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen a closed phase merely because a copied prompt or prior chat contains an older checkpoint.
 
-## Active 2009 source
+## Permanent startup
 
-`TVA_BOK_0065745_16_கதையினிலே.pdf`
-
-- SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
-- size: **384,978,955 bytes**
-- registered scans: **183**
-- edition: **Fourth Edition, March 2009**
-- all **16 / 16** stories physically present
-
-The old 150-scan/incomplete-source statement is false. A truncated conversation copy may still contain the current scan range, but it does not replace the registered source identity.
-
-## Mandatory startup
-
-Read before source-dependent writes:
+Read as relevant before source-dependent work:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
 3. `HANDOVER.md`
 4. this `NEXT_CHAT_PROMPT.md`
-5. `collections/2009-16-kathaiyinile/README.md`
-6. `collections/2009-16-kathaiyinile/metadata/source.md`
-7. `collections/2009-16-kathaiyinile/indexes/story-inventory.md`
-8. `collections/2009-16-kathaiyinile/indexes/scan-map.md`
-9. `stories/nalayini/README.md`
-10. `stories/nalayini/metadata/source.md`
-11. `stories/nalayini/audit.md`
-12. `stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md`
-13. `stories/nalayini/visual-fidelity.md`
+5. the active collection/workspace controls named by the user's newly authorized activity
 
-## Closed onboarding
+## 2009 source — `16 கதையினிலே`
 
-The five new 2009 stories (`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`) are **5 / 5 COMPLETE / PASS**. Do not redo them.
+Source identity:
 
-## Active phase — existing-canonical additional-witness comparison
+- filename: `TVA_BOK_0065745_16_கதையினிலே.pdf`
+- SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
+- size: **384,978,955 bytes**
+- registered scans: **183**
+- edition: **Fourth Edition, March 2009**
+- all **16 / 16** stories physically represented
+- story block: scans **6–182**
+- scan **183**: back cover
 
-Stories 6–16 already have canonical workspaces. The user explicitly authorized comparing the 2009 fourth edition against those canonical editions.
+A conversation working copy used during comparison work ends at scan 150. It does not supersede the registered 183-scan source identity. Later witness records explicitly document provenance and avoid inventing unseen glyph-level readings.
 
-Current progress: **2 / 11 complete**.
+## CLOSED — new-story onboarding — 5 / 5
 
-### Completed 1 / 11 — `சுமந்தவள்`
+The five stories newly onboarded from the 2009 collection are all Tamil source-complete:
 
-- 2009 scans **64–81 / printed 59–76**
-- comparison record: `stories/sumanthaval/witnesses/2009-16-kathaiyinile/`
-- result: **materially revised/expanded edition**
-- major finding: 2009 adds a three-year epilogue on scans **80–81**, absent from the represented 1977 canonical edition
-- canonical 1977 Tamil/English changed: **No**
-- targeted 1977 recheck candidates include `அவள்` ↔ `அவா`, `முழுங்கால்` ↔ `முழங்கால்`, and `சன சுரத்தை` ↔ `ஈன குரத்தை`
+1. `காந்தி தேசம்` — 13/13 verified; Tamil audit PASS; visual PASS; 0 unresolved.
+2. `அணில் குஞ்சு` — 10/10 verified; Tamil audit PASS; visual PASS; 0 unresolved.
+3. `கொள்ளைபுரம்` — 9/9 verified; Tamil audit PASS; visual PASS; 0 unresolved.
+4. `எழுத்தாளர் ஏகலைவன்` — 12/12 verified; Tamil audit PASS; visual PASS; 0 unresolved.
+5. `மலரவில்லை` — 14/14 verified; Tamil audit PASS; visual PASS; 0 unresolved.
 
-### Completed 2 / 11 — `புகழேந்தி`
+English for these five has **not** been started and remains a separate possible future phase.
 
-- 2009 scans **82–89 / printed 77–84**
-- comparison record: `stories/pugazhendhi/witnesses/2009-16-kathaiyinile/`
-- result: **same narrative/ending, editorially revised/regularized; no added epilogue or major narrative block**
-- canonical 1977 Tamil/English changed: **No**
-- high-priority 1977 recheck evidence: `புகழ்தரும் தீவலி` ↔ `புகழ்தரும் தலைவலி`; `வயித்துக்கிடக்கிறது` ↔ `லயித்துக் கிடக்கிறது`; `காதற் கண்கள்` ↔ `காதற் கணைகள்`; `கால்ப் பணிவிடைகள்` ↔ `காலைப் பணிவிடைகள்`
-- unusual `ஏறெடுத்தும் பாராமல்` is cross-edition corroborated
+## CLOSED — existing-canonical additional-witness comparison — 11 / 11
 
-Do not import later wording into the 1977 canonical layers without direct controlling-source evidence. The 1977 controlling PDF was unavailable during the first two comparison activities.
+Final ledger:
 
-## CURRENT EXACT ACTIVITY — comparison 3 / 11 — `நளாயினி`
+`collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md`
 
-- 2009 collection item: **8 / 16**
-- TOC title: **`நளாயினி`**
-- opening heading: **`நளாயினி`**
-- printed pages: **85–94**
-- PDF scans: **90–99**
-- canonical workspace: `stories/nalayini/`
-- next story first scan: **100** — `குப்பைத் தொட்டி`
+Completed comparisons:
 
-Process only this additional witness:
+1. `சுமந்தவள்` — scans 64–81 — materially revised/expanded; 2009 adds a three-year epilogue.
+2. `புகழேந்தி` — scans 82–89 — same narrative/ending; strong lexical clarifications.
+3. `நளாயினி` — scans 90–99 — same narrative; strong lexical clarifications; note styling differs.
+4. `குப்பைத் தொட்டி` — scans 100–110 — same narrative; strong lexical clarifications; p105 physical/TOC anomaly preserved.
+5. `சங்கிலிச்சாமி` — scans 111–125 — same narrative; devotional/dialogue regularization.
+6. `தப்பிவிட்டார்கள்` — scans 126–136 — same narrative; spelling/verb-form modernization.
+7. `தப்பவில்லை` — scans 137–149 — same narrative/final irony; editorial repagination.
+8. `ஏழை` — scans 150–154 — same story/boundary; lexical assertions beyond local scan 150 deliberately conservative.
+9. `கண்ணடக்கம்` — scans 155–163 — same narrative; later evidence includes `வான மீனுக்கோ` ↔ `வாளை மீனுக்கோ` and `துணி ஏண்` ↔ `துணி ஏணை`.
+10. `வாழ முடியாதவர்கள்` — scans 164–173 — same narrative; high-priority later clarification `கற்பினைக்...தீவிதி` ↔ `கற்பனைப்...தலைவிதி`.
+11. `அய்யோ ராஜா` — scans 174–182 — same story/boundary; title punctuation differs from canonical `அய்யோ ராஜா!`; lexical claims kept conservative where direct 2009 pixels were unavailable.
 
-1. confirm live canonical `stories/nalayini/` state and controlling-source identity;
-2. inspect 2009 scans **90–99** directly and scan **100** only as the ending boundary witness;
-3. compare the 2009 wording, punctuation, paragraph/dialogue structure, title and ending against the canonical controlling edition;
-4. preserve each edition separately — do **not** silently overwrite canonical Tamil with later wording;
-5. where the 2009 witness appears to clarify a suspicious canonical form, add a targeted recheck candidate and change canonical text only if its own controlling scan is directly reopened and supports the change;
-6. create/update a durable 2009 witness comparison under the existing `stories/nalayini/` workspace;
-7. synchronize the canonical story metadata/audit/recheck controls as needed without changing verified source text merely because the editions differ;
-8. synchronize collection README/source/inventory/scan-map, root README, `HANDOVER.md`, and this prompt to **3 / 11 complete**;
-9. advance the next exact target to `குப்பைத் தொட்டி` — scans **100–110**; scan **111 `சங்கிலிச்சாமி`** is the boundary witness. Preserve the recorded TOC/physical pagination anomaly;
-10. stop after `நளாயினி`; do **not** begin `குப்பைத் தொட்டி` in the same activity.
+Every comparison has a durable witness layer under the canonical story workspace.
 
-`நடுத்தெரு நாராயணி` remains reserved for separate short-novel handling and is outside this queue.
+### Canonical disposition
+
+- canonical 1977 Tamil changed from 2009 evidence: **No**
+- canonical 1977 English changed: **No**
+- canonical verified page statuses changed: **No**
+- apparent later corrections remain recheck evidence until the exact canonical controlling scan is reopened
+
+## No automatic next activity
+
+There is currently **no automatic next story** in the 2009 queue.
+
+Do not begin any of the following merely because this prompt is reused:
+
+- English translation of the five newly onboarded 2009 stories;
+- canonical 1977 corrections based only on 2009 readings;
+- another anthology/source;
+- `நடுத்தெரு நாராயணி` as a short story.
+
+`நடுத்தெரு நாராயணி` remains reserved for a separate short-novel workflow.
+
+Wait for the user's next explicitly authorized activity. If the user supplies the 1977 controlling PDF and asks to resolve the later-witness recheck candidates, treat that as a separate source-correction phase.
