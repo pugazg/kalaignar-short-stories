@@ -13,6 +13,22 @@ Canonical story workspace for **சுமந்தவள்**, processed from th
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## Additional edition witness — 2009
+
+The 2009 fourth edition **`16 கதையினிலே`** has now been compared as an independent witness:
+
+- 2009 scans: **64–81 / printed 59–76**
+- boundary: scan **82** opens `புகழேந்தி`
+- comparison coverage: **18 / 18 scans reviewed**
+- result: **materially revised/expanded edition, not a simple reprint**
+- major structural difference: 2009 adds a **three-year epilogue on scans 80–81** after an internal five-ornament break; this epilogue is absent from the represented 1977 canonical edition
+- canonical 1977 Tamil changed from the 2009 witness: **No**
+
+Witness record: [`witnesses/2009-16-kathaiyinile/README.md`](witnesses/2009-16-kathaiyinile/README.md)  
+Variant comparison: [`witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`](witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md)
+
+Later-edition variants that may expose a 1977 glyph/transcription issue are recheck candidates only. Any canonical correction requires reopening the exact 1977 controlling scan.
+
 ## Tamil archival status
 
 **PASS — 11 / 11 story pages transcribed and directly source-reviewed.**
@@ -29,7 +45,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Source-sensitive verification
 
-Direct/full-span review resolved older-glyph spans including `அடுக்களை`, `கர்ப்பவதி`, and `கர்ப்பமாயிருக்கிறாளே`. Source-close forms retained include `களித்துப்போய்`, `குழறல்`, `கனிமரமென`, `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `உளறினன்`, `தயங்கினன்`, `‘பெட்காபி’`, `யெளவனத்தின்`, `அலறினள்`, and `எமை விட்டு எச்சில் இலையே!`. These are preserved from the controlling scan rather than silently normalized.
+Direct/full-span review resolved older-glyph spans including `அடுக்களை`, `கர்ப்பவதி`, and `கர்ப்பமாயிருக்கிறாளே`. Source-close forms retained include `களித்துப்போய்`, `குழறல்`, `கனிமரமென`, `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `உளறினன்`, `தயங்கினன்`, `‘பெட்காபி’`, `யெளவனத்தின்`, `அலறினள்`, and `எமை விட்டு எச்சில் இலையே!`. These remain preserved from the controlling 1977 scan rather than silently normalized from the later witness.
 
 Physical page joins were explicitly checked, including `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`, `...அந்தக் குழந்தை அளித்த வேதனையால்` → `ஏற்கனவே...`, and `“ஆராரோ” பாடுவதும்` → `பிணிக்கு மருந்து தருவதும்...`.
 
@@ -39,13 +55,14 @@ Physical page joins were explicitly checked, including `செளந்தரி
 
 - English: [`translations/en/sumanthaval.md`](translations/en/sumanthaval.md)
 - review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- all **11 / 11** source-page markers retained
+- all **11 / 11** 1977 source-page markers retained
 - exact joins **243→244**, **244→245**, and **247→248** remain traceable
-- narrator/mother frame, embedded Maragatham–Soundari story, motherhood/beauty conflict, armed confrontation and diagnosis ending remain complete
+- narrator/mother frame, embedded Maragatham–Soundari story, motherhood/beauty conflict, armed confrontation and diagnosis ending remain complete for the represented 1977 edition
 - difficult queue forms handled conservatively without source normalization
 - canonical Tamil changed during translation: **No**
+- 2009-only epilogue imported into the 1977 English layer: **No**
 
-## Story boundary
+## Story boundary — controlling 1977 edition
 
 - scan **239** opens `சுமந்தவள்`;
 - scan **249** contains the final paragraph and closing ornament;
@@ -55,4 +72,4 @@ Physical page joins were explicitly checked, including `செளந்தரி
 
 ## Completion state
 
-**சுமந்தவள் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 239–249 / printed pages 230–240.**
+**சுமந்தவள் 1977 Tamil archival source processing, visual fidelity and English translation remain COMPLETE. The 2009 additional-witness comparison is also COMPLETE, with the editions kept explicitly separate.**
