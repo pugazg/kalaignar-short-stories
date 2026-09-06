@@ -64,7 +64,7 @@ Permanent guides:
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`கொள்ளைபுரம்`](stories/kollaipuram/README.md) | **Tamil source PASS — 9/9 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`எழுத்தாளர் ஏகலைவன்`](stories/ezhuthalar-ekalaivan/README.md) | **Tamil source PASS — 12/12 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`மலரவில்லை`](stories/malaravillai/README.md) | **Tamil source PASS — 14/14 verified; 0 blocks; recheck queue closed** | **not started** |
@@ -192,10 +192,10 @@ Tracker:
 Current state:
 
 - six Tamil-complete stories without English at phase start: **6**
-- English PASS: **2 / 6 — `நண்பனா?`, `காந்தி தேசம்`**
-- pending: **4 / 6**
-- next exact story: **`அணில் குஞ்சு`**
-- within the five 2009 new stories, `காந்தி தேசம்` is English PASS and four remain pending.
+- English PASS: **3 / 6 — `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு`**
+- pending: **3 / 6**
+- next exact story: **`கொள்ளைபுரம்`**
+- within the five 2009 new stories, `காந்தி தேசம்` and `அணில் குஞ்சு` are English PASS and three remain pending.
 
 ## Completed anthology source / English phase closed
 
