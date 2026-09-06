@@ -50,72 +50,118 @@ Source identity:
 - headings: **25 / 25 exact**
 - SHA-256: **PENDING**; do not invent it.
 
-## Shared-boundary correction — authoritative
+## USER-DIRECTED BATCHING — 15 NEW SCANS PER ITERATION
 
-Direct whole-page review of scans 6–7 supersedes the earlier simple scan ranges:
+The user explicitly changed the active 1987 workflow to **15 physical source pages per iteration**.
 
-- Story 1 `மன்னனும் குருவியும்!`: scan **5 → upper scan 6**;
-- Story 2 `அரசாபிமானக் கதை`: **lower scan 6 → upper scan 7**;
-- Story 3 `தென்னை மரத்தில் புல்`: begins **lower scan 7**.
+- Batch 01: scans **6–20** — source/structure/identity review COMPLETE.
+- Batch 02: scans **21–35** — NEXT.
+- Boundary-context pages may be reopened without counting them among the 15 new scans.
+- This batching rule overrides the earlier one-story-at-a-time stopping point for this active source, but does **not** override duplicate, source, glyph, or shared-boundary gates.
 
-The previous Story-1 statement “scan 5 only / no continuation on scan 6” is withdrawn.
+Batch-01 durable record:
 
-## Story 1 — `மன்னனும் குருவியும்!` — REOPENED
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/BATCH_0001_SCANS_0006_0020.md`
 
-Workspace: `stories/mannanum-kuruviyum/`.
+## Batch 01 — authoritative physical routing
+
+- Story 1 `மன்னனும் குருவியும்!`: scan **5 → upper 6**.
+- Story 2 `அரசாபிமானக் கதை`: **lower 6 → upper 7**.
+- Story 3 `தென்னை மரத்தில் புல்`: **lower 7 only**.
+- Story 4 `நாராயணு! நாராயணு!`: **8 → 9 → upper 10**.
+- Story 5 `துறவியும் சீடர்களும்`: **lower 10 → 11 → upper 12**.
+- Story 6 `முல்லை முத்துக்குமரன்`: **lower 12 → upper 13**.
+- Story 7 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`: **lower 13 → 14 → upper 15**.
+- Story 8 `புத்தர் உணர்த்திய உண்மை`: **lower 15 → 16 → 17 → upper 18**.
+- Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`: **lower 18 → 19 → upper 20**.
+- Story 10 `இரு நிகழ்வுகள்`: begins **lower 20**, continues through scans 21–22.
+
+Do not revert to the earlier simple one-heading-per-scan ranges.
+
+## Canonical-identity state through Batch 01
+
+### Story 1 — `மன்னனும் குருவியும்!`
 
 - identity: **PASS — new canonical identity**
+- workspace: `stories/mannanum-kuruviyum/`
 - scan 5: verified
-- upper scan 6: physical continuation confirmed, exact text **needs-review**
-- source records: **1 verified + 1 needs-review**
-- scan-5 historical glyph audit: PASS
-- upper-scan-6 historical glyph audit: pending
-- story-wide Tamil/visual PASS: withdrawn until full span closes
+- upper scan 6: physical ending confirmed; exact old-type text `needs-review`
+- story-wide Tamil/visual/historical-glyph closure: **OPEN**
 - English: not authorized
 
-Do not reconstruct the missing upper scan-6 wording from context.
+### Story 2 — `அரசாபிமானக் கதை`
 
-## Story 2 — `அரசாபிமானக் கதை` — EXISTING CANONICAL IDENTITY
-
-Duplicate gate result: **PASS — same narrative as canonical `ஜாடி குட்டி போடுமா?`**.
-
-Existing canonical workspace: `stories/jaadi-kutti-poduma/`.
-
-1987 witness path:
-
-`stories/jaadi-kutti-poduma/witnesses/1987-kalaignar-sonna-kuttik-kathaigal/`
-
-State:
-
-- physical span: lower scan 6 → upper scan 7
-- narrative identity: PASS
-- new `அரசாபிமானக் கதை` canonical folder: **No**
-- exact 1987 lexical transcription: **needs-review**
-- 1987 historical-glyph audit: **needs-review**
+- identity: **PASS — existing canonical `ஜாடி குட்டி போடுமா?`**
+- 1987 witness path: `stories/jaadi-kutti-poduma/witnesses/1987-kalaignar-sonna-kuttik-kathaigal/`
+- physical span: lower 6 → upper 7
+- exact 1987 lexical/historical-glyph closure: `needs-review`
 - canonical 2008 Tamil changed: **No**
 - canonical English changed: **No**
 
-The alternate 1987 heading is edition evidence and does not rename the canonical 2008 story.
+### Stories 3–9
 
-## Other duplicate controls
+Canonical-identity audit: **PASS — seven positively distinct identities**.
 
-- `குருவி ராமேஸ்வரம்` — existing canonical, additional witness only.
-- `புகழேந்திப் புலவர் கதை` — identity hold vs `புகழேந்தி`.
-- `யசோதர காவியம்` — identity hold vs embedded material in `அமிர்தமதி`.
+- `தென்னை மரத்தில் புல்`
+- `நாராயணு! நாராயணு!`
+- `துறவியும் சீடர்களும்`
+- `முல்லை முத்துக்குமரன்`
+- `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
+- `புத்தர் உணர்த்திய உண்மை`
+- `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`
+
+Special collision checks completed:
+
+- 1987 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` is **not** 2004 canonical `சொர்க்கத்திற்கு வந்தது எப்படி?`;
+- 1987 `புத்தர் உணர்த்திய உண்மை` is **not** 1977 canonical `சித்தார்த்தன் சிலை`.
+
+Their identities are cleared, but low-confidence canonical story folders were **not** created merely from rendered-page text. Exact lexical/historical-glyph closure remains open where character-level source certainty is insufficient.
+
+### Story 10 — `இரு நிகழ்வுகள்`
+
+- lower scan 20 reviewed;
+- story continues 21–22;
+- identity: **OPEN / partial**;
+- complete in Batch 02 before any workspace decision.
+
+## Other known duplicate controls ahead
+
+- Story 11 `குருவி ராமேஸ்வரம்` — existing canonical; 1987 additional witness only.
+- Story 14 `புகழேந்திப் புலவர் கதை` — identity hold vs canonical `புகழேந்தி`.
+- Story 21 `யசோதர காவியம்` — identity hold vs embedded material in canonical `அமிர்தமதி`.
+- `தெனாலிராமன் கதை` and `தெனாலிராமன் பூனை` require independent cross-comparison when reached.
+
+## Historical-glyph status
+
+Mandatory set:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Batch 01 completed 15/15 page-level physical/source-zone review with the historical-glyph checklist active. The available rendered source view is not sufficient to certify every small old-type character, so textual `verified` status was **not** fabricated.
+
+- source/structure review: **Batch 01 COMPLETE**
+- identity review: Stories 3–9 PASS; Story 10 open
+- exact lexical / character-level historical-glyph closure: **OPEN where source pixels remain insufficient**
+- no global replacement
+- no silent modernization
+- no later-edition wording imported into the 1987 source layer
 
 ## CURRENT STATE / EXACT NEXT ACTIVITY
 
-1987 intake is **ACTIVE**. Do **not** start Story 3 yet.
+1987 intake remains **ACTIVE**.
 
-Finish shared scans **6–7**:
+Process **Batch 02 — 15 new scans 21–35 inclusive**.
 
-1. direct source transcription of Story-1 upper scan 6;
-2. full 13-family historical-glyph audit for that span;
-3. direct source transcription of the Story-2 1987 witness lower scan 6 → upper scan 7;
-4. full witness historical-glyph audit;
-5. line-level reversible comparison with canonical `ஜாடி குட்டி போடுமா?`, without changing the 2008 canonical layer;
-6. re-run Story-1 Tamil/visual closure;
-7. synchronize collection controls;
-8. only then advance to Story 3 `தென்னை மரத்தில் புல்` at lower scan 7.
+1. reopen scan 20 only as boundary context for Story 10;
+2. review scans 21–22 and close Story 10's full physical span and duplicate/content identity;
+3. scan 23 `குருவி ராமேஸ்வரம்` must remain an additional witness under its existing canonical workspace;
+4. process scans 24–35, preserving every intra-page story boundary;
+5. run duplicate/alternate-title narrative checks before any new story workspace creation;
+6. apply the full historical-glyph gate to every reviewed page;
+7. do not silently promote uncertain old-type text to `verified`;
+8. update batch ledger, collection controls, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
+9. next iteration after that should be 15 new scans **36–50** (with scan 35 available as boundary context if needed).
+
+English is not authorized.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.

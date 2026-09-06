@@ -4,11 +4,21 @@
 
 The user explicitly requires that a 1987 story **must not be onboarded as a new canonical story if it already exists anywhere in `pugazg/kalaignar-short-stories`, including under an alternate title**.
 
-This file is an activation gate. A GitHub search miss alone is never proof of novelty.
+This file is an activation gate. A search-index miss alone is never proof of novelty. Canonical collection inventories and direct narrative identity control the decision.
+
+## Canonical registers used
+
+The 1987 rows are checked against the closed canonical registers represented by:
+
+- 1977 `கலைஞர் கருணாநிதியின் சிறுகதைகள்` — 37 stories;
+- 2008 `கலைஞர் சொன்ன கதைகள்` — 40 stories;
+- 2004 `கலைஞரின் குட்டிக் கதைகள்` — 34 stories;
+- subsequently onboarded 1997/2009 canonical additions;
+- story-local content where a plausible alternate-title collision exists.
 
 ## Direct-heading audit — 25 / 25 exact
 
-The five intake title holds were resolved from enlarged source pixels:
+The five intake title holds were resolved from source pixels:
 
 - scan 13 — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
 - scan 20 — `இரு நிகழ்வுகள்`
@@ -18,41 +28,101 @@ The five intake title holds were resolved from enlarged source pixels:
 
 Story 1's intake title was separately corrected from `மன்னனும் குறவியும்.` to **`மன்னனும் குருவியும்!`**.
 
-## Established canonical identities
+## Established canonical identities before Batch 01
 
 ### Story 1 — `மன்னனும் குருவியும்!`
 
-Identity disposition remains **POSITIVELY DISTINCT / NEW CANONICAL STORY** at `stories/mannanum-kuruviyum/`.
+**POSITIVELY DISTINCT / NEW CANONICAL IDENTITY** at `stories/mannanum-kuruviyum/`.
 
-However, its source closure has been **reopened** because the physical narrative continues in the upper portion of scan 6. Identity PASS and source-text completion are separate gates.
+Its source closure remains open because the narrative continues into upper scan 6.
 
 ### Story 2 — `அரசாபிமானக் கதை` → canonical `ஜாடி குட்டி போடுமா?`
 
-Direct comparison of the 1987 lower-scan-6 → upper-scan-7 narrative with existing canonical `stories/jaadi-kutti-poduma/` establishes positive identity.
+Direct comparison establishes positive identity with canonical `stories/jaadi-kutti-poduma/`.
 
-Distinctive shared sequence:
-
-1. one person borrows a jar;
-2. returns it with smaller jars and claims it produced offspring;
-3. later borrows a more valuable jar;
-4. claims the valuable jar died in childbirth;
-5. the contradiction exposes willingness to accept impossible profit but reject impossible loss.
-
-Disposition: **EXISTING CANONICAL STORY — DO NOT CREATE `stories/arasabimana-kathai/`.**
+Disposition: **EXISTING CANONICAL STORY — never create `stories/arasabimana-kathai/`.**
 
 1987 witness path:
 
 `stories/jaadi-kutti-poduma/witnesses/1987-kalaignar-sonna-kuttik-kathaigal/`
 
-The canonical 2008 title/text/English remain unchanged. Fine-grained 1987 lexical comparison waits for the historical-glyph/source transcription pass.
+Canonical 2008 Tamil/English remain unchanged.
 
-### `குருவி ராமேஸ்வரம்`
+### Story 11 — `குருவி ராமேஸ்வரம்`
 
-- 1987: scan **23 / printed 22**
+- 1987 scan **23 / printed 22**
 - existing workspace: `stories/kuruvi-rameswaram/`
 - disposition: **EXISTING CANONICAL — additional witness only**
 
-## Existing content-level holds
+## Batch 01 identity audit — scans 6–20
+
+Durable source/structure record: `BATCH_0001_SCANS_0006_0020.md`.
+
+### Story 3 — `தென்னை மரத்தில் புல்`
+
+Direct source identity: coconut-tree / grass-excuse anecdote.
+
+No canonical 1977, 2004, 2008 or later-addition inventory represents this narrative under the same or a plausible alternate title.
+
+**Disposition: PASS — positively distinct identity.**
+
+### Story 4 — `நாராயணு! நாராயணு!`
+
+Direct source identity: Narada/devotion-test anecdote represented across scans 8–upper 10.
+
+No represented canonical story has this narrative identity.
+
+**Disposition: PASS — positively distinct identity.**
+
+### Story 5 — `துறவியும் சீடர்களும்`
+
+Direct source identity: the monk/disciples lesson occupying lower scan 10 through upper scan 12.
+
+No represented canonical story has this narrative identity.
+
+**Disposition: PASS — positively distinct identity.**
+
+### Story 6 — `முல்லை முத்துக்குமரன்`
+
+The complete physical story span lower scan 12 → upper scan 13 was reviewed as one narrative and compared against the canonical inventories. No represented canonical story or plausible alternate-title identity was found.
+
+**Disposition: PASS — positively distinct identity.**
+
+### Story 7 — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
+
+A title/theme collision with 2004 canonical `சொர்க்கத்திற்கு வந்தது எப்படி?` was explicitly tested.
+
+They are **different narratives**:
+
+- 2004 `சொர்க்கத்திற்கு வந்தது எப்படி?` is the Nayanmar / heaven-arrival testimony sequence;
+- 1987 scans lower 13 → upper 15 form a separate domestic/ascetic narrative centred on a woman.
+
+**Disposition: PASS — positively distinct identity. Do not route to `stories/sorgaththirku-vandhathu-eppadi/`.**
+
+### Story 8 — `புத்தர் உணர்த்திய உண்மை`
+
+A Buddhist-content collision with 1977 canonical `சித்தார்த்தன் சிலை` was explicitly tested.
+
+They are **different narratives**:
+
+- the 1987 story is the bereavement lesson in which a grieving woman is asked to obtain grain from a household untouched by death;
+- `சித்தார்த்தன் சிலை` is the literary story of a deserted woman appealing before a Buddha statue.
+
+**Disposition: PASS — positively distinct identity. Do not route to `stories/siddharthan-silai/`.**
+
+### Story 9 — `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`
+
+The named historical Ghazni/Firdawsi anecdote represented lower scan 18 → upper scan 20 has no matching canonical narrative in the current registers.
+
+**Disposition: PASS — positively distinct identity.**
+
+### Story 10 — `இரு நிகழ்வுகள்`
+
+Only its opening in lower scan 20 falls inside Batch 01. The story continues through scans 21–22.
+
+**Disposition: IDENTITY OPEN — do not create a canonical workspace until Batch 02 reviews the complete story.**
+
+## Existing later content-level holds
 
 ### `புகழேந்திப் புலவர் கதை` — scans 27–28
 
@@ -70,15 +140,11 @@ State: **IDENTITY UNRESOLVED — no new folder permitted**.
 
 Separate physical headings, but both require independent content comparison against current canon and against each other when activated.
 
-## Shared-boundary correction relevant to identity work
+## Identity versus text verification
 
-Whole-page review established:
+Identity PASS does **not** mean that the 1987 lexical layer is verified.
 
-- Story 1 ends in **upper scan 6**;
-- Story 2 `அரசாபிமானக் கதை` begins **lower scan 6** and ends **upper scan 7**;
-- Story 3 `தென்னை மரத்தில் புல்` begins **lower scan 7**.
-
-Identity comparison must use the correct physical story span; surrounding story text is excluded.
+For Batch 01, the currently available rendered source supports physical-boundary and narrative-identity decisions, but does not support certification of every small historical Tamil glyph. Therefore Stories 3–9 are not yet populated with low-confidence canonical text merely because their identities are now distinct.
 
 ## Mandatory per-story activation test
 
@@ -86,7 +152,7 @@ Before every remaining row:
 
 1. fetch live `main`;
 2. establish exact intra-page start/end boundaries;
-3. check exact and plausible alternate titles;
+3. check exact and plausible alternate titles against canonical registers;
 4. compare distinctive opening/ending content and named anecdote identity;
 5. route matching material as an additional witness;
 6. create a new canonical workspace only when positively distinct;
@@ -95,7 +161,9 @@ Before every remaining row:
 ## Current counts
 
 - physical 1987 headings: **25 / 25 exact**
-- new canonical identities activated: **1** — `மன்னனும் குருவியும்!` (source closure reopened)
-- 1987 rows positively matched to existing canon: **2** — `அரசாபிமானக் கதை` → `ஜாடி குட்டி போடுமா?`; `குருவி ராமேஸ்வரம்` → same-title canonical
-- explicit unresolved identity holds: **2** — `புகழேந்திப் புலவர் கதை`, `யசோதர காவியம்`
-- next new-row activation is **not Story 3 yet**; first close the scan-6/7 shared source-review work.
+- distinct 1987 identities established: **8** — Story 1 and Stories 3–9
+- 1987 rows positively matched to existing canon: **2** — Story 2 → `ஜாடி குட்டி போடுமா?`; Story 11 → `குருவி ராமேஸ்வரம்`
+- Batch-01 partial identity row: **1** — Story 10 `இரு நிகழ்வுகள்`
+- explicit later identity holds: **2** — Story 14 `புகழேந்திப் புலவர் கதை`, Story 21 `யசோதர காவியம்`
+
+Next identity work begins by completing Story 10 in Batch 02, scans 21–22.

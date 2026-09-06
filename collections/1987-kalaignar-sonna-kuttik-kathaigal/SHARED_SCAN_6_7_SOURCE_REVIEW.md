@@ -2,39 +2,39 @@
 
 Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 
-Review date: **2026-09-06**
+Original review date: **2026-09-06**
 
 ## Purpose
 
-This record documents the resumed direct source review of the shared physical pages that contain the end of Story 1 and all of the 1987 witness for Story 2.
+This record documents the direct source review of the shared physical pages containing the end of Story 1 and all of the 1987 witness for Story 2.
 
-The controlling page images were directly reopened and inspected together. This pass does **not** substitute the 2008 canonical wording for the 1987 printing and does not promote any uncertain old-type reading merely because the narrative is already known.
+The controlling page images were inspected together. This pass does **not** substitute the 2008 canonical wording for the 1987 printing and does not promote any uncertain old-type reading merely because the narrative is already known.
 
 ## Authoritative physical routing
 
-Direct whole-page inspection reconfirms:
+Direct whole-page inspection establishes:
 
 - scan **6 / printed 5**, upper portion — continuation and ending material of `மன்னனும் குருவியும்!`;
 - scan **6 / printed 5**, lower portion — heading and opening/body of `அரசாபிமானக் கதை`;
 - scan **7 / printed 6**, upper portion — continuation/ending of `அரசாபிமானக் கதை`;
-- scan **7 / printed 6**, lower portion — heading and opening of `தென்னை மரத்தில் புல்`.
+- scan **7 / printed 6**, lower portion — `தென்னை மரத்தில் புல்`.
 
 No surrounding Story-3 text belongs to the Story-2 witness.
 
 ## Source-pixel / old-type review result
 
-The full shared pages were inspected again under the historical-Tamil rule:
+The full shared pages were inspected under the historical-Tamil rule:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-This pass confirms the physical text zones and permits narrative identity to remain PASS, but the available rendered source view is not sufficient to certify every character, vowel mark and punctuation sign in the small old-type body text.
+The rendered source view is sufficient to certify the physical text zones and narrative identity, but not every character, vowel mark and punctuation sign in the small old-type body text.
 
 Therefore:
 
-- no low-confidence word has been promoted to canonical or witness transcription;
-- no apparent modern-lookalike glyph has been silently decoded;
-- no global replacement has been used;
-- the 2008 canonical `ஜாடி குட்டி போடுமா?` text has **not** been used to fill the 1987 witness;
+- no low-confidence word is promoted to canonical or witness transcription;
+- no apparent modern-lookalike glyph is silently decoded;
+- no global replacement is used;
+- the 2008 canonical `ஜாடி குட்டி போடுமா?` text is **not** used to fill the 1987 witness;
 - unresolved character-level readings remain `needs-review` rather than being guessed from context.
 
 ## Story 1 disposition
@@ -65,12 +65,32 @@ Canonical identity: `stories/jaadi-kutti-poduma/` — `ஜாடி குட்
 
 This source-review pass is durable progress in the visual/physical audit, but it is **not** a textual PASS. Under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, character identity must be positively supported before Unicode transcription can be called verified.
 
-## Exact remaining action before Story 3
+## Later batching authorization — supersedes the old stopping point
 
-1. obtain a native/enlarged source-pixel view of scan 6 upper text and transcribe it word-for-word;
-2. close all 13-family checks for that Story-1 span;
-3. transcribe lower scan 6 → upper scan 7 for the 1987 `அரசாபிமானக் கதை` witness word-for-word;
+After this record was first created, the user explicitly changed the active 1987 workflow to **15 new physical source pages per iteration**.
+
+That later instruction supersedes the earlier operational statement that Story 3 must not be reviewed until scans 6–7 receive complete lexical closure.
+
+The correct interpretation now is:
+
+- the unresolved lexical/historical-glyph holds on Story 1 upper scan 6 and the Story-2 1987 witness **remain open and must not be falsely closed**;
+- later scans **may nevertheless proceed through source/structure/identity review in 15-page batches**;
+- proceeding structurally does not convert the unresolved shared spans into textual PASS;
+- no later story text may be used to infer or repair the unresolved shared text.
+
+Batch 01 subsequently reviewed scans **6–20** under this rule. See:
+
+`BATCH_0001_SCANS_0006_0020.md`.
+
+## Remaining lexical action for these shared scans
+
+When native/enlarged source pixels become available:
+
+1. transcribe Story-1 upper scan 6 word-for-word;
+2. close all 13-family checks for that span;
+3. transcribe the Story-2 witness lower scan 6 → upper scan 7 word-for-word;
 4. close its 13-family audit;
-5. only then complete reversible lexical collation against canonical 2008 `ஜாடி குட்டி போடுமா?`;
-6. re-close Story 1 and synchronize collection controls;
-7. do not activate Story 3 until the shared-page source review is textually closed.
+5. complete reversible lexical collation against canonical 2008 `ஜாடி குட்டி போடுமா?`;
+6. re-close Story 1 only if all Tamil/source/glyph/visual gates pass.
+
+These lexical holds may remain open while the authorized 15-page structural/identity batches continue.
