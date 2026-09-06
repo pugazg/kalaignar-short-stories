@@ -6,7 +6,7 @@
 | 2 | `அணில் குஞ்சு` | `அணில் குஞ்சு` | 14–23 | 19–28 | **COMPLETE / PASS — 10/10 verified; Tamil audit PASS; visual PASS; 0 unresolved — `stories/anil-kunju/`** |
 | 3 | `கொள்ளைபுரம்` | `கொள்ளைபுரம்` | 24–32 | 29–37 | **COMPLETE / PASS — 9/9 verified; Tamil audit PASS; visual PASS; 0 unresolved — `stories/kollaipuram/`** |
 | 4 | `எழுத்தாளர் ஏகலைவன்` | `எழுத்தாளர் ஏகலைவன்` | 33–44 | 38–49 | **COMPLETE / PASS — 12/12 verified; Tamil audit PASS; visual PASS; 0 unresolved — `stories/ezhuthalar-ekalaivan/`** |
-| 5 | `மலரவில்லை` | `மலரவில்லை` | 45–58 | 50–63 | **IN PROGRESS — `stories/malaravillai/` activated; boundary verified; 14/14 coordinate records `needs-review`; verified Tamil 0/14; Tamil assembly/audit/visual closure pending** |
+| 5 | `மலரவில்லை` | `மலரவில்லை` | 45–58 | 50–63 | **COMPLETE / PASS — 14/14 verified; Tamil audit PASS; visual PASS; 0 unresolved — `stories/malaravillai/`** |
 | 6 | `சுமந்தவள்` | `சுமந்தவள்` | 59–76 | 64–81 | canonical exists |
 | 7 | `புகழேந்தி` | `புகழேந்தி` | 77–84 | 82–89 | canonical exists |
 | 8 | `நளாயினி` | `நளாயினி` | 85–94 | 90–99 | canonical exists |
@@ -21,4 +21,4 @@
 
 Scan **183** is the back cover.
 
-Summary: TOC **16 / 16** registered; physical opening headings **16 / 16** checked; intake new short stories **5**; new-story source processing **4 / 5 complete + 1 / 5 in progress**. `மலரவில்லை` is structurally activated but is **not PASS** until all 14 page records and the Tamil assembly are directly source-verified. Existing canonical matches: **11**. All sixteen story spans are present in the supplied 183-scan PDF.
+Summary: TOC **16 / 16** registered; physical opening headings **16 / 16** checked; intake new short stories **5**; new-story source processing **5 / 5 COMPLETE / PASS**. Existing canonical matches: **11**. All sixteen story spans are present in the supplied 183-scan PDF. Scan **64** is the `சுமந்தவள்` opening and was used only as the ending boundary witness for `மலரவில்லை`; no `சுமந்தவள்` onboarding or additional-witness comparison was started.
