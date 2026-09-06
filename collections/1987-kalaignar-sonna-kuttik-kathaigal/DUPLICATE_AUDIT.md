@@ -2,83 +2,93 @@
 
 ## Purpose
 
-The user explicitly requires that a 1987 story **must not be onboarded as a new canonical story if it already exists anywhere in `pugazg/kalaignar-short-stories`**.
+The user explicitly requires that a 1987 story **must not be onboarded as a new canonical story if it already exists anywhere in `pugazg/kalaignar-short-stories`, including under an alternate title**.
 
-This file is therefore a gate, not a convenience list.
+This file is an activation gate.
 
-## Live repository inventories checked at intake
+## Canonical inventories checked
 
-The intake pass compared the currently readable 1987 headings against the live canonical inventory represented by:
+The live repository canon represented by the 1977, 2008, 2004, 1997/2009 work and root canonical register remains the comparison base. A GitHub code-search miss alone is never treated as proof of novelty.
 
-- 1977 `கலைஞர் கருணாநிதியின் சிறுகதைகள்`;
-- 2008 `கலைஞர் சொன்ன கதைகள்`;
-- 2004 `கலைஞரின் குட்டிக் கதைகள்`;
-- the subsequently onboarded 1997/2009 canonical stories;
-- the root canonical-story register.
+## Direct-heading audit — 25 / 25 exact
 
-## Exact-title result
+The five intake title holds were resolved from enlarged source pixels:
 
-Among the **20 currently readable 1987 headings**, one exact existing canonical title is already established:
+- scan 13 — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
+- scan 20 — `இரு நிகழ்வுகள்`
+- scan 31 — `குறிக்கோள்`
+- scan 37 — `தெனாலிராமன் கதை`
+- scan 45 — `அகத்திணை அன்பு!`
+
+None has an exact canonical-title match in the current repository. Their narrative identity must still be checked at activation.
+
+The Story-1 intake reading `மன்னனும் குறவியும்.` was corrected during enlarged full-page review to **`மன்னனும் குருவியும்!`**. The correction is direct source reading, not modernization.
+
+## Established existing canonical duplicate
 
 ### `குருவி ராமேஸ்வரம்`
 
-- 1987 source: scan **23 / printed page 22**
-- existing canonical workspace: `stories/kuruvi-rameswaram/`
-- existing controlling source represented there: 2004 `கலைஞரின் குட்டிக் கதைகள்`
+- 1987: scan **23 / printed 22**
+- existing workspace: `stories/kuruvi-rameswaram/`
 - disposition: **DO NOT CREATE A NEW STORY FOLDER**
-- correct future action: compare the 1987 text as an **additional edition witness** and store any durable witness material under the existing canonical workspace.
+- future action: compare/store the 1987 range only as an additional edition witness.
 
-No other exact title among the 20 readable headings currently matches a canonical story title.
+## Story 1 activation audit — PASS
 
-## Exact-title holds
+### `மன்னனும் குருவியும்!` — scan 5 / printed 4
 
-Five stylized 1987 headings are not yet safe enough for exact-title comparison:
+Narrative identity: a king engages with a small sparrow carrying a coin; after accepting and returning the coin he is mocked first for taking alms and then for returning it out of fear. The closing lesson says he could have avoided the humiliation by continuing on his own way.
 
-- scan **13 / printed 12**
-- scan **20 / printed 19**
-- scan **31 / printed 30**
-- scan **37 / printed 36**
-- scan **45 / printed 44**
+Checks completed before activation:
 
-Do not guess these titles from the story topic. Resolve their printed heading first, then rerun this audit.
+1. exact source title and punctuation confirmed from the banner: `மன்னனும் குருவியும்!`;
+2. no exact canonical title in the live 1977 / 2008 / 2004 / 1997 / 2009 inventories or root canonical register;
+3. obvious title variants using `மன்னன்`, `குருவி`, punctuation and spacing reviewed;
+4. distinctive content probes including the coin/alms/fear exchange did not identify a represented canonical narrative;
+5. the complete one-page premise and ending were compared against plausible existing short-story identities, including the unrelated canonical `குருவி ராமேஸ்வரம்`;
+6. scan **6** begins a different story, `அரசாபிமானக் கதை`, so the physical Story-1 boundary is closed.
 
-## Content-level collision holds
+Disposition: **POSITIVELY DISTINCT / NEW CANONICAL STORY**.
 
-Exact-title checking is only the first gate. Two currently readable titles already require special narrative comparison:
+Workspace: `stories/mannanum-kuruviyum/`.
+
+This finding does not weaken the rule for later rows: every remaining block must receive its own content-level audit.
+
+## Existing content-level holds
 
 ### `புகழேந்திப் புலவர் கதை` — scans 27–28
 
-The repository already contains canonical `புகழேந்தி` from the 1977 anthology. Shared name material does **not** prove identity and does **not** prove difference. Before activating the 1987 block, compare the complete anecdote/narrative against canonical `stories/pugazhendhi/`.
+Compare the complete narrative with canonical `stories/pugazhendhi/` before activation.
 
 State: **IDENTITY UNRESOLVED — no new folder permitted yet**.
 
 ### `யசோதர காவியம்` — scans 41–43
 
-The repository's canonical `அமிர்தமதி` explicitly records an embedded `யசோதர காவியம்` narrative. The 1987 block therefore must be compared with that embedded material before being treated as a distinct canonical story.
+Canonical `அமிர்தமதி` contains an embedded `யசோதர காவியம்` narrative. Compare the complete 1987 block before treating it as distinct.
 
 State: **IDENTITY UNRESOLVED — no new folder permitted yet**.
 
+### `தெனாலிராமன் கதை` and `தெனாலிராமன் பூனை`
+
+These are separate physical headings at scans **37** and **46**, but both concern தெனாலிராமன். Their identity must be checked independently against current canon and against each other when each row is activated; shared character material alone proves neither identity nor difference.
+
 ## Mandatory per-story activation test
 
-For every other 1987 block, immediately before creating a new `stories/<slug>/` directory:
+Before every remaining activation:
 
-1. fetch live `main` again;
-2. check exact heading against the root canonical register and all collection inventories;
-3. check obvious punctuation/spacing/title variants;
-4. search distinctive names, opening phrases and closing phrases in existing canonical text when tooling permits;
-5. compare the narrative premise and ending against plausible existing stories;
-6. if identity matches an existing canonical story, route this source as a witness;
-7. only if identity is positively distinct may a new canonical workspace be created.
+1. fetch live `main`;
+2. check exact heading and plausible title variants against all canonical registers;
+3. inspect distinctive opening and closing content;
+4. compare named characters / historical anecdote identity with plausible canonical stories;
+5. route matching material as an additional witness;
+6. create a new canonical workspace only when identity is positively distinct.
 
-A GitHub text-search miss by itself is **not proof of novelty**; search indexing may be incomplete.
-
-## Intake counts
+## Current counts
 
 - physical 1987 story blocks: **25**
-- readable headings currently eligible for exact-title comparison: **20**
-- exact existing canonical title: **1** (`குருவி ராமேஸ்வரம்`)
-- explicit narrative-identity holds despite non-identical title: **2** (`புகழேந்திப் புலவர் கதை`, `யசோதர காவியம்`)
-- unresolved stylized-title rows: **5**
-- stories positively declared new and activated from the 1987 source: **0**
-
-This audit must advance together with the collection inventory; it must never be bypassed merely to speed up transcription.
+- exact source headings: **25 / 25**
+- unresolved title holds: **0**
+- exact existing canonical duplicate: **1** — `குருவி ராமேஸ்வரம்`
+- explicit identity holds: **2** — `புகழேந்திப் புலவர் கதை`, `யசோதர காவியம்`
+- new canonical stories positively activated: **1** — `மன்னனும் குருவியும்!`
+- next activation candidate: **Story 2 `அரசாபிமானக் கதை`, scan 6 / printed 5**.

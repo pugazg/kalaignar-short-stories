@@ -1,6 +1,6 @@
 # கலைஞர் சொன்ன குட்டிக் கதைகள் — 1987 collection source
 
-Collection workspace for the newly authorized source **`கலைஞர் சொன்ன குட்டிக் கதைகள்`**.
+Collection workspace for the explicitly authorized source **`கலைஞர் சொன்ன குட்டிக் கதைகள்`**.
 
 ## Source snapshot
 
@@ -15,9 +15,9 @@ Collection workspace for the newly authorized source **`கலைஞர் ச�
 - represented edition: **இரண்டாம் பதிப்பு — 1987**
 - price line: **ரூ. 2-00**
 - source PDF committed to GitHub: **No**
-- SHA-256: **PENDING** — the current file-execution environment could not hash the mounted 107,757,858-byte upload; do not invent or substitute a weaker checksum. Fill this before declaring source registration fully closed.
+- SHA-256: **PENDING** — mounted-byte hashing remains unavailable in the current execution environment; do not invent or substitute a checksum.
 
-The source itself, not OCR or another edition, is controlling.
+The source scan is controlling. OCR or another edition may be used only as secondary discovery/corroboration and never to override the pixels.
 
 ## Physical structure
 
@@ -30,59 +30,77 @@ The source itself, not OCR or another edition, is controlling.
 - story-block pagination relation: **scan = printed page + 1**
 - printed contents page: **none visible**
 
-Because there is no contents page, this collection uses a **direct visual story-heading inventory**, following the precedent used for the 2004 collection.
+Because there is no contents page, this collection uses a direct visual story-heading inventory.
 
-## Intake state
+## Direct-heading inventory — COMPLETE
 
-- physical story-opening coordinates identified: **25 / 25**
-- exact/usable heading readings currently recorded: **20 / 25**
-- stylized headings requiring a stricter source-pixel title recheck: **5 / 25** — scans **13, 20, 31, 37, 45**
-- known exact canonical-title duplicate at intake: **1** — `குருவி ராமேஸ்வரம்`, scan **23 / printed 22**, already canonical as `stories/kuruvi-rameswaram/`
-- other exact-title matches found in the existing canonical inventory: **0 among the 20 currently readable headings**
-- content-level duplicate audit: **mandatory story-by-story before any new canonical folder is created**
-- Tamil story transcription: **not started**
-- English translation: **not authorized / not started**
+All **25 / 25** physical story openings now have source-decoded headings.
 
-Exact-title absence is not enough to prove a story is new. Every candidate must be compared against existing canonical story identity, alternate titles and narrative content before activation.
+The five previously held stylized banners were resolved by enlarged source-pixel inspection:
 
-Two especially important collision checks are already flagged:
+1. scan **13 / printed 12** — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
+2. scan **20 / printed 19** — `இரு நிகழ்வுகள்`
+3. scan **31 / printed 30** — `குறிக்கோள்`
+4. scan **37 / printed 36** — `தெனாலிராமன் கதை`
+5. scan **45 / printed 44** — `அகத்திணை அன்பு!`
 
-- `புகழேந்திப் புலவர் கதை` must not be conflated with existing canonical `புகழேந்தி` merely because they share a name token; compare narrative identity first.
-- `யசோதர காவியம்` requires content comparison because existing canonical `அமிர்தமதி` explicitly contains a `யசோதர காவியம்` embedded narrative.
+During Story 1 source review, the intake reading `மன்னனும் குறவியும்.` was also corrected from the banner pixels to **`மன்னனும் குருவியும்!`**. This is an ordinary source-reading correction, not historical-glyph modernization.
+
+## Duplicate / activation state
+
+User rule: **never create a new canonical story if the same story is already represented anywhere in this repository, including under an alternate title.**
+
+- exact canonical duplicate already established: `குருவி ராமேஸ்வரம்`, scan **23 / printed 22** → existing `stories/kuruvi-rameswaram/`; 1987 is additional-witness material only.
+- `புகழேந்திப் புலவர் கதை` remains an identity hold pending comparison with canonical `புகழேந்தி`.
+- `யசோதர காவியம்` remains an identity hold because canonical `அமிர்தமதி` contains an embedded `யசோதர காவியம்` narrative.
+- the five newly decoded stylized titles have no exact canonical-title match, but still require narrative/content comparison when each row is activated.
+
+### Story 1 — COMPLETE / PASS
+
+`மன்னனும் குருவியும்!` — scan **5 / printed 4**
+
+- exact title / punctuation: source-verified
+- physical ending: same scan; Story 2 starts scan **6**
+- exact-title, alternate-title and narrative-identity review: **PASS — positively distinct from current canon**
+- canonical workspace: `stories/mannanum-kuruviyum/`
+- source records: **1 / 1 verified**
+- Tamil audit: **PASS**
+- historical-glyph audit: **PASS**
+- visual fidelity: **PASS**
+- blocked / unresolved: **0**
+- English: **not authorized / not started**
+
+Collection processing progress: **1 / 25 physical story blocks source-processed; 24 / 25 remain**. This count is physical-source progress and does not imply that all remaining blocks will become new canonical stories.
 
 See [`DUPLICATE_AUDIT.md`](DUPLICATE_AUDIT.md).
 
-## Historical Tamil glyph rule — mandatory for this source
+## Historical Tamil glyph rule — mandatory
 
-The user supplied [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) specifically for this 1987 source.
+The user supplied [`../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md) specifically for this source.
 
-For **every story-bearing page**:
+For every story-bearing page:
 
-1. inspect the whole source page before deciding difficult glyphs;
-2. check the complete known historical set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-3. decode historical character identity into modern Unicode **without modernizing the wording**;
-4. compare same-edition examples when the form is unclear;
-5. never global-replace a historical-looking form;
-6. keep an unresolved page `needs-review` rather than guessing;
-7. maintain a story-level historical-glyph audit separate from ordinary transcription corrections.
-
-The 1987 printing visibly uses older Tamil typeforms, so this is a required verification layer, not an optional later cleanup.
+1. inspect the whole source page at enlarged/native resolution;
+2. check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+3. decode historical character identity into modern Unicode without modernizing wording;
+4. compare same-edition examples when unclear;
+5. never global-replace;
+6. leave unresolved material `needs-review`;
+7. keep historical-glyph corrections separate from ordinary transcription corrections.
 
 ## Workflow boundary
 
-Do **one story at a time** unless the user explicitly changes the rule.
-
-Before activating any row in the inventory:
-
-1. confirm its exact source heading and physical ending boundary;
-2. search the live canonical repository by exact heading, plausible alternate title, and story content;
-3. if the story already exists, add this 1987 range only as an **additional witness** under the existing canonical workspace;
-4. if it is genuinely new, create a new canonical story workspace;
-5. transcribe source-faithfully and run the historical-glyph audit on every page before visual closure;
-6. do not start English until Tamil/source/visual work is explicitly closed and translation is separately authorized.
+Do **one story at a time** unless the user explicitly changes that rule. English does not begin until Tamil/source/visual closure and separate authorization.
 
 ## Current exact next activity
 
-Finish the five **stylized-heading title rechecks** at scans **13, 20, 31, 37 and 45** from source pixels. Do not guess the typography from contextual expectation.
+Process Story **2 / 25**, **`அரசாபிமானக் கதை`**, scan **6 / printed page 5**.
 
-After the direct-heading inventory reaches **25 / 25 exact**, begin Story 1 at scan **5 / printed page 4** only after a fresh duplicate/content check. No story text has been marked verified by this intake commit.
+Before creating or changing a canonical workspace:
+
+1. re-fetch live `main`;
+2. perform exact-title, alternate-title and narrative duplicate checks against existing canon;
+3. confirm Story 2 ends on scan 6 because Story 3 `தென்னை மரத்தில் புல்` starts scan **7**;
+4. if positively new, create its canonical workspace and transcribe scan 6 source-faithfully;
+5. apply the historical-glyph audit before `verified` status;
+6. do not start Story 3 in the same activity unless the user changes the one-story-at-a-time rule.

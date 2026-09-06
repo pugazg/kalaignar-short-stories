@@ -8,7 +8,6 @@
 - collection workflow: `COLLECTION_SOURCE_GUIDE.md`
 - historical Tamil glyph workflow: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - English workflow: `ENGLISH_TRANSLATION_GUIDE.md`
-- supplemental English tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`
 - archive-wide closure history: `ARCHIVE_COMPLETION.md`
 - historical 1977-only completion record: `PROJECT_COMPLETION.md`
 
@@ -19,34 +18,31 @@ Always fetch live `main` first and preserve newer durable state.
 ## Permanent rules
 
 - controlling scan first; no silent normalization;
-- shared physical boundaries must remain exact;
-- an additional edition witness must not silently overwrite a canonical controlling edition;
-- textual differences belong in explicit comparison/audit records;
-- if a later witness appears to correct a canonical reading, reopen the exact canonical controlling scan before changing Tamil/English/control layers;
 - before creating any new story workspace, prove it is not already canonical under the same or an alternate title;
+- an additional edition witness must not silently overwrite an existing controlling edition;
+- textual differences belong in explicit comparison/audit records;
 - historical Tamil typeforms must be decoded by character identity, not modern visual resemblance;
+- never global-replace historical-looking forms;
 - source PDFs are not committed.
 
-## Closed canonical collection phases
+## Closed canonical collection phases — preserve
 
-- **1977 — கலைஞர் கருணாநிதியின் சிறுகதைகள்:** Tamil 37/37, visual 37/37, English 37/37, final QA PASS, unresolved 0.
-- **2008 — கலைஞர் சொன்ன கதைகள்:** Tamil 40/40, visual 40/40, English 40/40, final QA PASS, unresolved 0.
-- **2004 — கலைஞரின் குட்டிக் கதைகள்:** Tamil 34/34, visual 34/34, English 34/34, final QA PASS, unresolved 0.
-- **2009 new-story onboarding:** 5/5 COMPLETE / CLOSED.
-- **2009 existing-canonical witness comparison:** 11/11 COMPLETE / CLOSED.
-- **supplemental English:** 6/6 PASS / CLOSED.
+- 1977 — Tamil/visual/English **37/37 PASS**.
+- 2008 — Tamil/visual/English **40/40 PASS**.
+- 2004 — Tamil/visual/English **34/34 PASS**.
+- 2009 new-story onboarding — **5/5 CLOSED**.
+- 2009 existing-canonical witness comparison — **11/11 CLOSED**.
+- supplemental English — **6/6 PASS / CLOSED**.
 
-Do not reopen those closed phases merely to create work. A specifically authorized independent-witness comparison is distinct from reopening a canonical source pass.
+Do not reopen these merely to create work.
 
 ## ACTIVE AUTHORIZATION — 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
 
 Workspace: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
-Controlling source:
+Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 
-`TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
-
-Registered intake facts:
+### Source identity
 
 - byte size: **107,757,858 bytes**
 - scans: **50**
@@ -57,100 +53,74 @@ Registered intake facts:
 - first edition: **1984**
 - represented edition: **இரண்டாம் பதிப்பு — 1987**
 - scans **1–4**: front matter
-- scans **5–49 / printed 4–48**: story-bearing block
-- scan **50**: blank/damaged rear leaf; no visible story continuation
+- scans **5–49 / printed 4–48**: story block
+- scan **50**: blank/damaged rear leaf
 - no printed contents page
-- physical story-opening blocks identified: **25 / 25**
-- exact/usable direct headings currently: **20 / 25**
-- exact title recheck holds: scans **13, 20, 31, 37, 45**
-- SHA-256: **PENDING** because mounted-byte hashing failed in the current execution environment; do not invent it.
+- SHA-256: **PENDING** because mounted-byte hashing remains unavailable; do not invent it.
+
+### Direct-heading inventory — COMPLETE
+
+Physical openings: **25 / 25**. Exact source headings: **25 / 25**. Title holds: **0**.
+
+Former stylized holds resolved from enlarged pixels:
+
+1. scan 13 — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
+2. scan 20 — `இரு நிகழ்வுகள்`
+3. scan 31 — `குறிக்கோள்`
+4. scan 37 — `தெனாலிராமன் கதை`
+5. scan 45 — `அகத்திணை அன்பு!`
+
+Story 1 intake title was separately corrected from `மன்னனும் குறவியும்.` to **`மன்னனும் குருவியும்!`** by direct enlarged banner review.
 
 ### Duplicate gate — mandatory
 
-User directive: **do not onboard a story again if it already exists in this repository.**
-
 Durable audit: `collections/1987-kalaignar-sonna-kuttik-kathaigal/DUPLICATE_AUDIT.md`.
 
-Current intake result:
+Current state:
 
-- exact canonical duplicate already established: `குருவி ராமேஸ்வரம்` — 1987 scan **23 / printed 22** — existing `stories/kuruvi-rameswaram/`; this range is **additional witness only**;
-- `புகழேந்திப் புலவர் கதை` — identity hold pending full comparison with canonical `புகழேந்தி`;
-- `யசோதர காவியம்` — identity hold because canonical `அமிர்தமதி` contains an embedded `யசோதர காவியம்` narrative;
-- all other readable headings have no exact canonical-title match at intake, but **must still pass content-level duplicate review before activation**;
-- 5 stylized-title rows cannot complete exact-title duplicate review until their headings are source-decoded.
+- `குருவி ராமேஸ்வரம்`, scan **23 / printed 22** — existing canonical `stories/kuruvi-rameswaram/`; 1987 is additional witness only.
+- `புகழேந்திப் புலவர் கதை` — identity hold pending comparison with canonical `புகழேந்தி`.
+- `யசோதர காவியம்` — identity hold because canonical `அமிர்தமதி` contains an embedded narrative of that name.
+- all other rows require their own narrative identity check immediately before activation.
 
-No new 1987 canonical story folder has been created yet.
+### Story 1 — `மன்னனும் குருவியும்!` — COMPLETE / PASS
 
-### Historical Tamil glyph gate — mandatory
+Workspace: `stories/mannanum-kuruviyum/`
 
-The user supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` for this source, and it has been made a durable repository guide.
+- 1987 scan **5 / printed 4** only
+- scan **6** begins Story 2, `அரசாபிமானக் கதை`
+- identity/duplicate audit: **PASS — positively distinct from current canon**
+- source records: **1 / 1 verified**
+- Tamil audit: **PASS**
+- historical-glyph audit: **PASS**
+- visual fidelity: **PASS**
+- blocked / unresolved: **0**
+- English: **not authorized / not started**
 
-For every activated 1987 page:
+Historical-glyph-sensitive examples explicitly checked on scan 5 include `லை` (`வம்பில்லை`, `இல்லை`, `தேவையில்லை`), `னை` (`மன்னனைப்`) and `றா` (`என்றான்`). The full 13-family set was checked; unresolved glyphs: **0**.
 
-- inspect the full source page;
-- check all 13 known families: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- decode historical character identity into modern Unicode only;
-- preserve source spelling, grammar, vocabulary, punctuation and spacing otherwise;
-- compare same-edition forms when uncertain;
-- never global-replace;
-- unresolved old-glyph clusters remain `needs-review`;
-- keep historical-glyph corrections separately auditable from ordinary transcription corrections.
+Collection physical-source progress: **1 / 25 processed; 24 / 25 remain**.
 
-## 1997 source — `திராவிட இயக்க எழுத்தாளர் சிறுகதைகள்`
+## 1997 / 2009 durable closed state
 
-Workspace: `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`
-
-- source scans: **115**; contents: **10 works**.
-- **9** short-story titles are represented canonically.
-- `நண்பனா?`: **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English PASS.
-- `நடுத்தெரு நாராயணி`: reserved for separate short-novel handling in the novels archive; scans **62–85 / printed 52–75**.
-- new-short-story onboarding from this source: **COMPLETE / CLOSED**.
-
-## 2009 source — `16 கதையினிலே`
-
-Workspace: `collections/2009-16-kathaiyinile/`
-
-- SHA-256: `21daed58600d2e927dec4341fd1e0eab597f12d50f8c444458de9bc4ad18a859`
-- size: **384,978,955 bytes**
-- scans: **183**
-- story block: scans **6–182**
-- scan **183**: back cover
-- source completeness: **16 / 16**
-- new-story onboarding: **5 / 5 COMPLETE / CLOSED**
-- existing-canonical additional-witness comparison: **11 / 11 COMPLETE / CLOSED**
-- supplemental English for the five new 2009 stories: **5 / 5 PASS**
-
-The supplied conversation upload is the full 183-scan PDF. The earlier 150-page limit was only a rendered-preview/access limit, not PDF truncation.
-
-## Supplemental English translation — COMPLETE / CLOSED — 6 / 6
-
-Tracker: `NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`.
-
-1. `நண்பனா?` — PASS.
-2. `காந்தி தேசம்` — PASS.
-3. `அணில் குஞ்சு` — PASS.
-4. `கொள்ளைபுரம்` — PASS.
-5. `எழுத்தாளர் ஏகலைவன்` — PASS.
-6. `மலரவில்லை` — PASS.
-
-Canonical Tamil remained unchanged during this translation phase.
-
-## Completion-document interpretation
-
-`ARCHIVE_COMPLETION.md` records the archive-wide closure achieved before the newly authorized 1987 intake. It now also carries a post-closure reactivation note. `PROJECT_COMPLETION.md` remains the historical 1977-specific record.
+- 1997 source: `நண்பனா?` onboarded/English PASS; `நடுத்தெரு நாராயணி` reserved for the novels/short-novel workflow, scans **62–85 / printed 52–75**.
+- 2009 `16 கதையினிலே`: full source **183 scans / 384,978,955 bytes**; new-story onboarding **5/5 closed**; existing-canonical witness comparison **11/11 closed**; supplemental English for its five new stories **5/5 PASS**.
+- The earlier scan-150 issue was only a rendered-preview limit, not PDF truncation.
 
 ## CURRENT STATE / EXACT NEXT ACTIVITY
 
-The previously authorized archive work remains closed, but the user has now explicitly authorized a **new 1987 collection intake**.
+1987 intake remains **ACTIVE**.
 
-Current 1987 intake is **ACTIVE / NOT YET CLOSED**.
+Process **Story 2 / 25 — `அரசாபிமானக் கதை` — scan 6 / printed page 5**.
 
-Exact next activity:
+Before writing Story 2:
 
-1. source-decode the five stylized headings on scans **13, 20, 31, 37 and 45** without guessing;
-2. bring the direct-heading inventory to **25 / 25 exact**;
-3. rerun duplicate-title/content checks for those five;
-4. then process Story 1 (scan **5 / printed 4**) only after a fresh content-identity check;
-5. use the historical-glyph guide from the first transcribed line onward.
+1. fetch live `main`;
+2. confirm Story 2 identity is not already canonical under another title using exact/variant title plus narrative premise/ending;
+3. confirm the physical boundary because Story 3 `தென்னை மரத்தில் புல்` begins scan **7 / printed 6**;
+4. if positively distinct, create/complete the Story-2 canonical workspace;
+5. apply the attached historical-glyph guide to the whole scan, checking all 13 families before `verified`;
+6. update collection inventory, scan map, duplicate audit, collection README and this handover;
+7. do not start English unless separately authorized.
 
-Do not start `நடுத்தெரு நாராயணி` while the user is waiting for `வெள்ளிக்கிழமை` work in the novels repository to finish.
+Do not begin `நடுத்தெரு நாராயணி` while the user is waiting for `வெள்ளிக்கிழமை` in the novels workflow to finish.

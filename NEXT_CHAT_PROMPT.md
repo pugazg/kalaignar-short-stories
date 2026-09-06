@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 source intake
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 source / Story 2
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -8,32 +8,29 @@ Fetch live `main` first. Preserve newer durable work. Do not reopen a closed pha
 
 ## Active authorization
 
-Work on the newly supplied collection:
+Collection: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/`
-
-Controlling source PDF:
-
-`TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
+Controlling source PDF: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 
 Attach/resolve that exact source before source-level visual work.
 
 ## Mandatory startup
 
-Read completely before any new 1987 source-dependent change:
+Read completely:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
 3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 4. `HANDOVER.md`
 5. this `NEXT_CHAT_PROMPT.md`
-6. `collections/1987-kalaignar-sonna-kuttik-kathaigal/README.md`
-7. `collections/1987-kalaignar-sonna-kuttik-kathaigal/metadata/source.md`
-8. `collections/1987-kalaignar-sonna-kuttik-kathaigal/indexes/story-inventory.md`
-9. `collections/1987-kalaignar-sonna-kuttik-kathaigal/indexes/scan-map.md`
-10. `collections/1987-kalaignar-sonna-kuttik-kathaigal/DUPLICATE_AUDIT.md`
+6. collection `README.md`
+7. collection `metadata/source.md`
+8. collection `indexes/story-inventory.md`
+9. collection `indexes/scan-map.md`
+10. collection `DUPLICATE_AUDIT.md`
+11. completed reference `stories/mannanum-kuruviyum/` only as an implementation precedent, not a text source.
 
-## Source identity / structure
+## Source identity
 
 - title: **கலைஞர் சொன்ன குட்டிக் கதைகள்**
 - supplied/catalog author: **கலைஞர் மு. கருணாநிதி**
@@ -43,62 +40,80 @@ Read completely before any new 1987 source-dependent change:
 - represented edition: **இரண்டாம் பதிப்பு — 1987**
 - byte size: **107,757,858**
 - scans: **50**
-- scans 1–4: front matter
 - scans 5–49 / printed 4–48: story block
-- scan 50: blank/damaged rear leaf; no story continuation
-- no printed contents page
-- SHA-256: **PENDING**; do not invent it if mounted-byte hashing is still unavailable.
+- SHA-256: **PENDING**; never invent it if byte hashing remains unavailable.
+
+## Direct-heading inventory
+
+**25 / 25 exact — no title holds remain.**
+
+Previously stylized headings resolved from source pixels:
+
+- scan 13 — `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!`
+- scan 20 — `இரு நிகழ்வுகள்`
+- scan 31 — `குறிக்கோள்`
+- scan 37 — `தெனாலிராமன் கதை`
+- scan 45 — `அகத்திணை அன்பு!`
+
+## Completed Story 1
+
+`மன்னனும் குருவியும்!` — scan **5 / printed 4** — canonical `stories/mannanum-kuruviyum/`.
+
+- identity audit: PASS / new canonical
+- source: 1/1 verified
+- Tamil audit: PASS
+- historical-glyph audit: PASS
+- visual fidelity: PASS
+- unresolved: 0
+- English: not started / not authorized
+
+Important correction: intake `மன்னனும் குறவியும்.` was wrong; enlarged source banner is **`மன்னனும் குருவியும்!`**.
 
 ## Duplicate rule — user directive
 
-**Never create a new 1987 story workspace until you have checked that the story is not already canonical in the repository, including under an alternate title.**
+**Never create a new story workspace until the story is positively shown not to be an existing canonical story under the same or another title.**
 
-Known at intake:
+Known special cases:
 
-- `குருவி ராமேஸ்வரம்`, scan 23 / printed 22 — already canonical as `stories/kuruvi-rameswaram/`; treat 1987 only as an additional witness.
-- `புகழேந்திப் புலவர் கதை` — identity hold pending narrative comparison with canonical `புகழேந்தி`.
-- `யசோதர காவியம்` — identity hold because canonical `அமிர்தமதி` contains an embedded `யசோதர காவியம்` narrative.
+- `குருவி ராமேஸ்வரம்` — existing canonical, additional witness only.
+- `புகழேந்திப் புலவர் கதை` — identity hold vs canonical `புகழேந்தி`.
+- `யசோதர காவியம்` — identity hold vs embedded material in canonical `அமிர்தமதி`.
 
-A GitHub search miss is not sufficient proof of novelty. Use the canonical inventories and content identity.
+A code-search miss alone is not proof of novelty.
 
-## Historical Tamil glyph rule — user directive
+## Historical Tamil glyph rule — mandatory
 
-The supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory for this source.
-
-For every story page, explicitly check:
+For every page explicitly check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Read character identity, not modern visual resemblance. Decode only the proven historical glyph into modern Unicode; preserve the source word/spelling/grammar/punctuation otherwise. Use same-edition evidence for doubtful forms. Never global-replace. Keep unresolved forms `needs-review`.
+Read historical character identity first, encode that identity in modern Unicode, and preserve the source's wording/spelling/grammar/punctuation otherwise. Use same-edition evidence for doubts. Never global-replace. Leave unresolved material `needs-review`.
 
-## Current intake state
+## EXACT NEXT ACTIVITY
 
-- physical story blocks/openings: **25 / 25 identified**
-- usable exact headings: **20 / 25**
-- stylized-title holds: scans **13, 20, 31, 37, 45**
-- exact canonical title duplicate established: **1** (`குருவி ராமேஸ்வரம்`)
-- new 1987 canonical story workspaces created: **0**
-- 1987 Tamil pages marked verified: **0**
+Process **Story 2 / 25 — `அரசாபிமானக் கதை`**.
 
-## Exact next activity
+Coordinates:
 
-First resolve the five stylized title banners on scans **13, 20, 31, 37 and 45** from source pixels. Do not infer their wording merely from the anecdote topic.
+- opening / complete physical block: scan **6 / printed page 5**
+- next story: `தென்னை மரத்தில் புல்`, scan **7 / printed page 6**
 
-After the inventory reaches **25 / 25 exact**:
+Execution order:
 
-1. rerun duplicate/content checks for all unresolved rows;
-2. start Story 1, scan **5 / printed 4**, only if its identity is positively distinct from existing canon;
-3. process one story at a time;
-4. apply historical-glyph audit from the first page;
-5. do not start English unless separately authorized after Tamil/source/visual closure.
+1. fetch live `main` again;
+2. inspect scan 6 and scan 7 boundary;
+3. run exact-title, alternate-title and complete narrative-identity duplicate checks;
+4. if the story matches existing canon, route it as an additional witness and do not create a duplicate folder;
+5. if positively distinct, create the Story-2 workspace and transcribe scan 6 source-faithfully;
+6. perform the full historical-glyph audit before marking the page verified;
+7. complete Tamil audit + visual fidelity + possible-error queue;
+8. synchronize collection controls and root handover;
+9. stop after Story 2 unless the user explicitly changes the one-story-at-a-time rule.
+
+English is not authorized at this stage.
 
 ## Closed phases — preserve
 
-- 1977: 37/37 Tamil/visual/English PASS.
-- 2008: 40/40 Tamil/visual/English PASS.
-- 2004: 34/34 Tamil/visual/English PASS.
-- 2009 new-story onboarding: 5/5 closed.
-- 2009 witness comparison: 11/11 closed.
-- supplemental English: 6/6 PASS / closed.
+1977 37/37; 2008 40/40; 2004 34/34; 2009 new-story 5/5; 2009 witness 11/11; supplemental English 6/6 — all closed/PASS.
 
-Do not begin `நடுத்தெரு நாராயணி` in this repository; the user wants to wait until `வெள்ளிக்கிழமை` is completed in the novels workflow.
+Do not begin `நடுத்தெரு நாராயணி` here; the user is waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
