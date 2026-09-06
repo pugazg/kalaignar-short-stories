@@ -48,10 +48,12 @@ All ten calculated opening scans were visually checked against the supplied sour
 - blocked / unresolved story text: **0**
 - scan **103** checked as the preceding `தொத்துக்கிளி` boundary
 - scan **107** checked as the next `பிரேத விசாரணை` boundary
-- English: **not started**
+- English translation: **PASS — complete**
+- English file: `stories/nanbana/translations/en/nanbana.md`
+- translation review / page anchoring: **PASS**
 
-## Current exact next activity
+## Current state / next activity
 
 There is no further new short-story transcription in this 1997 collection. **Do not process `நடுத்தெரு நாராயணி` here.**
 
-Continue the missing-short-story onboarding queue with the 2009 collection `16 கதையினிலே`: process **`காந்தி தேசம்`**, scans **6–18 / printed pages 1–13**, using scan **19** (`அணில் குஞ்சு`) as the next-story boundary.
+The separately authorized untranslated-new-story English queue has completed **1 / 6** stories with `நண்பனா?`. The next story in that English queue is **`காந்தி தேசம்`** from the 2009 `16 கதையினிலே` collection. Do not start it unless the activity boundary permits the next story.
