@@ -20,7 +20,7 @@ Collection workspace for **`திராவிட இயக்க எழுத�
 The printed contents contain ten works. Current live-`main` state gives:
 
 - **9** short-story titles represented by canonical story workspaces, including newly onboarded **`நண்பனா?`**;
-- **1** work, **`நடுத்தெரு நாராயணி`**, deliberately **deferred from short-story onboarding**. The user has identified it as a short novel; it will be handled separately and must not be silently forced into a short-story workspace.
+- **1** work, **`நடுத்தெரு நாராயணி`**, deliberately **deferred from short-story onboarding**. It is reserved for separate short-novel handling and must not be silently forced into a short-story workspace.
 
 The eight stories that pre-existed this source remain additional-source witnesses only until a later explicit comparison activity.
 
@@ -52,8 +52,18 @@ All ten calculated opening scans were visually checked against the supplied sour
 - English file: `stories/nanbana/translations/en/nanbana.md`
 - translation review / page anchoring: **PASS**
 
-## Current state / next activity
+## Deferred short novel
 
-There is no further new short-story transcription in this 1997 collection. **Do not process `நடுத்தெரு நாராயணி` here.**
+`நடுத்தெரு நாராயணி` occupies scans **62–85 / printed pages 52–75**. It is **not** part of the short-story queue. Its intake belongs in the separate novels/short-novel workflow after explicit authorization.
 
-The separately authorized untranslated-new-story English queue has completed **1 / 6** stories with `நண்பனா?`. The next story in that English queue is **`காந்தி தேசம்`** from the 2009 `16 கதையினிலே` collection. Do not start it unless the activity boundary permits the next story.
+## Current state
+
+- new short-story onboarding from this collection: **COMPLETE / CLOSED**
+- `நண்பனா?` Tamil/visual workflow: **PASS**
+- `நண்பனா?` English translation/review: **PASS**
+- repository-wide supplemental English queue: **6 / 6 COMPLETE / CLOSED** (`நண்பனா?` + five 2009 stories)
+- pending supplemental English: **0**
+- NEEDS REVIEW: **0**
+- further automatic short-story activity from this source: **none**
+
+Do not process `நடுத்தெரு நாராயணி` inside this repository's short-story workflow. It remains separately reserved for short-novel handling.

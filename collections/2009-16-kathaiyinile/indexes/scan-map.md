@@ -29,12 +29,18 @@
 - scans **6–182** — Stories **1–16**
 - scan **183** — back cover
 
-All **16 / 16** story-opening coordinates are registered. The source is complete at 183 scans; a later conversation working copy truncating at scan 150 does not supersede this map.
+All **16 / 16** story-opening coordinates are registered. The supplied upload is the full **384,978,955-byte / 183-scan** source.
+
+### Rendered-preview clarification — 2026-09-06
+
+The ChatGPT preview/index used during the comparison iteration exposed rendered pages only through scan **150**. That limit belonged to the preview/access layer and **did not truncate the underlying PDF**. Any conservative wording for later witness spans refers to lack of direct rendered pixels in that iteration, not to missing source pages.
 
 ## Phase state
 
 - new-story onboarding: **5 / 5 COMPLETE / PASS**
 - existing-canonical additional-witness comparison: **11 / 11 COMPLETE / CLOSED**
+- supplemental English for the five new 2009 stories: **5 / 5 PASS**
+- repository-wide supplemental English including 1997 `நண்பனா?`: **6 / 6 COMPLETE / CLOSED**
 - final ledger: `../ADDITIONAL_WITNESS_COMPARISON.md`
 
 The `குப்பைத் தொட்டி` / `சங்கிலிச்சாமி` TOC anomaly remains authoritative: scan 110 / printed p105 still belongs to `குப்பைத் தொட்டி`; `சங்கிலிச்சாமி` begins on scan 111.

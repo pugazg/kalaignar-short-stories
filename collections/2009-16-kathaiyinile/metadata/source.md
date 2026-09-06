@@ -15,7 +15,7 @@ Front matter: scan 1 cover; scan 2 title/publisher; scan 3 edition; scan 4 `ம�
 
 ## Completeness
 
-The registered PDF contains **183 scans** and all **16 / 16** stories are physically present. Story openings were checked at scans **6, 19, 29, 38, 50, 64, 82, 90, 100, 111, 126, 137, 150, 155, 164, 174**. Scan **183** is the back cover.
+The supplied upload and registered source contain **183 scans** and all **16 / 16** stories are physically present. Story openings were checked at scans **6, 19, 29, 38, 50, 64, 82, 90, 100, 111, 126, 137, 150, 155, 164, 174**. Scan **183** is the back cover.
 
 Final spans:
 
@@ -25,7 +25,9 @@ Final spans:
 - `அய்யோ ராஜா` — scans **174–182 / printed 169–177**
 - scan **183** — back cover
 
-A conversation working copy used in the comparison phase is truncated after scan 150. It is only a working copy and does not replace this registered 183-scan source identity. Wikimedia Commons independently records the same TVA file as **183 pages / 367.14 MB**, and Tamil Wikisource maintains a proofread page set for this exact `16 கதையினிலே.pdf` source through scan 182.
+## Conversation preview/access note — corrected 2026-09-06
+
+The conversation upload is the full **384,978,955-byte** file matching this **183-scan** registration. During the comparison iteration, ChatGPT's rendered-file preview/index exposed only scans **1–150**. That was a preview/access limitation and **must not be described as truncation of the PDF itself**. Evidence beyond the rendered-preview limit was therefore recorded conservatively whenever direct scan pixels were unavailable in that iteration.
 
 ## TOC / physical anomaly
 
@@ -40,6 +42,8 @@ TOC: `சங்கிலிச்சாமி` starts p105. Physical scan **110 
 - `கொள்ளைபுரம்` — scans 29–37 — PASS
 - `எழுத்தாளர் ஏகலைவன்` — scans 38–49 — PASS
 - `மலரவில்லை` — scans 50–63 — PASS
+
+All five subsequently completed English translation and story-local review with physical page anchoring PASS.
 
 ### Existing-canonical additional-witness comparison — COMPLETE / CLOSED — 11 / 11
 
@@ -60,3 +64,7 @@ Comparison order and spans:
 11. `அய்யோ ராஜா` — 174–182
 
 The 2009 edition is an independent witness. Apparent corrections to a canonical story are recorded as recheck evidence only and require that canonical story's own controlling scan before any Tamil/English source-layer change. No canonical 1977 Tamil or English was changed during this comparison phase.
+
+### Supplemental English closure
+
+The five newly onboarded 2009 stories are **5 / 5 English PASS**. Together with the 1997 story `நண்பனா?`, the repository-wide supplemental queue is **6 / 6 COMPLETE / CLOSED**.

@@ -16,7 +16,11 @@ Collection workspace for **`16 கதையினிலே`**.
 - story block: scans **6–182**
 - scan **183**: back cover
 
-The registered source is complete for **16 / 16** stories. A conversation working copy used during later comparison work is truncated after scan 150; it does not supersede this registered 183-scan identity. Wikimedia Commons independently records the same `16 கதையினிலே.pdf` as a 183-page TVA source, and Tamil Wikisource has a proofread page set for that same file through scan 182.
+The supplied upload is the full **384,978,955-byte / 183-scan** source and is complete for **16 / 16** stories.
+
+### Rendered-preview clarification — 2026-09-06
+
+During the comparison iteration, ChatGPT's rendered-file preview/index exposed pages only through scan **150**. That was an access/preview limit, **not a truncation of the uploaded PDF**. The uploaded file itself matches the registered 183-scan source identity. Comparison claims beyond the rendered-preview limit remain deliberately conservative where direct scan pixels were unavailable in that iteration.
 
 ## New short-story onboarding — COMPLETE / CLOSED — 5 / 5
 
@@ -49,7 +53,7 @@ The 2009 fourth edition was compared as an **independent witness** against the e
 5. `சங்கிலிச்சாமி` — scans **111–125 / physical printed 106–120** — **COMPLETE**; same narrative; devotional/dialogue regularization.
 6. `தப்பிவிட்டார்கள்` — scans **126–136 / printed 121–131** — **COMPLETE**; same narrative; spelling/verb-form modernization.
 7. `தப்பவில்லை` — scans **137–149 / printed 132–144** — **COMPLETE**; same narrative/final irony; editorial repagination.
-8. `ஏழை` — scans **150–154 / printed 145–149** — **COMPLETE at edition-witness/structural level**; no added narrative block; lexical claims beyond local scan 150 deliberately kept conservative.
+8. `ஏழை` — scans **150–154 / printed 145–149** — **COMPLETE at edition-witness/structural level**; no added narrative block; lexical claims beyond the rendered-preview limit at scan 150 deliberately kept conservative.
 9. `கண்ணடக்கம்` — scans **155–163 / printed 150–158** — **COMPLETE**; strong later evidence includes `வான மீனுக்கோ` ↔ `வாளை மீனுக்கோ` and `துணி ஏண்` ↔ `துணி ஏணை`.
 10. `வாழ முடியாதவர்கள்` — scans **164–173 / printed 159–168** — **COMPLETE**; strong later clarification includes `கற்பினைக்...தீவிதி` ↔ `கற்பனைப்...தலைவிதி`.
 11. `அய்யோ ராஜா` — scans **174–182 / printed 169–177** — **COMPLETE at edition-witness/structural level**; title punctuation differs from canonical `அய்யோ ராஜா!`; no added sequel/epilogue.
@@ -69,6 +73,7 @@ The TOC lists `சங்கிலிச்சாமி` at printed page **105**,
 
 ## Current state
 
+- source identity: **183 scans / 384,978,955 bytes — full upload**
 - new-story Tamil onboarding: **5 / 5 COMPLETE / PASS**
 - existing-canonical witness comparison: **11 / 11 COMPLETE / CLOSED**
 - supplemental English for the five 2009 new stories: **5 / 5 COMPLETE / PASS**

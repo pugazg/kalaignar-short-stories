@@ -17,7 +17,7 @@ Policy: the 2009 edition is an independent witness. It does **not** silently ove
 | 5 | `சங்கிலிச்சாமி` | 111–125 | same narrative; devotional/dialogue regularization; TOC anomaly preserved |
 | 6 | `தப்பிவிட்டார்கள்` | 126–136 | same narrative; spelling/verb-form modernization |
 | 7 | `தப்பவில்லை` | 137–149 | same narrative/final irony; editorial repagination/regularization |
-| 8 | `ஏழை` | 150–154 | same story identity/boundary; lexical assertions kept conservative because local copy stops at 150 |
+| 8 | `ஏழை` | 150–154 | same story identity/boundary; lexical assertions kept conservative beyond the rendered-preview limit at scan 150 |
 | 9 | `கண்ணடக்கம்` | 155–163 | same narrative; `வான மீனுக்கோ` ↔ `வாளை மீனுக்கோ`, `துணி ஏண்` ↔ `துணி ஏணை` |
 | 10 | `வாழ முடியாதவர்கள்` | 164–173 | same narrative; major clarification `கற்பினைக்...தீவிதி` ↔ `கற்பனைப்...தலைவிதி` |
 | 11 | `அய்யோ ராஜா` | 174–182 | same story identity/boundary; explicit title punctuation difference; conservative lexical disposition |
@@ -38,10 +38,20 @@ These later readings are evidence only until the exact canonical controlling sca
 
 No canonical Tamil or English was changed from these later-edition readings because the 1977 controlling PDF was not available for fresh scan-level rechecks during this phase.
 
-## Source-access provenance
+## Source-access provenance — corrected 2026-09-06
 
-The conversation working PDF is truncated at scan **150**. Comparisons through scan 150 use that supplied image source directly. For later ranges, the repository's registered 183-page identity is independently confirmed by Wikimedia Commons/Tamil Virtual Academy, and the exact `16 கதையினிலே.pdf` Wikisource proofread page set covers pages through scan 182. Where the local scan image was unavailable, witness records deliberately avoid inventing glyph-level findings and record only source-supported evidence.
+The supplied conversation upload is the full **384,978,955-byte / 183-scan** source. The comparison iteration's ChatGPT rendered-file preview/index exposed direct page images only through scan **150**. Therefore:
+
+- scans through **150** could be checked directly in the rendered preview during that iteration;
+- scan **151 onward** was not missing from the PDF; it was beyond the rendered-preview access limit;
+- witness records beyond that access limit deliberately avoid inventing glyph-level findings and retain only source-supported evidence available to that iteration;
+- the preview limit must not be described as a truncated PDF or truncated working copy.
 
 ## Closure
 
-The five new-story onboarding phase remains **5/5 COMPLETE** and this existing-canonical comparison phase is now **11/11 COMPLETE / CLOSED**. Do not automatically start English translation, `நடுத்தெரு நாராயணி`, or another anthology phase without a new authorized activity.
+- five new-story Tamil onboarding: **5 / 5 COMPLETE / CLOSED**;
+- existing-canonical comparison: **11 / 11 COMPLETE / CLOSED**;
+- the separately authorized supplemental-English phase subsequently completed all five new 2009 stories plus 1997 `நண்பனா?`: **6 / 6 COMPLETE / CLOSED** repository-wide;
+- canonical 1977 Tamil/English changed from this witness evidence: **No**.
+
+There is no automatic next short-story activity. `நடுத்தெரு நாராயணி` remains reserved for separate short-novel handling, and any canonical 1977 recheck remains separately authorized work requiring the exact controlling source.
