@@ -12,9 +12,9 @@ Canonical story workspace for **மலரவில்லை**, activated from th
 - Next-story boundary witness: **scan 64 — `சுமந்தவள்`**
 - Source PDF committed to GitHub: **No**
 
-## Current state
+## Tamil/source status
 
-**TAMIL/SOURCE COMPLETE — 14 / 14 pages verified; Tamil audit PASS; visual-fidelity PASS; unresolved 0.**
+**PASS — 14 / 14 pages verified; Tamil audit PASS; visual-fidelity PASS; unresolved 0.**
 
 - exact story span: scans **50–63 / printed 45–58**
 - scan **50** opens `மலரவில்லை`
@@ -25,9 +25,22 @@ Canonical story workspace for **மலரவில்லை**, activated from th
 - Tamil audit: **PASS**
 - recheck queue: **CLOSED — 0 unresolved**
 - visual fidelity: **PASS**
-- English: **not started**
 
 The source pass used direct visual comparison with the controlling scans, including native/high-resolution rereads for difficult spans. Source-close forms and colloquial film/studio language were retained rather than silently normalized; representative examples are documented in `audit.md`.
+
+## English translation
+
+**PASS — complete and reviewed.**
+
+- English: [`translations/en/malaravillai.md`](translations/en/malaravillai.md)
+- Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source pages represented: **14 / 14**
+- physical page-anchor alignment: **PASS**
+- studio/light-boy vocabulary handled conservatively: **Yes**
+- Anandhi/Asha reveal and funeral reversal: **complete**
+- five closing ornaments retained: **Yes**
+- Tamil recheck queue silently corrected: **No**
+- canonical Tamil changed during translation: **No**
 
 ## Controls
 
@@ -36,7 +49,10 @@ The source pass used direct visual comparison with the controlling scans, includ
 - Audit: [`audit.md`](audit.md)
 - Recheck queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 - Visual-fidelity record: [`visual-fidelity.md`](visual-fidelity.md)
+- English review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
-## Closure boundary
+## Completion state
 
-This activity closes the Tamil/source onboarding of `மலரவில்லை`. It does **not** start `சுமந்தவள்`, English translation, or an additional-witness comparison.
+**மலரவில்லை is source-complete and English-complete for scans 50–63 / printed pages 45–58: Tamil 14/14 verified, visual PASS, English PASS, 0 blocked, 0 unresolved story text.**
+
+Scan 64 remains only the `சுமந்தவள்` boundary witness and is excluded from this story.
