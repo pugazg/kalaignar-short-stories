@@ -1,12 +1,12 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories / மலரவில்லை source completion
+# NEXT CHAT PROMPT — Kalaignar Short Stories / 2009 onboarding closed
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases and do not redo completed `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்` or `எழுத்தாளர் ஏகலைவன்` work.
+Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1977, 2008 or 2004 phases and do not redo completed `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்` or `மலரவில்லை` work merely because an older prompt records an earlier checkpoint.
 
-## Active controlling source
+## 2009 controlling source
 
 `TVA_BOK_0065745_16_கதையினிலே.pdf`
 
@@ -18,7 +18,7 @@ Fetch live `main` first. Preserve newer durable work. Do not reopen the closed 1
 
 The old 150-scan/incomplete-source statement is false and superseded.
 
-## Mandatory startup
+## Mandatory startup for any future 2009 work
 
 Read before source-dependent writes:
 
@@ -30,44 +30,30 @@ Read before source-dependent writes:
 6. `collections/2009-16-kathaiyinile/metadata/source.md`
 7. `collections/2009-16-kathaiyinile/indexes/story-inventory.md`
 8. `collections/2009-16-kathaiyinile/indexes/scan-map.md`
-9. `stories/malaravillai/README.md`
-10. `stories/malaravillai/indexes/page-map.md`
-11. `stories/malaravillai/audit.md`
-12. `stories/malaravillai/POSSIBLE_ERRORS_FOR_REVIEW.md`
-13. `stories/malaravillai/visual-fidelity.md`
 
-## Existing active workspace — do not recreate
+## Closed new-story onboarding — 5 / 5 COMPLETE
 
-`stories/malaravillai/` now exists as an **IN-PROGRESS** source-coordinate checkpoint.
+The five stories identified at intake without canonical workspaces are fully onboarded:
 
-- collection item: **5 / 16**
-- TOC/opening title: **`மலரவில்லை`**
-- printed pages: **45–58**
-- scans: **50–63**
-- scan **64**: opening `சுமந்தவள்` — boundary witness only
-- 14 / 14 page-coordinate records exist
-- all 14 records currently `needs-review`
-- verified Tamil text: **0 / 14**
-- Tamil assembly: **not created**
-- Tamil audit: **PENDING**
-- visual fidelity: **PENDING overall**
-- English: **not started**
+1. `காந்தி தேசம்` — scans **6–18 / printed 1–13** — **13/13 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+2. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **10/10 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+3. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — **9/9 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+4. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — **12/12 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+5. `மலரவில்லை` — scans **50–63 / printed 45–58** — **14/14 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 
-The page files intentionally contain no unverified story prose. Do not treat this as a PASS and do not replace the placeholders with OCR/memory-derived wording.
+For `மலரவில்லை`, scan **63** closes with five circular ornaments and scan **64** opens `சுமந்தவள்`; scan 64 is boundary evidence only. The canonical workspace is `stories/malaravillai/`, with verified page records and complete `sections/malaravillai.md`.
 
-## Current exact activity
+## Current exact state
 
-Finish **`மலரவில்லை` only**:
+**STOP — no active short-story onboarding remains.**
 
-1. inspect scans **50–63** directly from the controlling PDF;
-2. transcribe each page source-faithfully into its existing page record;
-3. use complete phrase/clause/sentence checks and the exhaustive difficult-reading protocol before changing `status` to `verified`;
-4. preserve source punctuation, names, colloquial forms and page joins without silent normalization;
-5. use scan **64** only to confirm the ending boundary and exclude all `சுமந்தவள்` text;
-6. after all 14 pages are verified, assemble `sections/malaravillai.md` and compare it back against the source;
-7. close `audit.md`, narrow the recheck queue, and mark `visual-fidelity.md` PASS only when justified;
-8. synchronize collection README/source/inventory/scan-map, root README, `HANDOVER.md`, and this prompt;
-9. once fully closed, record the five new stories from the 2009 anthology as **5 / 5 complete** and STOP;
-10. do not begin `சுமந்தவள்`, additional-witness comparison, or English in the same activity.
+Do not automatically begin:
 
-**Do not process `நடுத்தெரு நாராயணி` in this short-story queue.** It remains reserved for separate short-novel handling.
+- `சுமந்தவள்`;
+- additional-witness comparison of the eleven pre-existing canonical stories from the 2009 source;
+- English translation for the newly onboarded stories;
+- `நடுத்தெரு நாராயணி` in this short-story queue.
+
+`நடுத்தெரு நாராயணி` remains reserved for separate short-novel handling.
+
+Wait for explicit user direction for the next phase. If the user chooses comparison, English, or another supplied source, first reconstruct that phase from live `main` rather than assuming this handoff remains current.
