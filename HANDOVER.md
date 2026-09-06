@@ -10,7 +10,7 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Always fetch live `main` first. Preserve newer durable state.
+Always fetch live `main` first and preserve newer durable state.
 
 ## Permanent rules
 
@@ -24,7 +24,7 @@ Always fetch live `main` first. Preserve newer durable state.
 
 - **1977 — கலைஞர் கருணாநிதியின் சிறுகதைகள்:** Tamil 37/37, visual 37/37, English 37/37, final English QA PASS, unresolved 0.
 - **2008 — கலைஞர் சொன்ன கதைகள்:** Tamil 40/40, text fidelity 40/40, visual 40/40, English 40/40, final English QA PASS, unresolved 0.
-- **2004 — கலைஞரின் குட்டிக் கதைகள்:** Tamil 34/34, visual 34/34, English 34/34, final English QA PASS, unresolved 0. Final story scan 49 / printed 48; scan 50 back cover.
+- **2004 — கலைஞரின் குட்டிக் கதைகள்:** Tamil 34/34, visual 34/34, English 34/34, final English QA PASS, unresolved 0.
 
 Do not reopen these closed phases merely to create work.
 
@@ -38,12 +38,10 @@ Workspace: `collections/1997-dravida-iyakka-ezhuthalar-sirukathaigal/`
 - scans: **115**
 - edition: **First Edition, December 1997**
 - contents: **10 works**
-- all 10 opening scans checked
-- short-story titles now represented by canonical workspaces: **9**
 - `நண்பனா?`: scans **104–106 / printed 94–96**, **3/3 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
-- separately deferred work: **`நடுத்தெரு நாராயணி`** — handle separately as a short novel; do not process in this short-story queue.
+- `நடுத்தெரு நாராயணி`: explicitly deferred for separate short-novel handling; do not process in this short-story queue.
 
-The 1997 new-short-story onboarding is complete. The eight previously canonical titles remain additional-source witnesses until an explicit comparison activity.
+The 1997 new-short-story onboarding is complete.
 
 ## New source 2 — 2009 `16 கதையினிலே`
 
@@ -61,62 +59,48 @@ Workspace: `collections/2009-16-kathaiyinile/`
 - new short stories at intake: **5**
 - canonical matches at intake: **11**
 - source completeness: **complete — all 16 stories present**
-- final spans: `ஏழை` 150–154; `கண்ணடக்கம்` 155–163; `வாழ முடியாதவர்கள்` 164–173; `அய்யோ ராஜா` 174–182.
-- preserved anomaly: TOC places `சங்கிலிச்சாமி` at p105, while physical p105 on scan 110 still closes `குப்பைத் தொட்டி`; heading is scan 111.
+- preserved anomaly: TOC places `சங்கிலிச்சாமி` at p105, while physical p105 on scan 110 still closes `குப்பைத் தொட்டி`; `சங்கிலிச்சாமி` begins on scan 111.
 
-The earlier 150-scan / incomplete-source statement was incorrect and has been superseded.
+The earlier 150-scan / incomplete-source statement is incorrect and superseded.
 
-### Newly onboarded — `காந்தி தேசம்`
+### Completed new stories
 
-- canonical workspace: `stories/gandhi-desam/`
-- printed pages **1–13** / scans **6–18**
-- **13 / 13 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started
-- scan **19** opens `அணில் குஞ்சு`.
+- `காந்தி தேசம்` — `stories/gandhi-desam/` — scans **6–18 / printed 1–13** — **13/13 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+- `அணில் குஞ்சு` — `stories/anil-kunju/` — scans **19–28 / printed 14–23** — **10/10 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+- `கொள்ளைபுரம்` — `stories/kollaipuram/` — scans **29–37 / printed 24–32** — **9/9 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
+- `எழுத்தாளர் ஏகலைவன்` — `stories/ezhuthalar-ekalaivan/` — scans **38–49 / printed 33–44** — **12/12 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 
-### Newly onboarded — `அணில் குஞ்சு`
+### Active story — `மலரவில்லை`
 
-- canonical workspace: `stories/anil-kunju/`
-- printed pages **14–23** / scans **19–28**
-- **10 / 10 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started
-- scan **29** opens `கொள்ளைபுரம்`.
+Canonical workspace now exists: `stories/malaravillai/`. **Do not recreate it.**
 
-### Newly onboarded — `கொள்ளைபுரம்`
-
-- canonical workspace: `stories/kollaipuram/`
-- printed pages **24–32** / scans **29–37**
-- **9 / 9 verified**, Tamil audit PASS, visual PASS, 0 unresolved, English not started
-- scan **38** opens `எழுத்தாளர் ஏகலைவன்`.
-
-### Newly onboarded — `எழுத்தாளர் ஏகலைவன்`
-
-Canonical workspace: `stories/ezhuthalar-ekalaivan/`
-
-- printed pages: **33–44**
-- scans: **38–49**
-- next boundary: scan **50**, opening `மலரவில்லை`
-- page records: **12 / 12 verified**
-- Tamil source audit: **PASS**
-- visual fidelity: **PASS**
-- blocked / unresolved story text: **0**
+- printed pages: **45–58**
+- scans: **50–63**
+- scan **50** opens `மலரவில்லை`
+- scan **63 / printed 58** contains the conclusion and five circular closing ornaments
+- scan **64** opens `சுமந்தவள்` and is excluded
+- page-coordinate records: **14 / 14 present**
+- page status: **14 / 14 `needs-review`**
+- verified Tamil pages: **0 / 14**
+- Tamil assembly: **not yet created**
+- Tamil audit: **PENDING**
+- visual-fidelity closure: **PENDING**; physical boundary/layout checks recorded
 - English: **not started**
-- source-close rechecks retained forms including `தமிழகமுழுதும்`, `புலித்தைலம்`, `அங்கணபோயி`, `ரெண்டு மணிக்கே கீழே`, `சுலபத்தில் விடாத மணலில்`, `பத்தாம்பசலிக் கட்டுப்பெட்டிக்`, `தரையிலிட்ட மீன்`, `கரையைவிட்டகன்று`, `கண்டல் முறுக்குக் கடலை`, `பாத்தோம்`, `மெளனமானான்`, `பொழைச்சிக்கிட்டாங்க`, `என்றே தெரியாத`, `பஸ்ஸில அடிபட்டு`, and `நம்மாலியன்ற`.
-- scan **49** closes with five circular ornaments; scan **50** visibly opens `மலரவில்லை`.
 
-New-story source-processing status for this collection: **4 / 5 complete**.
+The page records intentionally contain no guessed/OCR-reconstructed prose. They are a durable source-coordinate checkpoint only. Fill each page from direct visual comparison with the controlling scan and promote to `verified` only after full-span difficult-reading checks.
 
-## Remaining new short-story queue
-
-1. `மலரவில்லை` — scans **50–63 / printed 45–58**
+New-story processing state for the 2009 source: **4 / 5 complete + 1 / 5 in progress**.
 
 ## Current exact next activity
 
-Process **`மலரவில்லை`** only from `TVA_BOK_0065745_16_கதையினிலே.pdf`:
+Continue **`மலரவில்லை` only**:
 
-1. fetch live `main` and confirm no canonical `மலரவில்லை` workspace has appeared;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 2009 collection README/source/inventory/scan-map;
-3. transcribe and directly visually verify scans **50–63 / printed pages 45–58**;
-4. inspect scan **64**, opening `சுமந்தவள்`, as the next-story boundary and exclude it from `மலரவில்லை`;
-5. create the canonical story workspace, Tamil assembly, source metadata, audit, possible-error queue, visual-fidelity record and required controls;
-6. do not begin `சுமந்தவள்` or additional-witness comparison in the same activity;
-7. after synchronization the five new 2009 stories will be **5 / 5 complete**;
-8. do not process `நடுத்தெரு நாராயணி` as a short story.
+1. fetch live `main`; preserve the existing `stories/malaravillai/` workspace;
+2. read the permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, the 2009 collection controls, and `stories/malaravillai/README.md`;
+3. fill and directly verify the 14 page records for scans **50–63 / printed 45–58** from the controlling PDF;
+4. apply the exhaustive difficult-reading protocol; do not infer from OCR, memory, or context;
+5. build `sections/malaravillai.md` only from verified page text and audit it back against all scans;
+6. close Tamil audit and visual fidelity only when justified;
+7. synchronize collection/root controls and then mark the five new 2009 stories **5 / 5 complete**;
+8. do **not** begin `சுமந்தவள்`, English translation, or additional-witness comparison in the same activity;
+9. do **not** process `நடுத்தெரு நாராயணி` as a short story.

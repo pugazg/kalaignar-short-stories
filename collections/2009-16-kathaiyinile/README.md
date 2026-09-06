@@ -36,7 +36,9 @@ Intake identified five TOC stories without canonical workspaces. Current process
 2. `அணில் குஞ்சு` — scans **19–28 / printed 14–23** — **COMPLETE / PASS**; `stories/anil-kunju/`; 10/10 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 3. `கொள்ளைபுரம்` — scans **29–37 / printed 24–32** — **COMPLETE / PASS**; `stories/kollaipuram/`; 9/9 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
 4. `எழுத்தாளர் ஏகலைவன்` — scans **38–49 / printed 33–44** — **COMPLETE / PASS**; `stories/ezhuthalar-ekalaivan/`; 12/12 verified, Tamil audit PASS, visual PASS, 0 unresolved, English not started.
-5. `மலரவில்லை` — scans **50–63 / printed 45–58** — **NEXT**.
+5. `மலரவில்லை` — scans **50–63 / printed 45–58** — **IN PROGRESS**; `stories/malaravillai/` activated; exact boundary verified; 14/14 coordinate records created as `needs-review`; verified Tamil pages 0/14; Tamil assembly/audit/visual closure pending; English not started.
+
+New-story source-processing remains **4 / 5 complete**, with **1 / 5 in progress**. Do not count `மலரவில்லை` as PASS until all fourteen page records and the assembled Tamil layer are directly source-verified.
 
 Stories 6–16 already have canonical matches; additional-witness comparison is deferred.
 
@@ -46,4 +48,4 @@ The TOC lists `சங்கிலிச்சாமி` at printed page **105**,
 
 ## Current exact next activity
 
-Process only **`மலரவில்லை`**, scans **50–63 / printed pages 45–58**. Use scan **64**, opening `சுமந்தவள்`, as the next-story boundary witness. Do not begin `சுமந்தவள்` or any additional-witness comparison in the same activity.
+Continue **`மலரவில்லை`** only. Fill and directly source-check the fourteen page records for scans **50–63 / printed 45–58**, resolve difficult readings, build the Tamil assembly, close Tamil audit and visual fidelity, and only then synchronize the completed **5 / 5** state. Scan **64**, opening `சுமந்தவள்`, is boundary evidence only. Do not begin `சுமந்தவள்` or additional-witness comparison in this activity.
