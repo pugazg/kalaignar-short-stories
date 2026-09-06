@@ -65,9 +65,9 @@ Permanent guides:
 | [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`கொள்ளைபுரம்`](stories/kollaipuram/README.md) | **Tamil source PASS — 9/9 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`எழுத்தாளர் ஏகலைவன்`](stories/ezhuthalar-ekalaivan/README.md) | **Tamil source PASS — 12/12 verified; 0 blocks; manual recheck queue open** | **not started** |
-| [`மலரவில்லை`](stories/malaravillai/README.md) | **Tamil source PASS — 14/14 verified; 0 blocks; recheck queue closed** | **not started** |
+| [`கொள்ளைபுரம்`](stories/kollaipuram/README.md) | **Tamil source PASS — 9/9 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`எழுத்தாளர் ஏகலைவன்`](stories/ezhuthalar-ekalaivan/README.md) | **Tamil source PASS — 12/12 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`மலரவில்லை`](stories/malaravillai/README.md) | **Tamil source PASS — 14/14 verified; 0 blocks; recheck queue closed** | **PASS — complete** |
 | [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -183,7 +183,7 @@ Current intake state:
 - additional-witness comparison of the eleven pre-existing canonical stories: **COMPLETE / CLOSED — 11 / 11**
 - final comparison ledger: [`collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md`](collections/2009-16-kathaiyinile/ADDITIONAL_WITNESS_COMPARISON.md)
 
-### Supplemental English translation — ACTIVE
+### Supplemental English translation — COMPLETE / CLOSED
 
 Tracker:
 
@@ -192,10 +192,11 @@ Tracker:
 Current state:
 
 - six Tamil-complete stories without English at phase start: **6**
-- English PASS: **3 / 6 — `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு`**
-- pending: **3 / 6**
-- next exact story: **`கொள்ளைபுரம்`**
-- within the five 2009 new stories, `காந்தி தேசம்` and `அணில் குஞ்சு` are English PASS and three remain pending.
+- English PASS: **6 / 6 — `நண்பனா?`, `காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`**
+- pending: **0 / 6**
+- NEEDS REVIEW: **0**
+- within the five 2009 new stories: **5 / 5 English PASS**
+- automatic next short-story English activity: **none**
 
 ## Completed anthology source / English phase closed
 
