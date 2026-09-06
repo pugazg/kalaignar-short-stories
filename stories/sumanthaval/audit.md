@@ -10,11 +10,11 @@
 
 ## Source-review method
 
-All eleven story scans were directly reviewed from high-resolution source renders. Enlarged full-span crops were used for older Tamil glyph forms, unusual wording, punctuation, spacing and physical joins. Scan **250** was independently inspected as the Story 36 boundary witness. The controlling scan, not contextual expectation, determined the readings.
+All eleven controlling-edition story scans were directly reviewed from high-resolution source renders. Enlarged full-span crops were used for older Tamil glyph forms, unusual wording, punctuation, spacing and physical joins. Scan **250** was independently inspected as the Story 36 boundary witness. The controlling scan, not contextual expectation, determined the canonical readings.
 
 Apparent difficult readings were reopened when needed. The older typeface resolved `அடுக்களை`, `கர்ப்பவதி`, and `கர்ப்பமாயிருக்கிறாளே`; scan 244 also directly supports `கனிமரமென`. Source-close forms such as `முழுங்கால்`, `சன சுரத்தை`, `மூனையளவு`, `மண்ணுக்கி`, `யெளவனத்தின்`, and `எமை விட்டு எச்சில் இலையே!` were retained rather than silently normalized.
 
-## Page disposition
+## Page disposition — controlling 1977 edition
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
@@ -32,7 +32,7 @@ Apparent difficult readings were reopened when needed. The older typeface resolv
 
 Totals: **11/11 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
-## Cross-page audit
+## Cross-page audit — controlling edition
 
 **PASS**
 
@@ -47,9 +47,9 @@ Totals: **11/11 verified; 0 needs-review status pages; 0 blocked; 0 unresolved s
 9. scans **247→248** / printed 238→239: exact continuation `இரண்டு தொட்டில்களையும் ஆட்டுவதும் “ஆராரோ” பாடுவதும்` → `பிணிக்கு மருந்து தருவதும்...`.
 10. scans **248→249** / printed 239→240: armed confrontation setup → `யார் வெடிக்கிற தோட்டா முதலில் யார் மார்பில்...`.
 
-No story page is omitted or duplicated.
+No controlling-edition story page is omitted or duplicated.
 
-## Story-boundary audit
+## Story-boundary audit — controlling edition
 
 - scan **239** visibly opens Story 35 **`சுமந்தவள்`**.
 - scan **249** contains Story 35's final paragraph and ornamental closing mark.
@@ -57,10 +57,49 @@ No story page is omitted or duplicated.
 - Story 36 TOC title is **`சித்தார்த்தன்`**; the source-title variance is preserved.
 - Story 36 text included: **No**.
 
+## Additional-witness audit — 2009 fourth edition
+
+A full-span comparison was completed against the independent 2009 `16 கதையினிலே` witness:
+
+- witness scans: **64–81 / printed 59–76**
+- scans visually reviewed: **18 / 18**
+- boundary witness: scan **82**, opening `புகழேந்தி`
+- textual identity with 1977: **No**
+- structural identity with 1977: **No**
+- canonical 1977 Tamil modified: **No**
+- canonical English modified: **No**
+
+The 2009 edition contains extensive punctuation/spacing changes, later-style dialogue and verb forms, several genuine lexical substitutions, and internal five-ornament section breaks. Representative divergent readings include:
+
+- 1977 `திரு திருவென்று` ↔ 2009 `துருதுருவென்று`;
+- 1977 `அவள் உள்ளத்தில்` ↔ 2009 `அவா, உள்ளத்தில்`;
+- 1977 `குழறல்` ↔ 2009 `குழப்பம்`;
+- 1977 `கர்ப்பவதி` ↔ 2009 `கர்ப்ப ஸ்திரி`;
+- 1977 `முழுங்கால்` ↔ 2009 `முழங்கால்`;
+- 1977 `சன சுரத்தை` ↔ 2009 `ஈன குரத்தை`;
+- the long motherhood/beauty argument on the corresponding 2009 printed page 69 is materially rewritten, including `மண்ணாக்கிவிடாதே ... இளமையைக் காப்பாற்று!`.
+
+### Major structural finding
+
+The represented 1977 edition closes after the doctor diagnoses `டி.பி.—எலும்புருக்கி` and செளந்தரி remains in bed, followed by its closing ornament.
+
+The 2009 edition does **not** close there. After continuing the illness scene into scan **80 / printed 75**, it inserts five ornamental marks and begins a new section `அதற்குப் பிறகு மூன்றாண்டுகள் ஆகிவிட்டன.` The added scans **80–81** show a severely ill செளந்தரி asking for her daughter, the child running to மரகதம் calling her `அம்மா`, and the narrator's mother giving an explicit concluding definition of motherhood. The 2009 text ends with the title phrase `“சுமந்தவள்” அவ்வளவுதான்!` and five ornaments.
+
+This epilogue is absent from the represented 1977 canonical edition. The present comparison does not establish whether it was newly composed, restored from another witness, or omitted from the 1977 printing.
+
+Full comparison record:
+
+- [`witnesses/2009-16-kathaiyinile/README.md`](witnesses/2009-16-kathaiyinile/README.md)
+- [`witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`](witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md)
+
+### Canonical correction rule after comparison
+
+The 1977 controlling PDF was not available for a fresh scan-level reinspection during this witness phase. Therefore even strong later-edition readings (`அவா`, `முழங்கால்`, `ஈன குரத்தை`) remain **recheck candidates**, not accepted canonical corrections. They have been added to `POSSIBLE_ERRORS_FOR_REVIEW.md` for exact 1977-source reopening.
+
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+Source-sensitive but legible 1977 forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. The 2009 witness adds comparative evidence without silently modernizing the controlling edition.
 
 ## Audit result
 
-**PASS — சுமந்தவள் source range is fully transcribed and structurally source-complete: 11/11 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — the 1977 canonical source range remains fully transcribed and structurally source-complete: 11/11 verified, 0 blocked, 0 unresolved story text. The 2009 additional-witness comparison is also COMPLETE for 18/18 scans, with all edition differences kept explicit and the canonical 1977 layer unchanged.**
