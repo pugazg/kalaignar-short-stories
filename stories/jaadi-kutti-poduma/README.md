@@ -23,6 +23,20 @@ Canonical story workspace for **ஜாடி குட்டி போடும�
 - text fidelity: **PASS — corrected**
 - visual fidelity: **PASS**
 
+## Additional 1987 witness — alternate heading `அரசாபிமானக் கதை`
+
+The 1987 collection **`கலைஞர் சொன்ன குட்டிக் கதைகள்`** contains the same narrative under the different heading **`அரசாபிமானக் கதை`**.
+
+- 1987 physical span: **lower scan 6 / printed 5 → upper scan 7 / printed 6**
+- identity result: **PASS — same jar-birth/jar-death narrative**
+- disposition: **additional witness only; no duplicate canonical story workspace**
+- witness record: [`witnesses/1987-kalaignar-sonna-kuttik-kathaigal/README.md`](witnesses/1987-kalaignar-sonna-kuttik-kathaigal/README.md)
+- exact 1987 lexical transcription / historical-glyph audit: **NEEDS REVIEW**
+- canonical 2008 Tamil changed from 1987 evidence: **No**
+- canonical English changed: **No**
+
+The 1987 alternate heading is preserved as an edition fact. It does not rename or overwrite the 2008 controlling canonical title.
+
 ## English translation
 
 **PASS — complete and reviewed.**
