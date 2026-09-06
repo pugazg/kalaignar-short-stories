@@ -35,8 +35,16 @@ The centered opening heading, scan-105 running header, scan-106 running header/f
 
 ## English translation
 
-**Not started.** Tamil/source and visual-fidelity gates are now PASS; no English layer was created in this onboarding activity.
+**PASS — complete.**
+
+- English reading layer: [`translations/en/nanbana.md`](translations/en/nanbana.md)
+- Translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- source pages represented: **3 / 3**
+- physical source-page anchoring: **PASS**
+- Babu/Sekar letter structure, five-line anti-marriage display, Kural quotation, signatures and ornaments retained: **Yes**
+- possible-error queue silently corrected: **No**
+- Tamil source changed during translation: **No**
 
 ## Completion state
 
-**நண்பனா? Tamil archival source processing and visual fidelity are COMPLETE for scans 104–106 / printed pages 94–96: 3/3 verified, 0 blocked, 0 unresolved story text.**
+**நண்பனா? is COMPLETE for the current archival/translation workflow: Tamil source 3/3 verified, Tamil audit PASS, visual fidelity PASS, English translation PASS, 0 blocked and 0 unresolved story text.**
