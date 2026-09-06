@@ -15,7 +15,7 @@ Front matter: scan 1 cover; scan 2 title/publisher; scan 3 edition; scan 4 `ம�
 
 ## Completeness
 
-The supplied PDF contains **183 scans** and all **16 / 16** stories are physically present.
+The registered PDF contains **183 scans** and all **16 / 16** stories are physically present.
 
 Story-opening headings were checked at scans **6, 19, 29, 38, 50, 64, 82, 90, 100, 111, 126, 137, 150, 155, 164, 174**.
 
@@ -27,7 +27,7 @@ Final source boundary:
 - `அய்யோ ராஜா` — scans **174–182 / printed 169–177**
 - scan **183** — back cover
 
-The earlier repository statement that the PDF ended at scan 150 was incorrect and has been removed.
+The earlier repository statement that the PDF ended at scan 150 was incorrect and has been removed. A later conversation attachment was itself truncated to 150 pages, but it is only a working copy and does not supersede this registered complete-source identity.
 
 ## TOC / physical anomaly
 
@@ -35,14 +35,26 @@ TOC: `சங்கிலிச்சாமி` starts p105. Physical scan 110 is
 
 ## Repository relationship
 
-Intake new candidates were **`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`**. Stories 6–16 already have canonical matches.
+Intake new candidates were **`காந்தி தேசம்`, `அணில் குஞ்சு`, `கொள்ளைபுரம்`, `எழுத்தாளர் ஏகலைவன்`, `மலரவில்லை`**. Stories 6–16 already had canonical matches.
 
-Final new-story source-processing state:
+### New-story onboarding — COMPLETE / CLOSED
 
 - `காந்தி தேசம்` — **COMPLETE / PASS**, scans **6–18 / printed 1–13**, canonical workspace `stories/gandhi-desam/`, 13/13 verified, Tamil audit PASS, visual PASS, 0 unresolved.
 - `அணில் குஞ்சு` — **COMPLETE / PASS**, scans **19–28 / printed 14–23**, canonical workspace `stories/anil-kunju/`, 10/10 verified, Tamil audit PASS, visual PASS, 0 unresolved.
 - `கொள்ளைபுரம்` — **COMPLETE / PASS**, scans **29–37 / printed 24–32**, canonical workspace `stories/kollaipuram/`, 9/9 verified, Tamil audit PASS, visual PASS, 0 unresolved.
 - `எழுத்தாளர் ஏகலைவன்` — **COMPLETE / PASS**, scans **38–49 / printed 33–44**, canonical workspace `stories/ezhuthalar-ekalaivan/`, 12/12 verified, Tamil audit PASS, visual PASS, 0 unresolved.
-- `மலரவில்லை` — **COMPLETE / PASS**, scans **50–63 / printed 45–58**, canonical workspace `stories/malaravillai/`, 14/14 verified, Tamil audit PASS, visual PASS, 0 unresolved. Scan **64** (`சுமந்தவள்`) is boundary evidence only.
+- `மலரவில்லை` — **COMPLETE / PASS**, scans **50–63 / printed 45–58**, canonical workspace `stories/malaravillai/`, 14/14 verified, Tamil audit PASS, visual PASS, 0 unresolved.
 
-The five new candidates are therefore **5 / 5 complete**. No further onboarding work remains in this source. Additional-witness comparison and English are separate future phases.
+The five new candidates are **5 / 5 complete**.
+
+### Existing-canonical additional-witness comparison — ACTIVE
+
+The user subsequently authorized the separate comparison phase for Stories 6–16. The fourth edition is treated as an independent edition witness; it does not silently overwrite each story's controlling canonical source.
+
+- total existing canonical matches to compare: **11**
+- completed comparisons: **1 / 11**
+- completed: `சுமந்தவள்` — 2009 scans **64–81 / printed 59–76**; comparison record under `stories/sumanthaval/witnesses/2009-16-kathaiyinile/`; materially revised/expanded edition; added epilogue on scans 80–81; canonical 1977 layer unchanged
+- next: `புகழேந்தி` — 2009 scans **82–89 / printed 77–84**
+- next-story boundary for that comparison: scan **90**, opening `நளாயினி`
+
+Any 2009 reading that appears to correct or clarify a canonical source must be checked against that canonical story's own controlling scan before a source-layer change.
