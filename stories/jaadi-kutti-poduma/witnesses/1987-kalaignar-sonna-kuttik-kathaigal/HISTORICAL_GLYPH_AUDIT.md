@@ -9,11 +9,9 @@ Guide: `../../../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - physical witness span: **lower scan 6 / printed 5 → upper scan 7 / printed 6**
 - status: **NEEDS REVIEW**
 
-The physical span and narrative identity have been directly confirmed. Exact witness transcription is not yet promoted to a verified text layer because the 1987 old-type forms require a dedicated enlarged-pixel pass.
+The physical span and narrative identity have been directly confirmed. Exact witness transcription is not yet promoted to a verified text layer because the 1987 old-type forms require positive character-level source evidence.
 
 ## Mandatory 13-family gate
-
-Before this witness can be called textually verified, inspect every occurrence/candidate in:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -26,12 +24,25 @@ Rules:
 - do not use the canonical 2008 wording to force a 1987 reading;
 - unresolved clusters remain `needs-review`.
 
-## Current disposition
+## Shared scans 6–7 revisit
 
-- page-boundary inspection: **PASS**
-- narrative identity: **PASS**
-- complete historical-glyph pass: **PENDING**
-- exact line-by-line witness text: **PENDING**
-- unresolved count: **not yet claimable as zero**
+The controlling scans were reopened together and the full Story-2 text zones were visually rechecked:
 
-No canonical 2008 layer is changed by this open witness audit.
+- lower scan 6 begins at the printed heading `அரசாபிமானக் கதை`;
+- upper scan 7 continues and ends that narrative;
+- lower scan 7 begins `தென்னை மரத்தில் புல்` and is excluded from this witness.
+
+The full 13-family checklist was applied as a visual first-pass. This is sufficient to preserve the physical witness boundary and the already-established narrative identity, but the currently available rendered source view does not support certification of every small old-type cluster and punctuation mark.
+
+Accordingly:
+
+- source-zone review: **DONE / PASS**;
+- historical-glyph visual first-pass: **DONE**;
+- complete character-level glyph closure: **PENDING**;
+- exact line-by-line witness text: **PENDING**;
+- unresolved count: **not yet claimable as zero**;
+- canonical 2008 Tamil/English changed: **No**.
+
+No uncertain 1987 wording has been copied from the 2008 canonical layer.
+
+See `../../../../collections/1987-kalaignar-sonna-kuttik-kathaigal/SHARED_SCAN_6_7_SOURCE_REVIEW.md` for the shared-page review record.

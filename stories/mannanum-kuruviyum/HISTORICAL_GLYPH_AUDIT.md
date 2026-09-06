@@ -6,7 +6,7 @@ Guide: `../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 
 **REOPENED / NEEDS REVIEW.**
 
-The original pass covered scan **5 / printed 4** only. A later physical-boundary review established that the story continues into the **upper portion of scan 6 / printed 5**. Therefore the story-wide historical-glyph PASS is withdrawn until that shared upper span is audited.
+The original pass covered scan **5 / printed 4** only. A later physical-boundary review established that the story continues into the **upper portion of scan 6 / printed 5**. Therefore the story-wide historical-glyph PASS is withdrawn until that shared upper span is textually audited.
 
 ## Scan 5 — PASS
 
@@ -26,19 +26,31 @@ Representative positive scan-5 occurrences:
 
 Scan-5 unresolved glyphs: **0**.
 
-## Upper scan 6 — PENDING
+## Upper scan 6 — direct revisit completed, lexical closure still OPEN
 
-Direct source inspection confirms that text **above `அரசாபிமானக் கதை` on scan 6 belongs to Story 1**.
+Direct source inspection again confirms that the text **above `அரசாபிமானக் கதை` on scan 6 belongs to Story 1**.
+
+The whole upper text zone was revisited together with scan 7 so that the physical ending could not be confused with the next heading. The 13-family checklist was kept active during the review.
+
+Result of this pass:
+
+- physical Story-1 text zone: **PASS / reconfirmed**;
+- full-page old-type inspection: **performed**;
+- character-by-character Unicode transcription: **not yet safe to certify from the currently available rendered view**;
+- no doubtful look-alike was decoded from grammar or expected wording;
+- no 2008 or other story text was used as a substitute;
+- exact upper-span text therefore remains `needs-review`.
 
 Before this span can be verified:
 
-1. transcribe it directly from enlarged source pixels;
-2. check all 13 families explicitly;
-3. compare same-edition forms when doubtful;
-4. preserve wording/spelling/punctuation outside proven glyph decoding;
-5. keep any unresolved cluster `needs-review`.
+1. inspect native/enlarged source pixels for the complete upper zone;
+2. transcribe it word-for-word;
+3. resolve every candidate in all 13 historical families individually;
+4. compare same-edition forms when doubtful;
+5. preserve source wording/spelling/punctuation outside proven glyph decoding;
+6. keep any unresolved cluster `needs-review`.
 
-No 1987 old glyph may be resolved by copying a modern-looking word from context.
+See also `../../collections/1987-kalaignar-sonna-kuttik-kathaigal/SHARED_SCAN_6_7_SOURCE_REVIEW.md`.
 
 ## Separate ordinary correction
 
@@ -47,5 +59,6 @@ The intake title `மன்னனும் குறவியும்.` → **`
 ## Story-wide disposition
 
 - scan 5 historical-glyph audit: **PASS**
-- upper scan 6 audit: **PENDING / NEEDS REVIEW**
+- upper scan 6 visual/glyph first-pass revisit: **DONE**
+- upper scan 6 exact glyph/text closure: **PENDING / NEEDS REVIEW**
 - story-wide historical-glyph state: **OPEN**
