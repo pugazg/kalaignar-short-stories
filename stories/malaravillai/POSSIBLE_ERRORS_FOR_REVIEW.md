@@ -2,9 +2,21 @@
 
 This queue is active while the Tamil source pass is incomplete. It is not a list of confirmed source errors.
 
-## Whole-story recheck scope
+## Scan 50 / printed 45 — active first-page trial
 
-All scans **50–63 / printed 45–58** remain under source-close review because their prose has not yet been promoted into verified page records.
+The first direct transcription pass has begun, but scan 50 remains `needs-review` and is **not verified**.
+
+Source spans requiring another high-confidence reread before promotion:
+
+1. opening paragraph: the word-group after `உழைப்புக்கு மதிப்புத் தராமல்` and before `முதலாளிகளையும்`;
+2. second paragraph: the sentence following `பழுப்புப்பட்ட மேனியான தொழிலாளிதான் ஆதவன்.` — especially the studio name/context and `லைட் பாய்` wording;
+3. the remainder of the lower paragraph on scan 50, including the final page-continuation into scan 51.
+
+These spans are intentionally withheld from the page record rather than filled from OCR, context, or memory.
+
+## Remaining whole-story recheck scope
+
+Scans **51–63 / printed 46–58** remain wholly under source-close review. Scan **50** also remains open until the three specific spans above are resolved.
 
 Required checks before closure:
 
@@ -23,4 +35,4 @@ Required checks before closure:
 - closing marks: **five circular ornaments**
 - next-story witness: **scan 64 — `சுமந்தவள்`**
 
-The queue should be narrowed to only genuinely unusual or enhancement-sensitive readings as individual pages become verified.
+The queue should be narrowed further as individual pages become genuinely source-verified.
