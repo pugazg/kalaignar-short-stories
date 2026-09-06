@@ -1,38 +1,29 @@
 # Possible Errors / Human Recheck Queue — மலரவில்லை
 
-This queue is active while the Tamil source pass is incomplete. It is not a list of confirmed source errors.
+## Current result
 
-## Scan 50 / printed 45 — active first-page trial
+**CLOSED — unresolved source-reading items: 0.**
 
-The first direct transcription pass has begun, but scan 50 remains `needs-review` and is **not verified**.
+The earlier scan-50 trial queue has been resolved by direct native/high-resolution reread of the controlling source, followed by the same full-span source pass across scans **51–63**.
 
-Source spans requiring another high-confidence reread before promotion:
+## Resolved scan-50 trial items
 
-1. opening paragraph: the word-group after `உழைப்புக்கு மதிப்புத் தராமல்` and before `முதலாளிகளையும்`;
-2. second paragraph: the sentence following `பழுப்புப்பட்ட மேனியான தொழிலாளிதான் ஆதவன்.` — especially the studio name/context and `லைட் பாய்` wording;
-3. the remainder of the lower paragraph on scan 50, including the final page-continuation into scan 51.
+1. the opening word-group after `உழைப்புக்கு மதிப்புத் தராமல்` is source-read as **`உன்மத்தம் கொண்டலையும்`**;
+2. the following source sentence identifies **`புகழ் பெற்ற 'அவிட்டம் ஸ்டுடியோ'`** and ஆதவன் as a **`லைட்பாய்`**;
+3. the lower-page prose and the scan **50 → 51** continuation were recovered directly, with the physical page ending `அந்தப்-` and scan 51 continuing `புரங்களில்`.
 
-These spans are intentionally withheld from the page record rather than filled from OCR, context, or memory.
+The provisional first-pass wording `உந்தப்பட்டுக் கொண்டிருக்கும்` was not retained; the controlling scan reads **`உந்தப்பட்டுத் தொல்லை கொடுக்கும்`**.
 
-## Remaining whole-story recheck scope
+## Whole-story difficult-reading disposition
 
-Scans **51–63 / printed 46–58** remain wholly under source-close review. Scan **50** also remains open until the three specific spans above are resolved.
+All difficult readings encountered on scans **50–63** were checked in phrase/clause/sentence context against the scan. Source-close forms were retained without silent normalization. Representative retained forms are recorded in `audit.md`, including `கலையங்கரி`, `நெட்வெயி`, `மெளனமாகப்`, `எப்படி மெய்ப்படியோ`, `தாயின் குடல் குரலால்`, `தருநிழல்`, `காட்சி யொன்றை`, colloquial film/studio dialogue, and `‘காண்ட்ராக்’டையே`.
 
-Required checks before closure:
+No unresolved lexical, punctuation, page-join or boundary item remains in this story workspace.
 
-1. read every complete sentence/paragraph span directly from the controlling scan rather than trusting isolated glyph impressions;
-2. preserve colloquial dialogue, names, film/studio terminology, punctuation and spacing exactly as printed;
-3. inspect every scan-to-scan continuation for split words or paragraph continuations;
-4. treat any enhancement/crop only as an aid and re-confirm the resulting reading against the original scan;
-5. if a reading remains genuinely ambiguous, document the exact scan/line and continue the exhaustive protocol rather than guessing;
-6. keep scan **64** only as the physical boundary witness; do not import `சுமந்தவள்` text.
+## Boundary result
 
-## Structural source facts already settled
+- opening: scan **50 / printed 45** — `மலரவில்லை`;
+- closing: scan **63 / printed 58** — final prose + five circular ornaments;
+- scan **64**: `சுமந்தவள்` opening, used only as the ending boundary witness and excluded from the story text.
 
-- title: `மலரவில்லை`
-- opening scan: **50 / printed 45**
-- closing scan: **63 / printed 58**
-- closing marks: **five circular ornaments**
-- next-story witness: **scan 64 — `சுமந்தவள்`**
-
-The queue should be narrowed further as individual pages become genuinely source-verified.
+If a future independent witness is supplied, it should be treated as a separate comparison phase rather than reopening this source-first queue by default.
