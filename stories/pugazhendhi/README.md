@@ -59,6 +59,20 @@ High-value rechecks include source forms such as:
 - `காதற் கண்கள்`
 - `கால்ப் பணிவிடைகள்`
 
+## Additional edition witness — 2009
+
+The Fourth Edition (March 2009) `16 கதையினிலே` source has now been compared directly for this story:
+
+- 2009 scans: **82–89 / printed pages 77–84**
+- boundary witness: scan **90**, opening `நளாயினி`
+- witness record: [`witnesses/2009-16-kathaiyinile/`](witnesses/2009-16-kathaiyinile/README.md)
+- variant record: [`witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`](witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md)
+- result: **same narrative/ending, but editorially revised and regularized; no added epilogue or major narrative block**
+- canonical 1977 Tamil changed: **No**
+- canonical English changed: **No**
+
+The later witness strengthens several targeted 1977 rechecks, especially `தீவலி` ↔ `தலைவலி`, `வயித்துக்கிடக்கிறது` ↔ `லயித்துக் கிடக்கிறது`, `காதற் கண்கள்` ↔ `காதற் கணைகள்`, and `கால்ப் பணிவிடைகள்` ↔ `காலைப் பணிவிடைகள்`. These remain **recheck evidence only** until the exact 1977 controlling scan is reopened.
+
 ## Cross-page joins
 
 The following physical continuations were verified:
@@ -83,10 +97,4 @@ The English layer follows the current verified Tamil assembly, retains all six s
 
 ## Completion state
 
-**புகழேந்தி Tamil archival source processing, visual fidelity and English translation: COMPLETE for scans 10–15 / printed pages 1–6, with persistent human Tamil recheck queue.**
-
-## Next anthology English activity
-
-Story 2 — **நளாயினி**, printed pages **7–14**, anthology scans **16–23**. Scan **24** is the physical boundary witness opening Story 3 `சபலம்`.
-
-Process Story 2 as a separate translation activity unless the user explicitly expands the batch.
+**புகழேந்தி Tamil archival source processing, visual fidelity and English translation: COMPLETE for scans 10–15 / printed pages 1–6, with persistent human Tamil recheck queue. The 2009 additional-witness comparison is also COMPLETE, with the 1977 canonical source layer unchanged.**
