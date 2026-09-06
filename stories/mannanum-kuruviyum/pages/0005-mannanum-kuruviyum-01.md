@@ -3,11 +3,11 @@ scan_page: 5
 printed_page: 4
 story: "mannanum-kuruviyum"
 section: "story"
-page_type: "story-complete"
+page_type: "story-main"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf"
-transcription_method: "direct visual comparison with enlarged source pixels; complete historical-Tamil-glyph audit"
+transcription_method: "direct visual comparison with enlarged source pixels; complete historical-Tamil-glyph audit for scan 5"
 ---
 
 # மன்னனும் குருவியும்!
@@ -23,3 +23,4 @@ transcription_method: "direct visual comparison with enlarged source pixels; com
 நம்வழியில் நாம்செல்வோம் என்று மன்னன் தன்வழியில் சென்றிருந்தால் கேவலம் குருவியினிடத்தில் அந்தப் பேச்சைக் கேட்டிருக்கத் தேவையில்லை அல்லவா! அவன் திரும்புவானேன்! எனக்குத்தான் கொடு என்று கேட்பானேன்! பயந்தாங்கொள்ளி பட்டத்தை குருவியிடமிருந்து வாங்கிக் கட்டிக் கொள்வானேன்!
 
 <!-- anthology scan: 5; printed page: 4 -->
+<!-- IMPORTANT: story continues in the upper portion of anthology scan 6 / printed page 5. -->
