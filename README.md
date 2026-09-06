@@ -66,6 +66,7 @@ Permanent guides:
 | [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`கொள்ளைபுரம்`](stories/kollaipuram/README.md) | **Tamil source PASS — 9/9 verified; 0 blocks; manual recheck queue open** | **not started** |
 | [`எழுத்தாளர் ஏகலைவன்`](stories/ezhuthalar-ekalaivan/README.md) | **Tamil source PASS — 12/12 verified; 0 blocks; manual recheck queue open** | **not started** |
+| [`மலரவில்லை`](stories/malaravillai/README.md) | **Tamil source PASS — 14/14 verified; 0 blocks; recheck queue closed** | **not started** |
 | [`அப்படித்தான் சிரிப்பேன்`](stories/appadithan-sirippen/README.md) | **Tamil source PASS — source-complete; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஐஸ் கட்டி`](stories/ice-katti/README.md) | **Tamil source PASS — 2/2 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`தலையில் மலை`](stories/thalaiyil-malai/README.md) | **Tamil source PASS — 6/6 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -175,9 +176,11 @@ Current intake state:
 - scan **183**: back cover
 - stories: **16 / 16 physically present**
 - new short stories at intake: **5**
-- completed new-story source processing: **4 / 5 — `காந்தி தேசம்` (13/13 PASS), `அணில் குஞ்சு` (10/10 PASS), `கொள்ளைபுரம்` (9/9 PASS), and `எழுத்தாளர் ஏகலைவன்` (12/12 PASS); all Tamil audit PASS, visual PASS, 0 unresolved, English not started**
-- current exact next activity: **`மலரவில்லை` — scans 50–63 / printed 45–58; scan 64 `சுமந்தவள்` is the next-story boundary**
-- remaining new story after current checkpoint: **`மலரவில்லை` only**.
+- completed new-story source processing: **5 / 5 — `காந்தி தேசம்` (13/13 PASS), `அணில் குஞ்சு` (10/10 PASS), `கொள்ளைபுரம்` (9/9 PASS), `எழுத்தாளர் ஏகலைவன்` (12/12 PASS), and `மலரவில்லை` (14/14 PASS); all Tamil audit PASS, visual PASS, 0 unresolved, English not started**
+- onboarding phase: **COMPLETE / CLOSED — 5 / 5**
+- remaining new short-story onboarding: **none**
+- scan **64 `சுமந்தவள்`** was used only as the ending boundary witness for `மலரவில்லை`.
+- additional-witness comparison of the eleven pre-existing canonical stories is **deferred** and is not an automatic next step.
 
 ## Completed anthology source / English phase closed
 
