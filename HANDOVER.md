@@ -73,7 +73,7 @@ English for these new stories remains a separate future phase.
 
 The user explicitly authorized this phase after the 5/5 onboarding closure. Stories 6–16 are compared **one at a time** against their already-existing canonical editions.
 
-Progress: **1 / 11 complete**.
+Progress: **2 / 11 complete**.
 
 ### Completed comparison 1 / 11 — `சுமந்தவள்`
 
@@ -89,30 +89,45 @@ Progress: **1 / 11 complete**.
 - canonical 1977 Tamil changed: **No**
 - canonical English changed: **No**
 
-Do not import the 2009 epilogue into the 1977 canonical Tamil or English layer. It belongs to the 2009 witness unless provenance evidence justifies a different edition-history conclusion later.
+### Completed comparison 2 / 11 — `புகழேந்தி`
 
-## CURRENT EXACT NEXT ACTIVITY — comparison 2 / 11 — `புகழேந்தி`
-
-Process only the 2009 additional witness for **`புகழேந்தி`**:
-
-- 2009 collection sequence: **7 / 16**
-- TOC/opening heading: **`புகழேந்தி`**
-- printed pages: **77–84**
-- PDF scans: **82–89**
+- 2009 coordinates: scans **82–89 / printed 77–84**
 - canonical workspace: `stories/pugazhendhi/`
-- next-story boundary witness: scan **90**, opening `நளாயினி`
+- canonical controlling edition: 1977 anthology, scans **10–15 / printed 1–6**
+- witness record: `stories/pugazhendhi/witnesses/2009-16-kathaiyinile/`
+- comparison coverage: **8 / 8 scans**, plus scan 90 boundary
+- result: **same narrative arc and same `மேதை வாழ்க!` ending; editorially revised/regularized rather than expanded**
+- no 2009-only epilogue or major new narrative block identified
+- high-value later-witness recheck evidence: 1977 `புகழ்தரும் தீவலி` ↔ 2009 `புகழ்தரும் தலைவலி`; `வயித்துக்கிடக்கிறது` ↔ `லயித்துக் கிடக்கிறது`; `காதற் கண்கள்` ↔ `காதற் கணைகள்`; `கால்ப் பணிவிடைகள்` ↔ `காலைப் பணிவிடைகள்`
+- the unusual 1977 `ஏறெடுத்தும் பாராமல்` is corroborated by the 2009 witness
+- 1977 controlling PDF was not available for a fresh scan-level recheck during this comparison
+- canonical 1977 Tamil changed: **No**
+- canonical English changed: **No**
+
+Later-edition wording must remain edition evidence until the exact canonical controlling scan is reopened. Do not import the 2009 `சுமந்தவள்` epilogue into 1977, and do not silently replace the `புகழேந்தி` recheck candidates from later wording alone.
+
+## CURRENT EXACT NEXT ACTIVITY — comparison 3 / 11 — `நளாயினி`
+
+Process only the 2009 additional witness for **`நளாயினி`**:
+
+- 2009 collection sequence: **8 / 16**
+- TOC/opening heading: **`நளாயினி`**
+- printed pages: **85–94**
+- PDF scans: **90–99**
+- canonical workspace: `stories/nalayini/`
+- next-story boundary witness: scan **100**, opening `குப்பைத் தொட்டி`
 
 Required procedure:
 
 1. fetch live `main` first;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, collection README/source/inventory/scan-map, and the canonical `stories/pugazhendhi/` source/audit/recheck controls;
-3. inspect 2009 scans **82–89** and scan **90** directly;
-4. compare wording, punctuation, structure and ending against the canonical controlling edition;
+2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, collection README/source/inventory/scan-map, and the canonical `stories/nalayini/` source/audit/recheck/visual controls;
+3. inspect 2009 scans **90–99** and scan **100** directly;
+4. compare wording, punctuation, structure, title and ending against the canonical controlling edition;
 5. keep the 2009 edition separate; do not silently overwrite canonical Tamil;
 6. if the 2009 witness suggests a canonical error, record a recheck candidate and change canonical text only after direct inspection of its own controlling scan;
 7. create/update durable witness comparison records under the existing canonical workspace;
-8. synchronize collection/root controls to **2 / 11** when complete;
-9. advance the next prompt to `நளாயினி` scans **90–99**, with scan **100 `குப்பைத் தொட்டி`** as its boundary;
-10. do **not** begin `நளாயினி` in the same activity.
+8. synchronize collection/root controls to **3 / 11** when complete;
+9. advance the next prompt to `குப்பைத் தொட்டி` scans **100–110**, with scan **111 `சங்கிலிச்சாமி`** as its boundary witness;
+10. do **not** begin `குப்பைத் தொட்டி` in the same activity.
 
 Do not process `நடுத்தெரு நாராயணி` as a short story.
