@@ -2,7 +2,7 @@
 
 ## Current result
 
-**PENDING — story activation and boundary audit complete; transcription audit not yet closed.**
+**PENDING — story activation and boundary audit complete; scan 50 transcription trial started but not yet verified.**
 
 ## Physical/source checks completed
 
@@ -13,10 +13,20 @@
 - [x] five circular closing ornaments observed on scan **63**.
 - [x] scan **64** checked as the opening of `சுமந்தவள்` and excluded.
 - [x] fourteen page-coordinate records created.
+- [x] scan **50** first direct transcription trial begun; only high-confidence readable spans were promoted and uncertain spans were deliberately withheld.
+
+## Scan 50 status
+
+- page record remains **`needs-review`**;
+- title and selected readable spans have been entered directly from the scan;
+- three source-close areas remain explicitly queued in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+- no OCR/context-based completion has been accepted;
+- scan 50 is therefore **not counted as verified** yet.
 
 ## Tamil text checks still required
 
-- [ ] fill every page record from direct visual comparison with the controlling scan;
+- [ ] resolve the remaining scan-50 readings and complete that page record;
+- [ ] fill scans 51–63 from direct visual comparison with the controlling scan;
 - [ ] resolve every difficult/source-close reading under the exhaustive protocol;
 - [ ] check page-boundary continuations and split words across all thirteen internal joins;
 - [ ] preserve punctuation, quotation marks, dialogue structure and source spellings without silent normalization;
@@ -29,9 +39,10 @@
 ## Counts at this checkpoint
 
 - page records: **14 / 14 present**
+- transcription started: **1 / 14** (scan 50, partial)
 - `verified`: **0 / 14**
 - `needs-review`: **14 / 14**
 - `blocked`: **0**
 - Tamil assembly: **not created**
 
-This file intentionally does not convert untranscribed text into a fabricated `0 unresolved` claim. Source-text completion is still pending.
+This file intentionally does not convert a partial first-page pass into a fabricated verification claim.
