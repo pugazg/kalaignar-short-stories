@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 Tamil/source CLOSED
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 English Story 1
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -6,21 +6,29 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 Fetch live `main` first and preserve newer durable state.
 
-## 1987 source — CLOSED
+## Permanent phase-order rule
 
-Collection: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
+The Tamil/source phase for an active story/work/collection must be fully closed before English begins. **Once Tamil/source is fully closed, English translation is automatically the next activity.** Do not wait for another authorization unless the user explicitly pauses, redirects, defers or excludes English.
 
-Controlling PDF: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
+## Active collection
+
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/`
+
+Controlling PDF:
+`TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 
 - 50 scans
 - 107,757,858 bytes
 - Second Edition 1987
 - SHA-256 `29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`
 
-Final release record:
+Tamil/source release record:
 `collections/1987-kalaignar-sonna-kuttik-kathaigal/FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
 
-## Durable final state
+English tracker:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+
+## CLOSED Tamil/source state — do not routinely reopen
 
 - source / structure / identity: **25 / 25 COMPLETE**
 - headings: **25 / 25 PASS**
@@ -34,58 +42,70 @@ Final release record:
 - scan 50: terminal blank/damaged non-story leaf PASS
 - final Tamil/source release audit: **PASS**
 - **1987 Tamil/source phase: CLOSED**
-- English from the 1987 source: **not authorized / not started**
 
-## AUTHORITATIVE CORRECTIONS — DO NOT REVERT
+## ACTIVE English phase
 
-Titles:
-- `அராபியக் கதை`
-- `நாராயணா ! நாராயணா !`
-- `மூளி மூக்குக்காரன்`
-- Story 10 **`இரு நிழல்கள்`**, not `இரு நிகழ்வுகள்`
+- source stories: **25**
+- English PASS: **0 / 25**
+- pending: **25 / 25**
+- needs review: **0**
 
-Story 10 keeps the older directory slug `stories/iru-nigazhvugal/` only for repository continuity; source-facing text must remain `இரு நிழல்கள்`.
+## Mandatory startup
 
-Historical/source-sensitive resolved forms include:
-- `சொன்னாராம்`
-- `பேசினார்கள்`
-- `நிலைமையை`
-- `பேசினான்`
-- `பின்னால்`
-- `வினவினான்`
-- `அவனா!`
-- `இட்டானாம்`
-- `பின்னாலிருந்து`
-- `மூன்றாண்டுகாலம்`
-- `பின்னாலே`
-- `மன்னா`
-- `நோஞ்சானை`
-- `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`
-- `பெற்றுஉன்`
-- `அன்பில்லையே`
-- `நன்றாக`
+Read completely before English writes:
 
-`அந்நிலை` remains `அந்நிலை`.
+1. `ENGLISH_TRANSLATION_GUIDE.md`
+2. `SHORT_STORY_PROCESSING_GUIDE.md`
+3. `COLLECTION_SOURCE_GUIDE.md`
+4. root `HANDOVER.md`
+5. this prompt
+6. collection `README.md`
+7. collection `ENGLISH_TRANSLATION_PROGRESS.md`
+8. collection `FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
+9. `stories/mannanum-kuruviyum/README.md`
+10. `stories/mannanum-kuruviyum/sections/` verified Tamil assembly
+11. `stories/mannanum-kuruviyum/indexes/page-map.md`
+12. `stories/mannanum-kuruviyum/audit.md`
+13. `stories/mannanum-kuruviyum/HISTORICAL_GLYPH_AUDIT.md`
+14. `stories/mannanum-kuruviyum/visual-fidelity.md`
+15. `stories/mannanum-kuruviyum/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-## Witness-only routing — CLOSED / preserve
+## Exact next activity — Story 1 English
 
-- Story 2 `அராபியக் கதை` → completed 1987 witness for canonical `ஜாடி குட்டி போடுமா?`; do not overwrite the controlling 2008 Tamil/English.
-- Story 11 `குருவி ராமேஸ்வரம்` → completed 1987 witness for the existing 2004 canonical story; do not overwrite the controlling 2004 Tamil/English.
+Translate **Story 1 — `மன்னனும் குருவியும்!`**.
 
-The final audit corrected stale canonical README text that still called these witness layers open. Do not regress those controls.
+Source coordinates:
 
-## Historical records
+- opening: scan **5 / printed 4**
+- ending: **upper scan 6 / printed 5**
+- canonical workspace: `stories/mannanum-kuruviyum/`
 
-Older intake and lexical batch files are state-at-the-time provenance. In particular, the L2 ledger correctly records Story 18 as partial at L2 closure because only lower scan 34 had been processed there; Story 18 is now fully closed after L3. Do not rewrite historical batch records merely to make them look like current-state summaries.
+Required output:
 
-## No automatic next 1987 activity
+- complete faithful English under `stories/mannanum-kuruviyum/translations/en/`;
+- `stories/mannanum-kuruviyum/TRANSLATION_REVIEW.md`;
+- physical source-page markers aligned to the verified Tamil page boundaries, not merely present in numeric order;
+- no silent correction or modernization of the verified Tamil;
+- documented handling of every relevant `POSSIBLE_ERRORS_FOR_REVIEW.md` item;
+- update story README and collection English tracker;
+- synchronize `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` to Story 2 after Story 1 is fully PASS.
 
-There is **no routine remaining Tamil-source task for the 1987 collection**.
+If English exposes a likely Tamil transcription defect, stop that span and reopen the exact controlling source under the source workflow before changing Tamil or dependent English.
 
-Do not reopen closed 1987 pages, sections, audits or witness layers unless genuinely new or stronger source evidence exposes a specific error. If that happens, reopen only the affected coverage and propagate the correction source-first through dependent controls.
+## Witness-only English routing — later stories
 
-Do not begin 1987 English without explicit user authorization.
+- Story 2 `அராபியக் கதை` → translate the verified 1987 witness **inside its witness workspace**; do not overwrite canonical 2008 English for `ஜாடி குட்டி போடுமா?`.
+- Story 11 `குருவி ராமேஸ்வரம்` → translate the verified 1987 witness **inside its witness workspace**; do not overwrite canonical 2004 English.
 
-For future work, follow the user's explicit next archival authorization and fetch live `main` first. Do not invent a new collection or phase merely because this prompt is the current handover.
+## Authoritative corrections — do not revert
+
+- Story 2 `அராபியக் கதை`
+- Story 4 `நாராயணா ! நாராயணா !`
+- Story 6 `மூளி மூக்குக்காரன்`
+- Story 10 `இரு நிழல்கள்`, not `இரு நிகழ்வுகள்`
+
+Story 10 retains directory `stories/iru-nigazhvugal/` only for repository continuity.
+
+Process **one story per activity** unless the user explicitly expands the batch. After Story 1 is fully translated/reviewed/synchronized, make Story 2 the next exact activity.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
