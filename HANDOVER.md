@@ -4,11 +4,22 @@
 
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
-- workflows: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+- source workflow: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+- English workflow: `ENGLISH_TRANSLATION_GUIDE.md`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Always fetch live `main` first and preserve newer durable state.
+
+## Permanent workflow order
+
+For an active story/work/collection processed Tamil-first:
+
+1. complete Tamil source transcription / source audit / visual and historical-glyph fidelity work;
+2. close the Tamil/source release gate with zero unresolved source-text issues wherever defensibly recoverable;
+3. **English translation is automatically the next activity**.
+
+Do not wait for a separate English authorization after Tamil/source closure unless the user explicitly pauses, redirects, defers or excludes English.
 
 ## Permanent source rules
 
@@ -43,27 +54,45 @@ Final `verified` requires both passes.
 
 Do not reopen closed phases because of an older prompt.
 
-## CLOSED — 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
+## ACTIVE — 1987 English translation phase
 
-Workspace: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
+Collection workspace:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
-Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
+Controlling source:
+`TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
+
+Source identity:
 
 - 50 scans
 - 107,757,858 bytes
 - SHA-256 `29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`
 - Second Edition, 1987
+
+Tamil/source release record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
+
+English tracker:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+
+### Closed Tamil/source state
+
 - headings: **25 / 25 PASS**
 - canonical identity: **25 / 25 COMPLETE**
-- distinct: **23**
-- witness-only: **2**
+- distinct identities: **23**
+- witness-only identities: **2**
 - story-bearing scans **5–49 = 45 / 45 Pass 1 + independent Pass 2 COMPLETE**
 - scan 50: verified blank/damaged terminal non-story leaf
 - unresolved 1987 Tamil/source or historical-glyph locations: **0**
-- English from the 1987 source: **not authorized / not started**
+- **1987 Tamil/source phase: CLOSED**
 
-Final release record:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
+### English phase state
+
+- source stories: **25**
+- English PASS: **0 / 25**
+- pending: **25 / 25**
+- needs review: **0**
+- phase state: **ACTIVE**
 
 ### Authoritative title corrections — do not revert
 
@@ -74,70 +103,29 @@ Final release record:
 
 Story 10 retains repository directory `stories/iru-nigazhvugal/` only for path continuity. The source-facing title is `இரு நிழல்கள்`.
 
-### Witness-only routing — preserve
+### Witness-only routing — preserve during English
 
-- Story 2 `அராபியக் கதை` is a completed 1987 witness for canonical `ஜாடி குட்டி போடுமா?`; the controlling 2008 Tamil/English remain unchanged.
-- Story 11 `குருவி ராமேஸ்வரம்` is a completed 1987 witness for the existing 2004 canonical story; the controlling 2004 Tamil/English remain unchanged.
+- Story 2 `அராபியக் கதை` is a completed 1987 witness for canonical `ஜாடி குட்டி போடுமா?`; its 1987 English must be **witness-local** and must not overwrite the controlling 2008 English.
+- Story 11 `குருவி ராமேஸ்வரம்` is a completed 1987 witness for the existing 2004 canonical story; its 1987 English must be **witness-local** and must not overwrite the controlling 2004 English.
 
-The final audit corrected stale summary text in those canonical README controls. Do not regress them to `NEEDS REVIEW` or the old Story-2 title misread.
+## Exact next activity
 
-## Lexical/Glyph L1 — COMPLETE
+Translate **Story 1 — `மன்னனும் குருவியும்!`** from the verified Tamil workspace:
 
-Ledger:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`
+`stories/mannanum-kuruviyum/`
 
-- scans **5–19 = 15 / 15 COMPLETE**
-- unresolved: **0**
+Before writing English, read completely:
 
-## Retrospective historical-glyph correction — CLOSED through scan 34
+1. `ENGLISH_TRANSLATION_GUIDE.md`;
+2. `SHORT_STORY_PROCESSING_GUIDE.md`;
+3. `COLLECTION_SOURCE_GUIDE.md`;
+4. collection `ENGLISH_TRANSLATION_PROGRESS.md`;
+5. root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
+6. `stories/mannanum-kuruviyum/README.md`;
+7. its Tamil assembly, page map, source audit, historical-glyph audit, visual-fidelity record and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 
-Durable record:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/RETROSPECTIVE_GLYPH_REAUDIT_L1_L2_2026-09-07.md`
+Create the complete English translation under `stories/mannanum-kuruviyum/translations/en/`, create `TRANSLATION_REVIEW.md`, verify physical source-page anchoring, synchronize the story README, collection English tracker, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, then stop after Story 1 unless the user explicitly expands the batch.
 
-Important corrected identities include:
+If translation exposes a concrete Tamil source issue, reopen only that exact Tamil span against the controlling scan before changing the Tamil or dependent English.
 
-`சொன்னாராம்`, `பேசினார்கள்`, `நிலைமையை`, `பேசினான்`, `பின்னால்`, `வினவினான்`, `அவனா!`, `இட்டானாம்`, and Story-18 `பின்னாலிருந்து`.
-
-`அந்நிலை` was rechecked and remains unchanged.
-
-## Lexical/Glyph L2 — COMPLETE
-
-Ledger:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L2_SCANS_0020_0034.md`
-
-- scans **20–34 = 15 / 15 COMPLETE**
-- Story 11 1987 witness closed; 2004 canonical unchanged
-- Stories 12–17 closed
-- lower scan 34 opening of Story 18 verified
-- unresolved L2: **0**
-
-The L2 ledger's Story-18 partial/open wording is a historical state-at-L2-closure record and must not be rewritten merely because L3 later completed the story.
-
-## Lexical/Glyph L3 — COMPLETE
-
-Ledger:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L3_SCANS_0035_0049.md`
-
-- scans **35–49 = 15 / 15 COMPLETE**
-- Stories 18–25: **Tamil lexical/glyph PASS / closed**
-- unresolved L3: **0**
-
-Important L3 source-sensitive readings include `மூன்றாண்டுகாலம்`, `பின்னாலே`, `மன்னா`, `நோஞ்சானை`, `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`, `பெற்றுஉன்`, `அன்பில்லையே`, `நன்றாக`, and historical `பூனை` / `பாலை` forms.
-
-## Final 1987 Tamil/source release audit — PASS
-
-The final consistency gate reconciled collection indexes, batch ledgers, story/witness status controls, title routing, shared-page boundaries, historical-glyph audit state and terminal scan 50.
-
-Three stale **control-layer** statements were corrected during that gate:
-
-1. Story-2 canonical README: old 1987 heading/status → `அராபியக் கதை`, witness PASS.
-2. Story-2 1987 `VARIANT_COMPARISON.md`: old deferred/open lexical note → closed.
-3. Story-11 canonical README: old 1987 witness `OPEN / NEEDS REVIEW` note → PASS.
-
-No verified 1987 Tamil source text changed in the final release audit.
-
-## Current activity
-
-There is **no active 1987 Tamil-source work**. Preserve this closed phase and reopen only when genuinely new or stronger source evidence requires a targeted correction.
-
-Do not begin English from the 1987 source without explicit authorization. Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
+Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
