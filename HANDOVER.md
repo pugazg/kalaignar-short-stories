@@ -111,9 +111,26 @@ Resolved collision checks remain closed:
 
 Unresolved identity holds: **0**.
 
+## L1 recovery checkpoint — authoritative
+
+Durable record:
+
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`
+
+The 2026-09-07 recovery checkpoint preserves an important distinction after interactive review work that had not yet been persisted as page text:
+
+- scans **5–19 = 15 / 15** physical pages have authoritative routing/shared boundaries;
+- corrected headings in the range remain confirmed;
+- canonical identity is already closed;
+- **durable exact body-text transcription remains open**;
+- **durable independent Pass-2 evidence for body text remains open**;
+- no page becomes final `verified` merely from the recovery checkpoint.
+
+Do not infer lexical completion from a transient review session or from source/structure completion.
+
 ## Current lexical phase / exact next activity
 
-Continue **Lexical/Glyph Batch L1 — scans 5–19 inclusive = 15 physical scans**.
+Remain in **Lexical/Glyph Batch L1 — scans 5–19 inclusive = 15 physical scans** until exact body text is persisted with traceable two-pass verification.
 
 Authoritative routing in this range:
 
@@ -127,7 +144,18 @@ Authoritative routing in this range:
 - Story 8 `புத்தர் உணர்த்திய உண்மை`: lower 15 → 16 → 17 → upper 18;
 - Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`: lower 18 → 19 → continues upper 20.
 
-For every physical page: complete Pass 1 initial transcription, then complete Pass 2 independent native/high-resolution glyph audit before final `verified` status.
+### Immediate next unit
+
+Start with **scan 5 / Story 1 `மன்னனும் குருவியும்!`**:
+
+1. persist direct source-faithful Pass-1 text;
+2. independently reopen the physical scan at native/high resolution;
+3. recheck all 13 historical-glyph families and any other suspicious cluster;
+4. record source-supported corrections explicitly;
+5. retain unresolved readings as `needs-review` rather than guessing;
+6. promote to `verified` only after both passes are durable.
+
+Do **not** advance to L2 simply because the physical boundaries are already known. When L1 reaches scan 19, Story 9 remains open until upper scan 20; scan 20 may be reopened as boundary context.
 
 English remains unauthorized.
 
