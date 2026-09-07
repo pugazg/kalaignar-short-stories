@@ -3,5 +3,5 @@
 | Seq. | Scan | Printed | Span | Status |
 |---:|---:|---:|---|---|
 | 1 | 18 | 17 | lower shared start | verified |
-| 2 | 19 | 18 | full continuation | verified |
-| 3 | 20 | 19 | upper shared ending | not-started — L2 |
+| 2 | 19 | 18 | full continuation | verified — retrospectively re-audited 2026-09-07 |
+| 3 | 20 | 19 | upper shared ending | verified |
