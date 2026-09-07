@@ -110,10 +110,9 @@ The collection-wide release reconciliation is complete.
 - Story 10 source-facing title is **`இரு நிழல்கள்`** while the older directory slug is retained only for repository continuity;
 - Story 2 and Story 11 remain **witness-only** at the 1987 layer and do not overwrite their controlling 2008/2004 canonicals;
 - stale witness-summary status text found during the final audit was synchronized to the already-verified witness records;
-- unresolved 1987 Tamil/source or historical-glyph locations: **0**;
-- English from the 1987 source: **not authorized / not started**.
+- unresolved 1987 Tamil/source or historical-glyph locations: **0**.
 
-## Final state
+## Final Tamil/source state
 
 - headings: **25 / 25 PASS**
 - canonical identity: **25 / 25 COMPLETE**
@@ -126,10 +125,25 @@ The collection-wide release reconciliation is complete.
 - unresolved lexical/glyph locations across L1–L3: **0**
 - scan 50 terminal non-story leaf: **PASS**
 - **1987 Tamil/source phase: CLOSED**
-- English from 1987 source: **not authorized**
 
-## Further activity
+## English translation phase — ACTIVE / NEXT
 
-There is **no routine remaining 1987 Tamil-source activity**. Preserve the closed state. Reopen only if genuinely new or stronger source evidence proves a specific reading or routing wrong, and then reopen only the affected coverage.
+Per the repository workflow, once Tamil/source activity is fully closed, **English translation is the next activity automatically**.
 
-Do not begin English from this 1987 source without explicit authorization.
+Tracker:
+`ENGLISH_TRANSLATION_PROGRESS.md`
+
+Current English state:
+
+- source stories: **25**
+- English PASS: **0 / 25**
+- pending: **25 / 25**
+- first exact target: **Story 1 — `மன்னனும் குருவியும்!`**
+
+For Story 2 `அராபியக் கதை` and Story 11 `குருவி ராமேஸ்வரம்`, any 1987 English translation must remain inside their 1987 witness workspaces and must not overwrite the controlling 2008/2004 canonical English.
+
+## Exact next activity
+
+Translate **Story 1 — `மன்னனும் குருவியும்!`** under `stories/mannanum-kuruviyum/` following `ENGLISH_TRANSLATION_GUIDE.md`.
+
+Preserve the closed Tamil/source state. Reopen Tamil only if translation exposes a concrete source-text issue that must be checked against the controlling scan.
