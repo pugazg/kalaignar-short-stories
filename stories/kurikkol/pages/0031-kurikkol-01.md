@@ -6,7 +6,7 @@ page_type: "story-start"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf"
-transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit"
+transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit; retrospective 13-family re-audit 2026-09-07"
 ---
 
 # குறிக்கோள்
