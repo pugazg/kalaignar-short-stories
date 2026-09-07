@@ -15,14 +15,14 @@ For the two 1987 witness-only identities, translate the verified 1987 witness te
 - source stories: **25**
 - distinct 1987 identities: **23**
 - witness-only 1987 identities: **2**
-- English PASS: **0 / 25**
-- pending: **25 / 25**
+- English PASS: **1 / 25**
+- pending: **24 / 25**
 - needs review: **0**
 - phase state: **ACTIVE**
 
 | # | 1987 source heading | Physical span | Translation route | State |
 |---:|---|---|---|---|
-| 1 | `மன்னனும் குருவியும்!` | scan 5 → upper 6 | canonical story English | **pending** |
+| 1 | `மன்னனும் குருவியும்!` | scan 5 → upper 6 | canonical story English | **PASS** |
 | 2 | `அராபியக் கதை` | lower 6 → upper 7 | 1987 witness-local English for canonical `ஜாடி குட்டி போடுமா?` | **pending** |
 | 3 | `தென்னை மரத்தில் புல்` | lower 7 | canonical story English | **pending** |
 | 4 | `நாராயணா ! நாராயணா !` | 8 → 9 → upper 10 | canonical story English | **pending** |
@@ -48,18 +48,19 @@ For the two 1987 witness-only identities, translate the verified 1987 witness te
 | 24 | `தெனாலிராமன் பூனை` | lower 46 → 47 → upper 48 | canonical story English | **pending** |
 | 25 | `குழந்தையும் கிளியும்` | lower 48 → 49 | canonical story English | **pending** |
 
+## Completed English stories
+
+1. `மன்னனும் குருவியும்!` — `stories/mannanum-kuruviyum/translations/en/mannanum-kuruviyum.md` — **PASS**
+   - page anchoring scan 5 → upper scan 6: **PASS**
+   - lower scan 6 / Story 2 excluded: **PASS**
+   - Tamil source changed during translation: **No**
+
 ## Exact next activity
 
-Translate **Story 1 — `மன்னனும் குருவியும்!`** from the verified Tamil assembly under `stories/mannanum-kuruviyum/`.
+Translate **Story 2 — `அராபியக் கதை`** from the verified 1987 witness layer under:
 
-Before translation, fetch live `main` and read:
+`stories/jaadi-kutti-poduma/witnesses/1987-kalaignar-sonna-kuttik-kathaigal/`
 
-1. `ENGLISH_TRANSLATION_GUIDE.md`;
-2. `SHORT_STORY_PROCESSING_GUIDE.md`;
-3. `COLLECTION_SOURCE_GUIDE.md`;
-4. this tracker;
-5. root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-6. `stories/mannanum-kuruviyum/README.md`;
-7. its verified Tamil assembly, page map, Tamil source audit, historical-glyph audit, visual-fidelity record and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+This is **witness-local English**. Do not overwrite the canonical 2008 English for `ஜாடி குட்டி போடுமா?`.
 
-Create the complete English story plus `TRANSLATION_REVIEW.md`, preserve physical source-page anchoring, synchronize the tracker and handover controls, and stop after Story 1 unless the user explicitly expands the batch.
+Before translation, fetch live `main` and read the English guide, processing/collection guides, this tracker, handover/prompt, the witness README, `sections/arabiyak-kathai.md`, witness page records, historical-glyph audit and variant comparison. Create the witness-local English translation and review, preserve lower-scan-6 → upper-scan-7 page anchoring, synchronize controls, and stop after Story 2 unless the user explicitly expands the batch.
