@@ -2,10 +2,12 @@
 
 Story **9 / 25**, distinct canonical identity.
 
-## Current state — PARTIAL / L1 SPANS VERIFIED
+## Current state — TAMIL SOURCE / GLYPH PASS
 
-- L1 span processed: **lower scan 18 + scan 19**
-- both L1 page records: **verified after Pass 1 + independent Pass 2**
-- story continues in **upper scan 20 / printed 19**, outside L1
-- story-wide Tamil closure: **OPEN pending upper scan 20**
-- English: not authorized
+- authoritative physical span: **lower scan 18 → scan 19 → upper scan 20**
+- page records: **3 / 3 verified after source review + independent historical-glyph review**
+- scan 19 was retrospectively corrected on 2026-09-07 under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- upper scan 20 closes the story and is verified;
+- story-wide Tamil assembly: **complete**;
+- unresolved Tamil/source/glyph locations: **0**;
+- English: not authorized.
