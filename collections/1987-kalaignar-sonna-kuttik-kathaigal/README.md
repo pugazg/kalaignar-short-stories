@@ -16,7 +16,7 @@ Collection workspace for the explicitly authorized source **`கலைஞர் 
 - represented edition: **இரண்டாம் பதிப்பு — 1987**
 - source PDF committed to GitHub: **No**
 
-The scan is controlling. Another edition may corroborate identity only; it may not override uncertain 1987 text.
+The scan is controlling. Another edition may corroborate identity only; it may not override uncertain 1987 wording.
 
 ## Physical structure
 
@@ -25,107 +25,70 @@ The scan is controlling. Another edition may corroborate identity only; it may n
 - scan **50**: directly verified blank/damaged rear leaf with no story continuation
 - nominal relation: **scan = printed page + 1**
 - printed contents page: **none visible**
-- direct-heading inventory: **25 / 25 high-resolution PASS**
+- direct-heading inventory: **25 / 25 native/high-resolution PASS**
 
-## Title / historical-glyph re-audit
+## Authoritative title / glyph re-audit
 
-A complete native/high-resolution heading re-audit was completed on **2026-09-06** after a historical `ணா` form was caught being read by modern visual resemblance.
+`TITLE_GLYPH_REAUDIT_2026-09-06.md` controls all heading spellings.
 
-Authoritative corrections:
+Three corrected headings must not be reverted:
 
-- Story 2: `அரசாபிமானக் கதை` → **`அராபியக் கதை`**;
-- Story 4: `நாராயணு! நாராயணு!` → **`நாராயணா ! நாராயணா !`** — historical `ணா` decoding; printed spacing before `!` preserved;
-- Story 6: `முல்லை முத்துக்குமரன்` → **`மூளி மூக்குக்காரன்`**.
+- Story 2: **`அராபியக் கதை`**;
+- Story 4: **`நாராயணா ! நாராயணா !`** — historical `ணா`, source spacing preserved;
+- Story 6: **`மூளி மூக்குக்காரன்`**.
 
-All other headings were reconfirmed. Historical-glyph-sensitive headings including `தென்னை மரத்தில் புல்`, `தெனாலிராமன் கதை`, `அகத்திணை அன்பு!`, and `தெனாலிராமன் பூனை` were explicitly checked at high resolution.
+Sensitive title forms in `தென்னை`, `தெனாலிராமன்`, `அகத்திணை`, and `பூனை` were separately high-resolution checked.
 
-See [`TITLE_GLYPH_REAUDIT_2026-09-06.md`](TITLE_GLYPH_REAUDIT_2026-09-06.md).
+## Source / structure / identity phase — CLOSED
 
-## User-authorized batch rule
+All three source-review batches are complete:
 
-Process **15 physical source scans per iteration**.
+- scans 6–20: COMPLETE;
+- scans 21–35: COMPLETE;
+- scans 36–50: COMPLETE.
 
-Source/structure/identity review batches are complete:
+Canonical-identity disposition: **25 / 25 COMPLETE**.
 
-- Batch 01: scans **6–20** — COMPLETE.
-- Batch 02: scans **21–35** — COMPLETE.
-- Batch 03: scans **36–50** — COMPLETE.
+- **23 distinct 1987 identities** — Story 1; Stories 3–10; Stories 12–25.
+- **2 existing-canonical witnesses only** — Story 2 `அராபியக் கதை` → `ஜாடி குட்டி போடுமா?`; Story 11 `குருவி ராமேஸ்வரம்` → existing 2004 canonical story.
+- unresolved identity holds: **0**.
 
-Durable records:
+## Mandatory lexical/glyph method
 
-- [`BATCH_0001_SCANS_0006_0020.md`](BATCH_0001_SCANS_0006_0020.md)
-- [`BATCH_0002_SCANS_0021_0035.md`](BATCH_0002_SCANS_0021_0035.md)
-- [`BATCH_0003_SCANS_0036_0050.md`](BATCH_0003_SCANS_0036_0050.md)
+Every physical page requires two independent rounds:
 
-## Full canonical-identity disposition — 25 / 25
+1. direct source-faithful Pass-1 transcription;
+2. a separate native/high-resolution Pass-2 audit of `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus any suspicious old-type cluster.
 
-### Existing-canonical witnesses — 2
+No page becomes final `verified` from Pass 1 alone.
 
-1. Story 2 `அராபியக் கதை` → canonical `ஜாடி குட்டி போடுமா?`; 1987 additional witness only.
-2. Story 11 `குருவி ராமேஸ்வரம்` → canonical 2004 story; 1987 additional witness only.
+## Lexical/Glyph Batch L1 — COMPLETE
 
-### Positively distinct identities — 23
+Durable record: [`LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`](LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md).
 
-Story 1 and Stories 3–10, 12–25 are positively distinct from represented canon.
+Scans **5–19 inclusive = 15 / 15 physical scans** now have durable Pass 1 + independent Pass 2 closure.
 
-Resolved collision checks remain valid after the title re-audit:
+Story-level result inside L1:
 
-- Story 7 `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` ≠ 2004 `சொர்க்கத்திற்கு வந்தது எப்படி?`;
-- Story 8 `புத்தர் உணர்த்திய உண்மை` ≠ 1977 `சித்தார்த்தன் சிலை`;
-- Story 14 `புகழேந்திப் புலவர் கதை` ≠ 1977 `புகழேந்தி`;
-- Story 21 `யசோதர காவியம்` ≠ canonical `அமிர்தமதி`;
-- Story 19 `தெனாலிராமன் கதை` ≠ Story 24 `தெனாலிராமன் பூனை`.
+- Story 1 `மன்னனும் குருவியும்!`: full PASS;
+- Story 2 `அராபியக் கதை`: full 1987 witness PASS; canonical 2008 layer unchanged;
+- Stories 3–8: full PASS;
+- Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்`: lower scan 18 + scan 19 PASS, but story-wide state remains OPEN because its ending is on upper scan 20.
 
-Unresolved identity holds: **0**.
-
-## Historical Tamil glyph rule — mandatory
-
-For every 1987 span check:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Character identity first; modern Unicode second. Preserve source wording, spelling, grammar, compounds, spacing and punctuation otherwise. Never global-replace and never fill uncertain wording from another edition.
-
-## New mandatory two-pass lexical verification
-
-Every physical page now requires **two distinct rounds**:
-
-1. **Initial transcription pass** — enter source-faithful text and mark uncertainty honestly.
-2. **High-resolution historical-glyph pass** — after the initial transcription, reopen the same page at native/high resolution, explicitly recheck all 13 families and same-edition comparators, and record any corrections.
-
-A page cannot become final `verified` on the initial transcription alone.
-
-## L1 recovery checkpoint — scans 5–19
-
-A durable recovery record now exists at [`LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`](LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md).
-
-It records the authoritative 15-scan routing and protects against an earlier interactive review being mistaken for committed lexical closure.
-
-Current L1 semantics:
-
-- physical routing / shared boundaries: **15 / 15 confirmed**;
-- corrected headings in the range: **confirmed**;
-- canonical-identity routing: **already closed**;
-- durable exact body-text transcription: **still open**;
-- durable independent Pass-2 evidence for body text: **still open**;
-- no L1 page is promoted to final `verified` by the recovery checkpoint alone.
+L1 unresolved in-batch lexical/glyph locations: **0**.
 
 ## Current progress
 
 - headings: **25 / 25 high-resolution PASS**
-- source/structure review batches: **3 / 3 COMPLETE**
-- canonical-identity routing: **25 / 25 COMPLETE**
+- source/structure batches: **3 / 3 COMPLETE**
+- canonical identity: **25 / 25 COMPLETE**
 - distinct identities: **23**
-- existing-canonical witnesses: **2**
-- unresolved identity holds: **0**
-- L1 scans 5–19 physical routing recovery: **15 / 15 CONFIRMED**
-- exact lexical/historical-glyph closure: **OPEN** for unpersisted/unverified body text
+- witness-only identities: **2**
+- lexical/glyph L1: **15 / 15 COMPLETE**
 - English from 1987 source: **not authorized**
 
 ## Exact next activity
 
-Remain in **Lexical/Glyph Batch L1 — scans 5–19 inclusive** until its body text is durably persisted.
+Process **Lexical/Glyph Batch L2 — scans 20–34 inclusive = 15 physical scans**.
 
-Begin with **scan 5 / Story 1 `மன்னனும் குருவியும்!`**. For each physical page, persist the source-faithful Pass-1 transcription, then perform and record the separate native/high-resolution historical-glyph audit before any final `verified` status.
-
-Do not advance to L2 merely because page boundaries are already known. Story 9 remains open at scan 19 and ends on upper scan 20; scan 20 may be reopened as boundary context after the L1 body-text records are durable.
+Scan 20 is a shared boundary: close upper Story 9 first, then begin Story 10 below it. Continue through lower scan 34, where Story 18 begins and remains open beyond the batch. Story 11 is witness-only and must not replace its controlling 2004 canonical layer.
