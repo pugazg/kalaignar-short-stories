@@ -3,6 +3,6 @@
 | Seq. | Scan | Printed | Span | Status |
 |---:|---:|---:|---|---|
 | 1 | 34 | 33 | lower shared start | verified |
-| 2 | 35 | 34 | full continuation | pending |
-| 3 | 36 | 35 | full continuation | pending |
-| 4 | 37 | 36 | upper shared ending | pending |
+| 2 | 35 | 34 | full continuation | verified |
+| 3 | 36 | 35 | full continuation | verified |
+| 4 | 37 | 36 | upper shared ending | verified |

@@ -1,13 +1,11 @@
 # Tamil Source Audit — ஜெயத்ரதனின் வீழ்ச்சி
 
-## Result — PARTIAL / lower scan 34 PASS
+## Result — PASS
 
-The completed lower scan 34 span was verified directly against the controlling 1987 source in both mandatory passes. Story-wide closure remains open because scans 35, 36 and upper 37 are not yet transcribed.
+The full physical span lower scan 34 → scan 35 → scan 36 → upper scan 37 was transcribed directly from the controlling 1987 source and independently reopened at native/high resolution.
 
-Source-faithful forms retained include `பாரதப் போர்க் களத்தில்`, `சக்கர வியூகத்தைப்`, `பிளந்துகொண்டு`, `மாண்டான்`, `போர்க் களத்தில்`, `குண்டம்வளர்த்து`, `அதிலேவிழுந்து`, and `மெளனமாகக்`.
+Source-faithful punctuation, compounds and unusual spacing were retained rather than regularized. The scan-35 printed proper-name form was rechecked against the same-edition Story-18 heading and encoded consistently as `ஜெயத்ரதன்` / `ஜெயத்ரதனை` / `ஜெயத்ரதனைக்`.
 
-Historical-type decoding corrected both visual-lookalike occurrences `பின்னலிருந்து` → **`பின்னாலிருந்து`**. This is a historical `னா` character-identity correction, not grammatical modernization.
+Historical-type decoding retained the already verified scan-34 `பின்னாலிருந்து`, and further resolved scan 36 `பின்னாலே` plus the apparent visual form in `மூன்றாண்டுகாலம்` as historical `றா` identity.
 
-Unresolved locations inside completed lower scan 34: **0**.
-
-Remaining source: **scan 35 → scan 36 → upper scan 37**.
+Unresolved lexical/source locations: **0**.
