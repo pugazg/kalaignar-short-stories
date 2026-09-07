@@ -6,15 +6,16 @@ This re-audit was requested after an old-type `ணா` in Story 4 had been misre
 
 ## Result
 
-All **25 / 25** headings now have a high-resolution source-supported Unicode reading.
+All **25 / 25** headings now have a high-resolution source-supported Unicode reading. A later direct banner recheck on **2026-09-07** corrected Story 10; that stronger source finding supersedes the earlier Story-10 entry in this audit.
 
-Three earlier inventory readings required correction:
+Four earlier inventory readings required correction:
 
 1. Story 2: `அரசாபிமானக் கதை` → **`அராபியக் கதை`**.
 2. Story 4: `நாராயணு! நாராயணு!` → **`நாராயணா ! நாராயணா !`**. This is a historical **`ணா`** decoding, not a spelling modernization. The printed spacing before each `!` is preserved.
 3. Story 6: `முல்லை முத்துக்குமரன்` → **`மூளி மூக்குக்காரன்`**.
+4. Story 10: `இரு நிகழ்வுகள்` → **`இரு நிழல்கள்`**. The stylized lower-scan-20 banner was reopened at native/high resolution on 2026-09-07; the corrected reading also agrees with the opening sentence `இலக்கியத்தில் இரண்டு நிழல்கள் குறிப்பிடப்படுகின்றன` but the banner pixels, not context, control the correction.
 
-No other heading required a lexical/title correction.
+No other heading currently requires a lexical/title correction.
 
 ## Authoritative heading list
 
@@ -29,7 +30,7 @@ No other heading required a lexical/title correction.
 | 7 | 13 | `சொர்க்கத்திற்குச் சென்றுவந்த அழகி!` | PASS |
 | 8 | 15 | `புத்தர் உணர்த்திய உண்மை` | PASS |
 | 9 | 18 | `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்` | PASS |
-| 10 | 20 | `இரு நிகழ்வுகள்` | stylized banner rechecked at high resolution |
+| 10 | 20 | `இரு நிழல்கள்` | corrected on 2026-09-07 by direct native/high-resolution banner recheck |
 | 11 | 23 | `குருவி ராமேஸ்வரம்` | PASS |
 | 12 | 24 | `சாமியாரும் பூக்காரியும்` | PASS |
 | 13 | 25 | `ஹஜ்ரத் அலியும் யூதனும்` | PASS |
@@ -58,7 +59,9 @@ The heading-level second pass explicitly checked the known reform-sensitive fami
 - Story 23 `அகத்திணை...` — old `ணை` form;
 - Story 24 `தெனாலிராமன் பூனை` — old `னா` and `னை` forms.
 
-These are glyph-decoding decisions only. Source wording was not modernized.
+Story 10's correction is an ordinary title-reading correction, not a historical-glyph-family decoding.
+
+These are glyph-decoding decisions only where explicitly classified as such. Source wording was not modernized.
 
 ## Mandatory two-pass lexical workflow from this checkpoint
 
