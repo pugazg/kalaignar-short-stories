@@ -20,7 +20,7 @@ Release state:
 - story-bearing physical scans **5–49**: **45 / 45 Pass 1 + independent Pass 2 COMPLETE**;
 - scan 50: **verified blank/damaged terminal non-story leaf**;
 - unresolved 1987 Tamil/source or historical-glyph locations: **0**;
-- English from the 1987 source: **not authorized / not started**.
+- next workflow phase: **English translation**.
 
 ## Layers reconciled
 
@@ -68,6 +68,8 @@ Two 1987 identities remain additional witnesses rather than duplicate canonicals
 
 Their 1987 witness transcriptions and historical-glyph checks are closed, while the controlling canonical Tamil and existing canonical English layers remain unchanged.
 
+During the 1987 English phase, those two source identities must receive **witness-local English translations** if translated; they must not overwrite the controlling canonical English from the other editions.
+
 ## Historical batch-state note
 
 The L2 ledger correctly records Story 18 `ஜெயத்ரதனின் வீழ்ச்சி` as partial/open **at the moment L2 closed**, because only lower scan 34 belonged to L2. That historical batch statement is preserved as provenance, not treated as a current stale state. Story 18 was completed and closed in L3 through upper scan 37.
@@ -89,6 +91,12 @@ No global replacement was authorized or used as a substitute for page-level sour
 
 **1987 Tamil/source phase: CLOSED.**
 
-There is no routine remaining Tamil-source activity for this collection. Do not reopen closed pages or witness layers without genuinely new or stronger source evidence. If such evidence appears, reopen only the affected coverage and propagate the correction through all dependent controls.
+The next phase is **English translation**, tracked at:
 
-English remains unauthorized and must not begin without explicit user authorization.
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
+
+Repository workflow rule: after a Tamil/source phase is fully closed, English translation becomes the automatic next activity unless the user explicitly pauses, redirects, defers or excludes English.
+
+First English target: **Story 1 — `மன்னனும் குருவியும்!`**.
+
+Do not routinely reopen closed Tamil pages or witness layers. If English translation exposes genuinely new or stronger source evidence, reopen only the affected Tamil coverage and propagate the correction through all dependent controls before resuming that span.
