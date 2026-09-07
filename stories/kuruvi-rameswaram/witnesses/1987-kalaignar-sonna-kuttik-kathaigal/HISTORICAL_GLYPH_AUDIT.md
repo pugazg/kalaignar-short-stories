@@ -1,36 +1,11 @@
-# Historical Tamil Glyph Audit — 1987 `குருவி ராமேஸ்வரம்` witness
+# Historical Glyph Audit — `குருவி ராமேஸ்வரம்` — 1987 witness
 
-Guide: `../../../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+## Result — PASS
 
-## Scope
-
-- source: 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
-- canonical identity: `குருவி ராமேஸ்வரம்`
-- physical witness span: **lower scan 23 / printed 22 → upper scan 24 / printed 23**
-- status: **NEEDS REVIEW**
-
-Batch-02 whole-page inspection establishes the exact 1987 source zones and narrative identity. The available rendered view does not support release-level certification of every small old-type body-text character.
-
-## Mandatory 13-family gate
+The lower scan-23 and upper scan-24 witness spans were independently reopened after Pass 1 and checked at native/high resolution against the complete 13-family set:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Rules:
+Whole-word and phrase checks retained the 1987 source forms, including `உலகத் தமிழ்நாடு`, `உலகத்தமிழ் மாநாட்டுக்குச்`, and the scan-24 line-wrapped source spelling `ராமேசவரத்தை`.
 
-- identify historical character identity before Unicode encoding;
-- preserve source spelling, grammar, compounds and punctuation otherwise;
-- use same-edition examples for doubtful typeforms;
-- never global-replace;
-- never copy the 2004 canonical wording to force an uncertain 1987 reading;
-- unresolved clusters remain `needs-review`.
-
-## Current disposition
-
-- physical source-zone review: **PASS**
-- narrative identity: **PASS**
-- visual first-pass with 13-family checklist: **DONE**
-- complete character-level glyph closure: **PENDING**
-- exact line-by-line 1987 witness text: **PENDING**
-- canonical 2004 Tamil/English changed: **No**
-
-No canonical layer is changed by this open witness audit.
+Unresolved glyphs: **0**. No global replacement and no canonical-2004 overwrite was performed.
