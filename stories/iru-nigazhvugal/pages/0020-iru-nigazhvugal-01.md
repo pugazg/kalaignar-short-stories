@@ -7,10 +7,10 @@ source_span: "lower"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf"
-transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit"
+transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit; direct title-banner recheck 2026-09-07"
 ---
 
-# இரு நிகழ்வுகள்
+# இரு நிழல்கள்
 
 இலக்கியத்தில் இரண்டு நிழல்கள் குறிப்பிடப்படுகின்றன ஒன்று காளிதாசன் எழுதிய சாகுந்தலத்தில் வருவது. மற்றொன்று சங்க இலக்கியத்தில் வருவது.
 
