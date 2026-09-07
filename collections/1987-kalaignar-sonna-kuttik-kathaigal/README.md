@@ -54,12 +54,12 @@ Witness-only:
 
 ## Mandatory lexical/glyph method
 
-Every physical page requires:
+Every physical story page requires:
 
 1. direct source-faithful Pass 1;
 2. separate native/high-resolution Pass 2 over  
    `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-   plus any suspicious old-type cluster.
+   plus suspicious old-type clusters.
 
 Historical type is decoded by character identity, never copied by modern visual resemblance. No global replacements.
 
@@ -81,36 +81,41 @@ A systematic visual-lookalike error was detected and the affected material was r
 
 Scans **20–34 = 15 / 15 COMPLETE** with Pass 1 + independent Pass 2.
 
-At L2 closure:
-
 - Stories 9–10: full PASS
 - Story 11: full 1987 witness PASS; canonical 2004 layer unchanged
 - Stories 12–17: full PASS
-- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: lower scan 34 PASS; **story-wide OPEN / PARTIAL**
+- lower scan 34 opening of Story 18: PASS
 - unresolved L2 lexical/glyph locations: **0**
+
+## Lexical/Glyph Batch L3 — COMPLETE
+
+`LEXICAL_GLYPH_BATCH_L3_SCANS_0035_0049.md`
+
+Scans **35–49 = 15 / 15 COMPLETE** with Pass 1 + independent Pass 2.
+
+- Stories 18–25: **full Tamil lexical/glyph PASS / closed**
+- unresolved L3 lexical/glyph locations: **0**
+
+Sensitive L3 source readings retained include `மூன்றாண்டுகாலம்`, `பின்னாலே`, `மன்னா`, `நோஞ்சானை`, `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`, `பெற்றுஉன்`, `அன்பில்லையே`, `நன்றாக`, and historical `பூனை` / `பாலை` forms where source pixels control the Unicode identity.
 
 ## Current progress
 
 - headings: **25 / 25 PASS**
 - canonical identity: **25 / 25 COMPLETE**
+- distinct identities: **23**
+- witness-only identities: **2**
 - lexical/glyph L1: **15 / 15 COMPLETE**
 - lexical/glyph L2: **15 / 15 COMPLETE**
-- total story-bearing scans with lexical/glyph batch closure: **30 / 45** (`5–34`)
+- lexical/glyph L3: **15 / 15 COMPLETE**
+- story-bearing scans with Pass 1 + independent Pass 2 closure: **45 / 45** (`5–49`)
+- unresolved lexical/glyph locations across L1–L3: **0**
+- scan 50 terminal non-story leaf: **PASS**
 - English from 1987 source: **not authorized**
 
 ## Exact next activity
 
-Process **Lexical/Glyph Batch L3 — scans 35–49 inclusive = 15 physical scans**.
+Run the **1987 collection-wide final Tamil/source consistency and release audit**.
 
-Routing:
+This gate should reconcile page records, assembled Tamil sections, page maps, story-local Tamil audits, historical-glyph audits, shared-page boundaries, title corrections, witness routing and all collection-level status controls. Do not routinely retranscribe already closed pages; reopen the physical source only for a mismatch, stale state, unresolved marker or stronger source evidence.
 
-- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: scans 35 → 36 → upper 37, then close it
-- Story 19 `தெனாலிராமன் கதை`: lower 37 → 38 → upper 39
-- Story 20 `வல்வில் ஓரி`: lower 39 → 40 → upper 41
-- Story 21 `யசோதர காவியம்`: lower 41 → 42 → 43 → upper 44
-- Story 22 `காடு சென்ற குமணன்`: lower 44 → upper 45
-- Story 23 `அகத்திணை அன்பு!`: lower 45 → upper 46
-- Story 24 `தெனாலிராமன் பூனை`: lower 46 → 47 → upper 48
-- Story 25 `குழந்தையும் கிளியும்`: lower 48 → 49
-
-Do not begin English. Scan 50 remains outside L3 as the terminal blank/damaged leaf.
+If the audit passes with zero unresolved source-text issues, record the 1987 Tamil/source phase as closed. Do not begin English without explicit authorization.

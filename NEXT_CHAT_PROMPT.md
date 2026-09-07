@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 Lexical/Glyph Batch L3 / scans 35–49
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 final Tamil/source consistency audit
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -19,7 +19,7 @@ Controlling PDF: `TVA_BOK_0065566_கலைஞர்_சொன்ன_கு�
 
 ## Mandatory startup
 
-Read before source-dependent writes:
+Read before changing anything:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
@@ -31,22 +31,25 @@ Read before source-dependent writes:
 8. `RETROSPECTIVE_GLYPH_REAUDIT_L1_L2_2026-09-07.md`
 9. `LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`
 10. `LEXICAL_GLYPH_BATCH_L2_SCANS_0020_0034.md`
-11. collection `indexes/story-inventory.md`
-12. collection `indexes/scan-map.md`
-13. relevant story-local page/section/audit controls.
+11. `LEXICAL_GLYPH_BATCH_L3_SCANS_0035_0049.md`
+12. collection `indexes/story-inventory.md`
+13. collection `indexes/scan-map.md`
+14. all relevant story-local page maps, pages, assembled Tamil sections, Tamil audits and historical-glyph audits for the 1987 story identities / witness layers.
 
-Resolve the exact 1987 PDF before visual work.
+Resolve the exact 1987 PDF only if the consistency audit requires source-pixel reopening.
 
-## CLOSED / DO NOT REOPEN WITHOUT NEW SOURCE EVIDENCE
+## CLOSED / DO NOT ROUTINELY REOPEN
 
 - source / structure / identity: **25 / 25 COMPLETE**
 - headings: **25 / 25 PASS**
 - L1 scans 5–19: **15 / 15 COMPLETE**
 - L2 scans 20–34: **15 / 15 COMPLETE**
-- retrospective historical-glyph correction through scan 34: **CLOSED**
-- unresolved L1/L2 lexical/glyph locations: **0**
+- L3 scans 35–49: **15 / 15 COMPLETE**
+- story-bearing scans 5–49: **45 / 45 Pass 1 + independent Pass 2 COMPLETE**
+- unresolved lexical/glyph locations across L1–L3: **0**
+- scan 50: terminal blank/damaged non-story leaf PASS
 
-Story 18 is intentionally not closed: only lower scan 34 is verified; it continues in L3.
+Stories 18–25 are now closed at Tamil lexical/glyph level.
 
 ## AUTHORITATIVE CORRECTIONS — DO NOT REVERT
 
@@ -56,7 +59,7 @@ Titles:
 - `மூளி மூக்குக்காரன்`
 - Story 10 **`இரு நிழல்கள்`**, not `இரு நிகழ்வுகள்`
 
-Historical-type examples already corrected:
+Historical/source-sensitive examples already resolved include:
 - `சொன்னாராம்`
 - `பேசினார்கள்`
 - `நிலைமையை`
@@ -65,50 +68,36 @@ Historical-type examples already corrected:
 - `வினவினான்`
 - `அவனா!`
 - `இட்டானாம்`
-- Story 18 `பின்னாலிருந்து`
+- `பின்னாலிருந்து`
+- `மூன்றாண்டுகாலம்`
+- `பின்னாலே`
+- `மன்னா`
+- `நோஞ்சானை`
+- `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`
+- `பெற்றுஉன்`
+- `அன்பில்லையே`
+- `நன்றாக`
 
 `அந்நிலை` remains `அந்நிலை`.
 
-## USER-DIRECTED BATCH RULE
+## Exact next activity — final Tamil/source consistency & release audit
 
-Process **15 physical scans per lexical/glyph iteration**.
+Do not retranscribe all 45 closed story-bearing scans merely because this is a final audit. Instead reconcile the durable layers and reopen source pixels only when a mismatch or stale state requires it.
 
-### L3
+Audit in order:
 
-Process **scans 35–49 inclusive**.
+1. page records ↔ assembled Tamil sections for every 1987 story / witness span;
+2. page maps ↔ authoritative scan-map shared boundaries;
+3. story-local Tamil audits ↔ historical-glyph audits ↔ README status;
+4. stale `partial`, `pending`, `needs-review`, `blocked`, unresolved or old L1/L2/L3 wording anywhere in the active 1987 controls;
+5. title spellings and historical-glyph-sensitive forms;
+6. Story 2 and Story 11 witness-only routing; do not overwrite their controlling canonical layers;
+7. collection README / inventory / scan-map totals;
+8. scan 50 terminal non-story leaf;
+9. confirm no 1987 English work was started.
 
-Authoritative routing:
+For any mismatch, reopen the exact controlling source page, resolve it source-first, synchronize all affected durable layers, and record the correction. Never global-replace.
 
-- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: scans 35 → 36 → upper 37; lower 34 already verified
-- Story 19 `தெனாலிராமன் கதை`: lower 37 → 38 → upper 39
-- Story 20 `வல்வில் ஓரி`: lower 39 → 40 → upper 41
-- Story 21 `யசோதர காவியம்`: lower 41 → 42 → 43 → upper 44
-- Story 22 `காடு சென்ற குமணன்`: lower 44 → upper 45
-- Story 23 `அகத்திணை அன்பு!`: lower 45 → upper 46
-- Story 24 `தெனாலிராமன் பூனை`: lower 46 → 47 → upper 48
-- Story 25 `குழந்தையும் கிளியும்`: lower 48 → 49
+If all checks pass with zero unresolved Tamil/source issues, create a durable collection-level final audit (for example `FINAL_TAMIL_SOURCE_AUDIT.md`) and mark the **1987 Tamil/source phase CLOSED** in collection controls, root `HANDOVER.md`, and this prompt.
 
-## Mandatory two-pass historical-glyph workflow
-
-Pass 1:
-- direct controlling-scan transcription
-- preserve spelling, grammar, compounds, spacing, punctuation and page boundaries
-- unresolved stays `needs-review`
-
-Pass 2:
-- independently reopen same scan at native/high resolution
-- recheck `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-- use same-edition comparison for suspicious type
-- decode character identity, not modern visual resemblance
-- no global replacements
-- grammar / another edition is not proof
-
-Final `verified` requires both passes.
-
-## Exact next activity
-
-Start with **scan 35**, continuing `ஜெயத்ரதனின் வீழ்ச்சி`; process the whole L3 batch through scan 49 in order, then update story-local controls, the L3 ledger, collection indexes/README, root `HANDOVER.md`, and this prompt.
-
-English remains unauthorized. Scan 50 is the already identified blank/damaged terminal leaf outside L3.
-
-Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
+English remains unauthorized. Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
