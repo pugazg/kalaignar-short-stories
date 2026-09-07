@@ -6,7 +6,7 @@ page_type: "story-continuation-with-illustration"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf"
-transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit"
+transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit; direct source-spacing recheck 2026-09-07"
 ---
 
 ## Non-text source element
@@ -17,6 +17,6 @@ Source illustration occupies the upper page and depicts the literary-shadow exam
 
 இது காளிதாசன் எழுதியுள்ள சாகுந்தலத்திலே வர்ணிக்கப்பட்டுள்ள காட்சி.
 
-தமிழ்ப்புலவன் சங்க இலக்கியத்தில் கலித்தொகையில் ஒரு செய்யுளை இயற்றி இருக்கின்றான். அந்தக்கலித்தொகை பாடல்களில் பாலைக்கலியில் ஒருபாடல்.
+தமிழ்ப்புலவன் சங்க இலக்கியத்தில் கலித்தொகையில் ஒரு செய்யுளை இயற்றி இருக்கின்றான். அந்தக் கலித்தொகை பாடல்களில் பாலைக்கலியில் ஒருபாடல்.
 
 <!-- anthology scan: 21; printed page: 20 -->
