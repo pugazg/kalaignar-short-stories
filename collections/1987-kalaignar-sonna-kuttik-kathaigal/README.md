@@ -98,7 +98,22 @@ Scans **35–49 = 15 / 15 COMPLETE** with Pass 1 + independent Pass 2.
 
 Sensitive L3 source readings retained include `மூன்றாண்டுகாலம்`, `பின்னாலே`, `மன்னா`, `நோஞ்சானை`, `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`, `பெற்றுஉன்`, `அன்பில்லையே`, `நன்றாக`, and historical `பூனை` / `பாலை` forms where source pixels control the Unicode identity.
 
-## Current progress
+## Final Tamil/source release audit — PASS / CLOSED
+
+`FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
+
+The collection-wide release reconciliation is complete.
+
+- all **25 / 25** story identities are reconciled to the authoritative scan map;
+- story-bearing scans **5–49 = 45 / 45** have Pass 1 + independent Pass 2 closure;
+- shared-page boundaries are preserved;
+- Story 10 source-facing title is **`இரு நிழல்கள்`** while the older directory slug is retained only for repository continuity;
+- Story 2 and Story 11 remain **witness-only** at the 1987 layer and do not overwrite their controlling 2008/2004 canonicals;
+- stale witness-summary status text found during the final audit was synchronized to the already-verified witness records;
+- unresolved 1987 Tamil/source or historical-glyph locations: **0**;
+- English from the 1987 source: **not authorized / not started**.
+
+## Final state
 
 - headings: **25 / 25 PASS**
 - canonical identity: **25 / 25 COMPLETE**
@@ -110,12 +125,11 @@ Sensitive L3 source readings retained include `மூன்றாண்டுக
 - story-bearing scans with Pass 1 + independent Pass 2 closure: **45 / 45** (`5–49`)
 - unresolved lexical/glyph locations across L1–L3: **0**
 - scan 50 terminal non-story leaf: **PASS**
+- **1987 Tamil/source phase: CLOSED**
 - English from 1987 source: **not authorized**
 
-## Exact next activity
+## Further activity
 
-Run the **1987 collection-wide final Tamil/source consistency and release audit**.
+There is **no routine remaining 1987 Tamil-source activity**. Preserve the closed state. Reopen only if genuinely new or stronger source evidence proves a specific reading or routing wrong, and then reopen only the affected coverage.
 
-This gate should reconcile page records, assembled Tamil sections, page maps, story-local Tamil audits, historical-glyph audits, shared-page boundaries, title corrections, witness routing and all collection-level status controls. Do not routinely retranscribe already closed pages; reopen the physical source only for a mismatch, stale state, unresolved marker or stronger source evidence.
-
-If the audit passes with zero unresolved source-text issues, record the 1987 Tamil/source phase as closed. Do not begin English without explicit authorization.
+Do not begin English from this 1987 source without explicit authorization.

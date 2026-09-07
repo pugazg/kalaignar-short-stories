@@ -34,7 +34,7 @@ There is **no printed contents page** visible. `TITLE_GLYPH_REAUDIT_2026-09-06.m
 
 Scan 50 is the directly verified blank/damaged terminal leaf with no story continuation.
 
-## Totals
+## Totals / release state
 
 - headings: **25 / 25 high-resolution PASS**
 - canonical-identity routing: **25 / 25 COMPLETE**
@@ -45,5 +45,8 @@ Scan 50 is the directly verified blank/damaged terminal leaf with no story conti
 - L3 scans 35–49: **15 / 15 COMPLETE**
 - story-bearing physical scans with lexical/glyph closure: **45 / 45**
 - unresolved L1–L3 lexical/glyph locations: **0**
+- final Tamil/source release audit: **PASS**
+- **1987 Tamil/source phase: CLOSED**
+- English from the 1987 source: **not authorized**
 
-Next gate: **collection-wide final Tamil/source consistency and release audit**. English remains unauthorized.
+See `../FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md` for the final collection-wide reconciliation and release decision.

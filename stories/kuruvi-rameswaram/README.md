@@ -18,7 +18,7 @@ Canonical story workspace for **குருவி ராமேஸ்வரம�
 
 The 1987 collection **`கலைஞர் சொன்ன குட்டிக் கதைகள்`**, Second Edition 1987, contains the same story under the same heading.
 
-Direct Batch-02 whole-page review corrected the 1987 physical span to:
+Direct Batch-02 whole-page review fixed the 1987 physical span as:
 
 **lower scan 23 / printed 22 → upper scan 24 / printed 23**.
 
@@ -28,8 +28,12 @@ Disposition:
 - role of 1987 source: **additional edition witness only**;
 - canonical 2004 Tamil changed: **No**;
 - canonical English changed: **No**;
-- exact 1987 lexical/historical-glyph transcription: **OPEN / NEEDS REVIEW**;
+- exact 1987 line-by-line transcription: **PASS**;
+- 1987 historical-glyph 13-family audit: **PASS**;
+- unresolved 1987 lexical/glyph locations: **0**;
 - witness controls: [`witnesses/1987-kalaignar-sonna-kuttik-kathaigal/README.md`](witnesses/1987-kalaignar-sonna-kuttik-kathaigal/README.md).
+
+Source-faithful 1987 forms such as `உலகத் தமிழ்நாடு`, `உலகத்தமிழ் மாநாட்டுக்குச்`, and `ராமேசவரத்தை` remain in the witness layer rather than being normalized from the 2004 canonical text.
 
 The 1987 witness never replaces the 2004 controlling source merely because it is earlier.
 
@@ -42,4 +46,4 @@ The 1987 witness never replaces the 2004 controlling source merely because it is
 - scan markers **5 / printed 4** and **6 / printed 5** align to the verified cross-page sentence
 - canonical Tamil changed during visual/English work: **No**
 
-**Canonical 2004 workflow remains complete: Tamil PASS, visual PASS, English PASS. The 1987 witness is separately open only at its own lexical/glyph layer.**
+**Canonical 2004 workflow remains complete: Tamil PASS, visual PASS, English PASS. The additional 1987 witness is separately closed at its own Tamil lexical/historical-glyph layer with unresolved 0.**

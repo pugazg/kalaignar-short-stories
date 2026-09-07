@@ -39,10 +39,11 @@ Final `verified` requires both passes.
 - 2009 new-story onboarding — **5/5 CLOSED**
 - 2009 existing-canonical witness comparison — **11/11 CLOSED**
 - supplemental English — **6/6 PASS / CLOSED**
+- 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` Tamil/source phase — **CLOSED**
 
-Do not reopen these because of an older prompt.
+Do not reopen closed phases because of an older prompt.
 
-## ACTIVE — 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
+## CLOSED — 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
 
 Workspace: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
@@ -56,6 +57,13 @@ Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_க�
 - canonical identity: **25 / 25 COMPLETE**
 - distinct: **23**
 - witness-only: **2**
+- story-bearing scans **5–49 = 45 / 45 Pass 1 + independent Pass 2 COMPLETE**
+- scan 50: verified blank/damaged terminal non-story leaf
+- unresolved 1987 Tamil/source or historical-glyph locations: **0**
+- English from the 1987 source: **not authorized / not started**
+
+Final release record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
 
 ### Authoritative title corrections — do not revert
 
@@ -63,6 +71,15 @@ Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_க�
 - Story 4 `நாராயணா ! நாராயணா !`
 - Story 6 `மூளி மூக்குக்காரன்`
 - Story 10 `இரு நிழல்கள்` — direct banner recheck; earlier `இரு நிகழ்வுகள்` was wrong
+
+Story 10 retains repository directory `stories/iru-nigazhvugal/` only for path continuity. The source-facing title is `இரு நிழல்கள்`.
+
+### Witness-only routing — preserve
+
+- Story 2 `அராபியக் கதை` is a completed 1987 witness for canonical `ஜாடி குட்டி போடுமா?`; the controlling 2008 Tamil/English remain unchanged.
+- Story 11 `குருவி ராமேஸ்வரம்` is a completed 1987 witness for the existing 2004 canonical story; the controlling 2004 Tamil/English remain unchanged.
+
+The final audit corrected stale summary text in those canonical README controls. Do not regress them to `NEEDS REVIEW` or the old Story-2 title misread.
 
 ## Lexical/Glyph L1 — COMPLETE
 
@@ -89,12 +106,12 @@ Ledger:
 `collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L2_SCANS_0020_0034.md`
 
 - scans **20–34 = 15 / 15 COMPLETE**
-- Story 9: closed
-- Story 10 `இரு நிழல்கள்`: closed
-- Story 11: 1987 witness closed; 2004 canonical unchanged
-- Stories 12–17: closed
-- lower scan 34 opening of Story 18: verified
+- Story 11 1987 witness closed; 2004 canonical unchanged
+- Stories 12–17 closed
+- lower scan 34 opening of Story 18 verified
 - unresolved L2: **0**
+
+The L2 ledger's Story-18 partial/open wording is a historical state-at-L2-closure record and must not be rewritten merely because L3 later completed the story.
 
 ## Lexical/Glyph L3 — COMPLETE
 
@@ -107,29 +124,20 @@ Ledger:
 
 Important L3 source-sensitive readings include `மூன்றாண்டுகாலம்`, `பின்னாலே`, `மன்னா`, `நோஞ்சானை`, `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`, `பெற்றுஉன்`, `அன்பில்லையே`, `நன்றாக`, and historical `பூனை` / `பாலை` forms.
 
-## 1987 lexical/glyph state after L3
+## Final 1987 Tamil/source release audit — PASS
 
-- story-bearing scans **5–49 = 45 / 45 Pass 1 + independent Pass 2 COMPLETE**
-- unresolved lexical/glyph locations across L1–L3: **0**
-- scan 50: verified blank/damaged terminal non-story leaf
-- English: **not authorized**
+The final consistency gate reconciled collection indexes, batch ledgers, story/witness status controls, title routing, shared-page boundaries, historical-glyph audit state and terminal scan 50.
 
-## Exact next activity — 1987 final Tamil/source consistency & release audit
+Three stale **control-layer** statements were corrected during that gate:
 
-Do **not** routinely retranscribe closed pages.
+1. Story-2 canonical README: old 1987 heading/status → `அராபியக் கதை`, witness PASS.
+2. Story-2 1987 `VARIANT_COMPARISON.md`: old deferred/open lexical note → closed.
+3. Story-11 canonical README: old 1987 witness `OPEN / NEEDS REVIEW` note → PASS.
 
-Perform a collection-wide reconciliation of:
+No verified 1987 Tamil source text changed in the final release audit.
 
-1. all story-local `pages/*.md` records against assembled Tamil `sections/*.md`;
-2. story-local page maps against authoritative shared physical boundaries;
-3. Tamil source audits and `HISTORICAL_GLYPH_AUDIT.md` states;
-4. title corrections and historical-glyph-sensitive headings;
-5. Story 2 and Story 11 witness routing so their controlling canonical editions remain unchanged;
-6. collection README, story inventory and scan map counts/statuses;
-7. unresolved/`needs-review`/`partial`/`pending` markers that may be stale after L3 closure;
-8. scan 50 terminal-leaf state;
-9. absence of unauthorized 1987 English work.
+## Current activity
 
-Reopen source pixels only where this reconciliation exposes a mismatch, stale status, unresolved marker or stronger source evidence. If all gates pass with zero unresolved Tamil/source issues, create a durable final-audit record and mark the **1987 Tamil/source phase CLOSED**.
+There is **no active 1987 Tamil-source work**. Preserve this closed phase and reopen only when genuinely new or stronger source evidence requires a targeted correction.
 
-Do not begin English without explicit authorization. Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
+Do not begin English from the 1987 source without explicit authorization. Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.

@@ -34,7 +34,7 @@
 
 6, 7, 10, 12, 13, 15, 18, 20, 23, 24, 25, 27, 32, 34, 37, 39, 41, 44, 45, 46, 48 are shared story boundaries.
 
-## Lexical batch state
+## Lexical / release state
 
 - L1 scans **5–19**: **15 / 15 COMPLETE**
 - L2 scans **20–34**: **15 / 15 COMPLETE**
@@ -42,5 +42,8 @@
 - story-bearing scans **5–49**: **45 / 45 Pass 1 + independent Pass 2 COMPLETE**
 - unresolved L1–L3 batch locations: **0**
 - scan 50: **terminal blank/damaged non-story leaf PASS**
+- final Tamil/source release audit: **PASS**
+- **1987 Tamil/source phase: CLOSED**
+- English from 1987 source: **not authorized**
 
-Next gate: **collection-wide final Tamil/source consistency and release audit**. English remains unauthorized.
+The historical L2 record that Story 18 was partial at L2 closure remains valid provenance; Story 18 is current-state PASS after L3 completion.

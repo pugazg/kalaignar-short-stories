@@ -37,15 +37,19 @@ Direct inspection of the 1987 shared physical span (lower scan 6 through upper s
 - both versions use the impossible jar-birth/death logic as the central anecdote;
 - no duplicate `stories/arabiyak-kathai/` workspace should be created.
 
-## Deferred lexical comparison
+## 1987 lexical / historical-glyph comparison — CLOSED
 
-Before line-level wording differences are asserted:
+The 1987 witness transcription and independent historical-glyph review are complete:
 
-1. complete the initial 1987 witness transcription from the controlling source;
-2. after that transcription, reopen lower scan 6 and upper scan 7 at native/high resolution;
-3. explicitly recheck `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-4. use same-edition comparison for doubtful typeforms;
-5. then collate reversibly against the 2008 canonical text.
+- witness page transcription: **2 / 2 verified**;
+- physical coverage: **lower scan 6 → upper scan 7**;
+- independent historical-glyph Pass 2: **2 / 2 PASS**;
+- mandatory 13-family set checked at native/high resolution;
+- source-supported historical-type readings include `இவனோ` and `அவனோ` (`னோ`);
+- source form `மறுமாள்` is retained as printed rather than grammatically normalized;
+- unresolved 1987 witness lexical/glyph locations: **0**.
+
+No global replacement or canonical-layer overwrite was used.
 
 ## Canonical disposition
 
@@ -54,4 +58,4 @@ Before line-level wording differences are asserted:
 - canonical page statuses changed: **No**
 - new canonical story created from `அராபியக் கதை`: **No**
 
-**Identity comparison closed; title corrected; lexical/glyph comparison remains open.**
+**Identity comparison closed; title corrected; 1987 lexical/historical-glyph witness comparison closed.**

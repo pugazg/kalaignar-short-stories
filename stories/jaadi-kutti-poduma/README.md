@@ -23,15 +23,19 @@ Canonical story workspace for **ஜாடி குட்டி போடும�
 - text fidelity: **PASS — corrected**
 - visual fidelity: **PASS**
 
-## Additional 1987 witness — alternate heading `அரசாபிமானக் கதை`
+## Additional 1987 witness — alternate heading `அராபியக் கதை`
 
-The 1987 collection **`கலைஞர் சொன்ன குட்டிக் கதைகள்`** contains the same narrative under the different heading **`அரசாபிமானக் கதை`**.
+The 1987 collection **`கலைஞர் சொன்ன குட்டிக் கதைகள்`** contains the same narrative under the different heading **`அராபியக் கதை`**.
+
+A native/high-resolution title re-audit corrected the earlier misread `அரசாபிமானக் கதை` to the controlling source heading `அராபியக் கதை`.
 
 - 1987 physical span: **lower scan 6 / printed 5 → upper scan 7 / printed 6**
 - identity result: **PASS — same jar-birth/jar-death narrative**
 - disposition: **additional witness only; no duplicate canonical story workspace**
 - witness record: [`witnesses/1987-kalaignar-sonna-kuttik-kathaigal/README.md`](witnesses/1987-kalaignar-sonna-kuttik-kathaigal/README.md)
-- exact 1987 lexical transcription / historical-glyph audit: **NEEDS REVIEW**
+- exact 1987 page transcription: **2 / 2 verified**
+- independent historical-glyph Pass 2: **2 / 2 PASS**
+- unresolved 1987 witness text: **0**
 - canonical 2008 Tamil changed from 1987 evidence: **No**
 - canonical English changed: **No**
 
@@ -48,3 +52,5 @@ The 1987 alternate heading is preserved as an edition fact. It does not rename o
 - distinct source forms `காப்புமுற்று`, `காப்புமுற்றிருக்கின்றது`, later `காப்புமுற்றிருக்கிறது`, and `காப்பு மடைவதாவது?` preserved in the Tamil/control layer without normalization
 - `(சிரிப்பு)`, `(பலத்த சிரிப்பு)` and final `*`: preserved in English
 - canonical Tamil changed during translation: **No**
+
+**Canonical 2008 workflow remains complete. The additional 1987 witness is also closed at its own Tamil lexical/historical-glyph layer and does not alter the canonical 2008 text.**
