@@ -31,6 +31,15 @@ English translation may begin for a story only after the repository shows:
 
 A persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queue does not itself block translation when the Tamil reading is already verified, but every queued item must be read before translation. The English must follow the current verified Tamil reading and must not silently “fix” a suspicious form.
 
+### 2.1 Default phase transition — mandatory
+
+When the active story, work or collection has **fully completed and closed its Tamil/source activity**, English translation becomes the **automatic next activity**.
+
+- Do not wait for a separate second authorization merely to begin English after Tamil/source closure.
+- A separate pause is required only when the user explicitly says to stop, redirect, defer or exclude English.
+- When a collection is being processed in a Tamil-first collection-wide mode, do not interleave English before that collection-wide Tamil/source release gate is closed; begin English immediately after closure.
+- `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` must advance directly from a closed Tamil/source phase to the exact next English-translation activity rather than recording “no automatic next activity”.
+
 ## 3. Translation principles
 
 - Translate the **verified Tamil actually preserved in the repository**.
@@ -45,7 +54,7 @@ A persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queue does not itself block transla
 
 ## 4. Story-local translation structure
 
-For each translated story:
+For each translated canonical story:
 
 ```text
 stories/<slug>/
@@ -55,13 +64,25 @@ stories/<slug>/
   TRANSLATION_REVIEW.md
 ```
 
+For an **additional source witness** whose canonical story is controlled by another edition, keep the English translation inside the witness layer instead of overwriting canonical English:
+
+```text
+stories/<canonical-slug>/witnesses/<source-id>/
+  translations/
+    en/
+      <witness-id>.md
+  TRANSLATION_REVIEW.md
+```
+
+A witness-local English translation represents that witness edition only. It must not silently replace or revise the controlling canonical Tamil or canonical English from another edition.
+
 The English file should contain the complete story in source order. It may include brief non-reading comments for page/source traceability, but translator explanations do not belong inside the story body.
 
 `TRANSLATION_REVIEW.md` should record at minimum:
 
 - Tamil title and English title treatment;
 - source scan / printed-page range;
-- canonical Tamil assembly used;
+- canonical Tamil assembly or verified witness assembly used;
 - translation completeness;
 - structural/page-marker completeness;
 - difficult terms, names, source anomalies and choices;
@@ -81,7 +102,7 @@ If translation exposes a likely Tamil transcription problem:
 
 ## 6. Translation progress states
 
-`ENGLISH_TRANSLATION_PROGRESS.md` is the durable anthology translation tracker.
+`ENGLISH_TRANSLATION_PROGRESS.md` or the active collection-local equivalent is the durable translation tracker.
 
 Allowed story states:
 
@@ -99,12 +120,12 @@ Process **one anthology story per activity** unless the user explicitly expands 
 For each story:
 
 1. fetch live `main` first;
-2. read this guide, `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `ENGLISH_TRANSLATION_PROGRESS.md`, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
-3. read the story README, Tamil assembly, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, visual-fidelity record and page map;
-4. translate the complete verified Tamil story into `translations/en/<slug>.md`;
+2. read this guide, `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, the active English translation tracker, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
+3. read the story README, Tamil assembly, audit, `POSSIBLE_ERRORS_FOR_REVIEW.md`, visual-fidelity record and page map; for a witness-only target, read the corresponding witness-local verified Tamil/audit controls instead;
+4. translate the complete verified Tamil story or witness into its correct English path;
 5. preserve source/page boundaries and meaningful display structure;
 6. create/update `TRANSLATION_REVIEW.md`;
-7. update the story README, `ENGLISH_TRANSLATION_PROGRESS.md`, root README, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
+7. update the story or witness README, translation tracker, root README where applicable, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`;
 8. re-fetch live `main` and the changed controls before declaring closure;
 9. do not begin the next story in the same activity unless the user explicitly requested a batch.
 
@@ -154,6 +175,6 @@ This regression check must not be satisfied by an unrelated syntax failure.
 
 ## 9. Phase closure
 
-The anthology English-translation phase is complete only when all **37 / 37** anthology stories are `PASS`, with no `pending`, `in progress` or `NEEDS REVIEW` story remaining.
+An active collection's English-translation phase is complete only when every translation target in its durable tracker is `PASS`, with no `pending`, `in progress` or `NEEDS REVIEW` item remaining.
 
 Translation completion does **not** authorize modernization, republication, adaptation or replacement of the canonical Tamil source layer.
