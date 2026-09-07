@@ -104,7 +104,7 @@ Each processed story should maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` when there 
 
 The queue is **not** a list of confirmed errors and does not automatically downgrade verified pages. Stronger source evidence can reopen a verified reading, after which all Tamil/English/control layers must be resynchronized.
 
-## 9. Translation gate
+## 9. Translation gate and default phase progression
 
 Do not translate an anthology story merely because the collection inventory is complete.
 
@@ -115,6 +115,10 @@ English may begin only after that individual story has:
 - exhaustive resolution of difficult story text;
 - synchronized Tamil assembly;
 - source/title variants documented.
+
+When the user is processing an anthology in a **Tamil-first collection-wide workflow**, all Tamil/source work must be completed and the collection-wide Tamil/source release gate closed before English begins. **Once that Tamil/source phase is fully closed, English translation is automatically the next activity**; do not wait for a second authorization unless the user explicitly pauses, redirects, defers or excludes English.
+
+For a source identity that is only an additional witness to a canonical story controlled by another edition, any English produced for the current anthology must remain **witness-local** and must not overwrite the controlling canonical English. Follow `ENGLISH_TRANSLATION_GUIDE.md`.
 
 ## 10. Handover requirement
 
