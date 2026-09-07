@@ -24,21 +24,23 @@ Always fetch live `main` first and preserve newer durable state.
 
 Every historical-Tamil page requires:
 
-1. **Pass 1:** direct source-faithful transcription, preserving wording/spelling/grammar/spacing/punctuation and marking uncertainty honestly.
-2. **Pass 2:** only after Pass 1 exists, reopen the same page at native/high resolution and independently recheck `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus any suspicious old-type cluster.
+1. Pass 1 direct source-faithful transcription.
+2. Pass 2: reopen the same physical page at native/high resolution and independently recheck  
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+   plus suspicious old-type clusters.
 
 Final `verified` requires both passes.
 
 ## Closed phases — preserve
 
-- 1977 — Tamil/visual/English **37/37 PASS**.
-- 2008 — Tamil/visual/English **40/40 PASS**.
-- 2004 — Tamil/visual/English **34/34 PASS**.
-- 2009 new-story onboarding — **5/5 CLOSED**.
-- 2009 existing-canonical witness comparison — **11/11 CLOSED**.
-- supplemental English — **6/6 PASS / CLOSED**.
+- 1977 — Tamil/visual/English **37/37 PASS**
+- 2008 — Tamil/visual/English **40/40 PASS**
+- 2004 — Tamil/visual/English **34/34 PASS**
+- 2009 new-story onboarding — **5/5 CLOSED**
+- 2009 existing-canonical witness comparison — **11/11 CLOSED**
+- supplemental English — **6/6 PASS / CLOSED**
 
-Do not reopen these phases because of an older copied prompt.
+Do not reopen these because of an older prompt.
 
 ## ACTIVE — 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`
 
@@ -46,56 +48,69 @@ Workspace: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
 Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
 
-- scans: **50**
-- size: **107,757,858 bytes**
-- SHA-256: **`29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`**
-- represented edition: **Second Edition, 1987**
-- headings: **25 / 25 native/high-resolution PASS**
+- 50 scans
+- 107,757,858 bytes
+- SHA-256 `29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`
+- Second Edition, 1987
+- headings: **25 / 25 PASS**
 - canonical identity: **25 / 25 COMPLETE**
-- distinct identities: **23**
-- witness-only identities: **2**
+- distinct: **23**
+- witness-only: **2**
 
-### Authoritative title corrections
+### Authoritative title corrections — do not revert
 
-Do not revert:
+- Story 2 `அராபியக் கதை`
+- Story 4 `நாராயணா ! நாராயணா !`
+- Story 6 `மூளி மூக்குக்காரன்`
+- Story 10 `இரு நிழல்கள்` — direct banner recheck; earlier `இரு நிகழ்வுகள்` was wrong
 
-- Story 2 **`அராபியக் கதை`**;
-- Story 4 **`நாராயணா ! நாராயணா !`** — historical `ணா`, spaces before `!` preserved;
-- Story 6 **`மூளி மூக்குக்காரன்`**.
+## Lexical/Glyph L1 — COMPLETE
 
-## Lexical/Glyph Batch L1 — COMPLETE
+- scans **5–19 = 15 / 15**
+- unresolved: **0**
 
-Durable ledger: `collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`.
+## Retrospective historical-glyph correction — CLOSED through scan 34
 
-Scans **5–19 = 15 / 15** are durably closed at the assigned physical-page level with Pass 1 + independent Pass 2.
+Durable record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/RETROSPECTIVE_GLYPH_REAUDIT_L1_L2_2026-09-07.md`
 
-- Story 1: full PASS.
-- Story 2 `அராபியக் கதை`: full 1987 witness PASS for canonical `ஜாடி குட்டி போடுமா?`; canonical 2008 Tamil/English unchanged.
-- Stories 3–8: full PASS.
-- Story 9: lower scan 18 + scan 19 PASS; **full-story closure remains OPEN until upper scan 20**.
-- unresolved L1 in-batch lexical/glyph locations: **0**.
+Important corrected identities include:
 
-Pass-2 findings retained in the ledger include Story-2 `இவனோ` / `அவனோ` (`னோ`), source `மறுமாள்`, Story-3 historical `னை`, and Story-4 historical `ணா`.
+`சொன்னாராம்`, `பேசினார்கள்`, `நிலைமையை`, `பேசினான்`, `பின்னால்`, `வினவினான்`, `அவனா!`, `இட்டானாம்`, and Story-18 `பின்னாலிருந்து`.
 
-## Exact next activity — Lexical/Glyph Batch L2
+`அந்நிலை` was rechecked and remains unchanged.
 
-Process **scans 20–34 inclusive = 15 physical scans**.
+## Lexical/Glyph L2 — COMPLETE
 
-Authoritative routing:
+Ledger:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/LEXICAL_GLYPH_BATCH_L2_SCANS_0020_0034.md`
 
-- scan 20: upper Story 9 `கஜினி முகமதுவும் கவிஞர் பார்டோசியும்` ending; lower Story 10 `இரு நிகழ்வுகள்` begins;
-- Story 10: lower 20 → 21 → 22 → upper 23;
-- Story 11 `குருவி ராமேஸ்வரம்`: lower 23 → upper 24 — **1987 witness only** for the existing 2004 canonical story;
-- Story 12 `சாமியாரும் பூக்காரியும்`: lower 24 → upper 25;
-- Story 13 `ஹஜ்ரத் அலியும் யூதனும்`: lower 25 → 26 → upper 27;
-- Story 14 `புகழேந்திப் புலவர் கதை`: lower 27 → 28;
-- Story 15 `மன மாற்றம்`: 29 → 30;
-- Story 16 `குறிக்கோள்`: 31 → upper 32;
-- Story 17 `பாலும் தண்ணீரும்`: lower 32 → 33 → upper 34;
-- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: begins lower 34 and continues beyond L2.
+- scans **20–34 = 15 / 15 COMPLETE**
+- Story 9: closed
+- Story 10 `இரு நிழல்கள்`: closed
+- Story 11: 1987 witness closed; 2004 canonical unchanged
+- Stories 12–17: closed
+- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: lower scan 34 verified; **story-wide OPEN / PARTIAL**
+- unresolved L2: **0**
+- English: **not authorized**
 
-For every physical scan, perform Pass 1 first and then the separate native/high-resolution Pass 2. Do not mark Story 18 complete at the L2 boundary.
+## Exact next activity — Lexical/Glyph L3
 
-English remains unauthorized.
+Process **scans 35–49 inclusive = 15 physical scans**.
 
-Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
+Routing:
+
+- Story 18 `ஜெயத்ரதனின் வீழ்ச்சி`: 35 → 36 → upper 37
+- Story 19 `தெனாலிராமன் கதை`: lower 37 → 38 → upper 39
+- Story 20 `வல்வில் ஓரி`: lower 39 → 40 → upper 41
+- Story 21 `யசோதர காவியம்`: lower 41 → 42 → 43 → upper 44
+- Story 22 `காடு சென்ற குமணன்`: lower 44 → upper 45
+- Story 23 `அகத்திணை அன்பு!`: lower 45 → upper 46
+- Story 24 `தெனாலிராமன் பூனை`: lower 46 → 47 → upper 48
+- Story 25 `குழந்தையும் கிளியும்`: lower 48 → 49
+
+Use Pass 1 and then independent native/high-resolution Pass 2 on every physical scan. Do not reuse modern visual resemblance as Unicode identity.
+
+Scan 50 is the already verified blank/damaged terminal leaf and is outside the 15-scan L3 batch.
+
+Do not begin English. Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
