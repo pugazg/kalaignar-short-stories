@@ -6,27 +6,43 @@ This re-audit was opened after verified records were found to preserve modern vi
 
 ## Controlling rule
 
-Historical type is decoded to its correct modern Unicode identity. Source spelling, grammar, punctuation, compounds and spacing otherwise remain unchanged. The 13 minimum families are checked independently at native/high resolution:
+Historical type is decoded to its correct modern Unicode identity. Source spelling, grammar, punctuation, compounds and spacing otherwise remain unchanged.
+
+Minimum independent families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## Confirmed corrections in this retrospective pass
+## Confirmed corrections / decisions
 
-| Scan | Story | Earlier transcription | Correct Unicode/source reading | Class |
+| Scan | Story | Earlier/apparent reading | Source-supported Unicode reading | Class |
 |---:|---|---|---|---|
-| 19 | கஜினி முகமதுவும் கவிஞர் பார்டோசியும் | `சொன்னுராம்` | `சொன்னாராம்` | historical `னா` |
-| 22 | இரு நிகழ்வுகள் | `பேசினர்கள்` | `பேசினார்கள்` | historical `னா` |
-| 25 | சாமியாரும் பூக்காரியும் | `நிலமையை` | `நிலைமையை` | historical `லை` |
-| 25 | ஹஜ்ரத் அலியும் யூதனும் | `பேசினன்` | `பேசினான்` | historical `னா` |
-| 26 | ஹஜ்ரத் அலியும் யூதனும் | `பின்னல்` | `பின்னால்` | historical `னா` |
-| 26 | ஹஜ்ரத் அலியும் யூதனும் | `வினவினன்` | `வினவினான்` | historical `னா` |
-| 27 | ஹஜ்ரத் அலியும் யூதனும் | `சகோதரார்கள்` | `சகோதரர்கள்` | ordinary source-text correction |
-| 27 | புகழேந்திப் புலவர் கதை | `இல்லறவிழவிலே` | `இல்வாழ்விலே` | ordinary source-text correction |
-| 28 | புகழேந்திப் புலவர் கதை | `மல்லிகையின் வெண் சங்கு வண்டே` | `மல்லிகையின் வெண் சங்கு வண்டூத` | ordinary source-text correction |
-| 29 | மன மாற்றம் | `அவன் தவறிவிடுவானே` | `அவன்தவறிவிடுவானே` | source spacing/compound correction |
+| 19 | Story 9 | `சொன்னுராம்` | `சொன்னாராம்` | historical `னா` |
+| 22 | Story 10 `இரு நிழல்கள்` | `பேசினர்கள்` | `பேசினார்கள்` | historical `னா` |
+| 25 | Story 12 | `நிலமையை` | `நிலைமையை` | historical `லை` |
+| 25 | Story 13 | `பேசினன்` | `பேசினான்` | historical `னா` |
+| 26 | Story 13 | `பின்னல்` | `பின்னால்` | historical `னா` |
+| 26 | Story 13 | `வினவினன்` | `வினவினான்` | historical `னா` |
+| 27 | Story 13 | `சகோதரார்கள்` | `சகோதரர்கள்` | ordinary source-text correction |
+| 27 | Story 14 | `இல்லறவிழவிலே` | `இல்வாழ்விலே` | ordinary source-text correction |
+| 28 | Story 14 | earlier quote reading | `மல்லிகையின் வெண் சங்கு வண்டூத` | ordinary source-text correction |
+| 29 | Story 15 | historical-lookalike ambiguity | `அவனா!` | historical `னா` confirmed |
+| 29 | Story 15 | `அவன் தவறிவிடுவானே` | `அவன்தவறிவிடுவானே` | source spacing |
+| 32 | Story 16 | modern-lookalike forms | `விளங்கினான்`, `வாலிபனான`, `திரும்பினான்` | historical `னா` |
+| 33 | Story 17 | apparent `இட்டானும்` | `இட்டானாம்` | historical `னா` |
+| 34 | Story 18 | `பின்னலிருந்து` | `பின்னாலிருந்து` | historical `னா`, two occurrences |
 
-`அந்நிலை` on scan 26 was separately rechecked and remains **`அந்நிலை`**: its historical `லை` identity had already been encoded correctly.
+`அந்நிலை` on scan 26 was separately rechecked and remains **`அந்நிலை`**.
 
-Story 9 scan 19 also requires punctuation/spacing synchronization independently of the glyph correction: `வந்தது.—வந்தவர்கள்`, `கஜினி முகமது விடம்`, `பொற்காசுகளைத் தருவதென்று`, and source-joined `கவிஞர்பார்டோசியை`.
+Story 9 scan 19 punctuation/spacing was also resynchronized from the physical source. Story 10's direct banner was separately reread as **`இரு நிழல்கள்`**, replacing the earlier incorrect heading `இரு நிகழ்வுகள்`.
 
-No global replacement is authorized. Every correction above was decided from the physical source pixels and same-edition type behaviour.
+No global replacement was authorized or performed. Grammar and another edition were not used as proof.
+
+## Closure
+
+The retrospective gate is **CLOSED through scan 34**.
+
+- L1 scans 5–19: reopened where necessary and reconciled
+- L2 scans 20–34: all 15 physical scans independently checked
+- unresolved retrospective glyph locations through scan 34: **0**
+
+The same two-pass rule remains mandatory for L3 and all future historical-Tamil source work.
