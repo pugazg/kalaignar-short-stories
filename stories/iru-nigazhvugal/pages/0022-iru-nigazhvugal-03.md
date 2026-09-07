@@ -6,7 +6,7 @@ page_type: "story-continuation"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf"
-transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit"
+transcription_method: "Pass 1 direct visual transcription; Pass 2 independent native/high-resolution historical-glyph audit; retrospective historical-glyph re-audit 2026-09-07"
 ---
 
 சாகுந்தலத்தில் வந்தது போலவே ஒரு கோடைக்காலம். அந்தக் கோடைக்காலத்தில் ஆண் மானும், பெண்மானும் ஒரு பாலைவனத்தில் செல்லுகின்றன.
@@ -17,7 +17,7 @@ transcription_method: "Pass 1 direct visual transcription; Pass 2 independent na
 
 ஆனால் சங்க இலக்கியத்தில் உணர்ந்தே நிழல் தரப்படுகிறது. தனது துணைக்கு நிழல் தருகிறோம் என்று ஆண்மான் நின்று கொண்டு நிழல் தருகிறது. பெண்மான் கவலைப் படாமல் பயமில்லாமல் கீழே படுத்திருக்கிறது.
 
-நான் சிறுபான்மை சமூகத்தார்க்குச் சொல்லிக் கொள்வேன். நீங்கள் இடைக் காலத்தில் கொஞ்சநாள் பாம்பின் நிழலைத் தேடிப் போனீர்கள். அந்த நிழலைப்பற்றித் தான் நண்பர் சுலைமான் சேட் அவர்களும் மற்றவர்களும் வெகுவேகமாகத் தாக்கிப் பேசினர்கள்.
+நான் சிறுபான்மை சமூகத்தார்க்குச் சொல்லிக் கொள்வேன். நீங்கள் இடைக் காலத்தில் கொஞ்சநாள் பாம்பின் நிழலைத் தேடிப் போனீர்கள். அந்த நிழலைப்பற்றித் தான் நண்பர் சுலைமான் சேட் அவர்களும் மற்றவர்களும் வெகுவேகமாகத் தாக்கிப் பேசினார்கள்.
 
 இப்போது தனக்கு நிழல் இல்லாவிட்டாலும்பரவாயில்லை,
 
