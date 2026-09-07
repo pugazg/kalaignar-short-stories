@@ -95,6 +95,21 @@ Every physical page now requires **two distinct rounds**:
 
 A page cannot become final `verified` on the initial transcription alone.
 
+## L1 recovery checkpoint — scans 5–19
+
+A durable recovery record now exists at [`LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`](LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md).
+
+It records the authoritative 15-scan routing and protects against an earlier interactive review being mistaken for committed lexical closure.
+
+Current L1 semantics:
+
+- physical routing / shared boundaries: **15 / 15 confirmed**;
+- corrected headings in the range: **confirmed**;
+- canonical-identity routing: **already closed**;
+- durable exact body-text transcription: **still open**;
+- durable independent Pass-2 evidence for body text: **still open**;
+- no L1 page is promoted to final `verified` by the recovery checkpoint alone.
+
 ## Current progress
 
 - headings: **25 / 25 high-resolution PASS**
@@ -103,11 +118,14 @@ A page cannot become final `verified` on the initial transcription alone.
 - distinct identities: **23**
 - existing-canonical witnesses: **2**
 - unresolved identity holds: **0**
-- exact lexical/historical-glyph closure: **OPEN** for unverified spans
+- L1 scans 5–19 physical routing recovery: **15 / 15 CONFIRMED**
+- exact lexical/historical-glyph closure: **OPEN** for unpersisted/unverified body text
 - English from 1987 source: **not authorized**
 
 ## Exact next activity
 
-Continue **Lexical/Glyph Batch L1 — scans 5–19 inclusive = 15 physical scans**.
+Remain in **Lexical/Glyph Batch L1 — scans 5–19 inclusive** until its body text is durably persisted.
 
-Use the corrected heading list and authoritative shared boundaries. Perform initial transcription first, then the separate native/high-resolution glyph audit before any page is called final `verified`.
+Begin with **scan 5 / Story 1 `மன்னனும் குருவியும்!`**. For each physical page, persist the source-faithful Pass-1 transcription, then perform and record the separate native/high-resolution historical-glyph audit before any final `verified` status.
+
+Do not advance to L2 merely because page boundaries are already known. Story 9 remains open at scan 19 and ends on upper scan 20; scan 20 may be reopened as boundary context after the L1 body-text records are durable.
