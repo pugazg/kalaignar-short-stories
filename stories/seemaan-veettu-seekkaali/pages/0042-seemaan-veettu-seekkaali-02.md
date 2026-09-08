@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 செங்கமலம் பிள்ளையின் முகவிசாரத்தைக் கண்டு அவரோடு பேசவே நாவெழாதவர்களாய் ஒருவர் முகத்தை ஒருவர் பார்த்துக் கொண்டு சந்தடியின்றி உட்கார்ந்து நிலைமைகளைக் கவனித்தனர்.
@@ -24,4 +24,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 42; printed page: 40 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
