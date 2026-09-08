@@ -23,7 +23,7 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 |---:|---|---:|---:|---|
 | 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **Tamil/source PASS / CLOSED — 22/22 verified** |
 | 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
-| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **FIRST PASS 9/9 COMPLETE — HISTORICAL-GLYPH GATE NEXT** |
+| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **FIRST PASS COMPLETE; HISTORICAL-GLYPH GATE PASS 9/9; FINAL SOURCE/VISUAL CLOSURE NEXT** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–58 | 48–56 | waiting |
 | 5 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting |
 
@@ -52,18 +52,18 @@ Do not reopen Stories 1–2 without genuinely stronger source evidence or an exp
 
 Workspace: `stories/seemaan-veettu-seekkaali/`
 
-- activation duplicate/canonical recheck against live `main`: **PASS — no existing canonical match**;
-- route: **new canonical** controlled by scans **41–49 / printed 39–47**;
-- scan 41 opening heading: `சீமான் வீட்டு சீக்காளி`;
-- later running headers: `சீமான் வீட்டுச் சீக்காளி!`;
-- scan 49 ending / terminal star: directly verified;
-- scan 50 forward witness: `நந்தியூர் நரியப்பன்`, directly verified and excluded;
+- activation duplicate/canonical recheck: **PASS — new canonical**;
+- physical range: **41–49 / printed 39–47**;
 - first-pass transcription: **9/9 COMPLETE**;
+- Historical Tamil Glyph Gate: **PASS 9/9**;
+- unresolved historical-glyph candidates: **0**;
+- glyph corrections: scan 45 `தலைவிரிகோலமாக!`; physical scan 46 `உடலைக்`;
 - page status: **9/9 `needs-review`**;
-- first-pass assembled Tamil: **complete / synchronized**;
-- Historical Tamil Glyph Gate: **NEXT / not started**;
-- final source/visual closure: **not started**;
+- assembled Tamil: **synchronized after glyph corrections**;
+- final source/visual closure: **NEXT / not started**;
 - English: **not started**.
+
+Known final-closure item: first-pass page provenance across scan 45→46 must be reconciled; text beginning `சீமான் உதவியை நாடி வந்த...` crosses that physical boundary.
 
 ## Processing state
 
@@ -71,11 +71,11 @@ Workspace: `stories/seemaan-veettu-seekkaali/`
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **5/5 COMPLETE**
 - Tamil/source stories closed: **2/5**
-- Story 3: **first pass complete; historical-glyph gate NEXT**
+- Story 3: **glyph gate PASS; final source/visual closure NEXT**
 - English: **not started**
 
 ## Exact next activity
 
-Run the separate native/high-resolution Historical Tamil Glyph Gate across Story 3 scans **41–49**. Reopen every page independently and explicitly check the mandatory historical-glyph families plus the candidates logged in `stories/seemaan-veettu-seekkaali/POSSIBLE_ERRORS_FOR_REVIEW.md`. Record each correction individually. Keep all pages `needs-review`; do **not** run the final source/visual closure in the same activity.
+Run Story 3's **separate final source/visual closure** across scans **41–49**. Re-read full phrases/clauses/sentences, punctuation/spacing, all cross-page continuations, and physical page provenance. Resolve ordinary non-glyph review items separately from the already-closed glyph gate. Only if zero unresolved source-text items remain may all nine page records be promoted to `verified` and Story 3 be closed.
 
-Do not start Story 4 `நந்தியூர் நரியப்பன்` yet. `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
+Do not start Story 4 `நந்தியூர் நரியப்பன்` in that same activity. `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
