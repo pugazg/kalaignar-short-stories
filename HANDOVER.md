@@ -60,7 +60,7 @@ Story ranges:
 
 1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans **7–28**, printed **5–26** — **PASS / CLOSED — 22/22 verified**
 2. `காசா லேசா` — scans **29–40**, printed **27–38** — **PASS / CLOSED — 12/12 verified**
-3. `சீமான் வீட்டு சீக்காளி` — scans **41–49**, printed **39–47** — **FIRST PASS 9/9 COMPLETE; GLYPH GATE NEXT**
+3. `சீமான் வீட்டு சீக்காளி` — scans **41–49**, printed **39–47** — **GLYPH GATE PASS 9/9; FINAL SOURCE/VISUAL CLOSURE NEXT**
 4. `நந்தியூர் நரியப்பன்` — scans **50–58**, printed **48–56** — waiting
 5. `முடியாத தொடர்கதை` — scans **59–93**, printed **57–91** — waiting
 
@@ -95,30 +95,35 @@ Physical range:
 - scan 49: terminal star;
 - scan 50: forward boundary opens `நந்தியூர் நரியப்பன்` and is excluded.
 
-Activation / first-pass state:
+Activation / transcription / glyph state:
 
-- fresh duplicate/canonical recheck against live `main` `e12339ebcc9cdfdc2f24197747874ddf9d2ca43d`: **PASS — no existing canonical match**;
-- route: **new canonical** controlled by this 1982 source range;
+- fresh duplicate/canonical recheck against live `main` before activation: **PASS — new canonical**;
 - first-pass transcription: **9/9 COMPLETE**;
-- first-pass assembled Tamil: **COMPLETE / synchronized**;
+- first-pass assembled Tamil: **COMPLETE**;
+- dedicated native/high-resolution Historical Tamil Glyph Gate: **PASS 9/9**;
+- unresolved historical-glyph candidates: **0**;
+- source-pixel glyph corrections: **2**:
+  - scan 45 `திலவிரிகோலமாக!` → `தலைவிரிகோலமாக!` (`லை`);
+  - physical scan 46 `உடலக்` → `உடலைக்` (`லை`);
+- gate record: `stories/seemaan-veettu-seekkaali/HISTORICAL_GLYPH_GATE.md`;
 - page status: **9/9 `needs-review`**;
-- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**;
-- final source/visual closure: **not started**;
+- final source/visual closure: **NOT STARTED / NEXT**;
 - English: **not started**.
 
-Review queue: `stories/seemaan-veettu-seekkaali/POSSIBLE_ERRORS_FOR_REVIEW.md`.
+Source-supported difficult forms retained at the glyph gate include scan 43 `முடியும்ணு`, `செதாஸ் கோப்`, source-odd `தங்கியிருக்க வேண்;`, scan 46 `பாரத்தைப் போட்டு`, and scan 47 `எதிர் கொண்டழைத்தாள்`.
 
-## Exact next activity — Story 3 Historical Tamil Glyph Gate
+Known separate final-closure issue: the first-pass reading order is intact, but text beginning `சீமான் உதவியை நாடி வந்த...` is currently carried inside the scan-45 page record although the physical continuation runs into scan 46. The final source/visual closure must restore exact physical provenance.
+
+## Exact next activity — Story 3 final source/visual closure
 
 1. fetch live `main` and preserve newer durable work;
-2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-3 README, metadata, page map, review queue, all nine page records and the assembled Tamil;
+2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-3 README, metadata, page map, historical-glyph gate, review queue, all nine page records, and assembled Tamil;
 3. resolve the controlling PDF before source-pixel work;
-4. reopen scans **41–49** at native/high resolution independently of the first pass;
-5. explicitly inspect `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus every suspicious ligature/touching character;
-6. record every correction individually; never global-replace or modernize;
-7. synchronize corrections across page records and assembled Tamil;
-8. if zero unresolved historical-glyph candidates remain, record gate PASS;
-9. keep all nine page records `needs-review` because final source/visual closure remains separate;
-10. **hard stop: do not run final source/visual closure in the same activity and do not start Story 4.**
+4. directly reread scans **41–49** at native/high resolution for full phrase/clause/sentence fidelity, punctuation, spacing, source-odd spellings and cross-page continuations;
+5. keep the already-PASSed historical-glyph gate closed; ordinary corrections must be recorded separately;
+6. explicitly resolve the scan **45→46** physical page-provenance issue and synchronize page records/assembled Tamil;
+7. recheck scan 41 opening/title layer, scan 49 ending/star, and scan 50 forward-boundary exclusion;
+8. only if zero unresolved ordinary source-text items remain, promote 9/9 page records to `verified`, create `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`, and close Story 3;
+9. **hard stop: do not start Story 4 in the same activity.**
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.
