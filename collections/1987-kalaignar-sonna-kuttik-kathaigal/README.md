@@ -29,7 +29,16 @@ The scan is controlling. Another edition may corroborate identity only; it may n
 
 ## Authoritative title / glyph re-audit
 
-`TITLE_GLYPH_REAUDIT_2026-09-06.md` controls heading spellings. Do not revert Story 2 `அராபியக் கதை`, Story 4 `நாராயணா ! நாராயணா !`, Story 6 `மூளி மூக்குக்காரன்`, or Story 10 `இரு நிழல்கள்`.
+`TITLE_GLYPH_REAUDIT_2026-09-06.md` controls heading spellings.
+
+Do not revert:
+
+- Story 2: **`அராபியக் கதை`**
+- Story 4: **`நாராயணா ! நாராயணா !`**
+- Story 6: **`மூளி மூக்குக்காரன்`**
+- Story 10: **`இரு நிழல்கள்`** — earlier `இரு நிகழ்வுகள்` was a heading-reading error
+
+Sensitive title forms in `தென்னை`, `தெனாலிராமன்`, `அகத்திணை`, and `பூனை` were separately high-resolution checked.
 
 ## Source / structure / identity phase — CLOSED
 
@@ -45,17 +54,39 @@ Witness-only:
 
 ## Tamil lexical/glyph phase — CLOSED
 
+Mandatory method for every physical story page was direct source-faithful Pass 1 followed by an independent native/high-resolution Pass 2 over the 13 historical-glyph families plus suspicious clusters. Historical type was decoded by character identity; no global replacement was used.
+
 - L1 scans **5–19**: **15 / 15 COMPLETE**
 - L2 scans **20–34**: **15 / 15 COMPLETE**
 - L3 scans **35–49**: **15 / 15 COMPLETE**
 - story-bearing scans **5–49**: **45 / 45 Pass 1 + independent Pass 2 COMPLETE**
 - unresolved Tamil/source or historical-glyph locations: **0**
 
-Final release: `FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md` — **PASS / CLOSED**.
+Relevant records:
+
+- `LEXICAL_GLYPH_BATCH_L1_SCANS_0005_0019.md`
+- `RETROSPECTIVE_GLYPH_REAUDIT_L1_L2_2026-09-07.md`
+- `LEXICAL_GLYPH_BATCH_L2_SCANS_0020_0034.md`
+- `LEXICAL_GLYPH_BATCH_L3_SCANS_0035_0049.md`
+
+Sensitive verified forms include `சொன்னாராம்`, `பேசினார்கள்`, `நிலைமையை`, `பேசினான்`, `பின்னால்`, `வினவினான்`, `அவனா!`, `இட்டானாம்`, `பின்னாலிருந்து`, `மூன்றாண்டுகாலம்`, `பின்னாலே`, `மன்னா`, `நோஞ்சானை`, `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`, `பெற்றுஉன்`, `அன்பில்லையே`, and `நன்றாக`. `அந்நிலை` remains `அந்நிலை`.
+
+## Final Tamil/source release audit — PASS / CLOSED
+
+`FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
+
+- all **25 / 25** identities reconciled;
+- shared-page boundaries preserved;
+- Story 10 source-facing title remains `இரு நிழல்கள்` while its older directory slug is retained for continuity;
+- Story 2 and Story 11 remain witness-only and do not overwrite their controlling 2008/2004 canonicals;
+- unresolved Tamil/source issues: **0**;
+- **1987 Tamil/source phase: CLOSED**.
 
 ## English translation phase — ACTIVE
 
 Tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+
+Permanent phase order: once Tamil/source is fully closed, English translation is the automatic next activity unless the user explicitly pauses, redirects, defers or excludes it.
 
 User-directed batch size: **10 stories per iteration**.
 
@@ -65,12 +96,12 @@ Current English state:
 - English PASS: **11 / 25**
 - pending: **14 / 25**
 - needs review: **0**
-- Story 1: **PASS**
-- first 10-story iteration, Stories **2–11**: **10 / 10 PASS** — `ENGLISH_BATCH_01_STORIES_0002_0011.md`
-- next iteration: **Stories 12–21**
+- Story 1 `மன்னனும் குருவியும்!`: **PASS** — English title **The King and the Sparrow!**
+- Batch 01, Stories **2–11**: **10 / 10 PASS** — `ENGLISH_BATCH_01_STORIES_0002_0011.md`
+- exact next activity: **Batch 02, Stories 12–21**
 
-Story 2 and Story 11 English are stored only in their 1987 witness workspaces; their controlling 2008/2004 canonical English files remain unchanged. Story 10 English uses the authoritative title **Two Shadows** while retaining the historical directory slug for continuity.
+For Story 2 and Story 11, English is stored in their 1987 witness workspaces and does not overwrite the controlling canonical English from the 2008/2004 editions. Story 10 English uses the authoritative title **Two Shadows** while its older directory slug remains for continuity.
 
 ## Current phase boundary
 
-Tamil/source remains frozen unless genuinely new or stronger source evidence proves a targeted reading wrong. English is active under `ENGLISH_TRANSLATION_GUIDE.md`, now in user-directed batches of 10 stories.
+Tamil/source is frozen unless genuinely new or stronger source evidence proves a targeted reading wrong. English is active under `ENGLISH_TRANSLATION_GUIDE.md`, with **10 stories per iteration** by explicit user direction.

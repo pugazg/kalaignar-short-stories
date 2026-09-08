@@ -10,6 +10,17 @@
 
 Always fetch live `main` first and preserve newer durable state.
 
+## Permanent source / phase rules
+
+- controlling scan first; no silent normalization;
+- prove canonical identity before creating a new story workspace;
+- preserve shared physical page boundaries;
+- additional witnesses never overwrite controlling canonical editions;
+- decode historical Tamil type by character identity, never by modern visual resemblance alone;
+- never global-replace historical-looking forms;
+- source PDFs / inspection crops are not committed;
+- **Tamil/source must be fully closed before English begins; once Tamil/source is fully closed, English is automatically the next activity unless the user explicitly pauses, redirects, defers or excludes it.**
+
 ## Closed phases — preserve
 
 - 1977 — Tamil/visual/English **37/37 PASS**
@@ -20,26 +31,49 @@ Always fetch live `main` first and preserve newer durable state.
 - supplemental English — **6/6 PASS / CLOSED**
 - 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` Tamil/source phase — **CLOSED**
 
-## ACTIVE — 1987 English
+Do not reopen closed phases merely because of an older prompt.
 
-Collection: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
+## ACTIVE — 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` English
 
-Source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf` — 50 scans, 107,757,858 bytes, SHA-256 `29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`, Second Edition 1987.
+Collection workspace:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
-Tamil/source remains **25/25 CLOSED**, story-bearing scans **45/45 two-pass COMPLETE**, unresolved Tamil/source/glyph locations **0**.
+Controlling source:
+`TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
+
+- 50 scans
+- 107,757,858 bytes
+- SHA-256 `29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`
+- Second Edition, 1987
+- headings: **25 / 25 PASS**
+- canonical identity: **25 / 25 COMPLETE**
+- distinct: **23**
+- witness-only: **2**
+- story-bearing scans **5–49 = 45 / 45 Pass 1 + independent Pass 2 COMPLETE**
+- scan 50: verified blank/damaged terminal non-story leaf
+- unresolved 1987 Tamil/source or historical-glyph locations: **0**
+
+Final Tamil release record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md`
+
+English tracker:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_TRANSLATION_PROGRESS.md`
 
 ## Authoritative corrections — do not revert
 
 - Story 2 `அராபியக் கதை`
 - Story 4 `நாராயணா ! நாராயணா !`
 - Story 6 `மூளி மூக்குக்காரன்`
-- Story 10 `இரு நிழல்கள்`, not `இரு நிகழ்வுகள்`
-- Story 10 legacy directory `stories/iru-nigazhvugal/` remains for path continuity.
+- Story 10 `இரு நிழல்கள்` — not `இரு நிகழ்வுகள்`
+
+Story 10 retains directory `stories/iru-nigazhvugal/` only for path continuity.
+
+Historical/source-sensitive resolved forms include `சொன்னாராம்`, `பேசினார்கள்`, `நிலைமையை`, `பேசினான்`, `பின்னால்`, `வினவினான்`, `அவனா!`, `இட்டானாம்`, `பின்னாலிருந்து`, `மூன்றாண்டுகாலம்`, `பின்னாலே`, `மன்னா`, `நோஞ்சானை`, `அந்தநாள் வந்தில அருங்கவிப் புலவோய்`, `பெற்றுஉன்`, `அன்பில்லையே`, `நன்றாக`. `அந்நிலை` remains unchanged.
 
 ## Witness-only routing — preserve
 
-- Story 2 `அராபியக் கதை` → 1987 witness-local English only; canonical 2008 Tamil/English unchanged.
-- Story 11 `குருவி ராமேஸ்வரம்` → 1987 witness-local English only; canonical 2004 Tamil/English unchanged.
+- Story 2 `அராபியக் கதை` is the completed 1987 witness for canonical `ஜாடி குட்டி போடுமா?`; controlling 2008 Tamil/English remain unchanged. Its 1987 English is witness-local.
+- Story 11 `குருவி ராமேஸ்வரம்` is the completed 1987 witness for the 2004 canonical; controlling 2004 Tamil/English remain unchanged. Its 1987 English is witness-local.
 
 ## English progress
 
@@ -50,18 +84,33 @@ User directive: **process 10 stories in each iteration**.
 - pending: **14 / 25**
 - needs review: **0**
 
-Completed:
+### Story 1 — `மன்னனும் குருவியும்!` — PASS
 
-- Story 1 `மன்னனும் குருவியும்!` — **PASS**
-- Batch 01 Stories **2–11** — **10 / 10 PASS**
-- batch record: `collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_BATCH_01_STORIES_0002_0011.md`
-- every Story 2–11 translation review: **PASS**
+Workspace: `stories/mannanum-kuruviyum/`
+
+- source span: scan **5 / printed 4 → upper scan 6 / printed 5**
+- English title: **The King and the Sparrow!**
+- translation: `translations/en/mannanum-kuruviyum.md`
+- review: `TRANSLATION_REVIEW.md` — **PASS**
+- physical source-page anchoring: **PASS**
+- lower scan 6 / Story 2 excluded: **Yes**
+- Tamil changed during translation: **No**
+
+### Batch 01 — Stories 2–11 — PASS
+
+Record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_BATCH_01_STORIES_0002_0011.md`
+
+- translated/reviewed: **10 / 10 PASS**
 - physical source-page content-boundary alignment: **PASS 10/10**
-- Tamil changed merely for translation: **No**
+- unresolved English review items: **0**
+- Tamil changed merely for English fluency: **No**
+- Story 2 controlling 2008 Tamil/English changed: **No**
+- Story 11 controlling 2004 Tamil/English changed: **No**
 
 ## Exact next activity — English Batch 02, Stories 12–21
 
-Translate, review and synchronize these 10 stories in source order:
+Process the next 10 stories in source order:
 
 12. `சாமியாரும் பூக்காரியும்` — lower scan 24 → upper 25
 13. `ஹஜ்ரத் அலியும் யூதனும்` — lower 25 → 26 → upper 27
@@ -74,8 +123,8 @@ Translate, review and synchronize these 10 stories in source order:
 20. `வல்வில் ஓரி` — lower 39 → 40 → upper 41
 21. `யசோதர காவியம்` — lower 41 → 42 → 43 → upper 44
 
-For every story, use verified Tamil `pages/*.md` records to anchor English page markers to actual content transitions, create/update `TRANSLATION_REVIEW.md`, update story README and batch controls, and do not change Tamil unless translation exposes a genuinely source-proven defect that is reopened under the source workflow.
+For each: use verified Tamil `pages/*.md` records for physical anchoring; translate the complete verified Tamil; create `TRANSLATION_REVIEW.md`; update story README; do not silently normalize source-odd wording; and reopen Tamil only if translation reveals a genuinely source-proven defect under the source workflow.
 
-After Batch 02, the remaining final iteration will contain Stories **22–25** only.
+After Batch 02, the final English iteration contains Stories **22–25**.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
