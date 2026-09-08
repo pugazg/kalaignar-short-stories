@@ -42,45 +42,40 @@ Source: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` 
 1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans 7–28 / pp.5–26 — **PASS / CLOSED — 22/22 verified**
 2. `காசா லேசா` — scans 29–40 / pp.27–38 — **PASS / CLOSED — 12/12 verified**
 3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 / pp.39–47 — **PASS / CLOSED — 9/9 verified**
-4. `நந்தியூர் நரியப்பன்` — scans **50–54 / pp.48–52** — **PASS / CLOSED — 5/5 verified**
-5. `நரியூர் நந்தியப்பன்` — scans **55–58 / pp.53–56** — **NEXT**
+4. `நந்தியூர் நரியப்பன்` — scans 50–54 / pp.48–52 — **PASS / CLOSED — 5/5 verified**
+5. `நரியூர் நந்தியப்பன்` — scans **55–58 / pp.53–56** — **FIRST PASS 4/4 COMPLETE; GLYPH GATE NEXT**
 6. `முடியாத தொடர்கதை` — scans **59–93 / pp.57–91** — waiting
 
-Boundary evidence: scan 54 terminal star; scan 55 new stylized `நரியூர் நந்தியப்பன்`; scan 58 terminal star; scan 59 `முடியாத தொடர்கதை` opening.
+Boundary evidence: scan 58 terminal star; scan 59 `முடியாத தொடர்கதை` opening.
 
-### Story 4 — durable closure
+### Story 5 — current durable checkpoint
 
-Workspace: `stories/nandiyur-nariyappan/`
+Workspace: `stories/nariyur-nandiyappan/`
 
-- activation duplicate/canonical search: **PASS — new canonical**;
-- first-pass transcription: **5/5 COMPLETE**;
-- Historical Tamil Glyph Gate: **PASS 5/5 / 0 corrections / 0 unresolved**;
-- final source/visual closure: **PASS 5/5**;
-- final ordinary source corrections: **5**;
-- page status: **5/5 `verified`**;
-- unresolved source/glyph items: **0**;
-- assembled Tamil: **FINAL / synchronized**;
-- final audit: `stories/nandiyur-nariyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`;
+- activation duplicate/canonical search: **PASS — new canonical** at live main `7b0f4e37bcf16737032d961162acc058a67f91b8`;
+- scan 55 opening display: `நரியூர் நந்தியப்பன்`;
+- scan 58 terminal star;
+- scan 59 distinct Story-6 opening `முடியாத தொடர்கதை`, excluded;
+- first-pass transcription: **4/4 COMPLETE**;
+- page status: **4/4 `needs-review`**;
+- assembled Tamil: **complete / synchronized**;
+- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**;
+- final source/visual closure: **not started**;
 - English: **not started**.
 
-Do not reopen Story 4 without genuinely stronger source evidence or explicit maintenance request.
+First-pass difficult/source-odd targets include `காணத்தவங்கிடப்பர்`, `மறைவ துண்டோ?`, `தெய்வானு கூலம்`, `சிறப்புக் களையும்`, `என்பாடு`, `தங்கள் முடங்கள்`, `கெளரவத்திற்கும்`, `பந்து மித்திரர்களுடன்`, `ஷேத்திரங்களை`, and `மட்டுந்தானு?`. These are not permission to normalize.
 
-## Exact next activity — Story 5 activation + first pass only
-
-Story 5: **`நரியூர் நந்தியப்பன்`**, scans **55–58 / printed 53–56**.
+## Exact next activity — Story 5 Historical Tamil Glyph Gate
 
 1. fetch live `main`;
-2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, collection README/source metadata/inventory/scan-map/duplicate audit, and Story-4 closure only as workflow precedent;
+2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-5 README/metadata/page-map/review queue, all four page records and assembled Tamil;
 3. resolve the controlling PDF;
-4. freshly search exact heading `நரியூர் நந்தியப்பன்` and a distinctive opening fragment such as `பெருமை மிகுந்த நந்தியப்பருக்கு`;
-5. verify scan 55 opening directly;
-6. verify scan 58 ending / terminal star;
-7. inspect scan 59 only as forward-boundary witness and confirm Story 6 `முடியாத தொடர்கதை` begins there;
-8. if no existing canonical match exists, create the Story-5 canonical workspace;
-9. create exactly **4 page records**, scans **55–58 / printed 53–56**;
-10. transcribe all 4 pages source-faithfully and keep every record **`needs-review`**;
-11. synchronize first-pass assembly, metadata, page map and review queue;
-12. record Story-5 Historical Tamil Glyph Gate as **NEXT**;
-13. **hard stop: do not run the glyph gate in the same activity and do not start Story 6.**
+4. reopen scans **55–58** independently at native/high resolution;
+5. explicitly inspect `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus suspicious old ligatures;
+6. record every correction individually; no global replacement or modernization;
+7. synchronize page records and assembled Tamil;
+8. if zero glyph candidates remain unresolved, record gate PASS;
+9. keep all four page records `needs-review`;
+10. **hard stop: no final source/visual closure and no Story 6 in the same activity.**
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.
