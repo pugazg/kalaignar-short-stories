@@ -30,7 +30,7 @@ Representative source-supported occurrences include:
 | 55 | 53 | `விலை`, `அளவில்`, `தங்களை` | `லை / ளை`-adjacent identity review | retained |
 | 56 | 54 | `சிறப்புக் களையும்`, `நிலையான`, `கண்ணகி` | `ளை / லை / ண` | retained |
 | 57 | 55 | `நிலைமைகள்`, `கண்ணகி`, `கெளரவத்திற்கும்` | `லை / ண / ற` | retained |
-| 58 | 56 | `ஷேத்திரங்களைச்`, `பலவேறு`, `மட்டுந்தானு?` | `ளை / னா`-adjacent review | retained |
+| 58 | 56 | `ஷேத்திரங்களைச்`, `பல்வேறு`, `மட்டுந்தானு?` | `ளை / னா`-adjacent review | retained |
 
 Families without a relevant printed occurrence were still checked for visually confusable clusters; none required a change.
 
