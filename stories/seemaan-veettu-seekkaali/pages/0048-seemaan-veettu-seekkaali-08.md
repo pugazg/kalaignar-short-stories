@@ -4,10 +4,10 @@ printed_page: 46
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 டாக்டர் பதில் சொல்லவில்லை. சிரித்துக் கொண்டார். முனகல் ஒலி அதிகமாயிற்று!
@@ -22,7 +22,7 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 “சுகப்பிரசவம் தான்!” என்றாள்.
 
-“யாருக்கு? என்ன விஷயம்?”—சீமான் துடிப்போடு கேட்டார்.
+“யாருக்கு? என்ன விஷயம்?”——சீமான் துடிப்போடு கேட்டார்.
 
 “யாருக்குமில்லை! இங்கே ரூமில் இருக்கும் நர்சுக்குத்தான்”—என்றார் சிரித்துக் கொண்டே டாக்டர்.
 
@@ -36,4 +36,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 48; printed page: 46 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

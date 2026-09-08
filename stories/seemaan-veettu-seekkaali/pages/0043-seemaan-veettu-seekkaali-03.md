@@ -4,17 +4,17 @@ printed_page: 41
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
-அடுத்த மாதம் கல்யாணத்தை சந்தோஷமா நடத்தலாம்...உன் கல்யாணம் கண்டிப்பா அடுத்த மாசம் முடியும்ணு ஜோசியர் சொல்லியிருக்கும்போது...அதுக்குள்ளே நம்ப வீட்டிலே எப்படி துக்கச் செய்தி ஏற்பட முடியும்?...பயப்படாதே...! சரி...அப்புறம் பேசுறேன். இன்னும் ஒரு மணி நேரத்துக்குப் பிறகு ‘போன்’ பண்ணு! எஸ்! எஸ்! ம்—வச்சுடு!”
+அடுத்த மாதம் கல்யாணத்தை சந்தோஷமா நடத்தலாம்...உன் கல்யாணம் கண்டிப்பா அடுத்த மாசம் முடியும்ணு ஜோஸ்யர் சொல்லியிருக்கும்போது...அதுக்குள்ளே நம்ப வீட்டிலே எப்படி துக்கச் செய்தி ஏற்பட முடியும்?...பயப்படாதே...! சரி...அப்புறம் பேசுறேன். இன்னும் ஒரு மணி நேரத்துக்குப் பிறகு ‘போன்’ பண்ணு! எஸ்! எஸ்! ம்—வச்சுடு!”
 
-சென்னையிலுள்ள மகளுக்கு ஆறுதல் கூறிய செங்கமலம் பிள்ளை, தனக்கு ஆறுதல் கூற வல்லார் யாருமின்றி, டாக்டரின் வருகையை ஆவலோடு எதிர்பார்த்துக் கொண்டே நின்றார்.
+சென்னையிலுள்ள மகளுக்கு ஆறுதல் கூறிய செங்கமலம் பிள்ளை, தனக்கு ஆறுதல் கூற வல்லார் யாருமின்றி, டாக்டரின் வருகையை ஆவலோடு எதிர் பார்த்துக் கொண்டே நின்றார்.
 
-டாக்டரை அழைக்கப் போன இரண்டு ‘கார்’களில் ஒரு ‘காரி’ல் டாக்டர் வந்து இறங்கினார். இன்னொரு ‘கார்’ல் இருந்த ‘செதாஸ் கோப்’பை எடுத்து மாட்டிக் கொண்டு டாக்டர் பரபரப்புடன் உள்ளே நுழைந்தார். அன்று காலையிலிருந்து டாக்டர் அங்கு வருவது இது ஐந்தாவது தடவை! அப்படி வந்தும் செங்கமலம் பிள்ளைக்குத் திருப்தி இல்லை!
+டாக்டரை அழைக்கப் போன இரண்டு ‘கார்’களில் ஒரு ‘காரி’ல் டாக்டர் வந்து இறங்கினார். இன்னொரு ‘காரி’ல் இருந்த ‘செதாஸ் கோப்’பை எடுத்து மாட்டிக் கொண்டு டாக்டர் பரபரப்புடன் உள்ளே நுழைந்தார். அன்று காலையிலிருந்து டாக்டர் அங்கு வருவது இது ஐந்தாவது தடவை! அப்படி வந்தும் செங்கமலம் பிள்ளைக்குத் திருப்தி இல்லை!
 
 “டாக்டர் சார்! நீங்கள் இங்கேயே தங்கியிருக்க வேண்; எங்களுக்கு ரொம்ப பயமாயிருக்கிறது!” என்று சீமான் கெஞ்சும் குரலில் கேட்டுக் கொண்டார்.
 
@@ -24,4 +24,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 43; printed page: 41 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; source-odd `தங்கியிருக்க வேண்;` retained from pixels; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — source-odd `தங்கியிருக்க வேண்;` retained; final source/visual closure **PASS**; page is `verified`.

@@ -17,21 +17,29 @@
 ## Story coordinates
 
 - opening display heading: **`சீமான் வீட்டு சீக்காளி`**
-- later running-header form observed: **`சீமான் வீட்டுச் சீக்காளி!`**
+- later running-header form: **`சீமான் வீட்டுச் சீக்காளி!`**
 - PDF scans: **41–49**
 - printed pages: **39–47**
 - next story first scan: **50 — `நந்தியூர் நரியப்பன்`**
 
 ## Directly checked physical facts
 
-- scan **41 / printed 39** visibly opens this story under the stylized heading `சீமான் வீட்டு சீக்காளி`;
-- scan **49 / printed 47** closes the story and carries a terminal star;
-- scan **50 / printed 48** visibly opens `நந்தியூர் நரியப்பன்` and is excluded.
+- scan **41 / printed 39** opens this story;
+- scan **49 / printed 47** closes it with the terminal star;
+- scan **50 / printed 48** opens `நந்தியூர் நரியப்பன்` and is excluded;
+- scan **45→46** physical split is restored exactly as `குடும்பத் / தினர்`.
 
-## Current transcription state
+## Final transcription state
 
-First-pass source transcription is complete for all **9/9** story pages. The separate native/high-resolution Historical Tamil Glyph Gate is **PASS 9/9 with 0 unresolved candidates**. Two source-pixel glyph corrections were established: scan 45 `தலைவிரிகோலமாக!` and physical scan 46 `உடலைக்`.
+- first-pass transcription: **9/9 COMPLETE**
+- Historical Tamil Glyph Gate: **PASS 9/9 / 0 unresolved**
+- final source/visual closure: **PASS 9/9**
+- verified page records: **9/9**
+- unresolved ordinary source-text items: **0**
+- assembled Tamil: **FINAL / synchronized**
+- Tamil/source state: **PASS / CLOSED**
+- English: **not started**
 
-All page records remain **`needs-review`** because the separate final source/visual closure is still pending. That final pass must also reconcile the known scan-45→46 physical page-boundary provenance issue.
+Final audit: `../FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
 The scan remains controlling. OCR, memory, expected Tamil, and contextual modernization are not authorities.

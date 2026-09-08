@@ -23,11 +23,11 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 |---:|---|---:|---:|---|
 | 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **Tamil/source PASS / CLOSED — 22/22 verified** |
 | 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
-| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **FIRST PASS COMPLETE; HISTORICAL-GLYPH GATE PASS 9/9; FINAL SOURCE/VISUAL CLOSURE NEXT** |
-| 4 | `நந்தியூர் நரியப்பன்` | 50–58 | 48–56 | waiting |
+| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
+| 4 | `நந்தியூர் நரியப்பன்` | 50–58 | 48–56 | **NEXT — fresh canonical recheck + first-pass transcription** |
 | 5 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting |
 
-Source-layer title/header forms are preserved rather than normalized. Story 3 opens on scan 41 as **`சீமான் வீட்டு சீக்காளி`**; later running headers visibly use **`சீமான் வீட்டுச் சீக்காளி!`**.
+Source-layer title/header forms are preserved rather than normalized.
 
 ## 1982 old-glyph phase rule — user directed
 
@@ -44,38 +44,28 @@ For **each story**:
 ## Closed stories
 
 - Story 1 `பெற்ற பிள்ளையை விற்ற தாய்` — **PASS / CLOSED**, 22/22 verified.
-- Story 2 `காசா லேசா` — **PASS / CLOSED**, 12/12 verified. Final audit: `stories/kaasa-lesa/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
+- Story 2 `காசா லேசா` — **PASS / CLOSED**, 12/12 verified.
+- Story 3 `சீமான் வீட்டு சீக்காளி` — **PASS / CLOSED**, 9/9 verified.
 
-Do not reopen Stories 1–2 without genuinely stronger source evidence or an explicit maintenance request.
+Story-3 final audit: `stories/seemaan-veettu-seekkaali/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-## Story 3 — current durable state
-
-Workspace: `stories/seemaan-veettu-seekkaali/`
-
-- activation duplicate/canonical recheck: **PASS — new canonical**;
-- physical range: **41–49 / printed 39–47**;
-- first-pass transcription: **9/9 COMPLETE**;
-- Historical Tamil Glyph Gate: **PASS 9/9**;
-- unresolved historical-glyph candidates: **0**;
-- glyph corrections: scan 45 `தலைவிரிகோலமாக!`; physical scan 46 `உடலைக்`;
-- page status: **9/9 `needs-review`**;
-- assembled Tamil: **synchronized after glyph corrections**;
-- final source/visual closure: **NEXT / not started**;
-- English: **not started**.
-
-Known final-closure item: first-pass page provenance across scan 45→46 must be reconciled; text beginning `சீமான் உதவியை நாடி வந்த...` crosses that physical boundary.
+Do not reopen Stories 1–3 without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Processing state
 
 - collection source registration: **PASS**
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **5/5 COMPLETE**
-- Tamil/source stories closed: **2/5**
-- Story 3: **glyph gate PASS; final source/visual closure NEXT**
+- Tamil/source stories closed: **3/5**
+- next anthology story: **Story 4 `நந்தியூர் நரியப்பன்`**
 - English: **not started**
 
 ## Exact next activity
 
-Run Story 3's **separate final source/visual closure** across scans **41–49**. Re-read full phrases/clauses/sentences, punctuation/spacing, all cross-page continuations, and physical page provenance. Resolve ordinary non-glyph review items separately from the already-closed glyph gate. Only if zero unresolved source-text items remain may all nine page records be promoted to `verified` and Story 3 be closed.
+Begin Story 4 **`நந்தியூர் நரியப்பன்`** only after fetching live `main` and rerunning the required duplicate/canonical-identity search.
 
-Do not start Story 4 `நந்தியூர் நரியப்பன்` in that same activity. `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
+Physical range: scans **50–58 / printed 48–56**; scan **58** carries the terminal star; scan **59** opens Story 5 `முடியாத தொடர்கதை` and is the forward-boundary witness.
+
+The next activity is Story-4 activation + source-faithful **first-pass transcription only**. Keep every Story-4 page `needs-review`; do not run its Historical Tamil Glyph Gate until the complete first pass is durably present. Do not pre-create Story 5.
+
+`நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.

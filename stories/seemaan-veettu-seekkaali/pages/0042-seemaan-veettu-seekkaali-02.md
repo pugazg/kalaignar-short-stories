@@ -4,17 +4,17 @@ printed_page: 40
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 செங்கமலம் பிள்ளையின் முகவிசாரத்தைக் கண்டு அவரோடு பேசவே நாவெழாதவர்களாய் ஒருவர் முகத்தை ஒருவர் பார்த்துக் கொண்டு சந்தடியின்றி உட்கார்ந்து நிலைமைகளைக் கவனித்தனர்.
 
 “டெலிபோன்” மணி அடித்தது. பொன்னன் ஓடிப் போய்ப் பேசினான்.
 
-“அலோ! அலோ! என்னுங்க?...‘டிரங்காலு’ங்களா?—மெட்ராசிலேருந்தா?...கொஞ்சம் இருங்க!”
+“அலோ! அலோ! என்னுங்க?...‘டிரங்காலு’ங்களா?—,மெட்ரா’சிலேருந்தா?...கொஞ்சம் இருங்க!”
 
 “எஜமான்! எஜமான்! பட்டணத்திலேயிருந்து... ‘டிரங்காலு’ங்க...”
 
@@ -24,4 +24,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 42; printed page: 40 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

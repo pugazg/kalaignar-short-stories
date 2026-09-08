@@ -4,10 +4,10 @@ printed_page: 43
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 கண்ணீர் வழிந்தோட டாக்டருக்கு விடை கொடுத்தனுப்பிவிட்டு திண்ணையில் நின்றவாறு ஆகாயத்தை வெறிக்கப் பார்த்துக் கொண்டிருந்தார் சீமான்.
@@ -22,8 +22,8 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 “காராவது—சனியனாவது!......இங்க மனுஷன் படுறபாடு தெரியலே?......வேதனையிலே துடிச்சுக் கிட்டிருக்கிறேன்......நேரம் தெரியாமல் வந்து உயிரை வாங்காதீங்க போங்க!” என்று கடிந்துரைத்து விட்டு சீமான், தன் வீட்டுக்குள்ளே நுழைந்து, இரும்புப் பெட்டியைத் திறந்து, ஒரு நூறு ரூபாய் நோட்டை எடுத்துப் பொன்னன் கையிலே தந்து, “இதை வைத்துக் கொண்டு காரிலே போய் மருந்துக் கடையில் டாக்டர் எழுதிக் கொடுத்த ஊசி மருந்தை வாங்கி வா, சீக்கிரம்!”.... என்று விரட்டினார்.
 
-பொன்னனும் காரில் புறப்பட்டான். சீமான் உதவியை நாடி வந்த அந்தத் தெரு ஏழைக் குடும்பத்தினர் தங்கள் கண்ணீரால் தாங்கள் பெற்றெடுத்த பெண்ணின் உடலைக் குளிப்பாட்டி நெருப்பால் ஏற்பட்ட எரிச்சலைத் தீர்க்கலாம் என எண்ணியோ என்னவோ வீட்டுக்குத் திரும்பினர்.
+பொன்னனும் காரில் புறப்பட்டான். சீமான் உதவியை நாடி வந்த அந்தத் தெரு ஏழைக் குடும்பத்
 
 <!-- anthology scan: 45; printed page: 43 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — source-pixel `தலைவிரிகோலமாக!` retained; physical page split restored; final source/visual closure **PASS**; page is `verified`.

@@ -4,10 +4,10 @@ printed_page: 42
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 வேண்டாமென்று ஒரு புன்னகையை வீசித் தடுத்து விட்டாள்.
@@ -16,10 +16,10 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 திடீரென நர்ஸ் கலகலவென வாய் விட்டுச் சிரித்த சப்தம் வெளியே எதிரொலித்தது. ‘ஒரு வேளை அது அழுகையோ? அய்யோ மோசம் போனோமோ?” என ஒரு கணம் நினைத்துப் பிறகு தானே சமாதானம் செய்து கொண்டார் செங்கமலம் பிள்ளை.
 
-“மனசு நெருப்பா எரியுது! இப்ப என்ன சிரிப்பு வேண்டியிருக்கு! இந்த டாக்டர்களே இப்படித்தான்; கல் நெஞ்சுக்காரர்கள்!” என்று முணுமுணுத்துக் கொண்டே உலவினர் சிந்தை நொந்திருந்த அந்த சீமான்!
+“மனசு நெருப்பா எரியுது! இப்ப என்ன சிரிப்பு வேண்டியிருக்கு! இந்த டாக்டர்களே இப்படித்தான்; கல் நெஞ்சக்காரர்கள்!” என்று முணுமுணுத்துக் கொண்டே உலவினர் சிந்தை நொந்திருந்த அந்த சீமான்!
 
 பதினைந்து நிமிடங்களுக்குப் பிறகு டாக்டர் வெளியே வந்தார். “கொஞ்சம் சீரியஸ் தான்! சாயங்காலம் அஞ்சு மணிக்கு மேல்தான் சொல்ல முடியும். அதுவரையில் அபாயக் கட்டம் தான்! ஒரு முக்கியமான ஊசி மருந்து எழுதித் தாரேன்...அதை வாங்கி வைக்கச் சொல்லுங்க; நாலு மணிக்கு வந்து அந்த ஊசியைப் போட்டா கொஞ்சம் குணம் தெரியலாம். கடைசி முயற்சிகளை செய்து பார்த்து விடுவோம்!” என்று கூறி, மருந்தையும் எழுதிக் கொடுத்து விட்டு காரில் போய் ஏறிக் கொண்டார் டாக்டர்.
 
 <!-- anthology scan: 44; printed page: 42 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

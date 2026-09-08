@@ -4,17 +4,17 @@ printed_page: 47
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story-ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 டாக்டர் உள்ளே போனார்!
 
 ஒரே அமைதி!
 
-திடீரென ஒரு உருமல் சப்தம்!
+திடீரென ஒரு உறுமல் சப்தம்!
 
 தொடர்ந்து “வள்! வள்!” என்ற குரைப்பு!
 
@@ -28,4 +28,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 49; printed page: 47 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; terminal star confirmed; page is `verified`.

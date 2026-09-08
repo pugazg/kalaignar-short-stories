@@ -4,10 +4,10 @@ printed_page: 45
 story: "seemaan-veettu-seekkaali"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 படுக்க வைத்துத் தங்களால் இயன்ற சிகிச்சைகளைத் தொடங்கினர்.
@@ -40,4 +40,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 47; printed page: 45 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; `எதிர் கொண்டழைத்தாள்` retained as printed; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — source-odd `எதிர் கொண்டழைத்தாள்` retained; final source/visual closure **PASS**; page is `verified`.

@@ -53,15 +53,15 @@ Collection state:
 - source registration: **PASS**
 - scan map: **95/95 mapped**
 - story inventory: **5/5 COMPLETE**
-- Tamil/source stories closed: **2/5**
+- Tamil/source stories closed: **3/5**
 - English: **not started**
 
 Story ranges:
 
 1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans **7–28**, printed **5–26** — **PASS / CLOSED — 22/22 verified**
 2. `காசா லேசா` — scans **29–40**, printed **27–38** — **PASS / CLOSED — 12/12 verified**
-3. `சீமான் வீட்டு சீக்காளி` — scans **41–49**, printed **39–47** — **GLYPH GATE PASS 9/9; FINAL SOURCE/VISUAL CLOSURE NEXT**
-4. `நந்தியூர் நரியப்பன்` — scans **50–58**, printed **48–56** — waiting
+3. `சீமான் வீட்டு சீக்காளி` — scans **41–49**, printed **39–47** — **PASS / CLOSED — 9/9 verified**
+4. `நந்தியூர் நரியப்பன்` — scans **50–58**, printed **48–56** — **NEXT**
 5. `முடியாத தொடர்கதை` — scans **59–93**, printed **57–91** — waiting
 
 ## User-directed 1982 phase rule
@@ -76,54 +76,48 @@ Minimum old-form set on every page:
 
 No global replacement, silent modernization or context-only correction.
 
-## Stories 1–2 — CLOSED
+## Stories 1–3 — CLOSED
 
 - Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: PASS / CLOSED, 22/22 verified.
-- Story 2 `காசா லேசா`: PASS / CLOSED, 12/12 verified, final audit `stories/kaasa-lesa/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
+- Story 2 `காசா லேசா`: PASS / CLOSED, 12/12 verified.
+- Story 3 `சீமான் வீட்டு சீக்காளி`: PASS / CLOSED, 9/9 verified.
 
-Do not reopen without stronger evidence or explicit maintenance request.
+Story-3 final audit: `stories/seemaan-veettu-seekkaali/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-## Story 3 — `சீமான் வீட்டு சீக்காளி` — CURRENT DURABLE CHECKPOINT
+Story-3 closure details:
 
-Workspace: `stories/seemaan-veettu-seekkaali/`
+- first pass: **9/9 COMPLETE**;
+- Historical Tamil Glyph Gate: **PASS 9/9 / 0 unresolved**;
+- final source/visual closure: **PASS 9/9**;
+- page records: **9/9 verified**;
+- final assembled Tamil: **synchronized**;
+- physical scan 45→46 split restored at `குடும்பத் / தினர்`;
+- unresolved ordinary source-text items: **0**;
+- unresolved historical-glyph candidates: **0**.
+
+Do not reopen Stories 1–3 without stronger evidence or explicit maintenance request.
+
+## Exact next activity — Story 4 `நந்தியூர் நரியப்பன்` activation + first pass
 
 Physical range:
 
-- scans **41–49 / printed 39–47**;
-- scan 41 opening display: `சீமான் வீட்டு சீக்காளி`;
-- later running header: `சீமான் வீட்டுச் சீக்காளி!`;
-- scan 49: terminal star;
-- scan 50: forward boundary opens `நந்தியூர் நரியப்பன்` and is excluded.
+- scans **50–58 / printed 48–56**;
+- scan 50 opening heading: `நந்தியூர் நரியப்பன்`;
+- scan 58: terminal star;
+- scan 59: forward boundary opens Story 5 `முடியாத தொடர்கதை`.
 
-Activation / transcription / glyph state:
-
-- fresh duplicate/canonical recheck against live `main` before activation: **PASS — new canonical**;
-- first-pass transcription: **9/9 COMPLETE**;
-- first-pass assembled Tamil: **COMPLETE**;
-- dedicated native/high-resolution Historical Tamil Glyph Gate: **PASS 9/9**;
-- unresolved historical-glyph candidates: **0**;
-- source-pixel glyph corrections: **2**:
-  - scan 45 `திலவிரிகோலமாக!` → `தலைவிரிகோலமாக!` (`லை`);
-  - physical scan 46 `உடலக்` → `உடலைக்` (`லை`);
-- gate record: `stories/seemaan-veettu-seekkaali/HISTORICAL_GLYPH_GATE.md`;
-- page status: **9/9 `needs-review`**;
-- final source/visual closure: **NOT STARTED / NEXT**;
-- English: **not started**.
-
-Source-supported difficult forms retained at the glyph gate include scan 43 `முடியும்ணு`, `செதாஸ் கோப்`, source-odd `தங்கியிருக்க வேண்;`, scan 46 `பாரத்தைப் போட்டு`, and scan 47 `எதிர் கொண்டழைத்தாள்`.
-
-Known separate final-closure issue: the first-pass reading order is intact, but text beginning `சீமான் உதவியை நாடி வந்த...` is currently carried inside the scan-45 page record although the physical continuation runs into scan 46. The final source/visual closure must restore exact physical provenance.
-
-## Exact next activity — Story 3 final source/visual closure
+Required next activity:
 
 1. fetch live `main` and preserve newer durable work;
-2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-3 README, metadata, page map, historical-glyph gate, review queue, all nine page records, and assembled Tamil;
+2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, active collection controls, and Story-3 closure only as precedent;
 3. resolve the controlling PDF before source-pixel work;
-4. directly reread scans **41–49** at native/high resolution for full phrase/clause/sentence fidelity, punctuation, spacing, source-odd spellings and cross-page continuations;
-5. keep the already-PASSed historical-glyph gate closed; ordinary corrections must be recorded separately;
-6. explicitly resolve the scan **45→46** physical page-provenance issue and synchronize page records/assembled Tamil;
-7. recheck scan 41 opening/title layer, scan 49 ending/star, and scan 50 forward-boundary exclusion;
-8. only if zero unresolved ordinary source-text items remain, promote 9/9 page records to `verified`, create `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`, and close Story 3;
-9. **hard stop: do not start Story 4 in the same activity.**
+4. rerun duplicate/canonical-identity search for exact title `நந்தியூர் நரியப்பன்` plus distinctive opening fragments;
+5. visually verify scan 50 opening, scan 58 ending/star, and scan 59 forward boundary;
+6. if still new canonical, create Story-4 workspace and exactly 9 page records for scans 50–58 / printed 48–56;
+7. complete source-faithful first-pass transcription for all 9 pages;
+8. keep every page `needs-review`;
+9. synchronize Story-4 first-pass assembly and controls;
+10. **stop after durable first pass** — do not run its Historical Tamil Glyph Gate in the same activity;
+11. do not pre-create or start Story 5.
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.

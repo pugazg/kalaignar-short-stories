@@ -1,39 +1,33 @@
-# Possible Errors / Historical-Glyph Review Queue — சீமான் வீட்டு சீக்காளி
+# Possible Errors / Review Queue — சீமான் வீட்டு சீக்காளி
 
-Status: **HISTORICAL TAMIL GLYPH GATE PASS — final source/visual closure NEXT.**
+Status: **CLOSED — Historical Tamil Glyph Gate PASS; final source/visual closure PASS.**
 
-The dedicated native/high-resolution historical-glyph gate has been completed across scans **41–49 / printed 39–47**.
+## Historical-glyph layer
 
-Mandatory families checked on every scan:
+- coverage: **9/9 scans**
+- result: **PASS**
+- unresolved historical-glyph candidates: **0**
+- source-pixel corrections:
+  - scan 45 `திலவிரிகோலமாக!` → `தலைவிரிகோலமாக!` (`லை`);
+  - physical scan 46 `உடலக்` → `உடலைக்` (`லை`).
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+## Final ordinary source review
 
-## Historical-glyph corrections established from source pixels
+All deferred lexical, punctuation, spacing and physical-provenance items were closed against the controlling scan.
 
-- physical scan **45 / printed 43**: `திலவிரிகோலமாக!` → **`தலைவிரிகோலமாக!`** — historical `லை`;
-- physical scan **46 / printed 44**: `உடலக் குளிப்பாட்டி` → **`உடலைக் குளிப்பாட்டி`** — historical `லை`.
+Final-pass corrections/dispositions include:
 
-No global replacement was used. Both corrections were established independently from the controlling native scan.
+- scan 42 source-odd `—,மெட்ரா’சிலேருந்தா?...` restored;
+- scan 43 `ஜோஸ்யர்`, `எதிர் பார்த்துக்`, second `இன்னொரு ‘காரி’ல்` restored;
+- scan 43 `முடியும்ணு`, `செதாஸ் கோப்`, `தங்கியிருக்க வேண்;` retained as printed;
+- scan 44 `கல் நெஞ்சக்காரர்கள்!` restored;
+- scan 45→46 physical split restored at `குடும்பத் / தினர்`;
+- scan 46 `அன்றாடம் கூலி வேலை` restored;
+- scan 46 `பாரத்தைப் போட்டு` retained as printed;
+- scan 47 `எதிர் கொண்டழைத்தாள்` retained as printed;
+- scan 48 source `——` punctuation restored;
+- scan 49 `உறுமல் சப்தம்` restored.
 
-## Candidates closed without correction
+Final unresolved ordinary source-text items: **0**.
 
-The following first-pass forms were re-opened at native/high resolution and are retained because the printed character identities support them:
-
-- scan 43 `முடியும்ணு`;
-- scan 43 `செதாஸ் கோப்`;
-- scan 43 source-odd `தங்கியிருக்க வேண்;`;
-- scan 46 `பாரத்தைப் போட்டு`;
-- scan 47 `எதிர் கொண்டழைத்தாள்`;
-- source-layer opening `சீமான் வீட்டு சீக்காளி` versus later running header `சீமான் வீட்டுச் சீக்காளி!`.
-
-Historical-glyph unresolved count: **0**.
-
-## Deferred to the separate final source/visual closure
-
-The glyph gate does not resolve ordinary lexical, punctuation, spacing, or physical-page-provenance issues. The final source/visual closure must separately review at least:
-
-- scan 43 first-pass `ஜோசியர்` against the visibly printed source form;
-- scan 43 first-pass second-car wording against the source (`காரி` form visible in the scan);
-- the physical scan **45 → 46** continuation: the first-pass repository currently carries text beginning `சீமான் உதவியை நாடி வந்த...` inside the scan-45 page record even though the continuation runs into scan 46. Reading order is intact, but page provenance must be reconciled during final closure.
-
-All nine page records remain **`needs-review`** until that separate final source/visual closure passes.
+See `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md` for the full closure ledger.

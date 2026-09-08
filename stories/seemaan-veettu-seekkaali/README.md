@@ -14,42 +14,45 @@ Canonical story workspace for **`சீமான் வீட்டு சீக
 - forward boundary witness: **scan 50 — `நந்தியூர் நரியப்பன்`**
 - source PDF committed to GitHub: **No**
 
-Fresh live-main duplicate/canonical searches immediately before activation found no existing canonical match for the exact heading or the distinctive opening fragment `அந்த உயிர் போனால் எனக்குப் பைத்தியமே பிடித்துவிடும்`. This 1982 range is therefore routed as a new canonical story workspace.
+Fresh live-main duplicate/canonical searches immediately before activation found no existing canonical match for the exact heading or distinctive opening fragment. This 1982 range is the controlling source for this canonical workspace.
 
 ## Source-title distinction
 
 - scan 41 stylized story-opening heading: **`சீமான் வீட்டு சீக்காளி`**;
-- running headers visible on later pages: **`சீமான் வீட்டுச் சீக்காளி!`**.
+- later running headers: **`சீமான் வீட்டுச் சீக்காளி!`**.
 
-These source-layer forms are preserved and are not silently normalized.
+These source-layer forms are preserved rather than normalized.
 
 ## Tamil/source state
 
-**HISTORICAL TAMIL GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE NEXT.**
+**PASS / CLOSED.**
 
 - physical story pages: **9/9**
-- first-pass page transcriptions: **9/9 complete**
+- first-pass transcription: **9/9 complete**
 - independent native/high-resolution Historical Tamil Glyph Gate: **PASS 9/9**
 - unresolved historical-glyph candidates: **0**
 - historical-glyph corrections: **2** — scan 45 `தலைவிரிகோலமாக!`; physical scan 46 `உடலைக்`
-- page status: **9/9 `needs-review`**
-- final source/visual closure: **not started**
+- separate final source/visual closure: **PASS 9/9**
+- verified page records: **9/9**
+- unresolved ordinary source-text items: **0**
+- assembled Tamil: **FINAL / synchronized**
 - English: **not started**
 
-The separate final source/visual closure must now verify full lexical/punctuation/spacing fidelity and physical page provenance before any page may become `verified`.
+The final closure restored the exact scan 45→46 physical split (`குடும்பத் / தினர்`) and closed all ordinary lexical/punctuation/spacing review items.
+
+Do not reopen this Tamil/source layer without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Controls
 
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
-- assembled Tamil: [`sections/seemaan-veettu-seekkaali.md`](sections/seemaan-veettu-seekkaali.md)
+- final assembled Tamil: [`sections/seemaan-veettu-seekkaali.md`](sections/seemaan-veettu-seekkaali.md)
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
-- review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- final review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- final source/visual audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
 
-## Known final-closure provenance item
+## Closure boundary
 
-The first-pass page records preserve reading order, but text beginning `சீமான் உதவியை நாடி வந்த...` currently remains attached to the scan-45 record although the physical continuation runs into scan 46. The separate final source/visual closure must reconcile that page boundary from source pixels.
+Scan 49 closes the story with the terminal star. Scan 50 opens **`நந்தியூர் நரியப்பன்`** and is excluded.
 
-## Hard stop
-
-Do not start Story 4 `நந்தியூர் நரியப்பன்` until this story's separate final source/visual closure passes.
+The collection may advance to Story 4 only in a later activity, beginning with a fresh live-main duplicate/canonical search.
