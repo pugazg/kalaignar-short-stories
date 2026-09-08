@@ -11,24 +11,22 @@ No separate printed contents page was found. `TOC title` is therefore **not pres
 |---:|---|---|---:|---:|---|---|
 | 1 | — | `பெற்ற பிள்ளையை விற்ற தாய்` | **7–28** | **5–26** | scan 28 terminal star; scan 29 opens `காசா லேசா` | **Tamil/source PASS / CLOSED — 22/22 verified** |
 | 2 | — | `காசா லேசா` | **29–40** | **27–38** | scan 40 terminal star; scan 41 opens `சீமான் வீட்டு சீக்காளி` | **Tamil/source PASS / CLOSED — 12/12 verified** |
-| 3 | — | `சீமான் வீட்டு சீக்காளி` | **41–49** | **39–47** | scan 49 terminal star; scan 50 opens `நந்தியூர் நரியப்பன்` | **NEXT — canonical recheck required on activation** |
+| 3 | — | `சீமான் வீட்டு சீக்காளி` | **41–49** | **39–47** | scan 49 terminal star; scan 50 opens `நந்தியூர் நரியப்பன்` | **first pass 9/9 COMPLETE; HISTORICAL-GLYPH GATE NEXT** |
 | 4 | — | `நந்தியூர் நரியப்பன்` | **50–58** | **48–56** | scan 58 terminal star; scan 59 opens `முடியாத தொடர்கதை` | waiting; canonical recheck required on activation |
 | 5 | — | `முடியாத தொடர்கதை` | **59–93** | **57–91** | scan 93 terminal star; scan 94 advertisement | waiting; canonical recheck required on activation |
 
-## Story 2 source-title note
+## Story 3 source-title note
 
-Opening display heading: **`காசா லேசா`**. Even-page running headers through scan 38 use **`காசா லேசா!`**; scan 40 uses **`காசாலேசா!`**. These are source-layer variants and remain distinct.
+Opening display heading on scan 41: **`சீமான் வீட்டு சீக்காளி`**. Later running headers visibly use **`சீமான் வீட்டுச் சீக்காளி!`**. Preserve both source layers.
 
 ## Repository routing
 
-At intake no existing canonical match was found for the five headings. Story 1 and Story 2 were each freshly rechecked against live `main` immediately before activation and routed as new canonical workspaces controlled by this edition.
+Story 3 was freshly rechecked against live `main` at `e12339ebcc9cdfdc2f24197747874ddf9d2ca43d`. Exact-title search and the distinctive opening-fragment search returned no canonical match. It is therefore activated as new canonical `stories/seemaan-veettu-seekkaali/`, controlled by scans **41–49 / printed 39–47**.
 
-Stories 3–5 must each be searched again when activated. Do not create their folders in advance.
+Stories 4–5 must each be searched again when activated. Do not create their folders in advance.
 
-## Story 2 closure checkpoint
+## Story 3 first-pass checkpoint
 
-Story 2 is **PASS / CLOSED**: first pass 12/12, Historical Tamil Glyph Gate PASS 12/12, final source/visual closure PASS, 12/12 verified, 0 unresolved source/glyph items. Final audit: `stories/kaasa-lesa/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
+First-pass transcription is **9/9 COMPLETE**. All nine page records are `needs-review`. The separate native/high-resolution Historical Tamil Glyph Gate is **NEXT** and has not begun.
 
-Next: activate Story 3 only after a fresh live-main duplicate/canonical search; perform its complete first pass before the separate historical-glyph gate.
-
-English does not begin story-by-story during this Tamil-first anthology phase. After all five Tamil/source stories and the collection-wide Tamil release gate close, English becomes automatic unless the user redirects.
+English does not begin story-by-story during this Tamil-first anthology phase.
