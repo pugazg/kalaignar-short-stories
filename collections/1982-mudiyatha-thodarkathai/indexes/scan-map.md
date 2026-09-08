@@ -8,14 +8,15 @@ Total scans: **95**
 | 1 | — | front cover | mapped |
 | 2 | — | blank | mapped |
 | 3 | — | title page | mapped |
-| 4 | — | publication / bibliographical data | mapped |
+| 4 | — | publication data | mapped |
 | 5–6 | 3–4 | `பதிப்புரை` | mapped |
-| 7–28 | 5–26 | Story 1 — `பெற்ற பிள்ளையை விற்ற தாய்` | **Tamil/source PASS / CLOSED — 22/22 verified** |
-| 29–40 | 27–38 | Story 2 — `காசா லேசா` | **Tamil/source PASS / CLOSED — 12/12 verified** |
-| 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | **Tamil/source PASS / CLOSED — 9/9 verified** |
-| 50–58 | 48–56 | Story 4 — `நந்தியூர் நரியப்பன்` | **NEXT — mapped; fresh canonical recheck required** |
-| 59–93 | 57–91 | Story 5 — `முடியாத தொடர்கதை` | mapped; waiting |
-| 94 | — | advertisement / next-publication page | mapped; non-story |
+| 7–28 | 5–26 | Story 1 — `பெற்ற பிள்ளையை விற்ற தாய்` | **PASS / CLOSED — 22/22 verified** |
+| 29–40 | 27–38 | Story 2 — `காசா லேசா` | **PASS / CLOSED — 12/12 verified** |
+| 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | **PASS / CLOSED — 9/9 verified** |
+| 50–54 | 48–52 | Story 4 — `நந்தியூர் நரியப்பன்` | **first pass 5/5 COMPLETE; historical-glyph gate NEXT** |
+| 55–58 | 53–56 | Story 5 — `நரியூர் நந்தியப்பன்` | mapped; waiting |
+| 59–93 | 57–91 | Story 6 — `முடியாத தொடர்கதை` | mapped; waiting |
+| 94 | — | advertisement | mapped; non-story |
 | 95 | — | back cover | mapped; non-story |
 
 ## Pagination rule
@@ -24,12 +25,15 @@ For printed pages **3–91**: `PDF scan = printed page + 2`.
 
 ## Boundary verification
 
-- scan 28 → 29: Story 1 closes / Story 2 opens — verified;
-- scan 40 → 41: Story 2 closes / Story 3 opens — verified;
-- scan 49 → 50: Story 3 closes / Story 4 opens — **verified during Story-3 final closure**;
-- scan 58 → 59: Story 4 closes / Story 5 opens — structural boundary mapped; recheck during Story-4 processing;
-- scan 93 → 94: Story 5 closes / advertisement begins.
+- scan 28→29: Story 1 closes / Story 2 opens — verified;
+- scan 40→41: Story 2 closes / Story 3 opens — verified;
+- scan 49→50: Story 3 closes / Story 4 opens — verified;
+- scan 54→55: Story 4 closes with terminal star / Story 5 `நரியூர் நந்தியப்பன்` opens — **directly rechecked 2026-09-08**;
+- scan 58→59: Story 5 closes with terminal star / Story 6 `முடியாத தொடர்கதை` opens — **directly rechecked 2026-09-08**;
+- scan 93→94: Story 6 closes / advertisement begins.
+
+Story-4 running headers on scans 52 and 54 read `நரியூர் நந்தியப்பன்`; this does not alter the physical boundary proven at scan 54→55.
 
 ## Next active gate
 
-Story 4 `நந்தியூர் நரியப்பன்`, scans **50–58 / printed 48–56**: fresh live-main duplicate/canonical search, then source-faithful first-pass transcription with all page records `needs-review`. Do not begin its separate Historical Tamil Glyph Gate until the complete first pass is durably present.
+Story 4 `நந்தியூர் நரியப்பன்`: separate native/high-resolution Historical Tamil Glyph Gate across scans **50–54**. Do not begin final closure or Story 5 in the same activity.

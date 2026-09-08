@@ -1,101 +1,54 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1982 `முடியாத தொடர்கதை` / Story 4 `நந்தியூர் நரியப்பன்` first pass
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 4 `நந்தியூர் நரியப்பன்` Historical Tamil Glyph Gate
 
-Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
-
-## LIVE MAIN IS AUTHORITATIVE
-
-Fetch live `main` first and preserve newer durable state.
+Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Hard external hold
 
-`வெள்ளிக்கிழமை` remains incomplete. Therefore **do not start `நடுத்தெரு நாராயணி`**.
+`வெள்ளிக்கிழமை` remains incomplete; do **not** start `நடுத்தெரு நாராயணி`.
 
-## Active collection
+## Corrected 1982 inventory
 
-`collections/1982-mudiyatha-thodarkathai/`
+The previous five-story map was wrong. Direct source reinspection proves **six stories**:
 
-Controlling PDF: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf`
+1. `பெற்ற பிள்ளையை விற்ற தாய்` — 7–28 — CLOSED
+2. `காசா லேசா` — 29–40 — CLOSED
+3. `சீமான் வீட்டு சீக்காளி` — 41–49 — CLOSED
+4. `நந்தியூர் நரியப்பன்` — **50–54 / printed 48–52** — first pass complete
+5. `நரியூர் நந்தியப்பன்` — **55–58 / printed 53–56** — waiting
+6. `முடியாத தொடர்கதை` — **59–93 / printed 57–91** — waiting
 
-Recorded identity:
+Source boundary evidence: scan 54 terminal star; scan 55 separate stylized `நரியூர் நந்தியப்பன்` opening; scan 58 terminal star; scan 59 `முடியாத தொடர்கதை` opening.
 
-- **95 scans**
-- **194,350,272 bytes**
-- SHA-256 **`d69034c5374c6c1604ddeb6d8e034c4410ae0d58201f2dd1608edd0e6d8cfd41`**
-- title **முடியாத தொடர்கதை**
-- author **கலைஞர் மு. கருணாநிதி**
-- publisher **தமிழோசை பதிப்பகம்**
-- **முதற்பதிப்பு — செப்டம்பர் 1982**
-- image-only; do not commit PDF
+## Active Story 4
 
-## 1982 user-directed phase rule
+Workspace: `stories/nandiyur-nariyappan/`
 
-Each anthology story follows:
-
-**first-pass transcription → dedicated post-transcription Historical Tamil Glyph Gate at native/high resolution → separate final source/visual closure → next story**.
-
-No global replacement, silent modernization or context-only correction.
-
-## Durable collection state
-
-- collection source registration: **PASS**
-- story inventory: **5/5 COMPLETE**
-- Tamil/source stories closed: **3/5**
-- Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: **PASS / CLOSED — 22/22 verified**
-- Story 2 `காசா லேசா`: **PASS / CLOSED — 12/12 verified**
-- Story 3 `சீமான் வீட்டு சீக்காளி`: **PASS / CLOSED — 9/9 verified**
-- English: **not started**
-
-Story-3 final audit:
-`stories/seemaan-veettu-seekkaali/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`
-
-Do not reopen Stories 1–3 without stronger source evidence or explicit maintenance request.
-
-## Exact active story — Story 4 `நந்தியூர் நரியப்பன்`
-
-Physical range:
-
-- PDF scans **50–58**
-- printed pages **48–56**
-- scan **50** opening heading **`நந்தியூர் நரியப்பன்`**
-- scan **58** terminal star
-- scan **59** forward-boundary witness opens Story 5 **`முடியாத தொடர்கதை`**
-
-No Story-4 canonical workspace should be assumed until the fresh activation search is complete.
+- scan 50 opening display: **`நந்தியூர் நரியப்பன்`**
+- scans 52/54 running headers: **`நரியூர் நந்தியப்பன்`** — preserve as a source-layer distinction
+- scan 54 terminal star
+- scan 55 is **Story 5**, excluded
+- activation duplicate search: **PASS / new canonical**
+- first pass: **5/5 COMPLETE**
+- page status: **5/5 `needs-review`**
+- historical-glyph gate: **NEXT / not started**
+- final source/visual closure: **not started**
 
 ## Mandatory startup
 
-Read before source-dependent writes:
-
+Read:
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
 3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-4. root `HANDOVER.md`
+4. `HANDOVER.md`
 5. this prompt
 6. `collections/1982-mudiyatha-thodarkathai/README.md`
-7. `collections/1982-mudiyatha-thodarkathai/metadata/source.md`
-8. `collections/1982-mudiyatha-thodarkathai/indexes/story-inventory.md`
-9. `collections/1982-mudiyatha-thodarkathai/indexes/scan-map.md`
-10. `collections/1982-mudiyatha-thodarkathai/DUPLICATE_AUDIT.md`
-11. Story-3 README/page-map/final audit only as immediate workflow precedent; do not reopen its text.
+7. collection source metadata / inventory / scan map / duplicate audit
+8. Story-4 README / source metadata / page map / review queue
+9. all Story-4 page records scans 50–54
+10. assembled Tamil.
 
-Resolve the controlling PDF before source-pixel work. Never substitute OCR memory, expected Tamil or prior-chat prose for source pixels.
+## Exact next activity — dedicated glyph gate only
 
-## Required procedure — Story 4 activation + first pass only
+Reopen scans **50–54** at native/high resolution after the existing first pass. Explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` and suspicious ligatures. Record every correction individually. Preserve source wording, punctuation, spacing and source-title/header distinctions. If zero candidates remain unresolved, create Story-4 glyph-gate PASS and synchronize text, but leave all five pages `needs-review`.
 
-1. fetch live `main`;
-2. search live repository for exact title `நந்தியூர் நரியப்பன்` and distinctive opening fragments;
-3. verify scan **50** opening directly from the PDF;
-4. verify scan **58** ending / terminal star;
-5. inspect scan **59** only as forward-boundary witness and confirm Story 5 `முடியாத தொடர்கதை` begins there;
-6. if no existing canonical match exists, create a new canonical Story-4 workspace;
-7. create exactly **9 page records**, scans **50–58 / printed 48–56**;
-8. transcribe all 9 pages directly and source-faithfully;
-9. preserve source punctuation, spelling and old glyph appearances; do not normalize;
-10. mark all nine records **`needs-review`**;
-11. create/synchronize the first-pass assembled Tamil, metadata and page map;
-12. after all 9 pages are durably present, record that the separate Historical Tamil Glyph Gate is **NEXT**;
-13. **hard stop: do not run the historical-glyph gate in this same activity and do not start Story 5.**
-
-## Hard stop
-
-Do not start Story 5 `முடியாத தொடர்கதை` during Story-4 first-pass work. Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
+**Hard stop:** do not run Story-4 final source/visual closure in the same activity; do not activate Story 5 `நரியூர் நந்தியப்பன்` yet.
