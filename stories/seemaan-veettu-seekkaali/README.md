@@ -25,24 +25,31 @@ These source-layer forms are preserved and are not silently normalized.
 
 ## Tamil/source state
 
-**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE NEXT.**
+**HISTORICAL TAMIL GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE NEXT.**
 
 - physical story pages: **9/9**
 - first-pass page transcriptions: **9/9 complete**
+- independent native/high-resolution Historical Tamil Glyph Gate: **PASS 9/9**
+- unresolved historical-glyph candidates: **0**
+- historical-glyph corrections: **2** — scan 45 `தலைவிரிகோலமாக!`; physical scan 46 `உடலைக்`
 - page status: **9/9 `needs-review`**
-- historical-glyph gate: **not started**
 - final source/visual closure: **not started**
 - English: **not started**
 
-The next activity must be the separate native/high-resolution Historical Tamil Glyph Gate across all nine pages. Do not promote any page to `verified` during first pass.
+The separate final source/visual closure must now verify full lexical/punctuation/spacing fidelity and physical page provenance before any page may become `verified`.
 
 ## Controls
 
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
-- first-pass assembled Tamil: [`sections/seemaan-veettu-seekkaali.md`](sections/seemaan-veettu-seekkaali.md)
-- first-pass review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- assembled Tamil: [`sections/seemaan-veettu-seekkaali.md`](sections/seemaan-veettu-seekkaali.md)
+- historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+- review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+
+## Known final-closure provenance item
+
+The first-pass page records preserve reading order, but text beginning `சீமான் உதவியை நாடி வந்த...` currently remains attached to the scan-45 record although the physical continuation runs into scan 46. The separate final source/visual closure must reconcile that page boundary from source pixels.
 
 ## Hard stop
 
-Do not start the glyph gate in the same activity as this first pass. Do not start Story 4 `நந்தியூர் நரியப்பன்` yet.
+Do not start Story 4 `நந்தியூர் நரியப்பன்` until this story's separate final source/visual closure passes.
