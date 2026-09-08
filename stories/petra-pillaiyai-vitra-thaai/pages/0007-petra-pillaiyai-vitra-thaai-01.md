@@ -4,10 +4,10 @@ printed_page: 5
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story-opening"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 # பெற்ற பிள்ளையை விற்ற தாய்
@@ -22,4 +22,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 7; printed page: 5 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

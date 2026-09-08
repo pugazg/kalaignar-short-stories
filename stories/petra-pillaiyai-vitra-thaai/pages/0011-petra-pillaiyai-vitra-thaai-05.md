@@ -4,10 +4,10 @@ printed_page: 9
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 “என்ன?”
@@ -40,4 +40,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 11; printed page: 9 -->
 
-> Historical-glyph gate: **PASS** — `அவிர்ப்பாகம்` wording confirmed from source; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — `அவிர்ப்பாகம்` wording confirmed from source; final source/visual closure **PASS**.

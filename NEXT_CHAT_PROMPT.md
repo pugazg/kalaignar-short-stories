@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1982 `முடியாத தொடர்கதை` / Story 1 Final Source-Visual Closure
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1982 `முடியாத தொடர்கதை` / Story 2 `காசா லேசா`
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -35,28 +35,29 @@ Each anthology story follows:
 
 No global replacement, silent modernization or context-only correction.
 
-## Story 1 durable state
+## Durable collection state
 
-Story: **`பெற்ற பிள்ளையை விற்ற தாய்`**  
-Workspace: `stories/petra-pillaiyai-vitra-thaai/`
+- collection source registration: **PASS**
+- story inventory: **5/5 COMPLETE**
+- Tamil/source stories closed: **1/5**
+- Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: **PASS / CLOSED — 22/22 verified**
+- English: **not started**
 
-- scans **7–28 / printed 5–26**
-- scan 7 story opening
-- scan 28 story ending: `ஆனால் அவள் வாழ்வு ????` + terminal star
-- scan 29 forward boundary witness opening `காசா லேசா`
-- first-pass transcription: **22/22 COMPLETE**
-- assembled Tamil: **COMPLETE**
-- historical-glyph high-resolution reread: **22/22 COMPLETE**
-- historical-glyph gate: **PASS**
-- unresolved historical-glyph candidates: **0**
-- page records: **22/22 `needs-review`**
-- final verified pages: **0/22**
-- final source/visual closure: **PENDING**
-- English: **not started / blocked by Tamil source closure**
+Story-1 final audit:
+`stories/petra-pillaiyai-vitra-thaai/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`
 
-The glyph gate log is `stories/petra-pillaiyai-vitra-thaai/HISTORICAL_GLYPH_GATE.md`. The old-glyph candidate queue is closed at `stories/petra-pillaiyai-vitra-thaai/POSSIBLE_ERRORS_FOR_REVIEW.md`.
+Do not reopen Story 1 without genuinely stronger source evidence or an explicit maintenance request.
 
-Source-odd forms deliberately preserved after high-resolution review include `முருங்கை மிலார்`, `தெரியாத்தனம்`, `கர்ப்பக்கிரகத்தில்`, `இலவுக்காத்தக் கிளி`, the unusual `மிலேச்சியிலிருந்து மஹாராணக் குதித்து விட்டீரே!` phrase, and the source's quoted குறள் wording.
+## Exact next activity — Story 2 `காசா லேசா`
+
+Physical range:
+
+- PDF scans **29–40**
+- printed pages **27–38**
+- scan 29: stylized story-opening heading **`காசா லேசா`**
+- later running headers may visibly use **`காசா லேசா!`**; preserve this source-layer distinction
+- scan 40: Story-2 terminal boundary
+- scan 41: forward boundary witness opening **`சீமான் வீட்டு சீக்காளி`**
 
 ## Mandatory startup
 
@@ -68,31 +69,25 @@ Read before source-dependent writes:
 4. root `HANDOVER.md`
 5. this prompt
 6. `collections/1982-mudiyatha-thodarkathai/README.md`
-7. `collections/1982-mudiyatha-thodarkathai/indexes/story-inventory.md`
-8. `collections/1982-mudiyatha-thodarkathai/indexes/scan-map.md`
-9. `stories/petra-pillaiyai-vitra-thaai/README.md`
-10. `stories/petra-pillaiyai-vitra-thaai/metadata/source.md`
-11. `stories/petra-pillaiyai-vitra-thaai/indexes/page-map.md`
-12. `stories/petra-pillaiyai-vitra-thaai/HISTORICAL_GLYPH_GATE.md`
-13. `stories/petra-pillaiyai-vitra-thaai/POSSIBLE_ERRORS_FOR_REVIEW.md`
-14. `stories/petra-pillaiyai-vitra-thaai/sections/petra-pillaiyai-vitra-thaai.md`
-15. all page records scans 7–28.
+7. `collections/1982-mudiyatha-thodarkathai/metadata/source.md`
+8. `collections/1982-mudiyatha-thodarkathai/indexes/story-inventory.md`
+9. `collections/1982-mudiyatha-thodarkathai/indexes/scan-map.md`
+10. `collections/1982-mudiyatha-thodarkathai/DUPLICATE_AUDIT.md`
 
 Resolve the controlling PDF before source-pixel work. Never substitute OCR memory, expected Tamil or prior-chat prose for the source image.
 
-## Exact next activity — final source / visual closure
+## Required procedure
 
-Process only Story 1, scans **7–28 / printed 5–26**.
-
-1. reread each corrected page record against the controlling scan;
-2. perform full phrase/clause/sentence sanity checking without modernizing source text;
-3. verify every cross-page continuation independently from both adjacent pages;
-4. verify scan markers and printed-page coordinates;
-5. verify the scan 28 terminal wording and star against scan 29, which must remain excluded;
-6. compare all 22 page records against the assembled Tamil after historical-glyph corrections;
-7. record and resolve any remaining non-glyph source-text uncertainty from source pixels;
-8. if and only if unresolved source-text items are **0**, promote all 22 pages to `verified`, close Story 1 Tamil/source, and synchronize story/collection/root controls.
+1. fetch live `main` and preserve newer durable work;
+2. rerun repository duplicate/canonical-identity search for exact title `காசா லேசா` and distinctive source fragments;
+3. directly verify scan 29 opening, scan 40 ending and scan 41 forward boundary;
+4. if the route is still new canonical, create a Story-2 workspace only then;
+5. create page records for exactly scans 29–40 / printed 27–38;
+6. perform source-faithful first-pass transcription from the controlling scan; keep all page records `needs-review`;
+7. do not silently normalize the opening title to the exclamatory running-header form;
+8. after all 12 pages are transcribed, stop and run the separate user-directed Historical Tamil Glyph Gate across all 12 pages at native/high resolution;
+9. only after that gate PASSes may Story 2 advance to its separate final source/visual closure.
 
 ## Hard stop
 
-Do **not** begin Story 2 `காசா லேசா` in the same activity unless Story 1 has first been fully source-closed and the user explicitly proceeds to the next activity. Story 2 will require a fresh live-main duplicate/canonical search before workspace creation.
+Do not start Story 3 in the same activity. Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.

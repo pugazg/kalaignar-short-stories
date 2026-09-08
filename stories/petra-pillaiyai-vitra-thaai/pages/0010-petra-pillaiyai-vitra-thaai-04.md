@@ -4,10 +4,10 @@ printed_page: 8
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 காட்சி ரம்மியந்தான். தானம் பலந்தான். செலவு அதிகம் தான். ஆனால் புத்திர காமேஷ்டியாகத்தின் பலனும் ‘பூஜ்ய’மாகி விடவேண்டுமா? ஜெமீன்தார் சோகத்தில் மிதந்தார்.
@@ -40,4 +40,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 10; printed page: 8 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

@@ -4,10 +4,10 @@ printed_page: 21
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 பிரேமாவுக்கும் கண்ணபிரானுக்கும் திருமணம் நடைபெறுவதற்குமுன் குழந்தை பிறந்த கட்டம் வந்தது. பிரேமா ஒரு பெண் குழந்தையைப் பெற்றெடுத்தாள். ஆனால் பிரேமாவுக்கு இன்னும் திருமணமாகவில்லை.
@@ -22,4 +22,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 23; printed page: 21 -->
 
-> Historical-glyph gate: **PASS** — historical `லை` / `னா` forms and adjacent first-pass readings resolved from native/high-resolution pixels; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — historical `லை` / `னா` forms and adjacent first-pass readings resolved from native/high-resolution pixels; final source/visual closure **PASS**.

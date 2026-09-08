@@ -4,10 +4,10 @@ printed_page: 24
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 இரண்டு மாதங்கள் நகர்ந்தன. பிரேமாவின் வாழ்க்கையின் இரண்டாவது அத்தியாயம் ஆரம்பமாயிற்று. வேஷம் போட்டுக்கொள்ளும் பகுதி... புகழ் பரவும் பகுதி—மாலைகள் விழும் பகுதி என்ற முறையில் வாழ்க்கை ஏடுகள் புரண்டன. நாடக விளம்பரங்களில் ‘பிரேமாயினி’ பெயர் ஸ்பெஷல் வர்ணங்களால் எழுதப்பட்டன.
@@ -34,4 +34,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 26; printed page: 24 -->
 
-> Historical-glyph gate: **PASS** — high-resolution source confirms `முருங்கை மிலார்` and colloquial `இல்ல`; both preserved; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — high-resolution source confirms `முருங்கை மிலார்` and colloquial `இல்ல`; both preserved; final source/visual closure **PASS**.

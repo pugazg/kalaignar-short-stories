@@ -4,10 +4,10 @@ printed_page: 11
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 ஜெமீன்தாரிடம் வரதாச்சாரியார் அவிர்ப்பாகம் தயாரிப்பதற்காக இரண்டாயிர ரூபாய் பெற்றுக்கொண்டு புறப்பட்டார். “ஆலை...ரகசியம்...உங்க மனைவிக்குக் கூடத் தெரியக்கூடாது. விஷயம் வெளியானால்...மருந்தின் சக்தி போய்விடும்” என்ற எச்சரிக்கையையும் ஜெமீன்தார் மனத்தில் கோத்துவிட்டுப் போனார்.
@@ -24,4 +24,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 13; printed page: 11 -->
 
-> Historical-glyph gate: **PASS** — `நன்றாயில்ல` and `சிரிக்கிறாள்` decoded from native/high-resolution old type; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — `நன்றாயில்ல` and `சிரிக்கிறாள்` decoded from native/high-resolution old type; final source/visual closure **PASS**.

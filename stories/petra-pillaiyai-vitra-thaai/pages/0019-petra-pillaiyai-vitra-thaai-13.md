@@ -4,10 +4,10 @@ printed_page: 17
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 பிரேமாவுக்கு வயது 15! நல்ல அழகி என்று ஊரார் சொல்லுவார்கள். அவளும் தன்னைக் கண்ணாடியில் பார்க்கும்போதெல்லாம் சிறிது கர்வமடைவது வழக்கம்.
@@ -20,4 +20,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 19; printed page: 17 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

@@ -4,10 +4,10 @@ printed_page: 13
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 “பேஷா!...... ஜெமீன்தாரையே... சாப்பிடச் சொல்றேன். மருதமுத்தா...கண்டிப்பா பிள்ளை பிறக்குமா?”
@@ -30,4 +30,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 15; printed page: 13 -->
 
-> Historical-glyph gate: **PASS** — historical `னா` identity decoded in `ஆனா`; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — historical `னா` identity decoded in `ஆனா`; final source/visual closure **PASS**.

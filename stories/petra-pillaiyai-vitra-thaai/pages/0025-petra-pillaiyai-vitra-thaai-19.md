@@ -4,10 +4,10 @@ printed_page: 23
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 சாதாரண மனிதன் தன் மனைவியைப் பிறருக்குத் தானம் செய்தால் அது மானமற்ற காரியம்! அதே வேலையை இயற்பகை நாயனார் செய்தால் அது பக்திப் பிரவாகம்.
@@ -22,4 +22,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 25; printed page: 23 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

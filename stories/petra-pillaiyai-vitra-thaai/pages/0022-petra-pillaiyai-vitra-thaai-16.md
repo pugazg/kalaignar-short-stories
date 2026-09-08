@@ -4,10 +4,10 @@ printed_page: 20
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 மகரந்தம் உதிர்ந்தன. பொன் பொடிகள் தூவிய புத்தம் புதிய இதழ்கள் விரிந்தன.
@@ -24,4 +24,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 22; printed page: 20 -->
 
-> Historical-glyph gate: **PASS** — `கொண்டால்தானா` decoded from old type; unusual comparison phrase preserved as printed; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — `கொண்டால்தானா` decoded from old type; unusual comparison phrase preserved as printed; final source/visual closure **PASS**.

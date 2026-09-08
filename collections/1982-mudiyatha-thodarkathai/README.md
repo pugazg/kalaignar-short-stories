@@ -35,8 +35,8 @@ No separate printed contents page was found. The five-story inventory was establ
 
 | # | Opening heading | PDF scans | Printed pages | Repository state |
 |---:|---|---:|---:|---|
-| 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **first-pass 22/22 COMPLETE; historical-glyph gate PASS; final source/visual closure PENDING** |
-| 2 | `காசா லேசா` | 29–40 | 27–38 | new canonical candidate; waiting |
+| 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **Tamil/source PASS / CLOSED — 22/22 verified** |
+| 2 | `காசா லேசா` | 29–40 | 27–38 | **NEXT — fresh duplicate/canonical recheck required before activation** |
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | new canonical candidate; waiting |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–58 | 48–56 | new canonical candidate; waiting |
 | 5 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | new canonical candidate; waiting |
@@ -49,13 +49,30 @@ The collection title and Story 5 have the same wording, `முடியாத �
 
 This source has a high density of old Tamil typeforms. For **each story in this 1982 anthology**:
 
-1. complete the full first-pass transcription;
-2. keep page records `needs-review`;
-3. run one dedicated post-transcription Historical Tamil Glyph Gate across every page;
-4. check all 13 minimum families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` and other suspicious old forms;
-5. record source-pixel-supported corrections individually — never global-replace or modernize;
-6. only after the glyph gate PASSes run the separate final source/visual closure;
-7. do not start the following anthology story until the active story is source-closed.
+1. complete the full first-pass transcription for the story;
+2. keep the page records `needs-review`;
+3. run **one dedicated post-transcription Historical Tamil Glyph Gate** across every page of that story;
+4. explicitly check all 13 minimum families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` and any other suspicious old forms;
+5. record corrections individually from source pixels — never global-replace or modernize;
+6. run a **separate final source/visual closure** after the glyph gate;
+7. do not start the following anthology story until the active story's glyph/source gates close.
+
+The separate glyph gate is intentionally **after transcription**; seeing old forms while transcribing does not count as gate closure.
+
+## Story 1 closure
+
+`பெற்ற பிள்ளையை விற்ற தாய்` is **Tamil/source PASS / CLOSED**:
+
+- scans **7–28 / printed 5–26**
+- first-pass transcription: **22/22 complete**
+- historical-glyph gate: **PASS**
+- final source/visual closure: **PASS**
+- verified pages: **22/22**
+- unresolved historical-glyph candidates: **0**
+- unresolved ordinary source-text items: **0**
+- final audit: `stories/petra-pillaiyai-vitra-thaai/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`
+
+Do not reopen Story 1 without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Duplicate / canonical-identity intake
 
@@ -66,22 +83,23 @@ Do not pre-create the remaining four story folders. Recheck live `main` immediat
 ## Processing state
 
 - collection source registration: **PASS**
-- physical scan map: **95 / 95 structurally mapped**
-- story inventory: **5 / 5 COMPLETE**
-- Story 1 first-pass transcription: **22 / 22 COMPLETE**
-- Story 1 native/high-resolution historical-glyph review: **22 / 22 COMPLETE**
-- Story 1 historical-glyph gate: **PASS**
-- Story 1 unresolved historical-glyph candidates: **0**
-- Story 1 final verified pages: **0 / 22 — final source/visual closure pending**
-- Tamil/source stories closed: **0 / 5**
+- physical scan map: **95/95 structurally mapped**
+- story inventory: **5/5 COMPLETE**
+- Tamil/source stories closed: **1/5**
+- Story 1: **PASS / CLOSED — 22/22 verified**
 - English: **not started**
 
 ## Exact next activity
 
-Run **Story 1 final source/visual closure** for `பெற்ற பிள்ளையை விற்ற தாய்`, scans **7–28 / printed pages 5–26**.
+Prepare Story 2 **`காசா லேசா`**, scans **29–40 / printed pages 27–38**.
 
-The final closure must verify the corrected page records against the scan, phrase/clause/sentence continuity, scan-to-scan boundaries, the scan 28 ending, scan 29 forward boundary, and page-to-assembled agreement. Only then may pages become `verified` and Story 1 become source-closed.
+Before creating any story workspace:
 
-Do **not** begin Story 2 `காசா லேசா` until Story 1 source closure PASSes.
+1. fetch live `main`;
+2. rerun duplicate/canonical-identity search for `காசா லேசா` and distinctive source fragments;
+3. verify scan 29 opening, scan 40 ending and scan 41 forward boundary witness;
+4. only if the route is still new canonical, create its story workspace and begin first-pass transcription;
+5. preserve the opening-heading form `காசா லேசா` separately from later running-header `காசா லேசா!`;
+6. after its transcription is complete, run the same dedicated high-resolution historical-glyph gate before final source/visual closure.
 
 `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete; this 1982 anthology remains the user-authorized interim source.

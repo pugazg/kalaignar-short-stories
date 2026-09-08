@@ -3,14 +3,14 @@
 Physical source: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf`  
 Source scans: **95**  
 Collection stories: **5**  
-Inventory state: **5 / 5 COMPLETE — source openings/endings visually confirmed**
+Inventory state: **5/5 COMPLETE — source openings/endings visually confirmed**
 
 No separate printed contents page was found. Therefore `TOC title` is recorded as **not present** and the inventory is controlled by the actual story-opening heading.
 
 | # | TOC title | Story-opening heading | PDF scan range | Printed-page range | Ending / next-boundary witness | Processing state |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | `பெற்ற பிள்ளையை விற்ற தாய்` | **7–28** | **5–26** | scan 28 terminal star; scan 29 opens `காசா லேசா` | **first-pass 22/22 COMPLETE; glyph gate PASS; final source/visual closure PENDING** |
-| 2 | — | `காசா லேசா` | **29–40** | **27–38** | scan 40 terminal star; scan 41 opens `சீமான் வீட்டு சீக்காளி` | waiting; canonical recheck required on activation |
+| 1 | — | `பெற்ற பிள்ளையை விற்ற தாய்` | **7–28** | **5–26** | scan 28 terminal star; scan 29 opens `காசா லேசா` | **Tamil/source PASS / CLOSED — 22/22 verified** |
+| 2 | — | `காசா லேசா` | **29–40** | **27–38** | scan 40 terminal star; scan 41 opens `சீமான் வீட்டு சீக்காளி` | **NEXT — fresh canonical recheck required** |
 | 3 | — | `சீமான் வீட்டு சீக்காளி` | **41–49** | **39–47** | scan 49 terminal star; scan 50 opens `நந்தியூர் நரியப்பன்` | waiting; canonical recheck required on activation |
 | 4 | — | `நந்தியூர் நரியப்பன்` | **50–58** | **48–56** | scan 58 terminal star; scan 59 opens `முடியாத தொடர்கதை` | waiting; canonical recheck required on activation |
 | 5 | — | `முடியாத தொடர்கதை` | **59–93** | **57–91** | scan 93 terminal star; scan 94 advertisement | waiting; canonical recheck required on activation |
@@ -31,18 +31,18 @@ The collection title and the fifth story both read **`முடியாத த�
 
 ## Repository routing
 
-At intake, GitHub searches on live `main` for all five exact headings and distinctive fragments returned no existing canonical story match. Story 1 was searched again on live `main` immediately before activation; no match existed, so it was routed as new canonical `stories/petra-pillaiyai-vitra-thaai/` with this 1982 range controlling.
+At intake, GitHub searches on live `main` for all five exact headings and distinctive fragments returned no existing canonical story match. Story 1 was searched again on live `main` immediately before activation; no match existed, so it was routed as new canonical `stories/petra-pillaiyai-vitra-thaai/` with this 1982 range controlling. Story 1 is now source-closed.
 
 Stories 2–5 must each be searched again when activated. Do not create their folders in advance.
 
 ## 1982 post-transcription old-glyph rule
 
-For each active story, full transcription comes first. Then a dedicated historical-glyph gate independently inspects every page. That gate has PASSed for Story 1, but Story 1 still requires a separate source/visual closure before the processing order advances.
+For each active story, full transcription comes first. Then a dedicated historical-glyph gate must independently inspect every page, followed by a separate final source/visual closure, before the next anthology story starts.
 
 ## Processing order
 
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — **NEXT: FINAL SOURCE / VISUAL CLOSURE**
-2. `காசா லேசா` — waiting for Story 1 source closure
+1. `பெற்ற பிள்ளையை விற்ற தாய்` — **PASS / CLOSED**
+2. `காசா லேசா` — **NEXT: DUPLICATE / CANONICAL PREFLIGHT, THEN TRANSCRIPTION**
 3. `சீமான் வீட்டு சீக்காளி`
 4. `நந்தியூர் நரியப்பன்`
 5. `முடியாத தொடர்கதை`

@@ -4,10 +4,10 @@ printed_page: 15
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 பூசாரிக்குப் புன் சிரிப்பு...! பூசாரிக்குப் பெருஞ் சிரிப்பு...!
@@ -22,4 +22,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 17; printed page: 15 -->
 
-> Historical-glyph gate: **PASS** — `உடலைத்`, `என்றாள்`, `செயல்தானா` resolved from native/high-resolution old type; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — `உடலைத்`, `என்றாள்`, `செயல்தானா` resolved from native/high-resolution old type; final source/visual closure **PASS**.

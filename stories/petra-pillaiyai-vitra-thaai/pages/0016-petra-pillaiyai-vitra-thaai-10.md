@@ -4,10 +4,10 @@ printed_page: 14
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 “செண்பகம்!...நமக்குப் பிள்ளை பிறந்தால் என்ன பெயரிடுவது?”
@@ -26,4 +26,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 16; printed page: 14 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

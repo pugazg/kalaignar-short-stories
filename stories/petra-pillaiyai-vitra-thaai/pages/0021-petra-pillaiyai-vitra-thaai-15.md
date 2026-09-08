@@ -4,10 +4,10 @@ printed_page: 19
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 பிரேமாவின் எண்ணக் கோட்டைகள் உச்சியை முட்டுமளவு உயர்ந்தன. அடிக்கடி சந்திப்புகள், கொஞ்சு மொழிகள், கோலாகலங்கள் இவைகளுக்கு குறைவேயில்லை.
@@ -26,4 +26,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 21; printed page: 19 -->
 
-> Historical-glyph gate: **PASS** — `இலவுக்காத்தக் கிளி` preserved as source wording; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — `இலவுக்காத்தக் கிளி` preserved as source wording; final source/visual closure **PASS**.

@@ -4,10 +4,10 @@ printed_page: 10
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 “காலம் வரவேண்டாமா?... தசரதனுக்குக் காலம் வந்ததுதானே ஸ்ரீராமர் கருவில் வந்தார். ஜெமீன்தார்வாள்! நம்ப நல்ல காலம் பாருங்கோ... நேற்று நம்ப வீட்டுப் பரண எல்லாம் சுத்தப்படுத்தினேன். அதிலே ஒரு பழைய சுவடி அகப்பட்டதுன்னு...... அதிலே இருக்கு அவிர்ப்பாக ரகசியம்”
@@ -34,4 +34,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 12; printed page: 10 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

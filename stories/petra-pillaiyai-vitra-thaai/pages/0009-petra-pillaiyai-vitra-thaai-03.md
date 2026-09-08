@@ -4,10 +4,10 @@ printed_page: 7
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 “வம்சம் நம்மோடு தீர்ந்தது! நானும் என்னென்னமோ தர்மம் செய்துட்டேன்......... உம்; கடவுள் நினைப்பு எப்படியோ?” ஜெமீன்தாரும் செண்பகவல்லியும் உதிர்த்த சோகத் தொகுப்பு.
@@ -28,4 +28,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 9; printed page: 7 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure **PASS**.

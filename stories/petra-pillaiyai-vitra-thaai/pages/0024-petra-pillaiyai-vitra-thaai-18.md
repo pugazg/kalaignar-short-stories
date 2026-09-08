@@ -4,10 +4,10 @@ printed_page: 22
 story: "petra-pillaiyai-vitra-thaai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 கண்ணபிரான் செய்த விபசாரம் வெளிவரவில்லை. ஆண்மையால் அது மறைக்கப்பட்டு விட்டது. அதற்கு ஜாதித்திரையும் விடப்பட்டது. எதிர்த்த வீட்டுக் கமலா சாந்தாராமை ஏமாற்றி வேறொருவனை மணந்து விபசாரம் என்று கூறப்படவில்லை. காரணம் கமலா வீட்டுத் தயவு பலருக்கு வேண்டியிருந்தது.
@@ -22,4 +22,4 @@ transcription_method: "direct visual transcription from controlling scan; indepe
 
 <!-- anthology scan: 24; printed page: 22 -->
 
-> Historical-glyph gate: **PASS** — `கண்ணபிரானை` decoded from old type; `தெரியாத்தனம்` preserved and `சண்டாளத்தனம்` source-corrected; final source/visual closure pending.
+> Historical-glyph gate: **PASS** — `கண்ணபிரானை` decoded from old type; `தெரியாத்தனம்` preserved and `சண்டாளத்தனம்` source-corrected; final source/visual closure **PASS**.
