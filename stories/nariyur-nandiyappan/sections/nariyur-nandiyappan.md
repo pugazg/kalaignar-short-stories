@@ -1,6 +1,6 @@
-# நரியூர் நந்தியப்பன் — assembled Tamil (first pass)
+# நரியூர் நந்தியப்பன் — assembled Tamil (post-glyph gate)
 
-> **Status:** first-pass transcription complete for scans 55–58 / printed 53–56. All page records remain `needs-review`. The separate native/high-resolution Historical Tamil Glyph Gate is NEXT; this is not yet verified/final text.
+> **Status:** first-pass transcription complete for scans 55–58 / printed 53–56. Independent native/high-resolution Historical Tamil Glyph Gate **PASS 4/4 / 0 corrections / 0 unresolved**. All page records remain `needs-review`; separate final source/visual closure is NEXT. This is not yet final text.
 
 # நரியூர் நந்தியப்பன்
 
@@ -34,4 +34,4 @@
 - scan 56→57: `பழிப் / பதாயிருக்கும்` → assembled `பழிப்பதாயிருக்கும்`
 - scan 57→58: `கருதா / மல்` → assembled `கருதாமல்`
 
-These joins remain subject to the later dedicated glyph gate and final source/visual closure.
+The historical-glyph identities at these boundaries are checked. Full lexical/punctuation/provenance closure of the joins remains for the separate final source/visual pass.
