@@ -10,7 +10,7 @@ Total scans: **95**
 | 3 | — | title page | mapped |
 | 4 | — | publication / bibliographical data | mapped |
 | 5–6 | 3–4 | `பதிப்புரை` | mapped |
-| 7–28 | 5–26 | Story 1 — `பெற்ற பிள்ளையை விற்ற தாய்` | **first-pass transcription 22/22 complete; historical-glyph gate pending; 0/22 final verified** |
+| 7–28 | 5–26 | Story 1 — `பெற்ற பிள்ளையை விற்ற தாய்` | **first-pass 22/22 complete; historical-glyph gate PASS; 0/22 final verified; source/visual closure pending** |
 | 29–40 | 27–38 | Story 2 — `காசா லேசா` | mapped; waiting |
 | 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | mapped; waiting |
 | 50–58 | 48–56 | Story 4 — `நந்தியூர் நரியப்பன்` | mapped; waiting |
@@ -36,6 +36,6 @@ This rule is structural convenience only. Each activated story requires page-lev
 
 ## Next active range
 
-The physical active range remains **Story 1 — scans 7–28 / printed pages 5–26**, but transcription is complete. The exact next pass over this same range is the user-directed **post-transcription Historical Tamil Glyph Gate**.
+The physical active range remains **Story 1 — scans 7–28 / printed pages 5–26**. First-pass transcription and the dedicated high-resolution historical-glyph gate are complete. The exact next pass over this same range is **final source/visual closure**.
 
 Scan 29 remains the forward boundary witness and opens `காசா லேசா`; Story 2 must not begin until Story 1 source closure.

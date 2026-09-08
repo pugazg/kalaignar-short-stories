@@ -9,7 +9,7 @@ No separate printed contents page was found. Therefore `TOC title` is recorded a
 
 | # | TOC title | Story-opening heading | PDF scan range | Printed-page range | Ending / next-boundary witness | Processing state |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | `பெற்ற பிள்ளையை விற்ற தாய்` | **7–28** | **5–26** | scan 28 terminal star; scan 29 opens `காசா லேசா` | **first-pass 22/22 COMPLETE; glyph gate PENDING; not source-closed** |
+| 1 | — | `பெற்ற பிள்ளையை விற்ற தாய்` | **7–28** | **5–26** | scan 28 terminal star; scan 29 opens `காசா லேசா` | **first-pass 22/22 COMPLETE; glyph gate PASS; final source/visual closure PENDING** |
 | 2 | — | `காசா லேசா` | **29–40** | **27–38** | scan 40 terminal star; scan 41 opens `சீமான் வீட்டு சீக்காளி` | waiting; canonical recheck required on activation |
 | 3 | — | `சீமான் வீட்டு சீக்காளி` | **41–49** | **39–47** | scan 49 terminal star; scan 50 opens `நந்தியூர் நரியப்பன்` | waiting; canonical recheck required on activation |
 | 4 | — | `நந்தியூர் நரியப்பன்` | **50–58** | **48–56** | scan 58 terminal star; scan 59 opens `முடியாத தொடர்கதை` | waiting; canonical recheck required on activation |
@@ -37,11 +37,11 @@ Stories 2–5 must each be searched again when activated. Do not create their fo
 
 ## 1982 post-transcription old-glyph rule
 
-For each active story, full transcription comes first. Then a dedicated historical-glyph gate must independently inspect every page before final source closure. Story processing does **not** advance to the next anthology story merely because first-pass transcription is complete.
+For each active story, full transcription comes first. Then a dedicated historical-glyph gate independently inspects every page. That gate has PASSed for Story 1, but Story 1 still requires a separate source/visual closure before the processing order advances.
 
 ## Processing order
 
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — **NEXT: HISTORICAL-GLYPH GATE**
+1. `பெற்ற பிள்ளையை விற்ற தாய்` — **NEXT: FINAL SOURCE / VISUAL CLOSURE**
 2. `காசா லேசா` — waiting for Story 1 source closure
 3. `சீமான் வீட்டு சீக்காளி`
 4. `நந்தியூர் நரியப்பன்`

@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 காட்சி ரம்மியந்தான். தானம் பலந்தான். செலவு அதிகம் தான். ஆனால் புத்திர காமேஷ்டியாகத்தின் பலனும் ‘பூஜ்ய’மாகி விடவேண்டுமா? ஜெமீன்தார் சோகத்தில் மிதந்தார்.
@@ -22,7 +22,7 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 “என்னய்யா செய்ய?”
 
-“எனக்கு ஒன்று பட்றது”
+“எனக்கு ஒண்ணு பட்றது”
 
 “என்ன படுகிறது?”
 
@@ -30,7 +30,7 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 “என்ன நடந்தது... தசரதன் பத்தினிகள் யாரோ ரிஷிகளிடம்.......”
 
-“சே....சே...அந்த ராமாயணம் இல்லேனு!”
+“சே....சே...அந்த ராமாயணம் இல்லேன்னு!”
 
 “வால்மீகி ராமாயணத்திலே அப்படித்தானே இருக்கிறதாம்”
 
@@ -40,4 +40,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 10; printed page: 8 -->
 
-> Historical-glyph gate: **PENDING**.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.

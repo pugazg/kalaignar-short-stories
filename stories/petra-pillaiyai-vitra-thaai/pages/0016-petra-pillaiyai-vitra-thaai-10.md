@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 “செண்பகம்!...நமக்குப் பிள்ளை பிறந்தால் என்ன பெயரிடுவது?”
@@ -16,7 +16,7 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 “என்ன சிரிக்கிறாய்?” மீண்டும் அவள் சிரித்தாள் “சிரிப்பு வந்து சிரித்தேன்.” சீமாட்டியின் சிரிப்பு அடங்கவில்லை. ஜெமீன்தார் அவளை அணைத்துத் தூக்கிக் கொண்டார்.
 
-“என்... கற்கண்டே!... பால்கடலே!... பொற்கொடியே!....” அவர் வாய் குளறிற்று; இப்படி நவயுக வர்ணனை உதிர்த்தார். செண்பகத்தைத் தூக்கிக்கொண்டு ஓடினார்...அவ்வளவுதான். இருவரும் தரையில் சாய்ந்தனர். சீமாட்டி பரபரப்பாக எழுந்தாள். ஜெமீன்தார் முகத்தைச் சிரித்துக்கொண்டே தூக்கினார். அவர் வாய் இரத்த அருவியாகக் காட்சி அளித்தது.
+“என்... கற்கண்டே!... பாற்கடலே!... பொற்கொடியே!....” அவர் வாய் குளறிற்று; இப்படி நவயுக வர்ணனை உதிர்த்தார். செண்பகத்தைத் தூக்கிக்கொண்டு ஓடினார்...அவ்வளவுதான். இருவரும் தரையில் சாய்ந்தனர். சீமாட்டி பரபரப்பாக எழுந்தாள். ஜெமீன்தார் முகத்தைச் சிரித்துக்கொண்டே தூக்கினார். அவர் வாய் இரத்த அருவியாகக் காட்சி அளித்தது.
 
 வரதாச்சாரி தயாரிப்பதாகச் சொல்லி...மருதமுத்து விடம் வாங்கிக் கொடுத்த “பிள்ளை வர மருந்து” தன் வேலையை முடித்துக்கொண்டது. குண்டடிபட்ட சிங்கம் போல...ஜெமீன்தார் ஒருமுறை வாய் திறந்தார்...பிறகு திறக்கவேயில்லை.
 
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 16; printed page: 14 -->
 
-> Historical-glyph gate: **PENDING**.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.

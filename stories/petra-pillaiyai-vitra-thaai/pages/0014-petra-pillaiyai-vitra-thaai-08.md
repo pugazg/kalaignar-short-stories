@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 போன்ற காட்சி. இடையிடையே மின்னலின் வைர வெட்டுக்கள் சில தீக்கோடுகள் கிழிக்கின்றன. அந்தத் திடீர் வெளிச்சத்தில்...ஓர் உருவம் அசைவது தெரிகிறது. கைகால்கள் இரண்டிரண்டு தான்! அதனால் அது மாரியின் உலவல் அல்ல. உருவம் கோயில் கதவண்டை வந்து நிற்கிறது. கதவு திறக்கப்படுகிறது. உருவம் கர்ப்பக்கிரகத்தில் நுழைகிறது. ஜெமீன்தார் செய்து வைத்த பொன் விளக்கின் ஒளியில்—அந்த உருவம், பூசாரி முத்துதான் என்று கண்டு பிடிக்க முடிகிறது.
@@ -24,4 +24,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 14; printed page: 12 -->
 
-> Historical-glyph gate: **PENDING** — sanctum wording and old vowel/consonant forms require native-pixel reread.
+> Historical-glyph gate: **PASS** — `கர்ப்பக்கிரகத்தில்` confirmed from source; final source/visual closure pending.

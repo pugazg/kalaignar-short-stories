@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 “பேஷா!...... ஜெமீன்தாரையே... சாப்பிடச் சொல்றேன். மருதமுத்தா...கண்டிப்பா பிள்ளை பிறக்குமா?”
@@ -18,7 +18,7 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 “மருந்து பலன் அளிச்சா...நான் பொழைச்ச மாதிரி...என்னமோ மகமாயி இருக்கா”
 
-“ஆனு...மருதமுத்து...மருந்து நீ கொடுத்ததா...ஜெமீன்தாருகிட்டே சொல்லி விடாதே”
+“ஆனா...மருதமுத்து...மருந்து நீ கொடுத்ததா...ஜெமீன்தாருகிட்டே சொல்லி விடாதே”
 
 “நான்...யாருகிட்டேயும் சொல்ற விஷயமில்லிங்க இது! நீங்களே...பேரு வாங்குங்க”
 
@@ -30,4 +30,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 15; printed page: 13 -->
 
-> Historical-glyph gate: **PENDING**.
+> Historical-glyph gate: **PASS** — historical `னா` identity decoded in `ஆனா`; final source/visual closure pending.

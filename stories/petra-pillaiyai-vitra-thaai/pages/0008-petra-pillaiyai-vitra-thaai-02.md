@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 “குழலினது யாழ் இனிது என்பார் தம்மக்கள் மழலை மொழி கேளாதார்”
@@ -34,4 +34,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 8; printed page: 6 -->
 
-> Historical-glyph gate: **PENDING** — quoted குறள் and all old-form clusters must be checked from source, not memory.
+> Historical-glyph gate: **PASS** — quoted குறள் preserved from source rather than normalized from memory; final source/visual closure pending.

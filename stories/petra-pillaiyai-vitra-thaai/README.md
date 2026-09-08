@@ -18,29 +18,32 @@ A live-main duplicate/canonical search was rerun immediately before activation a
 
 ## Tamil/source state
 
-**FIRST-PASS TRANSCRIPTION COMPLETE — HISTORICAL-GLYPH GATE PENDING.**
+**FIRST-PASS TRANSCRIPTION COMPLETE — HISTORICAL-GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE PENDING.**
 
 - physical story pages: **22 / 22**
 - first-pass page transcriptions: **22 / 22 complete**
-- page status after transcription: **22 / 22 `needs-review`**
+- native/high-resolution historical-glyph review: **22 / 22 complete**
+- historical-glyph gate: **PASS**
+- unresolved historical-glyph candidates: **0**
+- page status: **22 / 22 `needs-review` pending final source/visual closure**
 - pages promoted to final `verified`: **0 / 22**
 - assembled Tamil: [`sections/petra-pillaiyai-vitra-thaai.md`](sections/petra-pillaiyai-vitra-thaai.md)
-- post-transcription historical-glyph gate: **PENDING**
-- English: **not started**
+- English: **not started / not eligible until Tamil source closure**
 
-The user explicitly directed that this old-type 1982 book must have a **separate historical-Tamil-glyph gate after transcription**. Accordingly, transcription completion does not close or verify the story.
+The user explicitly directed that this old-type 1982 book have a **separate historical-Tamil-glyph gate after transcription**. That gate has now PASSed after reopening every scan **7–28** at native/high resolution and checking the 13 minimum old-form families plus other suspicious clusters.
 
-## Mandatory post-transcription gate
+Passing the glyph gate is intentionally not the same as final page verification. The pages remain `needs-review` until the separate source/visual closure checks phrase/clause/sentence fidelity, physical page boundaries, the story ending, and page-to-assembled consistency.
 
-Control: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+## Historical-glyph controls
 
-The gate must reopen all scans **7–28** at native/high resolution and explicitly check the known minimum historical families:
+- gate record: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md) — **PASS**
+- review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) — **CLOSED / 0 unresolved glyph candidates**
+
+Minimum families checked on every page:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Every correction must be proved from source pixels, recorded individually, and synchronized into both the page record and assembled Tamil. No global replacement, lexical modernization or context-only guessing is allowed.
-
-Only after this gate **PASSes** may the pages advance toward final Tamil/source verification.
+Corrections were source-pixel-supported and individually logged; no global replacement, lexical modernization or context-only guessing was used. Source-odd forms such as `முருங்கை மிலார்`, `தெரியாத்தனம்`, and the source's quoted குறள் wording were preserved where the high-resolution scan confirmed them.
 
 ## Controls
 
@@ -52,4 +55,12 @@ Only after this gate **PASSes** may the pages advance toward final Tamil/source 
 
 ## Exact next activity
 
-Run the **post-transcription Historical Tamil Glyph Gate** across scans **7–28 / printed 5–26**. Do not start Story 2 `காசா லேசா` until this Story-1 gate and subsequent Story-1 source closure are complete.
+Run **Story 1 final source/visual closure** across scans **7–28 / printed pages 5–26**:
+
+1. compare every page record against the controlling scan after glyph corrections;
+2. verify phrase/clause/sentence continuity and all scan-to-scan continuations;
+3. verify physical page markers and the scan 28 ending against boundary witness scan 29;
+4. verify page records and assembled Tamil agree exactly after corrections;
+5. promote pages to `verified` only if the final source/visual gates PASS and unresolved source-text items are 0.
+
+Do not start Story 2 `காசா லேசா` until Story 1 is source-closed.

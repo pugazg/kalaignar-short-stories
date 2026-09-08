@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 பிரேமாவின் எண்ணக் கோட்டைகள் உச்சியை முட்டுமளவு உயர்ந்தன. அடிக்கடி சந்திப்புகள், கொஞ்சு மொழிகள், கோலாகலங்கள் இவைகளுக்கு குறைவேயில்லை.
@@ -22,8 +22,8 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 பிரேமா கண்ணபிரானின் ஆலிங்கனத்திலேயே மெய்மறந்து விடுவாள். அதையே சொர்க்கமென்று நினைப்பாள். “காதலின் வலிவுதான் என்னே! கேவலம் ஒரு குடியானவன் வீட்டுப் பெண்ணே உயர்குடிப் பிறந்த வரதாச்சாரியாரின் மகன் மணந்துகொள்ளுவதாகச் சத்தியம் செய்வதென்றால் காதல் தெய்வீகம் பொருந்தியது என்று ஏன் சொல்லக்கூடாது?” என்று தனக்குள்ளேயே கேட்டுக்கொள்வாள்.
 
-காதல் வளர்ந்தது; கொழுந்துவிட்டெரிந்தது; அரும்பின் முனைப்பிடிப்புகள் விலகின; மலர் மனம் சிந்திற்று;
+காதல் வளர்ந்தது; கொழுந்துவிட்டெரிந்தது; அரும்பின் முனைப்பிடிப்புகள் விலகின; மலர் மணம் சிந்திற்று;
 
 <!-- anthology scan: 21; printed page: 19 -->
 
-> Historical-glyph gate: **PENDING** — source-odd idiom and old-form families require post-transcription check.
+> Historical-glyph gate: **PASS** — `இலவுக்காத்தக் கிளி` preserved as source wording; final source/visual closure pending.

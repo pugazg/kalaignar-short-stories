@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 யில் ஆண்டவன் தீயில் பார்த்ததைப் போட்டவில்லை. வாழ்க்கையில் ஏற்பட்ட வேதனை அவளாகத் தேடிக் கொண்டது என்பதை உணர்ந்தாள்; உணர்ந்தபின்தான் சேதுபவனத்தை நாடிவந்தாள்.
@@ -20,4 +20,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 18; printed page: 16 -->
 
-> Historical-glyph gate: **PENDING**.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.

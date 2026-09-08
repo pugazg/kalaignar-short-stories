@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 “என்ன?”
@@ -40,4 +40,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 11; printed page: 9 -->
 
-> Historical-glyph gate: **PENDING**.
+> Historical-glyph gate: **PASS** — `அவிர்ப்பாகம்` wording confirmed from source; final source/visual closure pending.

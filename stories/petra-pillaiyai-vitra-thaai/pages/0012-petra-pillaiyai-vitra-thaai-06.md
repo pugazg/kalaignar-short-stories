@@ -7,14 +7,14 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass from controlling scan; post-transcription historical-glyph gate pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS"
 ---
 
 “காலம் வரவேண்டாமா?... தசரதனுக்குக் காலம் வந்ததுதானே ஸ்ரீராமர் கருவில் வந்தார். ஜெமீன்தார்வாள்! நம்ப நல்ல காலம் பாருங்கோ... நேற்று நம்ப வீட்டுப் பரண எல்லாம் சுத்தப்படுத்தினேன். அதிலே ஒரு பழைய சுவடி அகப்பட்டதுன்னு...... அதிலே இருக்கு அவிர்ப்பாக ரகசியம்”
 
 “செய்யும் முறை?”
 
-“சாமான்யமில்லேனு, ரொம்ப சிரமம்.”
+“சாமான்யமில்லேன்னு, ரொம்ப சிரமம்.”
 
 “பணந்தானே செலவாகும்!”
 
@@ -34,4 +34,4 @@ transcription_method: "direct visual first-pass from controlling scan; post-tran
 
 <!-- anthology scan: 12; printed page: 10 -->
 
-> Historical-glyph gate: **PENDING**.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; final source/visual closure pending.
