@@ -1,0 +1,1 @@
+This staging note will be removed before closure; it exists only to anchor a contents-API synchronization pass.
