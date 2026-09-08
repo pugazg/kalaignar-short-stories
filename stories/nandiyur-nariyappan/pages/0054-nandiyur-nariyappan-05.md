@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 டாலும் அப்படிப்பட்ட சங்கடமான சூழ்நிலையில்தான் பஞ்சாயத்துக்காரர் அந்தப் பதவியில் சிலநாள் அமர்ந்திருப்பது வழக்கம். ஆனால்; நான் அந்த வழக்கத்தை மாற்றி; தங்களையே ஒப்பக்காரர் என்று ஊரார் சொல்லுமளவுக்குச் செய்துவிட்டு; எனது பழைய பட்டத்தை, மக்கள் மறந்துவிடாமல் பாதுகாத்துக் கொள்ளப் போகிறேன். தாங்கள் இதை மறுக்க மாட்டீர்கள் என்று திடமாக நம்புகிறேன். இந்த விஷயத்தில் என்னை யாரும் குறை சொல்ல முடியாது. நந்தியூர் நாட்டாண்மைக்காரர்களுக்கு இந்த ‘விக்கிரமாதித்த முறை’ பிடிக்காமல் இருக்குமேயானால்; அவர்கள் புத்திசாலித்தனமாக ஒப்பக்காரர் பதவியையே ஒழித்துக் கட்டிவிட்டு நல்ல பெயர் வாங்கிக் கொள்ளலாம். அதற்கு அவர்களுக்கு விருப்பமில்லையென்றால் நான் சத்தியமாகச் சொல்லுகிறேன்; அந்த நாட்டாண்மைக்காரர்கள் எழுதிக் கொடுப்பதை ஊரார் முன்னே படித்துக் காட்டுவதற்கு நானல்ல ஆள் என்பதையும் அவர்கள் புரிந்து கொள்ளட்டும். இந்த என் முடிவு, தங்களுக்கு எல்லையற்ற பூரிப்பை அளிக்குமேயானால் நான் புன்னகை புரிவேன்.
@@ -20,4 +20,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 54; printed page: 52 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete with no glyph correction required; final source/visual closure pending; page remains `needs-review`.

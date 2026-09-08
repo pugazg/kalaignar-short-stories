@@ -39,12 +39,10 @@ Source: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` 
 
 ### Corrected inventory — 6 stories
 
-A direct source reinspection on 2026-09-08 corrected the earlier mistaken five-story map:
-
 1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans 7–28 / pp.5–26 — **PASS / CLOSED — 22/22 verified**
 2. `காசா லேசா` — scans 29–40 / pp.27–38 — **PASS / CLOSED — 12/12 verified**
 3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 / pp.39–47 — **PASS / CLOSED — 9/9 verified**
-4. `நந்தியூர் நரியப்பன்` — scans **50–54 / pp.48–52** — **FIRST PASS 5/5 COMPLETE; GLYPH GATE NEXT**
+4. `நந்தியூர் நரியப்பன்` — scans **50–54 / pp.48–52** — **GLYPH GATE PASS 5/5; FINAL SOURCE/VISUAL CLOSURE NEXT**
 5. `நரியூர் நந்தியப்பன்` — scans **55–58 / pp.53–56** — waiting
 6. `முடியாத தொடர்கதை` — scans **59–93 / pp.57–91** — waiting
 
@@ -54,29 +52,33 @@ Boundary correction is source-proven: scan 54 terminal star; scan 55 new stylize
 
 Workspace: `stories/nandiyur-nariyappan/`
 
-- fresh canonical search against live main before activation: **PASS — new canonical**;
+- activation duplicate/canonical search: **PASS — new canonical**;
 - scan 50 opening display: `நந்தியூர் நரியப்பன்`;
 - scans 52/54 running header: `நரியூர் நந்தியப்பன்` — source-layer header only;
 - scan 54 terminal star;
 - scan 55 distinct Story-5 opening `நரியூர் நந்தியப்பன்`, excluded;
 - first-pass transcription: **5/5 COMPLETE**;
+- dedicated native/high-resolution Historical Tamil Glyph Gate: **PASS 5/5**;
+- historical-glyph corrections required: **0**;
+- unresolved historical-glyph candidates: **0**;
+- gate record: `stories/nandiyur-nariyappan/HISTORICAL_GLYPH_GATE.md`;
 - page status: **5/5 `needs-review`**;
-- assembled Tamil: **complete / synchronized**;
-- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**;
-- final source/visual closure: **not started**;
+- assembled Tamil: **synchronized / post-glyph gate**;
+- final source/visual closure: **NOT STARTED / NEXT**;
 - English: **not started**.
 
-## Exact next activity — Story 4 Historical Tamil Glyph Gate
+Source-odd forms deliberately retained at the glyph gate include `நானிலமெங்கணும்`, `ஆடம்பரந் ததும்பும்`, `தங்கப்பூண்`, `மகிழ்ச்சி கரமான`, `இப்படி யொரு`, `நாடாறுமாதம்`, `காடாறுமாதம்`, `பஞ்சணையின்`, and `விக்கிரமாதித்த முறை`.
 
-1. fetch live `main`;
-2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-4 README/metadata/page-map/review queue, all five page records and assembled Tamil;
+## Exact next activity — Story 4 final source/visual closure
+
+1. fetch live `main` and preserve newer durable work;
+2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-4 README/metadata/page-map/glyph-gate/review queue, all five page records and assembled Tamil;
 3. resolve the controlling PDF;
-4. reopen scans **50–54** independently at native/high resolution;
-5. explicitly inspect `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus suspicious old ligatures;
-6. record every correction individually; no global replacement or modernization;
-7. synchronize page records and assembled Tamil;
-8. if zero glyph candidates remain unresolved, record gate PASS;
-9. keep all five page records `needs-review`;
-10. **hard stop: no final source/visual closure and no Story 5 in the same activity.**
+4. directly reread scans **50–54** at native/high resolution for full lexical, punctuation, spacing and source-odd fidelity;
+5. keep the Historical Tamil Glyph Gate closed; ordinary final-pass corrections must remain a separate layer;
+6. verify cross-page continuations `இன்றைக் / கும்` and `காலமாகிவிட் / டாலும்`;
+7. recheck scan 50 opening, scans 52/54 running-header distinction, scan 54 terminal star and scan 55 next-story exclusion;
+8. only if zero ordinary source-text items remain unresolved, promote 5/5 pages to `verified`, create `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`, and close Story 4;
+9. **hard stop: do not start Story 5 in the same activity.**
 
-Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
+Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.

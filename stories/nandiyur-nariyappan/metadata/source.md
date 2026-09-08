@@ -28,6 +28,11 @@ Scans 52 and 54, while still physically inside this story, carry the running hea
 
 ## Current transcription state
 
-First-pass source transcription is complete for all **5/5** pages. All records remain **`needs-review`**. The separate native/high-resolution Historical Tamil Glyph Gate has **not started** and is the exact next activity.
+- first-pass transcription: **5/5 COMPLETE**;
+- independent native/high-resolution Historical Tamil Glyph Gate: **PASS 5/5**;
+- historical-glyph corrections required: **0**;
+- unresolved historical-glyph candidates: **0**;
+- all page records remain **`needs-review`**;
+- separate final source/visual closure: **NEXT / not started**.
 
 The controlling scan decides all source readings. OCR, memory, expected Tamil and contextual modernization are not authorities.

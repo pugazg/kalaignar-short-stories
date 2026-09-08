@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 கேள்விப்பட்ட பிறகு, நானே அந்தப் பதவிக்கு வருவதை எவ்வளவு தர்மசங்கடமாகக் கருதுவேன் என்பதைத் தாங்கள் அறிவீர்கள். தங்கப்பூண் போட்ட கைத்தடியை வாங்கிக் கொண்டு தடிக்கம்பு ஒன்றைக் கையிலே கொடுத்தது போல் ஆகிவிட்டது என் கதை! அந்தத் தடிக்கம்பாவது பாம்பு அடிக்க உதவுமா என்றால் நிச்சயம் உதவாது; உங்கள் நந்தியூரில் என் மீது திணிக்கப்பட்டுள்ள பதவிக்கு என்ன தான் வேலை? ஆற்ற வேண்டிய பணி என்ன? வெறும் “ஒப்பக்காரர்” வேலை தான்!
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 52; printed page: 50 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete with no glyph correction required; final source/visual closure pending; page remains `needs-review`.

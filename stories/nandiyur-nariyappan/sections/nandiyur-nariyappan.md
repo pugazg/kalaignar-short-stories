@@ -1,6 +1,6 @@
-# நந்தியூர் நரியப்பன் — assembled Tamil (first pass)
+# நந்தியூர் நரியப்பன் — assembled Tamil (post-glyph gate)
 
-> **Status:** first-pass transcription complete for scans 50–54 / printed 48–52. All page records remain `needs-review`. The separate native/high-resolution Historical Tamil Glyph Gate is NEXT; this is not yet verified/final text.
+> **Status:** first-pass transcription complete for scans 50–54 / printed 48–52. Independent native/high-resolution Historical Tamil Glyph Gate: **PASS 5/5 / 0 unresolved / 0 corrections required**. All page records remain `needs-review`; the separate final source/visual closure is NEXT. This is not yet verified/final text.
 
 # நந்தியூர் நரியப்பன்
 

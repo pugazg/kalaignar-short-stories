@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 வளர்ந்துவிட்ட எனக்கு, நான் சொல்வதே வேதம் என்று நவில்வதற்கு நரியூர் மக்கள் காத்திருக்கும்போது, நந்தியூர் நாட்டாண்மைக்காரர்களின் பாதுகாப்புக் கேடயமாக விளங்கும் பதவி எதற்காக?
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 53; printed page: 51 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete with no glyph correction required; final source/visual closure pending; page remains `needs-review`.
