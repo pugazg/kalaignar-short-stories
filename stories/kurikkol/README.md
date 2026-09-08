@@ -7,4 +7,6 @@ Story **16 / 25**, distinct 1987 canonical identity.
 - Tamil source audit: **PASS**
 - historical-glyph audit: **PASS**
 - unresolved lexical/glyph locations: **0**
-- English: **not authorized**
+- English: **PASS** — `translations/en/kurikkol.md`
+- English review / physical source-page anchoring: **PASS**
+- Tamil changed during translation: **No**

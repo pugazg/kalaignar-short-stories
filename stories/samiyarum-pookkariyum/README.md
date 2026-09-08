@@ -5,4 +5,7 @@ Story **12 / 25**, distinct 1987 canonical identity.
 - physical span: **lower scan 24 → upper scan 25**
 - Tamil source transcription: **verified** after Pass 1 + independent native/high-resolution Pass 2
 - unresolved lexical/glyph locations: **0**
-- English: **not authorized**
+- English: **PASS** — `translations/en/samiyarum-pookkariyum.md`
+- English review: **PASS** — `TRANSLATION_REVIEW.md`
+- physical source-page anchoring: **PASS**
+- Tamil changed during translation: **No**

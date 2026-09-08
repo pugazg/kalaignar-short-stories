@@ -6,4 +6,6 @@ Story **20 / 25**, distinct 1987 canonical identity.
 - Tamil source transcription: **verified** after Pass 1 + independent native/high-resolution Pass 2
 - source illustration on scan 40: recorded
 - unresolved lexical/glyph locations: **0**
-- English: **not authorized**
+- English: **PASS** — `translations/en/valvil-ori.md`
+- English review / physical source-page anchoring: **PASS**
+- Tamil changed during translation: **No**

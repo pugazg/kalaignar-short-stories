@@ -7,4 +7,6 @@ Story **18 / 25** in the 1987 `கலைஞர் சொன்ன குட்�
 - Tamil source transcription: **complete / verified** after Pass 1 + independent native/high-resolution Pass 2
 - historical-glyph audit: **PASS**
 - unresolved lexical/glyph locations: **0**
-- English: **not authorized**
+- English: **PASS** — `translations/en/jayathrathanin-veezhchi.md`
+- English review / physical source-page anchoring: **PASS**
+- Tamil changed during translation: **No**
