@@ -19,16 +19,16 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 
 ## Corrected story inventory — 6 / 6 registered
 
-A direct source reinspection on **2026-09-08**, prompted by the user, corrected the earlier mistaken 5-story map. Scan 54 closes `நந்தியூர் நரியப்பன்`; scan 55 opens the distinct story `நரியூர் நந்தியப்பன்`; scan 58 closes it; scan 59 opens `முடியாத தொடர்கதை`.
+A direct source reinspection on **2026-09-08**, prompted by the user, corrected the earlier mistaken 5-story map.
 
 | # | Opening heading | PDF scans | Printed pages | Repository state |
 |---:|---|---:|---:|---|
 | 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **Tamil/source PASS / CLOSED — 22/22 verified** |
 | 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
-| 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **HISTORICAL-GLYPH GATE PASS 5/5 — FINAL SOURCE/VISUAL CLOSURE NEXT** |
-| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | waiting; fresh canonical recheck required on activation |
-| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting; fresh canonical recheck required on activation |
+| 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **Tamil/source PASS / CLOSED — 5/5 verified** |
+| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **NEXT — fresh canonical recheck + first-pass transcription** |
+| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting; fresh canonical recheck required |
 
 Story-4 source-layer note: scans 52 and 54 carry running header `நரியூர் நந்தியப்பன்`; scan 55 begins the separate Story 5 with that same wording as its stylized opening. Terminal-star/new-opening evidence controls the boundary.
 
@@ -45,38 +45,27 @@ No global replacement, silent modernization or context-only correction.
 - Story 1 `பெற்ற பிள்ளையை விற்ற தாய்` — **PASS / CLOSED**, 22/22 verified.
 - Story 2 `காசா லேசா` — **PASS / CLOSED**, 12/12 verified.
 - Story 3 `சீமான் வீட்டு சீக்காளி` — **PASS / CLOSED**, 9/9 verified.
+- Story 4 `நந்தியூர் நரியப்பன்` — **PASS / CLOSED**, 5/5 verified; Historical Tamil Glyph Gate PASS 5/5; final source/visual closure PASS 5/5; 0 unresolved source/glyph items.
 
-Do not reopen Stories 1–3 without genuinely stronger source evidence or an explicit maintenance request.
+Story-4 final audit: `stories/nandiyur-nariyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-## Story 4 — current durable state
-
-Workspace: `stories/nandiyur-nariyappan/`
-
-- fresh live-main duplicate/canonical search: **PASS — no existing match**;
-- physical range: **scans 50–54 / printed 48–52**;
-- scan 50 opening heading: `நந்தியூர் நரியப்பன்`;
-- scan 54 terminal star: verified boundary witness;
-- scan 55 forward witness: distinct new story `நரியூர் நந்தியப்பன்`, excluded;
-- first-pass transcription: **5/5 COMPLETE**;
-- Historical Tamil Glyph Gate: **PASS 5/5**;
-- historical-glyph corrections: **0**;
-- unresolved historical-glyph candidates: **0**;
-- page status: **5/5 `needs-review`**;
-- assembled Tamil: **synchronized / post-glyph gate**;
-- final source/visual closure: **NEXT / not started**;
-- English: **not started**.
+Do not reopen Stories 1–4 without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Processing state
 
 - collection source registration: **PASS**
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **6/6 COMPLETE**
-- Tamil/source stories closed: **3/6**
-- Story 4: **glyph gate PASS; final source/visual closure NEXT**
+- Tamil/source stories closed: **4/6**
+- next anthology story: **Story 5 `நரியூர் நந்தியப்பன்`**
 - English: **not started**
 
 ## Exact next activity
 
-Run Story 4's **separate final source/visual closure** across scans **50–54**. Re-read full phrases/clauses/sentences, punctuation, spacing, source-odd forms, cross-page joins and physical provenance. Keep the historical-glyph gate closed. Only if zero ordinary source-text items remain unresolved may all five pages become `verified` and Story 4 close.
+Begin Story 5 **`நரியூர் நந்தியப்பன்`** only after fetching live `main` and rerunning the required duplicate/canonical-identity search.
 
-Do not start Story 5 `நரியூர் நந்தியப்பன்` in that same activity. `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
+Physical range: scans **55–58 / printed 53–56**; scan **58** carries the terminal star; scan **59 / printed 57** opens Story 6 `முடியாத தொடர்கதை` and is the forward-boundary witness.
+
+The next activity is Story-5 activation + source-faithful **first-pass transcription only**. Keep every Story-5 page `needs-review`; do not run its Historical Tamil Glyph Gate until the complete first pass is durably present. Do not pre-create Story 6.
+
+`நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
