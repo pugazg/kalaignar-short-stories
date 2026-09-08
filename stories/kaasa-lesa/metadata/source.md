@@ -32,8 +32,8 @@
 
 ## Current transcription state
 
-First-pass source transcription has been completed for all **12 / 12** story pages directly from the controlling scans. All page records remain **`needs-review`** because the user requires a separate post-transcription Historical Tamil Glyph Gate for this old-type edition.
+First-pass source transcription is complete for all **12 / 12** story pages. The required separate native/high-resolution Historical Tamil Glyph Gate has now also **PASSed 12 / 12** with **0 unresolved historical-glyph candidates**.
 
-The historical-glyph gate is deliberately **not folded into the transcription pass**. It must independently reopen scans 29–40 at native/high resolution before any page is promoted to final `verified`.
+Three source-pixel character-identity corrections were synchronized across page records and the assembled Tamil: `காலணா` (`ணா`), `வாறே` (`றே`), and `ஊழலை` (`லை`). No global replacement or lexical modernization was used.
 
-OCR, memory and expected modern wording are not authorities. The scan remains controlling.
+All page records remain **`needs-review`** because the separate final source/visual closure has not yet run. OCR, memory and expected modern wording are not authorities. The scan remains controlling.

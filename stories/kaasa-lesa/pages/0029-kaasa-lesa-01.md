@@ -7,7 +7,7 @@ page_type: "story-opening"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 # காசா லேசா
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 29; printed page: 27 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.

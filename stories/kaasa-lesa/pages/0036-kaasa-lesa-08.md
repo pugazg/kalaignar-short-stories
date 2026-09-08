@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 பார்த்திருக்கிறேன்—அந்த அணியில் இப்படியும் ஒரு பிறவியா?” என்று ஆவேசம் கொப்பளிக்கக் கேள்விக் கணை எழுப்புகிறான். அதற்கு இன்ஸ்பெக்டர் லஞ்சய்யா வெகு மென்மையான பதில் ஒன்றை மிக பண்பாகக் கூறுகிறார். “அவர்கள் எல்லாம் பிழைக்கத் தெரியாத போலீஸ் அதிகாரிகள். காற்றுள்ள போதே தூற்றிக் கொள்ள வேண்டும் என்ற முதுமொழியைக் கடைபிடிப்பவன் நான்; அதுல நீயும் தப்பலாம்; ஐம்பது இருந்தால் எடு!”
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 36; printed page: 34 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.

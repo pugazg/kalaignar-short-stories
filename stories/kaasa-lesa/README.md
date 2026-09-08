@@ -25,12 +25,15 @@ These are source-layer variants and are not silently normalized into one form.
 
 ## Tamil/source state
 
-**FIRST PASS COMPLETE — HISTORICAL-GLYPH GATE PENDING.**
+**HISTORICAL-GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE PENDING.**
 
 - physical story pages: **12/12**
 - first-pass page transcriptions: **12/12 complete**
 - page status: **12/12 `needs-review`**
-- independent native/high-resolution historical-glyph review: **0/12 closed**
+- independent native/high-resolution historical-glyph review: **12/12 complete**
+- historical-glyph gate: **PASS**
+- unresolved historical-glyph candidates: **0**
+- source-pixel glyph corrections: **3** — `காலணா`, `வாறே`, `ஊழலை`
 - final source/visual closure: **not started**
 - English: **not started**
 
@@ -41,8 +44,9 @@ The user's 1982 phase rule requires the complete transcription to exist before a
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - first-pass assembled Tamil: [`sections/kaasa-lesa.md`](sections/kaasa-lesa.md)
-- possible-error / glyph review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+- possible-error / glyph review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) — **CLOSED for glyph identity / 0 unresolved**
 
 ## Exact next activity
 
-Run the dedicated native/high-resolution Historical Tamil Glyph Gate across scans **29–40**, explicitly checking `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` and other suspicious old forms. Record corrections individually; never global-replace or modernize. Keep Story 3 closed until Story 2 has subsequently passed its separate final source/visual closure.
+Run the **separate final source/visual closure** across scans **29–40**. Recheck full phrase/clause/sentence fidelity, punctuation/spacing, cross-page continuations, scan 40 terminal star, scan 41 forward-boundary exclusion, page records versus assembled Tamil, and all ordinary source-text uncertainties. Keep all pages `needs-review` until that closure PASSes. Do not start Story 3 in the same activity.

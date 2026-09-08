@@ -7,10 +7,10 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
-பிரிட்டன், ஜப்பான், பிரான்சு போன்ற தேசங்களின் மேலே பறக்கிறது. அந்த நாட்டு மக்கள் எல்லாம் ஆகாயத்தை அண்ணாந்து பார்த்துக் கொண்டு, விமானம் இறங்குவதை எதிர்நோக்குகிறார்கள். விமானத்திலிருந்து வாரே ஒலிபெருக்கியின் மூலம் லஞ்சய்யா பேசுகிறார். அதை அந்தந்த நாட்டு மக்களும் கேட்கிறார்கள்.
+பிரிட்டன், ஜப்பான், பிரான்சு போன்ற தேசங்களின் மேலே பறக்கிறது. அந்த நாட்டு மக்கள் எல்லாம் ஆகாயத்தை அண்ணாந்து பார்த்துக் கொண்டு, விமானம் இறங்குவதை எதிர்நோக்குகிறார்கள். விமானத்திலிருந்து வாறே ஒலிபெருக்கியின் மூலம் லஞ்சய்யா பேசுகிறார். அதை அந்தந்த நாட்டு மக்களும் கேட்கிறார்கள்.
 
 “ஓ...என் நண்பர்களே! என் பாதம் உங்கள் நாட்டில் படுவதென்றால் சாமான்யமல்ல; என் குடும்பத்தார் நடத்தும் கம்பெனிகளுக்கு நீங்கள் ஏஜண்டு உரிமை தரவேண்டும். என் புதல்வர்களின் தொழில் வளர எல்லா உதவிகளும் செய்ய வேண்டும். அப்படி நீங்கள் வாக்களித்தால் தான் நான் உங்கள் நாட்டு விமான நிலையத்தில் காலவைப்பேன், என்ன சொல்கிறீர்கள்; பதவியைத் துஷ்பிரயோகம் செய்யாத என் பண்பைப் பாராட்டி என் சிபாரிசுகளை மதிக்கிறீர்களா?”
 
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 31; printed page: 29 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.

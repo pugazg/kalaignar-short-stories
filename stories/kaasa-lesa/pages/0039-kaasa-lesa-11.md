@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 ஒரு வேலையும் அறியாத நான்; திருவுளச் சீட்டின் மூலம் மிகப்பாடுபட்டு இந்த லட்ச ரூபாய் வீட்டையும், ஐம்பதாயிரம் ரூபாய் நிலத்தையும் சேர்த்து வைத்திருக்கிறேன். அது என் சந்ததிக்குப் போதுமா? அதனால் ஒரு நிபந்தனை; நான் உன்னோடு வருவதாக இருந்தால் ஐந்து லட்ச ரூபாய்க்கு இப்போதே “செக்” தரவேண்டும்.
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 39; printed page: 37 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.

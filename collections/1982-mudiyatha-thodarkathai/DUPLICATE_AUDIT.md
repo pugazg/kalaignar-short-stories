@@ -4,10 +4,6 @@ Date: **2026-09-08**
 Repository checked: `pugazg/kalaignar-short-stories`  
 Branch authority: live `main`
 
-## Purpose
-
-Prevent creation of duplicate canonical story folders while processing the five-story anthology `முடியாத தொடர்கதை`.
-
 ## Intake result
 
 | # | 1982 opening heading | Existing canonical match found at intake? | Intake routing |
@@ -18,35 +14,28 @@ Prevent creation of duplicate canonical story folders while processing the five-
 | 4 | `நந்தியூர் நரியப்பன்` | **No** | new canonical candidate |
 | 5 | `முடியாத தொடர்கதை` | **No** | new canonical candidate |
 
-**Intake duplicate gate: PASS — no existing repository match was found for any of the five headings.**
-
-Additional intake fragment searches included `பிள்ளையை விற்ற` and `சீக்காளி`.
+**Intake duplicate gate: PASS.** Additional intake fragment searches included `பிள்ளையை விற்ற` and `சீக்காளி`.
 
 ## Story 1 activation recheck — PASS
 
-Immediately before creating Story 1, live `main` was fetched at commit `92207d2e2cecdeabe258cfc49cb633d2a017c61e` and the exact heading **`பெற்ற பிள்ளையை விற்ற தாய்`** was searched again. No existing canonical repository match was returned.
+Immediately before Story 1 activation, live `main` was rechecked and no canonical match existed. Story 1 therefore became new canonical `stories/petra-pillaiyai-vitra-thaai/`, controlled by scans **7–28 / printed 5–26**.
 
-Routing therefore remained:
+## Story 2 activation recheck — PASS
 
-- new canonical workspace: `stories/petra-pillaiyai-vitra-thaai/`
-- controlling source: 1982 `முடியாத தொடர்கதை`, scans **7–28 / printed 5–26**.
+Immediately before creating Story 2, live `main` was fetched at `46882033f1049d23beba27e9b2d765d851f0b9ce`. Fresh searches for exact heading **`காசா லேசா`** and distinctive opening fragments returned no existing canonical story match.
 
-This activation result does not pre-authorize Stories 2–5. Each must be re-searched against whatever live `main` exists when it becomes active.
+Routing therefore became:
+
+- new canonical workspace: `stories/kaasa-lesa/`;
+- controlling source: 1982 `முடியாத தொடர்கதை`, scans **29–40 / printed 27–38**;
+- first-pass workspace became durable at `cd953e2e2d1ecd28fb242a1abf654ff2a4842c26`.
+
+The Story-2 activation result does not pre-authorize Stories 3–5. Each must be searched again against live `main` when it becomes active.
+
+## Current Story 2 state
+
+First-pass transcription is complete. The dedicated native/high-resolution Historical Tamil Glyph Gate is **PASS 12/12** with zero unresolved historical-glyph candidates. The separate final source/visual closure is next.
 
 ## Important identity note — collection versus Story 5
 
-`முடியாத தொடர்கதை` is both the physical collection title and Story 5 heading. These remain separate archival entities. The whole book stays under `collections/1982-mudiyatha-thodarkathai/`; only Story 5's exact range may later receive a canonical story workspace.
-
-## Routing rule on future activation
-
-For each remaining story:
-
-1. fetch live `main`;
-2. search the exact opening heading plus source-documented variants;
-3. if no canonical story exists, create a new canonical story workspace using this 1982 range as its controlling source;
-4. if a canonical story has appeared, register the 1982 text as an edition/source witness instead of duplicating it;
-5. never use title similarity alone to overwrite another canonical work.
-
-## Current next step
-
-Story 1 is already activated and first-pass transcribed. Its dedicated post-transcription historical-glyph gate is next. Story 2 duplicate recheck waits until Story 1 source closure.
+`முடியாத தொடர்கதை` is both the physical collection title and Story 5 heading. These remain separate archival entities.

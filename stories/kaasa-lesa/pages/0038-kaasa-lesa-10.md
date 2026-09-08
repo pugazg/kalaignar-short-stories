@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 “அதைத்தான் நகரசபைகளுக்கான நிர்வாகத்திற்கு அனுப்பிவிட்டார்களே!”
@@ -32,4 +32,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 38; printed page: 36 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.

@@ -1,24 +1,29 @@
 # Possible Errors / Historical-Glyph Review Queue — காசா லேசா
 
-Status: **OPEN — dedicated post-transcription high-resolution glyph gate pending.**
+Status: **HISTORICAL-GLYPH QUEUE CLOSED — gate PASS / 0 unresolved historical-glyph candidates.**
 
-This is a review queue, not a list of confirmed errors. The controlling scan decides every reading.
+The controlling scan decided every reading. This file records the dedicated post-transcription native/high-resolution gate; ordinary source/visual fidelity is still pending in the separate final closure.
 
-## Mandatory gate coverage
+## Mandatory gate coverage — COMPLETE
 
-Every page, scans **29–40**, must be reopened at native/high resolution and explicitly checked for:
+Every page, scans **29–40**, was reopened at native/high resolution and explicitly checked for:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Also inspect all other suspicious old ligatures, faint vowel marks, touching characters and source-odd words.
+Other suspicious old ligatures, faint vowel marks and touching characters were also reviewed.
 
-## First-pass candidates requiring deliberate second-pass inspection
+## Corrections closed by source pixels
 
-- scan 29: opening `காசா லேசா` versus later running header `காசா லேசா!`; `களைப்பில்`; `கலைவதுமாக`;
-- scan 30: line-wrapped `எவனாவது`; `காலண காசு`; `அலைகள்`;
-- scan 31: `அண்ணாந்து`; `காலவைப்பேன்` and other `லை`/`ணா` candidates;
-- scan 32: apparent `ஒன்றுயின்`; apparent `ஊழில்`; `ஆலிலை`; all `றா`/`லை` candidates in the deluge passage;
-- scan 33: `தலைமட்டும்`; `கண்ணெல்லாம் புண்ணை` and all `ணை` candidates;
-- scans 34–40: all reform-sensitive forms and unusual lexical readings, including the final `காசாலேசா! காசாலே; நீ; சா!` wordplay.
+1. scan 30: `காலண காசு` → **`காலணா காசு`** — historical `ணா`; corroborated by same-edition `அண்ணாந்து` form on scan 31.
+2. scan 31: `வாரே` → **`வாறே`** — source character identity is `றே`, verified from native pixels and same-page `ற` forms.
+3. scan 32: `ஊழில் ஒழிக்கவே` → **`ஊழலை ஒழிக்கவே`** — historical `லை`; compared against same-page `ஆலிலை` / `தலையில்` typeforms.
 
-No candidate is to be resolved from context alone. Each disposition must cite native/high-resolution source-pixel comparison.
+## Source-odd readings deliberately retained
+
+- scan 32 `ஒன்றுயின்` — native pixels support the printed form; no context-based normalization;
+- scan 29 opening `காசா லேசா` versus running-header `காசா லேசா!` — source-layer distinction retained;
+- scan 39 `காசாலேசா! காசாலே; நீ; சா!` — retained at glyph gate exactly as read from the scan.
+
+Historical-glyph gate record: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).
+
+Next: **separate final source/visual closure**. Page status remains `needs-review` until that later gate PASSes.

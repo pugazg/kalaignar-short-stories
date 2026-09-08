@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 முடியலே அய்யா! எப்படியாவது இப்பவே அட்மிட் பண்ணிடுங்க, அய்யா!” என்று கெஞ்சுகிறாள்.
@@ -20,4 +20,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 34; printed page: 32 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.

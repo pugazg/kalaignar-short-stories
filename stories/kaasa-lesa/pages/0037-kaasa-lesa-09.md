@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 ராக்கெட் பூமியை நோக்கி வருகிறது. அவரை அனுப்பி வைக்க அரும்பாடுபட்டவர்கள், அவரைச் சூழ்ந்து மாலை மரியாதைகளைச் செய்து சந்திர மண்டலத்து அதிசயங்களைப் பற்றி ஆவலோடு கேட்கிறார்கள். “அதிசயங்களைச் சொல்வதென்றால் அவ்வளவு சாதாரணமா? ஐம்பதாயிரம் ரூபாய் தரவேண்டும்” என்று அறிக்கை மூலம் கண்டிப்பாகத் தெரிவித்து விடுகிறார்—அவர் வெளியிட்ட அறிக்கை எழுத்துக்கு எழுத்து மாறாமல் வந்திருக்கிறதா என்று பத்திரிகைகளைப் பார்த்துக் கொண்டே வீட்டுமுன் பகுதியில் உள்ள சாய்வு நாற்காலியில் படுத்திருந்தவர்; தன்னை அறிந்தும் அறியாத அரைத் தூக்கத்தில் ஆழ்ந்து விடுகிறார். அப்போது ‘கவர்ன்மெண்ட் டிரான்ஸ்போர்ட் பஸ்’ஸில் ஏறிக் கொண்டு மிக வேகமாக வந்த எமதர்மன், மிஸ்டர் லஞ்சய்யா வீட்டு வாசல் வந்ததும் ‘ஸ்டாப்’ என்று கத்திக் கொண்டு, பஸ் நிற்பதற்குள்ளாகவே கீழே குதித்து லஞ்சய்யாவின் வீட்டின் முன் பகுதியில் நுழைந்து விடுகிறான். அதிர்ச்சியான சம்பவம் நடந்து விட்டதாக ஒரு கணத்தில் உணர்ந்த மிஸ்டர் லஞ்சய்யா, “யார் அது?” என்று அதட்டுகிறான். அதன்பிறகு கீழ்க்கண்ட உரையாடல் நடந்து முடிகிறது.
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 37; printed page: 35 -->
 
-> Historical-glyph gate: **PENDING** — first-pass transcription only; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
