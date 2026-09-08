@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 அவள் பெயர் செல்லி! செல்லம்மா என்பது இட்ட பெயர்—“செல்லி” சுவையோடு அழைக்கும் சுருக்கமான பெயர்! அவள் தான் அந்த வீட்டுக்கே ஒளி விளக்கு! அவளது எதிர்காலத்தைப் பூமணப் பொலிவுள்ளதாக ஆக்கவே அந்தப் பெற்றோர்கள் தங்கள் மூச்சை உடலில் நிறுத்திக் கொண்டிருந்தார்கள் என்று கூறலாம். அன்றும் கூலி வேலை செய்து பிழைக்கும் குடும்பம்—அந்தக் குடும்பத்தில் இப்படி ஒரு பெரும் புயல்!
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 46; printed page: 44 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete. Physical scan 46 also contains the source-supported `உடலைக்` continuation currently misplaced in the scan-45 first-pass record; provenance relocation is deferred to final source/visual closure. Page remains `needs-review`.
