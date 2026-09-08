@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1982 `முடியாத தொடர்கதை` / Story 1
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1982 `முடியாத தொடர்கதை` / Story 1 Historical-Glyph Gate
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -24,30 +24,43 @@ Recorded source identity:
 - **95 scans**
 - **194,350,272 bytes**
 - SHA-256 **`d69034c5374c6c1604ddeb6d8e034c4410ae0d58201f2dd1608edd0e6d8cfd41`**
-- printed title: **முடியாத தொடர்கதை**
+- title: **முடியாத தொடர்கதை**
 - author: **கலைஞர் மு. கருணாநிதி**
 - publisher: **தமிழோசை பதிப்பகம்**
 - edition: **முதற்பதிப்பு — செப்டம்பர் 1982**
 - image-only; do not commit PDF
 
-## Intake state
+## User-directed phase rule for this 1982 book
 
-- collection registration: **PASS**
-- scan map: **95 / 95 structurally mapped**
-- separate contents page: **not present**
-- story inventory: **5 / 5 COMPLETE**
-- initial duplicate/canonical search: **no existing match found for all 5 headings**
-- Tamil processed: **0 / 5**
+Because this book has many old Tamil glyphs, each anthology story uses this phase boundary:
 
-Story inventory:
+**full first-pass transcription → dedicated post-transcription Historical Tamil Glyph Gate → final source/visual closure → next story**.
 
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans **7–28**, printed **5–26**
-2. `காசா லேசா` — scans **29–40**, printed **27–38**
-3. `சீமான் வீட்டு சீக்காளி` — scans **41–49**, printed **39–47**
-4. `நந்தியூர் நரியப்பன்` — scans **50–58**, printed **48–56**
-5. `முடியாத தொடர்கதை` — scans **59–93**, printed **57–91**
+The old-glyph gate is a separate activity after transcription. Do not count historical-glyph observations made during transcription as gate completion. Until the gate PASSes, first-pass text remains `needs-review` and must not be treated as source-final.
 
-Scan 94 is a non-story advertisement; scan 95 is the back cover.
+Minimum mandatory families on every page:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+No global replacement, silent modernization, or context-only correction.
+
+## Story 1 durable state
+
+Story: **`பெற்ற பிள்ளையை விற்ற தாய்`**  
+Workspace: `stories/petra-pillaiyai-vitra-thaai/`
+
+- PDF scans: **7–28**
+- printed pages: **5–26**
+- scan 7: story opening
+- scan 28: story ending with `ஆனால் அவள் வாழ்வு ????` + terminal star
+- scan 29: forward boundary witness; opens `காசா லேசா`
+- live-main duplicate recheck before activation: **PASS — no existing match**
+- first-pass transcription: **22 / 22 COMPLETE**
+- assembled first-pass Tamil: **COMPLETE**
+- final verified pages: **0 / 22**
+- historical-glyph gate: **PENDING**
+- review queue: **OPEN**
+- English: **not started / blocked by Tamil source gates**
 
 ## Mandatory startup
 
@@ -59,33 +72,35 @@ Read before source-dependent writes:
 4. root `HANDOVER.md`
 5. this prompt
 6. `collections/1982-mudiyatha-thodarkathai/README.md`
-7. `collections/1982-mudiyatha-thodarkathai/metadata/source.md`
-8. `collections/1982-mudiyatha-thodarkathai/indexes/story-inventory.md`
-9. `collections/1982-mudiyatha-thodarkathai/indexes/scan-map.md`
-10. `collections/1982-mudiyatha-thodarkathai/DUPLICATE_AUDIT.md`
+7. `collections/1982-mudiyatha-thodarkathai/indexes/story-inventory.md`
+8. `collections/1982-mudiyatha-thodarkathai/indexes/scan-map.md`
+9. `stories/petra-pillaiyai-vitra-thaai/README.md`
+10. `stories/petra-pillaiyai-vitra-thaai/metadata/source.md`
+11. `stories/petra-pillaiyai-vitra-thaai/indexes/page-map.md`
+12. `stories/petra-pillaiyai-vitra-thaai/HISTORICAL_GLYPH_GATE.md`
+13. `stories/petra-pillaiyai-vitra-thaai/POSSIBLE_ERRORS_FOR_REVIEW.md`
+14. `stories/petra-pillaiyai-vitra-thaai/sections/petra-pillaiyai-vitra-thaai.md`
+15. all `stories/petra-pillaiyai-vitra-thaai/pages/0007-*.md` through `0028-*.md` page records.
 
-Resolve/attach the controlling PDF before page-level source transcription. Never substitute OCR memory or prior-chat prose for the scan.
+Resolve/attach the controlling PDF before source-pixel work. Never substitute OCR memory, expected Tamil or prior-chat prose for the source image.
 
-## Exact next activity — Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`
+## Exact next activity — dedicated Historical Tamil Glyph Gate
 
-Physical range:
+Run the gate across **every Story-1 page, scans 7–28 / printed 5–26**.
 
-- PDF scans **7–28**
-- printed pages **5–26**
-- first scan: **7**, opening heading `பெற்ற பிள்ளையை விற்ற தாய்`
-- last scan: **28**, story closes with a terminal star
-- forward boundary witness: **scan 29**, opening Story 2 `காசா லேசா`
+Required procedure:
 
-Required work:
+1. reopen each scan independently at native/high resolution **after** the completed transcription;
+2. check the full known 13-family set on every page and remain alert for other old ligatures/faint vowel marks;
+3. verify complete words/phrases against source pixels rather than isolated curls/loops;
+4. compare same-edition / same-font forms where needed;
+5. revisit every candidate in `POSSIBLE_ERRORS_FOR_REVIEW.md` — including strong look-alike candidates such as first-pass `நன்றுயில்ல`, `சுற்றினுள்`, `எண்ணினுள்`, `வேண்டுமென்றுள்` — without assuming what the corrected form must be;
+6. for each proven correction, record earlier reading → source-supported Unicode reading → historical family → source evidence in `HISTORICAL_GLYPH_GATE.md`;
+7. synchronize each proven correction into the page record and assembled section;
+8. never global-replace; repeated visual forms are checked occurrence by occurrence;
+9. if source pixels remain ambiguous, use the documented difficult-reading escalation protocol and leave the item `needs-review` rather than guessing;
+10. do not call Story 1 source-closed unless the gate PASSes and the page/assembled layers reconcile.
 
-1. rerun repository duplicate/canonical-identity search for Story 1 on live `main`;
-2. if still no canonical match, create a new canonical story workspace only for Story 1;
-3. register the 1982 anthology range as the controlling source for that story;
-4. create page records for exactly scans 7–28, retaining anthology scan + printed-page coordinates;
-5. perform source-faithful Pass 1 transcription directly from the scan;
-6. then reopen every page independently at native/high resolution for historical-glyph Pass 2, explicitly checking all 13 mandatory families;
-7. preserve punctuation, spacing, source-odd forms and physical page boundaries; do not global-replace or modernize;
-8. maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` for genuinely suspicious readings;
-9. synchronize story README, collection inventory/scan map, root `HANDOVER.md` and this prompt when the story activity closes.
+## Hard stop
 
-Process **only Story 1** in this activity. Do not begin Story 2 `காசா லேசா` until the next user-directed `Proceed with next activity` or an explicit change to the one-story rule.
+Do **not** begin Story 2 `காசா லேசா` during the glyph-gate activity. After Story 1's historical-glyph gate and subsequent final source/visual closure PASS, the next anthology activity will be Story 2 scans **29–40 / printed 27–38**, beginning with a fresh live-main duplicate/canonical search.

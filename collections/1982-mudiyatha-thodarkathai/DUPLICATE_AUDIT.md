@@ -6,21 +6,9 @@ Branch authority: live `main`
 
 ## Purpose
 
-Prevent creation of duplicate canonical story folders while registering the five-story anthology `முடியாத தொடர்கதை`.
+Prevent creation of duplicate canonical story folders while processing the five-story anthology `முடியாத தொடர்கதை`.
 
-## Search scope
-
-The repository was searched on live `main` for each visually confirmed story-opening heading:
-
-1. `பெற்ற பிள்ளையை விற்ற தாய்`
-2. `காசா லேசா`
-3. `சீமான் வீட்டு சீக்காளி`
-4. `நந்தியூர் நரியப்பன்`
-5. `முடியாத தொடர்கதை`
-
-Additional distinctive-fragment searches included `பிள்ளையை விற்ற` and `சீக்காளி`.
-
-## Result
+## Intake result
 
 | # | 1982 opening heading | Existing canonical match found at intake? | Intake routing |
 |---:|---|---|---|
@@ -32,30 +20,33 @@ Additional distinctive-fragment searches included `பிள்ளையை வ�
 
 **Intake duplicate gate: PASS — no existing repository match was found for any of the five headings.**
 
-This is a preflight result, not permission to create five empty canonical folders. Re-run the search immediately before each story is activated because live `main` may advance independently.
+Additional intake fragment searches included `பிள்ளையை விற்ற` and `சீக்காளி`.
+
+## Story 1 activation recheck — PASS
+
+Immediately before creating Story 1, live `main` was fetched at commit `92207d2e2cecdeabe258cfc49cb633d2a017c61e` and the exact heading **`பெற்ற பிள்ளையை விற்ற தாய்`** was searched again. No existing canonical repository match was returned.
+
+Routing therefore remained:
+
+- new canonical workspace: `stories/petra-pillaiyai-vitra-thaai/`
+- controlling source: 1982 `முடியாத தொடர்கதை`, scans **7–28 / printed 5–26**.
+
+This activation result does not pre-authorize Stories 2–5. Each must be re-searched against whatever live `main` exists when it becomes active.
 
 ## Important identity note — collection versus Story 5
 
-`முடியாத தொடர்கதை` is both:
+`முடியாத தொடர்கதை` is both the physical collection title and Story 5 heading. These remain separate archival entities. The whole book stays under `collections/1982-mudiyatha-thodarkathai/`; only Story 5's exact range may later receive a canonical story workspace.
 
-- the title of the 1982 physical collection; and
-- the heading of Story 5, scans 59–93 / printed pages 57–91.
+## Routing rule on future activation
 
-These are different archival entities. The whole physical book stays under `collections/1982-mudiyatha-thodarkathai/`. Only Story 5's exact story range may later live under a canonical `stories/` workspace.
-
-## Routing rule on activation
-
-For each story:
+For each remaining story:
 
 1. fetch live `main`;
-2. search exact heading plus any source-documented heading variant;
+2. search the exact opening heading plus source-documented variants;
 3. if no canonical story exists, create a new canonical story workspace using this 1982 range as its controlling source;
-4. if a canonical story has appeared, do not duplicate it — register the 1982 text as an edition/source witness and compare explicitly;
+4. if a canonical story has appeared, register the 1982 text as an edition/source witness instead of duplicating it;
 5. never use title similarity alone to overwrite another canonical work.
 
-## Next activation
+## Current next step
 
-Story 1: **`பெற்ற பிள்ளையை விற்ற தாய்`**  
-Scans: **7–28**  
-Printed pages: **5–26**  
-Forward boundary witness: **scan 29 — `காசா லேசா`**
+Story 1 is already activated and first-pass transcribed. Its dedicated post-transcription historical-glyph gate is next. Story 2 duplicate recheck waits until Story 1 source closure.
