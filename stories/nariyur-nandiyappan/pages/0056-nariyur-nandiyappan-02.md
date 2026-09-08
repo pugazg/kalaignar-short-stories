@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 மகனாய் இருந்திட வேண்டுமென்று! அதற்குத் தெய்வானு கூலம் எனக்குச் சித்திக்கவில்லை. இன்று தாங்கள் நந்தியூர் வந்திறங்கி விட்டீர்கள். நந்தியூரின் சிறப்புக் களையும், இங்கு பரிபாலனம் புரியும் நாட்டாண்மைக்காரர்களின் பெருமைகளையும் தாங்கள் உணர்ந்தே யிருப்பீர்கள். இந்த ஊரில் நான் எத்தனை பஞ்சாயத்துக்களை மிக்க திறம்பட நடத்தியிருக்கிறேன் என்ற பட்டியலையும் இந்த மடலுடன் அனுப்பியுள்ளேன். நாட்டாண்மைக்கார்களுக்கும் ஊர்ப்பொதுமக்களுக்கும் ஏற்படுகின்ற வழக்கைத் தவிர; மற்ற எல்லா வழக்குகளிலும் நடுநிலையான நல்ல தீர்ப்புகளையே நான் வழங்கியிருக்கிறேன். நாட்டாண்மைக்காரர்கள் பக்கம் நான் நின்று; நியாயத்தை எதிர்த்திட வேண்டிய பல கட்டங்கள் எனக்கு விலக்க முடியாதவைகளாகிவிட்டன. இனி; தாங்கள் வேறு தற்காலிக ஒப்பக்காரர் பதவியை எனக்கு வழங்கிவிட்டால் என்பாடு மிக்க சிரமத்திற்குரியதாகி விடும். பழைய காலத்து நாடகங்களில் முன் மாதவி; பின் கண்ணகி என்று ஒரே ஆளே இரண்டு வேடங்களைப் போட்டுக் கொள்வாள். அது; ஆண்கள், பெண் வேடங்களே போட்டுக் கொள்ளும் காலம்! இயற்கையான அழகு இருக்காது! எல்லாம் செயற்கையான அழகு!
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 56; printed page: 54 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure pending; page remains `needs-review`.
