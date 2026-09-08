@@ -35,25 +35,26 @@ The scan is controlling. Another edition may corroborate identity only; it may n
 
 Do not revert authoritative headings including Story 2 `அராபியக் கதை`, Story 4 `நாராயணா ! நாராயணா !`, Story 6 `மூளி மூக்குக்காரன்`, and Story 10 `இரு நிழல்கள்`.
 
-## English translation phase — ACTIVE
+## English translation phase — STORY LEVEL COMPLETE / FINAL QA PENDING
 
 Tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
-User-directed batch size: **10 stories per iteration**. Only four stories remain after Batch 02.
+User-directed normal batch size: **10 stories per iteration**. The final source remainder contained four stories.
 
 Current English state:
 
 - source stories: **25**
-- English PASS: **21 / 25**
-- pending: **4 / 25**
+- English PASS: **25 / 25**
+- pending: **0 / 25**
 - needs review: **0**
 - Story 1: **PASS**
 - Batch 01 Stories 2–11: **PASS 10/10** — `ENGLISH_BATCH_01_STORIES_0002_0011.md`
 - Batch 02 Stories 12–21: **PASS 10/10** — `ENGLISH_BATCH_02_STORIES_0012_0021.md`
-- exact next activity: **final remainder Stories 22–25**
+- Batch 03 final remainder Stories 22–25: **PASS 4/4** — `ENGLISH_BATCH_03_STORIES_0022_0025.md`
+- exact next activity: **collection-wide English final QA / release audit**
 
 Story 2 and Story 11 English remain witness-local. Story 10 English uses authoritative title **Two Shadows** while the legacy directory slug remains for continuity.
 
 ## Current phase boundary
 
-Tamil/source is frozen unless genuinely stronger source evidence proves a targeted reading wrong. English continues immediately with Stories 22–25. Once they PASS, run the collection-wide English final QA/release gate.
+Tamil/source remains frozen unless genuinely stronger source evidence proves a targeted reading wrong. Story-level English translation is complete at **25/25 PASS**, but English release closure is deliberately not declared until the collection-wide final QA / release audit PASSes.

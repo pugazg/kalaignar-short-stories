@@ -6,19 +6,20 @@ Translation workflow: root `ENGLISH_TRANSLATION_GUIDE.md`
 
 ## Phase rule
 
-The Tamil/source phase is fully closed, so English translation is the automatic next phase. The user has explicitly directed **10 stories per iteration**; after two ten-story batches, only four stories remain for the final remainder iteration.
+The Tamil/source phase is fully closed. The user directed **10 stories per iteration**; Story 1, two ten-story batches, and the final four-story remainder now account for all 25 source stories.
 
-Story 2 and Story 11 are 1987 witness-local English and do not overwrite their controlling 2008/2004 canonical English.
+Story 2 and Story 11 remain 1987 witness-local English and do not overwrite their controlling 2008/2004 canonical English.
 
 ## Progress
 
 - source stories: **25**
 - distinct 1987 identities: **23**
 - witness-only 1987 identities: **2**
-- English PASS: **21 / 25**
-- pending: **4 / 25**
+- English PASS: **25 / 25**
+- pending: **0 / 25**
 - needs review: **0**
-- phase state: **ACTIVE**
+- story-level translation state: **COMPLETE**
+- release state: **FINAL QA / RELEASE AUDIT PENDING**
 
 | # | 1987 source heading | Physical span | Translation route | State |
 |---:|---|---|---|---|
@@ -43,22 +44,20 @@ Story 2 and Story 11 are 1987 witness-local English and do not overwrite their c
 | 19 | `தெனாலிராமன் கதை` | lower 37 → 38 → upper 39 | canonical | **PASS** |
 | 20 | `வல்வில் ஓரி` | lower 39 → 40 → upper 41 | canonical | **PASS** |
 | 21 | `யசோதர காவியம்` | lower 41 → 42 → 43 → upper 44 | canonical | **PASS** |
-| 22 | `காடு சென்ற குமணன்` | lower 44 → upper 45 | canonical | **pending** |
-| 23 | `அகத்திணை அன்பு!` | lower 45 → upper 46 | canonical | **pending** |
-| 24 | `தெனாலிராமன் பூனை` | lower 46 → 47 → upper 48 | canonical | **pending** |
-| 25 | `குழந்தையும் கிளியும்` | lower 48 → 49 | canonical | **pending** |
+| 22 | `காடு சென்ற குமணன்` | lower 44 → upper 45 | canonical | **PASS** |
+| 23 | `அகத்திணை அன்பு!` | lower 45 → upper 46 | canonical | **PASS** |
+| 24 | `தெனாலிராமன் பூனை` | lower 46 → 47 → upper 48 | canonical | **PASS** |
+| 25 | `குழந்தையும் கிளியும்` | lower 48 → 49 | canonical | **PASS** |
 
 ## Completed batches
 
 - Story 1 — `மன்னனும் குருவியும்!`: **PASS**
 - Batch 01 Stories 2–11: `ENGLISH_BATCH_01_STORIES_0002_0011.md` — **PASS 10/10**
 - Batch 02 Stories 12–21: `ENGLISH_BATCH_02_STORIES_0012_0021.md` — **PASS 10/10**
+- Batch 03 final remainder Stories 22–25: `ENGLISH_BATCH_03_STORIES_0022_0025.md` — **PASS 4/4**
 
-## Exact next activity — final remainder Stories 22–25
+## Exact next activity — collection-wide English final QA / release audit
 
-22. `காடு சென்ற குமணன்` — lower scan 44 / printed 43 → upper scan 45 / printed 44
-23. `அகத்திணை அன்பு!` — lower 45 / printed 44 → upper 46 / printed 45
-24. `தெனாலிராமன் பூனை` — lower 46 / printed 45 → scan 47 / printed 46 → upper 48 / printed 47
-25. `குழந்தையும் கிளியும்` — lower 48 / printed 47 → scan 49 / printed 48
+Run the collection-wide final English gate across all 25 source stories. Confirm translation-file inventory, story-local review PASS state, source-page marker order, physical content-boundary alignment, substantive final source spans, fixed witness-only routing for Stories 2 and 11, authoritative Story 10 title `Two Shadows`, and zero Tamil changes made merely for English fluency.
 
-Translate and review all four in the final remainder iteration, preserving actual per-page Tamil boundaries. If all four PASS, English becomes **25 / 25 COMPLETE** and the collection-wide English final QA/release gate becomes the automatic next activity.
+If that collection-wide gate PASSes, record the final English release audit and only then mark the 1987 English phase **PASS / CLOSED**.

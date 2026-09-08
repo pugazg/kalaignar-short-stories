@@ -17,7 +17,7 @@ Always fetch live `main` first and preserve newer durable state.
 - additional witnesses never overwrite controlling canonical editions;
 - decode historical Tamil type by character identity, never visual resemblance alone;
 - Tamil/source closes before English; once closed, English is automatically next unless the user redirects;
-- user directive for this 1987 English phase: **10 stories per iteration**.
+- user directive for this 1987 English phase: **10 stories per iteration**, with the final four-story remainder handled together.
 
 ## Closed phases — preserve
 
@@ -29,7 +29,7 @@ Always fetch live `main` first and preserve newer durable state.
 - supplemental English — **6/6 PASS / CLOSED**
 - 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` Tamil/source — **CLOSED**
 
-## ACTIVE — 1987 English
+## ACTIVE — 1987 English final QA / release audit
 
 Collection: `collections/1987-kalaignar-sonna-kuttik-kathaigal/`
 
@@ -45,30 +45,35 @@ Source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்ட�
 - Story 1: **PASS**
 - Batch 01 Stories 2–11: **10/10 PASS**
 - Batch 02 Stories 12–21: **10/10 PASS**
-- English total: **21 / 25 PASS**
-- pending: **4 / 25**
+- Batch 03 final remainder Stories 22–25: **4/4 PASS**
+- English total: **25 / 25 PASS**
+- pending: **0 / 25**
 - needs review: **0**
+- story-level translation: **COMPLETE**
+- collection English release closure: **PENDING FINAL QA**
 
-Batch 02 record:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_BATCH_02_STORIES_0012_0021.md`
+Final-remainder record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_BATCH_03_STORIES_0022_0025.md`
 
-For every completed English story, physical source-page content-boundary alignment was checked against verified `pages/*.md`, and Tamil was not changed merely for English fluency.
+For every completed English story, physical source-page marker order and content-boundary alignment were checked separately against verified `pages/*.md`, and Tamil was not changed merely for English fluency.
 
 Witness-only routing remains fixed:
 - Story 2 `அராபியக் கதை` — 1987 witness-local English; controlling 2008 English unchanged.
 - Story 11 `குருவி ராமேஸ்வரம்` — 1987 witness-local English; controlling 2004 English unchanged.
 
-## Exact next activity — final English remainder Stories 22–25
+Story 10 remains authoritative as `இரு நிழல்கள்` / **Two Shadows**; its legacy directory slug is retained only for path continuity.
 
-Process all remaining four in source order:
+## Exact next activity — collection-wide English final QA / release audit
 
-22. `காடு சென்ற குமணன்` — lower 44 / printed 43 → upper 45 / printed 44
-23. `அகத்திணை அன்பு!` — lower 45 / printed 44 → upper 46 / printed 45
-24. `தெனாலிராமன் பூனை` — lower 46 / printed 45 → 47 / printed 46 → upper 48 / printed 47
-25. `குழந்தையும் கிளியும்` — lower 48 / printed 47 → 49 / printed 48
+Run the final English gate across all 25 source stories. At minimum:
 
-For each: read verified Tamil assembly, every page record, Tamil/historical audits and any review controls; translate complete verified Tamil; preserve physical page boundaries; create `TRANSLATION_REVIEW.md`; update README; do not normalize source-odd forms.
+1. reconcile the 25 source-story inventory against all English translation files and story READMEs;
+2. confirm every story-local `TRANSLATION_REVIEW.md` is PASS;
+3. confirm source-page marker presence/order separately from physical content-boundary alignment and substantive final source spans;
+4. recheck witness-local routing for Stories 2 and 11 and the authoritative Story 10 title **Two Shadows**;
+5. confirm unresolved English review items remain **0** and no Tamil/source text was changed merely for English fluency;
+6. reconcile Batch 01, Batch 02, Batch 03, the English tracker, collection README, root `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`.
 
-After all four PASS, update English to **25/25 COMPLETE** and make the **collection-wide English final QA / release audit** the automatic next activity.
+If the gate PASSes, create the final English release-audit record and then mark the 1987 English phase **PASS / CLOSED** across durable controls.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.

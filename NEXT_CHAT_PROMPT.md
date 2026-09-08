@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 English Final Remainder
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1987 English Final QA / Release Audit
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -20,55 +20,56 @@ Controlling PDF: `TVA_BOK_0065566_கலைஞர்_சொன்ன_கு�
 
 ## English state
 
-User directive: **10 stories per iteration**. Only four source stories remain, so process all four as the final remainder iteration.
+User directive for production was **10 stories per iteration**; the final remainder contained four stories and is now complete.
 
-- English PASS: **21 / 25**
-- pending: **4 / 25**
+- English PASS: **25 / 25**
+- pending: **0 / 25**
 - needs review: **0**
 - Story 1: PASS
 - Batch 01 Stories 2–11: PASS 10/10
 - Batch 02 Stories 12–21: PASS 10/10
+- Batch 03 Stories 22–25: PASS 4/4
+- story-level translation: **COMPLETE**
+- collection English release: **FINAL QA PENDING**
 
-Batch-02 record:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_BATCH_02_STORIES_0012_0021.md`
-
-## Exact next activity — Stories 22–25
-
-1. Story 22 `காடு சென்ற குமணன்` — lower scan 44 / printed 43 → upper scan 45 / printed 44
-2. Story 23 `அகத்திணை அன்பு!` — lower 45 / printed 44 → upper 46 / printed 45
-3. Story 24 `தெனாலிராமன் பூனை` — lower 46 / printed 45 → scan 47 / printed 46 → upper 48 / printed 47
-4. Story 25 `குழந்தையும் கிளியும்` — lower 48 / printed 47 → scan 49 / printed 48
+Final-remainder record:
+`collections/1987-kalaignar-sonna-kuttik-kathaigal/ENGLISH_BATCH_03_STORIES_0022_0025.md`
 
 ## Mandatory startup
 
-Read before English writes:
+Read before final-QA writes:
 
 1. `ENGLISH_TRANSLATION_GUIDE.md`
 2. `SHORT_STORY_PROCESSING_GUIDE.md`
 3. `COLLECTION_SOURCE_GUIDE.md`
 4. root `HANDOVER.md`
 5. this prompt
-6. collection README and English tracker
-7. each Story 22–25 README and verified Tamil assembly
-8. every story-bearing `pages/*.md` record
-9. Tamil source audit / historical-glyph audit / review controls where present
+6. collection `README.md` and `ENGLISH_TRANSLATION_PROGRESS.md`
+7. `ENGLISH_BATCH_01_STORIES_0002_0011.md`
+8. `ENGLISH_BATCH_02_STORIES_0012_0021.md`
+9. `ENGLISH_BATCH_03_STORIES_0022_0025.md`
+10. the 25 story READMEs, English translation files, and `TRANSLATION_REVIEW.md` controls; inspect verified `pages/*.md` wherever a final-QA marker or boundary check needs confirmation.
 
-## Required work
+## Exact next activity — collection-wide English final QA / release audit
 
-For all four stories:
+Run the final gate across all 25 source stories. Do not start a new story collection while this gate is open.
 
-- translate the complete verified Tamil under `translations/en/`;
-- place source-page markers at the actual verified physical content transitions;
-- create/update `TRANSLATION_REVIEW.md` and separately confirm marker order and content-boundary alignment;
-- update story README;
-- preserve source-odd wording conservatively;
-- never alter Tamil merely to improve English.
+Required checks:
 
-After all four PASS:
+- reconcile the 25 source headings against exactly 25 completed English routes;
+- verify every story-local English review is **PASS** and unresolved English review items remain **0**;
+- validate source-page marker presence and numeric order;
+- separately validate physical content-boundary alignment and ensure the final source span/page contains substantive translated content;
+- preserve witness-local routing for Story 2 `அராபியக் கதை` and Story 11 `குருவி ராமேஸ்வரம்`; do not overwrite the controlling 2008/2004 English;
+- preserve Story 10 authoritative identity `இரு நிழல்கள்` and English title **Two Shadows** despite its legacy slug;
+- confirm no Tamil/source text was changed merely to improve English;
+- reconcile all three batch records, the English tracker, collection README, root `HANDOVER.md`, and this prompt.
 
-- create the final remainder batch record;
-- set collection English progress to **25 / 25 PASS, pending 0, needs review 0**;
-- synchronize collection README, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`;
-- make the **collection-wide English final QA / release audit** the automatic next activity.
+If every check PASSes:
+
+- create the final English release-audit record;
+- set the 1987 English phase to **25/25 PASS / CLOSED** with pending 0 and needs review 0;
+- synchronize collection README, English tracker, root `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md` to the closed state;
+- only then choose the next eligible archive activity.
 
 Do not begin `நடுத்தெரு நாராயணி` while waiting for `வெள்ளிக்கிழமை` completion in the novels workflow.
