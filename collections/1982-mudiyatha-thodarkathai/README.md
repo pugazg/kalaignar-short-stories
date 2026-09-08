@@ -25,7 +25,7 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 | 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **Tamil/source PASS / CLOSED — 5/5 verified** |
-| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **FIRST PASS 4/4 COMPLETE — HISTORICAL-GLYPH GATE NEXT** |
+| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **HISTORICAL-GLYPH GATE PASS 4/4 — FINAL SOURCE/VISUAL CLOSURE NEXT** |
 | 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting; fresh canonical recheck required |
 
 Story-4 running headers on scans 52/54 use `நரியூர் நந்தியப்பன்`, but scan 54 terminal star and scan 55 new stylized opening prove Story 5 is distinct.
@@ -57,10 +57,12 @@ Workspace: `stories/nariyur-nandiyappan/`
 - scan 58 terminal star: confirmed;
 - scan 59 forward witness: Story 6 `முடியாத தொடர்கதை`, excluded;
 - first-pass transcription: **4/4 COMPLETE**;
+- Historical Tamil Glyph Gate: **PASS 4/4**;
+- historical-glyph corrections: **0**;
+- unresolved historical-glyph candidates: **0**;
 - page status: **4/4 `needs-review`**;
-- assembled Tamil: **complete / synchronized**;
-- Historical Tamil Glyph Gate: **NEXT / not started**;
-- final source/visual closure: **not started**;
+- assembled Tamil: **synchronized / post-glyph gate**;
+- final source/visual closure: **NEXT / not started**;
 - English: **not started**.
 
 ## Processing state
@@ -69,11 +71,11 @@ Workspace: `stories/nariyur-nandiyappan/`
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **6/6 COMPLETE**
 - Tamil/source stories closed: **4/6**
-- Story 5: **first pass complete; historical-glyph gate NEXT**
+- Story 5: **glyph gate PASS; final source/visual closure NEXT**
 - English: **not started**
 
 ## Exact next activity
 
-Run Story 5's separate native/high-resolution Historical Tamil Glyph Gate across scans **55–58**. Keep all four records `needs-review`; do not perform final source/visual closure in the same activity and do not start Story 6.
+Run Story 5's **separate final source/visual closure** across scans **55–58**. Re-read full phrases/clauses/sentences, punctuation, spacing, source-odd forms, cross-page joins and physical provenance. Keep the historical-glyph gate closed. Only if zero ordinary source-text items remain unresolved may all four pages become `verified` and Story 5 close.
 
-`நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
+Do not start Story 6 `முடியாத தொடர்கதை` in that same activity. `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
