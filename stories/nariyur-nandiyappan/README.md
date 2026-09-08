@@ -23,18 +23,21 @@ Story 4 `நந்தியூர் நரியப்பன்` uses running h
 
 ## Tamil/source state
 
-**HISTORICAL TAMIL GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE NEXT.**
+**PASS / CLOSED — 4/4 VERIFIED.**
 
 - physical story pages: **4/4**
-- first-pass transcription: **4/4 complete**
+- first-pass transcription: **PASS / complete**
 - independent native/high-resolution Historical Tamil Glyph Gate: **PASS 4/4**
 - historical-glyph corrections required: **0**
 - unresolved historical-glyph candidates: **0**
-- page status: **4/4 `needs-review`**
-- final source/visual closure: **not started / NEXT**
+- final source/visual closure: **PASS 4/4**
+- ordinary final-pass source corrections: **3**
+- page status: **4/4 `verified`**
+- unresolved ordinary source-text items: **0**
+- assembled Tamil: **FINAL / synchronized**
 - English: **not started**
 
-The gate confirmed the first-pass Unicode character identities without modernization. Full lexical, punctuation, spacing, cross-page and physical-provenance fidelity remains for the separate final source/visual closure.
+Final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md).
 
 ## Controls
 
@@ -42,8 +45,7 @@ The gate confirmed the first-pass Unicode character identities without moderniza
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/nariyur-nandiyappan.md`](sections/nariyur-nandiyappan.md)
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+- final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
-## Hard stop
-
-Do not start Story 6 `முடியாத தொடர்கதை` until Story 5's separate final source/visual closure passes.
+Do not reopen this Tamil/source layer without genuinely stronger source evidence or explicit maintenance request.

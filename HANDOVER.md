@@ -43,41 +43,44 @@ Source: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` 
 2. `காசா லேசா` — scans 29–40 / pp.27–38 — **PASS / CLOSED — 12/12 verified**
 3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 / pp.39–47 — **PASS / CLOSED — 9/9 verified**
 4. `நந்தியூர் நரியப்பன்` — scans 50–54 / pp.48–52 — **PASS / CLOSED — 5/5 verified**
-5. `நரியூர் நந்தியப்பன்` — scans **55–58 / pp.53–56** — **GLYPH GATE PASS 4/4; FINAL SOURCE/VISUAL CLOSURE NEXT**
-6. `முடியாத தொடர்கதை` — scans **59–93 / pp.57–91** — waiting
+5. `நரியூர் நந்தியப்பன்` — scans **55–58 / pp.53–56** — **PASS / CLOSED — 4/4 verified**
+6. `முடியாத தொடர்கதை` — scans **59–93 / pp.57–91** — **NEXT**
 
-Boundary evidence: scan 58 terminal star; scan 59 `முடியாத தொடர்கதை` opening.
+Boundary evidence: scan 58 terminal star; scan 59 `முடியாத தொடர்கதை` opening; scan 93 story ending; scan 94 advertisement.
 
-### Story 5 — current durable checkpoint
+### Story 5 — durable closure
 
 Workspace: `stories/nariyur-nandiyappan/`
 
 - activation duplicate/canonical search: **PASS — new canonical** at live main `7b0f4e37bcf16737032d961162acc058a67f91b8`;
-- scan 55 opening display: `நரியூர் நந்தியப்பன்`;
-- scan 58 terminal star;
-- scan 59 distinct Story-6 opening `முடியாத தொடர்கதை`, excluded;
 - first-pass transcription: **4/4 COMPLETE**;
-- dedicated native/high-resolution Historical Tamil Glyph Gate: **PASS 4/4**;
-- historical-glyph corrections required: **0**;
-- unresolved historical-glyph candidates: **0**;
-- gate record: `stories/nariyur-nandiyappan/HISTORICAL_GLYPH_GATE.md`;
-- page status: **4/4 `needs-review`**;
-- assembled Tamil: **synchronized / post-glyph gate**;
-- final source/visual closure: **NOT STARTED / NEXT**;
+- Historical Tamil Glyph Gate: **PASS 4/4 / 0 corrections / 0 unresolved**;
+- final source/visual closure: **PASS 4/4**;
+- final ordinary source corrections: **3**;
+- page status: **4/4 `verified`**;
+- unresolved source/glyph items: **0**;
+- assembled Tamil: **FINAL / synchronized**;
+- final audit: `stories/nariyur-nandiyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`;
 - English: **not started**.
 
-Source-odd forms deliberately retained at the glyph gate include `காணத்தவங்கிடப்பர்`, `மறைவ துண்டோ?`, `தெய்வானு கூலம்`, `சிறப்புக் களையும்`, `என்பாடு`, `தங்கள் முடங்கள்`, `கெளரவத்திற்கும்`, `பந்து மித்திரர்களுடன்`, `ஷேத்திரங்களை`, and `மட்டுந்தானு?`.
+Do not reopen Story 5 without genuinely stronger source evidence or explicit maintenance request.
 
-## Exact next activity — Story 5 final source/visual closure
+## Exact next activity — Story 6 activation + first pass only
 
-1. fetch live `main` and preserve newer durable work;
-2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-5 README/metadata/page-map/glyph-gate/review queue, all four page records and assembled Tamil;
+Story 6: **`முடியாத தொடர்கதை`**, scans **59–93 / printed 57–91**.
+
+1. fetch live `main`;
+2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, collection README/source metadata/inventory/scan-map/duplicate audit, and Story-5 closure only as immediate workflow precedent;
 3. resolve the controlling PDF;
-4. directly reread scans **55–58** at native/high resolution for full lexical, punctuation, spacing and source-odd fidelity;
-5. keep the Historical Tamil Glyph Gate closed; ordinary final-pass corrections must remain a separate layer;
-6. verify cross-page continuations `ஒரு குடி / மகனாய்`, `பழிப் / பதாயிருக்கும்`, and `கருதா / மல்`;
-7. recheck scan 58 terminal star and scan 59 next-story exclusion;
-8. only if zero ordinary source-text items remain unresolved, promote 4/4 pages to `verified`, create `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`, and close Story 5;
-9. **hard stop: do not start Story 6 in the same activity.**
+4. freshly search exact heading `முடியாத தொடர்கதை`, distinguishing the legitimate collection-title match from a canonical story match;
+5. search a distinctive opening fragment such as `சிறைச்சாலை—இரவு நேரம்` or `சங்கு, சந்தனம் என்ற இரண்டு கைதிகள்`;
+6. verify scan 59 opening directly;
+7. verify scan 93 story ending / terminal star and scan 94 advertisement as forward-boundary witness;
+8. if no existing canonical story match exists, create the Story-6 canonical workspace;
+9. create exactly **35 page records**, scans **59–93 / printed 57–91**;
+10. transcribe all 35 pages source-faithfully and keep every record **`needs-review`**;
+11. synchronize first-pass assembly, metadata, page map and review queue;
+12. record Story-6 Historical Tamil Glyph Gate as **NEXT**;
+13. **hard stop: do not run the glyph gate in the same activity.**
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.

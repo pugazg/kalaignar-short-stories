@@ -25,8 +25,8 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 | 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **Tamil/source PASS / CLOSED — 5/5 verified** |
-| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **HISTORICAL-GLYPH GATE PASS 4/4 — FINAL SOURCE/VISUAL CLOSURE NEXT** |
-| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting; fresh canonical recheck required |
+| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **Tamil/source PASS / CLOSED — 4/4 verified** |
+| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **NEXT — fresh canonical recheck + first-pass transcription** |
 
 Story-4 running headers on scans 52/54 use `நரியூர் நந்தியப்பன்`, but scan 54 terminal star and scan 55 new stylized opening prove Story 5 is distinct.
 
@@ -44,38 +44,29 @@ No global replacement, silent modernization or context-only correction.
 - Story 2 `காசா லேசா` — **PASS / CLOSED**, 12/12 verified.
 - Story 3 `சீமான் வீட்டு சீக்காளி` — **PASS / CLOSED**, 9/9 verified.
 - Story 4 `நந்தியூர் நரியப்பன்` — **PASS / CLOSED**, 5/5 verified.
+- Story 5 `நரியூர் நந்தியப்பன்` — **PASS / CLOSED**, 4/4 verified; Historical Tamil Glyph Gate PASS 4/4; final source/visual closure PASS 4/4; 0 unresolved source/glyph items.
 
-Do not reopen Stories 1–4 without genuinely stronger source evidence or an explicit maintenance request.
+Story-5 final audit: `stories/nariyur-nandiyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-## Story 5 — current durable state
-
-Workspace: `stories/nariyur-nandiyappan/`
-
-- fresh activation search against live main `7b0f4e37bcf16737032d961162acc058a67f91b8`: **PASS — new canonical**;
-- physical range: **scans 55–58 / printed 53–56**;
-- scan 55 opening heading: `நரியூர் நந்தியப்பன்`;
-- scan 58 terminal star: confirmed;
-- scan 59 forward witness: Story 6 `முடியாத தொடர்கதை`, excluded;
-- first-pass transcription: **4/4 COMPLETE**;
-- Historical Tamil Glyph Gate: **PASS 4/4**;
-- historical-glyph corrections: **0**;
-- unresolved historical-glyph candidates: **0**;
-- page status: **4/4 `needs-review`**;
-- assembled Tamil: **synchronized / post-glyph gate**;
-- final source/visual closure: **NEXT / not started**;
-- English: **not started**.
+Do not reopen Stories 1–5 without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Processing state
 
 - collection source registration: **PASS**
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **6/6 COMPLETE**
-- Tamil/source stories closed: **4/6**
-- Story 5: **glyph gate PASS; final source/visual closure NEXT**
+- Tamil/source stories closed: **5/6**
+- next anthology story: **Story 6 `முடியாத தொடர்கதை`**
 - English: **not started**
 
 ## Exact next activity
 
-Run Story 5's **separate final source/visual closure** across scans **55–58**. Re-read full phrases/clauses/sentences, punctuation, spacing, source-odd forms, cross-page joins and physical provenance. Keep the historical-glyph gate closed. Only if zero ordinary source-text items remain unresolved may all four pages become `verified` and Story 5 close.
+Begin Story 6 **`முடியாத தொடர்கதை`** only after fetching live `main` and rerunning the required duplicate/canonical-identity search.
 
-Do not start Story 6 `முடியாத தொடர்கதை` in that same activity. `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
+Physical range: scans **59–93 / printed 57–91**; scan **59** carries the stylized story opening; scan **93** closes the story; scan **94** is an advertisement and is the forward-boundary witness.
+
+Because the collection title and Story-6 title are identical, keep the collection container and story entity separate. Search the exact heading together with a distinctive opening span such as **`சிறைச்சாலை—இரவு நேரம்`** or **`சங்கு, சந்தனம் என்ற இரண்டு கைதிகள்`**.
+
+The next activity is Story-6 activation + source-faithful **first-pass transcription only** across scans 59–93. Keep every Story-6 page `needs-review`; do not run its Historical Tamil Glyph Gate until the complete first pass is durably present.
+
+`நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.

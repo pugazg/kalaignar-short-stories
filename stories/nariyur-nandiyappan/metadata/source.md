@@ -26,13 +26,17 @@
 
 Fresh live-main searches at `7b0f4e37bcf16737032d961162acc058a67f91b8` found no canonical match for `நரியூர் நந்தியப்பன்` or `பெருமை மிகுந்த நந்தியப்பருக்கு`. The story is newly canonical at `stories/nariyur-nandiyappan/`.
 
-## Current transcription state
+## Final transcription state
 
-- first-pass transcription: **4/4 COMPLETE**;
+- first-pass transcription: **PASS / 4/4 complete**;
 - independent native/high-resolution Historical Tamil Glyph Gate: **PASS 4/4**;
 - historical-glyph corrections required: **0**;
 - unresolved historical-glyph candidates: **0**;
-- page status: **4/4 `needs-review`**;
-- separate final source/visual closure: **NEXT / not started**.
+- final source/visual closure: **PASS 4/4**;
+- ordinary final-pass source corrections: **3**;
+- page status: **4/4 `verified`**;
+- unresolved ordinary source-text items: **0**;
+- assembled Tamil: **FINAL / synchronized**;
+- Tamil/source state: **PASS / CLOSED**.
 
 The controlling scan decides all source readings. OCR, memory, expected Tamil and contextual modernization are not authorities.

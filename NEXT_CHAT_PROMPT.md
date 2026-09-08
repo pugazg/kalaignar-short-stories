@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 5 `நரியூர் நந்தியப்பன்` final source/visual closure
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 first pass
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,52 +12,70 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 2. `காசா லேசா` — scans 29–40 — CLOSED
 3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 — CLOSED
 4. `நந்தியூர் நரியப்பன்` — scans 50–54 — CLOSED
-5. `நரியூர் நந்தியப்பன்` — **scans 55–58 / printed 53–56 — glyph gate PASS; final closure NEXT**
-6. `முடியாத தொடர்கதை` — scans 59–93 / printed 57–91 — waiting
+5. `நரியூர் நந்தியப்பன்` — scans 55–58 — **PASS / CLOSED — 4/4 verified**
+6. `முடியாத தொடர்கதை` — **scans 59–93 / printed 57–91 — NEXT**
 
-Boundary evidence: scan 58 terminal star; scan 59 begins Story 6 `முடியாத தொடர்கதை`.
+Boundary evidence: scan 58 terminal star; scan 59 separate stylized `முடியாத தொடர்கதை` opening; scan 93 closes Story 6; scan 94 is an advertisement.
 
-## Active Story 5
+## Story 5 closure — preserve
 
-Workspace: `stories/nariyur-nandiyappan/`
+`stories/nariyur-nandiyappan/` is Tamil/source **PASS / CLOSED**:
 
-- scan 55 stylized opening: **`நரியூர் நந்தியப்பன்`**
-- scan 58 terminal star
-- scan 59 distinct Story 6 opening, excluded
-- activation duplicate search: **PASS / new canonical**
-- first pass: **4/4 COMPLETE**
-- Historical Tamil Glyph Gate: **PASS 4/4 / 0 corrections / 0 unresolved**
-- page status: **4/4 `needs-review`**
-- final source/visual closure: **NEXT / not started**
-- English: **not started**
+- first pass 4/4;
+- Historical Tamil Glyph Gate PASS 4/4 / 0 corrections / 0 unresolved;
+- final source/visual closure PASS 4/4;
+- 4/4 `verified`;
+- 0 unresolved source/glyph items;
+- final audit: `stories/nariyur-nandiyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-Gate record: `stories/nariyur-nandiyappan/HISTORICAL_GLYPH_GATE.md`.
+Do not reopen it without stronger evidence or explicit maintenance request.
+
+## Exact active story — Story 6 `முடியாத தொடர்கதை`
+
+Physical range:
+
+- PDF scans **59–93**
+- printed pages **57–91**
+- scan **59** stylized opening **`முடியாத தொடர்கதை`**
+- opening scene heading **`சிறைச்சாலை—இரவு நேரம்`**
+- distinctive opening text identifies **`சங்கு, சந்தனம் என்ற இரண்டு கைதிகள்`**
+- scan **93** story ending / terminal boundary
+- scan **94** forward-boundary witness: advertisement / non-story
+
+Important identity note: **the collection title and Story-6 title are the same string**. Do not mistake the collection workspace itself for an existing canonical story match.
+
+No Story-6 canonical workspace should be assumed until the fresh activation search is complete.
 
 ## Mandatory startup
 
-Read:
+Read before source-dependent writes:
+
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
 3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 4. `HANDOVER.md`
 5. this prompt
-6. collection README / source metadata / inventory / scan map / duplicate audit
-7. Story-5 README / source metadata / page map / `HISTORICAL_GLYPH_GATE.md` / review queue
-8. all Story-5 page records scans 55–58
-9. assembled Tamil.
+6. `collections/1982-mudiyatha-thodarkathai/README.md`
+7. collection source metadata / story inventory / scan map / duplicate audit
+8. Story-5 README/page-map/final audit only as immediate workflow precedent; do not reopen Story-5 text.
 
 Resolve the controlling PDF before source-pixel work.
 
-## Exact next activity — separate final source/visual closure
+## Required procedure — Story 6 activation + first pass only
 
-1. independently reread every Story-5 scan **55–58** at native/high resolution;
-2. verify complete phrase/clause/sentence fidelity, punctuation, spacing and source-odd spellings;
-3. verify cross-page joins **55→56 `ஒரு குடி / மகனாய்`**, **56→57 `பழிப் / பதாயிருக்கும்`**, and **57→58 `கருதா / மல்`**;
-4. recheck difficult first-pass/source-odd forms including `காணத்தவங்கிடப்பர்`, `மறைவ துண்டோ?`, `தெய்வானு கூலம்`, `சிறப்புக் களையும்`, `என்பாடு`, `தங்கள் முடங்கள்`, `கெளரவத்திற்கும்`, `பந்து மித்திரர்களுடன்`, `ஷேத்திரங்களை`, and `மட்டுந்தானு?`;
-5. recheck scan 58 ending/star and scan 59 next-story exclusion;
-6. keep the historical-glyph gate closed and record any ordinary final-pass corrections separately;
-7. synchronize page records and assembled Tamil;
-8. only if zero ordinary source-text items remain unresolved, promote **4/4** pages to `verified`, create `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`, and close Story 5;
-9. **hard stop: do not activate Story 6 `முடியாத தொடர்கதை` in this same activity.**
+1. fetch live `main`;
+2. freshly search exact title `முடியாத தொடர்கதை` and distinguish collection/container matches from canonical story matches;
+3. search distinctive opening fragment `சிறைச்சாலை—இரவு நேரம்` and/or `சங்கு, சந்தனம் என்ற இரண்டு கைதிகள்`;
+4. verify scan 59 opening directly from the PDF;
+5. verify scan 93 ending / terminal boundary;
+6. inspect scan 94 only as forward-boundary advertisement witness;
+7. if no existing canonical story match exists, create a new canonical Story-6 workspace;
+8. create exactly **35 page records**, scans **59–93 / printed 57–91**;
+9. transcribe all 35 pages directly and source-faithfully;
+10. preserve source punctuation, spelling, spacing and old glyph appearances; do not normalize;
+11. mark all 35 records **`needs-review`**;
+12. create/synchronize first-pass assembled Tamil, metadata, page map and review queue;
+13. after all 35 pages are durably present, record that the separate Historical Tamil Glyph Gate is **NEXT**;
+14. **hard stop: do not run the historical-glyph gate in this same activity.**
 
 Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
