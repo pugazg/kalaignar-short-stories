@@ -14,7 +14,7 @@ Direct PDF reinspection corrected the earlier five-story assumption to **six sto
 | 2 | `காசா லேசா` | canonical / Tamil CLOSED |
 | 3 | `சீமான் வீட்டு சீக்காளி` | canonical / Tamil CLOSED |
 | 4 | `நந்தியூர் நரியப்பன்` | canonical / Tamil CLOSED |
-| 5 | `நரியூர் நந்தியப்பன்` | **activated as new canonical; first pass complete** |
+| 5 | `நரியூர் நந்தியப்பன்` | **canonical; first pass complete; glyph gate PASS** |
 | 6 | `முடியாத தொடர்கதை` | waiting; fresh activation search required |
 
 ## Story 5 activation recheck — PASS
@@ -30,9 +30,9 @@ Direct source verification established:
 - scan **58 / printed 56** closes it with a terminal star;
 - scan **59 / printed 57** opens the distinct next story `முடியாத தொடர்கதை`.
 
-Story 5 is therefore routed as new canonical `stories/nariyur-nandiyappan/`, controlled only by scans **55–58 / printed 53–56**.
+Story 5 is routed as new canonical `stories/nariyur-nandiyappan/`, controlled only by scans **55–58 / printed 53–56**.
 
-Its first-pass transcription is now **4/4 COMPLETE**, with every page `needs-review`; the Historical Tamil Glyph Gate is NEXT.
+Current state: first pass **4/4 COMPLETE**; Historical Tamil Glyph Gate **PASS 4/4 / 0 corrections / 0 unresolved**; all four pages remain `needs-review`; separate final source/visual closure is NEXT.
 
 ## Story 6 activation requirement
 
