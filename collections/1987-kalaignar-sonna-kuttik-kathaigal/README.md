@@ -35,26 +35,32 @@ The scan is controlling. Another edition may corroborate identity only; it may n
 
 Do not revert authoritative headings including Story 2 `அராபியக் கதை`, Story 4 `நாராயணா ! நாராயணா !`, Story 6 `மூளி மூக்குக்காரன்`, and Story 10 `இரு நிழல்கள்`.
 
-## English translation phase — STORY LEVEL COMPLETE / FINAL QA PENDING
+## English translation phase — PASS / CLOSED
 
-Tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+Tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)  
+Final release audit: [`FINAL_ENGLISH_RELEASE_AUDIT_2026-09-08.md`](FINAL_ENGLISH_RELEASE_AUDIT_2026-09-08.md)
 
-User-directed normal batch size: **10 stories per iteration**. The final source remainder contained four stories.
+User-directed normal batch size was **10 stories per iteration**. The final source remainder contained four stories.
 
-Current English state:
+Final English state:
 
 - source stories: **25**
 - English PASS: **25 / 25**
 - pending: **0 / 25**
 - needs review: **0**
+- unresolved English review items: **0**
 - Story 1: **PASS**
 - Batch 01 Stories 2–11: **PASS 10/10** — `ENGLISH_BATCH_01_STORIES_0002_0011.md`
 - Batch 02 Stories 12–21: **PASS 10/10** — `ENGLISH_BATCH_02_STORIES_0012_0021.md`
 - Batch 03 final remainder Stories 22–25: **PASS 4/4** — `ENGLISH_BATCH_03_STORIES_0022_0025.md`
-- exact next activity: **collection-wide English final QA / release audit**
+- collection-wide English release audit: **PASS / CLOSED**
 
 Story 2 and Story 11 English remain witness-local. Story 10 English uses authoritative title **Two Shadows** while the legacy directory slug remains for continuity.
 
+The final audit separately confirmed source-page marker order, physical content-boundary alignment, substantive final source spans, witness routing, and Tamil/source immutability.
+
 ## Current phase boundary
 
-Tamil/source remains frozen unless genuinely stronger source evidence proves a targeted reading wrong. Story-level English translation is complete at **25/25 PASS**, but English release closure is deliberately not declared until the collection-wide final QA / release audit PASSes.
+This 1987 collection is **CLOSED under current evidence** at both Tamil/source and English layers. Reopen only for genuinely stronger source evidence or an explicit maintenance/audit request.
+
+Do not begin `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete in the novels workflow.

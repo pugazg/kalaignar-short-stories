@@ -2,11 +2,12 @@
 
 Controlling source: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`  
 Tamil/source release audit: `FINAL_TAMIL_SOURCE_RELEASE_AUDIT_2026-09-07.md` — **PASS / CLOSED**  
+English release audit: `FINAL_ENGLISH_RELEASE_AUDIT_2026-09-08.md` — **PASS / CLOSED**  
 Translation workflow: root `ENGLISH_TRANSLATION_GUIDE.md`
 
 ## Phase rule
 
-The Tamil/source phase is fully closed. The user directed **10 stories per iteration**; Story 1, two ten-story batches, and the final four-story remainder now account for all 25 source stories.
+The Tamil/source phase is fully closed. The user directed **10 stories per iteration**; Story 1, two ten-story batches, and the final four-story remainder account for all 25 source stories.
 
 Story 2 and Story 11 remain 1987 witness-local English and do not overwrite their controlling 2008/2004 canonical English.
 
@@ -18,8 +19,9 @@ Story 2 and Story 11 remain 1987 witness-local English and do not overwrite thei
 - English PASS: **25 / 25**
 - pending: **0 / 25**
 - needs review: **0**
+- unresolved English review items: **0**
 - story-level translation state: **COMPLETE**
-- release state: **FINAL QA / RELEASE AUDIT PENDING**
+- release state: **PASS / CLOSED**
 
 | # | 1987 source heading | Physical span | Translation route | State |
 |---:|---|---|---|---|
@@ -56,8 +58,12 @@ Story 2 and Story 11 remain 1987 witness-local English and do not overwrite thei
 - Batch 02 Stories 12–21: `ENGLISH_BATCH_02_STORIES_0012_0021.md` — **PASS 10/10**
 - Batch 03 final remainder Stories 22–25: `ENGLISH_BATCH_03_STORIES_0022_0025.md` — **PASS 4/4**
 
-## Exact next activity — collection-wide English final QA / release audit
+## Collection-wide release gate
 
-Run the collection-wide final English gate across all 25 source stories. Confirm translation-file inventory, story-local review PASS state, source-page marker order, physical content-boundary alignment, substantive final source spans, fixed witness-only routing for Stories 2 and 11, authoritative Story 10 title `Two Shadows`, and zero Tamil changes made merely for English fluency.
+`FINAL_ENGLISH_RELEASE_AUDIT_2026-09-08.md` records **PASS / CLOSED** after reconciling all 25 source headings and English routes, story-local review status, source-page marker order, physical content-boundary alignment, substantive final source spans, witness-only routing, Story 10 identity, and Tamil/source immutability.
 
-If that collection-wide gate PASSes, record the final English release audit and only then mark the 1987 English phase **PASS / CLOSED**.
+## Current boundary
+
+The 1987 English phase is **25 / 25 PASS / CLOSED**. There is no pending or needs-review item under current evidence.
+
+Do not begin `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete in the novels workflow.
