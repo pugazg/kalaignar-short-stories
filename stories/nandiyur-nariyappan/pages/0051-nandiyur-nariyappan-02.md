@@ -4,10 +4,10 @@ printed_page: 49
 story: "nandiyur-nariyappan"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 கும் எனது ஊர் மக்கள் கருதிக் கொண்டிருப்பதை உலகறியும்.
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 51; printed page: 49 -->
 
-> Historical-glyph gate: **PASS** — native/high-resolution reread complete with no glyph correction required; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

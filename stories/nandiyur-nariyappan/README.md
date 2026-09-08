@@ -23,22 +23,25 @@ Fresh live-main duplicate/canonical searches immediately before activation found
 - even-page running headers inside this story (scans 52 and 54) visibly read **`நரியூர் நந்தியப்பன்`**;
 - scan 55 then opens a **separate new story** under the stylized heading **`நரியூர் நந்தியப்பன்`**.
 
-The terminal star on scan 54 plus the new display opening on scan 55 control the story boundary. The running-header form must not be used to merge or shift these two distinct stories.
+The terminal star on scan 54 plus the new display opening on scan 55 control the story boundary.
 
 ## Tamil/source state
 
-**HISTORICAL TAMIL GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE NEXT.**
+**PASS / CLOSED.**
 
 - physical story pages: **5/5**
 - first-pass transcription: **5/5 complete**
-- independent native/high-resolution Historical Tamil Glyph Gate: **PASS 5/5**
-- historical-glyph corrections required: **0**
+- Historical Tamil Glyph Gate: **PASS 5/5**
+- historical-glyph corrections: **0**
 - unresolved historical-glyph candidates: **0**
-- page status: **5/5 `needs-review`**
-- final source/visual closure: **not started / NEXT**
+- final source/visual closure: **PASS 5/5**
+- ordinary final-pass corrections: **5**
+- unresolved ordinary source-text items: **0**
+- page status: **5/5 `verified`**
+- assembled Tamil: **FINAL / synchronized**
 - English: **not started**
 
-The gate confirmed the first-pass Unicode identities without modernization. Full lexical, punctuation, spacing, cross-page and physical-provenance fidelity remains for the separate final source/visual closure.
+Final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md).
 
 ## Controls
 
@@ -46,8 +49,11 @@ The gate confirmed the first-pass Unicode identities without modernization. Full
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/nandiyur-nariyappan.md`](sections/nandiyur-nariyappan.md)
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+- final source/visual audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
-## Hard stop
+Do not reopen this Tamil/source layer without genuinely stronger source evidence or an explicit maintenance request.
 
-Do not start Story 5 `நரியூர் நந்தியப்பன்` until Story 4's separate final source/visual closure passes.
+## Next anthology activity
+
+Story 5 `நரியூர் நந்தியப்பன்`, scans **55–58 / printed 53–56**, requires a fresh live-main duplicate/canonical search and first-pass activation in a separate activity.

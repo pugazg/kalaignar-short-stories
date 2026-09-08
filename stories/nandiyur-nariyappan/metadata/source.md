@@ -26,13 +26,17 @@
 
 Scans 52 and 54, while still physically inside this story, carry the running header **`நரியூர் நந்தியப்பன்`**. Scan 55 then begins the separate next story with the same wording as a stylized opening heading. Preserve these layers independently; boundary is proven by scan 54 terminal star and scan 55 new opening.
 
-## Current transcription state
+## Final transcription state
 
-- first-pass transcription: **5/5 COMPLETE**;
-- independent native/high-resolution Historical Tamil Glyph Gate: **PASS 5/5**;
-- historical-glyph corrections required: **0**;
-- unresolved historical-glyph candidates: **0**;
-- all page records remain **`needs-review`**;
-- separate final source/visual closure: **NEXT / not started**.
+- first-pass transcription: **5/5 COMPLETE**
+- Historical Tamil Glyph Gate: **PASS 5/5**
+- historical-glyph corrections: **0**
+- unresolved historical-glyph candidates: **0**
+- final source/visual closure: **PASS 5/5**
+- verified page records: **5/5**
+- unresolved ordinary source-text items: **0**
+- assembled Tamil: **FINAL / synchronized**
+- Tamil/source state: **PASS / CLOSED**
+- English: **not started**
 
 The controlling scan decides all source readings. OCR, memory, expected Tamil and contextual modernization are not authorities.

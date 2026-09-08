@@ -1,36 +1,33 @@
 # Possible Errors / Historical-Glyph Review Queue — நந்தியூர் நரியப்பன்
 
-Status: **HISTORICAL TAMIL GLYPH GATE PASS — final source/visual closure NEXT.**
+Status: **CLOSED — Tamil/source PASS; 0 unresolved source/glyph items.**
 
-The dedicated native/high-resolution glyph gate has been completed across scans **50–54 / printed 48–52**.
+## Historical Tamil Glyph Gate
+
+Dedicated native/high-resolution review across scans **50–54 / printed 48–52**:
+
+- PASS **5/5**;
+- historical-glyph corrections: **0**;
+- unresolved historical-glyph candidates: **0**.
 
 Mandatory families checked:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-## Gate result
+## Final source/visual closure
 
-- historical-glyph corrections: **0**;
-- unresolved historical-glyph candidates: **0**;
-- all five page records remain **`needs-review`** because final source/visual closure is separate.
+Final full-text reread: **PASS 5/5**.
 
-## Candidates rechecked and retained from source pixels
+Ordinary corrections resolved:
 
-- scan 50: `நானிலமெங்கணும்`, `ஒளியூராக`;
-- scan 51: `ஆடம்பரந் ததும்பும்`, `என்பால்`;
-- scan 52: `தங்கப்பூண்`, `ஒப்பக்காரர்`, `மகிழ்ச்சி கரமான`, `இப்படி யொரு`;
-- scan 53: `நாடாறுமாதம்`, `காடாறுமாதம்`, `பஞ்சணையின்`, `உள்ளூர்ப் பஞ்சாயத்துக்காரர்தான்`;
-- scan 54: `விக்கிரமாதித்த முறை`.
+- scan 52 `எழுதி கொடுப்பதை` → `எழுதிக் கொடுப்பதை`;
+- scan 52 `அப்படி பழக்கப்பட்டவன் நான்?` → `அப்படி பழக்கப்பட்டவனா நான்?`;
+- scan 53 `லட்சங்களைக் காணாதவனா நான்?` → `லட்சங்களைக் காணாதவன் நான்?`;
+- scan 53 `அந்த முறைப்படி தங்களுக்கு` → `அந்த முறைப்படித் தங்களுக்கு`;
+- scan 54 `தாங்கள் இதை மறுக்க மாட்டீர்கள்` → `தாங்கள் இதனை மறுக்க மாட்டீர்கள்`.
 
-Representative historical-family readings confirmed include scan 50 `சோலைகளில்`, scan 51 `விடுதலைப்` / `நிலைமைகள்`, scan 52 `கணைகளைத்` / `சிந்தனை`, scan 53 `பஞ்சணையின்` / `நாடாறுமாதம்` / `காடாறுமாதம்`, and scan 54 `எல்லையற்ற`.
+Source-odd forms such as `நானிலமெங்கணும்`, `ஆடம்பரந் ததும்பும்`, `தங்கப்பூண்`, `மகிழ்ச்சி கரமான`, `இப்படி யொரு`, `நாடாறுமாதம்`, `காடாறுமாதம்`, `பஞ்சணையின்`, `நந்தியூரில் ஒருமுறை இருக்கிறதல்லவா?`, `சிலநாள்`, and `விக்கிரமாதித்த முறை` were directly rechecked and retained.
 
-## Deferred to separate final source/visual closure
+Cross-page joins, opening/running-header distinction, scan 54 terminal star and scan 55 exclusion are closed in `FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-The glyph gate does not certify ordinary lexical, punctuation, spacing or page-boundary fidelity. The final closure must independently recheck the full story, including:
-
-- scan 50→51 join `இன்றைக் / கும்`;
-- scan 53→54 join `காலமாகிவிட் / டாலும்`;
-- scan 50 opening `நந்தியூர் நரியப்பன்` versus scans 52/54 running header `நரியூர் நந்தியப்பன்`;
-- scan 54 terminal star and scan 55 distinct next-story opening.
-
-No global replacement or silent modernization is authorized.
+Do not reopen without stronger source evidence or an explicit maintenance request.
