@@ -24,15 +24,15 @@
 
 ## Canonical activation
 
-Fresh live-main searches at `7b0f4e37bcf16737032d961162acc058a67f91b8` found no canonical match for:
-
-- `நரியூர் நந்தியப்பன்`
-- `பெருமை மிகுந்த நந்தியப்பருக்கு`
-
-The story is therefore newly canonical at `stories/nariyur-nandiyappan/`.
+Fresh live-main searches at `7b0f4e37bcf16737032d961162acc058a67f91b8` found no canonical match for `நரியூர் நந்தியப்பன்` or `பெருமை மிகுந்த நந்தியப்பருக்கு`. The story is newly canonical at `stories/nariyur-nandiyappan/`.
 
 ## Current transcription state
 
-First-pass source transcription is complete for all **4/4** pages. All records remain **`needs-review`**. The separate native/high-resolution Historical Tamil Glyph Gate has **not started** and is the exact next activity.
+- first-pass transcription: **4/4 COMPLETE**;
+- independent native/high-resolution Historical Tamil Glyph Gate: **PASS 4/4**;
+- historical-glyph corrections required: **0**;
+- unresolved historical-glyph candidates: **0**;
+- page status: **4/4 `needs-review`**;
+- separate final source/visual closure: **NEXT / not started**.
 
 The controlling scan decides all source readings. OCR, memory, expected Tamil and contextual modernization are not authorities.
