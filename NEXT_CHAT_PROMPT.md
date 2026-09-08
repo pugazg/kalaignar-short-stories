@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — Post-1987 Closure / Next-Source Gate
+# NEXT CHAT PROMPT — Kalaignar Short Stories Archive — 1982 `முடியாத தொடர்கதை` / Story 1
 
 Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
@@ -6,49 +6,86 @@ Continue directly in `pugazg/kalaignar-short-stories`, branch `main`.
 
 Fetch live `main` first and preserve newer durable state.
 
-## Closed collection — preserve
+## Do not start `நடுத்தெரு நாராயணி`
 
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/`
+The user has confirmed `வெள்ளிக்கிழமை` is still incomplete. Therefore `நடுத்தெரு நாராயணி` remains blocked.
 
-Controlling PDF: `TVA_BOK_0065566_கலைஞர்_சொன்ன_குட்டிக்_கதைகள்_1987.pdf`
+The active interim source is the user-supplied 1982 anthology `முடியாத தொடர்கதை`.
 
-- 50 scans
-- Second Edition 1987
-- SHA-256 `29c986812f95c43105eec4b38fa9e02c3c4f66cf3c4e8a686b81dd28c1164f0f`
-- Tamil/source phase: **PASS / CLOSED**
-- English phase: **25 / 25 PASS / CLOSED**
-- pending English: **0 / 25**
-- needs review: **0**
-- unresolved English review items: **0**
+## Active collection
 
-Final English release audit:
-`collections/1987-kalaignar-sonna-kuttik-kathaigal/FINAL_ENGLISH_RELEASE_AUDIT_2026-09-08.md`
+`collections/1982-mudiyatha-thodarkathai/`
 
-The final English gate confirmed all 25 source headings against exactly 25 English routes, story-local PASS controls, marker order, physical content-boundary alignment, substantive final source spans, witness-local routing for Stories 2 and 11, authoritative Story 10 title **Two Shadows**, and no Tamil changes made merely for English fluency.
+Controlling PDF:
+`TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf`
 
-Do not reopen this 1987 collection without genuinely stronger source evidence or an explicit maintenance/audit request.
+Recorded source identity:
+
+- **95 scans**
+- **194,350,272 bytes**
+- SHA-256 **`d69034c5374c6c1604ddeb6d8e034c4410ae0d58201f2dd1608edd0e6d8cfd41`**
+- printed title: **முடியாத தொடர்கதை**
+- author: **கலைஞர் மு. கருணாநிதி**
+- publisher: **தமிழோசை பதிப்பகம்**
+- edition: **முதற்பதிப்பு — செப்டம்பர் 1982**
+- image-only; do not commit PDF
+
+## Intake state
+
+- collection registration: **PASS**
+- scan map: **95 / 95 structurally mapped**
+- separate contents page: **not present**
+- story inventory: **5 / 5 COMPLETE**
+- initial duplicate/canonical search: **no existing match found for all 5 headings**
+- Tamil processed: **0 / 5**
+
+Story inventory:
+
+1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans **7–28**, printed **5–26**
+2. `காசா லேசா` — scans **29–40**, printed **27–38**
+3. `சீமான் வீட்டு சீக்காளி` — scans **41–49**, printed **39–47**
+4. `நந்தியூர் நரியப்பன்` — scans **50–58**, printed **48–56**
+5. `முடியாத தொடர்கதை` — scans **59–93**, printed **57–91**
+
+Scan 94 is a non-story advertisement; scan 95 is the back cover.
 
 ## Mandatory startup
 
-Read before any new short-story production:
+Read before source-dependent writes:
 
 1. `SHORT_STORY_PROCESSING_GUIDE.md`
 2. `COLLECTION_SOURCE_GUIDE.md`
 3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-4. `ENGLISH_TRANSLATION_GUIDE.md`
-5. root `HANDOVER.md`
-6. this prompt
-7. the 1987 final English release audit only as a closed-state reference
+4. root `HANDOVER.md`
+5. this prompt
+6. `collections/1982-mudiyatha-thodarkathai/README.md`
+7. `collections/1982-mudiyatha-thodarkathai/metadata/source.md`
+8. `collections/1982-mudiyatha-thodarkathai/indexes/story-inventory.md`
+9. `collections/1982-mudiyatha-thodarkathai/indexes/scan-map.md`
+10. `collections/1982-mudiyatha-thodarkathai/DUPLICATE_AUDIT.md`
 
-## Exact next activity — cross-project gate check
+Resolve/attach the controlling PDF before page-level source transcription. Never substitute OCR memory or prior-chat prose for the scan.
 
-The planned next short-story source is `நடுத்தெரு நாராயணி`, but the user has explicitly blocked its start while `வெள்ளிக்கிழமை` remains incomplete.
+## Exact next activity — Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`
 
-Therefore:
+Physical range:
 
-1. fetch live `main` from `pugazg/kalaignar-novels`;
-2. inspect the durable `works/vellikkizhamai/` state and its authoritative handover/progress controls;
-3. if `வெள்ளிக்கிழமை` is **not COMPLETE/CLOSED**, do **not** start `நடுத்தெரு நாராயணி`; make no speculative short-story production changes and wait for an explicitly eligible maintenance/new-source task;
-4. if `வெள்ளிக்கிழமை` is **COMPLETE/CLOSED**, return to `pugazg/kalaignar-short-stories` and begin `நடுத்தெரு நாராயணி` only after resolving its controlling source and running normal source intake / duplicate-identity checks.
+- PDF scans **7–28**
+- printed pages **5–26**
+- first scan: **7**, opening heading `பெற்ற பிள்ளையை விற்ற தாய்`
+- last scan: **28**, story closes with a terminal star
+- forward boundary witness: **scan 29**, opening Story 2 `காசா லேசா`
 
-Do not infer `வெள்ளிக்கிழமை` completion from an old copied prompt; live durable state in `pugazg/kalaignar-novels` controls.
+Required work:
+
+1. rerun repository duplicate/canonical-identity search for Story 1 on live `main`;
+2. if still no canonical match, create a new canonical story workspace only for Story 1;
+3. register the 1982 anthology range as the controlling source for that story;
+4. create page records for exactly scans 7–28, retaining anthology scan + printed-page coordinates;
+5. perform source-faithful Pass 1 transcription directly from the scan;
+6. then reopen every page independently at native/high resolution for historical-glyph Pass 2, explicitly checking all 13 mandatory families;
+7. preserve punctuation, spacing, source-odd forms and physical page boundaries; do not global-replace or modernize;
+8. maintain `POSSIBLE_ERRORS_FOR_REVIEW.md` for genuinely suspicious readings;
+9. synchronize story README, collection inventory/scan map, root `HANDOVER.md` and this prompt when the story activity closes.
+
+Process **only Story 1** in this activity. Do not begin Story 2 `காசா லேசா` until the next user-directed `Proceed with next activity` or an explicit change to the one-story rule.
