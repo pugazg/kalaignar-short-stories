@@ -14,7 +14,7 @@ Total scans: **95**
 | 29–40 | 27–38 | Story 2 — `காசா லேசா` | **PASS / CLOSED — 12/12 verified** |
 | 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | **PASS / CLOSED — 9/9 verified** |
 | 50–54 | 48–52 | Story 4 — `நந்தியூர் நரியப்பன்` | **PASS / CLOSED — 5/5 verified** |
-| 55–58 | 53–56 | Story 5 — `நரியூர் நந்தியப்பன்` | **first pass 4/4 COMPLETE; historical-glyph gate NEXT** |
+| 55–58 | 53–56 | Story 5 — `நரியூர் நந்தியப்பன்` | **first pass 4/4 COMPLETE; historical-glyph gate PASS 4/4; final closure NEXT** |
 | 59–93 | 57–91 | Story 6 — `முடியாத தொடர்கதை` | mapped; waiting |
 | 94 | — | advertisement | mapped; non-story |
 | 95 | — | back cover | mapped; non-story |
@@ -34,6 +34,6 @@ For printed pages **3–91**: `PDF scan = printed page + 2`.
 
 Story-4 running headers on scans 52 and 54 read `நரியூர் நந்தியப்பன்`; this does not alter the physical boundary proven at scan 54→55.
 
-## Next active gate
+## Next active activity
 
-Story 5 `நரியூர் நந்தியப்பன்`: separate native/high-resolution Historical Tamil Glyph Gate across scans **55–58**. Do not begin final closure or Story 6 in the same activity.
+Story 5 `நரியூர் நந்தியப்பன்`: separate final source/visual closure across scans **55–58**. Keep the Historical Tamil Glyph Gate closed; do not activate Story 6 in the same activity.
