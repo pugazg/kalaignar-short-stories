@@ -6,4 +6,5 @@ Story **7 / 25**, distinct canonical identity; not the 2004 `சொர்க்�
 - page records: **3 / 3 verified**
 - two-pass historical-glyph audit: **PASS**
 - unresolved text: 0
-- English: not authorized
+- English: **PASS** — `translations/en/sorgaththirku-senruvantha-azhagi.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`

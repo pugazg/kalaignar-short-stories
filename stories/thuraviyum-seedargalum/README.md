@@ -6,4 +6,5 @@ Story **5 / 25**, distinct canonical identity.
 - page records: **3 / 3 verified**
 - historical-glyph Pass 2: **PASS**
 - unresolved text: 0
-- English: not authorized
+- English: **PASS** — `translations/en/thuraviyum-seedargalum.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`

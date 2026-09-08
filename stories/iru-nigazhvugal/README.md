@@ -7,6 +7,7 @@ Story **10 / 25** in the 1987 `கலைஞர் சொன்ன குட்�
 - controlling span: **lower scan 20 → scan 21 → scan 22 → upper scan 23**
 - Tamil source transcription: **verified** after Pass 1 + independent native/high-resolution Pass 2 + retrospective source/glyph re-audit
 - unresolved lexical/glyph locations: **0**
-- English: **not authorized**
+- English: **PASS** — `translations/en/iru-nigazhvugal.md`, title **Two Shadows**
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`
 
-The directory slug predates the corrected title and is retained temporarily for repository continuity; the source title above controls the text layer until a coordinated path migration is performed.
+The directory slug predates the corrected title and is retained temporarily for repository continuity; the source title above controls the text and English layers until a coordinated path migration is performed.

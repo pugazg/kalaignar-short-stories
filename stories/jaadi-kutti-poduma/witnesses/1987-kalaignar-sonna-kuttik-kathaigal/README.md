@@ -11,5 +11,7 @@ This directory records the 1987 **`கலைஞர் சொன்ன குட�
 - 1987 page transcription: **2 / 2 verified**
 - independent historical-glyph Pass 2: **2 / 2 PASS**
 - unresolved 1987 witness text: **0**
+- 1987 witness-local English: **PASS** — `translations/en/arabiyak-kathai.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`
 
 The controlling canonical 2008 Tamil and English remain unchanged.

@@ -6,4 +6,5 @@ Story **8 / 25**, distinct from canonical 1977 `சித்தார்த்�
 - page records: **4 / 4 verified**
 - historical-glyph audit: PASS
 - unresolved text: 0
-- English: not authorized
+- English: **PASS** — `translations/en/buddhar-unarththiya-unmai.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`

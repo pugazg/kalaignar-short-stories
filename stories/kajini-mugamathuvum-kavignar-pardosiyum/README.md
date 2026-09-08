@@ -2,7 +2,7 @@
 
 Story **9 / 25**, distinct canonical identity.
 
-## Current state — TAMIL SOURCE / GLYPH PASS
+## Current state — TAMIL SOURCE / GLYPH PASS + ENGLISH PASS
 
 - authoritative physical span: **lower scan 18 → scan 19 → upper scan 20**
 - page records: **3 / 3 verified after source review + independent historical-glyph review**
@@ -10,4 +10,5 @@ Story **9 / 25**, distinct canonical identity.
 - upper scan 20 closes the story and is verified;
 - story-wide Tamil assembly: **complete**;
 - unresolved Tamil/source/glyph locations: **0**;
-- English: not authorized.
+- English: **PASS** — `translations/en/kajini-mugamathuvum-kavignar-pardosiyum.md`;
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`.

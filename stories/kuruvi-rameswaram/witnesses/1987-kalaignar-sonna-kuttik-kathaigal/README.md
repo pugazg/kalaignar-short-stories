@@ -25,6 +25,8 @@ The controlling canonical edition remains the 2004 source at `stories/kuruvi-ram
 - exact 1987 line-by-line transcription: **PASS**
 - 1987 historical-glyph 13-family audit: **PASS**
 - unresolved 1987 lexical/glyph locations: **0**
+- 1987 witness-local English: **PASS** — `translations/en/kuruvi-rameswaram.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`
 - canonical 2004 Tamil changed: **No**
 - canonical English changed: **No**
 

@@ -7,4 +7,5 @@ Story **6 / 25**, distinct canonical identity.
 - title high-resolution correction retained: **`மூளி மூக்குக்காரன்`**
 - historical-glyph audit: PASS
 - unresolved text: 0
-- English: not authorized
+- English: **PASS** — `translations/en/mooli-mookkukkaran.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`

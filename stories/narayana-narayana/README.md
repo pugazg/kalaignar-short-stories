@@ -8,4 +8,5 @@ Story **4 / 25**, distinct canonical identity.
 - historical-glyph audit: **PASS**
 - title: authoritative historical `ணா`; spaces before `!` preserved
 - unresolved text: 0
-- English: not authorized
+- English: **PASS** — `translations/en/narayana-narayana.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`

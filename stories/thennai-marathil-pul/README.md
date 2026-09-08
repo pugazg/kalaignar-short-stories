@@ -8,4 +8,5 @@ Story **3 / 25** in `கலைஞர் சொன்ன குட்டிக்
 - page text: **1 / 1 verified**
 - two-pass historical-glyph audit: **PASS**
 - unresolved text: **0**
-- English: not authorized
+- English: **PASS** — `translations/en/thennai-marathil-pul.md`
+- translation review: **PASS** — `TRANSLATION_REVIEW.md`
