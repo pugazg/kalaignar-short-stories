@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 படுக்க வைத்துத் தங்களால் இயன்ற சிகிச்சைகளைத் தொடங்கினர்.
@@ -40,4 +40,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 47; printed page: 45 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; `எதிர் கொண்டழைத்தாள்` retained as printed; final source/visual closure pending; page remains `needs-review`.
