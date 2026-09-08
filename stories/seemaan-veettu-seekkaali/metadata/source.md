@@ -30,6 +30,8 @@
 
 ## Current transcription state
 
-First-pass source transcription is complete for all **9/9** story pages. All page records remain **`needs-review`**. The separate native/high-resolution Historical Tamil Glyph Gate has **not started** and is the exact next activity.
+First-pass source transcription is complete for all **9/9** story pages. The separate native/high-resolution Historical Tamil Glyph Gate is **PASS 9/9 with 0 unresolved candidates**. Two source-pixel glyph corrections were established: scan 45 `தலைவிரிகோலமாக!` and physical scan 46 `உடலைக்`.
+
+All page records remain **`needs-review`** because the separate final source/visual closure is still pending. That final pass must also reconcile the known scan-45→46 physical page-boundary provenance issue.
 
 The scan remains controlling. OCR, memory, expected Tamil, and contextual modernization are not authorities.
