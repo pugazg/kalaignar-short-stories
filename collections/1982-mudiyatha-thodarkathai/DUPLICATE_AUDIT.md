@@ -18,7 +18,7 @@ Branch authority: live `main`
 
 ## Story 1 activation recheck — PASS
 
-Immediately before Story 1 activation, live `main` was rechecked and no canonical match existed. Story 1 therefore became new canonical `stories/petra-pillaiyai-vitra-thaai/`, controlled by scans **7–28 / printed 5–26**.
+Immediately before Story 1 activation, live `main` was rechecked and no canonical match existed. Story 1 therefore became new canonical `stories/petra-pillaiyai-vitra-thaai/`, controlled by scans **7–28 / printed 5–26**. Story 1 is now Tamil/source PASS / CLOSED.
 
 ## Story 2 activation recheck — PASS
 
@@ -28,13 +28,19 @@ Routing therefore became:
 
 - new canonical workspace: `stories/kaasa-lesa/`;
 - controlling source: 1982 `முடியாத தொடர்கதை`, scans **29–40 / printed 27–38**;
-- first-pass workspace became durable at `cd953e2e2d1ecd28fb242a1abf654ff2a4842c26`.
+- first-pass workspace durable at `cd953e2e2d1ecd28fb242a1abf654ff2a4842c26`;
+- Historical Tamil Glyph Gate: PASS;
+- final source/visual closure: PASS;
+- final verified pages: **12/12**;
+- unresolved source/glyph items: **0**.
 
-The Story-2 activation result does not pre-authorize Stories 3–5. Each must be searched again against live `main` when it becomes active.
+Final audit: `stories/kaasa-lesa/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-## Current Story 2 state
+## Story 3 activation requirement — NEXT
 
-First-pass transcription is complete. The dedicated native/high-resolution Historical Tamil Glyph Gate is **PASS 12/12** with zero unresolved historical-glyph candidates. The separate final source/visual closure is next.
+The intake result does **not** authorize Story 3 automatically. Immediately before Story-3 activation, fetch live `main` and freshly search exact heading **`சீமான் வீட்டு சீக்காளி`** plus distinctive source fragments. Only if no existing canonical match is found may a new Story-3 workspace be created for scans **41–49 / printed 39–47**.
+
+Stories 4–5 likewise require fresh searches when activated.
 
 ## Important identity note — collection versus Story 5
 

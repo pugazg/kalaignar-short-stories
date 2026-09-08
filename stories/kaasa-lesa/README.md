@@ -14,39 +14,45 @@ Canonical story workspace for **`காசா லேசா`**, activated from th
 - forward boundary witness: **scan 41 — `சீமான் வீட்டு சீக்காளி`**
 - source PDF committed to GitHub: **No**
 
-Fresh live-main duplicate/canonical searches immediately before activation found no existing canonical match for the exact title or distinctive opening fragments. This 1982 range is therefore the controlling source for a new canonical story workspace.
+Fresh live-main duplicate/canonical searches immediately before activation found no existing canonical match for the exact title or distinctive opening fragments. This 1982 range is therefore the controlling source for this canonical story workspace.
 
 ## Source-title distinction
 
 - scan 29 stylized story-opening heading: **`காசா லேசா`**;
-- later running headers: **`காசா லேசா!`**.
+- even-page running headers through scan 38: **`காசா லேசா!`**;
+- scan 40 running header: **`காசாலேசா!`**.
 
-These are source-layer variants and are not silently normalized into one form.
+These source-layer variants are preserved rather than silently normalized.
 
 ## Tamil/source state
 
-**HISTORICAL-GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE PENDING.**
+**PASS / CLOSED.**
 
 - physical story pages: **12/12**
-- first-pass page transcriptions: **12/12 complete**
-- page status: **12/12 `needs-review`**
-- independent native/high-resolution historical-glyph review: **12/12 complete**
-- historical-glyph gate: **PASS**
+- first-pass transcription: **12/12 complete**
+- independent native/high-resolution Historical Tamil Glyph review: **12/12 complete**
+- Historical Tamil Glyph Gate: **PASS**
 - unresolved historical-glyph candidates: **0**
-- source-pixel glyph corrections: **3** — `காலணா`, `வாறே`, `ஊழலை`
-- final source/visual closure: **not started**
+- source-pixel historical-glyph corrections: **3** — `காலணா`, `வாறே`, `ஊழலை`
+- separate final source/visual closure: **PASS**
+- verified page records: **12/12**
+- unresolved ordinary source-text items: **0**
+- assembled Tamil: **FINAL / synchronized**
 - English: **not started**
 
-The user's 1982 phase rule requires the complete transcription to exist before a separate high-resolution historical-glyph pass. No page may be promoted to `verified` until that pass closes and the separate final source/visual closure also PASSes.
+Do not reopen this Tamil/source layer without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Controls
 
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
-- first-pass assembled Tamil: [`sections/kaasa-lesa.md`](sections/kaasa-lesa.md)
+- final assembled Tamil: [`sections/kaasa-lesa.md`](sections/kaasa-lesa.md)
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
-- possible-error / glyph review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) — **CLOSED for glyph identity / 0 unresolved**
+- possible-error / glyph review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- final source/visual audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
 
-## Exact next activity
+## Closure boundary
 
-Run the **separate final source/visual closure** across scans **29–40**. Recheck full phrase/clause/sentence fidelity, punctuation/spacing, cross-page continuations, scan 40 terminal star, scan 41 forward-boundary exclusion, page records versus assembled Tamil, and all ordinary source-text uncertainties. Keep all pages `needs-review` until that closure PASSes. Do not start Story 3 in the same activity.
+Scan 40 closes this story with the final paragraph and star. Scan 41 visibly opens **`சீமான் வீட்டு சீக்காளி`** and is excluded.
+
+The collection may advance to Story 3 only in a later activity, beginning with a fresh live-main duplicate/canonical search. Story 3 was not started as part of this closure.

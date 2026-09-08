@@ -4,15 +4,15 @@ printed_page: 36
 story: "kaasa-lesa"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
 “அதைத்தான் நகரசபைகளுக்கான நிர்வாகத்திற்கு அனுப்பிவிட்டார்களே!”
 
-“ஓகோ! இலாகாக்களுக்கு எருமையும் நத்தையையும் வைத்து கொண்டு தெருவில் மனிதர்கள் மீது மோத மட்டும், மான் வாகனம்; முயல் வாகனங்களை வைத்திருக்கிறார்களோ?”
+“ஓகோ! இலாகாக்களுக்கு எருமையும் நத்தையையும் வைத்துக் கொண்டு தெருவில் மனிதர்கள் மீது மோத மட்டும், மான் வாகனம்; முயல் வாகனங்களை வைத்திருக்கிறார்களோ?”
 
 “அது கிடக்கட்டும்; வா போவோம்!”
 
@@ -22,9 +22,9 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 “யம லோகமா? அங்கே பஞ்சாயத்து யூனியன்; முனிசிபாலிடி; கார்ப்பரேஷன்; சட்டசபை; மேல்சபை பார்லிமெண்ட், ராஜ்ய சபா முதலியவைகள் உண்டா? கட்சிகள் உண்டா? தேர்தல்கள் உண்டா?”
 
-“ஒரு சனியனும் இல்லை. ஒரே அமைதியான உலகம்.”
+“ஒரு சனியனும் இல்ல. ஒரே அமைதியான உலகம்.”
 
-“சே! சே! அமைதியான இடமே எனக்குப் பிடிக்காது! என் காரியம் நடக்க அமளி துமளி அதிகம் இருக்க வேண்டும்; அதனால் நான் உன்னுடன் வருவதற்கில்லை”,
+“சே! சே! அமைதியான இடமே எனக்குப் பிடிக்காது! என் காரியம் நடக்க அமளி துமளி அதிகம் இருக்க வேண்டும்; அதனால் நான் உன்னுடன் வருவதற்கில்ல”,
 
 “அய்யய்யோ; மிஸ்டர் லஞ்சய்யா நீங்கள் அப்படிச் சொல்லக் கூடாது. பிறகு நான் கடமையிலிருந்து தவறி விட்டேன் என்ற களங்கம் வந்து சேரும்”
 
@@ -32,4 +32,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 38; printed page: 36 -->
 
-> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

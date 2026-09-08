@@ -36,12 +36,12 @@ No separate printed contents page was found. The five-story inventory was establ
 | # | Opening heading | PDF scans | Printed pages | Repository state |
 |---:|---|---:|---:|---|
 | 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **Tamil/source PASS / CLOSED — 22/22 verified** |
-| 2 | `காசா லேசா` | 29–40 | 27–38 | **FIRST PASS 12/12 + HISTORICAL-GLYPH GATE PASS — final source/visual closure NEXT** |
-| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | waiting; do not start in Story-2 closure activity |
+| 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
+| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **NEXT — fresh canonical recheck + first-pass transcription** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–58 | 48–56 | waiting |
 | 5 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | waiting |
 
-`காசா லேசா` and `சீமான் வீட்டு சீக்காளி` appear without a visible terminal exclamation mark in their stylized opening headings, while subsequent running headers use `காசா லேசா!` and `சீமான் வீட்டு சீக்காளி!`. Keep those source-layer forms distinct rather than silently normalizing them.
+Opening headings and running headers are source layers, not normalized titles. Story 2 opens as `காசா லேசா`; even-page headers through scan 38 use `காசா லேசா!`; scan 40 uses joined `காசாலேசா!`. Story 3 likewise opens without a visible terminal exclamation mark while later running headers may use `சீமான் வீட்டு சீக்காளி!`.
 
 ## 1982 old-glyph phase rule — user directed
 
@@ -59,35 +59,25 @@ For **each story**:
 
 `பெற்ற பிள்ளையை விற்ற தாய்` is **Tamil/source PASS / CLOSED**: scans **7–28 / printed 5–26**, 22/22 verified, historical-glyph gate PASS, final source/visual closure PASS. Final audit: `stories/petra-pillaiyai-vitra-thaai/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-## Story 2 — current durable state
+## Story 2 closure
 
-Workspace: `stories/kaasa-lesa/`
+`காசா லேசா` is **Tamil/source PASS / CLOSED**: scans **29–40 / printed 27–38**, 12/12 verified, Historical Tamil Glyph Gate PASS, final source/visual closure PASS, 0 unresolved source/glyph items. Final audit: `stories/kaasa-lesa/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
 
-- live-main duplicate/canonical activation recheck: **PASS — no existing canonical match**;
-- route: **new canonical**, controlled by this 1982 range;
-- scans **29–40 / printed 27–38**;
-- first-pass transcription: **12/12 complete**;
-- page status: **12/12 `needs-review`**;
-- independent native/high-resolution historical-glyph reread: **12/12 complete**;
-- Historical Tamil Glyph Gate: **PASS**;
-- unresolved historical-glyph candidates: **0**;
-- source-pixel glyph corrections synchronized: `காலணா`, `வாறே`, `ஊழலை`;
-- separate final source/visual closure: **NEXT / not yet run**;
-- English: **not started**.
-
-Gate record: `stories/kaasa-lesa/HISTORICAL_GLYPH_GATE.md`.
+Do not reopen Story 1 or Story 2 without genuinely stronger source evidence or an explicit maintenance request.
 
 ## Processing state
 
 - collection source registration: **PASS**
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **5/5 COMPLETE**
-- Tamil/source stories closed: **1/5**
-- Story 2: **glyph gate PASS, final source/visual closure pending**
+- Tamil/source stories closed: **2/5**
+- next anthology story: **Story 3 `சீமான் வீட்டு சீக்காளி`**
 - English: **not started**
 
 ## Exact next activity
 
-Run Story 2 **`காசா லேசா`** final source/visual closure across scans **29–40 / printed 27–38**. Recheck complete phrase/clause/sentence fidelity, punctuation/spacing, physical page continuations, scan 40 terminal star, scan 41 forward boundary `சீமான் வீட்டு சீக்காளி`, page records versus assembled Tamil, and ordinary source-text uncertainties. Only after that PASS may Story 2 be promoted to 12/12 `verified` and collection controls advance to Story 3.
+Begin Story 3 **`சீமான் வீட்டு சீக்காளி`** only after fetching live `main` and rerunning the required duplicate/canonical-identity search. Physical range: scans **41–49 / printed 39–47**; scan 49 terminal star; scan 50 forward witness opens `நந்தியூர் நரியப்பன்`.
+
+The next activity is Story-3 activation + source-faithful **first-pass transcription only**. Keep all Story-3 pages `needs-review`; do not run its historical-glyph gate until the complete first pass is durably present. Do not pre-create Story 4.
 
 `நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.

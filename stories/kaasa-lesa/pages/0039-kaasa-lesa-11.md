@@ -4,19 +4,19 @@ printed_page: 37
 story: "kaasa-lesa"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
-ஒரு வேலையும் அறியாத நான்; திருவுளச் சீட்டின் மூலம் மிகப்பாடுபட்டு இந்த லட்ச ரூபாய் வீட்டையும், ஐம்பதாயிரம் ரூபாய் நிலத்தையும் சேர்த்து வைத்திருக்கிறேன். அது என் சந்ததிக்குப் போதுமா? அதனால் ஒரு நிபந்தனை; நான் உன்னோடு வருவதாக இருந்தால் ஐந்து லட்ச ரூபாய்க்கு இப்போதே “செக்” தரவேண்டும்.
+ஒரு வேலையும் அறியாத நான்; திருவுளச் சீட்டின் மூலம் மிகப்பாடுபட்டு இந்த லட்ச ரூபாய் வீட்டையும், ஐம்பதாயிரம் ரூபாய் நிலத்தையும் சேர்த்துவைத்திருக்கிறேன். அது என் சந்ததிக்குப் போதுமா? அதனால் ஒரு நிபந்தனை; நான் உன்னோடு வருவதாக இருந்தால் ஐந்து லட்ச ரூபாய்க்கு இப்போதே “செக்” தரவேண்டும்.
 
 இதைக் கேட்டு எமதர்மனுக்குத் தலை கிறுகிறுத்தது; “சாவதற்கும் லஞ்சமா?” என்று முணுமுணுக்கிறான்.
 
 நான் அடுத்த ஜென்மம் பிறப்பதாயிருந்தால் அதற்கும் கேட்பேன் தெரியுமா தோழா!”
 
-“தயவு செய்து; நீ அடுத்த பிறவி எடுக்க வேண்டாம்; அதற்கும் சேர்த்து இப்போதே கேட்டுவிடு; கொஞ்சம் ‘கன்சஷன்’ கொடு!”
+“தயவு செய்து; நீ அடுத்த பிறவி எடுக்க வேண்டாம்; அதற்கும் சேர்த்து இப்போதே கேட்டுவிடு; கொஞ்சம் “கன்சஷன்” கொடு!”
 
 “பரவாயில்லை; பத்து லட்சமாகக் கொடுத்துடு”
 
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 39; printed page: 37 -->
 
-> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

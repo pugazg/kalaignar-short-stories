@@ -4,13 +4,13 @@ printed_page: 34
 story: "kaasa-lesa"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure PASS"
 ---
 
-பார்த்திருக்கிறேன்—அந்த அணியில் இப்படியும் ஒரு பிறவியா?” என்று ஆவேசம் கொப்பளிக்கக் கேள்விக் கணை எழுப்புகிறான். அதற்கு இன்ஸ்பெக்டர் லஞ்சய்யா வெகு மென்மையான பதில் ஒன்றை மிக பண்பாகக் கூறுகிறார். “அவர்கள் எல்லாம் பிழைக்கத் தெரியாத போலீஸ் அதிகாரிகள். காற்றுள்ள போதே தூற்றிக் கொள்ள வேண்டும் என்ற முதுமொழியைக் கடைபிடிப்பவன் நான்; அதுல நீயும் தப்பலாம்; ஐம்பது இருந்தால் எடு!”
+பார்த்திருக்கிறேன்—அந்த அணியில் இப்படியும் ஒரு பிறவியா?” என்று ஆவேசம் கொப்பளிக்கக் கேள்விக் கணை எழுப்புகிறான். அதற்கு இன்ஸ்பெக்டர் லஞ்சய்யா வெகு மென்மையான பதில் ஒன்றை மிக பவ்வியமாகக் கூறுகிறார். “அவர்கள் எல்லாம் பிழைக்கத் தெரியாத போலீஸ் அதிகாரிகள். காற்றுள்ள போதே தூற்றிக் கொள்ள வேண்டும் என்ற முதுமொழியைக் கடுமையாகக் கடைப்பிடிப்பவன் நான்; அதுல நீயும் தப்பலாம்; ஐம்பது இருந்தால் எடு!”
 
 உடனே ஒரு பூகம்ப அதிர்ச்சி—எரிமலையின் தீக் குழம்பு நாலா பக்கங்களிலும் சிதறுகிறது—புயல் காற்று; விஷத்தைக் கக்குகிறது—ஆஸ்பத்திரியின் கட்டிடங்கள் தூள்! தூள்! ஒரே நெருப்புத் தாண்டவம்! ஊரே எரிகிறது! உலகமே எரிகிறது! சிறிது நேரத்தில் அமைதி!
 
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 36; printed page: 34 -->
 
-> Historical-glyph gate: **PASS** — independent native/high-resolution reread complete; final source/visual closure pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure **PASS**; page is `verified`.

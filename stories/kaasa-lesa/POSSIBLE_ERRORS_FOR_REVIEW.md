@@ -1,29 +1,23 @@
 # Possible Errors / Historical-Glyph Review Queue — காசா லேசா
 
-Status: **HISTORICAL-GLYPH QUEUE CLOSED — gate PASS / 0 unresolved historical-glyph candidates.**
+Status: **CLOSED — Historical Tamil Glyph Gate PASS; final source/visual closure PASS; unresolved source/glyph items 0.**
 
-The controlling scan decided every reading. This file records the dedicated post-transcription native/high-resolution gate; ordinary source/visual fidelity is still pending in the separate final closure.
+The controlling scan decided every reading. The dedicated native/high-resolution historical-glyph gate and the later independent ordinary source/visual closure are kept as separate audit layers.
 
-## Mandatory gate coverage — COMPLETE
+## Historical-glyph corrections
 
-Every page, scans **29–40**, was reopened at native/high resolution and explicitly checked for:
+1. scan 30: `காலண காசு` → **`காலணா காசு`**;
+2. scan 31: `வாரே` → **`வாறே`**;
+3. scan 32: `ஊழில் ஒழிக்கவே` → **`ஊழலை ஒழிக்கவே`**.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+Historical-glyph audit: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).
 
-Other suspicious old ligatures, faint vowel marks and touching characters were also reviewed.
+## Final ordinary source/visual review
 
-## Corrections closed by source pixels
+The separate final reread resolved all remaining ordinary lexical, punctuation and spacing issues from scans 29–40. The complete correction ledger is in [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md).
 
-1. scan 30: `காலண காசு` → **`காலணா காசு`** — historical `ணா`; corroborated by same-edition `அண்ணாந்து` form on scan 31.
-2. scan 31: `வாரே` → **`வாறே`** — source character identity is `றே`, verified from native pixels and same-page `ற` forms.
-3. scan 32: `ஊழில் ஒழிக்கவே` → **`ஊழலை ஒழிக்கவே`** — historical `லை`; compared against same-page `ஆலிலை` / `தலையில்` typeforms.
+Source-odd readings deliberately retained include `ஒன்றுயின்`, `எழெட்டு`, `கண்ணெல்லாம் புண்ணை`, the scan-39 quotation anomaly, and `காசாலேசா! காசாலே; நீ; சா!`.
 
-## Source-odd readings deliberately retained
+Final unresolved candidates: **0**.
 
-- scan 32 `ஒன்றுயின்` — native pixels support the printed form; no context-based normalization;
-- scan 29 opening `காசா லேசா` versus running-header `காசா லேசா!` — source-layer distinction retained;
-- scan 39 `காசாலேசா! காசாலே; நீ; சா!` — retained at glyph gate exactly as read from the scan.
-
-Historical-glyph gate record: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).
-
-Next: **separate final source/visual closure**. Page status remains `needs-review` until that later gate PASSes.
+All **12/12** page records are `verified`. Do not reopen without stronger source evidence or an explicit maintenance request.
