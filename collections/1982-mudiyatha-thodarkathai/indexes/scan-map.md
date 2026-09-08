@@ -12,7 +12,7 @@ Total scans: **95**
 | 5–6 | 3–4 | `பதிப்புரை` | mapped |
 | 7–28 | 5–26 | Story 1 — `பெற்ற பிள்ளையை விற்ற தாய்` | **Tamil/source PASS / CLOSED — 22/22 verified** |
 | 29–40 | 27–38 | Story 2 — `காசா லேசா` | **Tamil/source PASS / CLOSED — 12/12 verified** |
-| 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | **first pass 9/9 COMPLETE; historical-glyph gate NEXT** |
+| 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | **first pass 9/9 COMPLETE; historical-glyph gate PASS 9/9; final source/visual closure NEXT** |
 | 50–58 | 48–56 | Story 4 — `நந்தியூர் நரியப்பன்` | mapped; waiting |
 | 59–93 | 57–91 | Story 5 — `முடியாத தொடர்கதை` | mapped; waiting |
 | 94 | — | advertisement / next-publication page | mapped; non-story |
@@ -26,10 +26,16 @@ For printed pages **3–91**: `PDF scan = printed page + 2`.
 
 - scan 28 → 29: Story 1 closes / Story 2 opens — verified;
 - scan 40 → 41: Story 2 closes / Story 3 opens — verified;
-- scan 49 → 50: Story 3 closes / Story 4 opens — **directly rechecked during Story-3 activation; scan 49 terminal star and scan 50 `நந்தியூர் நரியப்பன்` opening confirmed**;
+- scan 49 → 50: Story 3 closes / Story 4 opens — directly rechecked during Story-3 activation; scan 49 terminal star and scan 50 `நந்தியூர் நரியப்பன்` opening confirmed;
 - scan 58 → 59: Story 4 closes / Story 5 opens;
 - scan 93 → 94: Story 5 closes / advertisement begins.
 
+## Story 3 current gate
+
+Historical Tamil Glyph Gate: **PASS 9/9 / 0 unresolved**. All Story-3 page records remain `needs-review` pending the separate final source/visual closure.
+
+Known physical-provenance issue for that closure: the first-pass page record boundary around scan **45 → 46** must be reconciled; reading order is intact but text beginning `சீமான் உதவியை நாடி வந்த...` crosses the physical boundary.
+
 ## Next active gate
 
-Story 3 `சீமான் வீட்டு சீக்காளி`: separate native/high-resolution Historical Tamil Glyph Gate across scans **41–49**. Do not begin final source/visual closure in the same activity.
+Story 3 `சீமான் வீட்டு சீக்காளி`: separate final source/visual closure across scans **41–49**. Do not start Story 4 in the same activity.
