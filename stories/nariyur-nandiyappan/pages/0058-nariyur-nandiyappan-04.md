@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 மல்; எனக்கு வந்த பெருவாய்ப்பாகக் கருதித்தான் ஏற்றுக் கொள்கிறேன். மடலில் தாங்கள் உறுதியளித்துள்ளபடி; ஒப்பக்காரர் பதவியில் ஒரு வாரமும் ஊர் சுற்றுவது ஒன்பது வாரமும் என்ற முறையைக் கடைப்பிடிப்பீர்கள் என்று நம்புகிறேன்.
@@ -22,4 +22,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 58; printed page: 56 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — final source/visual closure pending; page remains `needs-review`.
