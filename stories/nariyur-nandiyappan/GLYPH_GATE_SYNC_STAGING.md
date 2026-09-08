@@ -1,0 +1,1 @@
+Temporary synchronization marker for Story 5 historical-glyph gate. This file will be removed by the atomic synchronization commit.
