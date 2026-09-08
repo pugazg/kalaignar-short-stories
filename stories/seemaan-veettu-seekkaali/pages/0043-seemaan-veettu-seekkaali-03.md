@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; independent native/high-resolution historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 அடுத்த மாதம் கல்யாணத்தை சந்தோஷமா நடத்தலாம்...உன் கல்யாணம் கண்டிப்பா அடுத்த மாசம் முடியும்ணு ஜோசியர் சொல்லியிருக்கும்போது...அதுக்குள்ளே நம்ப வீட்டிலே எப்படி துக்கச் செய்தி ஏற்பட முடியும்?...பயப்படாதே...! சரி...அப்புறம் பேசுறேன். இன்னும் ஒரு மணி நேரத்துக்குப் பிறகு ‘போன்’ பண்ணு! எஸ்! எஸ்! ம்—வச்சுடு!”
@@ -24,4 +24,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 43; printed page: 41 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Historical-glyph gate: **PASS** — native/high-resolution reread complete; source-odd `தங்கியிருக்க வேண்;` retained from pixels; final source/visual closure pending; page remains `needs-review`.
