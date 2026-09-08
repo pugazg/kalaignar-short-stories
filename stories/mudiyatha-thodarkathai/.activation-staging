@@ -1,1 +1,1 @@
-Story 6 first-pass activation staging marker; remove before final durable first-pass commit.
+Story 6 first-pass activation in progress. Do not treat workspace as complete until all 35 page records and synchronization controls are present.
