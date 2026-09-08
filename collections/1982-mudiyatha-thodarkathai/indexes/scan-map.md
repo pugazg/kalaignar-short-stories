@@ -15,8 +15,8 @@ Total scans: **95**
 | 41–49 | 39–47 | Story 3 — `சீமான் வீட்டு சீக்காளி` | **PASS / CLOSED — 9/9 verified** |
 | 50–54 | 48–52 | Story 4 — `நந்தியூர் நரியப்பன்` | **PASS / CLOSED — 5/5 verified** |
 | 55–58 | 53–56 | Story 5 — `நரியூர் நந்தியப்பன்` | **PASS / CLOSED — 4/4 verified** |
-| 59–93 | 57–91 | Story 6 — `முடியாத தொடர்கதை` | **NEXT — fresh canonical recheck + first pass** |
-| 94 | — | advertisement | mapped; non-story |
+| 59–93 | 57–91 | Story 6 — `முடியாத தொடர்கதை` | **first pass 35/35 COMPLETE; historical-glyph gate NEXT** |
+| 94 | — | advertisement | mapped; non-story; forward witness confirmed |
 | 95 | — | back cover | mapped; non-story |
 
 ## Pagination rule
@@ -28,12 +28,12 @@ For printed pages **3–91**: `PDF scan = printed page + 2`.
 - scan 28→29: Story 1 closes / Story 2 opens — verified;
 - scan 40→41: Story 2 closes / Story 3 opens — verified;
 - scan 49→50: Story 3 closes / Story 4 opens — verified;
-- scan 54→55: Story 4 closes with terminal star / Story 5 `நரியூர் நந்தியப்பன்` opens — verified;
+- scan 54→55: Story 4 closes with terminal star / Story 5 opens — verified;
 - scan 58→59: Story 5 closes with terminal star / Story 6 `முடியாத தொடர்கதை` opens — verified;
-- scan 93→94: Story 6 closes / advertisement begins — structurally mapped; recheck at Story-6 activation.
+- scan 93→94: Story 6 closes with terminal star / advertisement `அடுத்து வெளியீடு!` begins — verified.
 
 Story-4 running headers on scans 52 and 54 read `நரியூர் நந்தியப்பன்`; this does not alter the physical boundary proven at scan 54→55.
 
 ## Next active activity
 
-Story 6 `முடியாத தொடர்கதை`: fresh canonical search, activation and first-pass transcription across scans **59–93 / printed 57–91** only. Scan 94 is the forward-boundary witness. Do not run Story-6 glyph gate in the same activity.
+Story 6 `முடியாத தொடர்கதை`: dedicated native/high-resolution Historical Tamil Glyph Gate across scans **59–93** only. Keep all 35 pages `needs-review`; do not run final source/visual closure in the same activity.

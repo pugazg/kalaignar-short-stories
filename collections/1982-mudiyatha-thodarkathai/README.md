@@ -26,7 +26,7 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **Tamil/source PASS / CLOSED — 5/5 verified** |
 | 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **Tamil/source PASS / CLOSED — 4/4 verified** |
-| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **NEXT — fresh canonical recheck + first-pass transcription** |
+| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **FIRST PASS 35/35 COMPLETE — HISTORICAL-GLYPH GATE NEXT** |
 
 Story-4 running headers on scans 52/54 use `நரியூர் நந்தியப்பன்`, but scan 54 terminal star and scan 55 new stylized opening prove Story 5 is distinct.
 
@@ -44,11 +44,26 @@ No global replacement, silent modernization or context-only correction.
 - Story 2 `காசா லேசா` — **PASS / CLOSED**, 12/12 verified.
 - Story 3 `சீமான் வீட்டு சீக்காளி` — **PASS / CLOSED**, 9/9 verified.
 - Story 4 `நந்தியூர் நரியப்பன்` — **PASS / CLOSED**, 5/5 verified.
-- Story 5 `நரியூர் நந்தியப்பன்` — **PASS / CLOSED**, 4/4 verified; Historical Tamil Glyph Gate PASS 4/4; final source/visual closure PASS 4/4; 0 unresolved source/glyph items.
-
-Story-5 final audit: `stories/nariyur-nandiyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
+- Story 5 `நரியூர் நந்தியப்பன்` — **PASS / CLOSED**, 4/4 verified.
 
 Do not reopen Stories 1–5 without genuinely stronger source evidence or an explicit maintenance request.
+
+## Story 6 — current durable state
+
+Workspace: `stories/mudiyatha-thodarkathai/`.
+
+- fresh canonical search against live main `396ab69ff7b1851c2a1ae7630f6721779e050ebe`: **PASS — new canonical story entity**;
+- collection/container and Story-6 title collision explicitly distinguished;
+- physical range: **scans 59–93 / printed 57–91**;
+- scan 59 opening: `முடியாத தொடர்கதை`, scene `சிறைச்சாலை—இரவு நேரம்`;
+- scan 93 story ending / terminal star: confirmed;
+- scan 94 advertisement: forward witness, excluded;
+- first-pass transcription: **35/35 COMPLETE**;
+- page status: **35/35 `needs-review`**;
+- assembled Tamil: **complete / synchronized first pass**;
+- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**;
+- final source/visual closure: **not started**;
+- English: **not started**.
 
 ## Processing state
 
@@ -56,17 +71,13 @@ Do not reopen Stories 1–5 without genuinely stronger source evidence or an exp
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **6/6 COMPLETE**
 - Tamil/source stories closed: **5/6**
-- next anthology story: **Story 6 `முடியாத தொடர்கதை`**
+- Story 6: **first pass 35/35 complete; glyph gate NEXT**
 - English: **not started**
 
 ## Exact next activity
 
-Begin Story 6 **`முடியாத தொடர்கதை`** only after fetching live `main` and rerunning the required duplicate/canonical-identity search.
+Run Story 6's **dedicated Historical Tamil Glyph Gate** across all scans **59–93 / printed 57–91** at native/high resolution.
 
-Physical range: scans **59–93 / printed 57–91**; scan **59** carries the stylized story opening; scan **93** closes the story; scan **94** is an advertisement and is the forward-boundary witness.
+Explicitly inspect the mandatory historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus every suspicious old ligature. Record every correction individually; do not globally replace or modernize. Keep all **35 page records `needs-review`** even if the gate passes. The separate final source/visual closure must remain a later activity.
 
-Because the collection title and Story-6 title are identical, keep the collection container and story entity separate. Search the exact heading together with a distinctive opening span such as **`சிறைச்சாலை—இரவு நேரம்`** or **`சங்கு, சந்தனம் என்ற இரண்டு கைதிகள்`**.
-
-The next activity is Story-6 activation + source-faithful **first-pass transcription only** across scans 59–93. Keep every Story-6 page `needs-review`; do not run its Historical Tamil Glyph Gate until the complete first pass is durably present.
-
-`நடுத்தெரு நாராயணி` remains blocked while `வெள்ளிக்கிழமை` is incomplete.
+Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.

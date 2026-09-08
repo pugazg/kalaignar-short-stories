@@ -14,12 +14,14 @@ No separate printed contents page was found. Story identity is controlled by act
 | 3 | — | `சீமான் வீட்டு சீக்காளி` | **41–49** | **39–47** | scan 49 star; scan 50 opens `நந்தியூர் நரியப்பன்` | **PASS / CLOSED — 9/9 verified** |
 | 4 | — | `நந்தியூர் நரியப்பன்` | **50–54** | **48–52** | scan 54 star; scan 55 opens `நரியூர் நந்தியப்பன்` | **PASS / CLOSED — 5/5 verified** |
 | 5 | — | `நரியூர் நந்தியப்பன்` | **55–58** | **53–56** | scan 58 star; scan 59 opens `முடியாத தொடர்கதை` | **PASS / CLOSED — 4/4 verified** |
-| 6 | — | `முடியாத தொடர்கதை` | **59–93** | **57–91** | scan 93 star; scan 94 advertisement | **NEXT — fresh canonical recheck + first pass** |
+| 6 | — | `முடியாத தொடர்கதை` | **59–93** | **57–91** | scan 93 star; scan 94 advertisement | **first pass 35/35 COMPLETE; GLYPH GATE NEXT** |
 
-## Story 5 closure checkpoint
+## Story 6 activation checkpoint
 
-Story 5 is **PASS / CLOSED**: first pass 4/4, Historical Tamil Glyph Gate PASS 4/4, final source/visual closure PASS 4/4, 4/4 verified, 0 unresolved source/glyph items. Final audit: `stories/nariyur-nandiyappan/FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`.
+Authoritative live main before activation: **`396ab69ff7b1851c2a1ae7630f6721779e050ebe`**.
 
-Story 6 must receive a fresh canonical search against live `main` when activated. The collection title and Story-6 title are identical; distinguish the collection container from the story by source range and opening text.
+Fresh searches for the exact title and distinctive opening text (`சிறைச்சாலை—இரவு நேரம்`, `சங்கு, சந்தனம்`) found no existing canonical Story-6 entity. The collection workspace with the same title is a container, not a story duplicate. Story 6 is newly canonical at `stories/mudiyatha-thodarkathai/`.
+
+Its first pass is complete across scans **59–93 / printed 57–91**, with all **35/35** page records `needs-review`. Historical Tamil Glyph Gate is NEXT.
 
 English does not begin story-by-story during this Tamil-first anthology phase. After all six Tamil/source stories and the collection-wide Tamil release gate close, English becomes automatic unless the user redirects.
