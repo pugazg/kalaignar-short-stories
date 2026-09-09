@@ -19,58 +19,47 @@ Full source note: [`metadata/source.md`](metadata/source.md).
 
 ## Canonical deduplication
 
-Before this workspace was created, live `main` was re-fetched and the repository was searched again for `கலாராணி` / the exact source heading. No existing canonical story or documented alternate-title match was found.
-
-This workspace is therefore the canonical target for the 1976 source range above.
+Live `main` was checked before activation; no existing canonical story or documented alternate-title match was found. This workspace is the canonical target for this 1976 source range.
 
 ## Current Tamil/source state
 
-**TRANSCRIPTION IN PROGRESS — P1 STAGE A COMPLETE — 5 / 22 direct-transcribed.**
+**TRANSCRIPTION IN PROGRESS — P1 FULLY CLOSED — 5 / 22 VERIFIED.**
 
 - page records created: **22 / 22**
 - direct first-pass transcription: **5 / 22** — scans 25–29
+- Historical Tamil Glyph / source Stage B: **5 / 22**
+- `verified`: **5**
+- `needs-review`: **0**
 - `not-started`: **17**
-- `needs-review`: **5** — Stage B pending
-- `verified`: **0**
 - `blocked`: **0**
 - Tamil assembly: **not started**
-- Historical Tamil Glyph Pass 2: **0 / 22**
 
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source intake: [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md).  
-Pass-1 tracker: [`PASS1_PROGRESS.md`](PASS1_PROGRESS.md).  
+Progress: [`PASS1_PROGRESS.md`](PASS1_PROGRESS.md).  
 Historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).  
-Source-sensitive queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
+Source-sensitive audit: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
 
 ## Source-first rule
 
-The controlling scan is authoritative. Do not normalize spelling, punctuation, spacing, grammar, names or historical glyph forms. Do not import wording from the 1977 anthology or any other edition. A page can become `verified` only after direct transcription and a separate historical-glyph second pass against the same physical scan.
+The controlling scan is authoritative. Do not normalize spelling, punctuation, spacing, grammar, names or historical glyph forms. Do not import wording from another edition. A page becomes `verified` only after separate Stage A and Stage B closure.
 
-## Production batching — two separate durable activities per batch
+## Production batching
 
 Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md).
 
-Physical batches remain:
+Physical batches:
 
-1. scans 25–29
-2. scans 30–34
-3. scans 35–39
-4. scans 40–44
-5. scans 45–46
+1. scans 25–29 — **Stage A COMPLETE / Stage B PASS / 5 verified**
+2. scans 30–34 — **NEXT: Stage A**
+3. scans 35–39 — pending
+4. scans 40–44 — pending
+5. scans 45–46 — pending
 
-Each physical batch is executed as:
-
-1. **Stage A — direct transcription only**: read each whole page once, transcribe source-faithfully, keep pages `needs-review`, synchronize Pass-1/current-state controls, commit, stop/report;
-2. **Stage B — independent historical-glyph/source verification**: in a later activity reopen the same pages, check all 13 historical families plus recorded uncertainties, create crops/enhancements only for genuine ambiguity, synchronize verification controls, commit, stop/report.
-
-Do not begin the next physical batch until Stage B of the current batch is committed unless the user explicitly overrides the workflow.
-
-## P1 durable state
-
-Scans **25–29** have completed **Stage A**. The page text is committed as direct source transcription and deliberately remains `needs-review`. Notable physical boundaries are preserved: scan 25 ends `நட்டுவ` and scan 26 begins `னரும்`; scan 27 ends `கவிவாணர்-` and scan 28 independently begins `கவிவாணர்-மதிவாணர்`.
+P1 Stage B made three source-proven corrections: scan 26 `இன்பபுரிக்கு` → `இன்ப புரிக்கு`; scan 28 `துடிக்கிட்ட` → `திடுக்கிட்ட`; scan 29 `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை`. Zero unresolved locations remain in P1.
 
 ## Exact next activity
 
-**Stage B only:** independently reopen scans **25–29 / printed pages 25–29**, compare the committed transcription with the attached source, check the mandatory 13 historical-glyph families plus `POSSIBLE_ERRORS_FOR_REVIEW.md`, correct only source-proven mismatches, synchronize verification controls, commit, and stop/report.
+**P2 Stage A only:** process **scans 30–34 / printed pages 30–34** by direct whole-page transcription. Do not run systematic Stage B in the same activity; do not routinely crop/enhance clear text. Keep the new five pages `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
 
-Do **not** begin scan 30 before this Stage-B commit. Do not begin Story 8 `மானம்` until this story's Tamil/source workflow is fully closed. The separate `நடுத்தெரு நாராயணி` hold also remains in force while `வெள்ளிக்கிழமை` is incomplete.
+After that durable commit, P2 Stage B on scans 30–34 becomes next. Do not begin Story 8 `மானம்` until Story 4 is fully closed. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

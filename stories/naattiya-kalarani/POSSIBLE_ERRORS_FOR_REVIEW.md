@@ -1,16 +1,25 @@
 # Possible Errors / Source-Sensitive Readings — நாட்டிய கலாராணி
 
-This is a **review queue, not a confirmed-error list**. The readings below were transcribed from the controlling 1976 scan in Stage A and deliberately preserved rather than normalized. Stage B must compare them independently against the same source pixels.
+This is a review/audit queue, not a confirmed-error list. P1 scans 25–29 have now completed independent Stage B.
 
-| Scan | Stage-A reading / boundary | Why queued | Stage-A disposition |
+## P1 Stage-B dispositions
+
+| Scan | Stage-A reading / boundary | Stage-B source result | Disposition |
 |---:|---|---|---|
-| 25 | `தீயிலேகிடக்க` | source appears run together at this location | preserved as printed; spacing to be checked in Stage B |
-| 27 | `அங்கேன்` | visually legible but source-odd joined form | preserved; do not silently expand to expected wording |
-| 27→28 | scan 27 ends `கவிவாணர்-`; scan 28 begins `கவிவாணர்-மதிவாணர்` | physical page-boundary relation is source-sensitive | both physical readings preserved independently |
-| 28 | `யாருக்குக் அளித்தது` | source-odd sandhi/spacing | preserved; no grammatical normalization |
-| 28 | `துடிக்கிட்ட` | source-odd word form | preserved; Stage B source check required |
-| 29 | `நங்கள்` in `நிறைவேற்று நங்கள் உத்திரவை` | unusual wording; source pixels control | preserved; context must not be used to rewrite it |
-| 29 | `மார்பிலேபுரண்ட` | source appears run together | preserved; spacing/character identity to be checked in Stage B |
-| 29 | quotation marks around `அழைத்து வருக...` and `நான் பெற்ற பேறு இது` | punctuation appears asymmetric in source | reproduced source-first; Stage B should verify punctuation only from scan |
+| 25 | `தீயிலேகிடக்க` | source visibly runs the form together | **CONFIRMED / retain** |
+| 27 | `அங்கேன்` | directly legible as printed | **CONFIRMED / retain** |
+| 27→28 | scan 27 ends `கவிவாணர்-`; scan 28 begins `கவிவாணர்-மதிவாணர்` | both physical readings independently confirmed | **CONFIRMED / retain physical boundary** |
+| 28 | `யாருக்குக் அளித்தது` | source-odd sandhi/spacing directly confirmed | **CONFIRMED / retain** |
+| 28 | `துடிக்கிட்ட` | source reads `திடுக்கிட்ட` | **CORRECTED** |
+| 29 | `நங்கள்` in `நிறைவேற்று நங்கள் உத்திரவை` | directly confirmed | **CONFIRMED / retain** |
+| 29 | `மார்பிலேபுரண்ட` | source visibly runs the form together | **CONFIRMED / retain** |
+| 29 | asymmetric quotation marks around `அழைத்து வருக...` and `நான் பெற்ற பேறு இது` | punctuation pattern confirmed from scan | **CONFIRMED / retain** |
 
-No Stage-A reading is being declared a confirmed error. There are currently **0 blocking unreadable locations** in scans 25–29; all five pages remain `needs-review` because the independent Stage-B gate has not run.
+## Additional P1 Stage-B corrections
+
+- scan 26: `இன்பபுரிக்கு` → `இன்ப புரிக்கு` — source spacing;
+- scan 29: `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை` — direct source reading.
+
+P1 review queue result: **CLOSED — 0 unresolved / 0 blocked**. Confirmed source-odd forms remain documented here as provenance, but do not keep the verified pages open.
+
+Future batches should append new Stage-A source-sensitive readings and close them only in the matching Stage-B activity.

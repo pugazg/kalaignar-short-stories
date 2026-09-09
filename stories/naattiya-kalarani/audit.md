@@ -2,48 +2,44 @@
 
 ## Source intake gate
 
-**PASS.**
-
-- source identity inherited from registered 1976 `நளாயினி` collection;
-- story opening directly verified on scan 25;
-- ending boundary directly verified on scan 46;
-- scan 47 independently opens `விஷம் இனிது`;
-- physical range fixed at **22 scans, 25–46**;
-- scan and printed page numbers are identical in this range.
+**PASS.** Source identity is inherited from the registered 1976 `நளாயினி` collection; physical story range is scans **25–46**, with scan 47 independently opening `விஷம் இனிது`.
 
 ## Canonical dedup gate
 
-**PASS.** Live repository search immediately before activation found no canonical `நாட்டிய கலாராணி` / `கலாராணி` match and no documented alternate title.
+**PASS.** No existing canonical `நாட்டிய கலாராணி` / documented alternate-title match was found at activation.
 
-## Transcription / verification gate
+## P1 transcription / verification gate — scans 25–29
 
-**IN PROGRESS — P1 STAGE A COMPLETE.**
+**PASS / CLOSED.**
 
-- page records: 22/22 initialized;
-- direct source transcription: **5/22** — scans 25–29;
-- independent historical-glyph Pass 2: **0/22**;
-- `needs-review`: **5/22**;
-- verified: **0/22**;
-- blocked: **0/22**.
+- Stage A direct source transcription: **5/5**;
+- independent Stage B historical-glyph/source verification: **5/5**;
+- verified: **5/5**;
+- unresolved / blocked: **0/0**.
 
-Stage A for scans 25–29 was transcribed directly from the attached controlling source. No OCR, web text or another edition was used as transcription authority. The systematic 13-family second pass was intentionally **not** run in Stage A.
+Physical-source facts retained:
 
-Physical-source boundary facts retained in the page records:
+- scan 25 ends `நட்டுவ`; scan 26 begins `னரும்`;
+- scan 27 ends `கவிவாணர்-`; scan 28 independently begins `கவிவாணர்-மதிவாணர்`;
+- source-odd `தீயிலேகிடக்க`, `அங்கேன்`, `யாருக்குக் அளித்தது`, `நங்கள்`, `மார்பிலேபுரண்ட`, and asymmetric quotation marks were independently confirmed and retained.
 
-- scan 25 ends mid-word `நட்டுவ`; scan 26 begins `னரும்`;
-- scan 27 ends `கவிவாணர்-`; scan 28 independently begins `கவிவாணர்-மதிவாணர்`.
+### P1 Stage-B corrections
 
-Visually legible but source-sensitive forms are queued in `POSSIBLE_ERRORS_FOR_REVIEW.md`. They remain source readings, not confirmed errors and not permission to normalize.
+1. scan 26: `இன்பபுரிக்கு` → `இன்ப புரிக்கு` — source spacing;
+2. scan 28: `துடிக்கிட்ட` → `திடுக்கிட்ட` — Stage-A visual misread corrected from direct source;
+3. scan 29: `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை` — direct source correction; `ளை`-sensitive cluster.
 
-## Batch execution workflow
+The mandatory 13 historical-glyph families were independently checked on all five pages. `நன்றாக` on scan 25 was confirmed as historical `றா`; `லை/ளை/னா/னை` candidates were source-checked where present. No unresolved family candidate remains.
 
-Root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` splits each physical batch into two durable activities:
+## Current work-level state
 
-1. Stage A — direct transcription, Pass-1 synchronization, commit, stop/report;
-2. Stage B — separate independent historical-glyph/source verification, verification synchronization, commit, stop/report.
+- page records: **22/22 initialized**;
+- direct transcription: **5/22**;
+- Stage B verified: **5/22**;
+- not-started: **17/22**;
+- blocked: **0**;
+- Tamil assembly: not started.
 
 ## Exact next gate
 
-**P1 Stage B only:** reopen scans **25–29** independently, compare the committed text against the source, check all 13 mandatory historical-glyph families and the source-sensitive queue, use crops/enhancements only where a real ambiguity exists, record any correction individually, synchronize verification controls, commit, and stop/report.
-
-Scan 30 must not begin before P1 Stage B is committed.
+**P2 Stage A only — scans 30–34.** Direct whole-page transcription, synchronize, commit, and stop/report. P2 Stage B must remain a later separate activity.

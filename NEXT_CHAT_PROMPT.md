@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` scans 25–29 — Stage B
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` scans 30–34 — Stage A
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,9 +8,9 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 ## Controlling source
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only. Source PDF is not committed. SHA-256 remains pending because direct raw-byte checksum access was unavailable; do not invent one.
+`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only. Source PDF is not committed. SHA-256 remains pending; do not invent one.
 
-The user downloaded this exact PDF from the Tamil Digital Library and supplied the downloaded file. **The attached PDF itself is the sole controlling authority for this collection. Do not query the Tamil Digital Library website or another external source unless the user explicitly requests an external comparison.**
+The user supplied this exact downloaded PDF. **The attached PDF itself is the sole controlling authority for this collection. Do not query the Tamil Digital Library website or another external source unless the user explicitly requests comparison.**
 
 ## Mandatory startup
 
@@ -24,8 +24,8 @@ Read before source-dependent work:
 6. this prompt
 7. `collections/1976-nalayini/README.md`
 8. `collections/1976-nalayini/indexes/story-inventory.md`
-9. `stories/naattiya-kalarani/README.md`
-10. `stories/naattiya-kalarani/SOURCE_INTAKE.md`
+9. `collections/1976-nalayini/indexes/scan-map.md`
+10. `stories/naattiya-kalarani/README.md`
 11. `stories/naattiya-kalarani/indexes/page-map.md`
 12. `stories/naattiya-kalarani/PASS1_PROGRESS.md`
 13. `stories/naattiya-kalarani/HISTORICAL_GLYPH_GATE.md`
@@ -33,52 +33,48 @@ Read before source-dependent work:
 
 ## Collection correction
 
-Attached scan **73** directly shows Story 8 heading **`மானம்`**. Earlier controls incorrectly recorded `மனம்`; use `மானம்` from now on. Do not begin it yet.
+Attached scan **73** directly shows Story 8 heading **`மானம்`**. Earlier `மனம்` was wrong. Do not begin Story 8 yet.
 
-## Durable state
+## Durable state — `நாட்டிய கலாராணி`
 
-`நாட்டிய கலாராணி` is a new canonical story, physical range **scans 25–46 / printed 25–46**.
+Physical range: **scans 25–46 / printed 25–46**.
 
-- source boundary: PASS;
-- canonical dedup: PASS;
-- page records initialized: **22/22**;
-- direct transcription: **5/22 — scans 25–29 Stage A COMPLETE**;
-- `needs-review`: **5/22**;
-- glyph Pass 2: **0/22**;
-- verified: **0/22**;
-- blocked: **0/22**;
+- source boundary / dedup: **PASS / PASS**;
+- page records: **22/22**;
+- direct transcription: **5/22**;
+- Stage B verified: **5/22 — scans 25–29**;
+- `needs-review`: **0**;
+- blocked / unresolved: **0 / 0**;
 - Tamil assembly: not started.
 
-Stage-A physical facts preserved in the page records:
+P1 scans 25–29 are fully closed. Stage-B corrections were:
 
-- scan 25 ends `நட்டுவ`; scan 26 begins `னரும்`;
-- scan 27 ends `கவிவாணர்-`; scan 28 independently begins `கவிவாணர்-மதிவாணர்`.
+- scan 26 `இன்பபுரிக்கு` → `இன்ப புரிக்கு`;
+- scan 28 `துடிக்கிட்ட` → `திடுக்கிட்ட`;
+- scan 29 `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை`.
 
-Source-sensitive but legible forms are listed in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`. They are review targets, not confirmed errors.
+Confirmed source-odd forms and physical boundaries remain documented; do not normalize them.
 
 ## Two-stage workflow
 
-For each physical batch:
+For every physical batch:
 
 **Stage A** — direct transcription → synchronize → commit → stop/report.  
-**Stage B** — separate independent glyph/source verification → synchronize → commit → stop/report.
+**Stage B** — later separate independent glyph/source verification → synchronize → commit → stop/report.
 
-P1 Stage A is now complete. Do **not** repeat it.
+## Exact next activity — P2 Stage A ONLY
 
-## Exact next activity — Stage B ONLY
+Process scans **30–34 / printed pages 30–34** only.
 
-Process scans **25–29 / printed pages 25–29** only.
-
-- independently reopen all five attached source pages;
-- compare the committed Stage-A transcription against source pixels; **do not fully retranscribe the pages**;
-- explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- independently check every entry in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-- **do not create crops/enhancements routinely**; use them only where a real character/spacing/punctuation ambiguity remains after normal/native page inspection;
-- record every correction individually; never global-replace;
-- any unresolved reading keeps the affected page `needs-review`;
-- promote only fully closed pages to `verified`;
-- synchronize the five page records, page map, glyph gate, progress, review queue, README/audit/handover/current-state controls;
-- commit Stage B;
+- visually read and transcribe each complete page once from the attached source pixels;
+- preserve punctuation, spacing, paragraphing, source-odd words, page boundaries and clearly readable historical character identity;
+- **do not perform the systematic `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` Stage B in this activity**;
+- do not repeatedly reopen already-clear words/pages;
+- do not create crops/enhancements unless a reading genuinely cannot be transcribed responsibly at normal/native page view;
+- unresolved readings may remain explicitly marked; do not guess;
+- after Stage A scans 30–34 remain `needs-review`, not final `verified`;
+- synchronize page records, page map, Pass-1/current-state controls;
+- commit P2 Stage A;
 - **stop and report after the commit**.
 
-Do **not** begin scan 30 in this activity. Do **not** begin Story 8 `மானம்`.
+The following activity will be P2 Stage B for the same scans 30–34. Do **not** begin scan 35 or Story 8 `மானம்` in this activity.

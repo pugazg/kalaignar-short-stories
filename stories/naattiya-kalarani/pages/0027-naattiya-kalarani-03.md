@@ -4,10 +4,10 @@ printed_page: 27
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 அவள் யார்? அங்கேன் நிறுத்தப்பட்டிருக்கிறாள்?
@@ -30,5 +30,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 கோமேதகம்-ஆழிநாட்டுக்கு அழகு வழங்கும் கோமளவல்லி ! அந்த தேசத்து அதிசயங்களிலே அவளும் ஒன்றுள். தேச முழுதுமுள்ள நடன அரங்கங்களிலே அப்சரஸ்-ஆடலரசி -அழகுராணி என்பன போன்ற பட்டங்களைப்பெற்று, நாட்டியத்திற்கோர் ஒளிவிளக்காகத் திகழ்ந்தாள். கவிவாணர்-
 
-<!-- Stage A direct transcription complete; source physically ends கவிவாணர்-; scan 28 begins கவிவாணர்-மதிவாணர் -->
+<!-- Stage B PASS: `அங்கேன்` and the physical terminal `கவிவாணர்-` independently confirmed from source; historical `லை/ளை` candidates checked; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 27; அச்சுப் பக்கம்: 27 -->
