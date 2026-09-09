@@ -4,7 +4,7 @@ Canonical story workspace for the sixth story **`முடியாத தொட
 
 ## Identity warning
 
-The **collection title and this Story-6 opening title are identical strings**. `collections/1982-mudiyatha-thodarkathai/` is the anthology container; this directory is the canonical story entity.
+The collection title and this Story-6 opening title are identical strings. `collections/1982-mudiyatha-thodarkathai/` is the anthology container; this directory is the canonical story entity.
 
 ## Source
 
@@ -22,23 +22,21 @@ The **collection title and this Story-6 opening title are identical strings**. `
 
 ## Tamil/source state
 
-**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS — FINAL SOURCE/VISUAL CLOSURE IN PROGRESS.**
+**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS — ALL SEVEN FINAL SOURCE/VISUAL BATCHES PASS — STORY-WIDE PROMOTION PENDING.**
 
 - physical story pages: **35/35**
 - first-pass transcription: **35/35 COMPLETE**
-- page status: **35/35 `needs-review`**
-- assembled Tamil: **synchronized through F6 scans 84–88; scan-88 `பேசினாள்` and F6 source corrections synchronized; established scan-89–92 corrections await F7**
+- page status: **35/35 `needs-review` pending separate promotion commit**
+- assembled Tamil: **synchronized through scan 93 / story ending**
 - Historical Tamil Glyph Gate: **PASS 35/35 — 11 total corrections / 0 unresolved**
-- final source/visual closure: **IN PROGRESS — F1–F6 PASS; 6/7 batches complete; F7 scans 89–93 NEXT**
-- F1 scans 59–63: **PASS — 3 corrections / 0 unresolved**
-- F2 scans 64–68: **PASS — 8 corrections / 0 unresolved**
-- F3 scans 69–73: **PASS — 30 corrections / 0 unresolved**
-- F4 scans 74–78: **PASS — 18 corrections / 0 unresolved**
-- F5 scans 79–83: **PASS — 19 corrections / 0 unresolved**
-- F6 scans 84–88: **PASS — 12 new corrections / 0 unresolved**
+- final source/visual batches: **F1–F7 ALL PASS / 7 of 7 / 0 unresolved**
+- F7 scans 89–93: **PASS — 19 new corrections / 0 unresolved**
+- all previously established scan-89–92 glyph/source corrections are synchronized in the derivative
+- all physical joins are closed
+- scan 93 terminal star confirmed; scan 94 advertisement excluded
 - English: **not started**
 
-F6 key recoveries include scan-87 `பேசினான்`, `அவளது, குரல்வளையை`, `நெரித்து விடலாமா` and source punctuation; scan-88 `அமுதமாக` (twice), `எங்களை வெறுப்போடு`, and source page-end `நோக்`. The 88→89 join is confirmed as `நோக் / கினான்` → `நோக்கினான்`.
+F7 key recoveries include `வெளிவந்தேன்`, `நடந்தது நடந்தபடி`, `கொலைசெய்து`, `அவர்களை வாழ்த்தமுடியாது`, `ஏற்பட்டுவிடும்-ஆகவே`, `இத்தகைய`, `காணுகிறோம்`, `முடிந்து விடலாம்.`, wall inscription `சகோதரர்களே`, and final `இளம் தளிர்கள் இரண்டும்` / `முடத்தனத்திற்கு`.
 
 The controlling scan decides every reading. Source-odd forms are preserved rather than silently modernized.
 
@@ -47,11 +45,11 @@ The controlling scan decides every reading. Source-odd forms are preserved rathe
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - glyph audit: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - final-closure ledger: [`FINAL_SOURCE_VISUAL_PROGRESS.md`](FINAL_SOURCE_VISUAL_PROGRESS.md)
-- latest batch record: [`FINAL_SOURCE_VISUAL_BATCH_F6_084_088.md`](FINAL_SOURCE_VISUAL_BATCH_F6_084_088.md)
+- latest batch record: [`FINAL_SOURCE_VISUAL_BATCH_F7_089_093.md`](FINAL_SOURCE_VISUAL_BATCH_F7_089_093.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/mudiyatha-thodarkathai.md`](sections/mudiyatha-thodarkathai.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Hard stop
 
-Keep all 35 pages `needs-review` through the F7 batch commit. After F7 passes with zero unresolved, promote all 35 pages together in the separate story-wide final closure commit.
+Do not change page status inside the F7 batch commit. The next separate commit must promote all 35 page records together to `verified` and close Story 6 Tamil/source.

@@ -1,8 +1,8 @@
-# முடியாத தொடர்கதை — assembled Tamil (first pass)
+# முடியாத தொடர்கதை — assembled Tamil
 
-> **Status:** first-pass transcription complete for scans **59–93 / printed 57–91**. All **35/35** page records remain `needs-review`. Historical Tamil Glyph Gate is **PASS — 35/35; 11 total corrections / 0 unresolved**. Final source/visual closure is **IN PROGRESS — F1–F6 PASS, 6/7 batches complete; F7 scans 89–93 NEXT**.
+> **Status:** first-pass transcription complete for scans **59–93 / printed 57–91**. Historical Tamil Glyph Gate is **PASS — 35/35; 11 total corrections / 0 unresolved**. All seven final source/visual batches **F1–F7 are PASS / 0 unresolved**. The assembled derivative is synchronized through the story ending. Page records remain **35/35 `needs-review` only until the separate story-wide promotion commit**.
 
-The first-pass assembled Tamil is stored in six ordered parts because of repository-write size constraints. Read/concatenate the following files in order, inserting exactly one blank line between adjacent parts:
+The assembled Tamil is stored in six ordered parts because of repository-write size constraints. Read/concatenate the following files in order, inserting exactly one blank line between adjacent parts:
 
 1. [`mudiyatha-thodarkathai-part-01.md`](mudiyatha-thodarkathai-part-01.md)
 2. [`mudiyatha-thodarkathai-part-02.md`](mudiyatha-thodarkathai-part-02.md)
@@ -11,4 +11,6 @@ The first-pass assembled Tamil is stored in six ordered parts because of reposit
 5. [`mudiyatha-thodarkathai-part-05.md`](mudiyatha-thodarkathai-part-05.md)
 6. [`mudiyatha-thodarkathai-part-06.md`](mudiyatha-thodarkathai-part-06.md)
 
-The 35 page records under `../pages/` remain the physical-page canonical layer. These section parts are a synchronized reading-order derivative only; they are not verified/final text. The derivative is synchronized through F6, including scan-88 `பேசினாள்` and the F6 source corrections; previously established corrective readings on scans 89–92 remain pending until F7 reaches those scans.
+The 35 page records under `../pages/` remain the physical-page canonical layer. The section parts are the synchronized reading-order derivative. F7 synchronized both the final ordinary source corrections and the previously established scan-89–92 glyph/source readings.
+
+All logged page joins are resolved. Scan 93 terminal star is included; scan 94 advertisement is excluded.

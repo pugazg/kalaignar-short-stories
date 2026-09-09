@@ -7,16 +7,16 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F7 PASS; story-wide promotion pending"
 ---
 
-சந்தனத்தின் அன்புக் கனி. அந்த செல்வனுக்கு என் அண்ணன் மகள் சித்ராவை திருமணம் செய்துவைக்க நான் என்ன மறுக்கவா போகிறேன். ஆனால் அந்தக் காட்சியை நான் பார்க்கக்கூடாதே! என் மகனும், மருமகளும் காதலர்களாகிவிட்டார்கள். நானே அவர்கள் வாழ்த்தமுடியாது. அன்றொரு நாள் குஞ்சுக்கடி சாமியார் கூறிய வார்த்தைகள் எனக்கு அணி போட்டன. அதோடு என் சந்தனமும் சிறையிலேயிருந்து திரும்பிவிட்டார். அவரையும் நான் பார்த்துவிடக் கூடாது. ஆனால் எல்லோரையும் பார்க்கும் சந்தர்ப்பம், சித்ரா செல்வம் திருமணத்தால் ஏற்பட்டு விடும்—ஆகவே, என்னுடைய கதை முழுவதும் குறிக்கப்பட்ட டைரியை சித்ராவிடம் கொடுத்து விட்டு, என் சந்தனத்தையும், செல்வத்தையும் காண முடியாத லோகத்திற்குச் சென்றுவிட முடிவுகட்டி இங்கு வந்தேன்.”
+சந்தனத்தின் அன்புக் கனி. அந்த செல்வனுக்கு என் அண்ணன் மகள் சித்ராவை திருமணம் செய்துவைக்க நான் என்ன மறுக்கவா போகிறேன். ஆனால் அந்தக் காட்சியை நான் பார்க்கக்கூடாதே! என் மகனும், மருமகளும் காதலர்களாகிவிட்டார்கள். நானே அவர்களை வாழ்த்தமுடியாது. அன்றொரு நாள் குஞ்சுக்கடி சாமியார் கூறிய வார்த்தைகள் எனக்கு அணி போட்டன. அதோடு என் சந்தனமும் சிறையிலேயிருந்து திரும்பிவிட்டார். அவரையும் நான் பார்த்துவிடக் கூடாது. ஆனால் எல்லோரையும் பார்க்கும் சந்தர்ப்பம், சித்ரா செல்வம் திருமணத்தால் ஏற்பட்டுவிடும்-ஆகவே, என்னுடைய கதை முழுவதும் குறிக்கப்பட்ட டைரியை சித்ராவிடம் கொடுத்து விட்டு, என் சந்தனத்தையும், செல்வத்தையும் காண முடியாத லோகத்திற்குச் சென்றுவிட முடிவுகட்டி இங்கு வந்தேன்.”
 
 என்று அழுதுகொண்டே தன் கதையை முடித்தாள் குமுதம்.
 
 குளமாகியிருக்கும், தன் விழிகளைக் காட்டிக் கொள்ளாமலே, சந்தனம் அவளிடம் கேட்டான்’
 
-‘அந்த சாமியார் என்ன சொன்னார்; சந்தனத்தை நீ பார்த்தால் உடனே அவன் செத்து விடுவானு? அப்படித்தானே சொன்னார்?’
+‘அந்த சாமியார் என்ன சொன்னார்; சந்தனத்தை நீ பார்த்தால் உடனே, அவன் செத்து விடுவானு? அப்படித் தானே சொன்னார்?’
 
 “ஆமாம்—அப்படித்தான் சொன்னார்—அந்த மகான்”
 
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 91; printed page: 89 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate: **PASS after corrective high-resolution re-audit**. Final source/visual closure is pending; page remains `needs-review`.
+> Final source/visual closure batch **F7 PASS**. Historical-glyph gate: **PASS**. Page remains `needs-review` until story-wide closure.
