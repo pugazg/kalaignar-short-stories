@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F1 PASS; story-wide promotion pending"
 ---
 
 சங்கு : எல்லாப் பெண்களும் அப்படியிருக்கமாட்டாங்க அண்ணே!
@@ -28,4 +28,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 62; printed page: 60 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate: **PASS**. Final source/visual closure remains pending; page stays `needs-review`.
+> Final source/visual closure batch **F1 PASS**. Page remains `needs-review` until story-wide closure.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 final source/visual closure F1
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 final source/visual closure F2
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,75 +6,54 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 `வெள்ளிக்கிழமை` remains incomplete; do **not** start `நடுத்தெரு நாராயணி`.
 
-## Corrected 1982 inventory — 6 stories
-
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — scans 7–28 — CLOSED
-2. `காசா லேசா` — scans 29–40 — CLOSED
-3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 — CLOSED
-4. `நந்தியூர் நரியப்பன்` — scans 50–54 — CLOSED
-5. `நரியூர் நந்தியப்பன்` — scans 55–58 — CLOSED
-6. `முடியாத தொடர்கதை` — **scans 59–93 / printed 57–91 — FIRST PASS 35/35 COMPLETE; CORRECTIVE GLYPH GATE PASS 35/35; FINAL CLOSURE IN 5-SCAN BATCHES**
-
 ## Active Story 6
 
 Workspace: `stories/mudiyatha-thodarkathai/`.
 
 Current durable state:
 
+- scans **59–93 / printed 57–91**;
 - first-pass transcription: **35/35 COMPLETE**;
 - page records: **35/35 `needs-review`**;
 - Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit — 35/35; 10 total corrections / 0 unresolved**;
-- corrections already committed include `பேசினாள்`, `சொல்லியனுப்பினான்`, `துட்ட லக்கணமாம்`, `மலைப்பாம்பு`, `விலக்கினான்`, `கூறினான்`, `பில்கனாவிலே` plus the earlier three historical `ளை` fixes;
-- `ஸ்பரிசிக்கப்பட்டு` is source-faithful Tamil; later English meaning is simply `touched / was touched`;
-- assembled Tamil for corrective scans 88–92 still needs synchronization during the relevant final-closure batch;
-- final source/visual closure: **0/7 batches complete**.
+- final source/visual closure: **1/7 five-scan batches complete**;
+- F1 scans **59–63 / pp.57–61**: **PASS — 3 corrections / 0 unresolved**;
+- F2 scans **64–68 / pp.62–66**: **NEXT**;
+- all pages remain `needs-review` until all seven batches pass and the story-wide promotion occurs.
 
-## Mandatory 5-scan rule
+F1 corrections already committed:
 
-From this checkpoint onward, process **exactly five physical scans per iteration and commit that batch before starting the next one**.
+- `நியுண்டு` → `நீயுண்டு`
+- `வேதனையாயிருக்கும்னு` → `வேதனையாயிருக்கும்ணு`
+- `மலையோ போயிருந்தவன்` → `மலேயா போயிருந்தவன்`
 
-Batch sequence:
+The corrected glyph/source re-audit also established `பேசினாள்`, `சொல்லியனுப்பினான்`, `துட்ட லக்கணமாம்`, `மலைப்பாம்பு`, `விலக்கினான்`, `கூறினான்`, `பில்கனாவிலே`; `ஸ்பரிசிக்கப்பட்டு` remains source-faithful Tamil.
 
-- F1: 59–63 / pp.57–61 — **NEXT**
-- F2: 64–68 / pp.62–66
+## Mandatory five-scan rule
+
+Process **exactly five physical scans per iteration and commit that batch before starting the next one**.
+
+Remaining sequence:
+
+- F2: 64–68 / pp.62–66 — **NEXT**
 - F3: 69–73 / pp.67–71
 - F4: 74–78 / pp.72–76
 - F5: 79–83 / pp.77–81
 - F6: 84–88 / pp.82–86
 - F7: 89–93 / pp.87–91
 
-Keep every page `needs-review` until all seven batches PASS and the story-wide closure promotes all 35 pages together.
+## Exact next activity — F2 only
 
-## Mandatory startup
-
-Read before source-dependent work:
-
-1. `SHORT_STORY_PROCESSING_GUIDE.md`
-2. `COLLECTION_SOURCE_GUIDE.md`
-3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-4. `HANDOVER.md`
-5. this prompt
-6. `stories/mudiyatha-thodarkathai/HISTORICAL_GLYPH_GATE.md`
-7. `stories/mudiyatha-thodarkathai/FINAL_SOURCE_VISUAL_PROGRESS.md`
-8. Story-6 README / source metadata / page map / review queue
-9. page records scans **59–63**
-10. relevant assembled Tamil part.
-
-Resolve `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` before visual work.
-
-## Exact next activity — F1 only
-
-Process **scans 59–63 / printed 57–61 only** at native/high resolution.
-
-1. independently reread all five scans against their page records;
-2. verify ordinary wording, punctuation, spacing, quotation marks and physical page boundaries;
-3. verify the 59→60 join exactly;
-4. preserve source-odd forms unless pixels prove a correction;
-5. never infer from modern spelling or context alone;
-6. apply each correction individually to the affected page record and derivative assembled text;
-7. update `FINAL_SOURCE_VISUAL_PROGRESS.md` with F1 result;
-8. update `HANDOVER.md` and this prompt so the next exact batch is F2 scans 64–68 if F1 passes;
-9. keep scans 59–63 `needs-review` until the final story-wide closure;
-10. **commit F1 before doing any F2 work**.
+1. fetch live `main` and preserve newer durable work;
+2. read `HANDOVER.md`, `HISTORICAL_GLYPH_GATE.md`, `FINAL_SOURCE_VISUAL_PROGRESS.md`, Story-6 controls and page records scans **64–68**;
+3. resolve the controlling PDF/native scans;
+4. independently reread scans **64–68 / printed 62–66** at native/high resolution;
+5. verify ordinary wording, punctuation, spacing, quotation marks and page boundaries;
+6. verify any physical join whose two halves fall in or touch this five-scan range;
+7. preserve source-odd forms unless pixels prove a correction; never modernize from context alone;
+8. apply each source-supported correction individually and synchronize the relevant assembled derivative;
+9. update the progress ledger, `HANDOVER.md` and this prompt so F3 becomes NEXT if F2 passes;
+10. keep pages `needs-review` until story-wide final closure;
+11. **commit F2 before doing any F3 work**.
 
 Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.

@@ -7,14 +7,14 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F1 PASS; story-wide promotion pending"
 ---
 
 லேண்ணே, படிச்ச புத்திசாலிகளோடே சிநேகம் கிடைக்கிறது பெரியபாக்கியம் அண்ணே—அந்த வகையிலே நான் பாக்கியசாலிதான்.
 
 சந்தனம் :- நல்ல தோழனாக நீ இருந்தாய்—இனி இந்தப் பொல்லாத உலகத்திலே நான் யாரோடுபோய் நட்பு கொள்ளப்போகிறேன்.
 
-சங்கு : ஒருத்தன் சிநேகிதம் உனக்கு வேண்டாமண்ணே! நியுண்டு உன் குடும்பமுண்டு என்று வாழ்க்கையை குஷியா நடத்தண்ணே போய்!
+சங்கு : ஒருத்தன் சிநேகிதம் உனக்கு வேண்டாமண்ணே! நீயுண்டு உன் குடும்பமுண்டு என்று வாழ்க்கையை குஷியா நடத்தண்ணே போய்!
 
 சந்தனம் : குடும்பம்! எனக்கு யார் இருக்கிறார்கள் குடும்பம் நடத்த...?
 
@@ -24,8 +24,8 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 சந்தனம் : சங்கு! என் கதையை இன்று சொல்லத்தான் போகிறேன். இருதயத்திலிருந்து சுமையை இறக்கத்தான் போகிறேன். உன்னைவிட நல்ல நண்பன் யாரப்பா எனக்கு இருக்கிறார்கள்?—உன்னிடம் சொல்லாமல் யாரிடம் என் சோகக் கதையை சொல்லப் போகிறேன்.
 
-சங்கு : அண்ணே—ரொம்ப வேதனையாயிருக்கும்னு சொல்ல வேண்டாம்.
+சங்கு : அண்ணே—ரொம்ப வேதனையாயிருக்கும்ணு சொல்ல வேண்டாம்.
 
 <!-- anthology scan: 60; printed page: 58 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Final source/visual closure batch **F1 PASS**. Page remains `needs-review` until story-wide closure.
