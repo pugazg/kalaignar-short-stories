@@ -35,9 +35,27 @@ Story 4 `நந்தியூர் நரியப்பன்` uses running h
 - page status: **4/4 `verified`**
 - unresolved ordinary source-text items: **0**
 - assembled Tamil: **FINAL / synchronized**
-- English: **not started**
 
 Final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md).
+
+Do not reopen this Tamil/source layer without genuinely stronger source evidence or explicit maintenance request.
+
+## English translation state
+
+**PASS / COMPLETE.**
+
+- English title: **Nandiyappan of Nariyur**
+- canonical English: [`translations/en/nariyur-nandiyappan.md`](translations/en/nariyur-nandiyappan.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- canonical Tamil pages represented: **4/4**
+- physical page anchors: **4/4 — scans 55–58 / printed pages 53–56**
+- source-backed content-boundary alignment: **PASS**
+- scan-58 conclusion / signature / terminal star: **represented**
+- omitted canonical Tamil prose: **0 known**
+- unresolved translation blockers: **0**
+- Tamil/source issues reopened during translation: **0**
+
+The English layer follows only the verified canonical Tamil. The letter-pair reversal with Story 4, `ஒப்பக்காரர்`, the Madhavi/Kannagi and *Parasakthi* analogies, and source-odd forms such as `தங்கள் முடங்கள்` are documented in the translation review rather than silently changing the Tamil.
 
 ## Controls
 
@@ -47,5 +65,9 @@ Final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUD
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- English translation: [`translations/en/nariyur-nandiyappan.md`](translations/en/nariyur-nandiyappan.md)
+- English translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
-Do not reopen this Tamil/source layer without genuinely stronger source evidence or explicit maintenance request.
+Tamil/source and English translation are now both **PASS / CLOSED** for this story. Do not reopen either layer without genuinely stronger evidence or an explicit maintenance request.
+
+The next anthology English activity is Story 6 **`முடியாத தொடர்கதை`**, scans **59–93 / printed pages 57–91**, in a later activity.

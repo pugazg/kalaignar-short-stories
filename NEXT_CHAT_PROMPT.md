@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 5 English
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 English
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,84 +10,72 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 Tamil/source is **PASS / CLOSED for all 6 stories**.
 
-English translation is **ACTIVE — 4/6 stories complete**.
+English translation is **ACTIVE — 5/6 stories complete**.
 
-Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`:
-
-- scans **7–28 / printed 5–26**;
-- Tamil/source: **PASS / CLOSED — 22/22 verified**;
-- English: **PASS / COMPLETE**;
-- canonical English: `stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md`;
-- review: `stories/petra-pillaiyai-vitra-thaai/TRANSLATION_REVIEW.md`.
+Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: English **PASS / COMPLETE**.
 
 Story 2 `காசா லேசா`:
-
-- scans **29–40 / printed 27–38**;
-- Tamil/source: **PASS / CLOSED — 12/12 verified**;
 - English title: **Is Cash Easy?**;
-- English: **PASS / COMPLETE**;
-- canonical English: `stories/kaasa-lesa/translations/en/kaasa-lesa.md`;
-- review: `stories/kaasa-lesa/TRANSLATION_REVIEW.md`;
-- physical source-page anchors: **12/12 content-aligned**;
-- unresolved translation blockers: **0**;
-- Tamil/source issues reopened during translation: **0**.
+- English **PASS / COMPLETE**;
+- 12/12 source-page anchors content-aligned;
+- unresolved translation blockers: **0**.
 
 Story 3 `சீமான் வீட்டு சீக்காளி`:
-
-- scans **41–49 / printed 39–47**;
-- Tamil/source: **PASS / CLOSED — 9/9 verified**;
 - English title: **The Invalid in the Rich Man's House**;
-- English: **PASS / COMPLETE**;
-- canonical English: `stories/seemaan-veettu-seekkaali/translations/en/seemaan-veettu-seekkaali.md`;
-- review: `stories/seemaan-veettu-seekkaali/TRANSLATION_REVIEW.md`;
-- physical source-page anchors: **9/9 content-aligned**;
-- unresolved translation blockers: **0**;
-- Tamil/source issues reopened during translation: **0**.
+- English **PASS / COMPLETE**;
+- 9/9 source-page anchors content-aligned;
+- unresolved translation blockers: **0**.
 
 Story 4 `நந்தியூர் நரியப்பன்`:
-
-- scans **50–54 / printed 48–52**;
-- Tamil/source: **PASS / CLOSED — 5/5 verified**;
 - English title: **Nariyappan of Nandiyur**;
+- English **PASS / COMPLETE**;
+- 5/5 source-page anchors content-aligned;
+- unresolved translation blockers: **0**.
+
+Story 5 `நரியூர் நந்தியப்பன்`:
+- scans **55–58 / printed 53–56**;
+- Tamil/source: **PASS / CLOSED — 4/4 verified**;
+- English title: **Nandiyappan of Nariyur**;
 - English: **PASS / COMPLETE**;
-- canonical English: `stories/nandiyur-nariyappan/translations/en/nandiyur-nariyappan.md`;
-- review: `stories/nandiyur-nariyappan/TRANSLATION_REVIEW.md`;
-- physical source-page anchors: **5/5 content-aligned**;
-- title/running-header reversal documented;
+- canonical English: `stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md`;
+- review: `stories/nariyur-nandiyappan/TRANSLATION_REVIEW.md`;
+- physical source-page anchors: **4/4 content-aligned**;
 - unresolved translation blockers: **0**;
 - Tamil/source issues reopened during translation: **0**;
 - do not reopen absent a genuinely new source/translation issue.
 
 Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
 
-## Exact next activity — Story 5 only
+## Exact next activity — Story 6 only
 
-Translate and review **`நரியூர் நந்தியப்பன்`**.
+Translate and review **`முடியாத தொடர்கதை`**.
 
-Workspace: `stories/nariyur-nandiyappan/`.
+Workspace: `stories/mudiyatha-thodarkathai/`.
 
-- source scans: **55–58**;
-- printed pages: **53–56**;
-- Tamil/source: **PASS / CLOSED — 4/4 verified**;
-- scan 58: terminal star;
-- forward boundary: scan **59 / printed 57** opens `முடியாத தொடர்கதை` and is excluded;
+- source scans: **59–93**;
+- printed pages: **57–91**;
+- Tamil/source: **PASS / CLOSED — 35/35 verified**;
+- Historical Tamil Glyph Gate: **PASS — 11 corrections / 0 unresolved**;
+- final source/visual closure: **F1–F7 PASS / 0 unresolved**;
+- scan 93: terminal star;
+- forward boundary: scan **94** is an advertisement and is excluded;
 - English: **NEXT / not started**.
 
 Before writing:
 
 1. fetch live `main` and preserve newer durable work;
 2. read `ENGLISH_TRANSLATION_GUIDE.md` completely;
-3. read this prompt, `HANDOVER.md`, the 1982 collection English tracker, Story-5 `README.md`, its final canonical Tamil, page map, glyph/review controls, and all **4** verified page records.
+3. read this prompt, `HANDOVER.md`, the 1982 collection English tracker, Story-6 `README.md`, its final canonical Tamil, page map, glyph/final-closure/review controls, and all **35** verified page records.
 
 Then:
 
 1. translate only the verified canonical Tamil—do not reopen or modernize it from general knowledge;
-2. preserve all **4** physical scan / printed-page anchors in source-backed content alignment, not merely numeric order;
-3. preserve source-significant dialogue, rhetorical structure, names, title/boundary distinctions and source-odd forms conservatively;
-4. create `stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md`;
-5. create/update Story-5 `TRANSLATION_REVIEW.md` and README;
-6. update the 1982 English tracker, collection README, `HANDOVER.md` and this prompt so Story 6 becomes NEXT if Story 5 passes;
+2. preserve all **35** physical scan / printed-page anchors in source-backed content alignment, not merely numeric order;
+3. preserve source-significant dialogue, narrative structure, names and source-odd forms conservatively;
+4. create `stories/mudiyatha-thodarkathai/translations/en/mudiyatha-thodarkathai.md`;
+5. create/update Story-6 `TRANSLATION_REVIEW.md` and README;
+6. update the 1982 English tracker, collection README, `HANDOVER.md` and this prompt to mark the anthology English phase complete only if Story 6 passes;
 7. record any genuinely source-sensitive translation choice explicitly; do not invent missing facts;
-8. **commit Story 5 English before beginning Story 6**.
+8. **commit Story 6 English before declaring the anthology English phase complete**.
 
-Do not start Story 6 in this activity. Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
+Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
