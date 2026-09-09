@@ -61,4 +61,4 @@ Within each batch, transcribe all pages directly from source pixels, run the man
 
 Process **scans 25–29 / printed pages 25–29** only. Scan 25 includes the display heading and opening prose. Do not begin scan 30 in the same iteration.
 
-Do not begin Story 8 `மனம்` until this story's Tamil/source workflow is fully closed. The separate `நடுத்தெரு நாராயணி` hold also remains in force while `வெள்ளிக்கிழமை` is incomplete.
+Do not begin Story 8 `மானம்` until this story's Tamil/source workflow is fully closed. The separate `நடுத்தெரு நாராயணி` hold also remains in force while `வெள்ளிக்கிழமை` is incomplete.
