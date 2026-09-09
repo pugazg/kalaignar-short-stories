@@ -1,6 +1,6 @@
 # பெற்ற பிள்ளையை விற்ற தாய்
 
-Canonical story workspace for **`பெற்ற பிள்ளையை விற்ற தாய்`**, activated from the 1982 first-edition anthology **`முடியாத தொடர்கதை`**.
+Canonical story workspace for **`பெற்ற பிள்ளையை விற்ற தாய்`**, Story 1 of the 1982 first-edition anthology **`முடியாத தொடர்கதை`**.
 
 ## Source
 
@@ -14,8 +14,6 @@ Canonical story workspace for **`பெற்ற பிள்ளையை வி
 - forward boundary witness: **scan 29 — `காசா லேசா`**
 - source PDF committed to GitHub: **No**
 
-A live-main duplicate/canonical search was rerun immediately before activation and returned no existing repository match. This 1982 range is therefore the controlling source for the new canonical story workspace.
-
 ## Tamil/source state
 
 **PASS / CLOSED.**
@@ -23,41 +21,41 @@ A live-main duplicate/canonical search was rerun immediately before activation a
 - physical story pages: **22/22**
 - first-pass page transcriptions: **22/22 complete**
 - native/high-resolution historical-glyph review: **22/22 complete**
-- historical-glyph gate: **PASS**
+- Historical Tamil Glyph Gate: **PASS**
 - unresolved historical-glyph candidates: **0**
 - final source/visual closure: **PASS**
 - final verified pages: **22/22**
 - unresolved ordinary source-text items: **0**
 - assembled Tamil: [`sections/petra-pillaiyai-vitra-thaai.md`](sections/petra-pillaiyai-vitra-thaai.md) — **synchronized / final**
-- English: **not started**
 
-Final source/visual audit:
-[`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
+The verified Tamil/source layer is frozen under the current controlling source. Source-odd forms such as `முருங்கை மிலார்`, `தெரியாத்தனம்`, `இலவுக்காத்தக் கிளி`, and the printed குறள் wording remain source-faithful and were not modernized for English.
 
-The user explicitly directed that this old-type 1982 book have a separate historical-Tamil-glyph gate after transcription. That independent gate PASSed before the final source/visual closure. The final closure then rechecked full phrase/clause/sentence fidelity, cross-page continuations, physical page markers, the scan-28 ending, the scan-29 forward boundary, and page-to-assembled consistency.
+## English state
 
-## Historical-glyph controls
+**PASS / COMPLETE.**
 
-- gate record: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md) — **PASS**
-- review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) — **CLOSED / 0 unresolved glyph candidates**
+- English title: **The Mother Who Sold the Child She Bore**
+- canonical English: [`translations/en/petra-pillaiyai-vitra-thaai.md`](translations/en/petra-pillaiyai-vitra-thaai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- page anchors: **22/22 — scans 7–28 / printed 5–26**
+- unresolved translation blockers: **0**
+- Tamil/source issues reopened during translation: **0**
 
-Minimum families checked on every page:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Corrections were source-pixel-supported and individually logged; no global replacement, lexical modernization or context-only guessing was used. Source-odd forms such as `முருங்கை மிலார்`, `தெரியாத்தனம்`, and the source's quoted குறள் wording were preserved where the high-resolution scan confirmed them.
+The English derivative translates the verified canonical Tamil directly, preserves physical page anchors, retains culturally specific/source-odd terminology where necessary, and does not import scan 29.
 
 ## Controls
 
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/petra-pillaiyai-vitra-thaai.md`](sections/petra-pillaiyai-vitra-thaai.md)
-- historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+- Historical Tamil Glyph Gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 - final source/visual audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
+- English translation: [`translations/en/petra-pillaiyai-vitra-thaai.md`](translations/en/petra-pillaiyai-vitra-thaai.md)
+- English translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 ## Closure boundary
 
-This Tamil/source story is frozen under the current controlling source. Do not reopen it without genuinely stronger source evidence or an explicit maintenance request.
+Story 1 Tamil/source and English are **CLOSED**. Do not reopen either absent genuinely stronger source evidence or an explicit maintenance request.
 
-The anthology's next activity is Story 2 `காசா லேசா`, scans **29–40 / printed pages 27–38**, beginning with a fresh live-main duplicate/canonical search before any story workspace is created.
+The next English activity in anthology order is Story 2 **`காசா லேசா`**, scans **29–40 / printed pages 27–38**. Complete Story 2 translation and review before beginning Story 3.
