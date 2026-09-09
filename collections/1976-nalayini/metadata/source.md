@@ -12,6 +12,10 @@
 - source type: image-only scan
 - repository policy: source PDF is **not committed**
 
+## Controlling-source provenance
+
+The user downloaded this exact PDF from the Tamil Digital Library and supplied the downloaded file directly in the conversation. **The attached PDF itself is the controlling source.** Do not look up the catalogue copy again or substitute catalogue metadata, OCR, another edition, or web text for source-dependent decisions unless the user explicitly requests an external comparison.
+
 ## Checksum
 
 SHA-256: **PENDING**.
@@ -32,7 +36,7 @@ Scans **3–78** correspond directly to printed pages **3–78**. Scans 1–2 ar
 
 ## Story-opening / ending checks
 
-Direct visual inspection establishes these physical ranges:
+Direct visual inspection of the attached PDF establishes these physical ranges:
 
 1. `நளாயினி` — scans/printed **3–12**;
 2. `காதல் கடிதம்` — **13–18**;
@@ -41,9 +45,9 @@ Direct visual inspection establishes these physical ranges:
 5. `விஷம் இனிது` — **47–55**;
 6. `பாலைவன ரோஜா` — **56–62**;
 7. `அய்யோ ராஜா!` — **63–72**;
-8. `மனம்` — **73–78**.
+8. `மானம்` — **73–78**.
 
-Scan 78 is the physical end of `மனம்`; it contains the ending text, a closing ornament and a library stamp. There is no additional story scan after it in this PDF.
+Scan **73** visibly carries the display heading `மானம்`; the earlier intake spelling `மனம்` was incorrect and is corrected from the attached scan. Scan 78 is the physical end of `மானம்`; it contains the ending text, a closing ornament and a library stamp. There is no additional story scan after it in this PDF.
 
 ## Condition / visible anomalies
 

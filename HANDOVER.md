@@ -29,6 +29,10 @@ Source `TVA_BOK_0065574_நளாயினி_1976.pdf`:
 - image-only; source PDF not committed;
 - SHA-256 remains **pending** because raw-byte checksum access was unavailable; never invent/borrow a digest.
 
+### Controlling-source instruction
+
+The user downloaded this exact PDF from the Tamil Digital Library and attached the downloaded file. **Use the attached PDF itself as the sole controlling source.** Do not query the Tamil Digital Library website again or use another external source for headings, transcription, boundaries, spelling, punctuation, metadata or glyph decisions unless the user explicitly asks for external comparison.
+
 Inventory:
 
 1. `நளாயினி` 3–12 — existing canonical, note only;
@@ -38,7 +42,9 @@ Inventory:
 5. `விஷம் இனிது` 47–55 — existing canonical, note only;
 6. `பாலைவன ரோஜா` 56–62 — existing canonical, note only;
 7. `அய்யோ ராஜா!` 63–72 — existing canonical, note only;
-8. `மனம்` 73–78 — new candidate, pending after Story 4.
+8. `மானம்` 73–78 — new candidate, pending after Story 4.
+
+The Story-8 heading is `மானம்`, directly visible on attached scan 73. Earlier archive controls said `மனம்`; that was an intake transcription error and must not recur.
 
 ## Active Story 4 — `நாட்டிய கலாராணி`
 
@@ -55,11 +61,11 @@ Durable state:
 - blocked: **0/22**;
 - Tamil assembly: **not started**.
 
-The story is intentionally not filled from OCR or another edition merely to advance counts.
+The story is intentionally not filled from OCR, web text or another edition merely to advance counts.
 
 ## Exact next activity
 
-Process only **scans 25–29 / printed pages 25–29**:
+Process only **scans 25–29 / printed pages 25–29** from the attached PDF:
 
 1. re-fetch live `main`;
 2. read the five controlling scans directly;
@@ -69,4 +75,4 @@ Process only **scans 25–29 / printed pages 25–29**:
 6. update page records, page map, pass/glyph trackers, audit, README and handover;
 7. commit the batch before scan 30.
 
-Do not begin scan 30 in that iteration. Do not begin `மனம்` until Story 4 is fully closed.
+Do not begin scan 30 in that iteration. Do not begin `மானம்` until Story 4 is fully closed.

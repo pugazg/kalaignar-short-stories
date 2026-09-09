@@ -15,6 +15,10 @@ Physical-source workspace for the attached **`நளாயினி`** short-sto
 - source PDF committed to GitHub: **No**
 - SHA-256: **pending** — direct raw-byte checksum access was unavailable; do not invent or borrow a digest
 
+### Controlling-source rule
+
+The user supplied this exact PDF after downloading it from the Tamil Digital Library. For this collection, the **attached PDF itself is the sole controlling source** for transcription, headings, boundaries, spelling, punctuation, historical-glyph decisions and source metadata. Do not re-query the Tamil Digital Library website or use another external catalogue/source unless the user explicitly requests an external comparison.
+
 ## Pagination / inventory
 
 Scans 1–2 are front matter. Scans 3–78 correspond to printed pages 3–78. The source has no separate printed contents page; all eight story openings were established by direct visual inspection.
@@ -28,7 +32,7 @@ Scans 1–2 are front matter. Scans 3–78 correspond to printed pages 3–78. T
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மனம்` | 73–78 | new canonical candidate — pending after Story 4 |
+| 8 | `மானம்` | 73–78 | new canonical candidate — pending after Story 4 |
 
 The six existing stories are **not retranscribed from this PDF** under the user's instruction. They remain registered only as additional 1976 witnesses unless a separate comparison activity is explicitly requested.
 
@@ -43,4 +47,4 @@ Workspace: `stories/naattiya-kalarani/`.
 - historical-glyph Pass 2: **0/22**;
 - next bounded batch: **scans 25–29**.
 
-Do not begin Story 8 `மனம்` until Story 4 Tamil/source closure is complete. `நடுத்தெரு நாராயணி` remains independently blocked while `வெள்ளிக்கிழமை` is incomplete.
+Do not begin Story 8 `மானம்` until Story 4 Tamil/source closure is complete. `நடுத்தெரு நாராயணி` remains independently blocked while `வெள்ளிக்கிழமை` is incomplete.

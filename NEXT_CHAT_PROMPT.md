@@ -10,6 +10,8 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 `TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only. Source PDF is not committed. SHA-256 remains pending because direct raw-byte checksum access was unavailable; do not invent one.
 
+The user downloaded this exact PDF from the Tamil Digital Library and supplied the downloaded file. **The attached PDF itself is the sole controlling authority for this collection. Do not query the Tamil Digital Library website or another external source unless the user explicitly requests an external comparison.**
+
 ## Mandatory startup
 
 Read before source-dependent work:
@@ -27,6 +29,10 @@ Read before source-dependent work:
 11. `stories/naattiya-kalarani/PASS1_PROGRESS.md`
 12. `stories/naattiya-kalarani/HISTORICAL_GLYPH_GATE.md`
 13. `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`
+
+## Collection correction
+
+Attached scan **73** directly shows Story 8 heading **`மானம்`**. Earlier controls incorrectly recorded `மனம்`; use `மானம்` from now on. Do not begin it yet.
 
 ## Durable state
 
@@ -46,7 +52,7 @@ Scan 25 visibly opens with the display heading `நாட்டிய கலா�
 
 Process scans **25–29 / printed pages 25–29** only.
 
-- transcribe directly from source pixels;
+- transcribe directly from the attached source pixels;
 - preserve punctuation, spacing, paragraphing, source-odd words and historical glyph identity;
 - after first pass, independently reopen all five pages and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
 - do not global-replace;
@@ -54,4 +60,4 @@ Process scans **25–29 / printed pages 25–29** only.
 - synchronize page records and all Story-4 controls;
 - commit before touching scan 30.
 
-Do **not** begin Story 8 `மனம்` in the same activity.
+Do **not** begin Story 8 `மானம்` in the same activity.

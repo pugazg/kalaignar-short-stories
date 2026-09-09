@@ -11,10 +11,10 @@
 | 47–55 | 47–55 | story | `விஷம் இனிது` | existing canonical — note only |
 | 56–62 | 56–62 | story | `பாலைவன ரோஜா` | existing canonical — note only |
 | 63–72 | 63–72 | story | `அய்யோ ராஜா!` | existing canonical — note only |
-| 73–78 | 73–78 | story | `மனம்` | new canonical candidate — pending |
+| 73–78 | 73–78 | story | `மானம்` | new canonical candidate — pending |
 
-## Story-4 boundary evidence
+## Boundary evidence
 
-Scan **25** visibly opens `நாட்டிய கலாராணி`. Scan **46** contains its ending prose and closing ornaments. Scan **47** independently opens `விஷம் இனிது`, confirming the Story-4 endpoint without OCR or another edition.
+All headings and ranges are controlled by direct visual inspection of the attached PDF. Scan **25** visibly opens `நாட்டிய கலாராணி`. Scan **46** contains its ending prose and closing ornaments. Scan **47** independently opens `விஷம் இனிது`, confirming the Story-4 endpoint. Scan **73** visibly opens `மானம்`; this corrects the earlier intake typo `மனம்` from the attached scan itself.
 
 Exact next physical range: **25–29**.
