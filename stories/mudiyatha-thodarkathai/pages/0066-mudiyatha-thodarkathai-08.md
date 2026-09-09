@@ -7,10 +7,10 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F2 PASS; story-wide promotion pending"
 ---
 
-மிகவும் துடித்தேன். அவர்கள் பக்கம் வேகமாக வந்தேன். பர்மாக்காரி பலமாக இருமிக் கொண்டிருந்தாள். கையிலிருந்த கத்தியை குமுதாவின் சகோதரனுடைய நெஞ்சில்—ஆம், என்னை அலங்கோலப்படுத்திய அந்தப் பாவியினுடைய இருதயத்துக்கு நேராக செலுத்தினேன் மாறிமாறிக் குத்தினேன்—அங்கேயே பிணமானான். அதனுடைய விளைவுதான் சங்கு, இத்தனை ஆண்டு சிறைவாசம்! அவன் என்னைக் கொல்லாமல் கொன்று விடுதலை பெற்றான். நான் அவனை ஒரேயடியாகக் கொன்று தண்டனை பெறுகிறேன்.
+மிகவும் துடித்தேன். அவர்கள் பக்கம் வேகமாக வந்தேன். பர்மாக்காரி பலமாக இருமிக் கொண்டிருந்தாள். கையிலிருந்த கத்தியை குமுதாவின் சகோதரனுடைய நெஞ்சில்—ஆம், என்னை அலங்கோலப்படுத்திய அந்தப் பாவியினுடைய இருதயத்துக்கு நேராக செலுத்தினேன் மாறிமாறிக் குத்தினேன்—அங்கேயே பிணமானான். அதனுடைய விளைவுதான் சங்கு, இத்தனை ஆண்டு சிறைவாசம்! அவன் என்னைக் கொல்லாமல் கொன்று விடுதலைப் பெற்றான். நான் அவனை ஒரேயடியாகக் கொன்று தண்டனை பெறுகிறேன்.
 
 சங்கு : என்னால் உன் கதையைத் தாங்க முடியவில்லை அண்ணே! போகட்டும், நாளைக்கு வெளியிலே போய் மகனையாவது சுகமாகக் காப்பாற்று அண்ணே!
 
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 66; printed page: 64 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Final source/visual closure batch **F2 PASS**. Page remains `needs-review` until story-wide closure.

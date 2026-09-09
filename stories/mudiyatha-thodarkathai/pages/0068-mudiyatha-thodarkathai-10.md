@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F2 PASS; story-wide promotion pending"
 ---
 
 யாது—” என்று தனக்குள் கூறிக்கொண்டான். கண்களில் கனல் கிளம்பியது. “குமுதா” என்று பயங்கரமாக உச்சரித்தபடி இசை வந்த பக்கம் பாய்ந்தான். அவன் எதிர்பார்த்தபடி பாடியது இருவர்தான்!
@@ -20,10 +20,10 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 அவன் :- சித்ரா...என் சிந்தை கவர்ந்தவளே... இந்த நாள்போல் எந்த நாளும் இன்பம் குவியுமல்லவா...
 
-அவள் :- இந்த நாள்போல் என்று சொல்லாதீர்கள்... இந்த நாள் தோற்றதென அடுத்தநாள் சொல்லும்; அடுத்த நாளை மறுநாள் வெல்லும்—அந்த மறுநாளை இன்னொரு புது நாள் கொல்லும்—என்ன செல்வம் சரிதானே!
+அவள் :- இந்த நாள்போல் என்று சொல்லாதீர்கள்... இந்தநாள் தோற்றதென அடுத்தநாள் சொல்லும்; அடுத்த நாளை மறுநாள் வெல்லும்—அந்த மறுநாளை இன்னொரு புது நாள் கொல்லும்—என்ன செல்வம் சரிதானே!
 
 ஆம்—சந்தனத்தின் மகன் செல்வம்தான் சித்ராவுடன் காதல் மொழி பேசி களித்துக்கிடக்கிறான். அதைச் சந்தனம் நேரில் பார்த்துவிட்டான். “காதலோர் கடும் விஷம்” என்று போதனை செய்தவனின் புத்திரன் பூப்படுக்கையிலே புதுப் பெண்ணின் மனதை அள்ளிக் கொண்டிருக்கிறான். ஆத்திரம் தாங்காத சந்தனம் ‘அடே
 
 <!-- anthology scan: 68; printed page: 66 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Final source/visual closure batch **F2 PASS**. Page remains `needs-review` until story-wide closure.

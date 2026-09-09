@@ -12,7 +12,7 @@ Physical range: **scans 59–93 / printed 57–91**
 - total source/glyph corrections established by the gate and corrective re-audit: **10**;
 - unresolved historical-glyph candidates: **0**;
 - page status after gate: **35/35 remain `needs-review`**;
-- final source/visual closure: **NOT STARTED / NEXT**.
+- final source/visual closure: **IN PROGRESS — F1–F2 PASS / 2 of 7 batches; F3 NEXT**.
 
 ## Source-pixel-supported corrections
 
@@ -49,4 +49,4 @@ The initial gate record understated the number of source-character errors. A use
 
 ## Phase boundary
 
-This gate certifies historical-character/source-word identity only. It does **not** certify every remaining ordinary punctuation, spacing or page-provenance detail. The separate final source/visual closure is now NEXT.
+This gate certifies historical-character/source-word identity only. It does **not** certify every remaining ordinary punctuation, spacing or page-provenance detail. The separate final source/visual closure is **IN PROGRESS — F1–F2 PASS / 2 of 7 batches complete; F3 NEXT**.

@@ -26,14 +26,14 @@ Immediately before activation, authoritative live `main` was **`396ab69ff7b1851c
 
 ## Tamil/source state
 
-**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — FINAL SOURCE/VISUAL CLOSURE NEXT.**
+**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — FINAL SOURCE/VISUAL CLOSURE IN PROGRESS.**
 
 - physical story pages: **35/35**
 - first-pass transcription: **35/35 COMPLETE**
 - page status: **35/35 `needs-review`**
-- assembled Tamil: **requires synchronization of corrective scan-88–92 readings during final closure**
+- assembled Tamil: **synchronized through F2 scans 64–68; corrective scan-88–92 readings remain to be synchronized when F6/F7 reach that range**
 - Historical Tamil Glyph Gate: **PASS 35/35 — 10 total corrections / 0 unresolved**
-- final source/visual closure: **not started**
+- final source/visual closure: **IN PROGRESS — F1–F2 PASS; 2/7 batches complete; F3 scans 69–73 NEXT**
 - English: **not started**
 
 The controlling scan decides every reading. Source-odd forms are preserved rather than silently modernized.
@@ -42,10 +42,11 @@ The controlling scan decides every reading. Source-odd forms are preserved rathe
 
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - glyph audit: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
+- final-closure ledger: [`FINAL_SOURCE_VISUAL_PROGRESS.md`](FINAL_SOURCE_VISUAL_PROGRESS.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/mudiyatha-thodarkathai.md`](sections/mudiyatha-thodarkathai.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Hard stop
 
-Keep all 35 pages `needs-review` until the separate final source/visual closure passes.
+Keep all 35 pages `needs-review` until all seven final source/visual batches pass and the story-wide final closure promotes them together.

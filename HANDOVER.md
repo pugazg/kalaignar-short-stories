@@ -36,10 +36,12 @@ Stories 1–5 are **PASS / CLOSED**. Story 6 `முடியாத தொடர
 - Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit — 35/35; 10 total corrections / 0 unresolved**;
 - corrective source readings include `பேசினாள்`, `சொல்லியனுப்பினான்`, `துட்ட லக்கணமாம்`, `மலைப்பாம்பு`, `விலக்கினான்`, `கூறினான்`, `பில்கனாவிலே` plus the earlier three historical `ளை` fixes;
 - `ஸ்பரிசிக்கப்பட்டு` is retained as printed Tamil; later English sense: **touched / was touched**;
-- final source/visual closure: **IN PROGRESS — F1 PASS, 1/7 batches complete**;
+- final source/visual closure: **IN PROGRESS — F1–F2 PASS, 2/7 batches complete**;
 - F1 scans **59–63 / pp.57–61**: **PASS — 3 corrections / 0 unresolved**;
-- F2 scans **64–68 / pp.62–66**: **NEXT**;
-- assembled Tamil for corrective scans 88–92 still needs synchronization when F6/F7 reach that range;
+- F2 scans **64–68 / pp.62–66**: **PASS — 6 corrections / 0 unresolved**;
+- F3 scans **69–73 / pp.67–71**: **NEXT**;
+- F2 established `சதையெல்லாம் — குமுதாவின்`, `சிகிச்சைப் பெற்று`, `முன் இறந்துவிட்டான் — பர்மாக்காரிக்கும்`, `கொன்று விடுதலைப் பெற்றான்`, `அனுச்சரணமும்`, `இந்தநாள் தோற்றதென`;
+- assembled Tamil is synchronized through F2; corrective scans 88–92 still need synchronization when F6/F7 reach that range;
 - English: **not started**.
 
 Final-closure ledger: `stories/mudiyatha-thodarkathai/FINAL_SOURCE_VISUAL_PROGRESS.md`.
@@ -49,8 +51,8 @@ Final-closure ledger: `stories/mudiyatha-thodarkathai/FINAL_SOURCE_VISUAL_PROGRE
 Process and commit **exactly 5 physical scans per iteration**:
 
 1. F1 59–63 — **PASS**
-2. F2 64–68 — **NEXT**
-3. F3 69–73
+2. F2 64–68 — **PASS**
+3. F3 69–73 — **NEXT**
 4. F4 74–78
 5. F5 79–83
 6. F6 84–88
@@ -60,8 +62,8 @@ For each batch: native/high-resolution reread → ordinary wording/punctuation/s
 
 Keep all pages `needs-review` during partial batches. After all seven batches PASS and zero ordinary source issues remain, perform the story-wide final closure and promote all 35 pages to `verified` together.
 
-## Exact next activity — F2 only
+## Exact next activity — F3 only
 
-Process **scans 64–68 / printed 62–66 only**. Recheck every word, punctuation/spacing choice and any physical join touching this five-scan range. Apply only source-supported corrections, update F2 progress, keep pages `needs-review`, update handover and next-chat prompt to F3 if F2 passes, and commit before any F3 work.
+Process **scans 69–73 / printed 67–71 only**. Recheck every word, punctuation/spacing choice and any physical join whose two halves fall in or touch this five-scan range. Apply only source-supported corrections, preserve source-odd forms, synchronize the affected assembled derivative, update F3 progress, keep pages `needs-review`, update handover and next-chat prompt to F4 if F3 passes, and **commit F3 before any F4 work**.
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.
