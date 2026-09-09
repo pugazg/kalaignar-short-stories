@@ -33,9 +33,23 @@ The collection title and this Story-6 opening title are identical strings. `coll
 - all logged physical joins: **resolved**
 - scan 93 terminal star: **confirmed**
 - scan 94 advertisement: **excluded**
-- English: **not started / not authorized**
 
-Source-faithful odd forms retained include `ஸ்பரிசிக்கப்பட்டு` and scan-90 `தந்தையை அண்ணை-இழந்து`; no contextual modernization was applied.
+Source-faithful odd forms retained include `ஸ்பரிசிக்கப்பட்டு` and scan-90 `தந்தையை அண்ணை-இழந்து`; no contextual modernization was applied to the Tamil layer.
+
+## English translation state
+
+**PASS / COMPLETE.**
+
+- English title: **The Never-Ending Story**
+- canonical English: [`translations/en/mudiyatha-thodarkathai.md`](translations/en/mudiyatha-thodarkathai.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- physical scan / printed-page anchors: **35/35 content-aligned**
+- scan 93 ending / terminal star represented: **yes**
+- scan 94 advertisement excluded: **yes**
+- unresolved translation blockers: **0**
+- Tamil/source issues reopened during translation: **0**
+
+Story-6 English completion closes the 1982 anthology English phase at **6/6 stories PASS / COMPLETE**.
 
 ## Controls
 
@@ -46,7 +60,11 @@ Source-faithful odd forms retained include `ஸ்பரிசிக்கப்
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/mudiyatha-thodarkathai.md`](sections/mudiyatha-thodarkathai.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- English translation: [`translations/en/mudiyatha-thodarkathai.md`](translations/en/mudiyatha-thodarkathai.md)
+- English review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 ## Phase boundary
 
-Do not reopen Tamil/source unless genuinely new source/provenance/fidelity evidence appears. Do not start English unless separately authorized.
+Tamil/source and English for this story are **CLOSED**. Do not reopen them without genuinely new source/provenance/fidelity evidence or an explicit maintenance request.
+
+The separate `நடுத்தெரு நாராயணி` activity remains blocked while `வெள்ளிக்கிழமை` is incomplete.

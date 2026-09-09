@@ -20,16 +20,15 @@ This tracker covers English translation of the six-story 1982 anthology after **
 | 3 | `சீமான் வீட்டு சீக்காளி` | PASS / CLOSED — 9/9 verified | `The Invalid in the Rich Man's House` | **PASS / COMPLETE** |
 | 4 | `நந்தியூர் நரியப்பன்` | PASS / CLOSED — 5/5 verified | `Nariyappan of Nandiyur` | **PASS / COMPLETE** |
 | 5 | `நரியூர் நந்தியப்பன்` | PASS / CLOSED — 4/4 verified | `Nandiyappan of Nariyur` | **PASS / COMPLETE** |
-| 6 | `முடியாத தொடர்கதை` | PASS / CLOSED — 35/35 verified | — | **NEXT** |
+| 6 | `முடியாத தொடர்கதை` | PASS / CLOSED — 35/35 verified | `The Never-Ending Story` | **PASS / COMPLETE** |
 
-Current English completion: **5 / 6 stories**.
+Current English completion: **6 / 6 stories — COMPLETE / CLOSED**.
 
 ## Story 1 closure
 
 - workspace: `stories/petra-pillaiyai-vitra-thaai/`;
 - source range: scans **7–28 / printed 5–26**;
-- English derivative: `stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md`;
-- translation review: `stories/petra-pillaiyai-vitra-thaai/TRANSLATION_REVIEW.md`;
+- English title: **The Mother Who Sold the Child She Bore**;
 - result: **PASS / COMPLETE — 22/22 page anchors / 0 unresolved translation blockers**.
 
 ## Story 2 closure
@@ -61,13 +60,25 @@ Current English completion: **5 / 6 stories**.
 - workspace: `stories/nariyur-nandiyappan/`;
 - source range: scans **55–58 / printed 53–56**;
 - English title: **Nandiyappan of Nariyur**;
-- English derivative: `stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md`;
-- translation review: `stories/nariyur-nandiyappan/TRANSLATION_REVIEW.md`;
 - result: **PASS / COMPLETE — 4/4 page anchors content-aligned / 0 unresolved translation blockers**;
 - Tamil/source issues reopened during translation: **0**.
 
-## Next activity
+## Story 6 closure
 
-Translate and review Story 6 **`முடியாத தொடர்கதை`** from its verified canonical Tamil, scans **59–93 / printed pages 57–91**. Preserve all **35** physical scan / printed-page anchors in source-backed content alignment. Scan 93 closes with the terminal star; scan 94 is an excluded advertisement. Complete and commit Story 6 before declaring the anthology English phase complete.
+- workspace: `stories/mudiyatha-thodarkathai/`;
+- source range: scans **59–93 / printed 57–91**;
+- English title: **The Never-Ending Story**;
+- English derivative: `stories/mudiyatha-thodarkathai/translations/en/mudiyatha-thodarkathai.md`;
+- translation review: `stories/mudiyatha-thodarkathai/TRANSLATION_REVIEW.md`;
+- result: **PASS / COMPLETE — 35/35 page anchors content-aligned / 0 unresolved translation blockers**;
+- scan 93 ending / terminal star represented: **yes**;
+- scan 94 advertisement excluded: **yes**;
+- Tamil/source issues reopened during translation: **0**.
+
+## Phase closure
+
+**ENGLISH TRANSLATION COMPLETE / CLOSED — 6/6 STORIES PASS / COMPLETE.**
+
+There is no pending English target in this anthology. Reopen a completed translation only for a genuinely new source/translation issue or an explicit maintenance request.
 
 The separate cross-project hold remains: do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.

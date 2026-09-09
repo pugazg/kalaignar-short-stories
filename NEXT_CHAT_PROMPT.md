@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 English
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` anthology CLOSED / external hold
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,47 +8,22 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 ## 1982 anthology durable state
 
-Tamil/source is **PASS / CLOSED for all 6 stories**.
+Tamil/source: **COMPLETE / CLOSED — 6/6 stories**.
 
-English translation is **ACTIVE — 5/6 stories complete**.
+English translation: **COMPLETE / CLOSED — 6/6 stories PASS / COMPLETE**.
 
-Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: English **PASS / COMPLETE**.
+English titles:
 
-Story 2 `காசா லேசா`:
-- English title: **Is Cash Easy?**;
-- English **PASS / COMPLETE**;
-- 12/12 source-page anchors content-aligned;
-- unresolved translation blockers: **0**.
-
-Story 3 `சீமான் வீட்டு சீக்காளி`:
-- English title: **The Invalid in the Rich Man's House**;
-- English **PASS / COMPLETE**;
-- 9/9 source-page anchors content-aligned;
-- unresolved translation blockers: **0**.
-
-Story 4 `நந்தியூர் நரியப்பன்`:
-- English title: **Nariyappan of Nandiyur**;
-- English **PASS / COMPLETE**;
-- 5/5 source-page anchors content-aligned;
-- unresolved translation blockers: **0**.
-
-Story 5 `நரியூர் நந்தியப்பன்`:
-- scans **55–58 / printed 53–56**;
-- Tamil/source: **PASS / CLOSED — 4/4 verified**;
-- English title: **Nandiyappan of Nariyur**;
-- English: **PASS / COMPLETE**;
-- canonical English: `stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md`;
-- review: `stories/nariyur-nandiyappan/TRANSLATION_REVIEW.md`;
-- physical source-page anchors: **4/4 content-aligned**;
-- unresolved translation blockers: **0**;
-- Tamil/source issues reopened during translation: **0**;
-- do not reopen absent a genuinely new source/translation issue.
+1. `பெற்ற பிள்ளையை விற்ற தாய்` — **The Mother Who Sold the Child She Bore**
+2. `காசா லேசா` — **Is Cash Easy?**
+3. `சீமான் வீட்டு சீக்காளி` — **The Invalid in the Rich Man's House**
+4. `நந்தியூர் நரியப்பன்` — **Nariyappan of Nandiyur**
+5. `நரியூர் நந்தியப்பன்` — **Nandiyappan of Nariyur**
+6. `முடியாத தொடர்கதை` — **The Never-Ending Story**
 
 Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
 
-## Exact next activity — Story 6 only
-
-Translate and review **`முடியாத தொடர்கதை`**.
+## Story 6 closure
 
 Workspace: `stories/mudiyatha-thodarkathai/`.
 
@@ -57,25 +32,25 @@ Workspace: `stories/mudiyatha-thodarkathai/`.
 - Tamil/source: **PASS / CLOSED — 35/35 verified**;
 - Historical Tamil Glyph Gate: **PASS — 11 corrections / 0 unresolved**;
 - final source/visual closure: **F1–F7 PASS / 0 unresolved**;
-- scan 93: terminal star;
-- forward boundary: scan **94** is an advertisement and is excluded;
-- English: **NEXT / not started**.
+- English title: **The Never-Ending Story**;
+- English: **PASS / COMPLETE**;
+- canonical English: `stories/mudiyatha-thodarkathai/translations/en/mudiyatha-thodarkathai.md`;
+- review: `stories/mudiyatha-thodarkathai/TRANSLATION_REVIEW.md`;
+- physical source-page anchors: **35/35 content-aligned**;
+- scan 93 terminal star represented;
+- scan 94 advertisement excluded;
+- unresolved translation blockers: **0**;
+- Tamil/source issues reopened during translation: **0**.
 
-Before writing:
+## Current exact action
 
-1. fetch live `main` and preserve newer durable work;
-2. read `ENGLISH_TRANSLATION_GUIDE.md` completely;
-3. read this prompt, `HANDOVER.md`, the 1982 collection English tracker, Story-6 `README.md`, its final canonical Tamil, page map, glyph/final-closure/review controls, and all **35** verified page records.
+**HOLD.** There is no pending routine Tamil/source or English activity inside the 1982 anthology.
 
-Then:
+On restart:
 
-1. translate only the verified canonical Tamil—do not reopen or modernize it from general knowledge;
-2. preserve all **35** physical scan / printed-page anchors in source-backed content alignment, not merely numeric order;
-3. preserve source-significant dialogue, narrative structure, names and source-odd forms conservatively;
-4. create `stories/mudiyatha-thodarkathai/translations/en/mudiyatha-thodarkathai.md`;
-5. create/update Story-6 `TRANSLATION_REVIEW.md` and README;
-6. update the 1982 English tracker, collection README, `HANDOVER.md` and this prompt to mark the anthology English phase complete only if Story 6 passes;
-7. record any genuinely source-sensitive translation choice explicitly; do not invent missing facts;
-8. **commit Story 6 English before declaring the anthology English phase complete**.
+1. fetch live `main` first and preserve newer durable work;
+2. do not reopen any of the six closed anthology stories without genuinely new source/provenance/translation evidence or an explicit maintenance request;
+3. do not start `நடுத்தெரு நாராயணி` unless the external `வெள்ளிக்கிழமை` gate has first been confirmed complete from authoritative current state;
+4. if the hold remains unsatisfied, wait for an explicit new source, maintenance request, or redirect to another authorized archive activity rather than inventing a next story.
 
-Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
+The 1982 `முடியாத தொடர்கதை` anthology is **FULLY CLOSED for both Tamil/source and English**.

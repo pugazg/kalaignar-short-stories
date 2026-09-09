@@ -17,7 +17,7 @@ Collection workspace for **`முடியாத தொடர்கதை`**, a
 
 The scan is controlling. Do not silently normalize wording, punctuation, spacing, historical glyphs or source-title variants.
 
-## Story inventory — 6 / 6 Tamil/source CLOSED
+## Story inventory — Tamil/source and English CLOSED
 
 | # | Opening heading | PDF scans | Printed pages | Tamil/source | English |
 |---:|---|---:|---:|---|---|
@@ -26,7 +26,7 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **PASS / CLOSED — 9/9 verified** | **PASS / COMPLETE** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **PASS / CLOSED — 5/5 verified** | **PASS / COMPLETE** |
 | 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **PASS / CLOSED — 4/4 verified** | **PASS / COMPLETE** |
-| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **PASS / CLOSED — 35/35 verified** | **NEXT** |
+| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **PASS / CLOSED — 35/35 verified** | **PASS / COMPLETE** |
 
 Story-4 running headers on scans 52/54 use `நரியூர் நந்தியப்பன்`, but scan 54 terminal star and scan 55 new stylized opening prove Story 5 is distinct.
 
@@ -42,29 +42,30 @@ No global replacement, silent modernization or context-only correction was used.
 
 ## English translation phase
 
-**ACTIVE — 5 of 6 stories PASS / COMPLETE.**
+**COMPLETE / CLOSED — 6 of 6 stories PASS / COMPLETE.**
 
 Progress tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
-- Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: **ENGLISH PASS / COMPLETE** — [`../../stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md`](../../stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md)
-- Story 2 `காசா லேசா`: **ENGLISH PASS / COMPLETE** — [`../../stories/kaasa-lesa/translations/en/kaasa-lesa.md`](../../stories/kaasa-lesa/translations/en/kaasa-lesa.md)
-- Story 3 `சீமான் வீட்டு சீக்காளி`: **ENGLISH PASS / COMPLETE** — [`../../stories/seemaan-veettu-seekkaali/translations/en/seemaan-veettu-seekkaali.md`](../../stories/seemaan-veettu-seekkaali/translations/en/seemaan-veettu-seekkaali.md)
-- Story 4 `நந்தியூர் நரியப்பன்`: **ENGLISH PASS / COMPLETE** — [`../../stories/nandiyur-nariyappan/translations/en/nandiyur-nariyappan.md`](../../stories/nandiyur-nariyappan/translations/en/nandiyur-nariyappan.md)
-- Story 5 `நரியூர் நந்தியப்பன்`: **ENGLISH PASS / COMPLETE** — [`../../stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md`](../../stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md)
-- Story 6 `முடியாத தொடர்கதை`: **NEXT**
+- Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: **The Mother Who Sold the Child She Bore** — **PASS / COMPLETE**
+- Story 2 `காசா லேசா`: **Is Cash Easy?** — **PASS / COMPLETE**
+- Story 3 `சீமான் வீட்டு சீக்காளி`: **The Invalid in the Rich Man's House** — **PASS / COMPLETE**
+- Story 4 `நந்தியூர் நரியப்பன்`: **Nariyappan of Nandiyur** — **PASS / COMPLETE**
+- Story 5 `நரியூர் நந்தியப்பன்`: **Nandiyappan of Nariyur** — **PASS / COMPLETE**
+- Story 6 `முடியாத தொடர்கதை`: **The Never-Ending Story** — **PASS / COMPLETE**
 
-Story 2 English title: **Is Cash Easy?**. Its translation preserves all **12/12** source-page anchors and documents the source-sensitive scan-39 title/death wordplay in the story-local translation review. No Tamil/source issue was reopened during translation.
+All six English derivatives are translated only from their verified canonical Tamil layers and preserve their physical scan / printed-page anchors. Translation did not authorize or introduce silent changes to the frozen Tamil/source text.
 
-Story 3 English title: **The Invalid in the Rich Man's House**. Its translation preserves all **9/9** source-page anchors in content alignment, including the restored scan 45→46 and scan 46→47 physical transitions, and documents the source-odd forms without changing the frozen Tamil. No Tamil/source issue was reopened during translation.
+Story 6 English preserves all **35/35** source-page anchors in content alignment, including the long physical continuations across scans 59–93, the scan-93 terminal star, and the exclusion of scan 94 advertisement. Its story-local review documents source-odd forms, the source scene-number sequence `1 → 2 → 4 → 5`, the satirical Swami names, the scan-90 source-odd kinship phrase, and the final mistaken-sibling reversal without altering Tamil.
 
-Story 4 English title: **Nariyappan of Nandiyur**. Its translation preserves all **5/5** source-page anchors in content alignment, including the split joins `இன்றைக் / கும்` and `காலமாகிவிட் / டாலும்`, and explicitly preserves the opening/running-header reversal as a source-layer distinction. No Tamil/source issue was reopened during translation.
+## Collection closure
 
-Story 5 English title: **Nandiyappan of Nariyur**. Its translation preserves all **4/4** source-page anchors in content alignment, including the `ஒரு குடி / மகனாய்`, `பழிப் / பதாயிருக்கும்`, and `கருதா / மல்` source transitions, and documents the paired-letter satire, `ஒப்பக்காரர்`, the Madhavi/Kannagi analogy, *Parasakthi* passage and source-odd forms without altering Tamil. No Tamil/source issue was reopened during translation.
+The 1982 **`முடியாத தொடர்கதை`** anthology has now completed both archival layers currently authorized by the permanent workflow:
 
-English work follows anthology order, one story per activity. Each English derivative is translated from the verified canonical Tamil and preserves the physical scan / printed-page anchors. Translation is not permission to silently alter the frozen Tamil/source layer.
+- Tamil/source: **6/6 PASS / CLOSED**;
+- English: **6/6 PASS / COMPLETE**;
+- unresolved Tamil/source blockers: **0**;
+- unresolved English translation blockers: **0**.
 
-## Exact next activity
+There is no pending activity inside this anthology. Reopen only for genuinely new source/provenance/translation evidence or an explicit maintenance request.
 
-Translate and review Story 6 **`முடியாத தொடர்கதை`**, scans **59–93 / printed pages 57–91**, from its verified canonical Tamil. Preserve all **35** physical scan / printed-page anchors in source-backed content alignment. Scan 93 contains the ending and terminal star; scan 94 is an excluded advertisement. Create the canonical English derivative and translation review, update Story-6 and collection controls, and commit Story-6 English before declaring the anthology English phase complete.
-
-Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.
+The separate cross-project hold remains: do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.
