@@ -1,56 +1,74 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` anthology CLOSED / external hold
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / Story 4 `நாட்டிய கலாராணி`
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Hard external hold
+## External hold remains
 
-`வெள்ளிக்கிழமை` remains incomplete; do **not** start `நடுத்தெரு நாராயணி`.
+`வெள்ளிக்கிழமை` is still incomplete; do **not** start `நடுத்தெரு நாராயணி`.
 
-## 1982 anthology durable state
+The user has explicitly redirected current work to the attached 1976 `நளாயினி` collection while that hold remains.
 
-Tamil/source: **COMPLETE / CLOSED — 6/6 stories**.
+## Controlling source
 
-English translation: **COMPLETE / CLOSED — 6/6 stories PASS / COMPLETE**.
+`TVA_BOK_0065574_நளாயினி_1976.pdf`
 
-English titles:
+- **78 scans**;
+- **164,748,566 bytes**;
+- title `நளாயினி`;
+- author `மு. கருணாநிதி`;
+- `நான்காம் பதிப்பு 1976`;
+- image-only;
+- source PDF is not committed;
+- SHA-256 remains **pending** because raw-byte checksum access failed in the intake runtime; never invent or borrow a checksum.
 
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — **The Mother Who Sold the Child She Bore**
-2. `காசா லேசா` — **Is Cash Easy?**
-3. `சீமான் வீட்டு சீக்காளி` — **The Invalid in the Rich Man's House**
-4. `நந்தியூர் நரியப்பன்` — **Nariyappan of Nandiyur**
-5. `நரியூர் நந்தியப்பன்` — **Nandiyappan of Nariyur**
-6. `முடியாத தொடர்கதை` — **The Never-Ending Story**
+Collection workspace: `collections/1976-nalayini/`.
 
-Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
+Read before source-dependent work:
 
-## Story 6 closure
+1. `SHORT_STORY_PROCESSING_GUIDE.md`
+2. `COLLECTION_SOURCE_GUIDE.md`
+3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+4. root `HANDOVER.md`
+5. this prompt
+6. `collections/1976-nalayini/README.md`
+7. `collections/1976-nalayini/metadata/source.md`
+8. `collections/1976-nalayini/indexes/story-inventory.md`
+9. `collections/1976-nalayini/indexes/scan-map.md`
+10. `collections/1976-nalayini/DUPLICATE_WITNESSES.md`
 
-Workspace: `stories/mudiyatha-thodarkathai/`.
+## Inventory / dedup state
 
-- source scans: **59–93**;
-- printed pages: **57–91**;
-- Tamil/source: **PASS / CLOSED — 35/35 verified**;
-- Historical Tamil Glyph Gate: **PASS — 11 corrections / 0 unresolved**;
-- final source/visual closure: **F1–F7 PASS / 0 unresolved**;
-- English title: **The Never-Ending Story**;
-- English: **PASS / COMPLETE**;
-- canonical English: `stories/mudiyatha-thodarkathai/translations/en/mudiyatha-thodarkathai.md`;
-- review: `stories/mudiyatha-thodarkathai/TRANSLATION_REVIEW.md`;
-- physical source-page anchors: **35/35 content-aligned**;
-- scan 93 terminal star represented;
-- scan 94 advertisement excluded;
-- unresolved translation blockers: **0**;
-- Tamil/source issues reopened during translation: **0**.
+Eight stories were established directly from the source-opening scans.
 
-## Current exact action
+Existing canonical stories — **NOTE ONLY; DO NOT RETRANSCRIBE FROM THIS PDF**:
 
-**HOLD.** There is no pending routine Tamil/source or English activity inside the 1982 anthology.
+1. `நளாயினி` — scans/printed 3–12;
+2. `காதல் கடிதம்` — 13–18;
+3. `புரட்சிப் படம்` — 19–24;
+5. `விஷம் இனிது` — 47–55;
+6. `பாலைவன ரோஜா` — 56–62;
+7. `அய்யோ ராஜா!` — 63–72.
 
-On restart:
+New canonical-story candidates:
 
-1. fetch live `main` first and preserve newer durable work;
-2. do not reopen any of the six closed anthology stories without genuinely new source/provenance/translation evidence or an explicit maintenance request;
-3. do not start `நடுத்தெரு நாராயணி` unless the external `வெள்ளிக்கிழமை` gate has first been confirmed complete from authoritative current state;
-4. if the hold remains unsatisfied, wait for an explicit new source, maintenance request, or redirect to another authorized archive activity rather than inventing a next story.
+4. `நாட்டிய கலாராணி` — scans/printed **25–46**;
+8. `மனம்` — scans/printed **73–78**.
 
-The 1982 `முடியாத தொடர்கதை` anthology is **FULLY CLOSED for both Tamil/source and English**.
+## Exact next activity — Story 4 only
+
+Process **`நாட்டிய கலாராணி`**, scans **25–46 / printed pages 25–46**.
+
+Before creating its story folder, re-fetch live `main` and reconfirm the story is not already present under the exact heading or a documented alternate title.
+
+Then:
+
+- create the canonical story workspace;
+- transcribe only from the attached controlling scans;
+- preserve every physical page boundary;
+- run the mandatory Historical Tamil Glyph Gate / source review according to current permanent guides;
+- do not normalize or import wording from another edition;
+- record difficult or source-odd readings explicitly;
+- synchronize page map, audit/review queue, Tamil assembly and controls;
+- commit Story 4 before advancing.
+
+Do **not** begin Story 8 `மனம்` in the same activity.

@@ -24,47 +24,62 @@ Always fetch live `main` first and preserve newer durable state.
 
 `நடுத்தெரு நாராயணி` remains **BLOCKED** while `வெள்ளிக்கிழமை` is incomplete in `pugazg/kalaignar-novels`.
 
-## 1982 `முடியாத தொடர்கதை`
+The user explicitly redirected archive work to the attached 1976 `நளாயினி` source while that hold remains. This does **not** authorize `நடுத்தெரு நாராயணி`.
 
-Source: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` — **95 scans**, **194,350,272 bytes**, SHA-256 `d69034c5374c6c1604ddeb6d8e034c4410ae0d58201f2dd1608edd0e6d8cfd41`, first edition September 1982, image-only; do not commit PDF.
+## Closed collection — 1982 `முடியாத தொடர்கதை`
 
-### Tamil/source state
+**FULLY CLOSED — Tamil/source 6/6; English 6/6.**
 
-**COMPLETE / CLOSED — 6 of 6 stories.**
+Do not reopen without genuinely new evidence or explicit maintenance authorization.
 
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — 22/22 verified
-2. `காசா லேசா` — 12/12 verified
-3. `சீமான் வீட்டு சீக்காளி` — 9/9 verified
-4. `நந்தியூர் நரியப்பன்` — 5/5 verified
-5. `நரியூர் நந்தியப்பன்` — 4/4 verified
-6. `முடியாத தொடர்கதை` — 35/35 verified; Historical Tamil Glyph Gate PASS 11 corrections / 0 unresolved; final source/visual F1–F7 PASS / 0 unresolved
+## ACTIVE collection — 1976 `நளாயினி`
 
-### English translation state
+Collection workspace: `collections/1976-nalayini/`.
 
-**COMPLETE / CLOSED — 6 / 6 stories PASS / COMPLETE.**
+Source: `TVA_BOK_0065574_நளாயினி_1976.pdf`.
 
-Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
+- file size: **164,748,566 bytes**;
+- PDF scans: **78**;
+- printed title: **நளாயினி**;
+- printed author: **மு. கருணாநிதி**;
+- edition: **நான்காம் பதிப்பு 1976**;
+- price: **விலை ரூ. 2-00**;
+- image-only;
+- source PDF must not be committed;
+- SHA-256: **pending** because the current runtime could render the exact source but raw-byte checksum access failed. Do not invent or borrow a digest from another edition.
 
-1. `பெற்ற பிள்ளையை விற்ற தாய்` — **The Mother Who Sold the Child She Bore** — PASS / COMPLETE — 22/22 anchors
-2. `காசா லேசா` — **Is Cash Easy?** — PASS / COMPLETE — 12/12 anchors
-3. `சீமான் வீட்டு சீக்காளி` — **The Invalid in the Rich Man's House** — PASS / COMPLETE — 9/9 anchors
-4. `நந்தியூர் நரியப்பன்` — **Nariyappan of Nandiyur** — PASS / COMPLETE — 5/5 anchors
-5. `நரியூர் நந்தியப்பன்` — **Nandiyappan of Nariyur** — PASS / COMPLETE — 4/4 anchors
-6. `முடியாத தொடர்கதை` — **The Never-Ending Story** — PASS / COMPLETE — 35/35 anchors
+No separate printed contents page was found. Direct visual inspection of every opening establishes **8 stories**:
 
-Story 6 details:
+1. `நளாயினி` — scans/printed **3–12** — existing canonical — **NOTE ONLY / DO NOT RETRANSCRIBE**;
+2. `காதல் கடிதம்` — **13–18** — existing canonical — **NOTE ONLY / DO NOT RETRANSCRIBE**;
+3. `புரட்சிப் படம்` — **19–24** — existing canonical — **NOTE ONLY / DO NOT RETRANSCRIBE**;
+4. `நாட்டிய கலாராணி` — **25–46** — **NEW canonical-story candidate / NEXT**;
+5. `விஷம் இனிது` — **47–55** — existing canonical — **NOTE ONLY / DO NOT RETRANSCRIBE**;
+6. `பாலைவன ரோஜா` — **56–62** — existing canonical — **NOTE ONLY / DO NOT RETRANSCRIBE**;
+7. `அய்யோ ராஜா!` — **63–72** — existing canonical — **NOTE ONLY / DO NOT RETRANSCRIBE**;
+8. `மனம்` — **73–78** — **NEW canonical-story candidate / pending after Story 4**.
 
-- canonical English: `stories/mudiyatha-thodarkathai/translations/en/mudiyatha-thodarkathai.md`;
-- translation review: `stories/mudiyatha-thodarkathai/TRANSLATION_REVIEW.md`;
-- physical range: scans **59–93 / printed 57–91**;
-- content-boundary alignment: **PASS — 35/35**;
-- scan 93 terminal star represented; scan 94 advertisement excluded;
-- source-sensitive choices documented, including source scene numbering `1 → 2 → 4 → 5`, `ஆடுதன் ராஜா`, `களிவற்ற கொளியும்`, `அவலட்சணத்துக்கும் அறிவுக் குந்தானடா`, `மீனவி புதல்வன்`, Chicken-Bite/Chick-Bite Swami satire, scan-90 kinship wording, `பில்கனாவிலே`, and final mistaken-sibling reversal;
-- Tamil/source issues reopened during translation: **0**;
-- unresolved English translation blockers: **0**.
+The six duplicates were only registered as additional 1976 physical witnesses. No word-level comparison, retranscription, or alteration of their existing Tamil/English files was performed.
 
-## Current project state / next action
+Controls:
 
-The 1982 `முடியாத தொடர்கதை` anthology is **FULLY CLOSED for Tamil/source and English**. There is no pending routine activity inside this collection.
+- `collections/1976-nalayini/README.md`
+- `collections/1976-nalayini/metadata/source.md`
+- `collections/1976-nalayini/indexes/story-inventory.md`
+- `collections/1976-nalayini/indexes/scan-map.md`
+- `collections/1976-nalayini/DUPLICATE_WITNESSES.md`
 
-The next candidate story `நடுத்தெரு நாராயணி` must **NOT** start because its external `வெள்ளிக்கிழமை` gate remains unsatisfied. Until that gate is confirmed complete, remain on **HOLD** unless the user explicitly supplies a new source, requests maintenance/re-audit of a closed item, or redirects to another authorized archive activity.
+## Exact next activity
+
+Process only Story 4 **`நாட்டிய கலாராணி`**, scans **25–46 / printed pages 25–46**, from the attached 1976 source.
+
+Before source-dependent writes:
+
+1. fetch live `main`;
+2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 1976 collection controls;
+3. reconfirm no canonical story exists under the exact heading or a documented alternate title;
+4. create the canonical Story-4 workspace only then;
+5. preserve all 22 physical page boundaries and source-odd/historical glyph forms;
+6. complete the story's Tamil/source workflow before advancing the collection.
+
+Do **not** begin Story 8 `மனம்` in the same Story-4 activity. Do **not** start `நடுத்தெரு நாராயணி` while its external gate remains unsatisfied.
