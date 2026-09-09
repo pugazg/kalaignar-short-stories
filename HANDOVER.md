@@ -4,11 +4,22 @@
 
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
-- permanent guides: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `ENGLISH_TRANSLATION_GUIDE.md`
+- permanent guides: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `ENGLISH_TRANSLATION_GUIDE.md`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first and preserve newer durable work. Controlling scans outrank inferred/contextual readings. No silent normalization.
+
+## Batch execution workflow — mandatory
+
+Use `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` for page batches unless the user explicitly overrides it.
+
+Each batch is split into two separate durable activities:
+
+1. **Stage A — direct transcription → synchronize Pass-1 state → commit → stop/report**;
+2. **Stage B — independent historical-glyph/source verification → synchronize verification state → commit → stop/report**.
+
+Do not routinely crop/enhance during Stage A. Crops/enhancements belong only to genuinely unclear readings; the systematic 13-family audit belongs to Stage B. Do not begin the next batch until the current batch's Stage B is committed unless the user explicitly changes this rule.
 
 ## External hold
 
@@ -63,16 +74,22 @@ Durable state:
 
 The story is intentionally not filled from OCR, web text or another edition merely to advance counts.
 
-## Exact next activity
+## Exact next activity — Stage A only
 
-Process only **scans 25–29 / printed pages 25–29** from the attached PDF:
+Process only **scans 25–29 / printed pages 25–29** from the attached PDF as **Stage A — direct transcription**:
 
 1. re-fetch live `main`;
-2. read the five controlling scans directly;
-3. transcribe all five pages source-faithfully;
-4. run the separate mandatory historical-glyph second pass on the same five pages;
-5. record source-odd/ambiguous forms explicitly;
-6. update page records, page map, pass/glyph trackers, audit, README and handover;
-7. commit the batch before scan 30.
+2. read each of the five controlling pages as a whole and transcribe directly from source pixels;
+3. preserve source wording, punctuation, spacing, paragraphing, page boundaries and clearly readable historical character identity;
+4. do **not** perform the systematic 13-family historical-glyph Pass 2 in this activity;
+5. do **not** routinely create crops/enhancements or repeatedly reopen already-clear words; use closer inspection only if a reading genuinely cannot be transcribed responsibly at normal/native page view;
+6. keep the five pages `needs-review` after Stage A because independent Pass 2 is still pending;
+7. synchronize the five page records plus Pass-1/current-state controls;
+8. commit Stage A;
+9. stop and report. Do not continue into Stage B in the same activity.
 
-Do not begin scan 30 in that iteration. Do not begin `மானம்` until Story 4 is fully closed.
+### Following activity
+
+After Stage A is durably committed, the **next exact activity** is **Stage B on the same scans 25–29**: independently reopen them, check the 13 historical-glyph families and any recorded uncertainties, use crops/enhancements only where an actual ambiguity exists, synchronize verification controls, commit, and stop/report.
+
+Do **not** begin scan 30 until Stage B for scans 25–29 is committed. Do not begin `மானம்` until Story 4 is fully closed.

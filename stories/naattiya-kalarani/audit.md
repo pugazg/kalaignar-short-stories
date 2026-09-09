@@ -27,6 +27,17 @@
 
 No story prose has been imported from OCR, another edition or contextual inference.
 
+## Revised batch execution workflow
+
+Root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` splits each physical batch into two durable activities:
+
+1. Stage A — direct transcription, Pass-1 synchronization, commit, stop/report;
+2. Stage B — separate independent historical-glyph/source verification, verification synchronization, commit, stop/report.
+
+Routine crops/enhancements are not part of Stage A and are not automatic in Stage B; they are reserved for genuine ambiguity.
+
 ## Exact next gate
 
-Process scans **25–29** only: direct first pass, then separate historical-glyph second pass, then synchronize the five records and controls before beginning scan 30.
+**Stage A only:** process scans **25–29** by direct whole-page source transcription, keep them `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
+
+Only after that durable commit should Stage B reopen scans 25–29 for the independent 13-family/source check. Scan 30 must not begin before Stage B is committed.

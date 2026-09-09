@@ -45,9 +45,11 @@ Historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).
 
 The controlling scan is authoritative. Do not normalize spelling, punctuation, spacing, grammar, names or historical glyph forms. Do not import wording from the 1977 anthology or any other edition. A page can become `verified` only after direct transcription and a separate historical-glyph second pass against the same physical scan.
 
-## Production batching
+## Production batching — two separate durable activities per batch
 
-For fidelity, process **5 physical scans per iteration**, except the final remainder:
+Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md).
+
+Physical batches remain:
 
 1. scans 25–29
 2. scans 30–34
@@ -55,10 +57,17 @@ For fidelity, process **5 physical scans per iteration**, except the final remai
 4. scans 40–44
 5. scans 45–46
 
-Within each batch, transcribe all pages directly from source pixels, run the mandatory 13-family historical-glyph second pass, synchronize the page map/audits, and commit before beginning the next batch.
+But each physical batch is now executed as:
+
+1. **Stage A — direct transcription only**: read each whole page once, transcribe source-faithfully, keep pages `needs-review`, synchronize Pass-1/current-state controls, commit, stop/report;
+2. **Stage B — independent historical-glyph/source verification**: in a later activity reopen the same pages, check all 13 historical families plus recorded uncertainties, create crops/enhancements only for genuine ambiguity, synchronize verification controls, commit, stop/report.
+
+Do not begin the next physical batch until Stage B of the current batch is committed unless the user explicitly overrides the workflow.
 
 ## Exact next activity
 
-Process **scans 25–29 / printed pages 25–29** only. Scan 25 includes the display heading and opening prose. Do not begin scan 30 in the same iteration.
+**Stage A only:** process **scans 25–29 / printed pages 25–29** by direct whole-page transcription from the attached source. Do not perform the systematic glyph Pass 2 in the same activity. Do not routinely crop or repeatedly reopen clear words. Synchronize Pass-1 state, commit, and stop/report.
+
+After that commit, the next exact activity becomes **Stage B for scans 25–29**, not scan 30.
 
 Do not begin Story 8 `மானம்` until this story's Tamil/source workflow is fully closed. The separate `நடுத்தெரு நாராயணி` hold also remains in force while `வெள்ளிக்கிழமை` is incomplete.
