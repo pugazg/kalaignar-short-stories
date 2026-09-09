@@ -6,9 +6,9 @@ Current state:
 
 - physical range: scans **59–93 / printed 57–91**;
 - first pass: **35/35 COMPLETE**;
-- Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit — 35/35; 10 total corrections; 0 unresolved**;
+- Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit and F3 corrective reread — 35/35; 11 total corrections; 0 unresolved**;
 - page status: **35/35 `needs-review`**;
-- story-wide final source/visual closure: **IN PROGRESS / 2 of 7 batches complete**.
+- story-wide final source/visual closure: **IN PROGRESS / 3 of 7 batches complete**.
 
 ## Batch plan
 
@@ -16,8 +16,8 @@ Current state:
 |---|---:|---:|---|
 | F1 | 59–63 | 57–61 | **PASS — 3 corrections / 0 unresolved** |
 | F2 | 64–68 | 62–66 | **PASS — 8 corrections / 0 unresolved** |
-| F3 | 69–73 | 67–71 | **NEXT** |
-| F4 | 74–78 | 72–76 | pending |
+| F3 | 69–73 | 67–71 | **PASS — 30 corrections / 0 unresolved** |
+| F4 | 74–78 | 72–76 | **NEXT** |
 | F5 | 79–83 | 77–81 | pending |
 | F6 | 84–88 | 82–86 | pending |
 | F7 | 89–93 | 87–91 | pending |
@@ -41,6 +41,18 @@ The 59→60 physical join `இல் / லேண்ணே` → `இல்லே�
 - scan 67: `அனுசரணமும்` → `அனுச்சரணமும்`
 - scan 68: `இந்த நாள் தோற்றதென` → `இந்தநாள் தோற்றதென`
 
-The two additional scan-65 lexical corrections were caught on a corrective source reread after the first F2 commit and incorporated before F3 closure. F2 joins were directly reconfirmed across 63→64, 64→65, 65→66, 66→67 and 67→68. The touching 68→69 witness `‘அடே / செல்வம்!’` → `‘அடே செல்வம்!’` was also confirmed without processing F3 text.
+The two additional scan-65 lexical corrections were caught on a corrective source reread after the first F2 commit and incorporated before F3 closure. F2 joins were directly reconfirmed across 63→64, 64→65, 65→66, 66→67 and 67→68. The touching 68→69 witness `‘அடே / செல்வம்!’` → `‘அடே செல்வம்!’` was also confirmed.
+
+### F3 corrections
+
+- scan 69: `ஓடிப்பிடித்து` → `ஓடிப் பிடித்து`; `ஓடிவிட்டாள்` → `ஓடி விட்டாள்`; `எண்ணையும்` → `எண்ணெயும்`; `திரண்டுப்` → `திடீரெனப்`; `வீசியெறிந்தான்—குடும்பத்துப்` → `வீசியெறிந்தான்-குடும்பத்துப்`;
+- scan 70: `ஆணையிலே` → `அணையிலே`;
+- scan 71: `தந்தைக்கு சிரிப்பு` → `தந்தைக்குச் சிரிப்பு`; `நடைபெறத்தான்` → `நடைபெற்றுத் தான்`; `பாவம்—இளைஞனுக்கு` → `பாவம்-இளைஞனுக்கு`; `உண்டு—இவன்` → `உண்டு-இவன்`; `எனக்கும்—கேள்` → `எனக்கும்-கேள்`; `இதை—கல்விச்சாலை` → `இதை-கல்விச்சாலை`; `காதற் களிஞ்சல்களைப்` → `காதற் கிளிஞ்சல்களைப்`;
+- scan 72: `படிப்பாய்—சமுதாயம்` → `படிப்பாய்-சமுதாயம்`; `தெரிந்துகொள்வாய்—என்று` → `தெரிந்துகொள்வாய்-என்று`; `படித்தாய்—ஆனால்` → `படித்தாய்-ஆனால்`; `காதல்—பித்துப்பிடித்த` → `காதல்-பித்துப்பிடித்த`; `தனியாக வேட்கைக்குப்` → `தணியாத வேட்கைக்குப்`; `பார்த்திருக்கிறேனடா—“காதல்` → `பார்த்திருக்கிறேனடா-“காதல்`; `பூனை—ஆறிப்போன` → `பூனை-ஆறிப்போன`; `சொன்னாய்—அந்த` → `சொன்னாய்-அந்த`;
+- scan 73: `புகுந்துவிட்டவளே` → `புகுந்துவிட்டவளை`; `விருந்தல்ல—கண்ணுக்கு` → `விருந்தல்ல-கண்ணுக்கு`; `ரம்மியம்—அன்பல்ல` → `ரம்மியம்-அன்பல்ல`; `அகாராதி` → `அகராதி`; `தயாரிக்கிறீர்கள்—”` → `தயாரிக்கிறீர்கள்-”`; `இழித்துரைக்கிறானே—என்று` → `இழித்துரைக்கிறானே-என்று`; `களங்கத்தைச் சகித்துக் கொள்ள` → `களங்கத்தை சகித்துக்கொள்ள`; `கூறிவிட்டான்` → `கூறி விட்டான்`; `அது!—‘என்னடா சொன்னாய்’` → `அது!- ‘என்னடா சொன்னாய்’`.
+
+The scan-73 `புகுந்துவிட்டவளை` correction is an additional historical `ளை` recovery; the glyph-gate durable total is now **11 corrections / 0 unresolved**.
+
+F3 joins 69→70 and 71→72 were directly confirmed; the 70→71 and 72→73 dialogue boundaries were confirmed. The touching 73→74 continuation `உடனே / செல்வம்—...` was checked using scan 74 only as a forward-boundary witness; no F4 text was processed.
 
 Each batch must be committed before the next batch starts. Page records remain `needs-review` until all seven batches pass and the final story-wide closure promotes all 35 pages together.

@@ -1,8 +1,8 @@
 # Possible Errors / Final Source-Visual Review Queue — முடியாத தொடர்கதை (Story 6)
 
-Status: **HISTORICAL TAMIL GLYPH GATE PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — final source/visual closure IN PROGRESS; F1–F2 PASS / 2 of 7; F3 NEXT.**
+Status: **HISTORICAL TAMIL GLYPH GATE PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT + F3 CORRECTIVE REREAD — final source/visual closure IN PROGRESS; F1–F3 PASS / 3 of 7; F4 NEXT.**
 
-The corrected glyph/source-word gate covers all **35 physical scans** and records **10 source-supported corrections / 0 unresolved glyph candidates**. No global replacement was used.
+The corrected glyph/source-word gate covers all **35 physical scans** and now records **11 source-supported corrections / 0 unresolved glyph candidates**. No global replacement was used.
 
 ## Resolved by corrective high-resolution re-audit
 
@@ -14,20 +14,23 @@ The corrected glyph/source-word gate covers all **35 physical scans** and record
 - scan 92: `கூறினன்` → `கூறினான்`;
 - scan 92: `பில்கணவிலே` → `பில்கனாவிலே`.
 
+F3 additionally recovered scan 73 historical `ளை`: `புகுந்துவிட்டவளே` → `புகுந்துவிட்டவளை`, bringing the durable glyph/source-character total to **11 corrections / 0 unresolved**.
+
 `ஸ்பரிசிக்கப்பட்டு` is source-correct and is retained; its later English sense is “touched / was touched.”
 
 ## Final closure progress
 
 - F1 scans 59–63: **PASS — 3 corrections / 0 unresolved**;
 - F2 scans 64–68: **PASS — 8 corrections / 0 unresolved**;
-- F3 scans 69–73: **NEXT**;
+- F3 scans 69–73: **PASS — 30 corrections / 0 unresolved**;
+- F4 scans 74–78: **NEXT**;
 - all 35 page records remain `needs-review` until story-wide promotion.
 
-F2 retained source-odd readings where directly supported, including `போகும்பாதை`, `எச்சரிக்குந்தோரணையில்`, `களிப்பட்டை`, `போகிறோம்`, `களிவற்ற கொளியும்` and `இந்தப்பாட்டு`. A corrective source reread after the initial F2 commit additionally fixed scan 65 `பள்ளிக்கூட தங்க உணவு விடுதியில்` → `பள்ளிக்கூட தர்ம உணவு விடுதியில்` and `குமுதாவின் அண்ணனைக் தாக்கி` → `குமுதாவின் அண்ணனைத் தாக்கி`; these were incorporated before F3 closure.
+F3 resolved ordinary lexical/source issues including `ஓடிப் பிடித்து`, `ஓடி விட்டாள்`, `எண்ணெயும்`, `திடீரெனப்`, `அணையிலே`, `தந்தைக்குச் சிரிப்பு`, `நடைபெற்றுத் தான்`, `காதற் கிளிஞ்சல்களைப்`, `தணியாத வேட்கைக்குப்`, `அகராதி`, `களங்கத்தை சகித்துக்கொள்ள`, `கூறி விட்டான்`, and restored multiple printed hyphens. No contextual modernization was used.
 
 ## Remaining final closure targets
 
-Recheck all ordinary wording, punctuation, spacing and physical page provenance on remaining scans **69–93**, including source-odd forms such as `விரக்தாப சிந்தாமணி`, `காதற் களிஞ்சல்கள்`, `அவலட்சணம்`, `அங்கஹீனங்கள்`, `நாக்குழறிக்குழறி`, `காணமலிருக்கிற`, `உச்சஸ்தாயில்`, `தெய்வயானை`, `இரண்டாந்தரம்`, `சுக்குநூறாக்கி`, `மரணதேவதை`, `பிரயாணம்`, `குஞ்சுக்கடி சாமியார்`, `ஒத்தல்லோ`, `பில்கனாவிலே`, `ஸ்பரிசிக்கப்பட்டு`, and the final wall inscription / terminal-star wording.
+Recheck all ordinary wording, punctuation, spacing and physical page provenance on remaining scans **74–93**, including source-odd forms such as `அவலட்சணம்`, `அங்கஹீனங்கள்`, `நாக்குழறிக்குழறி`, `காணமலிருக்கிற`, `உச்சஸ்தாயில்`, `தெய்வயானை`, `இரண்டாந்தரம்`, `சுக்குநூறாக்கி`, `மரணதேவதை`, `பிரயாணம்`, `குஞ்சுக்கடி சாமியார்`, `ஒத்தல்லோ`, `பில்கனாவிலே`, `ஸ்பரிசிக்கப்பட்டு`, and the final wall inscription / terminal-star wording.
 
 The scan-90 source span `தந்தையை அண்ணை-இழந்து` has been re-opened at high resolution and retained exactly as printed. Do not normalize it from context.
 
@@ -35,11 +38,13 @@ Cross-page joins already reconfirmed by completed final-closure batches:
 
 - 59→60 `இல் / லேண்ணே`;
 - 67→68 `முடி / யாது`;
-- touching 68→69 `‘அடே / செல்வம்!’`.
+- touching 68→69 `‘அடே / செல்வம்!’`;
+- 69→70 `குத்து / விளக்கை`;
+- 71→72 `சரித்திரங் / களைப்`;
+- touching 73→74 `உடனே / செல்வம்—...` as a forward-boundary witness only.
 
 Cross-page joins still to reconfirm in their own remaining batches:
 
-- 69→70 `குத்து / விளக்கை`; 71→72 `சரித்திரங் / களைப்`;
 - 78→79 `எப்படி / யும்`; 81→82 `பாதை / யையே`; 83→84 `காணம / லிருந்த`; 88→89 `நோக்க / கினான்`;
 - 89→90 `சாமி / யார்`; 92→93 `ஆண்டுகளா / யிற்று`.
 

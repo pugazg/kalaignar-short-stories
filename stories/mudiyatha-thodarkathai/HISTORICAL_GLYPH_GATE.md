@@ -9,10 +9,10 @@ Physical range: **scans 59–93 / printed 57–91**
 **PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — 35/35 scans.**
 
 - mandatory families reviewed: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- total source/glyph corrections established by the gate and corrective re-audit: **10**;
+- total source/glyph corrections established by the gate and subsequent corrective source rereads: **11**;
 - unresolved historical-glyph candidates: **0**;
 - page status after gate: **35/35 remain `needs-review`**;
-- final source/visual closure: **IN PROGRESS — F1–F2 PASS / 2 of 7 batches; F3 NEXT**.
+- final source/visual closure: **IN PROGRESS — F1–F3 PASS / 3 of 7 batches; F4 NEXT**.
 
 ## Source-pixel-supported corrections
 
@@ -21,6 +21,7 @@ Physical range: **scans 59–93 / printed 57–91**
 | 62 | 60 | `வலியோன்மகள எளியோன்` | `வலியோன்மகளை எளியோன்` | historical `ளை` identity confirmed |
 | 71 | 69 | `இளஞனுக்கு` | `இளைஞனுக்கு` | historical `ளை` identity confirmed |
 | 73 | 71 | `என் மூச்சோடு கலந்தவளே மூதேவி` | `என் மூச்சோடு கலந்தவளை மூதேவி` | historical `ளை` identity confirmed |
+| 73 | 71 | `புகுந்துவிட்டவளே விரட்ட` | `புகுந்துவிட்டவளை விரட்ட` | historical `ளை` identity reconfirmed during F3 final source/visual closure |
 | 88 | 86 | `பேசினள்` | `பேசினாள்` | high-resolution `னா` identity confirmed |
 | 89 | 87 | `சொல்லியனுப்பினன்` | `சொல்லியனுப்பினான்` | high-resolution `னா` identity confirmed |
 | 90 | 88 | `துர்லக்கணமாம்` | `துட்ட லக்கணமாம்` | source word was miscaptured; high-resolution source controls |
@@ -33,7 +34,7 @@ No global replacement was used. Each correction is source-pixel-supported.
 
 ## Deliberately retained source forms
 
-Source-supported or source-odd forms retained rather than modernized include `லேண்ணே`, `ஆடுதன் ராஜா`, `களிவற்ற கொளியும்`, `விரக்தாப சிந்தாமணி`, `காதற் களிஞ்சல்கள்`, `நாக்குழறிக்குழறி`, `தெய்வயானை`, `குஞ்சுக்கடி சாமியார்`, and `ஸ்பரிசிக்கப்பட்டு`.
+Source-supported or source-odd forms retained rather than modernized include `லேண்ணே`, `ஆடுதன் ராஜா`, `களிவற்ற கொளியும்`, `விரக்தாப சிந்தாமணி`, `நாக்குழறிக்குழறி`, `தெய்வயானை`, `குஞ்சுக்கடி சாமியார்`, and `ஸ்பரிசிக்கப்பட்டு`.
 
 `ஸ்பரிசிக்கப்பட்டு` is retained because it is the printed Tamil source form. For later English translation its sense in context is simply **“touched” / “was touched.”**
 
@@ -45,8 +46,8 @@ All logged joins 59→60, 67→68, 69→70, 71→72, 78→79, 81→82, 83→84, 
 
 ## Corrective re-audit note
 
-The initial gate record understated the number of source-character errors. A user-requested high-resolution recheck of scans 88–92 exposed seven additional source-capture errors. This file supersedes the earlier **3-correction** count.
+The initial gate record understated the number of source-character errors. A user-requested high-resolution recheck of scans 88–92 exposed seven additional source-capture errors. The later F3 final source/visual reread of scan 73 exposed one more missed historical `ளை` reading: `புகுந்துவிட்டவளே` → `புகுந்துவிட்டவளை`. The durable count is therefore **11 corrections / 0 unresolved**.
 
 ## Phase boundary
 
-This gate certifies historical-character/source-word identity only. It does **not** certify every remaining ordinary punctuation, spacing or page-provenance detail. The separate final source/visual closure is **IN PROGRESS — F1–F2 PASS / 2 of 7 batches complete; F3 NEXT**.
+This gate certifies historical-character/source-word identity only. It does **not** certify every remaining ordinary punctuation, spacing or page-provenance detail. The separate final source/visual closure is **IN PROGRESS — F1–F3 PASS / 3 of 7 batches complete; F4 NEXT**.
