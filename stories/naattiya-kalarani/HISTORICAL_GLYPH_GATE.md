@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Gate — நாட்டிய கலாராணி
 
-Status: **STAGE A AVAILABLE / STAGE B NEXT — 0 / 22 pages closed by Pass 2**.
+Status: **P1 PASS — 5 / 22 pages closed by independent Stage B**.
 
 Mandatory independent second-pass families:
 
@@ -8,28 +8,40 @@ Mandatory independent second-pass families:
 
 ## Rule
 
-Each page must first receive a direct visual transcription. It must then be reopened in a **separate durable Stage-B activity** and every relevant historical family checked against the physical glyph cluster. Grammar or expected spelling is only a locator, never proof. No global replacements are allowed.
+Each page first receives direct Stage-A transcription, then a separate Stage-B source/glyph re-read. No global replacement. Crops/enhancements are reserved for real ambiguity. A page becomes `verified` only after both stages close with zero unresolved source/glyph ambiguity.
 
-A page remains `needs-review` until both passes close with zero unresolved glyph/source ambiguity.
+## P1 Stage-B result — scans 25–29
 
-## Two-stage execution discipline
+**PASS — 5/5 pages; 0 unresolved.**
 
-Follow root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`.
+All 13 mandatory families were explicitly checked. Representative positively present candidates included:
 
-- **Stage A** performs direct transcription and commits it first. The systematic 13-family audit does not run in Stage A.
-- **Stage B** begins only after the matching Stage-A batch is durable on live `main`.
-- Stage B is an independent re-read of the same pages; it is not a full retranscription.
-- Crops/enhancements are created only for an actual ambiguous/suspicious cluster, not merely because a clearly readable word contains a historical family or looks archaic.
-- If Stage B leaves an unresolved cluster, the page remains `needs-review` and the documented difficult-reading escalation applies.
+- scan 25: `நன்றாக` — historical `றா`; `தண்டனை` / `வேதனை` — `னை`;
+- scan 26: `தண்டனையை` — `னை`; `நாலு` / `நாளைக்கு` — `னா` family check;
+- scan 27: `முல்லைக்கொடியோ` — `லை`; `இளைஞர்` — `ளை`;
+- scan 28: `கலைப்பேழை`, `கலையரசியின்` — `லை`;
+- scan 29: `கொள்ளைகொண்டு`, `விஷயங்களை` — `ளை`; `நாட்களுக்கு` — `னா` family check.
+
+Families without a positive source occurrence in these five pages were still explicitly reviewed and closed as no-candidate. No systematic/global replacement was used.
+
+### Corrections recorded during Stage B
+
+| Scan | Stage-A reading | Source-supported reading | Type | Status |
+|---:|---|---|---|---|
+| 26 | `இன்பபுரிக்கு` | `இன்ப புரிக்கு` | source spacing | corrected |
+| 28 | `துடிக்கிட்ட` | `திடுக்கிட்ட` | direct source reading | corrected |
+| 29 | `ராஜ்ய விஷயங்களைக்` | `ராஜ்ய விஷயங்களை` | source reading; `ளை`-sensitive cluster | corrected |
+
+Historical character-identity corrections beyond these source re-reads: **0**. Remaining unresolved clusters: **0**.
 
 ## Progress
 
 | Scans | Stage B state | Corrections | Unresolved |
 |---|---|---:|---:|
-| 25–29 | **NEXT — Stage A direct transcription complete** | 0 | 0 currently recorded |
-| 30–34 | pending | 0 | 0 |
+| 25–29 | **PASS — 5/5 verified** | 3 | 0 |
+| 30–34 | waits for P2 Stage A | 0 | 0 |
 | 35–39 | pending | 0 | 0 |
 | 40–44 | pending | 0 | 0 |
 | 45–46 | pending | 0 | 0 |
 
-The immediate next activity is **Stage B for scans 25–29**. Reopen those five pages independently, check all 13 families and the source-sensitive queue, correct only where source evidence requires it, then synchronize and commit. Do not begin scan 30 first.
+Next exact activity is **P2 Stage A — scans 30–34**, not another P1 audit.
