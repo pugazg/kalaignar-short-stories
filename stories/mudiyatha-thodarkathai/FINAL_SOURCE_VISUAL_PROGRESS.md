@@ -1,0 +1,25 @@
+# Final Source / Visual Closure Progress — முடியாத தொடர்கதை (Story 6)
+
+This ledger tracks the user-directed **5-scan final-closure batches** for Story 6.
+
+Current baseline before batch work:
+
+- physical range: scans **59–93 / printed 57–91**;
+- first pass: **35/35 COMPLETE**;
+- Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit — 35/35; 10 total corrections; 0 unresolved**;
+- page status: **35/35 `needs-review`**;
+- story-wide final source/visual closure: **IN PROGRESS / 0 of 7 batches complete**.
+
+## Batch plan
+
+| Batch | Scans | Printed pages | State |
+|---|---:|---:|---|
+| F1 | 59–63 | 57–61 | NEXT |
+| F2 | 64–68 | 62–66 | pending |
+| F3 | 69–73 | 67–71 | pending |
+| F4 | 74–78 | 72–76 | pending |
+| F5 | 79–83 | 77–81 | pending |
+| F6 | 84–88 | 82–86 | pending |
+| F7 | 89–93 | 87–91 | pending |
+
+Each batch must be committed before the next batch starts. Batch PASS records ordinary wording, punctuation, spacing and physical-page fidelity for those scans only. Page records remain `needs-review` until all seven batches pass and the final story-wide closure promotes all 35 pages together.
