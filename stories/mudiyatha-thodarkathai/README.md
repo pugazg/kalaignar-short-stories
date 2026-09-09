@@ -31,11 +31,12 @@ Immediately before activation, authoritative live `main` was **`396ab69ff7b1851c
 - physical story pages: **35/35**
 - first-pass transcription: **35/35 COMPLETE**
 - page status: **35/35 `needs-review`**
-- assembled Tamil: **synchronized through F3 scans 69–73; corrective scan-88–92 readings remain to be synchronized when F6/F7 reach that range**
+- assembled Tamil: **synchronized through F4 scans 74–78; corrective scan-88–92 readings remain to be synchronized when F6/F7 reach that range**
 - Historical Tamil Glyph Gate: **PASS 35/35 — 11 total corrections / 0 unresolved**
-- final source/visual closure: **IN PROGRESS — F1–F3 PASS; 3/7 batches complete; F4 scans 74–78 NEXT**
+- final source/visual closure: **IN PROGRESS — F1–F4 PASS; 4/7 batches complete; F5 scans 79–83 NEXT**
 - F2 scans 64–68: **PASS — 8 corrections / 0 unresolved**, including two scan-65 lexical fixes caught on a corrective source reread before F3 closure
 - F3 scans 69–73: **PASS — 30 corrections / 0 unresolved**, including one additional historical `ளை` recovery on scan 73
+- F4 scans 74–78: **PASS — 18 corrections / 0 unresolved**, including source hyphen/spacing restoration on scan 74 and lexical corrections on scans 75, 77 and 78
 - English: **not started**
 
 The controlling scan decides every reading. Source-odd forms are preserved rather than silently modernized.
@@ -45,7 +46,7 @@ The controlling scan decides every reading. Source-odd forms are preserved rathe
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - glyph audit: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - final-closure ledger: [`FINAL_SOURCE_VISUAL_PROGRESS.md`](FINAL_SOURCE_VISUAL_PROGRESS.md)
-- F3 batch record: [`FINAL_SOURCE_VISUAL_BATCH_F3_069_073.md`](FINAL_SOURCE_VISUAL_BATCH_F3_069_073.md)
+- F4 batch record: [`FINAL_SOURCE_VISUAL_BATCH_F4_074_078.md`](FINAL_SOURCE_VISUAL_BATCH_F4_074_078.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/mudiyatha-thodarkathai.md`](sections/mudiyatha-thodarkathai.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)

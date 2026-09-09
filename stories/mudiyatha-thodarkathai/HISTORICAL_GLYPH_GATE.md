@@ -12,7 +12,7 @@ Physical range: **scans 59–93 / printed 57–91**
 - total source/glyph corrections established by the gate and subsequent corrective source rereads: **11**;
 - unresolved historical-glyph candidates: **0**;
 - page status after gate: **35/35 remain `needs-review`**;
-- final source/visual closure: **IN PROGRESS — F1–F3 PASS / 3 of 7 batches; F4 NEXT**.
+- final source/visual closure: **IN PROGRESS — F1–F4 PASS / 4 of 7 batches; F5 NEXT**.
 
 ## Source-pixel-supported corrections
 
@@ -46,8 +46,8 @@ All logged joins 59→60, 67→68, 69→70, 71→72, 78→79, 81→82, 83→84, 
 
 ## Corrective re-audit note
 
-The initial gate record understated the number of source-character errors. A user-requested high-resolution recheck of scans 88–92 exposed seven additional source-capture errors. The later F3 final source/visual reread of scan 73 exposed one more missed historical `ளை` reading: `புகுந்துவிட்டவளே` → `புகுந்துவிட்டவளை`. The durable count is therefore **11 corrections / 0 unresolved**.
+The initial gate record understated the number of source-character errors. A user-requested high-resolution recheck of scans 88–92 exposed seven additional source-capture errors. The later F3 final source/visual reread of scan 73 exposed one more missed historical `ளை` reading: `புகுந்துவிட்டவளே` → `புகுந்துவிட்டவளை`. F4 introduced only ordinary lexical/punctuation/spacing corrections and no additional historical-glyph correction. The durable count therefore remains **11 corrections / 0 unresolved**.
 
 ## Phase boundary
 
-This gate certifies historical-character/source-word identity only. It does **not** certify every remaining ordinary punctuation, spacing or page-provenance detail. The separate final source/visual closure is **IN PROGRESS — F1–F3 PASS / 3 of 7 batches complete; F4 NEXT**.
+This gate certifies historical-character/source-word identity only. It does **not** certify every remaining ordinary punctuation, spacing or page-provenance detail. The separate final source/visual closure is **IN PROGRESS — F1–F4 PASS / 4 of 7 batches complete; F5 NEXT**.

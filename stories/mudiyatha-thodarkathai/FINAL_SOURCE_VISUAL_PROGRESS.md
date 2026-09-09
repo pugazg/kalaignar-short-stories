@@ -8,7 +8,7 @@ Current state:
 - first pass: **35/35 COMPLETE**;
 - Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit and F3 corrective reread — 35/35; 11 total corrections; 0 unresolved**;
 - page status: **35/35 `needs-review`**;
-- story-wide final source/visual closure: **IN PROGRESS / 3 of 7 batches complete**.
+- story-wide final source/visual closure: **IN PROGRESS / 4 of 7 batches complete**.
 
 ## Batch plan
 
@@ -17,8 +17,8 @@ Current state:
 | F1 | 59–63 | 57–61 | **PASS — 3 corrections / 0 unresolved** |
 | F2 | 64–68 | 62–66 | **PASS — 8 corrections / 0 unresolved** |
 | F3 | 69–73 | 67–71 | **PASS — 30 corrections / 0 unresolved** |
-| F4 | 74–78 | 72–76 | **NEXT** |
-| F5 | 79–83 | 77–81 | pending |
+| F4 | 74–78 | 72–76 | **PASS — 18 corrections / 0 unresolved** |
+| F5 | 79–83 | 77–81 | **NEXT** |
 | F6 | 84–88 | 82–86 | pending |
 | F7 | 89–93 | 87–91 | pending |
 
@@ -53,6 +53,16 @@ The two additional scan-65 lexical corrections were caught on a corrective sourc
 
 The scan-73 `புகுந்துவிட்டவளை` correction is an additional historical `ளை` recovery; the glyph-gate durable total is now **11 corrections / 0 unresolved**.
 
-F3 joins 69→70 and 71→72 were directly confirmed; the 70→71 and 72→73 dialogue boundaries were confirmed. The touching 73→74 continuation `உடனே / செல்வம்—...` was checked using scan 74 only as a forward-boundary witness; no F4 text was processed.
+F3 joins 69→70 and 71→72 were directly confirmed; the 70→71 and 72→73 dialogue boundaries were confirmed. The touching 73→74 continuation was checked using scan 74 only as a forward-boundary witness.
+
+### F4 corrections
+
+- scan 74: `செல்வம்—“சும்மா` → `செல்வம்- “சும்மா`; `சீறுகிறீர்” — சொல்லி` → `சீறுகிறீர்” - சொல்லி`; `அழ வேண்டும்—நன்றாக` → `அழ வேண்டும்-நன்றாக`; `அழவேண்டும்—என்ற` → `அழவேண்டும்-என்ற`; `அவன்—இவ்வளவு` → `அவன்-இவ்வளவு`; `பேசினான்—` → `பேசினான்-`; `பாக்கி—உன்னைக்` → `பாக்கி-உன்னைக்`; `உன்னைக் தோளிலும்` → `உன்னைத் தோளிலும்`; `அவலட்சணம் - அகோரம்` → `அவலட்சணம்-அகோரம்`; `விகாரம் - அலங்கோலம்` → `விகாரம்-அலங்கோலம்`;
+- scan 75: `கரைப்பட்டுப்போகும்பதை` → `கரைப்பட்டுப்போகுமென்பதை`; `கொப்பூத்` → `கொம்புத்`; `என்ன அவலட்சணமென்று` → `என்னை அவலட்சணமென்று`; `இரண்டு மண்டபத்தின்` → `இருண்ட மண்டபத்தின்`;
+- scan 76: no source-text correction;
+- scan 77: `எத்தனே!` → `ஏகதந்தனே!`; `மூஷிகவாகன!` → `மூஷிகவாகனே!`; `கேலிகளைக் சகித்துக்கொள்வது` → `கேலிகளைச் சகித்துக்கொள்வது`;
+- scan 78: `சித்ராவின் வாயினைக் கேள்விப்பட்டிருக்கிறான்` → `சித்ராவின் வாயிலாகக் கேள்விப்பட்டிருக்கிறான்`.
+
+F4 joins 73→74, 74→75, 75→76, 76→77 and 77→78 were directly reconfirmed. The touching 78→79 split `எப்படி / யும்` → `எப்படியும்` was confirmed using scan 79 only as the forward-boundary witness.
 
 Each batch must be committed before the next batch starts. Page records remain `needs-review` until all seven batches pass and the final story-wide closure promotes all 35 pages together.

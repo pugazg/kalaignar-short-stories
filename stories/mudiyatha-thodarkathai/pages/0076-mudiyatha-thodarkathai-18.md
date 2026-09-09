@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F4 PASS; story-wide promotion pending"
 ---
 
 செயலற்றுப்போன செல்வம் ‘அவனருகே ஓடிப் போய்—‘அப்பா! அப்பா!’ என்று கதறினான்—காலில் விழுந்தான்.
@@ -24,4 +24,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 76; printed page: 74 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Final source/visual closure batch **F4 PASS**. Page remains `needs-review` until story-wide closure.
