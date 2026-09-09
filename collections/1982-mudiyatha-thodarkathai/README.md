@@ -17,63 +17,43 @@ Collection workspace for **`முடியாத தொடர்கதை`**, a
 
 The scan is controlling. Do not silently normalize wording, punctuation, spacing, historical glyphs or source-title variants.
 
-## Corrected story inventory — 6 / 6 registered
+## Story inventory — 6 / 6 Tamil/source CLOSED
 
-| # | Opening heading | PDF scans | Printed pages | Repository state |
-|---:|---|---:|---:|---|
-| 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **Tamil/source PASS / CLOSED — 22/22 verified** |
-| 2 | `காசா லேசா` | 29–40 | 27–38 | **Tamil/source PASS / CLOSED — 12/12 verified** |
-| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
-| 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **Tamil/source PASS / CLOSED — 5/5 verified** |
-| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **Tamil/source PASS / CLOSED — 4/4 verified** |
-| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **FIRST PASS 35/35 COMPLETE — CORRECTED HISTORICAL-GLYPH GATE PASS 35/35 — FINAL SOURCE/VISUAL CLOSURE NEXT** |
+| # | Opening heading | PDF scans | Printed pages | Tamil/source | English |
+|---:|---|---:|---:|---|---|
+| 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **PASS / CLOSED — 22/22 verified** | **PASS / COMPLETE** |
+| 2 | `காசா லேசா` | 29–40 | 27–38 | **PASS / CLOSED — 12/12 verified** | **NEXT** |
+| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **PASS / CLOSED — 9/9 verified** | pending |
+| 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **PASS / CLOSED — 5/5 verified** | pending |
+| 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **PASS / CLOSED — 4/4 verified** | pending |
+| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **PASS / CLOSED — 35/35 verified** | pending |
 
 Story-4 running headers on scans 52/54 use `நரியூர் நந்தியப்பன்`, but scan 54 terminal star and scan 55 new stylized opening prove Story 5 is distinct.
 
-## 1982 phase rule — user directed
+## Tamil/source phase
 
-For each story:
+**COMPLETE / CLOSED — 6 of 6 stories.**
 
-**first-pass transcription → dedicated post-transcription Historical Tamil Glyph Gate at native/high resolution → separate final source/visual closure → next story**.
+Every story completed the user-directed sequence:
 
-No global replacement, silent modernization or context-only correction.
+**first-pass transcription → dedicated post-transcription Historical Tamil Glyph Gate at native/high resolution → separate final source/visual closure**.
 
-## Closed stories
+No global replacement, silent modernization or context-only correction was used. Story 6 completed its final seven five-scan closure batches and was promoted to **35/35 verified** together.
 
-- Story 1 `பெற்ற பிள்ளையை விற்ற தாய்` — **PASS / CLOSED**, 22/22 verified.
-- Story 2 `காசா லேசா` — **PASS / CLOSED**, 12/12 verified.
-- Story 3 `சீமான் வீட்டு சீக்காளி` — **PASS / CLOSED**, 9/9 verified.
-- Story 4 `நந்தியூர் நரியப்பன்` — **PASS / CLOSED**, 5/5 verified.
-- Story 5 `நரியூர் நந்தியப்பன்` — **PASS / CLOSED**, 4/4 verified.
+## English translation phase
 
-Do not reopen Stories 1–5 without genuinely stronger source evidence or an explicit maintenance request.
+**ACTIVE — 1 of 6 stories PASS / COMPLETE.**
 
-## Story 6 — current durable state
+Progress tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
-Workspace: `stories/mudiyatha-thodarkathai/`.
+- Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: **ENGLISH PASS / COMPLETE** — [`../../stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md`](../../stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md)
+- Story 2 `காசா லேசா`: **NEXT**
+- Stories 3–6: pending
 
-- physical range: **scans 59–93 / printed 57–91**;
-- scan 59 opening: `முடியாத தொடர்கதை`, scene `சிறைச்சாலை—இரவு நேரம்`;
-- scan 93 story ending / terminal star: confirmed;
-- scan 94 advertisement: forward witness, excluded;
-- first-pass transcription: **35/35 COMPLETE**;
-- page status: **35/35 `needs-review`**;
-- corrected Historical Tamil Glyph Gate: **PASS 35/35 — 10 total corrections / 0 unresolved**;
-- assembled Tamil: **corrective scan-88–92 synchronization pending final closure**;
-- final source/visual closure: **not started / NEXT**;
-- English: **not started**.
-
-## Processing state
-
-- collection source registration: **PASS**
-- physical scan map: **95/95 structurally mapped**
-- story inventory: **6/6 COMPLETE**
-- Tamil/source stories closed: **5/6**
-- Story 6: **corrected glyph gate PASS; final source/visual closure NEXT**
-- English: **not started**
+English work follows anthology order, one story per activity. Each English derivative is translated from the verified canonical Tamil and preserves the physical scan / printed-page anchors. Translation is not permission to silently alter the frozen Tamil/source layer.
 
 ## Exact next activity
 
-Run Story 6's **separate final source/visual closure** across scans **59–93 / printed 57–91**. Preserve the corrected Historical Tamil Glyph Gate **PASS 35/35 — 10 total corrections / 0 unresolved**. Recheck every ordinary word, punctuation/spacing choice, physical join and page provenance directly against the controlling scans. Only if zero ordinary source-text items remain unresolved may all 35 pages become `verified` and Story 6 close.
+Translate and review Story 2 **`காசா லேசா`**, scans **29–40 / printed pages 27–38**, from its verified canonical Tamil. Create the canonical English derivative and translation review, update Story-2 and collection controls, and commit the completed Story-2 English activity before beginning Story 3.
 
 Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.
