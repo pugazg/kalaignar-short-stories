@@ -6,9 +6,9 @@ Current state:
 
 - physical range: scans **59–93 / printed 57–91**;
 - first pass: **35/35 COMPLETE**;
-- Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit and F3 corrective reread — 35/35; 11 total corrections; 0 unresolved**;
+- Historical Tamil Glyph Gate: **PASS — 35/35; 11 total corrections; 0 unresolved**;
 - page status: **35/35 `needs-review`**;
-- story-wide final source/visual closure: **IN PROGRESS / 5 of 7 batches complete**.
+- story-wide final source/visual closure: **IN PROGRESS / 6 of 7 batches complete**.
 
 ## Batch plan
 
@@ -19,8 +19,8 @@ Current state:
 | F3 | 69–73 | 67–71 | **PASS — 30 corrections / 0 unresolved** |
 | F4 | 74–78 | 72–76 | **PASS — 18 corrections / 0 unresolved** |
 | F5 | 79–83 | 77–81 | **PASS — 19 corrections / 0 unresolved** |
-| F6 | 84–88 | 82–86 | **NEXT** |
-| F7 | 89–93 | 87–91 | pending |
+| F6 | 84–88 | 82–86 | **PASS — 12 new corrections / 0 unresolved** |
+| F7 | 89–93 | 87–91 | **NEXT** |
 
 ### F1 corrections
 
@@ -56,6 +56,14 @@ F3 scans 69–73 passed with **30 corrections / 0 unresolved**. Key recoveries i
 - scan 82: `சொல்லுவேன்—தேவலோகத்து` → `சொல்லுவேன் — தேவலோகத்து`; `வைக்கும்—இந்த` → `வைக்கும்-இந்த`; `மீறிகள்—காதலுக்குத்` → `மீறிகள்-காதலுக்குத்`; `உருக்கியபடி இருந்தது` → `உருக்கிக் கொண்டிருந்தது`; `தூங்குவது போல` → `தூங்குவதுபோல்`; `சரி—இன்றைக்கு` → `சரி-இன்றைக்கு`;
 - scan 83: no source-text correction.
 
-F5 joins passed: 78→79 `எப்படி / யும்`, 79→80 continuation, 80→81 dialogue boundary, 81→82 `பாதை / யையே`, 82→83 dialogue boundary. Touching 83→84 `காணம / லிருந்த` → `காணமலிருந்த` was confirmed using scan 84 only as a forward-boundary witness. Source-odd `உச்சஸ்தாயில்` and `காணமலிருந்த` remain retained.
+F5 joins passed: 78→79 `எப்படி / யும்`, 79→80 continuation, 80→81 dialogue boundary, 81→82 `பாதை / யையே`, 82→83 dialogue boundary. Touching 83→84 `காணம / லிருந்த` → `காணமலிருந்த` was confirmed using scan 84 only as a forward-boundary witness.
 
-Each batch must be committed before the next batch starts. Page records remain `needs-review` until all seven batches pass and the final story-wide closure promotes all 35 pages together.
+### F6 corrections
+
+- scans 84–86: no source-text correction;
+- scan 87: `பேசினை` → `பேசினான்`; `அவளது குரல்வளையை` → `அவளது, குரல்வளையை`; `நெரித்துவிடலாமா` → `நெரித்து விடலாமா`; `ஆரம்பித்தாள் அவள்.` → `ஆரம்பித்தாள் அவள்,`; `‘முன்னுரையே` → `“முன்னுரையே`; `கேட்கவேண்டாம்—தயவு` → `கேட்கவேண்டாம்-தயவு`; `வந்திருக்கிறேன்—உன்` → `வந்திருக்கிறேன்-உன்`; `போய்—நான்` → `போய்-நான்`;
+- scan 88: two `அழுதமாக` → `அமுதமாக`; `எங்கள் வெறுப்போடு` → `எங்களை வெறுப்போடு`; physical page-end `நோக்க` → `நோக்` for the 88→89 join.
+
+The previously established scan-88 historical reading `பேசினாள்` was synchronized into the assembled derivative during F6 and is not counted among the 12 new F6 corrections. F6 joins passed: 83→84 `காணம / லிருந்த`, 84→85 boundary, 85→86 `அந்தப் / பள்ளத்தின்`, 86→87 `அவளது / வாழ்வின்`, 87→88 `நான் யாரிடம் / சொல்லப் போகிறேன்`, and touching 88→89 `நோக் / கினான்` → `நோக்கினான்` using scan 89 only as the forward witness.
+
+Each five-scan batch must be committed before the next batch starts. Page records remain `needs-review` until F7 passes and the final story-wide closure promotes all 35 pages together.

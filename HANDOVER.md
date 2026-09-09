@@ -35,20 +35,22 @@ Stories 1–5 are **PASS / CLOSED**. Story 6 `முடியாத தொடர
 - page status: **35/35 `needs-review`**;
 - Historical Tamil Glyph Gate: **PASS — 35/35; 11 total corrections / 0 unresolved**;
 - `ஸ்பரிசிக்கப்பட்டு` is retained as printed Tamil; later English sense: **touched / was touched**;
-- final source/visual closure: **IN PROGRESS — F1–F5 PASS, 5/7 batches complete**;
+- final source/visual closure: **IN PROGRESS — F1–F6 PASS, 6/7 batches complete**;
 - F1 scans **59–63 / pp.57–61**: **PASS — 3 corrections / 0 unresolved**;
 - F2 scans **64–68 / pp.62–66**: **PASS — 8 corrections / 0 unresolved**;
 - F3 scans **69–73 / pp.67–71**: **PASS — 30 corrections / 0 unresolved**;
 - F4 scans **74–78 / pp.72–76**: **PASS — 18 corrections / 0 unresolved**;
 - F5 scans **79–83 / pp.77–81**: **PASS — 19 corrections / 0 unresolved**;
-- F6 scans **84–88 / pp.82–86**: **NEXT**;
-- F5 key recoveries include `உன்னிப்பாக`, `பீடிக்கப் பட்டிருந்த`, `நம்மிருவரின் காதலை`, `இந்தப்பாழும்`, `அதைக் கொல்ல`, `உருக்கிக் கொண்டிருந்தது`, `தூங்குவதுபோல்`, plus source punctuation/spacing restorations;
-- F5 joins 78→79 and 81→82 passed; touching 83→84 `காணம / லிருந்த` → `காணமலிருந்த` was checked only as a forward-boundary witness;
-- assembled Tamil is synchronized through F5; corrective scans 88–92 still need synchronization when F6/F7 reach that range;
+- F6 scans **84–88 / pp.82–86**: **PASS — 12 new corrections / 0 unresolved**;
+- F7 scans **89–93 / pp.87–91**: **NEXT**;
+- F6 key recoveries include scan 87 `பேசினான்`, `அவளது, குரல்வளையை`, `நெரித்து விடலாமா`, source quote/hyphen punctuation; scan 88 `அமுதமாக` (2 occurrences), `எங்களை வெறுப்போடு`, and the page-end join piece `நோக்`;
+- the already-established scan-88 historical reading `பேசினாள்` is now synchronized in the assembled derivative;
+- F6 joins 83→84, 85→86, 86→87, 87→88 passed; touching 88→89 `நோக் / கினான்` → `நோக்கினான்` passed using scan 89 only as the forward witness;
+- assembled Tamil is synchronized through F6; previously established corrective readings on scans 89–92 remain to be synchronized when F7 reaches them;
 - English: **not started**.
 
 Final-closure ledger: `stories/mudiyatha-thodarkathai/FINAL_SOURCE_VISUAL_PROGRESS.md`.
-Latest batch record: `stories/mudiyatha-thodarkathai/FINAL_SOURCE_VISUAL_BATCH_F5_079_083.md`.
+Latest batch record: `stories/mudiyatha-thodarkathai/FINAL_SOURCE_VISUAL_BATCH_F6_084_088.md`.
 
 ## Five-scan final-closure rule
 
@@ -59,15 +61,15 @@ Process and commit **exactly 5 physical scans per iteration**:
 3. F3 69–73 — **PASS**
 4. F4 74–78 — **PASS**
 5. F5 79–83 — **PASS**
-6. F6 84–88 — **NEXT**
-7. F7 89–93
+6. F6 84–88 — **PASS**
+7. F7 89–93 — **NEXT**
 
 For each batch: native/high-resolution reread → ordinary wording/punctuation/spacing/page-boundary corrections → synchronize affected derivative text → update progress ledger + handover + next-chat prompt → **commit before starting the next batch**.
 
-Keep all pages `needs-review` during partial batches. After all seven batches PASS and zero ordinary source issues remain, perform the story-wide final closure and promote all 35 pages to `verified` together.
+Keep all pages `needs-review` during partial batches. After F7 passes with zero ordinary source issues, perform the story-wide final closure and promote all 35 pages to `verified` together.
 
-## Exact next activity — F6 only
+## Exact next activity — F7 only
 
-Process **scans 84–88 / printed 82–86 only**. Recheck every word, punctuation/spacing choice and any physical join whose two halves fall in or touch this five-scan range. Reconfirm 83→84 from the F6 side and inspect 88→89 only as the touching forward witness. Apply only source-supported corrections, preserve source-odd forms, synchronize the affected assembled derivative including the already-established scan-88 corrective reading when reached, update F6 progress, keep pages `needs-review`, update handover and next-chat prompt to F7 if F6 passes, and **commit F6 before any F7 work**.
+Process **scans 89–93 / printed 87–91 only**. Recheck every word, punctuation/spacing choice and all physical joins in/touching the range. Reconfirm 88→89 from the F7 side; close 89→90 `சாமி / யார்` and 92→93 `ஆண்டுகளா / யிற்று`; verify scan 93 terminal star and use scan 94 only as the excluded forward-boundary witness. Apply only source-supported corrections, preserve source-odd forms, synchronize the assembled derivative including already-established scan-89–92 corrective readings when reached, update controls, and **commit F7 before story-wide promotion**.
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.

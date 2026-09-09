@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure batch F6 PASS; story-wide promotion pending"
 ---
 
 பள்ளத்தின் முரட்டுத்தனமான அணைப்பிலே தன் உயிரைப்பிழிந்து கொடுத்து, சரீரத்தையும் சக்கை சக்கையாக ஆக்கிக்கொள்ளும் வெறியுடன் சந்தனம் ஏறினான்.
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 86; printed page: 84 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> Final source/visual closure batch **F6 PASS**. Page remains `needs-review` until story-wide closure.

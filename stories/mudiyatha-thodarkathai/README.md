@@ -27,17 +27,18 @@ The **collection title and this Story-6 opening title are identical strings**. `
 - physical story pages: **35/35**
 - first-pass transcription: **35/35 COMPLETE**
 - page status: **35/35 `needs-review`**
-- assembled Tamil: **synchronized through F5 scans 79–83; corrective scan-88–92 readings remain to be synchronized when F6/F7 reach that range**
+- assembled Tamil: **synchronized through F6 scans 84–88; scan-88 `பேசினாள்` and F6 source corrections synchronized; established scan-89–92 corrections await F7**
 - Historical Tamil Glyph Gate: **PASS 35/35 — 11 total corrections / 0 unresolved**
-- final source/visual closure: **IN PROGRESS — F1–F5 PASS; 5/7 batches complete; F6 scans 84–88 NEXT**
+- final source/visual closure: **IN PROGRESS — F1–F6 PASS; 6/7 batches complete; F7 scans 89–93 NEXT**
 - F1 scans 59–63: **PASS — 3 corrections / 0 unresolved**
 - F2 scans 64–68: **PASS — 8 corrections / 0 unresolved**
 - F3 scans 69–73: **PASS — 30 corrections / 0 unresolved**
 - F4 scans 74–78: **PASS — 18 corrections / 0 unresolved**
 - F5 scans 79–83: **PASS — 19 corrections / 0 unresolved**
+- F6 scans 84–88: **PASS — 12 new corrections / 0 unresolved**
 - English: **not started**
 
-F5 key recoveries include `உன்னிப்பாக`, `பீடிக்கப் பட்டிருந்த`, `நம்மிருவரின் காதலை`, `இந்தப்பாழும்`, `அதைக் கொல்ல`, `உருக்கிக் கொண்டிருந்தது`, `தூங்குவதுபோல்`, and printed hyphen/spacing restorations. Source-odd `உச்சஸ்தாயில்` and `காணமலிருந்த` were reconfirmed and retained.
+F6 key recoveries include scan-87 `பேசினான்`, `அவளது, குரல்வளையை`, `நெரித்து விடலாமா` and source punctuation; scan-88 `அமுதமாக` (twice), `எங்களை வெறுப்போடு`, and source page-end `நோக்`. The 88→89 join is confirmed as `நோக் / கினான்` → `நோக்கினான்`.
 
 The controlling scan decides every reading. Source-odd forms are preserved rather than silently modernized.
 
@@ -46,11 +47,11 @@ The controlling scan decides every reading. Source-odd forms are preserved rathe
 - source metadata: [`metadata/source.md`](metadata/source.md)
 - glyph audit: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - final-closure ledger: [`FINAL_SOURCE_VISUAL_PROGRESS.md`](FINAL_SOURCE_VISUAL_PROGRESS.md)
-- latest batch record: [`FINAL_SOURCE_VISUAL_BATCH_F5_079_083.md`](FINAL_SOURCE_VISUAL_BATCH_F5_079_083.md)
+- latest batch record: [`FINAL_SOURCE_VISUAL_BATCH_F6_084_088.md`](FINAL_SOURCE_VISUAL_BATCH_F6_084_088.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/mudiyatha-thodarkathai.md`](sections/mudiyatha-thodarkathai.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Hard stop
 
-Keep all 35 pages `needs-review` until all seven final source/visual batches pass and the story-wide final closure promotes them together.
+Keep all 35 pages `needs-review` through the F7 batch commit. After F7 passes with zero unresolved, promote all 35 pages together in the separate story-wide final closure commit.
