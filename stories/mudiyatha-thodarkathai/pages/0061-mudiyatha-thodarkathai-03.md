@@ -4,10 +4,10 @@ printed_page: 59
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F1 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 சந்தனம் : என்னப்பா வேதனை! தூக்குக்குப் போகும் கைதிகளை துடிக்கத் துடிக்க இழுத்துப்போகிற காட்சியை இந்த சிறைக்குள்ளே எத்தனையோ முறை பார்த்திருக்கிறோமே அதைவிடக் கொஞ்சம் அதிக வேதனையானது என் கதை; அவ்வளவுதான்...சொல்கிறேன் கேள். என் முகம் இவ்வளவு விகாரமாக இருப்பது ஏன் தெரியுமா? சதை கிழிந்து கிழிந்து தொங்குவதற்குக் காரணம் புரியுமா? பிறக்கும் போதே நான் இப்படி பிறந்திருப்பேன் என்று நீ கருதுகிறாய்? என் அம்மா, 'மாம்பழமேனி என் மகனுக்கு' என்று வர்ணிப்பார்களாம். உற்றார் உறவினர் எல்லாம் “ஆடுதன் ராஜா போல இருக்கிறான், ஆண் சிங்கம்!” என்று பாராட்டுவார்களாம். ஏன்—அவள் கூட என் அழகுக்கு ஆசைப்பட்டுதான் என்னைக் காதலித்தாள்.
@@ -30,4 +30,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 61; printed page: 59 -->
 
-> Final source/visual closure batch **F1 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

@@ -4,10 +4,10 @@ printed_page: 67
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F3 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 செல்வம்!’ என்று பாய்ந்தான். அந்தப் பைங்கிளி சித்ரா பயந்துவிட்டாள். அவளால் அந்த அகோரமான மனிதனின் முகத்தைப் பார்க்க முடியவில்லை; அலறினாள். சந்தனம் அந்தப் பெண்ணை ஓங்கி அறைந்தான், ஓடிப் பிடித்து! அடியைப் பெற்றுக்கொண்டு அவள் ஓடி விட்டாள். “அப்பா! அப்பா!!” என்று செல்வம் கத்தினான். “உன் உயிரை எடுத்து விடுகிறேன் வா!” என்று உறுமியபடி செல்வத்தின் கையைப்பிடித்து பரபரவென இழுத்துக் கொண்டு போனான் சந்தனம்.
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 69; printed page: 67 -->
 
-> Final source/visual closure batch **F3 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

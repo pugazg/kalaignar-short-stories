@@ -4,10 +4,10 @@ printed_page: 89
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F7 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 சந்தனத்தின் அன்புக் கனி. அந்த செல்வனுக்கு என் அண்ணன் மகள் சித்ராவை திருமணம் செய்துவைக்க நான் என்ன மறுக்கவா போகிறேன். ஆனால் அந்தக் காட்சியை நான் பார்க்கக்கூடாதே! என் மகனும், மருமகளும் காதலர்களாகிவிட்டார்கள். நானே அவர்களை வாழ்த்தமுடியாது. அன்றொரு நாள் குஞ்சுக்கடி சாமியார் கூறிய வார்த்தைகள் எனக்கு அணி போட்டன. அதோடு என் சந்தனமும் சிறையிலேயிருந்து திரும்பிவிட்டார். அவரையும் நான் பார்த்துவிடக் கூடாது. ஆனால் எல்லோரையும் பார்க்கும் சந்தர்ப்பம், சித்ரா செல்வம் திருமணத்தால் ஏற்பட்டுவிடும்-ஆகவே, என்னுடைய கதை முழுவதும் குறிக்கப்பட்ட டைரியை சித்ராவிடம் கொடுத்து விட்டு, என் சந்தனத்தையும், செல்வத்தையும் காண முடியாத லோகத்திற்குச் சென்றுவிட முடிவுகட்டி இங்கு வந்தேன்.”
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 91; printed page: 89 -->
 
-> Final source/visual closure batch **F7 PASS**. Historical-glyph gate: **PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

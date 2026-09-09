@@ -4,10 +4,10 @@ printed_page: 87
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F7 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 கினான். என் அருமைச் சந்தனத்தின் அழகு முகத்திலே திராவகத்தை ஊற்றி அலங்கோலமாக்கினான். என்னையும் ஒரு இரவிலே திருட்டுத்தனமாகக் கடத்திச் சென்று, தனக்குள்ள செல்வாக்கின் காரணமாக பைத்தியக்கார விடுதியிலே சேர்த்துவிட்டான். பைத்தியங்களோடு வாழ்ந்தேன்-பின்னர் எனக்கு விடுதலை கிடைத்தது. அந்த வேதனைபுரியிலிருந்து-அந்தப் பித்தர்களின் வேடிக்கை மண்டபத்திலிருந்து வெளிவந்தேன்-வெளி வந்த மறுநாளே என் சந்தனத்தையும், செல்வத்தையும் காணவேண்டுமென்று அண்ணனிடம் அழுதேன். அவனும் போகுமாறு விடையளித்தான். எங்கள் காதலின் தூய்மையைக் கருக்கிட இனியும் துணியேன் என்று வருத்தத்தோடு கூறி என்னை வழியனுப்பினான். வெளியூரிலிருந்து சந்தனத்தின் வீட்டுக்கு வரும் வழியிலே, ஒரு சிற்றூர். அதன் பெயர் பூந்தார்குடி. அந்த பூந்தார்குடி கிராமத்திலே ஒரு சாமியார் இருக்கிறார்; மிகவும் பெரிய மகான். அவரிடமுள்ள ஒரு கோழியை வெறிநாய் கடித்து, அந்தக் கடிபட்ட கோழி, சாமியாரைக் கொத்தியதால் அவர் இறந்து சமாதியாகிவிட்டார். அந்த சமாதியிலே தினந்தோறும் பேய் பிடித்த பெண்கள் ஆடுவார்கள். அவர்களின் நோய் நீங்கும். அந்த இடத்திலே நீயும் போய், கோழிகடி சாமியாரைக் கும்பிட்டு அருள் பெற்றுப்போ என்று அண்ணன் சொல்லியனுப்பினான்.
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 89; printed page: 87 -->
 
-> Final source/visual closure batch **F7 PASS**. Historical-glyph gate: **PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

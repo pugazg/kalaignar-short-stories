@@ -4,10 +4,10 @@ printed_page: 72
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F4 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 செல்வம்- “சும்மா நிறுத்தும்; உமது அவலட்சணத்தை யாரும் காதலிக்கவில்லை என்பதற்காக எங்கள் மீது சீறுகிறீர்” - சொல்லி முடித்தான் செல்வம், அவன் தோள் மீது இருந்த சந்தனத்தின் கைகள் திடீரென எடுக்கப்பட்டன. “அய்யோ!” என்று தன் தலையில் பலமாக பலமுறை அறைந்து கொண்டான் சந்தனம்; அவனால் நிற்க முடியவில்லை. மயக்கம் வந்துவிட்டது போலிருந்தது. அழ வேண்டும்-நன்றாக அழவேண்டும்-என்ற உணர்ச்சி அவன் நெஞ்சத்தை கனமாக்கியது. ஆம்; அழுதேவிட்டான் - ஏறெட்டு வருடங்கள் சிறைச்சாலையிலே காலத்தைப்போக்கி, தன் அன்பு மகனைக் காண வந்து அவன்-இவ்வளவு பெரிய தீக்குண்டத்திலே தன்னைத் தள்ளி விடுவான் என்று எதிர்பார்க்கவில்லை. ‘ஓ-வென அழுது விட்டான். கால்கள் பூமியிலே பதியவில்லை. குடிகாரனைப்போல் தள்ளாடினான். போதையில் உளறுகிற விதத்திலே ஏதேதோ பேசினான்-
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 74; printed page: 72 -->
 
-> Final source/visual closure batch **F4 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

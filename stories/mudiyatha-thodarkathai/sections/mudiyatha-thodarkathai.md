@@ -1,6 +1,6 @@
 # முடியாத தொடர்கதை — assembled Tamil
 
-> **Status:** first-pass transcription complete for scans **59–93 / printed 57–91**. Historical Tamil Glyph Gate is **PASS — 35/35; 11 total corrections / 0 unresolved**. All seven final source/visual batches **F1–F7 are PASS / 0 unresolved**. The assembled derivative is synchronized through the story ending. Page records remain **35/35 `needs-review` only until the separate story-wide promotion commit**.
+> **Status:** **VERIFIED / TAMIL-SOURCE CLOSED.** First-pass transcription is complete for scans **59–93 / printed 57–91**. Historical Tamil Glyph Gate: **PASS — 35/35; 11 total corrections / 0 unresolved**. Final source/visual closure: **PASS — F1–F7 / 7 of 7 / 0 unresolved**. All **35/35** canonical page records are `verified`.
 
 The assembled Tamil is stored in six ordered parts because of repository-write size constraints. Read/concatenate the following files in order, inserting exactly one blank line between adjacent parts:
 
@@ -11,6 +11,6 @@ The assembled Tamil is stored in six ordered parts because of repository-write s
 5. [`mudiyatha-thodarkathai-part-05.md`](mudiyatha-thodarkathai-part-05.md)
 6. [`mudiyatha-thodarkathai-part-06.md`](mudiyatha-thodarkathai-part-06.md)
 
-The 35 page records under `../pages/` remain the physical-page canonical layer. The section parts are the synchronized reading-order derivative. F7 synchronized both the final ordinary source corrections and the previously established scan-89–92 glyph/source readings.
+The 35 page records under `../pages/` are the verified physical-page canonical layer. The section parts are the synchronized reading-order derivative.
 
-All logged page joins are resolved. Scan 93 terminal star is included; scan 94 advertisement is excluded.
+All logged page joins are resolved. Scan 93 terminal star is included; scan 94 advertisement is excluded. English has not started.

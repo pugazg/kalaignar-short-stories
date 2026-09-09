@@ -4,10 +4,10 @@ printed_page: 60
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F1 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 சங்கு : எல்லாப் பெண்களும் அப்படியிருக்கமாட்டாங்க அண்ணே!
@@ -28,4 +28,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 62; printed page: 60 -->
 
-> Final source/visual closure batch **F1 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

@@ -4,10 +4,10 @@ printed_page: 61
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F1 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 தாயும் வாழ்க்கையை முடித்துக் கொண்டார்கள்—குமுதமோ ஒரு நாள் இரவு என் குடிசைக்கு ஓடிவந்து “கொத்தடிமை ஆகிவிட்டேன் உங்களுக்கு—குடும்பம் நடத்துவோம் வாருங்கள்” என அழைத்தாள். ‘எதிர்ப்பு மலையாகுமே குமுதம்!’ என எச்சரித்தேன். ‘மலையைப் பிளக்கும் சிற்றுளி நம் காதல்’ என்றாள்—மறுக்க முடியுமா என்னால்! அன்றிரவே பயணமானோம். அயலூரிலே எங்கள் குடும்பம் ஆரம்பமானது; ஆனந்தமானது; ஆனந்த மயமான அந்த வாழ்க்கையை நினைத்து இப்போது அழுவானேன்! எங்களுக்கு ஒரு செல்வமும் தோன்றினான்.
@@ -18,4 +18,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 63; printed page: 61 -->
 
-> Final source/visual closure batch **F1 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

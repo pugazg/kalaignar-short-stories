@@ -4,10 +4,10 @@ printed_page: 88
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F7 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 யார் கட்டளையிட்டார் என் ஜாதகத்தால்தான், என் காதலனின் முகம் கருகி விட்டதென்றும் சாமியார் சொன்னார். என் கணவனும், மகனும் எந்த இடையூறுமின்றி சுகமாக வாழவேண்டுமானால் அவர்களுக்கும் எனக்கும் இனி தொடர்பே இருக்கக்கூடாதென்றும் அவர் கூறிவிட்டார். சந்தனத்தின் வாழ்வும், செல்வனின் வாழ்வும் வளப்பட்டால் போதுமென எண்ணிய நான், என்னை அண்ணன் வீட்டிலேயே மறைத்துக் கொண்டு வாழ ஆரம்பித்தேன். காதலன் முகமும், செல்வன் முகமும் என் இருதயத்திலே பதிந்திருக்கும்போது வெளிப்பார்வைக்கு அவை என்-என்ற திருப்தியால் வாழ்ந்தேன். என் பார்வைப்பட்டு அவர்கள் வாழ்வு பட்டுப் போகுமாம். அத்துணை துட்ட லக்கணமாம் நான் பிறந்த வேளை! யாராலும் பிரிக்க முடியாத எங்களை சாஸ்திரம் பிரித்துவிட்டது. அந்தத் தடையை மீறி போகலாமா? போனால் என் அன்புச் செல்வங்களின் உயிரல்லவா போய்விடும்.
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 90; printed page: 88 -->
 
-> Final source/visual closure batch **F7 PASS**. Historical-glyph gate: **PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

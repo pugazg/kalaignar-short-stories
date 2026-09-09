@@ -4,10 +4,10 @@ printed_page: 76
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F4 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 தான்; ஆனால் அவன் சித்ராவின் வீட்டுக்குச் சென்றதில்லை—சித்ராவின் தாயார் தங்கம்மாள் அவர்களுடைய காதல் கதைக்கு உடனடியாக மதிப்புரை எழுதக்கூடிய குணம் படைத்தவள் அல்ல என்பதை செல்வம், சித்ராவின் வாயிலாகக் கேள்விப்பட்டிருக்கிறான். அதனால் அவன் அவளுடைய வீட்டில் நுழைந்ததே இல்லை. தங்கம்மாள் ஏழைதான் என்றாலும் தன்மகள் சித்ராவை செல்வமாக வளர்த்து வருகிறாள்; அவள் பிரியப்படியே நடந்து வருகிறாள் என்றெல்லாம் காதலியின் மூலமாக அவன் கேட்டிருக்கின்றானே தவிர, தாங்கள் இருவரின் காதல் தோன்றிய நாள் முதலே நோயுற்றுப் படுக்கையிலிருக்கும் சித்ராவின் தாயார் தங்கம்மாளை அவன் சந்திக்க துடித்ததும், சமயம் ஏற்படவில்லை. “உன் அம்மா வியாதியாயிருக்கிறாளே; அவர்களை நான் பார்க்கிறேனே; நான் பார்த்ததே இல்லையே” என்று செல்வம் சொன்னபோதெல்லாம்; அய்யோ வேண்டாம்—எங்கம்மா பெரிய பழைய காலம்; மூடநம்பிக்கையின் சிகரம்; அவர்கள் நம்மிருவரையும் சேர்த்து பார்த்தால் உடனே புரிந்துகொண்டு, இந்த சகவாசம் எல்லாம் கூடாது சித்ரா! என அழ ஆரம்பித்து விடுவார்கள்” என்று அவள் அவனை வீட்டுக்கு வராமல் தடுத்திருந்தாள். அத்தகைய தாயைப் பெற்றிருக்கும் தன் அருமைக் காதலியின் வீட்டுக்கு இப்போது அவன் எப்படியும் போய்த் தீர்வது என்று முடிவு கட்டிவிட்டான்.
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 78; printed page: 76 -->
 
-> Final source/visual closure batch **F4 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

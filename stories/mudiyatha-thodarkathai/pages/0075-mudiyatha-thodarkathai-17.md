@@ -4,10 +4,10 @@ printed_page: 73
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F4 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 இன்று அழகு. நாளை விகாரம். இளந்தளிர், பழுப்பாகும். இளமை, கிழமாகும், அழகு, அலங்கோலமாகும். என் முகத்தைத் திராவகமும், தீயவனும் தீய்த்து விட்டார்கள். இளமை தவழும் முகங்கள் கால ரேகைகளால் கரைப்பட்டுப்போகுமென்பதை மறந்து விடாதே! கொய்யா இதழ்-கொம்புத் தேன் கொட்டும் கன்னம்-குழி விழுந்துபோகும்!
@@ -22,4 +22,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 75; printed page: 73 -->
 
-> Final source/visual closure batch **F4 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

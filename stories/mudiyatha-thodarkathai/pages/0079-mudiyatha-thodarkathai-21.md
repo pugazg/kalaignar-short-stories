@@ -4,10 +4,10 @@ printed_page: 77
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure batch F5 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 யும் ஓடிவந்து விடுவாள்—பூனையின் பாதத்தைவிட மிருதுவான பஞ்சுப் பாதங்களாயிற்றே அவளுக்கு; அதனால் அவள் அம்மாவின் காதுகளை நன்றாக ஏமாற்றி விட முடியும்—இருவரும் சந்திக்கலாம்; இருதயக் கீறல்களுக்கு மருந்து போட்டுக் கொள்ளலாம் என்று எண்ணியவாறு செல்வம், சித்ராவின் வீடு நோக்கி நடந்தான். கொல்லைப்புற வேலியைத் தாண்டிக் குதித்தான் அப்போது அவன் காலிலே குத்திய முட்கள் கணக்கிலடங்கா. அவைகளையெல்லாம் எடுத்தெறிந்தான். ‘இந்த முட்களை எடுத்துவிட்டேன்; என் நெஞ்சிலே சொருகிவிட்ட முட்கள் வேதனையில்லாமல் எடுத்துவிட முடியுமா? அல்லது எடுக்கும் முயற்சியிலேயே இறந்து விட வேண்டுமா’ என்றெல்லாம் அவனுக்குள்ளாக சொல்லிக் கொண்டான். அந்த நல்ல வாலிபனின் காந்தி நிறைந்த முகம், தூசி நிறைந்த கண்ணாடி போல் ஆகியிருந்தது. நிலவின் ஒளியிலே சித்ரா வீட்டுக் கொல்லை வாயில் அவன் அடையாளம் கண்டுபிடித்து விட்டான், அந்த வாயில் நோக்கி அவன் நடந்தான். அவனுக்கே அவனை நம்ப முடியவில்லை. கதவு திறந்து கிடந்தது. சற்று திகைத்தான்—நின்று கவனித்தான். அவன் நெஞ்சு படபடவென அடித்துக்கொண்டது. மீண்டும் உன்னிப்பாக கவனித்தான், உள்ளேயிருந்து தேம்பும் குரல் கேட்டது! விக்கி விக்கி அழுகிற ஒரு பெண்ணின் தொனிதான் அது!
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 79; printed page: 77 -->
 
-> Final source/visual closure batch **F5 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

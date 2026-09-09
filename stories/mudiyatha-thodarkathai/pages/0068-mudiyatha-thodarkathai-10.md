@@ -4,10 +4,10 @@ printed_page: 66
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F2 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 யாது—” என்று தனக்குள் கூறிக்கொண்டான். கண்களில் கனல் கிளம்பியது. “குமுதா” என்று பயங்கரமாக உச்சரித்தபடி இசை வந்த பக்கம் பாய்ந்தான். அவன் எதிர்பார்த்தபடி பாடியது இருவர்தான்!
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 68; printed page: 66 -->
 
-> Final source/visual closure batch **F2 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

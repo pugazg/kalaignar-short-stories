@@ -4,10 +4,10 @@ printed_page: 81
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure batch F5 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 “அம்மா என்னைக் தேடிக்கொண்டிருக்கும்போது நான் அழுதபடி வீடு வந்து சேர்ந்தேன். ஏன் அழுது கொண்டு வந்தேன் என்றுதான் தெரியுமே; நாமிருவரும் இனி சேர மாட்டோம் என்ற பயங்கர நினைவு என்னை அப்படி அழ வைத்துவிட்டது! அம்மா கேட்டார்கள்—ஏன் அழுகிறாய் என்று! நான் விஷயத்தை ஜாடையாக சொன்னேன்—அப்போதுதான் நான் இப்போது கூறிய உபதேசத்தை ஆரம்பித்தார்கள்—”
@@ -22,4 +22,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 83; printed page: 81 -->
 
-> Final source/visual closure batch **F5 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

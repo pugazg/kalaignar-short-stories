@@ -4,10 +4,10 @@ printed_page: 63
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F2 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 யோசித்தேன். கடைசியாக சிலரது சிபாரிசு பிடித்து, செல்வனை வெளியூரில் ஒரு பள்ளிக்கூட தர்ம உணவு விடுதியில் சேர்த்துவிட்டு ஒரு பெருமூச்சை விட்டேன்.
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 65; printed page: 63 -->
 
-> Final source/visual closure batch **F2 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

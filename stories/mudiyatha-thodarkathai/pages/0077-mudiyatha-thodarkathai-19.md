@@ -4,10 +4,10 @@ printed_page: 75
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F4 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 ஆண் மகனே!’ என்று போற்றிப் பாடினால்கூட அவன் ஆத்திரமே கொள்வான்—“ஐந்து கரனே! ஏகதந்தனே! மூஷிகவாகனே!” என்று பக்தர்கள் கேலியாக அழைக்கும் போது விநாயகர் வேண்டுமானால் தன் அங்கஹீனங்களையும் அவலட்சணங்களையும் நினைத்து கவலைப்படாமல் கல்லுப்போல் உட்கார்ந்திருக்கலாம். உயிருள்ள மனிதர்கள் அந்தக் கேலிகளைச் சகித்துக்கொள்வது மிகவும் கஷ்டந்தான். அதுவும் தந்தையின் அவலட்சணத்தை மகனே கேலி பேசுவது என்றால் அதைச் சந்தனம் பொறுத்துக் கொள்ள முடியுமா? தனக்கு ஏற்பட்ட அந்த விகார உருவை நினைத்து, நினைத்து மனம் புழுங்கிப் போனவனல்லவா அவன்—ஆகையால் அவனால் தன் செல்வத்திருமகனை மன்னிக்க முடியவில்லை. மன்னிப்புப் பெற ஓடோடியும் வரும் மகனையும் திரும்பிப் பார்த்திடும் எண்ணம் எழவில்லை. சரி—இனிமேல் தந்தையைக் காணமுடியாது என்ற தீர்மானத்திற்கு வந்து விட்டான். ஓடிக் களைத்த செல்வம். மேல் மூச்சும், கீழ்மூச்சும் போட்டி போட, ஓடிய திசையையும் அறிய முடியாமல் தவித்தான்.
@@ -16,4 +16,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 77; printed page: 75 -->
 
-> Final source/visual closure batch **F4 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

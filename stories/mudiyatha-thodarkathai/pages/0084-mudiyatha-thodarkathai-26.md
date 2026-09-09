@@ -4,10 +4,10 @@ printed_page: 82
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure batch F6 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 லிருந்த இந்த டைரியை என்னிடம் கொடுத்தார்கள்—கொடுத்துவிட்டு “அருமைக் கண்ணே! என்னை மறந்து விடு! என்னை இழந்து விடு!” என்று கூறியபடி என்னை முத்தமிட்டாள்.
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 84; printed page: 82 -->
 
-> Final source/visual closure batch **F6 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

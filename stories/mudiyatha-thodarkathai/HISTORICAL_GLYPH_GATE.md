@@ -6,13 +6,11 @@ Physical range: **scans 59–93 / printed 57–91**
 
 ## Result
 
-**PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — 35/35 scans.**
+**PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — 35/35 scans / 11 corrections / 0 unresolved.**
 
 - mandatory families reviewed: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- total source/glyph corrections established by the gate and subsequent corrective source rereads: **11**;
-- unresolved historical-glyph candidates: **0**;
-- page status: **35/35 `needs-review` pending story-wide final promotion**;
-- final source/visual batches: **F1–F7 ALL PASS / 7 of 7 / 0 unresolved**.
+- page status after final story-wide promotion: **35/35 `verified`**;
+- separate final source/visual closure: **PASS — F1–F7 / 7 of 7 / 0 unresolved**.
 
 ## Source-pixel-supported corrections
 
@@ -36,12 +34,6 @@ No global replacement was used. Each correction is source-pixel-supported.
 
 Source-supported or source-odd forms retained rather than modernized include `லேண்ணே`, `ஆடுதன் ராஜா`, `களிவற்ற கொளியும்`, `விரக்தாப சிந்தாமணி`, `நாக்குழறிக்குழறி`, `உச்சஸ்தாயில்`, `காணமலிருந்த`, `தெய்வயானை`, `குஞ்சுக்கடி சாமியார்`, `தந்தையை அண்ணை-இழந்து`, `முடத்தனத்திற்கு`, and `ஸ்பரிசிக்கப்பட்டு`.
 
-`ஸ்பரிசிக்கப்பட்டு` is retained because it is the printed Tamil source form. For later English translation its sense in context is simply **“touched” / “was touched.”**
-
-## Cross-page joins
-
-All logged joins 59→60, 67→68, 69→70, 71→72, 78→79, 81→82, 83→84, 88→89, 89→90 and 92→93 have been directly closed by the completed final source/visual batches. No additional historical-glyph correction arose from F4–F7.
-
 ## Phase boundary
 
-The historical-glyph gate is complete, and the separate ordinary final source/visual reread is also complete through **F7**. All source-dependent textual gates are PASS / 0 unresolved. The only remaining step is the separate administrative story-wide page promotion to `verified`.
+Historical-character/source-word identity is **CLOSED**, and the separate ordinary final source/visual closure is also **CLOSED**. Story 6 Tamil/source may be reopened only for genuinely new source/provenance/fidelity evidence.

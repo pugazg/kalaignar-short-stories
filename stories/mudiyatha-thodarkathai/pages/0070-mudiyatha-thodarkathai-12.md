@@ -4,10 +4,10 @@ printed_page: 68
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F3 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 விளக்கை எறிந்ததைப் போல! சுவரின் கீழ்த்தனத்திலே குப்புற விழுந்த செல்வம், குமுறும் நெஞ்சுடனே எழுந்து நின்றான். அவனும் தந்தையை ஒரு கணம் மறந்தான். கோபக் கனல் அவன் விழிகளைப் பொத்துக் கொண்டு புறப்பட்டது, மரக்கிளை—இலை—தழைகளின் இடுக்கின் வழியாக, எட்டிப் பார்த்து வெள்ளிச் சிரிப்புக் காட்டும் நிலவொளி, செல்வத்தின் முகத்தை சந்தனத்திற்கு எடுத்துக் காட்டியது. சந்தனமோ, உடலெல்லாம் நடுங்கிட, முகமெல்லாம் பயங்கரக் கிறல்கள் எழுந்திட உறுமினான் மகனைப் பார்த்து!
@@ -22,4 +22,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 70; printed page: 68 -->
 
-> Final source/visual closure batch **F3 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

@@ -4,10 +4,10 @@ printed_page: 85
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure batch F6 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 வாழ்வின் திருப்பங்களைப் பற்றித் தெரிந்து கொள்ள வேண்டுமென்றும் ஆசை கொண்டான்; மேல் அங்கியை எடுத்து நன்றாக முகத்தை மூடிக்கொண்டு, அவளோடு பேச ஆரம்பித்தான். அவளோ, நடுங்கியபடி நின்றாள். “யார்?” என்று சந்தனம் கேட்டதற்குள்ளாகவே, அவள் கேட்டாள்; “நீங்கள் யார்? என்னைத் தடுக்க?” என்ற கேள்வியை! “நானா? நானும் உன்னைப்போலத்தானம்மா தற்கொலை செய்துகொள்ள வந்தேன் முதலில் உன் கதையைச் சொல்! பிறகு என் கதையைச் சொல்கிறேன். அதன் பின்னர் இருவருமே, சாவு உலகத்துக்கு பிரயாணத்தை ஆரம்பிப்போம்!” சந்தனம் கூறினான், குரல் மாற்றிக்கொண்டு பேசினான் என்றாலும், அவளது, குரல்வளையை நெரித்து விடலாமா, என்ற கேள்வி எழும்புகிற அளவுக்கு அவன் கோபத் தீயில் நின்று கொண்டுதானிருந்தான்.
@@ -26,4 +26,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 87; printed page: 85 -->
 
-> Final source/visual closure batch **F6 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.

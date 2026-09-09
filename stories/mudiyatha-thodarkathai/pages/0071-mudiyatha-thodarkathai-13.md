@@ -4,10 +4,10 @@ printed_page: 69
 story: "mudiyatha-thodarkathai"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure batch F3 PASS; story-wide promotion pending"
+transcription_method: "direct visual transcription from controlling scan; Historical Tamil Glyph Gate PASS; FINAL SOURCE/VISUAL CLOSED"
 ---
 
 ‘தெரியும் வாலிப உள்ளத்தின் வசீகர ஓவியம் காதல்! வாடிப்போன வயோதிக இருதயங்களுக்கு அதன் பெருமை தெரியாது!’
@@ -20,4 +20,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 71; printed page: 69 -->
 
-> Final source/visual closure batch **F3 PASS**. Page remains `needs-review` until story-wide closure.
+> **VERIFIED / FINAL SOURCE-VISUAL CLOSED.** Historical Tamil Glyph Gate: **PASS**.
