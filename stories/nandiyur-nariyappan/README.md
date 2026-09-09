@@ -39,9 +39,27 @@ The terminal star on scan 54 plus the new display opening on scan 55 control the
 - unresolved ordinary source-text items: **0**
 - page status: **5/5 `verified`**
 - assembled Tamil: **FINAL / synchronized**
-- English: **not started**
 
 Final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md).
+
+Do not reopen this Tamil/source layer without genuinely stronger source evidence or an explicit maintenance request.
+
+## English translation state
+
+**PASS / COMPLETE.**
+
+- English title: **Nariyappan of Nandiyur**
+- canonical English: [`translations/en/nandiyur-nariyappan.md`](translations/en/nandiyur-nariyappan.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- canonical Tamil pages represented: **5/5**
+- physical page anchors: **5/5 — scans 50–54 / printed pages 48–52**
+- page-marker presence/order: **PASS**
+- source-backed content-boundary alignment: **PASS**
+- omitted canonical Tamil prose: **0 known**
+- unresolved translation blockers: **0**
+- Tamil/source issues reopened during translation: **0**
+
+The English layer follows the verified canonical Tamil and does not replace or normalize it. The title/running-header reversal, `ஒப்பக்காரர்` treatment, source-odd forms and the two physical split-word joins are documented in `TRANSLATION_REVIEW.md`.
 
 ## Controls
 
@@ -51,9 +69,13 @@ Final audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUD
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - final source/visual audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- English translation: [`translations/en/nandiyur-nariyappan.md`](translations/en/nandiyur-nariyappan.md)
+- English translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
-Do not reopen this Tamil/source layer without genuinely stronger source evidence or an explicit maintenance request.
+## Closure boundary
 
-## Next anthology activity
+Scan 54 closes this story with the signature and terminal star. Scan 55 visibly opens the distinct Story 5 **`நரியூர் நந்தியப்பன்`** and is excluded.
 
-Story 5 `நரியூர் நந்தியப்பன்`, scans **55–58 / printed 53–56**, requires a fresh live-main duplicate/canonical search and first-pass activation in a separate activity.
+Tamil/source and English translation are now both **PASS / CLOSED** for this story. Do not reopen either layer without genuinely stronger evidence or an explicit maintenance request.
+
+The next anthology English activity is Story 5 `நரியூர் நந்தியப்பன்`, scans **55–58 / printed pages 53–56**, in a later activity.

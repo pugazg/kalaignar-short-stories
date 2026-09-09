@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 4 English
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 5 English
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,7 +10,7 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 Tamil/source is **PASS / CLOSED for all 6 stories**.
 
-English translation is **ACTIVE — 3/6 stories complete**.
+English translation is **ACTIVE — 4/6 stories complete**.
 
 Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`:
 
@@ -42,37 +42,52 @@ Story 3 `சீமான் வீட்டு சீக்காளி`:
 - review: `stories/seemaan-veettu-seekkaali/TRANSLATION_REVIEW.md`;
 - physical source-page anchors: **9/9 content-aligned**;
 - unresolved translation blockers: **0**;
+- Tamil/source issues reopened during translation: **0**.
+
+Story 4 `நந்தியூர் நரியப்பன்`:
+
+- scans **50–54 / printed 48–52**;
+- Tamil/source: **PASS / CLOSED — 5/5 verified**;
+- English title: **Nariyappan of Nandiyur**;
+- English: **PASS / COMPLETE**;
+- canonical English: `stories/nandiyur-nariyappan/translations/en/nandiyur-nariyappan.md`;
+- review: `stories/nandiyur-nariyappan/TRANSLATION_REVIEW.md`;
+- physical source-page anchors: **5/5 content-aligned**;
+- title/running-header reversal documented;
+- unresolved translation blockers: **0**;
 - Tamil/source issues reopened during translation: **0**;
 - do not reopen absent a genuinely new source/translation issue.
 
 Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
 
-## Exact next activity — Story 4 only
+## Exact next activity — Story 5 only
 
-Translate and review **`நந்தியூர் நரியப்பன்`**.
+Translate and review **`நரியூர் நந்தியப்பன்`**.
 
-Workspace: `stories/nandiyur-nariyappan/`.
+Workspace: `stories/nariyur-nandiyappan/`.
 
-- source scans: **50–54**;
-- printed pages: **48–52**;
-- Tamil/source: **PASS / CLOSED — 5/5 verified**;
+- source scans: **55–58**;
+- printed pages: **53–56**;
+- Tamil/source: **PASS / CLOSED — 4/4 verified**;
+- scan 58: terminal star;
+- forward boundary: scan **59 / printed 57** opens `முடியாத தொடர்கதை` and is excluded;
 - English: **NEXT / not started**.
 
 Before writing:
 
 1. fetch live `main` and preserve newer durable work;
 2. read `ENGLISH_TRANSLATION_GUIDE.md` completely;
-3. read this prompt, `HANDOVER.md`, the 1982 collection English tracker, Story-4 `README.md`, its final canonical Tamil, page map, glyph/review controls, and all **5** verified page records.
+3. read this prompt, `HANDOVER.md`, the 1982 collection English tracker, Story-5 `README.md`, its final canonical Tamil, page map, glyph/review controls, and all **4** verified page records.
 
 Then:
 
 1. translate only the verified canonical Tamil—do not reopen or modernize it from general knowledge;
-2. preserve all **5** physical scan / printed-page anchors in source-backed content alignment, not merely numeric order;
-3. preserve source-significant dialogue, rhetorical structure, names, title/header distinctions and source-odd forms conservatively;
-4. create `stories/nandiyur-nariyappan/translations/en/nandiyur-nariyappan.md`;
-5. create/update Story-4 `TRANSLATION_REVIEW.md` and README;
-6. update the 1982 English tracker, collection README, `HANDOVER.md` and this prompt so Story 5 becomes NEXT if Story 4 passes;
+2. preserve all **4** physical scan / printed-page anchors in source-backed content alignment, not merely numeric order;
+3. preserve source-significant dialogue, rhetorical structure, names, title/boundary distinctions and source-odd forms conservatively;
+4. create `stories/nariyur-nandiyappan/translations/en/nariyur-nandiyappan.md`;
+5. create/update Story-5 `TRANSLATION_REVIEW.md` and README;
+6. update the 1982 English tracker, collection README, `HANDOVER.md` and this prompt so Story 6 becomes NEXT if Story 5 passes;
 7. record any genuinely source-sensitive translation choice explicitly; do not invent missing facts;
-8. **commit Story 4 English before beginning Story 5**.
+8. **commit Story 5 English before beginning Story 6**.
 
-Do not start Story 5 in this activity. Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.
+Do not start Story 6 in this activity. Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.

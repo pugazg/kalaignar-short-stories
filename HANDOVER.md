@@ -43,7 +43,7 @@ Do not reopen a closed Tamil/source story absent genuinely stronger source evide
 
 ### English translation state
 
-**ACTIVE — 3 / 6 stories PASS / COMPLETE.**
+**ACTIVE — 4 / 6 stories PASS / COMPLETE.**
 
 Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
 
@@ -78,16 +78,28 @@ Story 3 `சீமான் வீட்டு சீக்காளி`:
 - result: **PASS / COMPLETE / 0 unresolved translation blockers**;
 - Tamil/source issues reopened during translation: **0**.
 
-## Exact next activity — Story 4 English only
+Story 4 `நந்தியூர் நரியப்பன்`:
 
-Translate and review **`நந்தியூர் நரியப்பன்`** from its verified canonical Tamil workspace `stories/nandiyur-nariyappan/`.
+- English title: **Nariyappan of Nandiyur**;
+- canonical English: `stories/nandiyur-nariyappan/translations/en/nandiyur-nariyappan.md`;
+- translation review: `stories/nandiyur-nariyappan/TRANSLATION_REVIEW.md`;
+- page anchors: **5/5 — scans 50–54 / printed 48–52**;
+- physical content-boundary alignment: **PASS**, including `இன்றைக் / கும்` and `காலமாகிவிட் / டாலும்`;
+- opening `நந்தியூர் நரியப்பன்` versus running-header `நரியூர் நந்தியப்பன்`, `ஒப்பக்காரர்`, and source-odd forms documented in the review;
+- result: **PASS / COMPLETE / 0 unresolved translation blockers**;
+- Tamil/source issues reopened during translation: **0**.
 
-- physical range: **scans 50–54 / printed pages 48–52**;
-- Tamil/source: **PASS / CLOSED — 5/5 verified**;
-- preserve all 5 scan / printed-page anchors in English;
+## Exact next activity — Story 5 English only
+
+Translate and review **`நரியூர் நந்தியப்பன்`** from its verified canonical Tamil workspace `stories/nariyur-nandiyappan/`.
+
+- physical range: **scans 55–58 / printed pages 53–56**;
+- Tamil/source: **PASS / CLOSED — 4/4 verified**;
+- scan 58 terminal star; scan 59 / printed 57 opens `முடியாத தொடர்கதை` and is excluded;
+- preserve all 4 scan / printed-page anchors in English;
 - create the story-local English derivative under `translations/en/`;
-- create/update Story-4 translation review and README;
+- create/update Story-5 translation review and README;
 - update the 1982 English tracker, collection README, this handover and `NEXT_CHAT_PROMPT.md`;
-- **commit Story 4 English before beginning Story 5**.
+- **commit Story 5 English before beginning Story 6**.
 
-Do not start Story 5 in the same activity. Do not start `நடுத்தெரு நாராயணி` while its external `வெள்ளிக்கிழமை` gate remains unsatisfied.
+Do not start Story 6 in the same activity. Do not start `நடுத்தெரு நாராயணி` while its external `வெள்ளிக்கிழமை` gate remains unsatisfied.
