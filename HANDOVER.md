@@ -43,7 +43,7 @@ Do not reopen a closed Tamil/source story absent genuinely stronger source evide
 
 ### English translation state
 
-**ACTIVE — 1 / 6 stories PASS / COMPLETE.**
+**ACTIVE — 2 / 6 stories PASS / COMPLETE.**
 
 Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
 
@@ -56,17 +56,27 @@ Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`:
 - result: **PASS / COMPLETE / 0 unresolved translation blockers**;
 - Tamil/source issues reopened during translation: **0**.
 
-## Exact next activity — Story 2 English only
+Story 2 `காசா லேசா`:
 
-Translate and review **`காசா லேசா`** from its verified canonical Tamil workspace `stories/kaasa-lesa/`.
+- English title: **Is Cash Easy?**;
+- canonical English: `stories/kaasa-lesa/translations/en/kaasa-lesa.md`;
+- translation review: `stories/kaasa-lesa/TRANSLATION_REVIEW.md`;
+- page anchors: **12/12 — scans 29–40 / printed 27–38**;
+- physical content-boundary alignment: **PASS**;
+- source-sensitive scan-39 title/death wordplay documented in the review;
+- result: **PASS / COMPLETE / 0 unresolved translation blockers**;
+- Tamil/source issues reopened during translation: **0**.
 
-- physical range: **scans 29–40 / printed pages 27–38**;
-- Tamil/source: **PASS / CLOSED — 12/12 verified**;
-- source-title variants (`காசா லேசா`, running-header `காசா லேசா!`, scan-40 `காசாலேசா!`) remain source-layer evidence and must not be silently rewritten in Tamil;
-- preserve all 12 scan / printed-page anchors in English;
-- create `stories/kaasa-lesa/translations/en/kaasa-lesa.md`;
-- create/update Story-2 translation review and README;
+## Exact next activity — Story 3 English only
+
+Translate and review **`சீமான் வீட்டு சீக்காளி`** from its verified canonical Tamil workspace `stories/seemaan-veettu-seekkaali/`.
+
+- physical range: **scans 41–49 / printed pages 39–47**;
+- Tamil/source: **PASS / CLOSED — 9/9 verified**;
+- preserve all 9 scan / printed-page anchors in English;
+- create the story-local English derivative under `translations/en/`;
+- create/update Story-3 translation review and README;
 - update the 1982 English tracker, collection README, this handover and `NEXT_CHAT_PROMPT.md`;
-- **commit Story 2 English before beginning Story 3**.
+- **commit Story 3 English before beginning Story 4**.
 
-Do not start Story 3 in the same activity. Do not start `நடுத்தெரு நாராயணி` while its external `வெள்ளிக்கிழமை` gate remains unsatisfied.
+Do not start Story 4 in the same activity. Do not start `நடுத்தெரு நாராயணி` while its external `வெள்ளிக்கிழமை` gate remains unsatisfied.
