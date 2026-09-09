@@ -13,14 +13,14 @@ Story range: scans **25–46 / printed pages 25–46**.
 | 30 | 30 | story | `verified` | P2 Stage B PASS; `கோரிலா` → `கோநிலா` |
 | 31 | 31 | story | `verified` | P2 Stage B PASS; `நிற்கவில்லை` → `நிற்க வில்லை`; `சீமான்கள்` → `சீமான்களே` |
 | 32 | 32 | story | `verified` | P2 Stage B PASS; 4 corrections including `அநாதைகள்`, `தல நகரிலே`, `கடுந் தண்டனைக்குக்`, `பனித்தும்பும்` |
-| 33 | 33 | story | `verified` | P2 Stage B PASS; 0 corrections; ends mid-quotation `‘அன்றொரு நாள்` |
-| 34 | 34 | story | `verified` | P2 Stage B PASS; `தனியாமலிருக்கும்` → `தணியாமலிருக்கும்`; ends mid-sentence |
-| 35 | 35 | story | `not-started` | **NEXT — P3 Stage A** |
-| 36 | 36 | story | `not-started` | P3 Stage A pending |
-| 37 | 37 | story | `not-started` | P3 Stage A pending |
-| 38 | 38 | story | `not-started` | P3 Stage A pending |
-| 39 | 39 | story | `not-started` | P3 Stage A pending |
-| 40 | 40 | story | `not-started` | transcription pending |
+| 33 | 33 | story | `verified` | P2 Stage B PASS; ends mid-quotation `‘அன்றொரு நாள்` |
+| 34 | 34 | story | `verified` | P2 Stage B PASS; `தணியாமலிருக்கும்`; ends mid-sentence |
+| 35 | 35 | story | `needs-review` | **P3 Stage A COMPLETE**; source-sensitive wording queued; Stage B NEXT |
+| 36 | 36 | story | `needs-review` | **P3 Stage A COMPLETE**; ends `காரணம்; அவன்`; Stage B NEXT |
+| 37 | 37 | story | `needs-review` | **P3 Stage A COMPLETE**; begins sentence continuation; printed separator preserved; Stage B NEXT |
+| 38 | 38 | story | `needs-review` | **P3 Stage A COMPLETE**; source wording/quotation queued; Stage B NEXT |
+| 39 | 39 | story | `needs-review` | **P3 Stage A COMPLETE**; `ஜனனமாகும்` and quotation pattern queued; Stage B NEXT |
+| 40 | 40 | story | `not-started` | transcription pending; do not begin before P3 Stage B |
 | 41 | 41 | story | `not-started` | transcription pending |
 | 42 | 42 | story | `not-started` | transcription pending |
 | 43 | 43 | story | `not-started` | transcription pending |
@@ -30,6 +30,6 @@ Story range: scans **25–46 / printed pages 25–46**.
 
 Forward boundary: scan **47** opens `விஷம் இனிது` and is excluded.
 
-Current totals: **22 records / 10 direct-transcribed / 10 Stage-B verified / 0 needs-review / 12 not-started / 0 blocked**.
+Current totals: **22 records / 15 direct-transcribed / 10 Stage-B verified / 5 needs-review / 7 not-started / 0 blocked**.
 
-Next exact activity: **P3 Stage A — scans 35–39 only**.
+Next exact activity: **P3 Stage B — scans 35–39 only**.

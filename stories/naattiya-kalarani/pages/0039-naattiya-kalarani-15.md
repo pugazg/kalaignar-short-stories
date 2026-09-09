@@ -4,11 +4,25 @@ printed_page: 39
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+பல நாட்களாக நின்று போயிருந்த கோமேதகத்தின் நாட்டியமும் நடைபெறுகிறது. அதற்குக் காரணம் துறவியின் ‘கலை’ பற்றிய பிரசங்கம் தான்!
+
+“கலை கடவுள் அளித்த வரப்பிரசாதம். அந்த சக்தி உலகத்திலே ஜனனமாகும் அனைவருக்கும் ஏற்படுவதில்லை! கோமேதகங்கள் எல்லா வீட்டிலும் பிறந்துவிட முடியாது! சிலர்தான் கோமேதகங்களாக இருக்க முடியும். அந்த சிலரிடம், சிருஷ்டி காலத்திலே அமையும் கலைத் திறமையை யாருக்கும் பயனின்றி அழித்துவிடுவது தகாது! ஆகவே நீ உன் கலைத்திறமையை பாழாக்காதே! ஆடு; நான் காண்கிறேன்! என் ஆத்ம திருப்தி-உனக்குக் கலைத் திறமை அளித்த ஆண்டவனுக்குத் திருப்தி ஏற்படுத்தும்”
+
+கோமேதகம் ஆடினாள். முதல் நாள் மெளனமாக இருந்து துறவி ரசித்தான்.
+
+மறுநாள் அவள் ஆடும்போது பாடினான். உபதேசங்களும் நடந்து கொண்டேயிருந்தன.
+
+‘உலகம் நிலையாமை’ என்ற பொருளை ஒட்டி, அந்த ‘நிலையில்லா உலகத்திலே வாழ்வது எப்படி?’ என்று துறவி ஒருநாள் பிரசங்கம் செய்தான்.
+
+“உலகம் அழிவது உண்மைதான்! நாளை நாம் இருக்கமாட்டோம் என்பது உண்மைதான்!” அதற்காக இன்றைக்கு அனுபவிக்க வேண்டியதை இழந்து தவிக்க வேண்டுமா?”
+
+இப்படி ஒரு கேள்வி கேட்டான் துறவி. கோமேதகம், துறவியைத் திருப்பிக் கேட்டாள்; “அப்படியானால் நீங்கள் எதற்காக துறவியானீர்கள்?” என்று!
+
+<!-- Stage A direct transcription complete; source `ஜனனமாகும்` and asymmetric quotation pattern around `உலகம் அழிவது...` queued for Stage B; blocking unreadable locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 39; அச்சுப் பக்கம்: 39 -->

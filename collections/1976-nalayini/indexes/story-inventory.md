@@ -7,7 +7,7 @@ The source has **no separate printed contents page**. Inventory is based on dire
 | 1 | `நளாயினி` | 3–12 | 3–12 | existing canonical | **NOTE ONLY — no retranscription** |
 | 2 | `காதல் கடிதம்` | 13–18 | 13–18 | existing canonical | **NOTE ONLY — no retranscription** |
 | 3 | `புரட்சிப் படம்` | 19–24 | 19–24 | existing canonical | **NOTE ONLY — no retranscription** |
-| 4 | `நாட்டிய கலாராணி` | 25–46 | 25–46 | canonical workspace `stories/naattiya-kalarani/` | **ACTIVE — 10/22 verified; P1 + P2 CLOSED; P3 35–39 Stage A NEXT** |
+| 4 | `நாட்டிய கலாராணி` | 25–46 | 25–46 | canonical workspace `stories/naattiya-kalarani/` | **ACTIVE — 15/22 direct-transcribed / 10 verified; P3 35–39 Stage A COMPLETE / Stage B NEXT** |
 | 5 | `விஷம் இனிது` | 47–55 | 47–55 | existing canonical | **NOTE ONLY — no retranscription** |
 | 6 | `பாலைவன ரோஜா` | 56–62 | 56–62 | existing canonical | **NOTE ONLY — no retranscription** |
 | 7 | `அய்யோ ராஜா!` | 63–72 | 63–72 | existing canonical | **NOTE ONLY — no retranscription** |
@@ -17,5 +17,5 @@ The attached `TVA_BOK_0065574_நளாயினி_1976.pdf` is the controlling
 
 New-story queue:
 
-1. `நாட்டிய கலாராணி` — **ACTIVE**; 22 pages; **10 verified**; scans 35–39 Stage A next.
+1. `நாட்டிய கலாராணி` — **ACTIVE**; 22 pages; **15 direct-transcribed / 10 verified**; scans 35–39 Stage B next.
 2. `மானம்` — **PENDING**; 6 pages; do not begin before Story 4 closes.

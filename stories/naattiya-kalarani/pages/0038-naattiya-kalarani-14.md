@@ -4,11 +4,21 @@ printed_page: 38
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+மறுநாள், “உலகம் நிலையாமை எப்படி?” என்று உபதேசம் புரிந்தான் துறவி.
+
+“இன்று காண்பது நாளை இல்லை! நீர் வைய வாழ்வு, நீர்மேல் குமிழி! நிற்பதற்கு ஒரு அடி நில பூமி—கடைசியில் பிணமாகப்படுப்பதற்கு ஆறு அடி நில பூமி—இதுதான் மனிதனுக்கு சொந்தம்! இல்லை. அதுகூட இல்லை; அவன் நிறை இடத்திலே இன்னொருவன் நிற்கிறான்—பிறகு வேறொருவன் நிற்கிறான். அதுபோல அவன் இறுதிப் படுக்கைவிரித்த இடத்திலேகூட, அவன் மண்ணோடு மக்கிய பிறகு, வேறொருவன் பாய்போட்டுக் கொள்கிறான். இதற்குள்ளே சொந்தம்—பந்தம்—சுருட்டல்—உருட்டல்—மிரட்டல்—அப்பப்பா-முட்டாள் மனிதன்-முட்டாள் மனிதன்!”
+
+துறவியின் முடிவுரை கேட்டு கோமேதகம் அசைவற்றுப் போனாள். அவ்வளவு உருக்கமான உபதேசமாக இருந்தது அது!
+
+“உபதேசங்கூட ஒரு கலைதான்! எல்லோரும் உபதேசம் செய்துவிட முடியாது! தாங்கள் கூறிய இதே தத்துவத்தை வரட்டுத்தனமாக எத்தனையோ பேர் கூறுகிறார்கள்; அது மனதைக் கவரவில்லை! தாங்களோ உள்ளமுருக்கும் விதத்திலே உபதேசிக்கிறீர்கள்” என்று புகழ்மாலை சூட்டினாள் கோமேதகம்.
+
+“கலை என்றால் என்ன? என்பது பற்றி மறுநாள் சொற்பொழிவு நிகழ்த்தினார் துறவி அன்றைய தினம் வெறும் சொற்பொழிவோடு முடியவில்லை.
+
+<!-- Stage A direct transcription complete; source-sensitive `நீர் வைய வாழ்வு`, `அவன் நிறை இடத்திலே`, and unmatched opening quote before `கலை என்றால் என்ன?` queued for Stage B; blocking unreadable locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 38; அச்சுப் பக்கம்: 38 -->
