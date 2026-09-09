@@ -19,11 +19,11 @@ The corrected glyph/source-word gate covers all **35 physical scans** and record
 ## Final closure progress
 
 - F1 scans 59–63: **PASS — 3 corrections / 0 unresolved**;
-- F2 scans 64–68: **PASS — 6 corrections / 0 unresolved**;
+- F2 scans 64–68: **PASS — 8 corrections / 0 unresolved**;
 - F3 scans 69–73: **NEXT**;
 - all 35 page records remain `needs-review` until story-wide promotion.
 
-F2 retained source-odd readings where directly supported, including `போகும்பாதை`, `எச்சரிக்குந்தோரணையில்`, `களிப்பட்டை`, `போகிறோம்`, `களிவற்ற கொளியும்` and `இந்தப்பாட்டு`.
+F2 retained source-odd readings where directly supported, including `போகும்பாதை`, `எச்சரிக்குந்தோரணையில்`, `களிப்பட்டை`, `போகிறோம்`, `களிவற்ற கொளியும்` and `இந்தப்பாட்டு`. A corrective source reread after the initial F2 commit additionally fixed scan 65 `பள்ளிக்கூட தங்க உணவு விடுதியில்` → `பள்ளிக்கூட தர்ம உணவு விடுதியில்` and `குமுதாவின் அண்ணனைக் தாக்கி` → `குமுதாவின் அண்ணனைத் தாக்கி`; these were incorporated before F3 closure.
 
 ## Remaining final closure targets
 

@@ -34,6 +34,7 @@ Immediately before activation, authoritative live `main` was **`396ab69ff7b1851c
 - assembled Tamil: **synchronized through F2 scans 64–68; corrective scan-88–92 readings remain to be synchronized when F6/F7 reach that range**
 - Historical Tamil Glyph Gate: **PASS 35/35 — 10 total corrections / 0 unresolved**
 - final source/visual closure: **IN PROGRESS — F1–F2 PASS; 2/7 batches complete; F3 scans 69–73 NEXT**
+- F2 scans 64–68: **PASS — 8 corrections / 0 unresolved**, including two scan-65 lexical fixes caught on a corrective source reread before F3 closure
 - English: **not started**
 
 The controlling scan decides every reading. Source-odd forms are preserved rather than silently modernized.

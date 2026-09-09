@@ -18,7 +18,7 @@ Current durable state:
 - Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit — 35/35; 10 total corrections / 0 unresolved**;
 - final source/visual closure: **2/7 five-scan batches complete**;
 - F1 scans **59–63 / pp.57–61**: **PASS — 3 corrections / 0 unresolved**;
-- F2 scans **64–68 / pp.62–66**: **PASS — 6 corrections / 0 unresolved**;
+- F2 scans **64–68 / pp.62–66**: **PASS — 8 corrections / 0 unresolved**;
 - F3 scans **69–73 / pp.67–71**: **NEXT**;
 - all pages remain `needs-review` until all seven batches pass and the story-wide promotion occurs.
 
@@ -32,12 +32,14 @@ F2 corrections already committed:
 
 - `சதையெல்லாம்—குமுதாவின்` → `சதையெல்லாம் — குமுதாவின்`
 - `சிகிச்சை பெற்று` → `சிகிச்சைப் பெற்று`
+- `பள்ளிக்கூட தங்க உணவு விடுதியில்` → `பள்ளிக்கூட தர்ம உணவு விடுதியில்`
 - `முன் இறந்துவிட்டான்—பர்மாக்காரிக்கும்` → `முன் இறந்துவிட்டான் — பர்மாக்காரிக்கும்`
+- `குமுதாவின் அண்ணனைக் தாக்கி` → `குமுதாவின் அண்ணனைத் தாக்கி`
 - `கொன்று விடுதலை பெற்றான்` → `கொன்று விடுதலைப் பெற்றான்`
 - `அனுசரணமும்` → `அனுச்சரணமும்`
 - `இந்த நாள் தோற்றதென` → `இந்தநாள் தோற்றதென`
 
-F2 joins 63→64, 64→65, 65→66, 66→67 and 67→68 passed. The touching 68→69 witness `‘அடே / செல்வம்!’` → `‘அடே செல்வம்!’` was confirmed without processing F3 text.
+The two additional scan-65 lexical corrections were found on a corrective source reread after the initial F2 commit and committed before F3 closure. F2 joins 63→64, 64→65, 65→66, 66→67 and 67→68 passed. The touching 68→69 witness `‘அடே / செல்வம்!’` → `‘அடே செல்வம்!’` was confirmed without processing F3 text.
 
 The corrected glyph/source re-audit also established `பேசினாள்`, `சொல்லியனுப்பினான்`, `துட்ட லக்கணமாம்`, `மலைப்பாம்பு`, `விலக்கினான்`, `கூறினான்`, `பில்கனாவிலே`; `ஸ்பரிசிக்கப்பட்டு` remains source-faithful Tamil.
 
