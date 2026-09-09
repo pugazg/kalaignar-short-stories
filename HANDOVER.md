@@ -38,9 +38,10 @@ Stories 1–5 are **PASS / CLOSED**. Story 6 `முடியாத தொடர
 - `ஸ்பரிசிக்கப்பட்டு` is retained as printed Tamil; later English sense: **touched / was touched**;
 - final source/visual closure: **IN PROGRESS — F1–F2 PASS, 2/7 batches complete**;
 - F1 scans **59–63 / pp.57–61**: **PASS — 3 corrections / 0 unresolved**;
-- F2 scans **64–68 / pp.62–66**: **PASS — 6 corrections / 0 unresolved**;
+- F2 scans **64–68 / pp.62–66**: **PASS — 8 corrections / 0 unresolved**;
 - F3 scans **69–73 / pp.67–71**: **NEXT**;
-- F2 established `சதையெல்லாம் — குமுதாவின்`, `சிகிச்சைப் பெற்று`, `முன் இறந்துவிட்டான் — பர்மாக்காரிக்கும்`, `கொன்று விடுதலைப் பெற்றான்`, `அனுச்சரணமும்`, `இந்தநாள் தோற்றதென`;
+- F2 established `சதையெல்லாம் — குமுதாவின்`, `சிகிச்சைப் பெற்று`, `பள்ளிக்கூட தர்ம உணவு விடுதியில்`, `முன் இறந்துவிட்டான் — பர்மாக்காரிக்கும்`, `குமுதாவின் அண்ணனைத் தாக்கி`, `கொன்று விடுதலைப் பெற்றான்`, `அனுச்சரணமும்`, `இந்தநாள் தோற்றதென`;
+- the two scan-65 lexical corrections were caught in a corrective source reread after the initial F2 commit and committed before F3 closure;
 - assembled Tamil is synchronized through F2; corrective scans 88–92 still need synchronization when F6/F7 reach that range;
 - English: **not started**.
 
