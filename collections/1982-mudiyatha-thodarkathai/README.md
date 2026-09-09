@@ -22,8 +22,8 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 | # | Opening heading | PDF scans | Printed pages | Tamil/source | English |
 |---:|---|---:|---:|---|---|
 | 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | 7–28 | 5–26 | **PASS / CLOSED — 22/22 verified** | **PASS / COMPLETE** |
-| 2 | `காசா லேசா` | 29–40 | 27–38 | **PASS / CLOSED — 12/12 verified** | **NEXT** |
-| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **PASS / CLOSED — 9/9 verified** | pending |
+| 2 | `காசா லேசா` | 29–40 | 27–38 | **PASS / CLOSED — 12/12 verified** | **PASS / COMPLETE** |
+| 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **PASS / CLOSED — 9/9 verified** | **NEXT** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **PASS / CLOSED — 5/5 verified** | pending |
 | 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **PASS / CLOSED — 4/4 verified** | pending |
 | 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **PASS / CLOSED — 35/35 verified** | pending |
@@ -42,18 +42,21 @@ No global replacement, silent modernization or context-only correction was used.
 
 ## English translation phase
 
-**ACTIVE — 1 of 6 stories PASS / COMPLETE.**
+**ACTIVE — 2 of 6 stories PASS / COMPLETE.**
 
 Progress tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
 
 - Story 1 `பெற்ற பிள்ளையை விற்ற தாய்`: **ENGLISH PASS / COMPLETE** — [`../../stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md`](../../stories/petra-pillaiyai-vitra-thaai/translations/en/petra-pillaiyai-vitra-thaai.md)
-- Story 2 `காசா லேசா`: **NEXT**
-- Stories 3–6: pending
+- Story 2 `காசா லேசா`: **ENGLISH PASS / COMPLETE** — [`../../stories/kaasa-lesa/translations/en/kaasa-lesa.md`](../../stories/kaasa-lesa/translations/en/kaasa-lesa.md)
+- Story 3 `சீமான் வீட்டு சீக்காளி`: **NEXT**
+- Stories 4–6: pending
+
+Story 2 English title: **Is Cash Easy?**. Its translation preserves all **12/12** source-page anchors and documents the source-sensitive scan-39 title/death wordplay in the story-local translation review. No Tamil/source issue was reopened during translation.
 
 English work follows anthology order, one story per activity. Each English derivative is translated from the verified canonical Tamil and preserves the physical scan / printed-page anchors. Translation is not permission to silently alter the frozen Tamil/source layer.
 
 ## Exact next activity
 
-Translate and review Story 2 **`காசா லேசா`**, scans **29–40 / printed pages 27–38**, from its verified canonical Tamil. Create the canonical English derivative and translation review, update Story-2 and collection controls, and commit the completed Story-2 English activity before beginning Story 3.
+Translate and review Story 3 **`சீமான் வீட்டு சீக்காளி`**, scans **41–49 / printed pages 39–47**, from its verified canonical Tamil. Create the canonical English derivative and translation review, update Story-3 and collection controls, and commit the completed Story-3 English activity before beginning Story 4.
 
-Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.
+Do not start Story 3 in the same Story-2 activity. Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.
