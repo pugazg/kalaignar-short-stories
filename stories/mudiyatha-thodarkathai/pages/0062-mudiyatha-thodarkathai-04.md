@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure pending"
 ---
 
 சங்கு : எல்லாப் பெண்களும் அப்படியிருக்கமாட்டாங்க அண்ணே!
@@ -24,8 +24,8 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 சங்கு : கொஞ்சம் விபரமாகச் சொல்லண்ணே உன் கதையை!....
 
-சந்தனம் : சொல்லுகிறேன் — குறுக்கே கொஞ்சம் பேசாமலிரு! குமுதம் என்னோடு படித்தவள். குபேரன் வீட்டுக் கோதை. நானோ குடியானவன் மகன். இறந்து போன என் அப்பாவின் எண்ணத்தை எப்படியும் பூர்த்தி செய்ய எண்ணி, என் தாய் என்னைப் படிக்கவைத்தாள். படித்தேன் குமுதமும் நானும்...சரி, கதையை வளர்த்து வானேன்; காதலர்களாகி விட்டோம். வலியோன்மகள எளியோன் காதலித்தேன் என்பதைத் தவிர எங்கள் காதலில் வேறெந்தக் குற்றமும் யாரும் சொல்ல முடியாமல்தான் இருந்தது. வழக்கம்போல் எங்களின் திருமணத் திட்டம் முறியடிக்கப்பட்டது. வயதான என்
+சந்தனம் : சொல்லுகிறேன் — குறுக்கே கொஞ்சம் பேசாமலிரு! குமுதம் என்னோடு படித்தவள். குபேரன் வீட்டுக் கோதை. நானோ குடியானவன் மகன். இறந்து போன என் அப்பாவின் எண்ணத்தை எப்படியும் பூர்த்தி செய்ய எண்ணி, என் தாய் என்னைப் படிக்கவைத்தாள். படித்தேன் குமுதமும் நானும்...சரி, கதையை வளர்த்து வானேன்; காதலர்களாகி விட்டோம். வலியோன்மகளை எளியோன் காதலித்தேன் என்பதைத் தவிர எங்கள் காதலில் வேறெந்தக் குற்றமும் யாரும் சொல்ல முடியாமல்தான் இருந்தது. வழக்கம்போல் எங்களின் திருமணத் திட்டம் முறியடிக்கப்பட்டது. வயதான என்
 
 <!-- anthology scan: 62; printed page: 60 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> First pass: **COMPLETE**. Historical-glyph gate: **PASS**. Final source/visual closure remains pending; page stays `needs-review`.

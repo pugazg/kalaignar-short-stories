@@ -7,10 +7,10 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS; final source/visual closure pending"
 ---
 
-“என் மூச்சோடு கலந்தவளே மூதேவி என்று சொல்லாதீர்கள், என் விழியிலே புகுந்துவிட்டவளே விரட்ட முடியாது என்னால்!”
+“என் மூச்சோடு கலந்தவளை மூதேவி என்று சொல்லாதீர்கள், என் விழியிலே புகுந்துவிட்டவளே விரட்ட முடியாது என்னால்!”
 
 “அடேய்! முள்ளம்பன்றிகளவிட மோசமானவர்களடா பெண்கள்! உள்ளத்தைக் காதலிக்கத் தெரியாத கள்ளத்தனம் வாய்ந்தவர்களடா!” அவர்களுக்குத் தேவையானது, கருத்துக்கு விருந்தல்ல—கண்ணுக்கு ரம்மியம்—அன்பல்ல, அவர்கள் விரும்புவது! அழகு! அழகு! அழகு இருக்கும்வரையில் அடிமையாயிருப்பார்கள். அழகு தேய்ந்துவிட்டால் வேறிடத்துக்குப் பாய்ந்து விடுவார்கள்!”
 
@@ -22,4 +22,4 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 <!-- anthology scan: 73; printed page: 71 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> First pass: **COMPLETE**. Historical-glyph gate: **PASS**. Final source/visual closure remains pending; page stays `needs-review`.
