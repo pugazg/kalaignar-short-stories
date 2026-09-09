@@ -10,56 +10,37 @@ Canonical story workspace for **நாட்டிய கலாராணி**, o
 - author line: **மு. கருணாநிதி**
 - physical range: **PDF scans 25–46 / printed pages 25–46**
 - story opening: scan **25**, heading `நாட்டிய கலாராணி`
-- story ending: scan **46**, ending prose followed by the printed closing ornaments
-- forward boundary: scan **47** independently opens `விஷம் இனிது`
+- story ending: scan **46**; scan **47** opens `விஷம் இனிது`
 - source PDF committed: **No**
 - source SHA-256: **pending at collection level**; do not invent or borrow a digest
 
-Full source note: [`metadata/source.md`](metadata/source.md).
-
-## Canonical deduplication
-
-Live `main` was checked before activation; no existing canonical story or documented alternate-title match was found. This workspace is the canonical target for this 1976 source range.
-
 ## Current Tamil/source state
 
-**TRANSCRIPTION IN PROGRESS — P2 STAGE A COMPLETE — 10 / 22 DIRECT-TRANSCRIBED; 5 / 22 VERIFIED.**
+**TRANSCRIPTION IN PROGRESS — P1 + P2 FULLY CLOSED — 10 / 22 VERIFIED.**
 
-- page records created: **22 / 22**
+- page records: **22 / 22**
 - direct first-pass transcription: **10 / 22** — scans 25–34
-- Historical Tamil Glyph / source Stage B: **5 / 22** — scans 25–29
-- `verified`: **5**
-- `needs-review`: **5** — scans 30–34
+- independent historical-glyph/source Stage B: **10 / 22**
+- `verified`: **10**
+- `needs-review`: **0**
 - `not-started`: **12**
-- `blocked`: **0**
+- `blocked` / unresolved: **0 / 0**
 - Tamil assembly: **not started**
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Source intake: [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md).  
-Progress: [`PASS1_PROGRESS.md`](PASS1_PROGRESS.md).  
-Historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).  
-Source-sensitive audit: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
+Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md). Each physical batch remains Stage A → commit/stop, then separate Stage B → commit/stop.
 
-## Source-first rule
-
-The controlling scan is authoritative. Do not normalize spelling, punctuation, spacing, grammar, names or historical glyph forms. Do not import wording from another edition. A page becomes `verified` only after separate Stage A and Stage B closure.
-
-## Production batching
-
-Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md).
-
-Physical batches:
+## Batch state
 
 1. scans 25–29 — **Stage A COMPLETE / Stage B PASS / 5 verified**
-2. scans 30–34 — **Stage A COMPLETE / Stage B NEXT / 5 needs-review**
-3. scans 35–39 — pending
+2. scans 30–34 — **Stage A COMPLETE / Stage B PASS / 5 verified**
+3. scans 35–39 — **NEXT: Stage A**
 4. scans 40–44 — pending
 5. scans 45–46 — pending
 
-P1 is fully closed with zero unresolved. P2 Stage A was transcribed directly from the attached source; its source-sensitive queue is documented separately and no blocking unreadable location remains.
+P2 Stage B closed with **8 source corrections / 0 unresolved**. The full correction list is recorded in `HISTORICAL_GLYPH_GATE.md` and `POSSIBLE_ERRORS_FOR_REVIEW.md`. Confirmed source-odd wording and physical page boundaries were retained without normalization.
 
 ## Exact next activity
 
-**P2 Stage B only:** independently reopen **scans 30–34 / printed pages 30–34**, compare the committed transcription to the same attached source, audit all 13 mandatory historical families plus the P2 source-sensitive queue, correct only source-proven mismatches, synchronize verification controls, commit, and stop/report.
+**P3 Stage A only:** process scans **35–39 / printed pages 35–39** by direct whole-page source transcription. Do not run systematic Stage B in the same activity; keep those pages `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
 
-Do **not** begin scan 35 before P2 Stage B is committed. Do not begin Story 8 `மானம்` until this story is fully closed. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Do not begin Story 8 `மானம்` until Story 4 is fully closed. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

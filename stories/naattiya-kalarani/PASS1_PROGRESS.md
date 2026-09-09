@@ -9,9 +9,9 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — Stage A and St
 - source intake: **PASS**
 - page records initialized: **22 / 22**
 - direct first-pass transcription: **10 / 22**
-- historical-glyph/source Stage B: **5 / 22**
-- verified pages: **5 / 22** — scans 25–29
-- `needs-review`: **5 / 22** — scans 30–34; P2 Stage B pending
+- historical-glyph/source Stage B: **10 / 22**
+- verified pages: **10 / 22** — scans 25–34
+- `needs-review`: **0 / 22**
 - not-started: **12 / 22**
 - blocked / unresolved source holds: **0**
 
@@ -20,36 +20,35 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — Stage A and St
 | Batch | Scans / printed pages | Stage A — direct transcription | Stage B — independent glyph/source verification | Final page status |
 |---|---|---|---|---|
 | P1 | 25–29 | **COMPLETE — 5/5** | **PASS — 5/5** | `verified` |
-| P2 | 30–34 | **COMPLETE — 5/5** | **NEXT** | `needs-review` |
-| P3 | 35–39 | pending | pending | not-started |
+| P2 | 30–34 | **COMPLETE — 5/5** | **PASS — 5/5** | `verified` |
+| P3 | 35–39 | **NEXT** | waits for durable P3 Stage-A commit | not-started |
 | P4 | 40–44 | pending | pending | not-started |
 | P5 | 45–46 | pending | pending | not-started |
 
-## P1 Stage-B corrections
+## P2 Stage-B result
 
-1. scan 26: `இன்பபுரிக்கு` → `இன்ப புரிக்கு` — source spacing;
-2. scan 28: `துடிக்கிட்ட` → `திடுக்கிட்ட` — direct source re-read;
-3. scan 29: `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை` — direct source re-read; `ளை`-sensitive cluster.
+**PASS — 5/5; 8 source corrections; 0 unresolved.**
 
-## P2 Stage-A notes
+1. scan 30 `கோரிலா` → `கோநிலா`;
+2. scan 31 `நிற்கவில்லை` → `நிற்க வில்லை`;
+3. scan 31 `சீமான்கள்` → `சீமான்களே`;
+4. scan 32 `அன்னைகள்` → `அநாதைகள்`;
+5. scan 32 `தலநகரிலே` → `தல நகரிலே`;
+6. scan 32 `கடுந்தண்டனைக்குக்` → `கடுந் தண்டனைக்குக்`;
+7. scan 32 `பணித்தும் பும்` → `பனித்தும்பும்`;
+8. scan 34 `தனியாமலிருக்கும்` → `தணியாமலிருக்கும்`.
 
-- scans **30–34** were directly transcribed from the attached controlling PDF as whole pages;
-- no OCR, web text or another edition was used as transcription authority;
-- systematic 13-family historical-glyph verification was **not** run in Stage A;
-- scan 33 ends mid-quotation at `‘அன்றொரு நாள்`; scan 34 continues that quotation and itself ends mid-sentence before scan 35;
-- source-sensitive but readable forms are appended to `POSSIBLE_ERRORS_FOR_REVIEW.md` for the separate P2 Stage-B re-read;
-- blocking unreadable locations: **0**.
+The mandatory 13 historical families were independently checked on all five pages. No mandatory-family identity correction was required; source-text corrections above were made individually. Families without a positive occurrence were closed as no-candidate. P2 unresolved / blocked: **0 / 0**.
 
 ## Exact next activity
 
-Run **P2 Stage B only** on scans **30–34**:
+Run **P3 Stage A only** on scans **35–39**:
 
-- independently reopen the same five source pages;
-- compare committed Stage-A text against the source; do not fully retranscribe;
-- explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus the P2 source-sensitive queue;
-- use crops/enhancements only for actual ambiguity;
-- record corrections individually; never global-replace;
-- promote only fully closed pages to `verified`;
-- synchronize verification/current-state controls, commit, and stop/report.
+- direct whole-page visual transcription from the attached controlling PDF;
+- no systematic 13-family Stage B in the same activity;
+- no routine crops/enhancements or repeated reopening of clear text;
+- keep scans 35–39 `needs-review` after Stage A;
+- synchronize Pass-1/current-state controls;
+- commit and stop/report.
 
-Do not begin scan 35 before P2 Stage B is committed.
+Do not begin P3 Stage B in the same activity.

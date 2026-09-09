@@ -4,15 +4,15 @@ printed_page: 30
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 கோமேதகத்தை எப்படியும் சந்திக்க வேண்டும். என்னைக் கொல்லாமல் கொல்லும் அவள் விழிகளிலே முத்தமாரி பொழிய வேண்டும், அதற்கு வழி! மன்னன் யோசித்தான் — யோசித்தான் — ஒருவழியும் புலப்படவில்லை.
 
-கோரிலா வந்து கொஞ்சுகின்ற இரவு—கோமேதகம் தன் நீலக்குறு நயனங்களை மூடி நித்திரை பூமிக்குப் பயணம் நடத்திக்கொண்டிருந்தாள். வாயிற் கதவு தட்டப்படும் ஒலி. எழுந்தாள். கதவைத் திறந்தாள். எதிரே அரசன் நின்று கொண்டிருந்தான்.
+கோநிலா வந்து கொஞ்சுகின்ற இரவு—கோமேதகம் தன் நீலக்குறு நயனங்களை மூடி நித்திரை பூமிக்குப் பயணம் நடத்திக்கொண்டிருந்தாள். வாயிற் கதவு தட்டப்படும் ஒலி. எழுந்தாள். கதவைத் திறந்தாள். எதிரே அரசன் நின்று கொண்டிருந்தான்.
 
 “அரசே!”
 
@@ -34,5 +34,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 தோல்வியோடு திரும்பிவிட அவன் எண்ண வில்லை.
 
-<!-- Stage A direct transcription complete; `கோரிலா`, source-odd `திருப்பினேன்`, and `எண்ண வில்லை` queued for Stage B; unresolved blocking locations: 0. -->
+<!-- Stage B PASS: `கோரிலா` corrected to source `கோநிலா`; `திருப்பினேன்` and spaced `எண்ண வில்லை` confirmed. Mandatory families including `ளை` in `நயனங்களை` and `னை` in `தன்னை`/`என்னை` checked; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 30; அச்சுப் பக்கம்: 30 -->

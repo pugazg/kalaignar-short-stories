@@ -8,81 +8,51 @@
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Controlling scans outrank inferred/contextual readings. No silent normalization.
+Fetch live `main` first. Controlling scans outrank contextual readings; no silent normalization.
 
-## Batch execution workflow — mandatory
+## Batch execution workflow
 
-Each physical batch is two durable activities:
-
-1. **Stage A — direct transcription → synchronize Pass-1 state → commit → stop/report**;
-2. **Stage B — independent historical-glyph/source verification → synchronize verification state → commit → stop/report**.
-
-Do not routinely crop/enhance clear text. Do not begin the next batch until the current batch's Stage B is committed unless the user explicitly changes this rule.
+Each physical batch is two separate durable activities: **Stage A direct transcription → commit/stop**, then **Stage B independent historical-glyph/source verification → commit/stop**.
 
 ## External hold
 
-`நடுத்தெரு நாராயணி` remains **BLOCKED** while `வெள்ளிக்கிழமை` is incomplete in `pugazg/kalaignar-novels`.
-
-## Closed work
-
-The 1982 `முடியாத தொடர்கதை` anthology is **FULLY CLOSED — Tamil/source 6/6; English 6/6**.
+`நடுத்தெரு நாராயணி` remains **BLOCKED** while `வெள்ளிக்கிழமை` is incomplete.
 
 ## ACTIVE collection — 1976 `நளாயினி`
 
-Collection workspace: `collections/1976-nalayini/`.
+Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
 
-Source `TVA_BOK_0065574_நளாயினி_1976.pdf`:
-
-- **78 scans**, **164,748,566 bytes**;
-- `நான்காம் பதிப்பு 1976`;
-- image-only; source PDF not committed;
-- SHA-256 remains **pending** because raw-byte checksum access was unavailable; never invent/borrow a digest;
-- the attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
-
-Inventory:
-
-1. `நளாயினி` 3–12 — existing canonical, note only;
-2. `காதல் கடிதம்` 13–18 — existing canonical, note only;
-3. `புரட்சிப் படம்` 19–24 — existing canonical, note only;
-4. `நாட்டிய கலாராணி` 25–46 — **ACTIVE new canonical story**;
-5. `விஷம் இனிது` 47–55 — existing canonical, note only;
-6. `பாலைவன ரோஜா` 56–62 — existing canonical, note only;
-7. `அய்யோ ராஜா!` 63–72 — existing canonical, note only;
-8. `மானம்` 73–78 — new candidate, pending after Story 4.
-
-Story 8 heading is **`மானம்`** from attached scan 73; do not regress to `மனம்`.
+Story inventory retains Story 8 heading **`மானம்`** from scan 73; never regress to `மனம்`.
 
 ## Active Story 4 — `நாட்டிய கலாராணி`
 
-Workspace: `stories/naattiya-kalarani/`.
+Workspace: `stories/naattiya-kalarani/`; physical range **scans 25–46 / printed 25–46**.
 
 Durable state:
 
 - source boundary / dedup: **PASS / PASS**;
 - page records: **22/22**;
 - direct first-pass transcription: **10/22 — scans 25–34**;
-- independent historical-glyph/source Stage B: **5/22 — scans 25–29**;
-- verified: **5/22**;
-- `needs-review`: **5/22 — scans 30–34**;
-- blocked / unresolved: **0 / 0 blocking locations**;
+- independent historical-glyph/source Stage B: **10/22 — scans 25–34**;
+- verified: **10/22**;
+- `needs-review`: **0**;
+- blocked / unresolved: **0 / 0**;
 - Tamil assembly: **not started**.
 
-P1 scans 25–29 are fully closed. P2 scans 30–34 have completed **Stage A only**. P2 source-sensitive readings are documented in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`; systematic glyph/source Stage B has not yet run.
+P1 scans 25–29 and P2 scans 30–34 are fully closed. P2 Stage B made **8 source corrections**: scan 30 `கோரிலா` → `கோநிலா`; scan 31 `நிற்கவில்லை` → `நிற்க வில்லை` and `சீமான்கள்` → `சீமான்களே`; scan 32 `அன்னைகள்` → `அநாதைகள்`, `தலநகரிலே` → `தல நகரிலே`, `கடுந்தண்டனைக்குக்` → `கடுந் தண்டனைக்குக்`, `பணித்தும் பும்` → `பனித்தும்பும்`; scan 34 `தனியாமலிருக்கும்` → `தணியாமலிருக்கும்`. P2 unresolved / blocked: **0 / 0**.
 
-Physical P2 boundary facts: scan 33 ends mid-quotation at `‘அன்றொரு நாள்`; scan 34 continues it and ends mid-sentence at `மன்னனும் மற்றவரும்`. Scan 35 has not been touched.
+## Exact next activity — P3 Stage A only
 
-## Exact next activity — P2 Stage B only
+Process **scans 35–39 / printed pages 35–39** only:
 
-Process only **scans 30–34 / printed pages 30–34** as **Stage B — independent historical-glyph/source verification**:
+1. re-fetch live `main`;
+2. read each whole page directly from the attached controlling source and transcribe once;
+3. preserve source wording, punctuation, spacing, paragraphing, page boundaries and clearly readable historical character identity;
+4. do **not** run the systematic 13-family Stage B in this activity;
+5. do not routinely crop/enhance or repeatedly reopen clear text; closer inspection only for genuine ambiguity;
+6. keep scans 35–39 `needs-review` after Stage A;
+7. synchronize Pass-1/current-state controls;
+8. commit Stage A;
+9. stop/report.
 
-1. re-fetch live `main` and start from the committed P2 Stage-A records;
-2. independently reopen the same five controlling scans;
-3. compare committed text against source pixels; do not fully retranscribe;
-4. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus every P2 queue entry;
-5. create crops/enhancements only for an actual unresolved character/spacing/punctuation ambiguity;
-6. record corrections individually; never global-replace;
-7. promote only fully closed pages to `verified`; retain genuine ambiguity as `needs-review`;
-8. synchronize verification/current-state controls;
-9. commit Stage B and stop/report.
-
-Do **not** begin scan 35 in the same activity. Do not begin `மானம்` until Story 4 is fully closed.
+After that durable commit, P3 Stage B on scans 35–39 becomes next. Do not begin `மானம்`.

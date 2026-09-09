@@ -4,10 +4,10 @@ printed_page: 31
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 “கலாதேவி! கருணை காட்டு!” என்று அவளை இறுக அணைத்தான்.
@@ -22,9 +22,9 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 “உஸ்...சப்தம் போடாதே!” என்றபடி மீண்டும் நெருங்கினான்.
 
-நெருப்பானாள்! அதன் விளைவு, அவன் கன்னத்திலே ஒரு அடி!—பிறகு, மன்னன் அங்கு நிற்கவில்லை. போய்விட்டான்.
+நெருப்பானாள்! அதன் விளைவு, அவன் கன்னத்திலே ஒரு அடி!—பிறகு, மன்னன் அங்கு நிற்க வில்லை. போய்விட்டான்.
 
-கோமேதகத்தின் வாழ்விலே புதிய திருப்பம் ஏற்பட்ட அந்த நிகழ்ச்சி காரணமாகி விட்டது. அன்றுமுதல் அவளைக் காணுவதற்காக அணிமணிகளோடு வரும் சீமான்கள் அவள் பார்ப்பதற்கு மறுத்து விட்டாள்.
+கோமேதகத்தின் வாழ்விலே புதிய திருப்பம் ஏற்பட்ட அந்த நிகழ்ச்சி காரணமாகி விட்டது. அன்றுமுதல் அவளைக் காணுவதற்காக அணிமணிகளோடு வரும் சீமான்களே அவள் பார்ப்பதற்கு மறுத்து விட்டாள்.
 
-<!-- Stage A direct transcription complete; source spacing `ஐஸ்வர்ய முள்ளவர்கள்` queued for independent Stage B; unresolved blocking locations: 0. -->
+<!-- Stage B PASS: source spacing `நிற்க வில்லை` restored; `சீமான்கள்` corrected to source `சீமான்களே`; `ஐஸ்வர்ய முள்ளவர்கள்` confirmed. Mandatory `ளை/னை/னா/லை` candidates including `நாளை`, `அனைவருமே`, `நெருப்பானாள்`, `கலையும்` checked; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 31 -->

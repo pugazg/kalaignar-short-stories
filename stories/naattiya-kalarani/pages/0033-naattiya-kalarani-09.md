@@ -4,10 +4,10 @@ printed_page: 33
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 துறவியைக் கெடுத்துவிட்டாள் என்பதற்காக வழங்கப்பட்டதுமன்று அந்தத் தண்டனை!
@@ -26,5 +26,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 அவளது நினைவுகள் வட்டமிட்டுக் கொண்டிருந்தன. எதிரே மாளிகை உச்சியில் மன்னன் நின்று கொண்டிருப்பதையும் பார்த்தாள். ‘அன்றொரு நாள்
 
-<!-- Stage A direct transcription complete; scan ends mid-quotation after `‘அன்றொரு நாள்`; Stage B pending; unresolved blocking locations: 0. -->
+<!-- Stage B PASS: no source-text correction required; terminal mid-quotation `‘அன்றொரு நாள்` independently confirmed. Mandatory families including `னை` in `நினைவுகள்` and `றா` in `நிற்கிறாளே` were checked; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 33 -->
