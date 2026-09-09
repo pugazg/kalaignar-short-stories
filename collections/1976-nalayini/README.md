@@ -28,7 +28,7 @@ Scans 1–2 are front matter. Scans 3–78 correspond to the recorded printed-pa
 | 1 | `நளாயினி` | 3–12 | existing canonical — note only |
 | 2 | `காதல் கடிதம்` | 13–18 | existing canonical — note only |
 | 3 | `புரட்சிப் படம்` | 19–24 | existing canonical — note only |
-| 4 | `நாட்டிய கலாராணி` | 25–46 | **ACTIVE — P1 scans 25–29 fully closed / 5 of 22 verified; scans 30–34 Stage A NEXT** |
+| 4 | `நாட்டிய கலாராணி` | 25–46 | **ACTIVE — 10/22 direct-transcribed; 5/22 verified; P2 30–34 Stage A COMPLETE / Stage B NEXT** |
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
@@ -42,11 +42,11 @@ Workspace: `stories/naattiya-kalarani/`.
 
 - source range: scans **25–46 / printed 25–46**;
 - page records: **22/22**;
-- direct transcription: **5/22**;
+- direct transcription: **10/22**;
 - historical-glyph/source Stage B: **5/22**;
 - verified: **5/22**;
-- `needs-review`: **0**;
+- `needs-review`: **5/22** — scans 30–34;
 - blocked: **0**;
-- next exact activity: **scans 30–34 Stage A direct transcription only**.
+- next exact activity: **scans 30–34 Stage B independent glyph/source verification**.
 
-Do not begin Story 8 `மானம்` until Story 4 Tamil/source closure. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Do not begin scan 35 or Story 8 `மானம்` until the current P2 gate allows it. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

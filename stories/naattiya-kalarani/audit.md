@@ -10,36 +10,36 @@
 
 ## P1 transcription / verification gate — scans 25–29
 
-**PASS / CLOSED.**
+**PASS / CLOSED.** Stage A direct source transcription **5/5**; independent Stage B **5/5**; verified **5/5**; unresolved / blocked **0/0**.
 
-- Stage A direct source transcription: **5/5**;
-- independent Stage B historical-glyph/source verification: **5/5**;
-- verified: **5/5**;
-- unresolved / blocked: **0/0**.
+P1 Stage-B corrections: scan 26 `இன்பபுரிக்கு` → `இன்ப புரிக்கு`; scan 28 `துடிக்கிட்ட` → `திடுக்கிட்ட`; scan 29 `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை`. All 13 mandatory families were checked and P1 has zero unresolved candidates.
+
+## P2 transcription gate — scans 30–34
+
+**STAGE A COMPLETE / STAGE B PENDING.**
+
+- direct whole-page source transcription: **5/5**;
+- status after Stage A: **5/5 `needs-review`**;
+- systematic historical-glyph/source Stage B: **not run**;
+- blocking unreadable locations: **0**;
+- no OCR, web text or another edition was used as transcription authority.
 
 Physical-source facts retained:
 
-- scan 25 ends `நட்டுவ`; scan 26 begins `னரும்`;
-- scan 27 ends `கவிவாணர்-`; scan 28 independently begins `கவிவாணர்-மதிவாணர்`;
-- source-odd `தீயிலேகிடக்க`, `அங்கேன்`, `யாருக்குக் அளித்தது`, `நங்கள்`, `மார்பிலேபுரண்ட`, and asymmetric quotation marks were independently confirmed and retained.
-
-### P1 Stage-B corrections
-
-1. scan 26: `இன்பபுரிக்கு` → `இன்ப புரிக்கு` — source spacing;
-2. scan 28: `துடிக்கிட்ட` → `திடுக்கிட்ட` — Stage-A visual misread corrected from direct source;
-3. scan 29: `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை` — direct source correction; `ளை`-sensitive cluster.
-
-The mandatory 13 historical-glyph families were independently checked on all five pages. `நன்றாக` on scan 25 was confirmed as historical `றா`; `லை/ளை/னா/னை` candidates were source-checked where present. No unresolved family candidate remains.
+- scan 33 ends mid-quotation at `‘அன்றொரு நாள்`; scan 34 continues it;
+- scan 34 ends mid-sentence at `மன்னனும் மற்றவரும்`; scan 35 was not touched;
+- source-sensitive readings including `கோரிலா`, `திருப்பினேன்`, `எண்ண வில்லை`, `ஐஸ்வர்ய முள்ளவர்கள்`, `விலைபோகும்`, `பணித்தும்` / `பும்`, and `சீரங் படைத்தவர்கள்` are queued for independent Stage B rather than silently normalized.
 
 ## Current work-level state
 
 - page records: **22/22 initialized**;
-- direct transcription: **5/22**;
+- direct transcription: **10/22**;
 - Stage B verified: **5/22**;
-- not-started: **17/22**;
+- `needs-review`: **5/22**;
+- not-started: **12/22**;
 - blocked: **0**;
 - Tamil assembly: not started.
 
 ## Exact next gate
 
-**P2 Stage A only — scans 30–34.** Direct whole-page transcription, synchronize, commit, and stop/report. P2 Stage B must remain a later separate activity.
+**P2 Stage B only — scans 30–34.** Independently compare the committed Stage-A text to the controlling source, run the 13-family/source-sensitive audit, synchronize, commit, and stop/report. Scan 35 must remain untouched until that commit.

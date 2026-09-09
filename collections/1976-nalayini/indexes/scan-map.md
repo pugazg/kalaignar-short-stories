@@ -7,7 +7,7 @@
 | 3–12 | 3–12 | story | `நளாயினி` | existing canonical — note only |
 | 13–18 | 13–18 | story | `காதல் கடிதம்` | existing canonical — note only |
 | 19–24 | 19–24 | story | `புரட்சிப் படம்` | existing canonical — note only |
-| 25–46 | 25–46 | story | `நாட்டிய கலாராணி` | **ACTIVE — 5/22 verified; P1 25–29 CLOSED; P2 30–34 Stage A NEXT** |
+| 25–46 | 25–46 | story | `நாட்டிய கலாராணி` | **ACTIVE — 10/22 direct-transcribed / 5 verified; P2 30–34 Stage A COMPLETE / Stage B NEXT** |
 | 47–55 | 47–55 | story | `விஷம் இனிது` | existing canonical — note only |
 | 56–62 | 56–62 | story | `பாலைவன ரோஜா` | existing canonical — note only |
 | 63–72 | 63–72 | story | `அய்யோ ராஜா!` | existing canonical — note only |
@@ -17,4 +17,4 @@
 
 All headings and ranges are controlled by direct visual inspection of the attached PDF. Scan **25** visibly opens `நாட்டிய கலாராணி`; scan **46** contains its ending; scan **47** opens `விஷம் இனிது`. Scan **73** visibly opens `மானம்`, correcting earlier `மனம்`.
 
-Exact next physical range: **30–34 — Stage A only**.
+Exact next physical range: **30–34 — Stage B only**. Scan 35 remains untouched.

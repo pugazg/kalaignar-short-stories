@@ -4,11 +4,27 @@ printed_page: 33
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+துறவியைக் கெடுத்துவிட்டாள் என்பதற்காக வழங்கப்பட்டதுமன்று அந்தத் தண்டனை!
+
+தனக்கு இணங்காதது—தபசியைக் கெடுத்தது-இவை இரண்டுமில்லாமல் இன்னொரு ரகசியக் காரணமும் மறைந்து கிடந்தது! அந்தக் காரணம், அவனுக்கும், அவனது அந்தரங்க அமைச்சர்களுக்கும் மட்டுமே தெரியும். அந்தோ பரிதாபம்; அந்தக் காரணம் ஆடலரசியாம் கோமேதகத்திற்கும் தெரியாது!
+
+தெரிந்தால் தான் என்ன? தீக்குண்டத்திலிருந்து தப்பிவிட முடியுமா? அதோ, அவள் நோக்கி வாய் பிளந்து நிற்கும் பயங்கரமான மரணத்திலிருந்து விடுபடத்தான் முடியுமா?
+
+செந்தாமரையவள்! செந்தீ படரப் போகிறது அந்தச் சிவப்பு ரோஜா மீது! தலைநகரத்து நடுவிலே அமைக்கப்பட்ட விகாரமான மேடை! அதிலே அவளது பிணம் ஊசலாடப் போகிறது!
+
+கடைக் கண்ணழகி என வர்ணித்தனர் — அந்தக் கண்கள் சிப்பிக்குள்ளேயிருந்து முத்தை எடுப்பதுபோல கழுகுகள் கொத்தி எடுத்துவிடப் போகின்றன!
+
+அப்பப்பா! நினைக்கவே முடியவில்லை. எவ்வளவு கோரமான சாவு! எத்துணை அநியாயமான தண்டனை!
+
+அதையும் தாங்கிக்கொண்டு அவள் அசைவற்று நிற்கிறாளே; அதுவல்லவா ஆச்சரியம்!
+
+அவளது நினைவுகள் வட்டமிட்டுக் கொண்டிருந்தன. எதிரே மாளிகை உச்சியில் மன்னன் நின்று கொண்டிருப்பதையும் பார்த்தாள். ‘அன்றொரு நாள்
+
+<!-- Stage A direct transcription complete; scan ends mid-quotation after `‘அன்றொரு நாள்`; Stage B pending; unresolved blocking locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 33 -->

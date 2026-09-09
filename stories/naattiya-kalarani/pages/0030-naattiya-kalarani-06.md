@@ -4,11 +4,35 @@ printed_page: 30
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+கோமேதகத்தை எப்படியும் சந்திக்க வேண்டும். என்னைக் கொல்லாமல் கொல்லும் அவள் விழிகளிலே முத்தமாரி பொழிய வேண்டும், அதற்கு வழி! மன்னன் யோசித்தான் — யோசித்தான் — ஒருவழியும் புலப்படவில்லை.
+
+கோரிலா வந்து கொஞ்சுகின்ற இரவு—கோமேதகம் தன் நீலக்குறு நயனங்களை மூடி நித்திரை பூமிக்குப் பயணம் நடத்திக்கொண்டிருந்தாள். வாயிற் கதவு தட்டப்படும் ஒலி. எழுந்தாள். கதவைத் திறந்தாள். எதிரே அரசன் நின்று கொண்டிருந்தான்.
+
+“அரசே!”
+
+“கோமேதகம்!”
+
+“எங்கே இந்நேரத்தில்?”
+
+“நகர் சோதனைக்கு வந்தேன்-நீ நலமாயிருக்கிறாயா என்று விசாரித்துவிட்டு போக இப்படித் திருப்பினேன்’
+
+“மிகவும் மகிழ்ச்சி—என் பாக்கியமே பாக்கியம்!”
+
+“கோமேதகம்!” அரசனின் குரலிலே நடுக்கம் பிறந்தது.
+
+“என்ன மன்னவா?”
+
+“ஒன்றுமில்லை!” இப்படிச் சொல்லிக் கொண்டே அவள் தோளிலே கையை வைத்தான். கோமேதகம் தன்னை விடுவித்துக்கொண்டே,
+
+“அரசே” என்று கொஞ்சம் அழுத்தமான குரலிலே எச்சரித்தாள்!
+
+தோல்வியோடு திரும்பிவிட அவன் எண்ண வில்லை.
+
+<!-- Stage A direct transcription complete; `கோரிலா`, source-odd `திருப்பினேன்`, and `எண்ண வில்லை` queued for Stage B; unresolved blocking locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 30; அச்சுப் பக்கம்: 30 -->

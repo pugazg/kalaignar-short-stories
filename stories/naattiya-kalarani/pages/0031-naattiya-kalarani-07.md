@@ -4,11 +4,27 @@ printed_page: 31
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+“கலாதேவி! கருணை காட்டு!” என்று அவளை இறுக அணைத்தான்.
+
+“போய்விடுங்கள் இதைவிட்டு!” என்று அவனை உதறிவிட்டாள் கோமேதகம்.
+
+“முடியாது! நீ என் பேச்சைக் கேட்கவேண்டிய பிரஜை!” என்றபடி அவளை இழுத்தான். இதழை அசைத்துவிடு இன்பமே! இன்று நீ நாட்டியக் கலாராணி—நாளை, இந்த நாட்டுக்கே மகாராணி!” என்று கெஞ்சினான்.
+
+மறுத்தாள்—அறிவுரைகள் கூறினாள்.
+
+“வேந்தே! விபரீதமான காரியம் இது! வேண்டாம் போய்விடுங்கள்! ஆட்டக்காரிதானே! ஐஸ்வர்ய முள்ளவர்கள் அனைவருமே ஆட்டி வைக்கலாம் என்று கருதிவிடாதீர்கள்! கோமேதகம் அப்படியல்ல! குடும்பக்கலையும் தெரிந்தவள்! கோணல் வழி நடந்து கோபுரத்தில் ஏறிக்கொள்ள ஒருக்காலும் சம்மதிக்கமாட்டாள்!” என்று உரக்கக் கூறினாள்.
+
+“உஸ்...சப்தம் போடாதே!” என்றபடி மீண்டும் நெருங்கினான்.
+
+நெருப்பானாள்! அதன் விளைவு, அவன் கன்னத்திலே ஒரு அடி!—பிறகு, மன்னன் அங்கு நிற்கவில்லை. போய்விட்டான்.
+
+கோமேதகத்தின் வாழ்விலே புதிய திருப்பம் ஏற்பட்ட அந்த நிகழ்ச்சி காரணமாகி விட்டது. அன்றுமுதல் அவளைக் காணுவதற்காக அணிமணிகளோடு வரும் சீமான்கள் அவள் பார்ப்பதற்கு மறுத்து விட்டாள்.
+
+<!-- Stage A direct transcription complete; source spacing `ஐஸ்வர்ய முள்ளவர்கள்` queued for independent Stage B; unresolved blocking locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 31 -->

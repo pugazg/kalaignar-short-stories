@@ -60,33 +60,29 @@ Durable state:
 
 - source boundary / dedup: **PASS / PASS**;
 - page records: **22/22**;
-- direct first-pass transcription: **5/22**;
-- independent historical-glyph/source Stage B: **5/22**;
-- verified: **5/22 — scans 25–29**;
-- `needs-review`: **0**;
-- blocked / unresolved: **0 / 0**;
+- direct first-pass transcription: **10/22 — scans 25–34**;
+- independent historical-glyph/source Stage B: **5/22 — scans 25–29**;
+- verified: **5/22**;
+- `needs-review`: **5/22 — scans 30–34**;
+- blocked / unresolved: **0 / 0 blocking locations**;
 - Tamil assembly: **not started**.
 
-P1 scans 25–29 are **FULLY CLOSED**. Stage-B corrections:
+P1 scans 25–29 are fully closed. P2 scans 30–34 have completed **Stage A only**. P2 source-sensitive readings are documented in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`; systematic glyph/source Stage B has not yet run.
 
-1. scan 26 `இன்பபுரிக்கு` → `இன்ப புரிக்கு`;
-2. scan 28 `துடிக்கிட்ட` → `திடுக்கிட்ட`;
-3. scan 29 `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை`.
+Physical P2 boundary facts: scan 33 ends mid-quotation at `‘அன்றொரு நாள்`; scan 34 continues it and ends mid-sentence at `மன்னனும் மற்றவரும்`. Scan 35 has not been touched.
 
-The physical splits `நட்டுவ` / `னரும்` and `கவிவாணர்-` / `கவிவாணர்-மதிவாணர்` are confirmed and retained. Source-odd readings `தீயிலேகிடக்க`, `அங்கேன்`, `யாருக்குக் அளித்தது`, `நங்கள்`, and `மார்பிலேபுரண்ட` are confirmed, not normalized.
+## Exact next activity — P2 Stage B only
 
-## Exact next activity — P2 Stage A only
+Process only **scans 30–34 / printed pages 30–34** as **Stage B — independent historical-glyph/source verification**:
 
-Process **scans 30–34 / printed pages 30–34** only:
+1. re-fetch live `main` and start from the committed P2 Stage-A records;
+2. independently reopen the same five controlling scans;
+3. compare committed text against source pixels; do not fully retranscribe;
+4. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus every P2 queue entry;
+5. create crops/enhancements only for an actual unresolved character/spacing/punctuation ambiguity;
+6. record corrections individually; never global-replace;
+7. promote only fully closed pages to `verified`; retain genuine ambiguity as `needs-review`;
+8. synchronize verification/current-state controls;
+9. commit Stage B and stop/report.
 
-1. re-fetch live `main`;
-2. read each whole page directly from the attached controlling source and transcribe once;
-3. preserve source wording, punctuation, spacing, paragraphing, page boundaries and clearly readable historical character identity;
-4. do **not** run the systematic 13-family Stage B in this activity;
-5. do not routinely create crops/enhancements or repeatedly reopen clear words; use closer inspection only if a reading genuinely cannot be transcribed responsibly;
-6. keep scans 30–34 `needs-review` after Stage A;
-7. synchronize Pass-1/current-state controls;
-8. commit Stage A;
-9. stop and report.
-
-After that durable commit, P2 Stage B on scans 30–34 becomes the next exact activity. Do not begin Story 8 `மானம்`.
+Do **not** begin scan 35 in the same activity. Do not begin `மானம்` until Story 4 is fully closed.

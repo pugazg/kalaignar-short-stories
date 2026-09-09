@@ -23,14 +23,14 @@ Live `main` was checked before activation; no existing canonical story or docume
 
 ## Current Tamil/source state
 
-**TRANSCRIPTION IN PROGRESS — P1 FULLY CLOSED — 5 / 22 VERIFIED.**
+**TRANSCRIPTION IN PROGRESS — P2 STAGE A COMPLETE — 10 / 22 DIRECT-TRANSCRIBED; 5 / 22 VERIFIED.**
 
 - page records created: **22 / 22**
-- direct first-pass transcription: **5 / 22** — scans 25–29
-- Historical Tamil Glyph / source Stage B: **5 / 22**
+- direct first-pass transcription: **10 / 22** — scans 25–34
+- Historical Tamil Glyph / source Stage B: **5 / 22** — scans 25–29
 - `verified`: **5**
-- `needs-review`: **0**
-- `not-started`: **17**
+- `needs-review`: **5** — scans 30–34
+- `not-started`: **12**
 - `blocked`: **0**
 - Tamil assembly: **not started**
 
@@ -51,15 +51,15 @@ Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPT
 Physical batches:
 
 1. scans 25–29 — **Stage A COMPLETE / Stage B PASS / 5 verified**
-2. scans 30–34 — **NEXT: Stage A**
+2. scans 30–34 — **Stage A COMPLETE / Stage B NEXT / 5 needs-review**
 3. scans 35–39 — pending
 4. scans 40–44 — pending
 5. scans 45–46 — pending
 
-P1 Stage B made three source-proven corrections: scan 26 `இன்பபுரிக்கு` → `இன்ப புரிக்கு`; scan 28 `துடிக்கிட்ட` → `திடுக்கிட்ட`; scan 29 `ராஜ்ய விஷயங்களைக்` → `ராஜ்ய விஷயங்களை`. Zero unresolved locations remain in P1.
+P1 is fully closed with zero unresolved. P2 Stage A was transcribed directly from the attached source; its source-sensitive queue is documented separately and no blocking unreadable location remains.
 
 ## Exact next activity
 
-**P2 Stage A only:** process **scans 30–34 / printed pages 30–34** by direct whole-page transcription. Do not run systematic Stage B in the same activity; do not routinely crop/enhance clear text. Keep the new five pages `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
+**P2 Stage B only:** independently reopen **scans 30–34 / printed pages 30–34**, compare the committed transcription to the same attached source, audit all 13 mandatory historical families plus the P2 source-sensitive queue, correct only source-proven mismatches, synchronize verification controls, commit, and stop/report.
 
-After that durable commit, P2 Stage B on scans 30–34 becomes next. Do not begin Story 8 `மானம்` until Story 4 is fully closed. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Do **not** begin scan 35 before P2 Stage B is committed. Do not begin Story 8 `மானம்` until this story is fully closed. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
