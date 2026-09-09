@@ -4,11 +4,31 @@ printed_page: 27
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+அவள் யார்? அங்கேன் நிறுத்தப்பட்டிருக்கிறாள்?
+
+அவள் ஒரு நடனக்காரி! கோமேதகம் அவள் பெயர் !
+
+அவள் பாதம் பட்டால் பாபம் தொலியும் என்பார்கள், பரதநாட்டியத்தோடு பக்தியைக் குழைத்துப் பேசும் பாகவத சிரோன்மணிகள், காற்றிலாடும் முல்லைக்கொடியோ-கான மயிலோ-என இன்பவெள்ளிலெழும் வார்த்தைகளைக் கொட்டிக் கொட்டி வர்ணிப்பர் வாலிபக் காளைகள் !
+
+விழியோ-வேற்படையோ ?
+
+மொழியோ-முக்கனியோ ?
+
+இடையோ-இருபிறைவடிவோ ?
+
+இப்படிப் புகழ்பாடும் புலவர்க்கூட்டம் !
+
+காலிலே சதங்கை கொஞ்சும்-காண வந்த சபையோரின் கண்கள் கெஞ்சும்! கடைவிழி காட்டுவாள்-‘காமன்’ படையுடன் மோதுகிறேன் எனக் கத்துவர் காளையர் !
+
+விரல் நெளியும்-வீரர் தம் தோள்கள் வளையும் ! சுற்றிச் சுழன்றுவாள் பம்பரம்போல-சூறைக்காற்றில் பஞ்சாடும் எனப் பரிதவிப்பர் பருவ இளைஞர் !
+
+கோமேதகம்-ஆழிநாட்டுக்கு அழகு வழங்கும் கோமளவல்லி ! அந்த தேசத்து அதிசயங்களிலே அவளும் ஒன்றுள். தேச முழுதுமுள்ள நடன அரங்கங்களிலே அப்சரஸ்-ஆடலரசி -அழகுராணி என்பன போன்ற பட்டங்களைப்பெற்று, நாட்டியத்திற்கோர் ஒளிவிளக்காகத் திகழ்ந்தாள். கவிவாணர்-
+
+<!-- Stage A direct transcription complete; source physically ends கவிவாணர்-; scan 28 begins கவிவாணர்-மதிவாணர் -->
 <!-- மூல ஸ்கேன் பக்கம்: 27; அச்சுப் பக்கம்: 27 -->

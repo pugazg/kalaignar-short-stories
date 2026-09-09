@@ -4,13 +4,17 @@ printed_page: 25
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story-opening"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
 # நாட்டிய கலாராணி
 
-<!-- source opening heading directly verified; body transcription pending -->
+நெருப்புக் குண்டத்திற்குப் பக்கத்திலே அவள் நிறுத்தப்பட்டிருந்தாள். கொழுந்து விட்டெரியும் தீயின் சிவப்பு நாக்குகள் அவளை இரையாக்கிக்கொள்ளத் துடிப்பதுபோல் நீண்டு உயர்ந்து வளைந்து நெளிந்து ஆடிக்கொண்டிருந்தன. அவளுக்குத் தரப்பட்ட தண்டனை மிகப்பயங்கரமானது. அதை நிறைவேற்றுவதற்காகவே அவள் அங்கே நிறுத்தப்பட்டிருந்தாள்.
+
+அக்கினி குண்டத்தை அவள் மூன்று முறை வலம் வரவேண்டும். மூன்றாவது முறை அவள் அந்த நெருப்பிலே தூக்கி எறியப்படுவாள். அவளாகவே விழுந்து விட்டாலும் பாதகமில்லை—தடுக்க வேண்டா என்று உத்தரவு சில விநாடிகள் தான் தீயிலேகிடக்க அனுமதிக்கப்படுவாள்; அரை வேக்காடாக அவள் வெந்ததும்—குற்றுயிரும், குலை உயிருமாக வெளியிலே தூக்கப்படுவாள். தங்கம் போன்ற அவள் மேனியிலே எங்கெங்கே ரணம் ஏற்பட்டிருக்கிறது என்று பார்ப்பார்கள். அந்த ரணங்களை ஆற்றி, உயிரூட்ட மருத்துவரை அழைப்பார்கள் என்று யாரும் எண்ணவேண்டாம். நன்றாக எரிச்சல் தரக்கூடிய மிளகாய்த் தூளை அந்தப் புண்களிலே தூவுவார்கள். வேதனை தாங்கமாட்டாமல் அவள் எழுந்து குதிப்பாள்—துடிப்பாள்—அப்போது அரண்மனை நட்டுவ
+
+<!-- Stage A direct transcription complete; independent historical-glyph/source Stage B pending -->
 <!-- மூல ஸ்கேன் பக்கம்: 25; அச்சுப் பக்கம்: 25 -->

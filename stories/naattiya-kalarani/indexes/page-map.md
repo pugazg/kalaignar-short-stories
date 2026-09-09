@@ -5,11 +5,11 @@ Story range: scans **25–46 / printed pages 25–46**.
 
 | Scan | Printed | Page type | Status | Note |
 |---:|---:|---|---|---|
-| 25 | 25 | story-opening | `not-started` | illustrated display heading `நாட்டிய கலாராணி` |
-| 26 | 26 | story | `not-started` | transcription pending |
-| 27 | 27 | story | `not-started` | transcription pending |
-| 28 | 28 | story | `not-started` | transcription pending |
-| 29 | 29 | story | `not-started` | transcription pending |
+| 25 | 25 | story-opening | `needs-review` | **Stage A complete**; display heading; ends mid-word `நட்டுவ` |
+| 26 | 26 | story | `needs-review` | **Stage A complete**; begins continuation `னரும்`; Stage B pending |
+| 27 | 27 | story | `needs-review` | **Stage A complete**; physically ends `கவிவாணர்-` |
+| 28 | 28 | story | `needs-review` | **Stage A complete**; independently begins `கவிவாணர்-மதிவாணர்`; Stage B pending |
+| 29 | 29 | story | `needs-review` | **Stage A complete**; source-sensitive wording/punctuation queued; Stage B pending |
 | 30 | 30 | story | `not-started` | transcription pending |
 | 31 | 31 | story | `not-started` | transcription pending |
 | 32 | 32 | story | `not-started` | transcription pending |
@@ -30,4 +30,6 @@ Story range: scans **25–46 / printed pages 25–46**.
 
 Forward boundary: scan **47** opens `விஷம் இனிது` and is excluded.
 
-Current totals: **22 records / 0 transcribed / 0 verified / 22 not-started**.
+Current totals: **22 records / 5 direct-transcribed / 5 needs-review / 0 verified / 17 not-started**.
+
+The five `needs-review` pages have completed **Stage A only**. Their independent historical-glyph/source Stage B is the next activity.

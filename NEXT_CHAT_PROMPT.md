@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` scans 25–29 — Stage A
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` scans 25–29 — Stage B
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,39 +42,43 @@ Attached scan **73** directly shows Story 8 heading **`மானம்`**. Earli
 - source boundary: PASS;
 - canonical dedup: PASS;
 - page records initialized: **22/22**;
-- direct transcription: **0/22**;
+- direct transcription: **5/22 — scans 25–29 Stage A COMPLETE**;
+- `needs-review`: **5/22**;
 - glyph Pass 2: **0/22**;
 - verified: **0/22**;
+- blocked: **0/22**;
 - Tamil assembly: not started.
 
-Scan 25 visibly opens with the display heading `நாட்டிய கலாராணி`; scan 46 ends the story; scan 47 opens existing canonical `விஷம் இனிது` and is excluded.
+Stage-A physical facts preserved in the page records:
 
-## Revised two-stage workflow
+- scan 25 ends `நட்டுவ`; scan 26 begins `னரும்`;
+- scan 27 ends `கவிவாணர்-`; scan 28 independently begins `கவிவாணர்-மதிவாணர்`.
 
-Page batches are no longer processed as one oversized transcription+glyph activity.
+Source-sensitive but legible forms are listed in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`. They are review targets, not confirmed errors.
 
-For each batch:
+## Two-stage workflow
 
-**Stage A** — direct transcription → synchronize Pass-1 state → commit → stop/report.  
-**Stage B** — later, as a separate activity, independently reopen the same pages for the historical-glyph/source verification → synchronize → commit → stop/report.
+For each physical batch:
 
-Routine crops/enhancements are forbidden. Use them only for an actual reading ambiguity.
+**Stage A** — direct transcription → synchronize → commit → stop/report.  
+**Stage B** — separate independent glyph/source verification → synchronize → commit → stop/report.
 
-## Exact next activity — Stage A ONLY
+P1 Stage A is now complete. Do **not** repeat it.
+
+## Exact next activity — Stage B ONLY
 
 Process scans **25–29 / printed pages 25–29** only.
 
-- visually read and transcribe each complete page once from the attached source pixels;
-- preserve punctuation, spacing, paragraphing, source-odd words, page boundaries and clearly readable historical character identity;
-- **do not perform the systematic `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` Pass 2 in this activity**;
-- **do not repeatedly reopen already-clear words/pages**;
-- **do not create crops/enhancements unless a reading genuinely cannot be transcribed responsibly at normal/native page view**;
-- unresolved readings may remain explicitly marked; do not guess;
-- after Stage A the affected pages remain `needs-review`, not final `verified`;
-- synchronize the five page records, page map, Pass-1 tracker and current-state controls;
-- commit Stage A before any independent glyph audit;
+- independently reopen all five attached source pages;
+- compare the committed Stage-A transcription against source pixels; **do not fully retranscribe the pages**;
+- explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- independently check every entry in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
+- **do not create crops/enhancements routinely**; use them only where a real character/spacing/punctuation ambiguity remains after normal/native page inspection;
+- record every correction individually; never global-replace;
+- any unresolved reading keeps the affected page `needs-review`;
+- promote only fully closed pages to `verified`;
+- synchronize the five page records, page map, glyph gate, progress, review queue, README/audit/handover/current-state controls;
+- commit Stage B;
 - **stop and report after the commit**.
 
-The following activity, only after that durable commit, will be Stage B for the **same scans 25–29**. Do **not** begin scan 30 yet.
-
-Do **not** begin Story 8 `மானம்` in the same activity.
+Do **not** begin scan 30 in this activity. Do **not** begin Story 8 `மானம்`.

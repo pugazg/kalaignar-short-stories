@@ -66,30 +66,27 @@ Durable state:
 - deduplication recheck: **PASS — no existing canonical/alternate-title match found**;
 - direct physical boundary: **PASS — scans 25–46 / printed 25–46**;
 - page records: **22/22 initialized**;
-- direct first-pass transcription: **0/22**;
+- direct first-pass transcription: **5/22 — scans 25–29 Stage A COMPLETE**;
+- `needs-review`: **5/22**;
 - Historical Tamil Glyph Pass 2: **0/22**;
 - verified: **0/22**;
 - blocked: **0/22**;
 - Tamil assembly: **not started**.
 
-The story is intentionally not filled from OCR, web text or another edition merely to advance counts.
+P1 Stage-A physical boundary facts are preserved: scan 25 ends `நட்டுவ` and scan 26 begins `னரும்`; scan 27 ends `கவிவாணர்-` and scan 28 independently begins `கவிவாணர்-மதிவாணர்`. Source-sensitive but legible readings are recorded in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`. There are **0 blocking unreadable locations** in this Stage-A batch.
 
-## Exact next activity — Stage A only
+## Exact next activity — P1 Stage B only
 
-Process only **scans 25–29 / printed pages 25–29** from the attached PDF as **Stage A — direct transcription**:
+Process only **scans 25–29 / printed pages 25–29** as **Stage B — independent historical-glyph/source verification**:
 
-1. re-fetch live `main`;
-2. read each of the five controlling pages as a whole and transcribe directly from source pixels;
-3. preserve source wording, punctuation, spacing, paragraphing, page boundaries and clearly readable historical character identity;
-4. do **not** perform the systematic 13-family historical-glyph Pass 2 in this activity;
-5. do **not** routinely create crops/enhancements or repeatedly reopen already-clear words; use closer inspection only if a reading genuinely cannot be transcribed responsibly at normal/native page view;
-6. keep the five pages `needs-review` after Stage A because independent Pass 2 is still pending;
-7. synchronize the five page records plus Pass-1/current-state controls;
-8. commit Stage A;
-9. stop and report. Do not continue into Stage B in the same activity.
+1. re-fetch live `main` and start from the committed Stage-A page records;
+2. independently reopen the same five controlling scans;
+3. compare the committed text against source pixels; do not fully retranscribe;
+4. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus the source-sensitive queue;
+5. create crops/enhancements only when an actual character/spacing/punctuation ambiguity remains;
+6. record corrections individually; never global-replace;
+7. promote only pages that fully close to `verified`; retain any unresolved page as `needs-review`;
+8. synchronize page records and verification/current-state controls;
+9. commit Stage B and stop/report.
 
-### Following activity
-
-After Stage A is durably committed, the **next exact activity** is **Stage B on the same scans 25–29**: independently reopen them, check the 13 historical-glyph families and any recorded uncertainties, use crops/enhancements only where an actual ambiguity exists, synchronize verification controls, commit, and stop/report.
-
-Do **not** begin scan 30 until Stage B for scans 25–29 is committed. Do not begin `மானம்` until Story 4 is fully closed.
+Do **not** begin scan 30 in the same activity. Do not begin `மானம்` until Story 4 is fully closed.

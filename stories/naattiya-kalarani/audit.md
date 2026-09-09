@@ -17,27 +17,33 @@
 
 ## Transcription / verification gate
 
-**NOT STARTED.**
+**IN PROGRESS — P1 STAGE A COMPLETE.**
 
 - page records: 22/22 initialized;
-- direct source transcription: 0/22;
-- independent historical-glyph Pass 2: 0/22;
-- verified: 0/22;
-- blocked: 0/22.
+- direct source transcription: **5/22** — scans 25–29;
+- independent historical-glyph Pass 2: **0/22**;
+- `needs-review`: **5/22**;
+- verified: **0/22**;
+- blocked: **0/22**.
 
-No story prose has been imported from OCR, another edition or contextual inference.
+Stage A for scans 25–29 was transcribed directly from the attached controlling source. No OCR, web text or another edition was used as transcription authority. The systematic 13-family second pass was intentionally **not** run in Stage A.
 
-## Revised batch execution workflow
+Physical-source boundary facts retained in the page records:
+
+- scan 25 ends mid-word `நட்டுவ`; scan 26 begins `னரும்`;
+- scan 27 ends `கவிவாணர்-`; scan 28 independently begins `கவிவாணர்-மதிவாணர்`.
+
+Visually legible but source-sensitive forms are queued in `POSSIBLE_ERRORS_FOR_REVIEW.md`. They remain source readings, not confirmed errors and not permission to normalize.
+
+## Batch execution workflow
 
 Root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` splits each physical batch into two durable activities:
 
 1. Stage A — direct transcription, Pass-1 synchronization, commit, stop/report;
 2. Stage B — separate independent historical-glyph/source verification, verification synchronization, commit, stop/report.
 
-Routine crops/enhancements are not part of Stage A and are not automatic in Stage B; they are reserved for genuine ambiguity.
-
 ## Exact next gate
 
-**Stage A only:** process scans **25–29** by direct whole-page source transcription, keep them `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
+**P1 Stage B only:** reopen scans **25–29** independently, compare the committed text against the source, check all 13 mandatory historical-glyph families and the source-sensitive queue, use crops/enhancements only where a real ambiguity exists, record any correction individually, synchronize verification controls, commit, and stop/report.
 
-Only after that durable commit should Stage B reopen scans 25–29 for the independent 13-family/source check. Scan 30 must not begin before Stage B is committed.
+Scan 30 must not begin before P1 Stage B is committed.

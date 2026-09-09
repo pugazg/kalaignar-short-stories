@@ -28,7 +28,7 @@ Scans 1–2 are front matter. Scans 3–78 correspond to printed pages 3–78. T
 | 1 | `நளாயினி` | 3–12 | existing canonical — note only |
 | 2 | `காதல் கடிதம்` | 13–18 | existing canonical — note only |
 | 3 | `புரட்சிப் படம்` | 19–24 | existing canonical — note only |
-| 4 | `நாட்டிய கலாராணி` | 25–46 | **ACTIVE — new canonical workspace opened; source intake PASS; 0/22 transcribed** |
+| 4 | `நாட்டிய கலாராணி` | 25–46 | **ACTIVE — 5/22 direct-transcribed; scans 25–29 Stage A COMPLETE / Stage B NEXT** |
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
@@ -43,8 +43,9 @@ Workspace: `stories/naattiya-kalarani/`.
 - source range: scans **25–46 / printed 25–46**;
 - boundary: scan 25 heading → scan 46 ending; scan 47 opens `விஷம் இனிது`;
 - page records: **22/22 initialized**;
-- direct transcription: **0/22**;
+- direct transcription: **5/22** — scans 25–29 Stage A complete;
 - historical-glyph Pass 2: **0/22**;
-- next bounded batch: **scans 25–29**.
+- `needs-review`: **5/22**;
+- next exact activity: **scans 25–29 Stage B independent glyph/source verification**.
 
-Do not begin Story 8 `மானம்` until Story 4 Tamil/source closure is complete. `நடுத்தெரு நாராயணி` remains independently blocked while `வெள்ளிக்கிழமை` is incomplete.
+Do not begin scan 30 until scans 25–29 Stage B is committed. Do not begin Story 8 `மானம்` until Story 4 Tamil/source closure is complete. `நடுத்தெரு நாராயணி` remains independently blocked while `வெள்ளிக்கிழமை` is incomplete.

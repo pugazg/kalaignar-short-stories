@@ -25,21 +25,22 @@ This workspace is therefore the canonical target for the 1976 source range above
 
 ## Current Tamil/source state
 
-**SOURCE INTAKE COMPLETE / TRANSCRIPTION NOT STARTED — 0 / 22 pages.**
+**TRANSCRIPTION IN PROGRESS — P1 STAGE A COMPLETE — 5 / 22 direct-transcribed.**
 
 - page records created: **22 / 22**
-- `not-started`: **22**
-- `needs-review`: **0**
+- direct first-pass transcription: **5 / 22** — scans 25–29
+- `not-started`: **17**
+- `needs-review`: **5** — Stage B pending
 - `verified`: **0**
 - `blocked`: **0**
 - Tamil assembly: **not started**
-- Historical Tamil Glyph Pass 1: **not started**
-- Historical Tamil Glyph Pass 2: **not started**
+- Historical Tamil Glyph Pass 2: **0 / 22**
 
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
 Source intake: [`SOURCE_INTAKE.md`](SOURCE_INTAKE.md).  
 Pass-1 tracker: [`PASS1_PROGRESS.md`](PASS1_PROGRESS.md).  
-Historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).
+Historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md).  
+Source-sensitive queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
 
 ## Source-first rule
 
@@ -57,17 +58,19 @@ Physical batches remain:
 4. scans 40–44
 5. scans 45–46
 
-But each physical batch is now executed as:
+Each physical batch is executed as:
 
 1. **Stage A — direct transcription only**: read each whole page once, transcribe source-faithfully, keep pages `needs-review`, synchronize Pass-1/current-state controls, commit, stop/report;
 2. **Stage B — independent historical-glyph/source verification**: in a later activity reopen the same pages, check all 13 historical families plus recorded uncertainties, create crops/enhancements only for genuine ambiguity, synchronize verification controls, commit, stop/report.
 
 Do not begin the next physical batch until Stage B of the current batch is committed unless the user explicitly overrides the workflow.
 
+## P1 durable state
+
+Scans **25–29** have completed **Stage A**. The page text is committed as direct source transcription and deliberately remains `needs-review`. Notable physical boundaries are preserved: scan 25 ends `நட்டுவ` and scan 26 begins `னரும்`; scan 27 ends `கவிவாணர்-` and scan 28 independently begins `கவிவாணர்-மதிவாணர்`.
+
 ## Exact next activity
 
-**Stage A only:** process **scans 25–29 / printed pages 25–29** by direct whole-page transcription from the attached source. Do not perform the systematic glyph Pass 2 in the same activity. Do not routinely crop or repeatedly reopen clear words. Synchronize Pass-1 state, commit, and stop/report.
+**Stage B only:** independently reopen scans **25–29 / printed pages 25–29**, compare the committed transcription with the attached source, check the mandatory 13 historical-glyph families plus `POSSIBLE_ERRORS_FOR_REVIEW.md`, correct only source-proven mismatches, synchronize verification controls, commit, and stop/report.
 
-After that commit, the next exact activity becomes **Stage B for scans 25–29**, not scan 30.
-
-Do not begin Story 8 `மானம்` until this story's Tamil/source workflow is fully closed. The separate `நடுத்தெரு நாராயணி` hold also remains in force while `வெள்ளிக்கிழமை` is incomplete.
+Do **not** begin scan 30 before this Stage-B commit. Do not begin Story 8 `மானம்` until this story's Tamil/source workflow is fully closed. The separate `நடுத்தெரு நாராயணி` hold also remains in force while `வெள்ளிக்கிழமை` is incomplete.
