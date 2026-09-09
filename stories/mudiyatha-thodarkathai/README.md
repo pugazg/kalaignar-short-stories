@@ -26,13 +26,13 @@ Immediately before activation, authoritative live `main` was **`396ab69ff7b1851c
 
 ## Tamil/source state
 
-**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE NEXT.**
+**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS 35/35 — FINAL SOURCE/VISUAL CLOSURE NEXT.**
 
 - physical story pages: **35/35**
 - first-pass transcription: **35/35 COMPLETE**
 - page status: **35/35 `needs-review`**
 - assembled Tamil: **complete / synchronized first pass**
-- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**
+- Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**
 - final source/visual closure: **not started**
 - English: **not started**
 
@@ -47,4 +47,4 @@ The controlling scan decides every reading. First-pass source-odd forms are pres
 
 ## Hard stop
 
-Do not perform the Historical Tamil Glyph Gate in the same activity as this first-pass activation. All 35 pages must remain `needs-review` until the later separate gates pass.
+Historical Tamil Glyph Gate is complete. Keep all 35 pages `needs-review` until the separate final source/visual closure passes.

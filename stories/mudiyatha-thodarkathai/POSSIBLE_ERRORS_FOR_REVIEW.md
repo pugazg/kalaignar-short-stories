@@ -1,12 +1,12 @@
 # Possible Errors / Historical-Glyph Review Queue — முடியாத தொடர்கதை (Story 6)
 
-Status: **FIRST-PASS REVIEW QUEUE OPEN — Historical Tamil Glyph Gate has not started.**
+Status: **HISTORICAL TAMIL GLYPH GATE PASS 35/35 — final source/visual review queue remains open.**
 
 Mandatory historical families to recheck independently on every scan **59–93**:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-The story is long and dialogue-heavy. The glyph gate must reopen all **35 physical scans** at native/high resolution; no global replacements.
+The story is long and dialogue-heavy. All **35 physical scans** have now passed the native/high-resolution historical-glyph gate; no global replacements were used.
 
 Representative first-pass / source-odd targets requiring deliberate source-pixel confirmation include:
 
@@ -24,4 +24,4 @@ Cross-page first-pass joins requiring independent source verification include:
 
 Boundary checks already made for activation: scan 59 story opening; scan 93 terminal star; scan 94 advertisement excluded. These boundaries must be reconfirmed at final closure.
 
-These are review targets, not permission to modernize. Record each historical-character correction individually during the later glyph gate.
+Historical-character identity is now gated. Remaining entries are ordinary lexical, punctuation, spacing and provenance targets for the separate final source/visual closure; they are not permission to modernize.

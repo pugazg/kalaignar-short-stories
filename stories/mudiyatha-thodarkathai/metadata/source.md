@@ -31,7 +31,7 @@ Fresh live-main searches at `396ab69ff7b1851c2a1ae7630f6721779e050ebe` found no 
 
 - first-pass source transcription: **35/35 COMPLETE**
 - all page records: **`needs-review`**
-- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**
+- Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**
 - final source/visual closure: **not started**
 
 The scan is controlling. OCR, memory, contextual modernization and expected spelling are not authorities.

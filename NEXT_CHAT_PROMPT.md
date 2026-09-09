@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 Historical Tamil Glyph Gate
+# NEXT CHAT PROMPT — 1982 `முடியாத தொடர்கதை` / Story 6 final source/visual closure
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,7 +13,7 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 — CLOSED
 4. `நந்தியூர் நரியப்பன்` — scans 50–54 — CLOSED
 5. `நரியூர் நந்தியப்பன்` — scans 55–58 — CLOSED
-6. `முடியாத தொடர்கதை` — **scans 59–93 / printed 57–91 — FIRST PASS 35/35 COMPLETE; GLYPH GATE NEXT**
+6. `முடியாத தொடர்கதை` — **scans 59–93 / printed 57–91 — FIRST PASS 35/35 COMPLETE; GLYPH GATE PASS 35/35; FINAL CLOSURE NEXT**
 
 ## Active Story 6
 
@@ -32,7 +32,7 @@ Current durable state:
 - first-pass transcription: **35/35 COMPLETE**;
 - page records: **35/35 `needs-review`**;
 - assembled Tamil: **complete / synchronized first pass**;
-- Historical Tamil Glyph Gate: **NEXT / not started**;
+- Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**;
 - final source/visual closure: **not started**;
 - English: **not started**.
 
@@ -55,19 +55,18 @@ Read before source-dependent work:
 
 Resolve `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` before visual work.
 
-## Exact next activity — dedicated glyph gate only
+## Exact next activity — final source/visual closure only
 
-1. reopen **every scan 59–93** independently at native/high resolution;
-2. explicitly inspect mandatory historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-3. inspect every source-odd candidate and split-word join logged in the review queue;
-4. never infer a correction from modern spelling or sentence context alone;
-5. record every source-pixel-supported glyph correction individually;
-6. no global replacements;
-7. synchronize corrected page records and assembled Tamil;
-8. create `HISTORICAL_GLYPH_GATE.md`;
-9. only if zero historical-glyph candidates remain unresolved, mark the gate **PASS 35/35**;
-10. even after PASS, keep all pages **`needs-review`**;
-11. update Story-6 and collection/handover controls so final source/visual closure is NEXT;
-12. **hard stop: do not run final source/visual closure in this same activity.**
+1. fetch live `main` and preserve newer durable work;
+2. read `HISTORICAL_GLYPH_GATE.md` and preserve its **PASS 35/35 / 3 corrections / 0 unresolved** result;
+3. reopen **every scan 59–93** independently for ordinary source/visual fidelity;
+4. verify wording, punctuation, spacing, quotation marks and physical-page provenance;
+5. recheck all remaining review-queue targets and all ten physical joins;
+6. reconfirm scan 59 opening, scan 93 terminal star and scan 94 advertisement exclusion;
+7. do not silently modernize source-supported odd forms;
+8. apply each ordinary correction individually and synchronize page records plus six assembled-text parts;
+9. only if zero ordinary source-text items remain unresolved, create the final source/visual audit and mark all **35/35** pages `verified`;
+10. synchronize Story-6, collection and root controls to Tamil/source PASS / CLOSED;
+11. **hard stop: do not start another story/work in the same activity.**
 
 Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` remains incomplete.

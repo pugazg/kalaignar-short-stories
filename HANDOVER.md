@@ -44,7 +44,7 @@ Source: `TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf` 
 3. `சீமான் வீட்டு சீக்காளி` — scans 41–49 / pp.39–47 — **PASS / CLOSED — 9/9 verified**
 4. `நந்தியூர் நரியப்பன்` — scans 50–54 / pp.48–52 — **PASS / CLOSED — 5/5 verified**
 5. `நரியூர் நந்தியப்பன்` — scans 55–58 / pp.53–56 — **PASS / CLOSED — 4/4 verified**
-6. `முடியாத தொடர்கதை` — scans **59–93 / pp.57–91** — **FIRST PASS 35/35 COMPLETE; GLYPH GATE NEXT**
+6. `முடியாத தொடர்கதை` — scans **59–93 / pp.57–91** — **FIRST PASS 35/35 COMPLETE; GLYPH GATE PASS 35/35; FINAL SOURCE/VISUAL CLOSURE NEXT**
 
 Boundary evidence: scan 58 terminal star; scan 59 Story-6 opening; scan 93 terminal star; scan 94 advertisement.
 
@@ -60,23 +60,22 @@ Workspace: `stories/mudiyatha-thodarkathai/`
 - first-pass transcription: **35/35 COMPLETE**;
 - page status: **35/35 `needs-review`**;
 - assembled Tamil: **complete / synchronized first pass**;
-- Historical Tamil Glyph Gate: **NOT STARTED / NEXT**;
+- Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**;
 - final source/visual closure: **not started**;
 - English: **not started**.
 
 Representative review targets and all physical joins are logged in `stories/mudiyatha-thodarkathai/POSSIBLE_ERRORS_FOR_REVIEW.md`.
 
-## Exact next activity — Story 6 Historical Tamil Glyph Gate
+## Exact next activity — Story 6 final source/visual closure
 
 1. fetch live `main` and preserve newer durable work;
-2. read the permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, collection controls, Story-6 README/source/page-map/review queue, all **35** page records and assembled Tamil;
-3. resolve the controlling PDF;
-4. reopen scans **59–93** independently at native/high resolution;
-5. explicitly inspect `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus suspicious old ligatures;
-6. record every correction individually; no global replacement or modernization;
-7. synchronize page records and assembled Tamil;
-8. if zero glyph candidates remain unresolved, record gate PASS;
-9. keep all **35** page records `needs-review`;
-10. **hard stop: no final source/visual closure in the same activity.**
+2. read permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, Story-6 controls, all 35 page records, assembled Tamil and `HISTORICAL_GLYPH_GATE.md`;
+3. resolve the controlling PDF and independently reread scans **59–93** for ordinary wording, punctuation, spacing and physical-page provenance;
+4. recheck every remaining source-odd item and all ten physical joins without reopening already-settled glyph identities unless genuinely stronger pixel evidence appears;
+5. reconfirm scan 59 opening, scan 93 terminal star and scan 94 advertisement exclusion;
+6. apply only source-supported ordinary corrections and synchronize page records plus all six assembled parts;
+7. if zero ordinary source-text items remain unresolved, create the final source/visual audit and promote all **35/35** pages to `verified`;
+8. synchronize collection/root controls and record Story 6 Tamil/source PASS / CLOSED;
+9. **hard stop: do not start another collection/work until Story 6 closure is durably verified.**
 
 Do not start `நடுத்தெரு நாராயணி`; its `வெள்ளிக்கிழமை` gate remains unsatisfied.

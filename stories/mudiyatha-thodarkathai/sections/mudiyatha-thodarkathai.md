@@ -1,6 +1,6 @@
 # முடியாத தொடர்கதை — assembled Tamil (first pass)
 
-> **Status:** first-pass transcription complete for scans **59–93 / printed 57–91**. All **35/35** page records remain `needs-review`. Historical Tamil Glyph Gate is **NEXT / not started**.
+> **Status:** first-pass transcription complete for scans **59–93 / printed 57–91**. All **35/35** page records remain `needs-review`. Historical Tamil Glyph Gate is **PASS 35/35 — 3 corrections / 0 unresolved**; final source/visual closure is NEXT.
 
 The first-pass assembled Tamil is stored in six ordered parts because of repository-write size constraints. Read/concatenate the following files in order, inserting exactly one blank line between adjacent parts:
 
