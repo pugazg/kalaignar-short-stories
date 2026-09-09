@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065572_முடியாத_தொடர்கதை.pdf"
-transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate pending; final source/visual closure pending"
+transcription_method: "direct visual first-pass transcription from controlling scan; historical-glyph gate PASS after corrective high-resolution re-audit; final source/visual closure pending"
 ---
 
 சந்தனத்தின் அன்புக் கனி. அந்த செல்வனுக்கு என் அண்ணன் மகள் சித்ராவை திருமணம் செய்துவைக்க நான் என்ன மறுக்கவா போகிறேன். ஆனால் அந்தக் காட்சியை நான் பார்க்கக்கூடாதே! என் மகனும், மருமகளும் காதலர்களாகிவிட்டார்கள். நானே அவர்கள் வாழ்த்தமுடியாது. அன்றொரு நாள் குஞ்சுக்கடி சாமியார் கூறிய வார்த்தைகள் எனக்கு அணி போட்டன. அதோடு என் சந்தனமும் சிறையிலேயிருந்து திரும்பிவிட்டார். அவரையும் நான் பார்த்துவிடக் கூடாது. ஆனால் எல்லோரையும் பார்க்கும் சந்தர்ப்பம், சித்ரா செல்வம் திருமணத்தால் ஏற்பட்டு விடும்—ஆகவே, என்னுடைய கதை முழுவதும் குறிக்கப்பட்ட டைரியை சித்ராவிடம் கொடுத்து விட்டு, என் சந்தனத்தையும், செல்வத்தையும் காண முடியாத லோகத்திற்குச் சென்றுவிட முடிவுகட்டி இங்கு வந்தேன்.”
@@ -20,10 +20,10 @@ transcription_method: "direct visual first-pass transcription from controlling s
 
 “ஆமாம்—அப்படித்தான் சொன்னார்—அந்த மகான்”
 
-“மகான்! அவன் ஒரு மிலப்பாம்பு! இதோ பார் குமுதம், உன் சந்தனத்தின் முகத்தை!—சந்தனம் சாகிறு பார்!” என்று முக்காட்டை விலக்கினன் சந்தனம்.
+“மகான்! அவன் ஒரு மலைப்பாம்பு! இதோ பார் குமுதம், உன் சந்தனத்தின் முகத்தை!—சந்தனம் சாகிறு பார்!” என்று முக்காட்டை விலக்கினான் சந்தனம்.
 
 குமுதத்திற்கு எதுவுமே புரியவில்லை. “ஆ!” என்று அலறியபடி அவனை அணைத்துக்கொண்டாள். அவனது
 
 <!-- anthology scan: 91; printed page: 89 -->
 
-> First pass: **COMPLETE**. Historical-glyph gate and final source/visual closure are pending; page remains `needs-review`.
+> First pass: **COMPLETE**. Historical-glyph gate: **PASS after corrective high-resolution re-audit**. Final source/visual closure is pending; page remains `needs-review`.

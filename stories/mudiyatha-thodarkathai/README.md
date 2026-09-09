@@ -26,25 +26,26 @@ Immediately before activation, authoritative live `main` was **`396ab69ff7b1851c
 
 ## Tamil/source state
 
-**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS 35/35 — FINAL SOURCE/VISUAL CLOSURE NEXT.**
+**FIRST PASS COMPLETE — HISTORICAL TAMIL GLYPH GATE PASS AFTER CORRECTIVE HIGH-RESOLUTION RE-AUDIT — FINAL SOURCE/VISUAL CLOSURE NEXT.**
 
 - physical story pages: **35/35**
 - first-pass transcription: **35/35 COMPLETE**
 - page status: **35/35 `needs-review`**
-- assembled Tamil: **complete / synchronized first pass**
-- Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**
+- assembled Tamil: **requires synchronization of corrective scan-88–92 readings during final closure**
+- Historical Tamil Glyph Gate: **PASS 35/35 — 10 total corrections / 0 unresolved**
 - final source/visual closure: **not started**
 - English: **not started**
 
-The controlling scan decides every reading. First-pass source-odd forms are preserved rather than silently modernized.
+The controlling scan decides every reading. Source-odd forms are preserved rather than silently modernized.
 
 ## Controls
 
 - source metadata: [`metadata/source.md`](metadata/source.md)
+- glyph audit: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - page map: [`indexes/page-map.md`](indexes/page-map.md)
 - assembled Tamil: [`sections/mudiyatha-thodarkathai.md`](sections/mudiyatha-thodarkathai.md)
 - review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 
 ## Hard stop
 
-Historical Tamil Glyph Gate is complete. Keep all 35 pages `needs-review` until the separate final source/visual closure passes.
+Keep all 35 pages `needs-review` until the separate final source/visual closure passes.

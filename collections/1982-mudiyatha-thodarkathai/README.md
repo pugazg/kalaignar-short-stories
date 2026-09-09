@@ -26,7 +26,7 @@ The scan is controlling. Do not silently normalize wording, punctuation, spacing
 | 3 | `சீமான் வீட்டு சீக்காளி` | 41–49 | 39–47 | **Tamil/source PASS / CLOSED — 9/9 verified** |
 | 4 | `நந்தியூர் நரியப்பன்` | 50–54 | 48–52 | **Tamil/source PASS / CLOSED — 5/5 verified** |
 | 5 | `நரியூர் நந்தியப்பன்` | 55–58 | 53–56 | **Tamil/source PASS / CLOSED — 4/4 verified** |
-| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **FIRST PASS 35/35 COMPLETE — HISTORICAL-GLYPH GATE PASS 35/35 — FINAL SOURCE/VISUAL CLOSURE NEXT** |
+| 6 | `முடியாத தொடர்கதை` | 59–93 | 57–91 | **FIRST PASS 35/35 COMPLETE — CORRECTED HISTORICAL-GLYPH GATE PASS 35/35 — FINAL SOURCE/VISUAL CLOSURE NEXT** |
 
 Story-4 running headers on scans 52/54 use `நரியூர் நந்தியப்பன்`, but scan 54 terminal star and scan 55 new stylized opening prove Story 5 is distinct.
 
@@ -52,17 +52,15 @@ Do not reopen Stories 1–5 without genuinely stronger source evidence or an exp
 
 Workspace: `stories/mudiyatha-thodarkathai/`.
 
-- fresh canonical search against live main `396ab69ff7b1851c2a1ae7630f6721779e050ebe`: **PASS — new canonical story entity**;
-- collection/container and Story-6 title collision explicitly distinguished;
 - physical range: **scans 59–93 / printed 57–91**;
 - scan 59 opening: `முடியாத தொடர்கதை`, scene `சிறைச்சாலை—இரவு நேரம்`;
 - scan 93 story ending / terminal star: confirmed;
 - scan 94 advertisement: forward witness, excluded;
 - first-pass transcription: **35/35 COMPLETE**;
 - page status: **35/35 `needs-review`**;
-- assembled Tamil: **complete / synchronized first pass**;
-- Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**;
-- final source/visual closure: **not started**;
+- corrected Historical Tamil Glyph Gate: **PASS 35/35 — 10 total corrections / 0 unresolved**;
+- assembled Tamil: **corrective scan-88–92 synchronization pending final closure**;
+- final source/visual closure: **not started / NEXT**;
 - English: **not started**.
 
 ## Processing state
@@ -71,11 +69,11 @@ Workspace: `stories/mudiyatha-thodarkathai/`.
 - physical scan map: **95/95 structurally mapped**
 - story inventory: **6/6 COMPLETE**
 - Tamil/source stories closed: **5/6**
-- Story 6: **first pass 35/35 complete; glyph gate PASS 35/35; final source/visual closure NEXT**
+- Story 6: **corrected glyph gate PASS; final source/visual closure NEXT**
 - English: **not started**
 
 ## Exact next activity
 
-Run Story 6's **separate final source/visual closure** across scans **59–93 / printed 57–91**. Preserve the completed Historical Tamil Glyph Gate **PASS 35/35 — 3 corrections / 0 unresolved**. Recheck every ordinary word, punctuation/spacing choice, physical join and page provenance directly against the controlling scans. Only if zero ordinary source-text items remain unresolved may all 35 pages become `verified` and Story 6 close.
+Run Story 6's **separate final source/visual closure** across scans **59–93 / printed 57–91**. Preserve the corrected Historical Tamil Glyph Gate **PASS 35/35 — 10 total corrections / 0 unresolved**. Recheck every ordinary word, punctuation/spacing choice, physical join and page provenance directly against the controlling scans. Only if zero ordinary source-text items remain unresolved may all 35 pages become `verified` and Story 6 close.
 
 Do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.

@@ -40,6 +40,6 @@
 
 Boundary witness: scan **94** is an advertisement / non-story page and is excluded.
 
-Historical Tamil Glyph Gate: **PASS 35/35 — 3 corrections / 0 unresolved**.
+Historical Tamil Glyph Gate: **PASS after corrective high-resolution re-audit — 35/35; 10 total corrections; 0 unresolved**.
 
-Current state: **35/35 first-pass transcribed; Historical Tamil Glyph Gate PASS 35/35; all 35 pages remain `needs-review`; final source/visual closure NEXT.**
+Current state: **35/35 first-pass transcribed; corrected Historical Tamil Glyph Gate PASS 35/35; all 35 pages remain `needs-review`; final source/visual closure NEXT.**
