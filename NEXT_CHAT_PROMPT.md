@@ -1,27 +1,16 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` / Story 4 `நாட்டிய கலாராணி`
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` scans 25–29
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## External hold remains
+## External hold
 
-`வெள்ளிக்கிழமை` is still incomplete; do **not** start `நடுத்தெரு நாராயணி`.
-
-The user has explicitly redirected current work to the attached 1976 `நளாயினி` collection while that hold remains.
+`வெள்ளிக்கிழமை` remains incomplete; do **not** start `நடுத்தெரு நாராயணி`.
 
 ## Controlling source
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf`
+`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only. Source PDF is not committed. SHA-256 remains pending because direct raw-byte checksum access was unavailable; do not invent one.
 
-- **78 scans**;
-- **164,748,566 bytes**;
-- title `நளாயினி`;
-- author `மு. கருணாநிதி`;
-- `நான்காம் பதிப்பு 1976`;
-- image-only;
-- source PDF is not committed;
-- SHA-256 remains **pending** because raw-byte checksum access failed in the intake runtime; never invent or borrow a checksum.
-
-Collection workspace: `collections/1976-nalayini/`.
+## Mandatory startup
 
 Read before source-dependent work:
 
@@ -31,44 +20,38 @@ Read before source-dependent work:
 4. root `HANDOVER.md`
 5. this prompt
 6. `collections/1976-nalayini/README.md`
-7. `collections/1976-nalayini/metadata/source.md`
-8. `collections/1976-nalayini/indexes/story-inventory.md`
-9. `collections/1976-nalayini/indexes/scan-map.md`
-10. `collections/1976-nalayini/DUPLICATE_WITNESSES.md`
+7. `collections/1976-nalayini/indexes/story-inventory.md`
+8. `stories/naattiya-kalarani/README.md`
+9. `stories/naattiya-kalarani/SOURCE_INTAKE.md`
+10. `stories/naattiya-kalarani/indexes/page-map.md`
+11. `stories/naattiya-kalarani/PASS1_PROGRESS.md`
+12. `stories/naattiya-kalarani/HISTORICAL_GLYPH_GATE.md`
+13. `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`
 
-## Inventory / dedup state
+## Durable state
 
-Eight stories were established directly from the source-opening scans.
+`நாட்டிய கலாராணி` is a new canonical story, physical range **scans 25–46 / printed 25–46**.
 
-Existing canonical stories — **NOTE ONLY; DO NOT RETRANSCRIBE FROM THIS PDF**:
+- source boundary: PASS;
+- canonical dedup: PASS;
+- page records initialized: **22/22**;
+- direct transcription: **0/22**;
+- glyph Pass 2: **0/22**;
+- verified: **0/22**;
+- Tamil assembly: not started.
 
-1. `நளாயினி` — scans/printed 3–12;
-2. `காதல் கடிதம்` — 13–18;
-3. `புரட்சிப் படம்` — 19–24;
-5. `விஷம் இனிது` — 47–55;
-6. `பாலைவன ரோஜா` — 56–62;
-7. `அய்யோ ராஜா!` — 63–72.
+Scan 25 visibly opens with the display heading `நாட்டிய கலாராணி`; scan 46 ends the story; scan 47 opens existing canonical `விஷம் இனிது` and is excluded.
 
-New canonical-story candidates:
+## Exact next activity — one batch only
 
-4. `நாட்டிய கலாராணி` — scans/printed **25–46**;
-8. `மனம்` — scans/printed **73–78**.
+Process scans **25–29 / printed pages 25–29** only.
 
-## Exact next activity — Story 4 only
-
-Process **`நாட்டிய கலாராணி`**, scans **25–46 / printed pages 25–46**.
-
-Before creating its story folder, re-fetch live `main` and reconfirm the story is not already present under the exact heading or a documented alternate title.
-
-Then:
-
-- create the canonical story workspace;
-- transcribe only from the attached controlling scans;
-- preserve every physical page boundary;
-- run the mandatory Historical Tamil Glyph Gate / source review according to current permanent guides;
-- do not normalize or import wording from another edition;
-- record difficult or source-odd readings explicitly;
-- synchronize page map, audit/review queue, Tamil assembly and controls;
-- commit Story 4 before advancing.
+- transcribe directly from source pixels;
+- preserve punctuation, spacing, paragraphing, source-odd words and historical glyph identity;
+- after first pass, independently reopen all five pages and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- do not global-replace;
+- any unresolved reading keeps the affected page `needs-review`;
+- synchronize page records and all Story-4 controls;
+- commit before touching scan 30.
 
 Do **not** begin Story 8 `மனம்` in the same activity.
