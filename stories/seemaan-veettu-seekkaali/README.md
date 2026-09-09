@@ -36,11 +36,27 @@ These source-layer forms are preserved rather than normalized.
 - verified page records: **9/9**
 - unresolved ordinary source-text items: **0**
 - assembled Tamil: **FINAL / synchronized**
-- English: **not started**
 
 The final closure restored the exact scan 45→46 physical split (`குடும்பத் / தினர்`) and closed all ordinary lexical/punctuation/spacing review items.
 
 Do not reopen this Tamil/source layer without genuinely stronger source evidence or an explicit maintenance request.
+
+## English translation state
+
+**PASS / COMPLETE.**
+
+- English title: **The Invalid in the Rich Man's House**
+- canonical English: [`translations/en/seemaan-veettu-seekkaali.md`](translations/en/seemaan-veettu-seekkaali.md)
+- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- canonical Tamil pages represented: **9/9**
+- physical page anchors: **9/9 — scans 41–49 / printed pages 39–47**
+- page-marker presence/order: **PASS**
+- source-backed content-boundary alignment: **PASS**
+- omitted canonical Tamil prose: **0 known**
+- unresolved translation blockers: **0**
+- Tamil/source issues reopened during translation: **0**
+
+The English layer follows the verified canonical Tamil and does not replace or normalize it. The title treatment, source-odd `செதாஸ் கோப்`, verified `தங்கியிருக்க வேண்;`, scan-46 `பாரத்தைப் போட்டு`, and the final two-`Chelli` reversal are documented in `TRANSLATION_REVIEW.md`.
 
 ## Controls
 
@@ -50,9 +66,13 @@ Do not reopen this Tamil/source layer without genuinely stronger source evidence
 - historical-glyph gate: [`HISTORICAL_GLYPH_GATE.md`](HISTORICAL_GLYPH_GATE.md)
 - final review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
 - final source/visual audit: [`FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md`](FINAL_SOURCE_VISUAL_AUDIT_2026-09-08.md)
+- English translation: [`translations/en/seemaan-veettu-seekkaali.md`](translations/en/seemaan-veettu-seekkaali.md)
+- English translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 ## Closure boundary
 
 Scan 49 closes the story with the terminal star. Scan 50 opens **`நந்தியூர் நரியப்பன்`** and is excluded.
 
-The collection may advance to Story 4 only in a later activity, beginning with a fresh live-main duplicate/canonical search.
+Tamil/source and English translation are now both **PASS / CLOSED** for this story. Do not reopen either layer without genuinely stronger evidence or an explicit maintenance request.
+
+The next anthology English activity is Story 4 `நந்தியூர் நரியப்பன்`, scans **50–54 / printed pages 48–52**, in a later activity.

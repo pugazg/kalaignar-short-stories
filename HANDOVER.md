@@ -43,7 +43,7 @@ Do not reopen a closed Tamil/source story absent genuinely stronger source evide
 
 ### English translation state
 
-**ACTIVE — 2 / 6 stories PASS / COMPLETE.**
+**ACTIVE — 3 / 6 stories PASS / COMPLETE.**
 
 Tracker: `collections/1982-mudiyatha-thodarkathai/ENGLISH_TRANSLATION_PROGRESS.md`.
 
@@ -67,16 +67,27 @@ Story 2 `காசா லேசா`:
 - result: **PASS / COMPLETE / 0 unresolved translation blockers**;
 - Tamil/source issues reopened during translation: **0**.
 
-## Exact next activity — Story 3 English only
+Story 3 `சீமான் வீட்டு சீக்காளி`:
 
-Translate and review **`சீமான் வீட்டு சீக்காளி`** from its verified canonical Tamil workspace `stories/seemaan-veettu-seekkaali/`.
+- English title: **The Invalid in the Rich Man's House**;
+- canonical English: `stories/seemaan-veettu-seekkaali/translations/en/seemaan-veettu-seekkaali.md`;
+- translation review: `stories/seemaan-veettu-seekkaali/TRANSLATION_REVIEW.md`;
+- page anchors: **9/9 — scans 41–49 / printed 39–47**;
+- physical content-boundary alignment: **PASS**, including 43→44, restored 45→46, and 46→47 continuations;
+- source-odd `செதாஸ் கோப்`, `தங்கியிருக்க வேண்;`, `பாரத்தைப் போட்டு`, and final two-`Chelli` reversal documented in the review;
+- result: **PASS / COMPLETE / 0 unresolved translation blockers**;
+- Tamil/source issues reopened during translation: **0**.
 
-- physical range: **scans 41–49 / printed pages 39–47**;
-- Tamil/source: **PASS / CLOSED — 9/9 verified**;
-- preserve all 9 scan / printed-page anchors in English;
+## Exact next activity — Story 4 English only
+
+Translate and review **`நந்தியூர் நரியப்பன்`** from its verified canonical Tamil workspace `stories/nandiyur-nariyappan/`.
+
+- physical range: **scans 50–54 / printed pages 48–52**;
+- Tamil/source: **PASS / CLOSED — 5/5 verified**;
+- preserve all 5 scan / printed-page anchors in English;
 - create the story-local English derivative under `translations/en/`;
-- create/update Story-3 translation review and README;
+- create/update Story-4 translation review and README;
 - update the 1982 English tracker, collection README, this handover and `NEXT_CHAT_PROMPT.md`;
-- **commit Story 3 English before beginning Story 4**.
+- **commit Story 4 English before beginning Story 5**.
 
-Do not start Story 4 in the same activity. Do not start `நடுத்தெரு நாராயணி` while its external `வெள்ளிக்கிழமை` gate remains unsatisfied.
+Do not start Story 5 in the same activity. Do not start `நடுத்தெரு நாராயணி` while its external `வெள்ளிக்கிழமை` gate remains unsatisfied.

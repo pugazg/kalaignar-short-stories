@@ -17,12 +17,12 @@ This tracker covers English translation of the six-story 1982 anthology after **
 |---:|---|---|---|---|
 | 1 | `பெற்ற பிள்ளையை விற்ற தாய்` | PASS / CLOSED — 22/22 verified | `The Mother Who Sold the Child She Bore` | **PASS / COMPLETE** |
 | 2 | `காசா லேசா` | PASS / CLOSED — 12/12 verified | `Is Cash Easy?` | **PASS / COMPLETE** |
-| 3 | `சீமான் வீட்டு சீக்காளி` | PASS / CLOSED — 9/9 verified | — | **NEXT** |
-| 4 | `நந்தியூர் நரியப்பன்` | PASS / CLOSED — 5/5 verified | — | pending |
+| 3 | `சீமான் வீட்டு சீக்காளி` | PASS / CLOSED — 9/9 verified | `The Invalid in the Rich Man's House` | **PASS / COMPLETE** |
+| 4 | `நந்தியூர் நரியப்பன்` | PASS / CLOSED — 5/5 verified | — | **NEXT** |
 | 5 | `நரியூர் நந்தியப்பன்` | PASS / CLOSED — 4/4 verified | — | pending |
 | 6 | `முடியாத தொடர்கதை` | PASS / CLOSED — 35/35 verified | — | pending |
 
-Current English completion: **2 / 6 stories**.
+Current English completion: **3 / 6 stories**.
 
 ## Story 1 closure
 
@@ -42,8 +42,18 @@ Current English completion: **2 / 6 stories**.
 - result: **PASS / COMPLETE — 12/12 page anchors content-aligned / 0 unresolved translation blockers**;
 - Tamil/source issues reopened during translation: **0**.
 
+## Story 3 closure
+
+- workspace: `stories/seemaan-veettu-seekkaali/`;
+- source range: scans **41–49 / printed 39–47**;
+- English title: **The Invalid in the Rich Man's House**;
+- English derivative: `stories/seemaan-veettu-seekkaali/translations/en/seemaan-veettu-seekkaali.md`;
+- translation review: `stories/seemaan-veettu-seekkaali/TRANSLATION_REVIEW.md`;
+- result: **PASS / COMPLETE — 9/9 page anchors content-aligned / 0 unresolved translation blockers**;
+- Tamil/source issues reopened during translation: **0**.
+
 ## Next activity
 
-Translate and review Story 3 **`சீமான் வீட்டு சீக்காளி`** from its verified canonical Tamil, scans **41–49 / printed pages 39–47**. Complete and commit Story 3 before beginning Story 4.
+Translate and review Story 4 **`நந்தியூர் நரியப்பன்`** from its verified canonical Tamil, scans **50–54 / printed pages 48–52**. Complete and commit Story 4 before beginning Story 5.
 
 The separate cross-project hold remains: do not start `நடுத்தெரு நாராயணி` while `வெள்ளிக்கிழமை` is incomplete.
