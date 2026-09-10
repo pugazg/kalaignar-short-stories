@@ -8,95 +8,77 @@
 - Page records: **8 / 8**
 - Source PDF stored in GitHub: **No**
 
-## Source-review method
+## 2026 result
 
-All eight story scans were visually reviewed from the supplied PDF, with enlarged/full-span source inspection for unusual words, old typography, dialogue punctuation and physical page continuations. Scan **39** was also inspected and clearly opens the next story, **`குப்பைத்தொட்டி`**.
+**PASS — Gate A 8/8 + Gate B 8/8; 7 source-proven canonical repairs; 0 unresolved source readings; 0 unresolved historical-glyph readings.**
 
-No outside edition, modern spelling expectation or contextual reconstruction was allowed to overwrite a visible source reading. Unusual but legible readings are retained in the page records and placed in `POSSIBLE_ERRORS_FOR_REVIEW.md` for later human review.
+This was comparison repair, not retranscription. Existing canonical Tamil was compared directly against every controlling source page, then all eight pages were independently reopened for the Old Tamil Glyph gate.
+
+## Gate A — source fidelity
+
+All eight source pages were checked for wording, characters, punctuation, meaningful spacing, paragraphing, physical joins, headings, emphasis, separators, ornaments, letter structure and page furniture.
+
+Repairs:
+
+1. scan 31 / p.22: `அவ்வளவுதான்!` → `அவ்வளவு தான்!`;
+2. scan 31 / p.22: `அவ்வளவுதான்—` → `அவ்வளவு தான்—`;
+3. scan 32 / p.23: `அவர்களே ஏமாற்றி விட்டால்` → `அவர்களை ஏமாற்றி விட்டால்`;
+4. scan 33 / p.24: `பக்திக் காவடி என்று` → `பக்திக் காவடி யென்று`;
+5. scan 33 / p.24: `கனிமொழி!... நீ` → `கனிமொழி!....நீ`;
+6. scan 36 / p.27: quotation punctuation restored to `கண்ணியவானு நீ?—” கனிமொழி`;
+7. scan 38 / p.29: `செருகப்பட்டது போல்` → `செருகப் பட்டதுபோல்`.
+
+No canonical wording repair was required on scans **34, 35, or 37**.
+
+## Gate B — independent Old Tamil Glyph verification
+
+**PASS — 8/8 pages independently reopened at native/high resolution.**
+
+Mandatory families considered page-wide:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+The highest-risk candidate was scan 36 `கருவிழியானை`. Native-character comparison, including same-edition `னா` forms on the adjacent page, confirms that the controlling source really reads **`கருவிழியானை`**. It is not to be modernized or guessed into `கருவிழியானான்`.
+
+No additional Gate-B-only repair was required. Historical-glyph unresolved count: **0**.
 
 ## Page disposition
 
-| Printed page | Scan | Status | Boundary / key note |
-|---:|---:|---|---|
-| 22 | 31 | verified | story opening; ends `...உழைத்தாலும்` |
-| 23 | 32 | verified | receives `முழுசாகக் காண முடியாத பணம்...` |
-| 24 | 33 | verified | dialogue-heavy page; no unresolved gap |
-| 25 | 34 | verified | ends `தாயற்ற அவள் இப்போது` |
-| 26 | 35 | verified | receives `அனாதைப் பட்டத்துக்குரியவளானாள்.` |
-| 27 | 36 | verified | ends `கந்தனின் வழியிலே பல` |
-| 28 | 37 | verified | receives `காளையர்...`; opens Kanimozhi's letter |
-| 29 | 38 | verified | letter conclusion + final narrative sentence |
+| Printed page | Scan | Gate A | Gate B | Key note |
+|---:|---:|---|---|---|
+| 22 | 31 | PASS | PASS | two source-spacing repairs |
+| 23 | 32 | PASS | PASS | `அவர்களை` repaired |
+| 24 | 33 | PASS | PASS | orthography + punctuation repaired |
+| 25 | 34 | PASS | PASS | no canonical repair |
+| 26 | 35 | PASS | PASS | no canonical repair |
+| 27 | 36 | PASS | PASS | quotation punctuation repaired; `கருவிழியானை` confirmed |
+| 28 | 37 | PASS | PASS | no canonical repair; letter begins |
+| 29 | 38 | PASS | PASS | `செருகப் பட்டதுபோல்` repaired; story ending |
 
-Totals:
+## Cross-page and story-boundary audit
 
-- `verified`: **8 / 8**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing/unresolved story text: **0**
+**PASS.**
 
-## Cross-page audit
+- 31→32: `...உழைத்தாலும்` → `முழுசாகக் காண முடியாத பணம்...`;
+- 32→33: dialogue continues without omission/duplication;
+- 33→34: dialogue continues into `முன்னொரு காலத்தில்...`;
+- 34→35: `தாயற்ற அவள் இப்போது` → `அனாதைப் பட்டத்துக்குரியவளானாள்.`;
+- 35→36: ordinary narrative continuation;
+- 36→37: `கந்தனின் வழியிலே பல` → `காளையர் நடைபோடத் தொடங்கினர்.`;
+- 37→38: Kanimozhi's letter continues to its conclusion;
+- 38→39: scan 38 ends `ஆட்டக்காவடி`; scan 39 opens Story 5 `குப்பைத்தொட்டி`.
 
-**PASS**
+## Source-supported unusual readings
 
-Verified physical continuations:
+The former manual queue was exhaustively adjudicated. Source-confirmed unusual forms include `ஏழெட்டுக் குடுக்கை`, `பக்தியின் பாற்பட்டதல்ல`, `‘பாவலா’`, `வாக்கலித்துவிட்டு`, `கொஞ்சந் தோரணையில்`, `துன்புறுத்திக் கொண்டாயிருக்கிறேன்`, `பகுத்தறிவு புரியிலே`, `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்`, `சிங்காரச் சிட்டெழுப்பும்`, `அதிருப சுந்தரன்`, `விழலுக்கிரைக்கும்`, `ஊரதிர`, `கண்ணியவானு நீ?`, `அபயங்கேட்கும்`, `கனிமொழி தப்பினள்`, `கருவிழியானை`, `மனத் தீர்க்கு`, and `‘சுண்’கள்`.
 
-1. printed 22→23: `நாலைந்து மாதம் சேர்ந்தாற்போல் உழைத்தாலும்` → `முழுசாகக் காண முடியாத பணம்—நூறு ரூபாய்!...`
-2. printed 25→26: `தாயற்ற அவள் இப்போது` → `அனாதைப் பட்டத்துக்குரியவளானாள்.`
-3. printed 27→28: `கந்தனின் வழியிலே பல` → `காளையர் நடைபோடத் தொடங்கினர்.`
-4. printed 28→29: Kanimozhi's letter continues from the `கரும்பை...` passage to `உங்களுடைய முடிவுக்குப் பிறகு...`.
+## Assembly and English gates
 
-The assembled Tamil keeps explicit source-scan markers rather than hiding physical boundaries.
-
-## Story-boundary audit
-
-- scan 31 / printed 22: `ஆட்டக்காவடி` opening confirmed.
-- scan 38 / printed 29: final sentence ends with Kandan fainting.
-- scan 39: heading **`குப்பைத்தொட்டி`**, confirming Story 5 begins there.
-- Story 5 text included in this workspace: **No**.
-
-## Unusual readings / human-review layer
-
-No story text is physically unreadable, but several source-close readings deserve later human rechecking. High-value items include:
-
-- `ஏழெட்டுக் குடுக்கை`
-- `பக்தியின் பாற்பட்டதல்ல`
-- `‘பாவலா’`
-- `வாக்கலித்துவிட்டு`
-- `கொஞ்சந் தோரணையில்`
-- `பகுத்தறிவு புரியிலே`
-- `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்`
-- `சிங்காரச் சிட்டெழுப்பும்`
-- `அதிருப சுந்தரன்`
-- `விழலுக்கிரைக்கும்`
-- `ஊரதிர ...`
-- `கண்ணியவானு நீ?`
-- `அபயங்கேட்கும்`
-- `கருவிழியானை`
-- `மனத் தீர்க்கு`
-- `‘சுண்’கள்`
-
-These are tracked in `POSSIBLE_ERRORS_FOR_REVIEW.md`. A queue entry is **not** itself proof of an error and does not automatically downgrade a verified page.
-
-## Assembly gate
-
-`sections/aattakkavadi.md` was assembled from all eight page records in source order.
-
-Checks:
-
-- source scans represented: **8 / 8**
-- scan order: **31 → 38**
-- printed order: **22 → 29**
-- duplicated pages: **none**
-- omitted pages: **none**
-- Story 5 (`குப்பைத்தொட்டி`) included: **No**
-- unresolved story markers: **0**
-
-## Translation gate
-
-**Tamil story-source audit complete.**
-
-English translation is not started in this activity. Any later user correction should first be checked against the controlling source span and then propagated through all dependent Tamil/control files.
+- Tamil assembly: synchronized after all seven repairs;
+- source-significant visual structure: remains preserved;
+- English prose: remains valid; the only meaning-sensitive repair, `அவர்களை ஏமாற்றி விட்டால்`, was already translated as “If I disappoint them now”; no English prose rewrite was necessary;
+- translation review: synchronized to the current Tamil state.
 
 ## Audit result
 
-**PASS — ஆட்டக்காவடி source range fully transcribed and structurally source-complete for the current reading: 8/8 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS / CLOSED — ஆட்டக்காவடி is current under the 2026 dual-gate standard: 8/8 Gate A, 8/8 Gate B, 7 repairs, 0 unresolved.**
