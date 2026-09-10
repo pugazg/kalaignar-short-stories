@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; enlarged full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -24,10 +24,11 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 மிருகண்டு முதலியாரும் காவடியுடன் நகர்ந்தார்—கனிமொழியின் வீட்டுக் கதவைப் பார்த்தபடி!
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Opening `அனாதைப் பட்டத்துக்குரியவளானாள்.` completes scan 34's `தாயற்ற அவள் இப்போது` continuation.
-- `அதிருப சுந்தரன்`, `விழலுக்கிரைக்கும்`, and the neighbour's printed phrase beginning `ஊரதிர ...` are high-priority human rechecks; the visible source-close forms are preserved rather than silently regularized.
-- The page has no unreadable story gap.
+- Gate A source-fidelity comparison: **PASS** for scan 35 / printed page 26; canonical repairs on this page: **0**.
+- `அதிருப சுந்தரன்`, `விழலுக்கிரைக்கும்`, `ஊரதிர ஆடுகிறேனே...`, and `கூறினள்` were directly rechecked at native/high resolution and retained as printed.
+- Opening `அனாதைப் பட்டத்துக்குரியவளானாள்.` completes scan 34's physical continuation.
+- Gate B independent Old Tamil Glyph review: **PASS**; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 26 -->

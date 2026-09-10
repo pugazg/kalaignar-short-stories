@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `ஆட்டக்காவடி` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `குப்பைத்தொட்டி` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -34,34 +34,14 @@ For all 37 stories:
 
 Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Current state: **OPEN — 3 / 37 dual-gate complete**.
+Current state: **OPEN — 4 / 37 dual-gate complete**.
 
 Closed under the 2026 standard:
 
-### `நளாயினி` — scans 16–23 / printed 7–14
-
-- Gate A: **8/8 PASS**;
-- Gate B: **8/8 PASS**;
-- canonical repairs: **15**;
-- unresolved source / historical-glyph readings: **0 / 0**.
-
-### `புகழேந்தி` — scans 10–15 / printed 1–6
-
-- Gate A: **6/6 PASS**;
-- Gate B: **6/6 PASS**;
-- canonical repairs: **9**;
-- unresolved source / historical-glyph readings: **0 / 0**.
-
-### `சபலம்` — scans 24–30 / printed 15–21
-
-- Gate A: **7/7 PASS**;
-- Gate B: **7/7 PASS**;
-- canonical repairs: **6**;
-- historical-`னை`: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல`;
-- scan-25 `அவ்வப்போது பற்றிய அக்கறைகள்` → `அலுப்பைப் பற்றிய அக்கறைகள்`;
-- source spacing/sandhi repairs on scan 28 and `மூட்டை முடிச்சுகளைத்` on scan 30 synchronized;
-- unresolved source / historical-glyph readings: **0 / 0**;
-- Tamil assembly, audit/queue, metadata and affected English synchronized.
+- `நளாயினி` — scans 16–23 / printed 7–14 — Gate A 8/8 PASS, Gate B 8/8 PASS, 15 repairs, 0 unresolved;
+- `புகழேந்தி` — scans 10–15 / printed 1–6 — Gate A 6/6 PASS, Gate B 6/6 PASS, 9 repairs, 0 unresolved;
+- `சபலம்` — scans 24–30 / printed 15–21 — Gate A 7/7 PASS, Gate B 7/7 PASS, 6 repairs, 0 unresolved;
+- `ஆட்டக்காவடி` — scans 31–38 / printed 22–29 — Gate A 8/8 PASS, Gate B 8/8 PASS, 7 repairs, 0 unresolved. The high-risk `கருவிழியானை` reading was directly reconfirmed as the controlling 1977 source form; English remains synchronized without a prose rewrite.
 
 Do not reopen these closed stories from stale prompts unless genuinely new direct source evidence appears.
 
@@ -78,33 +58,25 @@ Read completely before source-dependent changes:
 7. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
 8. collection `indexes/story-inventory.md`
 9. collection `indexes/scan-map.md`
-10. all controls / page records / assembly / audit / possible-error files under `stories/aattakkavadi/`
+10. all controls / page records / assembly / audit / possible-error files under `stories/kuppai-thotti/`
 
-## Exact next activity — `ஆட்டக்காவடி`
+## Exact next activity — `குப்பைத்தொட்டி`
 
-Workspace: `stories/aattakkavadi/`.
+Workspace: `stories/kuppai-thotti/`.
 
 Source range:
 
-- physical scans: **31–38**
-- printed pages: **22–29**
+- physical scans: **39–46**
+- printed pages: **30–37**
 - existing canonical pages: **8/8** under the legacy workflow
 
 Complete both gates in **one story-bounded activity**.
 
 ### Gate A — source-fidelity comparison
 
-Compare all eight existing canonical page records and the assembled Tamil directly against source scans **31–38**.
+Compare all eight existing canonical page records and the assembled Tamil directly against source scans **39–46**.
 
-Check:
-
-- wrong / omitted / duplicated words;
-- wrong character or word forms;
-- punctuation and meaningful spacing;
-- paragraphing;
-- physical page-boundary continuations;
-- heading / separators / ornaments / note layers;
-- all existing possible-error / suspicious-reading candidates.
+Check wrong/omitted/duplicated words, wrong character/word forms, punctuation and meaningful spacing, paragraphing, physical page-boundary continuations, heading/separators/ornaments/note layers, and all existing possible-error/suspicious-reading candidates.
 
 Do not retranscribe. Repair only source-proven mismatches.
 
@@ -112,7 +84,7 @@ Do not retranscribe. Repair only source-proven mismatches.
 
 This is a **separate independent gate** and cannot be inferred from Gate A.
 
-Independently reopen every scan **31–38** at high/native resolution and explicitly consider:
+Independently reopen every scan **39–46** at high/native resolution and explicitly consider:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -132,13 +104,9 @@ If all eight pages settle:
 3. update story audit / possible-error / historical-glyph records;
 4. update existing English only where a corrected Tamil reading materially changes meaning;
 5. record Gate A and Gate B results and correction counts durably;
-6. update collection tracker from **3/37** to **4/37** only if both gates PASS and unresolved count is 0;
+6. update collection tracker from **4/37** to **5/37** only if both gates PASS and unresolved count is 0;
 7. synchronize story inventory, scan map, collection README, root HANDOVER / README / NEXT_CHAT_PROMPT as applicable;
 8. commit and re-fetch live `main`;
 9. stop/report.
 
-Do **not** begin Story 5 `குப்பைத்தொட்டி` in the same activity.
-
-## Parallel 1976 work
-
-`நளாயினி` 1976 P2 scans **8–12** comparison remains technically ready but **DEFERRED** while the 37-story 1977 re-audit is the active priority.
+Do **not** begin Story 6 `சந்தனக்கிண்ணம்` in the same activity.

@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; enlarged full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -18,7 +18,7 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 காரணத்தை விளக்கவா வேண்டும்? கனியிருக்கிறது—வெளவால் பறந்து வந்துவிட்டது!
 
-“யாரடா நீ—அன்று நெற்றியிலே அலகு குத்திக்கொண்டு பக்தி ததும்பக் காவடி எடுத்த கண்ணியவானு நீ?”—கனிமொழி நெருப்பானாள்.
+“யாரடா நீ—அன்று நெற்றியிலே அலகு குத்திக்கொண்டு பக்தி ததும்பக் காவடி எடுத்த கண்ணியவானு நீ?—” கனிமொழி நெருப்பானாள்.
 
 “ஆமாம், கிளியே! அந்த அலகு—வெள்ளி அலகு! கிள்ளி நீ உன் அலகால் என் கன்னத்தை வருடு!” என்று கை தொட்டார் மிராசுதார்.
 
@@ -26,9 +26,12 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 அவைகளிலே ஒன்றுதான், அவன் ஆலயங்களுக்கு ஆட்டக் காவடி ஆடுவதை நிறுத்த வேண்டுமென்பது! ஒத்துக்கொள்ளாமல் இருப்பானு?—ஆட்டக்காவடி நிறுத்தப்பட்டது—அவனுக்கு அவள் அறிவு புகட்டும் ஆசானை ஆனாள். கந்தனும் அவளுக்குக் கருவிழியானை. அதன் பிறகே இருவருக்கும் திருமணம். ஊரே ஆச்சரியத்தில் மூழ்கியது! கந்தனின் வழியிலே பல
 
-## Source-review note
+## 2026 dual-gate review note
 
-- `ஈனக் குரலில்`, `கண்ணியவானு நீ?`, `அபயங்கேட்கும்`, `தப்பினள்`, and `கருவிழியானை` are source-close readings and remain high-value human rechecks.
-- The final phrase `கந்தனின் வழியிலே பல` continues on scan 37 / printed page 28 with `காளையர் நடைபோடத் தொடங்கினர்.`
+- Gate A source-fidelity comparison: **PASS** for scan 36 / printed page 27.
+- Source-proven punctuation repair: `கண்ணியவானு நீ?”—கனிமொழி` → `கண்ணியவானு நீ?—” கனிமொழி`.
+- `ஈனக் குரலில்`, `கண்ணியவானு நீ?`, `அபயங்கேட்கும்`, `தப்பினள்`, `ஒத்துக்கொள்ளாமல் இருப்பானு?`, `ஆசானை ஆனாள்`, and `கருவிழியானை` were directly rechecked and retained as printed.
+- Gate B independent Old Tamil Glyph review: **PASS**. The high-priority final form `கருவிழியானை` was independently compared with same-edition `னா` forms such as `இளந்தலைவனானான்` / `கந்தனானான்`; the source character identity is `னை`, so no modernization to `கருவிழியானான்` is permitted. Unresolved historical-glyph readings: **0**.
+- Page ending `கந்தனின் வழியிலே பல` continues on scan 37 as `காளையர் நடைபோடத் தொடங்கினர்.`
 
 <!-- மூல ஸ்கேன் பக்கம்: 36; அச்சுப் பக்கம்: 27 -->

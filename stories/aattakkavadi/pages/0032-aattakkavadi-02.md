@@ -7,12 +7,12 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; enlarged full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
 
-முழுசாகக் காண முடியாத பணம்—நூறு ரூபாய்! பழனிக்குப் போய் அங்கே ஆடினால், புதிய கிராக்கிகள் கிடைத்தாலும் கிடைக்கலாம். உத்தேசமாக இரண்டு மூன்று கிராக்கி கிடைத்தால் போதும்—முந்நூறு ரூபாயாவது மிச்சப் படுத்திக்கொண்டு வருவேன். அனுமதி கொடு கனிமொழி! நாளைக் காலையிலே புறப்பட வேண்டும்; பிரார்த்தனைக்காரர்கள் பெரிய பணக்காரர்கள். அவர்களிடத்திலே வாக்கலித்துவிட்டு வந்துவிட்டேன், நிச்சயம் வருவதாக; தடை சொல்லாதே தங்கம்! அவர்களே ஏமாற்றி விட்டால், அவர்களுக்கு வேறு ஆட்டக் காவடிக்காரன் கிடைக்க மாட்டான். சாகிறவரையில் என்னைச் சபித்துக் கொண்டேயிருப்பார்கள்!—சரி என்று சொல்லு!—எங்கே? என்னைப் பார்! சரியென்று சொல்ல மாட்டாயா?...”
+முழுசாகக் காண முடியாத பணம்—நூறு ரூபாய்! பழனிக்குப் போய் அங்கே ஆடினால், புதிய கிராக்கிகள் கிடைத்தாலும் கிடைக்கலாம். உத்தேசமாக இரண்டு மூன்று கிராக்கி கிடைத்தால் போதும்—முந்நூறு ரூபாயாவது மிச்சப் படுத்திக்கொண்டு வருவேன். அனுமதி கொடு கனிமொழி! நாளைக் காலையிலே புறப்பட வேண்டும்; பிரார்த்தனைக்காரர்கள் பெரிய பணக்காரர்கள். அவர்களிடத்திலே வாக்கலித்துவிட்டு வந்துவிட்டேன், நிச்சயம் வருவதாக; தடை சொல்லாதே தங்கம்! அவர்களை ஏமாற்றி விட்டால், அவர்களுக்கு வேறு ஆட்டக் காவடிக்காரன் கிடைக்க மாட்டான். சாகிறவரையில் என்னைச் சபித்துக் கொண்டேயிருப்பார்கள்!—சரி என்று சொல்லு!—எங்கே? என்னைப் பார்! சரியென்று சொல்ல மாட்டாயா?...”
 
 கனிமொழியின் முகத்தை ஆவலோடு நோக்கியவாறு கொஞ்சந் தோரணையில் கந்தன் பேசிக்கொண்டே இருந்தான். கனிமொழியின் கண்கள் கலங்கியிருந்தன. அவள் அவனைப் பார்த்தாள் அனுதாபத்தோடு!
 
@@ -26,10 +26,12 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 “மானம் போகிறதே—மானம்!”
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Opening completes scan 31's unfinished sentence.
-- `முழுசாகக்`, `வாக்கலித்துவிட்டு`, `கொஞ்சந் தோரணையில்`, and the source's `திருக்குறள் திருமணம்` phrasing are retained source-close and queued for human recheck.
-- Dialogue punctuation and em-dash structure are preserved rather than modernized.
+- Gate A source-fidelity comparison: **PASS** for scan 32 / printed page 23.
+- Source-proven repair: `அவர்களே ஏமாற்றி விட்டால்` → `அவர்களை ஏமாற்றி விட்டால்`.
+- `முழுசாகக்`, `வாக்கலித்துவிட்டு`, `கொஞ்சந் தோரணையில்`, and `திருக்குறள் திருமணம்` were directly rechecked and retained as printed.
+- The opening completes scan 31's `...உழைத்தாலும்` continuation; no unresolved physical join remains.
+- Gate B independent Old Tamil Glyph review: **PASS**; `லை`-family forms including `வேலையிலே` were checked at native/high resolution; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 32; அச்சுப் பக்கம்: 23 -->
