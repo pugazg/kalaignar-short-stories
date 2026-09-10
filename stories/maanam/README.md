@@ -20,23 +20,20 @@ Canonical story workspace for **மானம்**, activated from the attached 1
 - source boundary: **PASS**
 - canonical dedup / alternate-title check: **PASS — no existing canonical match found**
 - stale title `மனம்`: **REJECTED**; scan 73 directly reads `மானம்`
-- page records: **6 / 6 initialized**
+- page records: **6 / 6**
 - direct transcription: **6 / 6 — COMPLETE**
-- P1 Stage A: **COMPLETE — 5/5**
-- P1 Stage B: **PASS — 5/5**
-- P2 Stage A scan 78: **COMPLETE — 1/1**
-- historical-glyph/source Stage B total: **5 / 6**
-- verified: **5 / 6** — scans 73–77
-- `needs-review`: **1 / 6** — scan 78
+- independent historical-glyph/source Stage B: **6 / 6 — COMPLETE / PASS**
+- verified: **6 / 6 — COMPLETE**
+- `needs-review`: **0 / 6**
 - `not-started`: **0 / 6**
-- P1 corrections: **5 total** — 3 historical-glyph + 2 source-text/spacing
+- corrections: **9 total** — P1: 5; P2: 4; of these 3 are historical-glyph corrections
 - blocked / unresolved: **0 / 0**
 - Tamil assembly: **not started**
 
 The scan-73 folio is a physical source anomaly: the bottom-left printed number is `10`, not `73`. Do not silently normalize it. Scan coordinates remain 73–78.
 
-Scan 78 Stage A preserves the final prose and records the centered paired-swans closing ornament as a source mark. The library stamp below it is documented as a non-story artefact without promoting unreadable/obscured stamp text.
+Scan 78 Stage B independently confirmed its final wording, the mandatory-family positives `மனிதனை` (`னை`) and `நியாயந்தானா` (`னா`), and the centered paired-swans closing ornament. Four source punctuation/spacing mismatches from Stage A were corrected. The library stamp below the ornament remains documented as a non-story artefact without promoting obscured stamp text.
 
 ## Exact next activity
 
-**P2 Stage B only — scan 78.** Independently reopen the final page, run the mandatory 13-family source/glyph audit plus the P2 source-sensitive queue, make only source-proven corrections, promote the page to `verified` if all readings close, synchronize controls, commit, and stop/report. Tamil assembly is a later separate activity.
+**Tamil assembly + assembly review.** Build the canonical assembled Tamil story from the six verified page records, preserve proven cross-page joins and source marks, prove 6/6 coverage with no omission/duplication, synchronize controls, commit and stop/report. Do not begin English translation in the same activity.

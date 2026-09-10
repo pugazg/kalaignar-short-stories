@@ -34,14 +34,11 @@ Durable state:
 - canonical dedup / alternate-title gate: **PASS — new canonical**;
 - page records: **6/6**;
 - direct transcription: **6/6 — COMPLETE**;
-- P1 Stage A scans 73–77: **COMPLETE — 5/5**;
-- P1 Stage B scans 73–77: **PASS — 5/5 verified**;
-- P2 Stage A scan 78: **COMPLETE — 1/1 `needs-review`**;
-- Stage-B verified total: **5/6**;
-- verified: **5/6** — scans 73–77;
-- `needs-review`: **1/6** — scan 78;
+- independent historical-glyph/source Stage B: **6/6 — COMPLETE / PASS**;
+- verified: **6/6 — COMPLETE**;
+- `needs-review`: **0/6**;
 - not-started: **0/6**;
-- P1 corrections: **5 total** — scan 74: 2 source corrections; scan 75: 3 historical-glyph corrections;
+- corrections: **9 total** — P1: 5; P2: 4; historical-glyph corrections: 3;
 - blocked / unresolved: **0 / 0**;
 - Tamil assembly: **not started**.
 
@@ -53,27 +50,34 @@ Durable state:
 - scan 75: `மகனுவான்` → `மகனாவான்` (`னா`);
 - scan 75: `வீரனுவான்` → `வீரனாவான்` (`னா`).
 
-All other P1 source-sensitive queue entries were independently confirmed and retained. P1 unresolved: **0**.
+### P2 Stage-B corrections — scan 78
+
+Independent high-resolution review produced four source punctuation/spacing corrections:
+
+- `பயனென்ன?` → `பயனென்ன ?`;
+- `ஏற்படக்கூடாது!` → `ஏற்படக்கூடாது !`;
+- `மனித குலமே!` → `மனித குலமே !`;
+- `நியாயந்தானா?` → `நியாயந்தானா ?`.
+
+Mandatory-family positives `மனிதனை` (`னை`) and `நியாயந்தானா` (`னா`) were directly confirmed. Historical-glyph corrections on scan 78: **0**. The centered paired-swans ornament remains a source mark; the library stamp remains non-story and its obscured text is not transcribed.
 
 ### Source pagination correction
 
 Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. Never normalize scan 73 to printed page 73.
 
-### P2 Stage-A final-page state
+## Exact next activity — Tamil assembly + assembly review
 
-Scan 78 has been directly transcribed from the attached source. Its closing question ends `காற்றிலே பறக்கவிடுவது நியாயந்தானா?`. The centered paired-swans closing ornament is recorded as a source mark. The library stamp below it is recorded as a non-story artefact without fabricating obscured stamp text. The systematic historical-glyph/source second pass has **not** yet been run on this page.
-
-## Exact next activity — P2 Stage B ONLY
-
-Process **scan 78 only**:
+Build the canonical assembled Tamil story from all six verified records, scans **73–78**:
 
 1. re-fetch live `main`;
-2. re-open the attached final source page independently;
-3. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus the P2 source-sensitive queue;
-4. do not full-retranscribe merely because Stage B has begun;
-5. correct only source-proven mismatches; never global-replace;
-6. verify the final punctuation and source-mark preservation; keep the library stamp non-story and do not invent obscured stamp text;
-7. promote scan 78 to `verified` only if all source/glyph checks close;
-8. synchronize controls, commit and stop/report.
+2. use the verified page records as the assembly authority; return to the PDF only if a record-to-record inconsistency requires it;
+3. create the canonical `sections/maanam.md` following repository precedent;
+4. preserve the source heading and all source punctuation/spacing already verified;
+5. resolve only positively established physical page-boundary joins, including 74→75 `அவசரத்தை` / `யுணர்ந்து` and 76→77 `மானத்தைக் காக்கமுடியாத` / `கோழை மகனே`; review the 73→74 sentence boundary from the verified records without inventing text;
+6. preserve printed separators and the final paired-swans source mark in the assembled-layer convention;
+7. keep the scan-73 folio anomaly in provenance controls, not as story prose;
+8. create/update `ASSEMBLY_REVIEW.md` proving **6/6 page coverage, no omission, no duplication**, and documenting every cross-page join;
+9. synchronize README/collection controls/root handover/next prompt;
+10. commit and stop/report.
 
-Tamil assembly/review begins only after P2 Stage B closes. Do not combine assembly into the same activity.
+Do **not** begin English translation in the same activity.

@@ -27,7 +27,7 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **ACTIVE — 6/6 direct-transcribed; 5/6 verified; scan 78 Stage B NEXT** |
+| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **ACTIVE — page-level source/glyph COMPLETE / 6/6 verified; Tamil assembly next** |
 
 ## Story 4 closure — `நாட்டிய கலாராணி`
 
@@ -41,12 +41,13 @@ Workspace: `stories/maanam/`.
 - canonical dedup: **PASS — new canonical**;
 - page records: **6/6**;
 - direct transcription: **6/6 — COMPLETE**;
-- Stage B verified: **5/6**;
-- `needs-review`: **1/6** — scan 78;
+- Stage B verified: **6/6 — COMPLETE / PASS**;
+- `needs-review`: **0/6**;
 - not-started: **0/6**;
 - blocked / unresolved: **0 / 0**;
-- source pagination anomaly: scan 73 visibly prints **`10`**; do not normalize to 73.
+- source pagination anomaly: scan 73 visibly prints **`10`**; do not normalize to 73;
+- Tamil assembly: **NEXT**.
 
-Exact next activity: **P2 Stage B — scan 78 only**. Tamil assembly waits until that page is independently verified.
+Exact next activity: **assemble and review canonical Tamil `மானம்` from all six verified page records**. English translation remains later.
 
 `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

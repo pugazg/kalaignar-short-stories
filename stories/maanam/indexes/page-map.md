@@ -10,8 +10,10 @@ Story range: scans **73–78** — **6 physical pages**.
 | 75 | 75 | story | `verified` | P1 Stage B PASS; 3 historical-glyph corrections |
 | 76 | 76 | story | `verified` | P1 Stage B PASS; 0 corrections |
 | 77 | 77 | story | `verified` | P1 Stage B PASS; 0 corrections |
-| 78 | 78 | story-ending | `needs-review` | P2 Stage A COMPLETE; final prose + centered paired-swans closing ornament + library stamp; P2 Stage B pending |
+| 78 | 78 | story-ending | `verified` | P2 Stage B PASS; 4 source punctuation/spacing corrections; centered paired-swans closing ornament + non-story library stamp retained/documented |
 
-Current totals: **6 records / 6 direct-transcribed / 5 Stage-B verified / 5 verified / 1 needs-review / 0 not-started / 0 blocked**.
+Current totals: **6 records / 6 direct-transcribed / 6 Stage-B verified / 6 verified / 0 needs-review / 0 not-started / 0 blocked**.
 
-Exact next activity: **P2 Stage B — independently verify scan 78 only.** Do not begin Tamil assembly until scan 78 passes Stage B.
+Page-level source/glyph work: **COMPLETE / PASS**.
+
+Exact next activity: **Tamil assembly + assembly review** from all six verified page records.

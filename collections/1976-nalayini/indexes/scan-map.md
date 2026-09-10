@@ -13,8 +13,8 @@
 | 63–72 | 63–72 | story | `அய்யோ ராஜா!` | existing canonical — note only |
 | 73 | `10` | story-opening | `மானம்` | **P1 Stage A + Stage B PASS / verified** |
 | 74–77 | 74–77 | story | `மானம்` | **P1 Stage A + Stage B PASS / verified** |
-| 78 | 78 | story-ending | `மானம்` | **P2 Stage A COMPLETE / needs-review; P2 Stage B NEXT; final PDF scan** |
+| 78 | 78 | story-ending | `மானம்` | **P2 Stage A + Stage B PASS / verified; final PDF scan** |
 
 Boundary evidence: scan 73 directly opens `மானம்`; scan 78 contains the story ending and centered paired-swans closing ornament and is the end of the PDF. There is no scan 79.
 
-Exact next physical range: **scan 78 — Story 8 P2 Stage B only**.
+All `மானம்` source pages are now verified. Exact next activity is **Tamil assembly + assembly review**.

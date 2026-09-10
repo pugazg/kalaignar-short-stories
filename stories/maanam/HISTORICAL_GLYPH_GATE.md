@@ -5,13 +5,11 @@ Permanent families: `ணா / ணை / ணொ / ணோ / லை / ளை / ற�
 ## Current state
 
 - direct transcription: **6 / 6 — COMPLETE**
-- independent Stage B: **5 / 6** — scans 73–77 PASS
-- verified: **5 / 6**
-- P1 Stage A: **COMPLETE — 5/5**
-- P1 Stage B: **PASS — 5/5**
-- P1 unresolved / blocked: **0 / 0**
-- P2 scan 78 Stage A: **COMPLETE — `needs-review`**
-- P2 scan 78 Stage B: **NEXT**
+- independent Stage B: **6 / 6 — COMPLETE / PASS**
+- verified: **6 / 6 — COMPLETE**
+- P1 scans 73–77: **Stage A COMPLETE + Stage B PASS — 5/5**
+- P2 scan 78: **Stage A COMPLETE + Stage B PASS — 1/1**
+- unresolved / blocked: **0 / 0**
 
 ## P1 independent audit — scans 73–77
 
@@ -33,6 +31,17 @@ Historical-glyph corrections in P1: **3** — all on scan 75:
 
 Other source corrections: **2** on scan 74. Remaining unresolved glyph candidates after P1: **0**.
 
-Scan 78 has direct Stage-A transcription but has **not** yet received the systematic 13-family second pass. Candidate-bearing final-page words such as `மானத்தை`, `காற்றிலே`, and `நியாயந்தானா` must be re-opened directly during P2 Stage B rather than inferred from context.
+## P2 independent audit — scan 78
 
-Exact progression: **P2 scan 78 Stage B → commit → Tamil assembly/review**.
+The final page was independently reopened at high resolution from the attached controlling PDF. All 13 permanent families were explicitly checked; no global replacement was used.
+
+Confirmed mandatory-family positives:
+
+- `மனிதனை` — `னை`;
+- `நியாயந்தானா` — `னா`.
+
+The remaining permanent families had no candidate on scan 78. Historical-glyph corrections: **0**. Source punctuation/spacing corrections: **4**. Remaining unresolved glyph/source candidates: **0**.
+
+Historical-glyph gate for `மானம்`: **PASS / CLOSED — 6/6**.
+
+Exact next activity: **Tamil assembly + assembly review** from scans 73–78. Translation remains later.
