@@ -17,14 +17,14 @@
 - The source opens with the heading **`குப்பைத்தொட்டி`** followed by a long horizontal rule.
 - The page was already correctly classified as `story-opening`.
 - The opening paragraph begins with a visibly enlarged initial **`வீ`** in `வீதியோரத்தில்`.
-- The opening rule and enlarged initial were missing from the semantic archival record and are now recorded conservatively.
+- The opening rule and enlarged initial are recorded conservatively.
 
 ### Scan 46 / printed page 37
 
 - The page begins by completing scan 45's unfinished `இந்நாட்டு மன்னர்களிலே ஒருவனல்லவா,` sentence.
 - The final paragraph ends with `அவள் கழுத்தில் தாலியைக் காணோம்.`
 - Beneath the last sentence, the source contains a centered short horizontal floral/diamond-like closing ornament.
-- The page record used `story-conclusion`; visual-fidelity review changes the structural role to `story-ending` and records the closing ornament.
+- The page record uses `story-ending` and records the closing ornament.
 
 Scan **47** independently opens Story 6 **`சந்தனக்கிண்ணம்`** beneath its own heading and horizontal rule. No Story 6 text is included in `குப்பைத்தொட்டி`.
 
@@ -51,13 +51,11 @@ The source prints the quoted four-line verse as a distinct display block:
 
 `வைத்துக்கிடந்த மலர்மார்பா வாய் திறவாய்`
 
-The committed page record and Tamil assembly already preserve this four-line source lineation. No wording or line-order correction was required.
+The committed page record and Tamil assembly preserve this four-line source lineation.
 
 ### Scan 45 / printed page 36
 
-The three quoted exclamations noted above are also already represented as isolated lines. Their source-significant separation was retained.
-
-No other verse, illustration caption, or internal display block requires additional semantic encoding in this story.
+The three quoted exclamations noted above are represented as isolated lines. Their source-significant separation is retained.
 
 ## Non-text marks
 
@@ -88,19 +86,22 @@ All seven internal joins and the next-story boundary were visually checked.
 7. scans **45→46**: `இந்நாட்டு மன்னர்களிலே ஒருவனல்லவா,` → `எந்தக் குப்பைத்தொட்டி மறைவுக்குப் போனேனோ; ...` — continuous.
 8. scan **46→47**: Story 5 ends on scan 46; scan 47 opens `சந்தனக்கிண்ணம்`.
 
-## Corrections made
+## Structural corrections
 
-Visual-fidelity review produced **structural-only corrections**:
+Visual-fidelity review records the following structural corrections:
 
-1. `pages/0039-kuppai-thotti-01.md`: recorded the source opening horizontal rule and enlarged initial `வீ`.
-2. `pages/0046-kuppai-thotti-08.md`: `page_type` changed `story-conclusion` → `story-ending`.
-3. `pages/0046-kuppai-thotti-08.md`: recorded the centered source closing ornament.
-4. `sections/kuppai-thotti.md`: synchronized the opening rule/enlarged initial, existing verse/display structure, and closing ornament.
-5. `indexes/page-map.md`: synchronized opening, display, page-furniture and ending roles.
+1. scan 39: source opening horizontal rule and enlarged initial `வீ` recorded;
+2. scan 46: `page_type` recorded as `story-ending`;
+3. scan 46: centered source closing ornament recorded;
+4. assembly/page map synchronized with the source structure.
 
-The scan-42 verse and scan-45 isolated dialogue lines were already structurally faithful and required no wording change.
+These are distinct from the later 2026 source-fidelity text repairs recorded in `audit.md` and `RE_AUDIT_2026.md`:
 
-**No story wording was changed during this visual-fidelity activity.** Existing verified readings and the human possible-error queue remain intact.
+- scan 44: `அவசரியப் புத்தி` → `அலட்சியப் புத்தி`;
+- scan 45: `சிக்கிரம்` → `சீக்கிரம்`;
+- scan 45: `அட;` → `அட,`.
+
+The three wording/punctuation repairs were source-audit corrections, not visual-fidelity-only corrections.
 
 ## Remaining visual-fidelity issues
 
@@ -108,6 +109,4 @@ The scan-42 verse and scan-45 isolated dialogue lines were already structurally 
 
 ## Result
 
-**PASS — corrected**
-
-`குப்பைத்தொட்டி` is visually source-faithful at the semantic archival level defined by `VISUAL_FIDELITY_CHECK_GUIDE.md`, after the structural corrections listed above.
+**PASS — corrected and synchronized with the 2026 source audit.**

@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native source scan; enlarged full-span review"
+transcription_method: "direct visual comparison with native source scan; enlarged full-span review; independent high/native Old Tamil glyph recheck"
 ---
 
 ரம்பை, ஊர்வசி, திலோத்தமை ஆகியோர். தவமிருப்பவர்களோ அவர்கள் தான் போய்க் கெடுப்பார்களோ அல்லது அவர்கள் தங்களைக் கெடுக்க வரட்டும் என்று எதிர்பார்த்து இவர்கள் தான் தவம் செய்வார்களோ—இரண்டும் ஆராய்வதற்குரிய விஷயங்கள் தாம்!
@@ -19,7 +19,8 @@ transcription_method: "direct visual comparison with native source scan; enlarge
 ## Source-review note
 
 - Scan 39's `மேனகை,` continues here with `ரம்பை, ஊர்வசி, திலோத்தமை ஆகியோர்.`
-- Enlarged source-span review confirms the unusual printed forms `போதுதானு` and `மனமனவென்று`; they are preserved and queued for later human recheck.
-- This page closes its paragraph normally; scan 41 starts a new paragraph.
+- Independent high/native review confirms the unusual source forms `போதுதானு` and `மனமனவென்று`; both are retained exactly and are not normalized.
+- The page was also checked for the mandatory historical-glyph families; no unresolved character identity remains.
+- Gate A and Gate B are closed for this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 40; அச்சுப் பக்கம்: 31 -->

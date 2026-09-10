@@ -29,7 +29,7 @@ Rules: source-first, no global replacement, no lexical modernization, and no PAS
 
 Tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md). Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
 
-Current state: **OPEN — 4 / 37 dual-gate complete**.
+Current state: **OPEN — 5 / 37 dual-gate complete**.
 
 ### Re-closed under the 2026 standard
 
@@ -37,11 +37,12 @@ Current state: **OPEN — 4 / 37 dual-gate complete**.
 - `புகழேந்தி` — scans **10–15 / printed 1–6** — **Gate A PASS / Gate B PASS / 9 canonical repairs / 0 unresolved**.
 - `சபலம்` — scans **24–30 / printed 15–21** — **Gate A PASS / Gate B PASS / 6 canonical repairs / 0 unresolved**.
 - `ஆட்டக்காவடி` — scans **31–38 / printed 22–29** — **Gate A PASS / Gate B PASS / 7 canonical repairs / 0 unresolved**. The high-risk scan-36 `கருவிழியானை` reading was independently reconfirmed as the 1977 source form; affected English remains semantically synchronized without a prose rewrite.
+- `குப்பைத்தொட்டி` — scans **39–46 / printed 30–37** — **Gate A PASS / Gate B PASS / 3 canonical repairs / 0 unresolved**. Source-proven repairs: `அவசரியப் புத்தி` → `அலட்சியப் புத்தி`; `சிக்கிரம்` → `சீக்கிரம்`; `அட;` → `அட,`. The meaning-sensitive English phrase was synchronized.
 
 ### Next
 
-- Story 5 `குப்பைத்தொட்டி` — scans **39–46 / printed 30–37** — **NEXT**.
-- after that: Story 6 `சந்தனக்கிண்ணம்` through Story 37 `நுனிக்கரும்பு` in anthology order.
+- Story 6 `சந்தனக்கிண்ணம்` — scans **47–56 / printed 38–47** — **NEXT**.
+- after that: Story 7 `சங்கிலிச்சாமி` through Story 37 `நுனிக்கரும்பு` in anthology order.
 
 ## Legacy processing state
 
@@ -66,4 +67,4 @@ Both source forms remain provenance; do not normalize them away.
 
 The old 37/37 Tamil source-pass is **legacy-complete but superseded for current release confidence**. A story is current PASS only after its 2026 Gate A and Gate B both close and all proven corrections have been synchronized.
 
-Current dual-gate progress: **4 / 37 CURRENT PASS, 33 pending**. Exact next activity: `குப்பைத்தொட்டி`, scans **39–46 / printed pages 30–37**.
+Current dual-gate progress: **5 / 37 CURRENT PASS, 32 pending**. Exact next activity: `சந்தனக்கிண்ணம்`, scans **47–56 / printed pages 38–47**.

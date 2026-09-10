@@ -1,40 +1,63 @@
 # தமிழ் மூலத் தணிக்கை — குப்பைத்தொட்டி
 
-## Audit scope
+## Final audit result
+
+**CURRENT PASS — Gate A 8/8 + Gate B 8/8; 3 canonical repairs; 0 unresolved.**
 
 - Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 - Collection: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, முதல் பதிப்பு 1977
 - Story range: scans **39–46** / printed pages **30–37**
 - Page records: **8 / 8**
 - Source PDF stored in GitHub: **No**
+- Scan 47: boundary witness only; opens `சந்தனக்கிண்ணம்` and is excluded from this story.
 
-## Source-review method
+## Source identity
 
-All eight story pages were read against the supplied controlling scan. The PDF's native embedded page images were inspected directly at high resolution. Enlarged crops and full phrase/clause/sentence spans were rechecked for difficult typography and cross-page joins. On the most difficult scan-44 reading, native pixels were compared with enlarged nearest-neighbour, sharpening and contrast views before returning to the complete source sentence.
+The supplied controlling PDF was independently hashed during the re-audit:
 
-OCR, context, modern spelling expectations and outside editions were not allowed to replace visible source wording.
+- bytes: **268,486,609**
+- SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
 
-Scan **47** was separately inspected and clearly opens the following story `சந்தனக்கிண்ணம்`.
+The hash matches the registered collection source identity.
+
+## Gate A — source fidelity
+
+**PASS — 8/8.**
+
+All existing canonical page records and the assembled Tamil were compared directly against the controlling 1977 pixels. The review covered wording, punctuation, meaningful spacing, paragraphing, omissions/duplications, physical page continuations, headings, separators, ornaments, note layers, and all entries in the possible-error queue.
+
+### Source-proven repairs
+
+1. scan 44 / printed 35: `அவசரியப் புத்தி` → **`அலட்சியப் புத்தி`**;
+2. scan 45 / printed 36: `சிக்கிரம்` → **`சீக்கிரம்`**;
+3. scan 45 / printed 36: `அட;` → **`அட,`**.
+
+No other suspicious queue item met the source-proof threshold for correction. Unusual source forms including `போதுதானு`, `மனமனவென்று`, `உணர்ச்சி என்னை வளர்த்துக்கொண்டது`, `சபரகூட மஞ்சமாகி`, `குப்பைத்தொட்டி எங்கேயிருந்தால் என்ன வென்று!`, `மூன்றூறு`, `தூராற்றம்`, `வீதிப்பக்கம் வந்து உண்மைதான்`, `போனேனோ`, `சந்தித்தாகிவிட்டது`, and `வயிறாச் சோறின்றி` were independently confirmed and retained.
+
+## Gate B — independent Old Tamil Glyph verification
+
+**PASS — 8/8; unresolved historical-glyph readings: 0.**
+
+Every physical story page was independently reopened at native/high resolution. The mandatory families were explicitly considered:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+The independent pass also checked likely `ர/ற`, `ன/ண`, `ல/ள` confusions, faint vowel marks, touching/broken type, and other old printed forms. The scan-44 difficult word was independently enlarged and resolved as `அலட்சியப் புத்தி`; scan-45 native/enlarged review resolved `சீக்கிரம்` and the comma in `அட, பறக்காதே;`.
+
+No unresolved character identity remained. No global replacement or modernization was used.
 
 ## Page disposition
 
-| Printed page | Scan | Status | Boundary / key note |
-|---:|---:|---|---|
-| 30 | 39 | verified | `குப்பைத்தொட்டி` opening; ends `...மேனகை,` |
-| 31 | 40 | verified | receives `ரம்பை...`; unusual `போதுதானு`, `மனமனவென்று` retained |
-| 32 | 41 | verified | ends `அதிலிருந்து நேரம்` |
-| 33 | 42 | verified | receives continuation; ends `...சேரக்` |
-| 34 | 43 | verified | receives `கூடாதா?`; ends `...கைமாறாக முன்` |
-| 35 | 44 | verified | `தூராற்றம்` full-span rechecked; `பல்லைக்காட்டி` resolved; ends `தூங்குவதுபோல்` |
-| 36 | 45 | verified | source sentence `...வீதிப்பக்கம் வந்து உண்மைதான்.` retained; ends `...ஒருவனல்லவா,` |
-| 37 | 46 | verified | receives `போனேனோ`; story conclusion + ornamental rule |
-
-Totals:
-
-- `verified`: **8 / 8**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing / unresolved story text: **0**
+| Printed page | Scan | Gate A | Gate B | Key disposition |
+|---:|---:|---|---|---|
+| 30 | 39 | PASS | PASS | Story opening; `மேனகை,` continuation |
+| 31 | 40 | PASS | PASS | `போதுதானு`, `மனமனவென்று` retained |
+| 32 | 41 | PASS | PASS | `எங்கிக் கிடந்த`, `காரணகரமான`, `வளர்த்துக்கொண்டது` retained |
+| 33 | 42 | PASS | PASS | `சபரகூட மஞ்சமாகி`; four-line verse preserved |
+| 34 | 43 | PASS | PASS | unusual `...என்ன வென்று!` retained |
+| 35 | 44 | PASS | PASS | `மூன்றூறு`, `அலட்சியப் புத்தி`, `தூராற்றம்`, `பல்லைக்காட்டி` |
+| 36 | 45 | PASS | PASS | `சீக்கிரம்`, `அட,`; `வந்து உண்மைதான்` retained |
+| 37 | 46 | PASS | PASS | `போனேனோ`; ending + ornament |
 
 ## Cross-page audit
 
@@ -51,36 +74,9 @@ Verified physical continuations:
 
 No page is omitted or duplicated.
 
-## Difficult-reading resolution
-
-The story has **zero unresolved story-text blocks**. Unusual forms were not normalized merely because they look wrong.
-
-Examples retained after source review:
-
-- scan 40: `போதுதானு`, `மனமனவென்று`;
-- scan 41: `எங்கிக் கிடந்த`, `காரணகரமான`, `உணர்ச்சி என்னை வளர்த்துக்கொண்டது`;
-- scan 42: `சபரகூட மஞ்சமாகி`;
-- scan 43: `குப்பைத்தொட்டி எங்கேயிருந்தால் என்ன வென்று!`;
-- scan 44: `மூன்றூறு`, `அவசரியப் புத்தி`, `தூராற்றம்`;
-- scan 45: `சிக்கிரம்`, `...வீதிப்பக்கம் வந்து உண்மைதான்.`;
-- scan 46: `போனேனோ`, `சந்தித்தாகிவிட்டது`, `வயிறாச் சோறின்றி`.
-
-The scan-44 word originally easy to misread was enlarged and resolved as **`பல்லைக்காட்டி`**. The scan-46 phrase was likewise enlarged to distinguish **`சற்று மறைந்து கொள்கிறாள்`** from a visually similar wrong reading.
-
-These items remain available in `POSSIBLE_ERRORS_FOR_REVIEW.md` as a human recheck layer where appropriate. Queue presence is not proof of error.
-
-## Story-boundary audit
-
-- scan 39: heading **`குப்பைத்தொட்டி`** — Story 5 opening confirmed;
-- scan 46: final sentence ends `அவள் கழுத்தில் தாலியைக் காணோம்.` followed by non-text ornament;
-- scan 47: heading **`சந்தனக்கிண்ணம்`** — Story 6 opening confirmed;
-- Story 6 text included in this workspace: **No**.
-
 ## Assembly gate
 
-`sections/kuppai-thotti.md` was assembled in source order with explicit scan markers.
-
-Checks:
+`sections/kuppai-thotti.md` is synchronized with the eight source pages.
 
 - source scans represented: **8 / 8**
 - scan order: **39 → 46**
@@ -92,10 +88,17 @@ Checks:
 
 ## Translation gate
 
-**Tamil story-source audit complete.**
+The existing English translation was checked after the Tamil repair. The scan-44 correction materially changes the meaning of the phrase and was propagated: `அலட்சியப் புத்தி` is translated as **careless in their thinking**, replacing the earlier **hasty minds**. The scan-45 spelling and punctuation repairs do not require further English prose change.
 
-English translation is not started in this activity. Any later user correction must first be checked against the controlling source span and then propagated through all dependent Tamil/control files.
+`TRANSLATION_REVIEW.md` records the synchronized result.
 
-## Audit result
+## Closure
 
-**PASS — குப்பைத்தொட்டி source range fully transcribed and structurally source-complete for the current reading: 8/8 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+- Gate A: **PASS — 8/8**
+- Gate B: **PASS — 8/8**
+- canonical repairs: **3**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- story status: **CURRENT PASS / CLOSED**
+
+Durable re-audit record: `RE_AUDIT_2026.md`.

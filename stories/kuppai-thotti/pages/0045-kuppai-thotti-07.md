@@ -7,10 +7,10 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native source scan; enlarged full-span review"
+transcription_method: "direct visual comparison with native source scan; enlarged full-span review; independent high/native Old Tamil glyph recheck"
 ---
 
-நடித்து நடப்பவைகளைக் கவனித்துக்கொண்டிருந்தேன். அவள் வரும்போதே சிக்கிரம் போகணும் என்று முனகிக்கொண்டு வந்தாள், “அட; பறக்காதே; இந்தா பணம்!” என்று ஒரு எட்டணாவை அவளிடம் கொடுத்தார் மகாராஜா! நான் கண்களை இறுக மூடிக்கொண்டு காதை மட்டும் நீட்டிவைத்துக் கொண்டிருந்தேன்.
+நடித்து நடப்பவைகளைக் கவனித்துக்கொண்டிருந்தேன். அவள் வரும்போதே சீக்கிரம் போகணும் என்று முனகிக்கொண்டு வந்தாள், “அட, பறக்காதே; இந்தா பணம்!” என்று ஒரு எட்டணாவை அவளிடம் கொடுத்தார் மகாராஜா! நான் கண்களை இறுக மூடிக்கொண்டு காதை மட்டும் நீட்டிவைத்துக் கொண்டிருந்தேன்.
 
 ‘கண்ணு!’
 
@@ -29,8 +29,10 @@ transcription_method: "direct visual comparison with native source scan; enlarge
 ## Source-review note
 
 - Scan 44's `நான் தூங்குவதுபோல்` continues here with `நடித்து நடப்பவைகளைக்...`.
-- `சிக்கிரம்`, `கூடக்கிடையாது`, and `என்னருகேவந்து` are preserved source forms.
-- Full-line reinspection confirms the unusual sentence `அவன் சொன்னபடி மறுநாள் வெளிநாட்டு மந்திரி நான் இருக்கும் வீதிப்பக்கம் வந்து உண்மைதான்.`; no missing `து` is supplied.
+- Native/enlarged source review confirms `சீக்கிரம்`, correcting the repository's `சிக்கிரம்`.
+- The same native span confirms the punctuation `“அட, பறக்காதே; இந்தா பணம்!”`, correcting the repository's `“அட; ...`.
+- `நாணம் கூடக்கிடையாது`, `என்னருகேவந்து`, and the unusual `வீதிப்பக்கம் வந்து உண்மைதான்` sentence were independently rechecked and retained exactly as source-supported.
 - The final `இந்நாட்டு மன்னர்களிலே ஒருவனல்லவா,` continues onto scan 46.
+- Gate A and Gate B are closed for this page; no unresolved source/glyph candidate remains.
 
 <!-- மூல ஸ்கேன் பக்கம்: 45; அச்சுப் பக்கம்: 36 -->

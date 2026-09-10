@@ -41,7 +41,7 @@ A story is current PASS only after both gates pass, unresolved source/glyph coun
 
 Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Current tracker state: **OPEN — 4 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 5 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -88,29 +88,50 @@ Final re-audit state:
 - scan 36: quote punctuation restored to `கண்ணியவானு நீ?—” கனிமொழி`; high-risk `கருவிழியானை` independently reconfirmed as the controlling source reading and **not** normalized to `கருவிழியானான்`;
 - scan 38: `செருகப் பட்டதுபோல்` restored;
 - canonical pages, Tamil assembly, audit, closed possible-error queue, page map and English review synchronized;
-- English prose rewrite required: **0** because the only meaning-sensitive repair was already translated correctly;
+- English prose rewrite required: **0**;
 - durable story record: `stories/aattakkavadi/RE_AUDIT_2026.md`.
 
-Do not reopen these closed stories from stale prompts unless genuinely new direct source evidence appears.
-
-## Exact next activity — Story 5 `குப்பைத்தொட்டி` dual-gate re-audit
+### `குப்பைத்தொட்டி`
 
 Workspace: `stories/kuppai-thotti/`.
 
 Source range: scans **39–46 / printed pages 30–37**.
 
+Final re-audit state:
+
+- Gate A: **PASS — 8/8**;
+- Gate B: **PASS — 8/8**;
+- source-proven canonical repairs: **3**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- scan 44: `அவசரியப் புத்தி` → `அலட்சியப் புத்தி`;
+- scan 45: `சிக்கிரம்` → `சீக்கிரம்`;
+- scan 45: `அட;` → `அட,`;
+- difficult source forms including `போதுதானு`, `மனமனவென்று`, `மூன்றூறு`, `தூராற்றம்`, `வீதிப்பக்கம் வந்து உண்மைதான்`, and `போனேனோ` were independently reconfirmed rather than normalized;
+- canonical pages, Tamil assembly, audit, closed possible-error queue, story re-audit record and affected English are synchronized;
+- English prose rewrite required: **1** meaning-sensitive phrase (`அலட்சியப் புத்தி`);
+- durable story record: `stories/kuppai-thotti/RE_AUDIT_2026.md`.
+
+Do not reopen these closed stories from stale prompts unless genuinely new direct source evidence appears.
+
+## Exact next activity — Story 6 `சந்தனக்கிண்ணம்` dual-gate re-audit
+
+Workspace: `stories/santhana-kinnam/`.
+
+Source range: scans **47–56 / printed pages 38–47**.
+
 In one story-bounded activity:
 
 1. fetch live `main` and preserve newer durable work;
-2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/kuppai-thotti/` controls/page records/assembly/audit/possible-error files;
-3. Gate A — compare every existing `குப்பைத்தொட்டி` canonical page record and assembly directly against scans 39–46;
-4. Gate B — independently reopen all eight physical pages at high/native resolution and check all mandatory historical families;
+2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/santhana-kinnam/` controls/page records/assembly/audit/possible-error files;
+3. Gate A — compare every existing `சந்தனக்கிண்ணம்` canonical page record and assembly directly against scans 47–56;
+4. Gate B — independently reopen all ten physical pages at high/native resolution and check all mandatory historical families;
 5. correct only source-proven mismatches individually; never global-replace or modernize;
 6. synchronize assembly, audit / possible-error / historical-glyph records and existing English only where meaning changes;
-7. mark PASS only with Gate A 8/8 + Gate B 8/8 + 0 unresolved;
-8. if PASS, update tracker from **4/37 to 5/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
+7. mark PASS only with Gate A 10/10 + Gate B 10/10 + 0 unresolved;
+8. if PASS, update tracker from **5/37 to 6/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
 
-Do **not** begin Story 6 `சந்தனக்கிண்ணம்` in the same activity.
+Do **not** begin Story 7 `சங்கிலிச்சாமி` in the same activity.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

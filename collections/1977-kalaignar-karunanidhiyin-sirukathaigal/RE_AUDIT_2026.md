@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 4 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 5 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / `audit PASS` state is legacy provenance only. Current release confidence requires the new Gate A + Gate B standard.
 
@@ -33,7 +33,7 @@ Every physical story page is independently reopened at high/native resolution. M
 
 Follow `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`. Gate B cannot be inferred from Gate A.
 
-A story returns to current PASS only after both gates pass, all corrections are synchronized into canonical records/assembly/audits/affected English, and unresolved source/glyph counts are zero.
+A story returns to current PASS only after both gates pass, all corrections are synchronized into canonical records/assembly/audits/queues/affected English, and unresolved source/glyph counts are zero.
 
 ## Re-closed stories
 
@@ -98,6 +98,24 @@ Scans **31–38 / printed 22–29**:
 
 Full story record: `../../stories/aattakkavadi/RE_AUDIT_2026.md`.
 
+### `குப்பைத்தொட்டி`
+
+Scans **39–46 / printed 30–37**:
+
+- Gate A: **PASS — 8/8**;
+- Gate B: **PASS — 8/8**;
+- canonical repairs: **3**;
+- scan 44: `அவசரியப் புத்தி` → `அலட்சியப் புத்தி`;
+- scan 45: `சிக்கிரம்` → `சீக்கிரம்`;
+- scan 45: `அட;` → `அட,`;
+- high-risk retained readings including `போதுதானு`, `மனமனவென்று`, `மூன்றூறு`, `தூராற்றம்`, `வீதிப்பக்கம் வந்து உண்மைதான்`, and `போனேனோ` were independently reconfirmed;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- Tamil assembly / audit / possible-error queue / affected English: synchronized;
+- English prose change required: **1** meaning-sensitive phrase (`அலட்சியப் புத்தி`).
+
+Full story record: `../../stories/kuppai-thotti/RE_AUDIT_2026.md`.
+
 ## Progress
 
 | # | Story | 1977 scans | Gate A | Gate B | Current state |
@@ -106,7 +124,7 @@ Full story record: `../../stories/aattakkavadi/RE_AUDIT_2026.md`.
 | 2 | `நளாயினி` | 16–23 | **PASS** | **PASS** | **CURRENT PASS — 15 repairs / 0 unresolved** |
 | 3 | `சபலம்` | 24–30 | **PASS** | **PASS** | **CURRENT PASS — 6 repairs / 0 unresolved** |
 | 4 | `ஆட்டக்காவடி` | 31–38 | **PASS** | **PASS** | **CURRENT PASS — 7 repairs / 0 unresolved** |
-| 5 | `குப்பைத்தொட்டி` | 39–46 | **NEXT** | pending | REOPENED |
+| 5 | `குப்பைத்தொட்டி` | 39–46 | **PASS** | **PASS** | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | pending | pending | REOPENED |
 | 7 | `சங்கிலிச்சாமி` | 57–68 | pending | pending | REOPENED |
 | 8 | `கங்கையின் காதல்` | 69–72 | pending | pending | REOPENED |
@@ -142,18 +160,18 @@ Full story record: `../../stories/aattakkavadi/RE_AUDIT_2026.md`.
 
 ## Processing order
 
-`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி`, `சபலம்`, and `ஆட்டக்காவடி` were subsequently closed. The exact next story is **Story 5 `குப்பைத்தொட்டி`, scans 39–46 / printed pages 30–37**. After that, continue through Story 37 in anthology order.
+`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி`, `சபலம்`, `ஆட்டக்காவடி`, and `குப்பைத்தொட்டி` were subsequently closed. The exact next story is **Story 6 `சந்தனக்கிண்ணம்`, scans 47–56 / printed pages 38–47**. After that, continue through Story 37 in anthology order.
 
 ## Exact next activity
 
-Re-audit `குப்பைத்தொட்டி` scans **39–46 / printed pages 30–37** in one story-bounded activity:
+Re-audit `சந்தனக்கிண்ணம்` scans **47–56 / printed pages 38–47** in one story-bounded activity:
 
-1. Gate A — compare all existing canonical records / assembly directly against all eight 1977 source pages;
-2. Gate B — independently reopen all eight pages and complete the mandatory Old Tamil Glyph check;
+1. Gate A — compare all existing canonical records / assembly directly against all ten 1977 source pages;
+2. Gate B — independently reopen all ten pages and complete the mandatory Old Tamil Glyph check;
 3. apply source-proven corrections individually; no retranscription / no global replacement;
 4. synchronize assembly, audits / possible-error records and any affected English;
 5. mark both gates PASS only with zero unresolved source/glyph readings;
 6. update this tracker and root/collection controls;
 7. commit, re-fetch live `main`, and stop/report.
 
-Do not begin Story 6 `சந்தனக்கிண்ணம்` in the same activity.
+Do not begin Story 7 `சங்கிலிச்சாமி` in the same activity.

@@ -11,11 +11,27 @@ Canonical story workspace for **குப்பைத்தொட்டி**, pr
 - PDF scans: **39–46**
 - Source PDF committed to GitHub: **No**
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
+## 2026 dual-gate re-audit
+
+**CURRENT PASS — Gate A 8 / 8 + Gate B 8 / 8; 3 canonical repairs; 0 unresolved.**
+
+- Gate A — source fidelity: **PASS — 8/8**
+- Gate B — independent Old Tamil Glyph verification: **PASS — 8/8**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- durable re-audit record: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md)
+
+### Source-proven repairs
+
+1. scan 44 / printed 35: `அவசரியப் புத்தி` → **`அலட்சியப் புத்தி`**;
+2. scan 45 / printed 36: `சிக்கிரம்` → **`சீக்கிரம்`**;
+3. scan 45 / printed 36: `அட;` → **`அட,`**.
+
+Unusual readings such as `போதுதானு`, `மனமனவென்று`, `மூன்றூறு`, `தூராற்றம்`, `வீதிப்பக்கம் வந்து உண்மைதான்`, and `போனேனோ` were source-confirmed and retained.
 
 ## Tamil archival status
 
-**PASS — 8 / 8 story pages transcribed and directly source-reviewed.**
+**PASS — 8 / 8 story pages source-reviewed and dual-gate closed.**
 
 - page records: **8 / 8**
 - `verified`: **8**
@@ -25,7 +41,8 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
 Audit: [`audit.md`](audit.md).  
-Visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS — corrected**.
+Visual fidelity: [`visual-fidelity.md`](visual-fidelity.md) — **PASS**.  
+Possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) — **CLOSED**.
 
 ## Reading layer
 
@@ -34,28 +51,6 @@ Final current Tamil assembly:
 [`sections/kuppai-thotti.md`](sections/kuppai-thotti.md)
 
 The assembly preserves all eight anthology scan boundaries. Scan 47, which opens `சந்தனக்கிண்ணம்`, is excluded.
-
-## Human possible-error review
-
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual or easily misread source forms for later human checking. An entry there is **not a confirmed error** and does not by itself downgrade a verified page.
-
-High-value rechecks include:
-
-- `போதுதானு`
-- `மனமனவென்று`
-- `காரணகரமான`
-- `உணர்ச்சி என்னை வளர்த்துக்கொண்டது`
-- `சபரகூட மஞ்சமாகி`
-- `குப்பைத்தொட்டி எங்கேயிருந்தால் என்ன வென்று!`
-- `மூன்றூறு`
-- `அவசரியப் புத்தி`
-- `தூராற்றம்`
-- `வீதிப்பக்கம் வந்து உண்மைதான்`
-- `போனேனோ`
-- `சந்தித்தாகிவிட்டது`
-- `வயிறாச் சோறின்றி`
-
-The difficult scan-44 word was independently enlarged at native resolution and resolves as `பல்லைக்காட்டி`.
 
 ## Verified page-boundary continuations
 
@@ -69,26 +64,25 @@ The difficult scan-44 word was independently enlarged at native resolution and r
 ## Story boundary
 
 - scan **39**: heading `குப்பைத்தொட்டி`, Story 5 opening confirmed;
-- scan **46**: story conclusion and ornamental closing rule;
+- scan **46**: story conclusion and closing ornament confirmed;
 - scan **47**: heading `சந்தனக்கிண்ணம்`, Story 6 opening confirmed;
 - Story 6 text included here: **No**.
 
 ## English translation
 
-**PASS — complete.**
+**PASS — synchronized with the final 2026 Tamil source.**
 
 - English file: [`translations/en/kuppai-thotti.md`](translations/en/kuppai-thotti.md)
 - translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - source-page markers represented: **8 / 8**
 - scan-42 four-line verse preserved as display: **Yes**
 - scan-45 isolated quoted lines preserved: **Yes**
-- possible-error queue read and respected: **Yes**
-- Tamil source changed during translation: **No**
+- meaning-sensitive scan-44 repair propagated: **Yes** (`அலட்சியப் புத்தி` → **careless in their thinking**)
 
 ## Completion state
 
-**குப்பைத்தொட்டி Tamil archival source processing and English translation: COMPLETE for scans 39–46 / printed pages 30–37.**
+**குப்பைத்தொட்டி Tamil archival source processing and English translation: CURRENT PASS / CLOSED for scans 39–46 / printed pages 30–37 under the 2026 dual-gate standard.**
 
-## Next anthology English activity
+## Next anthology activity
 
-Story 6 — **சந்தனக்கிண்ணம்**, printed pages **38–47**, anthology scans **47–56**. In the current user-expanded batch, Story 6 is processed immediately after Story 5.
+Story 6 — **சந்தனக்கிண்ணம்**, printed pages **38–47**, anthology scans **47–56**. Story 6 is not started in this activity.

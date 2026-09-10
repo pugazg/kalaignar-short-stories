@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native source scan; enlarged full-span review and boundary verification"
+transcription_method: "direct visual comparison with native source scan; enlarged full-span review; independent high/native Old Tamil glyph recheck"
 ---
 
 எந்தக் குப்பைத்தொட்டி மறைவுக்குப் போனேனோ; தெரிய வில்லை! நன்றி கெட்டவன்.
@@ -25,9 +25,10 @@ transcription_method: "direct visual comparison with native source scan; enlarge
 ## Source-review note
 
 - The opening directly completes scan 45's `இந்நாட்டு மன்னர்களிலே ஒருவனல்லவா,`.
-- High-resolution review confirms the printed form `போனேனோ`; it is not normalized to a contextually expected alternative.
-- Enlarged review also resolves `சற்று மறைந்து கொள்கிறாள்`, `துறவிகளைவிட`, and the final `ஏன் ஓடுகிறாள்?`.
-- Visual-fidelity review normalizes this page's structural role to `story-ending` and records the centered closing ornament; story wording is unchanged.
-- Scan 47 was inspected separately and begins Story 6, `சந்தனக்கிண்ணம்`; no scan-47 text is included here.
+- Independent high/native review confirms the printed form `போனேனோ`; it is retained exactly rather than normalized.
+- Enlarged review also confirms `சற்று மறைந்து கொள்கிறாள்`, `துறவிகளைவிட`, and the final `ஏன் ஓடுகிறாள்?`.
+- The page remains the story ending and preserves the centered closing ornament.
+- Scan 47 was inspected only as a boundary witness and begins Story 6 `சந்தனக்கிண்ணம்`; no scan-47 text is included.
+- Gate A and Gate B are closed for this page; no unresolved source/glyph candidate remains.
 
 <!-- மூல ஸ்கேன் பக்கம்: 46; அச்சுப் பக்கம்: 37 -->

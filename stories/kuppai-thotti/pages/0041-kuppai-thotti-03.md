@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native source scan; enlarged full-span review"
+transcription_method: "direct visual comparison with native source scan; enlarged full-span review; independent high/native Old Tamil glyph recheck"
 ---
 
 நானிருக்குமிடத்திற்கு நாலைந்து வீடு தள்ளி ஒரு பஜனை மடம். அந்த மடத்தில் அடிக்கடி புராணப் பிரசங்கங்கள் நடைபெறும். ஒலிபெருக்கியின் மூலமாகக் கேட்டுக்கொண்டிருப்பேன். பாகவதர்கள் பல விஷயங்களைப் பூசிமெழுகிப் பேசியிருக்கிறார்கள் என்பது அந்தப் பழைய புராணத்தைப் பார்த்தபிறகுதான் தெரிந்தது. கணவனில்லாத சமயம் வீடுபுகுந்து தன்னைக் கற்பழித்தவன் இந்திரன் என்று தெரிந்த பிறகும் “ஆகா! இது வல்லவா இன்பம்! இதுநாள் வரையில் எங்கிக் கிடந்த சுவைமிகு விருந்தை இன்றல்லவா கண்டேன்” என்று மனநிறைவுடன் அவனைத் தழுவிக்கிடந்தாள் அகலிகை என்பதை நான் படித்தல்லவா தெரிந்துகொண்டேன்.
@@ -18,8 +18,10 @@ transcription_method: "direct visual comparison with native source scan; enlarge
 
 ## Source-review note
 
-- Native/enlarged inspection confirms `இலைகள்`; no ambiguous `இலக்கள்` reading is retained.
-- The unusual forms `எங்கிக் கிடந்த`, `காரணகரமான`, and `உணர்ச்சி என்னை வளர்த்துக்கொண்டது` remain source-close and are listed for human recheck.
-- The final phrase `அதிலிருந்து நேரம்` continues directly onto scan 42 with `இரவாகத்தானிருக்குமென...`.
+- Independent high/native review confirms the unusual source forms `எங்கிக் கிடந்த`, `காரணகரமான`, and `உணர்ச்சி என்னை வளர்த்துக்கொண்டது`; none is normalized.
+- `இலைகள்` was separately checked against the surrounding source type and retained.
+- The final `அதிலிருந்து நேரம்` continues directly onto scan 42.
+- The mandatory historical-glyph families were independently considered on this page; unresolved count is zero.
+- Gate A and Gate B are closed for this page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 41; அச்சுப் பக்கம்: 32 -->
