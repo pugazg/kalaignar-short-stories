@@ -4,13 +4,14 @@ Permanent families: `ணா / ணை / ணொ / ணோ / லை / ளை / ற�
 
 ## Current state
 
-- direct transcription: **5 / 6** — scans 73–77
+- direct transcription: **6 / 6 — COMPLETE**
 - independent Stage B: **5 / 6** — scans 73–77 PASS
 - verified: **5 / 6**
 - P1 Stage A: **COMPLETE — 5/5**
 - P1 Stage B: **PASS — 5/5**
 - P1 unresolved / blocked: **0 / 0**
-- scan 78: **not-started**
+- P2 scan 78 Stage A: **COMPLETE — `needs-review`**
+- P2 scan 78 Stage B: **NEXT**
 
 ## P1 independent audit — scans 73–77
 
@@ -30,6 +31,8 @@ Historical-glyph corrections in P1: **3** — all on scan 75:
 2. `மகனுவான்` → `மகனாவான்` — `னா`;
 3. `வீரனுவான்` → `வீரனாவான்` — `னா`.
 
-Other source corrections: **2** on scan 74. Remaining unresolved glyph candidates: **0**.
+Other source corrections: **2** on scan 74. Remaining unresolved glyph candidates after P1: **0**.
 
-Exact progression: **P2 scan 78 Stage A → commit → P2 Stage B → commit → Tamil assembly/review**.
+Scan 78 has direct Stage-A transcription but has **not** yet received the systematic 13-family second pass. Candidate-bearing final-page words such as `மானத்தை`, `காற்றிலே`, and `நியாயந்தானா` must be re-opened directly during P2 Stage B rather than inferred from context.
+
+Exact progression: **P2 scan 78 Stage B → commit → Tamil assembly/review**.

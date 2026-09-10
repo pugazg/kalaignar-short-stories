@@ -11,7 +11,7 @@ Canonical story workspace for **மானம்**, activated from the attached 1
 - physical range: **PDF scans 73–78**
 - visible printed folios: **scan 73 = `10` (source anomaly); scans 74–78 = 74–78**
 - story opening: scan **73**, display heading `மானம்`
-- story ending: scan **78**, followed by a centered closing ornament and library stamp; this is the final PDF scan
+- story ending: scan **78**, followed by a centered paired-swans closing ornament and library stamp; this is the final PDF scan
 - source PDF committed: **No**
 - SHA-256: **pending at collection level**; do not invent or borrow a digest
 
@@ -21,19 +21,22 @@ Canonical story workspace for **மானம்**, activated from the attached 1
 - canonical dedup / alternate-title check: **PASS — no existing canonical match found**
 - stale title `மனம்`: **REJECTED**; scan 73 directly reads `மானம்`
 - page records: **6 / 6 initialized**
-- direct transcription: **5 / 6** — scans 73–77
+- direct transcription: **6 / 6 — COMPLETE**
 - P1 Stage A: **COMPLETE — 5/5**
 - P1 Stage B: **PASS — 5/5**
+- P2 Stage A scan 78: **COMPLETE — 1/1**
 - historical-glyph/source Stage B total: **5 / 6**
 - verified: **5 / 6** — scans 73–77
-- `needs-review`: **0 / 6**
-- `not-started`: **1 / 6** — scan 78
+- `needs-review`: **1 / 6** — scan 78
+- `not-started`: **0 / 6**
 - P1 corrections: **5 total** — 3 historical-glyph + 2 source-text/spacing
 - blocked / unresolved: **0 / 0**
 - Tamil assembly: **not started**
 
 The scan-73 folio is a physical source anomaly: the bottom-left printed number is `10`, not `73`. Do not silently normalize it. Scan coordinates remain 73–78.
 
+Scan 78 Stage A preserves the final prose and records the centered paired-swans closing ornament as a source mark. The library stamp below it is documented as a non-story artefact without promoting unreadable/obscured stamp text.
+
 ## Exact next activity
 
-**P2 Stage A only — scan 78.** Directly transcribe the final physical page from the attached source, including its ending text and printed closing ornament, keep the page `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report. P2 Stage B is a later separate activity.
+**P2 Stage B only — scan 78.** Independently reopen the final page, run the mandatory 13-family source/glyph audit plus the P2 source-sensitive queue, make only source-proven corrections, promote the page to `verified` if all readings close, synchronize controls, commit, and stop/report. Tamil assembly is a later separate activity.

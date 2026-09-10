@@ -30,18 +30,20 @@ Durable state:
 
 - scan 73 opening heading: **`மானம்` — directly confirmed**;
 - stale `மனம்`: **rejected**;
-- scan 78 ending/boundary: **confirmed — final PDF scan, closing ornament + library stamp**;
+- scan 78 ending/boundary: **confirmed — final PDF scan, centered paired-swans closing ornament + library stamp**;
 - canonical dedup / alternate-title gate: **PASS — new canonical**;
 - page records: **6/6**;
+- direct transcription: **6/6 — COMPLETE**;
 - P1 Stage A scans 73–77: **COMPLETE — 5/5**;
-- P1 Stage B scans 73–77: **PASS — 5/5**;
-- direct transcription total: **5/6**;
+- P1 Stage B scans 73–77: **PASS — 5/5 verified**;
+- P2 Stage A scan 78: **COMPLETE — 1/1 `needs-review`**;
 - Stage-B verified total: **5/6**;
 - verified: **5/6** — scans 73–77;
-- `needs-review`: **0/6**;
-- not-started: **1/6** — scan 78;
+- `needs-review`: **1/6** — scan 78;
+- not-started: **0/6**;
 - P1 corrections: **5 total** — scan 74: 2 source corrections; scan 75: 3 historical-glyph corrections;
-- blocked / unresolved: **0 / 0**.
+- blocked / unresolved: **0 / 0**;
+- Tamil assembly: **not started**.
 
 ### P1 Stage-B corrections
 
@@ -57,17 +59,21 @@ All other P1 source-sensitive queue entries were independently confirmed and ret
 
 Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. Never normalize scan 73 to printed page 73.
 
-## Exact next activity — P2 Stage A ONLY
+### P2 Stage-A final-page state
 
-Process **scan 78 only** under the two-stage workflow:
+Scan 78 has been directly transcribed from the attached source. Its closing question ends `காற்றிலே பறக்கவிடுவது நியாயந்தானா?`. The centered paired-swans closing ornament is recorded as a source mark. The library stamp below it is recorded as a non-story artefact without fabricating obscured stamp text. The systematic historical-glyph/source second pass has **not** yet been run on this page.
+
+## Exact next activity — P2 Stage B ONLY
+
+Process **scan 78 only**:
 
 1. re-fetch live `main`;
-2. use only the attached controlling PDF;
-3. directly transcribe the whole final page once, including the story ending and centered closing ornament; record the library stamp as non-story/source artefact rather than fabricating text from it;
-4. preserve source punctuation, spacing, paragraphing, source-odd words and clearly readable historical character identity;
-5. do **not** run the systematic 13-family Stage B in the same activity;
-6. keep scan 78 `needs-review` after Stage A;
-7. synchronize Pass-1/current-state controls;
-8. commit and stop/report.
+2. re-open the attached final source page independently;
+3. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus the P2 source-sensitive queue;
+4. do not full-retranscribe merely because Stage B has begun;
+5. correct only source-proven mismatches; never global-replace;
+6. verify the final punctuation and source-mark preservation; keep the library stamp non-story and do not invent obscured stamp text;
+7. promote scan 78 to `verified` only if all source/glyph checks close;
+8. synchronize controls, commit and stop/report.
 
-P2 Stage B is the following separate activity. Do not assemble Tamil until scan 78 also passes Stage B.
+Tamil assembly/review begins only after P2 Stage B closes. Do not combine assembly into the same activity.

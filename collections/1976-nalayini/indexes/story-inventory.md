@@ -11,6 +11,6 @@ The source has **no separate printed contents page**. Inventory is based on dire
 | 5 | `விஷம் இனிது` | 47–55 | 47–55 | existing canonical | **NOTE ONLY** |
 | 6 | `பாலைவன ரோஜா` | 56–62 | 56–62 | existing canonical | **NOTE ONLY** |
 | 7 | `அய்யோ ராஜா!` | 63–72 | 63–72 | existing canonical | **NOTE ONLY** |
-| 8 | `மானம்` | 73–78 | `10` on scan 73; 74–78 thereafter | **new canonical — `stories/maanam/`** | **ACTIVE — P1 PASS / 5 of 6 verified; P2 scan 78 Stage A NEXT** |
+| 8 | `மானம்` | 73–78 | `10` on scan 73; 74–78 thereafter | **new canonical — `stories/maanam/`** | **ACTIVE — 6/6 direct-transcribed; scan 78 P2 Stage B NEXT** |
 
 Scan 73 directly reads **`மானம்`**; earlier `மனம்` was an archive-control error. The scan-73 folio `10` is direct-source evidence and supersedes the earlier inferred printed-page `73`.
