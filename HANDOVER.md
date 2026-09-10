@@ -4,61 +4,53 @@
 
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
+- live `main` is authoritative
 - permanent guides: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `ENGLISH_TRANSLATION_GUIDE.md`
 
-## LIVE MAIN IS AUTHORITATIVE
+## 1976 `நளாயினி` exact-edition archive — OPEN
 
-Fetch live `main` first. Controlling scans outrank contextual readings; no silent normalization.
+Controlling physical source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — 78 scans, 164,748,566 bytes, fourth edition 1976, image-only, not committed.
 
-## 1976 `நளாயினி` reconciliation — CLOSED
+Exact SHA-256 from the attached raw bytes:
+`7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.
 
-Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending.
+### Previously closed work
 
-Two new canonical stories were created by this anthology reconciliation and are now fully closed:
+The two stories newly canonicalized from this edition remain closed:
 
-- `நாட்டிய கலாராணி` — Tamil **22/22 verified / assembly PASS**; English **PASS / 22/22 page anchors aligned**;
-- `மானம்` — Tamil **6/6 verified / assembly PASS**; English **PASS / 6/6 page anchors aligned**.
+- `நாட்டிய கலாராணி` — Tamil 22/22 verified / assembly PASS; English PASS / 22/22 page anchors aligned;
+- `மானம்` — Tamil 6/6 verified / assembly PASS; English PASS / 6/6 page anchors aligned.
 
-The remaining six anthology headings resolve to existing canonical workspaces and were intentionally not duplicated.
+### New user authorization — edition-witness extension
 
-### `மானம்` English closure
+The initial note-only rule for six already-canonical stories has been superseded by explicit user authorization to make this exact 1976 edition fully archival-complete. Process these as **witness layers**, never duplicate canonicals or silently overwrite their controlling editions.
 
-- English title: **Honour**;
-- translation: `stories/maanam/translations/en/maanam.md`;
-- review: `stories/maanam/TRANSLATION_REVIEW.md` — **PASS**;
-- source-page coverage: **6/6**;
-- physical marker sequence: **73–78 complete**;
-- content-boundary alignment: **PASS**;
-- explicit checked transitions: **73→74, 74→75 `அவசரத்தை` / `யுணர்ந்து`, 76→77 `மானத்தைக் காக்கமுடியாத` / `கோழை மகனே`**;
-- scan-73 visible printed folio **`10`** preserved as source provenance;
-- scan-78 paired-swans source mark preserved; obscured library stamp excluded;
-- omission / duplication / unresolved English: **0 / 0 / 0**;
-- Tamil source issues reopened during translation: **0**.
+Tracker: `collections/1976-nalayini/EDITION_WITNESS_PROGRESS.md` — **OPEN / 0 of 6 source-complete**.
 
-Collection translation tracker `collections/1976-nalayini/ENGLISH_TRANSLATION_PROGRESS.md`: **CLOSED / 2 of 2 PASS**.
+Targets in order:
+1. `நளாயினி` scans 3–12 — **ACTIVE**;
+2. `காதல் கடிதம்` 13–18 — pending;
+3. `புரட்சிப் படம்` 19–24 — pending;
+4. `விஷம் இனிது` 47–55 — pending;
+5. `பாலைவன ரோஜா` 56–62 — pending;
+6. `அய்யோ ராஜா!` 63–72 — pending.
 
-## External hold — `நடுத்தெரு நாராயணி`
+## Active witness — `நளாயினி` 1976
 
-The hold remains active until `வெள்ளிக்கிழமை` is explicitly complete under its own repository gate.
+Workspace: `stories/nalayini/witnesses/1976-nalayini/`.
 
-Read-only recheck performed against `pugazg/kalaignar-novels` live `main` at **`8d62bd19dd4235d841016ee9197fbd6e38350eb0`**:
-
-- `வெள்ளிக்கிழமை` Tamil: **PASSED / 23 of 23 chapters**;
-- English chapters: **23 / 23 present/reviewed**;
-- final whole-work bilingual review: **READY / NEXT**;
-- whole-work English: **NOT YET VERIFIED**;
-- release: **BLOCKED pending bilingual review**.
-
-Therefore `நடுத்தெரு நாராயணி` remains **BLOCKED** for now. Do not infer hold clearance from stale chat context.
+- source boundary: **PASS** — scan 3 opens `நளாயினி`; scan 12 is terminal; scan 13 opens `காதல் கடிதம்`;
+- page records initialized: **10/10**;
+- direct Stage A: **0/10**;
+- Stage B: **0/10**;
+- verified: **0/10**;
+- no witness prose has yet been committed;
+- canonical 1977 Tamil/English changed: **No**.
 
 ## Exact next activity
 
-On the next `Proceed with next activity`:
+Process **P1 Stage A scans 3–7 only** from the attached 1976 PDF. Transcribe each whole page once, preserve source punctuation/spacing/paragraphing/historical glyph identity, keep all five as `needs-review`, synchronize witness + collection controls, commit, and stop. Do **not** touch scans 8–12 or Story 2.
 
-1. fetch live `pugazg/kalaignar-short-stories` `main`;
-2. re-fetch live `pugazg/kalaignar-novels` `main` and `works/vellikkizhamai/README.md`;
-3. if `வெள்ளிக்கிழமை` is still not explicitly complete/verified under its own gate, preserve the hold and stop/report the blocking state;
-4. if its own repository explicitly records completion, synchronize this hold state before activating `நடுத்தெரு நாராயணி`;
-5. do not use memory or an old prompt to clear the hold.
+## Independent external hold
 
-No further 1976 `நளாயினி` work is pending in this reconciliation tracker.
+`நடுத்தெரு நாராயணி` remains blocked by the separate live `வெள்ளிக்கிழமை` completion gate. Do not clear that hold from memory; the 1976 witness extension is independent of it.

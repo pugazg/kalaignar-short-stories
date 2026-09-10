@@ -7,49 +7,45 @@ Physical-source workspace for the attached **`நளாயினி`** short-sto
 - source filename: `TVA_BOK_0065574_நளாயினி_1976.pdf`
 - file size: **164,748,566 bytes**
 - PDF scans: **78**
+- SHA-256: **`7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`**
 - printed title: **நளாயினி**
 - printed author: **மு. கருணாநிதி**
 - edition line: **நான்காம் பதிப்பு 1976**
 - source type: image-only scan
 - source PDF committed: **No**
-- SHA-256: **pending**
 
-The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
+The attached PDF itself is the sole controlling source for this physical edition unless the user explicitly requests an external comparison.
 
-## Inventory / final reconciliation state
+## Inventory / current archival state
 
 | # | Heading | Scans / visible printed folios | Repository state |
 |---:|---|---:|---|
-| 1 | `நளாயினி` | 3–12 | existing canonical — note only |
-| 2 | `காதல் கடிதம்` | 13–18 | existing canonical — note only |
-| 3 | `புரட்சிப் படம்` | 19–24 | existing canonical — note only |
+| 1 | `நளாயினி` | 3–12 | existing canonical + **1976 WITNESS ACTIVE — intake PASS / 10 stubs / 0 transcribed** |
+| 2 | `காதல் கடிதம்` | 13–18 | existing canonical + 1976 witness pending |
+| 3 | `புரட்சிப் படம்` | 19–24 | existing canonical + 1976 witness pending |
 | 4 | `நாட்டிய கலாராணி` | 25–46 | **TAMIL SOURCE-COMPLETE + ENGLISH PASS** |
-| 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
-| 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
-| 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
+| 5 | `விஷம் இனிது` | 47–55 | existing canonical + 1976 witness pending |
+| 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical + 1976 witness pending |
+| 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical + 1976 witness pending |
 | 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE + ENGLISH PASS** |
 
-The anthology reconciliation identified two new canonical stories requiring full source processing: `நாட்டிய கலாராணி` and `மானம்`. Both are now Tamil source-complete and English-complete. The remaining six headings resolve to existing canonical workspaces and were intentionally not duplicated.
+## Closed new-canonical work
 
-## Collection-wide Tamil-first gate
+The original reconciliation identified two new canonical stories. Both remain fully closed:
 
-**CLOSED / PASS.**
+- `நாட்டிய கலாராணி`: 22/22 Tamil verified; assembly PASS; English PASS with 22/22 content-aligned page anchors;
+- `மானம்`: 6/6 Tamil verified; assembly PASS; English PASS with 6/6 content-aligned page anchors.
 
-- new canonical targets: **2 / 2 Tamil source-complete**;
-- page-level unresolved / blocked across those targets: **0 / 0**;
-- assembly reviews: **2 / 2 PASS**;
-- stale Story-8 title `மனம்`: **rejected**; source heading is `மானம்`;
-- scan-73 printed folio anomaly `10`: **preserved**.
+The collection-local English tracker for those two targets remains **CLOSED / 2 of 2 PASS**.
 
-## English phase
+## Exact-edition witness extension — OPEN
 
-Tracker: `ENGLISH_TRANSLATION_PROGRESS.md`.
+The user subsequently authorized full archival treatment of the six stories that were originally note-only because they already existed canonically. They are now processed as edition witnesses, not duplicate canonicals.
 
-- `நாட்டிய கலாராணி`: **PASS** — 22/22 source-page anchors content-aligned;
-- `மானம்`: **PASS** — 6/6 source-page anchors content-aligned;
-- total: **2 / 2 PASS**;
-- omission / duplication / unresolved across both translations: **0 / 0 / 0**.
+Tracker: `EDITION_WITNESS_PROGRESS.md` — **OPEN / 0 of 6 source-complete**.
 
-**1976 `நளாயினி` reconciliation is CLOSED for the two new canonical targets.**
+Current target: **Story 1 `நளாயினி`, scans 3–12**. Direct visual boundary check is PASS: scan 3 opens `நளாயினி`, scan 12 ends it, and scan 13 opens `காதல் கடிதம்`. Witness workspace: `stories/nalayini/witnesses/1976-nalayini/`.
 
-`நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` remains incomplete under its own repository gate.
+Exact next activity: **P1 Stage A scans 3–7 only**. Do not touch scans 8–12 or Story 2 in that activity.
+
+`நடுத்தெரு நாராயணி` remains independently held by the separate `வெள்ளிக்கிழமை` completion gate; this 1976 witness extension does not alter that hold.

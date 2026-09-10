@@ -1,23 +1,25 @@
-# Duplicate Witness Notes — 1976 `நளாயினி`
+# Existing-canonical witness notes — 1976 `நளாயினி`
 
-User directive for this attached source:
+## Directive history
 
-> If a story is already found in the repository, do not transcribe it again. Make a note of it.
+At initial intake the user directed that stories already present in the repository should not be retranscribed and should only be noted. That rule produced the original six note-only entries.
 
-Accordingly, the following six stories are **not retranscription targets** from `TVA_BOK_0065574_நளாயினி_1976.pdf`:
+The user has now **explicitly superseded that intake limitation** and authorized exhaustive archival processing of the exact 1976 edition. The six stories below must therefore be processed as **independent 1976 witness layers**, without duplicating or silently overwriting their canonical workspaces.
 
-| Story | 1976 source range | Existing canonical workspace | Note |
+| Story | 1976 source range | Existing canonical workspace | Current 1976 witness state |
 |---|---:|---|---|
-| `நளாயினி` | scans/printed 3–12 | `stories/nalayini/` | existing canonical story; this 1976 edition is recorded only as another witness |
-| `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` | existing canonical story; no retranscription |
-| `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` | existing canonical story; no retranscription |
-| `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | existing canonical story; no retranscription |
-| `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` | existing canonical story; no retranscription |
-| `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` | existing canonical story; no retranscription |
+| `நளாயினி` | scans/printed 3–12 | `stories/nalayini/` | **ACTIVE — source intake PASS; witness initialized** |
+| `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` | pending |
+| `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` | pending |
+| `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | pending |
+| `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` | pending |
+| `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` | pending |
 
-This note does **not** assert that the 1976 readings are textually identical to the repository's existing controlling editions. No word-by-word witness comparison has been performed in this intake activity, and no existing Tamil or English derivative has been changed.
+No canonical Tamil or English is changed merely because a 1976 witness differs. Variants must be recorded explicitly and adjudicated under the controlling source of the canonical workspace.
 
-The only new canonical-story candidates discovered in this source are:
+The two stories newly canonicalized from this edition remain closed:
 
-- `நாட்டிய கலாராணி` — scans/printed 25–46;
-- `மனம்` — scans/printed 73–78.
+- `நாட்டிய கலாராணி` — scans 25–46 — Tamil + English PASS;
+- `மானம்` — scans 73–78 — Tamil + English PASS. The stale intake title `மனம்` is rejected.
+
+Durable tracker: `EDITION_WITNESS_PROGRESS.md`.

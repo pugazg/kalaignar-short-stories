@@ -1,102 +1,40 @@
 # நளாயினி
 
-Canonical story workspace for **நளாயினி**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical story workspace for **நளாயினி**, controlled by the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
-## Source
+## Canonical source
 
 - Author: **கலைஞர் மு. கருணாநிதி**
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
-- Printed pages: **7–14**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- represented edition: **முதல் பதிப்பு: 1977**
+- printed pages: **7–14**
 - PDF scans: **16–23**
-- Source PDF committed to GitHub: **No**
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
+Canonical Tamil archival processing remains **PASS — 8/8 verified / 0 unresolved**, with final assembly `sections/nalayini.md`. Canonical English remains **PASS — complete and reviewed**. The persistent possible-error queue remains evidence for direct canonical-source rechecks; witness differences do not automatically change these statuses.
 
-## Tamil archival status
+## Additional witnesses
 
-**PASS — 8 / 8 story pages transcribed and directly source-reviewed.**
+### 2009 `16 கதையினிலே`
 
-- page records: **8 / 8**
-- `verified`: **8**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing source text: **0**
+`witnesses/2009-16-kathaiyinile/` — comparison **COMPLETE**. It records many later editorial/lexical variants without overwriting canonical 1977.
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+### 1976 `நளாயினி` — ACTIVE
 
-## Reading layer
+`witnesses/1976-nalayini/` records scans/printed pages **3–12** from the attached fourth-edition 1976 anthology.
 
-Final current Tamil assembly:
+- exact source SHA-256: `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`;
+- direct boundary check: **PASS** — scan 3 opening / scan 12 ending / scan 13 `காதல் கடிதம்` boundary;
+- page stubs: **10/10 initialized**;
+- direct Stage A: **0/10**;
+- Stage B: **0/10**;
+- variant comparison: **not started**.
 
-[`sections/nalayini.md`](sections/nalayini.md)
+Exact next activity for the 1976 witness is **P1 Stage A scans 3–7 only**.
 
-The assembly preserves all eight source-page boundaries and stops at the end of printed page 14. The printed `குறிப்பு :—` on page 14 is retained separately from the narrative conclusion.
+## Canonical source-form distinctions retained
 
-## Source-form distinctions retained
-
-The anthology does not always print the husband's name identically:
-
-- scan 17 / printed page 8: `மெளத் கல்யர்`
-- scan 18 / printed page 9: `மெளத்கல்யர்`
-
-Both visible source forms are retained. They are not silently normalized to each other or to an outside Sanskrit/Tamil spelling.
-
-## Human possible-error review
-
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) collects visually legible but unusual, archaic, grammatically odd or easily misread readings for later human review.
-
-An entry in that file is **not a confirmed error**. The current page record remains controlling unless stronger direct-source evidence establishes a correction.
-
-Representative high-value rechecks include:
-
-- `வரவிழைந்த`
-- `புன்னகையில் விசாரத்தைக் காண வேண்டுமா?`
-- `மெளத் கல்யர்` / `மெளத்கல்யர்`
-- `தாசிநாதீனத்தொழு!`
-- `நயனவல்லித்ததை`
-- `வண்ணேயாளர்`
-- `எடெமுது வோர்`
-- `அம்சதூளிகா`
-- `கண்ணாடை காட்டினாள்`
-- `எண்ணுதெல்லாம்`
-- `அந்த வார்த்தின் காரணமாக`
-- `குட்டம் பிடித்தவன்`
-
-## Verified page-boundary continuations
-
-1. printed 7→8: `கால்` → `பாகத்துக்குமேல்...`
-2. printed 9→10: `தனக்குத்` → `தானே ஆச்சரியப்பட்டுக் கொண்டாள்.`
-3. printed 10→11: unfinished உலகா quotation continues with `க்ஷமித்துவிடு நளாயினி!...`
-4. printed 11→12: `காணப்படு` → `கிறார்கள்.`
-5. printed 13→14: `“இதயா! இது உண்மையா?”` → answer begins `“பொய் இல்லை!...”`
-
-## Printed note boundary
-
-Narrative conclusion:
-
-`அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!`
-
-After that, the source separately prints:
-
-`குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.`
-
-This note is preserved as a separate textual layer and is not merged into the story's final narrative paragraph.
-
-## English translation
-
-**PASS — complete and reviewed.**
-
-- English: [`translations/en/nalayini.md`](translations/en/nalayini.md)
-- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- source-page markers represented: **8 / 8**
-- printed page-14 note kept separate: **Yes**
-- possible-error queue read and respected: **Yes**
-- Tamil source changed during translation: **No**
-
-The source's distinct `மெளத் கல்யர்` / `மெளத்கல்யர்` forms remain distinct in English transliteration rather than being silently standardized.
+The canonical 1977 anthology visibly distinguishes `மெளத் கல்யர்` on one page from `மெளத்கல்யர்` on the next; both remain source-faithful. Other unusual forms remain documented in `POSSIBLE_ERRORS_FOR_REVIEW.md` and are not silently normalized from any witness.
 
 ## Completion state
 
-**நளாயினி Tamil archival source processing + English translation: COMPLETE for scans 16–23 / printed pages 7–14, with persistent human recheck queue.**
+**Canonical 1977 Tamil + English: COMPLETE.** Additional witness archive: **OPEN** because the user explicitly authorized exhaustive processing of the exact 1976 edition.
