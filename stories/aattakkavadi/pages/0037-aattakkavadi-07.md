@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; enlarged full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -26,11 +26,11 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 “பொது வாழ்க்கை என்பது கரும்பைச் சுவைப்பது போல அல்ல; கரும்பைக் கைகளால் தடவுவதுபோல! தடவிப் பார்த்தால்தான் தெரியும்—கை முழுதும் ‘சுண்’கள் குத்திக் கொள்ளும்!”
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Opening `காளையர்` completes scan 36's final `கந்தனின் வழியிலே பல` phrase.
-- Visual-fidelity review records the enlarged initial `ம` marking the new `மறுநாள்...` paragraph; the letter begins later on this page.
-- `மனத் தீர்க்கு`, `பீதாம்பரத்தின்`, `கிராக்கிகள் மோதின`, `பகுத்தறிவுச் சிட்டு`, and quoted `‘சுண்’கள்` are retained source-close and queued for human recheck.
-- The letter continues onto scan 38 / printed page 29.
+- Gate A source-fidelity comparison: **PASS** for scan 37 / printed page 28; canonical repairs on this page: **0**.
+- `மனத் தீர்க்கு`, `பீதாம்பரத்தின்`, `மூன்று நான்கு கிராக்கிகள் மோதின`, `பகுத்தறிவுச் சிட்டு`, and quoted `‘சுண்’கள்` were directly rechecked and retained as printed.
+- Opening `காளையர்...` completes scan 36's physical continuation; enlarged initial `ம` at `மறுநாள்...` remains recorded; Kanimozhi's letter continues on scan 38.
+- Gate B independent Old Tamil Glyph review: **PASS**; same-edition `னா` forms such as `இளந்தலைவனானான்` / `கந்தனானான்` were among the comparison evidence; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 37; அச்சுப் பக்கம்: 28 -->
