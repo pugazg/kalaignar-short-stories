@@ -1,64 +1,137 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` comparison / Story 1 scans 8–12
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `நளாயினி` dual-gate repair
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Controlling source
 
-Use only the attached `TVA_BOK_0065574_நளாயினி_1976.pdf` for 1976 source-dependent evidence.
+Use the attached exact 1977 source:
 
-- fourth edition: 1976
-- scans: 78
-- bytes: 164,748,566
-- SHA-256: `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`
+`TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+
+- first edition: **1977**
+- physical scans: **260**
+- bytes: **268,486,609**
+- SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
+- exact match to the repository's registered source identity
+- image-only controlling source
 - do not commit the PDF
 
 ## Critical user directive
 
-**Do not create another full transcription of an already-existing canonical story. Comparison only.**
+The user does **not** want retranscription of already-existing stories.
 
-For the six duplicate stories in this anthology:
+For this entire 37-story re-audit:
 
-- visually compare 1976 source pixels against existing canonical Tamil;
-- record only source-proven variants;
-- ignore routine line wrapping/page-layout differences and do not exhaustively catalogue punctuation/spacing unless it changes the lexical reading;
-- no duplicate witness English translation;
-- no canonical overwrite from witness evidence alone.
+- existing repository Tamil is the comparison baseline;
+- compare it directly against the controlling 1977 scans;
+- correct only source-proven mismatches;
+- do not create duplicate transcriptions;
+- do not normalize source language;
+- no global replacements.
 
-The empty activation page stubs under the 1976 `நளாயினி` witness must remain unpopulated.
+## Why this re-audit exists
 
-## Active target
+A definite canonical transcription error was confirmed in `நளாயினி`, scan **17 / printed page 8**:
 
-Canonical: `stories/nalayini/` — controlling 1977 anthology.
+- repository: `தாசிநாதீனத்தொழு!`
+- 1977 source: `காசிநாதனைத்தொழு!`
 
-1976 comparison workspace: `stories/nalayini/witnesses/1976-nalayini/`.
+The earlier 37/37 PASS state is therefore legacy only. All 37 stories are reopened under:
 
-Story range: scans/printed **3–12**.
+`collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Durable comparison state:
+Current state: **0 / 37 dual-gate complete**.
 
-- P1 scans **3–7** — **PASS / COMPLETE**
-- P1 variants recorded — **13**
-- canonical changes — **0**
-- P2 scans **8–12** — **NEXT**
+## Mandatory startup
 
-High-value P1 variants include:
+Read completely before changing source-dependent files:
 
-- `காசிநாதனைத் தொழு!` ↔ canonical `தாசிநாதீனத்தொழு!`
-- `வலி மிகுந்த உடம்பை` ↔ `வலிக்குந்த உடம்பை`
-- `அவன்` ↔ `அவள்`
-- `கண்ஜாடை` ↔ `கண்ணாடை`
-- `அணைத்தெடுத்து` ↔ `அண்டெடுத்து`
+1. `SHORT_STORY_PROCESSING_GUIDE.md`
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. root `HANDOVER.md`
+4. this prompt
+5. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/README.md`
+6. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`
+7. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
+8. collection `indexes/story-inventory.md`
+9. collection `indexes/scan-map.md`
+10. `stories/nalayini/README.md`
+11. `stories/nalayini/sections/nalayini.md`
+12. all 8 canonical page records for `நளாயினி`
+13. `stories/nalayini/POSSIBLE_ERRORS_FOR_REVIEW.md` and audit / historical-glyph records present in that workspace
+14. `stories/nalayini/witnesses/1976-nalayini/VARIANT_COMPARISON.md`
 
-## Exact next activity
+## Active story
 
-Compare **1976 scans 8–12 only** against the canonical 1977 `நளாயினி`.
+`நளாயினி`
 
-1. fetch live `main`;
-2. read `VARIANT_COMPARISON.md`, this prompt, root `HANDOVER.md`, and canonical `stories/nalayini/` text;
-3. inspect scans 8–12 directly from the attached PDF;
-4. record only source-proven word/phrase variants;
-5. do not populate witness page stubs;
-6. do not change canonical Tamil/English in this comparison activity;
-7. when complete, summarize the full scans 3–12 variant set, mark `நளாயினி` comparison complete, synchronize collection/root controls, commit, stop/report.
+- canonical workspace: `stories/nalayini/`
+- 1977 source scans: **16–23**
+- printed pages: **7–14**
+- existing canonical records: **8/8**
+- legacy status: verified / audit PASS — **REOPENED**
 
-Do not start Story 2 `காதல் கடிதம்` in the same activity.
+## Gate A — source-fidelity comparison
+
+Compare **all 8 existing canonical page records and assembled Tamil** directly against scans 16–23.
+
+Check every source span for:
+
+- wrong / omitted / duplicated words;
+- wrong word forms;
+- punctuation / meaningful spacing;
+- paragraphing;
+- page-boundary continuations;
+- headings / separators / ornaments / note layer;
+- known possible-error readings.
+
+Do not retranscribe the story from scratch. Repair only proven mismatches.
+
+High-value candidates that must be settled against the 1977 source include:
+
+- `தாசிநாதீனத்தொழு!` → already proven wrong; source `காசிநாதனைத்தொழு!`;
+- `வலிக்குந்த உடம்பை` vs 1976 `வலி மிகுந்த உடம்பை`;
+- `அவள்` vs 1976 `அவன்`;
+- `கண்ணாடை` vs 1976 `கண்ஜாடை`;
+- `அண்டெடுத்து` vs 1976 `அணைத்தெடுத்து`.
+
+Do not assume the 1976 reading is correct; use the attached 1977 source to decide canonical text.
+
+## Gate B — independent Old Tamil Glyph verification
+
+This is a **separate gate** and cannot be inferred from Gate A.
+
+Independently reopen scans **16–23** at high/native resolution and explicitly check:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Also inspect other suspicious old ligatures / faint vowel marks.
+
+- no global replacement;
+- character identity only, not spelling modernization;
+- record corrections individually;
+- unresolved glyph count must be **0** for PASS.
+
+Follow collection `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`.
+
+## Closure in this activity
+
+If all 8 pages can be settled:
+
+1. apply all source-proven corrections to canonical page records;
+2. synchronize `sections/nalayini.md`;
+3. update story audit / possible-error / historical-glyph records;
+4. update existing English only where a corrected Tamil reading materially affects it;
+5. reclassify the 1976 comparison: distinguish true edition variants from canonical transcription defects;
+6. update `RE_AUDIT_2026.md` with Gate A PASS + Gate B PASS and correction counts;
+7. update collection README / root HANDOVER / NEXT prompt;
+8. commit and re-fetch live `main`;
+9. stop/report.
+
+Do **not** begin `புகழேந்தி` in the same activity.
+
+After `நளாயினி` closes, next story is `புகழேந்தி` scans **10–15**, then Story 3 onward in anthology order.
+
+## Parallel 1976 work
+
+The 1976 duplicate-story comparison is **paused** until this canonical 1977 `நளாயினி` re-audit closes. Do not resume 1976 scans 8–12 first.

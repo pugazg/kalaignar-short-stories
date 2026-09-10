@@ -17,7 +17,26 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 - Stories in printed contents: **37**
 - Source PDF committed to GitHub: **No**
 
-## Inventory / processing state
+## 2026 re-audit supersession — OPEN
+
+The user supplied the exact 1977 source again on **2026-09-10**. Raw-file verification confirms that attachment matches the registered source identity above: **260 scans / 268,486,609 bytes / identical SHA-256**.
+
+A definite canonical transcription defect was then confirmed in `நளாயினி` scan **17 / printed page 8**: the repository has `தாசிநாதீனத்தொழு!`, while the 1977 source prints `காசிநாதனைத்தொழு!`.
+
+Therefore the earlier 37/37 `verified` / `audit PASS` state below is retained only as **legacy processing history**. All 37 stories are now **REOPENED** for a fresh comparison audit. This is **not retranscription**.
+
+Current re-audit tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
+Mandatory gates for every story:
+
+1. **Gate A — source-fidelity comparison:** existing repository Tamil vs exact 1977 source pixels, all pages;
+2. **Gate B — Old Tamil Glyph verification:** independent high/native-resolution re-open of every page with mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` coverage under [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
+
+A story regains current PASS status only after **both gates PASS**, all source-proven corrections are applied, and assembled Tamil / audits / possible-error records / affected English are synchronized.
+
+Re-audit state: **OPEN — 0 / 37 dual-gate complete**. Incident-priority first target: **`நளாயினி` scans 16–23**.
+
+## Inventory / processing state — legacy pre-re-audit record
 
 - story inventory: **37 / 37 registered**
 - start-page visual checks: **37 / 37**
@@ -25,7 +44,7 @@ The anthology is not treated as one story. Its 37 stories are processed into can
 - not yet transcribed: **0 / 37**
 - English translation: **0 / 37 started**
 
-Completed from this collection:
+Completed from this collection under the earlier workflow:
 
 1. `புகழேந்தி` — printed **1–6**, scans **10–15**, **6/6 verified**, audit PASS.
 2. `நளாயினி` — printed **7–14**, scans **16–23**, **8/8 verified**, audit PASS.
@@ -65,7 +84,7 @@ Completed from this collection:
 36. `சித்தார்த்தன் சிலை` — TOC `சித்தார்த்தன்`, workspace [`../../stories/siddharthan-silai/`](../../stories/siddharthan-silai/) — printed **241–243**, scans **250–252**, **3/3 verified**, 0 blocked, audit PASS.
 37. `நுனிக்கரும்பு` — workspace [`../../stories/nunikkarumbu/`](../../stories/nunikkarumbu/) — printed **244–250**, scans **253–259**, **7/7 verified**, 0 blocked, audit PASS.
 
-All thirty-seven have complete Tamil assemblies, zero unresolved story text and persistent possible-error queues. English translation has not been started for them.
+All thirty-seven have complete Tamil assemblies and persistent possible-error queues from the earlier workflow. These records remain valuable comparison baselines; they are **not to be retranscribed from scratch**.
 
 For `நுனிக்கரும்பு`, scan **260** was visually confirmed as the physical back cover. The story ends on scan **259 / printed page 250** with its final paragraph and closing ornament.
 
@@ -87,8 +106,8 @@ Both source forms are preserved.
 
 Before processing each story, inspect whether a matching canonical story already exists. If it does, attach this anthology as an additional witness instead of creating a duplicate. Preserve exact scan/printed-page coordinates and create a persistent human possible-error queue.
 
-## Tamil source-pass closure
+## Legacy Tamil source-pass closure
 
-**COMPLETE — 37 / 37 anthology stories fully transcribed, verified, audited and synchronized; 0 remaining.**
+**LEGACY COMPLETE — 37 / 37 under the earlier workflow. SUPERSEDED for current release confidence by the 2026 dual-gate re-audit.**
 
-The story-text range closes at scan **259 / printed page 250**. Scan **260** is the verified back cover. English translation or another downstream phase has not been started as part of this closure.
+The story-text range closes at scan **259 / printed page 250**. Scan **260** is the verified back cover. Current re-audit status is governed by `RE_AUDIT_2026.md`.
