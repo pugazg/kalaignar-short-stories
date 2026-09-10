@@ -8,9 +8,17 @@ Authority: `ENGLISH_TRANSLATION_GUIDE.md` and the final verified Tamil assemblie
 
 | Order | Story | Tamil/source state | English state | Action |
 |---:|---|---|---|---|
-| 1 | `நாட்டிய கலாராணி` | **PASS — 22/22 verified; assembly/review PASS** | `pending` | **NEXT** |
-| 2 | `மானம்` | **PASS — 6/6 verified; assembly/review PASS** | `pending` | after Story 4 English closes |
+| 1 | `நாட்டிய கலாராணி` | **PASS — 22/22 verified; assembly/review PASS** | **PASS — complete; 22/22 page anchors aligned** | closed |
+| 2 | `மானம்` | **PASS — 6/6 verified; assembly/review PASS** | `pending` | **NEXT** |
 
-English phase state: **OPEN — 0 / 2 PASS**.
+English phase state: **OPEN — 1 / 2 PASS**.
 
-Per repository policy, process **one story per activity**. Exact next activity: translate the complete verified Tamil assembly `stories/naattiya-kalarani/sections/naattiya-kalarani.md`, create `stories/naattiya-kalarani/translations/en/naattiya-kalarani.md` and `stories/naattiya-kalarani/TRANSLATION_REVIEW.md`, synchronize this tracker and controls, commit, and stop/report. Do not translate `மானம்` in the same activity.
+`நாட்டிய கலாராணி` English closure:
+
+- file: `stories/naattiya-kalarani/translations/en/naattiya-kalarani.md`;
+- review: `stories/naattiya-kalarani/TRANSLATION_REVIEW.md` — **PASS**;
+- source-page coverage: **22/22**;
+- content-boundary alignment: **PASS**;
+- omission / duplication / unresolved: **0 / 0 / 0**.
+
+Per repository policy, process **one story per activity**. Exact next activity: translate the complete verified Tamil assembly `stories/maanam/sections/maanam.md`, create `stories/maanam/translations/en/maanam.md` and `stories/maanam/TRANSLATION_REVIEW.md`, synchronize this tracker and controls, commit, and stop/report.

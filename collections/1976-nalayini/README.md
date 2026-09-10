@@ -23,13 +23,13 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 1 | `நளாயினி` | 3–12 | existing canonical — note only |
 | 2 | `காதல் கடிதம்` | 13–18 | existing canonical — note only |
 | 3 | `புரட்சிப் படம்` | 19–24 | existing canonical — note only |
-| 4 | `நாட்டிய கலாராணி` | 25–46 | **TAMIL SOURCE-COMPLETE — 22/22 verified; assembly/review PASS** |
+| 4 | `நாட்டிய கலாராணி` | 25–46 | **TAMIL SOURCE-COMPLETE + ENGLISH PASS** |
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE — 6/6 verified; assembly/review PASS** |
+| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE — ENGLISH NEXT** |
 
-The anthology reconciliation identified two new canonical stories requiring full source processing: `நாட்டிய கலாராணி` and `மானம்`. Both are now source-complete. The remaining six headings resolve to existing canonical workspaces and were intentionally not duplicated.
+The anthology reconciliation identified two new canonical stories requiring full source processing: `நாட்டிய கலாராணி` and `மானம்`. Both are Tamil source-complete. The remaining six headings resolve to existing canonical workspaces and were intentionally not duplicated.
 
 ## Collection-wide Tamil-first gate
 
@@ -41,6 +41,14 @@ The anthology reconciliation identified two new canonical stories requiring full
 - stale Story-8 title `மனம்`: **rejected**; source heading is `மானம்`;
 - scan-73 printed folio anomaly `10`: **preserved**.
 
-Per `ENGLISH_TRANSLATION_GUIDE.md`, English becomes the automatic next phase after this collection-wide Tamil/source closure. Translation tracker: `ENGLISH_TRANSLATION_PROGRESS.md`. Exact next target: **`நாட்டிய கலாராணி`**, then `மானம்`, one story per activity.
+## English phase
+
+Tracker: `ENGLISH_TRANSLATION_PROGRESS.md`.
+
+- `நாட்டிய கலாராணி`: **PASS** — complete English translation, 22/22 source-page anchors content-aligned, 0 omission / duplication / unresolved;
+- `மானம்`: **pending — NEXT**;
+- phase total: **1 / 2 PASS**.
+
+Exact next activity: translate **`மானம்`** completely from its verified Tamil assembly, review physical source-page anchoring across scans 73–78, synchronize controls, commit, and stop/report.
 
 `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
