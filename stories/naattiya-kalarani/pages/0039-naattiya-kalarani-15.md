@@ -4,10 +4,10 @@ printed_page: 39
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 பல நாட்களாக நின்று போயிருந்த கோமேதகத்தின் நாட்டியமும் நடைபெறுகிறது. அதற்குக் காரணம் துறவியின் ‘கலை’ பற்றிய பிரசங்கம் தான்!
@@ -24,5 +24,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 இப்படி ஒரு கேள்வி கேட்டான் துறவி. கோமேதகம், துறவியைத் திருப்பிக் கேட்டாள்; “அப்படியானால் நீங்கள் எதற்காக துறவியானீர்கள்?” என்று!
 
-<!-- Stage A direct transcription complete; source `ஜனனமாகும்` and asymmetric quotation pattern around `உலகம் அழிவது...` queued for Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: `ஜனனமாகும்` and the asymmetric quotation pattern around `உலகம் அழிவது...` / `அதற்காக...` independently confirmed. `கலை` / `நிலையாமை` / `நிலையில்லா` (`லை`), `அனைவருக்கும்` (`னை`), and `நாளை` (`ளை`) rechecked; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 39; அச்சுப் பக்கம்: 39 -->

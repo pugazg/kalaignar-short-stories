@@ -12,35 +12,29 @@
 
 **PASS / CLOSED — 5/5 verified; 8 corrections; 0 unresolved / 0 blocked.**
 
-Exact P1/P2 correction history remains in the glyph gate and review queue.
+## P3 — scans 35–39
 
-## P3 transcription gate — scans 35–39
+**PASS / CLOSED — Stage A 5/5 + independent Stage B 5/5; 4 corrections; 0 unresolved / 0 blocked.**
 
-**STAGE A COMPLETE / STAGE B PENDING.**
+P3 corrections:
 
-- direct whole-page source transcription: **5/5**;
-- status after Stage A: **5/5 `needs-review`**;
-- systematic historical-glyph/source Stage B: **not run**;
-- blocking unreadable locations: **0**;
-- no OCR, web text or another edition was used as transcription authority.
+1. scan 36 `ஆமாம்` → `ஆம்`;
+2. scan 36 `வரவேற்றாள் உபசரித்தாள்` → `வரவேற்று உபசரித்தாள்`;
+3. scan 37 `ஜோடிப் புறு` → `ஜோடிப் புறா` — historical `றா`, verified by same-edition scan 25 `நன்றாக`;
+4. scan 37 `ஒன்பது பற்றி அறியதோர்` → `என்பது பற்றி அறியதோர்`.
 
-Physical/source facts retained:
-
-- scan 35 continues the sentence ending scan 34;
-- scan 36 ends mid-sentence at `காரணம்; அவன்`; scan 37 begins `கண்ட மற்றத் துறவிகள்...`;
-- scan 37 contains a printed two-ornament separator, represented in the page record;
-- source-sensitive P3 readings are queued for independent Stage B rather than silently normalized.
+All 13 mandatory families were explicitly audited on all five P3 pages. Queue forms `இவைகள்`, `பிணத்தைநடு`, `கெடுத்தேனும்`, `மளமளவென்று`, `எல்லாத் துறைகளையும்விட`, `தத்தம் செய்துவிட்டு`, `நீர் வைய வாழ்வு`, `அவன் நிறை இடத்திலே`, `ஜனனமாகும்`, the scan 36→37 boundary and source quotation patterns were independently confirmed and retained.
 
 ## Current work-level state
 
 - page records: **22/22**;
 - direct transcription: **15/22**;
-- Stage B verified: **10/22**;
-- `needs-review`: **5/22**;
+- Stage B verified: **15/22**;
+- `needs-review`: **0/22**;
 - not-started: **7/22**;
-- blocked / unresolved blocking locations: **0 / 0**;
+- blocked / unresolved: **0 / 0**;
 - Tamil assembly: not started.
 
 ## Exact next gate
 
-**P3 Stage B only — scans 35–39.** Independently compare the committed Stage-A text to the controlling source, run the 13-family/source-sensitive audit, synchronize, commit, and stop/report. Scan 40 must remain untouched until that commit.
+**P4 Stage A only — scans 40–44.** Direct whole-page transcription, synchronize, commit, and stop/report. P4 Stage B remains a later separate activity.

@@ -4,13 +4,13 @@ printed_page: 37
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
-கண்ட மற்றத் துறவிகள் எல்லாம் ஏறத்தாழ நாற்பது ஐம்பது ஆண்டுகளைக் கடந்தவர்கள். இவனே பருவ இளைஞன்—நிலவைக் கண்டு நெஞ்சு நெகிழ்கிற பருவம்—தென்றலின் மென்மையான மோதுதலுக்கூட தாங்கமாட்டாமல் மயங்கிவிழும் வயது—ஜோடிப் புறு கண்டு கோடிகோடி எண்ணங்களைக் கொட்டுகின்ற கட்டிளமை!
+கண்ட மற்றத் துறவிகள் எல்லாம் ஏறத்தாழ நாற்பது ஐம்பது ஆண்டுகளைக் கடந்தவர்கள். இவனே பருவ இளைஞன்—நிலவைக் கண்டு நெஞ்சு நெகிழ்கிற பருவம்—தென்றலின் மென்மையான மோதுதலுக்கூட தாங்கமாட்டாமல் மயங்கிவிழும் வயது—ஜோடிப் புறா கண்டு கோடிகோடி எண்ணங்களைக் கொட்டுகின்ற கட்டிளமை!
 
 அஜந்தா ஓவியங்கள் ஏட்டிலே பார்த்து அயர்ந்திடும் கட்டம்—தழுவிடும் வடிவுள்ள சிலைகள், தணலிடு மெழுகென அவனை உருக வைக்கும் கலைகள்!
 
@@ -20,7 +20,7 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 மறுநாள் காலையிலே, கோமேதகம் துறவியிடம் பேசிக் கொண்டாள்.
 
-“துறவு நிலை என்றால் என்ன?” ஒன்பது பற்றி அறியதோர் சொற்பொழிவு நிகழ்த்தினான் துறவி, அத்தனையும் கற்கண்டு என துள்ளிக் குதித்தாள் கோமேதகம்—அரும்பு வயது!—கரும்பு மொழிகள்!—ஆகாகா! இவரன்றோ உலகுணர்ந்த ஞானி!—எனப் பெருமை கொண்டாள்.
+“துறவு நிலை என்றால் என்ன?” என்பது பற்றி அறியதோர் சொற்பொழிவு நிகழ்த்தினான் துறவி, அத்தனையும் கற்கண்டு என துள்ளிக் குதித்தாள் கோமேதகம்—அரும்பு வயது!—கரும்பு மொழிகள்!—ஆகாகா! இவரன்றோ உலகுணர்ந்த ஞானி!—எனப் பெருமை கொண்டாள்.
 
-<!-- Stage A direct transcription complete; source-sensitive `ஜோடிப் புறு`, `தத்தம் செய்துவிட்டு`, and `ஒன்பது பற்றி அறியதோர்` queued for Stage B; printed separator preserved; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: `ஜோடிப் புறு` corrected to `ஜோடிப் புறா` after same-edition historical `றா` comparison with scan 25 `நன்றாக`; `ஒன்பது பற்றி` corrected to source `என்பது பற்றி`. `மோதுதலுக்கூட` and `தத்தம் செய்துவிட்டு` independently confirmed; `அவனை` (`னை`) and `இவரன்றோ` (`றோ`) rechecked; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 37; அச்சுப் பக்கம்: 37 -->

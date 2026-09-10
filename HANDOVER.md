@@ -33,28 +33,26 @@ Durable state:
 - source boundary / dedup: **PASS / PASS**;
 - page records: **22/22**;
 - direct first-pass transcription: **15/22 — scans 25–39**;
-- independent historical-glyph/source Stage B: **10/22 — scans 25–34**;
-- verified: **10/22**;
-- `needs-review`: **5/22 — scans 35–39**;
-- blocked / unresolved blocking locations: **0 / 0**;
+- independent historical-glyph/source Stage B: **15/22 — scans 25–39**;
+- verified: **15/22**;
+- `needs-review`: **0**;
+- blocked / unresolved: **0 / 0**;
 - Tamil assembly: **not started**.
 
-P1 scans 25–29 and P2 scans 30–34 are fully closed. P3 scans 35–39 have completed **Stage A only**. P3 source-sensitive readings are documented in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`; systematic glyph/source Stage B has not yet run.
+P1 scans 25–29, P2 scans 30–34 and P3 scans 35–39 are fully closed. P3 Stage B made **4 source corrections**: scan 36 `ஆமாம்` → `ஆம்`; scan 36 `வரவேற்றாள் உபசரித்தாள்` → `வரவேற்று உபசரித்தாள்`; scan 37 `ஜோடிப் புறு` → `ஜோடிப் புறா` (historical `றா`, same-edition confirmation against scan 25 `நன்றாக`); scan 37 `ஒன்பது பற்றி அறியதோர்` → `என்பது பற்றி அறியதோர்`. P3 unresolved / blocked: **0 / 0**.
 
-Physical P3 facts: scan 36 ends `காரணம்; அவன்`; scan 37 begins `கண்ட மற்றத் துறவிகள்...`; scan 37 includes a printed two-ornament separator. Scan 40 has not been touched.
+## Exact next activity — P4 Stage A only
 
-## Exact next activity — P3 Stage B only
+Process **scans 40–44 / printed pages 40–44** only:
 
-Process only **scans 35–39 / printed pages 35–39** as **Stage B — independent historical-glyph/source verification**:
+1. re-fetch live `main`;
+2. read each whole page directly from the attached controlling source and transcribe once;
+3. preserve source wording, punctuation, spacing, paragraphing, page boundaries and clearly readable historical character identity;
+4. do **not** run the systematic 13-family Stage B in this activity;
+5. do not routinely crop/enhance or repeatedly reopen clear text; closer inspection only for genuine ambiguity;
+6. keep scans 40–44 `needs-review` after Stage A;
+7. synchronize Pass-1/current-state controls;
+8. commit Stage A;
+9. stop/report.
 
-1. re-fetch live `main` and start from the committed P3 Stage-A records;
-2. independently reopen the same five controlling scans;
-3. compare committed text against source pixels; do not fully retranscribe;
-4. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus every P3 queue entry;
-5. create crops/enhancements only for an actual unresolved character/spacing/punctuation ambiguity;
-6. record corrections individually; never global-replace;
-7. promote only fully closed pages to `verified`; retain genuine ambiguity as `needs-review`;
-8. synchronize verification/current-state controls;
-9. commit Stage B and stop/report.
-
-Do **not** begin scan 40 in the same activity. Do not begin `மானம்` until Story 4 is fully closed.
+After that durable commit, P4 Stage B on scans 40–44 becomes next. Do not begin `மானம்`.

@@ -4,10 +4,10 @@ printed_page: 38
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 மறுநாள், “உலகம் நிலையாமை எப்படி?” என்று உபதேசம் புரிந்தான் துறவி.
@@ -20,5 +20,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 “கலை என்றால் என்ன? என்பது பற்றி மறுநாள் சொற்பொழிவு நிகழ்த்தினார் துறவி அன்றைய தினம் வெறும் சொற்பொழிவோடு முடியவில்லை.
 
-<!-- Stage A direct transcription complete; source-sensitive `நீர் வைய வாழ்வு`, `அவன் நிறை இடத்திலே`, and unmatched opening quote before `கலை என்றால் என்ன?` queued for Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: `நீர் வைய வாழ்வு`, `அவன் நிறை இடத்திலே`, and the unmatched opening quotation before `கலை என்றால் என்ன?` independently confirmed. `நிலையாமை` / `புகழ்மாலை` (`லை`), `நாளை` (`ளை`), and `மண்ணோடு` (`ணோ`) rechecked; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 38; அச்சுப் பக்கம்: 38 -->

@@ -4,10 +4,10 @@ printed_page: 35
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 கெக்கலிப்புக் கொட்டுவார்களாமே; அய்யோ-இவைகள் அவளால் நினைக்கவே முடியவில்லை! தீயிலே தள்ளியதும் உடுத்தியிருக்கும் ஆடையிலே பாதிக்கு மேல், ஏன் முழுவதுமே கூட எரிந்து விடலாம்-அரை உயிராகத் தன்னை வெளியே எடுத்து ஆடச் சொல்லி, எரிச்சல் தூள் தூவும் போது ஒருவேளை நிர்வாணக் கோலத்திலேகூட நிற்க நேரிடலாம்—அய்யோ; அந்த நிர்வாணப் பிணத்தைநடு வீதியிலே ஒரு மேடையிலே தொங்கவிட்டு வேடிக்கை காட்டுவார்களாம்; வீதியிலே போவோர் வருவோர்க்கு, அப்பப்பா! எப்படித் தாங்குவேன் இந்த சித்திர வதையை! ஏ! நெருப்பு ஜ்வாலையே! என்னை உன் வாயில் தள்ளியதும் உடனே விழுங்கி ஜீரணித்து விடு!—என்னுடைய ஒரு எலும்புகூட விடாமல் பொடியாக்கிப் புசித்துவிடு!-என்றெல்லாம் மனதுக்குள் புலம்பிக்கொண்டிருந்தாள், கோமேதகம்!
@@ -16,5 +16,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 கேள்வி அம்புகளைவிடக் கடுமையாக, இறந்த கால இன்ப நினைவுகள் என்னும் விஷம் தடவப்பட்ட வேல்கள் மளமளவென்று பாய்ந்து கொண்டிருந்தன அவளது மென்மையான இதயச் சுவர்களிலே! இன்ப நினைவுகள் தான்—ஆமாம்; அந்த இளந்துறவியின் பிரவேசத்திற்குப் பிறகு அவள் வாழ்விலே ஏற்பட்ட இன்பத் திருப்பத்தைப் பற்றிய இன்ப நினைவுகள் தான்!
 
-<!-- Stage A direct transcription complete; source-sensitive `இவைகள்`, run-together `பிணத்தைநடு`, `கெடுத்தேனும்`, and `மளமளவென்று` queued for Stage B; blocking unreadable locations: 0. Scan continues scan 34 sentence. -->
+<!-- Stage B PASS: `இவைகள்`, run-together `பிணத்தைநடு`, `துறவியைக் கெடுத்தேனும் துறவியை`, and `மளமளவென்று` independently confirmed. `நிர்வாணக்` (`ணா`) and `தன்னை` / `என்னை` (`னை`) rechecked; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 35 -->
