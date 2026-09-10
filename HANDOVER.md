@@ -10,10 +10,6 @@
 
 Fetch live `main` first. Controlling scans outrank contextual readings; no silent normalization.
 
-## Batch execution workflow
-
-Each physical batch is two separate durable activities: **Stage A direct transcription → commit/stop**, then **Stage B independent historical-glyph/source verification → commit/stop**.
-
 ## External hold
 
 `நடுத்தெரு நாராயணி` remains **BLOCKED** while `வெள்ளிக்கிழமை` is incomplete.
@@ -32,28 +28,24 @@ Durable state:
 
 - source boundary / dedup: **PASS / PASS**;
 - page records: **22/22**;
-- direct first-pass transcription: **22/22 — COMPLETE — scans 25–46**;
-- independent historical-glyph/source Stage B: **20/22 — scans 25–44**;
-- verified: **20/22**;
-- `needs-review`: **2/22 — scans 45–46**;
+- direct first-pass transcription: **22/22 — COMPLETE**;
+- independent historical-glyph/source Stage B: **22/22 — PASS / COMPLETE**;
+- verified: **22/22**;
+- `needs-review`: **0/22**;
 - not-started: **0/22**;
-- blocked / unresolved blocking locations: **0 / 0**;
+- blocked / unresolved: **0 / 0**;
 - Tamil assembly: **not started**.
 
-P1 through P4 are fully closed. P5 scans 45–46 have completed **Stage A only**. The final page contains the source `வணக்கம், / இன்பசாகரன்.` block and two closing ornaments. P5 source-sensitive readings are documented in `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`.
+P1–P5 are fully closed. Total Stage-B correction history is **19 source-proven corrections / 0 unresolved**. P5 scans 45–46 closed with **0 corrections / 0 unresolved**, including direct confirmation of the final signature block and closing ornaments.
 
-## Exact next activity — P5 Stage B only
+## Exact next activity — Tamil assembly / assembly review
 
-Process only **scans 45–46 / printed pages 45–46** as **Stage B — independent historical-glyph/source verification**:
+1. re-fetch live `main`;
+2. read all **22 verified** `stories/naattiya-kalarani/pages/` records in scan order;
+3. create `stories/naattiya-kalarani/sections/naattiya-kalarani.md` as the canonical Tamil story assembly, using only verified page text and excluding YAML/source comments;
+4. preserve paragraphing, printed separators, story title, final letter/signature block and closing ornaments; resolve page-boundary joins only from the verified records, without rewriting wording;
+5. create `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md` proving **22/22 coverage**, no omission/duplication, and all physical boundaries accounted for;
+6. synchronize README/audit/handover/current-state controls;
+7. commit and stop/report.
 
-1. re-fetch live `main` and start from the committed P5 Stage-A records;
-2. independently reopen the same two controlling scans;
-3. compare committed text against source pixels; do not fully retranscribe;
-4. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus every P5 queue entry;
-5. use crops/enhancements only for actual ambiguity;
-6. record corrections individually; never global-replace;
-7. promote only fully closed pages to `verified`;
-8. synchronize verification/current-state controls;
-9. commit Stage B and stop/report.
-
-Do **not** begin Story 8 `மானம்` in the same activity.
+Do **not** begin Story 8 `மானம்` in the same activity. After Story 4 assembly/source closure is durably complete, the next-story activation can be handled separately.

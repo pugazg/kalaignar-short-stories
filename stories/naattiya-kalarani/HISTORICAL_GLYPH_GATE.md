@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Gate — நாட்டிய கலாராணி
 
-Status: **P1 + P2 + P3 + P4 PASS — 20 / 22 pages verified; P5 STAGE A COMPLETE / STAGE B NEXT**.
+Status: **PASS / COMPLETE — 22 / 22 pages independently Stage-B verified**.
 
 Mandatory independent second-pass families:
 
@@ -16,21 +16,32 @@ Each page first receives direct Stage-A transcription, then a separate Stage-B s
 - P2 scans 30–34: **PASS — 5/5; 8 corrections; 0 unresolved**.
 - P3 scans 35–39: **PASS — 5/5; 4 corrections; 0 unresolved**.
 - P4 scans 40–44: **PASS — 5/5; 4 corrections; 0 unresolved**.
+- P5 scans 45–46: **PASS — 2/2; 0 corrections; 0 unresolved**.
 
-## P5 Stage-A state — scans 45–46
+## P5 Stage-B result — scans 45–46
 
-**DIRECT TRANSCRIPTION COMPLETE — 2/2; both remain `needs-review`.**
+Both pages were independently re-opened against the attached 1976 controlling source. All 13 mandatory families were explicitly checked.
 
-The systematic 13-family audit has deliberately **not** run yet. Stage-A source-sensitive targets are recorded in `POSSIBLE_ERRORS_FOR_REVIEW.md`, including scan 45 quotation/hyphen spacing and source forms `மரணவஸ்தை`, `நாலு நாட்கள்`; scan 46 `துறவியானீர்?`, `அனார்கலி`, `வாழட்டும்—உங்கள்`, signature block and closing ornaments. These are review targets, not permission to normalize.
+Representative positive candidates:
 
-## Progress
+- scan 45: `நிர்வாண` — `ணா`; `அனைத்திலும்`, `அனைவரும்` — `னை`;
+- scan 46: `அனார்கலி`, `எண்ணினான்` — `னா`.
+
+Families without a positive source occurrence in P5 were explicitly closed as no-candidate. No global replacement was used. Queue readings, signature structure and closing ornaments were directly confirmed.
+
+P5 corrections: **0**.  
+P5 unresolved / blocked: **0 / 0**.
+
+## Final gate state
 
 | Scans | Stage B state | Corrections | Unresolved |
 |---|---|---:|---:|
-| 25–29 | **PASS — 5/5 verified** | 3 | 0 |
-| 30–34 | **PASS — 5/5 verified** | 8 | 0 |
-| 35–39 | **PASS — 5/5 verified** | 4 | 0 |
-| 40–44 | **PASS — 5/5 verified** | 4 | 0 |
-| 45–46 | **NEXT — Stage A direct transcription complete** | 0 currently recorded | 0 blocking |
+| 25–29 | **PASS — 5/5** | 3 | 0 |
+| 30–34 | **PASS — 5/5** | 8 | 0 |
+| 35–39 | **PASS — 5/5** | 4 | 0 |
+| 40–44 | **PASS — 5/5** | 4 | 0 |
+| 45–46 | **PASS — 2/2** | 0 | 0 |
 
-Next exact activity is **P5 Stage B — scans 45–46**. Do not begin Story 8 `மானம்` first.
+**Historical Tamil Glyph Gate: COMPLETE — 22/22 / zero unresolved.**
+
+Next activity is Tamil assembly / assembly review. Story 8 `மானம்` remains untouched until Story 4 closes.

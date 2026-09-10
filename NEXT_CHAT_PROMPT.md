@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` scans 45–46 — Stage B
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` Tamil assembly
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,11 +8,7 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 ## Controlling source
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only. Source PDF is not committed; SHA-256 remains pending. **The attached PDF itself is the sole controlling authority.** Do not query an external source unless explicitly requested.
-
-## Mandatory startup
-
-Read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, root `HANDOVER.md`, this prompt, collection README/inventory/scan-map, and the active story README/page-map/PASS1/HISTORICAL_GLYPH_GATE/POSSIBLE_ERRORS controls before source-dependent work.
+`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. The attached PDF remains the sole controlling authority for source disputes.
 
 ## Durable state — `நாட்டிய கலாராணி`
 
@@ -21,28 +17,22 @@ Physical range: **scans 25–46 / printed 25–46**.
 - source boundary / dedup: **PASS / PASS**;
 - page records: **22/22**;
 - direct transcription: **22/22 — COMPLETE**;
-- Stage B verified: **20/22 — scans 25–44**;
-- `needs-review`: **2/22 — scans 45–46**;
-- not-started: **0**;
+- Stage B verified: **22/22 — PASS / COMPLETE**;
+- `needs-review`: **0**;
 - blocked / unresolved: **0 / 0**;
-- Tamil assembly: not started.
+- Tamil assembly: **not started**.
 
-P1 through P4 are fully closed. P5 scans 45–46 have completed Stage A direct transcription only. Their source-sensitive queue is documented in `POSSIBLE_ERRORS_FOR_REVIEW.md`. Story 8 heading remains `மானம்`; do not begin it yet.
+P1 through P5 are fully closed. Total Stage-B corrections: **19 / 0 unresolved**. P5 scans 45–46 closed with **0 corrections**. Story 8 heading remains `மானம்`; do not begin it yet.
 
-## Exact next activity — P5 Stage B ONLY
+## Exact next activity — Tamil assembly + assembly review ONLY
 
-Process scans **45–46 / printed pages 45–46** only.
+- fetch live `main` first;
+- read all 22 verified page records in scan order;
+- create `stories/naattiya-kalarani/sections/naattiya-kalarani.md` using only the canonical verified Tamil text; exclude page YAML and source/audit comments;
+- preserve source paragraphing, dialogue punctuation, printed separators, title, final `வணக்கம், / இன்பசாகரன்.` block and two closing ornaments;
+- handle page-boundary continuations from the verified records without contextual rewriting;
+- create `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md` with a 22/22 coverage check and explicit no-omission/no-duplication result;
+- synchronize README, audit, collection controls, root handover and next prompt;
+- commit and **stop/report**.
 
-- independently reopen both attached source pages;
-- compare committed Stage-A transcription against source pixels; **do not fully retranscribe**;
-- explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- independently check every P5 entry in `POSSIBLE_ERRORS_FOR_REVIEW.md`;
-- use crops/enhancements only where a real character/spacing/punctuation ambiguity remains;
-- record every correction individually; never global-replace;
-- any unresolved reading keeps the affected page `needs-review`;
-- promote only fully closed pages to `verified`;
-- synchronize the two page records, page map, glyph gate, progress, review queue, README/audit/handover/current-state controls;
-- commit P5 Stage B;
-- **stop and report after the commit**.
-
-Do **not** begin Story 8 `மானம்` in this activity.
+Do **not** begin Story 8 `மானம்` in the same activity.

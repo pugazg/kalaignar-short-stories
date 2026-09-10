@@ -4,10 +4,10 @@ printed_page: 45
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 கடைசியாக ஏதாவது சொல்ல வேண்டியிருக்கிறதா?” என்று கேட்டான் ஒரு முரட்டு அதிகாரி.
@@ -18,5 +18,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 கோமேதகத்தின் சவ ஊர்வலத்தைக் காண நாட்டு மக்கள் அனைவரும் கூடினர். ஊர்வலம் நகர்ந்தது. தலநகரின் மத்தியிலுள்ள மேடையிலே அவளது சவம் நாலு நாட்கள் தொங்க வேண்டுமல்லவா? அந்த மேடையை நோக்கி ஊர்வலம் புறப்பட்டது. மேடையை ஊர்வலம் அணுகியது. மக்கள் கடல் அந்த மேடையை உற்று நோக்கியது. அங்கே, கோமேதகத்திற்கு முன்பாக ஏதோ ஒரு உருவம் தொங்கிக்கொண்டிருந்தது.
 
-<!-- Stage A direct transcription complete; asymmetric opening quotation on the first line, source hyphen/dash spacing around `துடித்தாள்-மத்தளம்` / `முழங்கின -வாய்`, `மரணவஸ்தை`, and source `நாலு நாட்கள்` queued for P5 Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: independent source/historical-glyph verification complete. The asymmetric opening quotation, `துடித்தாள்-மத்தளம்` / `முழங்கின -வாய்`, `மரணவஸ்தை`, and `நாலு நாட்கள்` were directly confirmed and retained. Mandatory-family positives include `நிர்வாண` (`ணா`) and `அனைத்திலும்` / `அனைவரும்` (`னை`); remaining families were no-candidate on this page. Corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 45; அச்சுப் பக்கம்: 45 -->

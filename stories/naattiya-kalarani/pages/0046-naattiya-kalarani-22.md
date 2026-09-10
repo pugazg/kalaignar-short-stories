@@ -4,10 +4,10 @@ printed_page: 46
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story-ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 “யாரோ ஒரு துறவி தூக்கு மாட்டிக்கொண்டிருக்கிறான் இந்த மேடையிலே” என்றனர் மக்கள். அதிகாரிகள் ஓடிப்போய்ப் பார்த்தனர். “இவன் துறவியல்ல” என்றனர்—துறவிக் கோலத்திலே இளவரசன் பிணமாகத் தொங்கிக்கொண்டிருந்தான்.
@@ -28,5 +28,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 ◆     ◆
 
-<!-- Stage A direct transcription complete; source `துறவியானீர்?`, `அனார்கலி`, `வாழட்டும்—உங்கள்`, signature block, and two printed closing ornaments queued for independent P5 Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: independent source/historical-glyph verification complete. `துறவியானீர்?`, `அனார்கலி`, `வாழட்டும்—உங்கள்`, the `வணக்கம், / இன்பசாகரன்.` signature block, and both printed closing ornaments were directly confirmed. Mandatory-family positives include `அனார்கலி` and `எண்ணினான்` (`னா`); remaining families were no-candidate on this page. Corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 46; அச்சுப் பக்கம்: 46 -->

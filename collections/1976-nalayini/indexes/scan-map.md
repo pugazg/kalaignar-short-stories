@@ -7,7 +7,7 @@
 | 3–12 | 3–12 | story | `நளாயினி` | existing canonical — note only |
 | 13–18 | 13–18 | story | `காதல் கடிதம்` | existing canonical — note only |
 | 19–24 | 19–24 | story | `புரட்சிப் படம்` | existing canonical — note only |
-| 25–46 | 25–46 | story | `நாட்டிய கலாராணி` | **ACTIVE — 22/22 direct-transcribed / 20 verified; P5 Stage A COMPLETE / Stage B NEXT** |
+| 25–46 | 25–46 | story | `நாட்டிய கலாராணி` | **ACTIVE — 22/22 verified; Tamil assembly / assembly review NEXT** |
 | 47–55 | 47–55 | story | `விஷம் இனிது` | existing canonical — note only |
 | 56–62 | 56–62 | story | `பாலைவன ரோஜா` | existing canonical — note only |
 | 63–72 | 63–72 | story | `அய்யோ ராஜா!` | existing canonical — note only |
@@ -15,4 +15,4 @@
 
 Boundary evidence remains unchanged: scan 25 opens `நாட்டிய கலாராணி`; scan 46 ends it; scan 47 opens `விஷம் இனிது`; scan 73 opens `மானம்`.
 
-Exact next physical range: **45–46 — Stage B only**.
+Exact next activity: **Story 4 Tamil assembly + assembly review**. Story 8 remains untouched.
