@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `புகழேந்தி` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `சபலம்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -34,19 +34,28 @@ For all 37 stories:
 
 Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Current state: **OPEN — 1 / 37 dual-gate complete**.
+Current state: **OPEN — 2 / 37 dual-gate complete**.
 
-`நளாயினி` scans **16–23 / printed 7–14** is **CURRENT PASS / CLOSED** under the 2026 standard:
+Closed under the 2026 standard:
+
+### `நளாயினி` — scans 16–23 / printed 7–14
 
 - Gate A: **8/8 PASS**;
 - Gate B: **8/8 PASS**;
 - canonical repairs: **15**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- Tamil assembly / audits / affected English synchronized;
-- 1976 P1 witness candidates adjudicated: **8 canonical defects / 5 true edition variants / 0 unresolved**.
+- unresolved source / historical-glyph readings: **0 / 0**.
 
-Do not reopen `நளாயினி` from stale prompts unless new direct source evidence appears.
+### `புகழேந்தி` — scans 10–15 / printed 1–6
+
+- Gate A: **6/6 PASS**;
+- Gate B: **6/6 PASS**;
+- canonical repairs: **9**;
+- historical-`லை` repairs include `தீவலி` → `தலைவலி` and `கால்ப் பணிவிடைகள்` → `காலைப் பணிவிடைகள்`;
+- scan-14 `காதற் கண்கள்` directly reconfirmed as the controlling 1977 reading;
+- unresolved source / historical-glyph readings: **0 / 0**;
+- Tamil assembly, audit/queue, metadata and affected English synchronized.
+
+Do not reopen either closed story from stale prompts unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
@@ -61,23 +70,23 @@ Read completely before source-dependent changes:
 7. `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
 8. collection `indexes/story-inventory.md`
 9. collection `indexes/scan-map.md`
-10. all controls / page records / assembly / audit / possible-error files under `stories/pugazhendhi/`
+10. all controls / page records / assembly / audit / possible-error files under `stories/sabalam/`
 
-## Exact next activity — `புகழேந்தி`
+## Exact next activity — `சபலம்`
 
-Workspace: `stories/pugazhendhi/`.
+Workspace: `stories/sabalam/`.
 
 Source range:
 
-- physical scans: **10–15**
-- printed pages: **1–6**
-- existing canonical pages: **6/6** under the legacy workflow
+- physical scans: **24–30**
+- printed pages: **15–21**
+- existing canonical pages: **7/7** under the legacy workflow
 
 Complete both gates in **one story-bounded activity**.
 
 ### Gate A — source-fidelity comparison
 
-Compare all six existing canonical page records and the assembled Tamil directly against source scans **10–15**.
+Compare all seven existing canonical page records and the assembled Tamil directly against source scans **24–30**.
 
 Check:
 
@@ -95,7 +104,7 @@ Do not retranscribe. Repair only source-proven mismatches.
 
 This is a **separate independent gate** and cannot be inferred from Gate A.
 
-Independently reopen all scans **10–15** at high/native resolution and explicitly consider:
+Independently reopen every scan **24–30** at high/native resolution and explicitly consider:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -108,20 +117,20 @@ Also remain alert for other old ligatures, faint vowel marks, broken/touching ty
 
 ## Closure requirements
 
-If all six pages settle:
+If all seven pages settle:
 
 1. apply all source-proven corrections to canonical page records;
 2. synchronize assembled Tamil;
 3. update story audit / possible-error / historical-glyph records;
 4. update existing English only where a corrected Tamil reading materially changes meaning;
 5. record Gate A and Gate B results and correction counts durably;
-6. update collection tracker from **1/37** to **2/37** only if both gates PASS and unresolved count is 0;
-7. update collection/root controls;
+6. update collection tracker from **2/37** to **3/37** only if both gates PASS and unresolved count is 0;
+7. synchronize story inventory, scan map, collection README, root HANDOVER / README / NEXT_CHAT_PROMPT as applicable;
 8. commit and re-fetch live `main`;
 9. stop/report.
 
-Do **not** begin Story 3 `சபலம்` in the same activity.
+Do **not** begin Story 4 `ஆட்டக்காவடி` in the same activity.
 
 ## Parallel 1976 work
 
-`நளாயினி` 1976 P2 scans **8–12** comparison is now technically ready because the controlling 1977 story is repaired, but it is **DEFERRED** while the 37-story 1977 re-audit remains the active priority. Do not resume it before `புகழேந்தி` in this activity.
+`நளாயினி` 1976 P2 scans **8–12** comparison remains technically ready but **DEFERRED** while the 37-story 1977 re-audit is the active priority.
