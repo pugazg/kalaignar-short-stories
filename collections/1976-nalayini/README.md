@@ -16,7 +16,7 @@ Physical-source workspace for the attached **`நளாயினி`** short-sto
 
 The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
 
-## Inventory / Tamil-first result
+## Inventory / final reconciliation state
 
 | # | Heading | Scans / visible printed folios | Repository state |
 |---:|---|---:|---|
@@ -27,9 +27,9 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE — ENGLISH NEXT** |
+| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE + ENGLISH PASS** |
 
-The anthology reconciliation identified two new canonical stories requiring full source processing: `நாட்டிய கலாராணி` and `மானம்`. Both are Tamil source-complete. The remaining six headings resolve to existing canonical workspaces and were intentionally not duplicated.
+The anthology reconciliation identified two new canonical stories requiring full source processing: `நாட்டிய கலாராணி` and `மானம்`. Both are now Tamil source-complete and English-complete. The remaining six headings resolve to existing canonical workspaces and were intentionally not duplicated.
 
 ## Collection-wide Tamil-first gate
 
@@ -45,10 +45,11 @@ The anthology reconciliation identified two new canonical stories requiring full
 
 Tracker: `ENGLISH_TRANSLATION_PROGRESS.md`.
 
-- `நாட்டிய கலாராணி`: **PASS** — complete English translation, 22/22 source-page anchors content-aligned, 0 omission / duplication / unresolved;
-- `மானம்`: **pending — NEXT**;
-- phase total: **1 / 2 PASS**.
+- `நாட்டிய கலாராணி`: **PASS** — 22/22 source-page anchors content-aligned;
+- `மானம்`: **PASS** — 6/6 source-page anchors content-aligned;
+- total: **2 / 2 PASS**;
+- omission / duplication / unresolved across both translations: **0 / 0 / 0**.
 
-Exact next activity: translate **`மானம்`** completely from its verified Tamil assembly, review physical source-page anchoring across scans 73–78, synchronize controls, commit, and stop/report.
+**1976 `நளாயினி` reconciliation is CLOSED for the two new canonical targets.**
 
-`நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+`நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` remains incomplete under its own repository gate.

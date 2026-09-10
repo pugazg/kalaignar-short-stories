@@ -9,11 +9,11 @@ Authority: `ENGLISH_TRANSLATION_GUIDE.md` and the final verified Tamil assemblie
 | Order | Story | Tamil/source state | English state | Action |
 |---:|---|---|---|---|
 | 1 | `நாட்டிய கலாராணி` | **PASS — 22/22 verified; assembly/review PASS** | **PASS — complete; 22/22 page anchors aligned** | closed |
-| 2 | `மானம்` | **PASS — 6/6 verified; assembly/review PASS** | `pending` | **NEXT** |
+| 2 | `மானம்` | **PASS — 6/6 verified; assembly/review PASS** | **PASS — complete; 6/6 page anchors aligned** | closed |
 
-English phase state: **OPEN — 1 / 2 PASS**.
+English phase state: **CLOSED / PASS — 2 / 2**.
 
-`நாட்டிய கலாராணி` English closure:
+## `நாட்டிய கலாராணி` English closure
 
 - file: `stories/naattiya-kalarani/translations/en/naattiya-kalarani.md`;
 - review: `stories/naattiya-kalarani/TRANSLATION_REVIEW.md` — **PASS**;
@@ -21,4 +21,15 @@ English phase state: **OPEN — 1 / 2 PASS**.
 - content-boundary alignment: **PASS**;
 - omission / duplication / unresolved: **0 / 0 / 0**.
 
-Per repository policy, process **one story per activity**. Exact next activity: translate the complete verified Tamil assembly `stories/maanam/sections/maanam.md`, create `stories/maanam/translations/en/maanam.md` and `stories/maanam/TRANSLATION_REVIEW.md`, synchronize this tracker and controls, commit, and stop/report.
+## `மானம்` English closure
+
+- file: `stories/maanam/translations/en/maanam.md`;
+- review: `stories/maanam/TRANSLATION_REVIEW.md` — **PASS**;
+- source-page coverage: **6/6**;
+- content-boundary alignment: **PASS**;
+- explicit checked transitions: **73→74, 74→75, 76→77**;
+- scan-73 printed folio `10`: preserved in provenance;
+- scan-78 paired-swans source mark: preserved; obscured library stamp excluded;
+- omission / duplication / unresolved: **0 / 0 / 0**.
+
+The English phase introduced by this anthology reconciliation is now fully closed. No additional translation target exists in this tracker.

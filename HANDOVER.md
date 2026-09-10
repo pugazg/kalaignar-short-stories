@@ -10,64 +10,55 @@
 
 Fetch live `main` first. Controlling scans outrank contextual readings; no silent normalization.
 
-## External hold
+## 1976 `நளாயினி` reconciliation — CLOSED
 
-`நடுத்தெரு நாராயணி` remains **BLOCKED** while `வெள்ளிக்கிழமை` is incomplete.
+Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending.
 
-## 1976 `நளாயினி` — Tamil/source phase CLOSED
+Two new canonical stories were created by this anthology reconciliation and are now fully closed:
 
-Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
+- `நாட்டிய கலாராணி` — Tamil **22/22 verified / assembly PASS**; English **PASS / 22/22 page anchors aligned**;
+- `மானம்` — Tamil **6/6 verified / assembly PASS**; English **PASS / 6/6 page anchors aligned**.
 
-The anthology reconciliation identified two new canonical stories requiring full source processing:
+The remaining six anthology headings resolve to existing canonical workspaces and were intentionally not duplicated.
 
-- `நாட்டிய கலாராணி` — **TAMIL SOURCE-COMPLETE**: 22/22 verified, assembly/review PASS, 0 unresolved / 0 blocked;
-- `மானம்` — **TAMIL SOURCE-COMPLETE**: 6/6 verified, assembly/review PASS, 0 unresolved / 0 blocked.
+### `மானம்` English closure
 
-The remaining six story headings resolve to existing canonical workspaces and were intentionally note-only in this anthology intake.
-
-## English phase — OPEN / 1 of 2 PASS
-
-Durable tracker: `collections/1976-nalayini/ENGLISH_TRANSLATION_PROGRESS.md`.
-
-### Story 4 — `நாட்டிய கலாராணி`
-
-**ENGLISH PASS / CLOSED.**
-
-- English title: **Queen of the Art of Dance**;
-- translation: `stories/naattiya-kalarani/translations/en/naattiya-kalarani.md`;
-- review: `stories/naattiya-kalarani/TRANSLATION_REVIEW.md` — **PASS**;
-- translated source-page coverage: **22/22**;
-- physical marker order: **25–46 complete**;
+- English title: **Honour**;
+- translation: `stories/maanam/translations/en/maanam.md`;
+- review: `stories/maanam/TRANSLATION_REVIEW.md` — **PASS**;
+- source-page coverage: **6/6**;
+- physical marker sequence: **73–78 complete**;
 - content-boundary alignment: **PASS**;
-- critical transitions independently checked: **25→26, 27→28, 33→34, 34→35, 36→37**;
+- explicit checked transitions: **73→74, 74→75 `அவசரத்தை` / `யுணர்ந்து`, 76→77 `மானத்தைக் காக்கமுடியாத` / `கோழை மகனே`**;
+- scan-73 visible printed folio **`10`** preserved as source provenance;
+- scan-78 paired-swans source mark preserved; obscured library stamp excluded;
 - omission / duplication / unresolved English: **0 / 0 / 0**;
-- no Tamil source issue was reopened during translation.
+- Tamil source issues reopened during translation: **0**.
 
-The final scan-46 letter/signature structure is retained as `Vanakkam, / Inbasagaran.`; source-sensitive forms were handled conservatively and documented rather than used to rewrite Tamil.
+Collection translation tracker `collections/1976-nalayini/ENGLISH_TRANSLATION_PROGRESS.md`: **CLOSED / 2 of 2 PASS**.
 
-### Story 8 — `மானம்`
+## External hold — `நடுத்தெரு நாராயணி`
 
-Tamil/source remains **CLOSED / PASS**:
+The hold remains active until `வெள்ளிக்கிழமை` is explicitly complete under its own repository gate.
 
-- physical range: scans **73–78**;
-- source heading: **`மானம்`**; stale `மனம்` rejected;
-- scan 73 visible printed folio: **`10` source anomaly**; scans 74–78 = 74–78;
-- page records / direct transcription / Stage B / verified: **6/6 / 6/6 / 6/6 / 6/6**;
-- canonical assembly: `stories/maanam/sections/maanam.md` — **COMPLETE**;
-- assembly review: `stories/maanam/ASSEMBLY_REVIEW.md` — **PASS**;
-- English: **pending — NEXT**.
+Read-only recheck performed against `pugazg/kalaignar-novels` live `main` at **`8d62bd19dd4235d841016ee9197fbd6e38350eb0`**:
 
-## Exact next activity — `மானம்` English translation ONLY
+- `வெள்ளிக்கிழமை` Tamil: **PASSED / 23 of 23 chapters**;
+- English chapters: **23 / 23 present/reviewed**;
+- final whole-work bilingual review: **READY / NEXT**;
+- whole-work English: **NOT YET VERIFIED**;
+- release: **BLOCKED pending bilingual review**.
 
-1. re-fetch live `main`;
-2. read `ENGLISH_TRANSLATION_GUIDE.md`, root `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, the collection translation tracker, `stories/maanam/README.md`, `sections/maanam.md`, `ASSEMBLY_REVIEW.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md`, page map and relevant source/glyph controls;
-3. translate the **complete verified Tamil assembly** into `stories/maanam/translations/en/maanam.md`;
-4. preserve physical source-page markers at the actual content boundaries, including the scan-73 printed-folio anomaly as provenance rather than story prose;
-5. independently check the 73→74 continuation, 74→75 `அவசரத்தை` / `யுணர்ந்து`, 76→77 `மானத்தைக் காக்கமுடியாத` / `கோழை மகனே`, and final scan-78 content/closing source mark;
-6. create `stories/maanam/TRANSLATION_REVIEW.md` and prove 6/6 coverage / marker-content alignment / 0 omission or duplication;
-7. keep the library stamp outside story prose and preserve the final paired-swans source mark under the translation convention;
-8. do not silently fix source-odd Tamil from English expectation;
-9. synchronize story README, collection tracker/README, root handover and next prompt;
-10. commit and stop/report.
+Therefore `நடுத்தெரு நாராயணி` remains **BLOCKED** for now. Do not infer hold clearance from stale chat context.
 
-Do **not** begin any later story/work in the same activity.
+## Exact next activity
+
+On the next `Proceed with next activity`:
+
+1. fetch live `pugazg/kalaignar-short-stories` `main`;
+2. re-fetch live `pugazg/kalaignar-novels` `main` and `works/vellikkizhamai/README.md`;
+3. if `வெள்ளிக்கிழமை` is still not explicitly complete/verified under its own gate, preserve the hold and stop/report the blocking state;
+4. if its own repository explicitly records completion, synchronize this hold state before activating `நடுத்தெரு நாராயணி`;
+5. do not use memory or an old prompt to clear the hold.
+
+No further 1976 `நளாயினி` work is pending in this reconciliation tracker.

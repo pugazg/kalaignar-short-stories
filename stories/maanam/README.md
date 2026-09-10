@@ -35,6 +35,24 @@ The scan-73 folio is a physical source anomaly: the bottom-left printed number i
 
 The final paired-swans ornament is preserved as a source mark in the assembled layer. The library stamp below it remains a non-story artefact and its obscured text is not promoted into the story.
 
-## Next phase
+## English translation closure
 
-Tamil/source work for `மானம்` is closed. Under `ENGLISH_TRANSLATION_GUIDE.md`, the 1976 collection now advances automatically to English translation after its Tamil-first gate. The exact next target is `நாட்டிய கலாராணி` first, then `மானம்`, one story per activity.
+**ENGLISH PASS / CLOSED.**
+
+- English title: **Honour**;
+- translation: `translations/en/maanam.md` — **COMPLETE**;
+- translation review: `TRANSLATION_REVIEW.md` — **PASS**;
+- translated source-page coverage: **6 / 6**;
+- physical page-marker sequence: **73–78 complete**;
+- content-boundary alignment: **PASS**;
+- explicit cross-page checks: **73→74, 74→75, 76→77**;
+- omission / duplication / unresolved English: **0 / 0 / 0**;
+- scan-73 folio `10`: preserved in provenance, not story prose;
+- scan-78 paired-swans mark: preserved; library stamp excluded;
+- Tamil source issues reopened during translation: **0**.
+
+## Story state
+
+**`மானம்` archival processing: TAMIL PASS + ENGLISH PASS / CLOSED.**
+
+No future Tamil or English change should be made without new source evidence, a documented translation defect, or explicit authorization for a later derivative phase.
