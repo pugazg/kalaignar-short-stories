@@ -4,11 +4,19 @@ printed_page: 45
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+கடைசியாக ஏதாவது சொல்ல வேண்டியிருக்கிறதா?” என்று கேட்டான் ஒரு முரட்டு அதிகாரி.
+
+“இல்ல!” என்று தலையசைத்தாள்.
+
+இரண்டு வீரர்கள் அவளை ஒரு இரும்புக் கம்பியிலே கட்டினர். கம்பியோடு தூக்கி, அவளைத் தணலில் எறிந்தார்கள். வெந்துகொண்டிருக்கும் போதே அவளை வெளியே எடுத்தார்கள். தீர்ப்பில் குறிப்பிட்டபடி மிளகாய்த் தூள் தூவப்பட்டது—கோமேதகம் துடித்தாள்-மத்தளம், தாளங்கள் முழங்கின -வாய் திறக்காமல் தரையிலே உருண்டபடி புழுப் போலத் துடித்தாள்—சிறிது நேரம் மரணவஸ்தை—மன்னன் எதிர்பார்த்தபடி நிர்வாண நடனம் நடைபெறவில்லை - விரைவிலேயே பிணமானாள். ஆழி நாட்டின் அரங்குகள் அனைத்திலும் அழகு தெறித்த அந்த அற்புத சுந்தரியின் ஆவி, துடிப்போடு நீங்கியது! உடல் அசைவால் உள்ளத்தை உருக்கிய அந்த ஒய்யாரியின் மேனி பயங்கரமாகக் காட்சி தந்தது! தீர்ப்பின் மூன்றாவது திட்டப்படி, அவளது சவம், பொதுமேடைக்கு காட்சிக்காக எடுத்துச் செல்லப்பட்டது!
+
+கோமேதகத்தின் சவ ஊர்வலத்தைக் காண நாட்டு மக்கள் அனைவரும் கூடினர். ஊர்வலம் நகர்ந்தது. தலநகரின் மத்தியிலுள்ள மேடையிலே அவளது சவம் நாலு நாட்கள் தொங்க வேண்டுமல்லவா? அந்த மேடையை நோக்கி ஊர்வலம் புறப்பட்டது. மேடையை ஊர்வலம் அணுகியது. மக்கள் கடல் அந்த மேடையை உற்று நோக்கியது. அங்கே, கோமேதகத்திற்கு முன்பாக ஏதோ ஒரு உருவம் தொங்கிக்கொண்டிருந்தது.
+
+<!-- Stage A direct transcription complete; asymmetric opening quotation on the first line, source hyphen/dash spacing around `துடித்தாள்-மத்தளம்` / `முழங்கின -வாய்`, `மரணவஸ்தை`, and source `நாலு நாட்கள்` queued for P5 Stage B; blocking unreadable locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 45; அச்சுப் பக்கம்: 45 -->

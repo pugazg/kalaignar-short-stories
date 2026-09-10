@@ -16,14 +16,14 @@ Canonical story workspace for **நாட்டிய கலாராணி**, o
 
 ## Current Tamil/source state
 
-**TRANSCRIPTION IN PROGRESS — P4 FULLY CLOSED — 20 / 22 DIRECT-TRANSCRIBED AND VERIFIED.**
+**DIRECT TRANSCRIPTION COMPLETE — 22 / 22; P5 STAGE B PENDING — 20 / 22 VERIFIED.**
 
 - page records: **22 / 22**
-- direct first-pass transcription: **20 / 22** — scans 25–44
-- independent historical-glyph/source Stage B: **20 / 22** — scans 25–44
+- direct first-pass transcription: **22 / 22 — scans 25–46 COMPLETE**
+- independent historical-glyph/source Stage B: **20 / 22 — scans 25–44**
 - `verified`: **20**
-- `needs-review`: **0**
-- `not-started`: **2** — scans 45–46
+- `needs-review`: **2 — scans 45–46**
+- `not-started`: **0**
 - `blocked` / unresolved blocking locations: **0 / 0**
 - Tamil assembly: **not started**
 
@@ -35,12 +35,12 @@ Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPT
 2. scans 30–34 — **Stage A COMPLETE / Stage B PASS / 5 verified**
 3. scans 35–39 — **Stage A COMPLETE / Stage B PASS / 5 verified**
 4. scans 40–44 — **Stage A COMPLETE / Stage B PASS / 5 verified**
-5. scans 45–46 — **NEXT: Stage A**
+5. scans 45–46 — **Stage A COMPLETE / Stage B NEXT / 2 needs-review**
 
-P4 Stage B closed with **4 source/line-break corrections / 0 unresolved**. The exact correction list is recorded in `HISTORICAL_GLYPH_GATE.md` and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
+P5 Stage A directly transcribed the story ending, including the `வணக்கம், / இன்பசாகரன்.` block and two printed closing ornaments. No blocking unreadable location remains.
 
 ## Exact next activity
 
-**P5 Stage A only:** process scans **45–46 / printed pages 45–46** by direct whole-page source transcription. Do not run systematic Stage B in the same activity; keep those pages `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
+**P5 Stage B only:** independently reopen scans **45–46**, compare the committed Stage-A text to the same source, audit all 13 mandatory historical families plus every P5 source-sensitive queue entry, correct only source-proven mismatches, synchronize verification controls, commit, and stop/report.
 
-Do **not** begin Story 8 `மானம்` in the same activity. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Do **not** begin Story 8 `மானம்` until P5 Stage B closes Story 4. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

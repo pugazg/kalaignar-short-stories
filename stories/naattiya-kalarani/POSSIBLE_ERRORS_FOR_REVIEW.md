@@ -4,31 +4,25 @@ This is a review/audit queue, not a confirmed-error list.
 
 ## Closed prior batches
 
-- P1 scans 25–29: **CLOSED — 0 unresolved / 0 blocked**.
+- P1 scans 25–29: **CLOSED — 3 corrections / 0 unresolved / 0 blocked**.
 - P2 scans 30–34: **CLOSED — 8 corrections / 0 unresolved / 0 blocked**.
 - P3 scans 35–39: **CLOSED — 4 corrections / 0 unresolved / 0 blocked**.
+- P4 scans 40–44: **CLOSED — 4 corrections / 0 unresolved / 0 blocked**.
 
-## P4 Stage-B dispositions — scans 40–44
+Exact closed-batch dispositions remain in `HISTORICAL_GLYPH_GATE.md` and page records.
 
-| Scan | Stage-A reading / boundary | Stage-B source result | Disposition |
+## P5 Stage-A queue — scans 45–46
+
+| Scan | Stage-A reading / boundary | Why queued | Stage-A disposition |
 |---:|---|---|---|
-| 40 | `கலிதான்` | historical `லை` source identity gives `கலைதான்` | **CORRECTED** |
-| 40 | `நடைபெற்றுத் தொடங்கின` | source reads `நடைபெறத் தொடங்கின` | **CORRECTED** |
-| 40 | `அதையும் தெரிந்துகொண்டே யிருந்தது!` | directly confirmed | **CONFIRMED / retain** |
-| 40 | quotation/punctuation after `வாதாடுகிறேன்` | source closes quote before exclamation | **CONFIRMED / retain** |
-| 41 | `இலக்கானாள்` | historical `னா` identity confirmed | **CONFIRMED / retain** |
-| 41 | `ஆத் மாக்களில்` | physical line break splits one lexical word: `ஆத்மாக்களில்` | **CORRECTED** |
-| 41 | `களி மண்` | physical line break splits `களிமண்`; same paragraph has `களிமண்ணிலே` | **CORRECTED** |
-| 42 | `கயல் அழகி` | directly confirmed | **CONFIRMED / retain** |
-| 42 | `பொறுமை கொண்ட` | directly confirmed despite contextual oddity | **CONFIRMED / retain** |
-| 42 | `சொல்லுகிறாய்` | historical `றா` identity confirmed | **CONFIRMED / retain** |
-| 43 | `காலை` / `கலைந்து` | historical `லை` identities confirmed | **CONFIRMED / retain** |
-| 43 | `கலா தேவியின்` | source-visible spacing confirmed | **CONFIRMED / retain** |
-| 43 | `கோமா...!` | terminal source form confirmed; no contextual expansion | **CONFIRMED / retain** |
-| 44 | `பந்தங்களிலேஉன்னை` | source visibly runs the form together | **CONFIRMED / retain** |
-| 44 | `நானே......` | six-dot pause directly confirmed | **CONFIRMED / retain** |
-| 44 | `போது!` | source reads `போது!`; do not supply contextual `ம்` | **CONFIRMED / retain** |
+| 45 | `கடைசியாக ஏதாவது சொல்ல வேண்டியிருக்கிறதா?”` | source begins without a visible opening quote but closes the quotation | preserve pending Stage B |
+| 45 | `துடித்தாள்-மத்தளம்` / `முழங்கின -வாய்` | source-visible hyphen/dash spacing | preserve pending Stage B |
+| 45 | `மரணவஸ்தை` | source-odd lexical form | preserve pending Stage B |
+| 45 | `நாலு நாட்கள்` | source wording | preserve; no modernization |
+| 46 | `துறவியானீர்?` | source-visible address/form | preserve pending Stage B |
+| 46 | `அனார்கலி` | proper-name reading from source | preserve pending Stage B |
+| 46 | `வாழட்டும்—உங்கள்` | source dash/punctuation | preserve pending Stage B |
+| 46 | `வணக்கம்,` / `இன்பசாகரன்.` | source signature block | preserve pending Stage B |
+| 46 | two printed closing ornaments | physical story-ending marks | preserve pending Stage B |
 
-P4 Stage-B result: **CLOSED — 4 corrections / 0 unresolved / 0 blocked**.
-
-Future batches append new Stage-A source-sensitive readings here and close them only in the matching Stage-B activity.
+P5 Stage-A blocking unreadable locations: **0**. Both pages remain `needs-review` solely because independent Stage B has not run.

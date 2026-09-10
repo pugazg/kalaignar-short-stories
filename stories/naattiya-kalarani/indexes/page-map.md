@@ -5,31 +5,31 @@ Story range: scans **25–46 / printed pages 25–46**.
 
 | Scan | Printed | Page type | Status | Note |
 |---:|---:|---|---|---|
-| 25 | 25 | story-opening | `verified` | P1 Stage A + Stage B PASS; ends `நட்டுவ`; 0 corrections |
-| 26 | 26 | story | `verified` | P1 Stage B PASS; `இன்பபுரிக்கு` → `இன்ப புரிக்கு` |
-| 27 | 27 | story | `verified` | P1 Stage B PASS; `அங்கேன்` and terminal `கவிவாணர்-` confirmed |
-| 28 | 28 | story | `verified` | P1 Stage B PASS; `துடிக்கிட்ட` → `திடுக்கிட்ட` |
-| 29 | 29 | story | `verified` | P1 Stage B PASS; `விஷயங்களைக்` → `விஷயங்களை` |
-| 30 | 30 | story | `verified` | P2 Stage B PASS; `கோரிலா` → `கோநிலா` |
-| 31 | 31 | story | `verified` | P2 Stage B PASS; `நிற்கவில்லை` → `நிற்க வில்லை`; `சீமான்கள்` → `சீமான்களே` |
-| 32 | 32 | story | `verified` | P2 Stage B PASS; 4 corrections including `அநாதைகள்`, `தல நகரிலே`, `கடுந் தண்டனைக்குக்`, `பனித்தும்பும்` |
-| 33 | 33 | story | `verified` | P2 Stage B PASS; ends mid-quotation `‘அன்றொரு நாள்` |
-| 34 | 34 | story | `verified` | P2 Stage B PASS; `தணியாமலிருக்கும்`; ends mid-sentence |
-| 35 | 35 | story | `verified` | P3 Stage B PASS; queue forms independently confirmed; 0 corrections |
-| 36 | 36 | story | `verified` | P3 Stage B PASS; `ஆமாம்` → `ஆம்`; `வரவேற்றாள் உபசரித்தாள்` → `வரவேற்று உபசரித்தாள்`; ends `காரணம்; அவன்` |
-| 37 | 37 | story | `verified` | P3 Stage B PASS; `புறு` → historical `புறா`; `ஒன்பது` → `என்பது`; printed separator retained |
-| 38 | 38 | story | `verified` | P3 Stage B PASS; source-odd wording/quotation confirmed; 0 corrections |
-| 39 | 39 | story | `verified` | P3 Stage B PASS; `ஜனனமாகும்` and asymmetric quotation confirmed; 0 corrections |
-| 40 | 40 | story | `verified` | P4 Stage B PASS; `நடைபெற்றுத்` → `நடைபெறத்`; `கலிதான்` → historical `கலைதான்` |
-| 41 | 41 | story | `verified` | P4 Stage B PASS; line-break fragments joined as `ஆத்மாக்களில்`, `களிமண்`; `இலக்கானாள்` confirmed |
-| 42 | 42 | story | `verified` | P4 Stage B PASS; `கயல் அழகி`, `பொறுமை கொண்ட`, `சொல்லுகிறாய்` confirmed; 0 corrections |
-| 43 | 43 | story | `verified` | P4 Stage B PASS; `லை` candidates, `கலா தேவியின்`, `கோமா...!` confirmed; 0 corrections |
-| 44 | 44 | story | `verified` | P4 Stage B PASS; `பந்தங்களிலேஉன்னை`, `நானே......`, `போது!` confirmed; 0 corrections |
-| 45 | 45 | story | `not-started` | **NEXT — P5 Stage A** |
-| 46 | 46 | story-ending | `not-started` | P5 Stage A pending; final prose plus printed closing ornaments |
+| 25 | 25 | story-opening | `verified` | P1 Stage B PASS |
+| 26 | 26 | story | `verified` | P1 Stage B PASS |
+| 27 | 27 | story | `verified` | P1 Stage B PASS |
+| 28 | 28 | story | `verified` | P1 Stage B PASS |
+| 29 | 29 | story | `verified` | P1 Stage B PASS |
+| 30 | 30 | story | `verified` | P2 Stage B PASS |
+| 31 | 31 | story | `verified` | P2 Stage B PASS |
+| 32 | 32 | story | `verified` | P2 Stage B PASS |
+| 33 | 33 | story | `verified` | P2 Stage B PASS |
+| 34 | 34 | story | `verified` | P2 Stage B PASS |
+| 35 | 35 | story | `verified` | P3 Stage B PASS |
+| 36 | 36 | story | `verified` | P3 Stage B PASS |
+| 37 | 37 | story | `verified` | P3 Stage B PASS; historical `புறா` |
+| 38 | 38 | story | `verified` | P3 Stage B PASS |
+| 39 | 39 | story | `verified` | P3 Stage B PASS |
+| 40 | 40 | story | `verified` | P4 Stage B PASS; historical `கலைதான்` |
+| 41 | 41 | story | `verified` | P4 Stage B PASS; `ஆத்மாக்களில்`, `களிமண்` |
+| 42 | 42 | story | `verified` | P4 Stage B PASS |
+| 43 | 43 | story | `verified` | P4 Stage B PASS |
+| 44 | 44 | story | `verified` | P4 Stage B PASS |
+| 45 | 45 | story | `needs-review` | **P5 Stage A COMPLETE**; source-sensitive punctuation/wording queued; Stage B NEXT |
+| 46 | 46 | story-ending | `needs-review` | **P5 Stage A COMPLETE**; ending/signature/closing ornaments transcribed; Stage B NEXT |
 
 Forward boundary: scan **47** opens `விஷம் இனிது` and is excluded.
 
-Current totals: **22 records / 20 direct-transcribed / 20 Stage-B verified / 0 needs-review / 2 not-started / 0 blocked**.
+Current totals: **22 records / 22 direct-transcribed / 20 Stage-B verified / 2 needs-review / 0 not-started / 0 blocked**.
 
-Next exact activity: **P5 Stage A — scans 45–46 only**.
+Next exact activity: **P5 Stage B — scans 45–46 only**.
