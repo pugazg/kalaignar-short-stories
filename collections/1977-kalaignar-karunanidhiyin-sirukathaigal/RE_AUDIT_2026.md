@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 3 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 4 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / `audit PASS` state is legacy provenance only. Current release confidence requires the new Gate A + Gate B standard.
 
@@ -73,12 +73,30 @@ Scans **24–30 / printed 15–21**:
 - Gate B: **PASS — 7/7**;
 - canonical repairs: **6**;
 - historical-`னை` repair: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல`;
-- other repairs include `அவ்வப்போது பற்றிய அக்கறைகள்` → `அலுப்பைப் பற்றிய அக்கறைகள்`, source spacing/sandhi restoration on scan 28, and `மூட்டை முடிச்சுகளைத்` on scan 30;
 - unresolved source readings: **0**;
 - unresolved historical-glyph readings: **0**;
 - Tamil assembly / audit / queue / affected English: synchronized.
 
 Full story record: `../../stories/sabalam/RE_AUDIT_2026.md`.
+
+### `ஆட்டக்காவடி`
+
+Scans **31–38 / printed 22–29**:
+
+- Gate A: **PASS — 8/8**;
+- Gate B: **PASS — 8/8**;
+- canonical repairs: **7**;
+- scan 31: two `அவ்வளவு தான்` source-spacing repairs;
+- scan 32: `அவர்களே ஏமாற்றி விட்டால்` → `அவர்களை ஏமாற்றி விட்டால்`;
+- scan 33: `பக்திக் காவடி யென்று` and exact `கனிமொழி!....நீ` restored;
+- scan 36: quotation punctuation around `கண்ணியவானு நீ?—”` restored;
+- scan 38: `செருகப் பட்டதுபோல்` restored;
+- high-risk Gate-B candidate `கருவிழியானை`: **directly reconfirmed as the 1977 source reading; not normalized to `கருவிழியானான்`**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- Tamil assembly / audit / queue / English review: synchronized; English prose rewrite required: **0**.
+
+Full story record: `../../stories/aattakkavadi/RE_AUDIT_2026.md`.
 
 ## Progress
 
@@ -87,8 +105,8 @@ Full story record: `../../stories/sabalam/RE_AUDIT_2026.md`.
 | 1 | `புகழேந்தி` | 10–15 | **PASS** | **PASS** | **CURRENT PASS — 9 repairs / 0 unresolved** |
 | 2 | `நளாயினி` | 16–23 | **PASS** | **PASS** | **CURRENT PASS — 15 repairs / 0 unresolved** |
 | 3 | `சபலம்` | 24–30 | **PASS** | **PASS** | **CURRENT PASS — 6 repairs / 0 unresolved** |
-| 4 | `ஆட்டக்காவடி` | 31–38 | **NEXT** | pending | REOPENED |
-| 5 | `குப்பைத்தொட்டி` | 39–46 | pending | pending | REOPENED |
+| 4 | `ஆட்டக்காவடி` | 31–38 | **PASS** | **PASS** | **CURRENT PASS — 7 repairs / 0 unresolved** |
+| 5 | `குப்பைத்தொட்டி` | 39–46 | **NEXT** | pending | REOPENED |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | pending | pending | REOPENED |
 | 7 | `சங்கிலிச்சாமி` | 57–68 | pending | pending | REOPENED |
 | 8 | `கங்கையின் காதல்` | 69–72 | pending | pending | REOPENED |
@@ -124,11 +142,11 @@ Full story record: `../../stories/sabalam/RE_AUDIT_2026.md`.
 
 ## Processing order
 
-`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி` and then `சபலம்` were subsequently closed. The exact next story is **Story 4 `ஆட்டக்காவடி`, scans 31–38 / printed pages 22–29**. After that, continue through Story 37 in anthology order.
+`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி`, `சபலம்`, and `ஆட்டக்காவடி` were subsequently closed. The exact next story is **Story 5 `குப்பைத்தொட்டி`, scans 39–46 / printed pages 30–37**. After that, continue through Story 37 in anthology order.
 
 ## Exact next activity
 
-Re-audit `ஆட்டக்காவடி` scans **31–38 / printed pages 22–29** in one story-bounded activity:
+Re-audit `குப்பைத்தொட்டி` scans **39–46 / printed pages 30–37** in one story-bounded activity:
 
 1. Gate A — compare all existing canonical records / assembly directly against all eight 1977 source pages;
 2. Gate B — independently reopen all eight pages and complete the mandatory Old Tamil Glyph check;
@@ -138,4 +156,4 @@ Re-audit `ஆட்டக்காவடி` scans **31–38 / printed pages 22�
 6. update this tracker and root/collection controls;
 7. commit, re-fetch live `main`, and stop/report.
 
-Do not begin Story 5 `குப்பைத்தொட்டி` in the same activity.
+Do not begin Story 6 `சந்தனக்கிண்ணம்` in the same activity.
