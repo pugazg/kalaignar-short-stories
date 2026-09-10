@@ -3,7 +3,7 @@
 ## Scope
 
 - Story: **ஆட்டக்காவடி**
-- English title treatment: **Aattakkavadi** (transliteration retained)
+- English title treatment: **Aattakkavadi**
 - Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 - Printed pages: **22–29**
 - Anthology scans: **31–38**
@@ -13,76 +13,44 @@
 
 ## Translation gate
 
-The story entered translation after the repository recorded:
+**PASS — English remains complete and semantically synchronized after the 2026 Tamil dual-gate re-audit.**
 
-- Tamil page records: **8 / 8 verified**;
-- Tamil audit: **PASS**;
-- unresolved / blocked story text: **0**;
-- canonical Tamil assembly: complete;
-- visual fidelity: **PASS — corrected**;
-- possible-error queue read before translation.
+Current Tamil gate state:
 
-The canonical Tamil was not modified during the English activity.
+- Gate A: **8/8 PASS**;
+- Gate B: **8/8 PASS**;
+- source-proven canonical repairs: **7**;
+- unresolved source / historical-glyph readings: **0 / 0**.
 
-## Completeness review
+## 2026 repair impact review
 
-**PASS**
+The seven Tamil repairs were reviewed against the existing English layer.
+
+- two scan-31 `அவ்வளவு தான்` source-spacing repairs: no English semantic change;
+- scan-32 `அவர்களே ஏமாற்றி விட்டால்` → `அவர்களை ஏமாற்றி விட்டால்`: meaning-sensitive Tamil repair, but the existing English already says **“If I disappoint them now”**, which matches the corrected source meaning;
+- scan-33 `பக்திக் காவடி யென்று`: source orthography only; no English change;
+- scan-33 `கனிமொழி!....நீ`: punctuation/spacing only; no English change;
+- scan-36 `கண்ணியவானு நீ?—” கனிமொழி`: quotation punctuation only; existing English dialogue remains semantically correct;
+- scan-38 `செருகப் பட்டதுபோல்`: source spacing/word-form repair only; existing English meaning remains correct.
+
+**English prose rewrites required: 0.**
+
+## High-risk source reading
+
+The Gate-B candidate `கந்தனும் அவளுக்குக் கருவிழியானை.` was independently reconfirmed as the controlling 1977 reading. The existing conservative English rendering, **“Kandan became the dark pupil of her eye,”** remains appropriate; no speculative Tamil normalization or English rewrite is introduced.
+
+## Completeness / structure
+
+**PASS.**
 
 - all eight verified Tamil source pages are represented in English;
-- source-page comments for scans **31–38** are retained once and in order;
-- page joins at 31→32, 34→35, 36→37 and the letter continuation 37→38 remain traceable;
-- scan **39 / Story 5** text is not included;
-- source-significant opening bold, enlarged paragraph initials, Kanimozhi's letter layout, isolated alternatives and sign-off remain represented semantically;
-- opening and closing ornament comments are retained.
-
-## Title and key-term treatment
-
-- `ஆட்டக்காவடி` is retained as **Aattakkavadi**. The story itself explains the distinction between `ஆட்டக் காவடி` and devotional kavadi, so no replacement English title is imposed.
-- `காவடி ஆட்டக் கச்சேரி` is rendered **kavadi dance performance** and remains emphasized to mirror source emphasis.
-- `திருக்குறள் திருமணம்` is retained as **Thirukkural marriage** rather than supplied with an outside ideological gloss.
-- `பகுத்தறிவு` is rendered **rationalism / reason** according to sentence function.
-- `பம்பை` is retained as **pambai** rather than replaced with an uncertain instrument label.
-- `மிராசுதார்` is retained as **mirasudar** in the character designation rather than modernized into a different landholding title.
-
-## Possible-error queue handling
-
-`POSSIBLE_ERRORS_FOR_REVIEW.md` was read in full. Its entries remain human-review candidates, not corrections. No queued Tamil form was silently normalized merely to produce smoother English.
-
-Notable conservative choices include:
-
-- `‘பாவலா’` — retained as quoted **‘pāvalā’** in the English story because the verified source form is unusual and no speculative lexical replacement is justified.
-- `வாக்கலித்துவிட்டு` — translated by the sentence sense as **given them my word**, leaving Tamil unchanged.
-- `கொஞ்சந் தோரணையில்` — rendered as speaking **in a coaxing manner**.
-- `பகுத்தறிவு புரியிலே` — rendered as entering **the realm of rationalism**, without changing the source phrase.
-- `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்!` — translated through its evident admonitory sense that one should not repeat a wrong one knows to be wrong.
-- `சிங்காரச் சிட்டெழுப்பும் சிந்தனை முழக்கம்` — translated conservatively as the graceful little bird raising a **cry of thought**, without asserting a normalized Tamil reconstruction.
-- `அதிருப சுந்தரன்` — retained as **athirupa sundaran** and immediately supported by the source's own description of beauty and youth; no outside correction is imposed.
-- `ஊரதிர ...` — translated from the full neighbour's sentence as the kavadi dance **making the whole village tremble**, without altering the Tamil reading.
-- `கண்ணியவானு நீ?` — represented through the source's sarcastic **‘gentleman’** address.
-- `கருவிழியானை` — rendered conservatively through the eye metaphor as Kandan becoming **the dark pupil of her eye**.
-- `மனத் தீர்க்கு` — translated as acting against Kanimozhi's **firm resolve**.
-- `‘சுண்’கள்` — retained as quoted **‘suṇ’ splinters**, preserving the unusual printed noun instead of importing a modern replacement.
-
-## Structural and rhetorical review
-
-- the opening argument between Kandan and Kanimozhi retains its repeated money/honour contrast;
-- the source's rationalist critique of devotional kavadi is translated without adding outside commentary;
-- the flashback beginning with Kanimozhi's childhood remains a distinct structural section;
-- the Mirugandu assault/rescue sequence and the conditions for Kanimozhi and Kandan's marriage remain in source order;
-- Peethambaram's deliberate ideological manipulation is preserved without editorial explanation;
-- Kanimozhi's letter begins on scan 37 and continues onto scan 38;
-- `ஒன்று விஷம்— / மற்றொன்று விவாக ரத்து!` remains as two isolated English lines;
-- the sign-off remains separate from the letter body and final narration;
-- Kandan's fainting remains the final narrative event.
-
-## Source issues reopened during translation
-
-**None.**
-
-Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription. All suspicious readings remain governed by the existing human-review queue.
+- source-page comments for scans **31–38** remain in order;
+- page joins remain traceable;
+- scan **39 / Story 5** is excluded;
+- source-significant opening emphasis, enlarged paragraph initials, Kanimozhi's letter layout, isolated alternatives and sign-off remain represented semantically;
+- title **Aattakkavadi** remains transliterated;
+- source-specific terms such as `‘பாவலா’`, `பம்பை`, `மிராசுதார்`, `அதிருப சுந்தரன்`, `கருவிழியானை` and `‘சுண்’கள்` continue to be handled conservatively.
 
 ## Result
 
-**PASS — English translation complete for Story 4.**
-
-The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+**PASS — English complete / synchronized with the 2026 CURRENT PASS Tamil.**
