@@ -88,3 +88,16 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 7.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 dual-gate synchronization
+
+Story 7 was independently re-audited against the 1977 native scans after this translation was created.
+
+- Gate A: **PASS — 12/12**;
+- Gate B: **PASS — 12/12**;
+- canonical Tamil repairs: **6**;
+- unresolved source / historical-glyph readings: **0 / 0**.
+
+Repairs were `என்னு`→`என்னா`, `தவறுக`→`தவறாக`, `தானு?`→`தானா?`, `கூறினன்`→`கூறினான்`, `கொலைகாரனுக்கிவிட்டாயே`→`கொலைகாரனாக்கிவிட்டாயே`, and `காட்டினன்`→`காட்டினான்`.
+
+The existing English already renders each corrected meaning correctly (“What did the sadhu say?”, “Do not judge me wrongly”, “Was it that brute?”, “said ... in a commanding tone”, “made me into a murderer too”, and “read it aloud”). Therefore **no English prose rewrite is required**. The previous possible-error queue is now closed under the 2026 dual-gate audit.

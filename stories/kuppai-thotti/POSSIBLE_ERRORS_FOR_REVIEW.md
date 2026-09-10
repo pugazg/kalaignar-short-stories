@@ -13,8 +13,8 @@
 
 ## Scan 40 / printed page 31
 
-- [x] `படித்துக்கொண்டிருக்கும் போதுதானு அந்தக் குப்பை வண்டிக்காரன்`
-  - Native/high-resolution review confirms `போதுதானு`; retained exactly.
+- [~] `படித்துக்கொண்டிருக்கும் போதுதானு அந்தக் குப்பை வண்டிக்காரன்` → **`படித்துக்கொண்டிருக்கும் போதுதானா அந்தக் குப்பை வண்டிக்காரன்`**
+  - Story 7's systematic historical-`னா` finding triggered a targeted same-edition regression recheck. Native pixels resolve the apparent `னு` shape as historical `னா`; correction applied.
 
 - [x] `வந்தவன் மனமனவென்று என் வயிற்றைக் காலிசெய்து`
   - Native/high-resolution review confirms `மனமனவென்று`; retained exactly.
@@ -126,3 +126,8 @@
 **CLOSED — 0 unresolved candidates.**
 
 All actual corrections were applied individually to the affected page records and canonical assembly. No global replacement or lexical modernization was used.
+
+
+## 2026 regression closure
+
+The scan-40 historical-`னா` correction above is the only new change from the Story-7-triggered regression check. Story 5 remains dual-gate PASS with **4 total repairs / 0 unresolved**.

@@ -12,7 +12,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 ஆமாம்—சங்கிலிச்சாமியாரின் சடலந்தான் அது!
 
-“என்னடா சம்பந்தம்?” முதலியார் பதை பதைத்துத் துடித்தார். “என் வெள்ளியும் போனதுமல்லாமல் என்னையும் கொலைகாரனுக்கிவிட்டாயே....அய்யய்யோ!”
+“என்னடா சம்பந்தம்?” முதலியார் பதை பதைத்துத் துடித்தார். “என் வெள்ளியும் போனதுமல்லாமல் என்னையும் கொலைகாரனாக்கிவிட்டாயே....அய்யய்யோ!”
 
 “இல்ல...நாம் கொலைகாரரல்ல, ஆண்டவன் அடிமைகள்; பக்தாதி பக்தர்கள்.”
 
@@ -32,13 +32,13 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 **சங்கிலிச்சாமி**
 
-என்று எழுதியிருந்தது. சம்பந்தம் அதைப் படித்துக் காட்டினன்.
+என்று எழுதியிருந்தது. சம்பந்தம் அதைப் படித்துக் காட்டினான்.
 
 ஏக ஆடம்பரமாகச் சங்கிலிச்சாமியின் சமாதி விழா நடைபெறுகிறது. சமாதியில் மக்கள் இறைத்த பணம் அன்றைக்கே
 
 ## Source-review note
 
-- `சடலந்தான்`, `கொலைகாரனுக்கிவிட்டாயே`, `பக்தாதி பக்தர்கள்`, `கோவெனக்`, and `காட்டினன்` are retained as printed.
+- `சடலந்தான்`, `பக்தாதி பக்தர்கள்`, and `கோவெனக்` are retained source-close.\n- 2026 Gate-B repairs: apparent `கொலைகாரனுக்கிவிட்டாயே` → `கொலைகாரனாக்கிவிட்டாயே` and `காட்டினன்` → `காட்டினான்`; both resolve historical `னா` identities from native source pixels.
 - The displayed letter remains a distinct textual layer; visual-fidelity review explicitly records its separated sign-off and the source-bold `சங்கிலிச்சாமி` signature.
 - The final sentence is physically split: scan 67 `சமாதியில் மக்கள் இறைத்த பணம் அன்றைக்கே` → scan 68 `ஆயிரம் ரூபாய்!`.
 

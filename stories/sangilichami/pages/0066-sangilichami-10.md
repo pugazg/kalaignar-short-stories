@@ -24,7 +24,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “சம்பந்தம்! எல்லாம் வெள்ளிக்கட்டி தானே!!” என்றார் ஆவலாக முதலியார்.
 
-சம்பந்தம் தலையாட்டிக் கொண்டே “ஆமாம் தூக்குங்கள்” என்று கூறினன் ஆணையிடும் தோரணையில்.
+சம்பந்தம் தலையாட்டிக் கொண்டே “ஆமாம் தூக்குங்கள்” என்று கூறினான் ஆணையிடும் தோரணையில்.
 
 இருவரும் பார்சலைத் தூக்கினார்கள். உழைப்பு என்பது என்னவென்று தெரியாத முதலியார்...பெட்டியின் கனத்திலிருந்து ஒருவாறு தெரிந்து கொண்டிருப்பார். வியர்வைத் துளிகள் சொட்டச் சொட்ட...மேல் மூச்சு வாங்க...‘அப்பாடா’ என்று பார்சல் மாடியில் இறக்கினர். “வேலையின் கஷ்டம் தெரிகிறது” என்றான் சம்பந்தம் கிண்டலாக.
 
@@ -38,7 +38,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 ## Source-review note
 
-- Quoted parcel label `‘வாசனைப் பொருள்’`, `கமகம`, `கூறினன்`, `அவசரந் தாங்காத`, and `முணு முணுத்துக்` are retained source-close.
+- Quoted parcel label `‘வாசனைப் பொருள்’`, `கமகம`, `அவசரந் தாங்காத`, and `முணு முணுத்துக்` are retained source-close.\n- 2026 Gate-B repair: apparent `கூறினன்` → source-supported `கூறினான்`; historical `னா` identity was confirmed at native/high resolution.
 - The parcel-opening sequence was verified as a complete span.
 - Page ends with the revelation of a human form; scan 67 identifies it.
 

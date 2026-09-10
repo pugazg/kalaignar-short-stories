@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 6 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 7 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -41,8 +41,9 @@ Gate B cannot be inferred from Gate A. A story returns to current PASS only afte
 | 2 | `நளாயினி` | 16–23 | 8/8 PASS | 8/8 PASS | 15 | 0 |
 | 3 | `சபலம்` | 24–30 | 7/7 PASS | 7/7 PASS | 6 | 0 |
 | 4 | `ஆட்டக்காவடி` | 31–38 | 8/8 PASS | 8/8 PASS | 7 | 0 |
-| 5 | `குப்பைத்தொட்டி` | 39–46 | 8/8 PASS | 8/8 PASS | 3 | 0 |
+| 5 | `குப்பைத்தொட்டி` | 39–46 | 8/8 PASS | 8/8 PASS | 4 | 0 |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | 10/10 PASS | 10/10 PASS | 3 | 0 |
+| 7 | `சங்கிலிச்சாமி` | 57–68 | 12/12 PASS | 12/12 PASS | 6 | 0 |
 
 ### `சந்தனக்கிண்ணம்` closure
 
@@ -61,6 +62,29 @@ Scans **47–56 / printed pages 38–47**:
 
 Full story record: `../../stories/santhana-kinnam/RE_AUDIT_2026.md`.
 
+### Story 5 `குப்பைத்தொட்டி` regression correction
+
+Genuinely new direct-source evidence from Story 7's systematic historical-`னா` comparison required a narrow Story 5 regression recheck. Scan **40 / printed 31** apparent `போதுதானு` is historical `னா` and is now **`போதுதானா`**. Story 5 remains Gate A **8/8 PASS**, Gate B **8/8 PASS**, now **4 repairs / 0 unresolved**. Existing English already carries the corrected rhetorical sense; no prose rewrite was required.
+
+### `சங்கிலிச்சாமி` closure
+
+Scans **57–68 / printed pages 48–59**:
+
+- Gate A: **PASS — 12/12**;
+- Gate B: **PASS — 12/12**;
+- canonical repairs: **6**;
+- scan 59: `சாது என்னு சொன்னது?` → `சாது என்னா சொன்னது?` (`னா`);
+- scan 64: `தவறுக என்னை மதிக்காதீர்` → `தவறாக என்னை மதிக்காதீர்` (`றா`);
+- scan 64: `அந்தத் தடியன் தானு?` → `அந்தத் தடியன் தானா?` (`னா`);
+- scan 66: `கூறினன்` → `கூறினான்` (`னா`);
+- scan 67: `கொலைகாரனுக்கிவிட்டாயே` → `கொலைகாரனாக்கிவிட்டாயே` (`னா`);
+- scan 67: `காட்டினன்` → `காட்டினான்` (`னா`);
+- genuine source `செவேன்னு` retained after same-edition `னு`/`னா` comparison;
+- unresolved source / historical-glyph readings: **0 / 0**;
+- English prose rewrite required: **0**.
+
+Durable story record: `../../stories/sangilichami/RE_AUDIT_2026.md`.
+
 ## Progress
 
 | # | Story | 1977 scans | Current state |
@@ -69,10 +93,10 @@ Full story record: `../../stories/santhana-kinnam/RE_AUDIT_2026.md`.
 | 2 | `நளாயினி` | 16–23 | **CURRENT PASS — 15 repairs / 0 unresolved** |
 | 3 | `சபலம்` | 24–30 | **CURRENT PASS — 6 repairs / 0 unresolved** |
 | 4 | `ஆட்டக்காவடி` | 31–38 | **CURRENT PASS — 7 repairs / 0 unresolved** |
-| 5 | `குப்பைத்தொட்டி` | 39–46 | **CURRENT PASS — 3 repairs / 0 unresolved** |
+| 5 | `குப்பைத்தொட்டி` | 39–46 | **CURRENT PASS — 4 repairs / 0 unresolved** |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | **CURRENT PASS — 3 repairs / 0 unresolved** |
-| 7 | `சங்கிலிச்சாமி` | 57–68 | **NEXT — REOPENED** |
-| 8 | `கங்கையின் காதல்` | 69–72 | REOPENED / pending |
+| 7 | `சங்கிலிச்சாமி` | 57–68 | **CURRENT PASS — 6 repairs / 0 unresolved** |
+| 8 | `கங்கையின் காதல்` | 69–72 | **NEXT — REOPENED** |
 | 9 | `தாய்மை` | 73–83 | REOPENED / pending |
 | 10 | `தப்பிவிட்டார்கள்` | 84–91 | REOPENED / pending |
 | 11 | `தப்பவில்லை` | 92–101 | REOPENED / pending |
@@ -105,12 +129,13 @@ Full story record: `../../stories/santhana-kinnam/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit **Story 7 `சங்கிலிச்சாமி`**, scans **57–68 / printed pages 48–59**, in one story-bounded activity:
+Re-audit **Story 8 `கங்கையின் காதல்`**, scans **69–72 / printed pages 60–63**, in one story-bounded activity:
 
-1. Gate A — compare all 12 existing canonical records and the assembly directly against the 12 controlling pages;
-2. Gate B — independently reopen all 12 pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
-3. apply only source-proven corrections individually;
-4. synchronize assembly, audits/possible-error controls and affected English;
-5. mark PASS only with Gate A 12/12 + Gate B 12/12 + 0 unresolved;
-6. if PASS, advance tracker **6/37 → 7/37**, synchronize collection/root controls, commit and re-fetch live `main`;
-7. stop/report. Do not begin Story 8 in the same activity.
+1. Gate A — compare all 4 existing canonical records and the assembly directly against the controlling pages;
+2. Gate B — independently reopen all 4 pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
+3. use scan **73** only as the boundary witness opening Story 9 `தாய்மை`;
+4. apply only source-proven corrections individually;
+5. synchronize assembly, audits/possible-error controls and affected English;
+6. mark PASS only with Gate A 4/4 + Gate B 4/4 + 0 unresolved;
+7. if PASS, advance tracker **7/37 → 8/37**, synchronize collection/root controls, commit and re-fetch live `main`;
+8. stop/report. Do not begin Story 9 in the same activity.

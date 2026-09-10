@@ -1,92 +1,54 @@
 # சங்கிலிச்சாமி
 
-Canonical story workspace for **சங்கிலிச்சாமி**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical story workspace for **சங்கிலிச்சாமி**, from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
 - Author: **கலைஞர் மு. கருணாநிதி**
 - Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
+- Edition: **முதல் பதிப்பு: 1977**
 - Printed pages: **48–59**
 - PDF scans: **57–68**
-- Source PDF committed to GitHub: **No**
+- Boundary witness: scan **69**, opening `கங்கையின் காதல்`
+- Source PDF committed: **No**
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
+## 2026 dual-gate re-audit
 
-## Tamil archival status
+**CURRENT PASS / CLOSED — Gate A 12/12 + Gate B 12/12; 6 canonical repairs; 0 unresolved.**
 
-**PASS — 12 / 12 story pages transcribed and directly source-reviewed.**
+Source-proven repairs:
 
-- page records: **12 / 12**
-- `verified`: **12**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing / unresolved story text: **0**
+1. scan 59 / printed 50: `சாது என்னு சொன்னது?` → **`சாது என்னா சொன்னது?`** — historical `னா`;
+2. scan 64 / printed 55: `தவறுக என்னை மதிக்காதீர்` → **`தவறாக என்னை மதிக்காதீர்`** — historical `றா`;
+3. scan 64 / printed 55: `அந்தத் தடியன் தானு?` → **`அந்தத் தடியன் தானா?`** — historical `னா`;
+4. scan 66 / printed 57: `கூறினன்` → **`கூறினான்`** — historical `னா`;
+5. scan 67 / printed 58: `கொலைகாரனுக்கிவிட்டாயே` → **`கொலைகாரனாக்கிவிட்டாயே`** — historical `னா`;
+6. scan 67 / printed 58: `காட்டினன்` → **`காட்டினான்`** — historical `னா`.
 
+The source-close `செக்கச் செவேன்னு` remains unchanged: independent comparison confirms a genuine `னு`, not historical `னா`.
+
+Durable record: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).  
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+Audit: [`audit.md`](audit.md).  
+Closed review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
 
 ## Reading layer
 
-Final current Tamil assembly:
+Canonical Tamil assembly: [`sections/sangilichami.md`](sections/sangilichami.md).
 
-[`sections/sangilichami.md`](sections/sangilichami.md)
+All twelve source boundaries are retained. Scan 69 / Story 8 is excluded.
 
-The assembly preserves all twelve anthology scan boundaries. Scan 69, which opens `கங்கையின் காதல்`, is excluded.
+## Visual structure
 
-## Human possible-error review
+The opening rule and two display chants, scan-58 isolated petitions, scan-67 false-letter/sign-off with source-bold `சங்கிலிச்சாமி`, scan-67→68 continuation, and scan-68 closing flourish remain structurally represented. See [`visual-fidelity.md`](visual-fidelity.md).
 
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual or easily misread source forms for later human checking. An entry there is **not a confirmed error** and does not by itself downgrade a verified page.
+## English
 
-High-value rechecks include:
+English translation: [`translations/en/sangilichami.md`](translations/en/sangilichami.md) — **PASS / synchronized**.  
+Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 
-- `அஷ்டமா சித்துபுரி`
-- `துடுக் கடக்கும் தாயனே`
-- `‘நமப்பார்வதி படே’`
-- `பிள்ளையில்ல....அருள் தேவை`
-- `செக்கச் செவேன்னு`
-- `பேய்....தீராத வினையெல்லாம் இவுரு விபூதியினாலே தீரும்டா.`
-- `நாளைக் காலையில் முழுவதும் வந்துவிடும்`
-- `மூடாத்மா ஞானத்மாவாக`
-- `அழுத்தமான கயிறு`
-- `கருவாடு களவு கொடுத்த பாப்பாத்தி`
-- `தவறுக என்னை மதிக்காதீர்`
-- `தடியன் தானு?`
-- `அவசரந் தாங்காத`
-- `கொலைகாரனுக்கிவிட்டாயே`
+The six 2026 repairs correct historical character identity/source reading, but the existing English already expresses the corrected meanings. **English prose rewrite required: 0.**
 
-`ஆகட்டும் ஸ்வாமி` and `மாபெரும் மடம்` were independently resolved by enlarged native-source inspection.
+## Next anthology re-audit
 
-## Verified page-boundary continuations
-
-Most scan boundaries fall between complete sentences/dialogue turns. One physical sentence continuation is especially important:
-
-- printed 58→59 / scan 67→68: `சமாதியில் மக்கள் இறைத்த பணம் அன்றைக்கே` → `ஆயிரம் ரூபாய்!`
-
-The dialogue at printed 55→56 / scan 64→65 also continues conversationally from Sambandham being asked `என்ன யோசனை?` to his answer, but no sentence is physically split.
-
-## Story boundary
-
-- scan **57**: heading `சங்கிலிச்சாமி`, Story 7 opening confirmed;
-- scan **68**: story conclusion and ornamental closing rule;
-- scan **69**: heading `கங்கையின் காதல்`, Story 8 opening confirmed;
-- Story 8 text included here: **No**.
-
-## English translation
-
-**PASS — complete.**
-
-- English file: [`translations/en/sangilichami.md`](translations/en/sangilichami.md)
-- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- source-page markers represented: **12 / 12**
-- opening chants, devotee petitions, false-letter display and source-bold sign-off preserved: **Yes**
-- possible-error queue read and handled conservatively: **Yes**
-- Tamil source changed during translation: **No**
-
-## Completion state
-
-**சங்கிலிச்சாமி Tamil archival source processing: COMPLETE; English translation: PASS for scans 57–68 / printed pages 48–59.**
-
-## Next anthology English activity
-
-Story 8 — **கங்கையின் காதல்**, printed pages **60–63**, anthology scans **69–72**.
+Story 8 — **கங்கையின் காதல்**, scans **69–72 / printed pages 60–63**.

@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 6/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 7/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -24,10 +24,10 @@
 | 2 | `நளாயினி` | 7–14 | 16–23 | **2026 Gate A PASS / Gate B PASS — 15 repairs / 0 unresolved** |
 | 3 | `சபலம்` | 15–21 | 24–30 | **2026 Gate A PASS / Gate B PASS — 6 repairs / 0 unresolved** |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **2026 Gate A PASS / Gate B PASS — 7 repairs / 0 unresolved** |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **2026 Gate A PASS / Gate B PASS — 3 repairs / 0 unresolved** |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **2026 Gate A PASS / Gate B PASS — 4 repairs / 0 unresolved** |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **2026 Gate A 10/10 PASS / Gate B 10/10 PASS — 3 repairs / 0 unresolved** |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | legacy complete — 12/12; **2026 NEXT** |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | legacy complete — 4/4; 2026 pending |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **2026 Gate A 12/12 PASS / Gate B 12/12 PASS — 6 repairs / 0 unresolved** |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | legacy complete — 4/4; **2026 NEXT** |
 | 9 | `தாய்மை` | 64–74 | 73–83 | legacy complete — 11/11; 2026 pending |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | legacy complete — 8/8; 2026 pending |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | legacy complete — 10/10; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 6 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 7 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -70,7 +70,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 6 
 - `ஆட்டக்காவடி` scans 31–38 — PASS / CLOSED;
 - `குப்பைத்தொட்டி` scans 39–46 — PASS / CLOSED;
 - `சந்தனக்கிண்ணம்` scans 47–56 — PASS / CLOSED;
-- `சங்கிலிச்சாமி` scans 57–68 — **NEXT**.
+- `சங்கிலிச்சாமி` scans 57–68 — PASS / CLOSED;
+- `கங்கையின் காதல்` scans 69–72 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 

@@ -36,7 +36,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “ஆமாம்; ரயில் நின்றதும்....கார்டு வந்து ‘யாரப்பா ரயிலை நிறுத்தியது?’ அப்படின்னு கேட்டிருக்காரு.”
 
-“சாது என்னு சொன்னது?”
+“சாது என்னா சொன்னது?”
 
 “நான் தானப்பா! தண்டவாளத்தில் ஆபத்தப்பா! உடனே போய்ப்பாரப்பா—என்று சொல்லியிருக்கு சாமி.”
 
@@ -50,7 +50,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 ## Source-review note
 
-- Colloquial forms such as `இருந்தாப்போல`, `மறைஞ்சுட்டுதா`, `பிடிச்சு`, `அப்படின்னு`, and `கட்டிப்பிடிச்சுக்கிட்டாங்களாம்` are retained exactly rather than normalized.
+- Colloquial forms such as `இருந்தாப்போல`, `மறைஞ்சுட்டுதா`, `பிடிச்சு`, `அப்படின்னு`, and `கட்டிப்பிடிச்சுக்கிட்டாங்களாம்` are retained exactly rather than normalized.\n- 2026 Gate-B repair: apparent `சாது என்னு சொன்னது?` → source-supported `சாது என்னா சொன்னது?`; the historical `னா` form was resolved by same-edition character comparison.
 - `சூழ்ச்சி` is read from the full sentence span about cutting the railway track.
 - Page ends with complete dialogue; scan 60 begins the response to this miracle story.
 

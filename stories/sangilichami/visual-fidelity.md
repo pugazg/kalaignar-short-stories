@@ -123,3 +123,8 @@ Visual-fidelity review produced **structural-only corrections/annotations**:
 **PASS — corrected**
 
 `சங்கிலிச்சாமி` is visually source-faithful at the semantic archival level defined by `VISUAL_FIDELITY_CHECK_GUIDE.md`, after the source-supported structural corrections listed above.
+
+
+## 2026 dual-gate addendum
+
+The later source-fidelity + independent Old Tamil Glyph re-audit reopened all scans **57–68** at native/high resolution. Its six canonical text repairs are recorded in `RE_AUDIT_2026.md`; they are text/glyph corrections rather than additional structural changes. The visual findings above remain valid. Gate A **12/12 PASS**, Gate B **12/12 PASS**, unresolved **0**.

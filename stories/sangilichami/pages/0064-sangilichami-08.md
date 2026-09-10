@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “ஏன்...உனக்கு ஏதாவது தங்கக் கட்டி வேண்டுமோ?”
 
-“தவறுக என்னை மதிக்காதீர்...முதலியாரே!...என் கதையைக் கேட்டால் என் மீது பரிதாபப்படுவீர்.”
+“தவறாக என்னை மதிக்காதீர்...முதலியாரே!...என் கதையைக் கேட்டால் என் மீது பரிதாபப்படுவீர்.”
 
 “எந்த இழவையாவது சொல்லித் தொலை.”
 
@@ -42,7 +42,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 “ஆமாம், தண்டவாளத்தைப் பெயர்த்து வைத்தது யார் தெரியுமா?”
 
-“அந்தத் தடியன் தானு?”
+“அந்தத் தடியன் தானா?”
 
 “இல்ல...நான் தான் முதலியாரே! இரவெல்லாம் கஷ்டப்பட்டுத் தண்டவாளத்தை உடைத்தேன். அவன் சங்கிலியைப் பிடித்து இழுத்துச் சாமியாராகிவிட்டான்.”
 
@@ -54,7 +54,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 ## Source-review note
 
-- `வியாகூலப் படாதீர்`, `தவறுக என்னை மதிக்காதீர்`, `யார் இல்லை யென்றது?`, `தடியன் தானு?`, and `பிரமாதந்தான்` are retained as printed source forms.
+- `வியாகூலப் படாதீர்`, `யார் இல்லை யென்றது?`, and `பிரமாதந்தான்` are retained source-close.\n- 2026 Gate-B repairs: apparent `தவறுக என்னை மதிக்காதீர்` → `தவறாக என்னை மதிக்காதீர்` (`றா`), and apparent `அந்தத் தடியன் தானு?` → `அந்தத் தடியன் தானா?` (`னா`). Both were resolved from native pixels with same-edition glyph comparison.
 - The confession about the railway-track trick was checked as a complete dialogue span.
 - The final question is answered on scan 65, but no sentence is physically split across the page boundary.
 

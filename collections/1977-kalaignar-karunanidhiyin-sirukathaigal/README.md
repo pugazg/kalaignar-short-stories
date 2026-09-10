@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 6 / 37 CURRENT PASS.**
+**OPEN — 7 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -40,16 +40,17 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `நளாயினி` — scans **16–23** — Gate A/B PASS; **15 repairs / 0 unresolved**.
 - `சபலம்` — scans **24–30** — Gate A/B PASS; **6 repairs / 0 unresolved**.
 - `ஆட்டக்காவடி` — scans **31–38** — Gate A/B PASS; **7 repairs / 0 unresolved**; `கருவிழியானை` reconfirmed source-close.
-- `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **3 repairs / 0 unresolved**; affected English synchronized.
+- `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **4 repairs / 0 unresolved**; Story-7-triggered historical-`னா` regression repaired `போதுதானு` → `போதுதானா`; English remains synchronized.
 - `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **3 repairs / 0 unresolved**. Repairs: `கள்ளச்` → `கிள்ளச்`; `தமிழ்த்தாய்கள்` → `தமிழ்த்தாய்களை` with historical `ளை` directly resolved; `வந்து விட்டான என` → `வந்து விட்டான் என`. Meaning-sensitive English synchronized.
+- `சங்கிலிச்சாமி` — scans **57–68** — Gate A **12/12 PASS**, Gate B **12/12 PASS**, **6 repairs / 0 unresolved**. Historical `றா/னா` corrections synchronized; English already conveyed the corrected meanings, so no prose rewrite was required.
 
-Do not reopen these six stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these seven stories from stale prompts unless genuinely new direct source evidence appears.
 
 ## Exact next activity
 
-Story 7 **`சங்கிலிச்சாமி`** — scans **57–68 / printed pages 48–59** — **NEXT**.
+Story 8 **`கங்கையின் காதல்`** — scans **69–72 / printed pages 60–63** — **NEXT**.
 
-Complete Gate A 12/12 and an independent Gate B 12/12. Correct only direct-source mismatches, synchronize dependent Tamil/English/control files, advance the collection to **7/37** only with zero unresolved, commit, re-fetch live `main`, and stop before Story 8.
+Complete Gate A 4/4 and an independent Gate B 4/4. Use scan **73** only as the boundary witness opening `தாய்மை`. Correct only direct-source mismatches, synchronize dependent Tamil/English/control files, advance the collection to **8/37** only with zero unresolved, commit, re-fetch live `main`, and stop before Story 9.
 
 ## Legacy processing state
 
