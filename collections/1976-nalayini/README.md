@@ -11,12 +11,12 @@ Physical-source workspace for the attached **`நளாயினி`** short-sto
 - printed author: **மு. கருணாநிதி**
 - edition line: **நான்காம் பதிப்பு 1976**
 - source type: image-only scan
-- source PDF committed to GitHub: **No**
+- source PDF committed: **No**
 - SHA-256: **pending**
 
 The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
 
-## Inventory
+## Inventory / Tamil-first result
 
 | # | Heading | Scans / visible printed folios | Repository state |
 |---:|---|---:|---|
@@ -27,27 +27,20 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **ACTIVE — page-level source/glyph COMPLETE / 6/6 verified; Tamil assembly next** |
+| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE — 6/6 verified; assembly/review PASS** |
 
-## Story 4 closure — `நாட்டிய கலாராணி`
+The anthology reconciliation identified two new canonical stories requiring full source processing: `நாட்டிய கலாராணி` and `மானம்`. Both are now source-complete. The remaining six headings resolve to existing canonical workspaces and were intentionally not duplicated.
 
-`stories/naattiya-kalarani/` is **TAMIL SOURCE-COMPLETE**: 22/22 verified, assembly PASS, 0 unresolved.
+## Collection-wide Tamil-first gate
 
-## Active Story 8 — `மானம்`
+**CLOSED / PASS.**
 
-Workspace: `stories/maanam/`.
+- new canonical targets: **2 / 2 Tamil source-complete**;
+- page-level unresolved / blocked across those targets: **0 / 0**;
+- assembly reviews: **2 / 2 PASS**;
+- stale Story-8 title `மனம்`: **rejected**; source heading is `மானம்`;
+- scan-73 printed folio anomaly `10`: **preserved**.
 
-- source boundary: **PASS**;
-- canonical dedup: **PASS — new canonical**;
-- page records: **6/6**;
-- direct transcription: **6/6 — COMPLETE**;
-- Stage B verified: **6/6 — COMPLETE / PASS**;
-- `needs-review`: **0/6**;
-- not-started: **0/6**;
-- blocked / unresolved: **0 / 0**;
-- source pagination anomaly: scan 73 visibly prints **`10`**; do not normalize to 73;
-- Tamil assembly: **NEXT**.
-
-Exact next activity: **assemble and review canonical Tamil `மானம்` from all six verified page records**. English translation remains later.
+Per `ENGLISH_TRANSLATION_GUIDE.md`, English becomes the automatic next phase after this collection-wide Tamil/source closure. Translation tracker: `ENGLISH_TRANSLATION_PROGRESS.md`. Exact next target: **`நாட்டிய கலாராணி`**, then `மானம்`, one story per activity.
 
 `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

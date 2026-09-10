@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` / Story 8 `மானம்` Tamil assembly
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / `நாட்டிய கலாராணி` English translation
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,49 +6,49 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 `வெள்ளிக்கிழமை` remains incomplete; do **not** start `நடுத்தெரு நாராயணி`.
 
-## Controlling source
+## Controlling Tamil authority
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. **The attached PDF itself is the sole controlling authority.** Do not query Tamil Digital Library or another external source unless explicitly requested.
+English translation authority order follows `ENGLISH_TRANSLATION_GUIDE.md`: live `main` → verified canonical Tamil assembly → controlling source only if a fidelity question must be reopened.
 
-## Closed Story 4
+The attached `TVA_BOK_0065574_நளாயினி_1976.pdf` remains the sole source-scan authority for this anthology; do not query another external source unless explicitly requested.
 
-`நாட்டிய கலாராணி` is **TAMIL SOURCE-COMPLETE** — 22/22 verified, assembly/review PASS, 0 unresolved.
+## 1976 Tamil/source gate — CLOSED
 
-## Active Story 8 — `மானம்`
+Two new canonicals from this anthology reconciliation are now source-complete:
 
-Workspace: `stories/maanam/`; physical range **scans 73–78**.
+- `நாட்டிய கலாராணி` — **22/22 verified; Tamil assembly/review PASS**;
+- `மானம்` — **6/6 verified; Tamil assembly/review PASS**.
 
-Durable state:
+Translation tracker: `collections/1976-nalayini/ENGLISH_TRANSLATION_PROGRESS.md` — **0/2 PASS**.
 
-- source boundary / canonical dedup: **PASS / PASS**;
-- exact heading: **`மானம்`**; stale `மனம்` rejected;
-- page records: **6/6**;
-- direct transcription: **6/6 — COMPLETE**;
-- independent Stage B: **6/6 — COMPLETE / PASS**;
-- verified: **6/6 — COMPLETE**;
-- needs-review / not-started / blocked / unresolved: **0 / 0 / 0 / 0**;
-- corrections: **9 total** — P1: 5; P2: 4; 3 are historical-glyph corrections;
-- scan 73 visible printed folio: **`10` — source anomaly**;
-- scans 74–78 visible printed folios: **74–78**;
-- scan 78 is the final PDF scan, with the story ending + centered paired-swans closing ornament + non-story library stamp;
-- Tamil assembly: **not started**.
+## Exact next activity — one story only
 
-P2 Stage B on scan 78 made four source punctuation/spacing corrections: `பயனென்ன ?`, `ஏற்படக்கூடாது !`, `மனித குலமே !`, and final `நியாயந்தானா ?`. Mandatory-family positives `மனிதனை` (`னை`) and `நியாயந்தானா` (`னா`) were confirmed; historical-glyph corrections on scan 78: 0.
+Translate **`நாட்டிய கலாராணி`** completely into English.
 
-## Mandatory startup
+Mandatory startup:
 
-Read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, root `HANDOVER.md`, this prompt, collection README/inventory/scan-map/source metadata, and `stories/maanam/README.md`, `SOURCE_INTAKE.md`, `indexes/page-map.md`, `PASS1_PROGRESS.md`, `HISTORICAL_GLYPH_GATE.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md`, plus an existing completed story's assembly/review files as structural precedent.
+1. `ENGLISH_TRANSLATION_GUIDE.md`
+2. `SHORT_STORY_PROCESSING_GUIDE.md`
+3. `COLLECTION_SOURCE_GUIDE.md`
+4. root `HANDOVER.md`
+5. this prompt
+6. `collections/1976-nalayini/ENGLISH_TRANSLATION_PROGRESS.md`
+7. `stories/naattiya-kalarani/README.md`
+8. `stories/naattiya-kalarani/sections/naattiya-kalarani.md`
+9. `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md`
+10. `stories/naattiya-kalarani/POSSIBLE_ERRORS_FOR_REVIEW.md`
+11. `stories/naattiya-kalarani/indexes/page-map.md`
+12. relevant historical-glyph/source controls.
 
-## Exact next activity — Tamil assembly + assembly review ONLY
+Requirements:
 
-- build canonical `stories/maanam/sections/maanam.md` from the six verified page records, scans 73–78;
-- use verified records as the assembly authority; return to source pixels only if a record inconsistency requires it;
-- preserve source wording, punctuation, spacing, paragraphing and separators;
-- join only positively established physical page continuations;
-- explicitly review/document 73→74, 74→75 (`அவசரத்தை` / `யுணர்ந்து`), 76→77 (`மானத்தைக் காக்கமுடியாத` / `கோழை மகனே`), and any other boundary that crosses a sentence/word;
-- preserve the final paired-swans closing source mark under repository assembly convention; keep the library stamp out of story prose;
-- create/update `stories/maanam/ASSEMBLY_REVIEW.md` proving **6/6 coverage, 0 omission, 0 duplication**, with boundary notes;
-- synchronize story/collection/root controls;
+- create `stories/naattiya-kalarani/translations/en/naattiya-kalarani.md` from the complete verified Tamil assembly;
+- create `stories/naattiya-kalarani/TRANSLATION_REVIEW.md`;
+- preserve all physical source-page markers at the correct Tamil-established content boundaries, not merely in numeric order;
+- preserve meaningful display structure, quoted material and the final `வணக்கம், / இன்பசாகரன்.` letter/signature structure naturally in English;
+- do not modernize or silently fix source-odd Tamil while translating;
+- prove full-story coverage, page-anchor alignment, 0 omission and 0 duplication;
+- update the story README, collection translation tracker, root handover and this prompt;
 - commit and **stop/report**.
 
-Do **not** begin English translation in this activity.
+Do **not** translate `மானம்` in the same activity. It is the following English target only after `நாட்டிய கலாராணி` English closes.
