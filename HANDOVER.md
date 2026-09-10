@@ -20,32 +20,35 @@ Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` �
 
 Story inventory retains Story 8 heading **`மானம்`** from scan 73; never regress to `மனம்`.
 
-## Active Story 4 — `நாட்டிய கலாராணி`
+## Story 4 — `நாட்டிய கலாராணி` — TAMIL SOURCE-COMPLETE
 
 Workspace: `stories/naattiya-kalarani/`; physical range **scans 25–46 / printed 25–46**.
 
 Durable state:
 
 - source boundary / dedup: **PASS / PASS**;
-- page records: **22/22**;
-- direct first-pass transcription: **22/22 — COMPLETE**;
-- independent historical-glyph/source Stage B: **22/22 — PASS / COMPLETE**;
-- verified: **22/22**;
-- `needs-review`: **0/22**;
-- not-started: **0/22**;
-- blocked / unresolved: **0 / 0**;
-- Tamil assembly: **not started**.
+- page records: **22/22 verified**;
+- direct transcription: **22/22 COMPLETE**;
+- independent historical-glyph/source Stage B: **22/22 PASS / COMPLETE**;
+- total source corrections: **19**;
+- unresolved / blocked: **0 / 0**;
+- canonical Tamil assembly: `stories/naattiya-kalarani/sections/naattiya-kalarani.md` — **COMPLETE**;
+- assembly review: `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md` — **PASS — 22/22 coverage, 0 omission, 0 duplication**;
+- final signature block and closing ornaments: **preserved**;
+- Tamil/source state: **SOURCE-COMPLETE**.
 
-P1–P5 are fully closed. Total Stage-B correction history is **19 source-proven corrections / 0 unresolved**. P5 scans 45–46 closed with **0 corrections / 0 unresolved**, including direct confirmation of the final signature block and closing ornaments.
+Do not reopen Story 4 without new direct-source evidence or explicit comparison authorization.
 
-## Exact next activity — Tamil assembly / assembly review
+## Exact next activity — Story 8 `மானம்` activation ONLY
 
-1. re-fetch live `main`;
-2. read all **22 verified** `stories/naattiya-kalarani/pages/` records in scan order;
-3. create `stories/naattiya-kalarani/sections/naattiya-kalarani.md` as the canonical Tamil story assembly, using only verified page text and excluding YAML/source comments;
-4. preserve paragraphing, printed separators, story title, final letter/signature block and closing ornaments; resolve page-boundary joins only from the verified records, without rewriting wording;
-5. create `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md` proving **22/22 coverage**, no omission/duplication, and all physical boundaries accounted for;
-6. synchronize README/audit/handover/current-state controls;
+Physical range: **scans 73–78 / printed pages 73–78**. Scan 73 directly shows heading `மானம்`.
+
+1. re-fetch live `main` and preserve newer work;
+2. use only the attached controlling PDF for source-dependent evidence;
+3. confirm scan 73 opening and scan 78 ending/boundary from source;
+4. run a canonical duplicate/alternate-title check in the repository for `மானம்`; never use the stale erroneous heading `மனம்` as authority;
+5. if no canonical duplicate exists, create `stories/maanam/` source-intake workspace, `README.md`, `SOURCE_INTAKE.md`, `metadata/source.md`, `indexes/page-map.md`, and six page records for scans 73–78 initialized as `not-started`;
+6. synchronize collection/root handover controls;
 7. commit and stop/report.
 
-Do **not** begin Story 8 `மானம்` in the same activity. After Story 4 assembly/source closure is durably complete, the next-story activation can be handled separately.
+**Do not transcribe Story 8 in the same activation activity.** After a durable activation commit, its first Stage-A transcription batch becomes the next activity.

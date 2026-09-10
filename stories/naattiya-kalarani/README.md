@@ -14,33 +14,33 @@ Canonical story workspace for **நாட்டிய கலாராணி**, o
 - source PDF committed: **No**
 - source SHA-256: **pending at collection level**; do not invent or borrow a digest
 
-## Current Tamil/source state
+## Tamil/source completion
 
-**PAGE-LEVEL SOURCE VERIFICATION COMPLETE — 22 / 22 DIRECT-TRANSCRIBED AND STAGE-B VERIFIED.**
+**SOURCE-COMPLETE — 22 / 22 VERIFIED — CANONICAL TAMIL ASSEMBLY PASS.**
 
 - page records: **22 / 22**
 - direct first-pass transcription: **22 / 22 — COMPLETE**
 - independent historical-glyph/source Stage B: **22 / 22 — PASS / COMPLETE**
-- `verified`: **22**
+- verified: **22 / 22**
 - `needs-review`: **0**
 - `not-started`: **0**
-- `blocked` / unresolved blocking locations: **0 / 0**
-- Tamil assembly: **not started**
+- blocked / unresolved story text: **0 / 0**
+- canonical Tamil assembly: [`sections/naattiya-kalarani.md`](sections/naattiya-kalarani.md) — **COMPLETE**
+- assembly review: [`ASSEMBLY_REVIEW.md`](ASSEMBLY_REVIEW.md) — **PASS — 22/22 coverage / 0 omission / 0 duplication**
+- English translation: **not started**
 
-Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md). All five physical batches are now closed.
+All five physical batches P1–P5 are closed. Total Stage-B correction history: **19 source-proven corrections / 0 unresolved**. Exact correction/source-sensitive history remains in `HISTORICAL_GLYPH_GATE.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md`, and the page records.
 
-## Batch state
+The assembly preserves explicit physical-boundary evidence, including the scan 25→26 split `நட்டுவ` / `னரும்`, the source-repeated scan 27→28 `கவிவாணர்-` boundary, scan 33→34 / 34→35 / 36→37 sentence continuations, all printed separators, the final `வணக்கம், / இன்பசாகரன்.` block, and the scan-46 closing ornaments.
 
-1. scans 25–29 — **Stage B PASS / 5 verified**
-2. scans 30–34 — **Stage B PASS / 5 verified**
-3. scans 35–39 — **Stage B PASS / 5 verified**
-4. scans 40–44 — **Stage B PASS / 5 verified**
-5. scans 45–46 — **Stage B PASS / 2 verified**
+## Story state
 
-Total Stage-B correction history: **19 source-proven corrections / 0 unresolved** across P1–P5. P5 itself required **0 corrections**.
+**`நாட்டிய கலாராணி` Tamil archival processing: COMPLETE / SOURCE-COMPLETE.**
 
-## Exact next activity
+No future Tamil change should be made without new direct-source evidence or an explicitly authorized comparison.
 
-Create `sections/naattiya-kalarani.md` from the **22 verified page records in scan order** and create/update an `ASSEMBLY_REVIEW.md` that proves 22/22 coverage, correct page-boundary joins, no omission/duplication, preservation of printed separators, the final `வணக்கம், / இன்பசாகரன்.` block, and the two closing ornaments. Synchronize controls, commit, and stop/report.
+## Next collection activity
 
-Do **not** begin Story 8 `மானம்` in the same activity. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Story 8 **`மானம்`**, scans **73–78**, is now the next new-canonical candidate. Its next activity is **source intake / canonical dedup / workspace and page-record initialization only**. Do not begin its transcription in the same activity as this closure.
+
+`நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
