@@ -42,7 +42,7 @@ A story is current PASS only after both gates pass, unresolved source/glyph coun
 
 Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Current tracker state: **OPEN — 1 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 2 / 37 dual-gate complete**.
 
 ## `நளாயினி` — 2026 RE-AUDIT CLOSED / PASS
 
@@ -57,32 +57,49 @@ Final re-audit state:
 - source-proven canonical repairs: **15**;
 - unresolved source readings: **0**;
 - unresolved historical-glyph readings: **0**;
-- canonical page records: synchronized;
-- Tamil assembly: synchronized;
-- possible-error queue: reconciled / 0 pending;
-- English: synchronized where repaired Tamil changed meaning;
+- canonical page records / Tamil assembly / possible-error queue / affected English: synchronized;
 - 1976 P1 witness candidates: **8 canonical defects / 5 true edition variants / 0 unresolved**.
-
-Important repaired readings include `தலையிலே ஒரு கூடையுடன்`, `என்னை ஏன்`, `கூடுவிட்டு`, `போட்டமாட்டேன்`, `விலை மதிக்க`, `கோமளத் தாமரையெனும்`, `காசிநாதனைத்தொழு!`, `கணிகையின்`, `வலிமிகுந்த உடம்பை`, `கேட்கும் ஓவியம்`, `கூவினர்`, `கண்ஜாடை காட்டினாள்`, `அணைத்தெடுத்து`, `குரைத்துக்கொண்டிருக்கட்டும்`, and source spacing `உற்சாக மில்லை`.
 
 Do not reopen `நளாயினி` from stale prompts unless new direct source evidence appears.
 
-## Exact next activity — `புகழேந்தி` dual-gate re-audit
+## `புகழேந்தி` — 2026 RE-AUDIT CLOSED / PASS
+
+Workspace: `stories/pugazhendhi/`.
 
 Source range: scans **10–15 / printed pages 1–6**.
 
+Final re-audit state:
+
+- Gate A: **PASS — 6/6**;
+- Gate B: **PASS — 6/6**;
+- source-proven canonical repairs: **9**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- two historical-`லை` repairs: `தீவலி` → `தலைவலி`; `கால்ப் பணிவிடைகள்` → `காலைப் பணிவிடைகள்`;
+- scan-14 `காதற் கண்கள்`: independently high-resolution confirmed as the controlling 1977 reading; 2009 `காதற் கணைகள்` is an edition difference;
+- canonical page records, Tamil assembly, source metadata, audit, possible-error queue and affected English: synchronized;
+- durable story record: `stories/pugazhendhi/RE_AUDIT_2026.md`.
+
+Do not reopen `புகழேந்தி` from stale prompts unless new direct source evidence appears.
+
+## Exact next activity — Story 3 `சபலம்` dual-gate re-audit
+
+Workspace: `stories/sabalam/`.
+
+Source range: scans **24–30 / printed pages 15–21**.
+
 In one story-bounded activity:
 
-1. fetch live `main`;
-2. read the source-processing and historical-glyph guides, collection re-audit controls, and `stories/pugazhendhi/` controls;
-3. Gate A — compare all existing `புகழேந்தி` page records / assembly directly to scans 10–15;
-4. Gate B — independently reopen all six physical pages and complete the mandatory old-glyph audit;
-5. correct only source-proven mismatches individually;
-6. synchronize assembly, audit / possible-error records and any affected existing English;
-7. mark PASS only with Gate A 6/6 + Gate B 6/6 + 0 unresolved;
-8. update collection/root controls, commit, and stop/report.
+1. fetch live `main` and preserve newer durable work;
+2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/sabalam/` controls/page records/assembly/audit/possible-error files;
+3. Gate A — compare every existing `சபலம்` canonical page record and assembly directly against scans 24–30;
+4. Gate B — independently reopen all seven physical pages at high/native resolution and check all mandatory historical families;
+5. correct only source-proven mismatches individually; never global-replace or modernize;
+6. synchronize assembly, audit / possible-error / historical-glyph records and existing English only where meaning changes;
+7. mark PASS only with Gate A 7/7 + Gate B 7/7 + 0 unresolved;
+8. if PASS, update tracker from **2/37 to 3/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
 
-Do **not** begin `சபலம்` in the same activity.
+Do **not** begin Story 4 `ஆட்டக்காவடி` in the same activity.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
@@ -90,7 +107,7 @@ Source: `TVA_BOK_0065574_நளாயினி_1976.pdf`, fourth edition 1976, 7
 
 For duplicate stories: comparison-only; no new full transcription / no duplicate English.
 
-`நளாயினி` P1 scans 3–7 has now been adjudicated against the repaired 1977 canonical source. P2 scans **8–12** is ready but deferred while the 1977 37-story re-audit remains the active priority.
+`நளாயினி` P1 scans 3–7 has been adjudicated against the repaired 1977 canonical source. P2 scans **8–12** is technically ready but remains deferred while the 1977 37-story re-audit is the active priority.
 
 Closed new-canonical 1976 stories remain closed:
 
