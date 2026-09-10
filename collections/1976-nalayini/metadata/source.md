@@ -14,29 +14,23 @@
 
 ## Controlling-source provenance
 
-The user downloaded this exact PDF from the Tamil Digital Library and supplied the downloaded file directly in the conversation. **The attached PDF itself is the controlling source.** Do not look up the catalogue copy again or substitute catalogue metadata, OCR, another edition, or web text for source-dependent decisions unless the user explicitly requests an external comparison.
+The user downloaded this exact PDF from the Tamil Digital Library and supplied the downloaded file directly. **The attached PDF itself is the controlling source.** Do not substitute catalogue metadata, OCR, another edition, or web text unless the user explicitly requests external comparison.
 
 ## Checksum
 
-SHA-256: **PENDING**.
-
-The source is available and directly renderable in the current conversation, but raw-byte checksum access failed in the current runtime. This field must be filled from the same exact file bytes when checksum access is available. No digest may be guessed or copied from another edition.
+SHA-256: **PENDING**. Do not invent or borrow a digest.
 
 ## Front matter
 
 - scan 1: cover — `நளாயினி`, author `மு. கருணாநிதி`, stylized imprint at foot, library stamp;
 - scan 2: edition page — `நான்காம் பதிப்பு 1976`, rights line, handwritten library/accession marks, `விலை ரூ. 2-00`;
-- no separate printed contents page was found before Story 1 begins on scan 3.
-
-The exact publisher/imprint lettering on the stylized cover mark remains **unpromoted at intake** because the current render does not support a sufficiently confident letter-by-letter reading.
+- no separate printed contents page before Story 1.
 
 ## Pagination model
 
-Scans **3–78** correspond directly to printed pages **3–78**. Scans 1–2 are unnumbered front matter.
+Scans **3–72** track visible printed folios **3–72**. Story 8 exposes a source anomaly: **scan 73 visibly prints folio `10` at bottom left**, while scans **74–78** visibly print **74–78**. Do not silently normalize scan 73 to printed page 73.
 
 ## Story-opening / ending checks
-
-Direct visual inspection of the attached PDF establishes these physical ranges:
 
 1. `நளாயினி` — scans/printed **3–12**;
 2. `காதல் கடிதம்` — **13–18**;
@@ -45,9 +39,9 @@ Direct visual inspection of the attached PDF establishes these physical ranges:
 5. `விஷம் இனிது` — **47–55**;
 6. `பாலைவன ரோஜா` — **56–62**;
 7. `அய்யோ ராஜா!` — **63–72**;
-8. `மானம்` — **73–78**.
+8. `மானம்` — physical scans **73–78**; visible folios **`10`, 74–78**.
 
-Scan **73** visibly carries the display heading `மானம்`; the earlier intake spelling `மனம்` was incorrect and is corrected from the attached scan. Scan 78 is the physical end of `மானம்`; it contains the ending text, a closing ornament and a library stamp. There is no additional story scan after it in this PDF.
+Scan 73 directly carries the display heading **`மானம்`**; earlier `மனம்` was an archive-control error. Scan 78 is the physical end of the story and the PDF; final prose is followed by a closing ornament and library stamp.
 
 ## Condition / visible anomalies
 
@@ -55,6 +49,7 @@ Scan **73** visibly carries the display heading `மானம்`; the earlier i
 - occasional handwritten accession marks;
 - library stamps, including the cover and final page;
 - historical Tamil typefaces and glyph forms;
+- scan-73 folio anomaly `10`;
 - no OCR text layer available through the file parser.
 
-Controlling rule: source pixels govern all future transcription. Do not normalize spelling, punctuation, spacing, historical glyphs, title forms or source oddities from other editions.
+Controlling rule: source pixels govern future transcription. Do not normalize spelling, punctuation, spacing, historical glyphs, title forms or source oddities.

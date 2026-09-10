@@ -18,37 +18,42 @@ Fetch live `main` first. Controlling scans outrank contextual readings; no silen
 
 Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
 
-Story inventory retains Story 8 heading **`மானம்`** from scan 73; never regress to `மனம்`.
+## Closed Story 4 — `நாட்டிய கலாராணி`
 
-## Story 4 — `நாட்டிய கலாராணி` — TAMIL SOURCE-COMPLETE
+**TAMIL SOURCE-COMPLETE** — 22/22 verified, assembly/review PASS, 0 unresolved / 0 blocked. Do not reopen without new source evidence or explicit comparison authorization.
 
-Workspace: `stories/naattiya-kalarani/`; physical range **scans 25–46 / printed 25–46**.
+## Active Story 8 — `மானம்`
 
-Durable state:
+Workspace: `stories/maanam/`; physical range **scans 73–78**.
 
-- source boundary / dedup: **PASS / PASS**;
-- page records: **22/22 verified**;
-- direct transcription: **22/22 COMPLETE**;
-- independent historical-glyph/source Stage B: **22/22 PASS / COMPLETE**;
-- total source corrections: **19**;
-- unresolved / blocked: **0 / 0**;
-- canonical Tamil assembly: `stories/naattiya-kalarani/sections/naattiya-kalarani.md` — **COMPLETE**;
-- assembly review: `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md` — **PASS — 22/22 coverage, 0 omission, 0 duplication**;
-- final signature block and closing ornaments: **preserved**;
-- Tamil/source state: **SOURCE-COMPLETE**.
+Activation state:
 
-Do not reopen Story 4 without new direct-source evidence or explicit comparison authorization.
+- scan 73 opening heading: **`மானம்` — directly confirmed**;
+- stale `மனம்`: **rejected**;
+- scan 78 ending/boundary: **confirmed — final PDF scan, closing ornament + library stamp**;
+- canonical dedup / alternate-title gate: **PASS — no existing canonical match**;
+- page records: **6/6 initialized as `not-started`**;
+- direct transcription: **0/6**;
+- Stage B: **0/6**;
+- verified: **0/6**;
+- blocked / unresolved: **0 / 0**.
 
-## Exact next activity — Story 8 `மானம்` activation ONLY
+### Source pagination correction
 
-Physical range: **scans 73–78 / printed pages 73–78**. Scan 73 directly shows heading `மானம்`.
+Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. Earlier controls inferred printed page 73 for scan 73; the controlling source disproves that inference. Preserve the anomaly and never normalize it silently.
 
-1. re-fetch live `main` and preserve newer work;
-2. use only the attached controlling PDF for source-dependent evidence;
-3. confirm scan 73 opening and scan 78 ending/boundary from source;
-4. run a canonical duplicate/alternate-title check in the repository for `மானம்`; never use the stale erroneous heading `மனம்` as authority;
-5. if no canonical duplicate exists, create `stories/maanam/` source-intake workspace, `README.md`, `SOURCE_INTAKE.md`, `metadata/source.md`, `indexes/page-map.md`, and six page records for scans 73–78 initialized as `not-started`;
-6. synchronize collection/root handover controls;
-7. commit and stop/report.
+## Exact next activity — P1 Stage A ONLY
 
-**Do not transcribe Story 8 in the same activation activity.** After a durable activation commit, its first Stage-A transcription batch becomes the next activity.
+Process **scans 73–77** only under the two-stage workflow:
+
+1. re-fetch live `main`;
+2. use only the attached controlling PDF;
+3. directly transcribe each whole page once;
+4. preserve source punctuation, spacing, paragraphing, source-odd words and clearly readable historical character identity;
+5. do **not** run the systematic 13-family Stage B in the same activity;
+6. do not routinely crop/reopen clear text;
+7. keep scans 73–77 `needs-review` after Stage A;
+8. synchronize Pass-1/current-state controls;
+9. commit and stop/report.
+
+Do **not** touch scan 78 in P1 Stage A. Its single-page P2 comes only after P1 Stage B closes.

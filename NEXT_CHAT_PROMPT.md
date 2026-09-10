@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` / Story 8 `மானம்` activation
+# NEXT CHAT PROMPT — 1976 `நளாயினி` / Story 8 `மானம்` P1 Stage A
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,40 +8,43 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 ## Controlling source
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. **The attached PDF itself is the sole controlling authority.** Do not query Tamil Digital Library or another external source unless the user explicitly requests a comparison.
+`TVA_BOK_0065574_நளாயினி_1976.pdf` — **78 scans**, **164,748,566 bytes**, fourth edition 1976, image-only, not committed; SHA-256 pending. **The attached PDF itself is the sole controlling authority.** Do not query Tamil Digital Library or another external source unless explicitly requested.
 
-## Closed Story 4 — `நாட்டிய கலாராணி`
+## Closed Story 4
 
-Physical range: scans **25–46 / printed 25–46**.
+`நாட்டிய கலாராணி` is **TAMIL SOURCE-COMPLETE** — 22/22 verified, assembly/review PASS, 0 unresolved.
 
-- direct transcription: **22/22 COMPLETE**;
-- Stage B source/historical-glyph verification: **22/22 PASS**;
-- unresolved / blocked: **0 / 0**;
-- canonical Tamil: `stories/naattiya-kalarani/sections/naattiya-kalarani.md` — **COMPLETE**;
-- assembly review: `stories/naattiya-kalarani/ASSEMBLY_REVIEW.md` — **PASS — 22/22 coverage / 0 omission / 0 duplication**;
-- Tamil/source state: **SOURCE-COMPLETE**.
+## Active Story 8 — `மானம்`
 
-Do not reopen it unless new source evidence appears.
+Workspace: `stories/maanam/`; physical range **scans 73–78**.
 
-## Collection correction
+Activation is durable:
 
-Story 8 heading is **`மானம்`**, directly visible on scan 73. Earlier controls that said `மனம்` were wrong. Never regress to `மனம்`.
+- source boundary: **PASS**;
+- exact heading: **`மானம்`**; stale `மனம்` rejected;
+- canonical dedup: **PASS — new canonical**;
+- page records: **6/6 initialized**;
+- direct transcription / Stage B / verified: **0/6 / 0/6 / 0/6**;
+- all six pages currently `not-started`;
+- scan 73 visible printed folio: **`10` — source anomaly**;
+- scans 74–78 visible printed folios: **74–78**;
+- scan 78 is the final PDF scan and contains the story ending + closing ornament + library stamp.
 
-## Exact next activity — Story 8 activation ONLY
+## Mandatory startup
 
-Process the source-intake/canonical activation for scans **73–78 / printed pages 73–78**.
+Read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, root `HANDOVER.md`, this prompt, collection README/inventory/scan-map, and `stories/maanam/README.md`, `SOURCE_INTAKE.md`, `indexes/page-map.md`, `PASS1_PROGRESS.md`, `HISTORICAL_GLYPH_GATE.md`, `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 
-Mandatory startup: read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, root `HANDOVER.md`, this prompt, `collections/1976-nalayini/README.md`, `indexes/story-inventory.md`, and `indexes/scan-map.md`.
+## Exact next activity — P1 Stage A ONLY
 
-Then:
+Process scans **73–77** only.
 
-- inspect scans 73–78 from the attached controlling PDF only;
-- confirm scan 73 story opening heading `மானம்` and scan 78 story ending/boundary;
-- run repository canonical dedup / alternate-title search for `மானம்`;
-- if no canonical duplicate exists, initialize `stories/maanam/` with story README, `SOURCE_INTAKE.md`, `metadata/source.md`, `indexes/page-map.md`, and six page records for scans 73–78;
-- initialize page records as `not-started`; **do not transcribe story prose in this activity**;
-- record the attached source as controlling and keep SHA-256 pending rather than inventing one;
-- synchronize collection controls, `HANDOVER.md`, and this prompt;
+- visually read and transcribe each complete page once from the attached source pixels;
+- preserve punctuation, spacing, paragraphing, source-odd words, page boundaries and clearly readable historical character identity;
+- **do not perform the systematic 13-family Stage B in this activity**;
+- do not routinely crop/enhance or repeatedly reopen clear words/pages;
+- use closer inspection only for a genuinely unreadable character;
+- keep scans 73–77 `needs-review` after Stage A;
+- synchronize page records, page map, PASS1/current-state controls;
 - commit and **stop/report**.
 
-Do not begin the first Stage-A transcription batch until the activation commit is durable.
+Do **not** touch scan 78. P1 Stage B is the following separate activity.

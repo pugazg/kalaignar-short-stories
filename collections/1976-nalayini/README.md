@@ -12,13 +12,13 @@ Physical-source workspace for the attached **`நளாயினி`** short-sto
 - edition line: **நான்காம் பதிப்பு 1976**
 - source type: image-only scan
 - source PDF committed to GitHub: **No**
-- SHA-256: **pending** — do not invent or borrow a digest
+- SHA-256: **pending**
 
 The attached PDF itself is the sole controlling source unless the user explicitly requests external comparison.
 
 ## Inventory
 
-| # | Heading | Scans / printed | Repository state |
+| # | Heading | Scans / visible printed folios | Repository state |
 |---:|---|---:|---|
 | 1 | `நளாயினி` | 3–12 | existing canonical — note only |
 | 2 | `காதல் கடிதம்` | 13–18 | existing canonical — note only |
@@ -27,22 +27,25 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மானம்` | 73–78 | **NEXT — new canonical candidate; source intake / canonical activation** |
+| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **ACTIVE — source intake/dedup PASS; 6/6 records initialized; P1 Stage A next** |
 
 ## Story 4 closure — `நாட்டிய கலாராணி`
 
-Workspace: `stories/naattiya-kalarani/`.
+`stories/naattiya-kalarani/` is **TAMIL SOURCE-COMPLETE**: 22/22 verified, assembly PASS, 0 unresolved.
 
-- source range: scans **25–46 / printed 25–46**;
-- page records: **22/22 verified**;
-- historical-glyph/source gate: **PASS / COMPLETE**;
+## Active Story 8 — `மானம்`
+
+Workspace: `stories/maanam/`.
+
+- source boundary: **PASS**;
+- canonical dedup: **PASS — new canonical**;
+- page records: **6/6 initialized**;
+- direct transcription: **0/6**;
+- Stage B verified: **0/6**;
+- not-started: **6/6**;
 - blocked / unresolved: **0 / 0**;
-- canonical Tamil assembly: **COMPLETE**;
-- assembly review: **PASS — 22/22 / 0 omission / 0 duplication**;
-- Tamil/source status: **SOURCE-COMPLETE**.
+- source pagination anomaly: scan 73 visibly prints **`10`**; do not normalize to 73.
 
-## Next collection activity
-
-Activate Story 8 **`மானம்`** from scans **73–78**. First activity is source-intake/canonical-dedup/workspace initialization only; transcription follows in a later activity.
+Exact next activity: **P1 Stage A — scans 73–77 only**. Scan 78 remains untouched.
 
 `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
