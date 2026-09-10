@@ -31,17 +31,18 @@ Rules: source-first, no global replacement, no lexical modernization, and no PAS
 
 Tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md). Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
 
-Current state: **OPEN — 2 / 37 dual-gate complete**.
+Current state: **OPEN — 3 / 37 dual-gate complete**.
 
 ### Re-closed under the 2026 standard
 
 - `நளாயினி` — scans **16–23 / printed 7–14** — **Gate A PASS / Gate B PASS / 15 canonical repairs / 0 unresolved**. Tamil assembly and affected English are synchronized.
 - `புகழேந்தி` — scans **10–15 / printed 1–6** — **Gate A PASS / Gate B PASS / 9 canonical repairs / 0 unresolved**. Two historical-`லை` defects (`தலைவலி`, `காலைப் பணிவிடைகள்`) were repaired; `காதற் கண்கள்` was directly reconfirmed as the 1977 reading. Tamil assembly and affected English are synchronized.
+- `சபலம்` — scans **24–30 / printed 15–21** — **Gate A PASS / Gate B PASS / 6 canonical repairs / 0 unresolved**. The historical-`னை` defect `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல` and five additional source-fidelity repairs were synchronized; affected English was updated.
 
 ### Next
 
-- Story 3 `சபலம்` — scans **24–30 / printed 15–21** — **NEXT**.
-- after that: Story 4 `ஆட்டக்காவடி` through Story 37 `நுனிக்கரும்பு` in anthology order.
+- Story 4 `ஆட்டக்காவடி` — scans **31–38 / printed 22–29** — **NEXT**.
+- after that: Story 5 `குப்பைத்தொட்டி` through Story 37 `நுனிக்கரும்பு` in anthology order.
 
 ## Legacy processing state
 
@@ -65,3 +66,5 @@ Both source forms remain provenance; do not normalize them away.
 ## Current closure rule
 
 The old 37/37 Tamil source-pass is **legacy-complete but superseded for current release confidence**. A story is current PASS only after its 2026 Gate A and Gate B both close and all proven corrections have been synchronized.
+
+Current dual-gate progress: **3 / 37 CURRENT PASS, 34 pending**. Exact next activity: `ஆட்டக்காவடி`, scans **31–38 / printed pages 22–29**.

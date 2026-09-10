@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 2 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 3 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / `audit PASS` state is legacy provenance only. Current release confidence requires the new Gate A + Gate B standard.
 
@@ -65,14 +65,29 @@ Scans **10–15 / printed 1–6**:
 
 Full story record: `../../stories/pugazhendhi/RE_AUDIT_2026.md`.
 
+### `சபலம்`
+
+Scans **24–30 / printed 15–21**:
+
+- Gate A: **PASS — 7/7**;
+- Gate B: **PASS — 7/7**;
+- canonical repairs: **6**;
+- historical-`னை` repair: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல`;
+- other repairs include `அவ்வப்போது பற்றிய அக்கறைகள்` → `அலுப்பைப் பற்றிய அக்கறைகள்`, source spacing/sandhi restoration on scan 28, and `மூட்டை முடிச்சுகளைத்` on scan 30;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- Tamil assembly / audit / queue / affected English: synchronized.
+
+Full story record: `../../stories/sabalam/RE_AUDIT_2026.md`.
+
 ## Progress
 
 | # | Story | 1977 scans | Gate A | Gate B | Current state |
 |---:|---|---:|---|---|---|
 | 1 | `புகழேந்தி` | 10–15 | **PASS** | **PASS** | **CURRENT PASS — 9 repairs / 0 unresolved** |
 | 2 | `நளாயினி` | 16–23 | **PASS** | **PASS** | **CURRENT PASS — 15 repairs / 0 unresolved** |
-| 3 | `சபலம்` | 24–30 | **NEXT** | pending | REOPENED |
-| 4 | `ஆட்டக்காவடி` | 31–38 | pending | pending | REOPENED |
+| 3 | `சபலம்` | 24–30 | **PASS** | **PASS** | **CURRENT PASS — 6 repairs / 0 unresolved** |
+| 4 | `ஆட்டக்காவடி` | 31–38 | **NEXT** | pending | REOPENED |
 | 5 | `குப்பைத்தொட்டி` | 39–46 | pending | pending | REOPENED |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | pending | pending | REOPENED |
 | 7 | `சங்கிலிச்சாமி` | 57–68 | pending | pending | REOPENED |
@@ -109,18 +124,18 @@ Full story record: `../../stories/pugazhendhi/RE_AUDIT_2026.md`.
 
 ## Processing order
 
-`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி` was then closed as Story 1. The exact next story is **Story 3 `சபலம்`, scans 24–30 / printed pages 15–21**. After that, continue through Story 37 in anthology order.
+`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி` and then `சபலம்` were subsequently closed. The exact next story is **Story 4 `ஆட்டக்காவடி`, scans 31–38 / printed pages 22–29**. After that, continue through Story 37 in anthology order.
 
 ## Exact next activity
 
-Re-audit `சபலம்` scans **24–30 / printed pages 15–21** in one story-bounded activity:
+Re-audit `ஆட்டக்காவடி` scans **31–38 / printed pages 22–29** in one story-bounded activity:
 
-1. Gate A — compare all existing canonical records / assembly directly against all seven 1977 source pages;
-2. Gate B — independently reopen all seven pages and complete the mandatory Old Tamil Glyph check;
+1. Gate A — compare all existing canonical records / assembly directly against all eight 1977 source pages;
+2. Gate B — independently reopen all eight pages and complete the mandatory Old Tamil Glyph check;
 3. apply source-proven corrections individually; no retranscription / no global replacement;
 4. synchronize assembly, audits / possible-error records and any affected English;
 5. mark both gates PASS only with zero unresolved source/glyph readings;
 6. update this tracker and root/collection controls;
 7. commit, re-fetch live `main`, and stop/report.
 
-Do not begin Story 4 `ஆட்டக்காவடி` in the same activity.
+Do not begin Story 5 `குப்பைத்தொட்டி` in the same activity.

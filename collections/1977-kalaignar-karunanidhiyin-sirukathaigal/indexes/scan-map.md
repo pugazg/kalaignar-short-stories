@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 2/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 3/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -22,8 +22,8 @@
 |---:|---|---:|---:|---|
 | 1 | `புகழேந்தி` | 1–6 | 10–15 | **2026 Gate A PASS / Gate B PASS — 9 repairs / 0 unresolved** |
 | 2 | `நளாயினி` | 7–14 | 16–23 | **2026 Gate A PASS / Gate B PASS — 15 repairs / 0 unresolved** |
-| 3 | `சபலம்` | 15–21 | 24–30 | **legacy complete — 7/7; 2026 dual-gate NEXT** |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | legacy complete — 8/8; 2026 pending |
+| 3 | `சபலம்` | 15–21 | 24–30 | **2026 Gate A PASS / Gate B PASS — 6 repairs / 0 unresolved** |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **legacy complete — 8/8; 2026 dual-gate NEXT** |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | legacy complete — 8/8; 2026 pending |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | legacy complete — 10/10; 2026 pending |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | legacy complete — 12/12; 2026 pending |
@@ -62,11 +62,12 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 2 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 3 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
-- `சபலம்` scans 24–30 — **NEXT**.
+- `சபலம்` scans 24–30 — PASS / CLOSED;
+- `ஆட்டக்காவடி` scans 31–38 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 

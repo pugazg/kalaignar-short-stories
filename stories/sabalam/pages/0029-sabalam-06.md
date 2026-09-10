@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native embedded scan; full-page/full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -28,10 +28,11 @@ transcription_method: "direct visual comparison with native embedded scan; full-
 
 “பக்கத்தில்தான் இருக்கிறது; இங்கேயே இறங்கு” என்றான் குமரேஸ், அவன் முகம் கறுத்துவிட்டது.
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Opening `வழியே வீசியெறிந்தான்.` completes scan 28's page-ending `ஜன்னல்`.
-- `அந்தப் பசலை`, `சுக்கு நூறானதோ`, `கன்னக் கதுப்பை`, and `சபலம் பிடித்த மைனர்` are source readings retained without modernization and listed for later human recheck.
-- The final exchange continues on scan 30 / printed page 21.
+- Gate A source-fidelity comparison: **PASS** for scan 29 / printed page 20; canonical wording required **0** repairs.
+- Opening `வழியே வீசியெறிந்தான்.` completes scan 28's `ஜன்னல்`; final exchange continues to scan 30.
+- `அந்தப் பசலை`, `சுக்கு நூறானதோ`, `இந்தத் தாசி`, `கன்னக் கதுப்பை`, `சபலம் பிடித்த மைனர்`, and the final `இங்கேயே இறங்கு` exchange were rechecked and retained.
+- Gate B independent Old Tamil Glyph review: **PASS**; representative `றா` in `நூறானதோ`, `ணா` in `வீணாக்காமலிருக்கக்`, plus other old-family possibilities were checked at native/high resolution; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 29; அச்சுப் பக்கம்: 20 -->

@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native embedded scan; full-page/full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -20,10 +20,11 @@ transcription_method: "direct visual comparison with native embedded scan; full-
 
 குழந்தை நன்றாகத் தூங்கிவிட்டது. வண்டியும் விழுப்புரத்தை நெருங்கிக் கொண்டிருந்தது. அந்தப் பெட்டியில்
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Opening `குழந்தை.` completes scan 25's page-ending `உச்சரித்தது`.
-- Page-ending `அந்தப் பெட்டியில்` continues on scan 27 / printed page 18 with `இருந்தவர்கள்...`.
-- `ஸ்தம்பித்து`, `ஜாடையாகப்`, `நிறுத்தியபாடில்லை`, and `முட்டுக் கட்டையாகத்தான்` remain source-close and are queued for later human recheck.
+- Gate A source-fidelity comparison: **PASS** for scan 26 / printed page 17; canonical wording required **0** repairs.
+- Opening `குழந்தை.` completes scan 25's `உச்சரித்தது`; page-ending `அந்தப் பெட்டியில்` continues on scan 27 with `இருந்தவர்கள்...`.
+- `ஸ்தம்பித்து விட்டாள்`, `நீலக் குறு விழிகள்`, `போதையேறிக் காணப்பட்டன`, `ஜாடையாகப்`, `முட்டுக் கட்டையாகத்தான்`, and `நிறுத்தியபாடில்லை` were rechecked and retained as printed.
+- Gate B independent Old Tamil Glyph review: **PASS**; representative `னை` forms including `மனைவி` / `அவனை` and same-page old-character shapes were checked at native/high resolution; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 17 -->

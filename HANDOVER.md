@@ -42,7 +42,7 @@ A story is current PASS only after both gates pass, unresolved source/glyph coun
 
 Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Current tracker state: **OPEN — 2 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 3 / 37 dual-gate complete**.
 
 ## `நளாயினி` — 2026 RE-AUDIT CLOSED / PASS
 
@@ -82,24 +82,46 @@ Final re-audit state:
 
 Do not reopen `புகழேந்தி` from stale prompts unless new direct source evidence appears.
 
-## Exact next activity — Story 3 `சபலம்` dual-gate re-audit
+## `சபலம்` — 2026 RE-AUDIT CLOSED / PASS
 
 Workspace: `stories/sabalam/`.
 
 Source range: scans **24–30 / printed pages 15–21**.
 
+Final re-audit state:
+
+- Gate A: **PASS — 7/7**;
+- Gate B: **PASS — 7/7**;
+- source-proven canonical repairs: **6**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- historical-`னை` repair: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல`;
+- scan-25 source repair: `அவ்வப்போது பற்றிய அக்கறைகள்` → `அலுப்பைப் பற்றிய அக்கறைகள்`;
+- scan-28 source spacing/sandhi restored at `பார்க்க வில்லை`, `அழுதிடுங்`, `பார்த்திருந்தாலுங்`;
+- scan-30 `மூட்டை முடிச்சுகளைத் தூக்கிக்கொண்டு` restored;
+- canonical pages, Tamil assembly, source metadata, visual/audit controls, possible-error queue and affected English: synchronized;
+- durable story record: `stories/sabalam/RE_AUDIT_2026.md`.
+
+Do not reopen `சபலம்` from stale prompts unless new direct source evidence appears.
+
+## Exact next activity — Story 4 `ஆட்டக்காவடி` dual-gate re-audit
+
+Workspace: `stories/aattakkavadi/`.
+
+Source range: scans **31–38 / printed pages 22–29**.
+
 In one story-bounded activity:
 
 1. fetch live `main` and preserve newer durable work;
-2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/sabalam/` controls/page records/assembly/audit/possible-error files;
-3. Gate A — compare every existing `சபலம்` canonical page record and assembly directly against scans 24–30;
-4. Gate B — independently reopen all seven physical pages at high/native resolution and check all mandatory historical families;
+2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/aattakkavadi/` controls/page records/assembly/audit/possible-error files;
+3. Gate A — compare every existing `ஆட்டக்காவடி` canonical page record and assembly directly against scans 31–38;
+4. Gate B — independently reopen all eight physical pages at high/native resolution and check all mandatory historical families;
 5. correct only source-proven mismatches individually; never global-replace or modernize;
 6. synchronize assembly, audit / possible-error / historical-glyph records and existing English only where meaning changes;
-7. mark PASS only with Gate A 7/7 + Gate B 7/7 + 0 unresolved;
-8. if PASS, update tracker from **2/37 to 3/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
+7. mark PASS only with Gate A 8/8 + Gate B 8/8 + 0 unresolved;
+8. if PASS, update tracker from **3/37 to 4/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
 
-Do **not** begin Story 4 `ஆட்டக்காவடி` in the same activity.
+Do **not** begin Story 5 `குப்பைத்தொட்டி` in the same activity.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

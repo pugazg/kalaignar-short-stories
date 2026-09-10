@@ -7,7 +7,7 @@ page_type: "story-opening"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native embedded scan; full-page/full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # சபலம்
@@ -18,10 +18,11 @@ transcription_method: "direct visual comparison with native embedded scan; full-
 
 வண்டியில் ஏறியோ—அல்லது எழும்பூர் ரயில் மேடையைச் சுற்றிக்கொண்டோ இடம் அகப்படுமா என்று தவித்துக் கொண்டிருப்பவர்களிடம், கதைகளில் பகவான் ‘பிரத்யட்சமாவது போல’ ஒரு பொடியன் வந்து நிற்பான். “சாமி, இங்கே வாங்க நல்ல இடம்” என்பான். அவன் கூடச் சென்றால் போதும்; வண்டிக்குள் அருமையான இடத்தைக் காட்டிப் பலகையில் அவன் விரித்திருந்த ‘பட்டு மெத்தை’யை எடுத்து முண்டாசு கட்டிக் கொள்வான். அந்த இடத்தில் தூங்குவதற்கு—டிக்கட் பணம் போக—அவனுக்கு ஒரு நாலணா வாடகை. இப்படிப் பல பையன்கள் வாடகை வியாபாரம் நடத்துவார்கள். அவர்கள் கண்ணில் அகப்பட்டுக் கருணைக்குப் பாத்திரமான பிரயாணிகள் கண்ணயர்ந்து தூங்கிக் கொண்டிருந்தனர். அந்தப் பாக்கியம் கிடைக்காத பலர் கண்ணுக்குள் நுழைந்து இமைகளேப் பிடித்திழுத்து மூடும் உறக்கத்தை எதிர்க்கத் துணிவற்று ஒருவரோ டொருவர் மோதிக் கொண்டிருந்தனர். கழுத்தில் நிற்கச் சக்தி
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Visual-fidelity review records the source's long horizontal rule directly beneath the story heading `சபலம்`.
-- Page-ending `சக்தி` continues mechanically on scan 25 / printed page 16 as `யிழந்து...`, yielding the printed cross-page form `சக்தியிழந்து`.
-- `பிரத்யட்சமாவது போல`, `நாலணா`, `இமைகளேப் பிடித்திழுத்து`, and `ஒருவரோ டொருவர்` are retained as visible source forms and queued for later human recheck rather than silently normalized.
+- Gate A source-fidelity comparison: **PASS** for scan 24 / printed page 15; canonical wording required **0** repairs.
+- The opening heading/rule, `‘இந்தோ சிலோன் எக்ஸ்பிரஸ்’`, `பிரத்யட்சமாவது போல`, `நாலணா`, `இமைகளேப் பிடித்திழுத்து`, and `ஒருவரோ டொருவர்` were directly rechecked and retained as printed.
+- Page-ending `கழுத்தில் நிற்கச் சக்தி` continues mechanically on scan 25 as `யிழந்து...`, yielding `சக்தியிழந்து` across the physical boundary.
+- Gate B independent Old Tamil Glyph review: **PASS**; representative `ணா` in `நாலணா` and `ளை` in `வளைத்துக்` were rechecked at native/high resolution; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 15 -->

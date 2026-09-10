@@ -13,18 +13,37 @@ Canonical story workspace for **சபலம்**, processed from the 1977 antho
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
-## Tamil archival status
+## 2026 re-audit status
 
-**PASS — 7 / 7 story pages transcribed and directly source-reviewed.**
+**CURRENT PASS / CLOSED — Gate A 7/7 PASS + Gate B 7/7 PASS + 6 source-proven canonical repairs + 0 unresolved.**
+
+This was comparison repair of the existing canonical Tamil, **not retranscription**.
 
 - page records: **7 / 7**
-- `verified`: **7**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing source text: **0**
+- source-fidelity Gate A: **7 / 7 PASS**
+- independent Old Tamil Glyph Gate B: **7 / 7 PASS**
+- canonical repairs: **6**
+- historical-glyph repairs: **1** (`னை`)
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **CLOSED — 0 pending**
 
+Full durable record: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).  
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
 Audit: [`audit.md`](audit.md).
+
+## Source-proven repairs in 2026
+
+The direct 1977 re-audit repaired:
+
+- scan 25: `அவ்வப்போது பற்றிய அக்கறைகள்` → `அலுப்பைப் பற்றிய அக்கறைகள்`;
+- scan 28: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல` — historical `னை`;
+- scan 28: `பார்க்கவில்லை` → `பார்க்க வில்லை`;
+- scan 28: `அழுதிடும்` → `அழுதிடுங்`;
+- scan 28: `பார்த்திருந்தாலும்` → `பார்த்திருந்தாலுங்`;
+- scan 30: `மூட்டை முடிச்சுகளைக் தூக்கிக்கொண்டு` → `மூட்டை முடிச்சுகளைத் தூக்கிக்கொண்டு`.
+
+No source wording repair was required on scans **24, 26, 27, or 29**.
 
 ## Reading layer
 
@@ -34,45 +53,41 @@ Final current Tamil assembly:
 
 The assembly retains source-page boundaries for scans 24–30 and excludes scan 31, which begins the next story `ஆட்டக்காவடி`.
 
+## Visual fidelity
+
+**PASS — source structure retained.**
+
+Story-local visual-fidelity record:
+
+[`visual-fidelity.md`](visual-fidelity.md)
+
+The 2026 re-audit reconfirmed the scan-24 opening rule, scan-28 enlarged initial `வ`, physical page joins, and scan-30 closing ornament.
+
 ## Human possible-error review
 
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) collects unusual or easily misread passages for later human review.
+[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) is now **CLOSED — 0 pending / 0 unresolved** under the 2026 dual-gate review. Confirmed errors were repaired and source-supported unusual readings were retained with provenance.
 
-Important: entries in that file are **possible errors only**, not confirmed corrections. The page-level source reading remains controlling until stronger direct-source evidence establishes a replacement.
-
-Representative high-value rechecks include:
-
-- `பிரத்யட்சமாவது போல`
-- `இமைகளேப் பிடித்திழுத்து`
-- `முக்கால் பாகந்தான்`
-- `கணீரென்று`
-- `நடசத்திரத்துக்குக்`
-- `கையுங்களவுமாகப்`
-- `ஊற்றுவதாகயிருந்தது`
-- `அந்தப் பசலை`
-- `கன்னக் கதுப்பை`
-- `நாலா புறமிருந்தும்`
+Confirmed source-odd forms retained include `பிரத்யட்சமாவது போல`, `இமைகளேப் பிடித்திழுத்து`, `கணீரென்று`, `நடசத்திரத்துக்குக்`, `கையுங்களவுமாகப்`, `ஊற்றுவதாகயிருந்தது`, `அந்தப் பசலை`, `கன்னக் கதுப்பை`, and `நாலா புறமிருந்தும்`.
 
 ## Verified page-boundary continuations
 
 1. printed 15→16: `கழுத்தில் நிற்கச் சக்தி` → `யிழந்து தொங்கும் தலையை...`
 2. printed 16→17: `உச்சரித்தது` → `குழந்தை.`
 3. printed 17→18: `அந்தப் பெட்டியில்` → `இருந்தவர்கள்...`
-4. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
-5. printed 20→21: the station/child exchange continues into the concluding page.
+4. printed 18→19: scan 27 paragraph closes; scan 28 begins the new `வண்டி...` paragraph.
+5. printed 19→20: `ஜன்னல்` → `வழியே வீசியெறிந்தான்.`
+6. printed 20→21: the station/child exchange continues into the concluding page.
 
 ## English translation
 
-**PASS — complete and reviewed.**
+**PASS — synchronized to the repaired 1977 Tamil.**
 
 - English: [`translations/en/sabalam.md`](translations/en/sabalam.md)
 - review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - source-page markers represented: **7 / 7**
-- possible-error queue read and respected: **Yes**
-- Tamil source changed during translation: **No**
 
-The title is retained as **Sabalam** rather than being reduced to one interpretive English equivalent. Unusual source forms such as `கையுங்களவுமாகப்`, `அந்தப் பசலை`, `கன்னக் கதுப்பை`, and `மைனர்` are handled conservatively and documented in the translation review.
+The scan-25 correction `அலுப்பைப் பற்றிய அக்கறைகள்` materially changes the English sense and has been synchronized. The other five Tamil repairs are spacing/sandhi/character-identity corrections whose existing English meaning did not require rewriting.
 
 ## Completion state
 
-**சபலம் Tamil archival source processing + English translation: COMPLETE for scans 24–30 / printed pages 15–21, with persistent human recheck queue.**
+**சபலம் is CURRENT PASS / CLOSED under the 2026 dual-gate standard for scans 24–30 / printed pages 15–21: 6 canonical repairs, 0 unresolved source readings, 0 unresolved historical-glyph readings, Tamil assembly and affected English synchronized.**

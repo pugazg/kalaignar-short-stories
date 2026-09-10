@@ -12,7 +12,7 @@ To those who had boarded the train—or were wandering around the Egmore platfor
 
 their hanging heads rested against their knees, the shoulder of the person beside them, or the window frame. It was a pitiable sight.
 
-Even in this ‘world of Kumbhakarna’, there were a few who remained wide awake. At least one in a hundred could be found. In the sixth compartment, many were snoring with difficulty, some even stretching their legs a little out through the windows. At the end of a long bench sat a man who, without concern for anything around him, kept looking this way and that in some strange agitation and glancing under the bench. Opposite him, on another bench, sat another young man with his eyes closed. His eyes were closed, but it was clear that he was not asleep. Even his eyelids were only three-quarters shut. Through the remaining quarter his gaze moved back and forth between the young man sitting opposite and a woman lying under the bench.
+Even in this ‘world of Kumbhakarna’, there were a few who remained wide awake. At least one in a hundred could be found. In the sixth compartment, many were snoring with difficulty, some even stretching their legs a little out through the windows. At the end of a long bench sat a man who, with no concern about fatigue, kept looking this way and that under the sway of some feeling and glancing under the bench. Opposite him, on another bench, sat another young man with his eyes closed. His eyes were closed, but it was clear that he was not asleep. Even his eyelids were only three-quarters shut. Through the remaining quarter his gaze moved back and forth between the young man sitting opposite and a woman lying under the bench.
 
 He and Chandira had boarded in Chennai with their child. A short while after they sat down, the sleepless young man came and sat opposite them. He had not happened upon that place by chance. He had inspected every carriage once, then a second time, before finally boarding here.
 
@@ -88,7 +88,8 @@ The ‘Indo Ceylon Express’ departed from Cuddalore.
 
 ## Translation note
 
-- Translation source: verified Tamil assembly for anthology scans **24–30 / printed pages 15–21**.
+- Translation source: 2026 dual-gate verified Tamil assembly for anthology scans **24–30 / printed pages 15–21**.
 - All seven source-page boundaries are retained once and in order.
 - Story 4 (`ஆட்டக்காவடி`) is not included.
-- Unusual verified Tamil readings are not silently corrected; difficult choices are documented separately in `../../TRANSLATION_REVIEW.md`.
+- The scan-25 semantic correction `அலுப்பைப் பற்றிய அக்கறைகள்` is synchronized here as `with no concern about fatigue`; the other five 2026 Tamil repairs do not alter the existing English meaning.
+- Source-odd Tamil is not silently normalized; difficult choices are documented separately in `../../TRANSLATION_REVIEW.md`.

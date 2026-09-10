@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with native embedded scan; full-page/full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -20,10 +20,11 @@ transcription_method: "direct visual comparison with native embedded scan; full-
 
 இந்த ரசமான கட்டத்தில்தான், குமரேஸ் முக்கால் கண்ணை மூடிக்கொண்டு நடப்பவைகளைப் பார்த்துக்கொண்டிருந்தான். சந்திரா எப்படியும் கையுங்களவுமாகப் பிடிபட்டுவிடுவாள் என்று துடித்துக்கொண்டிருந்தான். எதிரே இருந்தவன் குமரேசை அடிக்கடி பார்ப்பதும் தன் கால்களால் அவள் கையை மெதுவாகத் தீண்டுவதும் மீண்டும் சுற்றுமுற்றும் பார்த்துச் சும்மாயிருப்பதுமே வேலையாயிருந்தான்.
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Opening `இருந்தவர்கள்` completes scan 26's `அந்தப் பெட்டியில்`.
-- `இருப்புக்கொள்ளவில்லை`, `நடசத்திரத்துக்குக்`, and especially `கையுங்களவுமாகப்` are visually legible but unusual source forms; they remain in the human review queue.
-- No story text is blocked on this page.
+- Gate A source-fidelity comparison: **PASS** for scan 27 / printed page 18; canonical wording required **0** repairs.
+- Opening `இருந்தவர்கள்` completes scan 26's `அந்தப் பெட்டியில்`; scan 27 closes its final paragraph before scan 28 opens a new paragraph.
+- `‘புஸ் புஸ்’`, `இருப்புக்கொள்ளவில்லை`, `நடசத்திரத்துக்குக்`, `கையுங்களவுமாகப்`, and `சுற்றுமுற்றும்` were rechecked directly and retained as printed.
+- Gate B independent Old Tamil Glyph review: **PASS**; representative `ணை` in `கண்ணை`, `னை` in `ரசனைதான்`, and `னோ` in `கண்டானோ` were checked at native/high resolution; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 27; அச்சுப் பக்கம்: 18 -->
