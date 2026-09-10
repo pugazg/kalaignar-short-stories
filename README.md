@@ -25,8 +25,8 @@ Permanent guides:
 | Story | Source state | English |
 |---|---|---|
 | [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
-| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`நளாயினி`](stories/nalayini/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 9 repairs; 0 unresolved** | **PASS — synchronized** |
+| [`நளாயினி`](stories/nalayini/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 15 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`சபலம்`](stories/sabalam/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`குப்பைத்தொட்டி`](stories/kuppai-thotti/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -295,18 +295,19 @@ Source registration state:
 - stories in contents: **37**
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
-- Tamil source processing complete from anthology: **37 / 37**
-- anthology stories not yet transcribed: **0 / 37**
-- English translation complete from anthology: **37 / 37**
-- English translation pending: **0 / 37**
+- legacy Tamil source processing: **37 / 37 complete**
+- 2026 dual-gate source re-audit: **OPEN — 2 / 37 CURRENT PASS**
+- current closed stories: **`புகழேந்தி`, `நளாயினி`**
+- exact next story: **`சபலம்`, scans 24–30 / printed 15–21**
+- English translation complete from anthology: **37 / 37**; affected English is synchronized when a 2026 source repair changes meaning
 
-Exact source metadata, inventory and scan map are under the collection workspace.
+Exact source metadata, inventory, scan map and current dual-gate tracker are under the collection workspace.
 
-## Completed anthology Tamil source passes
+## Legacy completed anthology Tamil source passes
 
-1. **புகழேந்தி** — printed **1–6**, scans **10–15**, **6/6 verified**, audit PASS.
-2. **நளாயினி** — printed **7–14**, scans **16–23**, **8/8 verified**, audit PASS.
-3. **சபலம்** — printed **15–21**, scans **24–30**, **7/7 verified**, audit PASS.
+1. **புகழேந்தி** — printed **1–6**, scans **10–15** — **2026 CURRENT PASS: Gate A 6/6 + Gate B 6/6; 9 repairs; 0 unresolved**.
+2. **நளாயினி** — printed **7–14**, scans **16–23** — **2026 CURRENT PASS: Gate A 8/8 + Gate B 8/8; 15 repairs; 0 unresolved**.
+3. **சபலம்** — printed **15–21**, scans **24–30**, **7/7 legacy verified**, audit PASS — **2026 dual-gate NEXT**.
 4. **ஆட்டக்காவடி** — printed **22–29**, scans **31–38**, **8/8 verified**, audit PASS.
 5. **குப்பைத்தொட்டி** — printed **30–37**, scans **39–46**, **8/8 verified**, audit PASS.
 6. **சந்தனக்கிண்ணம்** — printed **38–47**, scans **47–56**, **10/10 verified**, audit PASS.
@@ -342,7 +343,7 @@ Exact source metadata, inventory and scan map are under the collection workspace
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven have **0 blocked / 0 unresolved story text**, complete Tamil assemblies, complete visual-fidelity records, persistent human-review queues, and complete reviewed English translations.
+All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **2 / 37 CURRENT PASS, 35 pending**, with `சபலம்` next.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -366,19 +367,20 @@ Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
 ## Anthology Tamil source pass status
 
-**COMPLETE — 37 / 37 stories fully source-processed and synchronized; 0 remaining.**
+**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 2 / 37 CURRENT PASS.**
 
-The Tamil source pass for the 1977 anthology is closed through scan **259 / printed page 250**. Scan **260** is the verified back cover.
+The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `சபலம்`, scans **24–30 / printed pages 15–21**.
 
 ## Anthology English translation status
 
-**COMPLETE — 37 / 37 complete; 0 pending; 0 needs review.**
+**COMPLETE — 37 / 37 complete; 0 pending; 0 needs review at the legacy layer.**
 
-- Stories **1–37**: **PASS**
-- final completed batch: `சுமந்தவள்`, TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`, `நுனிக்கரும்பு`
-- final English story boundary: scan **259 / printed page 250**
-- scan **260** remains the verified anthology back cover
-- translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
-- tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+- Stories **1–37**: English layers exist and were previously reviewed;
+- any English materially affected by a 2026 Tamil repair is resynchronized during that story's dual-gate closure;
+- `புகழேந்தி` and `நளாயினி` English are synchronized to their current 2026 Tamil;
+- final English story boundary: scan **259 / printed page 250**;
+- scan **260** remains the verified anthology back cover;
+- translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md);
+- tracker: [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md).
 
-English remains a separate translation layer; the verified Tamil assemblies remain authoritative.
+English remains a separate translation layer; the controlling 1977 scans and current verified Tamil assemblies remain authoritative.
