@@ -1,68 +1,64 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` witness / Story 1 P1 Stage A scans 3–7
+# NEXT CHAT PROMPT — 1976 `நளாயினி` comparison / Story 1 scans 8–12
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Controlling source
 
-Use only the attached `TVA_BOK_0065574_நளாயினி_1976.pdf` for this edition's source-dependent work.
+Use only the attached `TVA_BOK_0065574_நளாயினி_1976.pdf` for 1976 source-dependent evidence.
 
 - fourth edition: 1976
 - scans: 78
 - bytes: 164,748,566
 - SHA-256: `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`
 - do not commit the PDF
-- do not query an external copy unless explicitly requested
 
-## Exact-edition witness extension
+## Critical user directive
 
-The user explicitly authorized archival processing of the six stories formerly left note-only because canonicals already existed. These are **witness layers only**; never silently overwrite canonical Tamil/English.
+**Do not create another full transcription of an already-existing canonical story. Comparison only.**
 
-Tracker: `collections/1976-nalayini/EDITION_WITNESS_PROGRESS.md`.
+For the six duplicate stories in this anthology:
+
+- visually compare 1976 source pixels against existing canonical Tamil;
+- record only source-proven variants;
+- ignore routine line wrapping/page-layout differences and do not exhaustively catalogue punctuation/spacing unless it changes the lexical reading;
+- no duplicate witness English translation;
+- no canonical overwrite from witness evidence alone.
+
+The empty activation page stubs under the 1976 `நளாயினி` witness must remain unpopulated.
 
 ## Active target
 
-Canonical: `stories/nalayini/`, controlled by its 1977 anthology.
+Canonical: `stories/nalayini/` — controlling 1977 anthology.
 
-1976 witness: `stories/nalayini/witnesses/1976-nalayini/`.
+1976 comparison workspace: `stories/nalayini/witnesses/1976-nalayini/`.
 
-Boundary: scans / printed pages **3–12**; scan 13 opens `காதல் கடிதம்` and is excluded.
+Story range: scans/printed **3–12**.
 
-Durable activation state:
-- source intake: **PASS**;
-- page records: **10/10 initialized**;
-- direct Stage A: **0/10**;
-- Stage B: **0/10**;
-- verified: **0/10**.
+Durable comparison state:
 
-## Mandatory startup
+- P1 scans **3–7** — **PASS / COMPLETE**
+- P1 variants recorded — **13**
+- canonical changes — **0**
+- P2 scans **8–12** — **NEXT**
 
-Read completely before changing source-dependent files:
-1. `SHORT_STORY_PROCESSING_GUIDE.md`
-2. `COLLECTION_SOURCE_GUIDE.md`
-3. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-4. `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`
-5. root `HANDOVER.md`
-6. this prompt
-7. `collections/1976-nalayini/EDITION_WITNESS_PROGRESS.md`
-8. `stories/nalayini/README.md`
-9. `stories/nalayini/witnesses/1976-nalayini/README.md`
-10. `SOURCE_INTAKE.md`
-11. `indexes/page-map.md`
-12. `PASS1_PROGRESS.md`
-13. `HISTORICAL_GLYPH_GATE.md`
-14. `POSSIBLE_ERRORS_FOR_REVIEW.md`
+High-value P1 variants include:
 
-## Exact next activity — one batch only
+- `காசிநாதனைத் தொழு!` ↔ canonical `தாசிநாதீனத்தொழு!`
+- `வலி மிகுந்த உடம்பை` ↔ `வலிக்குந்த உடம்பை`
+- `அவன்` ↔ `அவள்`
+- `கண்ஜாடை` ↔ `கண்ணாடை`
+- `அணைத்தெடுத்து` ↔ `அண்டெடுத்து`
 
-**P1 Stage A scans 3–7 / printed 3–7 only.**
+## Exact next activity
 
-- visually read each whole attached source page once;
-- transcribe directly into the five witness page records;
-- preserve punctuation, spacing, paragraphing, source-odd words and clearly readable historical glyph identity;
-- do not run systematic 13-family Stage B in this activity;
-- use crops/enhancements only for an actually uncertain reading;
-- keep scans 3–7 `needs-review` after Stage A;
-- synchronize witness/collection controls;
-- commit and stop/report.
+Compare **1976 scans 8–12 only** against the canonical 1977 `நளாயினி`.
 
-Do **not** touch scans 8–12, Story 2 `காதல் கடிதம்`, canonical 1977 Tamil/English, or `நடுத்தெரு நாராயணி` in this activity.
+1. fetch live `main`;
+2. read `VARIANT_COMPARISON.md`, this prompt, root `HANDOVER.md`, and canonical `stories/nalayini/` text;
+3. inspect scans 8–12 directly from the attached PDF;
+4. record only source-proven word/phrase variants;
+5. do not populate witness page stubs;
+6. do not change canonical Tamil/English in this comparison activity;
+7. when complete, summarize the full scans 3–12 variant set, mark `நளாயினி` comparison complete, synchronize collection/root controls, commit, stop/report.
+
+Do not start Story 2 `காதல் கடிதம்` in the same activity.

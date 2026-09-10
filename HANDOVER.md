@@ -5,52 +5,55 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - live `main` is authoritative
-- permanent guides: `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `ENGLISH_TRANSLATION_GUIDE.md`
+- permanent source-first guides remain in force
 
-## 1976 `நளாயினி` exact-edition archive — OPEN
+## 1976 `நளாயினி` exact-edition archive — comparison extension OPEN
 
-Controlling physical source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — 78 scans, 164,748,566 bytes, fourth edition 1976, image-only, not committed.
+Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` — 78 scans, 164,748,566 bytes, fourth edition 1976, image-only, not committed.
 
-Exact SHA-256 from the attached raw bytes:
+Exact SHA-256:
 `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.
 
-### Previously closed work
+### Closed new-canonical work
 
-The two stories newly canonicalized from this edition remain closed:
+- `நாட்டிய கலாராணி` — Tamil 22/22 verified / assembly PASS; English PASS.
+- `மானம்` — Tamil 6/6 verified / assembly PASS; English PASS.
 
-- `நாட்டிய கலாராணி` — Tamil 22/22 verified / assembly PASS; English PASS / 22/22 page anchors aligned;
-- `மானம்` — Tamil 6/6 verified / assembly PASS; English PASS / 6/6 page anchors aligned.
+### User directive — duplicate stories are comparison-only
 
-### New user authorization — edition-witness extension
+The user explicitly does **not** want another transcription of stories that already exist canonically.
 
-The initial note-only rule for six already-canonical stories has been superseded by explicit user authorization to make this exact 1976 edition fully archival-complete. Process these as **witness layers**, never duplicate canonicals or silently overwrite their controlling editions.
+For the six duplicate stories in this 1976 anthology:
 
-Tracker: `collections/1976-nalayini/EDITION_WITNESS_PROGRESS.md` — **OPEN / 0 of 6 source-complete**.
+- compare the 1976 source directly against canonical Tamil;
+- record only source-proven variants;
+- do not create another full Tamil transcription;
+- do not create duplicate English translations;
+- never silently overwrite canonical text.
 
-Targets in order:
-1. `நளாயினி` scans 3–12 — **ACTIVE**;
-2. `காதல் கடிதம்` 13–18 — pending;
-3. `புரட்சிப் படம்` 19–24 — pending;
-4. `விஷம் இனிது` 47–55 — pending;
-5. `பாலைவன ரோஜா` 56–62 — pending;
-6. `அய்யோ ராஜா!` 63–72 — pending.
+Tracker: `collections/1976-nalayini/EDITION_WITNESS_PROGRESS.md` — **OPEN / 0 of 6 comparison-complete**.
 
-## Active witness — `நளாயினி` 1976
+## Active comparison — Story 1 `நளாயினி`
 
-Workspace: `stories/nalayini/witnesses/1976-nalayini/`.
+1976 scans **3–12** ↔ canonical 1977 `stories/nalayini/`.
 
-- source boundary: **PASS** — scan 3 opens `நளாயினி`; scan 12 is terminal; scan 13 opens `காதல் கடிதம்`;
-- page records initialized: **10/10**;
-- direct Stage A: **0/10**;
-- Stage B: **0/10**;
-- verified: **0/10**;
-- no witness prose has yet been committed;
-- canonical 1977 Tamil/English changed: **No**.
+Durable state:
+
+- source boundary: **PASS**
+- P1 comparison scans **3–7**: **PASS / COMPLETE**
+- P1 variants: **13**
+- scan 3 substantive lexical variants: none detected in P1
+- high-value recheck candidates include `காசிநாதனைத் தொழு!`, `வலி மிகுந்த`, `அவன்`, `கண்ஜாடை`, `அணைத்தெடுத்து`
+- P2 comparison scans **8–12**: **NEXT**
+- canonical Tamil/English changed: **No**
+- activation page stubs remain empty and must not be populated
 
 ## Exact next activity
 
-Process **P1 Stage A scans 3–7 only** from the attached 1976 PDF. Transcribe each whole page once, preserve source punctuation/spacing/paragraphing/historical glyph identity, keep all five as `needs-review`, synchronize witness + collection controls, commit, and stop. Do **not** touch scans 8–12 or Story 2.
+Compare **1976 `நளாயினி` scans 8–12 only** against the canonical 1977 Tamil. Record variants in `stories/nalayini/witnesses/1976-nalayini/VARIANT_COMPARISON.md`; do not transcribe the pages.
+
+After scans 8–12 close, mark Story 1 comparison complete and advance to Story 2 `காதல் கடிதம்` scans 13–18, also comparison-only.
 
 ## Independent external hold
 
-`நடுத்தெரு நாராயணி` remains blocked by the separate live `வெள்ளிக்கிழமை` completion gate. Do not clear that hold from memory; the 1976 witness extension is independent of it.
+`நடுத்தெரு நாராயணி` remains controlled by the separate `வெள்ளிக்கிழமை` completion gate.

@@ -1,25 +1,34 @@
-# Existing-canonical witness notes — 1976 `நளாயினி`
+# Existing-canonical witnesses — 1976 `நளாயினி`
 
-## Directive history
+The anthology contains six stories that already have canonical repository workspaces:
 
-At initial intake the user directed that stories already present in the repository should not be retranscribed and should only be noted. That rule produced the original six note-only entries.
+| Story | 1976 source range | Existing canonical workspace |
+|---|---:|---|
+| `நளாயினி` | scans/printed 3–12 | `stories/nalayini/` |
+| `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` |
+| `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` |
+| `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` |
+| `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` |
+| `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` |
 
-The user has now **explicitly superseded that intake limitation** and authorized exhaustive archival processing of the exact 1976 edition. The six stories below must therefore be processed as **independent 1976 witness layers**, without duplicating or silently overwriting their canonical workspaces.
+## Current directive
 
-| Story | 1976 source range | Existing canonical workspace | Current 1976 witness state |
-|---|---:|---|---|
-| `நளாயினி` | scans/printed 3–12 | `stories/nalayini/` | **ACTIVE — source intake PASS; witness initialized** |
-| `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` | pending |
-| `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` | pending |
-| `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | pending |
-| `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` | pending |
-| `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` | pending |
+The original intake instruction was to note these duplicates without retranscribing them. A later archival-completeness extension briefly opened a full witness-transcription workflow. The user has now clarified the intended final method:
 
-No canonical Tamil or English is changed merely because a 1976 witness differs. Variants must be recorded explicitly and adjudicated under the controlling source of the canonical workspace.
+> **Do not make another transcription of already-existing work. Comparison is fine.**
 
-The two stories newly canonicalized from this edition remain closed:
+Therefore these six sources are processed **comparison-only**:
+
+- compare 1976 source pixels with the existing canonical Tamil;
+- record source-proven differences;
+- do not create a duplicate story transcription or duplicate English translation;
+- do not overwrite canonicals from witness evidence alone.
+
+Story 1 `நளாயினி` comparison is active; scans 3–7 are complete and scans 8–12 are next.
+
+The two stories that were new canonicals from this anthology are:
 
 - `நாட்டிய கலாராணி` — scans 25–46 — Tamil + English PASS;
-- `மானம்` — scans 73–78 — Tamil + English PASS. The stale intake title `மனம்` is rejected.
+- `மானம்` — scans 73–78 — Tamil + English PASS.
 
-Durable tracker: `EDITION_WITNESS_PROGRESS.md`.
+The stale earlier form `மனம்` is rejected; the source heading is `மானம்`.

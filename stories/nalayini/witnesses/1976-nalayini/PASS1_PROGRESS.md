@@ -1,19 +1,21 @@
-# Pass progress — நளாயினி — 1976 witness
+# Progress — நளாயினி — 1976 comparison witness
+
+## Workflow change
+
+**SUPERSEDED:** the earlier Stage-A/Stage-B duplicate-transcription plan is no longer active.
+
+User directive on 2026-09-10: **no additional transcription of already-existing canonical work; comparison only.**
 
 ## Current state
 
-- source range: scans / printed **3–12**;
-- page records: **10 / 10 initialized**;
-- direct Stage A: **0 / 10**;
-- independent Stage B: **0 / 10**;
-- verified: **0 / 10**;
-- needs-review: **0**;
-- not-started: **10**;
-- blocked / unresolved: **0 / 0**.
+- source range: scans / printed **3–12**
+- activation page stubs: **10 / 10 present but intentionally unused**
+- duplicate Tamil transcription: **0 / 10 and permanently not planned**
+- P1 comparison scans **3–7**: **PASS / COMPLETE**
+- P1 source-proven variants: **13**
+- P2 comparison scans **8–12**: **NEXT**
+- canonical changes from witness: **0**
 
-## Batches
+Primary durable record: `VARIANT_COMPARISON.md`.
 
-- P1 scans **3–7** — **NEXT — Stage A only**;
-- P2 scans **8–12** — pending; do not touch until P1 closes.
-
-Stage A and Stage B remain separate commits under `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`.
+Do not resume Stage A or populate the page stubs.
