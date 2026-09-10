@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; enlarged full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 # அச்சு உரை
@@ -26,10 +26,12 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 கனிமொழி—தனி மரமானாள். அந்தக் கன்னியைத் தனியே விட்டுவிட்டுத் தந்தை காலமானார். தாயற்ற அவள் இப்போது
 
-## Source-review note
+## 2026 dual-gate review note
 
-- Visual-fidelity review records the enlarged initial `க` that clearly marks the flashback paragraph beginning `கனிமொழி நெசவாளர்...`.
-- `பகுத்தறிவு புரியிலே`, `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்`, `பட்டிக்காட்டு நடைபுடை`, `ரகளைப்படும்`, and `சிங்காரச் சிட்டெழுப்பும்` are unusual source-close readings and are queued for human review rather than normalized.
-- The final phrase `தாயற்ற அவள் இப்போது` continues on scan 35 / printed page 26 with `அனாதைப் பட்டத்துக்குரியவளானாள்.`
+- Gate A source-fidelity comparison: **PASS** for scan 34 / printed page 25; canonical repairs on this page: **0**.
+- `பகுத்தறிவு புரியிலே`, `தெரிந்த குற்றத்தைப் பிறகு செய்ய மாட்டவர்கள்`, `பட்டிக்காட்டு நடைபுடை`, `ரகளைப்படும்`, and `சிங்காரச் சிட்டெழுப்பும்` were directly rechecked and retained as printed.
+- The enlarged initial `க` at `கனிமொழி நெசவாளர்...` remains recorded.
+- The final `தாயற்ற அவள் இப்போது` continues on scan 35 as `அனாதைப் பட்டத்துக்குரியவளானாள்.`
+- Gate B independent Old Tamil Glyph review: **PASS**; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 34; அச்சுப் பக்கம்: 25 -->
