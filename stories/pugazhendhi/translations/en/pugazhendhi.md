@@ -2,7 +2,7 @@
 
 # Pugazhendhi
 
-> **English translation of the verified Tamil archival reading.** Controlling source: 1977 anthology `கலைஞர் கருணாநிதியின் சிறுகதைகள்`, scans **10–15**, printed pages **1–6**. The canonical Tamil remains authoritative. Page-boundary comments are retained for traceability.
+> **English translation of the verified Tamil archival reading.** Controlling source: 1977 anthology `கலைஞர் கருணாநிதியின் சிறுகதைகள்`, scans **10–15**, printed pages **1–6**. The canonical Tamil remains authoritative. This layer is synchronized to the 2026 dual-gate repaired Tamil.
 
 <!-- source scan 10; printed page 1 -->
 
@@ -20,7 +20,7 @@ Students, workers, scholars and ordinary folk surrounded him at all times, singi
 
 **Fame!     Fame!!     Fame!!!**
 
-Who wanted this fame? The world babbled about him as a master historian—a world-famed genius of geography—a mathematical expert—a king among poets—a sovereign of letters! But he lay writhing. “Will this fame never leave me?” he cried inwardly, his heart bursting. The reason was that he could go nowhere alone. Could he stroll along the beach in the evening? No. It was not that anyone had forbidden it; fame itself stopped him from going. Hundreds, thousands would gather around him. News would spread everywhere: “The genius has come!” Having come seeking solitude, unable to bear the torment that fame brought, he would flee home at a run. He could not travel by train. He could not show his face in the bazaar. He could not set foot in exhibition halls. Fame—fame—fame—fame everywhere! There was no one who did not speak of the noble qualities of that genius.
+Who wanted this fame? The world babbled about him as a master historian—a world-famed genius of geography—a mathematical expert—a king among poets—a sovereign of letters! But he lay writhing. “Will this fame never leave me?” he cried inwardly, his heart bursting. The reason was that he could go nowhere alone. Could he stroll along the beach in the evening? No. It was not that anyone had forbidden it; fame itself stopped him from going. Hundreds, thousands would gather around him. News would spread everywhere: “The genius has come!” Having come seeking solitude, unable to bear the headache brought by fame, he would flee home at a run. He could not travel by train. He could not show his face in the bazaar. He could not set foot in exhibition halls. Fame—fame—fame—fame everywhere! There was no one who did not speak of the noble qualities of that genius.
 
 <!-- source scan 12; printed page 3 -->
 
@@ -38,15 +38,15 @@ That was how they spoke of him.
 
 This story too spread. He may never have said any such thing—yet everyone believed it. People would put into his mouth all sorts of things he had never said. They would praise him for them; and with no other way out, he would agree: “Yes, I said it.”
 
-“They say he will not even sleep until his ideal is fulfilled!” So the publicity went on. A rumour born of excessive affection. Someone would go up to him, praising him as he asked, “Until your ideal—
+“They say he will not even sleep until his ideal is fulfilled!” So the publicity went on. A rumour born of excessive affection. People would go and ask him, “Your ideal—
 
 <!-- source scan 13; printed page 4 -->
 
-—is fulfilled, you will not sleep, they say! Ah, what determination! What determination!”
+—until it is fulfilled, they say you will not sleep! Ah, what determination! What determination!”—singing his praises all the while.
 
 Could he say, “No, no—I have no such obsession with my ideal”? He could not. So he would say, “Yes, I will not sleep.” To keep that up, after everyone around him had fallen asleep, he would remain seated in a chair and sleep as though he were thinking about something. Poor fellow! Even that was a restless half-sleep.
 
-“Our genius—he does not even wear a decent veshti and shirt—all his thoughts lie lodged in the desire to find a new path for the world,” some would say.
+“Our genius—he does not even wear a decent veshti and shirt—all his thoughts are absorbed in the need to find a new path for the world,” some would say.
 
 Could he say, “No, no—I like to dress grandly”? Of course not; poor man! So he wore dirty clothes, putting up even with the stench.
 
@@ -54,7 +54,7 @@ Could he say, “No, no—I like to dress grandly”? Of course not; poor man! S
 
 “Hmm—women, earth, what does it matter!” the genius too would say along with them. He had to speak that way, did he not, to preserve his greatness!
 
-One day the genius had been invited out of town—to deliver a lecture at a college on “Scientific Knowledge”! He was staying at the college principal's house. The principal had arranged a place for him alone upstairs, for his comfort, so that no one would disturb him. The genius delivered his lecture at the college. He poured out before the students vast ideas on the wonders of science—ideas that, they believed, only he could explain in his own beautiful style.
+One day the genius had been invited out of town—to deliver a lecture at a college on “Scientific Knowledge”! He was staying at the college principal's house. The principal had arranged a place for him alone upstairs so that no one would disturb him. The genius delivered his lecture at the college. He poured out before the students vast ideas on the wonders of science—ideas that, they believed, only he could explain in his own beautiful style.
 
 <!-- source scan 14; printed page 5 -->
 
@@ -72,7 +72,7 @@ The genius saw the scene. “He will not even turn to look at women until his id
 
 —either!” The words of praise spoken by townspeople and by the world rang in his ears.
 
-The next morning the boy came to attend to his feet. The genius asked him, “Last night that young woman pressed your hands to her eyes. Why?” “Didn't I hold your feet? She said my hands were greatly blessed hands because of that; that is why she pressed my hands to her eyes!” the boy explained.
+The next morning the boy came to perform his morning service duties. The genius asked him, “Last night that young woman pressed your hands to her eyes. Why?” “Didn't I hold your feet? She said my hands were greatly blessed hands because of that; that is why she pressed my hands to her eyes!” the boy explained.
 
 The genius said nothing. He thought, “I am ready to press even her feet to my eyes. And she kisses your hands because they touched my feet! What wonderful fame this is! Cursed fame—it kills me without killing me!” A thousand times he muttered this to himself!
 
@@ -84,7 +84,8 @@ The students and teachers departed with the cry, **“Long live the genius!”**
 
 ## Translation note
 
-- Translation source: verified Tamil assembly for anthology scans **10–15 / printed pages 1–6**.
+- Translation source: 2026 dual-gate repaired Tamil assembly for anthology scans **10–15 / printed pages 1–6**.
 - All six source-page boundaries are retained once and in order.
 - Story 2 (`நளாயினி`) is not included.
-- Unusual verified Tamil readings are not silently corrected; translation choices are documented separately in `../../TRANSLATION_REVIEW.md`.
+- Meaning/grammar affected by the source-proven repairs at `தலைவலி`, `கேட்பர்`, `லயித்துக்கிடக்கிறது`, `கொடுக்காமலிருப்பதற்காகத்`, and `காலைப் பணிவிடைகள்` has been synchronized here.
+- Source-supported `காதற் கண்கள்`, `மணக்கும்`, `அவனோர் பிடேல்டோ!` and other unusual 1977 forms were not replaced by later-witness wording.
