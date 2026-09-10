@@ -9,9 +9,9 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — Stage A and St
 - source intake: **PASS**
 - page records initialized: **22 / 22**
 - direct first-pass transcription: **20 / 22** — scans 25–44
-- historical-glyph/source Stage B: **15 / 22** — scans 25–39
-- verified pages: **15 / 22** — scans 25–39
-- `needs-review`: **5 / 22** — scans 40–44; P4 Stage B pending
+- historical-glyph/source Stage B: **20 / 22** — scans 25–44
+- verified pages: **20 / 22** — scans 25–44
+- `needs-review`: **0 / 22**
 - not-started: **2 / 22** — scans 45–46
 - blocked / unresolved source holds: **0**
 
@@ -22,28 +22,29 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — Stage A and St
 | P1 | 25–29 | **COMPLETE — 5/5** | **PASS — 5/5** | `verified` |
 | P2 | 30–34 | **COMPLETE — 5/5** | **PASS — 5/5** | `verified` |
 | P3 | 35–39 | **COMPLETE — 5/5** | **PASS — 5/5** | `verified` |
-| P4 | 40–44 | **COMPLETE — 5/5** | **NEXT** | `needs-review` |
-| P5 | 45–46 | pending | pending | not-started |
+| P4 | 40–44 | **COMPLETE — 5/5** | **PASS — 5/5** | `verified` |
+| P5 | 45–46 | **NEXT** | waits for durable P5 Stage-A commit | not-started |
 
-## P4 Stage-A notes
+## P4 Stage-B result
 
-- scans **40–44** were transcribed directly as whole pages from the attached controlling PDF;
-- no OCR, web text or another edition was used as transcription authority;
-- the systematic 13-family historical-glyph/source verification was **not** run in Stage A;
-- printed ornament separators on scans 40 and 42 are preserved in the page records;
-- source-sensitive but legible readings were appended to `POSSIBLE_ERRORS_FOR_REVIEW.md` for the separate Stage-B re-read;
-- blocking unreadable locations: **0**.
+**PASS — 5/5; 4 source/line-break corrections; 0 unresolved.**
+
+1. scan 40 `நடைபெற்றுத் தொடங்கின` → `நடைபெறத் தொடங்கின`;
+2. scan 40 `கலிதான்` → `கலைதான்` — historical `லை`;
+3. scan 41 physical `ஆத்` / `மாக்களில்` → lexical `ஆத்மாக்களில்`;
+4. scan 41 physical `களி` / `மண்` → lexical `களிமண்`, corroborated by same-paragraph `களிமண்ணிலே`.
+
+All 13 mandatory historical families were independently checked on scans 40–44. Representative positive candidates included scan 40 `கலைதான்` / `வேலையை` (`லை`) and `அவனைப்` (`னை`); scan 41 `இலக்கானாள்` (`னா`) and `கால்களை` (`ளை`); scan 42 `சொல்லுகிறாய்` (`றா`) and `அவனை` (`னை`); scan 43 `காலை` / `கலைந்து` / `கூந்தலைக்` (`லை`) and `என்னை` (`னை`); scan 44 `அரண்மனை` (`னை`). Families without a positive occurrence were closed as no-candidate. P4 unresolved / blocked: **0 / 0**.
 
 ## Exact next activity
 
-Run **P4 Stage B only** on scans **40–44**:
+Run **P5 Stage A only** on scans **45–46**:
 
-- independently reopen the same five source pages;
-- compare committed Stage-A text against source pixels; do not fully retranscribe;
-- explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus every P4 source-sensitive queue entry;
-- use crops/enhancements only for actual ambiguity;
-- record corrections individually; never global-replace;
-- promote only fully closed pages to `verified`;
-- synchronize verification/current-state controls, commit, and stop/report.
+- direct whole-page visual transcription from the attached controlling PDF;
+- no systematic 13-family Stage B in the same activity;
+- no routine crops/enhancements or repeated reopening of clear text;
+- keep scans 45–46 `needs-review` after Stage A;
+- synchronize Pass-1/current-state controls;
+- commit and stop/report.
 
-Do not begin scan 45 before P4 Stage B is committed.
+Do not begin P5 Stage B or Story 8 `மானம்` in the same activity.

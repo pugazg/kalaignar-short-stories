@@ -16,13 +16,13 @@ Canonical story workspace for **நாட்டிய கலாராணி**, o
 
 ## Current Tamil/source state
 
-**TRANSCRIPTION IN PROGRESS — P4 STAGE A COMPLETE — 20 / 22 DIRECT-TRANSCRIBED; 15 / 22 VERIFIED.**
+**TRANSCRIPTION IN PROGRESS — P4 FULLY CLOSED — 20 / 22 DIRECT-TRANSCRIBED AND VERIFIED.**
 
 - page records: **22 / 22**
 - direct first-pass transcription: **20 / 22** — scans 25–44
-- independent historical-glyph/source Stage B: **15 / 22** — scans 25–39
-- `verified`: **15**
-- `needs-review`: **5** — scans 40–44
+- independent historical-glyph/source Stage B: **20 / 22** — scans 25–44
+- `verified`: **20**
+- `needs-review`: **0**
 - `not-started`: **2** — scans 45–46
 - `blocked` / unresolved blocking locations: **0 / 0**
 - Tamil assembly: **not started**
@@ -34,13 +34,13 @@ Use root [`BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`](../../BATCH_TRANSCRIPT
 1. scans 25–29 — **Stage A COMPLETE / Stage B PASS / 5 verified**
 2. scans 30–34 — **Stage A COMPLETE / Stage B PASS / 5 verified**
 3. scans 35–39 — **Stage A COMPLETE / Stage B PASS / 5 verified**
-4. scans 40–44 — **Stage A COMPLETE / Stage B NEXT / 5 needs-review**
-5. scans 45–46 — pending
+4. scans 40–44 — **Stage A COMPLETE / Stage B PASS / 5 verified**
+5. scans 45–46 — **NEXT: Stage A**
 
-P4 Stage A was transcribed directly from the attached controlling source. Its source-sensitive but legible readings are queued in `POSSIBLE_ERRORS_FOR_REVIEW.md`; no blocking unreadable location remains.
+P4 Stage B closed with **4 source/line-break corrections / 0 unresolved**. The exact correction list is recorded in `HISTORICAL_GLYPH_GATE.md` and `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 
 ## Exact next activity
 
-**P4 Stage B only:** independently reopen scans **40–44 / printed pages 40–44**, compare the committed Stage-A text to the same source, audit all 13 mandatory historical families plus every P4 source-sensitive queue entry, correct only source-proven mismatches, synchronize verification controls, commit, and stop/report.
+**P5 Stage A only:** process scans **45–46 / printed pages 45–46** by direct whole-page source transcription. Do not run systematic Stage B in the same activity; keep those pages `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report.
 
-Do **not** begin scan 45 before P4 Stage B is committed. Do not begin Story 8 `மானம்` until this story is fully closed. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Do **not** begin Story 8 `மானம்` in the same activity. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

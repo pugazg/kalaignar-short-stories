@@ -20,16 +20,16 @@ Story range: scans **25–46 / printed pages 25–46**.
 | 37 | 37 | story | `verified` | P3 Stage B PASS; `புறு` → historical `புறா`; `ஒன்பது` → `என்பது`; printed separator retained |
 | 38 | 38 | story | `verified` | P3 Stage B PASS; source-odd wording/quotation confirmed; 0 corrections |
 | 39 | 39 | story | `verified` | P3 Stage B PASS; `ஜனனமாகும்` and asymmetric quotation confirmed; 0 corrections |
-| 40 | 40 | story | `needs-review` | **P4 Stage A COMPLETE**; source-sensitive wording/`லை` candidate queued; Stage B NEXT |
-| 41 | 41 | story | `needs-review` | **P4 Stage A COMPLETE**; `இலக்கானாள்`, source spacing queued; Stage B NEXT |
-| 42 | 42 | story | `needs-review` | **P4 Stage A COMPLETE**; `கயல் அழகி`, `பொறுமை கொண்ட` queued; Stage B NEXT |
-| 43 | 43 | story | `needs-review` | **P4 Stage A COMPLETE**; historical-family/source-spacing candidates queued; Stage B NEXT |
-| 44 | 44 | story | `needs-review` | **P4 Stage A COMPLETE**; `பந்தங்களிலேஉன்னை`, `போது!` queued; Stage B NEXT |
-| 45 | 45 | story | `not-started` | transcription pending; do not begin before P4 Stage B |
-| 46 | 46 | story-ending | `not-started` | final prose plus printed closing ornaments |
+| 40 | 40 | story | `verified` | P4 Stage B PASS; `நடைபெற்றுத்` → `நடைபெறத்`; `கலிதான்` → historical `கலைதான்` |
+| 41 | 41 | story | `verified` | P4 Stage B PASS; line-break fragments joined as `ஆத்மாக்களில்`, `களிமண்`; `இலக்கானாள்` confirmed |
+| 42 | 42 | story | `verified` | P4 Stage B PASS; `கயல் அழகி`, `பொறுமை கொண்ட`, `சொல்லுகிறாய்` confirmed; 0 corrections |
+| 43 | 43 | story | `verified` | P4 Stage B PASS; `லை` candidates, `கலா தேவியின்`, `கோமா...!` confirmed; 0 corrections |
+| 44 | 44 | story | `verified` | P4 Stage B PASS; `பந்தங்களிலேஉன்னை`, `நானே......`, `போது!` confirmed; 0 corrections |
+| 45 | 45 | story | `not-started` | **NEXT — P5 Stage A** |
+| 46 | 46 | story-ending | `not-started` | P5 Stage A pending; final prose plus printed closing ornaments |
 
 Forward boundary: scan **47** opens `விஷம் இனிது` and is excluded.
 
-Current totals: **22 records / 20 direct-transcribed / 15 Stage-B verified / 5 needs-review / 2 not-started / 0 blocked**.
+Current totals: **22 records / 20 direct-transcribed / 20 Stage-B verified / 0 needs-review / 2 not-started / 0 blocked**.
 
-Next exact activity: **P4 Stage B — scans 40–44 only**.
+Next exact activity: **P5 Stage A — scans 45–46 only**.

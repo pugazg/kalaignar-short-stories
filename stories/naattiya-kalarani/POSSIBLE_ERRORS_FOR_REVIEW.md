@@ -8,25 +8,27 @@ This is a review/audit queue, not a confirmed-error list.
 - P2 scans 30–34: **CLOSED — 8 corrections / 0 unresolved / 0 blocked**.
 - P3 scans 35–39: **CLOSED — 4 corrections / 0 unresolved / 0 blocked**.
 
-## P4 Stage-A queue — scans 40–44
+## P4 Stage-B dispositions — scans 40–44
 
-The following readings were preserved directly from the controlling 1976 scan in Stage A and must be independently re-read in P4 Stage B:
-
-| Scan | Stage-A reading / boundary | Why queued | Stage-A disposition |
+| Scan | Stage-A reading / boundary | Stage-B source result | Disposition |
 |---:|---|---|---|
-| 40 | `கலிதான்` | likely historical `லை` family candidate; Stage A preserves apparent reading pending independent proof | preserve pending Stage B |
-| 40 | `அதையும் தெரிந்துகொண்டே யிருந்தது!` | source-odd repeated wording | preserve; do not rewrite from context |
-| 40 | quotation/punctuation after `வாதாடுகிறேன்` | source closes quote before exclamation | preserve pending punctuation re-read |
-| 41 | `இலக்கானாள்` | `னா`-family identity should be independently checked | preserve pending Stage B |
-| 41 | `ஆத் மாக்களில்` / `களி மண்` | source-visible internal spacing | preserve pending Stage B |
-| 42 | `கயல் அழகி` | source character/spacing cluster requires independent re-read | preserve pending Stage B |
-| 42 | `பொறுமை கொண்ட` | directly visible but contextually unusual | preserve; no contextual rewrite |
-| 42 | `சொல்லுகிறாய்` | historical `றா` family candidate | preserve pending Stage B |
-| 43 | `காலை` / `கலைந்து` | `லை` family candidates | preserve pending Stage B |
-| 43 | `கலா தேவியின்` | source-visible spacing | preserve pending Stage B |
-| 43 | `கோமா...!` | directly printed terminal address/form | preserve pending Stage B |
-| 44 | `பந்தங்களிலேஉன்னை` | source appears run together | preserve spacing pending Stage B |
-| 44 | `நானே......` | six-dot pause is source-visible | preserve punctuation pending Stage B |
-| 44 | `போது!` | source-odd form directly visible; do not supply contextual `ம்` without source proof | preserve pending Stage B |
+| 40 | `கலிதான்` | historical `லை` source identity gives `கலைதான்` | **CORRECTED** |
+| 40 | `நடைபெற்றுத் தொடங்கின` | source reads `நடைபெறத் தொடங்கின` | **CORRECTED** |
+| 40 | `அதையும் தெரிந்துகொண்டே யிருந்தது!` | directly confirmed | **CONFIRMED / retain** |
+| 40 | quotation/punctuation after `வாதாடுகிறேன்` | source closes quote before exclamation | **CONFIRMED / retain** |
+| 41 | `இலக்கானாள்` | historical `னா` identity confirmed | **CONFIRMED / retain** |
+| 41 | `ஆத் மாக்களில்` | physical line break splits one lexical word: `ஆத்மாக்களில்` | **CORRECTED** |
+| 41 | `களி மண்` | physical line break splits `களிமண்`; same paragraph has `களிமண்ணிலே` | **CORRECTED** |
+| 42 | `கயல் அழகி` | directly confirmed | **CONFIRMED / retain** |
+| 42 | `பொறுமை கொண்ட` | directly confirmed despite contextual oddity | **CONFIRMED / retain** |
+| 42 | `சொல்லுகிறாய்` | historical `றா` identity confirmed | **CONFIRMED / retain** |
+| 43 | `காலை` / `கலைந்து` | historical `லை` identities confirmed | **CONFIRMED / retain** |
+| 43 | `கலா தேவியின்` | source-visible spacing confirmed | **CONFIRMED / retain** |
+| 43 | `கோமா...!` | terminal source form confirmed; no contextual expansion | **CONFIRMED / retain** |
+| 44 | `பந்தங்களிலேஉன்னை` | source visibly runs the form together | **CONFIRMED / retain** |
+| 44 | `நானே......` | six-dot pause directly confirmed | **CONFIRMED / retain** |
+| 44 | `போது!` | source reads `போது!`; do not supply contextual `ம்` | **CONFIRMED / retain** |
 
-P4 Stage-A blocking unreadable locations: **0**. All five pages remain `needs-review` because independent Stage B has not run.
+P4 Stage-B result: **CLOSED — 4 corrections / 0 unresolved / 0 blocked**.
+
+Future batches append new Stage-A source-sensitive readings here and close them only in the matching Stage-B activity.

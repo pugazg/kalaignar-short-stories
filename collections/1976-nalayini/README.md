@@ -23,7 +23,7 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 1 | `நளாயினி` | 3–12 | existing canonical — note only |
 | 2 | `காதல் கடிதம்` | 13–18 | existing canonical — note only |
 | 3 | `புரட்சிப் படம்` | 19–24 | existing canonical — note only |
-| 4 | `நாட்டிய கலாராணி` | 25–46 | **ACTIVE — 20/22 direct-transcribed / 15/22 Stage-B verified; P4 40–44 Stage A COMPLETE / Stage B NEXT** |
+| 4 | `நாட்டிய கலாராணி` | 25–46 | **ACTIVE — 20/22 direct-transcribed / 20/22 Stage-B verified; P4 CLOSED; P5 45–46 Stage A NEXT** |
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
@@ -36,11 +36,11 @@ Workspace: `stories/naattiya-kalarani/`.
 - source range: scans **25–46 / printed 25–46**;
 - page records: **22/22**;
 - direct transcription: **20/22**;
-- historical-glyph/source Stage B: **15/22**;
-- verified: **15/22**;
-- `needs-review`: **5/22** — scans 40–44;
+- historical-glyph/source Stage B: **20/22**;
+- verified: **20/22**;
+- `needs-review`: **0/22**;
 - not-started: **2/22** — scans 45–46;
 - blocked / unresolved blocking locations: **0 / 0**;
-- next exact activity: **scans 40–44 Stage B independent glyph/source verification**.
+- next exact activity: **scans 45–46 Stage A direct transcription only**.
 
-Do not begin scan 45 or Story 8 `மானம்` until the current P4 gate allows it. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.
+Do not begin Story 8 `மானம்` in the same activity. `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

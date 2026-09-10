@@ -4,10 +4,10 @@ printed_page: 44
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 “ஸ்வாமி...!”
@@ -24,5 +24,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 மறுநாள் விசாரணை—கோமேதகம் இழுத்து வரப்பட்டாள். ஒரு துறவியைக் கெடுத்துவிட்டாள் என்ற குற்றம் சாட்டப்பட்டது. உடனே தீர்ப்பு வழங்கப்பட்டது. நெருப்புக் குண்டம் காத்திருந்தது அவளுக்காக!
 
-<!-- Stage A direct transcription complete; source-run-together `பந்தங்களிலேஉன்னை`, six-dot pause after `நானே`, and source-odd `போது!` queued for P4 Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: source-run-together `பந்தங்களிலேஉன்னை`, six-dot `நானே......`, and source-odd `போது!` directly confirmed; `அரண்மனை` (`னை`) and other mandatory-family candidates independently rechecked; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 44; அச்சுப் பக்கம்: 44 -->

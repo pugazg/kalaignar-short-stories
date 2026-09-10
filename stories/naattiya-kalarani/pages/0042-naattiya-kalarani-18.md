@@ -4,10 +4,10 @@ printed_page: 42
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 என் செய்வது? மதிப்பிற்குரியவன்—பல நாள் பழகிவிட்டான்—மனமுடைந்துவிடக்கூடாதே என்ற தாட்சண்யம்—இந்த இரண்டாவது வகை உலக இயல்புக்கு கோமேதகம் பலியாகி விட்டாள்!
@@ -22,5 +22,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 அரசனிடத்திலே புகார்கள் குவிந்தன. இந்த கயல் அழகி நமக்குக் கிடைக்காமல் யாரோ ஒரு துறவிக்குக் கிடைத்ததானே என்று பொறுமை கொண்ட சிலர் அந்தப் புகார்ப் படைக்குத் தலைமை தாங்கினர். துறவியொருவன்—மிகவும் நல்லவன்—அவனை, கோமேதகம் என்ற தாசி கெடுத்துவிட்டாள் இருவரும் ஆட்ட பாட்டத்தால், கிராமத்தையே நாசமாக்குகிறார்கள்—என்ற விதத்திலே முறையிட்டுக் கொண்டார்கள்! அரசன் இதைக்கேட்டான். அவளை அடைந்த அதிர்ஷ்டக்காரத் துறவி யார் என்று தெரிந்துக்கொள்ள ஆவல் கொண்டான். தானே நேரில் சென்று, துறவியையும், அவளையும் கையும் களவுமாகப் பிடித்து, “இப்போது என்ன சொல்லுகிறாய் விபசாரியே! எனக்கு இணங்குகிறாயா?” என்று கேட்கவேண்டுமென்று துடித்தான். முறையிட்டவர்களை அனுப்பிவிட்டு, அன்றிரவே குதிரையேறிப் புறப்பட்டான், கோமேதகம் இருக்கும் கிராமத்திற்கு!
 
-<!-- Stage A direct transcription complete; source-sensitive `கயல் அழகி`, source-visible `பொறுமை கொண்ட`, and `சொல்லுகிறாய்` historical-family candidate queued for P4 Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: `கயல் அழகி` and contextually unusual `பொறுமை கொண்ட` directly confirmed from source; `சொல்லுகிறாய்` historical `றா` identity and `அவனை` (`னை`) independently rechecked; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 42; அச்சுப் பக்கம்: 42 -->

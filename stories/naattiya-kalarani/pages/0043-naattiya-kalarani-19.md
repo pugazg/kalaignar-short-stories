@@ -4,10 +4,10 @@ printed_page: 43
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B PASS"
 ---
 
 குடிசையிலே, கோமேதகமும் துறவியும்! துறவியின் காலை கோமேதகம் அமுக்கிக் கொண்டிருந்தாள். அவளது கலைந்து கிடக்கும் கருங் கூந்தலைக் கோதி விட்டபடி சாய்ந்திருந்தான் துறவி. இருவரின் கண்களும் ஆனந்தச் சதிராடின.
@@ -26,5 +26,5 @@ transcription_method: "direct visual transcription from controlling scan; Stage 
 
 “கோமா...!”
 
-<!-- Stage A direct transcription complete; historical `லை` candidates in `காலை` / `கலைந்து`, source spacing `கலா தேவியின்`, repeated `பாதார விந்தங்கள்`, and terminal `கோமா...!` queued for P4 Stage B; blocking unreadable locations: 0. -->
+<!-- Stage B PASS: `காலை`, `கலைந்து`, `கூந்தலைக்` historical `லை` identities and `என்னை` (`னை`) rechecked; source spacing `கலா தேவியின்`, repeated `பாதார விந்தங்கள்`, and terminal source form `கோமா...!` independently confirmed; corrections: 0; unresolved: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 43; அச்சுப் பக்கம்: 43 -->
