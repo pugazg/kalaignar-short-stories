@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf"
-transcription_method: "direct visual comparison with source scan; enlarged full-span review"
+transcription_method: "2026 direct comparison repair with native source scan + independent high-resolution old-glyph audit"
 ---
 
 <!-- source letter display continues from scan 37; standalone alternatives and sign-off structure retained -->
@@ -28,16 +28,16 @@ transcription_method: "direct visual comparison with source scan; enlarged full-
 
 பகுத்தறிவுப் பெண்.
 
-கடிதத்தைப் படித்து முடித்தான் கந்தன். கண்களிலே ‘அலகு’ செருகப்பட்டது போல் துடித்துக் கீழே விழுந்து மூர்ச்சையானான்.
+கடிதத்தைப் படித்து முடித்தான் கந்தன். கண்களிலே ‘அலகு’ செருகப் பட்டதுபோல் துடித்துக் கீழே விழுந்து மூர்ச்சையானான்.
 
 <!-- source closing ornament: centered short horizontal floral/diamond-like rule -->
 
-## Source-review note
+## 2026 dual-gate review note
 
-- This page completes the letter opened on scan 37.
-- `இப்படிக்கு / கனிமொழி / பகுத்தறிவுப் பெண்.` is preserved as the letter's printed sign-off structure; exact horizontal placement is represented semantically rather than facsimile-reproduced.
-- Visual-fidelity review changes this page from `story-conclusion` to `story-ending`, removes the non-source `அச்சு உரை` display heading, and records the source closing ornament.
-- The final narrative sentence ends the story.
-- Scan 39 begins the next story, `குப்பைத்தொட்டி`.
+- Gate A source-fidelity comparison: **PASS** for scan 38 / printed page 29.
+- Source-proven repair: `செருகப்பட்டது போல்` → `செருகப் பட்டதுபோல்`.
+- The letter alternatives `ஒன்று விஷம்— / மற்றொன்று விவாக ரத்து!`, sign-off `இப்படிக்கு / கனிமொழி / பகுத்தறிவுப் பெண்.`, final narrative sentence and closing ornament were directly rechecked.
+- Scan 39 independently opens Story 5 `குப்பைத்தொட்டி`; no Story-5 text is included here.
+- Gate B independent Old Tamil Glyph review: **PASS**; unresolved historical-glyph readings: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 38; அச்சுப் பக்கம்: 29 -->
