@@ -33,8 +33,7 @@ Use existing repository Tamil as the baseline. Compare directly against source p
 Every story must independently pass:
 
 1. **Gate A — source-fidelity comparison** of all physical story pages;
-2. **Gate B — Old Tamil Glyph verification**, with each physical page independently reopened at high/native resolution and explicit consideration of:
-   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+2. **Gate B — Old Tamil Glyph verification**, with each physical page independently reopened at high/native resolution and explicit consideration of `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
 Collection gate: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/OLD_TAMIL_GLYPH_REAUDIT_GATE.md`.
 
@@ -42,86 +41,76 @@ A story is current PASS only after both gates pass, unresolved source/glyph coun
 
 Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Current tracker state: **OPEN — 3 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 4 / 37 dual-gate complete**.
 
-## `நளாயினி` — 2026 RE-AUDIT CLOSED / PASS
+## Closed under the 2026 standard
 
-Workspace: `stories/nalayini/`.
+### `நளாயினி`
 
-Source range: scans **16–23 / printed pages 7–14**.
+- scans **16–23 / printed 7–14**
+- Gate A **8/8 PASS**; Gate B **8/8 PASS**
+- canonical repairs: **15**
+- unresolved source / historical-glyph readings: **0 / 0**
+- durable record: `stories/nalayini/RE_AUDIT_2026.md`
 
-Final re-audit state:
+### `புகழேந்தி`
 
-- Gate A: **PASS — 8/8**;
-- Gate B: **PASS — 8/8**;
-- source-proven canonical repairs: **15**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- canonical page records / Tamil assembly / possible-error queue / affected English: synchronized;
-- 1976 P1 witness candidates: **8 canonical defects / 5 true edition variants / 0 unresolved**.
+- scans **10–15 / printed 1–6**
+- Gate A **6/6 PASS**; Gate B **6/6 PASS**
+- canonical repairs: **9**
+- unresolved source / historical-glyph readings: **0 / 0**
+- durable record: `stories/pugazhendhi/RE_AUDIT_2026.md`
 
-Do not reopen `நளாயினி` from stale prompts unless new direct source evidence appears.
+### `சபலம்`
 
-## `புகழேந்தி` — 2026 RE-AUDIT CLOSED / PASS
+- scans **24–30 / printed 15–21**
+- Gate A **7/7 PASS**; Gate B **7/7 PASS**
+- canonical repairs: **6**
+- unresolved source / historical-glyph readings: **0 / 0**
+- durable record: `stories/sabalam/RE_AUDIT_2026.md`
 
-Workspace: `stories/pugazhendhi/`.
-
-Source range: scans **10–15 / printed pages 1–6**.
-
-Final re-audit state:
-
-- Gate A: **PASS — 6/6**;
-- Gate B: **PASS — 6/6**;
-- source-proven canonical repairs: **9**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- two historical-`லை` repairs: `தீவலி` → `தலைவலி`; `கால்ப் பணிவிடைகள்` → `காலைப் பணிவிடைகள்`;
-- scan-14 `காதற் கண்கள்`: independently high-resolution confirmed as the controlling 1977 reading; 2009 `காதற் கணைகள்` is an edition difference;
-- canonical page records, Tamil assembly, source metadata, audit, possible-error queue and affected English: synchronized;
-- durable story record: `stories/pugazhendhi/RE_AUDIT_2026.md`.
-
-Do not reopen `புகழேந்தி` from stale prompts unless new direct source evidence appears.
-
-## `சபலம்` — 2026 RE-AUDIT CLOSED / PASS
-
-Workspace: `stories/sabalam/`.
-
-Source range: scans **24–30 / printed pages 15–21**.
-
-Final re-audit state:
-
-- Gate A: **PASS — 7/7**;
-- Gate B: **PASS — 7/7**;
-- source-proven canonical repairs: **6**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- historical-`னை` repair: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல`;
-- scan-25 source repair: `அவ்வப்போது பற்றிய அக்கறைகள்` → `அலுப்பைப் பற்றிய அக்கறைகள்`;
-- scan-28 source spacing/sandhi restored at `பார்க்க வில்லை`, `அழுதிடுங்`, `பார்த்திருந்தாலுங்`;
-- scan-30 `மூட்டை முடிச்சுகளைத் தூக்கிக்கொண்டு` restored;
-- canonical pages, Tamil assembly, source metadata, visual/audit controls, possible-error queue and affected English: synchronized;
-- durable story record: `stories/sabalam/RE_AUDIT_2026.md`.
-
-Do not reopen `சபலம்` from stale prompts unless new direct source evidence appears.
-
-## Exact next activity — Story 4 `ஆட்டக்காவடி` dual-gate re-audit
+### `ஆட்டக்காவடி`
 
 Workspace: `stories/aattakkavadi/`.
 
 Source range: scans **31–38 / printed pages 22–29**.
 
+Final re-audit state:
+
+- Gate A: **PASS — 8/8**;
+- Gate B: **PASS — 8/8**;
+- source-proven canonical repairs: **7**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- scan 31: both `அவ்வளவு தான்` source-spacing forms restored;
+- scan 32: `அவர்களே ஏமாற்றி விட்டால்` → `அவர்களை ஏமாற்றி விட்டால்`;
+- scan 33: `பக்திக் காவடி யென்று` and exact `கனிமொழி!....நீ` restored;
+- scan 36: quote punctuation restored to `கண்ணியவானு நீ?—” கனிமொழி`; high-risk `கருவிழியானை` independently reconfirmed as the controlling source reading and **not** normalized to `கருவிழியானான்`;
+- scan 38: `செருகப் பட்டதுபோல்` restored;
+- canonical pages, Tamil assembly, audit, closed possible-error queue, page map and English review synchronized;
+- English prose rewrite required: **0** because the only meaning-sensitive repair was already translated correctly;
+- durable story record: `stories/aattakkavadi/RE_AUDIT_2026.md`.
+
+Do not reopen these closed stories from stale prompts unless genuinely new direct source evidence appears.
+
+## Exact next activity — Story 5 `குப்பைத்தொட்டி` dual-gate re-audit
+
+Workspace: `stories/kuppai-thotti/`.
+
+Source range: scans **39–46 / printed pages 30–37**.
+
 In one story-bounded activity:
 
 1. fetch live `main` and preserve newer durable work;
-2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/aattakkavadi/` controls/page records/assembly/audit/possible-error files;
-3. Gate A — compare every existing `ஆட்டக்காவடி` canonical page record and assembly directly against scans 31–38;
+2. read source-processing / historical-glyph guides, collection re-audit controls, and all `stories/kuppai-thotti/` controls/page records/assembly/audit/possible-error files;
+3. Gate A — compare every existing `குப்பைத்தொட்டி` canonical page record and assembly directly against scans 39–46;
 4. Gate B — independently reopen all eight physical pages at high/native resolution and check all mandatory historical families;
 5. correct only source-proven mismatches individually; never global-replace or modernize;
 6. synchronize assembly, audit / possible-error / historical-glyph records and existing English only where meaning changes;
 7. mark PASS only with Gate A 8/8 + Gate B 8/8 + 0 unresolved;
-8. if PASS, update tracker from **3/37 to 4/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
+8. if PASS, update tracker from **4/37 to 5/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
 
-Do **not** begin Story 5 `குப்பைத்தொட்டி` in the same activity.
+Do **not** begin Story 6 `சந்தனக்கிண்ணம்` in the same activity.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
