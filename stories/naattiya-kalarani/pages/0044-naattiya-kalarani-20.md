@@ -4,11 +4,25 @@ printed_page: 44
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+“ஸ்வாமி...!”
+
+“உன் உறுதியை நான் குலைத்துவிட்டேன் — இல்லையா?”
+
+“இல்ல—உங்கள் உறுதியைத்தான் என் அழகு குலைத்துவிட்டது!”
+
+“உலக பந்தங்களைக் கடக்க பாதை கேட்டாய் என்னிடம்—நானே......உலக பந்தங்களிலேஉன்னை ஆழ்த்திவிட்டேன்.”
+
+“இல்ல ஸ்வாமி! இந்தப் பந்தம் எப்போதும் நமக்கு சொந்தமாயிருந்தால் போது!”
+
+இந்த இன்ப உரையாடல்கள் குடிசைக்குப் பின் புறமிருந்து கேட்டுக்கொண்டிருந்த மன்னன், சிறிய பலகணி வழியாக உள்ளே பார்த்தான். கோமேதகமும், அந்தத் துறவியும் ‘உலக பந்தம்’ எதுவென ஆராய்ந்து கொண்டிருந்தார்கள். அரசன் தனக்குத்தானே கேட்டுக் கொண்டான்—“யார் அந்தத் துறவி? யார் இந்தத் துறவி?” அரசனால் அங்கு நிற்க முடியவில்லை. குதிரையேறிப் பறந்தான்—மயக்கம் வந்து கீழே விழுந்து விடுவான் போலிருந்தது—எப்படியோ அரண்மனை சேர்ந்தான்.
+
+மறுநாள் விசாரணை—கோமேதகம் இழுத்து வரப்பட்டாள். ஒரு துறவியைக் கெடுத்துவிட்டாள் என்ற குற்றம் சாட்டப்பட்டது. உடனே தீர்ப்பு வழங்கப்பட்டது. நெருப்புக் குண்டம் காத்திருந்தது அவளுக்காக!
+
+<!-- Stage A direct transcription complete; source-run-together `பந்தங்களிலேஉன்னை`, six-dot pause after `நானே`, and source-odd `போது!` queued for P4 Stage B; blocking unreadable locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 44; அச்சுப் பக்கம்: 44 -->

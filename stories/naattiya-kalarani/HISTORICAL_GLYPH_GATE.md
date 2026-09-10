@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Gate — நாட்டிய கலாராணி
 
-Status: **P1 + P2 + P3 PASS — 15 / 22 pages verified by independent Stage B**.
+Status: **P1 + P2 + P3 PASS — 15 / 22 pages verified; P4 STAGE A COMPLETE / STAGE B NEXT**.
 
 Mandatory independent second-pass families:
 
@@ -16,28 +16,11 @@ Each page first receives direct Stage-A transcription, then a separate Stage-B s
 - P2 scans 30–34: **PASS — 5/5; 8 source corrections; 0 unresolved**.
 - P3 scans 35–39: **PASS — 5/5; 4 source corrections; 0 unresolved**.
 
-## P3 Stage-B result — scans 35–39
+## P4 Stage-A state — scans 40–44
 
-All 13 mandatory families were explicitly reviewed. Representative positive candidates included:
+**DIRECT TRANSCRIPTION COMPLETE — 5/5; all five remain `needs-review`.**
 
-- scan 35: `நிர்வாணக்` — `ணா`; `தன்னை` / `என்னை` — `னை`;
-- scan 36: `மணிமேகலை` — `லை`;
-- scan 37: `புறா` — `றா`; `அவனை` — `னை`; `இவரன்றோ` — `றோ`;
-- scan 38: `நிலையாமை`, `புகழ்மாலை` — `லை`; `நாளை` — `ளை`; `மண்ணோடு` — `ணோ`;
-- scan 39: `கலை`, `நிலையில்லா` — `லை`; `அனைவருக்கும்` — `னை`; `நாளை` — `ளை`.
-
-Families without a positive source occurrence in P3 were explicitly closed as no-candidate. No global replacement was used.
-
-### P3 corrections
-
-| Scan | Stage-A reading | Source-supported reading | Type |
-|---:|---|---|---|
-| 36 | `ஆமாம்` | `ஆம்` | direct source word |
-| 36 | `வரவேற்றாள் உபசரித்தாள்` | `வரவேற்று உபசரித்தாள்` | direct source wording |
-| 37 | `ஜோடிப் புறு` | `ஜோடிப் புறா` | historical `றா`; same-edition comparison with scan 25 `நன்றாக` |
-| 37 | `ஒன்பது பற்றி அறியதோர்` | `என்பது பற்றி அறியதோர்` | direct source reading |
-
-P3 unresolved / blocked: **0 / 0**.
+The systematic 13-family audit has deliberately **not** run yet. Stage-A source-sensitive targets include scan 40 `கலிதான்` and the repeated source-odd `அதையும் தெரிந்துகொண்டே யிருந்தது`; scan 41 `இலக்கானாள்` plus `ஆத் மாக்களில்` / `களி மண்`; scan 42 `கயல் அழகி`, `பொறுமை கொண்ட`, and `சொல்லுகிறாய்`; scan 43 `காலை` / `கலைந்து`, source spacing `கலா தேவியின்`, and terminal `கோமா...!`; scan 44 run-together `பந்தங்களிலேஉன்னை`, six-dot pause after `நானே`, and source-odd `போது!`. These are review targets, not permission to normalize.
 
 ## Progress
 
@@ -46,7 +29,7 @@ P3 unresolved / blocked: **0 / 0**.
 | 25–29 | **PASS — 5/5 verified** | 3 | 0 |
 | 30–34 | **PASS — 5/5 verified** | 8 | 0 |
 | 35–39 | **PASS — 5/5 verified** | 4 | 0 |
-| 40–44 | waits for P4 Stage A | 0 | 0 |
+| 40–44 | **NEXT — Stage A direct transcription complete** | 0 currently recorded | 0 blocking |
 | 45–46 | pending | 0 | 0 |
 
-Next exact activity is **P4 Stage A — scans 40–44**.
+Next exact activity is **P4 Stage B — scans 40–44**. Do not begin scan 45 first.

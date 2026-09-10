@@ -4,11 +4,23 @@ printed_page: 41
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+பக்தி, பாசங் கொண்டவர்கள், தங்கள் மதிப்புக்குரியவர்களால் தங்களுக்கு தவறு இழைக்கப்படும்போது, வெறிபிடித்த விரோதிகளாகவும் மாறிவிடுவார்கள்! அல்லது, மதிப்பிற்குரியவராயிற்றே; மறுத்தால் மனமுடைவாரே—என்று இணங்கியும் விடுவார்கள்—உலக இயல்பு இது!
+
+உலக இயல்பின் இரண்டாவது முறைக்கு இலக்கானாள் கோமேதகம்.
+
+ஒருநாள் இரவு—உபதேசம், ஆடல், பாடல் எல்லாம் முடிந்தன. நீண்ட நேரம் ஆடிய காரணத்தால் கோமேதகம் ‘கால்கள் வலிக்கின்றன’ என்று கூறினாள். அதை அருமையான சந்தர்ப்பம் எனக் கொண்டான் துறவி.
+
+“கால்களை நான் பிடித்து விடுகிறேன்”, என்று ஓடிவந்தான்.
+
+கோமேதகம் மறுத்தாள். “ஐயோ, பெரிய பாவம்” என்றாள்.
+
+“ஆண்டவனுக்கு திருப்தியான காரியம்—ஆத் மாக்களில் ஆண் பெண் வித்தியாசம் ஏது? களி மண் ஒன்றுதான்—அதிலே பிள்ளையாரும் பிடிக்கலாம்; குரங்கும் பிடிக்கலாம்! களிமண்ணிலே வித்தியாசம் ஏது?” என்று கூறிக்கொண்டே துறவி அவள் கால்களை அமுக்கிவிட ஆரம்பித்தான். கொஞ்ச நேரம் கோமேதகம் பயபக்தியோடு இருந்தாள்—துறவி ஜெயித்துவிட்டான்.
+
+<!-- Stage A direct transcription complete; historical-family candidate `இலக்கானாள்` and source-visible spacing `ஆத் மாக்களில்` / `களி மண்` queued for P4 Stage B; blocking unreadable locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 41; அச்சுப் பக்கம்: 41 -->

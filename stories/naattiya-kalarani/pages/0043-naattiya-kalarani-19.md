@@ -4,11 +4,27 @@ printed_page: 43
 story: "naattiya-kalarani"
 section: "story"
 page_type: "story"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065574_நளாயினி_1976.pdf"
-transcription_method: "pending direct visual transcription from controlling scan; independent historical-glyph second pass required"
+transcription_method: "direct visual transcription from controlling scan; Stage A complete; independent historical-glyph/source Stage B pending"
 ---
 
-<!-- transcription pending -->
+குடிசையிலே, கோமேதகமும் துறவியும்! துறவியின் காலை கோமேதகம் அமுக்கிக் கொண்டிருந்தாள். அவளது கலைந்து கிடக்கும் கருங் கூந்தலைக் கோதி விட்டபடி சாய்ந்திருந்தான் துறவி. இருவரின் கண்களும் ஆனந்தச் சதிராடின.
+
+“கோமேதகம்” என்று இனிமை தவழ அழைத்தான் துறவி.
+
+“ஏன்?” என்று காதல் பொங்கிடக் கேட்டாள் அவள்.
+
+“கலாதேவி நீ! கண் காட்டினால் விண் முட்டும் வரையில் பொன் குவிக்க பிரபுக்கள் காத்திருக்கிறார்கள்! அதையெல்லாம் விட்டு, என்னை ஆட்கொண்டாயே; அது எப்படி தேவி?”
+
+“துறவி தாங்கள்! ஆண்டவனின் பாதார விந்தங்களில் சேரவேண்டுமெனத் தவங்கிடந்தவர். அப்படிப் பட்டவர், ஆண்டவனின் பாதார விந்தங்களை விட்டு, என் பாதார விந்தங்களை அன்றொரு நாள் பிடித்தது ஏன் ஸ்வாமி?”
+
+“இது தெரியவில்லையா? ஆண்டவனின் பாதார விந்தங்களை, ஆயிரக்கணக்கான பக்தர்கள் பிடித்துப் பிடித்து காய்த்துப்போய்க் கிடக்கிறது! என் கலா தேவியின் மலர் போன்ற மென்மையான பாதார விந்தங்களைத் தொடும் முதல் பக்தன் நான்தான்!”
+
+“முதல் மட்டுமல்ல; கடைசி பக்தரும் நீங்கள் தான் ஸ்வாமி!”
+
+“கோமா...!”
+
+<!-- Stage A direct transcription complete; historical `லை` candidates in `காலை` / `கலைந்து`, source spacing `கலா தேவியின்`, repeated `பாதார விந்தங்கள்`, and terminal `கோமா...!` queued for P4 Stage B; blocking unreadable locations: 0. -->
 <!-- மூல ஸ்கேன் பக்கம்: 43; அச்சுப் பக்கம்: 43 -->
