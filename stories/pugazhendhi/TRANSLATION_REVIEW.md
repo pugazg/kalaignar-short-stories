@@ -3,76 +3,59 @@
 ## Scope
 
 - Story: **புகழேந்தி**
-- English title treatment: **Pugazhendhi** (transliteration retained; no interpretive replacement title imposed)
+- English title treatment: **Pugazhendhi**
 - Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 - Printed pages: **1–6**
 - Anthology scans: **10–15**
-- Canonical Tamil assembly: `sections/pugazhendhi.md`
-- English translation: `translations/en/pugazhendhi.md`
-- Boundary witness: scan **16**, opening Story 2 `நளாயினி`
+- Canonical Tamil: `sections/pugazhendhi.md`
+- English: `translations/en/pugazhendhi.md`
+- 2026 source re-audit: `RE_AUDIT_2026.md`
 
-## Translation gate
+## Current translation gate
 
-The story entered translation only after the repository recorded:
+**PASS — synchronized to the re-closed 2026 Tamil source layer.**
 
-- Tamil page records: **6 / 6 verified**;
-- Tamil audit: **PASS**;
-- unresolved / blocked story text: **0**;
-- canonical Tamil assembly: complete;
-- visual fidelity: **PASS — corrected**;
-- possible-error queue read before translation.
+Tamil prerequisite state:
 
-The canonical Tamil was not modified during the English activity.
+- Gate A source fidelity: **6 / 6 PASS**;
+- Gate B independent Old Tamil Glyph: **6 / 6 PASS**;
+- source-proven canonical repairs: **9**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**.
 
-## Completeness review
+## 2026 downstream changes
+
+The English was changed only where a source-proven Tamil repair materially changed meaning, grammar, or the represented action:
+
+1. scan 11 `தீவலி` → `தலைவலி`: generalized “torment” was corrected to the source's **“headache brought by fame”**;
+2. scan 12 `கேட்டார்` → `கேட்பர்`: singular/past-like wording was corrected to the recurring **“People would go and ask him...”** construction, with the page-spanning quotation synchronized;
+3. scan 13 `வயித்துக்கிடக்கிறது` → `லயித்துக்கிடக்கிறது`: the English now states that his thoughts are **absorbed** in the need to find a new path;
+4. scan 13 `கொடுக்காமல் விருப்பத்திற்காகத்` → `கொடுக்காமலிருப்பதற்காகத்`: the unsupported “for his comfort” idea was removed; the sentence now says the upstairs place was arranged so that no one would disturb him;
+5. scan 15 `கால்ப் பணிவிடைகள்` → `காலைப் பணிவிடைகள்`: “attend to his feet” was replaced by the source-supported **morning service duties**.
+
+The other four Tamil repairs (`விவரங்களை`, `அவன் மேதை`, `தத்ரூபமாகச்`, `கைகளைக்`) do not require a distinct English semantic change beyond the already appropriate translated sense.
+
+## Rechecked source-odd forms retained
+
+No later-edition smoothing was imported. In particular:
+
+- 1977 `அவனோர் பிடேல்டோ!` remains the source basis for conservative **Pideldō**;
+- 1977 `மணக்கும் அவன் நெஞ்சம்` remains represented by the existing fragrance image;
+- 1977 `காதற் கண்கள்` was independently high-resolution confirmed and remains **eyes of love**; 2009 `காதற் கணைகள்` is not substituted;
+- the unusual sentence around `உன் கரங்கள் முத்தமிடுகிறாள்` remains translated for intelligible English without rewriting the Tamil source.
+
+## Completeness / structure
 
 **PASS**
 
-- all six verified Tamil source pages are represented in English;
-- page-boundary comments for scans **10–15** are retained once and in order;
-- no Tamil paragraph was intentionally omitted or duplicated;
-- scan **16 / Story 2** text is not included;
-- the isolated display line `புகழ்! புகழ்!! புகழ்!!!` remains an isolated emphasized English display line;
-- opening and closing non-text ornament comments remain traceable without attempting a facsimile recreation.
-
-## Title and key term treatment
-
-- `புகழேந்தி` is retained as **Pugazhendhi** rather than converted into a speculative literal English title.
-- `மேதை` is rendered **Genius**. The source wordplay explaining `மே` + `தை` is preserved through transliteration as **Mē**, **Thai**, and **Mēthai**, with “Genius” supplied as the English sense.
-- `கனகாம்பரம்` is retained as **kanakambaram flower** rather than forcing a botanical identification into the story text.
-- The unusual verified form `பிடேல்டோ` is conservatively transliterated **Pideldō**. No outside identity is inferred.
-
-## Possible-error queue handling
-
-The story-local `POSSIBLE_ERRORS_FOR_REVIEW.md` remains a human recheck queue, not a correction list. No queued Tamil form was silently rewritten merely to produce smoother English.
-
-Notable conservative translation choices include:
-
-- `பாராட்டுப் படித்தது` — rendered from the full sentence's praise sense as “hailed him”; the unusual Tamil reading remains unchanged and queued for human review.
-- `புகழ்தரும் தீவலி` — rendered as the torment/pain brought by fame without claiming a normalized Tamil reconstruction.
-- `தத்தரூபமாகச்` — rendered as encountering the imagined scene “in living form.”
-- `வயித்துக்கிடக்கிறது` — rendered conservatively as thoughts lying “lodged” in the desire; the verified unusual Tamil remains untouched.
-- `காதற் கண்கள்` — rendered **eyes of love** without silently replacing the Tamil phrase.
-- `கால்ப் பணிவிடைகள்` — rendered as attending to / serving his feet.
-- the grammatically unusual source sentence around `உன் கரங்கள் முத்தமிடுகிறாள்` is translated into natural English from the current verified sense without editing the Tamil source layer.
-
-## Structural and rhetorical review
-
-- rhetorical question sequences are retained;
-- repeated praise and repeated **Fame! Fame!! Fame!!!** are retained;
-- dialogue remains separated by speaker/paragraph;
-- the page-spanning quotations at scans **12→13** and **14→15** remain visibly continuous;
-- numerical details at the ending — fifty students and ten teachers — are preserved;
-- the closing acclamation is retained as **“Long live the genius!”**
-
-## Source issues reopened during translation
-
-**None.**
-
-Translation exposed no issue strong enough to justify reopening or altering the verified Tamil transcription. All suspicious readings remain governed by the existing human review queue.
+- all six source pages are represented in English;
+- page-boundary comments for scans **10–15** remain once and in order;
+- the page-spanning quotations at **12→13** and **14→15** remain continuous;
+- isolated **Fame! Fame!! Fame!!!** presentation remains isolated;
+- Story 2 (`நளாயினி`) is excluded;
+- numerical ending details — fifty students and ten teachers — remain represented;
+- final **“Long live the genius!”** remains intact.
 
 ## Result
 
-**PASS — English translation complete for Story 1.**
-
-The English file is complete and traceable to the current verified Tamil assembly. The Tamil source layer remains authoritative.
+**PASS — English translation is synchronized to `புகழேந்தி` after the 2026 dual-gate source repair, with no unresolved downstream translation issue.**
