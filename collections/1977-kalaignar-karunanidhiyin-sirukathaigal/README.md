@@ -11,60 +11,59 @@ Collection-level archival source for the 37 canonical short-story workspaces der
 - file: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 - physical scans: **260**
 - printed story pages: **1–250**
-- stories in contents: **37**
+- stories: **37**
 - bytes: **268,486,609**
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
 - source PDF committed: **No**
 
-Pagination inside the story block is `scan = printed page + 9`: scan **10** = printed page **1**, scan **259** = printed page **250**, and scan **260** is the verified back cover.
+Pagination inside the story block is `scan = printed page + 9`: scan **10** = printed page **1**, scan **259** = printed page **250**, scan **260** = verified back cover.
 
-## 2026 full source + old-glyph re-audit — OPEN
+## 2026 full source + Old Tamil Glyph re-audit
 
-The exact 1977 PDF was reattached on 2026-09-10 and byte identity matched the registered source. All 37 stories are being re-audited **without retranscription** under two independent gates:
+**OPEN — 6 / 37 CURRENT PASS.**
 
-1. **Gate A — source fidelity:** compare existing canonical/page-record Tamil directly with every controlling source page;
-2. **Gate B — Old Tamil Glyph:** independently reopen every physical page at high/native resolution and explicitly inspect `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus other suspicious old forms.
+The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
-Rules: source-first, no global replacement, no lexical modernization, and no PASS while a source or historical-glyph candidate remains unresolved.
+Every story must independently pass:
 
-Tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md). Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
+1. **Gate A — source fidelity**, comparing every existing story page directly to controlling pixels;
+2. **Gate B — Old Tamil Glyph**, independently reopening every physical page at high/native resolution and explicitly inspecting `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious forms.
 
-Current state: **OPEN — 5 / 37 dual-gate complete**.
+Rules: source-first, no global replacement, no lexical modernization, and no PASS with unresolved source/glyph candidates.
 
-### Re-closed under the 2026 standard
+Tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).  
+Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
 
-- `நளாயினி` — scans **16–23 / printed 7–14** — **Gate A PASS / Gate B PASS / 15 canonical repairs / 0 unresolved**.
-- `புகழேந்தி` — scans **10–15 / printed 1–6** — **Gate A PASS / Gate B PASS / 9 canonical repairs / 0 unresolved**.
-- `சபலம்` — scans **24–30 / printed 15–21** — **Gate A PASS / Gate B PASS / 6 canonical repairs / 0 unresolved**.
-- `ஆட்டக்காவடி` — scans **31–38 / printed 22–29** — **Gate A PASS / Gate B PASS / 7 canonical repairs / 0 unresolved**. The high-risk scan-36 `கருவிழியானை` reading was independently reconfirmed as the 1977 source form; affected English remains semantically synchronized without a prose rewrite.
-- `குப்பைத்தொட்டி` — scans **39–46 / printed 30–37** — **Gate A PASS / Gate B PASS / 3 canonical repairs / 0 unresolved**. Source-proven repairs: `அவசரியப் புத்தி` → `அலட்சியப் புத்தி`; `சிக்கிரம்` → `சீக்கிரம்`; `அட;` → `அட,`. The meaning-sensitive English phrase was synchronized.
+## Re-closed under the 2026 standard
 
-### Next
+- `புகழேந்தி` — scans **10–15** — Gate A/B PASS; **9 repairs / 0 unresolved**.
+- `நளாயினி` — scans **16–23** — Gate A/B PASS; **15 repairs / 0 unresolved**.
+- `சபலம்` — scans **24–30** — Gate A/B PASS; **6 repairs / 0 unresolved**.
+- `ஆட்டக்காவடி` — scans **31–38** — Gate A/B PASS; **7 repairs / 0 unresolved**; `கருவிழியானை` reconfirmed source-close.
+- `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **3 repairs / 0 unresolved**; affected English synchronized.
+- `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **3 repairs / 0 unresolved**. Repairs: `கள்ளச்` → `கிள்ளச்`; `தமிழ்த்தாய்கள்` → `தமிழ்த்தாய்களை` with historical `ளை` directly resolved; `வந்து விட்டான என` → `வந்து விட்டான் என`. Meaning-sensitive English synchronized.
 
-- Story 6 `சந்தனக்கிண்ணம்` — scans **47–56 / printed 38–47** — **NEXT**.
-- after that: Story 7 `சங்கிலிச்சாமி` through Story 37 `நுனிக்கரும்பு` in anthology order.
+Do not reopen these six stories from stale prompts unless genuinely new direct source evidence appears.
+
+## Exact next activity
+
+Story 7 **`சங்கிலிச்சாமி`** — scans **57–68 / printed pages 48–59** — **NEXT**.
+
+Complete Gate A 12/12 and an independent Gate B 12/12. Correct only direct-source mismatches, synchronize dependent Tamil/English/control files, advance the collection to **7/37** only with zero unresolved, commit, re-fetch live `main`, and stop before Story 8.
 
 ## Legacy processing state
 
-Before the 2026 re-audit, all **37/37** stories had canonical Tamil page records/assemblies and were recorded `verified` / audit PASS. Those artifacts are retained as the comparison baseline; **they must not be retranscribed from scratch**.
+Before this re-audit, all **37 / 37** stories had canonical Tamil page records/assemblies and were recorded `verified` / audit PASS. Those artifacts remain the comparison baseline but do not by themselves satisfy current release confidence.
 
-The complete canonical order and scan/page mapping remain in:
+Complete order and scan/page mapping:
 
 - `indexes/story-inventory.md`
 - `indexes/scan-map.md`
-- `RE_AUDIT_2026.md` (current gate status for all 37 stories)
+- `RE_AUDIT_2026.md`
 
 ## Source-title distinctions
 
-The anthology itself preserves these title differences:
+The anthology preserves these title differences and they must not be silently normalized:
 
 1. TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`;
 2. TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`.
-
-Both source forms remain provenance; do not normalize them away.
-
-## Current closure rule
-
-The old 37/37 Tamil source-pass is **legacy-complete but superseded for current release confidence**. A story is current PASS only after its 2026 Gate A and Gate B both close and all proven corrections have been synchronized.
-
-Current dual-gate progress: **5 / 37 CURRENT PASS, 32 pending**. Exact next activity: `சந்தனக்கிண்ணம்`, scans **47–56 / printed pages 38–47**.

@@ -138,7 +138,7 @@ Thus their happy life grew. Though Kandan's mother rejoiced at the sight of this
 
 Whenever such criticism arose, Kamala would console herself by thinking of her lover's sweet face. Not only that: her friend Vijaya had often told her, “Do not behave in a way that pains the elders at home! Adjust yourself and live with them.”
 
-Kamala would remember those golden words. At once she would run and take the loving gift Vijaya had given—the sandal bowl—and press it to her face. Along the rim of the sandal bowl she would see the living lips of her dearest friend; in the shine of the bowl she would see her friend's laughter and spring up in delight. When her lover was away from home, the sandal bowl itself was Kamala's companion in conversation! Even when the mother-in-law's anger toward the daughter-in-law came strongly into speech, she would not say too much. Her childhood friend and school companion Vijaya would show her cheek from inside the bowl and keep speaking secret words to Kamala. The letters “Vijaya” shining on the bowl would tell Kamala so many old stories; Kamala would close her eyes and listen to those happy tales.
+Kamala would remember those golden words. At once she would run and take the loving gift Vijaya had given—the sandal bowl—and press it to her face. Along the rim of the sandal bowl she would see the living lips of her dearest friend; in the shine of the bowl she would see her friend's laughter and spring up in delight. When her lover was away from home, the sandal bowl itself was Kamala's companion in conversation! Even when the mother-in-law's anger toward the daughter-in-law came strongly into speech, she would not say too much. Her childhood friend and school companion Vijaya would show her cheek from inside the bowl and keep telling Kamala to pinch it. The letters “Vijaya” shining on the bowl would tell Kamala so many old stories; Kamala would close her eyes and listen to those happy tales.
 
 <!-- source enlarged initial: தி in திடீரென்று marks the transition to the language-agitation passage -->
 
@@ -222,4 +222,5 @@ Kandan is ready to redeem the sandal bowl. When? When, after it is recovered, an
 - All ten source-page boundaries are retained once and in order.
 - Story 7 (`சங்கிலிச்சாமி`) is not included.
 - The long poem, Vijayā's gift inscription, source emphasis, structural initials and the standalone `But,` transition remain traceable.
+- 2026 source repair `கள்ளச்` → `கிள்ளச்` is reflected in the sentence about Vijaya telling Kamala to pinch the cheek shown in the bowl.
 - Unusual verified Tamil readings are not silently corrected; translation choices are documented separately in `../../TRANSLATION_REVIEW.md`.

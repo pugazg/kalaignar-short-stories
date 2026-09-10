@@ -2,9 +2,9 @@
 
 ## Status
 
-**OPEN — 5 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 6 / 37 stories have passed the new dual-gate re-audit.**
 
-The earlier 37/37 `verified` / `audit PASS` state is legacy provenance only. Current release confidence requires the new Gate A + Gate B standard.
+The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
 ## Controlling source
 
@@ -17,7 +17,7 @@ The earlier 37/37 `verified` / `audit PASS` state is legacy provenance only. Cur
 
 ## User directive
 
-This is **comparison repair, not retranscription**. Existing canonical/page-record Tamil is the baseline. Correct only source-proven mismatches; preserve source spelling, punctuation, paragraphing, boundaries and source marks; no global replacement or lexical modernization.
+This is **comparison repair, not retranscription**. Existing canonical/page-record Tamil is the baseline. Correct only source-proven mismatches; preserve source spelling, punctuation, meaningful spacing, paragraphing, page boundaries and source marks; no global replacement or lexical modernization.
 
 ## Mandatory gates
 
@@ -31,147 +31,86 @@ Every physical story page is independently reopened at high/native resolution. M
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Follow `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`. Gate B cannot be inferred from Gate A.
-
-A story returns to current PASS only after both gates pass, all corrections are synchronized into canonical records/assembly/audits/queues/affected English, and unresolved source/glyph counts are zero.
+Gate B cannot be inferred from Gate A. A story returns to current PASS only after both gates pass, all corrections are synchronized into canonical records/assembly/audits/queues/affected English, and unresolved source/glyph counts are zero.
 
 ## Re-closed stories
 
-### `நளாயினி`
+| # | Story | Scans | Gate A | Gate B | Repairs | Unresolved |
+|---:|---|---:|---:|---:|---:|---:|
+| 1 | `புகழேந்தி` | 10–15 | 6/6 PASS | 6/6 PASS | 9 | 0 |
+| 2 | `நளாயினி` | 16–23 | 8/8 PASS | 8/8 PASS | 15 | 0 |
+| 3 | `சபலம்` | 24–30 | 7/7 PASS | 7/7 PASS | 6 | 0 |
+| 4 | `ஆட்டக்காவடி` | 31–38 | 8/8 PASS | 8/8 PASS | 7 | 0 |
+| 5 | `குப்பைத்தொட்டி` | 39–46 | 8/8 PASS | 8/8 PASS | 3 | 0 |
+| 6 | `சந்தனக்கிண்ணம்` | 47–56 | 10/10 PASS | 10/10 PASS | 3 | 0 |
 
-Scans **16–23 / printed 7–14**:
+### `சந்தனக்கிண்ணம்` closure
 
-- Gate A: **PASS — 8/8**;
-- Gate B: **PASS — 8/8**;
-- canonical repairs: **15**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- 1976 P1 witness candidates adjudicated: **8 canonical defects / 5 true edition variants / 0 unresolved**.
+Scans **47–56 / printed pages 38–47**:
 
-Full story record: `../../stories/nalayini/RE_AUDIT_2026.md`.
-
-### `புகழேந்தி`
-
-Scans **10–15 / printed 1–6**:
-
-- Gate A: **PASS — 6/6**;
-- Gate B: **PASS — 6/6**;
-- canonical repairs: **9**;
-- historical-`லை` repairs: `தீவலி` → `தலைவலி`; `கால்ப் பணிவிடைகள்` → `காலைப் பணிவிடைகள்`;
-- high-priority `காதற் கண்கள்`: **directly reconfirmed as 1977 source reading**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- Tamil assembly / audit / queue / affected English: synchronized.
-
-Full story record: `../../stories/pugazhendhi/RE_AUDIT_2026.md`.
-
-### `சபலம்`
-
-Scans **24–30 / printed 15–21**:
-
-- Gate A: **PASS — 7/7**;
-- Gate B: **PASS — 7/7**;
-- canonical repairs: **6**;
-- historical-`னை` repair: `துவண்டிருப்பவன்போல` → `துவண்டிருப்பவனைப்போல`;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- Tamil assembly / audit / queue / affected English: synchronized.
-
-Full story record: `../../stories/sabalam/RE_AUDIT_2026.md`.
-
-### `ஆட்டக்காவடி`
-
-Scans **31–38 / printed 22–29**:
-
-- Gate A: **PASS — 8/8**;
-- Gate B: **PASS — 8/8**;
-- canonical repairs: **7**;
-- scan 31: two `அவ்வளவு தான்` source-spacing repairs;
-- scan 32: `அவர்களே ஏமாற்றி விட்டால்` → `அவர்களை ஏமாற்றி விட்டால்`;
-- scan 33: `பக்திக் காவடி யென்று` and exact `கனிமொழி!....நீ` restored;
-- scan 36: quotation punctuation around `கண்ணியவானு நீ?—”` restored;
-- scan 38: `செருகப் பட்டதுபோல்` restored;
-- high-risk Gate-B candidate `கருவிழியானை`: **directly reconfirmed as the 1977 source reading; not normalized to `கருவிழியானான்`**;
-- unresolved source readings: **0**;
-- unresolved historical-glyph readings: **0**;
-- Tamil assembly / audit / queue / English review: synchronized; English prose rewrite required: **0**.
-
-Full story record: `../../stories/aattakkavadi/RE_AUDIT_2026.md`.
-
-### `குப்பைத்தொட்டி`
-
-Scans **39–46 / printed 30–37**:
-
-- Gate A: **PASS — 8/8**;
-- Gate B: **PASS — 8/8**;
+- Gate A: **PASS — 10/10**;
+- Gate B: **PASS — 10/10**;
 - canonical repairs: **3**;
-- scan 44: `அவசரியப் புத்தி` → `அலட்சியப் புத்தி`;
-- scan 45: `சிக்கிரம்` → `சீக்கிரம்`;
-- scan 45: `அட;` → `அட,`;
-- high-risk retained readings including `போதுதானு`, `மனமனவென்று`, `மூன்றூறு`, `தூராற்றம்`, `வீதிப்பக்கம் வந்து உண்மைதான்`, and `போனேனோ` were independently reconfirmed;
+- scan 52: `கள்ளச்` → `கிள்ளச்`;
+- scan 53: `தமிழ்த்தாய்கள்` → `தமிழ்த்தாய்களை`, with historical `ளை` identity resolved at high/native resolution;
+- scan 53: `வந்து விட்டான என` → `வந்து விட்டான் என`;
 - unresolved source readings: **0**;
 - unresolved historical-glyph readings: **0**;
-- Tamil assembly / audit / possible-error queue / affected English: synchronized;
-- English prose change required: **1** meaning-sensitive phrase (`அலட்சியப் புத்தி`).
+- Tamil page records / assembly / audit / possible-error queue / page map / English: synchronized;
+- English prose change required: **1** meaning-sensitive sentence, now “keep telling Kamala to pinch it.”
 
-Full story record: `../../stories/kuppai-thotti/RE_AUDIT_2026.md`.
+Full story record: `../../stories/santhana-kinnam/RE_AUDIT_2026.md`.
 
 ## Progress
 
-| # | Story | 1977 scans | Gate A | Gate B | Current state |
-|---:|---|---:|---|---|---|
-| 1 | `புகழேந்தி` | 10–15 | **PASS** | **PASS** | **CURRENT PASS — 9 repairs / 0 unresolved** |
-| 2 | `நளாயினி` | 16–23 | **PASS** | **PASS** | **CURRENT PASS — 15 repairs / 0 unresolved** |
-| 3 | `சபலம்` | 24–30 | **PASS** | **PASS** | **CURRENT PASS — 6 repairs / 0 unresolved** |
-| 4 | `ஆட்டக்காவடி` | 31–38 | **PASS** | **PASS** | **CURRENT PASS — 7 repairs / 0 unresolved** |
-| 5 | `குப்பைத்தொட்டி` | 39–46 | **PASS** | **PASS** | **CURRENT PASS — 3 repairs / 0 unresolved** |
-| 6 | `சந்தனக்கிண்ணம்` | 47–56 | pending | pending | REOPENED |
-| 7 | `சங்கிலிச்சாமி` | 57–68 | pending | pending | REOPENED |
-| 8 | `கங்கையின் காதல்` | 69–72 | pending | pending | REOPENED |
-| 9 | `தாய்மை` | 73–83 | pending | pending | REOPENED |
-| 10 | `தப்பிவிட்டார்கள்` | 84–91 | pending | pending | REOPENED |
-| 11 | `தப்பவில்லை` | 92–101 | pending | pending | REOPENED |
-| 12 | `ஆதரிக்கிறார்` | 102–107 | pending | pending | REOPENED |
-| 13 | `இரகசியம்!` | 108–111 | pending | pending | REOPENED |
-| 14 | `முந்நூறு ரூபாய்` | 112–114 | pending | pending | REOPENED |
-| 15 | `ஏழை` | 115–118 | pending | pending | REOPENED |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | pending | pending | REOPENED |
-| 17 | `பனங்குலை` | 126–130 | pending | pending | REOPENED |
-| 18 | `செத்தவள் கதை` | 131–139 | pending | pending | REOPENED |
-| 19 | `பிரேத விசாரணை` | 140–145 | pending | pending | REOPENED |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | pending | pending | REOPENED |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | pending | pending | REOPENED |
-| 22 | `தொத்துக்கிளி` | 156–160 | pending | pending | REOPENED |
-| 23 | `காதல் கடிதம்` | 161–165 | pending | pending | REOPENED |
-| 24 | `கண்ணடக்கம்` | 166–172 | pending | pending | REOPENED |
-| 25 | `வாழ முடியாதவர்கள்` | 173–180 | pending | pending | REOPENED |
-| 26 | `அபாக்ய சிந்தாமணி` | 181–188 | pending | pending | REOPENED |
-| 27 | `பாலைவன ரோஜா` | 189–193 | pending | pending | REOPENED |
-| 28 | `புரட்சிப் படம்` | 194–198 | pending | pending | REOPENED |
-| 29 | `திடுக்கிடும் கதை` | 199–204 | pending | pending | REOPENED |
-| 30 | `கடைசிக் கட்டம்` | 205–210 | pending | pending | REOPENED |
-| 31 | `அய்யோ ராஜா!` | 211–217 | pending | pending | REOPENED |
-| 32 | `விஷம் இனிது` | 218–224 | pending | pending | REOPENED |
-| 33 | `வேணியின் காதலன்` | 225–230 | pending | pending | REOPENED |
-| 34 | `அமிர்தமதி` | 231–238 | pending | pending | REOPENED |
-| 35 | `சுமந்தவள்` | 239–249 | pending | pending | REOPENED |
-| 36 | `சித்தார்த்தன் சிலை` | 250–252 | pending | pending | REOPENED |
-| 37 | `நுனிக்கரும்பு` | 253–259 | pending | pending | REOPENED |
-
-## Processing order
-
-`நளாயினி` was audited first because it contained the triggering confirmed defect; `புகழேந்தி`, `சபலம்`, `ஆட்டக்காவடி`, and `குப்பைத்தொட்டி` were subsequently closed. The exact next story is **Story 6 `சந்தனக்கிண்ணம்`, scans 47–56 / printed pages 38–47**. After that, continue through Story 37 in anthology order.
+| # | Story | 1977 scans | Current state |
+|---:|---|---:|---|
+| 1 | `புகழேந்தி` | 10–15 | **CURRENT PASS — 9 repairs / 0 unresolved** |
+| 2 | `நளாயினி` | 16–23 | **CURRENT PASS — 15 repairs / 0 unresolved** |
+| 3 | `சபலம்` | 24–30 | **CURRENT PASS — 6 repairs / 0 unresolved** |
+| 4 | `ஆட்டக்காவடி` | 31–38 | **CURRENT PASS — 7 repairs / 0 unresolved** |
+| 5 | `குப்பைத்தொட்டி` | 39–46 | **CURRENT PASS — 3 repairs / 0 unresolved** |
+| 6 | `சந்தனக்கிண்ணம்` | 47–56 | **CURRENT PASS — 3 repairs / 0 unresolved** |
+| 7 | `சங்கிலிச்சாமி` | 57–68 | **NEXT — REOPENED** |
+| 8 | `கங்கையின் காதல்` | 69–72 | REOPENED / pending |
+| 9 | `தாய்மை` | 73–83 | REOPENED / pending |
+| 10 | `தப்பிவிட்டார்கள்` | 84–91 | REOPENED / pending |
+| 11 | `தப்பவில்லை` | 92–101 | REOPENED / pending |
+| 12 | `ஆதரிக்கிறார்` | 102–107 | REOPENED / pending |
+| 13 | `இரகசியம்!` | 108–111 | REOPENED / pending |
+| 14 | `முந்நூறு ரூபாய்` | 112–114 | REOPENED / pending |
+| 15 | `ஏழை` | 115–118 | REOPENED / pending |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | REOPENED / pending |
+| 17 | `பனங்குலை` | 126–130 | REOPENED / pending |
+| 18 | `செத்தவள் கதை` | 131–139 | REOPENED / pending |
+| 19 | `பிரேத விசாரணை` | 140–145 | REOPENED / pending |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | REOPENED / pending |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | REOPENED / pending |
+| 22 | `தொத்துக்கிளி` | 156–160 | REOPENED / pending |
+| 23 | `காதல் கடிதம்` | 161–165 | REOPENED / pending |
+| 24 | `கண்ணடக்கம்` | 166–172 | REOPENED / pending |
+| 25 | `வாழ முடியாதவர்கள்` | 173–180 | REOPENED / pending |
+| 26 | `அபாக்ய சிந்தாமணி` | 181–188 | REOPENED / pending |
+| 27 | `பாலைவன ரோஜா` | 189–193 | REOPENED / pending |
+| 28 | `புரட்சிப் படம்` | 194–198 | REOPENED / pending |
+| 29 | `திடுக்கிடும் கதை` | 199–204 | REOPENED / pending |
+| 30 | `கடைசிக் கட்டம்` | 205–210 | REOPENED / pending |
+| 31 | `அய்யோ ராஜா!` | 211–217 | REOPENED / pending |
+| 32 | `விஷம் இனிது` | 218–224 | REOPENED / pending |
+| 33 | `வேணியின் காதலன்` | 225–230 | REOPENED / pending |
+| 34 | `அமிர்தமதி` | 231–238 | REOPENED / pending |
+| 35 | `சுமந்தவள்` | 239–249 | REOPENED / pending |
+| 36 | `சித்தார்த்தன் சிலை` | 250–252 | REOPENED / pending |
+| 37 | `நுனிக்கரும்பு` | 253–259 | REOPENED / pending |
 
 ## Exact next activity
 
-Re-audit `சந்தனக்கிண்ணம்` scans **47–56 / printed pages 38–47** in one story-bounded activity:
+Re-audit **Story 7 `சங்கிலிச்சாமி`**, scans **57–68 / printed pages 48–59**, in one story-bounded activity:
 
-1. Gate A — compare all existing canonical records / assembly directly against all ten 1977 source pages;
-2. Gate B — independently reopen all ten pages and complete the mandatory Old Tamil Glyph check;
-3. apply source-proven corrections individually; no retranscription / no global replacement;
-4. synchronize assembly, audits / possible-error records and any affected English;
-5. mark both gates PASS only with zero unresolved source/glyph readings;
-6. update this tracker and root/collection controls;
-7. commit, re-fetch live `main`, and stop/report.
-
-Do not begin Story 7 `சங்கிலிச்சாமி` in the same activity.
+1. Gate A — compare all 12 existing canonical records and the assembly directly against the 12 controlling pages;
+2. Gate B — independently reopen all 12 pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
+3. apply only source-proven corrections individually;
+4. synchronize assembly, audits/possible-error controls and affected English;
+5. mark PASS only with Gate A 12/12 + Gate B 12/12 + 0 unresolved;
+6. if PASS, advance tracker **6/37 → 7/37**, synchronize collection/root controls, commit and re-fetch live `main`;
+7. stop/report. Do not begin Story 8 in the same activity.
