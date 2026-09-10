@@ -1,125 +1,93 @@
 # தமிழ் மூலத் தணிக்கை — நளாயினி
 
-## Audit scope
+## Current audit status
 
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, முதல் பதிப்பு 1977
-- Story range: scans **16–23** / printed pages **7–14**
-- Page records: **8 / 8**
-- Source PDF stored in GitHub: **No**
+**PASS — 2026 dual-gate re-audit complete.**
 
-## Source-review method
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- edition: **முதல் பதிப்பு: 1977**
+- source scans: **16–23**
+- printed pages: **7–14**
+- exact source SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
+- Gate A source-fidelity comparison: **PASS — 8/8**
+- Gate B independent Old Tamil Glyph verification: **PASS — 8/8**
+- source-proven canonical repairs: **15**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
 
-All eight pages were inspected directly from the supplied scan images. Full-page reading was combined with enlarged source spans where a word, proper name, compound or page-boundary continuation could be misread.
+This 2026 audit supersedes the earlier source PASS for current release confidence. The work was a direct source-vs-existing-repository comparison, **not a retranscription**.
 
-No outside edition, modern spelling expectation or contextual reconstruction was allowed to override the visible source. Unusual but legible readings were retained and moved to a separate human review queue rather than silently normalized.
+## Source-proven repairs
 
-## Page disposition
+| Scan | Earlier repository reading | Correct 1977 source reading |
+|---:|---|---|
+| 16 | `கையில் ஒரு கூடையுடன்` | `தலையிலே ஒரு கூடையுடன்` |
+| 17 | `என்னே ஏன்` | `என்னை ஏன்` |
+| 17 | `கூடவிட்டு` | `கூடுவிட்டு` |
+| 17 | `போடமாட்டேன்` | `போட்டமாட்டேன்` |
+| 17 | `வில மதிக்க` | `விலை மதிக்க` |
+| 17 | `கோமானத் தாமரையெனும்` | `கோமளத் தாமரையெனும்` |
+| 17 | `தாசிநாதீனத்தொழு!` | `காசிநாதனைத்தொழு!` |
+| 17 | `கண்ணிகையின்` | `கணிகையின்` |
+| 18 | `வலிக்குந்த உடம்பை` | `வலிமிகுந்த உடம்பை` |
+| 18 | `கேட்டும் ஓவியம்` | `கேட்கும் ஓவியம்` |
+| 18 | `கூவினார்` | `கூவினர்` |
+| 19 | `கண்ணாடை காட்டினாள்` | `கண்ஜாடை காட்டினாள்` |
+| 19 | `அண்டெடுத்து` | `அணைத்தெடுத்து` |
+| 22 | `குறைத்துக்கொண்டிருக்கட்டும்` | `குரைத்துக்கொண்டிருக்கட்டும்` |
+| 22 | `உற்சாகமில்லை` | `உற்சாக மில்லை` |
 
-| Printed page | Scan | Status | Boundary / key note |
-|---:|---:|---|---|
-| 7 | 16 | verified | story opening; ends `கால்` |
-| 8 | 17 | verified | receives `பாகத்துக்குமேல்`; prints `மெளத் கல்யர்` |
-| 9 | 18 | verified | prints joined `மெளத்கல்யர்`; ends `தனக்குத்` |
-| 10 | 19 | verified | receives `தானே...`; final quotation continues to page 11 |
-| 11 | 20 | verified | receives quotation; ends `காணப்படு` |
-| 12 | 21 | verified | receives `கிறார்கள்.` |
-| 13 | 22 | verified | ends with `“இதயா! இது உண்மையா?”` |
-| 14 | 23 | verified | answer + story conclusion + separate printed `குறிப்பு :—` |
+No source-fidelity correction was required on scans **20, 21, or 23**.
 
-Totals:
+## Gate B — Old Tamil Glyph re-audit
 
-- `verified`: **8 / 8**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing story text: **0**
+Every physical page was independently reopened at high/native-resolution and the mandatory families were explicitly considered:
 
-## Cross-page audit
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-**PASS**
+Gate-B character-identity repairs included:
 
-The following physical continuations were checked on both adjoining scans:
+1. scan 17 `வில` → `விலை` — `லை` family;
+2. scan 19 `அண்டெடுத்து` → `அணைத்தெடுத்து` — `ணை` family;
+3. scan 17 `கோமானத்` → `கோமளத்` — additional faint/old character distinction;
+4. scan 22 `குறைத்துக்கொண்டிருக்கட்டும்` → `குரைத்துக்கொண்டிருக்கட்டும்` — `ற` / `ர` distinction.
 
-1. printed 7→8: `கால்` → `பாகத்துக்குமேல் இழந்துவிட்ட மனிதன்...`
-2. printed 9→10: `தனக்குத்` → `தானே ஆச்சரியப்பட்டுக் கொண்டாள்.`
-3. printed 10→11: `“நளாயினி! என்னை மன்னித்துவிடு!...` → `க்ஷமித்துவிடு நளாயினி!...`
-4. printed 11→12: `காணப்படு` → `கிறார்கள்.`
-5. printed 13→14: `“இதயா! இது உண்மையா?”` → `“பொய் இல்லை!...”`
+**Gate B PASS — 0 unresolved.**
 
-The assembled Tamil layer preserves source-page markers rather than hiding these physical boundaries.
+## Rechecked source-odd readings retained
 
-## Name-form audit
+The controlling 1977 scan directly supports, among others:
 
-The source itself varies the husband's printed name:
+- `வரவிழைந்த`, `சோபிதம்`, `விசாரத்தைக்`;
+- scan 17 `மெளத் கல்யர்`, `தவம் புரியவு மல்ல`, `நயனவல்லித்ததை`;
+- scan 18 joined `மெளத்கல்யர்`, `வண்ணேயாளர்`, `எடெமுது வோர்`, `சுருதிவிட்ட`, `காமக்கிறுக்கு`;
+- `அம்சதூளிகா`, `கற்புக் கரசியின்`;
+- `க்ஷமித்துவிடு`, `புண்ய வதியையும்`, `எண்ணுதெல்லாம்`;
+- `தணலிற் புழுவாய்த்`, `வீணகானம்`, `விரகதாபத்தை`, plus source variation `பதி பக்தி` / `பதிபக்தி`;
+- `அலட்சியப் படுத்தினேன்`, `அந்த வார்த்தின் காரணமாக`, `குட்டம் பிடித்தவன்`, `பதிவிரதை`, `திரெளபதியாகப்`;
+- final `புனர் ஜென்மம்`, `பூரிப்புடன்`, `இன்பகீதம்`, and note `திரெளபதையாகப்`.
 
-- scan 17: `மெளத் கல்யர்`
-- scan 18: `மெளத்கல்யர்`
+These are retained because source pixels support them; they are not modernized from lexical expectation.
 
-This is preserved as an edition-level source variation. The audit does **not** silently standardize either form.
+## Cross-page and structure gate
 
-## Printed-note boundary
+**PASS.** The five physical continuations were checked on both sides:
 
-The story narrative ends on printed page 14 with:
+1. 16→17: `கால்` + `பாகத்துக்குமேல்...`
+2. 18→19: `தனக்குத்` + `தானே ஆச்சரியப்பட்டுக் கொண்டாள்.`
+3. 19→20: unfinished Ulaga quotation + `க்ஷமித்துவிடு நளாயினி!...`
+4. 20→21: `காணப்படு` + `கிறார்கள்.`
+5. 22→23: `“இதயா! இது உண்மையா?”` + `“பொய் இல்லை!...”`
 
-`அந்த ஆசிரமத்தில் இன்பகீதம் ஆரம்பமாயிற்று!`
+The opening rule, scan-20 enlarged paragraph initial, scan-23 separator, separate printed `குறிப்பு :—`, and closing ornament remain represented. Story 3 `சபலம்` is excluded.
 
-Below that, the source separately prints:
+## Assembly and English synchronization
 
-`குறிப்பு :—புராணக் கதைப்படி நளாயினிதான் திரெளபதையாகப் பிறந்திருக்கிறாளாம்.`
+- canonical Tamil assembly: **synchronized after all 15 repairs**;
+- possible-error queue: **reconciled / 0 pending source candidates**;
+- existing English: **synchronized where repaired Tamil changed meaning**;
+- 1976 comparison candidates: **adjudicated against the controlling 1977 source**.
 
-Audit disposition: **the note is part of the physical source record but not merged into the narrative paragraph.**
+## Final result
 
-## Unusual readings / human-review layer
-
-The story has no unreadable source gap, but several readings remain worth a later human visual recheck because of old usage, uncommon compounds, Sanskrit-derived vocabulary, transliteration, sandhi or semantic oddity.
-
-Representative examples:
-
-- `வரவிழைந்த`
-- `சோபிதம்`
-- `விசாரத்தைக்`
-- `வில மதிக்க வொண்ணா`
-- `தவம் புரியவு மல்ல`
-- `தாசிநாதீனத்தொழு!`
-- `நயனவல்லித்ததை`
-- `வண்ணேயாளர்`
-- `எடெமுது வோர்`
-- `சுருதிவிட்ட`
-- `காமக்கிறுக்கு`
-- `அண்டெடுத்து`
-- `அம்சதூளிகா`
-- `கண்ணாடை காட்டினாள்`
-- `கற்புக் கரசியின்`
-- `புண்ய வதியையும்`
-- `எண்ணுதெல்லாம்`
-- `விரகதாபத்தை`
-- `அந்த வார்த்தின் காரணமாக`
-- `குட்டம் பிடித்தவன்`
-- `திரெளபதியாகப்`
-
-These are tracked in `POSSIBLE_ERRORS_FOR_REVIEW.md`. An entry there is a **possible-error candidate only**, not proof of an error and not a reason by itself to downgrade a verified page.
-
-## Assembly gate
-
-`sections/nalayini.md` was assembled from all eight page records in source order.
-
-Checks:
-
-- source scans represented: **8 / 8**
-- scan order: **16 → 23**
-- printed order: **7 → 14**
-- duplicated pages: **none**
-- omitted pages: **none**
-- Story 3 (`சபலம்`) included: **No**
-- unresolved story markers: **0**
-- printed page-14 note preserved separately: **Yes**
-
-## Translation gate
-
-**Tamil story-source audit complete.**
-
-English translation is not started in this activity. If translation is later requested, first review any user-supplied corrections and the persistent possible-error queue against the controlling scan.
-
-## Audit result
-
-**PASS — நளாயினி source range fully transcribed and structurally source-complete for the current reading: 8/8 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — `நளாயினி` is current-source complete under the 2026 dual-gate standard: Gate A 8/8 PASS, Gate B 8/8 PASS, 15 canonical repairs, 0 unresolved source/glyph readings.**

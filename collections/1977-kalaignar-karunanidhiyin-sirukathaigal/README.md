@@ -1,113 +1,66 @@
 # கலைஞர் கருணாநிதியின் சிறுகதைகள் — 1977 anthology source
 
-This folder registers the anthology **`கலைஞர் கருணாநிதியின் சிறுகதைகள்`** as a collection-level archival source for `pugazg/kalaignar-short-stories`.
-
-The anthology is not treated as one story. Its 37 stories are processed into canonical `stories/<slug>/` workspaces one at a time, while this folder preserves anthology identity, contents order, printed pagination, scan mapping and edition-specific title variants.
+Collection-level archival source for the 37 canonical short-story workspaces derived from **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source snapshot
 
-- Printed title: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**
-- Printed author: **கலைஞர் மு. கருணாநிதி**
-- Publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
-- Edition: **முதல் பதிப்பு: 1977**
-- Source filename: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- printed title: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**
+- author: **கலைஞர் மு. கருணாநிதி**
+- publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
+- edition: **முதல் பதிப்பு: 1977**
+- file: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- physical scans: **260**
+- printed story pages: **1–250**
+- stories in contents: **37**
+- bytes: **268,486,609**
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
-- PDF scan pages: **260**
-- Printed story pages: **1–250**
-- Stories in printed contents: **37**
-- Source PDF committed to GitHub: **No**
+- source PDF committed: **No**
 
-## 2026 re-audit supersession — OPEN
+Pagination inside the story block is `scan = printed page + 9`: scan **10** = printed page **1**, scan **259** = printed page **250**, and scan **260** is the verified back cover.
 
-The user supplied the exact 1977 source again on **2026-09-10**. Raw-file verification confirms that attachment matches the registered source identity above: **260 scans / 268,486,609 bytes / identical SHA-256**.
+## 2026 full source + old-glyph re-audit — OPEN
 
-A definite canonical transcription defect was then confirmed in `நளாயினி` scan **17 / printed page 8**: the repository has `தாசிநாதீனத்தொழு!`, while the 1977 source prints `காசிநாதனைத்தொழு!`.
+The exact 1977 PDF was reattached on 2026-09-10 and byte identity matched the registered source. A definite canonical transcription error in `நளாயினி` proved that the earlier 37/37 `verified` state could not be relied upon as the final source-fidelity gate.
 
-Therefore the earlier 37/37 `verified` / `audit PASS` state below is retained only as **legacy processing history**. All 37 stories are now **REOPENED** for a fresh comparison audit. This is **not retranscription**.
+Therefore all 37 stories are being re-audited **without retranscription** under two independent gates:
 
-Current re-audit tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+1. **Gate A — source fidelity:** compare existing canonical/page-record Tamil directly with every controlling source page;
+2. **Gate B — Old Tamil Glyph:** independently reopen every physical page at high/native resolution and explicitly inspect `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus other suspicious old forms.
 
-Mandatory gates for every story:
+Rules: source-first, no global replacement, no lexical modernization, and no PASS while a source or historical-glyph candidate remains unresolved.
 
-1. **Gate A — source-fidelity comparison:** existing repository Tamil vs exact 1977 source pixels, all pages;
-2. **Gate B — Old Tamil Glyph verification:** independent high/native-resolution re-open of every page with mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` coverage under [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
+Tracker: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md). Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GATE.md).
 
-A story regains current PASS status only after **both gates PASS**, all source-proven corrections are applied, and assembled Tamil / audits / possible-error records / affected English are synchronized.
+Current state: **OPEN — 1 / 37 dual-gate complete**.
 
-Re-audit state: **OPEN — 0 / 37 dual-gate complete**. Incident-priority first target: **`நளாயினி` scans 16–23**.
+### Re-closed under the 2026 standard
 
-## Inventory / processing state — legacy pre-re-audit record
+- `நளாயினி` — scans **16–23 / printed 7–14** — **Gate A PASS / Gate B PASS / 15 canonical repairs / 0 unresolved**. Tamil assembly and affected English are synchronized.
 
-- story inventory: **37 / 37 registered**
-- start-page visual checks: **37 / 37**
-- Tamil source processing complete: **37 / 37**
-- not yet transcribed: **0 / 37**
-- English translation: **0 / 37 started**
+### Next
 
-Completed from this collection under the earlier workflow:
+- `புகழேந்தி` — scans **10–15 / printed 1–6** — **NEXT**.
+- after that: Story 3 `சபலம்` through Story 37 `நுனிக்கரும்பு` in anthology order.
 
-1. `புகழேந்தி` — printed **1–6**, scans **10–15**, **6/6 verified**, audit PASS.
-2. `நளாயினி` — printed **7–14**, scans **16–23**, **8/8 verified**, audit PASS.
-3. `சபலம்` — printed **15–21**, scans **24–30**, **7/7 verified**, audit PASS.
-4. `ஆட்டக்காவடி` — printed **22–29**, scans **31–38**, **8/8 verified**, audit PASS.
-5. `குப்பைத்தொட்டி` — printed **30–37**, scans **39–46**, **8/8 verified**, audit PASS.
-6. `சந்தனக்கிண்ணம்` — printed **38–47**, scans **47–56**, **10/10 verified**, audit PASS.
-7. `சங்கிலிச்சாமி` — printed **48–59**, scans **57–68**, **12/12 verified**, audit PASS.
-8. `கங்கையின் காதல்` — printed **60–63**, scans **69–72**, **4/4 verified**, audit PASS.
-9. `தாய்மை` — printed **64–74**, scans **73–83**, **11/11 verified**, audit PASS.
-10. `தப்பிவிட்டார்கள்` — printed **75–82**, scans **84–91**, **8/8 verified**, audit PASS.
-11. `தப்பவில்லை` — printed **83–92**, scans **92–101**, **10/10 verified**, audit PASS.
-12. `ஆதரிக்கிறார்` — printed **93–98**, scans **102–107**, **6/6 verified**, audit PASS.
-13. `இரகசியம்!` — printed **99–102**, scans **108–111**, **4/4 verified**, audit PASS.
-14. `முந்நூறு ரூபாய்` — printed **103–105**, scans **112–114**, **3/3 verified**, audit PASS.
-15. `ஏழை` — printed **106–109**, scans **115–118**, **4/4 verified**, audit PASS.
-16. `ஒரிஜினலில் உள்ளபடி` — workspace [`../../stories/originalil-ullapadi/`](../../stories/originalil-ullapadi/) — printed **110–116**, scans **119–125**, **7/7 verified**, 0 blocked, audit PASS.
-17. `பனங்குலை` — workspace [`../../stories/panangulai/`](../../stories/panangulai/) — printed **117–121**, scans **126–130**, **5/5 verified**, 0 blocked, audit PASS.
-18. `செத்தவள் கதை` — workspace [`../../stories/seththaval-kathai/`](../../stories/seththaval-kathai/) — printed **122–130**, scans **131–139**, **9/9 verified**, 0 blocked, audit PASS.
-19. `பிரேத விசாரணை` — workspace [`../../stories/pretha-visaranai/`](../../stories/pretha-visaranai/) — printed **131–136**, scans **140–145**, **6/6 verified**, 0 blocked, audit PASS.
-20. `கண்டதும் காதல் ஒழிக!` — workspace [`../../stories/kandathum-kadhal-ozhiga/`](../../stories/kandathum-kadhal-ozhiga/) — printed **137–141**, scans **146–150**, **5/5 verified**, 0 blocked, audit PASS.
-21. `ஆலமரத்துப் புறாக்கள்` — workspace [`../../stories/aalamarathup-puraakkal/`](../../stories/aalamarathup-puraakkal/) — printed **142–146**, scans **151–155**, **5/5 verified**, 0 blocked, audit PASS.
-22. `தொத்துக்கிளி` — workspace [`../../stories/thothukkili/`](../../stories/thothukkili/) — printed **147–151**, scans **156–160**, **5/5 verified**, 0 blocked, audit PASS.
-23. `காதல் கடிதம்` — workspace [`../../stories/kadhal-kaditham/`](../../stories/kadhal-kaditham/) — printed **152–156**, scans **161–165**, **5/5 verified**, 0 blocked, audit PASS.
-24. `கண்ணடக்கம்` — workspace [`../../stories/kannadakkam/`](../../stories/kannadakkam/) — printed **157–163**, scans **166–172**, **7/7 verified**, 0 blocked, audit PASS.
-25. `வாழ முடியாதவர்கள்` — workspace [`../../stories/vazha-mudiyathavargal/`](../../stories/vazha-mudiyathavargal/) — printed **164–171**, scans **173–180**, **8/8 verified**, 0 blocked, audit PASS.
-26. `அபாக்ய சிந்தாமணி` — workspace [`../../stories/abagya-chinthamani/`](../../stories/abagya-chinthamani/) — printed **172–179**, scans **181–188**, **8/8 verified**, 0 blocked, audit PASS.
-27. `பாலைவன ரோஜா` — workspace [`../../stories/palaivana-roja/`](../../stories/palaivana-roja/) — printed **180–184**, scans **189–193**, **5/5 verified**, 0 blocked, audit PASS.
-28. `புரட்சிப் படம்` — TOC `புரட்சிப்படம்`, workspace [`../../stories/puratchip-padam/`](../../stories/puratchip-padam/) — printed **185–189**, scans **194–198**, **5/5 verified**, 0 blocked, audit PASS.
-29. `திடுக்கிடும் கதை` — workspace [`../../stories/thidukkidum-kathai/`](../../stories/thidukkidum-kathai/) — printed **190–195**, scans **199–204**, **6/6 verified**, 0 blocked, audit PASS.
-30. `கடைசிக் கட்டம்` — workspace [`../../stories/kadaisi-kattam/`](../../stories/kadaisi-kattam/) — printed **196–201**, scans **205–210**, **6/6 verified**, 0 blocked, audit PASS.
-31. `அய்யோ ராஜா!` — workspace [`../../stories/ayyo-raja/`](../../stories/ayyo-raja/) — printed **202–208**, scans **211–217**, **7/7 verified**, 0 blocked, audit PASS.
-32. `விஷம் இனிது` — workspace [`../../stories/visham-inidhu/`](../../stories/visham-inidhu/) — printed **209–215**, scans **218–224**, **7/7 verified**, 0 blocked, audit PASS.
-33. `வேணியின் காதலன்` — workspace [`../../stories/veniyin-kadhalan/`](../../stories/veniyin-kadhalan/) — printed **216–221**, scans **225–230**, **6/6 verified**, 0 blocked, audit PASS.
-34. `அமிர்தமதி` — workspace [`../../stories/amirthamathi/`](../../stories/amirthamathi/) — printed **222–229**, scans **231–238**, **8/8 verified**, 0 blocked, audit PASS.
-35. `சுமந்தவள்` — workspace [`../../stories/sumanthaval/`](../../stories/sumanthaval/) — printed **230–240**, scans **239–249**, **11/11 verified**, 0 blocked, audit PASS.
-36. `சித்தார்த்தன் சிலை` — TOC `சித்தார்த்தன்`, workspace [`../../stories/siddharthan-silai/`](../../stories/siddharthan-silai/) — printed **241–243**, scans **250–252**, **3/3 verified**, 0 blocked, audit PASS.
-37. `நுனிக்கரும்பு` — workspace [`../../stories/nunikkarumbu/`](../../stories/nunikkarumbu/) — printed **244–250**, scans **253–259**, **7/7 verified**, 0 blocked, audit PASS.
+## Legacy processing state
 
-All thirty-seven have complete Tamil assemblies and persistent possible-error queues from the earlier workflow. These records remain valuable comparison baselines; they are **not to be retranscribed from scratch**.
+Before the 2026 re-audit, all **37/37** stories had canonical Tamil page records/assemblies and were recorded `verified` / audit PASS. Those artifacts are retained as the comparison baseline; **they must not be retranscribed from scratch**.
 
-For `நுனிக்கரும்பு`, scan **260** was visually confirmed as the physical back cover. The story ends on scan **259 / printed page 250** with its final paragraph and closing ornament.
+The complete canonical order and scan/page mapping remain in:
 
-## Source-title differences
+- `indexes/story-inventory.md`
+- `indexes/scan-map.md`
+- `RE_AUDIT_2026.md` (current gate status for all 37 stories)
 
-1. TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`
-2. TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`
+## Source-title distinctions
 
-Both source forms are preserved.
+The anthology itself preserves these title differences:
 
-## Pagination
+1. TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`;
+2. TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`.
 
-- scan **10** = printed page **1**
-- scan **259** = printed page **250**
-- scan **260** = back cover
-- story-block formula: **scan = printed page + 9**
+Both source forms remain provenance; do not normalize them away.
 
-## Canonical-story policy
+## Current closure rule
 
-Before processing each story, inspect whether a matching canonical story already exists. If it does, attach this anthology as an additional witness instead of creating a duplicate. Preserve exact scan/printed-page coordinates and create a persistent human possible-error queue.
-
-## Legacy Tamil source-pass closure
-
-**LEGACY COMPLETE — 37 / 37 under the earlier workflow. SUPERSEDED for current release confidence by the 2026 dual-gate re-audit.**
-
-The story-text range closes at scan **259 / printed page 250**. Scan **260** is the verified back cover. Current re-audit status is governed by `RE_AUDIT_2026.md`.
+The old 37/37 Tamil source-pass is **legacy-complete but superseded for current release confidence**. A story is current PASS only after its 2026 Gate A and Gate B both close and all proven corrections have been synchronized.

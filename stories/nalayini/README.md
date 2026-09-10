@@ -4,57 +4,67 @@ Canonical story workspace for **நளாயினி**, controlled by the 1977 
 
 ## Canonical source
 
-- Author: **கலைஞர் மு. கருணாநிதி**
-- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- represented edition: **முதல் பதிப்பு: 1977**
+- author: **கலைஞர் மு. கருணாநிதி**
+- source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- edition: **முதல் பதிப்பு: 1977**
 - printed pages: **7–14**
 - PDF scans: **16–23**
-- exact anthology SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
+- exact source SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
 
-## 2026 canonical re-audit — REOPENED
+## 2026 canonical re-audit — PASS / RE-CLOSED
 
-The user reattached the exact controlling 1977 PDF and a definite repository transcription error was confirmed on scan **17 / printed page 8**:
-
-- repository reading: `தாசிநாதீனத்தொழு!`
-- source reading: `காசிநாதனைத்தொழு!`
-
-Therefore the earlier 8/8 verified status below is retained as **legacy processing history**, not current release closure.
-
-Current re-audit record: `RE_AUDIT_2026.md`.
+The exact controlling 1977 source was reattached after a definite repository error was exposed by the 1976 witness. The entire story was then audited again without retranscription.
 
 Mandatory gates:
 
-1. **Gate A — full source-fidelity comparison** of existing records / assembly against scans 16–23;
-2. **Gate B — independent Old Tamil Glyph verification** of scans 16–23 under the collection re-audit gate, including explicit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` coverage.
+1. **Gate A — source-fidelity comparison:** **PASS — 8/8**;
+2. **Gate B — independent Old Tamil Glyph verification:** **PASS — 8/8**, including explicit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` review.
 
-Current state: **Gate A pending / Gate B pending / story REOPENED**.
+Results:
 
-No retranscription is authorized; repair the existing canonical text only where source pixels prove a mismatch.
+- source-proven canonical repairs: **15**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- canonical page records: synchronized;
+- assembled Tamil `sections/nalayini.md`: synchronized;
+- possible-error queue: reconciled / **0 pending**;
+- existing English: synchronized where meaning changed;
+- 1976 P1 witness candidates: adjudicated — **8 canonical defects / 5 true edition variants / 0 unresolved**.
 
-## Legacy canonical state
+Full record: `RE_AUDIT_2026.md`.
 
-Before the 2026 re-audit trigger, Tamil archival processing was recorded as **PASS — 8/8 verified / 0 unresolved**, with final assembly `sections/nalayini.md`. Existing English was also recorded as complete/reviewed. Those artifacts remain the comparison baseline and must be synchronized if the re-audit proves corrections.
+## Important corrected readings
+
+Among the repaired canonical readings are:
+
+- `தலையிலே ஒரு கூடையுடன்`;
+- `என்னை ஏன்`;
+- `கூடுவிட்டு`;
+- `போட்டமாட்டேன்`;
+- `விலை மதிக்க`;
+- `கோமளத் தாமரையெனும்`;
+- `காசிநாதனைத்தொழு!`;
+- `கணிகையின்`;
+- `வலிமிகுந்த உடம்பை`;
+- `கேட்கும் ஓவியம்`;
+- `கூவினர்`;
+- `கண்ஜாடை காட்டினாள்`;
+- `அணைத்தெடுத்து`;
+- `குரைத்துக்கொண்டிருக்கட்டும்`;
+- `உற்சாக மில்லை`.
+
+No lexical normalization was applied beyond what the controlling source proves.
 
 ## Additional witnesses
 
 ### 2009 `16 கதையினிலே`
 
-`witnesses/2009-16-kathaiyinile/` — comparison **COMPLETE**. It records later editorial / lexical variants without overwriting canonical 1977.
+`witnesses/2009-16-kathaiyinile/` remains a later-edition comparison witness; it does not override the 1977 canonical source.
 
-### 1976 `நளாயினி` — comparison-only / PAUSED
+### 1976 `நளாயினி`
 
-`witnesses/1976-nalayini/` covers scans / printed pages **3–12** from the fourth-edition 1976 anthology.
-
-- exact source SHA-256: `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`;
-- no duplicate full transcription is authorized;
-- P1 scans 3–7 comparison produced 13 mismatch candidates;
-- at least one candidate (`காசிநாதனைத் தொழு!`) is now confirmed to expose a canonical 1977 repository transcription defect rather than an edition variant;
-- remaining classifications are paused until the full 1977 dual-gate re-audit closes.
-
-## Canonical source-form distinctions retained pending re-audit
-
-The repository previously recorded a distinction between `மெளத் கல்யர்` on one page and `மெளத்கல்யர்` on another. All such unusual forms are now subject to direct controlling-source recheck; they must not be normalized from witness evidence.
+`witnesses/1976-nalayini/` is comparison-only. P1 scans 3–7 is adjudicated. P2 scans 8–12 is **READY / DEFERRED** while the repository continues the higher-priority full 1977 anthology re-audit.
 
 ## Completion state
 
-**Legacy 1977 Tamil / English: COMPLETE under the earlier workflow. Current 2026 source + old-glyph re-audit: OPEN.**
+**CURRENT PASS — Tamil source fidelity PASS, independent historical-glyph gate PASS, assembly synchronized, English synchronized, 0 unresolved.**

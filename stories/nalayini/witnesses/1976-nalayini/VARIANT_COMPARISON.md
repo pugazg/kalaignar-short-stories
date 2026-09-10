@@ -1,95 +1,59 @@
 # Variant comparison — நளாயினி — 1976 witness ↔ canonical 1977
 
-## Controlling policy
+## Policy
 
-Canonical `stories/nalayini/` remains controlled by the 1977 first-edition anthology.
+Canonical `stories/nalayini/` is controlled by the attached 1977 first-edition anthology. The 1976 fourth edition is **comparison-only**: no duplicate full Tamil transcription and no duplicate English translation.
 
-**User directive — 2026-09-10:** do **not** create another full transcription of an already-existing canonical story. The 1976 edition is a **comparison-only witness**:
+For every 1976↔repository mismatch, the corresponding 1977 source pixels must be checked before classification.
 
-- visually compare the exact 1976 source against the canonical 1977 Tamil;
-- record only source-proven differences / recheck candidates;
-- do not populate a second full Tamil transcription;
-- do not create duplicate English translation;
-- do not silently overwrite canonical Tamil/English from witness evidence.
+## P1 — 1976 scans 3–7 — adjudicated
 
-The ten empty page stubs created during witness activation are retained only as provenance / scan-coordinate artifacts. **Do not transcribe prose into them.**
+The 13 candidates discovered in the first comparison batch have now been adjudicated against the controlling 1977 source after the complete 2026 dual-gate canonical re-audit.
 
-## Important 2026-09-10 reclassification rule
-
-The attached **controlling 1977 source is now available again**, and a supposedly different 1976 reading has already exposed a canonical repository transcription defect.
-
-Therefore a 1976↔repository mismatch is **not to be called an edition variant until the corresponding 1977 source pixels are checked**.
-
-Classification order is now:
-
-1. compare 1976 source to repository text;
-2. if they differ, reopen the controlling 1977 scan;
-3. if 1977 agrees with repository → true edition variant;
-4. if 1977 agrees with 1976 → canonical transcription defect;
-5. if all three differ / source is uncertain → unresolved comparison candidate.
-
-The 1977 `நளாயினி` canonical re-audit is currently active under `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`. P2 1976 comparison is paused until that dual-gate re-audit closes.
-
-## Comparison method
-
-- line wrapping / pagination differences are not independently significant;
-- routine punctuation / spacing may be omitted from this witness table unless it affects lexical reading, but the canonical 1977 source-fidelity re-audit itself remains exhaustive;
-- no 1976 wording is imported into canonical text without the controlling 1977 source check;
-- the 2009 witness may be consulted only as additional provenance after 1976 and 1977 readings are established.
-
-## P1 — 1976 scans 3–7
-
-**PASS — comparison scan completed for scans 3–7; classifications are being revalidated against the controlling 1977 source.**
-
-Scan 3: no substantive word / phrase mismatch was identified in this pass.
-
-| 1976 scan | 1976 fourth-edition reading | Repository canonical reading before re-audit | Current classification |
+| 1976 scan | 1976 reading | 1977 controlling reading after repair | Classification |
 |---:|---|---|---|
-| 4 | `ஒரு இன்பத்தை` | `ஓர் இன்பத்தை` | pending 1977 source recheck |
-| 4 | `காணவேண்டுமோ?` | `காண வேண்டுமா?` | pending 1977 source recheck |
-| 4 | `மெளத்கல்யர்` | `மெளத் கல்யர்` | pending 1977 source recheck |
-| 4 | `கூடுவிட்டு` | `கூடவிட்டு` | pending 1977 source recheck |
-| 4 | `விலை மதிக்க` | `வில மதிக்க` | pending 1977 source recheck |
-| 5 | `கணவனை` | `கணவனைக்` | pending 1977 source recheck |
-| 5 | `காசிநாதனைத் தொழு!` | `தாசிநாதீனத்தொழு!` | **CONFIRMED CANONICAL TRANSCRIPTION DEFECT** — 1977 scan 17 prints `காசிநாதனைத்தொழு!` |
-| 6 | `வலி மிகுந்த உடம்பை` | `வலிக்குந்த உடம்பை` | pending 1977 source recheck |
-| 6 | `உலகை விலையாகக் கேட்கும் ஓவியம் தீட்டுகிறேன்` | `உலகை விலையாகக் கேட்டும் ஓவியம் தீட்டுகிறேன்` | pending 1977 source recheck |
-| 6 | `கூவினர்` | `கூவினார்` | pending 1977 source recheck |
-| 7 | `அவன் ஒரு முடிவுக்கு` | `அவள் ஒரு முடிவுக்கு` | pending 1977 source recheck |
-| 7 | `கண்ஜாடை காட்டினாள்` | `கண்ணாடை காட்டினாள்` | pending 1977 source recheck |
-| 7 | `அணைத்தெடுத்து` | `அண்டெடுத்து` | pending 1977 source recheck |
+| 4 | `ஒரு இன்பத்தை` | `ஓர் இன்பத்தை` | **true edition variant** |
+| 4 | `காணவேண்டுமோ?` | `காண வேண்டுமா?` | **true edition variant** |
+| 4 | `மெளத்கல்யர்` | `மெளத் கல்யர்` | **true edition variant** |
+| 4 | `கூடுவிட்டு` | `கூடுவிட்டு` | **canonical transcription defect exposed by witness — repaired** |
+| 4 | `விலை மதிக்க` | `விலை மதிக்க` | **canonical transcription defect exposed by witness — repaired** |
+| 5 | `கணவனை` | `கணவனைக்` | **true edition variant** |
+| 5 | `காசிநாதனைத் தொழு!` | `காசிநாதனைத்தொழு!` | **canonical transcription defect exposed by witness — repaired**; spacing differs only |
+| 6 | `வலி மிகுந்த உடம்பை` | `வலிமிகுந்த உடம்பை` | **canonical transcription defect exposed by witness — repaired**; 1976/1977 spacing difference is non-substantive under this witness policy |
+| 6 | `உலகை விலையாகக் கேட்கும் ஓவியம் தீட்டுகிறேன்` | `உலகை விலையாகக் கேட்கும் ஓவியம் தீட்டுகிறேன்` | **canonical transcription defect exposed by witness — repaired** |
+| 6 | `கூவினர்` | `கூவினர்` | **canonical transcription defect exposed by witness — repaired** |
+| 7 | `அவன் ஒரு முடிவுக்கு` | `அவள் ஒரு முடிவுக்கு` | **true edition variant** |
+| 7 | `கண்ஜாடை காட்டினாள்` | `கண்ஜாடை காட்டினாள்` | **canonical transcription defect exposed by witness — repaired** |
+| 7 | `அணைத்தெடுத்து` | `அணைத்தெடுத்து` | **canonical transcription defect exposed by witness — repaired** |
 
-P1 mismatches / candidates recorded: **13**.
+P1 disposition:
 
-Confirmed true edition variants after 1977 source recheck: **0 so far**.
+- candidates: **13**
+- confirmed canonical transcription defects: **8**
+- confirmed true lexical edition variants: **5**
+- unresolved classifications: **0**
 
-Confirmed canonical transcription defects: **1 so far**.
+The 1977 re-audit found additional canonical errors not discovered from this P1 witness batch; those are recorded in `stories/nalayini/RE_AUDIT_2026.md`.
 
-Pending controlling-1977 classification: **12**.
+## Important examples
 
-## Confirmed canonical defect — source evidence
+The earlier repository `தாசிநாதீனத்தொழு!` was **not** an edition reading. The controlling 1977 scan prints `காசிநாதனைத்தொழு!`; the 1976 witness independently prints `காசிநாதனைத் தொழு!`. Canonical Tamil has therefore been repaired.
 
-Repository before re-audit:
+By contrast, 1976 `அவன் ஒரு முடிவுக்கு` vs 1977 `அவள் ஒரு முடிவுக்கு` is a genuine edition difference: direct 1977 source inspection confirms `அவள்`.
 
-`“வேசித்தொழில் கூடாது! தாசிநாதீனத்தொழு!”`
+## Canonical 1977 gate state
 
-The attached controlling 1977 scan **17 / printed page 8** visibly prints:
+`நளாயினி` has now passed:
 
-`“வேசித்தொழில் கூடாது! காசிநாதனைத்தொழு!”`
+- Gate A source fidelity: **8/8 PASS**;
+- Gate B independent Old Tamil Glyph verification: **8/8 PASS**;
+- canonical repairs: **15**;
+- unresolved source/glyph readings: **0**.
 
-The 1976 scan independently supports the same lexical reading with a spacing difference (`காசிநாதனைத் தொழு!`).
+Therefore the controlling-source prerequisite for continuing the 1976 witness comparison is satisfied.
 
-This item must be repaired in the canonical 1977 `நளாயினி` re-audit and removed from the true-edition-variant count.
+## Next 1976 witness activity when resumed
 
-## Next
+Compare **1976 scans 8–12 only** against the now-repaired 1977 canonical Tamil, record only source-proven textual differences, and do not populate the empty witness page stubs.
 
-**Do not continue P2 1976 scans 8–12 yet.**
-
-First complete the full controlling-source 1977 `நளாயினி` dual-gate re-audit:
-
-- Gate A source fidelity for scans 16–23;
-- Gate B independent old-Tamil-glyph verification for scans 16–23;
-- repair/synchronize canonical Tamil and affected downstream layers;
-- classify the remaining 12 P1 candidates as true variant vs canonical defect.
-
-After the 1977 story closes, resume 1976 scans 8–12 comparison-only work.
+The repository's current highest-priority activity remains the 37-story 1977 dual-gate re-audit, so this 1976 P2 batch is **READY / DEFERRED**, not blocked by uncertainty.

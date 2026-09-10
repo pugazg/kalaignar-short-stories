@@ -2,95 +2,60 @@
 
 ## Status
 
-**OPEN — 0 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 1 / 37 stories have passed the new dual-gate re-audit.**
 
-The earlier `verified` / `audit PASS` state is retained as historical provenance only. It is **not sufficient for current release confidence** after a source-comparison defect was confirmed in `நளாயினி`.
+The earlier 37/37 `verified` / `audit PASS` state is legacy provenance only. Current release confidence requires the new Gate A + Gate B standard.
 
-## Controlling source identity
-
-Exact attached source used for this re-audit:
+## Controlling source
 
 - file: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- printed edition: **முதல் பதிப்பு: 1977**
+- edition: **முதல் பதிப்பு: 1977**
 - physical scans: **260**
 - bytes: **268,486,609**
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
-- source PDF must not be committed
-
-The attached file exactly matches the source identity already registered in this repository.
+- source PDF is not committed
 
 ## User directive
 
-This is a **comparison re-audit, not a retranscription project**.
+This is **comparison repair, not retranscription**. Existing canonical/page-record Tamil is the baseline. Correct only source-proven mismatches; preserve source spelling, punctuation, paragraphing, boundaries and source marks; no global replacement or lexical modernization.
 
-For every story:
+## Mandatory gates
 
-- use the existing canonical/page-record Tamil as the comparison target;
-- compare it directly against the 1977 source pixels;
-- correct only source-proven mismatches;
-- never create another full transcription merely to perform the audit;
-- preserve source spelling, punctuation, paragraphing, page boundaries, source-odd forms and non-text marks;
-- no normalization from later editions or from lexical expectation;
-- no global replacements.
+### Gate A — source fidelity
 
-## Mandatory dual gates
+Every existing story page is compared directly to the controlling 1977 pixels for text, punctuation/meaningful spacing, omissions/duplications/substitutions, boundaries, headings, separators, ornaments and note layers.
 
-A story is not re-closed until **both gates independently PASS**.
+### Gate B — independent Old Tamil Glyph verification
 
-### Gate A — source-fidelity comparison
-
-Compare all existing story text and relevant source marks against every physical 1977 story page.
-
-Gate A must check:
-
-- words and word forms;
-- omitted / duplicated / substituted text;
-- punctuation and meaningful spacing;
-- paragraph and page-boundary continuations;
-- headings, separators, ornaments and note layers where applicable;
-- suspicious readings previously left in possible-error queues.
-
-Gate A is **not** a fresh transcription. It is a direct source-vs-repository audit.
-
-### Gate B — Historical Tamil Glyph re-audit
-
-This is a **separate independent gate after / alongside Gate A, but it may not be inferred from Gate A**.
-
-Every physical page must be reopened at high/native resolution and explicitly checked for the mandatory historical families:
+Every physical story page is independently reopened at high/native resolution. Mandatory families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` plus `OLD_TAMIL_GLYPH_REAUDIT_GATE.md` in this collection.
+Follow `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`. Gate B cannot be inferred from Gate A.
 
-A glyph correction changes character identity only; it does not authorize spelling modernization.
+A story returns to current PASS only after both gates pass, all corrections are synchronized into canonical records/assembly/audits/affected English, and unresolved source/glyph counts are zero.
 
-## Closure / synchronization rule
+## Completed incident-priority story — `நளாயினி`
 
-After both gates PASS for a story:
+Scans **16–23 / printed 7–14**:
 
-1. correct affected canonical page records;
-2. synchronize assembled Tamil;
-3. update story audit / possible-error records;
-4. update any existing English translation affected by a proven Tamil correction;
-5. record all corrections in the story's re-audit record;
-6. update this collection tracker;
-7. only then restore current `PASS` status for that story.
+- Gate A: **PASS — 8/8**;
+- Gate B: **PASS — 8/8**;
+- canonical repairs: **15**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- assembled Tamil: synchronized;
+- English: synchronized where affected;
+- 1976 P1 witness candidates adjudicated: **8 canonical defects / 5 true edition variants / 0 unresolved**.
 
-## Triggering defect
-
-`நளாயினி`, source scan **17 / printed page 8**:
-
-- repository currently: `தாசிநாதீனத்தொழு!`
-- attached 1977 source: `காசிநாதனைத்தொழு!`
-
-This is a confirmed repository transcription defect, not a 1976↔1977 edition variant. The canonical correction will be made during the complete `நளாயினி` re-audit so the whole story is repaired and synchronized in one controlled activity.
+Full story record: `../../stories/nalayini/RE_AUDIT_2026.md`.
 
 ## Progress
 
-| # | Story | 1977 scans | Gate A source fidelity | Gate B old glyph | Current state |
+| # | Story | 1977 scans | Gate A | Gate B | Current state |
 |---:|---|---:|---|---|---|
-| 1 | `புகழேந்தி` | 10–15 | pending | pending | REOPENED |
-| 2 | `நளாயினி` | 16–23 | **ACTIVE** | pending | REOPENED — confirmed defect present |
+| 1 | `புகழேந்தி` | 10–15 | **NEXT** | pending | REOPENED |
+| 2 | `நளாயினி` | 16–23 | **PASS** | **PASS** | **CURRENT PASS — 15 repairs / 0 unresolved** |
 | 3 | `சபலம்` | 24–30 | pending | pending | REOPENED |
 | 4 | `ஆட்டக்காவடி` | 31–38 | pending | pending | REOPENED |
 | 5 | `குப்பைத்தொட்டி` | 39–46 | pending | pending | REOPENED |
@@ -129,19 +94,18 @@ This is a confirmed repository transcription defect, not a 1976↔1977 edition v
 
 ## Processing order
 
-Incident priority: complete `நளாயினி` first because a definite canonical error has already been proved.
-
-After `நளாயினி` closes under both gates, audit `புகழேந்தி`, then continue Story 3 through Story 37 in anthology order.
+`நளாயினி` was audited first because it contained the triggering confirmed defect. The next story is **`புகழேந்தி` scans 10–15 / printed 1–6**. After that, continue Story 3 through Story 37 in anthology order.
 
 ## Exact next activity
 
-Re-audit `நளாயினி`, scans **16–23 / printed 7–14**, against its existing repository records and assembly:
+Re-audit `புகழேந்தி` scans **10–15 / printed pages 1–6** in one story-bounded activity:
 
-- Gate A: complete source-fidelity comparison for all 8 pages;
-- Gate B: independently perform the old-Tamil-glyph re-audit on all 8 pages;
-- repair every source-proven canonical mismatch;
-- synchronize assembled Tamil, audits / possible-error queue and any affected English;
-- update the 1976 witness comparison classifications where a supposed variant is actually a canonical transcription defect;
-- commit and stop/report.
+1. Gate A — compare all existing canonical records / assembly directly against all six 1977 source pages;
+2. Gate B — independently reopen all six pages and complete the mandatory Old Tamil Glyph check;
+3. apply source-proven corrections individually; no retranscription / no global replacement;
+4. synchronize assembly, audits / possible-error records and any affected English;
+5. mark both gates PASS only with zero unresolved source/glyph readings;
+6. update this tracker and root controls;
+7. commit and stop/report.
 
-Do not begin `புகழேந்தி` in the same activity.
+Do not begin `சபலம்` in the same activity.

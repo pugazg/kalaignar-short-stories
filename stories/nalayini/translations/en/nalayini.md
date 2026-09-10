@@ -4,7 +4,7 @@
 
 <!-- source scan 16; printed page 7 -->
 
-A beautiful woman. A radiant-faced young woman whose form had not withered. Clad in white, she added grace to her swan-like gait. Around her reddish neck hung a black-bead necklace. That maiden, her hair combed and tied, was walking down the street with a basket in her hand. A procession of the distinctive beauty of spotless womanhood! As she walked through the darkened street, one was tempted to wonder whether a star of the heavens, longing to come to the earth below, had descended there!
+A beautiful woman. A radiant-faced young woman whose form had not withered. Clad in white, she added grace to her swan-like gait. Around her reddish neck hung a black-bead necklace. That maiden, her hair combed and tied, was walking down the street with a basket on her head. A procession of the distinctive beauty of spotless womanhood! As she walked through the darkened street, one was tempted to wonder whether a star of the heavens, longing to come to the earth below, had descended there!
 
 On the head of that golden statue showering light was a basket; inside the basket, a foul odour! Yes—upon the beauty's head sat a decaying figure. Her young hands, supporting the underside of the basket, trembled under the weight. Yet that lovely woman kept walking. Her beautiful face offered poets a vision of how even sorrow can possess a radiance. The decaying figure seated in the basket, meanwhile, wore a smile. It was a smile blossoming in expectation of some pleasure. Want to see concern in that smile? Those who wish may look at the sweetness of that figure. The figure in the basket was a man—a man who had lost more than the leg portion of the body that had once been his own;
 
@@ -22,7 +22,7 @@ Just as there are “great” men, “great” persons, “great” rich men and
 
 “My god! Why do you test me like this? Even if the life leaves my body, I will not lower this basket. Is there merchandise in this basket? Am I carrying household goods? Are you not my priceless jewel! Would I ever put you down? Sacrilege! Sacrilege!”
 
-Bearing her leprous husband in a basket—and bearing sorrow upon a face like a lordly lotus—that walking golden beetle, Nalayini, went on. Where was she going? Did her husband wish to bathe in holy waters and undertake sacred pilgrimage, and had that slender woman taken on this task to satisfy his hunger for devotion? No! No! Then what? Was this journey being made to move from one hermitage to another, with the maiden herself serving as the vehicle? Not that either! Then where were they going? Not to perform penance! Not to witness penance! Then where was the ascetic going? To a courtesan's house! Why? To preach, “Prostitution must not exist! Dāsi-nāthīna-thozhu!”? Not even for that was the leper going. Not to turn the courtesan's house into a hall of devotion! Not to expound upon God! The bearer of the water-pot was going to the courtesan's bedchamber! The sage's desire was not to behold the three-eyed god! It was for four eyes to meet—to pay homage to that Nayanavalli-thathai!
+Bearing her leprous husband in a basket—and bearing sorrow upon a face like a delicate lotus—that walking golden beetle, Nalayini, went on. Where was she going? Did her husband wish to bathe in holy waters and undertake sacred pilgrimage, and had that slender woman taken on this task to satisfy his hunger for devotion? No! No! Then what? Was this journey being made to move from one hermitage to another, with the maiden herself serving as the vehicle? Not that either! Then where were they going? Not to perform penance! Not to witness penance! Then where was the ascetic going? To a courtesan's house! Why? To preach, “Prostitution must not exist! Worship Kasinathan!”? Not even for that was the leper going. Not to turn the courtesan's house into a hall of devotion! Not to expound upon God! The bearer of the water-pot was going to the courtesan's bedchamber! The sage's desire was not to behold the three-eyed god! It was for four eyes to meet—to pay homage to that Nayanavalli-thathai!
 
 <!-- source scan 18; printed page 9 -->
 
@@ -40,7 +40,7 @@ The courtesan was startled by Nalayini's words. ‘This is the first time in my 
 
 <!-- source scan 19; printed page 10 -->
 
-Still astonished, she raised her eyes and looked with disgust at the leper's ugly face. Before she could reach a decision, Nalayini held out a bundle of gold before her. The courtesan signalled “I agree” with a glance. Lovingly taking up the leprous sage from the basket, she carried him away to an **Amsa-thoolika** couch.
+Still astonished, she raised her eyes and looked with disgust at the leper's ugly face. Before she could reach a decision, Nalayini held out a bundle of gold before her. The courtesan signalled “I agree” with a glance. Lovingly embracing and lifting the leprous sage from the basket, she carried him away to an **Amsa-thoolika** couch.
 
 With a deep sigh, Nalayini left the house. She placed the basket at the entrance and told the guard, “I will come in the morning,” and went away.
 
@@ -96,7 +96,7 @@ if they stood together, it would be difficult to decide, “Which one is Nalayin
 
 “Nala! Even when your husband uses the harshest words, Ulaga was praising you to me just yesterday as a queen of chastity who never answers back.”
 
-“When my husband abused me, I did not reply—that is true! I dismissed it, thinking, ‘It is only a leper who is abusing me.’ If I too spoke to him, the conversation would grow. Because of those words, I would have to stand close to him and talk. That is why, girl, I let that diseased fellow go on ranting!”
+“When my husband abused me, I did not reply—that is true! I dismissed it, thinking, ‘It is only a leper who is abusing me.’ If I too spoke to him, the conversation would grow. Because of those words, I would have to stand close to him and talk. That is why, girl, I let that diseased fellow keep barking!”
 
 “Hmm... somehow you have earned the title of chaste wife! Ulaga has praised you as a wife renowned throughout the world—as one overflowing with devotion to her husband!”
 
@@ -120,8 +120,8 @@ if they stood together, it would be difficult to decide, “Which one is Nalayin
 
 ## Translation note
 
-- Translation source: verified Tamil assembly for anthology scans **16–23 / printed pages 7–14**.
+- Translation source: canonical Tamil assembly for anthology scans **16–23 / printed pages 7–14**, repaired by the 2026 dual-gate re-audit.
 - All eight source-page boundaries are retained once and in order.
 - The separately printed page-14 note remains separate from the narrative conclusion.
 - Story 3 (`சபலம்`) is not included.
-- Unusual verified Tamil readings are not silently corrected; difficult choices are documented separately in `../../TRANSLATION_REVIEW.md`.
+- 2026 source-proven Tamil corrections with English impact were synchronized here: basket location (`தலையிலே`), `கோமளத்`, `காசிநாதனைத்தொழு!`, `அணைத்தெடுத்து`, and `குரைத்துக்கொண்டிருக்கட்டும்`.

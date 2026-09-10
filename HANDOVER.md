@@ -4,101 +4,98 @@
 
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
-- live `main` is authoritative
+- **LIVE MAIN IS AUTHORITATIVE**
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
 
 Collection: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/`.
 
-Controlling source supplied again by user:
+Controlling source:
 
 `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-
-Raw-file identity is an exact match to the registered source:
 
 - first edition: **1977**
 - physical scans: **260**
 - bytes: **268,486,609**
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
-- PDF must not be committed
+- exact match to registered repository source
+- do not commit the PDF
 
-### Why all 37 stories are reopened
+### User directive
 
-A definite repository transcription defect has been confirmed from the controlling 1977 source in `நளாயினி`, scan **17 / printed page 8**:
+This 37-story exercise is **comparison repair, not retranscription**.
 
-- repository: `தாசிநாதீனத்தொழு!`
-- source: `காசிநாதனைத்தொழு!`
-
-Therefore the earlier 37/37 `verified` / `audit PASS` state is now legacy history only. The user explicitly authorized a full source-vs-repository re-audit of all 37 stories.
-
-**No retranscription.** Existing repository Tamil is the comparison baseline.
-
-Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
-
-Current state: **OPEN — 0 / 37 stories dual-gate complete**.
+Use existing repository Tamil as the baseline. Compare directly against source pixels; correct only source-proven mismatches. No duplicate full transcription, no global replacement, and no modernization from lexical expectation.
 
 ### Mandatory dual gates
 
-Every story must independently pass both:
+Every story must independently pass:
 
-1. **Gate A — source-fidelity comparison**
-   - compare every existing page record / assembly span directly to the 1977 source;
-   - correct source-proven word, punctuation, spacing, paragraph, boundary and source-mark mismatches;
-   - no normalization, no full retranscription.
+1. **Gate A — source-fidelity comparison** of all physical story pages;
+2. **Gate B — Old Tamil Glyph verification**, with each physical page independently reopened at high/native resolution and explicit consideration of:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-2. **Gate B — Old Tamil Glyph verification**
-   - separate high/native-resolution re-open of every physical page;
-   - explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-   - follow `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/OLD_TAMIL_GLYPH_REAUDIT_GATE.md`;
-   - no global replacement; no spelling modernization.
+Collection gate: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/OLD_TAMIL_GLYPH_REAUDIT_GATE.md`.
 
-A story is current PASS only after both gates close, all corrections are applied, assembled Tamil / audits / possible-error records are synchronized, and any affected existing English is corrected.
+A story is current PASS only after both gates pass, unresolved source/glyph count is zero, and all affected page records, assembled Tamil, audits/queues and existing English are synchronized.
 
-## Active target — `நளாயினி`
+Tracker: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/RE_AUDIT_2026.md`.
 
-Canonical workspace: `stories/nalayini/`.
+Current tracker state: **OPEN — 1 / 37 dual-gate complete**.
 
-1977 source range: scans **16–23 / printed pages 7–14**.
+## `நளாயினி` — 2026 RE-AUDIT CLOSED / PASS
 
-Incident-priority state:
+Workspace: `stories/nalayini/`.
 
-- earlier legacy status: 8/8 verified / audit PASS;
-- current Gate A: **REOPENED / not yet complete**;
-- current Gate B: **REOPENED / not yet complete**;
-- one confirmed canonical defect already proven: `தாசிநாதீனத்தொழு!` → source `காசிநாதனைத்தொழு!`;
-- other high-value candidates exposed by the 1976 witness must be checked against this 1977 source before they are called edition variants: `வலி மிகுந்த`, `அவன்/அவள்`, `கண்ஜாடை/கண்ணாடை`, `அணைத்தெடுத்து/அண்டெடுத்து`.
+Source range: scans **16–23 / printed pages 7–14**.
 
-## Exact next activity
+Final re-audit state:
 
-Complete the **full `நளாயினி` 1977 re-audit in one story-bounded activity**:
+- Gate A: **PASS — 8/8**;
+- Gate B: **PASS — 8/8**;
+- source-proven canonical repairs: **15**;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- canonical page records: synchronized;
+- Tamil assembly: synchronized;
+- possible-error queue: reconciled / 0 pending;
+- English: synchronized where repaired Tamil changed meaning;
+- 1976 P1 witness candidates: **8 canonical defects / 5 true edition variants / 0 unresolved**.
+
+Important repaired readings include `தலையிலே ஒரு கூடையுடன்`, `என்னை ஏன்`, `கூடுவிட்டு`, `போட்டமாட்டேன்`, `விலை மதிக்க`, `கோமளத் தாமரையெனும்`, `காசிநாதனைத்தொழு!`, `கணிகையின்`, `வலிமிகுந்த உடம்பை`, `கேட்கும் ஓவியம்`, `கூவினர்`, `கண்ஜாடை காட்டினாள்`, `அணைத்தெடுத்து`, `குரைத்துக்கொண்டிருக்கட்டும்`, and source spacing `உற்சாக மில்லை`.
+
+Do not reopen `நளாயினி` from stale prompts unless new direct source evidence appears.
+
+## Exact next activity — `புகழேந்தி` dual-gate re-audit
+
+Source range: scans **10–15 / printed pages 1–6**.
+
+In one story-bounded activity:
 
 1. fetch live `main`;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, collection `RE_AUDIT_2026.md`, `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and `stories/nalayini/` controls;
-3. Gate A — compare scans 16–23 directly against the existing 8 canonical page records and assembled Tamil; record/correct every source-proven mismatch;
-4. Gate B — independently reopen scans 16–23 at high/native resolution and complete the mandatory old-glyph audit;
-5. synchronize page records, assembled Tamil, story audit / possible-error queue, and any affected English;
-6. update `stories/nalayini/witnesses/1976-nalayini/VARIANT_COMPARISON.md` so supposed 1976 variants that are actually canonical transcription defects are reclassified;
-7. mark both re-audit gates PASS only if 8/8 pages close with zero unresolved source/glyph issues;
-8. update collection tracker and root controls;
-9. commit and stop/report.
+2. read the source-processing and historical-glyph guides, collection re-audit controls, and `stories/pugazhendhi/` controls;
+3. Gate A — compare all existing `புகழேந்தி` page records / assembly directly to scans 10–15;
+4. Gate B — independently reopen all six physical pages and complete the mandatory old-glyph audit;
+5. correct only source-proven mismatches individually;
+6. synchronize assembly, audit / possible-error records and any affected existing English;
+7. mark PASS only with Gate A 6/6 + Gate B 6/6 + 0 unresolved;
+8. update collection/root controls, commit, and stop/report.
 
-Do not begin `புகழேந்தி` in the same activity. After `நளாயினி` closes, the re-audit order is `புகழேந்தி`, then Stories 3–37 in anthology order.
+Do **not** begin `சபலம்` in the same activity.
 
-## 1976 `நளாயினி` comparison extension — PAUSED behind 1977 canonical re-audit
+## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
-Controlling source: `TVA_BOK_0065574_நளாயினி_1976.pdf` — 78 scans, 164,748,566 bytes, fourth edition 1976, SHA-256 `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.
+Source: `TVA_BOK_0065574_நளாயினி_1976.pdf`, fourth edition 1976, 78 scans, 164,748,566 bytes, SHA-256 `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.
 
-Closed new-canonical stories remain closed:
+For duplicate stories: comparison-only; no new full transcription / no duplicate English.
+
+`நளாயினி` P1 scans 3–7 has now been adjudicated against the repaired 1977 canonical source. P2 scans **8–12** is ready but deferred while the 1977 37-story re-audit remains the active priority.
+
+Closed new-canonical 1976 stories remain closed:
 
 - `நாட்டிய கலாராணி` — Tamil + English PASS;
 - `மானம்` — Tamil + English PASS.
-
-For duplicate stories the user's comparison-only directive still applies: **no additional full transcription and no duplicate English**.
-
-`நளாயினி` P1 1976 scans 3–7 had 13 apparent differences, but their classification is now provisional until the controlling 1977 canonical source is re-audited. At least one (`காசிநாதனைத் தொழு!`) has already proved to be a repository transcription defect rather than an edition variant.
-
-Do not resume 1976 scans 8–12 comparison until the 1977 `நளாயினி` dual-gate re-audit closes.
 
 ## Independent external hold
 
