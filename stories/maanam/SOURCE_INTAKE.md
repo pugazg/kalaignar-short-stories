@@ -25,16 +25,14 @@ Boundary result: **PASS**.
 Live `main` was fetched before activation. Repository checks found:
 
 - no exact `மானம்` canonical match;
-- no `stories/maanam/` workspace;
-- no `stories/manam/` workspace;
+- no pre-existing `stories/maanam/` workspace;
+- no `stories/manam/` alternate workspace;
 - no match for the distinctive opening phrase `வேலனுக்கு அப்போது வயது பத்துதான்`.
 
 Dedup result: **PASS — new canonical workspace is appropriate.**
 
 Earlier controls that recorded the heading as `மனம்` were wrong; the attached scan is controlling and directly reads `மானம்`.
 
-## Transcription state
+## Activation-time transcription state
 
-No story prose is committed in this activation activity. Six page records are initialized as `not-started`.
-
-Next activity: **P1 Stage A — scans 73–77 only**, followed later by the separate Stage B verification for the same five scans.
+Activation itself committed no story prose and initialized six `not-started` records. Subsequent progress is tracked in `PASS1_PROGRESS.md`; P1 Stage A for scans 73–77 is now complete and the independent P1 Stage B is next.

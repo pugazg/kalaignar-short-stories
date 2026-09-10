@@ -4,11 +4,13 @@ Permanent families: `ணா / ணை / ணொ / ணோ / லை / ளை / ற�
 
 ## Current state
 
-- direct transcription: **0 / 6**
+- direct transcription: **5 / 6** — scans 73–77
 - independent Stage B: **0 / 6**
 - verified: **0 / 6**
-- unresolved glyph candidates: **0 recorded at activation**
+- P1 Stage A: **COMPLETE — 5/5**
+- P1 Stage B: **NEXT**
+- scan 78: **not-started**
 
-No glyph audit has been performed yet. Activation created only source controls and `not-started` page records.
+No systematic 13-family audit has yet been performed on scans 73–77. Stage A recorded a small source-sensitive queue without attempting glyph closure or global replacement.
 
-Exact progression: **P1 scans 73–77 Stage A → commit → P1 Stage B → commit → P2 scan 78 Stage A → commit → P2 Stage B**.
+Exact progression remains: **P1 scans 73–77 Stage B → commit → P2 scan 78 Stage A → commit → P2 Stage B**.

@@ -15,21 +15,23 @@ Canonical story workspace for **மானம்**, activated from the attached 1
 - source PDF committed: **No**
 - SHA-256: **pending at collection level**; do not invent or borrow a digest
 
-## Activation gates
+## Gates / current state
 
 - source boundary: **PASS**
 - canonical dedup / alternate-title check: **PASS — no existing canonical match found**
 - stale title `மனம்`: **REJECTED**; scan 73 directly reads `மானம்`
 - page records: **6 / 6 initialized**
-- direct transcription: **0 / 6**
+- direct transcription: **5 / 6** — scans 73–77
+- P1 Stage A: **COMPLETE — 5/5**
 - historical-glyph/source Stage B: **0 / 6**
 - verified: **0 / 6**
-- not-started: **6 / 6**
-- blocked / unresolved: **0 / 0**
+- `needs-review`: **5 / 6** — scans 73–77
+- `not-started`: **1 / 6** — scan 78
+- blocked / unresolved blocking locations: **0 / 0**
 - Tamil assembly: **not started**
 
 The scan-73 folio is a physical source anomaly: the bottom-left printed number is `10`, not `73`. Do not silently normalize it. Scan coordinates remain 73–78.
 
 ## Exact next activity
 
-**P1 Stage A only — scans 73–77.** Direct whole-page transcription from the attached source, keep all five pages `needs-review`, synchronize Pass-1 controls, commit, and stop/report. Do not touch scan 78 in that activity.
+**P1 Stage B only — scans 73–77.** Re-open those five pages independently, perform the mandatory 13-family source/glyph audit, inspect the Stage-A source-sensitive queue, make only source-proven corrections, synchronize controls, commit, and stop/report. Do not touch scan 78 in that activity.

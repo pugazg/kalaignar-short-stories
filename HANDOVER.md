@@ -26,34 +26,39 @@ Controlling source: attached `TVA_BOK_0065574_நளாயினி_1976.pdf` �
 
 Workspace: `stories/maanam/`; physical range **scans 73–78**.
 
-Activation state:
+Durable state:
 
 - scan 73 opening heading: **`மானம்` — directly confirmed**;
 - stale `மனம்`: **rejected**;
 - scan 78 ending/boundary: **confirmed — final PDF scan, closing ornament + library stamp**;
-- canonical dedup / alternate-title gate: **PASS — no existing canonical match**;
-- page records: **6/6 initialized as `not-started`**;
-- direct transcription: **0/6**;
-- Stage B: **0/6**;
+- canonical dedup / alternate-title gate: **PASS — new canonical**;
+- page records: **6/6**;
+- P1 Stage A scans 73–77: **COMPLETE — 5/5 direct-transcribed**;
+- direct transcription total: **5/6**;
+- independent historical-glyph/source Stage B: **0/6**;
 - verified: **0/6**;
-- blocked / unresolved: **0 / 0**.
+- `needs-review`: **5/6** — scans 73–77;
+- not-started: **1/6** — scan 78;
+- blocked / unresolved blocking locations: **0 / 0**.
 
 ### Source pagination correction
 
-Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. Earlier controls inferred printed page 73 for scan 73; the controlling source disproves that inference. Preserve the anomaly and never normalize it silently.
+Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. The collection metadata now records this explicitly; never normalize scan 73 to printed page 73.
 
-## Exact next activity — P1 Stage A ONLY
+### P1 Stage-A source-sensitive queue
 
-Process **scans 73–77** only under the two-stage workflow:
+Stage A deliberately did not run the systematic 13-family glyph gate. `POSSIBLE_ERRORS_FOR_REVIEW.md` carries the independent-re-read queue, including `கொளு வைத்துக்`, `வழியென பதையும் உணர்ந்து`, the 74→75 `அவசரத்தை / யுணர்ந்து` continuation, `அரணுவான் / மகனுவான் / வீரனுவான்`, `கனவேகமாக`, `அவனே`, the 76→77 continuation, and closing source-odd phrases on scan 77.
+
+## Exact next activity — P1 Stage B ONLY
+
+Process **scans 73–77** only:
 
 1. re-fetch live `main`;
-2. use only the attached controlling PDF;
-3. directly transcribe each whole page once;
-4. preserve source punctuation, spacing, paragraphing, source-odd words and clearly readable historical character identity;
-5. do **not** run the systematic 13-family Stage B in the same activity;
-6. do not routinely crop/reopen clear text;
-7. keep scans 73–77 `needs-review` after Stage A;
-8. synchronize Pass-1/current-state controls;
-9. commit and stop/report.
+2. re-open the same five attached source scans independently;
+3. check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus the Stage-A queue;
+4. do not full-retranscribe; correct only where direct source evidence requires it;
+5. use crops/enhancements only for actual ambiguity;
+6. promote clear pages to `verified`; retain any genuine ambiguity as `needs-review`;
+7. synchronize controls, commit and stop/report.
 
-Do **not** touch scan 78 in P1 Stage A. Its single-page P2 comes only after P1 Stage B closes.
+**Do not touch scan 78 in P1 Stage B.** P2 scan 78 Stage A begins only after this batch closes.
