@@ -23,15 +23,17 @@ Canonical story workspace for **மானம்**, activated from the attached 1
 - page records: **6 / 6 initialized**
 - direct transcription: **5 / 6** — scans 73–77
 - P1 Stage A: **COMPLETE — 5/5**
-- historical-glyph/source Stage B: **0 / 6**
-- verified: **0 / 6**
-- `needs-review`: **5 / 6** — scans 73–77
+- P1 Stage B: **PASS — 5/5**
+- historical-glyph/source Stage B total: **5 / 6**
+- verified: **5 / 6** — scans 73–77
+- `needs-review`: **0 / 6**
 - `not-started`: **1 / 6** — scan 78
-- blocked / unresolved blocking locations: **0 / 0**
+- P1 corrections: **5 total** — 3 historical-glyph + 2 source-text/spacing
+- blocked / unresolved: **0 / 0**
 - Tamil assembly: **not started**
 
 The scan-73 folio is a physical source anomaly: the bottom-left printed number is `10`, not `73`. Do not silently normalize it. Scan coordinates remain 73–78.
 
 ## Exact next activity
 
-**P1 Stage B only — scans 73–77.** Re-open those five pages independently, perform the mandatory 13-family source/glyph audit, inspect the Stage-A source-sensitive queue, make only source-proven corrections, synchronize controls, commit, and stop/report. Do not touch scan 78 in that activity.
+**P2 Stage A only — scan 78.** Directly transcribe the final physical page from the attached source, including its ending text and printed closing ornament, keep the page `needs-review`, synchronize Pass-1/current-state controls, commit, and stop/report. P2 Stage B is a later separate activity.

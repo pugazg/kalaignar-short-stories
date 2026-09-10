@@ -27,7 +27,7 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 | 5 | `விஷம் இனிது` | 47–55 | existing canonical — note only |
 | 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — note only |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — note only |
-| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **ACTIVE — P1 Stage A 5/5 COMPLETE; P1 Stage B NEXT** |
+| 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **ACTIVE — P1 Stage A + Stage B PASS; 5/6 verified; P2 Stage A NEXT** |
 
 ## Story 4 closure — `நாட்டிய கலாராணி`
 
@@ -37,16 +37,16 @@ The attached PDF itself is the sole controlling source unless the user explicitl
 
 Workspace: `stories/maanam/`.
 
-- source boundary: **PASS**;
-- canonical dedup: **PASS — new canonical**;
+- source boundary / canonical dedup: **PASS / PASS**;
 - page records: **6/6**;
 - direct transcription: **5/6**;
-- Stage B verified: **0/6**;
-- `needs-review`: **5/6** — scans 73–77;
+- Stage B verified: **5/6** — scans 73–77;
+- needs-review: **0/6**;
 - not-started: **1/6** — scan 78;
+- P1 corrections: **5**;
 - blocked / unresolved: **0 / 0**;
 - source pagination anomaly: scan 73 visibly prints **`10`**; do not normalize to 73.
 
-Exact next activity: **P1 Stage B — scans 73–77 only**. Scan 78 remains untouched until P1 closes.
+Exact next activity: **P2 Stage A — scan 78 only**. Its independent Stage B follows in a later activity.
 
 `நடுத்தெரு நாராயணி` remains independently held while `வெள்ளிக்கிழமை` is incomplete.

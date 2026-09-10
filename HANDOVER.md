@@ -33,32 +33,41 @@ Durable state:
 - scan 78 ending/boundary: **confirmed — final PDF scan, closing ornament + library stamp**;
 - canonical dedup / alternate-title gate: **PASS — new canonical**;
 - page records: **6/6**;
-- P1 Stage A scans 73–77: **COMPLETE — 5/5 direct-transcribed**;
+- P1 Stage A scans 73–77: **COMPLETE — 5/5**;
+- P1 Stage B scans 73–77: **PASS — 5/5**;
 - direct transcription total: **5/6**;
-- independent historical-glyph/source Stage B: **0/6**;
-- verified: **0/6**;
-- `needs-review`: **5/6** — scans 73–77;
+- Stage-B verified total: **5/6**;
+- verified: **5/6** — scans 73–77;
+- `needs-review`: **0/6**;
 - not-started: **1/6** — scan 78;
-- blocked / unresolved blocking locations: **0 / 0**.
+- P1 corrections: **5 total** — scan 74: 2 source corrections; scan 75: 3 historical-glyph corrections;
+- blocked / unresolved: **0 / 0**.
+
+### P1 Stage-B corrections
+
+- scan 74: `குப்பைமேட்டில்` → `குப்பை மேட்டில்`;
+- scan 74: `வையகத்தை வையத் தீர்த்தாள்` → `வையகத்தை வைத்து தீர்த்தாள்`;
+- scan 75: `அரணுவான்` → `அரணாவான்` (`ணா`);
+- scan 75: `மகனுவான்` → `மகனாவான்` (`னா`);
+- scan 75: `வீரனுவான்` → `வீரனாவான்` (`னா`).
+
+All other P1 source-sensitive queue entries were independently confirmed and retained. P1 unresolved: **0**.
 
 ### Source pagination correction
 
-Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. The collection metadata now records this explicitly; never normalize scan 73 to printed page 73.
+Scan **73** visibly prints folio **`10`** at bottom left. Scans **74–78** visibly print **74–78**. Never normalize scan 73 to printed page 73.
 
-### P1 Stage-A source-sensitive queue
+## Exact next activity — P2 Stage A ONLY
 
-Stage A deliberately did not run the systematic 13-family glyph gate. `POSSIBLE_ERRORS_FOR_REVIEW.md` carries the independent-re-read queue, including `கொளு வைத்துக்`, `வழியென பதையும் உணர்ந்து`, the 74→75 `அவசரத்தை / யுணர்ந்து` continuation, `அரணுவான் / மகனுவான் / வீரனுவான்`, `கனவேகமாக`, `அவனே`, the 76→77 continuation, and closing source-odd phrases on scan 77.
-
-## Exact next activity — P1 Stage B ONLY
-
-Process **scans 73–77** only:
+Process **scan 78 only** under the two-stage workflow:
 
 1. re-fetch live `main`;
-2. re-open the same five attached source scans independently;
-3. check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus the Stage-A queue;
-4. do not full-retranscribe; correct only where direct source evidence requires it;
-5. use crops/enhancements only for actual ambiguity;
-6. promote clear pages to `verified`; retain any genuine ambiguity as `needs-review`;
-7. synchronize controls, commit and stop/report.
+2. use only the attached controlling PDF;
+3. directly transcribe the whole final page once, including the story ending and centered closing ornament; record the library stamp as non-story/source artefact rather than fabricating text from it;
+4. preserve source punctuation, spacing, paragraphing, source-odd words and clearly readable historical character identity;
+5. do **not** run the systematic 13-family Stage B in the same activity;
+6. keep scan 78 `needs-review` after Stage A;
+7. synchronize Pass-1/current-state controls;
+8. commit and stop/report.
 
-**Do not touch scan 78 in P1 Stage B.** P2 scan 78 Stage A begins only after this batch closes.
+P2 Stage B is the following separate activity. Do not assemble Tamil until scan 78 also passes Stage B.
