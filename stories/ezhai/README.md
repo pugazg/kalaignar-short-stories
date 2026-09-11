@@ -1,46 +1,36 @@
 # ஏழை
 
-Canonical story workspace for **ஏழை**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical Story 15 workspace from the 1977 first edition of **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
-- Author: **கலைஞர் மு. கருணாநிதி**
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
-- Printed pages: **106–109**
-- PDF scans: **115–118**
-- Source PDF committed to GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- printed pages: **106–109**
+- scans: **115–118**
+- source PDF committed: **No**
 
-## Tamil archival status
+## 2026 status
 
-**PASS — 4 / 4 story pages transcribed and directly source-reviewed.**
+**CURRENT PASS / CLOSED**
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).  
-Reading layer: [`sections/ezhai.md`](sections/ezhai.md).
+- Gate A: **4/4 PASS**
+- Gate B: **4/4 PASS**
+- source-proven repairs: **1**
+- unresolved source / glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
 
-## Visual fidelity
+Repair: scan 115 `வினாடிகூட` → **`விநாடிகூட`**.
 
-**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
-Opening rule/enlarged `வ`, final `story-ending` role and closing ornament are recorded. The unusual source sentence ending `...என்று பயந்தான்.` was rechecked and retained without grammatical normalization. **Story wording changed: No.**
+Canonical Tamil assembly: [`sections/ezhai.md`](sections/ezhai.md). Existing English already conveys the repaired meaning, so **English prose rewrite required: 0**.
 
-## Story boundary
+## Boundary
 
-Scan 115 opens this story; scan 118 ends it; scan 119 independently opens `ஒரிஜினலில் உள்ளபடி` and is excluded.
+- scan 115 opens `ஏழை`;
+- scan 118 closes the story with the final `யார் அது? “ஏழை”!` and ornament;
+- scan 119 independently opens Story 16 `ஒரிஜினலில் உள்ளபடி`.
 
-## English translation
+## Next
 
-**PASS — complete.**
-
-- English: [`translations/en/ezhai.md`](translations/en/ezhai.md)
-- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- all **4 / 4** source-page markers represented
-- physical continuations **115→116**, **116→117** and **117→118** remain traceable
-- source-anomalous `பார்வதிக்கு பானு நனைந்து விடுவாளே என்று பயந்தான்.` translated by narrative sense without changing Tamil
-- final `யார் அது? “ஏழை”!` reveal preserved
-- canonical Tamil changed during translation: **No**
-
-## Completion state
-
-**ஏழை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 115–118 / printed pages 106–109.**
+Story 16 **ஒரிஜினலில் உள்ளபடி** — scans **119–125 / printed 110–116**. Use scan **126** only as the boundary witness opening `பனங்குலை`.

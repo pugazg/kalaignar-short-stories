@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 14 / 37 CURRENT PASS.**
+**OPEN — 15 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -50,23 +50,25 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `ஆதரிக்கிறார்` — scans **102–107** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 repairs / 0 unresolved**; English resynchronized for `தலைவனாக`.
 - `இரகசியம்!` — scans **108–111** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `முந்நூறு ரூபாய்` — scans **112–114** — Gate A **3/3 PASS**, Gate B **3/3 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
+- `ஏழை` — scans **115–118** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these fourteen stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these fifteen stories from stale prompts unless genuinely new direct source evidence appears.
 
-### `முந்நூறு ரூபாய்` closure
+### `ஏழை` closure
 
-- scans **112–114 / printed 103–105**
-- Gate A **3/3 PASS**
-- Gate B **3/3 PASS**
-- **0 new repairs / 0 unresolved**
+- scans **115–118 / printed 106–109**
+- Gate A **4/4 PASS**
+- Gate B **4/4 PASS**
+- **1 repair / 0 unresolved**
+- scan 115 `வினாடிகூட` → `விநாடிகூட`
 - English prose rewrite **0**
-- scan 115 opens `ஏழை`
+- scan 119 opens `ஒரிஜினலில் உள்ளபடி`
 
 ## Exact next activity
 
-Story 15 **`ஏழை`** — scans **115–118 / printed pages 106–109** — **NEXT**.
+Story 16 **`ஒரிஜினலில் உள்ளபடி`** — scans **119–125 / printed pages 110–116** — **NEXT**.
 
-Complete Gate A **4/4** and independent Gate B **4/4**. Use scan **119** only as the boundary witness opening `ஒரிஜினலில் உள்ளபடி`. Advance to **15/37** only with zero unresolved; stop before Story 16.
+Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **126** only as the boundary witness opening `பனங்குலை`. Advance to **16/37** only with zero unresolved; stop before Story 17.
 
 
 ## Legacy processing state

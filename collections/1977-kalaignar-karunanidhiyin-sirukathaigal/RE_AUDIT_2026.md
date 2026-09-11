@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 14 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 15 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -120,8 +120,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 12 | `ஆதரிக்கிறார்` | 102–107 | **CURRENT PASS — 2 repairs / 0 unresolved** |
 | 13 | `இரகசியம்!` | 108–111 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 14 | `முந்நூறு ரூபாய்` | 112–114 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
-| 15 | `ஏழை` | 115–118 | **NEXT — REOPENED** |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | REOPENED / pending |
+| 15 | `ஏழை` | 115–118 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | **NEXT — REOPENED** |
 | 17 | `பனங்குலை` | 126–130 | REOPENED / pending |
 | 18 | `செத்தவள் கதை` | 131–139 | REOPENED / pending |
 | 19 | `பிரேத விசாரணை` | 140–145 | REOPENED / pending |
@@ -209,6 +209,12 @@ Gate A **3/3 PASS**; Gate B **3/3 PASS**; **0 new repairs / 0 unresolved**; Engl
 
 Full story record: `../../stories/munnuru-rupai/RE_AUDIT_2026.md`.
 
+### `ஏழை` closure
+
+Gate A **4/4 PASS**; Gate B **4/4 PASS**; **1 repair / 0 unresolved**. Scan 115 `வினாடிகூட` → `விநாடிகூட`. English prose rewrite 0. Scan 119 opens `ஒரிஜினலில் உள்ளபடி`.
+
+Full story record: `../../stories/ezhai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 15 `ஏழை`, scans **115–118 / printed 106–109**. Complete Gate A **4/4** + independent Gate B **4/4**; use scan **119** only as the `ஒரிஜினலில் உள்ளபடி` boundary witness; advance **14/37 → 15/37** only with zero unresolved; stop before Story 16.
+Re-audit Story 16 `ஒரிஜினலில் உள்ளபடி`, scans **119–125 / printed 110–116**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **126** only as the `பனங்குலை` boundary witness; advance **15/37 → 16/37** only with zero unresolved; stop before Story 17.

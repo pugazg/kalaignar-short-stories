@@ -32,7 +32,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 14 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 15 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -50,18 +50,19 @@ Current tracker state: **OPEN — 14 / 37 dual-gate complete**.
 - `ஆதரிக்கிறார்` — scans **102–107** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 repairs / 0 unresolved**; English resynchronized.
 - `இரகசியம்!` — scans **108–111** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `முந்நூறு ரூபாய்` — scans **112–114** — Gate A **3/3 PASS**, Gate B **3/3 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
+- `ஏழை` — scans **115–118** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these fourteen stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these fifteen stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 15 `ஏழை`
+## Exact next activity — Story 16 `ஒரிஜினலில் உள்ளபடி`
 
-Workspace: `stories/ezhai/`.
+Workspace: `stories/originalil-ullapadi/`.
 
-- scans **115–118 / printed 106–109**
-- canonical pages **4/4**
-- scan **119** is the boundary witness opening Story 16 `ஒரிஜினலில் உள்ளபடி`
+- scans **119–125 / printed 110–116**
+- canonical pages **7/7**
+- scan **126** is the boundary witness opening Story 17 `பனங்குலை`
 
-Complete Gate A **4/4** and independent Gate B **4/4**; correct only source-proven mismatches; synchronize controls/affected English; advance **14/37 → 15/37** only with zero unresolved; stop before Story 16.
+Complete Gate A **7/7** and independent Gate B **7/7**; correct only source-proven mismatches; synchronize controls/affected English; advance **15/37 → 16/37** only with zero unresolved; stop before Story 17.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
