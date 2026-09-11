@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 13 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 14 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -119,8 +119,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 11 | `தப்பவில்லை` | 92–101 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 12 | `ஆதரிக்கிறார்` | 102–107 | **CURRENT PASS — 2 repairs / 0 unresolved** |
 | 13 | `இரகசியம்!` | 108–111 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
-| 14 | `முந்நூறு ரூபாய்` | 112–114 | **NEXT — REOPENED** |
-| 15 | `ஏழை` | 115–118 | REOPENED / pending |
+| 14 | `முந்நூறு ரூபாய்` | 112–114 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
+| 15 | `ஏழை` | 115–118 | **NEXT — REOPENED** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | REOPENED / pending |
 | 17 | `பனங்குலை` | 126–130 | REOPENED / pending |
 | 18 | `செத்தவள் கதை` | 131–139 | REOPENED / pending |
@@ -203,6 +203,12 @@ Full story record: `../../stories/aatharikkirar/RE_AUDIT_2026.md`.
 
 Gate A **4/4 PASS**; Gate B **4/4 PASS**; **0 new repairs / 0 unresolved**; English prose rewrite 0. Scan 112 opens `முந்நூறு ரூபாய்`.
 
+### `முந்நூறு ரூபாய்` closure
+
+Gate A **3/3 PASS**; Gate B **3/3 PASS**; **0 new repairs / 0 unresolved**; English prose rewrite 0. Scan 115 opens `ஏழை`.
+
+Full story record: `../../stories/munnuru-rupai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 14 `முந்நூறு ரூபாய்`, scans **112–114 / printed 103–105**. Complete Gate A **3/3** + independent Gate B **3/3**; use scan **115** only as the `ஏழை` boundary witness; advance **13/37 → 14/37** only with zero unresolved; stop before Story 15.
+Re-audit Story 15 `ஏழை`, scans **115–118 / printed 106–109**. Complete Gate A **4/4** + independent Gate B **4/4**; use scan **119** only as the `ஒரிஜினலில் உள்ளபடி` boundary witness; advance **14/37 → 15/37** only with zero unresolved; stop before Story 16.
