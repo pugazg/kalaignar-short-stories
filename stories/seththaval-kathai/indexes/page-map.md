@@ -1,32 +1,15 @@
 # பக்க வரைபடம் — செத்தவள் கதை
 
-Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-
-| Scan | Printed page | Section | Status | File |
+| Scan | Printed | Role | Status | File |
 |---:|---:|---|---|---|
-| 131 | 122 | story opening | verified | `../pages/0131-seththaval-kathai-01.md` |
-| 132 | 123 | story body | verified | `../pages/0132-seththaval-kathai-02.md` |
-| 133 | 124 | story body | verified | `../pages/0133-seththaval-kathai-03.md` |
-| 134 | 125 | story body | verified | `../pages/0134-seththaval-kathai-04.md` |
-| 135 | 126 | story body | verified | `../pages/0135-seththaval-kathai-05.md` |
-| 136 | 127 | story body | verified | `../pages/0136-seththaval-kathai-06.md` |
-| 137 | 128 | story body | verified | `../pages/0137-seththaval-kathai-07.md` |
-| 138 | 129 | story body | verified | `../pages/0138-seththaval-kathai-08.md` |
-| 139 | 130 | story ending | verified | `../pages/0139-seththaval-kathai-09.md` |
+| 131 | 122 | opening | verified | `../pages/0131-seththaval-kathai-01.md` |
+| 132 | 123 | body | verified | `../pages/0132-seththaval-kathai-02.md` |
+| 133 | 124 | body | verified | `../pages/0133-seththaval-kathai-03.md` |
+| 134 | 125 | body | verified | `../pages/0134-seththaval-kathai-04.md` |
+| 135 | 126 | body | verified | `../pages/0135-seththaval-kathai-05.md` |
+| 136 | 127 | body | verified | `../pages/0136-seththaval-kathai-06.md` |
+| 137 | 128 | body | verified | `../pages/0137-seththaval-kathai-07.md` |
+| 138 | 129 | body | verified | `../pages/0138-seththaval-kathai-08.md` |
+| 139 | 130 | ending | verified | `../pages/0139-seththaval-kathai-09.md` |
 
-## Visual-fidelity notes
-
-- scan 131: long opening rule; opening fire verse preserved as five display lines;
-- scan 136: three-line fire verse preserved as display;
-- scan 139: final fire verse preserved as four display lines; source-bold `‘செத்தவள் கதை’`; centered closing ornament;
-- all eight internal joins and scan 139→140 boundary checked.
-
-## Status
-
-- page records: **9 / 9**
-- `verified`: **9**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved / missing story text: **0**
-
-Scan **140** begins Story 19, `பிரேத விசாரணை`, and is outside this story range.
+2026: Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**. Explicit continuations 134→135, 135→136 and 138→139 are verified; all remaining internal boundaries were directly checked. Scan 140 independently opens `பிரேத விசாரணை`.
