@@ -78,7 +78,7 @@ Another municipal election came. In this election Punyakodi fiercely opposed Raj
 
 <!-- source scan 107; printed page 98 -->
 
-—has become municipal thalaivanuga!” they cried. Punyakodi too shed tears.
+—has become municipal chairman!” they cried. Punyakodi too shed tears.
 
 Several months rolled by. The new municipal chairman’s excesses became unbearable. The public turned into rumbling volcanoes. Then Punyakodi advertised that he would speak on a platform about the new chairman. People gathered. First Punyakodi’s secretary spoke. He attacked the new chairman fiercely. The crowd rejoiced. Then Punyakodi rose. The public, brimming with eagerness, waited for his speech.
 

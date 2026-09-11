@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதி
 transcription_method: "direct visual comparison with source scan; native/high-resolution full-span review"
 ---
 
-நகரசபைத் தலைவனுக வந்துவிட்டானே” என்று அலறினார். புண்யகோடியும் கண்ணீர் விட்டார்.
+நகரசபைத் தலைவனாக வந்துவிட்டானே” என்று அலறினார். புண்யகோடியும் கண்ணீர் விட்டார்.
 
 மாதங்கள் சில உருண்டன. புதிய நகரசபைத் தலைவரின் அட்டகாசம் தாங்க முடியவில்லை. பொதுமக்கள் குமுறும் எரிமலைகளாகி விட்டனர். அப்போது, புண்யகோடி புதிய தலைவரைப் பற்றி ஒரு மேடையில் பேசப்போவதாக விளம்பரம் செய்தார். மக்கள் திரண்டு வந்தனர். முதலில் புண்யகோடியின் காரியதரிசி பேசினார். புதிய தலைவரைக் காரசாரமாகத் தாக்கினார். மக்கள் குதூகலித்தனர். அடுத்துப் புண்யகோடி எழுந்தார். பொதுமக்கள் ஆவல் ததும்பியபடி அவர் பேச்சை எதிர்நோக்கினர்.
 
@@ -37,3 +37,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 - Scan 108 independently opens `இரகசியம்!` and is excluded.
 
 <!-- மூல ஸ்கேன் பக்கம்: 107; அச்சுப் பக்கம்: 98 -->
+## 2026 dual-gate note
+
+- Gate A/B PASS for scan 107.
+- Gate B historical-`னா` repair: `தலைவனுக` → `தலைவனாக`.
+- Final source-bold span and closing ornament remain source-confirmed.
+- scan 108 independently opens `இரகசியம்!`; 0 unresolved.
