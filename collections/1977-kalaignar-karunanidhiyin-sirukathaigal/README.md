@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 12 / 37 CURRENT PASS.**
+**OPEN — 13 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -48,26 +48,24 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `தப்பிவிட்டார்கள்` — scans **84–91** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **12 repairs / 0 unresolved**; English prose rewrite 0.
 - `தப்பவில்லை` — scans **92–101** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `ஆதரிக்கிறார்` — scans **102–107** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 repairs / 0 unresolved**; English resynchronized for `தலைவனாக`.
+- `இரகசியம்!` — scans **108–111** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these twelve stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirteen stories from stale prompts unless genuinely new direct source evidence appears.
 
-### `ஆதரிக்கிறார்` closure
+### `இரகசியம்!` closure
 
-- scans **102–107 / printed 93–98**;
-- Gate A **6/6 PASS**;
-- Gate B **6/6 PASS**;
-- **2 new repairs / 0 unresolved**;
-- scan 105: `பெயர்மட்டுந்தானு` → `பெயர்மட்டுந்தானா` — historical `னா`;
-- scan 107: `தலைவனுக` → `தலைவனாக` — historical `னா`;
-- scan 102 `பெறவிட்டாலும்` independently retained source-close;
-- English changed one phrase to `municipal chairman`;
-- scan 108 independently opens `இரகசியம்!`.
+- scans **108–111 / printed 99–102**
+- Gate A **4/4 PASS**
+- Gate B **4/4 PASS**
+- **0 new repairs / 0 unresolved**
+- English prose rewrite **0**
+- scan 112 opens `முந்நூறு ரூபாய்`
 
 ## Exact next activity
 
-Story 13 **`இரகசியம்!`** — scans **108–111 / printed pages 99–102** — **NEXT**.
+Story 14 **`முந்நூறு ரூபாய்`** — scans **112–114 / printed pages 103–105** — **NEXT**.
 
-Complete Gate A **4/4** and independent Gate B **4/4**. Use scan **112** only as the boundary witness opening `முந்நூறு ரூபாய்`. Advance to **13/37** only with zero unresolved; stop before Story 14.
+Complete Gate A **3/3** and independent Gate B **3/3**. Use scan **115** only as the boundary witness opening `ஏழை`. Advance to **14/37** only with zero unresolved; stop before Story 15.
 
 
 ## Legacy processing state

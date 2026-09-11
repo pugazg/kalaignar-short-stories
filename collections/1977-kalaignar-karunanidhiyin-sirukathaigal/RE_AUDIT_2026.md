@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 12 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 13 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -118,8 +118,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 10 | `தப்பிவிட்டார்கள்` | 84–91 | **CURRENT PASS — 12 repairs / 0 unresolved** |
 | 11 | `தப்பவில்லை` | 92–101 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 12 | `ஆதரிக்கிறார்` | 102–107 | **CURRENT PASS — 2 repairs / 0 unresolved** |
-| 13 | `இரகசியம்!` | 108–111 | **NEXT — REOPENED** |
-| 14 | `முந்நூறு ரூபாய்` | 112–114 | REOPENED / pending |
+| 13 | `இரகசியம்!` | 108–111 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
+| 14 | `முந்நூறு ரூபாய்` | 112–114 | **NEXT — REOPENED** |
 | 15 | `ஏழை` | 115–118 | REOPENED / pending |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | REOPENED / pending |
 | 17 | `பனங்குலை` | 126–130 | REOPENED / pending |
@@ -199,13 +199,10 @@ Full story record: `../../stories/thappavillai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/aatharikkirar/RE_AUDIT_2026.md`.
 
+### `இரகசியம்!` closure
+
+Gate A **4/4 PASS**; Gate B **4/4 PASS**; **0 new repairs / 0 unresolved**; English prose rewrite 0. Scan 112 opens `முந்நூறு ரூபாய்`.
+
 ## Exact next activity
 
-Re-audit Story 13 **`இரகசியம்!`**, scans **108–111 / printed pages 99–102**.
-
-- Gate A: compare all **4** canonical page records and assembly directly to scans **108–111**.
-- Gate B: independently reopen all **4** physical pages at native/high resolution.
-- Use scan **112** only as the boundary witness opening Story 14 `முந்நூறு ரூபாய்`.
-- Apply only source-proven corrections; synchronize Tamil, controls and affected English.
-- Advance **12/37 → 13/37** only with Gate A 4/4 + Gate B 4/4 + 0 unresolved.
-- Stop before Story 14.
+Re-audit Story 14 `முந்நூறு ரூபாய்`, scans **112–114 / printed 103–105**. Complete Gate A **3/3** + independent Gate B **3/3**; use scan **115** only as the `ஏழை` boundary witness; advance **13/37 → 14/37** only with zero unresolved; stop before Story 15.
