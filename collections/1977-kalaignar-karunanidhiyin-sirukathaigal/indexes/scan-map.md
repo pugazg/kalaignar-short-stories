@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 15/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 16/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -35,8 +35,8 @@
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **2026 Gate A 4/4 PASS / Gate B 4/4 PASS — 0 new repairs / 0 unresolved** |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **2026 Gate A 3/3 PASS / Gate B 3/3 PASS — 0 new repairs / 0 unresolved** |
 | 15 | `ஏழை` | 106–109 | 115–118 | **2026 Gate A 4/4 PASS / Gate B 4/4 PASS — 1 repair / 0 unresolved** |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | legacy complete — 7/7; **2026 NEXT** |
-| 17 | `பனங்குலை` | 117–121 | 126–130 | legacy complete — 5/5; 2026 pending |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **2026 Gate A 7/7 PASS / Gate B 7/7 PASS — 1 repair / 0 unresolved** |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | legacy complete — 5/5; **2026 NEXT** |
 | 18 | `செத்தவள் கதை` | 122–130 | 131–139 | legacy complete — 9/9; 2026 pending |
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | legacy complete — 6/6; 2026 pending |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | legacy complete — 5/5; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 15 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 16 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -79,7 +79,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 15
 - `இரகசியம்!` scans 108–111 — PASS / CLOSED;
 - `முந்நூறு ரூபாய்` scans 112–114 — PASS / CLOSED;
 - `ஏழை` scans 115–118 — PASS / CLOSED;
-- `ஒரிஜினலில் உள்ளபடி` scans 119–125 — **NEXT**.
+- `ஒரிஜினலில் உள்ளபடி` scans 119–125 — PASS / CLOSED;
+- `பனங்குலை` scans 126–130 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 

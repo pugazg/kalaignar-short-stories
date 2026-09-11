@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 15 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 16 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -121,8 +121,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 13 | `இரகசியம்!` | 108–111 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 14 | `முந்நூறு ரூபாய்` | 112–114 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 15 | `ஏழை` | 115–118 | **CURRENT PASS — 1 repair / 0 unresolved** |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | **NEXT — REOPENED** |
-| 17 | `பனங்குலை` | 126–130 | REOPENED / pending |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 17 | `பனங்குலை` | 126–130 | **NEXT — REOPENED** |
 | 18 | `செத்தவள் கதை` | 131–139 | REOPENED / pending |
 | 19 | `பிரேத விசாரணை` | 140–145 | REOPENED / pending |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | REOPENED / pending |
@@ -215,6 +215,18 @@ Gate A **4/4 PASS**; Gate B **4/4 PASS**; **1 repair / 0 unresolved**. Scan 115 
 
 Full story record: `../../stories/ezhai/RE_AUDIT_2026.md`.
 
+### `ஒரிஜினலில் உள்ளபடி` closure
+
+- scans **119–125 / printed 110–116**
+- Gate A **7/7 PASS**
+- Gate B **7/7 PASS**
+- **1 source-proven repair / 0 unresolved**
+- scan 121 `வெங்கடாசலபதி கீர்த்தின்...` → `வெங்கடாசலபதி கிரீடத்தின்...`
+- English resynchronized to the corrected crown meaning
+- scan 126 opens Story 17 `பனங்குலை`
+
+Full story record: `../../stories/originalil-ullapadi/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 16 `ஒரிஜினலில் உள்ளபடி`, scans **119–125 / printed 110–116**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **126** only as the `பனங்குலை` boundary witness; advance **15/37 → 16/37** only with zero unresolved; stop before Story 17.
+Re-audit Story 17 `பனங்குலை`, scans **126–130 / printed 117–121**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **131** only as the `செத்தவள் கதை` boundary witness; advance **16/37 → 17/37** only with zero unresolved; stop before Story 18.
