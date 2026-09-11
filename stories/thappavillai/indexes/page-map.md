@@ -2,7 +2,7 @@
 
 Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
 
-| Scan | Printed page | Section | Status | File |
+| Scan | Printed | Role | Status | File |
 |---:|---:|---|---|---|
 | 92 | 83 | story opening | verified | `../pages/0092-thappavillai-01.md` |
 | 93 | 84 | story body | verified | `../pages/0093-thappavillai-02.md` |
@@ -15,22 +15,12 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 | 100 | 91 | story body | verified | `../pages/0100-thappavillai-09.md` |
 | 101 | 92 | story ending | verified | `../pages/0101-thappavillai-10.md` |
 
-## Status
+## 2026 status
 
-- page records: **10 / 10**
-- `verified`: **10**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved / missing story text: **0**
+- Gate A: **10/10 PASS**
+- Gate B: **10/10 PASS**
+- dual-gate repairs: **1**
+- unresolved: **0**
+- possible-error queue: **CLOSED**
 
-Scan **102** begins Story 12, `ஆதரிக்கிறார்`, and is outside this story range.
-
-## Visual-fidelity notes
-
-- scan **92**: story opening with long horizontal rule and enlarged opening `க` in `கண்ணாடித்...`;
-- scan **93**: enlarged `வீ` in `வீட்டின்...` marks a structural paragraph opening;
-- scan **95**: source punctuation corrected `இரவு-பகல்` → `இரவு—பகல்` after complete-sentence recheck;
-- scan **100**: source-bold display `நாட்கள் ஓடின...` represented in Markdown;
-- scan **101**: `story-ending`; centered closing ornament recorded;
-- all **9** internal joins were checked; explicit continuations are **92→93** `...என்ன என்று` → `மனக்கோட்டை கட்ட...`, **93→94** `...மணமகளாகத்` → `தேர்ந்தெடுக்கிறார்கள்.`, and **95→96** `...அவள் பெயர்` → `தங்கமில்லாவிட்டாலும்,...`; other joins are source paragraph/dialogue boundaries;
-- scan **102** independently confirms the next-story boundary, opening `ஆதரிக்கிறார்`.
+Physical continuations: 92→93, 93→94 and 95→96. Scan 102 independently opens `ஆதரிக்கிறார்` and is outside this story range.

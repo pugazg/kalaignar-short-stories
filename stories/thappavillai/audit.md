@@ -1,65 +1,48 @@
 # தமிழ் மூலத் தணிக்கை — தப்பவில்லை
 
-## Audit scope
+## Scope
 
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, முதல் பதிப்பு 1977
-- Story range: scans **92–101** / printed pages **83–92**
-- Page records: **10 / 10**
-- Source PDF stored in GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- first edition: **1977**
+- scans **92–101 / printed 83–92**
+- page records **10 / 10**
+- boundary witness: scan **102**, opening `ஆதரிக்கிறார்`
 
-## Source-review method
+## 2026 dual-gate result
 
-All ten story scans were directly reviewed from the supplied controlling PDF. Native/high-resolution images and complete-span crops were used for Tamil, punctuation, paragraph/display structure and joins. Visual fidelity reopened the complete source sentence when a punctuation mismatch was detected.
+- Gate A: **10/10 PASS**
+- Gate B: **10/10 PASS**
+- source-proven dual-gate repairs: **1**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
 
-## Page disposition
+All ten pages were compared directly against native/high-resolution source pixels. Gate B independently re-opened every physical page and checked all mandatory historical Tamil glyph families.
 
-| Printed page | Scan | Status | Boundary / key note |
-|---:|---:|---|---|
-| 83 | 92 | verified | opening rule and enlarged `க`; ends `என்ன என்று` |
-| 84 | 93 | verified | completes scan 92; enlarged `வீ`; ends `மணமகளாகத்` |
-| 85 | 94 | verified | completes scan 93; source-close forms retained |
-| 86 | 95 | verified | `இரவு—பகல்` corrected from source; ends `அவள் பெயர்` |
-| 87 | 96 | verified | completes scan 95 |
-| 88 | 97 | verified | prison acquaintance / release passage |
-| 89 | 98 | verified | conviction and appeal discussion |
-| 90 | 99 | verified | appeal support; line-join `சம்பாதிச்` + `சுருக்கேன்` remains resolved |
-| 91 | 100 | verified | source-bold `நாட்கள் ஓடின...` represented |
-| 92 | 101 | verified | `story-ending` and closing ornament |
+## Repair
 
-Totals: **10/10 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
+- scan 95 / printed 86: `கட்டிப் போடணும்னு` → `கட்டிப் போட்டணும்னு`.
+- pre-existing visual-fidelity repair `இரவு-பகல்` → `இரவு—பகல்` remains source-confirmed and is not counted as a new dual-gate repair.
 
-## Visual-fidelity correction log
+## Structural checks
 
-1. scan **95**: committed `இரவு-பகல்` was rechecked across the complete opening sentence; the controlling scan prints a long dash, so it is corrected to `இரவு—பகல்` in the page record and assembly.
-2. scan **92**: opening rule and enlarged `க` recorded.
-3. scan **93**: enlarged `வீ` recorded.
-4. scan **100**: source-bold `நாட்கள் ஓடின...` represented semantically.
-5. scan **101**: `story-conclusion` → `story-ending`; closing ornament recorded.
+- scan 92: story heading, opening rule and enlarged `க` confirmed.
+- scan 93: enlarged `வீ` paragraph opening confirmed.
+- scan 100: source-bold `நாட்கள் ஓடின...` preserved semantically.
+- scan 101: final paragraph and centered closing ornament confirmed.
+- scan 102: independently opens Story 12; no Story 12 text is included.
 
-No modernization or surrounding wording change was made.
+## Physical continuations
 
-## Cross-page audit
+- 92→93: `...என்ன என்று` → `மனக்கோட்டை கட்ட...`.
+- 93→94: `...மணமகளாகத்` → `தேர்ந்தெடுக்கிறார்கள்.`
+- 95→96: `...அவள் பெயர்` → `தங்கமில்லாவிட்டாலும்,...`
 
-**PASS**
+Other internal joins occur at complete sentence, paragraph or dialogue boundaries.
 
-1. scans **92→93**: `...என்ன என்று` → `மனக்கோட்டை கட்ட...`.
-2. scans **93→94**: `...மணமகளாகத்` → `தேர்ந்தெடுக்கிறார்கள்.`
-3. scans **95→96**: `...அவள் பெயர்` → `தங்கமில்லாவிட்டாலும்,...`.
+## Review queue
 
-Other boundaries are complete source sentences, paragraphs or dialogue turns. Scan 100→101 changes between complete dialogue turns.
+`POSSIBLE_ERRORS_FOR_REVIEW.md` is **CLOSED — 0 pending / 0 unresolved**.
 
-## Story-boundary audit
+## Result
 
-- scan 92 opens `தப்பவில்லை` beneath its own heading/rule.
-- scan 101 is the story ending with closing ornament.
-- scan 102 opens **`ஆதரிக்கிறார்`**.
-- Story 12 text included: **No**.
-
-## Difficult-reading / human-review layer
-
-Unusual but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; queue status is not proof of error.
-
-## Audit result
-
-**PASS — தப்பவில்லை is fully source-synchronized after visual-fidelity review: 10/10 verified, 0 blocked, 0 unresolved story text.**
+**CURRENT PASS / CLOSED — Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved.**
