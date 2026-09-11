@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 18 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 19 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -124,8 +124,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 17 | `பனங்குலை` | 126–130 | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 18 | `செத்தவள் கதை` | 131–139 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
-| 19 | `பிரேத விசாரணை` | 140–145 | **NEXT — REOPENED** |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | REOPENED / pending |
+| 19 | `பிரேத விசாரணை` | 140–145 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | **NEXT — REOPENED** |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | REOPENED / pending |
 | 22 | `தொத்துக்கிளி` | 156–160 | REOPENED / pending |
 | 23 | `காதல் கடிதம்` | 161–165 | REOPENED / pending |
@@ -251,6 +251,18 @@ Full story record: `../../stories/panangulai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/seththaval-kathai/RE_AUDIT_2026.md`.
 
+### `பிரேத விசாரணை` closure
+
+- scans **140–145 / printed 131–136**
+- Gate A **6/6 PASS**
+- Gate B **6/6 PASS**
+- **1 source-proven repair / 0 unresolved**
+- scan 145 `சகுனத்தடை` → `சகுனத் தடை`
+- English prose rewrite required: **0**
+- scan 146 opens Story 20 `கண்டதும் காதல் ஒழிக!`
+
+Full story record: `../../stories/pretha-visaranai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 19 `பிரேத விசாரணை`, scans **140–145 / printed 131–136**. Complete Gate A **6/6** + independent Gate B **6/6**; use scan **146** only as the `கண்டதும் காதல் ஒழிக!` boundary witness; advance **18/37 → 19/37** only with zero unresolved; stop before Story 20.
+Re-audit Story 20 `கண்டதும் காதல் ஒழிக!`, scans **146–150 / printed 137–141**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **151** only as the `ஆலமரத்துப் புறாக்கள்` boundary witness; advance **19/37 → 20/37** only with zero unresolved; stop before Story 21.
