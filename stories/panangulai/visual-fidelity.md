@@ -1,24 +1,16 @@
 # Visual Fidelity Check — பனங்குலை
 
-## Scope
+- scans: **126–130 / printed 117–121**
+- boundary witness: scan **131**
+- pages directly inspected: **5/5**
 
-- Story: **பனங்குலை**
-- Collection sequence: **17 / 37**
-- Printed pages: **117–121**
-- Source scans: **126–130**
-- Boundary witness: scan **131**, opening `செத்தவள் கதை`
-- Pages directly inspected: **5 / 5**, plus boundary witness
+Heading/opening rule/enlarged initial, all four page joins, final narrator sentence and closing ornament were directly rechecked.
 
-## Findings
+2026 Gate A: **5/5 PASS**.  
+2026 Gate B: **5/5 PASS**.  
+Repairs: `கூடி வோம்`, `விரட்டி விட்டோம்`, `முந்தானையால்`.  
+Unresolved: **0**.
 
-- Scan 126: heading, long opening rule and enlarged opening `உ` in the first dialogue line.
-- Scan 130: final sentence and centered ornamental closing rule; final page synchronized to `story-ending`.
-- All four internal joins were checked; explicit continuations 128→129 and 129→130 remain intact.
-- Printed source anomalies such as `உன் தங்கையைத்:தேடிப்` were retained without normalization.
-- Scan 131 independently opens Story 18.
+Printed anomalies such as `தங்கையைத்:தேடிப்`, `தீக்குச்சியைக் கிழித்து` and `குணாளர்` remain source-confirmed.
 
-**Story wording changed: No.**
-
-## Result
-
-**PASS — corrected**
+**PASS / CLOSED.**

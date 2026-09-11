@@ -1,46 +1,36 @@
 # பனங்குலை
 
-Canonical story workspace for **பனங்குலை**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical Story 17 workspace from the 1977 first edition of **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
-- Author: **கலைஞர் மு. கருணாநிதி**
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
-- Printed pages: **117–121**
-- PDF scans: **126–130**
-- Source PDF committed to GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- printed pages: **117–121**
+- scans: **126–130**
+- source PDF committed: **No**
 
-## Tamil archival status
+## 2026 status
 
-**PASS — 5 / 5 story pages transcribed and directly source-reviewed.**
+**CURRENT PASS / CLOSED**
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).  
-Reading layer: [`sections/panangulai.md`](sections/panangulai.md).
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **3**
+- unresolved source / glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
 
-## Visual fidelity
+Repairs: scan 126 `கூடிவோம்` → `கூடி வோம்`; `விரட்டிவிட்டோம்` → `விரட்டி விட்டோம்`. Scan 128 `முன்தானையால்` → `முந்தானையால்`.
 
-**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md). Canonical assembly: [`sections/panangulai.md`](sections/panangulai.md).
 
-Opening rule/enlarged `உ`, final `story-ending` role and closing ornament are recorded. Source anomalies including `உன் தங்கையைத்:தேடிப்` are retained. **Story wording changed: No.**
+Existing English remains semantically synchronized; **English prose rewrite required: 0**.
 
-## Story boundary
+## Boundary
 
-Scan 126 opens this story; scan 130 ends it; scan 131 independently opens `செத்தவள் கதை` and is excluded.
+- scan 126 opens `பனங்குலை`;
+- scan 130 closes the story with the narrator sentence and ornament;
+- scan 131 independently opens Story 18 `செத்தவள் கதை`.
 
-## English translation
+## Next
 
-**PASS — complete.**
-
-- English: [`translations/en/panangulai.md`](translations/en/panangulai.md)
-- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- all **5 / 5** source-page markers represented
-- physical continuations **128→129** and **129→130** remain traceable
-- `பனை நுங்கு`, `பனங் குலைகள்`, `புறம்போக்கு`, and source-anomalous `உன் தங்கையைத்:தேடிப்` handled conservatively
-- the false father/brother-sister deception, Kamalam and Velan endings, and final narrator sentence remain complete
-- canonical Tamil changed during translation: **No**
-
-## Completion state
-
-**பனங்குலை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 126–130 / printed pages 117–121.**
+Story 18 **செத்தவள் கதை** — scans **131–139 / printed 122–130**. Use scan **140** only as the boundary witness opening `பிரேத விசாரணை`.
