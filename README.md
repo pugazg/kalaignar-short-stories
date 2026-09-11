@@ -33,10 +33,10 @@ Permanent guides:
 | [`சந்தனக்கிண்ணம்`](stories/santhana-kinnam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 3 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **2026 dual-gate CURRENT PASS — Gate A 12/12 + Gate B 12/12; 6 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 2 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`தாய்மை`](stories/thaaymai/README.md) | **11 / 11 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **8 / 8 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`தப்பவில்லை`](stories/thappavillai/README.md) | **10 / 10 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
-| [`ஆதரிக்கிறார்`](stories/aatharikkirar/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`தாய்மை`](stories/thaaymai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved** | **PASS — synchronized** |
+| [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved** | **PASS — synchronized** |
+| [`தப்பவில்லை`](stories/thappavillai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved** | **PASS — synchronized** |
+| [`ஆதரிக்கிறார்`](stories/aatharikkirar/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`இரகசியம்!`](stories/iragasiyam/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`ஏழை`](stories/ezhai/README.md) | **4 / 4 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -296,9 +296,9 @@ Source registration state:
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
 - legacy Tamil source processing: **37 / 37 complete**
-- 2026 dual-gate source re-audit: **OPEN — 11 / 37 CURRENT PASS**
-- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`**
-- exact next story: **`ஆதரிக்கிறார்`, scans 102–107 / printed 93–98**
+- 2026 dual-gate source re-audit: **OPEN — 12 / 37 CURRENT PASS**
+- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`**
+- exact next story: **`இரகசியம்!`, scans 108–111 / printed 99–102**
 - English translation complete from anthology: **37 / 37**; affected English is synchronized when a 2026 source repair changes meaning
 
 Exact source metadata, inventory, scan map and current dual-gate tracker are under the collection workspace.
@@ -316,7 +316,7 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 9. **தாய்மை** — printed **64–74**, scans **73–83** — **2026 CURRENT PASS: Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved**.
 10. **தப்பிவிட்டார்கள்** — printed **75–82**, scans **84–91** — **2026 CURRENT PASS: Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved**.
 11. **தப்பவில்லை** — printed **83–92**, scans **92–101** — **2026 CURRENT PASS: Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved**.
-12. **ஆதரிக்கிறார்** — printed **93–98**, scans **102–107**, **6/6 verified**, audit PASS.
+12. **ஆதரிக்கிறார்** — printed **93–98**, scans **102–107** — **2026 CURRENT PASS: Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved**.
 13. **இரகசியம்!** — printed **99–102**, scans **108–111**, **4/4 verified**, audit PASS.
 14. **முந்நூறு ரூபாய்** — printed **103–105**, scans **112–114**, **3/3 verified**, audit PASS.
 15. **ஏழை** — printed **106–109**, scans **115–118**, **4/4 verified**, audit PASS.
@@ -343,7 +343,7 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **11 / 37 CURRENT PASS, 26 pending**, with `ஆதரிக்கிறார்` next.
+All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **12 / 37 CURRENT PASS, 25 pending**, with `இரகசியம்!` next.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -367,9 +367,9 @@ Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
 ## Anthology Tamil source pass status
 
-**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 11 / 37 CURRENT PASS.**
+**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 12 / 37 CURRENT PASS.**
 
-The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `ஆதரிக்கிறார்`, scans **102–107 / printed pages 93–98**.
+The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `இரகசியம்!`, scans **108–111 / printed pages 99–102**.
 
 ## Anthology English translation status
 
@@ -377,7 +377,7 @@ The legacy source layer remains complete through scan **259 / printed page 250**
 
 - Stories **1–37**: English layers exist and were previously reviewed;
 - any English materially affected by a 2026 Tamil repair is resynchronized during that story's dual-gate closure;
-- `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, and `தப்பவில்லை` English are synchronized to their current 2026 Tamil;
+- `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, and `ஆதரிக்கிறார்` English are synchronized to their current 2026 Tamil;
 - final English story boundary: scan **259 / printed page 250**;
 - scan **260** remains the verified anthology back cover;
 - translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md);

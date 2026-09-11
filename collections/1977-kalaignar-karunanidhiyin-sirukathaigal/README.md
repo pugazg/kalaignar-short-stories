@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 11 / 37 CURRENT PASS.**
+**OPEN — 12 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -46,24 +46,28 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**.
 - `தாய்மை` — scans **73–83** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **42 repairs / 0 unresolved**; English resynchronized.
 - `தப்பிவிட்டார்கள்` — scans **84–91** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **12 repairs / 0 unresolved**; English prose rewrite 0.
+- `தப்பவில்லை` — scans **92–101** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
+- `ஆதரிக்கிறார்` — scans **102–107** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 repairs / 0 unresolved**; English resynchronized for `தலைவனாக`.
 
-Do not reopen these eleven stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twelve stories from stale prompts unless genuinely new direct source evidence appears.
 
-### `தப்பவில்லை` closure
+### `ஆதரிக்கிறார்` closure
 
-- scans **92–101 / printed 83–92**;
-- Gate A **10/10 PASS**;
-- Gate B **10/10 PASS**;
-- **1 repair / 0 unresolved**;
-- scan 95: `கட்டிப் போடணும்னு` → `கட்டிப் போட்டணும்னு`;
-- English prose rewrite required: **0**;
-- scan 102 independently opens `ஆதரிக்கிறார்`.
+- scans **102–107 / printed 93–98**;
+- Gate A **6/6 PASS**;
+- Gate B **6/6 PASS**;
+- **2 new repairs / 0 unresolved**;
+- scan 105: `பெயர்மட்டுந்தானு` → `பெயர்மட்டுந்தானா` — historical `னா`;
+- scan 107: `தலைவனுக` → `தலைவனாக` — historical `னா`;
+- scan 102 `பெறவிட்டாலும்` independently retained source-close;
+- English changed one phrase to `municipal chairman`;
+- scan 108 independently opens `இரகசியம்!`.
 
 ## Exact next activity
 
-Story 12 **`ஆதரிக்கிறார்`** — scans **102–107 / printed pages 93–98** — **NEXT**.
+Story 13 **`இரகசியம்!`** — scans **108–111 / printed pages 99–102** — **NEXT**.
 
-Complete Gate A **6/6** and independent Gate B **6/6**. Use scan **108** only as the boundary witness opening `இரகசியம்!`. Advance to **12/37** only with zero unresolved; stop before Story 13.
+Complete Gate A **4/4** and independent Gate B **4/4**. Use scan **112** only as the boundary witness opening `முந்நூறு ரூபாய்`. Advance to **13/37** only with zero unresolved; stop before Story 14.
 
 
 ## Legacy processing state
