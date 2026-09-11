@@ -32,7 +32,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 19 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 20 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -55,18 +55,19 @@ Current tracker state: **OPEN — 19 / 37 dual-gate complete**.
 - `பனங்குலை` — scans **126–130** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
 - `செத்தவள் கதை` — scans **131–139** — Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `பிரேத விசாரணை` — scans **140–145** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
+- `கண்டதும் காதல் ஒழிக!` — scans **146–150** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these nineteen stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 20 `கண்டதும் காதல் ஒழிக!`
+## Exact next activity — Story 21 `ஆலமரத்துப் புறாக்கள்`
 
-Workspace: `stories/kandathum-kadhal-ozhiga/`.
+Workspace: `stories/aalamarathup-puraakkal/`.
 
-- scans **146–150 / printed 137–141**
+- scans **151–155 / printed 142–146**
 - canonical pages **5/5**
-- scan **151** is the boundary witness opening Story 21 `ஆலமரத்துப் புறாக்கள்`
+- scan **156** is the boundary witness opening Story 22 `தொத்துக்கிளி`
 
-Complete Gate A **5/5** and independent Gate B **5/5**; correct only source-proven mismatches; synchronize controls/affected English; advance **19/37 → 20/37** only with zero unresolved; stop before Story 21.
+Complete Gate A **5/5** and independent Gate B **5/5**; correct only source-proven mismatches; synchronize controls/affected English; advance **20/37 → 21/37** only with zero unresolved; stop before Story 22.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

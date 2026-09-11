@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `கண்டதும் காதல் ஒழிக!` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `ஆலமரத்துப் புறாக்கள்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,27 +8,27 @@ This remains **comparison repair, not retranscription**. Source pixels govern; p
 
 ## Durable state
 
-Collection tracker: **OPEN — 19 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 20 / 37 dual-gate complete**.
 
-Stories **1–19 are CLOSED**. Most recent: `பிரேத விசாரணை`, scans **140–145 / printed 131–136** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **1 repair / 0 unresolved**. Scan 145 `சகுனத்தடை` → `சகுனத் தடை`; English rewrite 0. Scan 146 independently opens Story 20 `கண்டதும் காதல் ஒழிக!`.
+Stories **1–20 are CLOSED**. Most recent: `கண்டதும் காதல் ஒழிக!`, scans **146–150 / printed 137–141** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; all queue candidates source-reconfirmed; English rewrite 0. Scan 151 independently opens Story 21 `ஆலமரத்துப் புறாக்கள்`.
 
-Do not reopen Stories 1–19 unless genuinely new direct source evidence appears.
+Do not reopen Stories 1–20 unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
-Read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, this prompt, collection README / RE_AUDIT / OLD_TAMIL_GLYPH_REAUDIT_GATE / inventory / scan-map, and all controls/page records/assembly/audit/possible-error files under `stories/kandathum-kadhal-ozhiga/`.
+Read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, this prompt, collection README / RE_AUDIT / OLD_TAMIL_GLYPH_REAUDIT_GATE / inventory / scan-map, and all controls/page records/assembly/audit/possible-error files under `stories/aalamarathup-puraakkal/`.
 
-## Exact next activity — `கண்டதும் காதல் ஒழிக!`
+## Exact next activity — `ஆலமரத்துப் புறாக்கள்`
 
-- workspace: `stories/kandathum-kadhal-ozhiga/`
-- scans: **146–150**
-- printed pages: **137–141**
+- workspace: `stories/aalamarathup-puraakkal/`
+- scans: **151–155**
+- printed pages: **142–146**
 - canonical pages: **5/5**
-- scan **151** is boundary witness opening Story 21 `ஆலமரத்துப் புறாக்கள்`
+- scan **156** is boundary witness opening Story 22 `தொத்துக்கிளி`
 
-Gate A: compare all five page records and assembly directly against scans 146–150.  
+Gate A: compare all five page records and assembly directly against scans 151–155.  
 Gate B: independently reopen all five scans at native/high resolution and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other historical ambiguities.
 
-If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update durable Gate A/B record; advance **19/37 → 20/37** only with Gate A 5/5 + Gate B 5/5 + 0 unresolved; update collection/root controls; commit/re-fetch; stop.
+If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update durable Gate A/B record; advance **20/37 → 21/37** only with Gate A 5/5 + Gate B 5/5 + 0 unresolved; update collection/root controls; commit/re-fetch; stop.
 
-Do **not** begin Story 21 `ஆலமரத்துப் புறாக்கள்` in the same activity.
+Do **not** begin Story 22 `தொத்துக்கிளி` in the same activity.

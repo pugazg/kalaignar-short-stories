@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 19 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 20 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -125,8 +125,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 17 | `பனங்குலை` | 126–130 | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 18 | `செத்தவள் கதை` | 131–139 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 19 | `பிரேத விசாரணை` | 140–145 | **CURRENT PASS — 1 repair / 0 unresolved** |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | **NEXT — REOPENED** |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | REOPENED / pending |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **NEXT — REOPENED** |
 | 22 | `தொத்துக்கிளி` | 156–160 | REOPENED / pending |
 | 23 | `காதல் கடிதம்` | 161–165 | REOPENED / pending |
 | 24 | `கண்ணடக்கம்` | 166–172 | REOPENED / pending |
@@ -263,6 +263,17 @@ Full story record: `../../stories/seththaval-kathai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/pretha-visaranai/RE_AUDIT_2026.md`.
 
+### `கண்டதும் காதல் ஒழிக!` closure
+
+- scans **146–150 / printed 137–141**
+- Gate A **5/5 PASS**
+- Gate B **5/5 PASS**
+- **0 new repairs / 0 unresolved**
+- English prose rewrite required: **0**
+- scan 151 opens Story 21 `ஆலமரத்துப் புறாக்கள்`
+
+Full story record: `../../stories/kandathum-kadhal-ozhiga/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 20 `கண்டதும் காதல் ஒழிக!`, scans **146–150 / printed 137–141**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **151** only as the `ஆலமரத்துப் புறாக்கள்` boundary witness; advance **19/37 → 20/37** only with zero unresolved; stop before Story 21.
+Re-audit Story 21 `ஆலமரத்துப் புறாக்கள்`, scans **151–155 / printed 142–146**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **156** only as the `தொத்துக்கிளி` boundary witness; advance **20/37 → 21/37** only with zero unresolved; stop before Story 22.

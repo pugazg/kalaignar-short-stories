@@ -1,29 +1,11 @@
 # பக்க வரைபடம் — கண்டதும் காதல் ஒழிக!
 
-Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-
-| Scan | Printed page | Section | Status | File |
+| Scan | Printed | Role | Status | File |
 |---:|---:|---|---|---|
-| 146 | 137 | story opening | verified | `../pages/0146-kandathum-kadhal-ozhiga-01.md` |
-| 147 | 138 | story body | verified | `../pages/0147-kandathum-kadhal-ozhiga-02.md` |
-| 148 | 139 | story body | verified | `../pages/0148-kandathum-kadhal-ozhiga-03.md` |
-| 149 | 140 | story body | verified | `../pages/0149-kandathum-kadhal-ozhiga-04.md` |
-| 150 | 141 | story ending | verified | `../pages/0150-kandathum-kadhal-ozhiga-05.md` |
+| 146 | 137 | opening | verified | `../pages/0146-kandathum-kadhal-ozhiga-01.md` |
+| 147 | 138 | body | verified | `../pages/0147-kandathum-kadhal-ozhiga-02.md` |
+| 148 | 139 | body | verified | `../pages/0148-kandathum-kadhal-ozhiga-03.md` |
+| 149 | 140 | body | verified | `../pages/0149-kandathum-kadhal-ozhiga-04.md` |
+| 150 | 141 | ending | verified | `../pages/0150-kandathum-kadhal-ozhiga-05.md` |
 
-## Visual-fidelity notes
-
-- scan 146: long opening rule recorded;
-- scan 148: source-bold `“அன்பே! சீதா! அருகில் வா!”` represented;
-- scan 149: source-bold `“ராமாயணம்”` represented;
-- scan 150: closing ornament recorded; lower-margin brown mark excluded as non-story material;
-- all four internal joins and scan 150→151 boundary checked.
-
-## Status
-
-- page records: **5 / 5**
-- `verified`: **5**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved / missing story text: **0**
-
-Scan **151** begins Story 21, `ஆலமரத்துப் புறாக்கள்`, and is outside this story range.
+2026: Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**. All four internal continuations are verified. Scan 151 independently opens `ஆலமரத்துப் புறாக்கள்`.
