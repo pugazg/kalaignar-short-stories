@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 16 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 17 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -122,8 +122,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 14 | `முந்நூறு ரூபாய்` | 112–114 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 15 | `ஏழை` | 115–118 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | **CURRENT PASS — 1 repair / 0 unresolved** |
-| 17 | `பனங்குலை` | 126–130 | **NEXT — REOPENED** |
-| 18 | `செத்தவள் கதை` | 131–139 | REOPENED / pending |
+| 17 | `பனங்குலை` | 126–130 | **CURRENT PASS — 3 repairs / 0 unresolved** |
+| 18 | `செத்தவள் கதை` | 131–139 | **NEXT — REOPENED** |
 | 19 | `பிரேத விசாரணை` | 140–145 | REOPENED / pending |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | REOPENED / pending |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | REOPENED / pending |
@@ -227,6 +227,19 @@ Full story record: `../../stories/ezhai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/originalil-ullapadi/RE_AUDIT_2026.md`.
 
+### `பனங்குலை` closure
+
+- scans **126–130 / printed 117–121**
+- Gate A **5/5 PASS**
+- Gate B **5/5 PASS**
+- **3 source-proven repairs / 0 unresolved**
+- scan 126 `கூடிவோம்` → `கூடி வோம்`; `விரட்டிவிட்டோம்` → `விரட்டி விட்டோம்`
+- scan 128 `முன்தானையால்` → `முந்தானையால்`
+- English prose rewrite required: **0**
+- scan 131 opens Story 18 `செத்தவள் கதை`
+
+Full story record: `../../stories/panangulai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 17 `பனங்குலை`, scans **126–130 / printed 117–121**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **131** only as the `செத்தவள் கதை` boundary witness; advance **16/37 → 17/37** only with zero unresolved; stop before Story 18.
+Re-audit Story 18 `செத்தவள் கதை`, scans **131–139 / printed 122–130**. Complete Gate A **9/9** + independent Gate B **9/9**; use scan **140** only as the `பிரேத விசாரணை` boundary witness; advance **17/37 → 18/37** only with zero unresolved; stop before Story 19.
