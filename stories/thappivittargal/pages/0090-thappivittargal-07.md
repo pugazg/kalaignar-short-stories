@@ -27,3 +27,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 <!-- source page furniture: printer signature க—6 excluded from story text -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 90; அச்சுப் பக்கம்: 81 -->
+
+## 2026 dual-gate note
+
+- Gate A/B PASS for scan 90; no repair required.
+- Source-confirmed forms include `கொல்காரன்`, `படுத்துறங்கும்`, `அசட்டுத் தைரியம்`, and `ஆவேசங் கொண்டவளாய்`.
+- Printer signature `க—6` remains excluded as page furniture; the 90→91 continuation is intact.

@@ -1,59 +1,49 @@
 # தமிழ் மூலத் தணிக்கை — தப்பிவிட்டார்கள்
 
-## Audit scope
+## Scope
 
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection: **கலைஞர் கருணாநிதியின் சிறுகதைகள்**, முதல் பதிப்பு 1977
-- Story range: scans **84–91** / printed pages **75–82**
-- Page records: **8 / 8**
-- Source PDF stored in GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- first edition: **1977**
+- scans: **84–91**
+- printed pages: **75–82**
+- canonical page records: **8 / 8**
+- boundary witness: scan **92**, opening `தப்பவில்லை`
 
-## Source-review method
+## 2026 dual-gate result
 
-All eight story scans were directly reviewed from the supplied controlling PDF. Native/high-resolution page images and progressively enlarged complete-span crops were used for difficult Tamil, punctuation, paragraph/display structure and physical page joins. The later visual-fidelity pass rechecked every page against the committed page record and Tamil assembly. No contextual modernization or inferred correction was substituted for visible source text.
+- Gate A — source fidelity: **PASS — 8 / 8**
+- Gate B — independent Old Tamil Glyph verification: **PASS — 8 / 8**
+- source-proven repairs: **12**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
 
-## Page disposition
+Every physical story page was reopened at native/high resolution. Gate B explicitly considered `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus broken/touching type and `ர/ற`, `ன/ண`, `ல/ள` confusions.
 
-| Printed page | Scan | Status | Boundary / key note |
-|---:|---:|---|---|
-| 75 | 84 | verified | story opening `தப்பிவிட்டார்கள்`; opening rule and enlarged `ஊ`; ends `...ஏழு மணிக்கு` |
-| 76 | 85 | verified | begins `இறந்துவிட்டார்!......`; source-close public-reaction dialogue |
-| 77 | 86 | verified | enlarged `லீ` at `லீலா மில்`; ends continuation `...கவலைகளை` |
-| 78 | 87 | verified | begins `யெல்லாம்`; Ramadurai–Thangam office scene |
-| 79 | 88 | verified | assault aftermath; difficult source forms preserved |
-| 80 | 89 | verified | Gurkha confrontation and escape; complete spans retained |
-| 81 | 90 | verified | enlarged `இ`; printer signature `க—6` excluded; ends `கரையில்` |
-| 82 | 91 | verified | completes continuation; `story-ending` and closing ornament |
+## Repairs by page
 
-Totals: **8/8 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
+- scan 84: 0
+- scan 85: 2 — source spacing `பாடு படும்`; `போட்டுக்கூடாது`.
+- scan 86: 0
+- scan 87: 0
+- scan 88: 6 — source dash plus five historical-`னா` repairs.
+- scan 89: 2 — `தேம்பினாள்`, `கூறினான்`; existing `சுற்றினாள்` reconfirmed.
+- scan 90: 0
+- scan 91: 2 — `அலறினாள்`, `காப்பாற்றினாள்`.
 
-## Cross-page audit
+## Structure / boundaries
 
-**PASS**
+- scan 84: story heading, opening rule and enlarged initial confirmed.
+- 84→85: `...ராமதுரை அன்று இரவு ஏழு மணிக்கு` → `இறந்துவிட்டார்!......`.
+- 86→87: `...விட்டலின் பயங்கரக் கவலைகளை` → `யெல்லாம்...`.
+- 90→91: `...சோகத்தை அதிகமாக்கின. கரையில்` → `ஏறிக்கொண்டு...`.
+- scan 90 printer signature `க—6` remains excluded.
+- scan 91: closing ornament confirmed.
+- scan 92: Story 11 `தப்பவில்லை` opening independently confirmed.
 
-1. scans 84→85: `...ராமதுரை அன்று இரவு ஏழு மணிக்கு` → `இறந்துவிட்டார்!......`.
-2. scans 86→87: `...விட்டலின் பயங்கரக் கவலைகளை` → `யெல்லாம் எத்தனையோ முறை...`.
-3. scans 90→91: `...சோகத்தை அதிகமாக்கின. கரையில்` → `ஏறிக்கொண்டு பலங் கொண்ட மட்டும்...`.
+## English
 
-All other page boundaries are between complete source sentences, paragraphs or dialogue turns.
+The 12 Tamil repairs do not require an English prose rewrite: source spacing/punctuation changes and historical-`னா` decoding leave the existing English meanings intact. English prose rewrite count: **0**.
 
-## Story-boundary audit
+## Result
 
-- scan 84 opens `தப்பிவிட்டார்கள்` beneath its own heading and horizontal rule.
-- scan 91 is the story ending and contains the centered closing ornament.
-- scan 92 visibly opens **`தப்பவில்லை`**.
-- Story 11 text included: **No**.
-
-## Visual-fidelity disposition
-
-The visual-fidelity pass recorded the opening rule, enlarged source initials on scans 84, 86 and 90, printer signature `க—6` as excluded page furniture, final `story-ending` role, and the closing ornament. Paragraph/dialogue separation and all physical joins were checked against the native source images.
-
-**No story wording changed during this visual-fidelity review.**
-
-## Difficult-reading / human-review layer
-
-Unusual but legible readings remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; queue status is not proof of error.
-
-## Audit result
-
-**PASS — தப்பிவிட்டார்கள் is fully source-synchronized after visual-fidelity review: 8/8 verified, 0 blocked, 0 unresolved story text.**
+**CURRENT PASS / CLOSED — Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved.**
