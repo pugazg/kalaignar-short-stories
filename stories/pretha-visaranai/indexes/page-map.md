@@ -1,28 +1,12 @@
 # பக்க வரைபடம் — பிரேத விசாரணை
 
-Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-
-| Scan | Printed page | Section | Status | File |
+| Scan | Printed | Role | Status | File |
 |---:|---:|---|---|---|
-| 140 | 131 | story opening | verified | `../pages/0140-pretha-visaranai-01.md` |
-| 141 | 132 | story body | verified | `../pages/0141-pretha-visaranai-02.md` |
-| 142 | 133 | story body | verified | `../pages/0142-pretha-visaranai-03.md` |
-| 143 | 134 | story body | verified | `../pages/0143-pretha-visaranai-04.md` |
-| 144 | 135 | story body | verified | `../pages/0144-pretha-visaranai-05.md` |
-| 145 | 136 | story ending | verified | `../pages/0145-pretha-visaranai-06.md` |
+| 140 | 131 | opening | verified | `../pages/0140-pretha-visaranai-01.md` |
+| 141 | 132 | body | verified | `../pages/0141-pretha-visaranai-02.md` |
+| 142 | 133 | body | verified | `../pages/0142-pretha-visaranai-03.md` |
+| 143 | 134 | body | verified | `../pages/0143-pretha-visaranai-04.md` |
+| 144 | 135 | body | verified | `../pages/0144-pretha-visaranai-05.md` |
+| 145 | 136 | ending | verified | `../pages/0145-pretha-visaranai-06.md` |
 
-## Visual-fidelity notes
-
-- scan 140: long opening rule and enlarged opening `ட` recorded;
-- scan 145: centered closing ornament recorded;
-- all five internal joins and scan 145→146 boundary checked.
-
-## Status
-
-- page records: **6 / 6**
-- `verified`: **6**
-- `needs-review`: **0**
-- `blocked`: **0**
-- unresolved / missing story text: **0**
-
-Scan **146** begins Story 20, `கண்டதும் காதல் ஒழிக!`, and is outside this story range.
+2026: Gate A **6/6 PASS**, Gate B **6/6 PASS**, **1 repair / 0 unresolved**. Explicit continuations 140→141 and 142→143 are verified; all remaining internal boundaries were directly checked. Scan 146 independently opens `கண்டதும் காதல் ஒழிக!`.
