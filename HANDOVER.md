@@ -32,7 +32,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 8 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 9 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -43,34 +43,34 @@ Current tracker state: **OPEN — 8 / 37 dual-gate complete**.
 - `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **4 repairs / 0 unresolved**; historical-`னா` regression `போதுதானு` → `போதுதானா`.
 - `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A/B PASS; **3 repairs / 0 unresolved**.
 - `சங்கிலிச்சாமி` — scans **57–68** — Gate A/B PASS; **6 repairs / 0 unresolved**.
-- `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**. Repairs: `காள மாடு` → `காளை மாடு` (historical `ளை`); `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` (historical `றா`). Existing English already expressed both corrected meanings; prose rewrite **0**.
+- `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**.
+- `தாய்மை` — scans **73–83** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **42 repairs / 0 unresolved**; English resynchronized.
 
-Do not reopen these eight stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these nine stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 9 `தாய்மை`
+## Exact next activity — Story 10 `தப்பிவிட்டார்கள்`
 
-Workspace: `stories/thaaymai/`.
+Workspace: `stories/thappivittargal/`.
 
 Source range:
 
-- physical scans: **73–83**
-- printed pages: **64–74**
-- legacy canonical page records: **11 / 11**
-- scan **84** is the boundary witness opening Story 10 `தப்பிவிட்டார்கள்`
+- physical scans: **84–91**
+- printed pages: **75–82**
+- legacy canonical page records: **8 / 8**
+- scan **92** is the boundary witness opening Story 11 `தப்பவில்லை`
 
 Complete both gates in one story-bounded activity:
 
 1. fetch live `main` and preserve newer durable work;
-2. read source-processing / historical-glyph guides, collection controls, and all Story 9 controls/page records/assembly/audit/possible-error files;
-3. Gate A — compare all 11 canonical records and assembled Tamil directly against scans 73–83;
-4. Gate B — independently reopen all 11 physical pages at high/native resolution and check all mandatory historical families;
+2. read source-processing / historical-glyph guides, collection controls, and all Story 10 controls/page records/assembly/audit/possible-error files;
+3. Gate A — compare all 8 canonical records and assembled Tamil directly against scans 84–91;
+4. Gate B — independently reopen all 8 physical pages at high/native resolution and check all mandatory historical families;
 5. correct only source-proven mismatches individually; no retranscription, global replacement or modernization;
 6. synchronize assembly, audit / possible-error / historical-glyph records and existing English only where meaning changes;
-7. mark PASS only with Gate A 11/11 + Gate B 11/11 + 0 unresolved;
-8. if PASS, advance tracker **8/37 → 9/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
+7. mark PASS only with Gate A 8/8 + Gate B 8/8 + 0 unresolved;
+8. if PASS, advance tracker **9/37 → 10/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
 
-Do **not** begin Story 10 `தப்பிவிட்டார்கள்` in the same activity.
-
+Do **not** begin Story 11 `தப்பவில்லை` in the same activity.
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
 Source: `TVA_BOK_0065574_நளாயினி_1976.pdf`, fourth edition 1976, 78 scans, 164,748,566 bytes, SHA-256 `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.

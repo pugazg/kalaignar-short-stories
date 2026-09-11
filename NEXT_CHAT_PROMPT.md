@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `தாய்மை` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `தப்பிவிட்டார்கள்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -29,16 +29,15 @@ This is **comparison repair, not retranscription**.
 
 ## Durable state
 
-Collection tracker: **OPEN — 8 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 9 / 37 dual-gate complete**.
 
-Closed under the 2026 standard: Stories **1–8**. Most recent closure:
+Closed under the 2026 standard: Stories **1–9**. Most recent closure:
 
-- `கங்கையின் காதல்` — scans **69–72 / printed 60–63** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**:
-  - scan 69 `காள மாடு` → `காளை மாடு` — historical `ளை`;
-  - scan 72 `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` — historical `றா`;
-  - existing English already expressed both corrected meanings; prose rewrite 0.
+- `தாய்மை` — scans **73–83 / printed 64–74** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **42 repairs / 0 unresolved**;
+- English is synchronized to the corrected Tamil;
+- scan 84 was used only as the boundary witness and opens Story 10 `தப்பிவிட்டார்கள்`.
 
-Do not reopen Stories 1–8 unless genuinely new direct source evidence appears.
+Do not reopen Stories 1–9 unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
@@ -53,41 +52,41 @@ Read completely before source-dependent changes:
 7. collection `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
 8. collection `indexes/story-inventory.md`
 9. collection `indexes/scan-map.md`
-10. all controls / page records / assembly / audit / possible-error files under `stories/thaaymai/`
+10. all controls / page records / assembly / audit / possible-error files under `stories/thappivittargal/`
 
-## Exact next activity — `தாய்மை`
+## Exact next activity — `தப்பிவிட்டார்கள்`
 
-Workspace: `stories/thaaymai/`.
+Workspace: `stories/thappivittargal/`.
 
 Source range:
 
-- physical scans: **73–83**
-- printed pages: **64–74**
-- existing canonical pages: **11 / 11**
-- scan **84** is the boundary witness opening Story 10 `தப்பிவிட்டார்கள்`
+- physical scans: **84–91**
+- printed pages: **75–82**
+- existing canonical pages: **8 / 8**
+- scan **92** is the boundary witness opening Story 11 `தப்பவில்லை`
 
 ### Gate A — source fidelity
 
-Compare all eleven existing canonical page records and the assembled Tamil directly against scans **73–83**. Check wrong/omitted/duplicated words, character forms, punctuation and meaningful spacing, paragraphing, physical page continuations, heading/separators/ornaments/note layers, and every existing possible-error candidate.
+Compare all eight existing canonical page records and the assembled Tamil directly against scans **84–91**. Check wrong/omitted/duplicated words, character forms, punctuation and meaningful spacing, paragraphing, physical page continuations, heading/separators/ornaments/note layers, and every existing possible-error candidate.
 
 ### Gate B — independent Old Tamil Glyph verification
 
-Independently reopen every scan **73–83** at native/high resolution and explicitly consider:
+Independently reopen every scan **84–91** at native/high resolution and explicitly consider:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Also remain alert for old ligatures, faint vowel marks, broken/touching type and `ர/ற`, `ன/ண`, `ல/ள` confusions. Story 7 and Story 8 proved that apparent modern-shape forms can conceal historical `னா / றா / ளை`; adjudicate by source pixels and same-edition comparison, not grammar.
+Also remain alert for old ligatures, faint vowel marks, broken/touching type and `ர/ற`, `ன/ண`, `ல/ள` confusions. Adjudicate by source pixels and same-edition comparison, not grammar.
 
 ## Closure requirements
 
-If all eleven pages settle:
+If all eight pages settle:
 
 1. apply all source-proven corrections individually;
 2. synchronize assembled Tamil and story controls;
 3. update existing English only where corrected Tamil materially changes meaning;
 4. create/update the durable 2026 Gate A/B record;
-5. advance collection tracker **8/37 → 9/37** only with Gate A 11/11 + Gate B 11/11 + 0 unresolved;
+5. advance collection tracker **9/37 → 10/37** only with Gate A 8/8 + Gate B 8/8 + 0 unresolved;
 6. synchronize inventory, scan map, collection README, root HANDOVER / README / NEXT prompt;
 7. commit, re-fetch live `main`, stop/report.
 
-Do **not** begin Story 10 `தப்பிவிட்டார்கள்` in the same activity.
+Do **not** begin Story 11 `தப்பவில்லை` in the same activity.
