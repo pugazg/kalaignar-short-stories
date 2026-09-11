@@ -1,82 +1,42 @@
 # தாய்மை
 
-Canonical story workspace for **தாய்மை**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical Story 9 workspace for **தாய்மை**, from the 1977 first edition of **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
-- Author: **கலைஞர் மு. கருணாநிதி**
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
-- Printed pages: **64–74**
-- PDF scans: **73–83**
-- Source PDF committed to GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- printed pages: **64–74**
+- physical scans: **73–83**
+- source PDF committed: **No**
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
+## 2026 archival status
 
-## Tamil archival status
+**CURRENT PASS / CLOSED**
 
-**PASS — 11 / 11 story pages transcribed and directly source-reviewed.**
+- page records: **11 / 11 verified**
+- Gate A — source fidelity: **11 / 11 PASS**
+- Gate B — Old Tamil Glyph: **11 / 11 PASS**
+- source-proven repairs: **42**
+- unresolved source / glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
 
-- page records: **11 / 11**
-- `verified`: **11**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing / unresolved story text: **0**
-
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+Durable re-audit ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
 ## Reading layer
 
-Final current Tamil assembly: [`sections/thaaymai.md`](sections/thaaymai.md).
+Final Tamil assembly: [`sections/thaaymai.md`](sections/thaaymai.md). All eleven scan boundaries are preserved.
 
-The assembly preserves all eleven anthology scan boundaries. Scan 84, which opens `தப்பிவிட்டார்கள்`, is excluded.
+## Boundary
 
-## Visual fidelity
-
-**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
-
-The visual-fidelity pass directly inspected scans **73–83** plus boundary witness scan **84**. It recorded the source opening rule/enlarged initial, source-bold warning line, final `story-ending` role and closing ornament, and it reopened several complete source spans where the page image exposed earlier textual omissions or misreadings. All source-supported corrections were synchronized into page records, assembly, audit and review queue.
-
-## Human possible-error review
-
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual or easily misread source forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
-
-Pending source-close rechecks still include `சுழற் கண்ணியின்`, `மல்லிகர்த்தவரை`, `திட்டசனயமிக்க`, `முள்ளு மொக்கு`, `சாவஜாக்கிரதையாகச்`, `முத்தப்போதையிலே`, `கரடித் திருமனியன்`, `பல கனிப் பார்வையாளர்`, `மாயமாலத்தில்`, `மறைந்து திருக்கிறது`, `மொண்டு மொண்டு`, `தணலிவிட்ட புழுவாயிற்று`, and `படந்தாக்கி`.
-
-Two especially difficult spans previously resolved by enlarged native-source inspection remain confirmed: scan 76 `...அவள் மடியில் சாய்ந்தான்—பிடியில் சிக்கினான்.` and scan 81 `வயிற்றிலே கிடந்த வைடூரியம்! அதை விஷத்தால் குளிப்பாட்டி வேகவைக்க எதிரே மரணத்தின் மயக்கம் நிறைந்த சதிராட்டம்!`.
-
-## Verified physical continuations
-
-- printed 65→66 / scans 74→75: `...சித்திக்கும் யோசனைகளைத் தரவும்` → `நான் தயங்கமாட்டேன்.`
-- printed 69→70 / scans 78→79: `...தெரியாதவள்போல` → `அவள், “ஏது இந்தக் குழல் வாத்தியம்?”...`
-- printed 71→72 / scans 80→81: `...அந்த அழகுப் பிறை நிலவு,` → `சின்னம்மா கற்றுத்தந்த பண்ணை விடாமல் ஊதிக்கொண்டே இருந்தது.`
-
-Other scan boundaries occur between complete sentences, paragraphs or dialogue turns.
-
-## Story boundary
-
-- scan **73**: heading `தாய்மை`, Story 9 opening confirmed beneath a long horizontal rule;
-- scan **83**: `story-ending` with centered closing ornament;
-- scan **84**: heading `தப்பிவிட்டார்கள்`, Story 10 opening confirmed beneath its own horizontal rule;
+- scan 73 opens `தாய்மை`.
+- scan 83 closes the story with its ornamental rule.
+- scan 84 independently opens Story 10 `தப்பிவிட்டார்கள்`.
 - Story 10 text included here: **No**.
 
-## Translation
+## English
 
-**PASS — English translation complete.**
+English translation: [`translations/en/thaaymai.md`](translations/en/thaaymai.md). It has been resynchronized to the 2026-corrected Tamil, including `தீட்சணயன்`, the scan-77 restored paragraph, `ஆயிரந்தேர்`, and the bear-body/bear-hunger image.
 
-- English: [`translations/en/thaaymai.md`](translations/en/thaaymai.md)
-- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- source-page markers represented: **11 / 11**
-- source-bold scan-82 warning preserved semantically: **Yes**
-- canonical Tamil changed during translation: **No**
+## Next anthology activity
 
-The English follows the current verified Tamil assembly, including source-supported visual-fidelity corrections and conservative handling of unresolved human-review queue forms.
-
-## Completion state
-
-**தாய்மை Tamil archival source processing, visual-fidelity review and English translation: COMPLETE for scans 73–83 / printed pages 64–74.**
-
-## Next English activity
-
-Story 10 — **தப்பிவிட்டார்கள்**, printed pages **75–82**, anthology scans **84–91**.
+Story 10 **தப்பிவிட்டார்கள்** — scans **84–91 / printed 75–82** — is next for the 2026 dual-gate re-audit. Do not reopen `தாய்மை` without genuinely new direct source evidence.

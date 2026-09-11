@@ -18,12 +18,12 @@
 
 “Brother-in-law! Only by standing behind your protection can I fulfil the purpose of my life. Why are you silent—speak! Are you angry because I asked you to stand away and speak? I was only afraid that it was nearly time for the king to come. Here...I shall open those rough lips of yours, shut tight, with my rose petals... ‘Kiss!... Kiss!’ Is that enough? The long feast another day! Brother-in-law! Suzhar-kanni as queen of Sundarapuri—and this land belonging to her child—will such a fine future arise? Will a plan for it dawn right now in that theetchanayam-filled brain of yours?”
 
-“Do not worry, Suzhar-kanni! When this thittasanayan is here, can there be any shortage of schemes? Just as you gave me sweet kisses, I will not hesitate to give you schemes that will succeed—
+“Do not worry, Suzhar-kanni! When this Theetchanayan is here, can there be any shortage of schemes? Just as you gave me sweet kisses, I will not hesitate to give you schemes that will succeed—
 
 <!-- source page furniture: printer signature க—5 excluded from story text -->
 <!-- source scan 75; printed page 66 -->
 
-I once gave you the rare counsel that made you the king’s younger queen—have you forgotten? In the same way I shall find the proper means to pluck Prince Inbasagaran out of the thicket of life. Inbasagaran is a tender bud! If I wished, I could crush that bud even with my fingers and throw it away! But the bud grows in the palace garden. This is no unfenced field; the thorn-bud belongs to the king’s house! The conspiracy must be carried out with the utmost caution. The prince must die. But it must not appear that we killed him—it must not even be reported that he was murdered. The country, the ruler, and the king himself must believe that he died naturally. I shall tell you the way!”
+I once gave you the rare counsel that made you the king’s younger queen—have you forgotten? In the same way I shall find the proper means to pluck Prince Inbasagaran out of the thicket of life. Inbasagaran is a tender bud! If I wished, I could crush that bud even with my fingers and throw it away! But the bud grows in the palace garden. This is no unfenced field; the thorny bud belongs to the king’s house! The conspiracy must be carried out with the utmost caution. The prince must die. But it must not appear that we killed him—it must not even be reported that he was murdered. The country, the ruler, and the king himself must believe that he died naturally. I shall tell you the way!”
 
 “Tell me quickly, brother-in-law!”
 
@@ -59,7 +59,7 @@ Suzhar-kanni nodded as though agreeing with him and scattered a smile. Theetchan
 
 The king came. As if to prove that everything she had told Theetchanayan was true, he leaned into her lap—and fell into her grasp.
 
-Suzhar-kanni was the younger queen of the king of Sundarapuri. Theetchanayan was her brother-in-law, a distant relation. He had a post in the palace as a bodyguard. He had two duties in turn: to guard the king’s body—and, whenever there was leisure and opportunity, to lie embracing Suzhar-kanni’s body! Would fruit-nectar taste bitter to drink? And he was a karadi thirumeniyan besides! Suzhar-kanni was like a honeycomb, coming to him of her own accord, again and again. One need not even imagine bending a branch and pouring out its honey to satisfy a bear’s hunger. In the Sundarapuri palace, this had become an everyday event. The green-parrot-like woman clung to his rock-hard, rough chest.
+Suzhar-kanni was the younger queen of the king of Sundarapuri. Theetchanayan was her brother-in-law, a distant relation. He had a post in the palace as a bodyguard. He had two duties in turn: to guard the king’s body—and, whenever there was leisure and opportunity, to lie embracing Suzhar-kanni’s body! Would fruit-nectar taste bitter to drink? And he was a bear-bodied man besides! Suzhar-kanni was like a honeycomb, coming to him of her own accord, again and again. One need not even imagine bending a branch and pouring out its honey to satisfy a bear’s hunger. In the Sundarapuri palace, this had become an everyday event. The green-parrot-like woman clung to his rock-hard, rough chest.
 
 He himself would sing in a ripened voice, “My sweet one who delights my desire! My ambrosia that gives sweetness!” Behind the curtain, while this shameful injustice went on, the king of kings, unaware even of its trace, would gaze at her and string garlands of praise: “Noble one! Exalted one! Pleasure-giver! Urvashi!”
 
@@ -77,9 +77,9 @@ The king meanwhile lay with the younger woman—new to him too—drinking from h
 
 As the moon relieves the darkness of a world after the sun has vanished, Inbasagaran shone like a diamond that dispelled the sorrow-clouded life of Kopperunthevi.
 
-Is there not a joy in looking through a window at the full moon in the distance and savouring it? In the same way, though she could not keep the king near and show him affection, Kopperunthevi worshipped him from afar.
+Is there not a joy in looking through a lattice window at the full moon in the distance and savouring it? In the same way, though the king could not keep her near and show her affection, Kopperunthevi worshipped him from afar.
 
-The moon at least rains light upon someone looking through the window; even that was denied to that ‘unfortunate woman’!
+The moon at least rains light upon one who watches through the lattice; even that was denied to that ‘unfortunate woman’!
 
 Inbasagaran alone became her source of consolation. Suzhar-kanni was yearning to bury even that treasure beneath the earth. Theetchanayan had already prepared the plan for it.
 
