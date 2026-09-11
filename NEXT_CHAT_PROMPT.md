@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `செத்தவள் கதை` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `பிரேத விசாரணை` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,34 +8,27 @@ This remains **comparison repair, not retranscription**. Source pixels govern; p
 
 ## Durable state
 
-Collection tracker: **OPEN — 17 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 18 / 37 dual-gate complete**.
 
-Stories **1–17 are CLOSED**. Most recent: `பனங்குலை`, scans **126–130 / printed 117–121** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **3 repairs / 0 unresolved**.
+Stories **1–18 are CLOSED**. Most recent: `செத்தவள் கதை`, scans **131–139 / printed 122–130** — Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**; all legacy queue items source-reconfirmed; English rewrite 0. Scan 140 independently opens Story 19 `பிரேத விசாரணை`.
 
-Repairs:
-- scan 126: `கூடிவோம்` → `கூடி வோம்`
-- scan 126: `விரட்டிவிட்டோம்` → `விரட்டி விட்டோம்`
-- scan 128: `முன்தானையால்` → `முந்தானையால்`
-
-English prose rewrite required: **0**. Scan 131 independently opens Story 18 `செத்தவள் கதை`.
-
-Do not reopen Stories 1–17 unless genuinely new direct source evidence appears.
+Do not reopen Stories 1–18 unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
-Read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, this prompt, collection README / RE_AUDIT / OLD_TAMIL_GLYPH_REAUDIT_GATE / inventory / scan-map, and all controls/page records/assembly/audit/possible-error files under `stories/seththaval-kathai/`.
+Read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, this prompt, collection README / RE_AUDIT / OLD_TAMIL_GLYPH_REAUDIT_GATE / inventory / scan-map, and all controls/page records/assembly/audit/possible-error files under `stories/pretha-visaranai/`.
 
-## Exact next activity — `செத்தவள் கதை`
+## Exact next activity — `பிரேத விசாரணை`
 
-- workspace: `stories/seththaval-kathai/`
-- scans: **131–139**
-- printed pages: **122–130**
-- canonical pages: **9/9**
-- scan **140** is boundary witness opening Story 19 `பிரேத விசாரணை`
+- workspace: `stories/pretha-visaranai/`
+- scans: **140–145**
+- printed pages: **131–136**
+- canonical pages: **6/6**
+- scan **146** is boundary witness opening Story 20 `கண்டதும் காதல் ஒழிக!`
 
-Gate A: compare all nine page records and assembly directly against scans 131–139.  
-Gate B: independently reopen all nine scans at native/high resolution and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other historical ambiguities.
+Gate A: compare all six page records and assembly directly against scans 140–145.  
+Gate B: independently reopen all six scans at native/high resolution and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other historical ambiguities.
 
-If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update durable Gate A/B record; advance **17/37 → 18/37** only with Gate A 9/9 + Gate B 9/9 + 0 unresolved; update collection/root controls; commit/re-fetch; stop.
+If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update durable Gate A/B record; advance **18/37 → 19/37** only with Gate A 6/6 + Gate B 6/6 + 0 unresolved; update collection/root controls; commit/re-fetch; stop.
 
-Do **not** begin Story 19 `பிரேத விசாரணை` in the same activity.
+Do **not** begin Story 20 `கண்டதும் காதல் ஒழிக!` in the same activity.

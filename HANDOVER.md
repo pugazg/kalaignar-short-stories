@@ -32,7 +32,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 17 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 18 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -53,18 +53,19 @@ Current tracker state: **OPEN — 17 / 37 dual-gate complete**.
 - `ஏழை` — scans **115–118** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `ஒரிஜினலில் உள்ளபடி` — scans **119–125** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 repair / 0 unresolved**; English resynchronized to the corrected crown meaning.
 - `பனங்குலை` — scans **126–130** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
+- `செத்தவள் கதை` — scans **131–139** — Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these seventeen stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these eighteen stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 18 `செத்தவள் கதை`
+## Exact next activity — Story 19 `பிரேத விசாரணை`
 
-Workspace: `stories/seththaval-kathai/`.
+Workspace: `stories/pretha-visaranai/`.
 
-- scans **131–139 / printed 122–130**
-- canonical pages **9/9**
-- scan **140** is the boundary witness opening Story 19 `பிரேத விசாரணை`
+- scans **140–145 / printed 131–136**
+- canonical pages **6/6**
+- scan **146** is the boundary witness opening Story 20 `கண்டதும் காதல் ஒழிக!`
 
-Complete Gate A **9/9** and independent Gate B **9/9**; correct only source-proven mismatches; synchronize controls/affected English; advance **17/37 → 18/37** only with zero unresolved; stop before Story 19.
+Complete Gate A **6/6** and independent Gate B **6/6**; correct only source-proven mismatches; synchronize controls/affected English; advance **18/37 → 19/37** only with zero unresolved; stop before Story 20.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

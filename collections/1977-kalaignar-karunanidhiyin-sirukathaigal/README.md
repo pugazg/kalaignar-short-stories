@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 17 / 37 CURRENT PASS.**
+**OPEN — 18 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -53,25 +53,25 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `ஏழை` — scans **115–118** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `ஒரிஜினலில் உள்ளபடி` — scans **119–125** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 repair / 0 unresolved**; English resynchronized for `கிரீடத்தின்`.
 - `பனங்குலை` — scans **126–130** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
+- `செத்தவள் கதை` — scans **131–139** — Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these seventeen stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these eighteen stories from stale prompts unless genuinely new direct source evidence appears.
 
-### `பனங்குலை` closure
+### `செத்தவள் கதை` closure
 
-- scans **126–130 / printed 117–121**
-- Gate A **5/5 PASS**
-- Gate B **5/5 PASS**
-- **3 repairs / 0 unresolved**
-- scan 126: `கூடிவோம்` → `கூடி வோம்`; `விரட்டிவிட்டோம்` → `விரட்டி விட்டோம்`
-- scan 128: `முன்தானையால்` → `முந்தானையால்`
+- scans **131–139 / printed 122–130**
+- Gate A **9/9 PASS**
+- Gate B **9/9 PASS**
+- **0 new repairs / 0 unresolved**
+- all legacy possible-error candidates source-reconfirmed
 - English prose rewrite **0**
-- scan 131 opens `செத்தவள் கதை`
+- scan 140 opens `பிரேத விசாரணை`
 
 ## Exact next activity
 
-Story 18 **`செத்தவள் கதை`** — scans **131–139 / printed pages 122–130** — **NEXT**.
+Story 19 **`பிரேத விசாரணை`** — scans **140–145 / printed pages 131–136** — **NEXT**.
 
-Complete Gate A **9/9** and independent Gate B **9/9**. Use scan **140** only as the boundary witness opening `பிரேத விசாரணை`. Advance to **18/37** only with zero unresolved; stop before Story 19.
+Complete Gate A **6/6** and independent Gate B **6/6**. Use scan **146** only as the boundary witness opening `கண்டதும் காதல் ஒழிக!`. Advance to **19/37** only with zero unresolved; stop before Story 20.
 
 
 ## Legacy processing state

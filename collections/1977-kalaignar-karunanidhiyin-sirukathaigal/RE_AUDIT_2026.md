@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 17 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 18 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -123,8 +123,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 15 | `ஏழை` | 115–118 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 119–125 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 17 | `பனங்குலை` | 126–130 | **CURRENT PASS — 3 repairs / 0 unresolved** |
-| 18 | `செத்தவள் கதை` | 131–139 | **NEXT — REOPENED** |
-| 19 | `பிரேத விசாரணை` | 140–145 | REOPENED / pending |
+| 18 | `செத்தவள் கதை` | 131–139 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
+| 19 | `பிரேத விசாரணை` | 140–145 | **NEXT — REOPENED** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | REOPENED / pending |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | REOPENED / pending |
 | 22 | `தொத்துக்கிளி` | 156–160 | REOPENED / pending |
@@ -240,6 +240,17 @@ Full story record: `../../stories/originalil-ullapadi/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/panangulai/RE_AUDIT_2026.md`.
 
+### `செத்தவள் கதை` closure
+
+- scans **131–139 / printed 122–130**
+- Gate A **9/9 PASS**
+- Gate B **9/9 PASS**
+- **0 new repairs / 0 unresolved**
+- English prose rewrite required: **0**
+- scan 140 opens Story 19 `பிரேத விசாரணை`
+
+Full story record: `../../stories/seththaval-kathai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 18 `செத்தவள் கதை`, scans **131–139 / printed 122–130**. Complete Gate A **9/9** + independent Gate B **9/9**; use scan **140** only as the `பிரேத விசாரணை` boundary witness; advance **17/37 → 18/37** only with zero unresolved; stop before Story 19.
+Re-audit Story 19 `பிரேத விசாரணை`, scans **140–145 / printed 131–136**. Complete Gate A **6/6** + independent Gate B **6/6**; use scan **146** only as the `கண்டதும் காதல் ஒழிக!` boundary witness; advance **18/37 → 19/37** only with zero unresolved; stop before Story 20.

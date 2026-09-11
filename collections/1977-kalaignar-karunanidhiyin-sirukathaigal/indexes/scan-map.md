@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 17/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 18/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -37,8 +37,8 @@
 | 15 | `ஏழை` | 106–109 | 115–118 | **2026 Gate A 4/4 PASS / Gate B 4/4 PASS — 1 repair / 0 unresolved** |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **2026 Gate A 7/7 PASS / Gate B 7/7 PASS — 1 repair / 0 unresolved** |
 | 17 | `பனங்குலை` | 117–121 | 126–130 | **2026 Gate A 5/5 PASS / Gate B 5/5 PASS — 3 repairs / 0 unresolved** |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | legacy complete — 9/9; **2026 NEXT** |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | legacy complete — 6/6; 2026 pending |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **2026 Gate A 9/9 PASS / Gate B 9/9 PASS — 0 new repairs / 0 unresolved** |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | legacy complete — 6/6; **2026 NEXT** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | legacy complete — 5/5; 2026 pending |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | legacy complete — 5/5; 2026 pending |
 | 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | legacy complete — 5/5; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 17 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 18 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -81,7 +81,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 17
 - `ஏழை` scans 115–118 — PASS / CLOSED;
 - `ஒரிஜினலில் உள்ளபடி` scans 119–125 — PASS / CLOSED;
 - `பனங்குலை` scans 126–130 — PASS / CLOSED;
-- `செத்தவள் கதை` scans 131–139 — **NEXT**.
+- `செத்தவள் கதை` scans 131–139 — PASS / CLOSED;
+- `பிரேத விசாரணை` scans 140–145 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 
