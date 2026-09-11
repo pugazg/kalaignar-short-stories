@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `தப்பவில்லை` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `ஆதரிக்கிறார்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,15 +19,16 @@ This is **comparison repair, not retranscription**. Existing repository Tamil is
 
 ## Durable state
 
-Collection tracker: **OPEN — 10 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 11 / 37 dual-gate complete**.
 
-Stories **1–10 are CLOSED** under the 2026 standard. Most recent closure:
+Stories **1–11 are CLOSED** under the 2026 standard. Most recent closure:
 
-- `தப்பிவிட்டார்கள்` — scans **84–91 / printed 75–82** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **12 repairs / 0 unresolved**;
+- `தப்பவில்லை` — scans **92–101 / printed 83–92** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **1 repair / 0 unresolved**;
+- repair: scan 95 `கட்டிப் போடணும்னு` → `கட்டிப் போட்டணும்னு`;
 - English prose rewrite required: **0**;
-- scan 92 independently opens Story 11 `தப்பவில்லை`.
+- scan 102 independently opens Story 12 `ஆதரிக்கிறார்`.
 
-Do not reopen Stories 1–10 unless genuinely new direct source evidence appears.
+Do not reopen Stories 1–11 unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
@@ -42,34 +43,34 @@ Read completely before source-dependent work:
 7. collection `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
 8. collection `indexes/story-inventory.md`
 9. collection `indexes/scan-map.md`
-10. all controls / page records / assembly / audit / possible-error files under `stories/thappavillai/`
+10. all controls / page records / assembly / audit / possible-error files under `stories/aatharikkirar/`
 
-## Exact next activity — `தப்பவில்லை`
+## Exact next activity — `ஆதரிக்கிறார்`
 
-- workspace: `stories/thappavillai/`
-- physical scans: **92–101**
-- printed pages: **83–92**
-- canonical pages: **10 / 10**
-- scan **102** is the boundary witness opening Story 12 `ஆதரிக்கிறார்`
+- workspace: `stories/aatharikkirar/`
+- physical scans: **102–107**
+- printed pages: **93–98**
+- canonical pages: **6 / 6**
+- scan **108** is the boundary witness opening Story 13 `இரகசியம்!`
 
 ### Gate A
 
-Compare all ten canonical page records and the assembled Tamil directly against scans **92–101**, including every possible-error candidate, punctuation/spacing, paragraphing, physical joins and source marks.
+Compare all six canonical page records and the assembled Tamil directly against scans **102–107**, including every possible-error candidate, punctuation/spacing, paragraphing, physical joins and source marks.
 
 ### Gate B
 
-Independently reopen every scan **92–101** at native/high resolution and explicitly consider `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, old ligatures, faint vowel marks and `ர/ற`, `ன/ண`, `ல/ள` confusions.
+Independently reopen every scan **102–107** at native/high resolution and explicitly consider `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, old ligatures, faint vowel marks and `ர/ற`, `ன/ண`, `ல/ள` confusions.
 
 ## Closure requirements
 
-If all ten pages settle:
+If all six pages settle:
 
 1. apply source-proven corrections individually;
 2. synchronize assembled Tamil and story controls;
 3. update English only where meaning changes;
 4. create/update durable Gate A/B record;
-5. advance **10/37 → 11/37** only with Gate A 10/10 + Gate B 10/10 + 0 unresolved;
+5. advance **11/37 → 12/37** only with Gate A 6/6 + Gate B 6/6 + 0 unresolved;
 6. synchronize inventory, scan map, collection README, root README/HANDOVER/NEXT;
 7. commit, re-fetch live `main`, stop/report.
 
-Do **not** begin Story 12 `ஆதரிக்கிறார்` in the same activity.
+Do **not** begin Story 13 `இரகசியம்!` in the same activity.

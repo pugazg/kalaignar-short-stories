@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 10 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 11 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -116,8 +116,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 8 | `கங்கையின் காதல்` | 69–72 | **CURRENT PASS — 2 repairs / 0 unresolved** |
 | 9 | `தாய்மை` | 73–83 | **CURRENT PASS — 42 repairs / 0 unresolved** |
 | 10 | `தப்பிவிட்டார்கள்` | 84–91 | **CURRENT PASS — 12 repairs / 0 unresolved** |
-| 11 | `தப்பவில்லை` | 92–101 | **NEXT — REOPENED** |
-| 12 | `ஆதரிக்கிறார்` | 102–107 | REOPENED / pending |
+| 11 | `தப்பவில்லை` | 92–101 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 12 | `ஆதரிக்கிறார்` | 102–107 | **NEXT — REOPENED** |
 | 13 | `இரகசியம்!` | 108–111 | REOPENED / pending |
 | 14 | `முந்நூறு ரூபாய்` | 112–114 | REOPENED / pending |
 | 15 | `ஏழை` | 115–118 | REOPENED / pending |
@@ -172,13 +172,26 @@ Full story record: `../../stories/thaaymai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/thappivittargal/RE_AUDIT_2026.md`.
 
+### `தப்பவில்லை` closure
+
+- scans **92–101 / printed 83–92**;
+- Gate A **10/10 PASS**;
+- Gate B **10/10 PASS**;
+- **1 source-proven repair / 0 unresolved**;
+- scan 95 `கட்டிப் போடணும்னு` → `கட்டிப் போட்டணும்னு`;
+- Gate B found no additional canonical glyph repair;
+- English prose rewrite required: **0**;
+- scan 102 independently opens Story 12 `ஆதரிக்கிறார்`.
+
+Full story record: `../../stories/thappavillai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 11 **`தப்பவில்லை`**, scans **92–101 / printed pages 83–92**.
+Re-audit Story 12 **`ஆதரிக்கிறார்`**, scans **102–107 / printed pages 93–98**.
 
-- Gate A: compare all **10** canonical page records and assembly directly to scans **92–101**.
-- Gate B: independently reopen all **10** physical pages at native/high resolution.
-- Use scan **102** only as the boundary witness opening Story 12 `ஆதரிக்கிறார்`.
+- Gate A: compare all **6** canonical page records and assembly directly to scans **102–107**.
+- Gate B: independently reopen all **6** physical pages at native/high resolution.
+- Use scan **108** only as the boundary witness opening Story 13 `இரகசியம்!`.
 - Apply only source-proven corrections; synchronize Tamil, controls and affected English.
-- Advance **10/37 → 11/37** only with Gate A 10/10 + Gate B 10/10 + 0 unresolved.
-- Stop before Story 12.
+- Advance **11/37 → 12/37** only with Gate A 6/6 + Gate B 6/6 + 0 unresolved.
+- Stop before Story 13.

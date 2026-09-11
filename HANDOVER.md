@@ -32,7 +32,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 10 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 11 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -46,19 +46,21 @@ Current tracker state: **OPEN — 10 / 37 dual-gate complete**.
 - `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**.
 - `தாய்மை` — scans **73–83** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **42 repairs / 0 unresolved**; English resynchronized.
 - `தப்பிவிட்டார்கள்` — scans **84–91** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **12 repairs / 0 unresolved**; English prose rewrite 0.
+- `தப்பவில்லை` — scans **92–101** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these ten stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these eleven stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 11 `தப்பவில்லை`
+## Exact next activity — Story 12 `ஆதரிக்கிறார்`
 
-Workspace: `stories/thappavillai/`.
+Workspace: `stories/aatharikkirar/`.
 
-- physical scans: **92–101**
-- printed pages: **83–92**
-- legacy canonical page records: **10 / 10**
-- scan **102** is the boundary witness opening Story 12 `ஆதரிக்கிறார்`
+- physical scans: **102–107**
+- printed pages: **93–98**
+- legacy canonical page records: **6 / 6**
+- scan **108** is the boundary witness opening Story 13 `இரகசியம்!`
 
-Complete Gate A **10/10** and independent Gate B **10/10** in one story-bounded activity. Correct only direct-source mismatches; synchronize assembly, controls and affected English; advance **10/37 → 11/37** only with zero unresolved; commit/re-fetch; stop before Story 12.
+Complete Gate A **6/6** and independent Gate B **6/6** in one story-bounded activity. Correct only direct-source mismatches; synchronize assembly, controls and affected English; advance **11/37 → 12/37** only with zero unresolved; commit/re-fetch; stop before Story 13.
+
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
 Source: `TVA_BOK_0065574_நளாயினி_1976.pdf`, fourth edition 1976, 78 scans, 164,748,566 bytes, SHA-256 `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.

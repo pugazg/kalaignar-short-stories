@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 10 / 37 CURRENT PASS.**
+**OPEN — 11 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -47,13 +47,25 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `தாய்மை` — scans **73–83** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **42 repairs / 0 unresolved**; English resynchronized.
 - `தப்பிவிட்டார்கள்` — scans **84–91** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **12 repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these ten stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these eleven stories from stale prompts unless genuinely new direct source evidence appears.
+
+### `தப்பவில்லை` closure
+
+- scans **92–101 / printed 83–92**;
+- Gate A **10/10 PASS**;
+- Gate B **10/10 PASS**;
+- **1 repair / 0 unresolved**;
+- scan 95: `கட்டிப் போடணும்னு` → `கட்டிப் போட்டணும்னு`;
+- English prose rewrite required: **0**;
+- scan 102 independently opens `ஆதரிக்கிறார்`.
 
 ## Exact next activity
 
-Story 11 **`தப்பவில்லை`** — scans **92–101 / printed pages 83–92** — **NEXT**.
+Story 12 **`ஆதரிக்கிறார்`** — scans **102–107 / printed pages 93–98** — **NEXT**.
 
-Complete Gate A **10/10** and independent Gate B **10/10**. Use scan **102** only as the boundary witness opening `ஆதரிக்கிறார்`. Advance to **11/37** only with zero unresolved; stop before Story 12.
+Complete Gate A **6/6** and independent Gate B **6/6**. Use scan **108** only as the boundary witness opening `இரகசியம்!`. Advance to **12/37** only with zero unresolved; stop before Story 13.
+
+
 ## Legacy processing state
 
 Before this re-audit, all **37 / 37** stories had canonical Tamil page records/assemblies and were recorded `verified` / audit PASS. Those artifacts remain the comparison baseline but do not by themselves satisfy current release confidence.

@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 10/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 11/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -30,8 +30,8 @@
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **2026 Gate A 4/4 PASS / Gate B 4/4 PASS — 2 repairs / 0 unresolved** |
 | 9 | `தாய்மை` | 64–74 | 73–83 | **2026 Gate A 11/11 PASS / Gate B 11/11 PASS — 42 repairs / 0 unresolved** |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **2026 Gate A 8/8 PASS / Gate B 8/8 PASS — 12 repairs / 0 unresolved** |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | legacy complete — 10/10; **2026 NEXT** |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | legacy complete — 6/6; 2026 pending |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **2026 Gate A 10/10 PASS / Gate B 10/10 PASS — 1 repair / 0 unresolved** |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | legacy complete — 6/6; **2026 NEXT** |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | legacy complete — 4/4; 2026 pending |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | legacy complete — 3/3; 2026 pending |
 | 15 | `ஏழை` | 106–109 | 115–118 | legacy complete — 4/4; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 10 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 11 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -74,7 +74,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 10
 - `கங்கையின் காதல்` scans 69–72 — PASS / CLOSED;
 - `தாய்மை` scans 73–83 — PASS / CLOSED;
 - `தப்பிவிட்டார்கள்` scans 84–91 — PASS / CLOSED;
-- `தப்பவில்லை` scans 92–101 — **NEXT**.
+- `தப்பவில்லை` scans 92–101 — PASS / CLOSED;
+- `ஆதரிக்கிறார்` scans 102–107 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 
