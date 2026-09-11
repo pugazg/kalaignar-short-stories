@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 8 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 9 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -114,8 +114,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 7 | `சங்கிலிச்சாமி` | 57–68 | **CURRENT PASS — 6 repairs / 0 unresolved** |
 | 8 | `கங்கையின் காதல்` | 69–72 | **CURRENT PASS — 2 repairs / 0 unresolved** |
-| 9 | `தாய்மை` | 73–83 | **NEXT — REOPENED** |
-| 10 | `தப்பிவிட்டார்கள்` | 84–91 | REOPENED / pending |
+| 9 | `தாய்மை` | 73–83 | **CURRENT PASS — 42 repairs / 0 unresolved** |
+| 10 | `தப்பிவிட்டார்கள்` | 84–91 | **NEXT — REOPENED** |
 | 11 | `தப்பவில்லை` | 92–101 | REOPENED / pending |
 | 12 | `ஆதரிக்கிறார்` | 102–107 | REOPENED / pending |
 | 13 | `இரகசியம்!` | 108–111 | REOPENED / pending |
@@ -144,15 +144,31 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 36 | `சித்தார்த்தன் சிலை` | 250–252 | REOPENED / pending |
 | 37 | `நுனிக்கரும்பு` | 253–259 | REOPENED / pending |
 
+### `தாய்மை` closure
+
+Scans **73–83 / printed pages 64–74**:
+
+- Gate A: **PASS — 11/11**;
+- Gate B: **PASS — 11/11**;
+- source-proven repairs: **42**;
+- unresolved source / historical-glyph readings: **0 / 0**;
+- recurring `திட்டசனயன்` was corrected to source `தீட்சணயன்`;
+- scan 77's omitted `பலகணியின் வழியாகத்...` paragraph was restored;
+- historical-`னா` forms `எழுப்பினள்` and `கத்தினன்` were decoded as `எழுப்பினாள்` and `கத்தினான்`;
+- English was resynchronized;
+- scan 84 independently confirms the next-story boundary.
+
+Full story record: `../../stories/thaaymai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit **Story 9 `தாய்மை`**, scans **73–83 / printed pages 64–74**, in one story-bounded activity:
+Re-audit **Story 10 `தப்பிவிட்டார்கள்`**, scans **84–91 / printed pages 75–82**, in one story-bounded activity:
 
-1. Gate A — compare all **11** existing canonical page records and the assembly directly against controlling scans **73–83**;
-2. Gate B — independently reopen all **11** pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
-3. use scan **84** only as the boundary witness opening Story 10 `தப்பிவிட்டார்கள்`;
+1. Gate A — compare all **8** existing canonical page records and the assembly directly against controlling scans **84–91**;
+2. Gate B — independently reopen all **8** pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
+3. use scan **92** only as the boundary witness opening Story 11 `தப்பவில்லை`;
 4. apply only source-proven corrections individually;
 5. synchronize assembly, audits/possible-error controls and affected English;
-6. mark PASS only with Gate A 11/11 + Gate B 11/11 + 0 unresolved;
-7. if PASS, advance tracker **8/37 → 9/37**, synchronize collection/root controls, commit and re-fetch live `main`;
-8. stop/report. Do not begin Story 10 in the same activity.
+6. mark PASS only with Gate A 8/8 + Gate B 8/8 + 0 unresolved;
+7. if PASS, advance tracker **9/37 → 10/37**, synchronize collection/root controls, commit and re-fetch live `main`;
+8. stop/report. Do not begin Story 11 in the same activity.

@@ -14,8 +14,8 @@
 | 6 | `சந்தனக்கிண்ணம்` | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **2026 CURRENT PASS — Gate A 10/10 + Gate B 10/10; 3 repairs; 0 unresolved** — `stories/santhana-kinnam/` |
 | 7 | `சங்கிலிச்சாமி` | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **2026 CURRENT PASS — Gate A 12/12 + Gate B 12/12; 6 repairs; 0 unresolved** — `stories/sangilichami/` |
 | 8 | `கங்கையின் காதல்` | `கங்கையின் காதல்` | 60–63 | 69–72 | **2026 CURRENT PASS — Gate A 4/4 + Gate B 4/4; 2 repairs; 0 unresolved** — `stories/gangaiyin-kadhal/` |
-| 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | **legacy Tamil complete — 11/11 verified; 2026 re-audit NEXT** — `stories/thaaymai/` |
-| 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **legacy Tamil complete — 8/8 verified; 2026 re-audit pending** — `stories/thappivittargal/` |
+| 9 | `தாய்மை` | `தாய்மை` | 64–74 | 73–83 | **2026 CURRENT PASS — Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved** — `stories/thaaymai/` |
+| 10 | `தப்பிவிட்டார்கள்` | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **legacy Tamil complete — 8/8 verified; 2026 re-audit NEXT** — `stories/thappivittargal/` |
 | 11 | `தப்பவில்லை` | `தப்பவில்லை` | 83–92 | 92–101 | **legacy Tamil complete — 10/10 verified; 2026 re-audit pending** — `stories/thappavillai/` |
 | 12 | `ஆதரிக்கிறார்` | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **legacy Tamil complete — 6/6 verified; 2026 re-audit pending** — `stories/aatharikkirar/` |
 | 13 | `இரகசியம்!` | `இரகசியம்!` | 99–102 | 108–111 | **legacy Tamil complete — 4/4 verified; 2026 re-audit pending** — `stories/iragasiyam/` |
@@ -48,8 +48,8 @@
 
 - anthology stories registered: **37 / 37**
 - legacy Tamil source processing complete: **37 / 37**
-- 2026 dual-gate CURRENT PASS: **8 / 37**
-- 2026 dual-gate next: **Story 9 `தாய்மை`**
+- 2026 dual-gate CURRENT PASS: **9 / 37**
+- 2026 dual-gate next: **Story 10 `தப்பிவிட்டார்கள்`**
 - not yet transcribed: **0 / 37**
 
 The legacy page/assembly corpus remains the comparison baseline. Current release confidence is governed by `../RE_AUDIT_2026.md` and requires both Gate A and Gate B.
@@ -70,6 +70,6 @@ Both source forms must be preserved.
 
 ## Tamil source processing status
 
-**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 8 / 37 current PASS.**
+**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 9 / 37 current PASS.**
 
-Next exact story: `தாய்மை`, scans **73–83 / printed 64–74**.
+Next exact story: `தப்பிவிட்டார்கள்`, scans **84–91 / printed 75–82**.
