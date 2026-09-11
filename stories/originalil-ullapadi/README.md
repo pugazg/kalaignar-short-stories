@@ -1,46 +1,36 @@
 # ஒரிஜினலில் உள்ளபடி
 
-Canonical story workspace for **ஒரிஜினலில் உள்ளபடி**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical Story 16 workspace from the 1977 first edition of **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
-- Author: **கலைஞர் மு. கருணாநிதி**
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
-- Printed pages: **110–116**
-- PDF scans: **119–125**
-- Source PDF committed to GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- printed pages: **110–116**
+- scans: **119–125**
+- source PDF committed: **No**
 
-## Tamil archival status
+## 2026 status
 
-**PASS — 7 / 7 story pages transcribed and directly source-reviewed.**
+**CURRENT PASS / CLOSED**
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).  
-Reading layer: [`sections/originalil-ullapadi.md`](sections/originalil-ullapadi.md).
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs: **1**
+- unresolved source / glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
 
-## Visual fidelity
+Repair: scan 121 `வெங்கடாசலபதி கீர்த்தின்...` → **`வெங்கடாசலபதி கிரீடத்தின்...`**.
 
-**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
-The visual pass records the opening rule/enlarged `இ`, source-bold advertisement spans and `எல்லாம் என்`, excludes printer signature `க—8`, and synchronizes the final `story-ending` role and closing ornament. **Story wording changed: No.**
+Canonical Tamil assembly: [`sections/originalil-ullapadi.md`](sections/originalil-ullapadi.md). English was resynchronized to the corrected **crown** meaning.
 
-## Story boundary
+## Boundary
 
-Scan 119 opens this story; scan 125 ends it; scan 126 independently opens `பனங்குலை` and is excluded.
+- scan 119 opens `ஒரிஜினலில் உள்ளபடி`;
+- scan 125 closes the story with the final exchange and ornament;
+- scan 126 independently opens Story 17 `பனங்குலை`.
 
-## English translation
+## Next
 
-**PASS — complete.**
-
-- English: [`translations/en/originalil-ullapadi.md`](translations/en/originalil-ullapadi.md)
-- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- all **7 / 7** source-page markers represented
-- physical continuations **120→121**, **121→122** and **122→123** remain traceable
-- source-bold notice/program spans and `எல்லாம் என்` preserved semantically
-- `யோகானந்த`/`போகானந்த`, `ராமநாதன்`/`காமநாதன்`, and `விபசாரம்`/`விபச்சாரம்` wordplay retained conservatively
-- canonical Tamil changed during translation: **No**
-
-## Completion state
-
-**ஒரிஜினலில் உள்ளபடி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 119–125 / printed pages 110–116.**
+Story 17 **பனங்குலை** — scans **126–130 / printed 117–121**. Use scan **131** only as the boundary witness opening `செத்தவள் கதை`.
