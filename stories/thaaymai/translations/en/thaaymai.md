@@ -14,16 +14,16 @@
 
 “In this situation, what peace can there be for me, brother-in-law? The whole town sympathizes with her. The people’s assembly laments that the separation of the king and queen is an unforeseen calamity for the country. The ministers beat their breasts and cry that the sovereign failed to understand my nature properly, and therefore fell into my net. Even the palace circle refuses to grant me the respect due to me as the younger queen.
 
-“Not merely the king’s queen upon his couch, was not Kopperunthevi also a warrior woman who took up sword and spear and fought in fierce battle? Where is she—and where am I, who have bent Malligarthavarai with the music of my bangles?—so they speak in the soldiers’ camps. I am preparing myself to face all this opposition. But, brother-in-law! Before her son Inbasagaran grows up and lifts the prince’s crown onto his head, he must be destroyed. Sundarapuri must become the property of Suzhar-kanni. The child growing in my womb must claim the sceptre of this land. The obstacle is her precious, life-giving son! Tell me a way to remove that obstacle, brother-in-law! Only with your help must I plant the flag of victory.
+“Not merely the king’s queen upon his couch, was not Kopperunthevi also a warrior woman who took up sword and spear and fought in fierce battle? Where is she—and where am I, who have bent a man like a mountain with the music of my bangles?—so they speak in the soldiers’ camps. I am preparing myself to face all this opposition. But, brother-in-law! Before her son Inbasagaran grows up and lifts the prince’s crown onto his head, he must be destroyed. Sundarapuri must become the property of Suzhar-kanni. The child growing in my womb must claim the sceptre of this land. The obstacle is her precious, life-giving son! Tell me a way to remove that obstacle, brother-in-law! Only with your help must I plant the flag of victory.
 
-“Brother-in-law! Only by standing behind your protection can I fulfil the purpose of my life. Why are you silent—speak! Are you angry because I asked you to stand away and speak? I was only afraid that it was nearly time for the king to come. Here...I shall open those rough lips of yours, shut tight, with my rose petals... ‘Kiss!... Kiss!’ Is that enough? The long feast another day! Brother-in-law! Suzhar-kanni as queen of Sundarapuri—and this land belonging to her child—will such a fine future arise? Will a plan for it dawn right now in that thittasanayam-filled brain of yours?”
+“Brother-in-law! Only by standing behind your protection can I fulfil the purpose of my life. Why are you silent—speak! Are you angry because I asked you to stand away and speak? I was only afraid that it was nearly time for the king to come. Here...I shall open those rough lips of yours, shut tight, with my rose petals... ‘Kiss!... Kiss!’ Is that enough? The long feast another day! Brother-in-law! Suzhar-kanni as queen of Sundarapuri—and this land belonging to her child—will such a fine future arise? Will a plan for it dawn right now in that theetchanayam-filled brain of yours?”
 
 “Do not worry, Suzhar-kanni! When this thittasanayan is here, can there be any shortage of schemes? Just as you gave me sweet kisses, I will not hesitate to give you schemes that will succeed—
 
 <!-- source page furniture: printer signature க—5 excluded from story text -->
 <!-- source scan 75; printed page 66 -->
 
-I once gave you the rare counsel that made you the king’s younger queen—have you forgotten? In the same way I shall find the proper means to pluck Prince Inbasagaran out of the thicket of life. Inbasagaran is a tender bud! If I wished, I could crush that bud even with my fingers and throw it away! But the bud grows in the palace garden. This is no unfenced field; the thorn-bud belongs to the king’s house! The conspiracy must be carried out with the utmost saava-jaakkirathai. The prince must die. But it must not appear that we killed him—it must not even be reported that he was murdered. The country, the ruler, and the king himself must believe that he died naturally. I shall tell you the way!”
+I once gave you the rare counsel that made you the king’s younger queen—have you forgotten? In the same way I shall find the proper means to pluck Prince Inbasagaran out of the thicket of life. Inbasagaran is a tender bud! If I wished, I could crush that bud even with my fingers and throw it away! But the bud grows in the palace garden. This is no unfenced field; the thorn-bud belongs to the king’s house! The conspiracy must be carried out with the utmost caution. The prince must die. But it must not appear that we killed him—it must not even be reported that he was murdered. The country, the ruler, and the king himself must believe that he died naturally. I shall tell you the way!”
 
 “Tell me quickly, brother-in-law!”
 
@@ -55,11 +55,11 @@ I once gave you the rare counsel that made you the king’s younger queen—have
 
 “The feast—you do not forget that either!”
 
-Suzhar-kanni nodded as though agreeing with him and scattered a smile. Thittasanayan moved away, still savouring that smile. Running his throbbing lips over his heavy tongue as though relishing some sweet taste, the brute disappeared from Suzhar-kanni’s sight at precisely the moment the king arrived, calling “Sundar,” to read his poem of pleasure.
+Suzhar-kanni nodded as though agreeing with him and scattered a smile. Theetchanayan moved away, still savouring that smile. Running his throbbing lips over his heavy tongue as though relishing some sweet taste, the brute disappeared from Suzhar-kanni’s sight at precisely the moment the king arrived, calling “Sundar,” to read his poem of pleasure.
 
-The king came. As if to prove that everything she had told Thittasanayan was true, he leaned into her lap—and fell into her grasp.
+The king came. As if to prove that everything she had told Theetchanayan was true, he leaned into her lap—and fell into her grasp.
 
-Suzhar-kanni was the younger queen of the king of Sundarapuri. Thittasanayan was her brother-in-law, a distant relation. He had a post in the palace as a bodyguard. He had two duties in turn: to guard the king’s body—and, whenever there was leisure and opportunity, to lie embracing Suzhar-kanni’s body! Would fruit-nectar taste bitter to drink? And he was a karadi thirumaniyan besides! Suzhar-kanni was like a honeycomb, coming to him of her own accord, again and again. One need not even imagine bending a branch and pouring out its honey to satisfy one’s hunger. In the Sundarapuri palace, this had become an everyday event. The green-parrot-like woman clung to his rock-hard, rough chest.
+Suzhar-kanni was the younger queen of the king of Sundarapuri. Theetchanayan was her brother-in-law, a distant relation. He had a post in the palace as a bodyguard. He had two duties in turn: to guard the king’s body—and, whenever there was leisure and opportunity, to lie embracing Suzhar-kanni’s body! Would fruit-nectar taste bitter to drink? And he was a karadi thirumeniyan besides! Suzhar-kanni was like a honeycomb, coming to him of her own accord, again and again. One need not even imagine bending a branch and pouring out its honey to satisfy a bear’s hunger. In the Sundarapuri palace, this had become an everyday event. The green-parrot-like woman clung to his rock-hard, rough chest.
 
 He himself would sing in a ripened voice, “My sweet one who delights my desire! My ambrosia that gives sweetness!” Behind the curtain, while this shameful injustice went on, the king of kings, unaware even of its trace, would gaze at her and string garlands of praise: “Noble one! Exalted one! Pleasure-giver! Urvashi!”
 
@@ -69,7 +69,7 @@ The royal connoisseur simply failed to understand that the ‘Vasantha Sena’ w
 
 Kopperunthevi was the jewel who had shone in that palace—as the peacock of the king’s inner chambers, as the minister who offered counsel, as the warrior woman who followed him when it was time to enter the field, and as the loving mother who watched over the welfare of the people of Sundarapuri. The cruel storm that came to turn that jewel into a raging sea bore the name Suzhar-kanni!
 
-The very time when the queen, already the king’s wife, became mother to Inbasagaran was the time most favourable for Suzhar-kanni’s invasion. She besieged the crowned one; at once the monarch raised the white flag! A thousand warriors, five thousand infantry, elephant corps and cavalry together could not shake the fortress wall of his palace. But with a single sweep of her eyes she shattered the fortress of his mind into a hundred pieces, and standing upon every broken particle, performed a frenzy-filled dance.
+The very time when the queen, already the king’s wife, became mother to Inbasagaran was the time most favourable for Suzhar-kanni’s invasion. She besieged the crowned one; at once the monarch raised the white flag! A thousand chariots, five thousand infantry, elephant corps and cavalry together could not shake the fortress wall of his palace. But with a single sweep of her eyes she shattered the fortress of his mind into a hundred pieces, and standing upon every broken particle, performed a frenzy-filled dance.
 
 The queen, with Inbasagaran, was proclaiming to the earth the greatness of motherhood.
 
@@ -77,9 +77,11 @@ The king meanwhile lay with the younger woman—new to him too—drinking from h
 
 As the moon relieves the darkness of a world after the sun has vanished, Inbasagaran shone like a diamond that dispelled the sorrow-clouded life of Kopperunthevi.
 
-The moon at least rains light upon pala-kani onlookers; even that was denied to that ‘unfortunate woman’!
+Is there not a joy in looking through a window at the full moon in the distance and savouring it? In the same way, though she could not keep the king near and show him affection, Kopperunthevi worshipped him from afar.
 
-Inbasagaran alone became her source of consolation. Suzhar-kanni was yearning to bury even that treasure beneath the earth. Thittasanayan had already prepared the plan for it.
+The moon at least rains light upon someone looking through the window; even that was denied to that ‘unfortunate woman’!
+
+Inbasagaran alone became her source of consolation. Suzhar-kanni was yearning to bury even that treasure beneath the earth. Theetchanayan had already prepared the plan for it.
 
 <!-- source scan 78; printed page 69 -->
 
@@ -91,7 +93,7 @@ Suddenly Suzhar-kanni began to shower affection upon Prince Inbasagaran. She beg
 
 “Devi! Somehow, by the illusion of fate, I came between you and your life. Forgive me. Where can I go now? Think of me as your younger sister and grant me a life,” she said, pouring tears at Kopperunthevi’s feet.
 
-The king—the chief queen—the prince—all were bewildered by her maaya-maalam.
+The king—the chief queen—the prince—all were bewildered by her maay-maalam.
 
 “New happiness in the palace! A joyful turn! The king and queen have become united again. Suzhar-kanni has realised her mistakes and reformed. Good heavens! Do you know how the younger queen cares for Inbasagaran now? Even his own mother could not show so much affection!”—so the whole of Sundarapuri began to say.
 
@@ -103,7 +105,7 @@ One day Inbasagaran entered Suzhar-kanni’s mansion carrying a flute-like instr
 
 she asked, “What is this flute?”
 
-“Thittasanayan gave it to me, amma!” said Inbasagaran, blowing it as he danced about.
+“Theetchanayan gave it to me, amma!” said Inbasagaran, blowing it as he danced about.
 
 The conspiracy had reached its second stage. With the resolve that now only their work had to begin, she embraced him, lifted him, seated him near her couch and reddened his face with kisses.
 
@@ -137,11 +139,11 @@ The palace garden—beside the thick jasmine bush—the young prince, beauty its
 
 The paṇ had to become familiar to him. While he was playing it, a venomous snake was to be released some distance away in the garden. Hearing the flute, the snake would come near him, raise its hood and dance. If he stopped the paṇ, the snake would immediately hiss and spring upon him.
 
-Thittasanayan had devised this plan, received from her the reward due to him for it, and she had sent the prince into the palace garden. Inbasagaran’s flute poured coolness in great draughts! It gave the sensation of a blissful breeze coming to embrace him fully!
+Theetchanayan had devised this plan, received from her the reward due to him for it, and she had sent the prince into the palace garden. Inbasagaran’s flute poured coolness in great draughts! It gave the sensation of a blissful breeze coming to embrace him fully!
 
 The paṇ issuing from that flute awakened an enchantment that even a magudi could not produce.
 
-Watching for the right moment, the cruel man Thittasanayan released the snake he had been holding near a bush close to the prince. Freed, the snake moved toward the sound of the flute. Unaware that danger was crawling toward him, that lovely crescent moon,
+Watching for the right moment, the cruel man Theetchanayan released the snake he had been holding near a bush close to the prince. Freed, the snake moved toward the sound of the flute. Unaware that danger was crawling toward him, that lovely crescent moon,
 
 <!-- source scan 81; printed page 72 -->
 
@@ -161,13 +163,13 @@ If the music stopped, the snake’s trance would immediately clear!
 
 From the upper pavilion, the younger woman watched what was about to happen.
 
-Hidden behind the bush, Thittasanayan smiled.
+Hidden behind the bush, Theetchanayan smiled.
 
 Kopperunthevi too came there to witness that cruelty. The melody attracted her. She listened for where it came from. She discovered that the sweet music was being made by her own son. She rejoiced. The next instant her joy vanished. The future king of Sundarapuri—and before him, the dance of death!
 
 The vaiduriyam that had lain in her womb! Before it, a dance filled with death’s intoxication, ready to bathe it in poison and cook it!
 
-“Ayyo! What shall I do?” she cried, rising. She sensed the presence of the younger queen and Thittasanayan.
+“Ayyo! What shall I do?” she cried, rising. She sensed the presence of the younger queen and Theetchanayan.
 
 <!-- source scan 82; printed page 73 -->
 
@@ -204,7 +206,7 @@ Kopperunthevi wept.
 
 Motherhood had done its duty and closed its eyes.
 
-The king glared at the younger queen and Thittasanayan. They were fleeing from the place.
+The king glared at the younger queen and Theetchanayan. They were fleeing from the place.
 
 “Do not let them escape!” he shouted.
 

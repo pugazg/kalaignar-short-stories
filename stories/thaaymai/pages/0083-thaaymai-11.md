@@ -20,9 +20,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 தாய்மை தன் கடமையைச் செய்து விட்டுக் கண்ணை மூடிக் கொண்டது.
 
-அரசன் இளைய ராணியையும் திட்டசனயனையும் வெறித்துப் பார்த்தான். அவர்கள் அங்கிருந்து ஓட்டம் பிடித்துக் கொண்டிருந்தனர்.
+அரசன் இளைய ராணியையும் தீட்சணயனையும் வெறித்துப் பார்த்தான். அவர்கள் அங்கிருந்து ஓட்டம் பிடித்துக் கொண்டிருந்தனர்.
 
-“விடாதீர்கள், அவர்களை!” என்று கத்தினன்.
+“விடாதீர்கள், அவர்களை!” என்று கத்தினான்.
 
 “அய்யோ! ஒரு வினாடி தவறி விட்டது—இல்லையேல் நாகத்தை வாளால் நறுக்கிவிட்டு, மனைவி, மகன் இருவரையுமே காப்பாற்றியிருப்பேன்!” என அங்கலாய்த்துக் கொண்டான் அரசன்.
 
@@ -35,5 +35,7 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 - Visual-fidelity review classifies this page as `story-ending` and records the centered closing ornament.
 - Full-span recheck corrected `பார்த்துக்கொள்ளுங்கள்` → source `பார்த்துக் கொள்ளுங்கள்`.
 - Scan 84 opens `தப்பிவிட்டார்கள்` and is excluded.
+
+- 2026 dual-gate repairs: `திட்டசனயனையும்` → `தீட்சணயனையும்`; apparent `கத்தினன்` → `கத்தினான்` after same-edition historical-`னா` comparison; 0 unresolved.
 
 <!-- மூல ஸ்கேன் பக்கம்: 83; அச்சுப் பக்கம்: 74 -->

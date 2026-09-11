@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதி
 transcription_method: "direct visual comparison with source scan; native/high-resolution full-span review"
 ---
 
-அவர்கள் பார்க்காதவள்போல் பாலகன் பின்னே வந்தாள். அவளுக்குப் புரிந்து விட்டது—சதி பற்றிய விளக்கம். குழலோசை நின்றால், பின் குமரனைப் பாம்பு தீண்டிவிடும் என்பதையும் தெரிந்து கொண்டாள். அவளது தாய் உள்ளம் தணலிவிட்ட புழுவாயிற்று.
+அவர்கள் பார்க்காதவள்போல் பாலகன் பின்னே வந்தாள். அவளுக்குப் புரிந்து விட்டது—சதி பற்றிய விளக்கம். குழலோசை நின்றால், பின் குமரனைப் பாம்பு தீண்டிவிடும் என்பதையும் தெரிந்து கொண்டாள். அவளது தாய் உள்ளம் தணலிலிட்ட புழுவாயிற்று.
 
 எந்தத் தாய்க்குத்தான் சகிக்கும்! தான் பெற்ற தங்க விக்ரகத்தின் மேனியெங்கும் நீலம் பாய்ந்து, அலங்கோலமாக விழப்போவதை எந்த அன்னைக்குத்தான் தாங்கிக் கொள்ள முடியும்!
 
@@ -35,6 +35,8 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 
 - Visual-fidelity full-span review restored the omitted warning passage after `என் செய்வாள் தாய்?`, including source-variant `இன்ப சாகரா!`, and rejoined the complete source paragraph through `ஆகி விட்டான்!`.
 - The source-bold line `“நிறுத்தாதே! ஊது!! ஊது!” என்று.` is now represented semantically in Markdown.
-- Unusual source forms `தணலிவிட்ட புழுவாயிற்று` and `படந்தாக்கி` remain retained and queued for human review.
+- 2026 Gate A corrects `தணலிவிட்ட புழுவாயிற்று` → source `தணலிலிட்ட புழுவாயிற்று`; `படந்தாக்கி` is source-confirmed. Gate B independently confirms historical `னா` in `கத்தினாள்` / `அலறினாள்`.
+
+- 2026 dual-gate: Gate A/B PASS; `வாளால் வீசிக் கொன்று` is source-confirmed; 0 unresolved.
 
 <!-- மூல ஸ்கேன் பக்கம்: 82; அச்சுப் பக்கம்: 73 -->
