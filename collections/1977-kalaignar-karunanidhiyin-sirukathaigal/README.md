@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 7 / 37 CURRENT PASS.**
+**OPEN — 8 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -43,14 +43,15 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **4 repairs / 0 unresolved**; Story-7-triggered historical-`னா` regression repaired `போதுதானு` → `போதுதானா`; English remains synchronized.
 - `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **3 repairs / 0 unresolved**. Repairs: `கள்ளச்` → `கிள்ளச்`; `தமிழ்த்தாய்கள்` → `தமிழ்த்தாய்களை` with historical `ளை` directly resolved; `வந்து விட்டான என` → `வந்து விட்டான் என`. Meaning-sensitive English synchronized.
 - `சங்கிலிச்சாமி` — scans **57–68** — Gate A **12/12 PASS**, Gate B **12/12 PASS**, **6 repairs / 0 unresolved**. Historical `றா/னா` corrections synchronized; English already conveyed the corrected meanings, so no prose rewrite was required.
+- `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**. Repairs: `காள மாடு` → `காளை மாடு` (historical `ளை`); `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` (historical `றா`). Existing English already conveyed both corrected meanings; prose rewrite 0.
 
-Do not reopen these seven stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these eight stories from stale prompts unless genuinely new direct source evidence appears.
 
 ## Exact next activity
 
-Story 8 **`கங்கையின் காதல்`** — scans **69–72 / printed pages 60–63** — **NEXT**.
+Story 9 **`தாய்மை`** — scans **73–83 / printed pages 64–74** — **NEXT**.
 
-Complete Gate A 4/4 and an independent Gate B 4/4. Use scan **73** only as the boundary witness opening `தாய்மை`. Correct only direct-source mismatches, synchronize dependent Tamil/English/control files, advance the collection to **8/37** only with zero unresolved, commit, re-fetch live `main`, and stop before Story 9.
+Complete Gate A **11/11** and an independent Gate B **11/11**. Use scan **84** only as the boundary witness opening `தப்பிவிட்டார்கள்`. Correct only direct-source mismatches, synchronize dependent Tamil/English/control files, advance the collection to **9/37** only with zero unresolved, commit, re-fetch live `main`, and stop before Story 10.
 
 ## Legacy processing state
 

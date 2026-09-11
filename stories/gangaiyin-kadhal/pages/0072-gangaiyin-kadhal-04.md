@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதி
 transcription_method: "direct visual comparison with source scan; native/high-resolution full-span review"
 ---
 
-....என் போன்ற பெண்கள் இனியும் தோன்றுமலிருக்க இதைச் சொல்.....?”
+....என் போன்ற பெண்கள் இனியும் தோன்றாமலிருக்க இதைச் சொல்.....?”
 
 “ஆகட்டும் கண்ணே....வா—பிடரிப் பக்கம் போவோம். அங்கேதான் இருட்டாயிருக்கும்.”
 
@@ -21,8 +21,9 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 ## Source-review note
 
 - This page completes the scan 71 quote after `...என்பொருட்டுச் சொல்`.
-- Enlarged source inspection supports the printed-looking `தோன்றுமலிருக்க`; it is retained source-close and flagged for later human recheck rather than normalized to a grammatically smoother form.
+- 2026 Gate-B repair: apparent `தோன்றுமலிருக்க` → source-supported **`தோன்றாமலிருக்க`**. The old `றா` form was distinguished from true `று` by same-page/same-edition comparison (including `சற்று`). This is character-identity decoding, not grammatical modernization.
 - `பிடரிப் பக்கம்` is retained as printed.
+- Gate A and Gate B are closed for this page; unresolved source/glyph readings: **0**.
 - Visual-fidelity review classifies this page as `story-ending` and records the centered floral closing ornament beneath the final paragraph.
 - Scan 73 was checked separately and opens Story 9 `தாய்மை`.
 

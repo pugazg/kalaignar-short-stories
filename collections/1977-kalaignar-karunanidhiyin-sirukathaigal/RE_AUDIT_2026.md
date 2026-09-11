@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 7 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 8 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -44,6 +44,7 @@ Gate B cannot be inferred from Gate A. A story returns to current PASS only afte
 | 5 | `குப்பைத்தொட்டி` | 39–46 | 8/8 PASS | 8/8 PASS | 4 | 0 |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | 10/10 PASS | 10/10 PASS | 3 | 0 |
 | 7 | `சங்கிலிச்சாமி` | 57–68 | 12/12 PASS | 12/12 PASS | 6 | 0 |
+| 8 | `கங்கையின் காதல்` | 69–72 | 4/4 PASS | 4/4 PASS | 2 | 0 |
 
 ### `சந்தனக்கிண்ணம்` closure
 
@@ -85,6 +86,22 @@ Scans **57–68 / printed pages 48–59**:
 
 Durable story record: `../../stories/sangilichami/RE_AUDIT_2026.md`.
 
+### `கங்கையின் காதல்` closure
+
+Scans **69–72 / printed pages 60–63**:
+
+- Gate A: **PASS — 4/4**;
+- Gate B: **PASS — 4/4**;
+- canonical repairs: **2**;
+- scan 69: `காள மாடு` → `காளை மாடு` — historical `ளை`;
+- scan 72: `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` — historical `றா`;
+- unresolved source readings: **0**;
+- unresolved historical-glyph readings: **0**;
+- canonical page records / assembly / audit / possible-error queue / page map / README / metadata / translation review synchronized;
+- English prose rewrite required: **0** because the existing English already reads “the bull” and “so that women like me may not arise again”.
+
+Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
+
 ## Progress
 
 | # | Story | 1977 scans | Current state |
@@ -96,8 +113,8 @@ Durable story record: `../../stories/sangilichami/RE_AUDIT_2026.md`.
 | 5 | `குப்பைத்தொட்டி` | 39–46 | **CURRENT PASS — 4 repairs / 0 unresolved** |
 | 6 | `சந்தனக்கிண்ணம்` | 47–56 | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 7 | `சங்கிலிச்சாமி` | 57–68 | **CURRENT PASS — 6 repairs / 0 unresolved** |
-| 8 | `கங்கையின் காதல்` | 69–72 | **NEXT — REOPENED** |
-| 9 | `தாய்மை` | 73–83 | REOPENED / pending |
+| 8 | `கங்கையின் காதல்` | 69–72 | **CURRENT PASS — 2 repairs / 0 unresolved** |
+| 9 | `தாய்மை` | 73–83 | **NEXT — REOPENED** |
 | 10 | `தப்பிவிட்டார்கள்` | 84–91 | REOPENED / pending |
 | 11 | `தப்பவில்லை` | 92–101 | REOPENED / pending |
 | 12 | `ஆதரிக்கிறார்` | 102–107 | REOPENED / pending |
@@ -129,13 +146,13 @@ Durable story record: `../../stories/sangilichami/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit **Story 8 `கங்கையின் காதல்`**, scans **69–72 / printed pages 60–63**, in one story-bounded activity:
+Re-audit **Story 9 `தாய்மை`**, scans **73–83 / printed pages 64–74**, in one story-bounded activity:
 
-1. Gate A — compare all 4 existing canonical records and the assembly directly against the controlling pages;
-2. Gate B — independently reopen all 4 pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
-3. use scan **73** only as the boundary witness opening Story 9 `தாய்மை`;
+1. Gate A — compare all **11** existing canonical page records and the assembly directly against controlling scans **73–83**;
+2. Gate B — independently reopen all **11** pages at high/native resolution and complete the mandatory Old Tamil Glyph check;
+3. use scan **84** only as the boundary witness opening Story 10 `தப்பிவிட்டார்கள்`;
 4. apply only source-proven corrections individually;
 5. synchronize assembly, audits/possible-error controls and affected English;
-6. mark PASS only with Gate A 4/4 + Gate B 4/4 + 0 unresolved;
-7. if PASS, advance tracker **7/37 → 8/37**, synchronize collection/root controls, commit and re-fetch live `main`;
-8. stop/report. Do not begin Story 9 in the same activity.
+6. mark PASS only with Gate A 11/11 + Gate B 11/11 + 0 unresolved;
+7. if PASS, advance tracker **8/37 → 9/37**, synchronize collection/root controls, commit and re-fetch live `main`;
+8. stop/report. Do not begin Story 10 in the same activity.

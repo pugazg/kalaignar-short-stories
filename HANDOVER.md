@@ -32,43 +32,44 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 7 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 8 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
 - `புகழேந்தி` — scans **10–15** — Gate A/B PASS; **9 repairs / 0 unresolved**.
 - `நளாயினி` — scans **16–23** — Gate A/B PASS; **15 repairs / 0 unresolved**.
 - `சபலம்` — scans **24–30** — Gate A/B PASS; **6 repairs / 0 unresolved**.
-- `ஆட்டக்காவடி` — scans **31–38** — Gate A/B PASS; **7 repairs / 0 unresolved**; `கருவிழியானை` retained source-close.
-- `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **4 repairs / 0 unresolved**. Story-7-triggered regression: scan 40 apparent `போதுதானு` → `போதுதானா` (historical `னா`). Existing English required no additional rewrite.
-- `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A/B PASS; **3 repairs / 0 unresolved**; one meaning-sensitive English sentence synchronized.
-- `சங்கிலிச்சாமி` — scans **57–68** — Gate A **12/12 PASS**, Gate B **12/12 PASS**, **6 repairs / 0 unresolved**. Repairs: `என்னு`→`என்னா`; `தவறுக`→`தவறாக`; `தானு?`→`தானா?`; `கூறினன்`→`கூறினான்`; `கொலைகாரனுக்கிவிட்டாயே`→`கொலைகாரனாக்கிவிட்டாயே`; `காட்டினன்`→`காட்டினான்`. Genuine `செவேன்னு` retained. English already conveyed the corrected meanings; prose rewrite **0**.
+- `ஆட்டக்காவடி` — scans **31–38** — Gate A/B PASS; **7 repairs / 0 unresolved**.
+- `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **4 repairs / 0 unresolved**; historical-`னா` regression `போதுதானு` → `போதுதானா`.
+- `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A/B PASS; **3 repairs / 0 unresolved**.
+- `சங்கிலிச்சாமி` — scans **57–68** — Gate A/B PASS; **6 repairs / 0 unresolved**.
+- `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**. Repairs: `காள மாடு` → `காளை மாடு` (historical `ளை`); `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` (historical `றா`). Existing English already expressed both corrected meanings; prose rewrite **0**.
 
-Do not reopen these seven stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these eight stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 8 `கங்கையின் காதல்`
+## Exact next activity — Story 9 `தாய்மை`
 
-Workspace: `stories/gangaiyin-kadhal/`.
+Workspace: `stories/thaaymai/`.
 
 Source range:
 
-- physical scans: **69–72**
-- printed pages: **60–63**
-- legacy canonical page records: **4 / 4**
-- scan **73** is the boundary witness opening Story 9 `தாய்மை`
+- physical scans: **73–83**
+- printed pages: **64–74**
+- legacy canonical page records: **11 / 11**
+- scan **84** is the boundary witness opening Story 10 `தப்பிவிட்டார்கள்`
 
 Complete both gates in one story-bounded activity:
 
 1. fetch live `main` and preserve newer durable work;
-2. read source-processing / historical-glyph guides, collection controls, and all Story 8 controls/page records/assembly/audit/possible-error files;
-3. Gate A — compare all 4 canonical records and assembled Tamil directly against scans 69–72;
-4. Gate B — independently reopen all 4 physical pages at high/native resolution and check all mandatory historical families;
+2. read source-processing / historical-glyph guides, collection controls, and all Story 9 controls/page records/assembly/audit/possible-error files;
+3. Gate A — compare all 11 canonical records and assembled Tamil directly against scans 73–83;
+4. Gate B — independently reopen all 11 physical pages at high/native resolution and check all mandatory historical families;
 5. correct only source-proven mismatches individually; no retranscription, global replacement or modernization;
 6. synchronize assembly, audit / possible-error / historical-glyph records and existing English only where meaning changes;
-7. mark PASS only with Gate A 4/4 + Gate B 4/4 + 0 unresolved;
-8. if PASS, advance tracker **7/37 → 8/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
+7. mark PASS only with Gate A 11/11 + Gate B 11/11 + 0 unresolved;
+8. if PASS, advance tracker **8/37 → 9/37**, synchronize collection/root controls, commit, re-fetch live `main`, and stop/report.
 
-Do **not** begin Story 9 `தாய்மை` in the same activity.
+Do **not** begin Story 10 `தப்பிவிட்டார்கள்` in the same activity.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

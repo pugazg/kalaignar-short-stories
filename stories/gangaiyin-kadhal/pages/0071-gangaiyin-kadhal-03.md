@@ -27,3 +27,12 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 - The final quoted sentence continues physically on scan 72 after `என்பொருட்டுச் சொல்`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 71; அச்சுப் பக்கம்: 62 -->
+
+
+## 2026 dual-gate note
+
+- Gate A source comparison: **PASS**.
+- Gate B independent historical-glyph review: **PASS**.
+- `இந்த பாபத்துக்கெல்லாம் நாமா பொறுப்பாளி?`, `குருபத்தினியைக் கூடியது`, `சகல போக போக்கியமுள்ள`, `ஜென்ம சாபல்யமடையலாம்`, and `தாருகாவனத்து ரிஷிகளின் மனைவிகளுக்காக` were directly rechecked and retained.
+- The repeated `என்` in `என் போன்ற யுவதிகளால் முடியுமா?....என்..பார்வதியால் தான் முடிந்ததா?....` is source-visible; no speculative `ஏன்` normalization was made.
+- No canonical text repair on this page; unresolved source/glyph readings: **0**.

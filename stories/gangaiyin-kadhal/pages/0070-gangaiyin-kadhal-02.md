@@ -49,3 +49,11 @@ transcription_method: "direct visual comparison with source scan; native/high-re
 - `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`, `சல்லாப ரூபா`, and other unusual dialogue forms are source-close and queued for human recheck.
 
 <!-- மூல ஸ்கேன் பக்கம்: 70; அச்சுப் பக்கம்: 61 -->
+
+
+## 2026 dual-gate note
+
+- Gate A source comparison: **PASS**.
+- Gate B independent historical-glyph review: **PASS**.
+- `அல்வித் தண்டில்`, `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`, `சல்லாப ரூபா`, `நல்லவேளை....தலையில் கண்ணில்லை`, and `தள்ளாத கிழவன்களுக்கு` were directly rechecked and retained source-close.
+- No canonical text repair on this page; unresolved source/glyph readings: **0**.

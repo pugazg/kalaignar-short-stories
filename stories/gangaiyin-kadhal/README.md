@@ -1,88 +1,46 @@
 # கங்கையின் காதல்
 
-Canonical story workspace for **கங்கையின் காதல்**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical story workspace for **கங்கையின் காதல்**, from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
 - Author: **கலைஞர் மு. கருணாநிதி**
 - Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
+- Edition: **முதல் பதிப்பு: 1977**
 - Printed pages: **60–63**
 - PDF scans: **69–72**
-- Source PDF committed to GitHub: **No**
+- Boundary witness: scan **73**, opening Story 9 `தாய்மை`
+- Source PDF committed: **No**
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
+## 2026 dual-gate re-audit
 
-## Tamil archival status
+**CURRENT PASS / CLOSED — Gate A 4/4 + Gate B 4/4; 2 canonical repairs; 0 unresolved.**
 
-**PASS — 4 / 4 story pages transcribed and directly source-reviewed.**
+Source-proven repairs:
 
-- page records: **4 / 4**
-- `verified`: **4**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing / unresolved story text: **0**
+1. scan 69 / printed 60: `காள மாடு` → **`காளை மாடு`** — historical `ளை`;
+2. scan 72 / printed 63: `தோன்றுமலிருக்க` → **`தோன்றாமலிருக்க`** — historical `றா`.
 
+The second repair was established by character-form comparison, not by grammar. Source-close forms such as `அசை வற்றுக்`, `சற்று முற்றும்`, `அல்வித் தண்டில்`, `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`, repeated `என்`, and `பிடரிப் பக்கம்` remain unchanged.
+
+Durable record: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).  
 Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+Audit: [`audit.md`](audit.md).  
+Closed possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
 
-## Reading layer
+## Tamil / visual layer
 
-Final current Tamil assembly:
+Canonical Tamil assembly: [`sections/gangaiyin-kadhal.md`](sections/gangaiyin-kadhal.md).
 
-[`sections/gangaiyin-kadhal.md`](sections/gangaiyin-kadhal.md)
+The opening rule and enlarged `கை`, physical continuations 69→70 and 71→72, and scan-72 closing flourish remain represented. Scan 73 / Story 9 text is excluded.
 
-The assembly preserves all four anthology scan boundaries. Scan 73, which opens `தாய்மை`, is excluded.
+## English
 
-## Human possible-error review
+English translation: [`translations/en/gangaiyin-kadhal.md`](translations/en/gangaiyin-kadhal.md) — **PASS / synchronized**.  
+Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual or easily misread source forms for later human checking. An entry there is **not a confirmed error** and does not by itself downgrade a verified page.
+No English prose rewrite was required: the existing English already renders `காளை மாடு` as “the bull” and `தோன்றாமலிருக்க` as “so that women like me may not arise again.”
 
-High-value rechecks include:
+## Next anthology re-audit
 
-- `காள மாடு`
-- `அசை வற்றுக் கிடந்தது`
-- `அல்வித் தண்டில்`
-- `கிளப்புற்ற வண்டின் கீழ்ஸ்தாயி ரீங்காரம்`
-- `சல்லாப ரூபா`
-- `குருபத்தினியைக் கூடியது`
-- `சகல போக போக்கியமுள்ள`
-- `ஜென்ம சாபல்யமடையலாம்`
-- `என்..பார்வதியால் தான் முடிந்ததா?`
-- `என் போன்ற பெண்கள் இனியும் தோன்றுமலிருக்க`
-- `பிடரிப் பக்கம்`
-
-The especially unusual `அல்வித் தண்டில்`, `என்..பார்வதியால் தான் முடிந்ததா?`, and `தோன்றுமலிருக்க` were checked with enlarged source spans and retained source-close rather than normalized.
-
-## Verified page-boundary continuations
-
-1. printed 60→61 / scans 69→70: `எதிர்பார்த்திருந்` → `தாள்.`
-2. printed 62→63 / scans 71→72: `...என்பொருட்டுச் சொல்` → `....என் போன்ற பெண்கள் இனியும் தோன்றுமலிருக்க இதைச் சொல்.....?`
-
-Printed 61→62 occurs between complete dialogue turns rather than inside a physically split word or sentence.
-
-## Story boundary
-
-- scan **69**: heading `கங்கையின் காதல்`, Story 8 opening confirmed;
-- scan **72**: story conclusion and ornamental closing rule;
-- scan **73**: heading `தாய்மை`, Story 9 opening confirmed;
-- Story 9 text included here: **No**.
-
-## English translation
-
-**PASS — complete.**
-
-- English file: [`translations/en/gangaiyin-kadhal.md`](translations/en/gangaiyin-kadhal.md)
-- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- source-page markers represented: **4 / 4**
-- physical continuations 69→70 and 71→72 preserved traceably: **Yes**
-- possible-error queue read and handled conservatively: **Yes**
-- Tamil source changed during translation: **No**
-
-## Completion state
-
-**கங்கையின் காதல் Tamil archival source processing: COMPLETE; English translation: PASS for scans 69–72 / printed pages 60–63.**
-
-## Next anthology English activity
-
-Story 9 — **தாய்மை**, printed pages **64–74**, anthology scans **73–83**.
+Story 9 — **தாய்மை**, scans **73–83 / printed pages 64–74**.

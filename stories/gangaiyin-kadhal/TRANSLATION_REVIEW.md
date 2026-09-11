@@ -82,3 +82,16 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 8.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 dual-gate synchronization
+
+Story 8 was independently re-audited against the 1977 native scans after the original English review.
+
+- Gate A: **PASS — 4/4**;
+- Gate B: **PASS — 4/4**;
+- canonical Tamil repairs: **2**;
+- unresolved source / historical-glyph readings: **0 / 0**.
+
+Repairs were scan 69 `காள மாடு` → `காளை மாடு` (historical `ளை`) and scan 72 `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` (historical `றா`).
+
+The existing English already says **“the bull”** and **“so that women like me may not arise again”**, so both corrected meanings are already represented. **English prose rewrite required: 0.** The previous possible-error queue is now closed.

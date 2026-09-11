@@ -94,3 +94,8 @@ Visual-fidelity review produced **structural-only corrections/annotations**:
 **PASS — corrected**
 
 `கங்கையின் காதல்` is visually source-faithful at the semantic archival level defined by `VISUAL_FIDELITY_CHECK_GUIDE.md`, after the source-supported structural corrections listed above.
+
+
+## 2026 dual-gate addendum
+
+The later source-fidelity + independent Old Tamil Glyph re-audit reopened all scans **69–72** at native/high resolution. It produced two canonical text/glyph repairs — scan 69 `காள`→`காளை` and scan 72 `தோன்றுமலிருக்க`→`தோன்றாமலிருக்க` — without changing the structural findings above. Gate A **4/4 PASS**, Gate B **4/4 PASS**, unresolved **0**.
