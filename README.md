@@ -40,7 +40,7 @@ Permanent guides:
 | [`இரகசியம்!`](stories/iragasiyam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 0 new repairs; 0 unresolved** | **PASS — synchronized** |
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 0 new repairs; 0 unresolved** | **PASS — synchronized** |
 | [`ஏழை`](stories/ezhai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 1 repair; 0 unresolved** | **PASS — synchronized** |
-| [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 repair; 0 unresolved** | **PASS — synchronized** |
 | [`பனங்குலை`](stories/panangulai/README.md) | **5 / 5 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **9 / 9 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`பிரேத விசாரணை`](stories/pretha-visaranai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -296,9 +296,9 @@ Source registration state:
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
 - legacy Tamil source processing: **37 / 37 complete**
-- 2026 dual-gate source re-audit: **OPEN — 15 / 37 CURRENT PASS**
-- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`**
-- exact next story: **`ஒரிஜினலில் உள்ளபடி`, scans 119–125 / printed 110–116**
+- 2026 dual-gate source re-audit: **OPEN — 16 / 37 CURRENT PASS**
+- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`**
+- exact next story: **`பனங்குலை`, scans 126–130 / printed 117–121**
 - English translation complete from anthology: **37 / 37**; affected English is synchronized when a 2026 source repair changes meaning
 
 Exact source metadata, inventory, scan map and current dual-gate tracker are under the collection workspace.
@@ -320,7 +320,7 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 13. **இரகசியம்!** — printed **99–102**, scans **108–111** — **2026 CURRENT PASS: Gate A 4/4 + Gate B 4/4; 0 new repairs; 0 unresolved**.
 14. **முந்நூறு ரூபாய்** — printed **103–105**, scans **112–114** — **2026 CURRENT PASS: Gate A 3/3 + Gate B 3/3; 0 new repairs; 0 unresolved**.
 15. **ஏழை** — printed **106–109**, scans **115–118** — **2026 CURRENT PASS: Gate A 4/4 + Gate B 4/4; 1 repair; 0 unresolved**.
-16. **ஒரிஜினலில் உள்ளபடி** — printed **110–116**, scans **119–125**, **7/7 verified**, audit PASS.
+16. **ஒரிஜினலில் உள்ளபடி** — printed **110–116**, scans **119–125** — **2026 CURRENT PASS: Gate A 7/7 + Gate B 7/7; 1 repair; 0 unresolved**.
 17. **பனங்குலை** — printed **117–121**, scans **126–130**, **5/5 verified**, audit PASS.
 18. **செத்தவள் கதை** — printed **122–130**, scans **131–139**, **9/9 verified**, audit PASS.
 19. **பிரேத விசாரணை** — printed **131–136**, scans **140–145**, **6/6 verified**, audit PASS.
@@ -343,7 +343,7 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **15 / 37 CURRENT PASS, 22 pending**, with `ஒரிஜினலில் உள்ளபடி` next.
+All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **16 / 37 CURRENT PASS, 21 pending**, with `பனங்குலை` next.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -367,9 +367,9 @@ Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
 ## Anthology Tamil source pass status
 
-**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 15 / 37 CURRENT PASS.**
+**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 16 / 37 CURRENT PASS.**
 
-The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `ஒரிஜினலில் உள்ளபடி`, scans **119–125 / printed pages 110–116**.
+The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `பனங்குலை`, scans **126–130 / printed pages 117–121**.
 
 ## Anthology English translation status
 
@@ -377,7 +377,7 @@ The legacy source layer remains complete through scan **259 / printed page 250**
 
 - Stories **1–37**: English layers exist and were previously reviewed;
 - any English materially affected by a 2026 Tamil repair is resynchronized during that story's dual-gate closure;
-- `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, and `ஏழை` English are synchronized to their current 2026 Tamil;
+- `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, and `ஒரிஜினலில் உள்ளபடி` English are synchronized to their current 2026 Tamil;
 - final English story boundary: scan **259 / printed page 250**;
 - scan **260** remains the verified anthology back cover;
 - translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md);
