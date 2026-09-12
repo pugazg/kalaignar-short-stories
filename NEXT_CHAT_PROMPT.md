@@ -1,8 +1,8 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `பாலைவன ரோஜா` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `புரட்சிப் படம்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Observed live checkpoint when this prompt was refreshed: `b9abdee0090a9a0cd3ec8405a807c7252af221b4` — `Close அபாக்ய சிந்தாமணி 2026 dual-gate`. If live `main` has advanced, preserve the newer durable state and do not roll back.
+Observed live checkpoint when this prompt was refreshed: `e8713c28bd94f4b3a57ee0e8b63893ad1695c400` — `Close பாலைவன ரோஜா 2026 dual-gate`. If live `main` has advanced, preserve the newer durable state and do not roll back.
 
 Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf` — முதல் பதிப்பு 1977, 260 scans, 268,486,609 bytes, SHA-256 `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`. Image-only; do not commit it.
 
@@ -10,16 +10,13 @@ This remains **comparison repair, not retranscription**. Source pixels govern. P
 
 ## Durable state
 
-Collection tracker: **OPEN — 26 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 27 / 37 dual-gate complete**.
 
-Stories **1–26 are CLOSED**. Most recent: `அபாக்ய சிந்தாமணி`, scans **181–188 / printed 172–179** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**.
+Stories **1–27 are CLOSED**. Most recent: `பாலைவன ரோஜா`, scans **189–193 / printed 180–184** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**.
 
-2026 repair:
-- scan 188: `சோக கதத்தில்` → `சோக கீதத்தில்`.
+All **15** legacy pending candidates were reopened and source-reconfirmed. Gate B required no historical-glyph repair. English prose rewrite was **0**. Scan 194 independently opens Story 28 with heading `புரட்சிப் படம்`; the TOC form remains `புரட்சிப்படம்`.
 
-All 11 legacy pending candidates were source-resolved. Gate B required no additional correction. Existing English already had “in that sad cadence,” so English prose rewrite was **0**. Scan 189 independently opens Story 27 `பாலைவன ரோஜா`.
-
-Do not reopen Stories 1–26 unless genuinely new direct source evidence appears.
+Do not reopen Stories 1–27 unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
@@ -34,48 +31,43 @@ Read completely before changing anything:
 7. collection `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
 8. `indexes/story-inventory.md`
 9. `indexes/scan-map.md`
-10. all controls, page records, assembly, audit, possible-error queue, visual/source metadata and English review under `stories/palaivana-roja/`
+10. all controls, page records, assembly, audit, possible-error queue, visual/source metadata and English review under `stories/puratchip-padam/`
 
-## Exact next activity — `பாலைவன ரோஜா`
+## Exact next activity — `புரட்சிப் படம்`
 
-- workspace: `stories/palaivana-roja/`
-- scans: **189–193**
-- printed pages: **180–184**
+- workspace: `stories/puratchip-padam/`
+- TOC title: **`புரட்சிப்படம்`**
+- opening heading: **`புரட்சிப் படம்`**
+- scans: **194–198**
+- printed pages: **185–189**
 - canonical pages: **5/5**
-- scan **194** is boundary witness opening Story 28 `புரட்சிப் படம்`
-- Story 28 TOC title: `புரட்சிப்படம்`
+- scan **199** is boundary witness opening Story 29 `திடுக்கிடும் கதை`
 
-Gate A: compare all five page records and assembly directly against scans 189–193, including wording, punctuation, meaningful spacing, paragraph structure, source emphasis, opening/closing furniture, all physical joins and every legacy possible-error candidate.
+Gate A: compare all five page records and assembly directly against scans 194–198, including wording, punctuation, meaningful spacing, paragraph/dialogue structure, title variance, source-bold publicity/display text, opening/closing furniture, physical joins and every source-sensitive queue entry.
 
 Gate B: independently reopen all five scans at native/high resolution and explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus ligatures, faint vowel marks, and `ர/ற`, `ன/ண`, `ல/ள` ambiguities.
 
-### Legacy human-recheck queue
+### Legacy queue state
 
-- [ ] `கோதை மயிலாளின் ஜாக்கையை` — native/full-span reading retained; unusual lexical form queued for later human recheck.
-- [ ] `படை யெடுக்கும்` — visible source spacing retained rather than silently joining the form.
-- [ ] `மேடனிக் காட்சி ரசிகர்கள்` — source-sensitive foreign-derived form retained.
-- [ ] `பெர்ணட்ஷாவைப்` and `இங்கர்சாலைக்` — printed transliterations retained as visible.
-- [ ] `‘பெஞ்சி’லே` retained from the source.
-- [ ] `‘ஈன்ஸ்டினின் தியரி’` and `‘புரொபஸர்’` retained as printed.
-- [ ] `மாறுத புகழ் வரப்போகிறது` — native scan directly rechecked; unusual form retained for later human review.
-- [ ] `அகில உலகமும் புகழும் அரசியல் மேதை` and final `அவர்கள் எதிர்காலம்` retained from the source rather than contextually rewritten.
-- [ ] `மாயமாலக்காரி` retained from source.
-- [ ] `ஏழைக் கந்தையாக்கள்` retained from source.
-- [ ] `உலகம் போற்றும் அறிஞனைத் திகழ்வான்` — full-span source reading retained despite unusual syntax.
-- [ ] `கூட்டாளிகெல்லாம்` retained from source.
-- [ ] constitutional quotation ending `சந்தர்ப்பம் முதலியவற்றை வழங்கவும் உறுதிப் படுத்துகிறோம்` retained exactly from the source-sensitive span.
-- [ ] `அந்த வெள்ளெருக்கை மலருக்குச் சிகப்பு வர்ணம் பூசுகிறார்கள்` retained from the native source.
-- [ ] `மாசுபடிந்த திராவிடமே` retained from source.
+There are **0 pending `[ ]` items** at the legacy layer. Nevertheless independently reopen all current source-sensitive `[x]` entries:
+
+- [x] scan 194 / printed 185 — opening heading is `புரட்சிப் படம்`; TOC form is separately `புரட்சிப்படம்`.
+- [x] scan 194 / printed 185 — `படப் பிடிப்பு` is visibly spaced in the quoted list.
+- [x] scan 195 / printed 186 — `அறிவுக்கதை யொன்றை` retains the visible source spacing/form.
+- [x] scan 195 / printed 186 — `படப்பிடிப்புவேலை`, `விளக்குவதாகயிருந்தது`, and `ஆஷாடபூதித்தனங்கள்` retained.
+- [x] scan 196 / printed 187 — `படந்தான்`, `தாராசசாங்கத்தைப்`, `பாரபக்ஷம்`, `எதாவது`, and bold slogan form `ஏமாற்றுதே` retained.
+- [x] scan 197 / printed 188 — `பரவிற்று`, `திலகநகரத்திலே`, `வெளுப்பாயிருந்தது`, and `முற்றிற்று` retained.
+- [x] scan 198 / printed 189 — repeated `வெட்டினர்கள்` and concluding `வீசிற்று` retained.
 
 Existing joins to recheck:
 
-- 189→190: scan 189 closes `...திகழ்ந்தான் கந்தையா.`; scan 190 opens a new quotation;
-- 190→191: `...அவர்கள் எதிர்காலம்.` → `பாவம்!`;
-- 191→192: `...அவர்கள்` → `எல்லாருமே இப்போது குமாஸ்தாக்கள்”`;
-- 192→193: `...குன்றென உலவு` → `கிறான்.`.
+- 194→195: `...மக்களத்` → `திருத்தும் வகையில்...`;
+- 195→196: `...பாடல்கள் தேன்பாகு` → `கற்கண்டு!`;
+- 196→197: `...என்ற சேதி` → `நாடெங்கும் பரவிற்று;`;
+- 197→198: final question about the censor's two cuts → answer beginning `ஆமாம் தோழர்களே!`.
 
-Use scan **194** only as the Story 28 boundary witness. Preserve the title distinction: opening heading **`புரட்சிப் படம்`**, TOC **`புரட்சிப்படம்`**.
+Use scan **199** only as the Story 29 boundary witness. Preserve the source-title distinction: TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**.
 
-If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update a durable Gate A/B record; advance **26/37 → 27/37** only with Gate A 5/5 + Gate B 5/5 + 0 unresolved; update collection/root controls; commit and re-fetch live `main`.
+If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update a durable Gate A/B record; advance **27/37 → 28/37** only with Gate A 5/5 + Gate B 5/5 + 0 unresolved; update collection/root controls; commit and re-fetch live `main`.
 
-Do **not** begin Story 28 in the same activity.
+Do **not** begin Story 29 `திடுக்கிடும் கதை` in the same activity.
