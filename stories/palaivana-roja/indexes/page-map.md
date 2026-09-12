@@ -20,4 +20,6 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 
 Visual fidelity: **PASS — corrected**; scan 189 opening rule/source emphasis and scan 193 ending ornament/role synchronized.
 
+2026 dual-gate: **Gate A 5/5 PASS / Gate B 5/5 PASS — 0 new repairs / 0 unresolved**.
+
 Scan **194** begins Story 28 with opening heading `புரட்சிப் படம்` (TOC title `புரட்சிப்படம்`) and is outside this story range.

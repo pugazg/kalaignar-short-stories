@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 26 / 37 CURRENT PASS.**
+**OPEN — 27 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -62,8 +62,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; English synchronized in 6 phrases.
 - `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
 - `அபாக்ய சிந்தாமணி` — scans **181–188** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
+- `பாலைவன ரோஜா` — scans **189–193** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; all 15 legacy pending candidates resolved; English prose rewrite 0.
 
-Do not reopen these twenty-six stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-seven stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -154,11 +155,23 @@ Full story record: `../../stories/vazha-mudiyathavargal/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/abagya-chinthamani/RE_AUDIT_2026.md`.
 
+### `பாலைவன ரோஜா` closure
+
+- scans **189–193 / printed 180–184**
+- Gate A **5/5 PASS**
+- Gate B **5/5 PASS**
+- **0 new repairs / 0 unresolved**
+- all **15/15** legacy pending candidates source-resolved
+- English prose rewrite **0**
+- scan 194 independently opens `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`)
+
+Full story record: `../../stories/palaivana-roja/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 27 **`பாலைவன ரோஜா`** — scans **189–193 / printed pages 180–184** — **NEXT**.
+Story 28 **`புரட்சிப் படம்`** — TOC `புரட்சிப்படம்` — scans **194–198 / printed pages 185–189** — **NEXT**.
 
-Complete Gate A **5/5** and independent Gate B **5/5**. Use scan **194** only as the boundary witness opening Story 28 `புரட்சிப் படம்` (TOC: `புரட்சிப்படம்`). Advance to **27/37** only with zero unresolved; stop before Story 28.
+Complete Gate A **5/5** and independent Gate B **5/5**. Use scan **199** only as the boundary witness opening Story 29 `திடுக்கிடும் கதை`. Advance to **28/37** only with zero unresolved; stop before Story 29.
 
 
 ## Legacy processing state

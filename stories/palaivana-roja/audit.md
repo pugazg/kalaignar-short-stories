@@ -45,7 +45,7 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. Particularly unusual readings including `கோதை மயிலாளின் ஜாக்கையை`, `படை யெடுக்கும்`, `மேடனிக் காட்சி`, `பெர்ணட்ஷாவைப்`, `இங்கர்சாலைக்`, `மாறுத புகழ்`, `மாயமாலக்காரி`, `கந்தையாக்கள்`, `அறிஞனைத் திகழ்வான்`, `கூட்டாளிகெல்லாம்`, the constitutional quotation, `வெள்ளெருக்கை மலருக்குச்`, and `மாசுபடிந்த திராவிடமே` remain explicitly queued for later human recheck while their source spans remain structurally complete.
+The 2026 dual-gate pass reopened every legacy candidate. All 15 pending forms—including `கோதை மயிலாளின் ஜாக்கையை`, `படை யெடுக்கும்`, `மேடனிக் காட்சி`, `பெர்ணட்ஷாவைப்`, `இங்கர்சாலைக்`, `மாறுத புகழ்`, `மாயமாலக்காரி`, `கந்தையாக்கள்`, `அறிஞனைத் திகழ்வான்`, `கூட்டாளிகெல்லாம்`, the constitutional quotation, `வெள்ளெருக்கை மலருக்குச்`, and `மாசுபடிந்த திராவிடமே`—were source-reconfirmed. **No queue item remains pending.**
 
 ## Assembly gate
 
@@ -63,4 +63,19 @@ Direct visual comparison synchronized the scan-189 opening rule and source-bold 
 
 ## Audit result
 
-**PASS — பாலைவன ரோஜா source range is fully transcribed and structurally source-complete: 5/5 verified, 0 blocked, 0 unresolved story text. Visual fidelity: PASS — corrected.**
+**PASS — பாலைவன ரோஜா source range is fully transcribed and structurally source-complete: 5/5 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 5/5 PASS + Gate B 5/5 PASS, 0 new repairs, 0 unresolved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **0 new repairs**
+- legacy pending candidates resolved: **15 / 15**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 194 independently reconfirmed as Story 28 `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`)
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

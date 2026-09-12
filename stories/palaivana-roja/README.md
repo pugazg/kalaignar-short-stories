@@ -13,6 +13,20 @@ Canonical story workspace for **பாலைவன ரோஜா**, processed fro
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **0 new repairs**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 5 / 5 story pages transcribed and directly source-reviewed.**
@@ -34,7 +48,7 @@ The assembly preserves all five anthology scan boundaries. Scan 194, which opens
 
 ## Human possible-error review
 
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic, colloquial or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
+[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) now records the resolved 2026 dispositions for the unusual, archaic, colloquial and source-sensitive forms. **0 pending / 0 unresolved.**
 
 High-value source-close readings include `ஜாக்கையை`, `படை யெடுக்கும்`, `மேடனிக் காட்சி`, `வசிஷ்ட மண்டலமென`, `பெர்ணட்ஷாவைப்`, `இங்கர்சாலைக்`, `துதிபாடி`, `‘பெஞ்சி’லே`, `‘ஈன்ஸ்டினின் தியரி’`, `“மாடர்னைஸ்”`, `மாறுத புகழ்`, `மாசமருவின்றித்`, `மாயமாலக்காரி`, `கந்தையாக்கள்`, `அறிஞனைத் திகழ்வான்`, `கூட்டாளிகெல்லாம்`, `அத்திம்பேர்`, `செக்ரெட்டரியெட்டில்`, `உறுதிப் படுத்துகிறோம்`, `கவிதா சிரோன்மணி`, `இஞ்சினீயர்`, `தொட்டாற் சுருங்கியைப்போல்`, `வெண்மணற்பரப்பிலே`, `எஃகுக்கம்பி`, `வெள்ளெருக்கை`, `மாசுபடிந்த`, and `கண்—நீர்தான்`.
 
@@ -75,7 +89,7 @@ High-value source-close readings include `ஜாக்கையை`, `படை 
 
 ## Completion state
 
-**பாலைவன ரோஜா Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 189–193 / printed pages 180–184. English review result: PASS.**
+**பாலைவன ரோஜா is 2026 CURRENT PASS / CLOSED: Gate A 5/5 + Gate B 5/5, 0 new repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 189–193 / printed pages 180–184. English review result: PASS.
 
 ## Next anthology English activity
 

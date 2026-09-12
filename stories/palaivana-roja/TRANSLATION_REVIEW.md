@@ -73,10 +73,19 @@ Notable conservative choices include:
 
 **None.**
 
-Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription.
+The later 2026 dual-gate source audit likewise required **0 canonical Tamil repairs**. All 15 legacy pending source-sensitive forms were reconfirmed directly against the scans.
 
 ## Result
 
 **PASS — English translation complete for Story 27.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven Tamil repairs: **0 new repairs**
+- English prose rewrite required: **0**
+- unresolved source / historical-glyph readings: **0 / 0**

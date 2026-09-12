@@ -52,3 +52,8 @@ The scan preserves source-close and historically/typeset-sensitive forms includi
 - printed **182→183** / scans **191→192**: `...அவர்கள்` → `எல்லாருமே இப்போது குமாஸ்தாக்கள்”`.
 - printed **183→184** / scans **192→193**: `...குன்றென உலவு` → `கிறான்.`.
 - scan **193** closes the story and scan **194** opens `புரட்சிப் படம்`.
+
+
+## 2026 dual-gate note
+
+All five story scans were independently reopened at native **3146×4826** resolution. All 15 legacy pending candidates were source-resolved without canonical change. Gate B explicitly rechecked all mandatory historical-glyph families and required **0** repair. Unresolved source/glyph readings: **0 / 0**. Scan 194 was independently reconfirmed as Story 28 `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`).

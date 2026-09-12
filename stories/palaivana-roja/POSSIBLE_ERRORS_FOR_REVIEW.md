@@ -13,29 +13,29 @@
 ## Scan 189 / printed 180
 
 - [x] title `பாலைவன ரோஜா` and source emphasis on `கந்தையா` checked.
-- [ ] `கோதை மயிலாளின் ஜாக்கையை` — native/full-span reading retained; unusual lexical form queued for later human recheck.
-- [ ] `படை யெடுக்கும்` — visible source spacing retained rather than silently joining the form.
-- [ ] `மேடனிக் காட்சி ரசிகர்கள்` — source-sensitive foreign-derived form retained.
+- [x] `கோதை மயிலாளின் ஜாக்கையை` — native/full-span reread source-confirms the unusual lexical form; retained.
+- [x] `படை யெடுக்கும்` — visible source spacing independently reconfirmed; retained.
+- [x] `மேடனிக் காட்சி ரசிகர்கள்` — native source span reconfirmed; retained.
 - [x] `வசிஷ்ட மண்டலமென ஒரு சில நட்சத்திரங்கள்` directly rechecked in the native scan.
 
 ## Scan 190 / printed 181
 
-- [ ] `பெர்ணட்ஷாவைப்` and `இங்கர்சாலைக்` — printed transliterations retained as visible.
+- [x] `பெர்ணட்ஷாவைப்` and `இங்கர்சாலைக்` — printed transliterations independently rechecked and retained.
 - [x] `தும்பிகள் துதிபாடி நிற்கின்றன` rechecked in enlarged complete-span view; `துதிபாடி` retained.
-- [ ] `‘பெஞ்சி’லே` retained from the source.
-- [ ] `‘ஈன்ஸ்டினின் தியரி’` and `‘புரொபஸர்’` retained as printed.
+- [x] `‘பெஞ்சி’லே` — source-confirmed and retained.
+- [x] `‘ஈன்ஸ்டினின் தியரி’` and `‘புரொபஸர்’` — source-confirmed and retained.
 - [x] `“மாடர்னைஸ்” செய்யவேண்டும்` retained.
-- [ ] `மாறுத புகழ் வரப்போகிறது` — native scan directly rechecked; unusual form retained for later human review.
-- [ ] `அகில உலகமும் புகழும் அரசியல் மேதை` and final `அவர்கள் எதிர்காலம்` retained from the source rather than contextually rewritten.
+- [x] `மாறுத புகழ் வரப்போகிறது` — native full-span reread reconfirms the unusual form; retained.
+- [x] `அகில உலகமும் புகழும் அரசியல் மேதை` and final `அவர்கள் எதிர்காலம்` — complete source spans reconfirmed; retained.
 
 ## Scan 191 / printed 182
 
 - [x] `சூதாட்டம் போலன்றி, மாசமருவின்றித் துவங்கிய` retained.
-- [ ] `மாயமாலக்காரி` retained from source.
-- [ ] `ஏழைக் கந்தையாக்கள்` retained from source.
+- [x] `மாயமாலக்காரி` — source-confirmed and retained.
+- [x] `ஏழைக் கந்தையாக்கள்` — source-confirmed and retained.
 - [x] `“என்னைத் தெரிகிறதா சார்!”` directly rechecked.
-- [ ] `உலகம் போற்றும் அறிஞனைத் திகழ்வான்` — full-span source reading retained despite unusual syntax.
-- [ ] `கூட்டாளிகெல்லாம்` retained from source.
+- [x] `உலகம் போற்றும் அறிஞனைத் திகழ்வான்` — enlarged complete-span reread reconfirms the printed syntax; retained.
+- [x] `கூட்டாளிகெல்லாம்` — source-confirmed and retained.
 - [x] `‘ஸ்காலர்ஷிப்’` retained.
 - [x] page ends inside the quotation at `...அவர்கள்`; scan 192 continues the sentence.
 
@@ -44,7 +44,7 @@
 - [x] physical continuation `...அவர்கள்` → `எல்லாருமே இப்போது குமாஸ்தாக்கள்”` checked.
 - [x] `அத்திம்பேர் டெல்லி செக்ரெட்டரியெட்டில்` retained.
 - [x] `ஐ. நா. சபைக்குப்` retained.
-- [ ] constitutional quotation ending `சந்தர்ப்பம் முதலியவற்றை வழங்கவும் உறுதிப் படுத்துகிறோம்` retained exactly from the source-sensitive span.
+- [x] constitutional quotation ending `சந்தர்ப்பம் முதலியவற்றை வழங்கவும் உறுதிப் படுத்துகிறோம்` — complete source span reconfirmed exactly.
 - [x] `கவிதா சிரோன்மணி`, `சங்கீதரத்தினம்`, and `இஞ்சினீயர்` rechecked.
 - [x] `தொட்டாற் சுருங்கியைப்போல்` and `சொற்பொழிவுக்குப்` rechecked.
 - [x] page ends `...குன்றென உலவு`; scan 193 completes the word/sentence.
@@ -53,8 +53,8 @@
 
 - [x] physical continuation `...குன்றென உலவு` → `கிறான்.` checked.
 - [x] `வெண்மணற்பரப்பிலே` and `எஃகுக்கம்பி` retained.
-- [ ] `அந்த வெள்ளெருக்கை மலருக்குச் சிகப்பு வர்ணம் பூசுகிறார்கள்` retained from the native source.
-- [ ] `மாசுபடிந்த திராவிடமே` retained from source.
+- [x] `அந்த வெள்ளெருக்கை மலருக்குச் சிகப்பு வர்ணம் பூசுகிறார்கள்` — native source span reconfirmed; retained.
+- [x] `மாசுபடிந்த திராவிடமே` — source-confirmed and retained.
 - [x] `கண்—நீர்தான்!` punctuation and wording checked.
 - [x] final ornamental rule checked.
 
@@ -70,3 +70,8 @@
 - [x] no Story 28 text is included in Story 27.
 
 A later correction must be checked against the controlling scan and propagated to the page record, assembled Tamil, audit, story README and affected collection/root control files.
+
+
+## 2026 dual-gate disposition
+
+**0 pending / 0 unresolved.** All 15 legacy pending candidates and all mandatory historical-glyph families were independently reopened against the controlling scans. Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs**.

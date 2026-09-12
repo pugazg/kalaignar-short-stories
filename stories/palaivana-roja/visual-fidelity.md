@@ -49,7 +49,7 @@ No text is omitted or duplicated. Scan 193→194 is a clean story boundary.
 
 ## Remaining visual-fidelity issues
 
-**None.** The persistent possible-error queue remains a separate human-reading queue.
+**None.** The 2026 dual-gate pass resolved the persistent possible-error queue to **0 pending / 0 unresolved**.
 
 ## Result
 
