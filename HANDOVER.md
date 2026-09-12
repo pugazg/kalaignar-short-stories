@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `74fbaa225741dd72475ec24ede7785721cf98153` — `Close வாழ முடியாதவர்கள் 2026 dual-gate`
+- refreshed live checkpoint: `b9abdee0090a9a0cd3ec8405a807c7252af221b4` — `Close அபாக்ய சிந்தாமணி 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 25 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 26 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -62,27 +62,33 @@ Current tracker state: **OPEN — 25 / 37 dual-gate complete**.
 - `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; three historical-`லை` repairs plus scan-161 spacing and scan-163 `போல்`; English prose rewrite 0.
 - `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; historical `ணை` and `னா` repairs plus seven wording/spacing repairs; English synchronized in 6 phrases.
 - `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; `பரவாயில்ல` → `பரவாயில்லே`, historical `றா` `கேட்கிறயா` → `கேட்கிறாயா`, historical `ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`; English prose rewrite 0.
+- `அபாக்ய சிந்தாமணி` — scans **181–188** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**; scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all 11 legacy queue items resolved; English prose rewrite 0.
 
-Do not reopen these twenty-five stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-six stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 26 `அபாக்ய சிந்தாமணி`
+## Exact next activity — Story 27 `பாலைவன ரோஜா`
 
-Workspace: `stories/abagya-chinthamani/`.
+Workspace: `stories/palaivana-roja/`.
 
-- scans **181–188 / printed 172–179**
-- canonical pages **8/8**
-- scan **189** is the boundary witness opening Story 27 `பாலைவன ரோஜா`
+- scans **189–193 / printed 180–184**
+- canonical pages **5/5**
+- scan **194** is the boundary witness opening Story 28 `புரட்சிப் படம்`
+- Story 28 TOC title: `புரட்சிப்படம்`
 - persistent human-recheck candidates from the current queue:
-  - [ ] `ஆள் அப்படி மதிக்கத் தோன்றுது` and `நாற்பது ஐம்பதுதான் மதிக்கத்தோன்றும்` retained as printed.
-  - [ ] `அபாக்கிய சிந்தாமணி` in the body is retained alongside the story heading `அபாக்ய சிந்தாமணி` rather than silently harmonized.
-  - [ ] `பத்து வயதுப் பசலையின்` retained as printed.
-  - [ ] `மாணவர்களிடம் பெரியதொரு யுத்தமே ஏற்படவேண்டும் என் பொருட்டு` retained from the visible span.
-  - [ ] `வசைமாரி` retained.
-  - [ ] `நாயைக் குளிப்பாட்டி` retained.
-  - [ ] `ராமலிங்க சிவானந்தம்` and `ஜோதியானந்தம்` retained as printed names.
-  - [ ] `குரு குலத்திலிருந்து` retained with the source spacing.
-  - [ ] `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை` retained from the visible source span for later human recheck.
-  - [ ] `விபச்சாரியாக வாவது` retained with the visible source spacing.
-  - [ ] `அந்தச் சோக கதத்தில் கூட ஏழ்மையின் பிரதி பலிப்பு இல்லையே!` retained as printed.
+  - [ ] `கோதை மயிலாளின் ஜாக்கையை` — native/full-span reading retained; unusual lexical form queued for later human recheck.
+  - [ ] `படை யெடுக்கும்` — visible source spacing retained rather than silently joining the form.
+  - [ ] `மேடனிக் காட்சி ரசிகர்கள்` — source-sensitive foreign-derived form retained.
+  - [ ] `பெர்ணட்ஷாவைப்` and `இங்கர்சாலைக்` — printed transliterations retained as visible.
+  - [ ] `‘பெஞ்சி’லே` retained from the source.
+  - [ ] `‘ஈன்ஸ்டினின் தியரி’` and `‘புரொபஸர்’` retained as printed.
+  - [ ] `மாறுத புகழ் வரப்போகிறது` — native scan directly rechecked; unusual form retained for later human review.
+  - [ ] `அகில உலகமும் புகழும் அரசியல் மேதை` and final `அவர்கள் எதிர்காலம்` retained from the source rather than contextually rewritten.
+  - [ ] `மாயமாலக்காரி` retained from source.
+  - [ ] `ஏழைக் கந்தையாக்கள்` retained from source.
+  - [ ] `உலகம் போற்றும் அறிஞனைத் திகழ்வான்` — full-span source reading retained despite unusual syntax.
+  - [ ] `கூட்டாளிகெல்லாம்` retained from source.
+  - [ ] constitutional quotation ending `சந்தர்ப்பம் முதலியவற்றை வழங்கவும் உறுதிப் படுத்துகிறோம்` retained exactly from the source-sensitive span.
+  - [ ] `அந்த வெள்ளெருக்கை மலருக்குச் சிகப்பு வர்ணம் பூசுகிறார்கள்` retained from the native source.
+  - [ ] `மாசுபடிந்த திராவிடமே` retained from source.
 
-Complete Gate A **8/8** and independent Gate B **8/8**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **25/37 → 26/37** only with zero unresolved; stop before Story 27.
+Complete Gate A **5/5** and independent Gate B **5/5**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **26/37 → 27/37** only with zero unresolved; stop before Story 28.
