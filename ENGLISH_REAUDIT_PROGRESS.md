@@ -10,7 +10,7 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
-- E2 meaning fidelity: **21 / 37 PASS**
+- E2 meaning fidelity: **37 / 37 PASS — CLOSED**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
@@ -18,7 +18,7 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E2 — Story 22 `தொத்துக்கிளி`, meaning fidelity against final canonical Tamil**
+- exact next activity: **E3 — Story 1 `புகழேந்தி`, terminology / names / cultural consistency**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -43,22 +43,22 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 
 ## E1 completed
 
@@ -227,3 +227,33 @@ Cumulative E2: **21/37 PASS / 12 English fidelity repairs / 0 unresolved**.
 ## Current next
 
 Continue **E2** with Story 22 `தொத்துக்கிளி`. Do not start E3 until E2 reaches 37/37 unless explicitly redirected.
+
+
+### E2 — Stories 22–37 closure batch
+
+The user explicitly authorized processing **all remaining stories**. Stories **22–37 are E2 PASS**.
+
+No additional E2 prose repair was required in this final sixteen-story batch. The later translations had already absorbed their 2026 Tamil source synchronizations; source-close or culturally opaque forms that did not create a proven meaning error were deliberately left for E3 terminology / cultural consistency rather than guessed during E2.
+
+Batch result:
+
+- stories reviewed: **16**
+- new English fidelity repairs: **0**
+- Tamil changes: **0**
+- controlling-source reopenings: **0**
+- unresolved E2 issues: **0**
+
+## E2 programme closure
+
+**E2 is CLOSED — 37/37 PASS.**
+
+Cumulative E2 findings:
+
+- English fidelity repairs: **12**
+- unresolved E2 issues: **0**
+- Tamil changes caused by E2: **0**
+- source reopenings caused by E2: **0**
+
+## Current next
+
+Proceed to **E3 — terminology / names / cultural consistency**, beginning with Story 1 `புகழேந்தி`. Do not start E4 until E3 reaches 37/37 unless the user explicitly changes the gate order.

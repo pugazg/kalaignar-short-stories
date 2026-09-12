@@ -11,33 +11,36 @@
 
 ## Durable current state
 
-- E1: **CLOSED — 37/37 PASS**
-- E2: **21/37 PASS**
-- E3: **0/37**
-- E4: **0/37**
-- E5: **0/37**
+- E1 completeness / physical-page alignment: **CLOSED — 37/37 PASS**
+- E2 meaning fidelity: **CLOSED — 37/37 PASS**
+- E3 terminology / names / cultural consistency: **0/37**
+- E4 English quality: **0/37**
+- E5 final bilingual approval: **0/37**
 - cumulative E1 page-anchor/content-boundary repairs: **8**
 - cumulative E1 structure-traceability annotation repairs: **18**
 - cumulative E2 English fidelity repairs: **12**
 - unresolved English re-audit issues: **0**
 
-Final canonical Tamil remains authoritative. The English programme is verification/repair, not retranslation. Reopen the controlling PDF only if E2 exposes a plausible Tamil-source defect.
+Final canonical Tamil remains authoritative. The English programme is verification/repair, not retranslation. The controlling PDF is reopened only when an English gate exposes a plausible Tamil-source defect.
 
-## Latest E2 batch — Stories 12–21
+## E2 closure
 
-Stories **12–21 are all E2 PASS**.
+Stories **1–37 are E2 PASS**.
 
-New fidelity repairs:
+Final closure batch, Stories **22–37**:
 
-1. `முந்நூறு ரூபாய்` — `போன பணம் திரும்பி வந்த ஆனந்தத்தில்`: removed the false implication that the lent money was a gift; English now says **“Delighted to have the money back.”**
-2. `பனங்குலை` — `வயிறு கழுவிக் கொள்ள`: repaired the literal “wash her stomach” to the idiomatic meaning **“keep herself fed.”**
+- reviewed: **16 stories**
+- new English fidelity repairs: **0**
+- Tamil changes: **0**
+- source reopenings: **0**
+- unresolved: **0**
 
-The other eight stories required no E2 prose change. Source-close terminology and culturally opaque forms that do not create a proven meaning error remain deferred to E3 terminology/cultural-consistency review.
+The later translations already reflected their 2026 Tamil synchronizations. Source-close, transliterated, culturally specific or lexically opaque forms that did not create a proven meaning error were not guessed during E2; they are explicitly the subject of E3.
 
-No Tamil changed. No controlling-source PDF reinspection was required. Batch unresolved: **0**.
+Cumulative E2 repairs across the anthology: **12**.
 
 ## Exact next activity
 
-**E2 — Story 22 `தொத்துக்கிளி` — meaning fidelity.**
+**E3 — Story 1 `புகழேந்தி` — terminology / names / cultural consistency.**
 
-Compare the complete English sentence-by-sentence against final canonical Tamil, prioritizing 2026 Tamil repair locations, source-retained oddities, agency, tense/aspect, negation, quantities, relationships, rhetoric, irony, figurative language and dialogue. Do not start E3.
+Check personal names, kinship terms, political/social vocabulary, idioms, transliteration, recurring concepts, titles, culturally specific expressions and anthology-wide consistency against the final Tamil and established English conventions. Record every repair or 0 repairs. Do not start E4.
