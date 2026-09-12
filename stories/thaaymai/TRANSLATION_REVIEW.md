@@ -45,3 +45,18 @@ Repairs whose corrected Tamil meaning was already represented in English did not
 ## Result
 
 **PASS — complete and traceable to the 2026 dual-gate-verified Tamil.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **11/11 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All ten internal joins were checked. High-value transitions include 74→75 `தரவும்` → `நான் தயங்கமாட்டேன்`, 78→79 `தெரியாதவள்போல` → `அவள்`, and 80→81 `அழகுப் பிறை நிலவு` → the continuing action. The restored scan-77 paragraph remains within the correct source-page section.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

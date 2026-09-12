@@ -40,3 +40,13 @@ English translation: [`translations/en/thaaymai.md`](translations/en/thaaymai.md
 ## Next anthology activity
 
 Story 10 **தப்பிவிட்டார்கள்** — scans **84–91 / printed 75–82** — is next for the 2026 dual-gate re-audit. Do not reopen `தாய்மை` without genuinely new direct source evidence.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **11/11**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

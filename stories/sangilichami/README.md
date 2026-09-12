@@ -52,3 +52,13 @@ The six 2026 repairs correct historical character identity/source reading, but t
 ## Next anthology re-audit
 
 Story 8 — **கங்கையின் காதல்**, scans **69–72 / printed pages 60–63**.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **12/12**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

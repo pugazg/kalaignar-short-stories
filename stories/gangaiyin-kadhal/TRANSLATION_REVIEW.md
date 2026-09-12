@@ -95,3 +95,18 @@ Story 8 was independently re-audited against the 1977 native scans after the ori
 Repairs were scan 69 `காள மாடு` → `காளை மாடு` (historical `ளை`) and scan 72 `தோன்றுமலிருக்க` → `தோன்றாமலிருக்க` (historical `றா`).
 
 The existing English already says **“the bull”** and **“so that women like me may not arise again”**, so both corrected meanings are already represented. **English prose rewrite required: 0.** The previous possible-error queue is now closed.
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **4/4 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+The 69→70 source split falls inside `எதிர்பார்த்திருந்` → `தாள்`; English represents the same adjacent continuation at the nearest natural phrase boundary `waiting` → `for someone`. The 71→72 quoted plea continues across the correct marker. No non-adjacent spillover was found.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

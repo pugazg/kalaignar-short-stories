@@ -1,0 +1,41 @@
+# English Re-Audit 2026 — தப்பவில்லை
+
+## Scope
+
+- anthology story: **11 / 37**
+- final Tamil authority: `sections/thappavillai.md`
+- verified Tamil pages: scans **92–101 / printed 83–92**
+- English: `translations/en/thappavillai.md`
+- E1 gate: **completeness / physical-page alignment**
+
+## Gate state
+
+- E1: **PASS**
+- E2: **PENDING**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
+
+## E1 result
+
+- verified physical pages represented: **10/10**
+- source-page markers present/in order: **10/10 PASS**
+- omitted Tamil story spans: **0**
+- duplicated English story spans: **0**
+- non-adjacent moved story spans after review: **0**
+- unsupported added story content: **0**
+- E1 repairs: **1 page-anchor repair**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+One clear anchor defect was repaired at 92→93. Tamil scan 92 ends with the thought `...இந்தக் கோட்டையையும் சரித்துத் தகர்த்துவிட்டால் என்ன என்று`; scan 93 begins `மனக்கோட்டை கட்ட அவன் தவறவில்லை.`. The English had placed the scan-93 mental-castle clause before the marker. It now leaves the question on scan 92 and begins scan 93 with `He did not fail to build a castle in his mind around that thought.`. Meaning is unchanged.
+
+Opening/closing source furniture and source-significant display blocks recorded in the Tamil assembly remain traceable in English. The next anthology story is excluded.
+
+## Regression check
+
+Corrected state: **PASS**. Reconstructed prior marker placement: **FAIL — page anchoring**. Restored corrected placement: **PASS**.
+
+## Current disposition
+
+**E1 PASS.** E2 remains pending until anthology-wide E1 is complete.

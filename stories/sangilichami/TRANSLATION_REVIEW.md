@@ -101,3 +101,18 @@ Story 7 was independently re-audited against the 1977 native scans after this tr
 Repairs were `என்னு`→`என்னா`, `தவறுக`→`தவறாக`, `தானு?`→`தானா?`, `கூறினன்`→`கூறினான்`, `கொலைகாரனுக்கிவிட்டாயே`→`கொலைகாரனாக்கிவிட்டாயே`, and `காட்டினன்`→`காட்டினான்`.
 
 The existing English already renders each corrected meaning correctly (“What did the sadhu say?”, “Do not judge me wrongly”, “Was it that brute?”, “said ... in a commanding tone”, “made me into a murderer too”, and “read it aloud”). Therefore **no English prose rewrite is required**. The previous possible-error queue is now closed under the 2026 dual-gate audit.
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **12/12 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All eleven internal joins were checked. The high-value 67→68 continuation `அன்றைக்கே` → `ஆயிரம் ரூபாய்!` remains directly traceable as `that very day came to` → `one thousand rupees!`. The isolated opening chants, false-letter display and closing flourish remain correctly bounded.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

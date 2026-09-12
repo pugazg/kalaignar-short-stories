@@ -45,3 +45,13 @@ English translation: [`translations/en/thappavillai.md`](translations/en/thappav
 ## Next anthology activity
 
 Story 12 **ஆதரிக்கிறார்** — scans **102–107 / printed 93–98** — is next for the 2026 dual-gate re-audit. Use scan **108** only as the boundary witness opening Story 13 `இரகசியம்!`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **10/10**
+- E1 repairs: **1 page-anchor repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

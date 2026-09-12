@@ -40,3 +40,13 @@ Durable re-audit ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 ## Next anthology activity
 
 Story 11 **தப்பவில்லை** — scans **92–101 / printed pages 83–92** — is next for the 2026 dual-gate re-audit. Do not reopen `தப்பிவிட்டார்கள்` without genuinely new direct source evidence.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

@@ -8,11 +8,11 @@ Sharp spear-like points of broken glass had been embedded facing upward along th
 
 The fresh brightness on the face of that young man—with his sturdy body, attractive face and prominent moustache—had not been wholly dimmed by prison life. He kept moving his lips as though cursing the heavy wall that stood arrogantly between him and the world.
 
-Whether or not he had read the histories of sky-high forts and ramparts raised to protect the capitals of great kingdoms and mighty emperors being shattered to dust, he did not fail to build a castle in his mind around the thought: why should this fortress too not be brought crashing down—
+Whether or not he had read the histories of sky-high forts and ramparts raised to protect the capitals of great kingdoms and mighty emperors being shattered to dust, he wondered: why should this fortress too not be brought crashing down?
 
 <!-- source scan 93; printed page 84 -->
 
-He may not even have known the historical fact that in France the Bastille prison was broken open and revolutionary leaders freed in a single day. But he wondered: would no one pierce this wall and rescue him too?
+He did not fail to build a castle in his mind around that thought. He may not even have known the historical fact that in France the Bastille prison was broken open and revolutionary leaders freed in a single day. But he wondered: would no one pierce this wall and rescue him too?
 
 There could certainly be a thirst for freedom in such an expectation, but there could hardly be any real hope in it. For he was no political prisoner! He was not one of the front-line fighters of a freedom movement arrested under man-snatching laws, preventive-detention laws and other repressive laws—laws let loose while the police themselves stirred up disorder merely to advertise their own kithaappu and then claimed they were imprisoning people in advance to prevent it. World history is not without pages recording great revolutions that rose declaring, ‘Whoever thrusts leaders worth their weight in gold into prison and lets darkness graze over the land—let us count them as nothing and reduce the prison fortress to dust!’
 
