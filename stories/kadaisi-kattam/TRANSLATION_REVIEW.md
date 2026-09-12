@@ -76,3 +76,12 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 30.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven Tamil repairs: **0 new repairs**
+- English prose rewrite required: **0**
+- unresolved source / historical-glyph readings: **0 / 0**

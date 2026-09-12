@@ -13,6 +13,20 @@ Canonical story workspace for **கடைசிக் கட்டம்**, proc
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **0 new repairs**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 6 / 6 story pages transcribed and directly source-reviewed.**
@@ -35,6 +49,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 - scan 209 Kokila letter and two-line/right-aligned sign-off represented structurally;
 - scan 210 synchronized to `story-ending` with its closing ornament;
 - story wording changed during visual review: **No**.
+- 2026 dual-gate reread: **0 new repairs / 0 unresolved**.
 
 ## Story boundary
 
@@ -56,7 +71,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Completion state
 
-**கடைசிக் கட்டம் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 205–210 / printed pages 196–201. English review result: PASS.**
+**கடைசிக் கட்டம் is 2026 CURRENT PASS / CLOSED: Gate A 6/6 + Gate B 6/6, 0 new repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 205–210 / printed pages 196–201. English review result: PASS.
 
 ## Next anthology English activity
 

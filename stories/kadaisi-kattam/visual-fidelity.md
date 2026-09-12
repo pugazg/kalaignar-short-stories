@@ -36,3 +36,8 @@ Scan 211 independently opens `அய்யோ ராஜா!`; Story 31 text is n
 ## Result
 
 **PASS — corrected**
+
+
+## 2026 dual-gate note
+
+Gate A **6/6 PASS** and Gate B **6/6 PASS**. All source-sensitive forms and mandatory historical-glyph families were independently rechecked; **0 new repairs / 0 unresolved**.

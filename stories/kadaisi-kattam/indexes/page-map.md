@@ -11,4 +11,6 @@
 
 Totals: **6 / 6 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 6/6 PASS / Gate B 6/6 PASS — 0 new repairs / 0 unresolved**.
+
 Physical next-story boundary witness: scan **211 / printed page 202** visibly opens Story 31 **`அய்யோ ராஜா!`** and is not included in this workspace.

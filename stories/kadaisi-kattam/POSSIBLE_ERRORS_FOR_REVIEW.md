@@ -10,3 +10,8 @@ This is a persistent human-review queue, not a list of confirmed errors. All six
 - [x] scan 210 / printed 201 — begins split continuation `தற்கு`; `டிஸ்மிஸ்`, `‘மேக்கப்பை’`, and final stage-company punchline retained.
 
 A stronger source-supported correction may reopen any entry later, but no item above is currently treated as an unresolved story-text error.
+
+
+## 2026 dual-gate disposition
+
+**0 pending / 0 unresolved.** All six source-sensitive queue groups and all mandatory historical-glyph families were independently reopened against the controlling scans. Gate A **6/6 PASS**, Gate B **6/6 PASS**, **0 new repairs**.

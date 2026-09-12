@@ -46,8 +46,22 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+The 2026 dual-gate pass independently reopened all six source-sensitive queue groups. Every listed form was source-reconfirmed and no canonical change was required. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — கடைசிக் கட்டம் source range is fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — கடைசிக் கட்டம் source range is fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 6/6 PASS + Gate B 6/6 PASS, 0 new repairs, 0 unresolved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **0 new repairs**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 211 independently reconfirmed as Story 31 `அய்யோ ராஜா!`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

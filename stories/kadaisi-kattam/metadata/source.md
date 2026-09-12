@@ -37,3 +37,8 @@ All six story pages are native high-resolution scan images at **3146×4826** pix
 ## Source-sensitive forms
 
 Source-close forms retained include `கனம் நீதிபதி`, bold `டாக்டர் பாபு`, bold `மஞ்சுளாவை`, `கூச்சத் தோடு`, `எனக் கொன்றும் ஆட்சேபணை இல்லை`, `சீர்திருந்து`, `உள்ளங் கவர்ந்த`, `சுட்டுக்கொண்டே யிருந்தேன்`, `அலட்சிய சுபாவத்தோடு`, and the physical split `நடிப்ப` → `தற்கு`. These are preserved rather than silently normalized and are also recorded in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for later human rechecking.
+
+
+## 2026 dual-gate note
+
+All six story scans were independently reopened at native **3146×4826** resolution. All six source-sensitive queue groups were source-reconfirmed without canonical change. Gate B explicitly checked all mandatory historical-glyph families and required **0** repair. Unresolved source/glyph readings: **0 / 0**. Scan 211 was independently reconfirmed as Story 31 `அய்யோ ராஜா!`.

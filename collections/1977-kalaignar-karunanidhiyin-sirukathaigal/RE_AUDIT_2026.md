@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 29 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 30 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -135,8 +135,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 27 | `பாலைவன ரோஜா` | 189–193 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 28 | `புரட்சிப் படம்` | 194–198 | **CURRENT PASS — 1 spacing repair / 0 unresolved** |
 | 29 | `திடுக்கிடும் கதை` | 199–204 | **CURRENT PASS — 2 repairs / 0 unresolved** |
-| 30 | `கடைசிக் கட்டம்` | 205–210 | **NEXT — REOPENED** |
-| 31 | `அய்யோ ராஜா!` | 211–217 | REOPENED / pending |
+| 30 | `கடைசிக் கட்டம்` | 205–210 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
+| 31 | `அய்யோ ராஜா!` | 211–217 | **NEXT — REOPENED** |
 | 32 | `விஷம் இனிது` | 218–224 | REOPENED / pending |
 | 33 | `வேணியின் காதலன்` | 225–230 | REOPENED / pending |
 | 34 | `அமிர்தமதி` | 231–238 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 30 `கடைசிக் கட்டம்`, scans **205–210 / printed 196–201**. Complete Gate A **6/6** + independent Gate B **6/6**; use scan **211** only as the Story 31 `அய்யோ ராஜா!` boundary witness; advance **29/37 → 30/37** only with zero unresolved; stop before Story 31.
+Re-audit Story 31 `அய்யோ ராஜா!`, scans **211–217 / printed 202–208**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **218** only as the Story 32 `விஷம் இனிது` boundary witness; advance **30/37 → 31/37** only with zero unresolved; stop before Story 32.
 
 ### `தொத்துக்கிளி` closure
 
@@ -413,3 +413,16 @@ Full story record: `../../stories/puratchip-padam/RE_AUDIT_2026.md`.
 - scan 205 independently opens Story 30 `கடைசிக் கட்டம்`
 
 Full story record: `../../stories/thidukkidum-kathai/RE_AUDIT_2026.md`.
+
+
+### `கடைசிக் கட்டம்` closure
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **0 new repairs**
+- all six source-sensitive queue groups source-reconfirmed
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 211 independently opens Story 31 `அய்யோ ராஜா!`
+
+Full story record: `../../stories/kadaisi-kattam/RE_AUDIT_2026.md`.
