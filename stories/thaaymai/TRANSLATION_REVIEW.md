@@ -69,3 +69,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all 42 2026 repairs, the restored scan-77 paragraph, names, agency, quantities, the snake/flute plot, the mother's intervention and the ending. One E2 fidelity repair was required in scan 74: `உமது தீட்சணயமிக்க மூளையிலே` is an ordinary adjective meaning a keen/sharp brain, but the English had rendered it opaquely as “theetchanayam-filled brain.” It now reads **“that keen brain of yours.”** The following proper name `தீட்சணயன்` remains **Theetchanayan**. No Tamil change was made.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Character and kinship terminology is internally stable: **Suzhar-kanni**, source-shortened **Suzhal/Suzhali** where the Tamil itself shortens the name, **Theetchanayan**, **Kopperunthevi**, **Inbasagaran**, **Sundarapuri**, **Aththaan**, **Amma**, **chinnamma**, **paṇ** and **magudi**. The English does not force the source-shortened forms back to the full name. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

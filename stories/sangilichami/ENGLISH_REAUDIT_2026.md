@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+The story consistently distinguishes the title/name **Sangilichami** from **Sangiliyananda Swami**. **Swami**, **Mudaliar**, **Sambandham**, **Chinnapannai**, **Siva**, **Parvati**, **Kailasa**, **nishta**, **mutt**, and **sacred ash** follow the anthology's cultural-term treatment. Source-close devotional/Sanskritic forms such as **Namap-Parvati Padē**, **mūḍātmā** and **jñānātmā** remain conservative rather than externally normalized. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

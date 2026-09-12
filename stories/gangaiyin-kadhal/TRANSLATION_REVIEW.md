@@ -119,3 +119,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the two 2026 repairs. No E2 prose repair was required. The corrected `காளை மாடு` and `தோன்றாமலிருக்க` senses are already present as “the bull” and “so that women like me may not arise again.” The Ganga–Chandra dialogue, the satire on age difference and multiple wives, Bhagiratha episode, Tara comparison, and final social appeal preserve agency and rhetoric. Verified source-odd forms such as `அல்வித் தண்டில்`, `சல்லாப ரூபா`, and `என்..பார்வதியால் தான் முடிந்ததா?` remain source-close and were not normalized from mythology or grammar expectation.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Mythological names are consistently rendered **Ganga, Chandra, Siva, Parvati, Murugan, Bhagiratha, Brahma, Kailasa** and **Tara**, matching the anthology convention where those names recur. Source-odd **alvi stalk** and **sallapa rupa** remain documented and conservative. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

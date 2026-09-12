@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and culturally marked address terms are consistent: **Thangam, Vittal, Ramadurai, Singaram, Aththaan, Ayyo, Gurkha, sari, adukkalai** and **darshan**. **Aththaan** matches its treatment in Stories 3, 4 and 9. Source-close `echchir pandam` and `gubu gubu` remain visible rather than receiving speculative normalization. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

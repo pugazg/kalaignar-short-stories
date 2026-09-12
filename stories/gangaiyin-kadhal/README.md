@@ -52,7 +52,9 @@ Story 9 — **தாய்மை**, scans **73–83 / printed pages 64–74**.
 - page coverage: **4/4**
 - E1 repairs: **0**
 - unresolved E1 issues: **0**
-- E2–E5: **PENDING**
+- E2 meaning fidelity: **PASS**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -62,4 +64,13 @@ Story 9 — **தாய்மை**, scans **73–83 / printed pages 64–74**.
 - English fidelity repairs: **0**
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
+
+
+## English re-audit E3 closure
+
+- terminology / names / cultural consistency: **PASS**
+- E3 English repairs: **0**
+- unresolved E3 issues: **0**
+- E4–E5: **PENDING**

@@ -44,3 +44,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all twelve 2026 repairs. No E2 prose repair was required. The public praise of Ramadurai, Thangam's assault, Vittal's retaliation and wound, the canal escape, police pursuit, final mutual deaths and the closing social indictment all preserve the Tamil sequence, agency and irony. Source-close expressions such as `எச்சிற் பண்டம்`, `குபு குபு`, and colloquial kinship/address forms were not normalized during E2.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and culturally marked address terms are consistent: **Thangam, Vittal, Ramadurai, Singaram, Aththaan, Ayyo, Gurkha, sari, adukkalai** and **darshan**. **Aththaan** matches its treatment in Stories 3, 4 and 9. Source-close `echchir pandam` and `gubu gubu` remain visible rather than receiving speculative normalization. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

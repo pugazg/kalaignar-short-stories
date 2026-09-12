@@ -79,3 +79,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The full English was checked sentence-by-sentence against the final canonical Tamil, including all three 2026 Tamil repair locations, the long martial poem, Vijayā's gift inscription, the anti-Hindi struggle sequence, the sandal-bowl action and retrospective ending. One fidelity repair was made at the opening: `புரோகித மணம் ஏன் கூடாது` states why priestly marriage **should not be performed**; the English had weakened this to “why priestly marriage was unnecessary.” The stronger source meaning is now restored. Source-confirmed unusual forms such as `கண்டலுக்குப் போர்போன`, `மோழைக்குப் பெயர் போர்வீரனும்!`, and `அவள் வலுவில் பேசவந்தாலும்` remain conservatively represented.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and public/political vocabulary are consistent: **Kandan** matches Story 4, while **Kamala**, **Vijaya**, **Thalamuthu**, **Natarasan**, **Purananuru**, **Hindi**, **Dravidian/Dravida**, **Siva**, **Parvati** and **Murugan** follow the story's established source-derived usage. `Dravidian` and `Dravida` are not flattened because they occur in distinct source expressions. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

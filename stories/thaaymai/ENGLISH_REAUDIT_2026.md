@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Character and kinship terminology is internally stable: **Suzhar-kanni**, source-shortened **Suzhal/Suzhali** where the Tamil itself shortens the name, **Theetchanayan**, **Kopperunthevi**, **Inbasagaran**, **Sundarapuri**, **Aththaan**, **Amma**, **chinnamma**, **paṇ** and **magudi**. The English does not force the source-shortened forms back to the full name. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

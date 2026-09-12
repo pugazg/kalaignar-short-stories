@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The full English was checked sentence-by-sentence against the final canonical Ta
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and public/political vocabulary are consistent: **Kandan** matches Story 4, while **Kamala**, **Vijaya**, **Thalamuthu**, **Natarasan**, **Purananuru**, **Hindi**, **Dravidian/Dravida**, **Siva**, **Parvati** and **Murugan** follow the story's established source-derived usage. `Dravidian` and `Dravida` are not flattened because they occur in distinct source expressions. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

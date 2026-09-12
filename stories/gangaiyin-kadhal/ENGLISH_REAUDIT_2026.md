@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Mythological names are consistently rendered **Ganga, Chandra, Siva, Parvati, Murugan, Bhagiratha, Brahma, Kailasa** and **Tara**, matching the anthology convention where those names recur. Source-odd **alvi stalk** and **sallapa rupa** remain documented and conservative. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**
