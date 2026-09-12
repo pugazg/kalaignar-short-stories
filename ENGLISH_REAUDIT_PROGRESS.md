@@ -10,15 +10,15 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
-- E2 meaning fidelity: **11 / 37 PASS**
+- E2 meaning fidelity: **21 / 37 PASS**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
-- E2 English fidelity repairs: **10** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1)
+- E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E2 — Story 12 `ஆதரிக்கிறார்`, meaning fidelity against final canonical Tamil**
+- exact next activity: **E2 — Story 22 `தொத்துக்கிளி`, meaning fidelity against final canonical Tamil**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -33,16 +33,16 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | PENDING | PENDING | PENDING | PENDING |
@@ -203,3 +203,27 @@ Cumulative E2: **11/37 PASS / 10 English fidelity repairs / 0 unresolved**.
 ## Current next
 
 Continue **E2** with Story 12 `ஆதரிக்கிறார்`. Do not start E3 until E2 reaches 37/37 unless explicitly redirected.
+
+
+### E2 — Stories 12–21 batch
+
+The user explicitly expanded E2 to ten stories. Stories **12–21 are PASS**.
+
+- `ஆதரிக்கிறார்` — **0 repairs**.
+- `இரகசியம்!` — **0 repairs**.
+- `முந்நூறு ரூபாய்` — **1 repair**: `போன பணம் திரும்பி வந்த ஆனந்தத்தில்` is now rendered **“Delighted to have the money back”**, removing the misleading implication that the lent money had been given away as a gift.
+- `ஏழை` — **0 repairs**.
+- `ஒரிஜினலில் உள்ளபடி` — **0 repairs**.
+- `பனங்குலை` — **1 repair**: idiomatic `வயிறு கழுவிக் கொள்ள` is now **“keep herself fed”**, replacing the literal and semantically wrong “wash her stomach.”
+- `செத்தவள் கதை` — **0 repairs**.
+- `பிரேத விசாரணை` — **0 repairs**.
+- `கண்டதும் காதல் ஒழிக!` — **0 repairs**.
+- `ஆலமரத்துப் புறாக்கள்` — **0 repairs**.
+
+Batch result: **2 new English fidelity repairs / 0 unresolved / 0 Tamil changes / 0 source reopenings**.
+
+Cumulative E2: **21/37 PASS / 12 English fidelity repairs / 0 unresolved**.
+
+## Current next
+
+Continue **E2** with Story 22 `தொத்துக்கிளி`. Do not start E3 until E2 reaches 37/37 unless explicitly redirected.

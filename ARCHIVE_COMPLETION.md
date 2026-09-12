@@ -127,4 +127,4 @@ Therefore the repository's **current** state is no longer “no authorized work�
 
 The 1977 anthology remains source-complete and translation-complete in the historical trackers. A newly authorized post-Tamil English re-audit is **ACTIVE** and does not invalidate those completed phases.
 
-Current English re-audit: **E1 CLOSED — 37/37 PASS; E2 11/37 PASS; 10 E2 English fidelity repairs; 0 unresolved; E3–E5 not started**. Next: E2 Story 12 `ஆதரிக்கிறார்`. Tracker: `ENGLISH_REAUDIT_PROGRESS.md`.
+Current English re-audit: **E1 CLOSED — 37/37 PASS; E2 21/37 PASS; 12 E2 English fidelity repairs; 0 unresolved; E3–E5 not started**. Next: E2 Story 22 `தொத்துக்கிளி`. Tracker: `ENGLISH_REAUDIT_PROGRESS.md`.
