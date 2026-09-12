@@ -149,4 +149,4 @@ The original English translation phase remains **COMPLETE — 37 / 37 PASS**.
 
 A separate independent QA programme is now active under `ENGLISH_REAUDIT_GUIDE.md` and tracked in `ENGLISH_REAUDIT_PROGRESS.md`. This does not reset or overwrite historical translation completion.
 
-Current post-Tamil English re-audit: **E1 CLOSED — 37/37 PASS; E2 6/37 PASS; E3–E5 not started**. Stories 2–6 added **4 English fidelity repairs / 0 unresolved**, bringing cumulative E2 repairs to **9**. Next: E2 Story 7 `சங்கிலிச்சாமி`.
+Current post-Tamil English re-audit: **E1 CLOSED — 37/37 PASS; E2 11/37 PASS; E3–E5 not started**. Stories 7–11 added **1 English fidelity repair / 0 unresolved**, bringing cumulative E2 repairs to **10**. Next: E2 Story 12 `ஆதரிக்கிறார்`.

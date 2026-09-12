@@ -29,12 +29,12 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 - workflow: [`ENGLISH_REAUDIT_GUIDE.md`](ENGLISH_REAUDIT_GUIDE.md)
 - tracker: [`ENGLISH_REAUDIT_PROGRESS.md`](ENGLISH_REAUDIT_PROGRESS.md)
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
-- E2 meaning fidelity: **6 / 37 PASS**
+- E2 meaning fidelity: **11 / 37 PASS**
 - E3–E5: **not started**
 - E1 page-anchor/content-boundary repairs so far: **8**
 - E1 structure-traceability annotation repairs: **18**
-- E2 English fidelity repairs: **9**
-- exact next: **E2 Story 7 `சங்கிலிச்சாமி` — meaning fidelity against final canonical Tamil**
+- E2 English fidelity repairs: **10**
+- exact next: **E2 Story 12 `ஆதரிக்கிறார்` — meaning fidelity against final canonical Tamil**
 
 ## Canonical stories
 
@@ -47,11 +47,11 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 | [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 7 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
 | [`குப்பைத்தொட்டி`](stories/kuppai-thotti/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 4 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
 | [`சந்தனக்கிண்ணம்`](stories/santhana-kinnam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 3 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
-| [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **2026 dual-gate CURRENT PASS — Gate A 12/12 + Gate B 12/12; 6 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
-| [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
-| [`தாய்மை`](stories/thaaymai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
-| [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
-| [`தப்பவில்லை`](stories/thappavillai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **2026 dual-gate CURRENT PASS — Gate A 12/12 + Gate B 12/12; 6 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
+| [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
+| [`தாய்மை`](stories/thaaymai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
+| [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
+| [`தப்பவில்லை`](stories/thappavillai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 PASS** |
 | [`ஆதரிக்கிறார்`](stories/aatharikkirar/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`இரகசியம்!`](stories/iragasiyam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |

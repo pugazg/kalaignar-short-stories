@@ -10,15 +10,15 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
-- E2 meaning fidelity: **6 / 37 PASS**
+- E2 meaning fidelity: **11 / 37 PASS**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
-- E2 English fidelity repairs: **9** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1)
+- E2 English fidelity repairs: **10** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E2 — Story 7 `சங்கிலிச்சாமி`, meaning fidelity against final canonical Tamil**
+- exact next activity: **E2 — Story 12 `ஆதரிக்கிறார்`, meaning fidelity against final canonical Tamil**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -28,11 +28,11 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | PENDING | PENDING | PENDING | PENDING |
@@ -184,3 +184,22 @@ Cumulative E2: **6/37 PASS / 9 English fidelity repairs / 0 unresolved**.
 ## Current next
 
 Continue **E2** with Story 7 `சங்கிலிச்சாமி`. Do not start E3 until E2 reaches 37/37 unless explicitly redirected.
+
+
+### E2 — Stories 7–11 batch
+
+The user explicitly expanded E2 to five stories. Stories **7–11 are PASS**.
+
+- `சங்கிலிச்சாமி` — **0 repairs**.
+- `கங்கையின் காதல்` — **0 repairs**.
+- `தாய்மை` — **1 repair**: `உமது தீட்சணயமிக்க மூளையிலே` was corrected from the opaque “theetchanayam-filled brain” to **“that keen brain of yours.”** The proper name `தீட்சணயன்` remains **Theetchanayan**.
+- `தப்பிவிட்டார்கள்` — **0 repairs**.
+- `தப்பவில்லை` — **0 repairs**.
+
+Batch result: **1 new English fidelity repair / 0 unresolved / 0 Tamil changes / 0 source reopenings**.
+
+Cumulative E2: **11/37 PASS / 10 English fidelity repairs / 0 unresolved**.
+
+## Current next
+
+Continue **E2** with Story 12 `ஆதரிக்கிறார்`. Do not start E3 until E2 reaches 37/37 unless explicitly redirected.
