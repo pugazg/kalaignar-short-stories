@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E5 Stories 1–13
+# NEXT CHAT PROMPT — 1977 English re-audit / E5 Stories 14–26
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,7 +9,8 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 - E2: **CLOSED — 37/37 PASS**
 - E3: **CLOSED — 37/37 PASS**
 - E4: **CLOSED — 37/37 PASS**
-- E5: **0/37 — not started**
+- E5: **13/37 PASS**
+- E5 English repairs so far: **0**
 - cumulative E4 English-quality repairs: **49**
 - unresolved English re-audit issues: **0**
 
@@ -17,9 +18,9 @@ The user requested **13 stories per iteration**.
 
 ## Exact next iteration
 
-Process E5 Stories **1–13**:
+Process E5 Stories **14–26**:
 
-`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`.
+`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
 
 E5 is the **final bilingual approval** gate:
 
@@ -30,4 +31,4 @@ E5 is the **final bilingual approval** gate:
 - ensure unresolved English re-audit issues remain **0**;
 - mark each story final **E5 PASS** only after all checks pass.
 
-Do not modify Tamil merely to improve English. Do not reopen the PDF unless a genuine Tamil-source defect emerges. Process only E5 Stories 1–13 in this iteration.
+Do not modify Tamil merely to improve English. Do not reopen the PDF unless a genuine Tamil-source defect emerges. Process only E5 Stories 14–26 in this iteration.

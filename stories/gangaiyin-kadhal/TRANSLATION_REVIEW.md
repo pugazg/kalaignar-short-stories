@@ -137,3 +137,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0
 One awkward line was clarified without altering the source's uncertainty or mythological reference: **“Could it be done only by my..Parvati?”** became **“Could only my... Parvati manage it?”** The hesitation before Parvati is retained.
 
 English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.
+
+## English re-audit 2026 — E5
+
+**PASS — final bilingual approval.**
+
+Final English and final canonical Tamil were compared once more after all earlier gate repairs. Physical-page traceability remains **4/4 PASS**; E1–E4 repairs remain synchronized; difficult/source-sensitive choices remain documented; no new English repair or Tamil/source reopening was required.
+
+E5 English repairs: **0**. Unresolved English re-audit issues: **0**. Final result: **PASS**.

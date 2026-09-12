@@ -149,4 +149,4 @@ The original English translation phase remains **COMPLETE — 37 / 37 PASS**.
 
 A separate independent QA programme is now active under `ENGLISH_REAUDIT_GUIDE.md` and tracked in `ENGLISH_REAUDIT_PROGRESS.md`. This does not reset or overwrite historical translation completion.
 
-Current post-Tamil English re-audit: **E1 CLOSED — 37/37 PASS; E2 CLOSED — 37/37 PASS; E3 CLOSED — 37/37 PASS; E4 CLOSED — 37/37 PASS; E5 not started**. Final E4 Stories 27–37 required **24 English-quality repairs / 0 unresolved**, bringing cumulative E4 repairs to **49**. Next: E5 Stories 1–13.
+Current post-Tamil English re-audit: **E1 CLOSED — 37/37 PASS; E2 CLOSED — 37/37 PASS; E3 CLOSED — 37/37 PASS; E4 CLOSED — 37/37 PASS; E5 13/37 PASS**. E5 Stories 1–13 required **0 English repairs / 0 unresolved**. Cumulative E4 repairs remain **49**. Next: E5 Stories 14–26.

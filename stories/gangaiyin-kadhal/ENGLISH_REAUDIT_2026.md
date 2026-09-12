@@ -14,7 +14,7 @@
 - E2: **PASS**
 - E3: **PASS**
 - E4: **PASS**
-- E5: **PENDING**
+- E5: **PASS**
 
 ## E1 result
 
@@ -80,3 +80,16 @@ One awkward line was clarified without altering the source's uncertainty or myth
 - E2/E3 decisions altered: **No**
 - unresolved E4 issues: **0**
 - E4 result: **PASS**
+
+## E5 — final bilingual approval
+
+**PASS — final bilingual approval.**
+
+The final English was compared once more against the final canonical Tamil after E1–E4 closure. All **4/4** physical source-page markers remain present and in order; the story boundary remains intact; the E1–E4 repairs and source-sensitive terminology documented in `TRANSLATION_REVIEW.md` remain synchronized. No meaning drift or new bilingual defect was found.
+
+- E5 English repairs: **0**
+- page-traceability regressions: **0**
+- difficult-term documentation gaps: **0**
+- Tamil/source reopened: **No**
+- unresolved English re-audit issues: **0**
+- E5 result: **PASS**
