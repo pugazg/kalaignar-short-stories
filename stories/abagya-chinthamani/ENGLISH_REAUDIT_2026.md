@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -64,3 +64,17 @@ Names and religious/literary vocabulary are internally consistent: **Chinthamani
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One readability repair replaced an awkward literal condition phrase while preserving the family's plea and all closed E2/E3 terminology.
+
+- E4 English-quality repairs: **1**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

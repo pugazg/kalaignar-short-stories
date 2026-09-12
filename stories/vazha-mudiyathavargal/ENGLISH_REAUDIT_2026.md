@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -64,3 +64,17 @@ The story already normalizes the same character's edition-level `சின்ன
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Full E4 pass found no safely repairable English-quality defect beyond source-deliberate rhetoric and the closed E3 opaque forms. The unusual `மாஜி மனிதன்` / “former man” phrasing is source-driven and is therefore preserved rather than silently smoothed.
+
+- E4 English-quality repairs: **0**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

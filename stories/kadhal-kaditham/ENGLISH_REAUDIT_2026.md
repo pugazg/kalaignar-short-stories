@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -64,3 +64,17 @@ Names and wartime terminology are stable: **Sundar Babu, Sudesha, Balan, Hitler,
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One readability repair removed an awkward nominal phrase while preserving the narrator's humorous observation about lovers' lack of awareness.
+
+- E4 English-quality repairs: **1**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

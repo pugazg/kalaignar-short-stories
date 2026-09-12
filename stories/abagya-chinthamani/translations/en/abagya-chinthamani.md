@@ -67,7 +67,7 @@ For some days in this way, she found joy even amid suffering. Jothi’s father b
 
 <!-- source scan 186; printed page 177 -->
 
-The whole family floundered. Jothi’s mother and sisters came to Chinthamani and, to save their family, begged her for a “madippichai”: “Give Jothi back!” “Jothi is the head of the family. If he too goes away, how can this family ever return to a good condition with a father who has gone mad? Show us mercy, amma,” they lamented.
+The whole family floundered. Jothi’s mother and sisters came to Chinthamani and, to save their family, begged her for a “madippichai”: “Give Jothi back!” “Jothi is the head of the family. If he too goes away, how can this family ever recover with a father who has gone mad? Show us mercy, amma,” they lamented.
 
 “Could you not at least in this way show some gratitude to Sivanandam, who supported you when you were an orphan, cared for you all these years, and was like a father to you?” her friends from the gurukulam advised. Chinthamani gave no answer to anyone and went away silently.
 

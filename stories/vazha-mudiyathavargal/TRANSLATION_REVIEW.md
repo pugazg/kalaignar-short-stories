@@ -126,3 +126,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 The story already normalizes the same character's edition-level `சின்னச்சாமி / சின்னசாமி` variation to **Chinnachami** in English while documenting the Tamil difference. **Kantha, Chandra, Appa, veshti, beedi, seervarisai, oppari, Kamba rasam** are stable. Verified opaque **kavaattaa, college vedar, kimbala chance, azhukkiyathu, theevithi** remain source-close rather than guessed. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Full E4 pass found no safely repairable English-quality defect beyond source-deliberate rhetoric and the closed E3 opaque forms. The unusual `மாஜி மனிதன்` / “former man” phrasing is source-driven and is therefore preserved rather than silently smoothed.
+
+English-quality repairs: **0**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

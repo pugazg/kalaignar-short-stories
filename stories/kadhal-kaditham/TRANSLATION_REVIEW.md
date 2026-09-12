@@ -129,3 +129,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and wartime terminology are stable: **Sundar Babu, Sudesha, Balan, Hitler, Mussolini, Allied forces**. Source-confirmed `உழவலன்பு` remains **uzhaval-anbu** because a stronger lexical reconstruction would be speculative. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One readability repair removed an awkward nominal phrase while preserving the narrator's humorous observation about lovers' lack of awareness.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

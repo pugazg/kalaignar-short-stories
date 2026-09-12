@@ -123,3 +123,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and religious/literary vocabulary are internally consistent: **Chinthamani, Ramalinga Sivanandam, Jothiyanandam, Siva, Arutpa, Thevaram, Thiruvasagam, Arutperum Jothi, gurukulam, mangalam**. Institution-name **Ramalingasami Gurukulam** reflects source `ராமலிங்கசாமி` and is not mechanically changed to `Swami`. Source-close **Erpathigazhchiyendra, Aiyamittun, brikkaas, paala-pashaanam, madippichai** remain conservative. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One readability repair replaced an awkward literal condition phrase while preserving the family's plea and all closed E2/E3 terminology.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.
