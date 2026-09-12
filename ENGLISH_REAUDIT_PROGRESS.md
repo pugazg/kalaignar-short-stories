@@ -11,15 +11,15 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
-- E3 terminology / cultural consistency: **13 / 37 PASS**
+- E3 terminology / cultural consistency: **26 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
-- E3 terminology / cultural-consistency repairs: **1** (`ஆதரிக்கிறார்`: `dhoti` → `veshti` for source `வேட்டி`)
+- E3 terminology / cultural-consistency repairs: **5** (`ஆதரிக்கிறார்` 1, `ஒரிஜினலில் உள்ளபடி` 1, `பனங்குலை` 1, `கண்டதும் காதல் ஒழிக!` 1, `கண்ணடக்கம்` 1)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E3 — Stories 14–26, 13-story terminology / names / cultural-consistency batch**
+- exact next activity: **E3 — Stories 27–37, final 11-story terminology / names / cultural-consistency batch**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -36,19 +36,19 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
@@ -290,3 +290,37 @@ Durable cross-anthology convention record: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.m
 ## Current next
 
 Continue **E3** with the next **13-story iteration: Stories 14–26**, beginning with `முந்நூறு ரூபாய்` and ending with `அபாக்ய சிந்தாமணி`. Do not start E4 until E3 reaches 37/37 unless explicitly redirected.
+
+
+### E3 — Stories 14–26 batch
+
+Second 13-story E3 iteration is **COMPLETE — 13/13 PASS**.
+
+Four English terminology/name-consistency repairs were required:
+
+1. `ஒரிஜினலில் உள்ளபடி` — source `திரெளபதி` standardized from **Thirelapathi** to anthology-established **Draupadi**; source alternate `பாஞ்சாலி` remains **Panchali**.
+2. `பனங்குலை` — same person varied in Tamil as `மோக வினாயகம்பிள்ளை / மோக வினாயகம் பிள்ளை`; English standardized **Moga Vinayagampillai** to **Moga Vinayagam Pillai**, while Tamil source variation remains preserved.
+3. `கண்டதும் காதல் ஒழிக!` — all **Thirelapathi** occurrences standardized to **Draupadi**, including **Draupadi Vasthirabharanam**.
+4. `கண்ணடக்கம்` — deity name **Parvathi Devi** standardized to anthology convention **Parvati Devi**.
+
+Important non-repairs / distinctions preserved:
+
+- Story 15 human character **Parvathi** remains story-established and is not mechanically changed to the deity-name convention.
+- Story 16 source alternate **Panchali** remains distinct from **Draupadi** because the Tamil itself changes forms.
+- **Swamigal** is retained where source honorific plural `சுவாமிகள்` is present.
+- historical caste/community vocabulary in `பிரேத விசாரணை` remains source-close rather than modernized.
+- allegorical labels in `ஆலமரத்துப் புறாக்கள்` remain source-close.
+- verified opaque forms across Stories 14–26 remain conservative unless a specific identification is source-supported.
+
+Batch result:
+
+- E3 stories closed this iteration: **13**
+- new E3 English repairs: **4**
+- cumulative E3 repairs: **5**
+- Tamil changes: **0**
+- source reopenings: **0**
+- unresolved E3 issues: **0**
+
+## Current next
+
+Final E3 iteration: **Stories 27–37 — 11 stories**, beginning `பாலைவன ரோஜா` and ending `நுனிக்கரும்பு`. Do not start E4 until E3 is 37/37 unless explicitly redirected.

@@ -64,3 +64,39 @@ State after first E3 iteration:
 - unresolved E3 issues: **0**
 
 Next iteration: **Stories 14–26**.
+
+
+## Conventions established through Stories 14–26
+
+### Mythological / deity names
+
+- source `திரெளபதி` → **Draupadi** when the figure is clearly the Mahabharata character; source alternate `பாஞ்சாலி` may remain **Panchali** where the Tamil itself uses that form.
+- deity `பார்வதி` → **Parvati**.
+- Do not apply deity-name spelling mechanically to unrelated human characters; Story 15's human character **Parvathi** remains story-established.
+
+### Honorific / personal-name distinctions
+
+- source honorific plural `சுவாமிகள்` may remain **Swamigal** where preserving the source title form matters; this does not conflict with ordinary title **Swami**.
+- where the Tamil visibly varies spacing/segmentation for the same person, English may harmonize the personal name if identity is certain while documenting the source variation. Story 17: **Moga Vinayagam Pillai**.
+
+### Historical / political / social register
+
+- historical caste/community labels are preserved source-close when they are part of the story's period register; E3 does not silently modernize them.
+- allegorical political labels may remain transliterated when translation would flatten the story's deliberate source vocabulary.
+
+## E3 repair history — Stories 14–26
+
+Four repairs:
+
+1. Story 16 `ஒரிஜினலில் உள்ளபடி`: **Thirelapathi** → **Draupadi**.
+2. Story 17 `பனங்குலை`: **Moga Vinayagampillai** → **Moga Vinayagam Pillai**.
+3. Story 20 `கண்டதும் காதல் ஒழிக!`: **Thirelapathi** → **Draupadi** throughout.
+4. Story 24 `கண்ணடக்கம்`: **Parvathi Devi** → **Parvati Devi**.
+
+State after second E3 iteration:
+
+- E3: **26/37 PASS**
+- cumulative English E3 repairs: **5**
+- unresolved E3 issues: **0**
+
+Next: final iteration **Stories 27–37**.
