@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `695da3e56938611ec1d5a43631fed9e6c6182004` — `Close அய்யோ ராஜா! 2026 dual-gate`
+- refreshed live checkpoint: `efb06a2f7f266ad4f1be7c6d3b74ad45cc9caa1f` — `Close விஷம் இனிது 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 31 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 32 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -68,24 +68,25 @@ Current tracker state: **OPEN — 31 / 37 dual-gate complete**.
 - `திடுக்கிடும் கதை` — scans **199–204** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 historical-glyph repairs / 0 unresolved**; `காதலே` → `காதலை` (`லை`), `என்னுல் தான்` → `என்னால் தான்` (`னா`); English prose rewrite 0; 2026-09-02 English page-anchor correction preserved.
 - `கடைசிக் கட்டம்` — scans **205–210** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **0 new repairs / 0 unresolved**; all six legacy source-sensitive groups reconfirmed; English prose rewrite 0.
 - `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` independently revalidated; English prose rewrite 0.
+- `விஷம் இனிது` — scans **218–224** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 spacing repair / 0 unresolved**; scan 219 `இவள்தான்` → `இவள் தான்`; English prose rewrite 0.
 
-Do not reopen these thirty-one stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirty-two stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 32 `விஷம் இனிது`
+## Exact next activity — Story 33 `வேணியின் காதலன்`
 
-Workspace: `stories/visham-inidhu/`.
+Workspace: `stories/veniyin-kadhalan/`.
 
-- scans **218–224 / printed 209–215**
-- canonical pages **7/7**
-- scan **225** is the boundary witness opening Story 33 `வேணியின் காதலன்`
+- scans **225–230 / printed 216–221**
+- canonical pages **6/6**
+- scan **231** is the boundary witness opening Story 34 `அமிர்தமதி`
 - legacy human-review queue: **0 pending** at the legacy layer
+- durable prior source correction to re-prove: scan **228** **`கூண்டுக் கிளி ஆக்குவேனென்றான்`**, not provisional `கூண்டுக் கிளி ஆகுவேனென்றான்`
 - source-sensitive checked forms to reopen during Gate A/B:
-  - [x] scan 218 / printed 209 — opening `விஷம் இனிது`; `தீக்குளித்த திலகங்களைப்`, `வேற்றுவர்களோடு`, source spacing `அப்படி யெல்லாம்`, and `சொக்கத் தங்கம்—சுடர் மணி விளக்கு` retained.
-  - [x] scan 219 / printed 210 — `அன்பழைப்பு`, `சொல்லம்புகள்`, `புலி யொன்றினால்`, `அர்தோலை`, and the physical ending `சிறப்புடையதாயிருக்க` retained from the scan.
-  - [x] scan 220 / printed 211 — source-close `வரிப்பளுவைத்`, `எக்கேடும்`, `சூறாவளி`, and the physical ending `ரகசியமாகச்` retained.
-  - [x] scan 221 / printed 212 — `சாகசக்காரியா?`, letter reading `கண்டெடுக்கிறேன்`, `அர்த்த ராத்திரியிலும்`, `தலசுழன்றது`, `தன்னகம்`, and physical split `பாடிக்கொண்டிருக்` retained.
-  - [x] scan 222 / printed 213 — `சுக மடைய`, `கோயில்கொள்ளப்போகிறான்`, `காஞ்சரங் கனியே`, `பேசுகிறாய்க்கும்?`, `ஆலிங்கனத்துக்குத்`, and the source's accusation wording retained.
-  - [x] scan 223 / printed 214 — `நீலி`, `இந்தப் பாலைக்குடி`, `பாஷாணம்`, source spacing `இல்லை யென்பதை`, `என் அண்ணை`, `தகாப் போக்குடையோன்`, and repeated `அண்ண` forms retained.
-  - [x] scan 224 / printed 215 — joined source form `அவதூறிலிருந்துகாப்பாற்றுகிறாய்`, `புரியாதார்`, `அய்யன்`, and final **`ஆண்டவனை விட ஆலஹாலம் இனிது`** retained; closing ornament confirmed.
+  - [x] scan 225 / printed 216 — opening `வேணியின் காதலன்`; `பென்வார்டில்`, `பிரார்த்தனையினூடே`, older-glyph readings `வரவேற்றாள்` and `எப்படியிருக்கிறாள்`, and the source's prayer punctuation retained.
+  - [x] scan 226 / printed 217 — `படுக்கையண்டை`, `பிரக்ஞையற்றிருந்து`, `மேஜையண்டை`, `பாய்ச்சலாகப்`, `உத்திரவில்லாமல்`, `உத்தமர் ஊமையாகிக்`; final speech remains physically open into scan 227.
+  - [x] scan 227 / printed 218 — `நன்றுயிருக்கிறது`, `சீறிவிழுகிறாய்`, `வைப்பாட்டி`, source-close `புண்ணகிப்போன`, `பஞ்சணைக்கு`, `காருண்ய சீலர்`, `சவுக்கடி`, repeated `துவளத் துவள`; physical ending `நான் தொத்தி விளையாண்ட` retained.
+  - [x] scan 228 / printed 219 — begins continuation `தோள்கள்.....`; direct recheck corrected provisional `கூண்டுக் கிளி ஆகுவேனென்றான்` to source **`கூண்டுக் கிளி ஆக்குவேனென்றான்`**; `அக்கறைப் படுகிறான்`, unusual `தரித்திர நாராயணனும் கந்தனுக்கு`, source spacing `சொத்து சுகத்தை யெல்லாம்`, `ஹைகோர்ட்டின் படிக்கட்டுகளைக் கட்டுப்பதிலேயே`, `கந்தர்வ லோகத்திலே`, and `நினைவிழந்துதான்` retained.
+  - [x] scan 229 / printed 220 — unusual `கந்தனே வேறொரு பெண்ணும் வேணி உரிமை கொண்டாடுவதா?`, `மென்தோள்களிலே`, `பிளாரென்ஸ் நைட்டிங்கேல்களின்`, `அவளையறியாமலே`, `அல்லிமொட்டுப்`, `கருத்துப்போய்`, and source spacing `நான் தான்` retained.
+  - [x] scan 230 / printed 221 — `பூக்கரங்களைப்`, `கண்ணிறைந்த`, quoted `‘பெட்’`, `‘பினிஷ்’`, `பகலுமாய்ப்`, source-close `கந்தனு?`, `வாழ்க்கைத் துண்டித்த`, `சண்டாளா`, `செங்குருதியிலே`; closing ornament confirmed.
 
-Complete Gate A **7/7** and independent Gate B **7/7**; reopen all source-sensitive checked forms directly against source pixels; preserve scan-218 printer signature `க—14` as excluded furniture, the Amirtharani letter and two-line sign-off on scan 221, source-bold `அமிர்த ராணி`, physical splits 219→220 / 220→221 / 221→222, and scan-224 bold conclusion `ஆண்டவனை விட ஆலஹாலம் இனிது`; correct only source-proven mismatches; synchronize controls/affected English; advance **31/37 → 32/37** only with zero unresolved; stop before Story 33.
+Complete Gate A **6/6** and independent Gate B **6/6**; reopen all source-sensitive checked forms directly against source pixels, especially old-`றா` forms on scan 225 and the prior scan-228 correction; preserve the open speech 226→227, exact split 227→228 `நான் தொத்தி விளையாண்ட` → `தோள்கள்.....`, scan-229 source spacing `நான் தான்`, scan-230 closing ornament, and scan 231 only as Story 34 boundary witness; correct only source-proven mismatches; synchronize controls/affected English; advance **32/37 → 33/37** only with zero unresolved; stop before Story 34.
