@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 35 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 36 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -141,8 +141,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 33 | `வேணியின் காதலன்` | 225–230 | **CURRENT PASS — 2 repairs / 0 unresolved** |
 | 34 | `அமிர்தமதி` | 231–238 | **CURRENT PASS — 10 repairs / 0 unresolved** |
 | 35 | `சுமந்தவள்` | 239–249 | **CURRENT PASS — 7 repairs / 0 unresolved** |
-| 36 | `சித்தார்த்தன் சிலை` | 250–252 | **NEXT — REOPENED** |
-| 37 | `நுனிக்கரும்பு` | 253–259 | REOPENED / pending |
+| 36 | `சித்தார்த்தன் சிலை` | 250–252 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 37 | `நுனிக்கரும்பு` | 253–259 | **NEXT — REOPENED** |
 
 ### `தாய்மை` closure
 
@@ -289,9 +289,27 @@ Full story record: `../../stories/kandathum-kadhal-ozhiga/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
+### `சித்தார்த்தன் சிலை` closure
+
+Scans **250–252 / printed pages 241–243**:
+
+- Gate A: **PASS — 3/3**
+- Gate B: **PASS — 3/3**
+- source-proven repairs: **1**
+- scan 250 `அந்த வானத்துச்` → `அந்தி வானத்துச்`
+- no additional historical-glyph repair
+- source-title variance `சித்தார்த்தன்` ↔ `சித்தார்த்தன் சிலை` preserved
+- `ஒளி!,` and all source-sensitive queue forms reconfirmed
+- exact 251→252 split preserved
+- English synchronized `a sky` → `the evening sky`
+- unresolved source / historical-glyph readings: **0 / 0**
+- scan 253 independently reconfirmed as the `நுனிக்கரும்பு` boundary witness
+
+Full story record: `../../stories/siddharthan-silai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`), scans **250–252 / printed 241–243**. Complete Gate A **3/3** + independent Gate B **3/3**; use scan **253** only as the Story 37 `நுனிக்கரும்பு` boundary witness; advance **35/37 → 36/37** only with zero unresolved; stop before Story 37.
+Re-audit Story 37 `நுனிக்கரும்பு`, scans **253–259 / printed 244–250**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **260** only as the anthology back-cover boundary witness; advance **36/37 → 37/37** only with zero unresolved.
 
 ### `தொத்துக்கிளி` closure
 

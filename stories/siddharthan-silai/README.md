@@ -17,6 +17,23 @@ The canonical workspace follows the more specific story-opening heading; the sho
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A — source fidelity: **3/3 PASS**
+- Gate B — independent Old Tamil Glyph verification: **3/3 PASS**
+- source-proven repairs: **1**
+- scan **250 / printed 241**: legacy `அந்த வானத்துச்` → source **`அந்தி வானத்துச்`**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English synchronization: **1 phrase** — `a sky` → `the evening sky`
+- TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை`: **preserved**
+- boundary witness: scan **253** opens `நுனிக்கரும்பு`
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 3 / 3 story pages transcribed and directly source-reviewed.**
@@ -33,7 +50,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Source-sensitive verification
 
-High-resolution old-typeface checks were used to distinguish gendered endings and unusual source forms. Source-close readings retained include `கெண்டை`, `நடைபழகில்`, `ஒளி!,`, `அவளைப் பெற்றவனே-உலகம்!`, `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்`.
+High-resolution old-typeface checks were used to distinguish gendered endings and unusual source forms. Source-close readings retained include `கெண்டை`, `அந்தி வானத்துச்`, `நடைபழகில்`, `ஒளி!,`, `அவளைப் பெற்றவனே-உலகம்!`, `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்`.
 
 The exact physical join `...அவளருகே உறங்குகின்ற அருமைச்` → `செல்வன்—இருவரையும் ஏங்கவிட்டு “அன்பு” போதிக்கத் துறவு பூண்டவன் நான்.` was explicitly verified.
 
@@ -59,4 +76,4 @@ The exact physical join `...அவளருகே உறங்குகின்
 
 ## Completion state
 
-**சித்தார்த்தன் சிலை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 250–252 / printed pages 241–243.**
+**சித்தார்த்தன் சிலை is 2026 CURRENT PASS / CLOSED: Gate A 3/3 + Gate B 3/3, 1 source-proven repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 250–252 / printed pages 241–243.

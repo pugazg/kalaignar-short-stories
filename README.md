@@ -60,7 +60,7 @@ Permanent guides:
 | [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`அமிர்தமதி`](stories/amirthamathi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`சுமந்தவள்`](stories/sumanthaval/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **3 / 3 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved** | **PASS — synchronized** |
 | [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -296,9 +296,9 @@ Source registration state:
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
 - legacy Tamil source processing: **37 / 37 complete**
-- 2026 dual-gate source re-audit: **OPEN — 35 / 37 CURRENT PASS**
-- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`, `பாலைவன ரோஜா`, `புரட்சிப் படம்`, `திடுக்கிடும் கதை`, `கடைசிக் கட்டம்`, `அய்யோ ராஜா!`, `விஷம் இனிது`, `வேணியின் காதலன்`, `அமிர்தமதி`, `சுமந்தவள்`**
-- exact next story: **`சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`), scans 250–252 / printed 241–243**
+- 2026 dual-gate source re-audit: **OPEN — 36 / 37 CURRENT PASS**
+- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`, `பாலைவன ரோஜா`, `புரட்சிப் படம்`, `திடுக்கிடும் கதை`, `கடைசிக் கட்டம்`, `அய்யோ ராஜா!`, `விஷம் இனிது`, `வேணியின் காதலன்`, `அமிர்தமதி`, `சுமந்தவள்`, `சித்தார்த்தன் சிலை`**
+- exact next story: **`நுனிக்கரும்பு`, scans 253–259 / printed 244–250**
 - English translation complete from anthology: **37 / 37**; affected English is synchronized when a 2026 source repair changes meaning
 
 Exact source metadata, inventory, scan map and current dual-gate tracker are under the collection workspace.
@@ -340,10 +340,10 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 33. **வேணியின் காதலன்** — printed **216–221**, scans **225–230** — **2026 CURRENT PASS: Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved**.
 34. **அமிர்தமதி** — printed **222–229**, scans **231–238** — **2026 CURRENT PASS: Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved**.
 35. **சுமந்தவள்** — printed **230–240**, scans **239–249** — **2026 CURRENT PASS: Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved**.
-36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
+36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252** — **2026 CURRENT PASS: Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved**.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **35 / 37 CURRENT PASS, 2 pending**, with `சித்தார்த்தன் சிலை` next (TOC `சித்தார்த்தன்`).
+All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **36 / 37 CURRENT PASS, 1 pending**, with `நுனிக்கரும்பு` next.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -367,9 +367,9 @@ Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
 ## Anthology Tamil source pass status
 
-**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 35 / 37 CURRENT PASS.**
+**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 36 / 37 CURRENT PASS.**
 
-The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`), scans **250–252 / printed pages 241–243**.
+The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `நுனிக்கரும்பு`, scans **253–259 / printed pages 244–250**.
 
 ## Anthology English translation status
 

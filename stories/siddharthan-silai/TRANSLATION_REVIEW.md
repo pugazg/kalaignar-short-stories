@@ -36,6 +36,7 @@ Both internal page joins remain traceable. In particular, the exact 251→252 ph
 The persistent human-review queue was read before translation. Unusual verified Tamil was not silently normalized.
 
 - `கெண்டை` is represented through the source’s physical simile as **eyes like the kendai fish**, rather than substituting a different literary image.
+- source-corrected `அந்தி வானத்துச்` is represented as **the evening sky**; the earlier generic `a sky` wording was synchronized after the 2026 source re-audit.
 - `நடைபழகில்` is translated through its immediate sentence sense: the woman’s concern that even the earth might be hurt is visible **in the way she walks**.
 - the unusual punctuation `ஒளி!,` is not used to rewrite the Tamil; the English preserves the exclamatory turn without pretending the source punctuation is conventional.
 - `அவளைப் பெற்றவனே-உலகம்!` is rendered conservatively as the world congratulating the man who fathered her, rather than silently repairing the Tamil syntax.
@@ -61,8 +62,18 @@ The persistent human-review queue was read before translation. Unusual verified 
 
 Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription.
 
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **3/3 PASS**
+- Gate B: **3/3 PASS**
+- source-proven Tamil repairs: **1**
+- scan **250**: `அந்த வானத்துச்` → `அந்தி வானத்துச்`
+- English synchronization: **1 phrase** — `a sky` → `the evening sky`
+- unresolved source / historical-glyph readings: **0 / 0**
+
 ## Result
 
-**PASS — English translation complete for Story 36.**
+**PASS — English translation complete and synchronized for Story 36.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.

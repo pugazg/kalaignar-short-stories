@@ -41,15 +41,15 @@
 | 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | **2026 CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** — `stories/veniyin-kadhalan/` |
 | 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | **2026 CURRENT PASS — Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved** — `stories/amirthamathi/` |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | **2026 CURRENT PASS — Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved** — `stories/sumanthaval/` |
-| 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **legacy Tamil complete — 3/3 verified; 2026 re-audit NEXT; source-title variance preserved** — `stories/siddharthan-silai/` |
-| 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | **legacy Tamil complete — 7/7 verified; 2026 re-audit pending** — `stories/nunikkarumbu/` |
+| 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **2026 CURRENT PASS — Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved; source-title variance preserved** — `stories/siddharthan-silai/` |
+| 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | **legacy Tamil complete — 7/7 verified; 2026 re-audit NEXT** — `stories/nunikkarumbu/` |
 
 ## Processing progress
 
 - anthology stories registered: **37 / 37**
 - legacy Tamil source processing complete: **37 / 37**
-- 2026 dual-gate CURRENT PASS: **35 / 37**
-- 2026 dual-gate next: **Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`)**
+- 2026 dual-gate CURRENT PASS: **36 / 37**
+- 2026 dual-gate next: **Story 37 `நுனிக்கரும்பு`**
 - not yet transcribed: **0 / 37**
 
 The legacy page/assembly corpus remains the comparison baseline. Current release confidence is governed by `../RE_AUDIT_2026.md` and requires both Gate A and Gate B.
@@ -70,6 +70,6 @@ Both source forms must be preserved.
 
 ## Tamil source processing status
 
-**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 35 / 37 current PASS.**
+**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 36 / 37 current PASS.**
 
-Next exact story: `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`), scans **250–252 / printed 241–243**.
+Next exact story: `நுனிக்கரும்பு`, scans **253–259 / printed 244–250**.

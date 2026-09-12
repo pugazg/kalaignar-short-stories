@@ -2,7 +2,7 @@
 
 | Story seq. | Scan | Printed page | Status | Page role |
 |---:|---:|---:|---|---|
-| 1 | 250 | 241 | verified | story opening `சித்தார்த்தன் சிலை`; idealized portrait and relationship setup |
+| 1 | 250 | 241 | verified | story opening `சித்தார்த்தன் சிலை`; idealized portrait and relationship setup; 2026 repair `அந்தி வானத்துச்` |
 | 2 | 251 | 242 | verified | separation, friend's Buddhist-shrine advice, lament before the statue; page ends mid-speech |
 | 3 | 252 | 243 | verified | statue-speech continuation, husband's reveal, story ending and closing ornament |
 
@@ -17,3 +17,12 @@ Physical next-story boundary witness: scan **253 / printed page 244** visibly op
 - result: **PASS**
 - story-local record: [`../visual-fidelity.md`](../visual-fidelity.md)
 - wording changed during visual-fidelity closure: **No**
+
+
+## 2026 dual-gate status
+
+- Gate A: **3/3 PASS**
+- Gate B: **3/3 PASS**
+- source-proven repairs: **1**
+- unresolved source / historical-glyph readings: **0 / 0**
+- state: **CURRENT PASS / CLOSED**

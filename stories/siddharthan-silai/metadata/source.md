@@ -27,9 +27,9 @@
 
 ## Source-review notes
 
-All three Story 36 pages were reviewed directly from the controlling scan. High-resolution renders and enlarged full-span crops were used to distinguish older Tamil typeface forms from plausible modern-font misreadings, especially gendered verb endings and unusual printed word forms. The controlling scan governs the transcription; contextual expectation was not substituted for printed evidence.
+All three Story 36 pages were reviewed directly from the controlling scan. High-resolution renders and enlarged full-span crops were used to distinguish older Tamil typeface forms from plausible modern-font misreadings, especially gendered verb endings and unusual printed word forms. The 2026 dual-gate pass corrected one legacy omission on scan 250 / printed 241: `அந்த வானத்துச்` → source `அந்தி வானத்துச்`. The controlling scan governs the transcription; contextual expectation was not substituted for printed evidence.
 
-Source-close forms retained include `கெண்டை`, `நடைபழகில்`, the punctuation `ஒளி!,`, `அவளைப் பெற்றவனே-உலகம்!`, `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்`. See `POSSIBLE_ERRORS_FOR_REVIEW.md` for the persistent human recheck layer.
+Source-close forms retained include `கெண்டை`, `அந்தி வானத்துச்`, `நடைபழகில்`, the punctuation `ஒளி!,`, `அவளைப் பெற்றவனே-உலகம்!`, `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி`, `அவனிக்கு`, and `துணவியிடம்`. See `POSSIBLE_ERRORS_FOR_REVIEW.md` for the persistent human recheck layer.
 
 ## Boundary
 

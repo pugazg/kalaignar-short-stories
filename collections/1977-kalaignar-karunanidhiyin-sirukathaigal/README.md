@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 35 / 37 CURRENT PASS.**
+**OPEN — 36 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -281,11 +281,26 @@ Full story record: `../../stories/amirthamathi/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/sumanthaval/RE_AUDIT_2026.md`.
 
+### `சித்தார்த்தன் சிலை` closure
+
+- scans **250–252 / printed 241–243**
+- Gate A **3/3 PASS**
+- Gate B **3/3 PASS**
+- **1 source-proven repair / 0 unresolved**
+- scan 250: `அந்த வானத்துச்` → `அந்தி வானத்துச்`
+- no additional historical-glyph repair
+- TOC `சித்தார்த்தன்` ↔ opening `சித்தார்த்தன் சிலை` preserved
+- `ஒளி!,` and all source-sensitive forms retained
+- English synchronization **1 phrase**: `a sky` → `the evening sky`
+- scan 253 independently opens Story 37 `நுனிக்கரும்பு`
+
+Full story record: `../../stories/siddharthan-silai/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 36 **`சித்தார்த்தன் சிலை`** — TOC `சித்தார்த்தன்` — scans **250–252 / printed pages 241–243** — **NEXT**.
+Story 37 **`நுனிக்கரும்பு`** — scans **253–259 / printed pages 244–250** — **NEXT**.
 
-Complete Gate A **3/3** and independent Gate B **3/3**. Use scan **253** only as the boundary witness opening Story 37 `நுனிக்கரும்பு`. Advance to **36/37** only with zero unresolved; stop before Story 37.
+Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **260** only as the anthology back-cover boundary witness. Advance to **37/37** only with zero unresolved.
 
 
 ## Legacy processing state

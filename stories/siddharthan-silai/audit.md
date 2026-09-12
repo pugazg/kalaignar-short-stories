@@ -18,7 +18,7 @@ All three story scans were directly reviewed from source renders, with higher-re
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
-| 241 | 250 | verified | opening heading `சித்தார்த்தன் சிலை`; portrait and relationship setup |
+| 241 | 250 | verified | opening heading `சித்தார்த்தன் சிலை`; portrait and relationship setup; 2026 repair `அந்த` → `அந்தி` |
 | 242 | 251 | verified | separation and lament before Buddha statue; page ends mid-speech at `அருமைச்` |
 | 243 | 252 | verified | exact continuation `செல்வன்—...`; husband reveals himself; closing ornament |
 
@@ -44,7 +44,7 @@ No story page is omitted or duplicated.
 
 ## Source-sensitive verification notes
 
-- scan 250: `கெண்டை`, `அன்றித்`, `என்றெண்ணத்`, `நடைபழகில்`, `ஒளி!,`, and `அவளைப் பெற்றவனே-உலகம்!` retained.
+- scan 250: `கெண்டை`, `அன்றித்`, `என்றெண்ணத்`, `நடைபழகில்`, `ஒளி!,`, and `அவளைப் பெற்றவனே-உலகம்!` retained; legacy `அந்த வானத்துச்` was corrected from the source to `அந்தி வானத்துச்`.
 - scan 251: `இரு கிழமை`, `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு`, `கவலையதன்`, `உன்றனுக்கு`, and `மின்னாட்டி` retained.
 - scan 252: `அவனிக்கு`, `துணவியிடம்`, `வைக்க-உலகோரின்`, `அவரில்லை`, and terminal `தீமை! தீமை!!` retained.
 - gendered endings were explicitly rechecked at high resolution so older glyph shapes were not mistaken for different suffixes.
@@ -53,6 +53,21 @@ No story page is omitted or duplicated.
 
 Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
 
+## 2026 dual-gate re-audit
+
+- Gate A — source fidelity: **3/3 PASS**
+- Gate B — independent Old Tamil Glyph verification: **3/3 PASS**
+- source-proven repairs: **1**
+- scan **250 / printed 241**: `அந்த வானத்துச்` → **`அந்தி வானத்துச்`**
+- historical-glyph repairs in Gate B: **0**
+- all mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` explicitly considered across scans 250–252
+- gendered endings including `அழுதாள்`, `சென்றாள்`, `நின்றாள்`, `என்றாள்`, and `என்றான்` independently rechecked at native/high resolution
+- unresolved source / historical-glyph readings: **0 / 0**
+- English synchronization: **1 phrase**
+- scan **253** independently reconfirmed as the Story 37 boundary witness and was not processed as Story 36 text
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Audit result
 
-**PASS — சித்தார்த்தன் சிலை source range is fully transcribed and structurally source-complete: 3/3 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — சித்தார்த்தன் சிலை is 2026 CURRENT PASS / CLOSED: Gate A 3/3 PASS + Gate B 3/3 PASS, 1 source-proven repair, 0 unresolved.**

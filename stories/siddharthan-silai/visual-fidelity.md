@@ -31,10 +31,14 @@ Scan 253 opens `நுனிக்கரும்பு` and is excluded from th
 
 ## Corrections made in this phase
 
-None. The title variance, page roles, dialogue structure and ending ornament were already source-faithful.
+The 2026 direct source re-audit found one wording mismatch on scan **250 / printed 241**:
 
-**Story wording changed: No.**
+- legacy `அந்த வானத்துச்` → source **`அந்தி வானத்துச்`**
+
+No title, page-role, dialogue-structure, boundary or ending-ornament correction was required. Gate B found no additional historical-glyph repair.
+
+**Story wording changed: Yes — one source-proven character omission restored.**
 
 ## Result
 
-**PASS**
+**PASS — visual structure remains source-faithful; 2026 Gate A 3/3 + Gate B 3/3, 1 repair, 0 unresolved.**
