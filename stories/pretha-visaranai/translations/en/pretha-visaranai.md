@@ -14,7 +14,7 @@ From the street came the beat of a drum, followed by a man’s voice. “Tomorro
 
 then began moving away, spinning them as he went. Dr. Pichumoorthi switched off the ‘office light’ too and came outside.
 
-The two were coming out. In the darkness, only the light near the entrance could be seen dimly. Near the hospital doorstep a figure came forward with faltering steps. “Ah....ayyo.....appa sami....” It came a little faster and climbed the hospital steps.
+The two came out. In the darkness, only the light near the entrance could be seen dimly. Near the hospital doorstep a figure came forward with faltering steps. “Ah....ayyo.....appa sami....” It came a little faster and climbed the hospital steps.
 
 The doctor shone the ‘torch’ in his hand. A woman under thirty. A torn red sari. Dry, disordered hair flying in the wind. She closed her eyes against the light. Fully pregnant. Her trembling, convulsing hands and legs showed how terribly she was suffering in labour. She could not stand. Holding the front of the doorway, she bent over. “Ah....ayyo....God....sami, save me....you will earn a crore of merits.” She did not speak; she wailed.
 

@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ One same-person name consistency repair was made. The Tamil itself varies betwee
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Two English-quality repairs removed an unnatural leave-taking construction and corrected a punctuation typo; meaning and E3 name normalization remain unchanged.
+
+- E4 English-quality repairs: **2**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

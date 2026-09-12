@@ -28,7 +28,7 @@ Velan crumpled and fell. Kamalam ran to attend to him. The brute gathered up all
 
 “All right, go mind your own work!” Kamalam said, devoting herself wholly to tending Velan. The brute shook his head and left with some decision in mind. Kamalam knew very well that the rough man was Moga Vinayagam Pillai, owner of the Murugananda Mohanagana Sabha. She also knew that he was a great bandicoot who swallowed the town’s property. She knew only that he had been claiming rights over the palmyra trees on poramboke land. No one knew that very soon he intended to claim rights over Kamalam herself.
 
-When Velan, who had fallen from the blow, regained consciousness, Kamalam took him to her hut. After the necessary treatment, when he thanked her and tried to leave, Kamalam refused to give him leave. He understood the reason. They spoke about their births and how they had been raised. The two had met as orphans. The title ‘orphan’ fled from both of them. They embraced fully and rejoiced. That night sang a song of pleasure and moved slowly, slowly—
+When Velan, who had fallen from the blow, regained consciousness, Kamalam took him to her hut. After the necessary treatment, when he thanked her and tried to leave, Kamalam would not let him leave. He understood the reason. They spoke about their births and how they had been raised. The two had met as orphans. The title ‘orphan’ fled from both of them. They embraced fully and rejoiced. That night sang a song of pleasure and moved slowly, slowly—
 
 <!-- source scan 129; printed page 120 -->
 
@@ -46,7 +46,7 @@ One night—many days later! Midnight. The lovers were sleeping in exhaustion. S
 
 <!-- source scan 130; printed page 121 -->
 
-did the orphanage take you in and raise you. Ah...how big my son has grown—thambi! How did you seek:out your sister and come here?”
+did the orphanage take you in and raise you. Ah...how big my son has grown—thambi! How did you seek out your sister and come here?”
 
 The old man kept talking, unable to contain his joy!—Velan cried, “Ayyo! Father!” That was all. He began running somewhere. He ran; he ran—ran into the darkness and disappeared. Kamalam fell unconscious. “Kamalam! Kamalam!!” the old man called. He lifted her and placed her on his lap. He held her tightly. He kissed her cheeks again and again. He seized her lips with his own. Some feeling came over the old man! He laid Kamalam down. He touched her feet. They had gone cold. Kamalam was gone. The old man rose in frustration. His mind spoke.
 

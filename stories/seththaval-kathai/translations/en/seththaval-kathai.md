@@ -115,7 +115,7 @@ All these cruel thoughts danced a terrible dance in the trembling of Govindan’
 
 Sellayi was asleep. Looking at her face, Govindan sat beside her. He slowly raised his hands and pinched her cheeks. She was in deep sleep. Rubbing her cheeks, she turned and lay on the other side. Govindan trembled. He bit his lips.
 
-“Sellayi! Sellayi!” Words of muttering rose from his dry tongue! Every letter of the words—
+“Sellayi! Sellayi!” Muttered words rose from his dry tongue! Every letter of the words—
 
 <!-- source scan 136; printed page 127 -->
 

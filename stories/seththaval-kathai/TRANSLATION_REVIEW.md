@@ -43,3 +43,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names **Sellayi, Ellappan, Govindan** and recurring cultural/literary forms are internally consistent. Source-close **Pattinathar/Kittinathar**, `gosaa`, `jeevey`, `adukkin`, `appam`, `mangalam` and cremation vocabulary remain conservative because stronger lexical replacement would be speculative or would erase the story's comic register. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One grammar repair made the sentence natural English while preserving the source's strained, trembling delivery.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

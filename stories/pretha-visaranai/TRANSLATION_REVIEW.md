@@ -45,3 +45,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names, titles and historical social vocabulary are internally consistent: **Annamalai Mudaliar, Karuppayi, Kathamuthu, Kannayiram Pillai, Parthasarathi Iyengar, Harijan, paraichi, Pallu-Parai, pannai/pannaiyar, kumbabhishekam, Vinai Theertha Swami** and **desa-prashtam**. Historically marked caste/community language is retained source-close rather than silently modernized. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One tense/aspect repair removed an unnecessary progressive construction. Historical caste/social vocabulary and all E3 terminology remain unchanged.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

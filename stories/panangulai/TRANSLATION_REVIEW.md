@@ -47,3 +47,12 @@ English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 One same-person name consistency repair was made. The Tamil itself varies between `மோக வினாயகம்பிள்ளை` and `மோக வினாயகம் பிள்ளை` for the same character. English had mirrored that as **Moga Vinayagampillai** vs **Moga Vinayagam Pillai**; E3 now consistently uses **Moga Vinayagam Pillai** while the Tamil source variation remains documented. **Kamalam, Velan, Meenakshi, Ayyasami, Amma, Appa, Thambi, sari** remain stable.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Two English-quality repairs removed an unnatural leave-taking construction and corrected a punctuation typo; meaning and E3 name normalization remain unchanged.
+
+English-quality repairs: **2**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.
