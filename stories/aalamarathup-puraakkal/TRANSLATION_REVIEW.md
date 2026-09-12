@@ -62,3 +62,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil and the large 2026 historical-`றா` repair set. No E2 prose repair was required. The black/white/kavar-puraa relationships, hunter episode, refusal/conditional cooperation, valluuru's continued domination, later black–kavar conflict and final white-puraa objective all preserve source agency and allegorical sequence. Politically suggestive/source-close labels such as `kolvinai-koduppinai`, `kangani`, `ishtapoorvamaana`, quoted `thala` and `sakthi` are intentionally deferred to E3 terminology/cultural-consistency review.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+The allegorical vocabulary is intentionally source-close and internally consistent: **puraa, kavar-puraa, valluuru, kangani, kolvinai-koduppinai, viduthalai viruththam, vetri murasoli**, and quoted **thala / sakthi**. These are not mechanically converted to ordinary English because the story uses them as politically suggestive source labels. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

@@ -110,3 +110,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 source repair and the E1 156→157 page-anchor correction. No E2 prose repair was required. Annumalai's beauty obsession, Vimala's widowhood, seduction/pregnancy, abandonment, nitric-acid attack, suicide and final Bharathidasan apparition retain the source's agency, causality and rhetoric. Opaque source-confirmed `அக்கத்தாகக்` remains visibly conservative in English rather than being guessed; that lexical issue belongs to E3 terminology/cultural consistency, not E2 meaning repair.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and literary/cultural references are stable: **Annumalai, Vimala, Brahma**, and the descriptive **revolutionary poet of Puduvai**. The story deliberately avoids importing an outside biographical identification into the text. Source-confirmed opaque `அக்கத்தாகக்` remains conservative rather than guessed. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

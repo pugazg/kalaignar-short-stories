@@ -36,3 +36,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 spacing repair `சகுனத் தடை` and the E1 140→141 page-anchor correction. No E2 prose repair was required. The hospital refusal, explicit caste abuse, landlord's temple-building hypocrisy, Kathamuthu's death, Karuppayi's sexual exploitation and banishment, suicide, post-mortem irony and final social diagnosis all preserve source agency and causality. Historical caste labels and source-close legal/religious expressions are retained for later terminology review, not normalized during E2.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names, titles and historical social vocabulary are internally consistent: **Annamalai Mudaliar, Karuppayi, Kathamuthu, Kannayiram Pillai, Parthasarathi Iyengar, Harijan, paraichi, Pallu-Parai, pannai/pannaiyar, kumbabhishekam, Vinai Theertha Swami** and **desa-prashtam**. Historically marked caste/community language is retained source-close rather than silently modernized. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

@@ -42,7 +42,8 @@ Story 21 **ஆலமரத்துப் புறாக்கள்** — scan
 - E1 repairs: **0**
 - unresolved E1 issues: **0**
 - E2 meaning fidelity: **PASS**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -52,4 +53,13 @@ Story 21 **ஆலமரத்துப் புறாக்கள்** — scan
 - English fidelity repairs: **0**
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
+
+
+## English re-audit E3 closure
+
+- terminology / names / cultural consistency: **PASS**
+- E3 English repairs: **1**
+- unresolved E3 issues: **0**
+- E4–E5: **PENDING**

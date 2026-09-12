@@ -34,3 +34,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. The late theatre opening, weapon mix-up, Kumar's instantaneous infatuation, Dharmar's Ramayanam-line mistake, riot/fire sequence, pursuit of Thirelapathi and final wig reveal all preserve the source's comic causality and irony. Verified source-close terms such as `pennural`, `digvijayam`, `Kuyyo! Muraiyo!` and `dopa` remain for E3/E4 rather than being interpretively normalized in the meaning gate.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+One mythological-name consistency repair was made. Source `திரெளபதி` is clearly the same figure already established as **Draupadi** in the anthology. All English **Thirelapathi** occurrences are now **Draupadi**, including the play title **Draupadi Vasthirabharanam**. Source-specific stage terms **pennural, digvijayam, Kuyyo! Muraiyo!, dopa**, and the separate **Kali Devi** remain unchanged.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

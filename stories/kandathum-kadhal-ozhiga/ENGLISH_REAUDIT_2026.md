@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was checked sentence-by-sentence against the final canonica
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+One mythological-name consistency repair was made. Source `திரெளபதி` is clearly the same figure already established as **Draupadi** in the anthology. All English **Thirelapathi** occurrences are now **Draupadi**, including the play title **Draupadi Vasthirabharanam**. Source-specific stage terms **pennural, digvijayam, Kuyyo! Muraiyo!, dopa**, and the separate **Kali Devi** remain unchanged.
+
+- E3 English repairs: **1**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

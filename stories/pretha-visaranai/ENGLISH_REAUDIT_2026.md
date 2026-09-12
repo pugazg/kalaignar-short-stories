@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was checked sentence-by-sentence against the final canonica
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names, titles and historical social vocabulary are internally consistent: **Annamalai Mudaliar, Karuppayi, Kathamuthu, Kannayiram Pillai, Parthasarathi Iyengar, Harijan, paraichi, Pallu-Parai, pannai/pannaiyar, kumbabhishekam, Vinai Theertha Swami** and **desa-prashtam**. Historically marked caste/community language is retained source-close rather than silently modernized. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**
