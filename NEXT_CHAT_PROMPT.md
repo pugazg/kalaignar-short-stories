@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E4 Stories 1–13
+# NEXT CHAT PROMPT — 1977 English re-audit / E4 Stories 14–26
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,31 +8,26 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 - E1: **CLOSED — 37/37 PASS**
 - E2: **CLOSED — 37/37 PASS**
 - E3: **CLOSED — 37/37 PASS**
-- E4: **0/37 PASS**
+- E4: **13/37 PASS**
 - E5: **not started**
-- cumulative E2 repairs: **12**
-- cumulative E3 repairs: **6**
+- cumulative E4 English-quality repairs: **11**
 - unresolved English re-audit issues: **0**
-
-Cross-anthology E3 convention ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
 
 The user requested **13 stories per iteration**.
 
 ## Exact next iteration
 
-Process **E4 Stories 1–13**:
+Process **E4 Stories 14–26**:
 
-`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`.
+`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
 
-For each story read final canonical Tamil, existing English, story-local `ENGLISH_REAUDIT_2026.md`, `TRANSLATION_REVIEW.md`, and E3 conventions.
-
-E4 is an English-quality pass only:
+E4 is an English-quality gate only:
 
 - grammar and syntax;
 - awkward or accidentally literal English;
 - punctuation and dialogue readability;
-- tense and pronoun consistency;
+- tense/pronoun consistency;
 - natural English phrasing;
-- preserve source rhetoric, ambiguity, terminology and all E2/E3 meaning decisions.
+- preserve source rhetoric, ambiguity, terminology and all closed E2/E3 decisions.
 
-Record every English repair or 0 repairs. Do not modify Tamil. Do not reopen the PDF unless a plausible Tamil-source defect emerges. Do not start E5.
+Record every repair or 0 repairs. Do not modify Tamil. Do not reopen the PDF unless a plausible Tamil-source defect emerges. Do not start E5.

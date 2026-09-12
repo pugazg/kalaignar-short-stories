@@ -11,35 +11,41 @@
 
 ## Durable current state
 
-- E1 completeness / physical-page alignment: **CLOSED — 37/37 PASS**
-- E2 meaning fidelity: **CLOSED — 37/37 PASS**
-- E3 terminology / names / cultural consistency: **CLOSED — 37/37 PASS**
-- E4 English quality without changing meaning: **0/37**
+- E1: **CLOSED — 37/37 PASS**
+- E2: **CLOSED — 37/37 PASS**
+- E3: **CLOSED — 37/37 PASS**
+- E4 English quality without changing meaning: **13/37 PASS**
 - E5 final bilingual approval: **0/37**
 - cumulative E2 English fidelity repairs: **12**
-- cumulative E3 English terminology/name repairs: **6**
+- cumulative E3 terminology/name repairs: **6**
+- cumulative E4 English-quality repairs: **11**
 - unresolved English re-audit issues: **0**
-
-E3 convention ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
-
-## E3 closure
-
-All **37 stories are E3 PASS**.
-
-Final Stories 27–37 batch produced one repair:
-
-- `பாலைவன ரோஜா`: **Kandayyas → Kandaiyas**.
-
-No Tamil changed. No PDF/source reinspection was required. E3 unresolved: **0**.
 
 ## Iteration cadence
 
-The user requested **13 stories per iteration**. Continue that cadence for the remaining English re-audit gates unless explicitly changed.
+User-set cadence: **13 stories per iteration**.
+
+For E4:
+- Stories 1–13 — **COMPLETE / PASS**
+- Stories 14–26 — **NEXT**
+- Stories 27–37 — final 11 after that
+
+## Latest E4 batch — Stories 1–13
+
+All **13/13 PASS**.
+
+- English-quality repairs: **11**
+- Tamil changes: **0**
+- source reopenings: **0**
+- E2/E3 decisions altered: **0**
+- unresolved E4 issues: **0**
+
+E4 changes were limited to grammar, syntax, punctuation and readability. Source rhetoric, ambiguity and E3 terminology conventions remain authoritative.
 
 ## Exact next activity
 
-Process **E4 Stories 1–13** in one iteration.
+Process **E4 Stories 14–26** in one iteration:
 
-E4 checks English grammar, awkward phrasing, punctuation, readability, tense consistency, pronouns, dialogue and accidental literalism **without changing Tamil meaning**. Final Tamil and the already-closed E2/E3 decisions remain authoritative.
+`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
 
-Do not start E5 until E4 reaches 37/37.
+Review English quality only; preserve Tamil meaning and all closed E2/E3 decisions. Do not start E5.

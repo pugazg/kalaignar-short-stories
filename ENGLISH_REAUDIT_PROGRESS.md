@@ -12,30 +12,31 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
 - E3 terminology / cultural consistency: **37 / 37 PASS — CLOSED**
-- E4 English quality: **0 / 37 PASS**
+- E4 English quality: **13 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
 - E3 terminology / cultural-consistency repairs: **6** (`ஆதரிக்கிறார்` 1, `ஒரிஜினலில் உள்ளபடி` 1, `பனங்குலை` 1, `கண்டதும் காதல் ஒழிக!` 1, `கண்ணடக்கம்` 1, `பாலைவன ரோஜா` 1)
+- E4 English-quality repairs: **11** (Stories 1–4, 6, 8–12; Stories 5, 7, 13 required 0)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E4 — Stories 1–13, English quality without changing meaning**
+- exact next activity: **E4 — Stories 14–26, English quality without changing meaning**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
-| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
@@ -366,3 +367,38 @@ Cumulative E3 findings:
 ## Current next
 
 Proceed to **E4 — English quality without changing meaning**, using the user's **13-story iteration cadence**. First E4 iteration: **Stories 1–13**. Do not start E5 until E4 reaches 37/37 unless explicitly redirected.
+
+
+### E4 — Stories 1–13 batch
+
+First 13-story E4 iteration is **COMPLETE — 13/13 PASS**.
+
+English-quality repairs in this batch: **11**.
+
+Repairs were strictly readability/grammar/punctuation changes and did not alter Tamil meaning or closed E2/E3 decisions. Notable examples:
+
+- `புகழேந்தி`: recast the awkward “two ears and eyes ... respectively” sentence into natural parallel English.
+- `நளாயினி`: repaired the impossible “The house opened ... a face peered out even before it opened” construction to a door-opening sentence.
+- `சபலம்`: “three-quarters of his eye closed” → **“his eyes three-quarters closed.”**
+- `ஆட்டக்காவடி`: removed a stray colon and changed **“left the place at speed”** to **“hurried away.”**
+- `சந்தனக்கிண்ணம்`: **“possessed by old-fashioned ways”** → **“bound by old-fashioned ways.”**
+- `கங்கையின் காதல்`: clarified **“Could only my... Parvati manage it?”** while retaining the source hesitation.
+- `தாய்மை`: **“ripened voice”** → **“mellow voice.”**
+- `தப்பிவிட்டார்கள்`: **“low register”** → **“low voice.”**
+- `தப்பவில்லை`: removed redundant **“talk and converse.”**
+- `ஆதரிக்கிறார்`: **“Before the news itself could get going”** → **“Before the news could even spread.”**
+
+Stories `குப்பைத்தொட்டி`, `சங்கிலிச்சாமி`, and `இரகசியம்!` required **0** E4 prose change.
+
+Batch result:
+
+- E4 stories closed: **13**
+- E4 English-quality repairs: **11**
+- Tamil changes: **0**
+- source reopenings: **0**
+- E2/E3 decisions altered: **0**
+- unresolved E4 issues: **0**
+
+## Current next
+
+Continue **E4 Stories 14–26** using the 13-story cadence. Do not start E5 until E4 reaches 37/37 unless explicitly redirected.
