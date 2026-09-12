@@ -27,3 +27,12 @@ All six page markers, hospital refusal, landlord contrast, Karuppayi backstory, 
 One page-anchor defect was repaired at 140→141. Tamil scan 140 ends after the keys are taken `...சாவிக் கொத்தை எடுத்து விரலில்`; scan 141 begins `சுழற்றிக்கொண்டே நகர ஆரம்பித்தார்...`. The English had already moved and spun the keys before the marker. It now ends scan 140 with the keys slipped onto his finger and begins scan 141 with the movement/spinning action. The missing opening rule and enlarged-initial annotations were also restored.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 spacing repair `சகுனத் தடை` and the E1 140→141 page-anchor correction. No E2 prose repair was required. The hospital refusal, explicit caste abuse, landlord's temple-building hypocrisy, Kathamuthu's death, Karuppayi's sexual exploitation and banishment, suicide, post-mortem irony and final social diagnosis all preserve source agency and causality. Historical caste labels and source-close legal/religious expressions are retained for later terminology review, not normalized during E2.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

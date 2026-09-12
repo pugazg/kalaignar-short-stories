@@ -63,3 +63,12 @@ Scan **155** ends the story with the source-bold `வல்லூறை வி�
 - unresolved E1 issues: **0**
 - E2–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
+
+
+## English re-audit E2
+
+- meaning fidelity: **PASS**
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E2 issues: **0**
+- E3–E5: **PENDING**

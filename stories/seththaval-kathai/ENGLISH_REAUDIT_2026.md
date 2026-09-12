@@ -36,3 +36,18 @@ Structure-only annotation repair; no prose/marker regression fixture required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. The three fire refrains, Sellayi–Ellappan domestic dialogue, Govindan's coercive assault, later bribery/gifts, Ellappan's discovery and confrontation, killing, cremation and final `mangalam` preserve source sequence, agency and rhetoric. Source-close colloquial or culturally opaque forms such as `gosaa`, `jeevey`, `adukkin` and the Pattinathar references are left for E3 terminology/cultural consistency rather than guessed in E2.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

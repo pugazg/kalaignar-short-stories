@@ -36,3 +36,18 @@ Structure-only annotation repair; no prose/marker regression fixture required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil and the large 2026 historical-`றா` repair set. No E2 prose repair was required. The black/white/kavar-puraa relationships, hunter episode, refusal/conditional cooperation, valluuru's continued domination, later black–kavar conflict and final white-puraa objective all preserve source agency and allegorical sequence. Politically suggestive/source-close labels such as `kolvinai-koduppinai`, `kangani`, `ishtapoorvamaana`, quoted `thala` and `sakthi` are intentionally deferred to E3 terminology/cultural-consistency review.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

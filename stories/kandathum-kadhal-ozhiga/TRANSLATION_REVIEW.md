@@ -25,3 +25,12 @@ All five source-page markers, theatre confusion, source-bold emphasis, riot/fire
 All four joins remain traceable. The 148→149 `என்று` → `முடிக்கவில்லை` continuation is represented as `and—` → `—did not finish`; 149→150 fire growth likewise stays on the correct adjacent pages.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. The late theatre opening, weapon mix-up, Kumar's instantaneous infatuation, Dharmar's Ramayanam-line mistake, riot/fire sequence, pursuit of Thirelapathi and final wig reveal all preserve the source's comic causality and irony. Verified source-close terms such as `pennural`, `digvijayam`, `Kuyyo! Muraiyo!` and `dopa` remain for E3/E4 rather than being interpretively normalized in the meaning gate.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

@@ -10,7 +10,7 @@
 
 <!-- source scan 127; printed page 118 -->
 
-Tears poured from her eyes. The happiness they had both awaited for so many days was theirs at that moment. According to season and circumstance, Kamalam’s mother had kept her daughter alive by running an idli stall, doing petty-market trade, selling tender coconuts, panai nungu and many such things. After her mother died, Kamalam had to take up the same trades. Since it was the season for ‘panai nungu’, Kamalam was engaged in that business. She had to buy palmyra fruit wholesale, sell it, and wash her stomach with the small profit that came from it.
+Tears poured from her eyes. The happiness they had both awaited for so many days was theirs at that moment. According to season and circumstance, Kamalam’s mother had kept her daughter alive by running an idli stall, doing petty-market trade, selling tender coconuts, panai nungu and many such things. After her mother died, Kamalam had to take up the same trades. Since it was the season for ‘panai nungu’, Kamalam was engaged in that business. She had to buy palmyra fruit wholesale, sell it, and keep herself fed with the small profit that came from it.
 
 It was then that one day Velan came to buy ‘panai nungu’ from her. The man who came one day came again the next. He came often. If he did not come and buy ‘panai nungu’, even she felt that no business had taken place that day. She would return home with a face as though she had suffered a great loss in trade. One day he asked her,
 

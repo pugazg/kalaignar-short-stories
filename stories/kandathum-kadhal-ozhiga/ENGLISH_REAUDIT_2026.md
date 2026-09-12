@@ -36,3 +36,18 @@ No E1 defect was changed; regression fixture not required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. The late theatre opening, weapon mix-up, Kumar's instantaneous infatuation, Dharmar's Ramayanam-line mistake, riot/fire sequence, pursuit of Thirelapathi and final wig reveal all preserve the source's comic causality and irony. Verified source-close terms such as `pennural`, `digvijayam`, `Kuyyo! Muraiyo!` and `dopa` remain for E3/E4 rather than being interpretively normalized in the meaning gate.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

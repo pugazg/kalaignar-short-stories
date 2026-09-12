@@ -36,3 +36,18 @@ Corrected state: **PASS**. Reconstructed prior 140→141 marker pattern: **FAIL 
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 spacing repair `சகுனத் தடை` and the E1 140→141 page-anchor correction. No E2 prose repair was required. The hospital refusal, explicit caste abuse, landlord's temple-building hypocrisy, Kathamuthu's death, Karuppayi's sexual exploitation and banishment, suicide, post-mortem irony and final social diagnosis all preserve source agency and causality. Historical caste labels and source-close legal/religious expressions are retained for later terminology review, not normalized during E2.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

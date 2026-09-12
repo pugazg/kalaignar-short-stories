@@ -36,3 +36,18 @@ No E1 defect was changed; regression fixture not required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including all three 2026 repairs. One fidelity defect was repaired. In scan 127, `சிறிய லாபத்தைக் கொண்டு வயிறு கழுவிக் கொள்ள வேண்டிய நிலைமை` is an idiom about subsisting on the small profit, not literally “washing her stomach.” The English now reads **“keep herself fed with the small profit that came from it.”** The orphan backstory, palmyra-fruit trade, Moga Vinayagampillai's predation, false father/brother deception, Kamalam's death, Velan's fall, and the closing cluster/panangulai image remain semantically intact.
+
+- English fidelity repairs: **1**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

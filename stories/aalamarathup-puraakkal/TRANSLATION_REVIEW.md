@@ -53,3 +53,12 @@ Ordinary plural narration that already used **pigeons** remains unchanged.
 All four joins remain traceable, including 151→152 `...கிளையிலே அமரும்` → `வல்லூறு!` and 152→153 the hunter-cause continuation. The missing opening-rule and enlarged-initial traceability comments were added; no prose changed.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil and the large 2026 historical-`றா` repair set. No E2 prose repair was required. The black/white/kavar-puraa relationships, hunter episode, refusal/conditional cooperation, valluuru's continued domination, later black–kavar conflict and final white-puraa objective all preserve source agency and allegorical sequence. Politically suggestive/source-close labels such as `kolvinai-koduppinai`, `kangani`, `ishtapoorvamaana`, quoted `thala` and `sakthi` are intentionally deferred to E3 terminology/cultural-consistency review.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
