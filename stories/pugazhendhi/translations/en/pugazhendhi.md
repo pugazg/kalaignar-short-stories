@@ -58,7 +58,7 @@ One day the genius had been invited out of town—to deliver a lecture at a coll
 
 <!-- source scan 14; printed page 5 -->
 
-There were many female students in the gathering. Amid that jasmine grove there was one beautiful rose. With her two ears and her eyes, that rose drank in, respectively, the genius's speech and the beauty of his well-formed body. The genius's gaze too darted toward the young woman once or twice. But it withdrew as swiftly as it had darted. He did not show that he had noticed her. The lecture ended. Students surrounded the genius. After speaking to everyone, he left for the college principal's house.
+There were many female students in the gathering. Amid that jasmine grove there was one beautiful rose. With her ears she drank in the genius's speech, and with her eyes the beauty of his well-formed body. The genius's gaze too darted toward the young woman once or twice. But it withdrew as swiftly as it had darted. He did not show that he had noticed her. The lecture ended. Students surrounded the genius. After speaking to everyone, he left for the college principal's house.
 
 After his meal, craving quiet, the genius went upstairs. He walked about on the terrace. A fine moon! When his legs began to ache from walking, he sat in a chair. The boy assigned to attend to the genius ran over and massaged his legs. The genius's aching legs found comfort in the boy's service.
 

@@ -78,3 +78,12 @@ English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and mythological terms are consistent with the established English layer: **Nalayini**, **Kasinathan**, **Draupadi**. Source-odd `நயனவல்லித்ததை` and the `மெளத் கல்யர் / மெளத்கல்யர்` forms remain conservative rather than being reconstructed from outside mythology or Sanskrit expectation. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One clear English-syntax repair was made: **“The house opened before she had finished knocking. A face peered out even before it opened.”** became **“The door opened before she had finished knocking; a face peered out as it opened.”** This removes an impossible English construction while preserving the same source action.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

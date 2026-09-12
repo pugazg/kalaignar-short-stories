@@ -101,7 +101,8 @@ The scan-25 correction `அலுப்பைப் பற்றிய அக்
 - unresolved E1 issues: **0**
 - E2 meaning fidelity: **PASS**
 - E3 terminology / cultural consistency: **PASS**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -112,7 +113,8 @@ The scan-25 correction `அலுப்பைப் பற்றிய அக்
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
 - E3 terminology / cultural consistency: **PASS**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
 
 
 ## English re-audit E3 closure
@@ -120,4 +122,13 @@ The scan-25 correction `அலுப்பைப் பற்றிய அக்
 - terminology / names / cultural consistency: **PASS**
 - E3 English repairs: **0**
 - unresolved E3 issues: **0**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
+
+
+## English re-audit E4 closure
+
+- English quality without changing meaning: **PASS**
+- E4 English repairs: **1**
+- unresolved E4 issues: **0**
+- E5: **PENDING**

@@ -109,3 +109,12 @@ English repairs: **2**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Character names **Kumares** and **Chandira** are stable throughout the story. The culturally marked relationship address **Aththaan** is retained consistently and matches the anthology convention used in other direct-address passages; ordinary narrative relationship terms remain translated naturally. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One awkward literal construction was repaired: **“watching everything with three-quarters of his eye closed”** became **“watching everything with his eyes three-quarters closed.”** The concealment/detective action and degree remain unchanged.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

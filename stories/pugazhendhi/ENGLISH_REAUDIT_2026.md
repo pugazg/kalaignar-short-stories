@@ -14,7 +14,7 @@
 - E1 completeness / physical-page alignment: **PASS**
 - E2 meaning fidelity: **PASS**
 - E3 terminology / cultural consistency: **PASS**
-- E4 English quality: **PENDING**
+- E4 English quality: **PASS**
 - E5 final bilingual approval: **PENDING**
 
 ## E1 — completeness and physical-page alignment
@@ -131,3 +131,17 @@ Personal/title forms are internally consistent. The source-odd `பிடேல�
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One readability repair was made without changing meaning: the awkward construction “With her two ears and her eyes ... respectively” was recast as **“With her ears she drank in the genius's speech, and with her eyes the beauty of his well-formed body.”** Source metaphor, rhetoric and terminology remain unchanged.
+
+- E4 English repairs: **1**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

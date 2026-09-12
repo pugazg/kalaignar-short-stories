@@ -108,3 +108,12 @@ All nine 2026 Tamil repair locations were rechecked. No Tamil/source reopening w
 Personal/title forms are internally consistent. The source-odd `பிடேல்டோ` remains conservative **Pideldō** rather than being externally identified. `வேட்டி` is retained as **veshti**, establishing the anthology E3 convention for this garment term. No name, kinship, political/social or cultural-term inconsistency was found.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One readability repair was made without changing meaning: the awkward construction “With her two ears and her eyes ... respectively” was recast as **“With her ears she drank in the genius's speech, and with her eyes the beauty of his well-formed body.”** Source metaphor, rhetoric and terminology remain unchanged.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

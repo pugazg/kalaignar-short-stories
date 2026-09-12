@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ Names and mythological terms are consistent with the established English layer: 
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One clear English-syntax repair was made: **“The house opened before she had finished knocking. A face peered out even before it opened.”** became **“The door opened before she had finished knocking; a face peered out as it opened.”** This removes an impossible English construction while preserving the same source action.
+
+- E4 English repairs: **1**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

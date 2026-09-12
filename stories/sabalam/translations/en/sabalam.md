@@ -36,7 +36,7 @@ From the mouth of Moorthi's new railway grandmother came a ‘poos, poos’ brea
 
 The man opposite now had to lower his head. What special beauty he saw in Chandira's face as she tried to sleep with her eyes closed, no one knew. He simply drank in the sight! He could not sit still. What would happen if a plate heaped with pongal were placed before a man starving with hunger...? That was his state. The fact that his mind had no steadiness flashed plainly in every movement. Chandira's occasional glance had already spun him like a top. That day had brought him a fine opportunity indeed. He had searched carriage after carriage and found nothing like this; and now, as though he had aimed at a star and the moon itself had fallen into his hands, he had found this place. He admired the sleeping Chandira—admired her—admired her without end!
 
-At this very stage, Kumares was watching everything with three-quarters of his eye closed. He waited feverishly for Chandira to be caught red-handed. The man opposite kept looking at Kumares, gently touching her hand with his foot, then looking all around and sitting still again.
+At this very stage, Kumares was watching everything with his eyes three-quarters closed. He waited feverishly for Chandira to be caught red-handed. The man opposite kept looking at Kumares, gently touching her hand with his foot, then looking all around and sitting still again.
 
 <!-- source scan 28; printed page 19 -->
 
