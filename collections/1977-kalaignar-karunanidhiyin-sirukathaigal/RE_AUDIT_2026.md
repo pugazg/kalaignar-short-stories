@@ -126,8 +126,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 18 | `செத்தவள் கதை` | 131–139 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 19 | `பிரேத விசாரணை` | 140–145 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **NEXT — REOPENED** |
-| 22 | `தொத்துக்கிளி` | 156–160 | REOPENED / pending |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **CURRENT PASS — 89 repairs / 0 unresolved** |
+| 22 | `தொத்துக்கிளி` | 156–160 | **NEXT — REOPENED** |
 | 23 | `காதல் கடிதம்` | 161–165 | REOPENED / pending |
 | 24 | `கண்ணடக்கம்` | 166–172 | REOPENED / pending |
 | 25 | `வாழ முடியாதவர்கள்` | 173–180 | REOPENED / pending |
