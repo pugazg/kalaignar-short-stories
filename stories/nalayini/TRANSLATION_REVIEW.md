@@ -69,3 +69,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was compared sentence-by-sentence with the final canonical Tamil, including all 15 2026 Tamil repair locations and source-retained oddities. One fidelity defect was repaired: scan 16→17 `தனக்கென உரிய உடலில் கால் பாகத்துக்குமேல் இழந்துவிட்ட மனிதன்` means that the leprous sage had lost **more than a quarter of his body**; the English had incorrectly said he had lost “more than the leg portion” of his body. Names and source-odd forms such as `மெளத் கல்யர்` / `மெளத்கல்யர்`, `நயனவல்லித்ததை`, `வண்ணேயாளர்`, and `எடெமுது வோர்` were not normalized from expectation.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and mythological terms are consistent with the established English layer: **Nalayini**, **Kasinathan**, **Draupadi**. Source-odd `நயனவல்லித்ததை` and the `மெளத் கல்யர் / மெளத்கல்யர்` forms remain conservative rather than being reconstructed from outside mythology or Sanskrit expectation. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

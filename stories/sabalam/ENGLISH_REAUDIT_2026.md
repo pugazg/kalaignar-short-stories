@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was compared sentence-by-sentence with the final canonical 
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Character names **Kumares** and **Chandira** are stable throughout the story. The culturally marked relationship address **Aththaan** is retained consistently and matches the anthology convention used in other direct-address passages; ordinary narrative relationship terms remain translated naturally. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

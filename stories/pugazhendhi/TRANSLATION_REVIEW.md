@@ -99,3 +99,12 @@ The complete English was re-read sentence-by-sentence against the final canonica
 - `அவனால் மட்டுமே விளக்கமுடியும்`: removed unsupported `they believed`.
 
 All nine 2026 Tamil repair locations were rechecked. No Tamil/source reopening was required. **0 unresolved E2 issues.**
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Personal/title forms are internally consistent. The source-odd `பிடேல்டோ` remains conservative **Pideldō** rather than being externally identified. `வேட்டி` is retained as **veshti**, establishing the anthology E3 convention for this garment term. No name, kinship, political/social or cultural-term inconsistency was found.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

@@ -100,3 +100,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was compared sentence-by-sentence with the final canonical Tamil, including all six 2026 Tamil repair locations and retained oddities. Two fidelity repairs were made. First, scan 25's `அவனும் சந்திராவும் தங்கள் குழந்தையுடன்` was clarified as **Kumares and Chandira** rather than the ambiguous English “He and Chandira,” preserving the correct husband/subject relation established by the story. Second, scan 28 `அவன் உமிழ்நீர் விழுங்கினான்` was restored from the incomplete “He swallowed” to **“He swallowed his saliva.”** Source-close images and oddities such as the star/moon comparison, `கையுங்களவுமாக`, and `அந்தப் பசலை` remain conservative.
 
 English repairs: **2**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Character names **Kumares** and **Chandira** are stable throughout the story. The culturally marked relationship address **Aththaan** is retained consistently and matches the anthology convention used in other direct-address passages; ordinary narrative relationship terms remain translated naturally. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

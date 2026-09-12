@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was compared sentence-by-sentence with the final canonical 
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and mythological terms are consistent with the established English layer: **Nalayini**, **Kasinathan**, **Draupadi**. Source-odd `நயனவல்லித்ததை` and the `மெளத் கல்யர் / மெளத்கல்யர்` forms remain conservative rather than being reconstructed from outside mythology or Sanskrit expectation. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

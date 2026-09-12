@@ -78,3 +78,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The full English was checked sentence-by-sentence against the final canonical Tamil, including all seven 2026 repair locations. No E2 prose repair was required. The meaning-sensitive Tamil correction `அவர்களை ஏமாற்றி விட்டால்` is already correctly represented as “If I disappoint them now.” Source-retained oddities and images—including `பாவலா`, the poison/milk comparison, `அதிருப சுந்தரன்`, and `கந்தனும் அவளுக்குக் கருவிழியானை` → “Kandan became the dark pupil of her eye”—remain conservative rather than normalized.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and cultural vocabulary are internally consistent: **Kandan**, **Kanimozhi**, **Mirugandu**, **Mudaliar**, **Mirasudar**, **Deepavali**, **Murugan**, **Aththaan**, and **sari**. The source-specific terms `பாவலா`, `பம்பை`, `அதிருப சுந்தரன்`, `சுண்` and the title **Aattakkavadi** remain conservative rather than being normalized. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

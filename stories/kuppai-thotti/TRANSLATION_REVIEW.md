@@ -62,3 +62,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The full English was checked sentence-by-sentence against the final canonical Tamil and all four 2026 Tamil repair locations. No E2 prose repair was required. The corrected rhetorical `போதுதானா` and `அலட்சியப் புத்தி` senses are already present. Source-odd `தூராற்றம்` is directly source-confirmed but lexically unusual; the English keeps the conservative transliteration *thoorattram* rather than inventing a normalized sense. The narrative's satire, rhetorical questions, sexual/religious irony, quantities, and final unmarried-mother inference remain intact.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Religious/mythological names and terms are stable in the existing English, including **Paramasivan**, **Andal**, **Menaka**, **Viswamitra** and generic **God/Lord** where the Tamil context is generic rather than a personal-name transliteration. Source-confirmed opaque `தூராற்றம்` remains **thoorattram** and is documented rather than guessed. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

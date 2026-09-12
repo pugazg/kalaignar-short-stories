@@ -13,7 +13,7 @@
 
 - E1 completeness / physical-page alignment: **PASS**
 - E2 meaning fidelity: **PASS**
-- E3 terminology / cultural consistency: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
 - E4 English quality: **PENDING**
 - E5 final bilingual approval: **PENDING**
 
@@ -119,3 +119,15 @@ Five English fidelity repairs were made:
 - result: **PASS**
 
 Programme next activity: **E2 — Story 2 `நளாயினி`**.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Personal/title forms are internally consistent. The source-odd `பிடேல்டோ` remains conservative **Pideldō** rather than being externally identified. `வேட்டி` is retained as **veshti**, establishing the anthology E3 convention for this garment term. No name, kinship, political/social or cultural-term inconsistency was found.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

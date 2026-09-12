@@ -113,8 +113,17 @@ Durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md).
 - Tamil/source reopened during E1: **No**
 - E1 unresolved: **0**
 - E2 meaning fidelity: **PASS — 5 English repairs / 0 unresolved**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
 
 ## Completion state
 
 **புகழேந்தி remains CURRENT PASS / CLOSED under the 2026 Tamil dual-gate standard. Its independent English re-audit has E1 + E2 PASS; downstream E3–E5 remain pending under the anthology gate-wide workflow.**
+
+
+## English re-audit E3 closure
+
+- terminology / names / cultural consistency: **PASS**
+- E3 English repairs: **0**
+- unresolved E3 issues: **0**
+- E4–E5: **PENDING**

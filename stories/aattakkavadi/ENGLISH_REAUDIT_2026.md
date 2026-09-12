@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The full English was checked sentence-by-sentence against the final canonical Ta
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and cultural vocabulary are internally consistent: **Kandan**, **Kanimozhi**, **Mirugandu**, **Mudaliar**, **Mirasudar**, **Deepavali**, **Murugan**, **Aththaan**, and **sari**. The source-specific terms `பாவலா`, `பம்பை`, `அதிருப சுந்தரன்`, `சுண்` and the title **Aattakkavadi** remain conservative rather than being normalized. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**
