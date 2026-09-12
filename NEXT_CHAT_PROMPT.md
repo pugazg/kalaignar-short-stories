@@ -1,54 +1,62 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `சுமந்தவள்` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `சித்தார்த்தன் சிலை` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Observed live checkpoint when this prompt was refreshed: `0902ed35296436a2e005513d090e6618c4294e46` — `Advance anthology tracker through அமிர்தமதி`. If live `main` has advanced, preserve the newer durable state and do not roll back.
+Observed live checkpoint when this prompt was refreshed: `98ea9a73d93b32a56e9821ea4db0977239346fe1` — `Advance anthology tracker through சுமந்தவள்`. If live `main` has advanced, preserve the newer durable state and do not roll back.
 
 Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf` — first edition 1977, 260 scans, 268,486,609 bytes, SHA-256 `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`. Image-only; do not commit it.
 
 ## Durable state
 
-Collection tracker: **OPEN — 34 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 35 / 37 dual-gate complete**.
 
-Stories **1–34 are CLOSED**. Most recent: `அமிர்தமதி`, scans **231–238 / printed 222–229** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **10 historical-glyph repairs / 0 unresolved**.
+Stories **1–35 are CLOSED**. Most recent: `சுமந்தவள்`, scans **239–249 / printed 230–240** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **7 repairs / 0 unresolved**.
 
-Key `அமிர்தமதி` corrections included `போகிறாயா`, `சொன்னாய்`, `பார்த்திருக்கிறாயா`, `வேறாகப்`, `பலவாறாக`, `அவனை அணைத்து`, `நன்றாயிருக்கிறது`, and `சொன்னாயே`. English required one sentence sync for explicit `அணைத்து`.
+Story 35 repairs:
+- scan 239: `திரு திருவென்று` → `துரு துருவென்று`;
+- scans 241–242: five historical-`ணா` `அண்ணு` → `அண்ணா`;
+- scan 246: `சன சுரத்தை` → `ஈன குரத்தை`.
 
-Do not reopen Stories 1–34 unless genuinely new direct source evidence appears.
+Direct 1977 reinspection retained `அவள் உள்ளத்தில்` and `முழுங்கால்` against the 2009 variants. English synchronized one phrase to “That feeble voice…”. The 2009-only epilogue remains excluded. Scan 250 independently opens Story 36.
 
-## Exact next activity — `சுமந்தவள்`
+Do not reopen Stories 1–35 unless genuinely new direct source evidence appears.
 
-- workspace: `stories/sumanthaval/`
-- controlling 1977 scans: **239–249**
-- printed pages: **230–240**
-- canonical pages: **11/11**
-- scan **250** is boundary witness opening Story 36 **`சித்தார்த்தன் சிலை`**
-- Story 36 TOC title: **`சித்தார்த்தன்`**
+## Exact next activity — `சித்தார்த்தன் சிலை`
 
-### Critical edition rule
+- workspace: `stories/siddharthan-silai/`
+- TOC title: **`சித்தார்த்தன்`**
+- story-opening heading: **`சித்தார்த்தன் சிலை`**
+- scans: **250–252**
+- printed pages: **241–243**
+- canonical pages: **3/3**
+- scan **253** is boundary witness opening Story 37 `நுனிக்கரும்பு`
 
-A 2009 fourth-edition witness has already been fully compared. It contains many editorial variants and a substantial epilogue absent from this 1977 edition. It is **not controlling**. Use it only to identify spans worth reopening; canonical changes require direct proof from the 1977 scans.
+Before changing anything, read the project processing guide, historical-glyph guide, root handover/prompt, collection re-audit/gate/inventory/scan-map, and all Story 36 controls/page records/assembly/English review.
 
-### Highest-priority controlling-source rechecks
+Gate A: compare all three page records and assembly directly against scans 250–252 for wording, punctuation, meaningful spacing, paragraph/dialogue structure, title variance, physical joins and ending furniture.
 
-1. scan **246 / printed 237** — 1977 canonical `சன சுரத்தை`; 2009 witness `ஈன குரத்தை`;
-2. scan **240 / printed 231** — 1977 canonical `அவள் உள்ளத்தில்`; 2009 witness `அவா, உள்ளத்தில்`;
-3. scan **245 / printed 236** — 1977 canonical `முழுங்கால்`; 2009 witness `முழங்கால்`;
-4. scan **239 / printed 230** — 1977 canonical `திரு திருவென்று`; 2009 witness `துருதுருவென்று`.
+Gate B: independently reopen all three scans at native/high resolution and explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus faint marks, ligatures and `ர/ற`, `ன/ண`, `ல/ள` ambiguity. Recheck gendered endings such as `அழுதாள்`, `சென்றாள்`, `நின்றாள்`, `என்றாள்`, `என்றான்`.
 
-Also reopen all remaining entries in `stories/sumanthaval/POSSIBLE_ERRORS_FOR_REVIEW.md`, including `அடுக்களை`, `அண்ணு`, `குழறல்`, `கர்ப்பவதி`, `கனிமரமென`, `மூனையளவு`, `மண்ணுக்கி`, `பெட்காபி`, `யெளவனத்தின்`, `அலறினள்`, and `எமை விட்டு எச்சில் இலையே!`.
+### Source-sensitive queue
 
-Gate A: compare every scan 239–249 for wording, punctuation, meaningful spacing, paragraph/dialogue structure, page boundaries, closing ornament and exact joins.
+| 250 | 241 | `கெண்டை`, `குறுநகையைச்` | source forms retained |
+| 250 | 241 | `அன்றித்`, `என்றெண்ணத்`, `நடைபழகில்` | source-close wording retained |
+| 250 | 241 | `ஒளி!,` | unusual punctuation sequence retained exactly from scan |
+| 250 | 241 | `அவளைப் பெற்றவனே-உலகம்!` | unusual source syntax / hyphen retained |
+| 251 | 242 | `நீருற்றுப்`, `இரு கிழமை` | source forms retained rather than normalized |
+| 251 | 242 | `கொழுநன்`, `அவரில்ல`, `எங்குற்றார்`, `இவ்வேழைக்கு` | edition-specific forms retained |
+| 251 | 242 | `கவலையதன்`, `உன்றனுக்கு`, `மின்னாட்டி` | difficult/source-sensitive forms retained after enlarged full-span review |
+| 252 | 243 | `அவனிக்கு`, `துணவியிடம்` | directly rechecked old-typeface forms; not normalized to expected modern wording |
+| 252 | 243 | `வைக்க-உலகோரின்`, `அவரில்லை`, `தீமை! தீமை!!` | source punctuation/forms retained |
 
-Gate B: independently reopen all eleven pages and explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus faint vowel marks, ligatures and `ர/ற`, `ன/ண`, `ல/ள`.
+High-value structural checks:
 
-Known physical joins include:
-- 243→244: `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`;
-- 244→245: `...அந்தக் குழந்தை அளித்த வேதனையால்` → `ஏற்கனவே...`;
-- 247→248: `“ஆராரோ” பாடுவதும்` → `பிணிக்கு மருந்து தருவதும்...`.
+- preserve TOC **`சித்தார்த்தன்`** ↔ opening **`சித்தார்த்தன் சிலை`**;
+- 250→251: opening portrait/relationship setup continues into separation;
+- 251→252 exact physical split: `...அவளருகே உறங்குகின்ற அருமைச்` → `செல்வன்—இருவரையும் ஏங்கவிட்டு “அன்பு” போதிக்கத் துறவு பூண்டவன் நான்.`;
+- preserve source punctuation `ஒளி!,` if pixels reconfirm it;
+- scan 252 contains the story ending and closing ornament.
 
-Preserve the controlling 1977 ending on scan **249**. Do **not** import the 2009 epilogue.
+Use scan **253** only as the Story 37 boundary witness. Do not begin `நுனிக்கரும்பு` in the same activity.
 
-If settled: apply only source-proven 1977 corrections; synchronize affected English and all controls; create/update the durable dual-gate record; advance **34/37 → 35/37** only with Gate A 11/11 + Gate B 11/11 + 0 unresolved; commit and re-fetch live `main`.
-
-Do **not** begin Story 36 in the same activity.
+If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update durable `RE_AUDIT_2026.md`; advance **35/37 → 36/37** only with Gate A 3/3 + Gate B 3/3 + 0 unresolved; update collection/root controls; commit and re-fetch live `main`.
