@@ -87,3 +87,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and cultural vocabulary are internally consistent: **Kandan**, **Kanimozhi**, **Mirugandu**, **Mudaliar**, **Mirasudar**, **Deepavali**, **Murugan**, **Aththaan**, and **sari**. The source-specific terms `பாவலா`, `பம்பை`, `அதிருப சுந்தரன்`, `சுண்` and the title **Aattakkavadi** remain conservative rather than being normalized. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+Two English-quality repairs were made: a stray colon after **“Give me permission, my dear!”** was removed; and **“suddenly left the place at speed”** was recast as **“suddenly hurried away.”** No meaning or source rhetoric changed.
+
+English quality repairs: **2**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

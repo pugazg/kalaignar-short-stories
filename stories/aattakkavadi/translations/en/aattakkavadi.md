@@ -5,7 +5,7 @@
 <!-- source opening rule: long horizontal rule beneath the story heading -->
 <!-- source enlarged initial: opening ஆ in the first paragraph -->
 
-“An **aattakkavadi** is not a devotional kavadi! Those people carry devotional kavadi as an act of prayer; what happens in front of them is a **kavadi dance performance**—that is all! Many who dance carrying an aattakkavadi keep dancing after pouring seven or eight measures of liquor into themselves. Are you asking whether those who carry devotional kavadi are any more disciplined? They are intoxicated by devotion itself, which is more dangerous than liquor! So listen to what I am saying, Kanimozhi! Understand clearly that the aattakkavadi performance I am going to conduct has nothing to do with devotion! There will be a kavadi on my shoulders; that is all—do not imagine that the feet of the Lord will also be in my thoughts! That intoxication of superstition belongs to the devotees who come before me with their cheeks pierced, carrying kavadi fitted with pots of milk. My kavadi will have ‘pāvalā’, not milk! There will be the art of dance—there will be no murder of reason! Peacock feathers will be at the front of the kavadi—but in my heart there will only be the thought of you, my maiden, not some foolish dream of Murugan riding the peacock! Give me permission, my dear! :
+“An **aattakkavadi** is not a devotional kavadi! Those people carry devotional kavadi as an act of prayer; what happens in front of them is a **kavadi dance performance**—that is all! Many who dance carrying an aattakkavadi keep dancing after pouring seven or eight measures of liquor into themselves. Are you asking whether those who carry devotional kavadi are any more disciplined? They are intoxicated by devotion itself, which is more dangerous than liquor! So listen to what I am saying, Kanimozhi! Understand clearly that the aattakkavadi performance I am going to conduct has nothing to do with devotion! There will be a kavadi on my shoulders; that is all—do not imagine that the feet of the Lord will also be in my thoughts! That intoxication of superstition belongs to the devotees who come before me with their cheeks pierced, carrying kavadi fitted with pots of milk. My kavadi will have ‘pāvalā’, not milk! There will be the art of dance—there will be no murder of reason! Peacock feathers will be at the front of the kavadi—but in my heart there will only be the thought of you, my maiden, not some foolish dream of Murugan riding the peacock! Give me permission, my dear!
 
 They say they will give me a hundred rupees—even if I worked till my tongue wore out, even if I laboured for four or five months together,
 
@@ -101,7 +101,7 @@ The brain of Mirugandu Mirasudar's son, Peethambaram, began to work. He wanted t
 
 As Kandan explained that correction, Kanimozhi stood like a stone statue that night.
 
-Kandan, who had been standing there, suddenly left the place at speed.
+Kandan, who had been standing there, suddenly hurried away.
 
 <!-- source enlarged initial: ம at the paragraph beginning மறுநாள்... -->
 

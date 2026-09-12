@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ Names and cultural vocabulary are internally consistent: **Kandan**, **Kanimozhi
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Two English-quality repairs were made: a stray colon after **“Give me permission, my dear!”** was removed; and **“suddenly left the place at speed”** was recast as **“suddenly hurried away.”** No meaning or source rhetoric changed.
+
+- E4 English repairs: **2**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**
