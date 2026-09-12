@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -62,3 +62,20 @@ Names and kinship/address terms are internally consistent: **Sekar, Maragatham, 
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One literal construction was naturalized. Source-governed anomalies and the established familial address register remain untouched.
+
+Repairs:
+
+1. `Without taking the children’s cries into their ears` → `Ignoring the children’s cries`.
+
+- E4 English-quality repairs: **1**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

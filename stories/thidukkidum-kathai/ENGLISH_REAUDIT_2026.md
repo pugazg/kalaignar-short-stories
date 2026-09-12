@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -64,3 +64,18 @@ Classical/literary names and story labels are consistent: **Romeo, Antony, Charl
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+No English prose repair was required. The classical/source-close forms and the source’s `malberi` / `malbari` variation remain deliberately preserved.
+
+Repairs: **0**.
+
+- E4 English-quality repairs: **0**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

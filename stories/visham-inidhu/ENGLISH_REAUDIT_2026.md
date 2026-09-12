@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -62,3 +62,21 @@ Names and religious/royal vocabulary are internally consistent: **Jegaveerasimma
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Two accidentally literal/grammatical constructions were repaired while preserving the closed kinship, royal and religious terminology.
+
+Repairs:
+
+1. `I have warned you now itself` → `I am warning you now`.
+2. `one of improper conduct` → `a man of improper conduct`.
+
+- E4 English-quality repairs: **2**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

@@ -109,3 +109,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 The source-title variance remains preserved: TOC **Siddharthan**, story heading **Siddharthan Silai**. In the story body, **Siddhartha** and **Buddha** reflect the explicit religious identification supplied by the Tamil rather than an outside normalization. **Bhagavan** and the translated beloved/husband language preserve the source register. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Two readability repairs were made while preserving the title variance, Siddhartha/Buddha terminology and the story’s irony.
+
+English-quality repairs: **2**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

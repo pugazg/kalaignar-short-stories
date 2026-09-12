@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -62,3 +62,21 @@ The source-title variance remains preserved: TOC **Siddharthan**, story heading 
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Two readability repairs were made while preserving the title variance, Siddhartha/Buddha terminology and the story’s irony.
+
+Repairs:
+
+1. `Her eyes filled with water; a situation arose in which she was left alone` → `Her eyes filled with tears, and a situation arose that left her alone`.
+2. `his mind was not steady` → `his mind had been unsettled`.
+
+- E4 English-quality repairs: **2**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

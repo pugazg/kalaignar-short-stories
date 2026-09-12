@@ -107,3 +107,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and cultural/literary vocabulary are stable: **Arulnambi, Amudha, Bharathidasan, Mother Art, Muruga, Siva, Thiruppugazh**. The recurring deity forms match the anthology conventions (**Muruga** vocative; **Siva**). Source-opaque **naaruvathu** remains deliberately conservative, and `நம்பப் பயலா?` remains minimally rendered without forcing a stronger kinship identification. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Four conversational/readability repairs removed accidentally literal English while preserving the suggestive tone and the source-opaque `naaruvathu`.
+
+English-quality repairs: **4**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

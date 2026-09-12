@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -64,3 +64,22 @@ Names and culturally marked terms are consistent: **Muthamma, Raja, Ayyo, Ayya, 
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Three grammar/readability repairs were made. The `Raja` child/king double sense, colloquial `sami`, uncertainty markers and social critique remain unchanged.
+
+Repairs:
+
+1. `who could help surrendering` → `who could help but surrender`.
+2. `it does not become ruined` → `it is not ruined`.
+3. `breathing had begun to come in a strange way` → `breathing had become strange`.
+
+- E4 English-quality repairs: **3**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

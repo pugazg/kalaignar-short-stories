@@ -118,3 +118,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and modern/legal-stage vocabulary are stable: **Doctor Babu, Manjula, Kokila, Gopal, Honourable Judge**, quoted **revolver**, **make-up**, dismissal/court language and the final drama-company reveal. No cross-anthology terminology conflict was found. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Five syntax/readability repairs removed awkward literal English while preserving Babu’s confession, chronology and the final stage-play reveal.
+
+English-quality repairs: **5**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

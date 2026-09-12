@@ -122,3 +122,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 One personal-name consistency repair was made. The character name is consistently `கந்தையா` / **Kandaiya**; the pluralized English phrase had drifted to **Kandayyas**. It is now **Kandaiyas**, preserving the established spelling when Tamil pluralizes `கந்தையாக்கள்`. Political/source vocabulary **Dravidam / Dravidian**, and source-close **athimber, jaakkai, medanic-show, erukku** remain differentiated rather than flattened.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+No English prose repair was required. The remaining figurative and source-close phrasing is coherent in context and is governed by the closed E2/E3 decisions.
+
+English-quality repairs: **0**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

@@ -95,7 +95,8 @@ Story 31 — **அய்யோ ராஜா!**, printed pages **202–208**, ant
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
 - E3 terminology / cultural consistency: **PASS**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
 
 
 ## English re-audit E3 closure
@@ -103,4 +104,12 @@ Story 31 — **அய்யோ ராஜா!**, printed pages **202–208**, ant
 - terminology / names / cultural consistency: **PASS**
 - E3 English repairs: **0**
 - unresolved E3 issues: **0**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
+
+## English re-audit E4 closure
+
+- English quality: **PASS**
+- E4 English-quality repairs: **5**
+- unresolved E4 issues: **0**
+- E5: **PENDING**

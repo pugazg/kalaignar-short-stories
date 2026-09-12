@@ -110,3 +110,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and kinship/address terms are internally consistent: **Sekar, Maragatham, Soundari, Anna, Anni, Thambi, Amma, kanna**. E3 preserves these direct-address forms because the Tamil register is explicitly familial; ordinary narrative references remain naturally translated as brother, sister-in-law, mother, etc. Source-sensitive **Hyder-era sewing machine** and the milk/medicine metaphor remain unchanged. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One literal construction was naturalized. Source-governed anomalies and the established familial address register remain untouched.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

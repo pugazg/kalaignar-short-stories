@@ -32,14 +32,14 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
 - E3 terminology / cultural consistency: **37 / 37 PASS — CLOSED**
-- E4 English quality: **26 / 37 PASS**
+- E4 English quality: **37 / 37 PASS — CLOSED**
 - E5: **not started**
 - E1 page-anchor/content-boundary repairs so far: **8**
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12**
 - E3 terminology / cultural-consistency repairs: **6**
-- E4 English-quality repairs: **25**
-- exact next: **E4 Stories 27–37 — final 11-story English-quality batch**
+- E4 English-quality repairs: **49**
+- exact next: **E5 Stories 1–13 — first final-bilingual-approval batch**
 
 ## Canonical stories
 
@@ -72,17 +72,17 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 | [`கண்ணடக்கம்`](stories/kannadakkam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 9 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
 | [`வாழ முடியாதவர்கள்`](stories/vazha-mudiyathavargal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 3 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
 | [`அபாக்ய சிந்தாமணி`](stories/abagya-chinthamani/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
-| [`பாலைவன ரோஜா`](stories/palaivana-roja/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 1 spacing repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 0 new repairs; 0 unresolved; prior `றா` correction revalidated** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 spacing repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`அமிர்தமதி`](stories/amirthamathi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`சுமந்தவள்`](stories/sumanthaval/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
-| [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 2 punctuation repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 PASS** |
+| [`பாலைவன ரோஜா`](stories/palaivana-roja/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 1 spacing repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 0 new repairs; 0 unresolved; prior `றா` correction revalidated** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 spacing repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`அமிர்தமதி`](stories/amirthamathi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`சுமந்தவள்`](stories/sumanthaval/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
+| [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 2 punctuation repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 PASS** |
 | [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |

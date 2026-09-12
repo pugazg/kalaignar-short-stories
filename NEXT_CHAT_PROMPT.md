@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E4 Stories 27–37 final
+# NEXT CHAT PROMPT — 1977 English re-audit / E5 Stories 1–13
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,26 +8,26 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 - E1: **CLOSED — 37/37 PASS**
 - E2: **CLOSED — 37/37 PASS**
 - E3: **CLOSED — 37/37 PASS**
-- E4: **26/37 PASS**
-- E5: **not started**
-- cumulative E4 English-quality repairs: **25**
+- E4: **CLOSED — 37/37 PASS**
+- E5: **0/37 — not started**
+- cumulative E4 English-quality repairs: **49**
 - unresolved English re-audit issues: **0**
 
-The user requested **13 stories per iteration**; only **11 stories remain** in E4.
+The user requested **13 stories per iteration**.
 
 ## Exact next iteration
 
-Process final E4 Stories **27–37**:
+Process E5 Stories **1–13**:
 
-`பாலைவன ரோஜா`, `புரட்சிப் படம்`, `திடுக்கிடும் கதை`, `கடைசிக் கட்டம்`, `அய்யோ ராஜா!`, `விஷம் இனிது`, `வேணியின் காதலன்`, `அமிர்தமதி`, `சுமந்தவள்`, `சித்தார்த்தன் சிலை`, `நுனிக்கரும்பு`.
+`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`.
 
-E4 is an English-quality gate only:
+E5 is the **final bilingual approval** gate:
 
-- grammar and syntax;
-- awkward or accidentally literal English;
-- punctuation and dialogue readability;
-- tense/pronoun consistency;
-- natural English phrasing;
-- preserve source rhetoric, ambiguity, terminology and all closed E2/E3 decisions.
+- compare the final English against the final canonical Tamil one last time;
+- confirm every E1–E4 repair is synchronized and no later repair introduced meaning drift;
+- confirm physical-page traceability remains intact;
+- confirm difficult/source-sensitive terms remain documented and consistent;
+- ensure unresolved English re-audit issues remain **0**;
+- mark each story final **E5 PASS** only after all checks pass.
 
-Record every repair or 0 repairs. Do not modify Tamil. Do not reopen the PDF unless a plausible Tamil-source defect emerges. Close E4 at 37/37 if all eleven pass. Do not start E5.
+Do not modify Tamil merely to improve English. Do not reopen the PDF unless a genuine Tamil-source defect emerges. Process only E5 Stories 1–13 in this iteration.

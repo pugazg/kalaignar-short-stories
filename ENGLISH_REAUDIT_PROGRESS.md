@@ -12,15 +12,15 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
 - E3 terminology / cultural consistency: **37 / 37 PASS — CLOSED**
-- E4 English quality: **26 / 37 PASS**
+- E4 English quality: **37 / 37 PASS — CLOSED**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
 - E3 terminology / cultural-consistency repairs: **6** (`ஆதரிக்கிறார்` 1, `ஒரிஜினலில் உள்ளபடி` 1, `பனங்குலை` 1, `கண்டதும் காதல் ஒழிக!` 1, `கண்ணடக்கம்` 1, `பாலைவன ரோஜா` 1)
-- E4 English-quality repairs: **25** (11 in Stories 1–13; 14 in Stories 14–26)
+- E4 English-quality repairs: **49** (11 in Stories 1–13; 14 in Stories 14–26; 24 in Stories 27–37)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E4 — Stories 27–37, final 11-story English-quality batch**
+- exact next activity: **E5 — Stories 1–13, first 13-story final-bilingual-approval batch**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -50,17 +50,17 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 | 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 
 ## E1 completed
 
@@ -441,3 +441,48 @@ Batch result:
 ## Current next
 
 Final E4 iteration: **Stories 27–37 — 11 stories**, beginning `பாலைவன ரோஜா` and ending `நுனிக்கரும்பு`. Do not start E5 until E4 is 37/37 unless explicitly redirected.
+
+### E4 — Stories 27–37 final batch
+
+Final E4 iteration is **COMPLETE — 11/11 PASS**.
+
+Per-story repair counts:
+
+- `பாலைவன ரோஜா` — **0 repairs**
+- `புரட்சிப் படம்` — **2 repairs**
+- `திடுக்கிடும் கதை` — **0 repairs**
+- `கடைசிக் கட்டம்` — **5 repairs**
+- `அய்யோ ராஜா!` — **3 repairs**
+- `விஷம் இனிது` — **2 repairs**
+- `வேணியின் காதலன்` — **2 repairs**
+- `அமிர்தமதி` — **3 repairs**
+- `சுமந்தவள்` — **1 repair**
+- `சித்தார்த்தன் சிலை` — **2 repairs**
+- `நுனிக்கரும்பு` — **4 repairs**
+
+All repairs are recorded in the story-local `ENGLISH_REAUDIT_2026.md` files. They were limited to English grammar, syntax, dialogue/readability and accidentally literal phrasing; Stories 27 and 29 required **0** English change.
+
+Batch result:
+
+- E4 stories closed this iteration: **11**
+- new E4 English-quality repairs: **24**
+- cumulative E4 repairs: **49**
+- Tamil changes: **0**
+- E2/E3 decisions altered: **0**
+- source reopenings: **0**
+- unresolved E4 issues: **0**
+
+## E4 programme closure
+
+**E4 is CLOSED — 37/37 PASS.**
+
+Cumulative E4 findings:
+
+- English-quality repairs: **49**
+- unresolved E4 issues: **0**
+- Tamil changes caused by E4: **0**
+- source reopenings caused by E4: **0**
+
+## Current next
+
+Proceed to **E5 — final bilingual approval**, using the user’s **13-story iteration cadence**. First E5 iteration: **Stories 1–13**. E5 has not been started in this iteration.

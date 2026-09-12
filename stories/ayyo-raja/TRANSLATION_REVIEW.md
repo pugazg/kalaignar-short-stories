@@ -105,3 +105,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and culturally marked terms are consistent: **Muthamma, Raja, Ayyo, Ayya, Muruga, Palaniyandi, sari**, railway-gate/rickshaw vocabulary and **King of Nepal**. Source vocative `சாமி` in `அய்யா சாமி` remains **sami** because it is a colloquial address, not the title convention **Swami**. The child-name/king double sense of **Raja** remains intact. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Three grammar/readability repairs were made. The `Raja` child/king double sense, colloquial `sami`, uncertainty markers and social critique remain unchanged.
+
+English-quality repairs: **3**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

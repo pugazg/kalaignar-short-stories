@@ -172,3 +172,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Classical/literary names and story labels are consistent: **Romeo, Antony, Charles, Ovid, Thisbe, Pyramus**, with source-close **Nisin's tomb** retained because outside classical-source identification would exceed the source. The unnamed political/caste allegory remains deliberately unnamed. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+No English prose repair was required. The classical/source-close forms and the source’s `malberi` / `malbari` variation remain deliberately preserved.
+
+English-quality repairs: **0**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

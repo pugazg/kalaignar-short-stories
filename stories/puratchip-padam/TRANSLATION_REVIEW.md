@@ -118,3 +118,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names, title forms and political/film vocabulary are internally consistent: **Paramasivanandam, Sevvaanam, Tara-Sasankam, Dravidian**, censor terminology and source-close **aashada-bhoothithanams**. The TOC/opening-title distinction remains documented rather than normalized. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Two awkward literal constructions were naturalized without changing the scale of the film project or its production chronology.
+
+English-quality repairs: **2**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

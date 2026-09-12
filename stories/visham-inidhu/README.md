@@ -89,7 +89,8 @@ Direct/native review retained edition-specific or unusual forms including `த�
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
 - E3 terminology / cultural consistency: **PASS**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
 
 
 ## English re-audit E3 closure
@@ -97,4 +98,12 @@ Direct/native review retained edition-specific or unusual forms including `த�
 - terminology / names / cultural consistency: **PASS**
 - E3 English repairs: **0**
 - unresolved E3 issues: **0**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
+
+## English re-audit E4 closure
+
+- English quality: **PASS**
+- E4 English-quality repairs: **2**
+- unresolved E4 issues: **0**
+- E5: **PENDING**

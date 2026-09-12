@@ -108,3 +108,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and religious/royal vocabulary are internally consistent: **Jegaveerasimman**, source-shortened **Jegaveera**, **Veerasimman**, **Sathyavathi, Amirtharani, Arthol**, plus **Rajaputra, Badshah, Rama/Ramapiran, pashaanam, Aalahalam**. The source's shortened `ஜெகவீரன்` is not mechanically expanded to the full personal name. Kinship language is translated naturally in context rather than forced into transliteration. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Two accidentally literal/grammatical constructions were repaired while preserving the closed kinship, royal and religious terminology.
+
+English-quality repairs: **2**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

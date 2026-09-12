@@ -66,7 +66,7 @@ Amudha’s laughter reached his ear. At once his whole face broke into a sudden 
 
 “Nothing...What is this—am I never to have a feast at your house?”
 
-“Oh...freely! When are you coming? Whenever you come, there will be a feast.”
+“Oh...of course! When are you coming? Whenever you come, there will be a feast.”
 
 “What feast?”
 
@@ -84,7 +84,7 @@ Amudha’s laughter reached his ear. At once his whole face broke into a sudden 
 
 “Would a daytime feast have any relish? Shall I come at eight or nine tonight?”
 
-“Oh! Come! You must definitely come. Don’t fail to come! You must come for certain!”
+“Oh! Come! You must definitely come. Don’t fail to come! You absolutely must come!”
 
 Arulnambi remained seated for a while in a daze, pressing the receiver against his cheek. When he came back to himself, he wiped the sweat running over his body and, crying aloud, “Father Muruga! It is all your grace!” took up a *Thiruppugazh* book and began turning the pages.
 
@@ -96,7 +96,7 @@ Half past eight at night. Amudha welcomed him with a young smile and repeated, �
 
 “It’s already half past eight. They’ll be back now?”
 
-“It’ll take another hour. Will you eat now itself?”
+“It’ll take another hour. Will you eat right now?”
 
 “Only me? What about you?”
 
@@ -112,7 +112,7 @@ As Amudha walked toward the kitchen, Arulnambi watched her from behind, entrance
 
 The maid served them both.
 
-Two or three times in between, Arulnambi’s foot happened to touch Amudha’s foot opposite him. “Siva! Siva!” he would say. “It’s all right,” she would reply with a smile and continue eating. He could hardly eat. Electricity seemed to be running through his whole body. Somehow they finished the meal and returned to the hall. She brought all the albums of her dance performances and gave them to him. Their hands brushed as she handed them over and he received them. Arulnambi could no longer sit still. It was already half past nine. Pointing toward a room, he began trying to say something to her. Just then came the sound of a car stopping at the entrance.
+Two or three times during the meal, Arulnambi’s foot happened to touch Amudha’s foot opposite him. “Siva! Siva!” he would say. “It’s all right,” she would reply with a smile and continue eating. He could hardly eat. Electricity seemed to be running through his whole body. Somehow they finished the meal and returned to the hall. She brought all the albums of her dance performances and gave them to him. Their hands brushed as she handed them over and he received them. Arulnambi could no longer sit still. It was already half past nine. Pointing toward a room, he began trying to say something to her. Just then came the sound of a car stopping at the entrance.
 
 “Oh! The people who went to the cinema have come back,” she said, rising and walking away. Her upper garment caught on the chair and fell. She picked it up, adjusted it, showered him with one more smile, and went toward the street entrance. The people who had gone to the cinema returned. Amudha came toward Arulnambi holding a child by the hand.
 

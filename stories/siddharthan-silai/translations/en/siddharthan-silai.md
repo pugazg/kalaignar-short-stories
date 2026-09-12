@@ -8,11 +8,11 @@ The world itself congratulated the man who had fathered her: what a rare fortune
 
 <!-- anthology scan: 251; printed page: 242 -->
 
-How could such a man ever leave her? The whole town sank into astonishment. Her eyes filled with water; a situation arose in which she was left alone.
+How could such a man ever leave her? The whole town sank into astonishment. Her eyes filled with tears, and a situation arose that left her alone.
 
 “Has he tired of that honeyed face? Has he forgotten that heavenly countenance? My parrot, why has this sorrow come to you?” the women of the town asked.
 
-“I gave him my heart. I lay believing that he was my very breath of life. I never imagined that a desert’s scorching wind would blow upon a flower that had known the comfort of dew. For two weeks his mind was not steady. I understood it from his speech. I did not know then that it would come to this, friend!” cried the Tamil maiden.
+“I gave him my heart. I lay believing that he was my very breath of life. I never imagined that a desert’s scorching wind would blow upon a flower that had known the comfort of dew. For two weeks his mind had been unsettled. I understood it from his speech. I did not know then that it would come to this, friend!” cried the Tamil maiden.
 
 “Do not grieve! Do not shed tears! I will tell you a way—listen! South of the river, in a beautiful grove, there is a temple of the Buddha. Go there and pour out your grievance; your husband will return. Do not stand here—go!” said her dearest friend.
 

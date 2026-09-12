@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -62,3 +62,23 @@ Names and cultural/literary vocabulary are stable: **Arulnambi, Amudha, Bharathi
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Four conversational/readability repairs removed accidentally literal English while preserving the suggestive tone and the source-opaque `naaruvathu`.
+
+Repairs:
+
+1. `Oh...freely!` → `Oh...of course!`.
+2. `Will you eat now itself?` → `Will you eat right now?`.
+3. `You must come for certain!` → `You absolutely must come!`.
+4. `Two or three times in between` → `Two or three times during the meal`.
+
+- E4 English-quality repairs: **4**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

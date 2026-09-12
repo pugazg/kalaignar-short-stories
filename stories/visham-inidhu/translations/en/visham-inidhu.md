@@ -19,7 +19,7 @@
 
 “Mother, do not speak wrongly like that about my younger brother Arthol! He is pure gold—a lamp of radiant light!”
 
-“Jegaveera! You are going to Delhi. It will take time for you to return. I have warned you now itself. Do not think that I am finding fault with Sathyavathi—
+“Jegaveera! You are going to Delhi. It will take time for you to return. I am warning you now. Do not think that I am finding fault with Sathyavathi—
 
 <!-- source scan 219; printed page 210 -->
 
@@ -136,7 +136,7 @@ Arthol, who had been working out the temple plans, had fallen asleep from exhaus
 
 “The king has accused me of being your lover. To prove that it is not so, you are to eat poison from my very hand.”
 
-“Ah! Mother! Who tied this slander upon us? Did the king believe it? My elder brother—believing these empty complaints, did he even dare to call his younger brother one of improper conduct? Brother! Brother, why did my brother speak so as to wound my heart? Ayyo! Mother! I cannot bear it!”
+“Ah! Mother! Who tied this slander upon us? Did the king believe it? My elder brother—believing these empty complaints, did he even dare to call his younger brother a man of improper conduct? Brother! Brother, why did my brother speak so as to wound my heart? Ayyo! Mother! I cannot bear it!”
 
 “There is no time to talk, Arthol! My beloved son, only if you consume the poison will the honour of the Rajput lineage be saved.”
 

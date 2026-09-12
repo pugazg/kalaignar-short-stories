@@ -144,7 +144,7 @@ The two cried by turns through the night, causing trouble without end. Maragatha
 
 and giving medicine for their illnesses and carrying them about were her work throughout the night.
 
-Without taking the children’s cries into their ears, Chandran and Soundari stayed in their bedroom for a long time, laughing and talking.
+Ignoring the children’s cries, Chandran and Soundari stayed in their bedroom for a long time, laughing and talking.
 
 Sekar could not bear the cruelty. Should he cry over his wife’s suffering? Or should he cry over those hard-hearted people who, unconcerned about the child they had borne, were enjoying life?
 

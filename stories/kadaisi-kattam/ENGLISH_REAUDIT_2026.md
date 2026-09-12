@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -64,3 +64,24 @@ Names and modern/legal-stage vocabulary are stable: **Doctor Babu, Manjula, Koki
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Five syntax/readability repairs removed awkward literal English while preserving Babu’s confession, chronology and the final stage-play reveal.
+
+Repairs:
+
+1. `in a state in which I did not know myself` → `when I was not myself`.
+2. `Gopal’s visit to Chennai was made in order to pacify Manjula—` → `Gopal had come to Chennai to pacify Manjula—`.
+3. `stayed on in the confidence that` → `stayed on, confident that`.
+4. `Thinking in disappointment...` → `Disappointed, thinking...`.
+5. `Manjula had come before me` → `Manjula appeared before me`.
+
+- E4 English-quality repairs: **5**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

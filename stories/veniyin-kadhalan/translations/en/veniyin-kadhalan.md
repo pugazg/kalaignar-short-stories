@@ -18,7 +18,7 @@ Still talking, Gundappan went and stood by Veni’s bed. “Veni!” he called. 
 
 “Surya! Be careful with Veni! She may even run away!” he said, and hurried away. Surya understood nothing.
 
-Run away? Why? What for had the sergeant said that? Then who was this woman? Surya became a slave to questions like these. Confused and unable to work, she went and sat by her desk. Her thoughts multiplied. She turned toward Veni’s cot and started. Veni was not there. She was just then slipping away from the ward. Surya sprang after her, caught her, and demanded, “Where are you running?”
+Run away? Why? Why had the sergeant said that? Then who was this woman? Surya became a slave to questions like these. Confused and unable to work, she went and sat by her desk. Her thoughts multiplied. She turned toward Veni’s cot and started. Veni was not there. She was just then slipping away from the ward. Surya sprang after her, caught her, and demanded, “Where are you running?”
 
 “Amma—please let me go. You will earn a crore of blessings.” The young woman wept.
 
@@ -92,7 +92,7 @@ At these words from Surya, a shade of happiness spread across Veni’s face. “
 
 “Come, Veni! Come, I will show you that king who fills your eyes!” Surya cried, seizing Veni’s hand and pulling her along. At that moment a trolley was coming from the men’s ward.
 
-“My, Mr Damodar, which ‘bed’ patient is this? What happened?” Surya asked the man pushing the trolley.
+“What is it, Mr Damodar? Which ‘bed’ patient is this? What happened?” Surya asked the man pushing the trolley.
 
 “This is the very fellow you took pity on and guarded night and day, Surya! The man is ‘finished.’”
 

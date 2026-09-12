@@ -108,3 +108,11 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and literary/religious terms are consistent with the embedded reference already seen earlier in the anthology: **Sundar, Yasodharan, Amirthamathi, Gunavathi, Attabangan, Yasodhara Kaviyam, kaviyam, Amma, Appa, Ayyo**. Source-opaque **kuthars** and **poon-romam** remain conservative. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Three awkward literal constructions were naturalized without changing the narrator’s rhetoric or the embedded Yasodhara/Amirthamathi episode.
+
+English-quality repairs: **3**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Source reopened: **No**. Unresolved E4 issues: **0**.

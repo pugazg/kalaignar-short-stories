@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -62,3 +62,22 @@ Names and literary/religious terms are consistent with the embedded reference al
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+Three awkward literal constructions were naturalized without changing the narrator’s rhetoric or the embedded Yasodhara/Amirthamathi episode.
+
+Repairs:
+
+1. `spoken only pleasant news with you` → `spoken only of pleasant things with you`.
+2. `my single man’s tears` → `my tears alone`.
+3. `that song-learned elephant keeper` → `that elephant keeper, trained in song`.
+
+- E4 English-quality repairs: **3**
+- Tamil changed: **No**
+- E2/E3 decisions altered: **No**
+- source reopened: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

@@ -27,7 +27,7 @@ For the very sight of Muthamma selling murukku and masala vadai has a beauty of 
 
 <!-- source scan 213; printed page 204 -->
 
-—and as they ring, who could help surrendering his attention to the artistry with which she drives away flies and protects those stale vadais and lifeless murukkus?
+—and as they ring, who could help but surrender his attention to the artistry with which she drives away flies and protects those stale vadais and lifeless murukkus?
 
 If a film suddenly required someone to play just such a role, would not Muthamma be an unpaid teacher for it?
 
@@ -45,7 +45,7 @@ By day, murukku and masala vadai; by night, Muthamma was a shop selling pleasure
 
 The child’s name was Raja. Perhaps she called him that so that, at least in name, he might be a king. Was he not her king? For that Raja she had been forced to become a queen by night. She did not like that condition; but what was she to do? When flies swarmed over her basket of snacks, she kept driving them away without caring about the ache in her hand. But could every fly be driven off? One or two touched a snack and only then flew away.
 
-A snack touched by a fly has no chastity to lose; it does not become ruined for that reason—only its taste is spoiled. For Muthamma, both the taste of life and chastity had been spoiled. What did it matter whether flies swarmed on a rubbish heap, or ants swarmed, or even a dog lay on it?...... The “jewel among Tamil women” had come to such a conclusion. Her one aim was that Raja should grow up, have a family of his own, and that she should live to see it with delighted eyes. She sold her body in order to protect her own blood.
+A snack touched by a fly has no chastity to lose; it is not ruined for that reason—only its taste is spoiled. For Muthamma, both the taste of life and chastity had been spoiled. What did it matter whether flies swarmed on a rubbish heap, or ants swarmed, or even a dog lay on it?...... The “jewel among Tamil women” had come to such a conclusion. Her one aim was that Raja should grow up, have a family of his own, and that she should live to see it with delighted eyes. She sold her body in order to protect her own blood.
 
 Her strongly built body helped that trade. During the day, admirers who came by the railway “gate” would approach as though buying murukku or vadai, in order to fix a date and time with her. Alongside one business, a time would be fixed for the quoted “base event” as well. Without understanding the meaning of those cruel conversations, her beloved Raja would press his face to her breast and stare about wide-eyed. Muthamma was indeed a widow. But that costume did not suit her trade.
 
@@ -77,7 +77,7 @@ Muthamma sat holding Raja against her breast, sustained only by the hope that he
 
 The Kodambakkam “gate” came across their path. The rickshaw stopped. Muthamma saw the red light burning. She had seen that red light countless days before. Never had it shocked her like this.
 
-“Ayyo! It looks as though my Raja’s life will go out before that light goes out!” she cried. The rickshaw-puller tried to console her. He touched Raja’s body. The child’s breathing had begun to come in a strange way. Muthamma wailed aloud.
+“Ayyo! It looks as though my Raja’s life will go out before that light goes out!” she cried. The rickshaw-puller tried to console her. He touched Raja’s body. The child’s breathing had become strange. Muthamma wailed aloud.
 
 The light went out. The gate opened. The rickshaw moved. Raja’s life had not yet gone. Muthamma kept crying, “Muruga! Muruga! Palaniyandi!” The rickshaw too sped onward.
 
