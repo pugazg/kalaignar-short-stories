@@ -24,7 +24,12 @@ Therefore these six sources are processed **comparison-only**:
 - do not create a duplicate story transcription or duplicate English translation;
 - do not overwrite canonicals from witness evidence alone.
 
-Story 1 `நளாயினி` comparison is active; scans 3–7 are complete and scans 8–12 are next.
+Current comparison state:
+
+- `நளாயினி` scans **3–12** — **COMPLETE / PASS**;
+- `காதல் கடிதம்` scans **13–17** — **PASS for reviewed span**; scan **18** remains;
+- the user-set cadence is **10 comparison pages per iteration**;
+- no duplicate Tamil transcription or duplicate English translation is being created.
 
 The two stories that were new canonicals from this anthology are:
 

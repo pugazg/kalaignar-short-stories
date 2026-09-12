@@ -63,7 +63,7 @@ No lexical normalization was applied beyond what the controlling source proves.
 
 ### 1976 `நளாயினி`
 
-`witnesses/1976-nalayini/` is comparison-only. P1 scans 3–7 is adjudicated. P2 scans 8–12 is **READY / DEFERRED** while the repository continues the higher-priority full 1977 anthology re-audit.
+`witnesses/1976-nalayini/` is comparison-only and is now **COMPLETE / PASS — scans 3–12, 10/10**. Final witness disposition: **12 true edition variants / 8 canonical defects exposed by P1 and already repaired after direct 1977 source recheck / 0 unresolved**. P2 scans 8–12 required **0 canonical changes**.
 
 ## Completion state
 

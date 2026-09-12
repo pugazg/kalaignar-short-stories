@@ -4,8 +4,8 @@ The source has **no separate printed contents page**. Inventory is based on dire
 
 | # | Opening heading | Scan range | Visible printed folio(s) | Canonical result | Current exact-edition state |
 |---:|---|---:|---:|---|---|
-| 1 | `நளாயினி` | 3–12 | 3–12 | existing canonical | **WITNESS ACTIVE — intake PASS / 10 stubs / direct 0/10** |
-| 2 | `காதல் கடிதம்` | 13–18 | 13–18 | existing canonical | witness pending |
+| 1 | `நளாயினி` | 3–12 | 3–12 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 10/10** |
+| 2 | `காதல் கடிதம்` | 13–18 | 13–18 | existing canonical | **WITNESS IN PROGRESS — scans 13–17 PASS; 18 NEXT** |
 | 3 | `புரட்சிப் படம்` | 19–24 | 19–24 | existing canonical | witness pending |
 | 4 | `நாட்டிய கலாராணி` | 25–46 | 25–46 | `stories/naattiya-kalarani/` | **TAMIL + ENGLISH PASS / CLOSED** |
 | 5 | `விஷம் இனிது` | 47–55 | 47–55 | existing canonical | witness pending |

@@ -30,15 +30,22 @@ The ten empty page stubs initialized during activation remain provenance artifac
 
 ## Current state
 
-- full witness retranscription: **NOT AUTHORIZED / WILL NOT BE DONE**
-- comparison P1 scans **3–7**: **PASS / COMPLETE**
-- confident P1 variants recorded: **13**
-- comparison P2 scans **8–12**: **NEXT**
-- canonical 1977 Tamil/English changed: **No**
+- full witness retranscription: **NOT AUTHORIZED / NOT DONE**
+- comparison scans **3–12**: **COMPLETE / PASS — 10/10**
+- P1 scans 3–7 candidates: **13**
+  - canonical defects exposed and already repaired after 1977 source recheck: **8**
+  - true edition variants: **5**
+- P2 scans 8–12 meaningful variants: **7 true edition variants**
+- total true 1976↔1977 edition variants recorded: **12**
+- unresolved classifications: **0**
+- canonical changes from P2: **0**
+- duplicate English translation: **No**
 - variant file: `VARIANT_COMPARISON.md`
 
-High-value differences already found include `காசிநாதனைத் தொழு!` versus canonical `தாசிநாதீனத்தொழு!`, `கண்ஜாடை` versus `கண்ணாடை`, and `அணைத்தெடுத்து` versus `அண்டெடுத்து`. These are comparison evidence, not automatic corrections.
+The empty page stubs initialized during the superseded activation plan remain intentionally unpopulated provenance artifacts.
 
-## Exact next activity
+## Closure
 
-Compare **1976 scans 8–12 only** against the canonical 1977 Tamil and update `VARIANT_COMPARISON.md`. Do not populate witness page stubs and do not start `காதல் கடிதம்` until the `நளாயினி` comparison is closed.
+**1976 `நளாயினி` witness comparison COMPLETE / PASS.**
+
+No further routine work remains in this story witness. The collection-level comparison continues with `காதல் கடிதம்`.

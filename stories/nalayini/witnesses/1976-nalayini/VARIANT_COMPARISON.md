@@ -52,8 +52,39 @@ By contrast, 1976 `அவன் ஒரு முடிவுக்கு` vs 197
 
 Therefore the controlling-source prerequisite for continuing the 1976 witness comparison is satisfied.
 
-## Next 1976 witness activity when resumed
+## P2 — 1976 scans 8–12 — COMPLETE / adjudicated
 
-Compare **1976 scans 8–12 only** against the now-repaired 1977 canonical Tamil, record only source-proven textual differences, and do not populate the empty witness page stubs.
+The remaining five 1976 pages were compared directly against the now source-verified 1977 canonical text. Formatting-only spacing, sandhi and punctuation differences were not promoted into the meaningful-variant table unless the wording itself changed.
 
-The repository's current highest-priority activity remains the 37-story 1977 dual-gate re-audit, so this 1976 P2 batch is **READY / DEFERRED**, not blocked by uncertainty.
+| 1976 scan | 1976 reading | 1977 controlling reading | Classification |
+|---:|---|---|---|
+| 8 | `கணவனின் ஆசைகளை நிறைவேற்றுவதே` | `கணவனின் ஆசைகளே நிறைவேற்றுவதே` | **true edition variant** |
+| 8 | `எனக்குத் தேங்கனி` | `எனக்குத் தேன்கனி` | **true edition variant** |
+| 9 | `கள்ளக் காதலனுடன்` | `கள்ளக் காதலுடன்` | **true edition variant** |
+| 10 | `கணவனை வீட்டுக்கு அனுப்பியிருக்கிறாயே!` | `கணவனைத் தாசி வீட்டுக்கு அனுப்பியிருக்கிறாயே!` | **true edition variant — 1976 omits `தாசி` in this sentence** |
+| 11 | `கடுமொழிகளைக் கூறினாலும்` | `கடுமொழிகள் கூறினாலும்` | **true edition variant** |
+| 12 | `சுக வாழ்வுக்கு ஒரு வழி சொல்லு` | `சுகவாழ்வுக்கு வழி சொல்லு` | **true edition variant — 1976 adds `ஒரு`** |
+| 12 | `உள்ளமே வேதனைக்களமாயிருக்கிறது` | `உள்ளமோ வேதனைக் களமாயிருக்கிறது` | **true edition variant** |
+
+P2 disposition:
+
+- reviewed scans: **5 / 5**;
+- meaningful true edition variants: **7**;
+- new canonical defect candidates: **0**;
+- canonical changes: **0**;
+- unresolved: **0**.
+
+The current 1977 canonical readings are already backed by the story's completed Gate-A + independent Gate-B source re-audit, so these P2 differences do not reopen the canonical layer.
+
+## Full 1976 `நளாயினி` witness closure
+
+- scans reviewed: **3–12 / 10 of 10**;
+- total comparison candidates recorded: **20**;
+- true edition variants: **12**;
+- canonical transcription defects exposed by P1 and already repaired after direct 1977 source reinspection: **8**;
+- unresolved: **0**;
+- duplicate Tamil transcription created: **No**;
+- duplicate English translation created: **No**;
+- result: **COMPARISON COMPLETE / PASS**.
+
+Next collection witness target: `காதல் கடிதம்`.

@@ -4,8 +4,8 @@
 |---:|---:|---|---|---|
 | 1 | — | cover | `நளாயினி` / `மு. கருணாநிதி` | collection front matter |
 | 2 | — | edition | `நான்காம் பதிப்பு 1976`; `விலை ரூ. 2-00` | collection front matter |
-| 3–12 | 3–12 | story | `நளாயினி` | **1976 witness ACTIVE — intake PASS; 10 stubs; direct 0/10** |
-| 13–18 | 13–18 | story | `காதல் கடிதம்` | 1976 witness pending |
+| 3–12 | 3–12 | story | `நளாயினி` | **1976 witness comparison COMPLETE / PASS — 10/10** |
+| 13–18 | 13–18 | story | `காதல் கடிதம்` | **1976 witness IN PROGRESS — 13–17 PASS; 18 NEXT** |
 | 19–24 | 19–24 | story | `புரட்சிப் படம்` | 1976 witness pending |
 | 25–46 | 25–46 | story | `நாட்டிய கலாராணி` | **Tamil + English PASS / CLOSED** |
 | 47–55 | 47–55 | story | `விஷம் இனிது` | 1976 witness pending |
@@ -15,4 +15,4 @@
 | 74–77 | 74–77 | story | `மானம்` | **Tamil + English PASS** |
 | 78 | 78 | story-ending | `மானம்` | **Tamil + English PASS; paired-swans source mark; final PDF scan** |
 
-Exact-edition witness tracker: `../EDITION_WITNESS_PROGRESS.md`. Next: `நளாயினி` P1 Stage A scans 3–7 only.
+Exact-edition witness tracker: `../EDITION_WITNESS_PROGRESS.md`. Next 10 comparison pages: scan 18, scans 19–24, scans 47–49.

@@ -135,3 +135,17 @@ The opening structure, continuous letter across scans 162–163, centered two-li
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+## Additional witness — 1976 `நளாயினி`
+
+Comparison-only witness: `witnesses/1976-nalayini/`.
+
+- 1976 source range: scans **13–18**
+- reviewed in current 10-page iteration: scans **13–17 — PASS for reviewed span**
+- remaining: scan **18**
+- meaningful edition variants recorded so far: **5**
+- canonical 1977 changes: **0**
+- duplicate Tamil transcription / English translation: **No / No**
+
+The 1977 canonical remains authoritative and already has Gate A + Gate B source verification. Witness evidence is recorded separately.
+
