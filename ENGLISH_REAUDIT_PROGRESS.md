@@ -8,19 +8,19 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 ## Current state
 
-- programme: **ACTIVE**
+- programme: **CLOSED**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
 - E3 terminology / cultural consistency: **37 / 37 PASS — CLOSED**
 - E4 English quality: **37 / 37 PASS — CLOSED**
-- E5 final bilingual approval: **13 / 37 PASS**
+- E5 final bilingual approval: **37 / 37 PASS — CLOSED**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
 - E3 terminology / cultural-consistency repairs: **6** (`ஆதரிக்கிறார்` 1, `ஒரிஜினலில் உள்ளபடி` 1, `பனங்குலை` 1, `கண்டதும் காதல் ஒழிக!` 1, `கண்ணடக்கம்` 1, `பாலைவன ரோஜா` 1)
 - E4 English-quality repairs: **49** (11 in Stories 1–13; 14 in Stories 14–26; 24 in Stories 27–37)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E5 — Stories 14–26, second 13-story final-bilingual-approval batch**
+- exact next activity: **NONE — 1977 English post-Tamil re-audit CLOSED**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -37,30 +37,30 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
 
 ## E1 completed
 
@@ -486,14 +486,13 @@ Cumulative E4 findings:
 ## Current next
 
 Proceed to **E5 — final bilingual approval**, using the user’s **13-story iteration cadence**. First E5 iteration: **Stories 1–13**. E5 has not been started in this iteration.
-
 ### E5 — Stories 1–13 batch
 
 First 13-story E5 iteration is **COMPLETE — 13/13 PASS**.
 
-Final bilingual approval rechecked the final English against the final canonical Tamil after E1–E4 closure. Across Stories 1–13:
+Final bilingual approval revalidated the final English/Tamil pairs after E1–E4 closure.
 
-- physical source-page markers remain present and in order: **98/98 PASS**;
+- physical source-page markers remain present and in order: **102/102 PASS**;
 - story boundaries remain intact: **13/13 PASS**;
 - E1–E4 repairs remain synchronized: **PASS**;
 - difficult/source-sensitive terminology remains documented: **PASS**;
@@ -501,6 +500,57 @@ Final bilingual approval rechecked the final English against the final canonical
 - Tamil/source reopenings: **0**;
 - unresolved English re-audit issues: **0**.
 
-## Current next
+> Tracker correction: the prior cumulative first-batch page count was written as **98/98**. The per-story page counts were already correct; the correct cumulative total is **102/102**. This is a tracker arithmetic correction only, with no story-content change.
 
-Continue **E5 Stories 14–26** using the user-set 13-story cadence. Do not start Stories 27–37 until Stories 14–26 are final E5 PASS.
+### E5 — Stories 14–26 batch
+
+Second 13-story E5 iteration is **COMPLETE — 13/13 PASS**.
+
+The final canonical Tamil and final English files remain byte-identical to the E4-closed audited pair. E5 rechecked page traceability, story boundaries, E1–E4 repair synchronization and difficult/source-sensitive documentation.
+
+- physical source-page markers: **77/77 PASS**;
+- story boundaries: **13/13 PASS**;
+- post-E4 Tamil/English content drift: **0**;
+- E5 English repairs: **0**;
+- Tamil/source reopenings: **0**;
+- unresolved English re-audit issues: **0**.
+
+### E5 — Stories 27–37 final batch
+
+The final 11-story E5 iteration is **COMPLETE — 11/11 PASS**.
+
+- physical source-page markers: **71/71 PASS**;
+- story boundaries: **11/11 PASS**;
+- post-E4 Tamil/English content drift: **0**;
+- E5 English repairs: **0**;
+- Tamil/source reopenings: **0**;
+- unresolved English re-audit issues: **0**.
+
+## E5 programme closure
+
+**E5 is CLOSED — 37/37 PASS.**
+
+Anthology-wide final E5 findings:
+
+- final bilingual approval: **37/37 PASS**;
+- physical story-page traceability: **250/250 PASS**;
+- post-E4 Tamil/English content drift: **0**;
+- E5 English repairs: **0**;
+- unresolved English re-audit issues: **0**;
+- Tamil/source reopenings caused by E5: **0**.
+
+## English re-audit programme closure
+
+**1977 English post-Tamil re-audit: CLOSED — E1/E2/E3/E4/E5 all 37/37 PASS.**
+
+Cumulative repair totals remain:
+
+- E1 page-anchor/content-boundary repairs: **8**;
+- E1 structure-traceability annotation repairs: **18**;
+- E2 English fidelity repairs: **12**;
+- E3 terminology/name repairs: **6**;
+- E4 English-quality repairs: **49**;
+- E5 repairs: **0**;
+- unresolved English re-audit issues: **0**.
+
+No routine activity remains in this five-gate programme.

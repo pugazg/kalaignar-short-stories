@@ -1,34 +1,26 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E5 Stories 14–26
+# NEXT CHAT PROMPT — 1977 English re-audit CLOSED
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable state
+## Durable closed state
 
-- Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS**
+- 1977 Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS**
 - E1: **CLOSED — 37/37 PASS**
 - E2: **CLOSED — 37/37 PASS**
 - E3: **CLOSED — 37/37 PASS**
 - E4: **CLOSED — 37/37 PASS**
-- E5: **13/37 PASS**
-- E5 English repairs so far: **0**
+- E5 final bilingual approval: **CLOSED — 37/37 PASS**
+- physical story-page traceability at E5: **250/250 PASS**
 - cumulative E4 English-quality repairs: **49**
+- E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 
-The user requested **13 stories per iteration**.
+Stories **14–37** were completed in the final authorized E5 iteration: **24/24 PASS**, **148/148 physical page markers**, **0 post-E4 Tamil/English content drift**, **0 source reopenings**, **0 unresolved**.
 
-## Exact next iteration
+The earlier Stories 1–13 cumulative page figure **98/98** was an arithmetic typo; the correct total is **102/102**. Per-story counts were already correct and no story content changed.
 
-Process E5 Stories **14–26**:
+## Next activity
 
-`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
+**None inside the 1977 five-gate English re-audit. The programme is closed.**
 
-E5 is the **final bilingual approval** gate:
-
-- compare the final English against the final canonical Tamil one last time;
-- confirm every E1–E4 repair is synchronized and no later repair introduced meaning drift;
-- confirm physical-page traceability remains intact;
-- confirm difficult/source-sensitive terms remain documented and consistent;
-- ensure unresolved English re-audit issues remain **0**;
-- mark each story final **E5 PASS** only after all checks pass.
-
-Do not modify Tamil merely to improve English. Do not reopen the PDF unless a genuine Tamil-source defect emerges. Process only E5 Stories 14–26 in this iteration.
+If a future task is authorized, fetch live `main` first and preserve this closed state. Do not reopen canonical Tamil, the controlling PDF, or final English merely for stylistic preference; require genuine source evidence or explicit authorization.

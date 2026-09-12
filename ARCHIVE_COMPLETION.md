@@ -123,8 +123,8 @@ The user also supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, now adop
 
 Therefore the repository's **current** state is no longer “no authorized work”: the previous archive scope remains closed, while the 1987 source intake is **ACTIVE**. Current execution state is governed by `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, and the 1987 collection controls.
 
-## Active QA addendum — 1977 English re-audit
+## Closed QA addendum — 1977 English re-audit
 
-The 1977 anthology remains source-complete and translation-complete in the historical trackers. A newly authorized post-Tamil English re-audit is **ACTIVE** and does not invalidate those completed phases.
+The 1977 anthology remains source-complete and translation-complete in the historical trackers. The separately authorized post-Tamil English re-audit is now **CLOSED** and does not invalidate those completed phases.
 
-Current English re-audit: **E1 CLOSED — 37/37 PASS; E2 CLOSED — 37/37 PASS; E3 CLOSED — 37/37 PASS; E4 CLOSED — 37/37 PASS; E5 13/37 PASS; 49 E4 English-quality repairs; 0 unresolved**. Next: E5 Stories 14–26. Tracker: `ENGLISH_REAUDIT_PROGRESS.md`.
+Final English re-audit: **E1/E2/E3/E4/E5 CLOSED — 37/37 PASS; 49 cumulative E4 English-quality repairs; 0 E5 repairs; 0 unresolved**. E5 final page traceability: **250/250 PASS**. Tracker: `ENGLISH_REAUDIT_PROGRESS.md`.

@@ -92,7 +92,7 @@ A final scan-228 recheck corrected the provisional `கூண்டுக் க
 - unresolved E2 issues: **0**
 - E3 terminology / cultural consistency: **PASS**
 - E4 English quality: **PASS**
-- E5: **PENDING**
+- E5: **PASS**
 
 
 ## English re-audit E3 closure
@@ -101,11 +101,20 @@ A final scan-228 recheck corrected the provisional `கூண்டுக் க
 - E3 English repairs: **0**
 - unresolved E3 issues: **0**
 - E4 English quality: **PASS**
-- E5: **PENDING**
+- E5: **PASS**
 
 ## English re-audit E4 closure
 
 - English quality: **PASS**
 - E4 English-quality repairs: **2**
 - unresolved E4 issues: **0**
-- E5: **PENDING**
+- E5: **PASS**
+
+## English re-audit E5 closure
+
+- final bilingual approval: **PASS**
+- physical-page traceability: **6/6 PASS**
+- post-E4 Tamil/English content drift: **0**
+- E5 English repairs: **0**
+- unresolved English re-audit issues: **0**
+- final 1977 English re-audit state for this story: **PASS**

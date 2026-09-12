@@ -64,7 +64,7 @@ Scan **155** ends the story with the source-bold `வல்லூறை வி�
 - E2 meaning fidelity: **PASS**
 - E3 terminology / cultural consistency: **PASS**
 - E4 English quality: **PASS**
-- E5: **PENDING**
+- E5: **PASS**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -76,7 +76,7 @@ Scan **155** ends the story with the source-bold `வல்லூறை வி�
 - unresolved E2 issues: **0**
 - E3 terminology / cultural consistency: **PASS**
 - E4 English quality: **PASS**
-- E5: **PENDING**
+- E5: **PASS**
 
 
 ## English re-audit E3 closure
@@ -85,7 +85,7 @@ Scan **155** ends the story with the source-bold `வல்லூறை வி�
 - E3 English repairs: **0**
 - unresolved E3 issues: **0**
 - E4 English quality: **PASS**
-- E5: **PENDING**
+- E5: **PASS**
 
 
 ## English re-audit E4 closure
@@ -93,4 +93,13 @@ Scan **155** ends the story with the source-bold `வல்லூறை வி�
 - English quality: **PASS**
 - E4 English-quality repairs: **1**
 - unresolved E4 issues: **0**
-- E5: **PENDING**
+- E5: **PASS**
+
+## English re-audit E5 closure
+
+- final bilingual approval: **PASS**
+- physical-page traceability: **5/5 PASS**
+- post-E4 Tamil/English content drift: **0**
+- E5 English repairs: **0**
+- unresolved English re-audit issues: **0**
+- final 1977 English re-audit state for this story: **PASS**

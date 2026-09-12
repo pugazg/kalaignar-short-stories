@@ -7,46 +7,43 @@
 - **LIVE MAIN IS AUTHORITATIVE**
 - 1977 Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS; 0 unresolved**
 - existing English translations: **37/37 complete**
-- active programme: **1977 English post-Tamil re-audit**
+- 1977 English post-Tamil re-audit: **CLOSED**
 
 ## Durable current state
 
-- E1: **CLOSED — 37/37 PASS**
-- E2: **CLOSED — 37/37 PASS**
-- E3: **CLOSED — 37/37 PASS**
+- E1 completeness / physical-page alignment: **CLOSED — 37/37 PASS**
+- E2 meaning fidelity: **CLOSED — 37/37 PASS**
+- E3 terminology / cultural consistency: **CLOSED — 37/37 PASS**
 - E4 English quality without changing meaning: **CLOSED — 37/37 PASS**
-- E5 final bilingual approval: **13/37 PASS**
+- E5 final bilingual approval: **CLOSED — 37/37 PASS**
+- E5 physical story-page traceability: **250/250 PASS**
 - cumulative E2 English fidelity repairs: **12**
 - cumulative E3 terminology/name repairs: **6**
 - cumulative E4 English-quality repairs: **49**
-- E5 English repairs so far: **0**
+- E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 
-## Iteration cadence
+## Final E5 closure
 
-User-set cadence: **13 stories per iteration**.
+The user authorized processing all remaining E5 stories in one iteration.
 
-For E5:
-- Stories 1–13 — **COMPLETE / PASS**
-- Stories 14–26 — **NEXT**
-- Stories 27–37 — **PENDING / final 11**
-
-## Latest E5 batch — Stories 1–13
-
-All **13/13 PASS**.
-
-- physical source-page markers: **98/98 PASS**
-- story boundaries: **13/13 PASS**
-- E1–E4 repair synchronization: **PASS**
-- difficult/source-sensitive terminology documentation: **PASS**
+- Stories 14–26: **13/13 PASS / 77/77 pages**
+- Stories 27–37: **11/11 PASS / 71/71 pages**
+- remaining stories completed this iteration: **24/24**
+- remaining physical source-page markers: **148/148 PASS**
+- post-E4 Tamil/English content drift: **0**
 - E5 English repairs: **0**
 - Tamil/source reopenings: **0**
-- unresolved English re-audit issues: **0**
+- unresolved issues: **0**
 
-## Exact next activity
+The final Tamil and English story-content files for Stories 14–37 were confirmed byte-stable from the E4-closed checkpoint. Their E2 direct bilingual approvals, E3 terminology decisions and E4 quality decisions therefore remain the exact final pair approved at E5; page markers, story boundaries and story-local review documentation were rechecked.
 
-Process **E5 Stories 14–26**:
+## Tracker arithmetic correction
 
-`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
+The earlier E5 Stories 1–13 summary said **98/98** physical pages. The correct sum of the already-correct per-story counts is **102/102**. This was a tracker arithmetic error only; no Tamil or English story content was affected.
 
-E5 is the final bilingual approval gate. Compare final English against final canonical Tamil one last time, confirm all E1–E4 repairs are synchronized, page traceability and difficult-term documentation remain intact, and no unresolved English issue remains. Mark each story E5 PASS only after that final approval. Do not reopen Tamil or the PDF unless a genuine source defect emerges.
+## Final programme result
+
+**1977 English post-Tamil re-audit CLOSED — 37/37 E5 PASS; 0 unresolved.**
+
+No routine next activity remains inside this five-gate English re-audit programme. Future work must start by fetching live `main` and must not reopen the closed 1977 Tamil or English layers without new source evidence or explicit authorization.
