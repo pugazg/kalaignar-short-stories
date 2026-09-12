@@ -88,3 +88,12 @@ Opening/ending structure, source emphasis on `‘கண்ணடக்கம்�
 ## Next anthology English activity
 
 Story 25 — **வாழ முடியாதவர்கள்**, printed pages **164–171**, anthology scans **173–180**; the user explicitly expanded the current English batch through Story 26.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **7/7**
+- E1 repairs: **2 structure-traceability annotations**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

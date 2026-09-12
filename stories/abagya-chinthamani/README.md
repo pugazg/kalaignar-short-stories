@@ -98,3 +98,13 @@ The source-bold opening characterization, two displayed song blocks, emphasized 
 Story 27 — **பாலைவன ரோஜா**, printed pages **180–184**, anthology scans **189–193**. Before Story 27 closure, scan **194** remains the boundary witness opening Story 28, whose TOC title is `புரட்சிப்படம்` and opening heading is `புரட்சிப் படம்`.
 
 2026 source reread corrected scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all legacy possible-error candidates are now source-resolved.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **2 structure-traceability annotations**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

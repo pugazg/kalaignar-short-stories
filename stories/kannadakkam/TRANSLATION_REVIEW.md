@@ -86,3 +86,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - source-proven Tamil repairs: **9**
 - English phrase-level synchronizations: **6**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **7/7 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **2 structure-traceability annotations**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All six internal joins remain traceable and every page has substantive translated content. The missing opening-rule and enlarged-initial traceability comments were restored; no prose or marker position changed.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

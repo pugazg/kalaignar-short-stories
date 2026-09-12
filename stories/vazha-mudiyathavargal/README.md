@@ -95,3 +95,12 @@ The source-bold sentence `சின்னச்சாமி வாழமுட�
 ## Next anthology English activity
 
 Story 26 — **அபாக்ய சிந்தாமணி**, printed pages **172–179**, anthology scans **181–188**; included in the user-authorized current batch.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **1 structure-traceability annotation**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

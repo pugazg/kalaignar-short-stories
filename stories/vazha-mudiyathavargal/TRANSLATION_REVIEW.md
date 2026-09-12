@@ -93,3 +93,18 @@ The existing English already conveys all three corrected meanings, so **English 
 - canonical Tamil: **CURRENT PASS / CLOSED**
 - Gate A / Gate B: **8/8 PASS / 8/8 PASS**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **8/8 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 structure-traceability annotation**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All seven internal joins remain traceable. The missing opening-rule traceability comment was restored. No English prose or page marker changed during E1.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

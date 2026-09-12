@@ -90,3 +90,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - source-proven Tamil repairs: **1** — scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`
 - English prose rewrite required: **0**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **8/8 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **2 structure-traceability annotations**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All seven joins remain traceable, including 182→183 `சிந்தாமணிக்குப்` → `பத்து வயது...` and 187→188 `அதற்` → `காகவே`. The source-displayed song blocks were already preserved; the missing opening-rule and enlarged-initial annotations were restored.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

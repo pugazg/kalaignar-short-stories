@@ -86,3 +86,18 @@ The Tamil source layer was reopened under the anthology dual-gate standard. Scan
 - canonical Tamil after re-audit: **CURRENT PASS / CLOSED**
 - Gate A / Gate B: **5/5 PASS / 5/5 PASS**
 - unresolved source/glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **5/5 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 page-anchor repair**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+One clear page-anchor defect was repaired at 156→157. Tamil scan 156 ends `...விகாரமாய் இருக்கிறோம் என்பதைப் பற்றிக் கவலைகொள்ள`; scan 157 begins `வில்லை.`. The English had completed the negative thought before the marker. It now ends scan 156 at `appeared to care—` and begins scan 157 with `—not at all.`, preserving the source-page continuation without changing meaning.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

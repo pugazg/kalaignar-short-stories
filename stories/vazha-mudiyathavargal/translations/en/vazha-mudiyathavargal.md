@@ -1,6 +1,7 @@
 # Vazha Mudiyathavargal
 
 <!-- source scan 173; printed page 164 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
 
 ‘Daan, daan’—the tower clock struck ten times. The doors of Natchathira Talkies opened. The red, green, blue and yellow colours released when the film ‘Thilothama’ ended lost their splendour under the sudden laughter of the mercury lamps. A troop of young people came streaming out, their own luxury still glittering even in that light, singing ‘Kamba rasam’.
 

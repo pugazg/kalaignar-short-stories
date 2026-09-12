@@ -1,6 +1,8 @@
 # Abagya Chinthamani
 
 <!-- source scan 181; printed page 172 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening அ in “அதோ...” -->
 
 There—do you see the woman begging in the street? Do you know who she is? Do not imagine that I am going to test your patience by telling you an old story such as **“She was not born into a line of beggars; she lived as a wealthy woman; the wheel of time reduced her to this state.”** She is indeed a hereditary beggar. That is to say, even her grandmother was a beggar! How old do you think the beggar you see here might be? You say about forty, do you not? No, no; I am telling you exactly—she is only thirty-five! She simply looks that old. She might even be taken for forty or fifty. In these times we see people of fifty and sixty locking in their teeth like twelve-year-old youthful birds, filling the hollows of their faces with powder, fashioning kovvai-red lips with colour and crescent brows with kohl, climbing to the Everest of civilization and crowing in triumph. This poor beggar has no wish to change her age that way. Even if she wished to, she has no money. And so, carrying on her body the dust of age settled by the winds of youth, she wanders through the streets of Thiruvarur.
 

@@ -6,11 +6,11 @@
 
 That day’s ‘exhibition’ held no flavour for Annumalai, because no beauties had come. Annumalai was one who found fulfilment in the smiles that played upon the lips of queens of beauty. His doctrine was that unattractive women were unfit to live in this world. He often said that while Brahma was enjoying his time with Sarasaa, he had, in irritation at having to attend to the work of creation, fashioned a few lumps of flesh—and that those had become the unattractive women who troubled the world. To him life was a flower garden, and women were the parrots flying through it!
 
-“Che! What kind of exhibition is this? An exhibition without beauties is fit only for a leprosy-stricken ‘Juliet’. Even Romeo wouldn’t touch her. They say the Tamil is the most handsome man in the world! Yet I cannot find one beautiful Tamil woman here......” Annumalai went on muttering like this. He cast his net through the bangle stalls and ribbon stalls. He cast his net for sel-kendai; only young varaal fish were caught. The women seen there did not seem concerned about how grotesque they looked—
+“Che! What kind of exhibition is this? An exhibition without beauties is fit only for a leprosy-stricken ‘Juliet’. Even Romeo wouldn’t touch her. They say the Tamil is the most handsome man in the world! Yet I cannot find one beautiful Tamil woman here......” Annumalai went on muttering like this. He cast his net through the bangle stalls and ribbon stalls. He cast his net for sel-kendai; only young varaal fish were caught. As for how grotesque they looked, the women seen there appeared to care—
 
 <!-- source scan 157; printed page 148 -->
 
-—but somehow they had no hesitation in picking out beautiful bangles! Isn’t the world like that? If the cuckoo refused to sing because it was not beautiful...and if the peacock began to sing because it was beautiful...would not nature itself have changed?
+—not at all. But somehow they had no hesitation in picking out beautiful bangles! Isn’t the world like that? If the cuckoo refused to sing because it was not beautiful...and if the peacock began to sing because it was beautiful...would not nature itself have changed?
 
 Annumalai wandered about with a drooping heart. Hearing a ‘kaluk’ sound, he turned. Yes...the sel-kendai itself had been caught. In her wandering eyes he saw a wonder. With the bow of her brows she pierced him—akkathaaga—and killed him. Those lips like pomegranate blossoms stirred a storm of feeling in Annumalai’s heart. Would a woman who captivated all who saw her spare Annumalai?
 

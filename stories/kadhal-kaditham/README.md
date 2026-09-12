@@ -89,3 +89,12 @@ The opening structure, continuous letter across scans 162–163, centered two-li
 ## Completion state
 
 **காதல் கடிதம் is 2026 CURRENT PASS / CLOSED: Gate A 5/5 + Gate B 5/5, 5 source-proven repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 161–165 / printed pages 152–156.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **5/5**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

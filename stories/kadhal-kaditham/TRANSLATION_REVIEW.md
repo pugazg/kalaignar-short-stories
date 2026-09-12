@@ -96,3 +96,18 @@ The existing English already conveys all corrected meanings (“circumstances,�
 - canonical Tamil after re-audit: **CURRENT PASS / CLOSED**
 - Gate A / Gate B: **5/5 PASS / 5/5 PASS**
 - unresolved source/glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **5/5 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All four joins remain traceable, including the exact morphological split 161→162 `மிச்ச` → `முள்ள` represented as `remain—` → `—ing`, and the later letter continuations across 163→164 and 164→165.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

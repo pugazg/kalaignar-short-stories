@@ -85,3 +85,12 @@ The opening rule/enlarged initial, final story-ending role and closing ornament 
 ## Completion state
 
 **தொத்துக்கிளி is 2026 CURRENT PASS / CLOSED: Gate A 5/5 + Gate B 5/5, 1 source-proven repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 156–160 / printed pages 147–151.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **5/5**
+- E1 repairs: **1 page-anchor repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

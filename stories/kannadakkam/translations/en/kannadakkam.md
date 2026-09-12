@@ -1,6 +1,8 @@
 # Kannadakkam
 
 <!-- source scan 166; printed page 157 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening ப in “பக்தன்...” -->
 
 A devotee ran in panic. His feet stumbled. Sweat had turned his body into a pool. His hair had come loose in disorder and flew in the wind. The sacred ash smeared on his forehead, and even the broad vermilion mark above it, had dissolved in the sweat and were running down his cheeks like blood and pus. His face looked like a foul-smelling stream issuing from a festering wound. And over all this came his cries: “Devi! Devi!! Kalika Devi!!!”
 
