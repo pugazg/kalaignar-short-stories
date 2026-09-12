@@ -87,3 +87,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All six joins remain traceable against the verified page records, including 212→213 `கல கல வென` → `ஒலிக்க`, 214→215 `கையிலே` → `கண்ணாடி வளையல்கள்`, and 215→216 `உணர்ந்` → `தாள்`. The missing combined opening-rule/enlarged-initial annotation was restored.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the revalidated scan-217 historical-`றா` reading. No E2 prose repair was required. Muthamma's poverty, prostitution under economic coercion, Raja's illness, rickshaw bargain, railway-gate delay, Nepal king procession, child's death and final double sense of `Raja` remain faithful in source degree and causality. Narratorial `போலும்`/hearsay passages are appropriately retained as uncertainty rather than turned into facts.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

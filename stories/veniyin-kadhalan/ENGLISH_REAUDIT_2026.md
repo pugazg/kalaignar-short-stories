@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -37,3 +37,16 @@ No E1 defect was changed; regression fixture not required.
 ## Disposition
 
 **E1 PASS.** This story is closed for E1. E2 remains pending for the anthology-wide next gate.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the two 2026 repairs and prior `கூண்டுக் கிளி ஆக்குவேனென்றான்` correction. No E2 prose repair was required. Veni's account of coercion, Surya's past love for Kandan, widowhood and financial collapse, contemplated poisoning, moral reversal and final violent fall preserve the source's relationship structure and causality. Legal/social and caste-register expressions remain for E3 terminology review.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

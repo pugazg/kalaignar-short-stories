@@ -90,3 +90,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All six physical joins were independently checked against the verified Tamil page records. High-value joins remain aligned: 218→219 `நான் சத்தியவதியை` → `தவறு கூறுகிறேன்...`; 219→220 `சிறப்புடையதாயிருக்க` → `வேண்டும்`; 220→221 `ரகசியமாகச்` → `சேமித்து`; and 221→222 `பாடிக்கொண்டிருக்` → `கிறாள் சத்தியவதி`. The opening-rule/enlarged-initial provenance annotation was missing in English and has been restored. The two-line letter sign-off, final bold conclusion and closing ornament remain represented.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and the 2026 spacing repair. No E2 prose repair was required. Amirtharani's accusation, Sathyavathi's temple concern, Arthol's filial relationship, Jegaveera's suspicion, poisoned-milk ordeal, Arthol's voluntary acceptance and final “poison is sweeter than God” indictment preserve the source's agency, kinship and rhetoric. Source-odd `என் அண்ணை`, repeated `அண்ண`, `pashaanam` and `kanjarang` remain for E3 rather than guessed in E2.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

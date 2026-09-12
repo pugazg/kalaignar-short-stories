@@ -99,3 +99,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All five physical joins remain traceable. The open speech across 226→227 is preserved; the exact 227→228 continuation `நான் தொத்தி விளையாண்ட` → `தோள்கள்.....` is represented across the same marker; 229→230 keeps Veni's question followed by Surya's answer on the correct physical page. No prose or marker repair was required.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the two 2026 repairs and prior `கூண்டுக் கிளி ஆக்குவேனென்றான்` correction. No E2 prose repair was required. Veni's account of coercion, Surya's past love for Kandan, widowhood and financial collapse, contemplated poisoning, moral reversal and final violent fall preserve the source's relationship structure and causality. Legal/social and caste-register expressions remain for E3 terminology review.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

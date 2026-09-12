@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -37,3 +37,16 @@ Structure-only provenance annotation repair; no prose or marker regression fixtu
 ## Disposition
 
 **E1 PASS.** This story is closed for E1. E2 remains pending for the anthology-wide next gate.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and the 2026 spacing repair. No E2 prose repair was required. Amirtharani's accusation, Sathyavathi's temple concern, Arthol's filial relationship, Jegaveera's suspicion, poisoned-milk ordeal, Arthol's voluntary acceptance and final “poison is sweeter than God” indictment preserve the source's agency, kinship and rhetoric. Source-odd `என் அண்ணை`, repeated `அண்ண`, `pashaanam` and `kanjarang` remain for E3 rather than guessed in E2.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

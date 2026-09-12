@@ -100,3 +100,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All five joins remain traceable, including 205→206 the confession `...படைத்தவை` → `அல்ல!`, 207→208 `சமாதானப்` → `படுத்தி`, and 209→210 `நடிப்ப` → `தற்கு`. The missing opening-rule annotation was restored; the letter sign-off and closing rule were already represented.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. Doctor Babu's confession, Kokila/Manjula/Gopal relationships, the shooting sequence, courtroom questioning and final revelation that the “court” is a stage-company scene preserve source agency, chronology and irony. Unusual source phrases already handled conservatively remain terminology/style matters for E3/E4.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

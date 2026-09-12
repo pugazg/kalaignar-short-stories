@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
@@ -36,3 +39,16 @@ Structure-only annotation repair; no prose or marker regression fixture required
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the revalidated scan-217 historical-`றா` reading. No E2 prose repair was required. Muthamma's poverty, prostitution under economic coercion, Raja's illness, rickshaw bargain, railway-gate delay, Nepal king procession, child's death and final double sense of `Raja` remain faithful in source degree and causality. Narratorial `போலும்`/hearsay passages are appropriately retained as uncertainty rather than turned into facts.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
