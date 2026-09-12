@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -37,3 +37,16 @@ No E1 defect was changed; regression fixture not required.
 ## Disposition
 
 **E1 PASS.** This story is closed for E1. E2 remains pending for the anthology-wide next gate.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 `அந்தி வானத்துச்` repair. No E2 prose repair was required. The opening beauty description, husband's vow and departure, woman's appeal to the Siddhartha statue, and the statue's self-indicting reply preserve source irony, relationships and rhetoric. The story-heading/TOC title variance and source-sensitive terms remain unchanged.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

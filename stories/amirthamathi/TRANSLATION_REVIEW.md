@@ -90,3 +90,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All seven physical joins remain traceable. The page-open continuations 234→235 (`...ஓடி, ஆடிப்பாடி` → the king being brought) and 236→237 (`...தீர்த்துக்கட்டி` → `விட்டாள்...`) remain on adjacent English sections with no non-adjacent spillover. Closing ornament and the story-ending dialogue remain complete.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all ten 2026 glyph repairs and the earlier sentence synchronization restoring explicit `அணைத்து`. No new E2 prose repair was required. The narrator's complaint about literary theft, the embedded Yasodhara/Amirthamathi episode, Attabangan relationship, king's discovery, poisoning and final analogy between Amirthamathi and the plagiarist preserve source meaning and rhetorical structure. Verified opaque poetic forms remain for E3 terminology review.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

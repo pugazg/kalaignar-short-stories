@@ -92,3 +92,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All ten internal joins remain traceable. In particular, 243→244 `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`, 244→245 the childbirth/body continuation, and 247→248 `“ஆராரோ” பாடுவதும்` → the night-care continuation all remain on the correct adjacent English pages. Scan 250 Story 36 text is excluded.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all seven 2026 repairs and the scan-246 phrase synchronization. No new E2 prose repair was required. The narrator's meditation on motherhood, Sekar–Maragatham marriage, Soundari's exploitation of Maragatham, childbirth/feeding conflict, illness and Sekar's revolt preserve source relationships, agency and critique. Source-confirmed anomalies such as `அவள் உள்ளத்தில்`, `களித்துப்போய்`, `Hyder-era sewing machine` and the milk/medicine metaphor remain source-governed and are deferred to E3/E4 where appropriate.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

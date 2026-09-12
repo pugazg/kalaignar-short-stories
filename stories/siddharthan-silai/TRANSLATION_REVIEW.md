@@ -91,3 +91,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 Both internal joins remain traceable. The exact 251→252 split `...அவளருகே உறங்குகின்ற அருமைச்` → `செல்வன்—...` remains one continuous English sentence across the page marker. The title variance (TOC `சித்தார்த்தன்` vs story heading `சித்தார்த்தன் சிலை`) remains preserved. Story 37 is excluded.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 `அந்தி வானத்துச்` repair. No E2 prose repair was required. The opening beauty description, husband's vow and departure, woman's appeal to the Siddhartha statue, and the statue's self-indicting reply preserve source irony, relationships and rhetoric. The story-heading/TOC title variance and source-sensitive terms remain unchanged.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

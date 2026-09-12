@@ -89,3 +89,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All six internal joins remain traceable. The exact 257→258 split `...உள்ளங்` → `களைக் கெடுத்து...` remains aligned to the English marker; 258→259 keeps the child-address line on scan 258 and the greeting action on scan 259. The opening Bharathidasan verse keeps its three-line archival structure, and scan 260 back cover is excluded.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including both 2026 punctuation synchronizations. No new E2 prose repair was required. The Bharathidasan verse, Arulnambi's attraction to Amudha, garland/telephone/dinner sequences, final family reveal and closing irony preserve the Tamil's suggestive tone, relationships and causality without adding sexual detail. Source-opaque `நாறுவது நடன நிகழ்ச்சி` remains conservatively represented for E3 rather than normalized by expectation.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

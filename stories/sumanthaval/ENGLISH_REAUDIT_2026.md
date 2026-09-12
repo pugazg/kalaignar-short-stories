@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -37,3 +37,16 @@ No E1 defect was changed; regression fixture not required.
 ## Disposition
 
 **E1 PASS.** This story is closed for E1. E2 remains pending for the anthology-wide next gate.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all seven 2026 repairs and the scan-246 phrase synchronization. No new E2 prose repair was required. The narrator's meditation on motherhood, Sekar–Maragatham marriage, Soundari's exploitation of Maragatham, childbirth/feeding conflict, illness and Sekar's revolt preserve source relationships, agency and critique. Source-confirmed anomalies such as `அவள் உள்ளத்தில்`, `களித்துப்போய்`, `Hyder-era sewing machine` and the milk/medicine metaphor remain source-governed and are deferred to E3/E4 where appropriate.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
