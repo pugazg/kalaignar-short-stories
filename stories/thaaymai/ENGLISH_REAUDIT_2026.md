@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all 42 2026 repairs, the restored scan-77 paragraph, names, agency, quantities, the snake/flute plot, the mother's intervention and the ending. One E2 fidelity repair was required in scan 74: `உமது தீட்சணயமிக்க மூளையிலே` is an ordinary adjective meaning a keen/sharp brain, but the English had rendered it opaquely as “theetchanayam-filled brain.” It now reads **“that keen brain of yours.”** The following proper name `தீட்சணயன்` remains **Theetchanayan**. No Tamil change was made.
+
+- English fidelity repairs: **1**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

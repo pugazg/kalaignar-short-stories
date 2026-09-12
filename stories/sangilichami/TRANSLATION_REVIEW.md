@@ -116,3 +116,12 @@ The existing English already renders each corrected meaning correctly (“What d
 All eleven internal joins were checked. The high-value 67→68 continuation `அன்றைக்கே` → `ஆயிரம் ரூபாய்!` remains directly traceable as `that very day came to` → `one thousand rupees!`. The isolated opening chants, false-letter display and closing flourish remain correctly bounded.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all six 2026 source-proven repairs and the story's source-retained oddities. No E2 prose repair was required. The railway-chain legend, the silver-to-gold fraud, Sambandham's confession, the corpse-parcel scheme, staged nishta, false letter, samadhi cult, and final loss/profit arithmetic all preserve the Tamil meaning and agency. Conservative treatments such as `Namap-Parvati Padē`, `mūḍātmā / jñānātmā`, `nishta`, `mutt`, and the rupee-weight expressions were left for E3 terminology review rather than rewritten here.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

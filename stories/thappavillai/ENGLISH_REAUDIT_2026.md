@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ Corrected state: **PASS**. Reconstructed prior marker placement: **FAIL — page
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the sole 2026 repair and the earlier E1 page-anchor correction. No E2 prose repair was required. Muthu's prison reflections, dream/marriage sequence, parents' accusations against alternative suspects, Ponnu's illicit-liquor context, appeal funding, sentence escalation and the final “release from the world” irony preserve the Tamil meaning, agency and quantities. Source-close colloquial/cultural expressions remain for E3/E4 rather than being smoothed in E2.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

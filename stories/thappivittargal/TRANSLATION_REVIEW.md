@@ -35,3 +35,12 @@ The repaired items are source spacing/punctuation/wording (`பாடு பட�
 All seven joins align, including 84→85 the source pause before `இறந்துவிட்டார்!` represented by the English dash before `died!`, and 90→91 `கரையில்` → `ஏறிக்கொண்டு` represented as `At the bank—` → `she climbed up...`.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all twelve 2026 repairs. No E2 prose repair was required. The public praise of Ramadurai, Thangam's assault, Vittal's retaliation and wound, the canal escape, police pursuit, final mutual deaths and the closing social indictment all preserve the Tamil sequence, agency and irony. Source-close expressions such as `எச்சிற் பண்டம்`, `குபு குபு`, and colloquial kinship/address forms were not normalized during E2.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

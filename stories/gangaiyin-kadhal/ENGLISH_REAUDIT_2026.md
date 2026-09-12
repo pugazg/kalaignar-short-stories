@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the two 2026 repairs. No E2 prose repair was required. The corrected `காளை மாடு` and `தோன்றாமலிருக்க` senses are already present as “the bull” and “so that women like me may not arise again.” The Ganga–Chandra dialogue, the satire on age difference and multiple wives, Bhagiratha episode, Tara comparison, and final social appeal preserve agency and rhetoric. Verified source-odd forms such as `அல்வித் தண்டில்`, `சல்லாப ரூபா`, and `என்..பார்வதியால் தான் முடிந்ததா?` remain source-close and were not normalized from mythology or grammar expectation.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

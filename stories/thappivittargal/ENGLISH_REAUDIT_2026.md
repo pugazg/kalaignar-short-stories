@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all twelve 2026 repairs. No E2 prose repair was required. The public praise of Ramadurai, Thangam's assault, Vittal's retaliation and wound, the canal escape, police pursuit, final mutual deaths and the closing social indictment all preserve the Tamil sequence, agency and irony. Source-close expressions such as `எச்சிற் பண்டம்`, `குபு குபு`, and colloquial kinship/address forms were not normalized during E2.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

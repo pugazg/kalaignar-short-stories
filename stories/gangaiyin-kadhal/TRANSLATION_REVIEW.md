@@ -110,3 +110,12 @@ The existing English already says **“the bull”** and **“so that women like
 The 69→70 source split falls inside `எதிர்பார்த்திருந்` → `தாள்`; English represents the same adjacent continuation at the nearest natural phrase boundary `waiting` → `for someone`. The 71→72 quoted plea continues across the correct marker. No non-adjacent spillover was found.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the two 2026 repairs. No E2 prose repair was required. The corrected `காளை மாடு` and `தோன்றாமலிருக்க` senses are already present as “the bull” and “so that women like me may not arise again.” The Ganga–Chandra dialogue, the satire on age difference and multiple wives, Bhagiratha episode, Tara comparison, and final social appeal preserve agency and rhetoric. Verified source-odd forms such as `அல்வித் தண்டில்`, `சல்லாப ரூபா`, and `என்..பார்வதியால் தான் முடிந்ததா?` remain source-close and were not normalized from mythology or grammar expectation.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

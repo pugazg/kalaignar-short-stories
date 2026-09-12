@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all six 2026 source-proven repairs and the story's source-retained oddities. No E2 prose repair was required. The railway-chain legend, the silver-to-gold fraud, Sambandham's confession, the corpse-parcel scheme, staged nishta, false letter, samadhi cult, and final loss/profit arithmetic all preserve the Tamil meaning and agency. Conservative treatments such as `Namap-Parvati Padē`, `mūḍātmā / jñānātmā`, `nishta`, `mutt`, and the rupee-weight expressions were left for E3 terminology review rather than rewritten here.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

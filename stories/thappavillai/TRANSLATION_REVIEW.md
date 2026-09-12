@@ -40,3 +40,12 @@ The sole new repair is scan 95 `கட்டிப் போடணும்ன�
 One clear anchor defect was repaired at 92→93. Tamil scan 92 ends with the thought `...இந்தக் கோட்டையையும் சரித்துத் தகர்த்துவிட்டால் என்ன என்று`; scan 93 begins `மனக்கோட்டை கட்ட அவன் தவறவில்லை.`. The English had placed the scan-93 mental-castle clause before the marker. It now leaves the question on scan 92 and begins scan 93 with `He did not fail to build a castle in his mind around that thought.`. Meaning is unchanged.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the sole 2026 repair and the earlier E1 page-anchor correction. No E2 prose repair was required. Muthu's prison reflections, dream/marriage sequence, parents' accusations against alternative suspects, Ponnu's illicit-liquor context, appeal funding, sentence escalation and the final “release from the world” irony preserve the Tamil meaning, agency and quantities. Source-close colloquial/cultural expressions remain for E3/E4 rather than being smoothed in E2.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
