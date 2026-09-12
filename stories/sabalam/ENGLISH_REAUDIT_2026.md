@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was compared sentence-by-sentence with the final canonical Tamil, including all six 2026 Tamil repair locations and retained oddities. Two fidelity repairs were made. First, scan 25's `அவனும் சந்திராவும் தங்கள் குழந்தையுடன்` was clarified as **Kumares and Chandira** rather than the ambiguous English “He and Chandira,” preserving the correct husband/subject relation established by the story. Second, scan 28 `அவன் உமிழ்நீர் விழுங்கினான்` was restored from the incomplete “He swallowed” to **“He swallowed his saliva.”** Source-close images and oddities such as the star/moon comparison, `கையுங்களவுமாக`, and `அந்தப் பசலை` remain conservative.
+
+- English fidelity repairs: **2**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

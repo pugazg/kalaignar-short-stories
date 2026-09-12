@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was compared sentence-by-sentence with the final canonical Tamil, including all 15 2026 Tamil repair locations and source-retained oddities. One fidelity defect was repaired: scan 16→17 `தனக்கென உரிய உடலில் கால் பாகத்துக்குமேல் இழந்துவிட்ட மனிதன்` means that the leprous sage had lost **more than a quarter of his body**; the English had incorrectly said he had lost “more than the leg portion” of his body. Names and source-odd forms such as `மெளத் கல்யர்` / `மெளத்கல்யர்`, `நயனவல்லித்ததை`, `வண்ணேயாளர்`, and `எடெமுது வோர்` were not normalized from expectation.
+
+- English fidelity repairs: **1**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

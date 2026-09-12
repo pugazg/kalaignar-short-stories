@@ -91,3 +91,12 @@ Canonical Tamil remains authoritative; no duplicate English layer was created.
 Notable adjudications: 24→25 historical split `சக்தி` → `யிழந்து`, 25→26 predicate/subject reordering, and 28→29 `ஜன்னல்` → `வழியே` remain traceable in the two adjacent English sections. No non-adjacent spillover was found.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was compared sentence-by-sentence with the final canonical Tamil, including all six 2026 Tamil repair locations and retained oddities. Two fidelity repairs were made. First, scan 25's `அவனும் சந்திராவும் தங்கள் குழந்தையுடன்` was clarified as **Kumares and Chandira** rather than the ambiguous English “He and Chandira,” preserving the correct husband/subject relation established by the story. Second, scan 28 `அவன் உமிழ்நீர் விழுங்கினான்` was restored from the incomplete “He swallowed” to **“He swallowed his saliva.”** Source-close images and oddities such as the star/moon comparison, `கையுங்களவுமாக`, and `அந்தப் பசலை` remain conservative.
+
+English repairs: **2**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
