@@ -43,3 +43,12 @@ The prior scan-106 `சிங்கம்` reading remains translated as “The 
 One clear defect was repaired at 104→105. Tamil scan 104 ends inside `தாராள` and scan 105 begins `மாகத் தந்த...`. The English had already completed the praise clause before the marker and then repeated it after the marker. The duplicate paraphrase was removed, and the English now continues `praised Punyakodi, who had generously—` → `given his house as the temporary office.` across the physical boundary.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the two 2026 Tamil repairs and the earlier E1 de-duplication/page-boundary fix. No E2 prose repair was required. Punyakodi's opportunism, the sanitation-workers episode, Brahmin feast, Vellaiyappa relationship, free municipal-office offer, secret ten-thousand-rupee compensation claim, defamation damages, public fundraising, later political reversal and final irony all preserve Tamil agency, quantities and satire. Source-close forms such as `ammammi`, `pusvaanam` and the source-odd praise phrase at 104→105 remain conservative for later terminology/style gates.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

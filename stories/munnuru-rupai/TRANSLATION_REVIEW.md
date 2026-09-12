@@ -27,3 +27,12 @@ Story 15 text is excluded.
 One clear anchor defect was repaired at 112→113. Tamil scan 112 ends at `எத்தனையோ`; scan 113 begins `பேர் தங்கப்பன் யாசகம் கேட்டிருக்கிறார்கள்.`. The English now ends scan 112 at `so many—` and begins scan 113 with `people had stretched out a hand and begged Thangappan for help.`.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil. One fidelity repair was made. The Tamil says `போன பணம் திரும்பி வந்த ஆனந்தத்தில்` after explicitly stating that the money had been **lent** to a friend. The English phrase “the money he had given away had returned” could wrongly imply a gift; it now reads **“Delighted to have the money back”**. The poverty wordplay, three-hundred-rupee amount, imagined shop sequence, one-and-a-half tickets, dream/reversal and final remaining ticket remain intact.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

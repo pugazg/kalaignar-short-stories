@@ -42,3 +42,12 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - unresolved E1 issues: **0**
 - E2–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
+
+
+## English re-audit E2
+
+- meaning fidelity: **PASS**
+- English fidelity repairs: **1**
+- Tamil/source reopened: **No**
+- unresolved E2 issues: **0**
+- E3–E5: **PENDING**

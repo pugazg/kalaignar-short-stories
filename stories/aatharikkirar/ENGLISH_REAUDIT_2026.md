@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ Corrected state: **PASS**. Reconstructed prior marker/content pattern: **FAIL �
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the two 2026 Tamil repairs and the earlier E1 de-duplication/page-boundary fix. No E2 prose repair was required. Punyakodi's opportunism, the sanitation-workers episode, Brahmin feast, Vellaiyappa relationship, free municipal-office offer, secret ten-thousand-rupee compensation claim, defamation damages, public fundraising, later political reversal and final irony all preserve Tamil agency, quantities and satire. Source-close forms such as `ammammi`, `pusvaanam` and the source-odd praise phrase at 104→105 remain conservative for later terminology/style gates.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

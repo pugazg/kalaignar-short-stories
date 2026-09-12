@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ Corrected state: **PASS**. Reconstructed prior marker/content pattern: **FAIL �
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 `விநாடிகூட` repair and the E1 de-duplication across 115→116. No E2 prose repair was required. The contrast between the employer couple's leisure and Parvathi's deprivation, her desire to meet her husband, the nose-stud/kiss fantasy, storm imagery, class satire, Banu rescue and Parvathi's abandonment/death remain semantically intact. Opaque cultural/source-close `kaappa bag` is left for E3 terminology work rather than guessed here.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

@@ -25,3 +25,12 @@ All four source-page markers, letter-transition emphasis, 109→110 continuation
 All three internal joins remain traceable. The 109→110 continuation `கலையுலகத்துப் பணிபுரிய—` → `அதுவும் உன் கவிதைகளை...` remains aligned as `to serve in the world of art—` → `—and that too to serve by singing your poems...`.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. The poet's public fame, the sequence of recommendation/request letters, the repeated stage/cinema/journal appeals, suicide, note identifying the box, and the final reveal of thousands of recommendation letters preserve the source's rhetoric and irony. Source-close `mudangal`, `Thirelapathi`-era register, and the unusual final `செத்துக்காட்டினான்` sense remain conservative rather than being normalized in E2.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ Corrected state: **PASS**. Reconstructed prior marker/content pattern: **FAIL �
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil. One fidelity repair was made. The Tamil says `போன பணம் திரும்பி வந்த ஆனந்தத்தில்` after explicitly stating that the money had been **lent** to a friend. The English phrase “the money he had given away had returned” could wrongly imply a gift; it now reads **“Delighted to have the money back”**. The poverty wordplay, three-hundred-rupee amount, imagined shop sequence, one-and-a-half tickets, dream/reversal and final remaining ticket remain intact.
+
+- English fidelity repairs: **1**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

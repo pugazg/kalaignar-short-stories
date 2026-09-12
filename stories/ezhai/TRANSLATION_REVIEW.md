@@ -27,3 +27,12 @@ All four page markers, three physical continuations, affluent/poor contrast, sto
 One clear E1 defect was repaired at 115→116. The Tamil physical split is `...ஒரு சில நிமிடங்கள் கூட ஒதுக்க` → `முடியவில்லை.`. The English had already expressed the full negative before the marker and then added a second `They cannot.` after it. The sentence was minimally reshaped so the continuation remains adjacent and the redundant duplicate assertion is removed.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 `விநாடிகூட` repair and the E1 de-duplication across 115→116. No E2 prose repair was required. The contrast between the employer couple's leisure and Parvathi's deprivation, her desire to meet her husband, the nose-stud/kiss fantasy, storm imagery, class satire, Banu rescue and Parvathi's abandonment/death remain semantically intact. Opaque cultural/source-close `kaappa bag` is left for E3 terminology work rather than guessed here.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

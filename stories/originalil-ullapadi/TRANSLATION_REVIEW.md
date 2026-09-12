@@ -27,3 +27,12 @@ All seven page markers, source-bold notice/program material, altered-notice word
 All six internal joins remain traceable, including 120→121 `அலட்சியம்` → `நிறைந்த வெறுப்பு`, 121→122 the shoulder/servant continuation, and 122→123 the order/distribution continuation.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 `கிரீடத்தின்` repair. No E2 prose repair was required. The manager's “exactly as in the original” instruction, Kandasami's ideological anger, Chettiar/Swami notice alterations, crowd ridicule, confrontation and final justification preserve the intended wordplay and narrative causality. Deliberately anomalous source forms and transliterations remain for E3/E4 rather than being normalized during meaning review.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No E1 defect was changed; regression fixture not required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 `கிரீடத்தின்` repair. No E2 prose repair was required. The manager's “exactly as in the original” instruction, Kandasami's ideological anger, Chettiar/Swami notice alterations, crowd ridicule, confrontation and final justification preserve the intended wordplay and narrative causality. Deliberately anomalous source forms and transliterations remain for E3/E4 rather than being normalized during meaning review.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.
