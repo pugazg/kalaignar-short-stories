@@ -19,4 +19,6 @@
 
 Totals: **6 / 6 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 6/6 PASS / Gate B 6/6 PASS — 2 historical-glyph repairs / 0 unresolved**. Repairs: scan 200 `காதலே` → `காதலை` (`லை`); scan 202 `என்னுல் தான்` → `என்னால் தான்` (`னா`).
+
 Physical next-story boundary witness: scan **205 / printed page 196** visibly opens Story 30 **`கடைசிக் கட்டம்`** and is not included in this workspace.

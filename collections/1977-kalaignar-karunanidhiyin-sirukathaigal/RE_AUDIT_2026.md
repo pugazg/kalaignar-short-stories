@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 28 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 29 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -134,8 +134,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 26 | `அபாக்ய சிந்தாமணி` | 181–188 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 27 | `பாலைவன ரோஜா` | 189–193 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 28 | `புரட்சிப் படம்` | 194–198 | **CURRENT PASS — 1 spacing repair / 0 unresolved** |
-| 29 | `திடுக்கிடும் கதை` | 199–204 | **NEXT — REOPENED** |
-| 30 | `கடைசிக் கட்டம்` | 205–210 | REOPENED / pending |
+| 29 | `திடுக்கிடும் கதை` | 199–204 | **CURRENT PASS — 2 repairs / 0 unresolved** |
+| 30 | `கடைசிக் கட்டம்` | 205–210 | **NEXT — REOPENED** |
 | 31 | `அய்யோ ராஜா!` | 211–217 | REOPENED / pending |
 | 32 | `விஷம் இனிது` | 218–224 | REOPENED / pending |
 | 33 | `வேணியின் காதலன்` | 225–230 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 29 `திடுக்கிடும் கதை`, scans **199–204 / printed 190–195**. Complete Gate A **6/6** + independent Gate B **6/6**; use scan **205** only as the Story 30 `கடைசிக் கட்டம்` boundary witness; advance **28/37 → 29/37** only with zero unresolved; stop before Story 30.
+Re-audit Story 30 `கடைசிக் கட்டம்`, scans **205–210 / printed 196–201**. Complete Gate A **6/6** + independent Gate B **6/6**; use scan **211** only as the Story 31 `அய்யோ ராஜா!` boundary witness; advance **29/37 → 30/37** only with zero unresolved; stop before Story 31.
 
 ### `தொத்துக்கிளி` closure
 
@@ -398,3 +398,18 @@ Full story record: `../../stories/palaivana-roja/RE_AUDIT_2026.md`.
 - scan 199 independently opens Story 29 `திடுக்கிடும் கதை`
 
 Full story record: `../../stories/puratchip-padam/RE_AUDIT_2026.md`.
+
+
+### `திடுக்கிடும் கதை` closure
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **2**
+- scan 200 `காதலே` → `காதலை` — historical `லை`
+- scan 202 `என்னுல் தான்` → `என்னால் தான்` — historical `னா`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- 2026-09-02 English page-anchor correction preserved
+- scan 205 independently opens Story 30 `கடைசிக் கட்டம்`
+
+Full story record: `../../stories/thidukkidum-kathai/RE_AUDIT_2026.md`.

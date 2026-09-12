@@ -51,9 +51,9 @@ The canonical Tamil was not modified during the English activity.
 
 Notable conservative choices include:
 
-- `திரும்பினர்கள்`, `காதலே மூடி மறைக்க`, `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `காதற் சொற்களின்`, and `வேற்றார் சென்று` are translated from immediate narrative sense without Tamil repair;
+- `திரும்பினர்கள்`, `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `காதற் சொற்களின்`, and `வேற்றார் சென்று` remain source-governed; the later 2026 source audit corrected historical-`லை` `காதலே மூடி மறைக்க` → `காதலை மூடி மறைக்க`, whose English meaning was already rendered correctly;
 - `கிழட்டுச் சிங்கம்` is rendered as the old lioness described by the scene;
-- `என்னுல் தான்` is translated by immediate meaning as “because of me alone,” while the Tamil remains unchanged;
+- the later 2026 glyph audit corrected historical-`னா` `என்னுல் தான்` → `என்னால் தான்`; the existing English “because of me alone” already matches the corrected source meaning;
 - `கண்காணச் சீமை` is rendered minimally as a far-off land rather than asserted as a specific place;
 - `கெளவிக்கொண்டிருந்தது` is represented as the sword being lodged/gripping the heart in context;
 - `சாக்காடென்னும் பூக்காட்டிற்கு`, `கர்ச்சனை`, `பரிபாலித்துவந்தான்`, visibly spaced `துரத்து வதாகவோ`, `இதுதானப்பா`, and `பாக்கியிருந்தது` remain source-governed in Tamil.
@@ -126,3 +126,16 @@ Regression application:
 **PASS — Story 29 English translation remains complete and is re-verified for physical source-page provenance after the marker-only correction.**
 
 No Tamil source issue was reopened and no English prose was retranscribed or retranslated.
+
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven Tamil repairs: **2**
+  - scan 200 `காதலே` → `காதலை` (`லை`)
+  - scan 202 `என்னுல் தான்` → `என்னால் தான்` (`னா`)
+- English prose rewrite required: **0**
+- 2026-09-02 page-anchor correction and `page-anchors.json`: **preserved unchanged**
+- unresolved source / historical-glyph readings: **0 / 0**

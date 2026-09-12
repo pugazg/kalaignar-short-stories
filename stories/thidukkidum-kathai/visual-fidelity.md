@@ -32,8 +32,13 @@ Scan 205 independently opens `கடைசிக் கட்டம்`; Story 3
 4. existing `காதல் கதை` and `வீரக்கதை` subsection headings retained;
 5. page map and story controls synchronized.
 
-**Story wording changed: No — structure/visual annotation only.**
+**Story wording changed: Yes — the 2026 dual-gate source reread corrected two historical-glyph identities (`காதலே` → `காதலை`; `என்னுல் தான்` → `என்னால் தான்`). Structure/visual annotation remains source-faithful.**
 
 ## Result
 
 **PASS — corrected**
+
+
+## 2026 dual-gate note
+
+Gate A **6/6 PASS** and Gate B **6/6 PASS**. Historical `லை` and `னா` repairs on scans 200 and 202 are synchronized; source-sensitive queue is **0 pending / 0 unresolved**.

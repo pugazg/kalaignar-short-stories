@@ -13,6 +13,23 @@ Canonical story workspace for **திடுக்கிடும் கதை**
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **2**
+  - scan 200: `காதலே` → `காதலை` (historical `லை`)
+  - scan 202: `என்னுல் தான்` → `என்னால் தான்` (historical `னா`)
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+- 2026-09-02 English page-anchor correction: **preserved unchanged**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 6 / 6 story pages transcribed and directly source-reviewed.**
@@ -30,7 +47,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 **PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
 
-Direct source review synchronized the scan-199 opening rule/enlarged initial and standalone source-note treatment, confirmed the `காதல் கதை` and `வீரக்கதை` subsection headings, classified scan-202 printer signature `க—13` as page furniture, and synchronized scan 204 to `story-ending` with its closing ornament. **Story wording changed: No.**
+Direct source review synchronized the scan-199 opening rule/enlarged initial and standalone source-note treatment, confirmed the `காதல் கதை` and `வீரக்கதை` subsection headings, classified scan-202 printer signature `க—13` as page furniture, and synchronized scan 204 to `story-ending` with its closing ornament. The 2026 dual-gate reread additionally corrected historical `லை` / `னா` identities on scans 200 and 202. **Story wording changed: Yes — two source-proven historical-glyph repairs.**
 
 ## Story boundary
 
@@ -64,7 +81,7 @@ The marker positions have now been re-anchored against the six verified Tamil pa
 
 ## Completion state
 
-**திடுக்கிடும் கதை Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 199–204 / printed pages 190–195. English review result: PASS.**
+**திடுக்கிடும் கதை is 2026 CURRENT PASS / CLOSED: Gate A 6/6 + Gate B 6/6, 2 source-proven historical-glyph repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 199–204 / printed pages 190–195. English review result: PASS.
 
 ## Next anthology English activity
 

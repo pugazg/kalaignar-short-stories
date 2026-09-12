@@ -17,9 +17,9 @@ All six story scans were directly reviewed from native **3146×4826** embedded p
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
 | 190 | 199 | verified | heading `திடுக்கிடும் கதை`; source note; `திரும்பினர்கள்`; ends `அதாவது;` |
-| 191 | 200 | verified | begins quoted lift notice; `காதல் கதை`; `ஓவிட்`; source-close `காதலே மூடி மறைக்க`; ends `...வேலை பார்த்து வந்தது.` |
+| 191 | 200 | verified | begins quoted lift notice; `காதல் கதை`; `ஓவிட்`; corrected historical-`லை` `காதலை மூடி மறைக்க`; ends `...வேலை பார்த்து வந்தது.` |
 | 192 | 201 | verified | love-story continuation; `அவள் வர்ணித்தபடி`, `வேற்றார் சென்று`; `மல்பெரி` / `மல்பரி`; ends with திஸ்பே turning toward the sound |
-| 193 | 202 | verified | lion and lovers' deaths; `என்னுல் தான்`, `கண்காணச் சீமை`, `கெளவிக்கொண்டிருந்தது`; ends split at `...பிணமாகச்` |
+| 193 | 202 | verified | lion and lovers' deaths; corrected historical-`னா` `என்னால் தான்`; source `கண்காணச் சீமை`, `கெளவிக்கொண்டிருந்தது`; ends split at `...பிணமாகச்` |
 | 194 | 203 | verified | completes `சாய்ந்து கிடந்தார்கள்.`; love-story close; `வீரக்கதை`; `கர்ச்சனை`, `துரத்து வதாகவோ`; ends `...மிரட்டலைக்` |
 | 195 | 204 | verified | completes `கண்ட கிளர்ச்சித் தலைவர்...`; Story 29 final staircase-key punchline and closing ornament |
 
@@ -46,8 +46,25 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+The 2026 dual-gate pass reopened every source-sensitive queue group. Two apparent readings were historical-glyph errors and were repaired individually: `காதலே` → `காதலை` (`லை`) and `என்னுல் தான்` → `என்னால் தான்` (`னா`). All remaining unusual forms were source-reconfirmed. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — திடுக்கிடும் கதை source range is fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — திடுக்கிடும் கதை source range is fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 6/6 PASS + Gate B 6/6 PASS, 2 repairs, 0 unresolved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **2**
+- scan 200: `காதலே` → `காதலை` — historical `லை`
+- scan 202: `என்னுல் தான்` → `என்னால் தான்` — historical `னா`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- 2026-09-02 English page-anchor correction: **preserved**
+- scan 205 independently reconfirmed as Story 30 `கடைசிக் கட்டம்`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

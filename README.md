@@ -53,7 +53,7 @@ Permanent guides:
 | [`அபாக்ய சிந்தாமணி`](stories/abagya-chinthamani/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 1 repair; 0 unresolved** | **PASS — synchronized** |
 | [`பாலைவன ரோஜா`](stories/palaivana-roja/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 0 new repairs; 0 unresolved** | **PASS — synchronized** |
 | [`புரட்சிப் படம்`](stories/puratchip-padam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 1 spacing repair; 0 unresolved** | **PASS — synchronized** |
-| [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
+| [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **6 / 6 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **7 / 7 pages verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
@@ -296,9 +296,9 @@ Source registration state:
 - story inventory: **37 / 37 registered**
 - story-opening scan checks: **37 / 37 complete**
 - legacy Tamil source processing: **37 / 37 complete**
-- 2026 dual-gate source re-audit: **OPEN — 28 / 37 CURRENT PASS**
-- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`, `பாலைவன ரோஜா`, `புரட்சிப் படம்`**
-- exact next story: **`திடுக்கிடும் கதை`, scans 199–204 / printed 190–195**
+- 2026 dual-gate source re-audit: **OPEN — 29 / 37 CURRENT PASS**
+- current closed stories: **`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`, `பாலைவன ரோஜா`, `புரட்சிப் படம்`, `திடுக்கிடும் கதை`**
+- exact next story: **`கடைசிக் கட்டம்`, scans 205–210 / printed 196–201**
 - English translation complete from anthology: **37 / 37**; affected English is synchronized when a 2026 source repair changes meaning
 
 Exact source metadata, inventory, scan map and current dual-gate tracker are under the collection workspace.
@@ -333,7 +333,7 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 26. **அபாக்ய சிந்தாமணி** — printed **172–179**, scans **181–188** — **2026 CURRENT PASS: Gate A 8/8 + Gate B 8/8; 1 repair; 0 unresolved**.
 27. **பாலைவன ரோஜா** — printed **180–184**, scans **189–193** — **2026 CURRENT PASS: Gate A 5/5 + Gate B 5/5; 0 new repairs; 0 unresolved**.
 28. **புரட்சிப் படம்** — TOC `புரட்சிப்படம்`, printed **185–189**, scans **194–198** — **2026 CURRENT PASS: Gate A 5/5 + Gate B 5/5; 1 spacing repair; 0 unresolved**.
-29. **திடுக்கிடும் கதை** — printed **190–195**, scans **199–204**, **6/6 verified**, audit PASS.
+29. **திடுக்கிடும் கதை** — printed **190–195**, scans **199–204** — **2026 CURRENT PASS: Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved**.
 30. **கடைசிக் கட்டம்** — printed **196–201**, scans **205–210**, **6/6 verified**, audit PASS.
 31. **அய்யோ ராஜா!** — printed **202–208**, scans **211–217**, **7/7 verified**, audit PASS.
 32. **விஷம் இனிது** — printed **209–215**, scans **218–224**, **7/7 verified**, audit PASS.
@@ -343,7 +343,7 @@ Exact source metadata, inventory, scan map and current dual-gate tracker are und
 36. **சித்தார்த்தன் சிலை** — TOC `சித்தார்த்தன்`, printed **241–243**, scans **250–252**, **3/3 verified**, audit PASS.
 37. **நுனிக்கரும்பு** — printed **244–250**, scans **253–259**, **7/7 verified**, audit PASS.
 
-All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **28 / 37 CURRENT PASS, 9 pending**, with `திடுக்கிடும் கதை` next.
+All thirty-seven retain complete legacy Tamil assemblies and reviewed English translations. Current release confidence is governed by the 2026 dual-gate tracker: **29 / 37 CURRENT PASS, 8 pending**, with `கடைசிக் கட்டம்` next.
 
 ### Story 37 — நுனிக்கரும்பு
 
@@ -367,9 +367,9 @@ Canonical workspace: [`stories/nunikkarumbu/`](stories/nunikkarumbu/README.md)
 
 ## Anthology Tamil source pass status
 
-**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 28 / 37 CURRENT PASS.**
+**Legacy coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 29 / 37 CURRENT PASS.**
 
-The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `திடுக்கிடும் கதை`, scans **199–204 / printed pages 190–195**.
+The legacy source layer remains complete through scan **259 / printed page 250**, with scan **260** as the verified back cover. It is the comparison baseline; current 2026 release confidence requires both independent gates story by story. Next exact activity is `கடைசிக் கட்டம்`, scans **205–210 / printed pages 196–201**.
 
 ## Anthology English translation status
 
@@ -377,7 +377,7 @@ The legacy source layer remains complete through scan **259 / printed page 250**
 
 - Stories **1–37**: English layers exist and were previously reviewed;
 - any English materially affected by a 2026 Tamil repair is resynchronized during that story's dual-gate closure;
-- `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`, `பாலைவன ரோஜா`, and `புரட்சிப் படம்` English are synchronized to their current 2026 Tamil;
+- `புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`, `முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`, `பாலைவன ரோஜா`, `புரட்சிப் படம்`, and `திடுக்கிடும் கதை` English are synchronized to their current 2026 Tamil;
 - final English story boundary: scan **259 / printed page 250**;
 - scan **260** remains the verified anthology back cover;
 - translation workflow: [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md);

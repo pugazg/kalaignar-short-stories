@@ -36,4 +36,9 @@ All six story pages are native high-resolution scan images at **3146×4826** pix
 
 ## Source-sensitive forms
 
-Source-close forms retained include `திரும்பினர்கள்`, `காதலே மூடி மறைக்க`, `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `வேற்றார் சென்று`, the varying `மல்பெரி` / `மல்பரி` forms, `என்னுல் தான்`, `இளையவளாம்`, `கண்காணச் சீமை`, `கெளவிக்கொண்டிருந்தது`, `வனப்புகொள்`, `சாக்காடென்னும் பூக்காட்டிற்கு`, `கர்ச்சனை`, visibly spaced `துரத்து வதாகவோ`, `இதுதானப்பா`, and `பாக்கியிருந்தது`. These are preserved rather than silently normalized and are also recorded in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for later human rechecking.
+The current source-close layer retains `திரும்பினர்கள்`, `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `வேற்றார் சென்று`, the varying `மல்பெரி` / `மல்பரி` forms, `இளையவளாம்`, `கண்காணச் சீமை`, `கெளவிக்கொண்டிருந்தது`, `வனப்புகொள்`, `சாக்காடென்னும் பூக்காட்டிற்கு`, `கர்ச்சனை`, visibly spaced `துரத்து வதாகவோ`, `இதுதானப்பா`, and `பாக்கியிருந்தது`. The 2026 independent glyph pass corrected source identities `காதலே` → `காதலை` and `என்னுல் தான்` → `என்னால் தான்`. No lexical modernization was applied.
+
+
+## 2026 dual-gate note
+
+All six story scans were independently reopened at native **3146×4826** resolution. Two historical-glyph corrections were made: scan 200 `காதலே` → `காதலை` (`லை`) and scan 202 `என்னுல் தான்` → `என்னால் தான்` (`னா`). All other queue candidates were source-reconfirmed. Unresolved source/glyph readings: **0 / 0**. Scan 205 was independently reconfirmed as Story 30 `கடைசிக் கட்டம்`.
