@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `bd6724ad22ab2d3c0c5c8ee44ec8ff946674489f` — `Close புரட்சிப் படம் 2026 dual-gate`
+- refreshed live checkpoint: `84daa117c2be7d3451d75d7f024297f30ff5724c` — `Close திடுக்கிடும் கதை 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 28 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 29 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -65,25 +65,24 @@ Current tracker state: **OPEN — 28 / 37 dual-gate complete**.
 - `அபாக்ய சிந்தாமணி` — scans **181–188** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**; scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all 11 legacy queue items resolved; English prose rewrite 0.
 - `பாலைவன ரோஜா` — scans **189–193** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; all 15 legacy pending candidates source-reconfirmed; English prose rewrite 0.
 - `புரட்சிப் படம்` — scans **194–198** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 spacing repair / 0 unresolved**; source `இடத்தில் தான்` restored; TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்` preserved; English prose rewrite 0.
+- `திடுக்கிடும் கதை` — scans **199–204** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 historical-glyph repairs / 0 unresolved**; `காதலே` → `காதலை` (`லை`), `என்னுல் தான்` → `என்னால் தான்` (`னா`); English prose rewrite 0; 2026-09-02 English page-anchor correction preserved.
 
-Do not reopen these twenty-eight stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-nine stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 29 `திடுக்கிடும் கதை`
+## Exact next activity — Story 30 `கடைசிக் கட்டம்`
 
-Workspace: `stories/thidukkidum-kathai/`.
+Workspace: `stories/kadaisi-kattam/`.
 
-- scans **199–204 / printed 190–195**
+- scans **205–210 / printed 196–201**
 - canonical pages **6/6**
-- scan **205** is the boundary witness opening Story 30 `கடைசிக் கட்டம்`
+- scan **211** is the boundary witness opening Story 31 `அய்யோ ராஜா!`
 - legacy human-review queue: **0 pending** at the legacy layer
 - source-sensitive checked forms to reopen during Gate A/B:
-  - [x] scan 199 / printed 190 — `சிலநாட்கள்` and `திரும்பினர்கள்` retained as printed.
-  - [x] scan 200 / printed 191 — `ஓவிட்` and `காதலே மூடி மறைக்க` retained; the latter is not silently changed to an expected grammatical form.
-  - [x] scan 201 / printed 192 — `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `காதற் சொற்களின்`, and `வேற்றார் சென்று` retained.
-  - [x] scan 201 / printed 192 — the source varies `மல்பெரி` earlier on the page and `மல்பரி` later; both forms are preserved.
-  - [x] scan 202 / printed 193 — `கிழட்டுச் சிங்கம்`, `என்னுல் தான்`, `இளையவளாம்`, `வனப்புகொள்`, `கண்காணச் சீமை`, and `கெளவிக்கொண்டிருந்தது` retained after full-span inspection.
-  - [x] scan 203 / printed 194 — `சாக்காடென்னும் பூக்காட்டிற்கு`, `கர்ச்சனை`, `பரிபாலித்துவந்தான்`, and visibly spaced `துரத்து வதாகவோ` retained.
-  - [x] scan 204 / printed 195 — `இதுதானப்பா` and `பாக்கியிருந்தது` retained.
-- English provenance note: the six English source-page markers were corrected on 2026-09-02; prose was unchanged. Preserve the current anchored English unless a new Tamil source repair materially changes meaning.
+  - [x] scan 205 / printed 196 — opening address `கனம் நீதிபதி` retained; bold `டாக்டர் பாபு` preserved.
+  - [x] scan 206 / printed 197 — bold `மஞ்சுளாவை`; source-close `நீலக்குறு நயனங்கள்`, `நாகரீக நாரீமணி`, and `கேட்டா தெரிந்துகொள்ளவேண்டும்` retained.
+  - [x] scan 207 / printed 198 — `இல்ல ஊருக்குப் போயிருக்கிறார்`, visibly spaced `கூச்சத் தோடு`, and unusual `எனக் கொன்றும் ஆட்சேபணை இல்லை` retained.
+  - [x] scan 208 / printed 199 — `ஒரு மாதம்—இரண்டு மாதம்—மூன்று மாதம்`, `போகப்போகிறார்கள்`, and `‘ரிவால்வர்’ சகிதம்` retained.
+  - [x] scan 209 / printed 200 — letter forms `சீர்திருந்து`, `உள்ளங் கவர்ந்த`; `சுட்டுக்கொண்டே யிருந்தேன்`; `அலட்சிய சுபாவத்தோடு`; page ends at split `நடிப்ப`.
+  - [x] scan 210 / printed 201 — begins split continuation `தற்கு`; `டிஸ்மிஸ்`, `‘மேக்கப்பை’`, and final stage-company punchline retained.
 
-Complete Gate A **6/6** and independent Gate B **6/6**; reopen all source-sensitive checked forms directly against source pixels; preserve the source note, `காதல் கதை` / `வீரக்கதை` subsection structure, scan-202 printer signature `க—13` as excluded furniture, and the English page-anchor correction; correct only source-proven mismatches; synchronize controls/affected English; advance **28/37 → 29/37** only with zero unresolved; stop before Story 30.
+Complete Gate A **6/6** and independent Gate B **6/6**; reopen all source-sensitive checked forms directly against source pixels; preserve source-bold `டாக்டர் பாபு` / `மஞ்சுளாவை`, the Kokila letter/sign-off structure, scan 209→210 split `நடிப்ப` → `தற்கு`, and scan 210 closing ornament; correct only source-proven mismatches; synchronize controls/affected English; advance **29/37 → 30/37** only with zero unresolved; stop before Story 31.
