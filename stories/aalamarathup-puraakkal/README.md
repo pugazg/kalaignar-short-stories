@@ -1,72 +1,55 @@
 # ஆலமரத்துப் புறாக்கள்
 
-Canonical story workspace for **ஆலமரத்துப் புறாக்கள்**, processed from the 1977 anthology **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
+Canonical Story 21 workspace from the 1977 first edition of **கலைஞர் கருணாநிதியின் சிறுகதைகள்**.
 
 ## Source
 
-- Author: **கலைஞர் மு. கருணாநிதி**
-- Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
-- Collection edition: **முதல் பதிப்பு: 1977**
-- Printed pages: **142–146**
-- PDF scans: **151–155**
-- Source PDF committed to GitHub: **No**
+- controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+- SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
+- printed pages: **142–146**
+- scans: **151–155**
+- source PDF committed: **No**
+- boundary witness: scan **156** opens Story 22 `தொத்துக்கிளி`
 
-Full source metadata: [`metadata/source.md`](metadata/source.md).
+## 2026 status
 
-## Tamil archival status
+**CURRENT PASS / CLOSED**
 
-**PASS — 5 / 5 story pages transcribed and directly source-reviewed.**
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **89**
+  - scan 151: **8** — one wording repair plus seven historical-`றா` repairs
+  - scan 152: **20** historical-`றா` repairs
+  - scan 153: **29** historical-`றா` repairs
+  - scan 154: **24** historical-`றா` repairs
+  - scan 155: **8** historical-`றா` repairs
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
 
-- page records: **5 / 5**
-- `verified`: **5**
-- `needs-review`: **0**
-- `blocked`: **0**
-- explicit missing / unresolved story text: **0**
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md).  
-Audit: [`audit.md`](audit.md).
+## Key correction
 
-## Reading layer
+The body typeface uses the pre-reform **`றா`** form that can resemble modern `று`. The legacy transcription therefore misread **88** pigeon-root occurrences as `புறு...`; the source identity is `புறா...` throughout those positions. A same-edition confirmed comparator is scan 64 `தவறாக`, whose historical `றா` has the same old form.
 
-Final current Tamil assembly: [`sections/aalamarathup-puraakkal.md`](sections/aalamarathup-puraakkal.md).
+Scan 151 also has one independent Gate-A wording repair: `ஓர் இளத்த புறா` → `ஓர் இளம் புறா` in the first young-pigeon reference. The later `ஓர் இளத்த புறா` is source-confirmed and retained.
 
-The assembly preserves all five anthology scan boundaries. Scan 156, which opens `தொத்துக்கிளி`, is excluded.
+## Canonical layers
 
-## Human possible-error review
+- pages: [`pages/`](pages/)
+- assembled Tamil: [`sections/aalamarathup-puraakkal.md`](sections/aalamarathup-puraakkal.md)
+- source audit: [`audit.md`](audit.md)
+- possible-error disposition: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md)
+- visual fidelity: [`visual-fidelity.md`](visual-fidelity.md)
 
-[`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic, colloquial or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
+## English
 
-High-value source-close readings include repeated `புறு` / `புறுக்கள்`, `சங்கீதப்புறு`, `அல்மோதிக்`, `வந்தேன் எமாத்தினேன்`, `கொள்வினை கொடுப்பினை`, `விடுதலை விருத்தம்`, `வெற்றி முரசொலி`, `கவர்ப்புறு`, `மரத்தின்கீழ்`, `கங்காணி`, `இஷ்டபூர்வமான`, `“தல”யால்`, `“சக்தி”யைத்`, the source-emphasized `இது வல்லூறின் மரம்`, and the source-emphasized final `வல்லூறை விரட்டுவதுதான்!`.
-
-## Verified physical continuations
-
-- printed 142→143 / scans 151→152: `...மரத்தின் கிளையிலே அமரும்` → `வல்லூறு!`.
-- printed 143→144 / scans 152→153: `...இதற்குக் காரணம்` → `கவர்ப்புறுவின் செயல்தானே;`.
-
-## Visual fidelity
-
-**PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
-
-Opening/ending rules, the repeated source `புறு` forms, source-bold `“இது வல்லூறின் மரம்”`, and final source-bold `வல்லூறை விரட்டுவதுதான்!` remain synchronized. **Story wording changed: No.**
-
-## Story boundary
-
-- scan **151** opens this story;
-- scan **155** contains the story ending and closing ornament;
-- scan **156** independently opens `தொத்துக்கிளி` and is excluded.
-
-## English translation
-
-**PASS — complete.**
+English is synchronized to the repaired Tamil. The previous `purru` transliteration was downstream of the historical-`றா` misread; **83** affected English tokens are now `puraa`. Narrative order and page traceability are unchanged.
 
 - English: [`translations/en/aalamarathup-puraakkal.md`](translations/en/aalamarathup-puraakkal.md)
-- translation review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
-- all **5 / 5** source-page markers represented
-- physical continuations **151→152** and **152→153** remain traceable
-- repeated `புறு` vocabulary and compound labels are handled conservatively rather than silently normalized
-- source-bold anti-`வல்லூறு` statements and the full allegorical sequence are preserved
-- canonical Tamil changed during translation: **No**
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
-## Completion state
+## Boundary
 
-**ஆலமரத்துப் புறாக்கள் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 151–155 / printed pages 142–146.**
+Scan **155** ends the story with the source-bold `வல்லூறை விரட்டுவதுதான்!` and closing ornament. Scan **156** independently opens `தொத்துக்கிளி`; no Story 22 text is included here.

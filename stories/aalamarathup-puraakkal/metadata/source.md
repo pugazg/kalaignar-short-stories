@@ -10,17 +10,16 @@
 - Collection edition: **முதல் பதிப்பு: 1977**
 - Author line: **கலைஞர் மு. கருணாநிதி**
 - Publisher: **தமிழ்க்கனி பதிப்பகம், சென்னை-28**
-- Story TOC title: **ஆலமரத்துப் புறாக்கள்**
-- Story-opening heading: **ஆலமரத்துப் புறாக்கள்**
+- Story title: **ஆலமரத்துப் புறாக்கள்**
 - Printed story pages: **142–146**
-- PDF scan pages: **151–155**
+- PDF scans: **151–155**
 - Source PDF committed to GitHub: **No**
 
 ## Pagination
 
-For this anthology story block, `scan page = printed page + 9`.
+For this block, `scan = printed page + 9`.
 
-| Scan | Printed page |
+| Scan | Printed |
 |---:|---:|
 | 151 | 142 |
 | 152 | 143 |
@@ -28,19 +27,37 @@ For this anthology story block, `scan page = printed page + 9`.
 | 154 | 145 |
 | 155 | 146 |
 
-Scan **156** begins the next story, **தொத்துக்கிளி**, and is not part of this story.
+Scan **156** opens Story 22 `தொத்துக்கிளி`.
 
 ## Source condition
 
-The five story pages are high-resolution scan images. Native embedded page images at **3146×4826** pixels were inspected directly, including enlarged full-span crops for source-sensitive wording, punctuation, emphasis and physical page continuations. No source PDF, render or crop image is stored in GitHub.
+All five story pages are high-resolution image scans. Native embedded images are **3146×4826** pixels. The 2026 dual-gate review independently reopened every page at native/high resolution; scan 156 was checked only as the next-story boundary witness.
 
-## Story boundary
+## Historical-glyph finding
 
-- Scan **151** visibly opens with the heading `ஆலமரத்துப் புறாக்கள்`.
-- Scan **155** contains the story conclusion and ornamental closing rule.
-- Scan **156** visibly opens `தொத்துக்கிளி`.
-- Therefore the exact Story 21 physical range is scans **151–155** / printed pages **142–146**.
+The body font carries a pre-reform **`றா`** form that is visually confusable with modern `று`. A same-edition confirmed comparator is scan 64 `தவறாக`. Re-reading Story 21 by character identity establishes that the apparent legacy `புறு` / compounds are **`புறா` / compounds**.
 
-## Source-sensitive forms
+The 2026 repair therefore decodes 88 occurrences such as `புறா`, `புறாக்கள்`, `சங்கீதப்புறா`, `கரும்புறா`, `வெண்புறா`, `கவர்ப்புறா`, `கருப்புப்புறாவும்` and `வெள்ளைப்புறாவும்`. This is glyph decoding, not lexical modernization.
 
-The scan repeatedly prints the abbreviated-looking form `புறு` / `புறுக்கள்` alongside the title form `புறாக்கள்`; these readings are preserved rather than silently normalized. Other source-close forms retained include `அல்மோதிக்`, `வந்தேன் எமாத்தினேன்`, `கொள்வினை கொடுப்பினை`, `விடுதலை விருத்தம்`, `வெற்றி முரசொலி`, `கவர்ப்புறு`, `கங்காணி`, `“தல”யால்`, `“சக்தி”யைத்` and the bold source phrases `இது வல்லூறின் மரம்` and `வல்லூறை விரட்டுவதுதான்!`. These remain available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+## Source-sensitive forms retained
+
+Direct source review retains, among others:
+
+- `வான்கோழியின் வறட்டுமதிபற்றிக் கேள்விப்பட்டார்களா?`
+- the later `ஓர் இளத்த புறா` on scan 151
+- `அல்மோதிக்`
+- `வந்தேன் எமாத்தினேன்`
+- `கொள்வினை கொடுப்பினை`
+- `விடுதலை விருத்தம்`
+- `வெற்றி முரசொலி`
+- `தன் வசப் படுத்திக்கொண்டது`
+- `இந்த நிலமையைக்`
+- `மரத்தின்கீழ்`
+- `கங்காணி`
+- `இஷ்டபூர்வமான`
+- `“தல”யால்`
+- `“சக்தி”யைத்`
+- source-bold `இது வல்லூறின் மரம்`
+- source-bold final `வல்லூறை விரட்டுவதுதான்!`
+
+Scan 151's first young-pigeon phrase is source-confirmed as `ஓர் இளம் புறா`, not the legacy `ஓர் இளத்த புறா`.

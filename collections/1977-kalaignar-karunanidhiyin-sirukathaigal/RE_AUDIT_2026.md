@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 20 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 21 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -274,6 +274,21 @@ Full story record: `../../stories/pretha-visaranai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/kandathum-kadhal-ozhiga/RE_AUDIT_2026.md`.
 
+### `ஆலமரத்துப் புறாக்கள்` closure
+
+- scans **151–155 / printed 142–146**
+- Gate A **5/5 PASS**
+- Gate B **5/5 PASS**
+- **89 source-proven repairs / 0 unresolved**
+- scan 151: first `ஓர் இளத்த புறா` → `ஓர் இளம் புறா`
+- scans 151–155: **88** historical-`றா` repairs, legacy `புறு...` → source-identity `புறா...`
+- per-page historical-`றா` distribution: **7 / 20 / 29 / 24 / 8**
+- same-edition comparator: scan 64 `தவறாக`
+- English affected terminology synchronized: `purru` → `puraa`
+- scan 156 independently opens Story 22 `தொத்துக்கிளி`
+
+Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Re-audit Story 21 `ஆலமரத்துப் புறாக்கள்`, scans **151–155 / printed 142–146**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **156** only as the `தொத்துக்கிளி` boundary witness; advance **20/37 → 21/37** only with zero unresolved; stop before Story 22.
+Re-audit Story 22 `தொத்துக்கிளி`, scans **156–160 / printed 147–151**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **161** only as the Story 23 `காதல் கடிதம்` boundary witness; advance **21/37 → 22/37** only with zero unresolved; stop before Story 23.
