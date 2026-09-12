@@ -38,3 +38,18 @@ Ordinary plural narration that already used **pigeons** remains unchanged.
 ## Result
 
 **PASS — English synchronized to the 2026 verified Tamil.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **5/5 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **2 structure-traceability annotations**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All four joins remain traceable, including 151→152 `...கிளையிலே அமரும்` → `வல்லூறு!` and 152→153 the hunter-cause continuation. The missing opening-rule and enlarged-initial traceability comments were added; no prose changed.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

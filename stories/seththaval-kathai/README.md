@@ -33,3 +33,13 @@ Canonical Tamil [`sections/seththaval-kathai.md`](sections/seththaval-kathai.md)
 ## Next
 
 Story 19 **பிரேத விசாரணை** — scans **140–145 / printed 131–136**. Use scan **146** only as the boundary witness opening `கண்டதும் காதல் ஒழிக!`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **9/9**
+- E1 repairs: **1 structure-traceability annotation**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

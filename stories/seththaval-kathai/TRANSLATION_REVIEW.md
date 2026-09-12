@@ -10,3 +10,18 @@ The 2026 Tamil re-audit closed Gate A **9/9** and Gate B **9/9** with **0 new re
 All nine source-page markers, three separately lineated fire refrains, Govindan/Sellayi sequence, Ellappan confrontation, killing, cremation, final title emphasis and `மங்களம்` remain represented in source order. Story 19 text remains excluded.
 
 **PASS — synchronized to the 2026 dual-gate Tamil.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **9/9 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 structure-traceability annotation**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All eight joins remain traceable, including 134→135 the iron-rod action and 135→136 `ஒவ்வொரு எழுத்தும்` → `நடுங்கின`. The opening five-line fire stanza was already preserved in lineation; the missing opening-rule traceability comment was added.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

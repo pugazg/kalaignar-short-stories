@@ -1,6 +1,8 @@
 # Aalamarathup Puraakkal
 
 <!-- source scan 151; printed page 142 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening அ in அருவிகளின் marks the first paragraph -->
 
 The murmuring sound of waterfalls, the songs plucked by cuckoos with that sound as their sruti, and the dances shown by peacocks in tune with them made the whole forest shine like a beautiful city.
 

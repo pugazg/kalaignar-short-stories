@@ -53,3 +53,13 @@ English is synchronized to the repaired Tamil. The previous `purru` transliterat
 ## Boundary
 
 Scan **155** ends the story with the source-bold `வல்லூறை விரட்டுவதுதான்!` and closing ornament. Scan **156** independently opens `தொத்துக்கிளி`; no Story 22 text is included here.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **5/5**
+- E1 repairs: **2 structure-traceability annotations**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

@@ -1,6 +1,7 @@
 # Seththaval Kathai
 
 <!-- source scan 131; printed page 122 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
 
 “The fire first set—in the three cities!
 The fire set later—in southern Lanka!

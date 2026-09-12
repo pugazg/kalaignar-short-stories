@@ -12,3 +12,18 @@ Tamil repair: scan 145 `சகுனத்தடை` → `சகுனத் த
 All six page markers, hospital refusal, landlord contrast, Karuppayi backstory, temple-entry crowd, recovery of the body and final social diagnosis remain complete. Story 20 text remains excluded.
 
 **PASS — synchronized to the 2026 dual-gate Tamil.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **6/6 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 page-anchor repair + 2 structure-traceability annotations**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+One page-anchor defect was repaired at 140→141. Tamil scan 140 ends after the keys are taken `...சாவிக் கொத்தை எடுத்து விரலில்`; scan 141 begins `சுழற்றிக்கொண்டே நகர ஆரம்பித்தார்...`. The English had already moved and spun the keys before the marker. It now ends scan 140 with the keys slipped onto his finger and begins scan 141 with the movement/spinning action. The missing opening rule and enlarged-initial annotations were also restored.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

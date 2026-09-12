@@ -1,16 +1,18 @@
 # Pretha Visaranai
 
 <!-- source scan 140; printed page 131 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source enlarged initial: opening ட in டாக்டர் marks the first paragraph -->
 
 Dr. Pichumoorthi was turning the pages of a book on good conduct while spreading the smoke of a ‘Wills’ cigarette throughout the room. Compounder Kandasami Naidu arranged the medicine bottles neatly and locked the cupboard. After adjusting his blue coat once, he went toward the ‘operation room’, switched off the ‘five-hundred-power’ electric lamp burning there, and tapped a kannappu-kannathapadi powder tin. The clock struck ‘taan taan’; it was nine. “Lock up quickly and let us leave,” the doctor said, throwing away his cigarette and tossing the book onto the table as he rose.
 
 From the street came the beat of a drum, followed by a man’s voice. “Tomorrow morning at eight o’clock, at Vinai Theertha Swami Temple, Harijan temple entry will take place with great ceremony. Devotees, come...come.” It was an advertisement for temple entry. “What, Compounder! The town is in an uproar—surely all of you agree with it?” The doctor asked the question and looked eagerly at Naidu’s face.
 
-“What is it to us, sir....those who sow millet....will reap millet....hm....the world is going to turn upside down, go on,” Naidugaru said wearily, taking the bunch of keys and beginning to move away while spinning it on his finger—
+“What is it to us, sir....those who sow millet....will reap millet....hm....the world is going to turn upside down, go on,” Naidugaru said wearily, taking the bunch of keys and slipping them onto his finger—
 
 <!-- source scan 141; printed page 132 -->
 
-as he walked. Dr. Pichumoorthi switched off the ‘office light’ too and came outside.
+then began moving away, spinning them as he went. Dr. Pichumoorthi switched off the ‘office light’ too and came outside.
 
 The two were coming out. In the darkness, only the light near the entrance could be seen dimly. Near the hospital doorstep a figure came forward with faltering steps. “Ah....ayyo.....appa sami....” It came a little faster and climbed the hospital steps.
 

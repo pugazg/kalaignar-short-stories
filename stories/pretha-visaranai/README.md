@@ -34,3 +34,13 @@ Existing English remains semantically synchronized; **English prose rewrite requ
 ## Next
 
 Story 20 **கண்டதும் காதல் ஒழிக!** — scans **146–150 / printed 137–141**. Use scan **151** only as the boundary witness opening Story 21, as established by the live collection controls.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **6/6**
+- E1 repairs: **1 page-anchor repair + 2 structure-traceability annotations**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

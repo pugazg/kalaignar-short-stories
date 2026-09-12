@@ -33,3 +33,13 @@ Canonical Tamil [`sections/kandathum-kadhal-ozhiga.md`](sections/kandathum-kadha
 ## Next
 
 Story 21 **ஆலமரத்துப் புறாக்கள்** — scans **151–155 / printed 142–146**. Use scan **156** only as the boundary witness opening Story 22 `தொத்துக்கிளி`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **5/5**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
