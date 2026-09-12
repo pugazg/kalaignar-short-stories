@@ -49,7 +49,7 @@ The 2009 witness is materially revised. It includes lexical, spelling, spacing, 
 Witness details: [`../witnesses/2009-16-kathaiyinile/README.md`](../witnesses/2009-16-kathaiyinile/README.md)  
 Variant record: [`../witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`](../witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md)
 
-The 2009 edition also supplies divergent readings such as `அவா, உள்ளத்தில்`, `முழங்கால்`, and `ஈன குரத்தை` where the current 1977 canonical layer has different forms. These are **comparison evidence only** until the exact 1977 controlling scan is reopened. The 1977 source was not available for fresh scan-level reinspection during this witness phase, so no canonical Tamil change was made.
+The 2009 edition supplied high-value recheck candidates. The 2026 controlling-source pass has now reopened them directly: 1977 **retains** `அவள் உள்ளத்தில்` and `முழுங்கால்`, while legacy `சன சுரத்தை` is corrected to source `ஈன குரத்தை`. The later-edition epilogue remains comparison evidence only and is not imported.
 
 ## Boundaries
 
@@ -60,3 +60,7 @@ Scan **249** contains Story 35's final paragraph and ornamental closing mark. Sc
 ### 2009 additional witness
 
 Scan **81 / printed 76** contains the later-edition epilogue conclusion and five closing ornaments. Scan **82 / printed 77** visibly opens `புகழேந்தி` and is excluded from the `சுமந்தவள்` witness.
+
+## 2026 dual-gate note
+
+All eleven 1977 story scans were independently reopened at native **3146×4826** resolution. Seven repairs were synchronized: scan 239 `திரு திருவென்று` → `துரு துருவென்று`; five historical-`ணா` `அண்ணு` → `அண்ணா` repairs across scans 241–242; and scan 246 `சன சுரத்தை` → `ஈன குரத்தை`. The later-witness alternatives `அவா, உள்ளத்தில்` and `முழங்கால்` were rejected for the 1977 layer after direct pixel reinspection. Unresolved source/glyph readings: **0 / 0**.

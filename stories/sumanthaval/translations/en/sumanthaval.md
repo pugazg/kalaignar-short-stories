@@ -116,7 +116,7 @@ Amid the shouting of a battlefield, as though somewhere the string of a veena ha
 
 “Dogs, cats, cows and monkeys all feed their young. Do you not possess even the feeling of motherhood that they have?”
 
-That soft note was immediately suppressed, and a crazed voice thundered loudly enough to deafen the ear.
+That feeble voice was immediately suppressed, and a crazed voice thundered loudly enough to deafen the ear.
 
 “Dogs, cats, cows and monkeys feed their young. But they have no worry about their beauty being ruined—or their youth declining! Are they going to stroll on the beach with four people? Must they go to the cinema every day? Do they have the burden of going on picnics with friends? Among women of high society who come to parties and entertainments, letting their clothes fall loose and displaying all the splendour of youth like Ajanta paintings and Mamallapuram sculptures, it is the honour of a woman of this age to appear without losing even the little measure of youth she has! Should you abandon that merely to protect a meaningless word called ‘motherhood’ and sit with your head bowed among four people? Your beauty, woman with mango-fruit skin! Do not bury the fullness of your youth in the dust!”
 

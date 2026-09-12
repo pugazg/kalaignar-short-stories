@@ -29,10 +29,15 @@ Scan 250 opens `சித்தார்த்தன் சிலை` and is exc
 
 ## Corrections made in this phase
 
-None. The page roles, paragraph structure, source-sensitive wording and final ornament were already source-faithful.
+Seven source-proven text repairs were synchronized by the 2026 source reread: scan 239 `துரு துருவென்று`, five historical-`ணா` `அண்ணா` repairs on scans 241–242, and scan 246 `ஈன குரத்தை`. Page roles, joins and final ornament remain source-faithful.
 
-**Story wording changed: No.**
+**Story wording changed: Yes — 7 source-proven repairs.**
 
 ## Result
 
 **PASS**
+
+
+## 2026 dual-gate note
+
+Gate A **11/11 PASS** and Gate B **11/11 PASS**. All 1977 queue entries, strong 2009 witness candidates and mandatory historical-glyph families were independently rechecked; **0 unresolved** remain. The 2009-only epilogue remains excluded.

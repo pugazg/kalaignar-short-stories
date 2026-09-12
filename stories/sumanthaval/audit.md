@@ -18,14 +18,14 @@ Apparent difficult readings were reopened when needed. The older typeface resolv
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
-| 230 | 239 | verified | opening `சுமந்தவள்`; narrator reflects on his mother |
+| 230 | 239 | verified | opening `சுமந்தவள்`; narrator reflects on his mother; corrected source `துரு துருவென்று` |
 | 231 | 240 | verified | motherhood questions lead to conversation with mother |
-| 232 | 241 | verified | mother's illustrative story begins |
-| 233 | 242 | verified | சேகர் agrees to marriage with மரகதம் |
+| 232 | 241 | verified | mother's illustrative story begins; four historical-`ணா` `அண்ணா` repairs |
+| 233 | 242 | verified | சேகர் agrees to marriage with மரகதம்; historical-`ணா` `உன் அண்ணா` repair |
 | 234 | 243 | verified | unequal household treatment becomes explicit; page ends open |
 | 235 | 244 | verified | both women become mothers; செளந்தரி's fear of bodily change; page ends open |
 | 236 | 245 | verified | nursing/beauty conflict and animal-mother images |
-| 237 | 246 | verified | inner-voice argument; மரகதம் nurses both children |
+| 237 | 246 | verified | inner-voice argument; corrected source `ஈன குரத்தை`; மரகதம் nurses both children |
 | 238 | 247 | verified | சேகர்'s patience breaks; night of sick children; page ends open |
 | 239 | 248 | verified | quarrel escalates to armed confrontation |
 | 240 | 249 | verified | செளந்தரி collapses; doctor diagnoses `டி.பி.—எலும்புருக்கி`; closing ornament |
@@ -98,8 +98,26 @@ The 1977 controlling PDF was not available for a fresh scan-level reinspection d
 
 ## Human-review layer
 
-Source-sensitive but legible 1977 forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. The 2009 witness adds comparative evidence without silently modernizing the controlling edition.
+The 2026 dual-gate pass reopened every 1977 queue entry and mandatory historical-glyph family. Seven source-proven repairs were applied. The 2009 witness remains comparative only; `அவள் உள்ளத்தில்` and `முழுங்கால்` were directly retained from 1977, and the later epilogue was not imported. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — the 1977 canonical source range remains fully transcribed and structurally source-complete: 11/11 verified, 0 blocked, 0 unresolved story text. The 2009 additional-witness comparison is also COMPLETE for 18/18 scans, with all edition differences kept explicit and the canonical 1977 layer unchanged.**
+**PASS — the 1977 canonical source range is 2026 CURRENT PASS / CLOSED: Gate A 11/11 PASS + Gate B 11/11 PASS, 7 repairs, 0 unresolved. The 2009 witness remains explicitly non-controlling.**
+
+
+## 2026 dual-gate re-audit
+
+- Gate A: **11/11 PASS**
+- Gate B: **11/11 PASS**
+- source-proven repairs: **7**
+- scan 239 `திரு திருவென்று` → `துரு துருவென்று`
+- scan 241: four `அண்ணு` → `அண்ணா` — historical `ணா`
+- scan 242: one `அண்ணு` → `அண்ணா` — historical `ணா`
+- scan 246 `சன சுரத்தை` → `ஈன குரத்தை`
+- scan 240 `அவள் உள்ளத்தில்`: **1977 retained**
+- scan 245 `முழுங்கால்`: **1977 retained**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English synchronization: **1 phrase**
+- scan 250 independently reconfirmed as Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`)
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

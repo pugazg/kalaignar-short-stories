@@ -29,6 +29,24 @@ Variant comparison: [`witnesses/2009-16-kathaiyinile/VARIANT_COMPARISON.md`](wit
 
 Later-edition variants that may expose a 1977 glyph/transcription issue are recheck candidates only. Any canonical correction requires reopening the exact 1977 controlling scan.
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **11/11 PASS**
+- Gate B: **11/11 PASS**
+- source-proven repairs: **7**
+- scan 239: `திரு திருவென்று` → `துரு துருவென்று`
+- scans 241–242: five historical-`ணா` `அண்ணு` → `அண்ணா`
+- scan 246: `சன சுரத்தை` → `ஈன குரத்தை`
+- 1977 retained against 2009: `அவள் உள்ளத்தில்`, `முழுங்கால்`
+- unresolved source / historical-glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English synchronization: **1 phrase**
+- 2009-only epilogue imported: **No**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 11 / 11 story pages transcribed and directly source-reviewed.**
@@ -72,4 +90,4 @@ Physical page joins were explicitly checked, including `செளந்தரி
 
 ## Completion state
 
-**சுமந்தவள் 1977 Tamil archival source processing, visual fidelity and English translation remain COMPLETE. The 2009 additional-witness comparison is also COMPLETE, with the editions kept explicitly separate.**
+**சுமந்தவள் is 2026 CURRENT PASS / CLOSED: Gate A 11/11 + Gate B 11/11, 7 source-proven repairs, 0 unresolved.** The 1977 Tamil archival source processing, visual fidelity and English translation remain complete. The 2009 witness remains explicitly non-controlling.

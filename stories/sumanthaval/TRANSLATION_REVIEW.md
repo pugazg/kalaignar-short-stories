@@ -59,10 +59,21 @@ The persistent `POSSIBLE_ERRORS_FOR_REVIEW.md` queue was read before translation
 
 **None.**
 
-Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription.
+The later 2026 dual-gate source audit corrected seven Tamil readings. Six were already represented correctly in English meaning; scan 246 `ஈன குரத்தை` required one phrase-level synchronization.
 
 ## Result
 
 **PASS — English translation complete for Story 35.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **11/11 PASS**
+- Gate B: **11/11 PASS**
+- source-proven Tamil repairs: **7**
+- English synchronization: **1 phrase**
+  - `That soft note was immediately suppressed...` → `That feeble voice was immediately suppressed...`
+- 2009-only epilogue imported: **No**
+- unresolved source / historical-glyph readings: **0 / 0**

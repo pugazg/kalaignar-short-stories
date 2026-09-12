@@ -16,6 +16,8 @@
 
 Totals: **11 / 11 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 11/11 PASS / Gate B 11/11 PASS — 7 repairs / 0 unresolved**. Scan 239 `துரு துருவென்று`; scans 241–242 five historical-`ணா` `அண்ணா` corrections; scan 246 `ஈன குரத்தை`. `அவள் உள்ளத்தில்` and `முழுங்கால்` were rechecked and retained from 1977.
+
 Physical next-story boundary witness: scan **250 / printed page 241** visibly opens Story 36 with story-opening heading **`சித்தார்த்தன் சிலை`** (TOC **`சித்தார்த்தன்`**) and is not included in this workspace.
 
 ## Visual fidelity
