@@ -34,3 +34,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. The three fire refrains, Sellayi–Ellappan domestic dialogue, Govindan's coercive assault, later bribery/gifts, Ellappan's discovery and confrontation, killing, cremation and final `mangalam` preserve source sequence, agency and rhetoric. Source-close colloquial or culturally opaque forms such as `gosaa`, `jeevey`, `adukkin` and the Pattinathar references are left for E3 terminology/cultural consistency rather than guessed in E2.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names **Sellayi, Ellappan, Govindan** and recurring cultural/literary forms are internally consistent. Source-close **Pattinathar/Kittinathar**, `gosaa`, `jeevey`, `adukkin`, `appam`, `mangalam` and cremation vocabulary remain conservative because stronger lexical replacement would be speculative or would erase the story's comic register. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

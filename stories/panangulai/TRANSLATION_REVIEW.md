@@ -38,3 +38,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil, including all three 2026 repairs. One fidelity defect was repaired. In scan 127, `சிறிய லாபத்தைக் கொண்டு வயிறு கழுவிக் கொள்ள வேண்டிய நிலைமை` is an idiom about subsisting on the small profit, not literally “washing her stomach.” The English now reads **“keep herself fed with the small profit that came from it.”** The orphan backstory, palmyra-fruit trade, Moga Vinayagampillai's predation, false father/brother deception, Kamalam's death, Velan's fall, and the closing cluster/panangulai image remain semantically intact.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+One same-person name consistency repair was made. The Tamil itself varies between `மோக வினாயகம்பிள்ளை` and `மோக வினாயகம் பிள்ளை` for the same character. English had mirrored that as **Moga Vinayagampillai** vs **Moga Vinayagam Pillai**; E3 now consistently uses **Moga Vinayagam Pillai** while the Tamil source variation remains documented. **Kamalam, Velan, Meenakshi, Ayyasami, Amma, Appa, Thambi, sari** remain stable.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

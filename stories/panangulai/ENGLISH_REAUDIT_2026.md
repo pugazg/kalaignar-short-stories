@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was checked sentence-by-sentence against the final canonica
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+One same-person name consistency repair was made. The Tamil itself varies between `மோக வினாயகம்பிள்ளை` and `மோக வினாயகம் பிள்ளை` for the same character. English had mirrored that as **Moga Vinayagampillai** vs **Moga Vinayagam Pillai**; E3 now consistently uses **Moga Vinayagam Pillai** while the Tamil source variation remains documented. **Kamalam, Velan, Meenakshi, Ayyasami, Amma, Appa, Thambi, sari** remain stable.
+
+- E3 English repairs: **1**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**
