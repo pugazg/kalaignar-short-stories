@@ -58,3 +58,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names, institutions and cultural address terms are internally consistent: **Muthu, Ponnu, Uththandi Konar, Sivaraman, Durai Pandi, pannaiyar, Thambi, Ayya, Ayyo, Sessions Court, High Court** and the month **Thai**. Direct-address transliterations are retained where culturally marked, while institutional terms are translated naturally. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One redundant English construction was repaired: **“could not meet, talk and converse freely”** became **“could not meet and talk freely.”** No source meaning was removed.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

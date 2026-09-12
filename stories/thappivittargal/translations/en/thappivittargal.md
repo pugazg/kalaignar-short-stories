@@ -101,7 +101,7 @@ Thangam embraced Vittal and said, “Aththaan!” Tears and laughter mingled, de
 
 <!-- source scan 91; printed page 82 -->
 
-she climbed up and, exerting all the strength she had, lifted her beloved aththaan and brought him onto the bank. “There is the station!” she said, holding him tightly. In that embrace even the pain in his side seemed to vanish. “Thangam,” he said—in a low register overflowing with tenderness. “Ayyo!” screamed Thangam!
+she climbed up and, exerting all the strength she had, lifted her beloved aththaan and brought him onto the bank. “There is the station!” she said, holding him tightly. In that embrace even the pain in his side seemed to vanish. “Thangam,” he said—in a low voice overflowing with tenderness. “Ayyo!” screamed Thangam!
 
 Policemen were rapidly getting down from the lorry. Torchlights swept in many directions. Thangam’s thoughts spun. Her head reeled: shackles on Vittal’s hands—then Vittal on the gallows—Thangam in a widow’s garb. That horror shook her violently. “Aththaan! We have been caught!” she cried. Vittal rolled his eyes and looked. Her cheeks were wet. Thangam gathered all her desire into her lips at once and kissed Vittal. The kiss ended.
 

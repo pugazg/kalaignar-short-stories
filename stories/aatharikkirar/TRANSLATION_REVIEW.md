@@ -61,3 +61,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Personal, political and municipal terminology is consistent: **Punyakodi, Vellaiyappa Pillai, Raja Nilaiyaththar, municipal chairman, Yellow Party, Brahmins, ammammi** and **pusvaanam**. One anthology-level consistency repair was required: the source term `வேட்டி` had been rendered **dhoti** here, while the same verified Tamil garment term is established as **veshti** elsewhere in the anthology. The sentence now reads **“Hitching up his veshti, Punyakodi set out.”**
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One awkward phrase was improved: **“Before the news itself could get going”** became **“Before the news could even spread.”** The sense that Punyakodi acted before the strike news circulated is unchanged.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

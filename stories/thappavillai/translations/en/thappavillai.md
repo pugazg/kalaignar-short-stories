@@ -62,7 +62,7 @@ Likewise, every member of the family of someone who runs a cigar company learns 
 
 It was in such circumstances that Ponnu became a caged bird. She had refused to yield to the desire of the short man with whom she conducted the cottage-trade partnership. As a result, one night she was handed over to the police along with a pot of liquor.
 
-For Muthu, remanded on the accusation that he had murdered the pannaiyar, looking at her brought some consolation. Within a day or two he understood that she too felt the same. It was true that, locked in separate cages inside the jail and watched by warders, they could not meet, talk and converse freely. But who was there to draw a curtain over their eyes—or build a dam against the smiles shed by their white teeth?
+For Muthu, remanded on the accusation that he had murdered the pannaiyar, looking at her brought some consolation. Within a day or two he understood that she too felt the same. It was true that, locked in separate cages inside the jail and watched by warders, they could not meet and talk freely. But who was there to draw a curtain over their eyes—or build a dam against the smiles shed by their white teeth?
 
 Locked into his cage in the evening, Muthu would sit near the bars in the morning and watch the sky turn pale. Then Ponnu, under the special privilege given to the women, would be released first to go toward the well and would eagerly look at the cage in which Muthu was held. He too would look. The eyes of the two would speak and reach all sorts of decisions.
 

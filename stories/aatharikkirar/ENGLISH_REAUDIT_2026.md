@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ Personal, political and municipal terminology is consistent: **Punyakodi, Vellai
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One awkward phrase was improved: **“Before the news itself could get going”** became **“Before the news could even spread.”** The sense that Punyakodi acted before the strike news circulated is unchanged.
+
+- E4 English repairs: **1**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

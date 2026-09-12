@@ -53,3 +53,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and culturally marked address terms are consistent: **Thangam, Vittal, Ramadurai, Singaram, Aththaan, Ayyo, Gurkha, sari, adukkalai** and **darshan**. **Aththaan** matches its treatment in Stories 3, 4 and 9. Source-close `echchir pandam` and `gubu gubu` remain visible rather than receiving speculative normalization. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One awkward phrase was smoothed: **“in a low register overflowing with tenderness”** became **“in a low voice overflowing with tenderness.”** The emotional tone and source action are unchanged.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.
