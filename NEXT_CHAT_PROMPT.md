@@ -1,98 +1,54 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `அமிர்தமதி` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `சுமந்தவள்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Observed live checkpoint when this prompt was refreshed: `36904b9a0c50a64cb7084fb0e9c5baaabcaebc49` — `Close வேணியின் காதலன் 2026 dual-gate`. If live `main` has advanced, preserve the newer durable state and do not roll back.
+Observed live checkpoint when this prompt was refreshed: `0902ed35296436a2e005513d090e6618c4294e46` — `Advance anthology tracker through அமிர்தமதி`. If live `main` has advanced, preserve the newer durable state and do not roll back.
 
-Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf` — முதல் பதிப்பு 1977, 260 scans, 268,486,609 bytes, SHA-256 `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`. Image-only; do not commit it.
-
-This remains **comparison repair, not retranscription**. Source pixels govern. Preserve source spelling, punctuation, meaningful spacing, paragraphing, page boundaries, emphasis, quotations and marks. Do not globally normalize or silently modernize. Gate B must independently reopen every physical page.
+Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf` — first edition 1977, 260 scans, 268,486,609 bytes, SHA-256 `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`. Image-only; do not commit it.
 
 ## Durable state
 
-Collection tracker: **OPEN — 33 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 34 / 37 dual-gate complete**.
 
-Stories **1–33 are CLOSED**. Most recent: `வேணியின் காதலன்`, scans **225–230 / printed 216–221** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 punctuation/spacing repairs / 0 unresolved**.
+Stories **1–34 are CLOSED**. Most recent: `அமிர்தமதி`, scans **231–238 / printed 222–229** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **10 historical-glyph repairs / 0 unresolved**.
 
-Repairs:
-- scan 227: legacy seven-dot `சிப்பாய்.......அவர்தான்` → source six-dot `சிப்பாய்......அவர்தான்`;
-- scan 229: `அருமையான யோசனைதான்!` → `அருமையான யோசனை தான்!`.
+Key `அமிர்தமதி` corrections included `போகிறாயா`, `சொன்னாய்`, `பார்த்திருக்கிறாயா`, `வேறாகப்`, `பலவாறாக`, `அவனை அணைத்து`, `நன்றாயிருக்கிறது`, and `சொன்னாயே`. English required one sentence sync for explicit `அணைத்து`.
 
-The prior scan-228 source correction `கூண்டுக் கிளி ஆக்குவேனென்றான்` was independently re-proved. English prose rewrite was **0**; punctuation-only synchronization was **1** for the six-dot ellipsis. Scan 231 independently opens Story 34 `அமிர்தமதி`.
+Do not reopen Stories 1–34 unless genuinely new direct source evidence appears.
 
-Do not reopen Stories 1–33 unless genuinely new direct source evidence appears.
+## Exact next activity — `சுமந்தவள்`
 
-## Mandatory startup
+- workspace: `stories/sumanthaval/`
+- controlling 1977 scans: **239–249**
+- printed pages: **230–240**
+- canonical pages: **11/11**
+- scan **250** is boundary witness opening Story 36 **`சித்தார்த்தன் சிலை`**
+- Story 36 TOC title: **`சித்தார்த்தன்`**
 
-Read completely before changing anything:
+### Critical edition rule
 
-1. `SHORT_STORY_PROCESSING_GUIDE.md`
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. root `HANDOVER.md`
-4. this `NEXT_CHAT_PROMPT.md`
-5. collection `README.md`
-6. collection `RE_AUDIT_2026.md`
-7. collection `OLD_TAMIL_GLYPH_REAUDIT_GATE.md`
-8. `indexes/story-inventory.md`
-9. `indexes/scan-map.md`
-10. all controls, page records, assembly, audit, possible-error queue, visual/source metadata and English review under `stories/amirthamathi/`
+A 2009 fourth-edition witness has already been fully compared. It contains many editorial variants and a substantial epilogue absent from this 1977 edition. It is **not controlling**. Use it only to identify spans worth reopening; canonical changes require direct proof from the 1977 scans.
 
-## Exact next activity — `அமிர்தமதி`
+### Highest-priority controlling-source rechecks
 
-- workspace: `stories/amirthamathi/`
-- scans: **231–238**
-- printed pages: **222–229**
-- canonical pages: **8/8**
-- scan **239** is boundary witness opening Story 35 `சுமந்தவள்`
+1. scan **246 / printed 237** — 1977 canonical `சன சுரத்தை`; 2009 witness `ஈன குரத்தை`;
+2. scan **240 / printed 231** — 1977 canonical `அவள் உள்ளத்தில்`; 2009 witness `அவா, உள்ளத்தில்`;
+3. scan **245 / printed 236** — 1977 canonical `முழுங்கால்`; 2009 witness `முழங்கால்`;
+4. scan **239 / printed 230** — 1977 canonical `திரு திருவென்று`; 2009 witness `துருதுருவென்று`.
 
-Gate A: compare all eight page records and assembly directly against scans 231–238, including wording, punctuation, meaningful spacing, paragraph/dialogue structure, the scan-236 quoted verse, physical joins, ending furniture and every source-sensitive queue entry.
+Also reopen all remaining entries in `stories/sumanthaval/POSSIBLE_ERRORS_FOR_REVIEW.md`, including `அடுக்களை`, `அண்ணு`, `குழறல்`, `கர்ப்பவதி`, `கனிமரமென`, `மூனையளவு`, `மண்ணுக்கி`, `பெட்காபி`, `யெளவனத்தின்`, `அலறினள்`, and `எமை விட்டு எச்சில் இலையே!`.
 
-Gate B: independently reopen all eight scans at native/high resolution and explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus ligatures, faint vowel marks, and `ர/ற`, `ன/ண`, `ல/ள` ambiguities.
+Gate A: compare every scan 239–249 for wording, punctuation, meaningful spacing, paragraph/dialogue structure, page boundaries, closing ornament and exact joins.
 
-### Legacy queue state
+Gate B: independently reopen all eleven pages and explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus faint vowel marks, ligatures and `ர/ற`, `ன/ண`, `ல/ள`.
 
-There are **0 pending `[ ]` items** at the legacy layer. Nevertheless independently reopen all current story-page source-sensitive `[x]` entries:
+Known physical joins include:
+- 243→244: `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`;
+- 244→245: `...அந்தக் குழந்தை அளித்த வேதனையால்` → `ஏற்கனவே...`;
+- 247→248: `“ஆராரோ” பாடுவதும்` → `பிணிக்கு மருந்து தருவதும்...`.
 
-- [x] scan 231 / printed 222 — opening `அமிர்தமதி`; source-close `தாங்க முடியவில்ல`, `பிள்ளையில்ல பென்கிறார்கள்`, `அதுவுமில்ல`, joined `பேசுகிறேன்பென்று`, `வராத்து வந்துவிடவில்ல`, and `குடும்ப விஷயமில்ல` retained.
-- [x] scan 232 / printed 223 — `தேவையில்ல`, `நம்பவில்ல`, `சொன்னுய்`, `படித்துப் பார்க்கவில்ல`, and unusual `குதர்களால்` retained; narrator identifies the theft as his own writing.
-- [x] scan 233 / printed 224 — source-close `பார்த்திருக்கிறயா`, `கதறவில்ல`, `உகுத்திடவில்ல`, `கதறிடவில்ல`, `முண்டம் வேறுகப் போயிருக்கும்`, `விரும்பவில்ல`, `தேவையில்ல`, and `இல்ல—அழும் நிலைமைக்கு` retained.
-- [x] scan 234 / printed 225 — `எதாவது`, unusual `என் உரை நடைகளைத் திவட்டிக் கொள்ள அடித்துவிட்டார்கள்`, `படித்த தில்ல`, `படித்ததில்ல?`, `வித்தியாச மில்ல`, and the physical page ending `ஓடி, ஆடிப்பாடி` retained.
-- [x] scan 235 / printed 226 — begins physical continuation `அரசனை அழைத்து வருவர்.`; source questions `ஆண்மேல் அம்பாரியா?`, `அணி தேர்ச்சவாரியா?`, `பூண் ரோமத்தால் மிதியடியா?`, `புலிப் பாலா?`, `புரவிக் கொம்பா?`, plus `இல்ல இல்லை` and `அர்த்த ராத்திரியிலே` retained.
-- [x] scan 236 / printed 227 — quoted verse retained source-close as `‘நரம்புகள்விசித்த மெய்யன், நடையினிற் கழுதணிந்தோன், திரங்கியவிரலன், கையன், சிறுமுகன், சினவன், சீற்ற குரங்கினே யனையன், கூனன், குழிந்து புக்கழிந்த கண்ணன்!’`; also `பலவாறுக`, `கவலையில்ல`, `அண்ணத்து மகிழத்தான்`, `நாளொருமேனியாக`, `அட்டபங்கன்`; physical ending `தீர்த்துக்கட்டி` retained.
-- [x] scan 237 / printed 228 — begins physical continuation `விட்டாள்`; source-close `நன்றுயிருக்கிறது`, `திருட்டுத் தனம்`, `விலா விலே`, and `என் நிலைமையிலே நீ இல்ல` retained.
-- [x] scan 238 / printed 229 — `சொன்னுயே`, unusual `‘சுகம் எங்கே?’ பென்று தேடிக் கொண்டாள்`, `பேச முடியவில்ல`, and the closing ornament retained.
+Preserve the controlling 1977 ending on scan **249**. Do **not** import the 2009 epilogue.
 
-### High-value source checks
+If settled: apply only source-proven 1977 corrections; synchronize affected English and all controls; create/update the durable dual-gate record; advance **34/37 → 35/37** only with Gate A 11/11 + Gate B 11/11 + 0 unresolved; commit and re-fetch live `main`.
 
-Reopen especially:
-
-- scan 231: `தாங்க முடியவில்ல`, `பிள்ளையில்ல பென்கிறார்கள்`, joined `பேசுகிறேன்பென்று`, `வராத்து வந்துவிடவில்ல`;
-- scan 232: `சொன்னுய்`, `குதர்களால்`;
-- scan 233: `பார்த்திருக்கிறயா`, `முண்டம் வேறுகப் போயிருக்கும்`;
-- scan 234: `எதாவது`, `என் உரை நடைகளைத் திவட்டிக் கொள்ள அடித்துவிட்டார்கள்`, `படித்த தில்ல`, `வித்தியாச மில்ல`;
-- scan 235: `ஆண்மேல் அம்பாரியா?`, `அணி தேர்ச்சவாரியா?`, `பூண் ரோமத்தால் மிதியடியா?`, `புலிப் பாலா?`, `புரவிக் கொம்பா?`;
-- scan 236: exact quoted verse, `பலவாறுக`, `அண்ணத்து மகிழத்தான்`, `நாளொருமேனியாக`, `அட்டபங்கன்`;
-- scan 237: `நன்றுயிருக்கிறது`, `திருட்டுத் தனம்`, `விலா விலே`;
-- scan 238: `சொன்னுயே`, unusual `‘சுகம் எங்கே?’ பென்று தேடிக் கொண்டாள்`, `பேச முடியவில்ல`.
-
-Do not normalize any of these without direct source proof.
-
-### Existing physical joins
-
-- 231→232: narrator's `கோர நிகழ்ச்சி` claim → சுந்தர் asks where it happened;
-- 232→233: `...குதர்களால் களவாடப்பட்டு விட்டது!` → `“தலைப்புதானே!”`;
-- 233→234: `...மெளனமாக இரு!` → `“முடியாது சுந்தர்!...”`;
-- 234→235: exact split `...ஓடி, ஆடிப்பாடி` → `அரசனை அழைத்து வருவர்.`;
-- 235→236: `...கவிஞர் கூறுகிறார் கேள்:—` → quoted verse;
-- 236→237: exact split `...தீர்த்துக்கட்டி` → `விட்டாள், அந்தப் பாகனின்...`;
-- 237→238: `இந்த அக்கிரமத்திற்கு அழிவே கிடையாதா?` → `“ஏன் கிடையாது!...”`.
-
-### Boundary / visual controls
-
-- scan 231 opens `அமிர்தமதி`;
-- scan 238 contains final dialogue and ornamental closing mark;
-- scan 239 visibly opens Story 35 `சுமந்தவள்` and is boundary-only.
-
-Use scan **239** only as the Story 35 boundary witness. Do not begin `சுமந்தவள்` in the same activity.
-
-If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update a durable Gate A/B record; advance **33/37 → 34/37** only with Gate A 8/8 + Gate B 8/8 + 0 unresolved; update collection/root controls; commit and re-fetch live `main`.
+Do **not** begin Story 36 in the same activity.

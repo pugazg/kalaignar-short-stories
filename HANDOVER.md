@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `36904b9a0c50a64cb7084fb0e9c5baaabcaebc49` — `Close வேணியின் காதலன் 2026 dual-gate`
+- refreshed live checkpoint: `0902ed35296436a2e005513d090e6618c4294e46` — `Advance anthology tracker through அமிர்தமதி`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 33 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 34 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -70,25 +70,26 @@ Current tracker state: **OPEN — 33 / 37 dual-gate complete**.
 - `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` independently revalidated; English prose rewrite 0.
 - `விஷம் இனிது` — scans **218–224** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 spacing repair / 0 unresolved**; scan 219 `இவள்தான்` → `இவள் தான்`; English prose rewrite 0.
 - `வேணியின் காதலன்` — scans **225–230** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 punctuation/spacing repairs / 0 unresolved**; scan 227 ellipsis reduced to six full stops, scan 229 `யோசனைதான்` → `யோசனை தான்`; prior scan-228 `ஆக்குவேனென்றான்` correction revalidated; English prose rewrite 0, punctuation-only sync 1.
+- `அமிர்தமதி` — scans **231–238** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **10 historical-glyph repairs / 0 unresolved**; repaired `றா / னா / னை / ணை` families; English prose rewrite 1 sentence.
 
-Do not reopen these thirty-three stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirty-four stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 34 `அமிர்தமதி`
+## Exact next activity — Story 35 `சுமந்தவள்`
 
-Workspace: `stories/amirthamathi/`.
+Workspace: `stories/sumanthaval/`.
 
-- scans **231–238 / printed 222–229**
-- canonical pages **8/8**
-- scan **239** is the boundary witness opening Story 35 `சுமந்தவள்`
-- legacy human-review queue: **0 pending** at the legacy layer
-- source-sensitive checked forms to reopen during Gate A/B:
-  - [x] scan 231 / printed 222 — opening `அமிர்தமதி`; source-close `தாங்க முடியவில்ல`, `பிள்ளையில்ல பென்கிறார்கள்`, `அதுவுமில்ல`, joined `பேசுகிறேன்பென்று`, `வராத்து வந்துவிடவில்ல`, and `குடும்ப விஷயமில்ல` retained.
-  - [x] scan 232 / printed 223 — `தேவையில்ல`, `நம்பவில்ல`, `சொன்னுய்`, `படித்துப் பார்க்கவில்ல`, and unusual `குதர்களால்` retained; narrator identifies the theft as his own writing.
-  - [x] scan 233 / printed 224 — source-close `பார்த்திருக்கிறயா`, `கதறவில்ல`, `உகுத்திடவில்ல`, `கதறிடவில்ல`, `முண்டம் வேறுகப் போயிருக்கும்`, `விரும்பவில்ல`, `தேவையில்ல`, and `இல்ல—அழும் நிலைமைக்கு` retained.
-  - [x] scan 234 / printed 225 — `எதாவது`, unusual `என் உரை நடைகளைத் திவட்டிக் கொள்ள அடித்துவிட்டார்கள்`, `படித்த தில்ல`, `படித்ததில்ல?`, `வித்தியாச மில்ல`, and the physical page ending `ஓடி, ஆடிப்பாடி` retained.
-  - [x] scan 235 / printed 226 — begins physical continuation `அரசனை அழைத்து வருவர்.`; source questions `ஆண்மேல் அம்பாரியா?`, `அணி தேர்ச்சவாரியா?`, `பூண் ரோமத்தால் மிதியடியா?`, `புலிப் பாலா?`, `புரவிக் கொம்பா?`, plus `இல்ல இல்லை` and `அர்த்த ராத்திரியிலே` retained.
-  - [x] scan 236 / printed 227 — quoted verse retained source-close as `‘நரம்புகள்விசித்த மெய்யன், நடையினிற் கழுதணிந்தோன், திரங்கியவிரலன், கையன், சிறுமுகன், சினவன், சீற்ற குரங்கினே யனையன், கூனன், குழிந்து புக்கழிந்த கண்ணன்!’`; also `பலவாறுக`, `கவலையில்ல`, `அண்ணத்து மகிழத்தான்`, `நாளொருமேனியாக`, `அட்டபங்கன்`; physical ending `தீர்த்துக்கட்டி` retained.
-  - [x] scan 237 / printed 228 — begins physical continuation `விட்டாள்`; source-close `நன்றுயிருக்கிறது`, `திருட்டுத் தனம்`, `விலா விலே`, and `என் நிலைமையிலே நீ இல்ல` retained.
-  - [x] scan 238 / printed 229 — `சொன்னுயே`, unusual `‘சுகம் எங்கே?’ பென்று தேடிக் கொண்டாள்`, `பேச முடியவில்ல`, and the closing ornament retained.
+- controlling edition: **1977 first edition**
+- scans **239–249 / printed 230–240**
+- canonical pages **11/11**
+- scan **250** is the boundary witness opening Story 36 `சித்தார்த்தன் சிலை`
+- Story 36 TOC title: **`சித்தார்த்தன்`**
+- 2009 fourth-edition witness exists and is **comparative evidence only**; do not import its later epilogue or editorial readings into the 1977 canonical layer without direct 1977 source proof.
 
-Complete Gate A **8/8** and independent Gate B **8/8**. Reopen all source-sensitive checked forms directly against source pixels, with special attention to old-`றா/னா/லை/ளை` identities, source-close negatives such as `முடியவில்ல` / `படித்த தில்ல`, the scan-236 quoted verse, and the unusual `பென்று` / `சொன்னுய்` / `குதர்களால்` forms. Preserve exact joins 234→235 `ஓடி, ஆடிப்பாடி` → `அரசனை அழைத்து வருவர்.` and 236→237 `தீர்த்துக்கட்டி` → `விட்டாள்`; preserve scan-238 closing ornament; use scan 239 only as Story 35 boundary witness. Correct only source-proven mismatches; synchronize controls/affected English; advance **33/37 → 34/37** only with zero unresolved; stop before Story 35.
+Highest-priority 1977 source rechecks from the witness comparison:
+
+1. scan 246: `சன சுரத்தை` ↔ 2009 `ஈன குரத்தை`;
+2. scan 240: `அவள் உள்ளத்தில்` ↔ 2009 `அவா, உள்ளத்தில்`;
+3. scan 245: `முழுங்கால்` ↔ 2009 `முழங்கால்`;
+4. scan 239: `திரு திருவென்று` ↔ 2009 `துருதுருவென்று`.
+
+Complete Gate A **11/11** and independent Gate B **11/11** directly against the 1977 controlling scans. Reopen every 1977 queue entry, including old-glyph families, source spacing, physical joins, and the four strong witness-driven candidates above. Preserve the 1977 ending at scan 249 even though the 2009 edition adds a later epilogue. Use scan 250 only as Story 36 boundary witness. Advance **34/37 → 35/37** only with zero unresolved; stop before Story 36.
