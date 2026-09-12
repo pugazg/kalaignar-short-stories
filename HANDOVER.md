@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `33b34f1f1162b67efc3e0731726ac56da9d0b74e` — `Close தொத்துக்கிளி 2026 dual-gate`
+- refreshed live checkpoint: `d6b3e7a7c65065ec40487c89a23ef484645d3fe3` — `Close காதல் கடிதம் 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 22 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 23 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -59,19 +59,24 @@ Current tracker state: **OPEN — 22 / 37 dual-gate complete**.
 - `கண்டதும் காதல் ஒழிக!` — scans **146–150** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; 88 historical-`றா` pigeon-root repairs plus one scan-151 wording repair; English `purru` terminology synchronized to `puraa`.
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; scan 159 `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`; opaque legacy candidates source-reconfirmed; English prose rewrite 0.
+- `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; three historical-`லை` repairs plus scan-161 spacing and scan-163 `போல்`; English prose rewrite 0.
 
-Do not reopen these twenty-two stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-three stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 23 `காதல் கடிதம்`
+## Exact next activity — Story 24 `கண்ணடக்கம்`
 
-Workspace: `stories/kadhal-kaditham/`.
+Workspace: `stories/kannadakkam/`.
 
-- scans **161–165 / printed 152–156**
-- canonical pages **5/5**
-- scan **166** is the boundary witness opening Story 24 `கண்ணடக்கம்`
-- persistent human-recheck candidate: scan 161 `இப்படிப்பட்ட சூழ்நிலே-கூடாரத்தைவிட்டு`; treat it as a candidate, not a presumed error
+- scans **166–172 / printed 157–163**
+- canonical pages **7/7**
+- scan **173** is the boundary witness opening Story 25 `வாழ முடியாதவர்கள்`
+- persistent human-recheck candidates:
+  - scan 167: `நீண்ட கழியில் ஒரு துணி ஏண்;`
+  - scan 168: `ஊரிலே குறை நடக்கிறே உனக்குத் தெரியாதா?`
+  - scan 169: `பிணக்கொலு கண்டு பெரு மகிழ்வு கொள்ளும்`
+  - scan 171: `நம்முலகு செல்லும் மக்களை மீட்க`
 
-Complete Gate A **5/5** and independent Gate B **5/5**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **22/37 → 23/37** only with zero unresolved; stop before Story 24.
+Complete Gate A **7/7** and independent Gate B **7/7**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **23/37 → 24/37** only with zero unresolved; stop before Story 25.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

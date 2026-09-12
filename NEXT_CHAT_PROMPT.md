@@ -1,8 +1,8 @@
-# NEXT CHAT PROMPT — 1977 anthology re-audit / `காதல் கடிதம்` dual-gate
+# NEXT CHAT PROMPT — 1977 anthology re-audit / `கண்ணடக்கம்` dual-gate
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Observed live checkpoint when this prompt was refreshed: `33b34f1f1162b67efc3e0731726ac56da9d0b74e` — `Close தொத்துக்கிளி 2026 dual-gate`. If live `main` has advanced, preserve the newer durable state and do not roll back.
+Observed live checkpoint when this prompt was refreshed: `d6b3e7a7c65065ec40487c89a23ef484645d3fe3` — `Close காதல் கடிதம் 2026 dual-gate`. If live `main` has advanced, preserve the newer durable state and do not roll back.
 
 Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf` — முதல் பதிப்பு 1977, 260 scans, 268,486,609 bytes, SHA-256 `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`. Image-only; do not commit it.
 
@@ -10,47 +10,50 @@ This remains **comparison repair, not retranscription**. Source pixels govern; p
 
 ## Durable state
 
-Collection tracker: **OPEN — 22 / 37 dual-gate complete**.
+Collection tracker: **OPEN — 23 / 37 dual-gate complete**.
 
-Stories **1–22 are CLOSED**. Most recent: `தொத்துக்கிளி`, scans **156–160 / printed 147–151** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**.
+Stories **1–23 are CLOSED**. Most recent: `காதல் கடிதம்`, scans **161–165 / printed 152–156** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**.
 
-2026 source repair:
+Repairs:
 
-- scan 159: `‘ஆ’ என்று அலறி` → **`‘ஆ’ வென்று அலறி`**.
+- scan 161 historical `லை`: `சூழ்நிலே` → `சூழ்நிலை`;
+- scan 161 spacing: `விடவேண்டும்` → `விட வேண்டும்`;
+- scan 163 historical `லை`: two `நிலே` → `நிலை`;
+- scan 163 wording: `என்பது போல` → `என்பது போல்`.
 
-The prior opaque candidates `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்` and `அவன் முகத்திலே கருகு தாளிக்கப் பட்டது` were reopened at native/high resolution and source-confirmed. English prose rewrite required: **0**. Scan 161 independently opens Story 23 `காதல் கடிதம்`.
+English prose rewrite required: **0**. Scan 166 independently opens Story 24 `கண்ணடக்கம்`.
 
-Do not reopen Stories 1–22 unless genuinely new direct source evidence appears.
+Do not reopen Stories 1–23 unless genuinely new direct source evidence appears.
 
 ## Mandatory startup
 
-Read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, this prompt, collection README / RE_AUDIT / OLD_TAMIL_GLYPH_REAUDIT_GATE / inventory / scan-map, and all controls/page records/assembly/audit/possible-error files under `stories/kadhal-kaditham/`.
+Read `SHORT_STORY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, this prompt, collection README / RE_AUDIT / OLD_TAMIL_GLYPH_REAUDIT_GATE / inventory / scan-map, and all controls/page records/assembly/audit/possible-error files under `stories/kannadakkam/`.
 
-## Exact next activity — `காதல் கடிதம்`
+## Exact next activity — `கண்ணடக்கம்`
 
-- workspace: `stories/kadhal-kaditham/`
-- scans: **161–165**
-- printed pages: **152–156**
-- canonical pages: **5/5**
-- scan **166** is boundary witness opening Story 24 `கண்ணடக்கம்`
+- workspace: `stories/kannadakkam/`
+- scans: **166–172**
+- printed pages: **157–163**
+- canonical pages: **7/7**
+- scan **173** is boundary witness opening Story 25 `வாழ முடியாதவர்கள்`
 
-Gate A: compare all five page records and assembly directly against scans 161–165, including punctuation, meaningful spacing, paragraphing, the continuous letter, source emphasis/sign-off, page joins, opening/closing furniture and every legacy possible-error candidate.
+Gate A: compare all seven page records and assembly directly against scans 166–172, including punctuation, meaningful spacing, paragraph/dialogue structure, source emphasis on `‘கண்ணடக்கம்’`, opening/closing furniture, physical joins and every legacy possible-error candidate.
 
-Gate B: independently reopen all five scans at native/high resolution and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other historical ambiguities.
+Gate B: independently reopen all seven scans at native/high resolution and check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other historical ambiguities.
 
-High-value persistent candidate that must be directly reopened:
+Persistent candidates that must be directly reopened:
 
-- scan 161 / printed 152: `இப்படிப்பட்ட சூழ்நிலே-கூடாரத்தைவிட்டு`.
+- scan 167 / printed 158: `நீண்ட கழியில் ஒரு துணி ஏண்;`
+- scan 168 / printed 159: `ஊரிலே குறை நடக்கிறே உனக்குத் தெரியாதா?`
+- scan 169 / printed 160: `பிணக்கொலு கண்டு பெரு மகிழ்வு கொள்ளும்`
+- scan 171 / printed 162: `நம்முலகு செல்லும் மக்களை மீட்க`
 
-Also recheck the registered source-close forms and physical continuations, especially:
+Also recheck the explicit physical continuation:
 
-- 161→162: `...நேரம்போக, மிச்ச` → `முள்ள நேரமெல்லாம்...`;
-- 163→164: `...திரும்பிவர ஆரம்` → `பித்தன.`;
-- 164→165: `...நீ அடிக்கடி` → `கூறுவாயே...`;
-- scan 163 source-emphasized two-line sign-off / `சுந்தர் பாபு”`.
+- 169→170: `...என் பார்வை பட்ட` → `மாத்திரத்தில் பஞ்சாய்ப் பறக்கும்.`
 
-Do not assume an unusual form is wrong. Source pixels decide.
+Use scan **173** only as the Story 25 boundary witness. Do not assume an unusual form is wrong; source pixels decide.
 
-If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update a durable Gate A/B record; advance **22/37 → 23/37** only with Gate A 5/5 + Gate B 5/5 + 0 unresolved; update collection/root controls; commit and re-fetch live `main`.
+If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update a durable Gate A/B record; advance **23/37 → 24/37** only with Gate A 7/7 + Gate B 7/7 + 0 unresolved; update collection/root controls; commit and re-fetch live `main`.
 
-Do **not** begin Story 24 `கண்ணடக்கம்` in the same activity.
+Do **not** begin Story 25 `வாழ முடியாதவர்கள்` in the same activity.
