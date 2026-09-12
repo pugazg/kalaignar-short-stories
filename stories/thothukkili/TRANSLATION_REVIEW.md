@@ -101,3 +101,12 @@ The Tamil source layer was reopened under the anthology dual-gate standard. Scan
 One clear page-anchor defect was repaired at 156→157. Tamil scan 156 ends `...விகாரமாய் இருக்கிறோம் என்பதைப் பற்றிக் கவலைகொள்ள`; scan 157 begins `வில்லை.`. The English had completed the negative thought before the marker. It now ends scan 156 at `appeared to care—` and begins scan 157 with `—not at all.`, preserving the source-page continuation without changing meaning.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 source repair and the E1 156→157 page-anchor correction. No E2 prose repair was required. Annumalai's beauty obsession, Vimala's widowhood, seduction/pregnancy, abandonment, nitric-acid attack, suicide and final Bharathidasan apparition retain the source's agency, causality and rhetoric. Opaque source-confirmed `அக்கத்தாகக்` remains visibly conservative in English rather than being guessed; that lexical issue belongs to E3 terminology/cultural consistency, not E2 meaning repair.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

@@ -111,3 +111,12 @@ The existing English already conveys all corrected meanings (“circumstances,�
 All four joins remain traceable, including the exact morphological split 161→162 `மிச்ச` → `முள்ள` represented as `remain—` → `—ing`, and the later letter continuations across 163→164 and 164→165.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all five 2026 Tamil repairs. No E2 prose repair was required. The wartime letter sequence, Sundar Babu/Balan relationship, Sudesha's silence, returned letters, postman reveal and closing irony preserve source meaning, tense and causality. Source-confirmed `உழவலன்பு` remains conservative as `uzhaval-anbu` for E3 rather than being normalized without evidence.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

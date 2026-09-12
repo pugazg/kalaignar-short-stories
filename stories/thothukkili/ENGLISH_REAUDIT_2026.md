@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
@@ -36,3 +39,16 @@ Corrected state: **PASS**. Reconstructed prior 156→157 marker pattern: **FAIL 
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 source repair and the E1 156→157 page-anchor correction. No E2 prose repair was required. Annumalai's beauty obsession, Vimala's widowhood, seduction/pregnancy, abandonment, nitric-acid attack, suicide and final Bharathidasan apparition retain the source's agency, causality and rhetoric. Opaque source-confirmed `அக்கத்தாகக்` remains visibly conservative in English rather than being guessed; that lexical issue belongs to E3 terminology/cultural consistency, not E2 meaning repair.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

@@ -108,3 +108,12 @@ The existing English already conveys all three corrected meanings, so **English 
 All seven internal joins remain traceable. The missing opening-rule traceability comment was restored. No English prose or page marker changed during E1.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all three 2026 repairs. No E2 prose repair was required. The cinema opening, Chinnachami/Kantha poverty and marriage-cost argument, father-daughter identification, internal resistance, night sequence, law/chastity commentary and morning aftermath retain the source's meaning and degree of explicitness. Verified opaque forms such as `jeelu-jeeluppu`, `azhukkiyathu`, `theevithi` and `kimbala chance` remain deferred to E3 terminology/cultural review rather than guessed in E2.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

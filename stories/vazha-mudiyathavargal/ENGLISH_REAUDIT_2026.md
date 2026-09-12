@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
@@ -36,3 +39,16 @@ Structure-only annotation repair; no prose/marker regression fixture required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all three 2026 repairs. No E2 prose repair was required. The cinema opening, Chinnachami/Kantha poverty and marriage-cost argument, father-daughter identification, internal resistance, night sequence, law/chastity commentary and morning aftermath retain the source's meaning and degree of explicitness. Verified opaque forms such as `jeelu-jeeluppu`, `azhukkiyathu`, `theevithi` and `kimbala chance` remain deferred to E3 terminology/cultural review rather than guessed in E2.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

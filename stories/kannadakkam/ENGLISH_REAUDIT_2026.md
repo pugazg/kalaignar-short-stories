@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
@@ -36,3 +39,16 @@ Structure-only annotation repair; no prose/marker regression fixture required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all nine 2026 repairs, including the six earlier English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

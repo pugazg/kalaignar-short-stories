@@ -101,3 +101,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All six internal joins remain traceable and every page has substantive translated content. The missing opening-rule and enlarged-initial traceability comments were restored; no prose or marker position changed.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all nine 2026 repairs, including the six earlier English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
