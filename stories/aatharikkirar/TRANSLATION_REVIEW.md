@@ -28,3 +28,18 @@ The prior scan-106 `சிங்கம்` reading remains translated as “The 
 ## Result
 
 **PASS — complete and traceable to the 2026 dual-gate-verified Tamil.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **6/6 PASS**
+- omissions / duplications / unsupported additions after review: **0 / 0 / 0**
+- E1 repairs: **1 page-anchor/content de-duplication repair**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+One clear defect was repaired at 104→105. Tamil scan 104 ends inside `தாராள` and scan 105 begins `மாகத் தந்த...`. The English had already completed the praise clause before the marker and then repeated it after the marker. The duplicate paraphrase was removed, and the English now continues `praised Punyakodi, who had generously—` → `given his house as the temporary office.` across the physical boundary.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

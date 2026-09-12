@@ -25,3 +25,13 @@ Boundary: scan 111 closes the story; scan 112 independently opens Story 14 `ம�
 
 ## Next
 Story 14 **முந்நூறு ரூபாய்** — scans **112–114 / printed 103–105**. Use scan **115** only as the boundary witness opening `ஏழை`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **4/4**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

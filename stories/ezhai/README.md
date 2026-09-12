@@ -34,3 +34,13 @@ Canonical Tamil assembly: [`sections/ezhai.md`](sections/ezhai.md). Existing Eng
 ## Next
 
 Story 16 **ஒரிஜினலில் உள்ளபடி** — scans **119–125 / printed 110–116**. Use scan **126** only as the boundary witness opening `பனங்குலை`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **4/4**
+- E1 repairs: **1 page-anchor/content de-duplication repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

@@ -42,11 +42,11 @@ The whole town spoke in praise of his generous nature!
 
 Work on the municipal building began. The office functioned from Punyakodi’s house.
 
-The new building’s opening ceremony was held. At the ceremony, the municipal authorities, the presiding dignitary and the speakers—all of them—praised the magnanimous Punyakodi who had so freely given his house as the temporary office—
+The new building’s opening ceremony was held. At the ceremony, the municipal authorities, the presiding dignitary and the speakers—all of them—praised Punyakodi, who had generously—
 
 <!-- source scan 105; printed page 96 -->
 
-Thus they praised ‘the generous Punyakodi who gave’ it. In the public arena Punyakodi had acquired a fine name. Now what he needed was money, was it not? That was Punyakodi’s ideal, after all. He began the effort toward it. He sent a secret petition to the municipality. In it he wrote:
+given his house as the temporary office. In the public arena Punyakodi had acquired a fine name. Now what he needed was money, was it not? That was Punyakodi’s ideal, after all. He began the effort toward it. He sent a secret petition to the municipality. In it he wrote:
 
 “Without even attending to my own work, without even looking to my own comforts, and without caring that many opposed me, I have until now given my house for use as the municipal office. To restore the damage that has thereby occurred to my house, ten thousand rupees is required. I request that this ten thousand rupees be paid to me as compensation.”
 

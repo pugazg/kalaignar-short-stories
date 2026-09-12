@@ -34,3 +34,13 @@ Canonical Tamil assembly: [`sections/originalil-ullapadi.md`](sections/originali
 ## Next
 
 Story 17 **பனங்குலை** — scans **126–130 / printed 117–121**. Use scan **131** only as the boundary witness opening `செத்தவள் கதை`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **7/7**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

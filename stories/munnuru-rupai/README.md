@@ -32,3 +32,13 @@ Canonical Tamil [`sections/munnuru-rupai.md`](sections/munnuru-rupai.md) require
 ## Next
 
 Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **119** only as the boundary witness opening `ஒரிஜினலில் உள்ளபடி`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **3/3**
+- E1 repairs: **1 page-anchor repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

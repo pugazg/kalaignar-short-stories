@@ -6,11 +6,11 @@
 
 “I am the pillar that supports the family. I worked in a betel-and-areca shop for a salary of ten rupees; that too is gone. Even when I had the job, there were two meals of hunger at home. Need I tell you what it is like now? Please find me some way; otherwise the only expense left is a cubit of rope!” said the poor young man, shedding tears. His name alone was Lakshminarayanan. In person he throbbed like Daridra Narayanan himself.
 
-The place where he asked for work was not some big office...nor was it with a mill owner; it was with a schoolteacher earning one hundred and fifty rupees a month. Thangappan was a mathematics teacher at a high school. When it was difficult to run his own large family on one hundred and fifty, how could he dare undertake the rescue of Lakshminarayanan? Thangappan was soft-hearted. A reformer. In the world of reform his pen-name was Marx. The moment he mounted a platform, a fresh energy would arise among the people. He was that fine an orator. Because he spoke of the poor, charity and compassion, so many people had stretched out a hand and begged Thangappan for help—
+The place where he asked for work was not some big office...nor was it with a mill owner; it was with a schoolteacher earning one hundred and fifty rupees a month. Thangappan was a mathematics teacher at a high school. When it was difficult to run his own large family on one hundred and fifty, how could he dare undertake the rescue of Lakshminarayanan? Thangappan was soft-hearted. A reformer. In the world of reform his pen-name was Marx. The moment he mounted a platform, a fresh energy would arise among the people. He was that fine an orator. Because he spoke of the poor, charity and compassion, so many—
 
 <!-- source scan 113; printed page 104 -->
 
-Thangappan used to spend a portion of his salary on them. Lakshminarayanan was one among those people. Thangappan could not bear to hear his story—he was so deeply pained.
+people had stretched out a hand and begged Thangappan for help. Thangappan used to spend a portion of his salary on them. Lakshminarayanan was one among those people. Thangappan could not bear to hear his story—he was so deeply pained.
 
 “Eat at my house for ten days; I’ll look somewhere and try to find you a job,” he promised. Seventy-something days had passed. Still no job had been found.
 

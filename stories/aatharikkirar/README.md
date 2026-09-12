@@ -43,3 +43,13 @@ English is synchronized to the corrected Tamil. One phrase changed: `municipal t
 ## Next anthology activity
 
 Story 13 **இரகசியம்!** — scans **108–111 / printed 99–102** — is next. Use scan **112** only as the boundary witness opening Story 14 `முந்நூறு ரூபாய்`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **6/6**
+- E1 repairs: **1 page-anchor/content de-duplication repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
