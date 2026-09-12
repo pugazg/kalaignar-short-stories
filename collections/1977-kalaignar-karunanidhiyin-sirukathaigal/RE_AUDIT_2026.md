@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 22 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 23 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -128,8 +128,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **CURRENT PASS — 89 repairs / 0 unresolved** |
 | 22 | `தொத்துக்கிளி` | 156–160 | **CURRENT PASS — 1 repair / 0 unresolved** |
-| 23 | `காதல் கடிதம்` | 161–165 | **NEXT — REOPENED** |
-| 24 | `கண்ணடக்கம்` | 166–172 | REOPENED / pending |
+| 23 | `காதல் கடிதம்` | 161–165 | **CURRENT PASS — 5 repairs / 0 unresolved** |
+| 24 | `கண்ணடக்கம்` | 166–172 | **NEXT — REOPENED** |
 | 25 | `வாழ முடியாதவர்கள்` | 173–180 | REOPENED / pending |
 | 26 | `அபாக்ய சிந்தாமணி` | 181–188 | REOPENED / pending |
 | 27 | `பாலைவன ரோஜா` | 189–193 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 23 `காதல் கடிதம்`, scans **161–165 / printed 152–156**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **166** only as the Story 24 `கண்ணடக்கம்` boundary witness; advance **22/37 → 23/37** only with zero unresolved; stop before Story 24.
+Re-audit Story 24 `கண்ணடக்கம்`, scans **166–172 / printed 157–163**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **173** only as the Story 25 `வாழ முடியாதவர்கள்` boundary witness; advance **23/37 → 24/37** only with zero unresolved; stop before Story 25.
 
 ### `தொத்துக்கிளி` closure
 
@@ -307,3 +307,19 @@ Scans **156–160 / printed pages 147–151**:
 - scan 161 independently opens Story 23 `காதல் கடிதம்`
 
 Full story record: `../../stories/thothukkili/RE_AUDIT_2026.md`.
+
+
+### `காதல் கடிதம்` closure
+
+Scans **161–165 / printed pages 152–156**:
+
+- Gate A: **PASS — 5/5**
+- Gate B: **PASS — 5/5**
+- source-proven repairs: **5**
+- historical `லை`: scan 161 `சூழ்நிலே` → `சூழ்நிலை`; scan 163 two `நிலே` → `நிலை`
+- Gate A: scan 161 `விடவேண்டும்` → `விட வேண்டும்`; scan 163 `என்பது போல` → `என்பது போல்`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 166 independently opens Story 24 `கண்ணடக்கம்`
+
+Full story record: `../../stories/kadhal-kaditham/RE_AUDIT_2026.md`.

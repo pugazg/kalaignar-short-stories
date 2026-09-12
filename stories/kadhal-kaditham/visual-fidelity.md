@@ -42,8 +42,9 @@ Scan 165→166 is a clean story boundary.
 3. scan 165: `story-conclusion` → `story-ending`; closing ornament recorded;
 4. Tamil assembly synchronized with the same source-significant structure;
 5. page map synchronized.
+6. 2026 dual-gate source reread synchronized five source-proven text repairs (three historical-`லை`, one spacing, one `போல்`); source layout remains unchanged.
 
-**Story wording changed: No — structure/emphasis only.**
+**Story wording changed: Yes — five source-proven 2026 repairs; structure/emphasis remains source-faithful.**
 
 ## Remaining visual-fidelity issues
 

@@ -43,4 +43,9 @@ The five story pages are high-resolution scan images. Native embedded page image
 
 ## Source-sensitive forms
 
-The scan preserves source-close and historically/typeset-sensitive forms including `பக்கந்தான்`, `சூழ்நிலே-கூடாரத்தைவிட்டு`, `மரஞ்செடி கொடி`, `நேசதேசப்`, `உழவலன்பு`, `அர்ச்சுனா-அர்ச்சுனா`, `அலறு வார்களே`, `மந்திரந்தான்`, `சிரமேற்`, `பதில்-பதில்`, `என்னை யறியாமல்`, `கவனிக்கிறார் களோ`, `நிலே`, `ஆத்திரப்பட்டாதே`, `அறியணும்`, and the source page splits `மிச்ச`→`முள்ள`, `ஆரம்`→`பித்தன`, and `அடிக்கடி`→`கூறுவாயே`. These are preserved rather than silently normalized and are available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+The scan preserves source-close and historically/typeset-sensitive forms including `பக்கந்தான்`, `சூழ்நிலை-கூடாரத்தைவிட்டு`, `மரஞ்செடி கொடி`, `நேசதேசப்`, `உழவலன்பு`, `அர்ச்சுனா-அர்ச்சுனா`, `அலறு வார்களே`, `மந்திரந்தான்`, `சிரமேற்`, `பதில்-பதில்`, `என்னை யறியாமல்`, `கவனிக்கிறார் களோ`, `நிலை`, `ஆத்திரப்பட்டாதே`, `அறியணும்`, and the source page splits `மிச்ச`→`முள்ள`, `ஆரம்`→`பித்தன`, and `அடிக்கடி`→`கூறுவாயே`. These are preserved rather than silently normalized and are available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+
+
+## 2026 dual-gate note
+
+All five scans were independently reopened at native/high resolution. Three legacy `லே` readings were identified as historical `லை`: scan 161 `சூழ்நிலை` and two scan-163 `நிலை` occurrences. Gate A additionally restored source spacing `விட வேண்டும்` and source `போல்`. Total repairs: **5**; unresolved source/glyph readings: **0 / 0**.

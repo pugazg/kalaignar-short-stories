@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 22 / 37 CURRENT PASS.**
+**OPEN — 23 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -58,8 +58,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `கண்டதும் காதல் ஒழிக!` — scans **146–150** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; English terminology synchronized.
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
+- `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these twenty-two stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-three stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -96,11 +97,24 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/thothukkili/RE_AUDIT_2026.md`.
 
+### `காதல் கடிதம்` closure
+
+- scans **161–165 / printed 152–156**
+- Gate A **5/5 PASS**
+- Gate B **5/5 PASS**
+- **5 source-proven repairs / 0 unresolved**
+- historical `லை`: `சூழ்நிலே` → `சூழ்நிலை`; two `நிலே` → `நிலை`
+- Gate A: `விடவேண்டும்` → `விட வேண்டும்`; `என்பது போல` → `என்பது போல்`
+- English prose rewrite **0**
+- scan 166 independently opens `கண்ணடக்கம்`
+
+Full story record: `../../stories/kadhal-kaditham/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 23 **`காதல் கடிதம்`** — scans **161–165 / printed pages 152–156** — **NEXT**.
+Story 24 **`கண்ணடக்கம்`** — scans **166–172 / printed pages 157–163** — **NEXT**.
 
-Complete Gate A **5/5** and independent Gate B **5/5**. Use scan **166** only as the boundary witness opening Story 24 `கண்ணடக்கம்`. Advance to **23/37** only with zero unresolved; stop before Story 24.
+Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **173** only as the boundary witness opening Story 25 `வாழ முடியாதவர்கள்`. Advance to **24/37** only with zero unresolved; stop before Story 25.
 
 
 ## Legacy processing state

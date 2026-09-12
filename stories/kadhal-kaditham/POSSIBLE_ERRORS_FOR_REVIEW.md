@@ -13,8 +13,9 @@
 ## Scan 161 / printed 152
 - [x] title `காதல் கடிதம்`.
 - [x] `இட்லர்-முசோலினியின் பக்கந்தான்` retained as printed.
-- [ ] `இப்படிப்பட்ட சூழ்நிலே-கூடாரத்தைவிட்டு` — native/high-resolution span reads this way; unusual `சூழ்நிலே` form retained for later human recheck.
+- [x] historical-`லை` correction applied: legacy `இப்படிப்பட்ட சூழ்நிலே-கூடாரத்தைவிட்டு` → source-supported `இப்படிப்பட்ட சூழ்நிலை-கூடாரத்தைவிட்டு`; same-edition scan-164 `தன் நிலை மறந்தாள்` provides a matching glyph comparator.
 - [x] `மரஞ்செடி கொடி அசைகிறது` retained.
+- [x] source spacing corrected: `சிதறிப்போய் விடவேண்டும் தூள் தூளாக!` → `சிதறிப்போய் விட வேண்டும் தூள் தூளாக!`.
 - [x] `நேசதேசப் படையைச் சேர்ந்தவன்` retained.
 - [x] physical split `...நேரம்போக, மிச்ச` → scan 162 `முள்ள நேரமெல்லாம்`.
 
@@ -31,8 +32,9 @@
 - [x] source-emphasized signature `சுந்தர் பாபு”` retained with the closing quote.
 - [x] `கவனிக்கிறார் களோ` retained with source spacing.
 - [x] `என்னை யறியாமல்` retained.
-- [x] repeated `நிலே` in `உலகத்தை நிலே கலக்கிய` / `உள்ளத்தை நிலே கலக்கிய` retained.
+- [x] historical-`லை` corrections applied: `உலகத்தை நிலே கலக்கிய` → `உலகத்தை நிலை கலக்கிய`; `உள்ளத்தை நிலே கலக்கிய` → `உள்ளத்தை நிலை கலக்கிய`.
 - [x] `ஆத்திரப்பட்டாதே` and `அறியணும்` retained.
+- [x] source wording corrected: `என்பது போல அவளுக்கு` → `என்பது போல் அவளுக்கு`.
 - [x] physical split `...திரும்பிவர ஆரம்` → scan 164 `பித்தன.`.
 
 ## Scan 164 / printed 155
@@ -59,3 +61,8 @@
 - [x] scan 166 independently checked as Story 24 opening `கண்ணடக்கம்`; no Story 24 text belongs here.
 
 A later correction must be checked against the controlling scan and propagated to the page record, assembled Tamil, audit, story README and affected collection/root control files.
+
+
+## 2026 dual-gate disposition
+
+**0 pending / 0 unresolved.** All legacy candidates and mandatory historical-glyph families were reopened directly against the controlling scans. Five source-proven repairs were applied: three historical-`லை` identities, one spacing repair, and one `போல` → `போல்` wording repair.

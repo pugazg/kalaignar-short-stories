@@ -18,7 +18,11 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `blocked`: **0**
 - unresolved / missing story text: **0**
 - visual fidelity: **PASS — corrected**
+- 2026 dual-gate: **Gate A 5/5 PASS / Gate B 5/5 PASS — 5 repairs / 0 unresolved**
 
 Visual-fidelity synchronization records the scan-161 opening structure, the scan-163 two-line letter sign-off/source emphasis, and the scan-165 closing ornament/ending role. Story wording was not changed.
 
 Scan **166** begins Story 24, `கண்ணடக்கம்`, and is outside this story range.
+
+
+2026 source repairs: scan **161** historical `சூழ்நிலே` → `சூழ்நிலை` plus `விடவேண்டும்` → `விட வேண்டும்`; scan **163** two `நிலே` → `நிலை` plus `என்பது போல` → `என்பது போல்`. Scan **166** remains the independently checked Story 24 boundary.

@@ -80,3 +80,19 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 23.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+The Tamil source layer was reopened under the anthology dual-gate standard and received **5 source-proven repairs**:
+
+- historical `லை`: `சூழ்நிலே` → `சூழ்நிலை`;
+- historical `லை`: two `நிலே` → `நிலை`;
+- source spacing: `விடவேண்டும்` → `விட வேண்டும்`;
+- source wording: `என்பது போல` → `என்பது போல்`.
+
+The existing English already conveys all corrected meanings (“circumstances,” the two “war that shook...” clauses, and “As though...”). The spacing repair is non-semantic.
+
+- English prose rewrite required: **0**
+- canonical Tamil after re-audit: **CURRENT PASS / CLOSED**
+- Gate A / Gate B: **5/5 PASS / 5/5 PASS**
+- unresolved source/glyph readings: **0 / 0**

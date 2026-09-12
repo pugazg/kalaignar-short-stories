@@ -16,9 +16,9 @@ All five story scans were directly reviewed from the controlling PDF. Native emb
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
-| 152 | 161 | verified | heading `காதல் கடிதம்`; source forms `பக்கந்தான்`, `சூழ்நிலே-கூடாரத்தைவிட்டு`, `மரஞ்செடி கொடி`, `நேசதேசப்`; ends `...நேரம்போக, மிச்ச` |
+| 152 | 161 | verified | heading `காதல் கடிதம்`; source forms `பக்கந்தான்`, corrected historical-`லை` `சூழ்நிலை-கூடாரத்தைவிட்டு`, `மரஞ்செடி கொடி`, `நேசதேசப்`; ends `...நேரம்போக, மிச்ச` |
 | 153 | 162 | verified | completes with `முள்ள நேரமெல்லாம்`; letter begins; source forms `உழவலன்பு`, `அர்ச்சுனா-அர்ச்சுனா`, `அலறு வார்களே`, `சிரமேற்`; ends `...உயிர்ப்பிச்சை கொடு!` |
-| 154 | 163 | verified | letter closes with `பதில்-பதில்` and `சுந்தர் பாபு”`; source forms `கவனிக்கிறார் களோ`, `என்னை யறியாமல்`, `நிலே`, `ஆத்திரப்பட்டாதே`, `அறியணும்`; ends `...திரும்பிவர ஆரம்` |
+| 154 | 163 | verified | letter closes with `பதில்-பதில்` and `சுந்தர் பாபு”`; source forms `கவனிக்கிறார் களோ`, `என்னை யறியாமல்`, corrected historical-`லை` `நிலை`, `ஆத்திரப்பட்டாதே`, `அறியணும்`; ends `...திரும்பிவர ஆரம்` |
 | 155 | 164 | verified | completes `பித்தன.`; post-war return and dialogue; ends `...தன் நிலை மறந்தாள்; நீ அடிக்கடி` |
 | 156 | 165 | verified | completes `கூறுவாயே...`; final revelation and reflection; closing ornament |
 
@@ -44,7 +44,7 @@ No page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms are retained in `POSSIBLE_ERRORS_FOR_REVIEW.md`; an entry there is not proof of error. The unusual reading `சூழ்நிலே-கூடாரத்தைவிட்டு` remains explicitly queued for later human recheck while the page remains source-reviewed and structurally complete.
+Source-sensitive but legible forms are retained in `POSSIBLE_ERRORS_FOR_REVIEW.md`; an entry there is not proof of error. The former `சூழ்நிலே-கூடாரத்தைவிட்டு` queue item is resolved: independent historical-glyph review identifies the source form as `சூழ்நிலை-கூடாரத்தைவிட்டு`. The two scan-163 `நிலே` readings are likewise corrected to historical-`லை` `நிலை`. No human-review candidate remains pending.
 
 ## Assembly gate
 
@@ -59,3 +59,19 @@ Source-sensitive but legible forms are retained in `POSSIBLE_ERRORS_FOR_REVIEW.m
 ## Audit result
 
 **PASS — காதல் கடிதம் source range is fully transcribed and structurally source-complete: 5/5 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **5**
+- unresolved source / historical-glyph readings: **0 / 0**
+- scan 161: `சூழ்நிலே` → `சூழ்நிலை` (historical `லை`)
+- scan 161: `விடவேண்டும்` → `விட வேண்டும்`
+- scan 163: two `நிலே` → `நிலை` (historical `லை`)
+- scan 163: `என்பது போல` → `என்பது போல்`
+- English prose rewrite required: **0**
+- scan 166 independently reconfirmed as Story 24 `கண்ணடக்கம்`
