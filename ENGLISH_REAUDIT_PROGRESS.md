@@ -12,15 +12,15 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
 - E3 terminology / cultural consistency: **37 / 37 PASS — CLOSED**
-- E4 English quality: **13 / 37 PASS**
+- E4 English quality: **26 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
 - E3 terminology / cultural-consistency repairs: **6** (`ஆதரிக்கிறார்` 1, `ஒரிஜினலில் உள்ளபடி` 1, `பனங்குலை` 1, `கண்டதும் காதல் ஒழிக!` 1, `கண்ணடக்கம்` 1, `பாலைவன ரோஜா` 1)
-- E4 English-quality repairs: **11** (Stories 1–4, 6, 8–12; Stories 5, 7, 13 required 0)
+- E4 English-quality repairs: **25** (11 in Stories 1–13; 14 in Stories 14–26)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E4 — Stories 14–26, English quality without changing meaning**
+- exact next activity: **E4 — Stories 27–37, final 11-story English-quality batch**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -37,19 +37,19 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
-| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 17 | `பனங்குலை` | 117–121 | 126–130 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 18 | `செத்தவள் கதை` | 122–130 | 131–139 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **PASS** | **PASS** | **PASS** | **PASS** | PENDING |
 | 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 28 | `புரட்சிப் படம்` | 185–189 | 194–198 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
@@ -402,3 +402,42 @@ Batch result:
 ## Current next
 
 Continue **E4 Stories 14–26** using the 13-story cadence. Do not start E5 until E4 reaches 37/37 unless explicitly redirected.
+
+
+### E4 — Stories 14–26 batch
+
+Second 13-story E4 iteration is **COMPLETE — 13/13 PASS**.
+
+English-quality repairs in this batch: **14**.
+
+Repairs were limited to grammar, syntax, punctuation, tense/aspect and readability. No Tamil meaning, E2 fidelity decision, or E3 terminology convention was changed.
+
+Notable examples:
+
+- `முந்நூறு ரூபாய்`: repaired “his life felt anything but good,” naturalized the proprietor-gait sentence, and fixed a stray terminal comma.
+- `ஏழை`: removed the redundant “cut in the middle ... breaking its continuity” construction.
+- `ஒரிஜினலில் உள்ளபடி`: “a mocking laugh was pulled out of him” → **“a mocking laugh escaped him.”**
+- `பனங்குலை`: “refused to give him leave” → **“would not let him leave”** and corrected `seek:out`.
+- `செத்தவள் கதை`: “Words of muttering rose...” → **“Muttered words rose...”**
+- `பிரேத விசாரணை`: “The two were coming out” → **“The two came out.”**
+- `ஆலமரத்துப் புறாக்கள்`: “small miscellaneous helps” → **“small everyday help.”**
+- `தொத்துக்கிளி`: “held no flavour” → **“held no appeal.”**
+- `காதல் கடிதம்`: “involved in affairs of love” → **“in love.”**
+- `கண்ணடக்கம்`: “resumed his running journey” → **“resumed running.”**
+- `அபாக்ய சிந்தாமணி`: “return to a good condition” → **“recover.”**
+
+Stories `கண்டதும் காதல் ஒழிக!` and `வாழ முடியாதவர்கள்` required **0** E4 prose change; their remaining unusual phrasing is source-deliberate/source-governed.
+
+Batch result:
+
+- E4 stories closed this iteration: **13**
+- new E4 English-quality repairs: **14**
+- cumulative E4 repairs: **25**
+- Tamil changes: **0**
+- E2/E3 decisions altered: **0**
+- source reopenings: **0**
+- unresolved E4 issues: **0**
+
+## Current next
+
+Final E4 iteration: **Stories 27–37 — 11 stories**, beginning `பாலைவன ரோஜா` and ending `நுனிக்கரும்பு`. Do not start E5 until E4 is 37/37 unless explicitly redirected.

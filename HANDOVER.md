@@ -14,11 +14,11 @@
 - E1: **CLOSED — 37/37 PASS**
 - E2: **CLOSED — 37/37 PASS**
 - E3: **CLOSED — 37/37 PASS**
-- E4 English quality without changing meaning: **13/37 PASS**
+- E4 English quality without changing meaning: **26/37 PASS**
 - E5 final bilingual approval: **0/37**
 - cumulative E2 English fidelity repairs: **12**
 - cumulative E3 terminology/name repairs: **6**
-- cumulative E4 English-quality repairs: **11**
+- cumulative E4 English-quality repairs: **25**
 - unresolved English re-audit issues: **0**
 
 ## Iteration cadence
@@ -27,25 +27,25 @@ User-set cadence: **13 stories per iteration**.
 
 For E4:
 - Stories 1–13 — **COMPLETE / PASS**
-- Stories 14–26 — **NEXT**
-- Stories 27–37 — final 11 after that
+- Stories 14–26 — **COMPLETE / PASS**
+- Stories 27–37 — **NEXT / final 11**
 
-## Latest E4 batch — Stories 1–13
+## Latest E4 batch — Stories 14–26
 
 All **13/13 PASS**.
 
-- English-quality repairs: **11**
+- English-quality repairs: **14**
 - Tamil changes: **0**
 - source reopenings: **0**
 - E2/E3 decisions altered: **0**
 - unresolved E4 issues: **0**
 
-E4 changes were limited to grammar, syntax, punctuation and readability. Source rhetoric, ambiguity and E3 terminology conventions remain authoritative.
+Repairs were limited to English grammar, syntax, punctuation, tense/aspect and readability. Source rhetoric, ambiguity and the closed E3 terminology conventions remain authoritative.
 
 ## Exact next activity
 
-Process **E4 Stories 14–26** in one iteration:
+Process final E4 batch, **Stories 27–37**:
 
-`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
+`பாலைவன ரோஜா`, `புரட்சிப் படம்`, `திடுக்கிடும் கதை`, `கடைசிக் கட்டம்`, `அய்யோ ராஜா!`, `விஷம் இனிது`, `வேணியின் காதலன்`, `அமிர்தமதி`, `சுமந்தவள்`, `சித்தார்த்தன் சிலை`, `நுனிக்கரும்பு`.
 
-Review English quality only; preserve Tamil meaning and all closed E2/E3 decisions. Do not start E5.
+Review English quality only; preserve Tamil meaning and all closed E2/E3 decisions. Close E4 at 37/37 if all eleven pass. Do not start E5 in the same iteration.
