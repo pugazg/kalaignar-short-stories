@@ -42,7 +42,8 @@ Story 18 **செத்தவள் கதை** — scans **131–139 / printed 
 - page coverage: **5/5**
 - E1 repairs: **0**
 - unresolved E1 issues: **0**
-- E2–E5: **PENDING**
+- E2 meaning fidelity: **PASS**
+- E3–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 

@@ -41,7 +41,8 @@ Story 19 **பிரேத விசாரணை** — scans **140–145 / print
 - page coverage: **9/9**
 - E1 repairs: **1 structure-traceability annotation**
 - unresolved E1 issues: **0**
-- E2–E5: **PENDING**
+- E2 meaning fidelity: **PASS**
+- E3–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 

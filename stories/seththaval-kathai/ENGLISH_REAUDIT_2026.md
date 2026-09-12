@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
