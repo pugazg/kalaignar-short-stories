@@ -100,3 +100,29 @@ State after second E3 iteration:
 - unresolved E3 issues: **0**
 
 Next: final iteration **Stories 27–37**.
+
+
+## Conventions established through Stories 27–37
+
+- preserve the established spelling when Tamil pluralizes a personal name: `கந்தையா / கந்தையாக்கள்` → **Kandaiya / Kandaiyas**;
+- source lexical distinctions may coexist in English when Tamil itself distinguishes them, e.g. **Dravidam / Dravidian**;
+- source-shortened personal forms may remain shortened when demonstrably source-driven, e.g. **Jegaveera** beside **Jegaveerasimman**, **Kanda** beside **Kandan**;
+- direct family-address forms **Anna / Anni / Thambi** may remain transliterated where the source register is explicitly vocative;
+- source title/body morphology may differ without forced harmonization: **Siddharthan Silai** as title, **Siddhartha** in body identification;
+- established recurring deity convention remains **Siva**, with vocative **Muruga** preserved.
+
+## E3 repair history — Stories 27–37
+
+One repair:
+
+- Story 27 `பாலைவன ரோஜா`: **Kandayyas** → **Kandaiyas**.
+
+## E3 programme closure
+
+- E3: **CLOSED — 37/37 PASS**
+- cumulative English E3 repairs: **6**
+- unresolved E3 issues: **0**
+- Tamil changes caused by E3: **0**
+- source reopenings caused by E3: **0**
+
+Next gate: **E4 — English quality without changing meaning**.

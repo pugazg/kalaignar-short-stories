@@ -11,52 +11,35 @@
 
 ## Durable current state
 
-- E1: **CLOSED — 37/37 PASS**
-- E2: **CLOSED — 37/37 PASS**
-- E3 terminology / names / cultural consistency: **26/37 PASS**
-- E4: **0/37**
-- E5: **0/37**
+- E1 completeness / physical-page alignment: **CLOSED — 37/37 PASS**
+- E2 meaning fidelity: **CLOSED — 37/37 PASS**
+- E3 terminology / names / cultural consistency: **CLOSED — 37/37 PASS**
+- E4 English quality without changing meaning: **0/37**
+- E5 final bilingual approval: **0/37**
 - cumulative E2 English fidelity repairs: **12**
-- cumulative E3 English terminology/name repairs: **5**
+- cumulative E3 English terminology/name repairs: **6**
 - unresolved English re-audit issues: **0**
 
-Cross-anthology E3 ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
+E3 convention ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
 
-## E3 cadence
+## E3 closure
 
-User-set cadence: **13 stories per iteration**.
+All **37 stories are E3 PASS**.
 
-- Stories 1–13 — **COMPLETE / PASS**
-- Stories 14–26 — **COMPLETE / PASS**
-- Stories 27–37 — **NEXT / final 11**
+Final Stories 27–37 batch produced one repair:
 
-## Latest E3 batch — Stories 14–26
+- `பாலைவன ரோஜா`: **Kandayyas → Kandaiyas**.
 
-All **13/13 PASS**.
+No Tamil changed. No PDF/source reinspection was required. E3 unresolved: **0**.
 
-Repairs:
+## Iteration cadence
 
-- `ஒரிஜினலில் உள்ளபடி`: **Thirelapathi → Draupadi**
-- `பனங்குலை`: **Moga Vinayagampillai → Moga Vinayagam Pillai**
-- `கண்டதும் காதல் ஒழிக!`: **Thirelapathi → Draupadi** throughout
-- `கண்ணடக்கம்`: **Parvathi Devi → Parvati Devi**
-
-No Tamil changed. No PDF/source reinspection was required. Unresolved E3 issues: **0**.
+The user requested **13 stories per iteration**. Continue that cadence for the remaining English re-audit gates unless explicitly changed.
 
 ## Exact next activity
 
-Process final E3 batch, **Stories 27–37**:
+Process **E4 Stories 1–13** in one iteration.
 
-27. `பாலைவன ரோஜா`
-28. `புரட்சிப் படம்`
-29. `திடுக்கிடும் கதை`
-30. `கடைசிக் கட்டம்`
-31. `அய்யோ ராஜா!`
-32. `விஷம் இனிது`
-33. `வேணியின் காதலன்`
-34. `அமிர்தமதி`
-35. `சுமந்தவள்`
-36. `சித்தார்த்தன் சிலை`
-37. `நுனிக்கரும்பு`
+E4 checks English grammar, awkward phrasing, punctuation, readability, tense consistency, pronouns, dialogue and accidental literalism **without changing Tamil meaning**. Final Tamil and the already-closed E2/E3 decisions remain authoritative.
 
-Apply the durable E3 conventions ledger while preserving genuine source/story distinctions. Do not start E4 until E3 closes 37/37.
+Do not start E5 until E4 reaches 37/37.

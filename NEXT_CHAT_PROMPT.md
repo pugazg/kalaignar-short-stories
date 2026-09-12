@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E3 Stories 27–37 final
+# NEXT CHAT PROMPT — 1977 English re-audit / E4 Stories 1–13
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,23 +7,32 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 - Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS**
 - E1: **CLOSED — 37/37 PASS**
 - E2: **CLOSED — 37/37 PASS**
-- E3: **26/37 PASS**
-- E4–E5: **not started**
-- cumulative E3 English repairs: **5**
+- E3: **CLOSED — 37/37 PASS**
+- E4: **0/37 PASS**
+- E5: **not started**
+- cumulative E2 repairs: **12**
+- cumulative E3 repairs: **6**
 - unresolved English re-audit issues: **0**
 
-Stories **1–26 are E3 PASS**.
+Cross-anthology E3 convention ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
 
-Cross-anthology convention ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
-
-The user-set cadence is 13 stories per iteration; **11 stories remain**, so this is the final E3 iteration.
+The user requested **13 stories per iteration**.
 
 ## Exact next iteration
 
-Process E3 Stories **27–37**:
+Process **E4 Stories 1–13**:
 
-`பாலைவன ரோஜா`, `புரட்சிப் படம்`, `திடுக்கிடும் கதை`, `கடைசிக் கட்டம்`, `அய்யோ ராஜா!`, `விஷம் இனிது`, `வேணியின் காதலன்`, `அமிர்தமதி`, `சுமந்தவள்`, `சித்தார்த்தன் சிலை`, `நுனிக்கரும்பு`.
+`புகழேந்தி`, `நளாயினி`, `சபலம்`, `ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `சந்தனக்கிண்ணம்`, `சங்கிலிச்சாமி`, `கங்கையின் காதல்`, `தாய்மை`, `தப்பிவிட்டார்கள்`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `இரகசியம்!`.
 
-For each story read final Tamil, English, `TRANSLATION_REVIEW.md`, story-local `ENGLISH_REAUDIT_2026.md`, and the E3 convention ledger. Check names, honorifics, kinship/address terms, political/social/religious vocabulary, institutions/titles, transliteration, recurring idioms/concepts and culturally specific terms.
+For each story read final canonical Tamil, existing English, story-local `ENGLISH_REAUDIT_2026.md`, `TRANSLATION_REVIEW.md`, and E3 conventions.
 
-Record every repair or 0 repairs. Do not reopen the PDF unless a plausible Tamil-source issue emerges. Close E3 at 37/37 if all eleven pass. Do not start E4 in the same iteration.
+E4 is an English-quality pass only:
+
+- grammar and syntax;
+- awkward or accidentally literal English;
+- punctuation and dialogue readability;
+- tense and pronoun consistency;
+- natural English phrasing;
+- preserve source rhetoric, ambiguity, terminology and all E2/E3 meaning decisions.
+
+Record every English repair or 0 repairs. Do not modify Tamil. Do not reopen the PDF unless a plausible Tamil-source defect emerges. Do not start E5.
