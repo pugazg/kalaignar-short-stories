@@ -25,7 +25,7 @@
 
 ## Source-review notes
 
-All seven Story 37 pages were reviewed directly from the controlling scan. High-resolution renders and enlarged full-span crops were used for the opening verse, older Tamil glyph forms, unusual wording, punctuation and page joins. Contextual expectation was not substituted for printed evidence.
+All seven Story 37 pages were reviewed directly from the controlling scan. High-resolution renders and enlarged full-span crops were used for the opening verse, older Tamil glyph forms, unusual wording, punctuation and page joins. The 2026 dual-gate pass corrected two punctuation mismatches: scan 256 `ஒண்ணுமில்லே!...என்ன` → `ஒண்ணுமில்லே...என்ன`, and scan 258 `டே, டே!` → `டே டே!`. Contextual expectation was not substituted for printed evidence.
 
 Source-close forms retained include `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `நாறுவது`, `அத்தனைநாள் கடந்தவம்`, `முன்னேடி`, `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `காலக்கடன்களை`, `கேட்டாமலே`, `தணலான`, `அடுக்குளப்பக்கம்`, `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, and `இவனத் தெரியுமா?`. See `POSSIBLE_ERRORS_FOR_REVIEW.md` for the persistent human recheck layer.
 

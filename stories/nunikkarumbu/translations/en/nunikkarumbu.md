@@ -64,7 +64,7 @@ Amudha’s laughter reached his ear. At once his whole face broke into a sudden 
 
 “Hmm? What else?”
 
-“Nothing!...What is this—am I never to have a feast at your house?”
+“Nothing...What is this—am I never to have a feast at your house?”
 
 “Oh...freely! When are you coming? Whenever you come, there will be a feast.”
 
@@ -120,7 +120,7 @@ Two or three times in between, Arulnambi’s foot happened to touch Amudha’s f
 
 Arulnambi already knew that Amudha had a child, so he asked eagerly, “Oh! Our little fellow?” Amudha did not pay much attention to that. Looking at the child, she said:
 
-“Hey, hey! Kanna! Come on—say vanakkam to Grandpa!”
+“Hey hey! Kanna! Come on—say vanakkam to Grandpa!”
 
 <!-- anthology scan: 259; printed page: 250 -->
 

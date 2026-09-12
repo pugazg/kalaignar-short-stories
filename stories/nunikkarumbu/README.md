@@ -13,6 +13,23 @@ Canonical story workspace for **நுனிக்கரும்பு**, the 3
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A — source fidelity: **7/7 PASS**
+- Gate B — independent Old Tamil Glyph verification: **7/7 PASS**
+- source-proven repairs: **2 punctuation repairs**
+- scan **256 / printed 247**: `ஒண்ணுமில்லே!...என்ன` → **`ஒண்ணுமில்லே...என்ன`**
+- scan **258 / printed 249**: `டே, டே!` → **`டே டே!`**
+- historical-glyph repairs in Gate B: **0**
+- unresolved source / historical-glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English synchronization: **2 punctuation-only changes; 0 prose/meaning changes**
+- scan **260** independently reconfirmed as the anthology back-cover boundary witness
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 7 / 7 story pages transcribed and directly source-reviewed.**
@@ -55,6 +72,6 @@ The exact physical split `...காட்சிகளைக் காட்ட�
 
 ## Completion state
 
-**நுனிக்கரும்பு Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 253–259 / printed pages 244–250.**
+**நுனிக்கரும்பு is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 2 punctuation repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 253–259 / printed pages 244–250.
 
-This closes story-level Tamil, visual-fidelity and English-translation work for all **37 / 37** stories in the 1977 anthology.
+This closes the 2026 dual-gate story re-audit for all **37 / 37** stories in the 1977 anthology.

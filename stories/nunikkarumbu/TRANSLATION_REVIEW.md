@@ -59,8 +59,19 @@ The persistent human-review queue was read before translation. The English follo
 
 Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription.
 
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven Tamil repairs: **2 punctuation repairs**
+- scan 256: `ஒண்ணுமில்லே!...என்ன` → `ஒண்ணுமில்லே...என்ன`; English `Nothing!...What` → **`Nothing...What`**
+- scan 258: `டே, டே!` → `டே டே!`; English `Hey, hey!` → **`Hey hey!`**
+- English prose/meaning changes: **0**
+- unresolved source / historical-glyph readings: **0 / 0**
+
 ## Result
 
-**PASS — English translation complete for Story 37.**
+**PASS — English translation complete and synchronized for Story 37.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative. This completes the story-level English translation/review work for all **37 / 37** anthology stories, and the anthology-level control files are synchronized to the same 37/37 closure.

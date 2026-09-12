@@ -19,9 +19,9 @@ All seven story scans were directly reviewed from high-resolution source renders
 | 244 | 253 | verified | opening `நுனிக்கரும்பு`; verse, Amudha and Arulnambi setup |
 | 245 | 254 | verified | Arulnambi’s standing, desire for Amudha’s attention, felicitation approach |
 | 246 | 255 | verified | garland/green-room contact and next-morning telephone anticipation |
-| 247 | 256 | verified | phone conversation and dinner invitation |
+| 247 | 256 | verified | phone conversation and dinner invitation; 2026 punctuation repair `ஒண்ணுமில்லே...என்ன` |
 | 248 | 257 | verified | dinner arrival; page ends with split `உள்ளங்` |
-| 249 | 258 | verified | starts `களைக்...`; dinner/family return; child introduction |
+| 249 | 258 | verified | starts `களைக்...`; dinner/family return; child introduction; 2026 punctuation repair `டே டே!` |
 | 250 | 259 | verified | child prompted to greet “தாத்தா”; empty hall; final line and closing ornament |
 
 Totals: **7/7 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
@@ -35,7 +35,7 @@ Totals: **7/7 verified; 0 needs-review status pages; 0 blocked; 0 unresolved sto
 3. scans **255→256** / printed 246→247: `...கடிகாரத்தின் முட்களைச் சவுக்கால் அடித்து ஓட்டிக் கொண்டிருந்தார்.` → `மணி பத்தாயிற்று!`.
 4. scans **256→257** / printed 247→248: `“சைவமா? சேச்சே! மனிதன், மாமிசத்திற்குத் தானே அடிமை!”` → `“சரி, உங்களுக்குத் தனியா மாமிசம்...`.
 5. scans **257→258** / printed 248→249: exact split-word continuation `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?`; no missing or duplicated letters.
-6. scans **258→259** / printed 249→250: `“டே, டே! கண்ணு! எங்கே, தாத்தாவுக்கு வணக்கம் சொல்லு!”` → `என்று அவன் கரங்களைத் தொழுவதற்கான முறையில் கூப்பி வைத்தாள்.`.
+6. scans **258→259** / printed 249→250: `“டே டே! கண்ணு! எங்கே, தாத்தாவுக்கு வணக்கம் சொல்லு!”` → `என்று அவன் கரங்களைத் தொழுவதற்கான முறையில் கூப்பி வைத்தாள்.`.
 
 No story page is omitted or duplicated.
 
@@ -50,6 +50,22 @@ No story page is omitted or duplicated.
 
 Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
 
+## 2026 dual-gate re-audit
+
+- Gate A — source fidelity: **7/7 PASS**
+- Gate B — independent Old Tamil Glyph verification: **7/7 PASS**
+- source-proven repairs: **2 punctuation repairs**
+- scan **256 / printed 247**: `ஒண்ணுமில்லே!...என்ன` → **`ஒண்ணுமில்லே...என்ன`**
+- scan **258 / printed 249**: `டே, டே!` → **`டே டே!`**
+- Gate B source-confirmed representative families include `புண்ணாகி` (`ணா`), `தன்னை` (`னை`), `களைப்புத்` (`ளை`), `சென்றார்` (`றா`), `சொன்னார்கள்` (`னா`) and `எண்ணை` (`ணை`)
+- all mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` explicitly considered across scans 253–259
+- historical-glyph repairs: **0**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English synchronization: **2 punctuation-only changes**
+- scan **260** independently reconfirmed as the anthology back-cover boundary witness
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Audit result
 
-**PASS — நுனிக்கரும்பு source range is fully transcribed and structurally source-complete: 7/7 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — நுனிக்கரும்பு is 2026 CURRENT PASS / CLOSED: Gate A 7/7 PASS + Gate B 7/7 PASS, 2 punctuation repairs, 0 unresolved.**

@@ -28,10 +28,15 @@ All six joins remain source-complete, including 257→258 `...உள்ளங்
 
 ## Corrections made in this phase
 
-None. The opening verse structure, page roles, source-sensitive wording, final ornament and anthology boundary were already source-faithful.
+The earlier visual-fidelity phase required no structural correction. The subsequent 2026 direct dual-gate source re-audit found two punctuation mismatches:
 
-**Story wording changed: No.**
+- scan **256 / printed 247**: `ஒண்ணுமில்லே!...என்ன` → **`ஒண்ணுமில்லே...என்ன`**
+- scan **258 / printed 249**: `டே, டே!` → **`டே டே!`**
+
+No page-role, verse-lineation, physical-join, ending-ornament or anthology-boundary correction was required. Gate B found no historical-glyph repair.
+
+**Story wording changed: No lexical wording change; punctuation changed in two source-proven places.**
 
 ## Result
 
-**PASS**
+**PASS — visual structure remains source-faithful; 2026 Gate A 7/7 + Gate B 7/7, 2 punctuation repairs, 0 unresolved.**
