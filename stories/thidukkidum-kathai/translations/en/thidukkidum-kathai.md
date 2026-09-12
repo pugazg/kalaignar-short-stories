@@ -1,5 +1,8 @@
 # Thidukkidum Kathai
 
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source opening initial: enlarged/heavier நி in “நியூயார்க்” -->
+
 [Note: This imaginative piece is drawn from a small humorous anecdote.]
 
 <!-- source scan 199; printed page 190 -->

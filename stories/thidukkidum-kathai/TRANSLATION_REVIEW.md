@@ -139,3 +139,18 @@ No Tamil source issue was reopened and no English prose was retranscribed or ret
 - English prose rewrite required: **0**
 - 2026-09-02 page-anchor correction and `page-anchors.json`: **preserved unchanged**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **6/6 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **2 structure-traceability annotations**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+The existing human-adjudicated page anchoring remains PASS for all six scans. The prior downstream correction and `page-anchors.json` evidence were respected; no marker was moved in this E1 pass. The opening rule and enlarged-initial provenance annotations were restored; the standalone source note and `Love Story` / `Heroic Story` subsection structure remain represented.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

@@ -94,3 +94,13 @@ High-value source-close readings include `ஜாக்கையை`, `படை 
 ## Next anthology English activity
 
 Story 28 — TOC **`புரட்சிப்படம்`**, opening heading **`புரட்சிப் படம்`**, printed pages **185–189**, anthology scans **194–198**.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **5/5**
+- E1 repairs: **1 structure-traceability annotation**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

@@ -86,3 +86,13 @@ The marker positions have now been re-anchored against the six verified Tamil pa
 ## Next anthology English activity
 
 Story 30 — **கடைசிக் கட்டம்**, printed pages **196–201**, anthology scans **205–210**. Scan **211** opens Story 31 `அய்யோ ராஜா!`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **6/6**
+- E1 repairs: **2 structure-traceability annotations**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

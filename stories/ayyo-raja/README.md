@@ -68,3 +68,12 @@ On scan **217**, the correct source reading is **`என்றாள் மு�
 ## Completion state
 
 **அய்யோ ராஜா! is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 0 new repairs, 0 unresolved; the prior scan-217 historical-`றா` correction is revalidated.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 211–217 / printed pages 202–208.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **7/7**
+- E1 repairs: **1 structure-traceability annotation**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

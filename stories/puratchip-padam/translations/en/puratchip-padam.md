@@ -1,6 +1,8 @@
 # Puratchip Padam
 
 <!-- source scan 194; printed page 185 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
+<!-- source opening initial: enlarged/heavier டை in “டைரக்டர்” -->
 
 “Director sir! Don’t worry about money—you can put up whatever sets you like. Do you want America’s buildings to rise inside the studio? Must the very streets of Moscow be built? Shall we show a sea? Shall we summon the sky itself? Rain? Storm? Earthquake? Whatever you want, whatever it costs, the film must be a great film. And by a great film I don’t mean forty thousand feet long or something like CinemaScope, sir! It must run for a year in every town! Anyone who does not talk about this film should count as someone not yet born! Box-office collection is not the only aim! A magnificent story! Rare dialogue! Wonderful direction! Effortless acting! Enormous crowds! The whole country must be in an uproar like this. I am not making this film to earn money. I am going to spend the whole profit from it on building four or five colleges. I have already arranged the writer you like. In writing with a progressive outlook, he has no equal but himself. I have set aside half a crore of rupees for it. Selection of actors and actresses, shooting—the work must begin at once.”
 

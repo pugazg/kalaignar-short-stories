@@ -74,3 +74,13 @@ Direct source review confirmed the scan-194 opening rule/enlarged initial, prese
 ## Next anthology English activity
 
 Story 29 — **திடுக்கிடும் கதை**, printed pages **190–195**, anthology scans **199–204**. Scan **205** opens Story 30 `கடைசிக் கட்டம்`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **5/5**
+- E1 repairs: **2 structure-traceability annotations**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

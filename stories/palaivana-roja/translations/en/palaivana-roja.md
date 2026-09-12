@@ -1,6 +1,7 @@
 # Palaivana Roja
 
 <!-- source scan 189; printed page 180 -->
+<!-- source opening rule: long horizontal rule beneath the story heading -->
 
 “**We** are not merely students—we are the sculptors of the world to come!” Whenever he saw those ten students, **Kandaiya** would swear and say this. He would say it smiling. He kept repeating it as though reminding others of this alone were the purpose of his birth!
 

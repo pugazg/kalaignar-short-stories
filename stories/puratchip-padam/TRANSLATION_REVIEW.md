@@ -85,3 +85,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - source-proven Tamil repairs: **1 spacing repair**
 - English prose rewrite required: **0**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **5/5 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **2 structure-traceability annotations**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+The verified page records, rather than the legacy end-position comments in the assembled Tamil, were used as the boundary authority. All four joins align: 194→195 `மக்களத்` → `திருத்தும்`, 195→196 `தேன்பாகு` → `கற்கண்டு!`, 196→197 `சேதி` → `நாடெங்கும்`, and 197→198 the censor question/answer. Missing opening-rule and enlarged-initial annotations were restored.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

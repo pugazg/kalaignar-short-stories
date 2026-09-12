@@ -76,3 +76,13 @@ Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 ## Next anthology English activity
 
 Story 31 — **அய்யோ ராஜா!**, printed pages **202–208**, anthology scans **211–217**. Scan **218** opens Story 32 `விஷம் இனிது`.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **6/6**
+- E1 repairs: **1 structure-traceability annotation**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

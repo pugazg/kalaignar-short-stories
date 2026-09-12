@@ -1,6 +1,7 @@
 # Kadaisi Kattam
 
 <!-- source scan 205; printed page 196 -->
+<!-- source visual: long horizontal opening rule beneath the story title -->
 
 “Honourable Judge! The charge against me, standing here in the dock, is that I am a murderer! And I am going to admit it. I stand here ready to accept the punishment for it too. What if I refuse to accept it—where are you going to let me escape? I am not unaware that a hanging rope will be ready to tighten around my neck, and beside the prison a small pit will be ready to cover my body once its breath has stopped. Murderer—and not merely that, a man who murdered his mistress—a man who turned into a corpse a beloved woman who deceived her own husband and gave a place in her heart to a secret lover—the town will curse me in all these ways; kith and kin will revile me. Even if my body, covered by earth, is no longer before their eyes, I know they will spit on the name **Doctor Babu**. I wish to explain to you the reasons for the murder so that at least this petty history of mine may serve as a lesson to others.
 

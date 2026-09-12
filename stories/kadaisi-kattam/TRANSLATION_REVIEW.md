@@ -85,3 +85,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - source-proven Tamil repairs: **0 new repairs**
 - English prose rewrite required: **0**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **6/6 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 structure-traceability annotation**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All five joins remain traceable, including 205→206 the confession `...படைத்தவை` → `அல்ல!`, 207→208 `சமாதானப்` → `படுத்தி`, and 209→210 `நடிப்ப` → `தற்கு`. The missing opening-rule annotation was restored; the letter sign-off and closing rule were already represented.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

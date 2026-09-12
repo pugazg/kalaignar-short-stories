@@ -89,3 +89,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - source-proven Tamil repairs: **0 new repairs**
 - English prose rewrite required: **0**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **5/5 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 structure-traceability annotation**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All four joins remain traceable, including 191→192 `அவர்கள்` → `எல்லாருமே` represented as `They—` → `—all`. The opening bold emphasis on `நாம்` was already represented as **We**; the missing opening-rule provenance annotation was restored.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

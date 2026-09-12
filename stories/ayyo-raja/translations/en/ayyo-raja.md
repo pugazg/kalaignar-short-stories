@@ -1,6 +1,7 @@
 # Ayyo Raja!
 
 <!-- source scan 211; printed page 202 -->
+<!-- source visual: long horizontal opening rule beneath title; enlarged/heavier opening செ in சென்னை marks the first paragraph -->
 
 Do you know the Kodambakkam “railway gate” in Madras? There is hardly anyone in the city who has not cursed that gate. From actors, actresses, producers and workers rushing to studios to devotees going to the Lord of Vadapalani temple, people in cars, carts and rickshaws and people on foot will all be held up there, waiting for the red light in front of the gate to go out. After standing there in penance for a quarter of an hour, sometimes nearly half an hour, only then can they move. Comedians sitting in their cars will sing to themselves, “Kāmi Sathyabhama, open the door!” Devotees will make even the man beside them move aside with “Move a little, child—the sanctum is hidden!” and stare eagerly at the red light, waiting for it to go out.
 

@@ -72,3 +72,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா`: **revalidated**
 - English prose rewrite required: **0**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **7/7 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 structure-traceability annotation**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All six joins remain traceable against the verified page records, including 212→213 `கல கல வென` → `ஒலிக்க`, 214→215 `கையிலே` → `கண்ணாடி வளையல்கள்`, and 215→216 `உணர்ந்` → `தாள்`. The missing combined opening-rule/enlarged-initial annotation was restored.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
