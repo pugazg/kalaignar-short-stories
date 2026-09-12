@@ -9,15 +9,15 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 ## Current state
 
 - programme: **ACTIVE**
-- E1 completeness / physical-page alignment: **31 / 37 PASS**
+- E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **0 / 37 PASS**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
-- E1 structure-traceability annotation repairs: **17**
+- E1 structure-traceability annotation repairs: **18**
 - unresolved English re-audit issues: **0**
-- exact next activity: **E1 — Story 32 `விஷம் இனிது`, scans 218–224 / printed 209–215**
+- exact next activity: **E2 — Story 1 `புகழேந்தி`, meaning fidelity against final canonical Tamil**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -52,12 +52,12 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 34 | `அமிர்தமதி` | 222–229 | 231–238 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | PENDING | PENDING | PENDING | PENDING | PENDING |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 34 | `அமிர்தமதி` | 222–229 | 231–238 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 36 | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 
 ## E1 completed
 
@@ -127,6 +127,32 @@ Cumulative E1 through Story 31:
 - structure-traceability annotation repairs: **17**
 - unresolved: **0**
 
+### Stories 32–37 — E1 closure batch
+
+The remaining six stories are now E1 PASS:
+
+- `விஷம் இனிது` — 7/7 pages — **1 structure-traceability annotation repair**
+- `வேணியின் காதலன்` — 6/6 — 0 repairs
+- `அமிர்தமதி` — 8/8 — 0 repairs
+- `சுமந்தவள்` — 11/11 — 0 repairs
+- `சித்தார்த்தன் சிலை` — 3/3 — 0 repairs
+- `நுனிக்கரும்பு` — 7/7 — 0 repairs
+
+All six have **0 omitted Tamil spans, 0 duplicated English spans, 0 unsupported additions, 0 unresolved E1 issues**. Tamil/source was not reopened.
+
+The only new E1 repair in this closure batch restored the missing source opening-rule/enlarged-initial provenance annotation for `விஷம் இனிது`; no prose or marker changed.
+
+## E1 programme closure
+
+**E1 is CLOSED — 37/37 PASS.**
+
+Cumulative E1 findings:
+
+- page-anchor/content-boundary repairs: **8**
+- structure-traceability annotation repairs: **18**
+- unresolved E1 issues: **0**
+- Tamil/source reopenings caused by E1: **0**
+
 ## Next
 
-Continue **E1** with Story 32 `விஷம் இனிது`, scans **218–224 / printed 209–215**. Do not start E2 until all 37 stories have E1 PASS unless the user explicitly changes the phase order.
+Proceed to **E2 — meaning fidelity**, beginning with Story 1 `புகழேந்தி`, unless the user explicitly changes the gate order.

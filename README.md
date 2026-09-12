@@ -28,11 +28,11 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 
 - workflow: [`ENGLISH_REAUDIT_GUIDE.md`](ENGLISH_REAUDIT_GUIDE.md)
 - tracker: [`ENGLISH_REAUDIT_PROGRESS.md`](ENGLISH_REAUDIT_PROGRESS.md)
-- E1 completeness / physical-page alignment: **31 / 37 PASS**
+- E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2–E5: **not started**
 - E1 page-anchor/content-boundary repairs so far: **8**
-- E1 structure-traceability annotation repairs: **17**
-- exact next: **E1 Story 32 `விஷம் இனிது`, scans 218–224 / printed 209–215**
+- E1 structure-traceability annotation repairs: **18**
+- exact next: **E2 Story 1 `புகழேந்தி` — meaning fidelity against final canonical Tamil**
 
 ## Canonical stories
 
@@ -70,12 +70,12 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 | [`திடுக்கிடும் கதை`](stories/thidukkidum-kathai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`கடைசிக் கட்டம்`](stories/kadaisi-kattam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`அய்யோ ராஜா!`](stories/ayyo-raja/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 0 new repairs; 0 unresolved; prior `றா` correction revalidated** | **PASS — synchronized; English re-audit E1 PASS** |
-| [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 spacing repair; 0 unresolved** | **PASS — synchronized** |
-| [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`அமிர்தமதி`](stories/amirthamathi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`சுமந்தவள்`](stories/sumanthaval/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved** | **PASS — synchronized** |
-| [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 2 punctuation repairs; 0 unresolved** | **PASS — synchronized** |
+| [`விஷம் இனிது`](stories/visham-inidhu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 spacing repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`வேணியின் காதலன்`](stories/veniyin-kadhalan/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`அமிர்தமதி`](stories/amirthamathi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 10 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`சுமந்தவள்`](stories/sumanthaval/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 7 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`சித்தார்த்தன் சிலை`](stories/siddharthan-silai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`நுனிக்கரும்பு`](stories/nunikkarumbu/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 2 punctuation repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`நண்பனா?`](stories/nanbana/README.md) | **Tamil source PASS — 3/3 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`காந்தி தேசம்`](stories/gandhi-desam/README.md) | **Tamil source PASS — 13/13 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
 | [`அணில் குஞ்சு`](stories/anil-kunju/README.md) | **Tamil source PASS — 10/10 verified; 0 blocks; manual recheck queue open** | **PASS — complete** |
