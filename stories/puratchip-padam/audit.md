@@ -22,7 +22,7 @@ All five story scans were directly reviewed from native **3146×4826** embedded 
 | 186 | 195 | verified | continues `திருத்தும்...`; source-close `அறிவுக்கதை யொன்றை`, `ஆஷாடபூதித்தனங்கள்`; ends `...தேன்பாகு` |
 | 187 | 196 | verified | continues `கற்கண்டு!`; source-close `பாரபக்ஷம்`, `எதாவது`; ends `...என்ற சேதி` |
 | 188 | 197 | verified | continues `நாடெங்கும் பரவிற்று`; source-close `திலகநகரத்திலே`, `முற்றிற்று`; ends question about two censor cuts |
-| 189 | 198 | verified | censor punchline; repeated `வெட்டினர்கள்`; story conclusion and closing ornament |
+| 189 | 198 | verified | censor punchline; source spacing `இடத்தில் தான்`; repeated `வெட்டினர்கள்`; story conclusion and closing ornament |
 
 Totals: **5/5 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
@@ -47,4 +47,20 @@ No story page is omitted or duplicated.
 
 ## Audit result
 
-**PASS — புரட்சிப் படம் source range is fully transcribed and structurally source-complete: 5/5 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue and explicit preservation of the TOC/opening-heading variance.**
+**PASS — புரட்சிப் படம் source range is fully transcribed and structurally source-complete: 5/5 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 5/5 PASS + Gate B 5/5 PASS, 1 spacing repair, 0 unresolved; TOC/opening-heading variance preserved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **1**
+- scan 198: `சென்சார் இரண்டே இடத்தில்தான் வெட்டினர்கள்!` → `சென்சார் இரண்டே இடத்தில் தான் வெட்டினர்கள்!`
+- Gate B repairs: **0**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 199 independently reconfirmed as Story 29 `திடுக்கிடும் கதை`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

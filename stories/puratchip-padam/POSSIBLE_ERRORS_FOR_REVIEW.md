@@ -11,3 +11,10 @@ This is a persistent human-review queue, not a list of confirmed errors. All fiv
 - [x] scan 198 / printed 189 — repeated `வெட்டினர்கள்` and concluding `வீசிற்று` retained.
 
 A stronger source-supported correction may reopen any entry later, but no item above is currently treated as an unresolved story-text error.
+
+
+## 2026 dual-gate disposition
+
+- [x] scan 198 / printed 189 — source spacing corrected: legacy `சென்சார் இரண்டே இடத்தில்தான் வெட்டினர்கள்!` → `சென்சார் இரண்டே இடத்தில் தான் வெட்டினர்கள்!`. The later `ஆக இரண்டே இடம்தான்!` remains joined as printed.
+
+**0 pending / 0 unresolved.** All seven pre-existing source-sensitive `[x]` entries were independently reopened. Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 source-proven spacing repair**.

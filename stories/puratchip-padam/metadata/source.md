@@ -41,3 +41,8 @@ All five story pages are native high-resolution scan images at **3146×4826** pi
 ## Source-sensitive forms
 
 Source-close forms retained include `படப் பிடிப்பு`, `அறிவுக்கதை யொன்றை`, `படப்பிடிப்புவேலை`, `விளக்குவதாகயிருந்தது`, `ஆஷாடபூதித்தனங்கள்`, `படந்தான்`, `தாராசசாங்கத்தைப்`, `பாரபக்ஷம்`, `எதாவது`, `ஏமாற்றுதே`, `பரவிற்று`, `திலகநகரத்திலே`, `வெளுப்பாயிருந்தது`, `முற்றிற்று`, `வெட்டினர்கள்`, and `வீசிற்று`. These are preserved rather than silently normalized and are also recorded in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for later human rechecking.
+
+
+## 2026 dual-gate note
+
+All five story scans were independently reopened at native **3146×4826** resolution. One source-proven Gate-A spacing repair was made on scan 198: `இடத்தில்தான்` → `இடத்தில் தான்`. All pre-existing source-sensitive queue entries were rechecked; Gate B required no repair. Unresolved source/glyph readings: **0 / 0**. Scan 199 was independently reconfirmed as Story 29 `திடுக்கிடும் கதை`.

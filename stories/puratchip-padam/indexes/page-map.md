@@ -25,5 +25,9 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `needs-review`: **0**
 - `blocked`: **0**
 - unresolved / missing story text: **0**
+- 2026 dual-gate: **Gate A 5/5 PASS / Gate B 5/5 PASS — 1 spacing repair / 0 unresolved**
 
 Scan **199** begins Story 29, `திடுக்கிடும் கதை`, and is outside this story range.
+
+
+2026 source reread corrected scan **198** `இடத்தில்தான்` → `இடத்தில் தான்`. The TOC/opening-title variance remains unchanged.

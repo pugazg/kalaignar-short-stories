@@ -69,10 +69,19 @@ Notable conservative choices include:
 
 **None.**
 
-Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription.
+The later 2026 dual-gate source audit corrected only Tamil spacing on scan 198: `இடத்தில்தான்` → `இடத்தில் தான்`. The existing English sentence already carries the same meaning, so no prose rewrite was required.
 
 ## Result
 
 **PASS — English translation complete for Story 28.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven Tamil repairs: **1 spacing repair**
+- English prose rewrite required: **0**
+- unresolved source / historical-glyph readings: **0 / 0**

@@ -15,6 +15,21 @@ Canonical story workspace for Story 28, whose controlling anthology preserves th
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **1**
+  - scan 198: `இடத்தில்தான்` → `இடத்தில் தான்`
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 5 / 5 story pages transcribed and directly source-reviewed.**
@@ -32,7 +47,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 **PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
 
-Direct source review confirmed the scan-194 opening rule/enlarged initial, preserved the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` title variance, reconfirmed the existing source-bold publicity/display text on scans 196–197, and synchronized scan 198 to `story-ending` with its closing ornament. **Story wording changed: No.**
+Direct source review confirmed the scan-194 opening rule/enlarged initial, preserved the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` title variance, reconfirmed the existing source-bold publicity/display text on scans 196–197, and synchronized scan 198 to `story-ending` with its closing ornament. The 2026 reread additionally repaired source spacing `இடத்தில்தான்` → `இடத்தில் தான்`. **Story wording/spacing changed: Yes — one source-proven spacing repair.**
 
 ## Story boundary
 
@@ -54,7 +69,7 @@ Direct source review confirmed the scan-194 opening rule/enlarged initial, prese
 
 ## Completion state
 
-**புரட்சிப் படம் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 194–198 / printed pages 185–189, with the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` source-title variance preserved. English review result: PASS.**
+**புரட்சிப் படம் is 2026 CURRENT PASS / CLOSED: Gate A 5/5 + Gate B 5/5, 1 source-proven spacing repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 194–198 / printed pages 185–189, with the `புரட்சிப்படம்` ↔ `புரட்சிப் படம்` source-title variance preserved. English review result: PASS.
 
 ## Next anthology English activity
 

@@ -33,7 +33,7 @@ Scan 199 independently opens `திடுக்கிடும் கதை`; S
 3. page map and story controls synchronized;
 4. existing source-bold publicity/display text retained unchanged.
 
-**Story wording changed: No — structure/visual annotation only.**
+**Story wording/spacing changed: Yes — scan 198 source spacing `இடத்தில்தான்` → `இடத்தில் தான்`; structure/visual annotation remains source-faithful.**
 
 ## Result
 

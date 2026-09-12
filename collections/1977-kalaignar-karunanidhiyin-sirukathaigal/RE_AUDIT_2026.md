@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 27 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 28 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -133,8 +133,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 25 | `வாழ முடியாதவர்கள்` | 173–180 | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 26 | `அபாக்ய சிந்தாமணி` | 181–188 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 27 | `பாலைவன ரோஜா` | 189–193 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
-| 28 | `புரட்சிப் படம்` | 194–198 | **NEXT — REOPENED** |
-| 29 | `திடுக்கிடும் கதை` | 199–204 | REOPENED / pending |
+| 28 | `புரட்சிப் படம்` | 194–198 | **CURRENT PASS — 1 spacing repair / 0 unresolved** |
+| 29 | `திடுக்கிடும் கதை` | 199–204 | **NEXT — REOPENED** |
 | 30 | `கடைசிக் கட்டம்` | 205–210 | REOPENED / pending |
 | 31 | `அய்யோ ராஜா!` | 211–217 | REOPENED / pending |
 | 32 | `விஷம் இனிது` | 218–224 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 28 `புரட்சிப் படம்`, scans **194–198 / printed 185–189**. Preserve TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்`. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **199** only as the Story 29 `திடுக்கிடும் கதை` boundary witness; advance **27/37 → 28/37** only with zero unresolved; stop before Story 29.
+Re-audit Story 29 `திடுக்கிடும் கதை`, scans **199–204 / printed 190–195**. Complete Gate A **6/6** + independent Gate B **6/6**; use scan **205** only as the Story 30 `கடைசிக் கட்டம்` boundary witness; advance **28/37 → 29/37** only with zero unresolved; stop before Story 30.
 
 ### `தொத்துக்கிளி` closure
 
@@ -384,3 +384,17 @@ Full story record: `../../stories/abagya-chinthamani/RE_AUDIT_2026.md`.
 - scan 194 independently opens Story 28 `புரட்சிப் படம்` (TOC `புரட்சிப்படம்`)
 
 Full story record: `../../stories/palaivana-roja/RE_AUDIT_2026.md`.
+
+
+### `புரட்சிப் படம்` closure
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **1 spacing repair**
+- scan 198 `இடத்தில்தான்` → `இடத்தில் தான்`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்` preserved
+- scan 199 independently opens Story 29 `திடுக்கிடும் கதை`
+
+Full story record: `../../stories/puratchip-padam/RE_AUDIT_2026.md`.

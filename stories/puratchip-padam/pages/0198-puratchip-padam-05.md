@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0064142_கலைஞர்_கருணாநிதி
 transcription_method: "direct visual comparison with source scan; native/high-resolution full-span review"
 ---
 
-“ஆமாம் தோழர்களே! சென்சார் இரண்டே இடத்தில்தான் வெட்டினர்கள்!
+“ஆமாம் தோழர்களே! சென்சார் இரண்டே இடத்தில் தான் வெட்டினர்கள்!
 
 முதல் இடம்; டைட்டில் முடிந்ததும் வெட்டினர்கள்.
 
