@@ -45,3 +45,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 One mythological-name consistency repair was made. Source `திரெளபதி` is the same clearly identified figure rendered **Draupadi** elsewhere in the anthology; the English had retained **Thirelapathi** in the temple name. Those occurrences are now **Draupadi Amman Temple**, while source alternate `பாஞ்சாலி` remains **Panchali** because the Tamil itself changes the name form. Honorific **Swamigal** is retained where the source uses `சுவாமிகள்`, rather than flattened to ordinary `Swami`.
 
 English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One grammar/readability repair replaced the unnatural passive construction while preserving the source's mocking tone.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

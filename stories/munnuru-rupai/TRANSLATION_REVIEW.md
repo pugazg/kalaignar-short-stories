@@ -45,3 +45,12 @@ English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and social vocabulary are internally consistent: **Thangappan, Lakshminarayanan, Marx, Ayya**, school/teacher terminology, and the source wordplay around **Daridra Narayanan** are preserved without adding outside ideological explanation. Source-odd `எழுபட்டு`, `குதாகலமாய்` and `ஓடும்பிள்ளையாய்` remain conservative. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+Three English-quality repairs removed awkward literal phrasing and a stray terminal comma without altering the closed E2 meaning or E3 terminology.
+
+English-quality repairs: **3**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

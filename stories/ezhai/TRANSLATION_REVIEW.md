@@ -45,3 +45,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Personal names **Parvathi, Banu, Nallakkannu Pillai** and **Karunambal** are stable throughout the story. **Parvathi** is a human character name here and is deliberately not mechanically rewritten to the deity convention **Parvati**. Culturally marked **Aththaan, Appa, Ayyo** and the source-close `kaappa bag` remain as established. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One readability repair removed a redundant literal construction while preserving the source's point that the child's play repeatedly interrupts the couple's private leisure.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

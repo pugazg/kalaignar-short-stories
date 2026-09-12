@@ -42,7 +42,8 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - unresolved E1 issues: **0**
 - E2 meaning fidelity: **PASS**
 - E3 terminology / cultural consistency: **PASS**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -53,7 +54,8 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
 - E3 terminology / cultural consistency: **PASS**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
 
 
 ## English re-audit E3 closure
@@ -61,4 +63,13 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - terminology / names / cultural consistency: **PASS**
 - E3 English repairs: **0**
 - unresolved E3 issues: **0**
-- E4–E5: **PENDING**
+- E4 English quality: **PASS**
+- E5: **PENDING**
+
+
+## English re-audit E4 closure
+
+- English quality: **PASS**
+- E4 English-quality repairs: **3**
+- unresolved E4 issues: **0**
+- E5: **PENDING**
