@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -52,3 +52,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and culturally marked terms are consistent: **Muthamma, Raja, Ayyo, Ayya, Muruga, Palaniyandi, sari**, railway-gate/rickshaw vocabulary and **King of Nepal**. Source vocative `சாமி` in `அய்யா சாமி` remains **sami** because it is a colloquial address, not the title convention **Swami**. The child-name/king double sense of **Raja** remains intact. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

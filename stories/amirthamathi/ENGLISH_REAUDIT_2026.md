@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -50,3 +50,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and literary/religious terms are consistent with the embedded reference already seen earlier in the anthology: **Sundar, Yasodharan, Amirthamathi, Gunavathi, Attabangan, Yasodhara Kaviyam, kaviyam, Amma, Appa, Ayyo**. Source-opaque **kuthars** and **poon-romam** remain conservative. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

@@ -99,3 +99,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all ten 2026 glyph repairs and the earlier sentence synchronization restoring explicit `அணைத்து`. No new E2 prose repair was required. The narrator's complaint about literary theft, the embedded Yasodhara/Amirthamathi episode, Attabangan relationship, king's discovery, poisoning and final analogy between Amirthamathi and the plagiarist preserve source meaning and rhetorical structure. Verified opaque poetic forms remain for E3 terminology review.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and literary/religious terms are consistent with the embedded reference already seen earlier in the anthology: **Sundar, Yasodharan, Amirthamathi, Gunavathi, Attabangan, Yasodhara Kaviyam, kaviyam, Amma, Appa, Ayyo**. Source-opaque **kuthars** and **poon-romam** remain conservative. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

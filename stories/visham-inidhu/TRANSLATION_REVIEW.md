@@ -99,3 +99,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil and the 2026 spacing repair. No E2 prose repair was required. Amirtharani's accusation, Sathyavathi's temple concern, Arthol's filial relationship, Jegaveera's suspicion, poisoned-milk ordeal, Arthol's voluntary acceptance and final “poison is sweeter than God” indictment preserve the source's agency, kinship and rhetoric. Source-odd `என் அண்ணை`, repeated `அண்ண`, `pashaanam` and `kanjarang` remain for E3 rather than guessed in E2.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and religious/royal vocabulary are internally consistent: **Jegaveerasimman**, source-shortened **Jegaveera**, **Veerasimman**, **Sathyavathi, Amirtharani, Arthol**, plus **Rajaputra, Badshah, Rama/Ramapiran, pashaanam, Aalahalam**. The source's shortened `ஜெகவீரன்` is not mechanically expanded to the full personal name. Kinship language is translated naturally in context rather than forced into transliteration. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

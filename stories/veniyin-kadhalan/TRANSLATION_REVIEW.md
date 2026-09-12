@@ -108,3 +108,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the two 2026 repairs and prior `கூண்டுக் கிளி ஆக்குவேனென்றான்` correction. No E2 prose repair was required. Veni's account of coercion, Surya's past love for Kandan, widowhood and financial collapse, contemplated poisoning, moral reversal and final violent fall preserve the source's relationship structure and causality. Legal/social and caste-register expressions remain for E3 terminology review.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and social/legal vocabulary are stable: **Surya, Veni, Gundappan, Kandan/Kanda, Damodar, Kuttippatti Mudaliar, Amma, High Court**, and **kept woman** for source `வைப்பாட்டி`. Direct vocative **Kanda** is preserved where the Tamil shortens `கந்தன்`. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
