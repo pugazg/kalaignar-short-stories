@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `2aa14297ae8b9b44bc46fd394e6c8830e9182a0b` — `Close கடைசிக் கட்டம் 2026 dual-gate`
+- refreshed live checkpoint: `695da3e56938611ec1d5a43631fed9e6c6182004` — `Close அய்யோ ராஜா! 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 30 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 31 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -67,25 +67,25 @@ Current tracker state: **OPEN — 30 / 37 dual-gate complete**.
 - `புரட்சிப் படம்` — scans **194–198** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 spacing repair / 0 unresolved**; source `இடத்தில் தான்` restored; TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்` preserved; English prose rewrite 0.
 - `திடுக்கிடும் கதை` — scans **199–204** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 historical-glyph repairs / 0 unresolved**; `காதலே` → `காதலை` (`லை`), `என்னுல் தான்` → `என்னால் தான்` (`னா`); English prose rewrite 0; 2026-09-02 English page-anchor correction preserved.
 - `கடைசிக் கட்டம்` — scans **205–210** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **0 new repairs / 0 unresolved**; all six legacy source-sensitive groups reconfirmed; English prose rewrite 0.
+- `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` independently revalidated; English prose rewrite 0.
 
-Do not reopen these thirty stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirty-one stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 31 `அய்யோ ராஜா!`
+## Exact next activity — Story 32 `விஷம் இனிது`
 
-Workspace: `stories/ayyo-raja/`.
+Workspace: `stories/visham-inidhu/`.
 
-- scans **211–217 / printed 202–208**
+- scans **218–224 / printed 209–215**
 - canonical pages **7/7**
-- scan **218** is the boundary witness opening Story 32 `விஷம் இனிது`
+- scan **225** is the boundary witness opening Story 33 `வேணியின் காதலன்`
 - legacy human-review queue: **0 pending** at the legacy layer
-- durable prior old-glyph correction: scan 217 **`என்றாள் முத்தம்மா`**, not provisional `என்றுள்`; historical `றா`
 - source-sensitive checked forms to reopen during Gate A/B:
-  - [x] scan 211 / printed 202 — opening `அய்யோ ராஜா!`; `சபிக்காதவர்கள்`, `மட்டுந்தான்`, quoted gate songs and punctuation retained from the scan.
-  - [x] scan 212 / printed 203 — `இவர்களைத் தவிர` verified against the older type; `சோகரசக்`, `பாத்திரந்தான்`, and `காட்சியே` retained.
-  - [x] scan 213 / printed 204 — `கருத்தைப் பறிகொடுக்காதார்`, `ஒன்றுமாயிற்று`, `தரித்திரம் தாங்கமுடியாமல்`, and `ஜீவன் இருக்கிறதா இல்லையோ` retained from the source span.
-  - [x] scan 214 / printed 205 — source-close `பல்காரக் கூடையிலே`; enlarged native crop confirms quoted **`‘நீச நிகழ்ச்சி’க்கும்`**; `தன் உதிரத்தைக் காக்க` retained.
-  - [x] scan 215 / printed 206 — `காமப்பதுமைகள்`, `பகட்டுகள்`, `முத்தமாரி`, and the medical line `இரவு என்னென்ன மருத்துவங்களோ செய்துபார்த்தாள்` verified from enlarged native pixels.
-  - [x] scan 216 / printed 207 — spoken `கையிலே காசில்ல?` retained exactly; `போக்கு வரத்தே` retained rather than normalized.
-  - [x] scan 217 / printed 208 — **`என்றாள் முத்தம்மா`** verified after reopening the older `றா` glyph. Earlier provisional reading `என்றுள்` was rejected; the old Tamil typeface was the cause of the misread. `ஜனங்களையெல்லாம்`, `வரட்டுச் சிரிப்புகளை`, and quoted `‘கூலி’யை` retained.
+  - [x] scan 218 / printed 209 — opening `விஷம் இனிது`; `தீக்குளித்த திலகங்களைப்`, `வேற்றுவர்களோடு`, source spacing `அப்படி யெல்லாம்`, and `சொக்கத் தங்கம்—சுடர் மணி விளக்கு` retained.
+  - [x] scan 219 / printed 210 — `அன்பழைப்பு`, `சொல்லம்புகள்`, `புலி யொன்றினால்`, `அர்தோலை`, and the physical ending `சிறப்புடையதாயிருக்க` retained from the scan.
+  - [x] scan 220 / printed 211 — source-close `வரிப்பளுவைத்`, `எக்கேடும்`, `சூறாவளி`, and the physical ending `ரகசியமாகச்` retained.
+  - [x] scan 221 / printed 212 — `சாகசக்காரியா?`, letter reading `கண்டெடுக்கிறேன்`, `அர்த்த ராத்திரியிலும்`, `தலசுழன்றது`, `தன்னகம்`, and physical split `பாடிக்கொண்டிருக்` retained.
+  - [x] scan 222 / printed 213 — `சுக மடைய`, `கோயில்கொள்ளப்போகிறான்`, `காஞ்சரங் கனியே`, `பேசுகிறாய்க்கும்?`, `ஆலிங்கனத்துக்குத்`, and the source's accusation wording retained.
+  - [x] scan 223 / printed 214 — `நீலி`, `இந்தப் பாலைக்குடி`, `பாஷாணம்`, source spacing `இல்லை யென்பதை`, `என் அண்ணை`, `தகாப் போக்குடையோன்`, and repeated `அண்ண` forms retained.
+  - [x] scan 224 / printed 215 — joined source form `அவதூறிலிருந்துகாப்பாற்றுகிறாய்`, `புரியாதார்`, `அய்யன்`, and final **`ஆண்டவனை விட ஆலஹாலம் இனிது`** retained; closing ornament confirmed.
 
-Complete Gate A **7/7** and independent Gate B **7/7**; independently reopen all source-sensitive checked forms, especially the prior scan-217 `றா` correction and any other 13-family occurrences; preserve the physical splits 212→213, 214→215 and 215→216, the scan-217 closing ornament, and scan 218 only as Story 32 boundary witness; correct only source-proven mismatches; synchronize controls/affected English; advance **30/37 → 31/37** only with zero unresolved; stop before Story 32.
+Complete Gate A **7/7** and independent Gate B **7/7**; reopen all source-sensitive checked forms directly against source pixels; preserve scan-218 printer signature `க—14` as excluded furniture, the Amirtharani letter and two-line sign-off on scan 221, source-bold `அமிர்த ராணி`, physical splits 219→220 / 220→221 / 221→222, and scan-224 bold conclusion `ஆண்டவனை விட ஆலஹாலம் இனிது`; correct only source-proven mismatches; synchronize controls/affected English; advance **31/37 → 32/37** only with zero unresolved; stop before Story 33.
