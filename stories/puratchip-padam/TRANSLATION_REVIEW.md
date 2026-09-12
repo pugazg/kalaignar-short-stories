@@ -100,3 +100,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 The verified page records, rather than the legacy end-position comments in the assembled Tamil, were used as the boundary authority. All four joins align: 194→195 `மக்களத்` → `திருத்தும்`, 195→196 `தேன்பாகு` → `கற்கண்டு!`, 196→197 `சேதி` → `நாடெங்கும்`, and 197→198 the censor question/answer. Missing opening-rule and enlarged-initial annotations were restored.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 spacing repair. No E2 prose repair was required. Paramasivanandam's ideological film project, production/censorship argument, slogans, censor decision and two-cut punchline preserve the Tamil logic and satire. Film-register transliterations and `aashada-bhoothithanams` are terminology matters reserved for E3.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

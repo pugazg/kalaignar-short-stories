@@ -154,3 +154,12 @@ No Tamil source issue was reopened and no English prose was retranscribed or ret
 The existing human-adjudicated page anchoring remains PASS for all six scans. The prior downstream correction and `page-anchors.json` evidence were respected; no marker was moved in this E1 pass. The opening rule and enlarged-initial provenance annotations were restored; the standalone source note and `Love Story` / `Heroic Story` subsection structure remain represented.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including both 2026 glyph repairs and the pre-existing human-adjudicated page-anchor correction. No E2 prose repair was required. The lift/stair framing, Romeo–Thisbe/Pyramus love story, Antony's heroic story, Charles's final startling-story turn and subsection boundaries preserve source meaning and narrative order. Source-close classical names and opaque forms remain conservative for E3; no English meaning defect was proven.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

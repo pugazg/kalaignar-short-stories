@@ -104,3 +104,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All four joins remain traceable, including 191→192 `அவர்கள்` → `எல்லாருமே` represented as `They—` → `—all`. The opening bold emphasis on `நாம்` was already represented as **We**; the missing opening-rule provenance annotation was restored.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. Kandaiya's student ideals, poverty-driven reversal, caste/social critique, employment disappointment, constitutional irony and closing desert-rose image remain faithful in agency and rhetoric. Verified unusual `athimber`, `jaakkai`, `medanic-show` and botanical/cultural terms remain conservative for E3.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

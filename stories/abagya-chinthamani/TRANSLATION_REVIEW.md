@@ -105,3 +105,12 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 All seven joins remain traceable, including 182→183 `சிந்தாமணிக்குப்` → `பத்து வயது...` and 187→188 `அதற்` → `காகவே`. The source-displayed song blocks were already preserved; the missing opening-rule and enlarged-initial annotations were restored.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 `சோக கீதத்தில்` repair and the earlier source-sensitive closure corrections. No new E2 prose repair was required. Chinthamani's hereditary poverty, the mother's account, Jothiyanandam relationship, Sivanandam conflict, staged apparent infidelity, renunciation and the embedded Amirthamathi comparison preserve the source's meaning and narrative causality. Source-close song forms, `brikkaas`, `paala-pashaanam` and `madippichai` remain for E3 rather than speculative normalization.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
@@ -36,3 +39,16 @@ Structure-only annotation repair; no prose or marker regression fixture required
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including both 2026 glyph repairs and the pre-existing human-adjudicated page-anchor correction. No E2 prose repair was required. The lift/stair framing, Romeo–Thisbe/Pyramus love story, Antony's heroic story, Charles's final startling-story turn and subsection boundaries preserve source meaning and narrative order. Source-close classical names and opaque forms remain conservative for E3; no English meaning defect was proven.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**

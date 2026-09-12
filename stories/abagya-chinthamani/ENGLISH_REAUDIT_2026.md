@@ -11,7 +11,10 @@
 ## Gate state
 
 - E1: **PASS**
-- E2–E5: **PENDING**
+- E2: **PASS**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
 
 ## E1 result
 
@@ -36,3 +39,16 @@ Structure-only annotation repair; no prose/marker regression fixture required.
 ## Disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 `சோக கீதத்தில்` repair and the earlier source-sensitive closure corrections. No new E2 prose repair was required. Chinthamani's hereditary poverty, the mother's account, Jothiyanandam relationship, Sivanandam conflict, staged apparent infidelity, renunciation and the embedded Amirthamathi comparison preserve the source's meaning and narrative causality. Source-close song forms, `brikkaas`, `paala-pashaanam` and `madippichai` remain for E3 rather than speculative normalization.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
