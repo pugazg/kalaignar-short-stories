@@ -13,7 +13,7 @@
 
 - Scan 211 opens with heading `அய்யோ ராஜா!`, a long horizontal rule, and an enlarged/heavier opening `செ` in `சென்னை` marking the first paragraph.
 - Paragraph/dialogue structure across scans 211–217 matches the source; no display or verse block requiring new semantic markup was found.
-- The previously corrected old-glyph reading `என்றாள் முத்தம்மா` on scan 217 remains source-faithful and was not reopened by this visual-structure pass.
+- The previously corrected old-glyph reading `என்றாள் முத்தம்மா` on scan 217 remains source-faithful. The 2026 independent Gate-B pass explicitly reopened and revalidated that historical-`றா` decoding.
 - Scan 217 is already correctly typed as `story-ending` and retains a centered decorative closing ornament.
 - Running headers and printed page numbers remain excluded as page furniture.
 
@@ -34,3 +34,8 @@ Scan 218 independently opens `விஷம் இனிது`; Story 32 text is
 ## Result
 
 **PASS — corrected**
+
+
+## 2026 dual-gate note
+
+Gate A **7/7 PASS** and Gate B **7/7 PASS**. All seven story-page source-sensitive groups and mandatory historical-glyph families were independently rechecked; prior `என்றாள் முத்தம்மா` was revalidated and **0 new repairs / 0 unresolved** remain.

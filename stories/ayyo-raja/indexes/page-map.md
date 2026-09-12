@@ -12,4 +12,6 @@
 
 Totals: **7 / 7 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 7/7 PASS / Gate B 7/7 PASS — 0 new repairs / 0 unresolved**. Prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` revalidated.
+
 Physical next-story boundary witness: scan **218 / printed page 209** visibly opens Story 32 **`விஷம் இனிது`** and is not included in this workspace.

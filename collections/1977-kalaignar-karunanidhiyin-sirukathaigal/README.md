@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 30 / 37 CURRENT PASS.**
+**OPEN — 31 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -66,8 +66,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `புரட்சிப் படம்` — scans **194–198** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 spacing repair / 0 unresolved**; TOC `புரட்சிப்படம்` preserved; English prose rewrite 0.
 - `திடுக்கிடும் கதை` — scans **199–204** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 historical-glyph repairs / 0 unresolved**; English prose rewrite 0; page-anchor correction preserved.
 - `கடைசிக் கட்டம்` — scans **205–210** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
+- `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` revalidated; English prose rewrite 0.
 
-Do not reopen these thirty stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirty-one stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -209,11 +210,23 @@ Full story record: `../../stories/thidukkidum-kathai/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/kadaisi-kattam/RE_AUDIT_2026.md`.
 
+### `அய்யோ ராஜா!` closure
+
+- scans **211–217 / printed 202–208**
+- Gate A **7/7 PASS**
+- Gate B **7/7 PASS**
+- **0 new repairs / 0 unresolved**
+- prior scan-217 historical-`றா` correction **`என்றாள் முத்தம்மா`** revalidated
+- English prose rewrite **0**
+- scan 218 independently opens `விஷம் இனிது`
+
+Full story record: `../../stories/ayyo-raja/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 31 **`அய்யோ ராஜா!`** — scans **211–217 / printed pages 202–208** — **NEXT**.
+Story 32 **`விஷம் இனிது`** — scans **218–224 / printed pages 209–215** — **NEXT**.
 
-Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **218** only as the boundary witness opening Story 32 `விஷம் இனிது`. Advance to **31/37** only with zero unresolved; stop before Story 32.
+Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **225** only as the boundary witness opening Story 33 `வேணியின் காதலன்`. Advance to **32/37** only with zero unresolved; stop before Story 33.
 
 
 ## Legacy processing state

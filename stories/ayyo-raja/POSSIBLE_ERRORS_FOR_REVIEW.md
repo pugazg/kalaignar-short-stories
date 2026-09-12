@@ -12,3 +12,8 @@ This is a persistent human-review queue, not a list of confirmed errors. All sev
 - [x] scan 218 / printed 209 — independently inspected only as boundary witness; visibly opens Story 32 `விஷம் இனிது`; no Story 32 text included here.
 
 A stronger source-supported correction may reopen any entry later, but no item above is currently treated as an unresolved story-text error.
+
+
+## 2026 dual-gate disposition
+
+**0 pending / 0 unresolved.** All seven story-page source-sensitive groups and all mandatory historical-glyph families were independently reopened. The prior scan-217 old-glyph correction **`என்றாள் முத்தம்மா`** was explicitly re-proved as historical `றா`; **0 new repairs** were required.

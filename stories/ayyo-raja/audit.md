@@ -59,8 +59,23 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+The 2026 dual-gate pass independently reopened every source-sensitive story-page entry. All listed forms were source-reconfirmed. The earlier scan-217 correction `என்றுள்` → `என்றாள் முத்தம்மா` was independently re-proved as a historical-`றா` decoding. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — அய்யோ ராஜா! source range is fully transcribed and structurally source-complete: 7/7 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — அய்யோ ராஜா! source range is fully transcribed and structurally source-complete: 7/7 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 7/7 PASS + Gate B 7/7 PASS, 0 new repairs, 0 unresolved; prior historical-`றா` correction revalidated.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs in this pass: **0 new repairs**
+- prior scan-217 correction revalidated: `என்றுள்` (rejected provisional) → **`என்றாள் முத்தம்மா`** — historical `றா`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 218 independently reconfirmed as Story 32 `விஷம் இனிது`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 30 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 31 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -136,8 +136,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 28 | `புரட்சிப் படம்` | 194–198 | **CURRENT PASS — 1 spacing repair / 0 unresolved** |
 | 29 | `திடுக்கிடும் கதை` | 199–204 | **CURRENT PASS — 2 repairs / 0 unresolved** |
 | 30 | `கடைசிக் கட்டம்` | 205–210 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
-| 31 | `அய்யோ ராஜா!` | 211–217 | **NEXT — REOPENED** |
-| 32 | `விஷம் இனிது` | 218–224 | REOPENED / pending |
+| 31 | `அய்யோ ராஜா!` | 211–217 | **CURRENT PASS — 0 new repairs / 0 unresolved; prior `றா` correction revalidated** |
+| 32 | `விஷம் இனிது` | 218–224 | **NEXT — REOPENED** |
 | 33 | `வேணியின் காதலன்` | 225–230 | REOPENED / pending |
 | 34 | `அமிர்தமதி` | 231–238 | REOPENED / pending |
 | 35 | `சுமந்தவள்` | 239–249 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 31 `அய்யோ ராஜா!`, scans **211–217 / printed 202–208**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **218** only as the Story 32 `விஷம் இனிது` boundary witness; advance **30/37 → 31/37** only with zero unresolved; stop before Story 32.
+Re-audit Story 32 `விஷம் இனிது`, scans **218–224 / printed 209–215**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **225** only as the Story 33 `வேணியின் காதலன்` boundary witness; advance **31/37 → 32/37** only with zero unresolved; stop before Story 33.
 
 ### `தொத்துக்கிளி` closure
 
@@ -426,3 +426,16 @@ Full story record: `../../stories/thidukkidum-kathai/RE_AUDIT_2026.md`.
 - scan 211 independently opens Story 31 `அய்யோ ராஜா!`
 
 Full story record: `../../stories/kadaisi-kattam/RE_AUDIT_2026.md`.
+
+
+### `அய்யோ ராஜா!` closure
+
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs in this pass: **0 new repairs**
+- prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா`: **revalidated**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 218 independently opens Story 32 `விஷம் இனிது`
+
+Full story record: `../../stories/ayyo-raja/RE_AUDIT_2026.md`.

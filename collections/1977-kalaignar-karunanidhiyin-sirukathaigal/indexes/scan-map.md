@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 30/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 31/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -50,8 +50,8 @@
 | 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | **2026 Gate A 5/5 PASS / Gate B 5/5 PASS — 1 spacing repair / 0 unresolved**; opening `புரட்சிப் படம்` |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | **2026 Gate A 6/6 PASS / Gate B 6/6 PASS — 2 repairs / 0 unresolved** |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **2026 Gate A 6/6 PASS / Gate B 6/6 PASS — 0 new repairs / 0 unresolved** |
-| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | legacy complete — 7/7; **2026 NEXT** |
-| 32 | `விஷம் இனிது` | 209–215 | 218–224 | legacy complete — 7/7; 2026 pending |
+| 31 | `அய்யோ ராஜா!` | 202–208 | 211–217 | **2026 Gate A 7/7 PASS / Gate B 7/7 PASS — 0 new repairs / 0 unresolved; prior `றா` correction revalidated** |
+| 32 | `விஷம் இனிது` | 209–215 | 218–224 | legacy complete — 7/7; **2026 NEXT** |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | legacy complete — 6/6; 2026 pending |
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | legacy complete — 8/8; 2026 pending |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | legacy complete — 11/11; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 30 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 31 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -94,7 +94,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 30
 - `புரட்சிப் படம்` scans 194–198 — PASS / CLOSED — **1 spacing repair / 0 unresolved** (TOC `புரட்சிப்படம்`);
 - `திடுக்கிடும் கதை` scans 199–204 — PASS / CLOSED — **2 repairs / 0 unresolved**;
 - `கடைசிக் கட்டம்` scans 205–210 — PASS / CLOSED — **0 new repairs / 0 unresolved**;
-- `அய்யோ ராஜா!` scans 211–217 — **NEXT**.
+- `அய்யோ ராஜா!` scans 211–217 — PASS / CLOSED — **0 new repairs / 0 unresolved; prior `றா` correction revalidated**;
+- `விஷம் இனிது` scans 218–224 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 

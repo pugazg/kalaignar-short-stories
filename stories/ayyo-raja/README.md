@@ -13,6 +13,21 @@ Canonical story workspace for **அய்யோ ராஜா!**, processed from 
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs in this pass: **0 new repairs**
+- prior historical-`றா` correction revalidated: scan 217 **`என்றாள் முத்தம்மா`**, not rejected provisional `என்றுள்`
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 7 / 7 story pages transcribed and directly source-reviewed.**
@@ -29,7 +44,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 ## Old-glyph correction recorded
 
-On scan **217**, the correct source reading is **`என்றாள் முத்தம்மா`**. An earlier provisional `என்றுள்` reading was rejected after reinspection of the old Tamil `றா` glyph. The correction is propagated through the canonical Tamil layers and audit.
+On scan **217**, the correct source reading is **`என்றாள் முத்தம்மா`**. An earlier provisional `என்றுள்` reading was rejected after reinspection of the old Tamil `றா` glyph. The 2026 independent Gate-B pass has now **revalidated** that historical-`றா` decoding against the source and same-page comparators.
 
 ## English translation
 
@@ -52,4 +67,4 @@ On scan **217**, the correct source reading is **`என்றாள் மு�
 
 ## Completion state
 
-**அய்யோ ராஜா! Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 211–217 / printed pages 202–208.**
+**அய்யோ ராஜா! is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 0 new repairs, 0 unresolved; the prior scan-217 historical-`றா` correction is revalidated.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 211–217 / printed pages 202–208.

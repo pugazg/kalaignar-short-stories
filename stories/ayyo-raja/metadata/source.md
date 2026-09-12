@@ -33,3 +33,8 @@ Source-sensitive forms such as `இவர்களைத் தவிர`, `க�
 ## Boundary
 
 Scan **217** contains Story 31's final paragraph and ornamental closing mark. Scan **218** was independently inspected and visibly opens Story 32 **`விஷம் இனிது`**. No scan-218 Story 32 text is included in the Story 31 workspace.
+
+
+## 2026 dual-gate note
+
+All seven story scans were independently reopened at native **3146×4826** resolution. Every source-sensitive queue group and all mandatory historical-glyph families were rechecked. The prior scan-217 `என்றாள் முத்தம்மா` correction was re-proved as historical `றா`; no new canonical repair was required. Unresolved source/glyph readings: **0 / 0**. Scan 218 was independently reconfirmed as Story 32 `விஷம் இனிது`.
