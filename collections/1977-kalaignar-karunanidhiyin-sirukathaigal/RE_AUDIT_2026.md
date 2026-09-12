@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 33 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 34 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -139,8 +139,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 31 | `அய்யோ ராஜா!` | 211–217 | **CURRENT PASS — 0 new repairs / 0 unresolved; prior `றா` correction revalidated** |
 | 32 | `விஷம் இனிது` | 218–224 | **CURRENT PASS — 1 spacing repair / 0 unresolved** |
 | 33 | `வேணியின் காதலன்` | 225–230 | **CURRENT PASS — 2 repairs / 0 unresolved** |
-| 34 | `அமிர்தமதி` | 231–238 | **NEXT — REOPENED** |
-| 35 | `சுமந்தவள்` | 239–249 | REOPENED / pending |
+| 34 | `அமிர்தமதி` | 231–238 | **CURRENT PASS — 10 repairs / 0 unresolved** |
+| 35 | `சுமந்தவள்` | 239–249 | **NEXT — REOPENED** |
 | 36 | `சித்தார்த்தன் சிலை` | 250–252 | REOPENED / pending |
 | 37 | `நுனிக்கரும்பு` | 253–259 | REOPENED / pending |
 
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 34 `அமிர்தமதி`, scans **231–238 / printed 222–229**. Complete Gate A **8/8** + independent Gate B **8/8**; use scan **239** only as the Story 35 `சுமந்தவள்` boundary witness; advance **33/37 → 34/37** only with zero unresolved; stop before Story 35.
+Re-audit Story 35 `சுமந்தவள்`, scans **239–249 / printed 230–240**. Complete Gate A **11/11** + independent Gate B **11/11**; reopen the four strong 1977 controlling-source candidates `சன சுரத்தை`, `அவள் உள்ளத்தில்`, `முழுங்கால்`, and `திரு திருவென்று`; use scan **250** only as the Story 36 `சித்தார்த்தன் சிலை` boundary witness (TOC `சித்தார்த்தன்`); advance **34/37 → 35/37** only with zero unresolved; stop before Story 36.
 
 ### `தொத்துக்கிளி` closure
 
@@ -468,3 +468,16 @@ Full story record: `../../stories/visham-inidhu/RE_AUDIT_2026.md`.
 - scan 231 independently opens Story 34 `அமிர்தமதி`
 
 Full story record: `../../stories/veniyin-kadhalan/RE_AUDIT_2026.md`.
+
+
+### `அமிர்தமதி` closure
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **10 historical-glyph repairs**
+- repaired families: `றா`, `னா`, `னை`, `ணை`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **1 sentence**
+- scan 239 independently opens Story 35 `சுமந்தவள்`
+
+Full story record: `../../stories/amirthamathi/RE_AUDIT_2026.md`.

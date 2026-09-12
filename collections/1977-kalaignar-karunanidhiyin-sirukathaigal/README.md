@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 33 / 37 CURRENT PASS.**
+**OPEN — 34 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -69,8 +69,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` revalidated; English prose rewrite 0.
 - `விஷம் இனிது` — scans **218–224** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 spacing repair / 0 unresolved**; scan 219 `இவள்தான்` → `இவள் தான்`; English prose rewrite 0.
 - `வேணியின் காதலன்` — scans **225–230** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 punctuation/spacing repairs / 0 unresolved**; prior scan-228 `ஆக்குவேனென்றான்` correction revalidated; English prose rewrite 0, punctuation-only sync 1.
+- `அமிர்தமதி` — scans **231–238** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **10 historical-glyph repairs / 0 unresolved**; English prose rewrite 1 sentence.
 
-Do not reopen these thirty-three stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirty-four stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -250,11 +251,23 @@ Full story record: `../../stories/visham-inidhu/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/veniyin-kadhalan/RE_AUDIT_2026.md`.
 
+### `அமிர்தமதி` closure
+
+- scans **231–238 / printed 222–229**
+- Gate A **8/8 PASS**
+- Gate B **8/8 PASS**
+- **10 historical-glyph repairs / 0 unresolved**
+- repaired families: `றா`, `னா`, `னை`, `ணை`
+- English prose rewrite **1 sentence**
+- scan 239 independently opens `சுமந்தவள்`
+
+Full story record: `../../stories/amirthamathi/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 34 **`அமிர்தமதி`** — scans **231–238 / printed pages 222–229** — **NEXT**.
+Story 35 **`சுமந்தவள்`** — scans **239–249 / printed pages 230–240** — **NEXT**.
 
-Complete Gate A **8/8** and independent Gate B **8/8**. Use scan **239** only as the boundary witness opening Story 35 `சுமந்தவள்`. Advance to **34/37** only with zero unresolved; stop before Story 35.
+Complete Gate A **11/11** and independent Gate B **11/11**. Reopen the controlling 1977 source directly, especially the four strong witness-driven candidates `சன சுரத்தை`, `அவள் உள்ளத்தில்`, `முழுங்கால்`, and `திரு திருவென்று`; the 2009 witness is comparative evidence only and must not override the 1977 source. Use scan **250** only as the boundary witness opening Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`). Advance to **35/37** only with zero unresolved; stop before Story 36.
 
 
 ## Legacy processing state
