@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -50,3 +50,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and cultural/literary vocabulary are stable: **Arulnambi, Amudha, Bharathidasan, Mother Art, Muruga, Siva, Thiruppugazh**. The recurring deity forms match the anthology conventions (**Muruga** vocative; **Siva**). Source-opaque **naaruvathu** remains deliberately conservative, and `நம்பப் பயலா?` remains minimally rendered without forcing a stronger kinship identification. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

@@ -98,3 +98,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including both 2026 punctuation synchronizations. No new E2 prose repair was required. The Bharathidasan verse, Arulnambi's attraction to Amudha, garland/telephone/dinner sequences, final family reveal and closing irony preserve the Tamil's suggestive tone, relationships and causality without adding sexual detail. Source-opaque `நாறுவது நடன நிகழ்ச்சி` remains conservatively represented for E3 rather than normalized by expectation.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and cultural/literary vocabulary are stable: **Arulnambi, Amudha, Bharathidasan, Mother Art, Muruga, Siva, Thiruppugazh**. The recurring deity forms match the anthology conventions (**Muruga** vocative; **Siva**). Source-opaque **naaruvathu** remains deliberately conservative, and `நம்பப் பயலா?` remains minimally rendered without forcing a stronger kinship identification. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

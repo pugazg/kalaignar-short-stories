@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -50,3 +50,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and kinship/address terms are internally consistent: **Sekar, Maragatham, Soundari, Anna, Anni, Thambi, Amma, kanna**. E3 preserves these direct-address forms because the Tamil register is explicitly familial; ordinary narrative references remain naturally translated as brother, sister-in-law, mother, etc. Source-sensitive **Hyder-era sewing machine** and the milk/medicine metaphor remain unchanged. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

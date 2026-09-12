@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -50,3 +50,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+The source-title variance remains preserved: TOC **Siddharthan**, story heading **Siddharthan Silai**. In the story body, **Siddhartha** and **Buddha** reflect the explicit religious identification supplied by the Tamil rather than an outside normalization. **Bhagavan** and the translated beloved/husband language preserve the source register. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

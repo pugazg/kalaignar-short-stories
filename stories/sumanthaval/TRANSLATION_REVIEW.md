@@ -101,3 +101,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including all seven 2026 repairs and the scan-246 phrase synchronization. No new E2 prose repair was required. The narrator's meditation on motherhood, Sekar–Maragatham marriage, Soundari's exploitation of Maragatham, childbirth/feeding conflict, illness and Sekar's revolt preserve source relationships, agency and critique. Source-confirmed anomalies such as `அவள் உள்ளத்தில்`, `களித்துப்போய்`, `Hyder-era sewing machine` and the milk/medicine metaphor remain source-governed and are deferred to E3/E4 where appropriate.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and kinship/address terms are internally consistent: **Sekar, Maragatham, Soundari, Anna, Anni, Thambi, Amma, kanna**. E3 preserves these direct-address forms because the Tamil register is explicitly familial; ordinary narrative references remain naturally translated as brother, sister-in-law, mother, etc. Source-sensitive **Hyder-era sewing machine** and the milk/medicine metaphor remain unchanged. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
