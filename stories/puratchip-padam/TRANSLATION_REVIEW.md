@@ -109,3 +109,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 spacing repair. No E2 prose repair was required. Paramasivanandam's ideological film project, production/censorship argument, slogans, censor decision and two-cut punchline preserve the Tamil logic and satire. Film-register transliterations and `aashada-bhoothithanams` are terminology matters reserved for E3.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names, title forms and political/film vocabulary are internally consistent: **Paramasivanandam, Sevvaanam, Tara-Sasankam, Dravidian**, censor terminology and source-close **aashada-bhoothithanams**. The TOC/opening-title distinction remains documented rather than normalized. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

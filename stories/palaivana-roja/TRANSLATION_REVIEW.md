@@ -113,3 +113,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. Kandaiya's student ideals, poverty-driven reversal, caste/social critique, employment disappointment, constitutional irony and closing desert-rose image remain faithful in agency and rhetoric. Verified unusual `athimber`, `jaakkai`, `medanic-show` and botanical/cultural terms remain conservative for E3.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+One personal-name consistency repair was made. The character name is consistently `கந்தையா` / **Kandaiya**; the pluralized English phrase had drifted to **Kandayyas**. It is now **Kandaiyas**, preserving the established spelling when Tamil pluralizes `கந்தையாக்கள்`. Political/source vocabulary **Dravidam / Dravidian**, and source-close **athimber, jaakkai, medanic-show, erukku** remain differentiated rather than flattened.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

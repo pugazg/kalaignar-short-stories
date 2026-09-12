@@ -109,3 +109,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil. No E2 prose repair was required. Doctor Babu's confession, Kokila/Manjula/Gopal relationships, the shooting sequence, courtroom questioning and final revelation that the “court” is a stage-company scene preserve source agency, chronology and irony. Unusual source phrases already handled conservatively remain terminology/style matters for E3/E4.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and modern/legal-stage vocabulary are stable: **Doctor Babu, Manjula, Kokila, Gopal, Honourable Judge**, quoted **revolver**, **make-up**, dismissal/court language and the final drama-company reveal. No cross-anthology terminology conflict was found. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

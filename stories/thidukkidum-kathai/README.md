@@ -104,4 +104,13 @@ Story 30 — **கடைசிக் கட்டம்**, printed pages **196�
 - English fidelity repairs: **0**
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
+
+
+## English re-audit E3 closure
+
+- terminology / names / cultural consistency: **PASS**
+- E3 English repairs: **0**
+- unresolved E3 issues: **0**
+- E4–E5: **PENDING**

@@ -163,3 +163,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including both 2026 glyph repairs and the pre-existing human-adjudicated page-anchor correction. No E2 prose repair was required. The lift/stair framing, Romeo–Thisbe/Pyramus love story, Antony's heroic story, Charles's final startling-story turn and subsection boundaries preserve source meaning and narrative order. Source-close classical names and opaque forms remain conservative for E3; no English meaning defect was proven.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Classical/literary names and story labels are consistent: **Romeo, Antony, Charles, Ovid, Thisbe, Pyramus**, with source-close **Nisin's tomb** retained because outside classical-source identification would exceed the source. The unnamed political/caste allegory remains deliberately unnamed. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

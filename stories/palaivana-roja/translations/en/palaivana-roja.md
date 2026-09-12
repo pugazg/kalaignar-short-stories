@@ -29,7 +29,7 @@ A statesman praised by the whole world, a scientific wizard, an expert painter, 
 
 Poor fellows! Their future had begun without stain, unlike a gamble; their student days gave them no warning of what age would turn that future into!
 
-Circumstance is a sorceress dancing a sadir! Youth may surge, and there may be strength enough to destroy an enemy at a mere “Hmm”—yet she abandons all that and, with the smile of wealth, garlands a corpse sunk in decay. How could poor Kandayyas escape the cold grip of that deceptive sorceress called circumstance?
+Circumstance is a sorceress dancing a sadir! Youth may surge, and there may be strength enough to destroy an enemy at a mere “Hmm”—yet she abandons all that and, with the smile of wealth, garlands a corpse sunk in decay. How could poor Kandaiyas escape the cold grip of that deceptive sorceress called circumstance?
 
 Years passed like this. I was moving along in a running train, saying “Ticket please!” That man sat silent, letting his thoughts graze somewhere far away. Thinking, “Right—here is one fellow caught,” I tapped him. He turned. “Don’t you recognize me, sir? I am Kandaiya, sir—the one who studied with you in college!” he said.
 
