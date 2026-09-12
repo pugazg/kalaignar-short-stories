@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `d6b3e7a7c65065ec40487c89a23ef484645d3fe3` — `Close காதல் கடிதம் 2026 dual-gate`
+- refreshed live checkpoint: `f7037f1621dd191931b98737f4363de53d512032` — `Close கண்ணடக்கம் 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 23 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 24 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -60,23 +60,33 @@ Current tracker state: **OPEN — 23 / 37 dual-gate complete**.
 - `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; 88 historical-`றா` pigeon-root repairs plus one scan-151 wording repair; English `purru` terminology synchronized to `puraa`.
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; scan 159 `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`; opaque legacy candidates source-reconfirmed; English prose rewrite 0.
 - `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; three historical-`லை` repairs plus scan-161 spacing and scan-163 `போல்`; English prose rewrite 0.
+- `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; historical `ணை` and `னா` repairs plus seven wording/spacing repairs; English synchronized in 6 phrases.
 
-Do not reopen these twenty-three stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-four stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 24 `கண்ணடக்கம்`
+## Exact next activity — Story 25 `வாழ முடியாதவர்கள்`
 
-Workspace: `stories/kannadakkam/`.
+Workspace: `stories/vazha-mudiyathavargal/`.
 
-- scans **166–172 / printed 157–163**
-- canonical pages **7/7**
-- scan **173** is the boundary witness opening Story 25 `வாழ முடியாதவர்கள்`
-- persistent human-recheck candidates:
-  - scan 167: `நீண்ட கழியில் ஒரு துணி ஏண்;`
-  - scan 168: `ஊரிலே குறை நடக்கிறே உனக்குத் தெரியாதா?`
-  - scan 169: `பிணக்கொலு கண்டு பெரு மகிழ்வு கொள்ளும்`
-  - scan 171: `நம்முலகு செல்லும் மக்களை மீட்க`
+- scans **173–180 / printed 164–171**
+- canonical pages **8/8**
+- scan **181** is the boundary witness opening Story 26 `அபாக்ய சிந்தாமணி`
+- persistent human-recheck candidates from the current queue:
+  - [ ] `பிரம்மாவைப் போட்டு கவாட்டா செய்கிறான் சார்` — native/high-resolution span reads `கவாட்டா`; unusual form retained for later human recheck.
+  - [ ] `‘காலேஜ் வேடர்’ களும்` — source visibly prints this form/spacing; retained for later human recheck.
+  - [ ] `சிறகை படித்துக் கொண்டன` retained from the visible source span.
+  - [ ] `வயிற்றின் ஜீலு ஜீலுப்பைப் பீடிப்புகை` — native span directly rechecked; unusual wording retained.
+  - [ ] `இந்த நிலையில் ஏழைக்குக் கல்யாண எழவா?......` retained from source.
+  - [ ] `கேட்கவேண்டிய தில்ல;` retained from source.
+  - [ ] `டாக்டர் தர்மவானை மாறவேண்டும்` retained from the full phrase.
+  - [ ] `‘கிம்பள சான்ஸ்’` retained from source.
+  - [ ] `எந்தப் பெண்ணுல்தான் தாங்கிக்கொள்ள இயலும்` retained from source-sensitive span.
+  - [ ] `அகட்டிப் பேசுவது போலிருந்தது` retained from source.
+  - [ ] `விஷமேறி நடுங்கும் அவன் ஈர விரல்கள்` directly rechecked in enlarged span.
+  - [ ] `மெதுவாக அழுக்கியது` retained from the native source rather than normalized to a contextually expected verb.
+  - [ ] `அந்தக் கற்பினைக் பெயரால் ஏற்பட்ட தீவிதி` — enlarged source span reads this way; retained for later human recheck.
 
-Complete Gate A **7/7** and independent Gate B **7/7**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **23/37 → 24/37** only with zero unresolved; stop before Story 25.
+Complete Gate A **8/8** and independent Gate B **8/8**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **24/37 → 25/37** only with zero unresolved; stop before Story 26.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 

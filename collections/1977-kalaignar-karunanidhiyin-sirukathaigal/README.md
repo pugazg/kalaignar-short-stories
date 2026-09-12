@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 23 / 37 CURRENT PASS.**
+**OPEN — 24 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -59,8 +59,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; English terminology synchronized.
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; English prose rewrite 0.
+- `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; English synchronized in 6 phrases.
 
-Do not reopen these twenty-three stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-four stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -110,11 +111,24 @@ Full story record: `../../stories/thothukkili/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/kadhal-kaditham/RE_AUDIT_2026.md`.
 
+### `கண்ணடக்கம்` closure
+
+- scans **166–172 / printed 157–163**
+- Gate A **7/7 PASS**
+- Gate B **7/7 PASS**
+- **9 source-proven repairs / 0 unresolved**
+- historical glyphs: `துணி ஏண்` → `துணி ஏணை` (`ணை`); `நானு` → `நானா` (`னா`)
+- source wording: two `குறை` → `சூறை`; `மானுடின்ற` → `மாளுகின்ற`; `ஜீவவிட்ட` → `ஜில்லிட்ட`; `விக்கிரகத்தின்` → `விக்ரகத்தின்`; `நம்முலகு` → `நமனுலகு`; `அந்தவேதனையான` → `அந்த வேதனையான`
+- English synchronized in **6 phrases**
+- scan 173 independently opens `வாழ முடியாதவர்கள்`
+
+Full story record: `../../stories/kannadakkam/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 24 **`கண்ணடக்கம்`** — scans **166–172 / printed pages 157–163** — **NEXT**.
+Story 25 **`வாழ முடியாதவர்கள்`** — scans **173–180 / printed pages 164–171** — **NEXT**.
 
-Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **173** only as the boundary witness opening Story 25 `வாழ முடியாதவர்கள்`. Advance to **24/37** only with zero unresolved; stop before Story 25.
+Complete Gate A **8/8** and independent Gate B **8/8**. Use scan **181** only as the boundary witness opening Story 26 `அபாக்ய சிந்தாமணி`. Advance to **25/37** only with zero unresolved; stop before Story 26.
 
 
 ## Legacy processing state

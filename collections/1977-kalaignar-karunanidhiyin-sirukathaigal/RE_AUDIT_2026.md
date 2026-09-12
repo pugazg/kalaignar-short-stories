@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 23 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 24 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -129,8 +129,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **CURRENT PASS — 89 repairs / 0 unresolved** |
 | 22 | `தொத்துக்கிளி` | 156–160 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 23 | `காதல் கடிதம்` | 161–165 | **CURRENT PASS — 5 repairs / 0 unresolved** |
-| 24 | `கண்ணடக்கம்` | 166–172 | **NEXT — REOPENED** |
-| 25 | `வாழ முடியாதவர்கள்` | 173–180 | REOPENED / pending |
+| 24 | `கண்ணடக்கம்` | 166–172 | **CURRENT PASS — 9 repairs / 0 unresolved** |
+| 25 | `வாழ முடியாதவர்கள்` | 173–180 | **NEXT — REOPENED** |
 | 26 | `அபாக்ய சிந்தாமணி` | 181–188 | REOPENED / pending |
 | 27 | `பாலைவன ரோஜா` | 189–193 | REOPENED / pending |
 | 28 | `புரட்சிப் படம்` | 194–198 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 24 `கண்ணடக்கம்`, scans **166–172 / printed 157–163**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **173** only as the Story 25 `வாழ முடியாதவர்கள்` boundary witness; advance **23/37 → 24/37** only with zero unresolved; stop before Story 25.
+Re-audit Story 25 `வாழ முடியாதவர்கள்`, scans **173–180 / printed 164–171**. Complete Gate A **8/8** + independent Gate B **8/8**; use scan **181** only as the Story 26 `அபாக்ய சிந்தாமணி` boundary witness; advance **24/37 → 25/37** only with zero unresolved; stop before Story 26.
 
 ### `தொத்துக்கிளி` closure
 
@@ -323,3 +323,20 @@ Scans **161–165 / printed pages 152–156**:
 - scan 166 independently opens Story 24 `கண்ணடக்கம்`
 
 Full story record: `../../stories/kadhal-kaditham/RE_AUDIT_2026.md`.
+
+
+### `கண்ணடக்கம்` closure
+
+Scans **166–172 / printed pages 157–163**:
+
+- Gate A: **PASS — 7/7**
+- Gate B: **PASS — 7/7**
+- source-proven repairs: **9**
+- historical glyphs: scan 167 `ஏண்` → `ஏணை` (`ணை`); scan 168 `நானு` → `நானா` (`னா`)
+- Gate A: two `குறை` → `சூறை`; `மானுடின்ற` → `மாளுகின்ற`; `ஜீவவிட்ட` → `ஜில்லிட்ட`; `விக்கிரகத்தின்` → `விக்ரகத்தின்`; `நம்முலகு` → `நமனுலகு`; `அந்தவேதனையான` → `அந்த வேதனையான`
+- `பிணக்கொலு` source-reconfirmed
+- unresolved source / historical-glyph readings: **0 / 0**
+- English synchronized in **6 phrase-level changes**
+- scan 173 independently opens Story 25 `வாழ முடியாதவர்கள்`
+
+Full story record: `../../stories/kannadakkam/RE_AUDIT_2026.md`.
