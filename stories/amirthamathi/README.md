@@ -68,3 +68,12 @@ The quoted verse on scan 236 was retained source-close after enlarged full-span 
 ## Completion state
 
 **அமிர்தமதி is 2026 CURRENT PASS / CLOSED: Gate A 8/8 + Gate B 8/8, 10 historical-glyph repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 231–238 / printed pages 222–229.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

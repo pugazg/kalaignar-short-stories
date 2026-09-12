@@ -75,3 +75,12 @@ The exact physical split `...காட்சிகளைக் காட்ட�
 **நுனிக்கரும்பு is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 2 punctuation repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 253–259 / printed pages 244–250.
 
 This closes the 2026 dual-gate story re-audit for all **37 / 37** stories in the 1977 anthology.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **7/7**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

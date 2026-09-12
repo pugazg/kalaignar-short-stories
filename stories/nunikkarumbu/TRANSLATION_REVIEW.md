@@ -75,3 +75,17 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete and synchronized for Story 37.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative. This completes the story-level English translation/review work for all **37 / 37** anthology stories, and the anthology-level control files are synchronized to the same 37/37 closure.
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **7/7 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All six internal joins remain traceable. The exact 257→258 split `...உள்ளங்` → `களைக் கெடுத்து...` remains aligned to the English marker; 258→259 keeps the child-address line on scan 258 and the greeting action on scan 259. The opening Bharathidasan verse keeps its three-line archival structure, and scan 260 back cover is excluded.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

@@ -75,3 +75,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - source-proven Tamil repairs: **1 spacing repair** — scan 219 `இவள்தான்` → `இவள் தான்`
 - English prose rewrite required: **0** — existing “new Mirabai of Orissa” rendering is semantically unchanged
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **7/7 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 structure-traceability annotation**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All six physical joins were independently checked against the verified Tamil page records. High-value joins remain aligned: 218→219 `நான் சத்தியவதியை` → `தவறு கூறுகிறேன்...`; 219→220 `சிறப்புடையதாயிருக்க` → `வேண்டும்`; 220→221 `ரகசியமாகச்` → `சேமித்து`; and 221→222 `பாடிக்கொண்டிருக்` → `கிறாள் சத்தியவதி`. The opening-rule/enlarged-initial provenance annotation was missing in English and has been restored. The two-line letter sign-off, final bold conclusion and closing ornament remain represented.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

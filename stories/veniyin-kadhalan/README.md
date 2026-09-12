@@ -73,3 +73,12 @@ A final scan-228 recheck corrected the provisional `கூண்டுக் க
 ## Completion state
 
 **வேணியின் காதலன் is 2026 CURRENT PASS / CLOSED: Gate A 6/6 + Gate B 6/6, 2 source-proven punctuation/spacing repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 225–230 / printed pages 216–221.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **6/6**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

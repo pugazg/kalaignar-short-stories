@@ -91,3 +91,12 @@ Physical page joins were explicitly checked, including `செளந்தரி
 ## Completion state
 
 **சுமந்தவள் is 2026 CURRENT PASS / CLOSED: Gate A 11/11 + Gate B 11/11, 7 source-proven repairs, 0 unresolved.** The 1977 Tamil archival source processing, visual fidelity and English translation remain complete. The 2009 witness remains explicitly non-controlling.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **11/11**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

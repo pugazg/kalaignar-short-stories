@@ -77,3 +77,17 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete and synchronized for Story 36.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **3/3 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+Both internal joins remain traceable. The exact 251→252 split `...அவளருகே உறங்குகின்ற அருமைச்` → `செல்வன்—...` remains one continuous English sentence across the page marker. The title variance (TOC `சித்தார்த்தன்` vs story heading `சித்தார்த்தன் சிலை`) remains preserved. Story 37 is excluded.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

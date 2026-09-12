@@ -77,3 +77,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
   - `That soft note was immediately suppressed...` → `That feeble voice was immediately suppressed...`
 - 2009-only epilogue imported: **No**
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **11/11 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All ten internal joins remain traceable. In particular, 243→244 `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`, 244→245 the childbirth/body continuation, and 247→248 `“ஆராரோ” பாடுவதும்` → the night-care continuation all remain on the correct adjacent English pages. Scan 250 Story 36 text is excluded.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

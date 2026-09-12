@@ -70,3 +70,13 @@ Direct/native review retained edition-specific or unusual forms including `த�
 **விஷம் இனிது is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 1 source-proven spacing repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 218–224 / printed pages 209–215.
 
 2026 source reread corrected scan **219** source spacing `இவள்தான்` → `இவள் தான்`; all historical-glyph families and source-sensitive forms are now resolved to **0 pending / 0 unresolved**.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **7/7**
+- E1 repairs: **1 structure-traceability annotation**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

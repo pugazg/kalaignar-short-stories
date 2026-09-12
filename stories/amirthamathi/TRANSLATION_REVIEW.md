@@ -75,3 +75,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - English prose rewrite required: **1 sentence**
   - `அவனை அணைத்து மகிழத்தான் வேண்டும்` → “I must embrace him and take delight in him.”
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **8/8 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All seven physical joins remain traceable. The page-open continuations 234→235 (`...ஓடி, ஆடிப்பாடி` → the king being brought) and 236→237 (`...தீர்த்துக்கட்டி` → `விட்டாள்...`) remain on adjacent English sections with no non-adjacent spillover. Closing ornament and the story-ending dialogue remain complete.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

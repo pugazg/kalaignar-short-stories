@@ -1,6 +1,7 @@
 # Visham Inidhu
 
 <!-- source scan 218; printed page 209 -->
+<!-- source visual: long horizontal opening rule beneath title; enlarged/heavier opening ஜெ in ஜெகவீரா marks the first dialogue line -->
 
 “Jegaveera, I do not like Sathyavathi’s conduct, my son!”
 

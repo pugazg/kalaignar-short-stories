@@ -77,3 +77,12 @@ The exact physical join `...அவளருகே உறங்குகின்
 ## Completion state
 
 **சித்தார்த்தன் சிலை is 2026 CURRENT PASS / CLOSED: Gate A 3/3 + Gate B 3/3, 1 source-proven repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 250–252 / printed pages 241–243.
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **3/3**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

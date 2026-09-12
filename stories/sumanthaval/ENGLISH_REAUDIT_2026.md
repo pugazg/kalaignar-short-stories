@@ -1,0 +1,39 @@
+# English Re-Audit 2026 — சுமந்தவள்
+
+## Scope
+
+- anthology story: **35 / 37**
+- final Tamil authority: `sections/sumanthaval.md`
+- verified Tamil page records: scans **239–249 / printed 230–240**
+- English: `translations/en/sumanthaval.md`
+- gate: **E1 — completeness / physical-page alignment**
+
+## Gate state
+
+- E1: **PASS**
+- E2: **PENDING**
+- E3: **PENDING**
+- E4: **PENDING**
+- E5: **PENDING**
+
+## E1 result
+
+- physical pages represented: **11/11**
+- source-page markers present/in order: **11/11 PASS**
+- omitted Tamil story spans: **0**
+- duplicated English story spans: **0**
+- non-adjacent moved story spans: **0**
+- unsupported added story content: **0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All ten internal joins remain traceable. In particular, 243→244 `செளந்தரியோ அந்த வீட்டு` → `மகராணிபோல...`, 244→245 the childbirth/body continuation, and 247→248 `“ஆராரோ” பாடுவதும்` → the night-care continuation all remain on the correct adjacent English pages. Scan 250 Story 36 text is excluded.
+
+## Regression check
+
+No E1 defect was changed; regression fixture not required.
+
+## Disposition
+
+**E1 PASS.** This story is closed for E1. E2 remains pending for the anthology-wide next gate.

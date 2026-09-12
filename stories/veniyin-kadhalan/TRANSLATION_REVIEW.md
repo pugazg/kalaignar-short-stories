@@ -84,3 +84,18 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - English prose rewrite required: **0**
 - English punctuation-only synchronization: **1** — the scan-227 ellipsis now also has six full stops
 - unresolved source / historical-glyph readings: **0 / 0**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **6/6 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+All five physical joins remain traceable. The open speech across 226→227 is preserved; the exact 227→228 continuation `நான் தொத்தி விளையாண்ட` → `தோள்கள்.....` is represented across the same marker; 229→230 keeps Veni's question followed by Surya's answer on the correct physical page. No prose or marker repair was required.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
