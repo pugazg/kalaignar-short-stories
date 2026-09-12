@@ -63,8 +63,22 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+The 2026 dual-gate pass reopened every source-sensitive story-page group and mandatory historical-glyph family. Ten source-proven glyph corrections were applied; all remaining unusual forms were source-reconfirmed. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — அமிர்தமதி source range is fully transcribed and structurally source-complete: 8/8 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — அமிர்தமதி source range is fully transcribed and structurally source-complete: 8/8 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 8/8 PASS + Gate B 8/8 PASS, 10 repairs, 0 unresolved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **10 historical-glyph repairs**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **1 sentence**
+- scan 239 independently opens Story 35 `சுமந்தவள்`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

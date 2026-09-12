@@ -13,6 +13,8 @@
 
 Totals: **8 / 8 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 8/8 PASS / Gate B 8/8 PASS — 10 historical-glyph repairs / 0 unresolved**.
+
 Physical next-story boundary witness: scan **239 / printed page 230** visibly opens Story 35 **`சுமந்தவள்`** and is not included in this workspace.
 
 ## Visual fidelity

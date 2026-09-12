@@ -31,3 +31,8 @@ Source-close forms retained rather than silently normalized include `தாங�
 ## Boundary
 
 Scan **238** contains Story 34's final dialogue and ornamental closing mark. Scan **239** was independently inspected and visibly opens Story 35 **`சுமந்தவள்`**. No scan-239 Story 35 text is included in the Story 34 workspace.
+
+
+## 2026 dual-gate note
+
+All eight story scans were independently reopened at native **3146×4826** resolution. Gate A passed **8/8**. Gate B corrected ten historical-glyph identities across scans 232, 233, 236, 237 and 238, covering `றா`, `னா`, `னை` and `ணை`. Unresolved source/glyph readings: **0 / 0**. Scan 239 independently opens Story 35 `சுமந்தவள்`.

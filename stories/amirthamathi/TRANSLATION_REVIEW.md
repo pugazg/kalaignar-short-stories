@@ -58,10 +58,20 @@ The canonical Tamil was not modified during the English activity.
 
 **None.**
 
-Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription. The source-sensitive quoted verse and unusual forms remain governed by the existing human-review queue.
+The later 2026 dual-gate source audit corrected ten historical-glyph identities in the Tamil. Nine were meaning-preserving for the existing English; the scan-236 correction restoring explicit `அணைத்து` required one English sentence synchronization.
 
 ## Result
 
 **PASS — English translation complete for Story 34.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven Tamil repairs: **10**
+- English prose rewrite required: **1 sentence**
+  - `அவனை அணைத்து மகிழத்தான் வேண்டும்` → “I must embrace him and take delight in him.”
+- unresolved source / historical-glyph readings: **0 / 0**

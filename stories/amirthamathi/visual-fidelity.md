@@ -29,9 +29,9 @@ Scan 239 opens `சுமந்தவள்` and is excluded from this workspace
 
 ## Corrections made in this phase
 
-None. Existing source-sensitive spellings, quoted material, ending role and closing ornament were already source-faithful.
+Ten historical-glyph identities were corrected during the 2026 independent Gate-B reread. Visual structure, quoted material, ending role and closing ornament remain source-faithful.
 
-**Story wording changed: No.**
+**Story wording changed: Yes — 10 source-proven historical-glyph repairs.**
 
 ## Result
 

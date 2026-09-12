@@ -13,6 +13,19 @@ Canonical story workspace for **அமிர்தமதி**, processed from th
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **10 historical-glyph repairs**
+- unresolved source / glyph readings: **0 / 0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **1 sentence**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 8 / 8 story pages transcribed and directly source-reviewed.**
@@ -54,4 +67,4 @@ The quoted verse on scan 236 was retained source-close after enlarged full-span 
 
 ## Completion state
 
-**அமிர்தமதி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 231–238 / printed pages 222–229.**
+**அமிர்தமதி is 2026 CURRENT PASS / CLOSED: Gate A 8/8 + Gate B 8/8, 10 historical-glyph repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 231–238 / printed pages 222–229.
