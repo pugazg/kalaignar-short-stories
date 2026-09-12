@@ -16,11 +16,11 @@ Literature—what was there to debate with him? He was ready for anything! In th
 
 Some poets would even explain his name beautifully. “Mē” is the festival day of the workers of the world; “Thai” is the day of the Tamils' triumph of labour; therefore, they said, the fitting title formed by joining those two great festival days was “Mēthai”—“Genius”! Many rejoiced that a splendid name had been found for the man who had captured their thoughts. He was not yet thirty; a breeze of youth! Yet by then the fame that had come piling upon him was a great mountain!
 
-Students, workers, scholars and ordinary folk surrounded him at all times, singing his praises! When he thought of how much greatness had grown around him, his heart seemed to grow fragrant. He swelled with delight at his fame. Yet he could not hide the fact that his inner being was like a smoking volcano. He struggled greatly to conceal it.
+Students, workers, scholars and ordinary folk surrounded him at all times, singing his praises! When he thought of how much greatness had grown around him, his heart would grow fragrant. He swelled with delight at his fame. Yet he could not hide the fact that his inner being was like a smoking volcano. He struggled greatly to conceal it.
 
 **Fame!     Fame!!     Fame!!!**
 
-Who wanted this fame? The world babbled about him as a master historian—a world-famed genius of geography—a mathematical expert—a king among poets—a sovereign of letters! But he lay writhing. “Will this fame never leave me?” he cried inwardly, his heart bursting. The reason was that he could go nowhere alone. Could he stroll along the beach in the evening? No. It was not that anyone had forbidden it; fame itself stopped him from going. Hundreds, thousands would gather around him. News would spread everywhere: “The genius has come!” Having come seeking solitude, unable to bear the headache brought by fame, he would flee home at a run. He could not travel by train. He could not show his face in the bazaar. He could not set foot in exhibition halls. Fame—fame—fame—fame everywhere! There was no one who did not speak of the noble qualities of that genius.
+Who wants this fame? The world babbled about him as a master historian—a world-famed genius of geography—a mathematical expert—a king among poets—a sovereign of letters! But he lay writhing. “Will this fame never leave me?” he thought, dying inside with his heart bursting. The reason was that he could go nowhere alone. Could he stroll along the beach in the evening? No. It was not that anyone had forbidden it; fame itself stopped him from going. Hundreds, thousands would gather around him. News would spread everywhere: “The genius has come!” Having come seeking solitude, unable to bear the headache brought by fame, he would flee home at a run. He could not travel by train. He could not show his face in the bazaar. He could not set foot in exhibition halls. Fame—fame—fame—fame everywhere! There was no one who did not speak of the noble qualities of that genius.
 
 <!-- source scan 12; printed page 3 -->
 
@@ -34,7 +34,7 @@ That was how they spoke of him.
 
 “He has read many books—why can he not be a man of good character?” And so question and answer went back and forth!
 
-“Until the ideal he awaits is fulfilled—until he bestows that incomparable gift upon the world—he would not even marry, they say!”
+“Until the ideal he awaits is fulfilled—until he bestows that incomparable gift upon the world—he will not even marry!”
 
 This story too spread. He may never have said any such thing—yet everyone believed it. People would put into his mouth all sorts of things he had never said. They would praise him for them; and with no other way out, he would agree: “Yes, I said it.”
 
@@ -54,7 +54,7 @@ Could he say, “No, no—I like to dress grandly”? Of course not; poor man! S
 
 “Hmm—women, earth, what does it matter!” the genius too would say along with them. He had to speak that way, did he not, to preserve his greatness!
 
-One day the genius had been invited out of town—to deliver a lecture at a college on “Scientific Knowledge”! He was staying at the college principal's house. The principal had arranged a place for him alone upstairs so that no one would disturb him. The genius delivered his lecture at the college. He poured out before the students vast ideas on the wonders of science—ideas that, they believed, only he could explain in his own beautiful style.
+One day the genius had been invited out of town—to deliver a lecture at a college on “Scientific Knowledge”! He was staying at the college principal's house. The principal had arranged a place for him alone upstairs so that no one would disturb him. The genius delivered his lecture at the college. He poured out before the students vast ideas on the wonders of science—ideas that only he could explain in his own beautiful style.
 
 <!-- source scan 14; printed page 5 -->
 

@@ -14,40 +14,38 @@
 Guide: `ENGLISH_REAUDIT_GUIDE.md`  
 Tracker: `ENGLISH_REAUDIT_PROGRESS.md`
 
-Final canonical Tamil is authoritative. The English programme is verification/repair, not retranslation. Reopen the controlling PDF only if English review exposes a plausible Tamil-source defect.
+Final canonical Tamil is authoritative. This is verification/repair, not retranslation. Reopen the controlling PDF only if E2 exposes a plausible Tamil-source defect.
 
-Gate-wide order:
-
-1. E1 completeness / physical-page alignment
-2. E2 meaning fidelity
-3. E3 terminology / cultural consistency
-4. E4 English quality without meaning drift
-5. E5 final bilingual approval
+Gate-wide order remains E1 → E2 → E3 → E4 → E5.
 
 ## Durable current state
 
 - E1: **CLOSED — 37/37 PASS**
-- E2: **0/37**
+- E2: **1/37 PASS**
 - E3: **0/37**
 - E4: **0/37**
 - E5: **0/37**
 - cumulative E1 page-anchor/content-boundary repairs: **8**
 - cumulative E1 structure-traceability annotation repairs: **18**
+- cumulative E2 English fidelity repairs: **5**
 - unresolved English re-audit issues: **0**
 
-### Final E1 closure batch — Stories 32–37
+### E2 Story 1 — `புகழேந்தி`
 
-- `விஷம் இனிது` — 7/7 PASS — 1 structure-traceability annotation repair
-- `வேணியின் காதலன்` — 6/6 PASS — 0 repairs
-- `அமிர்தமதி` — 8/8 PASS — 0 repairs
-- `சுமந்தவள்` — 11/11 PASS — 0 repairs
-- `சித்தார்த்தன் சிலை` — 3/3 PASS — 0 repairs
-- `நுனிக்கரும்பு` — 7/7 PASS — 0 repairs
+**PASS — 5 repairs / 0 unresolved.**
 
-No Tamil/source file was changed and no controlling-PDF reinspection was required.
+The full English was compared sentence-by-sentence against the final canonical Tamil. Repairs:
+
+1. removed unsupported `seemed` from the `மணக்கும்` fragrance image;
+2. restored present-tense `Who wants this fame?`;
+3. restored `மனம் வெடித்துச் சாகிறான்` as death/bursting hyperbole and removed unsupported `cried inwardly`;
+4. removed unsupported `they say` from the marriage assertion;
+5. removed unsupported `they believed` from the science-lecture sentence.
+
+All nine 2026 Tamil repair locations and source-retained oddities were rechecked. Tamil/source was not reopened and Tamil was not changed.
 
 ## Exact next activity
 
-**E2 — Story 1 `புகழேந்தி` — meaning fidelity.**
+**E2 — Story 2 `நளாயினி` — meaning fidelity.**
 
-Compare the complete existing English sentence-by-sentence against the final canonical Tamil. Prioritize every 2026 Tamil repair location, pronoun/subject relations, negation, numbers, relationships, rhetoric, irony, figurative language, dialogue and source-retained oddities. Do not treat E1 page alignment as proof of semantic fidelity. Record every English correction or 0 repairs, unresolved issues, and whether any Tamil span had to be source-reopened.
+Compare the complete existing English sentence-by-sentence against final canonical Tamil, prioritizing every 2026 Tamil repair location, source-retained oddities, agency, tense/aspect, negation, quantities, relationships, rhetoric, figurative language and dialogue. Record every English repair or 0 repairs. Do not start E3.

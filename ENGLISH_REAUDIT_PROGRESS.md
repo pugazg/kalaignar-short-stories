@@ -10,18 +10,19 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
-- E2 meaning fidelity: **0 / 37 PASS**
+- E2 meaning fidelity: **1 / 37 PASS**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
+- E2 English fidelity repairs: **5** (`புகழேந்தி`)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E2 — Story 1 `புகழேந்தி`, meaning fidelity against final canonical Tamil**
+- exact next activity: **E2 — Story 2 `நளாயினி`, meaning fidelity against final canonical Tamil**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
-| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | PENDING | PENDING | PENDING | PENDING |
@@ -155,4 +156,12 @@ Cumulative E1 findings:
 
 ## Next
 
-Proceed to **E2 — meaning fidelity**, beginning with Story 1 `புகழேந்தி`, unless the user explicitly changes the gate order.
+### E2 — Story 1 `புகழேந்தி`
+
+**PASS — 5 English fidelity repairs / 0 unresolved.**
+
+Repairs removed unsupported uncertainty/hearsay/narrator distance, restored present-tense rhetoric and the source's death/bursting hyperbole, and did not change Tamil.
+
+## Next
+
+Continue **E2** with Story 2 `நளாயினி`. E3 must not start until E2 reaches 37/37 unless the user explicitly changes the gate order.

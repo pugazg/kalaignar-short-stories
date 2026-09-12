@@ -84,3 +84,18 @@ Independent post-Tamil review compared the final canonical Tamil, verified scan 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md).
 
 E2 meaning-fidelity review remains pending until anthology-wide E1 is complete.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The complete English was re-read sentence-by-sentence against the final canonical Tamil. Five fidelity repairs were made:
+
+- `மணக்கும் அவன் நெஞ்சம்`: removed `seemed`;
+- `யாருக்கு வேண்டும் இந்தப் புகழ்?`: restored present-tense rhetoric;
+- `மனம் வெடித்துச் சாகிறான்`: restored the death/bursting hyperbole and removed unsupported `cried inwardly`;
+- `திருமணமே செய்துகொள்ள மாட்டானும்!`: removed unsupported `they say`;
+- `அவனால் மட்டுமே விளக்கமுடியும்`: removed unsupported `they believed`.
+
+All nine 2026 Tamil repair locations were rechecked. No Tamil/source reopening was required. **0 unresolved E2 issues.**

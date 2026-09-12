@@ -12,7 +12,7 @@
 ## Current gate state
 
 - E1 completeness / physical-page alignment: **PASS**
-- E2 meaning fidelity: **PENDING**
+- E2 meaning fidelity: **PASS**
 - E3 terminology / cultural consistency: **PENDING**
 - E4 English quality: **PENDING**
 - E5 final bilingual approval: **PENDING**
@@ -82,3 +82,40 @@ The existing English already satisfies completeness and physical-page anchoring.
 Next for this story under the gate-wide workflow: E2 remains pending until anthology-wide E1 is complete.
 
 Programme next activity: Story 2 `நளாயினி` E1.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence meaning review against the final canonical Tamil.**
+
+Priority review included all nine 2026 Tamil repair locations, source-retained oddities, agency, tense/aspect, negation, quantities, relationships, rhetoric, figurative language, dialogue and ambiguity.
+
+### E2 repairs
+
+Five English fidelity repairs were made:
+
+1. `மணக்கும் அவன் நெஞ்சம்` — removed unsupported uncertainty: `his heart seemed to grow fragrant` → `his heart would grow fragrant`.
+2. `யாருக்கு வேண்டும் இந்தப் புகழ்?` — restored the Tamil rhetorical present: `Who wanted this fame?` → `Who wants this fame?`.
+3. `“தொலையாதோ இந்தப் புகழ்” என்று மனம் வெடித்துச் சாகிறான்` — removed unsupported `cried inwardly` and restored the death/bursting hyperbole: `he thought, dying inside with his heart bursting`.
+4. `அவன் திருமணமே செய்துகொள்ள மாட்டானும்!` — removed the unsupported hearsay tag `they say`; the quoted assertion now reads `he will not even marry!`.
+5. `அவனால் மட்டுமே விளக்கமுடியும்...` — removed the unsupported narrator-distance phrase `they believed`; the English now directly preserves the Tamil assertion that only he could explain those ideas in his own style.
+
+### Rechecked without change
+
+- all nine 2026 Tamil source-proven repairs are semantically synchronized;
+- `அவனோர் பிடேல்டோ!` remains conservative `Pideldō`;
+- `காதற் கண்கள்` remains `eyes of love`, without importing the 2009 `கணைகள்` witness;
+- `மணக்கும்` remains a fragrance image;
+- `பெண்ணாவது மண்ணாவது!` remains source-close rather than interpretively normalized;
+- the source-odd `உன் கரங்கள் முத்தமிடுகிறாள்` sentence remains intelligibly rendered without changing the Tamil;
+- numerical details (fifty students / ten teachers), relationships, agency, negation and final irony remain intact.
+
+### E2 disposition
+
+- English fidelity repairs: **5**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- result: **PASS**
+
+Programme next activity: **E2 — Story 2 `நளாயினி`**.

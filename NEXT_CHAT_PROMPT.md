@@ -1,34 +1,25 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E2 Story 1 `புகழேந்தி`
+# NEXT CHAT PROMPT — 1977 English re-audit / E2 Story 2 `நளாயினி`
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable state
 
-- 1977 Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS; 0 unresolved**
+- Tamil 1977 dual-gate: **CLOSED — 37/37 CURRENT PASS; 0 unresolved**
 - existing English translations: **37/37 complete**
-- E1 completeness / physical-page alignment: **CLOSED — 37/37 PASS**
-- cumulative E1 page-anchor/content-boundary repairs: **8**
-- cumulative E1 structure-traceability annotation repairs: **18**
-- E2–E5: **not started**
+- E1: **CLOSED — 37/37 PASS**
+- E2: **1/37 PASS**
+- E3–E5: **not started**
+- cumulative E2 English fidelity repairs: **5**
 - unresolved English re-audit issues: **0**
 
-Stories 1–37 must not be reopened for E1 without new evidence.
+Story 1 `புகழேந்தி` E2 is **PASS** with 5 repairs and 0 unresolved. Do not reopen it without new evidence.
 
 ## Exact next activity
 
-Process **E2 — Story 1 `புகழேந்தி` — meaning fidelity**.
+Process **E2 — Story 2 `நளாயினி` — meaning fidelity**.
 
-Read:
+Read the final canonical Tamil, verified page records, Tamil `RE_AUDIT_2026.md` / audit / possible-error controls, existing English, `TRANSLATION_REVIEW.md`, and story-local `ENGLISH_REAUDIT_2026.md`.
 
-- `ENGLISH_REAUDIT_GUIDE.md`
-- `ENGLISH_REAUDIT_PROGRESS.md`
-- `ENGLISH_TRANSLATION_GUIDE.md`
-- `HANDOVER.md`
-- `stories/pugazhendhi/ENGLISH_REAUDIT_2026.md`
-- final Tamil assembly and verified page records
-- Tamil `RE_AUDIT_2026.md` / audit / possible-error controls
-- existing English and `TRANSLATION_REVIEW.md`
+Check sentence-by-sentence fidelity, especially all 2026 Tamil repair locations, source-retained oddities, agency, tense/aspect, negation, quantities, relationships, rhetoric, irony, figurative language, dialogue and ambiguity.
 
-Check sentence-by-sentence fidelity to the final canonical Tamil, especially all 2026 Tamil repair locations, agency, tense/aspect, negation, quantities, relationships, rhetoric, irony, figurative language, dialogue and source-retained ambiguity.
-
-Do not reopen the PDF unless E2 exposes a plausible Tamil-source defect. Do not change Tamil from English expectation. Update the story-local re-audit record, tracker, translation review, root controls, handover and next prompt. E3 must not start until E2 is complete for all 37 stories unless the user explicitly changes the phase order.
+Do not reopen the PDF unless a plausible Tamil-source defect emerges. Do not change Tamil from English expectation. Update story-local re-audit, tracker, review/control files, handover and next prompt. Do not start E3.
