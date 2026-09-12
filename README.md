@@ -28,9 +28,10 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 
 - workflow: [`ENGLISH_REAUDIT_GUIDE.md`](ENGLISH_REAUDIT_GUIDE.md)
 - tracker: [`ENGLISH_REAUDIT_PROGRESS.md`](ENGLISH_REAUDIT_PROGRESS.md)
-- E1 completeness / physical-page alignment: **1 / 37 PASS**
+- E1 completeness / physical-page alignment: **11 / 37 PASS**
 - E2–E5: **not started**
-- exact next: **E1 Story 2 `நளாயினி`, scans 16–23 / printed 7–14**
+- E1 repairs so far: **3 page-anchor repairs**
+- exact next: **E1 Story 12 `ஆதரிக்கிறார்`, scans 102–107 / printed 93–98**
 
 ## Canonical stories
 
@@ -38,16 +39,16 @@ The existing 37/37 English translation phase remains complete. A separate five-g
 |---|---|---|
 | [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
 | [`புகழேந்தி`](stories/pugazhendhi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 9 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
-| [`நளாயினி`](stories/nalayini/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 15 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`சபலம்`](stories/sabalam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 6 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 7 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`குப்பைத்தொட்டி`](stories/kuppai-thotti/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 4 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`சந்தனக்கிண்ணம்`](stories/santhana-kinnam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 3 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **2026 dual-gate CURRENT PASS — Gate A 12/12 + Gate B 12/12; 6 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 2 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`தாய்மை`](stories/thaaymai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved** | **PASS — synchronized** |
-| [`தப்பவில்லை`](stories/thappavillai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved** | **PASS — synchronized** |
+| [`நளாயினி`](stories/nalayini/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 15 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`சபலம்`](stories/sabalam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 6 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 7 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`குப்பைத்தொட்டி`](stories/kuppai-thotti/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 4 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`சந்தனக்கிண்ணம்`](stories/santhana-kinnam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 3 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`சங்கிலிச்சாமி`](stories/sangilichami/README.md) | **2026 dual-gate CURRENT PASS — Gate A 12/12 + Gate B 12/12; 6 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`கங்கையின் காதல்`](stories/gangaiyin-kadhal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 2 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`தாய்மை`](stories/thaaymai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 11/11 + Gate B 11/11; 42 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`தப்பிவிட்டார்கள்`](stories/thappivittargal/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 12 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
+| [`தப்பவில்லை`](stories/thappavillai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 10/10 + Gate B 10/10; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`ஆதரிக்கிறார்`](stories/aatharikkirar/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`இரகசியம்!`](stories/iragasiyam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 0 new repairs; 0 unresolved** | **PASS — synchronized** |
 | [`முந்நூறு ரூபாய்`](stories/munnuru-rupai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 3/3 + Gate B 3/3; 0 new repairs; 0 unresolved** | **PASS — synchronized** |

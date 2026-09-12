@@ -9,27 +9,28 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 ## Current state
 
 - programme: **ACTIVE**
-- E1 completeness / physical-page alignment: **1 / 37 PASS**
+- E1 completeness / physical-page alignment: **11 / 37 PASS**
 - E2 meaning fidelity: **0 / 37 PASS**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
+- E1 page-anchor repairs: **3** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E1 — Story 2 `நளாயினி`, scans 16–23 / printed 7–14**
+- exact next activity: **E1 — Story 12 `ஆதரிக்கிறார்`, scans 102–107 / printed 93–98**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
 | 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 2 | `நளாயினி` | 7–14 | 16–23 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 3 | `சபலம்` | 15–21 | 24–30 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 9 | `தாய்மை` | 64–74 | 73–83 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | PENDING | PENDING | PENDING | PENDING | PENDING |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | PENDING | PENDING | PENDING | PENDING | PENDING |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | PENDING | PENDING | PENDING | PENDING | PENDING |
 | 13 | `இரகசியம்!` | 99–102 | 108–111 | PENDING | PENDING | PENDING | PENDING | PENDING |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | PENDING | PENDING | PENDING | PENDING | PENDING |
@@ -78,6 +79,30 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 Durable story record: `stories/pugazhendhi/ENGLISH_REAUDIT_2026.md`.
 
+### Stories 2–11 — E1 batch closure
+
+The user explicitly expanded this activity to ten stories. Stories **2–11** are now E1 PASS:
+
+- `நளாயினி` — 8/8 pages — 0 repairs
+- `சபலம்` — 7/7 — 0 repairs
+- `ஆட்டக்காவடி` — 8/8 — **1 page-anchor repair**
+- `குப்பைத்தொட்டி` — 8/8 — **1 page-anchor repair**
+- `சந்தனக்கிண்ணம்` — 10/10 — 0 repairs
+- `சங்கிலிச்சாமி` — 12/12 — 0 repairs
+- `கங்கையின் காதல்` — 4/4 — 0 repairs
+- `தாய்மை` — 11/11 — 0 repairs
+- `தப்பிவிட்டார்கள்` — 8/8 — 0 repairs
+- `தப்பவில்லை` — 10/10 — **1 page-anchor repair**
+
+All ten have **0 omissions, 0 duplications, 0 unsupported additions, 0 unresolved E1 issues**. Tamil/source was not reopened.
+
+Repairs:
+1. `ஆட்டக்காவடி` 31→32 — moved the English page boundary to keep scan-32 `முழுசாகக் காண முடியாத பணம்—நூறு ரூபாய்!` on scan 32.
+2. `குப்பைத்தொட்டி` 42→43 — moved the marker from after the whole next-page paragraph to the source split `சேரக்` → `கூடாதா?`.
+3. `தப்பவில்லை` 92→93 — moved the mental-castle clause to scan 93, matching `மனக்கோட்டை கட்ட அவன் தவறவில்லை.`.
+
+Each repaired story records corrected PASS → reconstructed prior anchor FAIL → restored PASS.
+
 ## Next
 
-Continue **E1** with Story 2 `நளாயினி`. Do not start E2 until all 37 stories have E1 PASS unless the user explicitly changes the phase order.
+Continue **E1** with Story 12 `ஆதரிக்கிறார்`, scans **102–107 / printed 93–98**. Do not start E2 until all 37 stories have E1 PASS unless the user explicitly changes the phase order.
