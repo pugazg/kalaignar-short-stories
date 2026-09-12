@@ -117,3 +117,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all three 2026 repairs. No E2 prose repair was required. The cinema opening, Chinnachami/Kantha poverty and marriage-cost argument, father-daughter identification, internal resistance, night sequence, law/chastity commentary and morning aftermath retain the source's meaning and degree of explicitness. Verified opaque forms such as `jeelu-jeeluppu`, `azhukkiyathu`, `theevithi` and `kimbala chance` remain deferred to E3 terminology/cultural review rather than guessed in E2.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+The story already normalizes the same character's edition-level `சின்னச்சாமி / சின்னசாமி` variation to **Chinnachami** in English while documenting the Tamil difference. **Kantha, Chandra, Appa, veshti, beedi, seervarisai, oppari, Kamba rasam** are stable. Verified opaque **kavaattaa, college vedar, kimbala chance, azhukkiyathu, theevithi** remain source-close rather than guessed. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

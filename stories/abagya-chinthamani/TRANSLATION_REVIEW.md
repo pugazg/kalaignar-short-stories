@@ -114,3 +114,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the 2026 `சோக கீதத்தில்` repair and the earlier source-sensitive closure corrections. No new E2 prose repair was required. Chinthamani's hereditary poverty, the mother's account, Jothiyanandam relationship, Sivanandam conflict, staged apparent infidelity, renunciation and the embedded Amirthamathi comparison preserve the source's meaning and narrative causality. Source-close song forms, `brikkaas`, `paala-pashaanam` and `madippichai` remain for E3 rather than speculative normalization.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and religious/literary vocabulary are internally consistent: **Chinthamani, Ramalinga Sivanandam, Jothiyanandam, Siva, Arutpa, Thevaram, Thiruvasagam, Arutperum Jothi, gurukulam, mangalam**. Institution-name **Ramalingasami Gurukulam** reflects source `ராமலிங்கசாமி` and is not mechanically changed to `Swami`. Source-close **Erpathigazhchiyendra, Aiyamittun, brikkaas, paala-pashaanam, madippichai** remain conservative. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -52,3 +52,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+The story already normalizes the same character's edition-level `சின்னச்சாமி / சின்னசாமி` variation to **Chinnachami** in English while documenting the Tamil difference. **Kantha, Chandra, Appa, veshti, beedi, seervarisai, oppari, Kamba rasam** are stable. Verified opaque **kavaattaa, college vedar, kimbala chance, azhukkiyathu, theevithi** remain source-close rather than guessed. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

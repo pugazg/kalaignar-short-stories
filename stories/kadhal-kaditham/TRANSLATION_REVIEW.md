@@ -120,3 +120,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all five 2026 Tamil repairs. No E2 prose repair was required. The wartime letter sequence, Sundar Babu/Balan relationship, Sudesha's silence, returned letters, postman reveal and closing irony preserve source meaning, tense and causality. Source-confirmed `உழவலன்பு` remains conservative as `uzhaval-anbu` for E3 rather than being normalized without evidence.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names and wartime terminology are stable: **Sundar Babu, Sudesha, Balan, Hitler, Mussolini, Allied forces**. Source-confirmed `உழவலன்பு` remains **uzhaval-anbu** because a stronger lexical reconstruction would be speculative. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

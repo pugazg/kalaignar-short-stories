@@ -110,3 +110,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all nine 2026 repairs, including the six earlier English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+One recurring deity-name consistency repair was made. Source `பார்வதி தேவி` is now **Parvati Devi**, matching the anthology convention **Parvati**; the prior English had **Parvathi Devi**. Other names/titles remain source-consistent: **Kali, Bhadrakali, Mahadevi, Mahishasura Mardhini, Akilandeswari, Parasakthi, Paramasivan, Kalidasan, Kalamegam**, plus **sacred ash**. Opaque `pinakkolu` and `silagaigal` remain conservative.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

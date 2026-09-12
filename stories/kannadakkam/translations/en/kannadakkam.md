@@ -70,7 +70,7 @@ As she said this, Kali’s throat rasped. A crying voice was heard. The sobbing 
 
 “It is all the work of a devotee like you!”
 
-“What did he do? Which devotee committed the sin? Who created a situation in which Parvathi Devi had to weep? Padmasani! Tell me, Mother!”
+“What did he do? Which devotee committed the sin? Who created a situation in which Parvati Devi had to weep? Padmasani! Tell me, Mother!”
 
 “Listen carefully! I possess the power and ability to save all the people of the world together. And I used to save them. Those dreadful deaths and the diseases causing them that you described as happening in the village—all of them, the moment my gaze fell upon them—
 

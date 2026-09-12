@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -52,3 +52,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and religious/literary vocabulary are internally consistent: **Chinthamani, Ramalinga Sivanandam, Jothiyanandam, Siva, Arutpa, Thevaram, Thiruvasagam, Arutperum Jothi, gurukulam, mangalam**. Institution-name **Ramalingasami Gurukulam** reflects source `ராமலிங்கசாமி` and is not mechanically changed to `Swami`. Source-close **Erpathigazhchiyendra, Aiyamittun, brikkaas, paala-pashaanam, madippichai** remain conservative. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

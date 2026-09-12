@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -52,3 +52,15 @@ The complete English was rechecked sentence-by-sentence against the final canoni
 - Tamil changed: **No**
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+One recurring deity-name consistency repair was made. Source `பார்வதி தேவி` is now **Parvati Devi**, matching the anthology convention **Parvati**; the prior English had **Parvathi Devi**. Other names/titles remain source-consistent: **Kali, Bhadrakali, Mahadevi, Mahishasura Mardhini, Akilandeswari, Parasakthi, Paramasivan, Kalidasan, Kalamegam**, plus **sacred ash**. Opaque `pinakkolu` and `silagaigal` remain conservative.
+
+- E3 English repairs: **1**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**
