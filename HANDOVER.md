@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `e8713c28bd94f4b3a57ee0e8b63893ad1695c400` — `Close பாலைவன ரோஜா 2026 dual-gate`
+- refreshed live checkpoint: `bd6724ad22ab2d3c0c5c8ee44ec8ff946674489f` — `Close புரட்சிப் படம் 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 27 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 28 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -64,26 +64,26 @@ Current tracker state: **OPEN — 27 / 37 dual-gate complete**.
 - `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; `பரவாயில்ல` → `பரவாயில்லே`, historical `றா` `கேட்கிறயா` → `கேட்கிறாயா`, historical `ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`; English prose rewrite 0.
 - `அபாக்ய சிந்தாமணி` — scans **181–188** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**; scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all 11 legacy queue items resolved; English prose rewrite 0.
 - `பாலைவன ரோஜா` — scans **189–193** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; all 15 legacy pending candidates source-reconfirmed; English prose rewrite 0.
+- `புரட்சிப் படம்` — scans **194–198** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 spacing repair / 0 unresolved**; source `இடத்தில் தான்` restored; TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்` preserved; English prose rewrite 0.
 
-Do not reopen these twenty-seven stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-eight stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 28 `புரட்சிப் படம்`
+## Exact next activity — Story 29 `திடுக்கிடும் கதை`
 
-Workspace: `stories/puratchip-padam/`.
+Workspace: `stories/thidukkidum-kathai/`.
 
-- TOC title: **`புரட்சிப்படம்`**
-- opening heading: **`புரட்சிப் படம்`**
-- scans **194–198 / printed 185–189**
-- canonical pages **5/5**
-- scan **199** is the boundary witness opening Story 29 `திடுக்கிடும் கதை`
+- scans **199–204 / printed 190–195**
+- canonical pages **6/6**
+- scan **205** is the boundary witness opening Story 30 `கடைசிக் கட்டம்`
 - legacy human-review queue: **0 pending** at the legacy layer
 - source-sensitive checked forms to reopen during Gate A/B:
-  - [x] scan 194 / printed 185 — opening heading is `புரட்சிப் படம்`; TOC form is separately `புரட்சிப்படம்`.
-  - [x] scan 194 / printed 185 — `படப் பிடிப்பு` is visibly spaced in the quoted list.
-  - [x] scan 195 / printed 186 — `அறிவுக்கதை யொன்றை` retains the visible source spacing/form.
-  - [x] scan 195 / printed 186 — `படப்பிடிப்புவேலை`, `விளக்குவதாகயிருந்தது`, and `ஆஷாடபூதித்தனங்கள்` retained.
-  - [x] scan 196 / printed 187 — `படந்தான்`, `தாராசசாங்கத்தைப்`, `பாரபக்ஷம்`, `எதாவது`, and bold slogan form `ஏமாற்றுதே` retained.
-  - [x] scan 197 / printed 188 — `பரவிற்று`, `திலகநகரத்திலே`, `வெளுப்பாயிருந்தது`, and `முற்றிற்று` retained.
-  - [x] scan 198 / printed 189 — repeated `வெட்டினர்கள்` and concluding `வீசிற்று` retained.
+  - [x] scan 199 / printed 190 — `சிலநாட்கள்` and `திரும்பினர்கள்` retained as printed.
+  - [x] scan 200 / printed 191 — `ஓவிட்` and `காதலே மூடி மறைக்க` retained; the latter is not silently changed to an expected grammatical form.
+  - [x] scan 201 / printed 192 — `அவள் வர்ணித்தபடி`, `இன்பக்கடலாடினர்கள்`, `இரண்டு ஜோடிக் கிளிகளைக் பிரித்து`, `தேக்கிய இன்ப வெள்ளத்திற்குப்`, `காதற் சொற்களின்`, and `வேற்றார் சென்று` retained.
+  - [x] scan 201 / printed 192 — the source varies `மல்பெரி` earlier on the page and `மல்பரி` later; both forms are preserved.
+  - [x] scan 202 / printed 193 — `கிழட்டுச் சிங்கம்`, `என்னுல் தான்`, `இளையவளாம்`, `வனப்புகொள்`, `கண்காணச் சீமை`, and `கெளவிக்கொண்டிருந்தது` retained after full-span inspection.
+  - [x] scan 203 / printed 194 — `சாக்காடென்னும் பூக்காட்டிற்கு`, `கர்ச்சனை`, `பரிபாலித்துவந்தான்`, and visibly spaced `துரத்து வதாகவோ` retained.
+  - [x] scan 204 / printed 195 — `இதுதானப்பா` and `பாக்கியிருந்தது` retained.
+- English provenance note: the six English source-page markers were corrected on 2026-09-02; prose was unchanged. Preserve the current anchored English unless a new Tamil source repair materially changes meaning.
 
-Complete Gate A **5/5** and independent Gate B **5/5**; preserve the TOC/opening-title variance; reopen the source-sensitive checked forms directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **27/37 → 28/37** only with zero unresolved; stop before Story 29.
+Complete Gate A **6/6** and independent Gate B **6/6**; reopen all source-sensitive checked forms directly against source pixels; preserve the source note, `காதல் கதை` / `வீரக்கதை` subsection structure, scan-202 printer signature `க—13` as excluded furniture, and the English page-anchor correction; correct only source-proven mismatches; synchronize controls/affected English; advance **28/37 → 29/37** only with zero unresolved; stop before Story 30.
