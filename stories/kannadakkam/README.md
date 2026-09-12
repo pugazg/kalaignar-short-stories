@@ -13,6 +13,20 @@ Canonical story workspace for **கண்ணடக்கம்**, processed from
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs: **9**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English phrase-level synchronizations: **6**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 7 / 7 story pages transcribed and directly source-reviewed.**
@@ -36,7 +50,7 @@ The assembly preserves all seven anthology scan boundaries. Scan 173, which open
 
 [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) records unusual, archaic, colloquial or source-sensitive forms for later human checking. An entry there is not a confirmed error and does not by itself downgrade a verified page.
 
-High-value source-close readings include `பூசி யிருந்த`, `ரத்தமும் சீமும்`, `திவட்டிகளோடு`, `புதியபிணம்`, `துணி ஏண்`, `அலகுகள் போலச் சிலாகைகள் போல`, `குறை நடக்கிறே`, `மிச்ச மிருப்பவர்களிடம்`, `அபயங்`, `மானுடின்ற`, `ஜீவவிட்ட உடல்களோ`, `புண்யமில்லை`, `பிணக்கொலு`, `மமதையாளன்`, `பொல பொலவென`, `நன்றியிருக்கிறதம்மா`, `நேத்திரங்களுக்கு`, `விட்டானப்பா`, `காணிக்கையப்பா`, `நம்முலகு`, `பேசினள்`, and `அந்தவேதனையான`.
+High-value source-close readings include `பூசி யிருந்த`, `ரத்தமும் சீமும்`, `திவட்டிகளோடு`, `புதியபிணம்`, `துணி ஏணை`, `அலகுகள் போலச் சிலாகைகள் போல`, `சூறை நடக்கிறே`, `மிச்ச மிருப்பவர்களிடம்`, `அபயங்`, `மாளுகின்ற`, `ஜில்லிட்ட உடல்களோ`, `புண்யமில்லை`, `பிணக்கொலு`, `மமதையாளன்`, `பொல பொலவென`, `நன்றியிருக்கிறதம்மா`, `நேத்திரங்களுக்கு`, `விட்டானப்பா`, `காணிக்கையப்பா`, `நமனுலகு`, `பேசினள்`, and `அந்த வேதனையான`.
 
 ## Verified physical continuations
 
@@ -47,7 +61,7 @@ High-value source-close readings include `பூசி யிருந்த`, `
 
 **PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
 
-Opening/ending structure, source emphasis on `‘கண்ணடக்கம்’`, and exclusion of printer signature `க—11` are recorded. **Story wording changed: No.**
+Opening/ending structure, source emphasis on `‘கண்ணடக்கம்’`, and exclusion of printer signature `க—11` are recorded. **Story wording changed: Yes — nine source-proven 2026 repairs are synchronized.**
 
 ## Story boundary
 
@@ -64,12 +78,12 @@ Opening/ending structure, source emphasis on `‘கண்ணடக்கம்�
 - all **7 / 7** source-page markers represented
 - explicit physical continuation **169→170** remains traceable
 - epidemic/cremation opening, Kali dialogue, `கண்ணடக்கம்` explanation, removal of the silver eye-covering, doctors/public-health response and eye-hospital awakening remain complete
-- difficult queue forms including `துணி ஏண்`, `பிணக்கொலு`, and `நம்முலகு செல்லும்` handled conservatively without Tamil repair
-- canonical Tamil changed during translation: **No**
+- 2026 source re-audit resolved former queue forms `துணி ஏண்` → `துணி ஏணை` and `நம்முலகு` → `நமனுலகு`; `பிணக்கொலு` was source-reconfirmed
+- English synchronized to the current Tamil in **6 phrase-level changes**
 
 ## Completion state
 
-**கண்ணடக்கம் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 166–172 / printed pages 157–163.**
+**கண்ணடக்கம் is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 9 source-proven repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 166–172 / printed pages 157–163.
 
 ## Next anthology English activity
 

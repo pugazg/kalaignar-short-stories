@@ -18,21 +18,21 @@
 - [x] scan 166 ends with a complete sentence; scan 167 begins a new paragraph.
 
 ## Scan 167 / printed 158
-- [ ] `நீண்ட கழியில் ஒரு துணி ஏண்;` — high-resolution span reads this way; unusual noun/form retained for later human recheck.
+- [x] historical-`ணை` correction applied: legacy `நீண்ட கழியில் ஒரு துணி ஏண்;` → source-supported `நீண்ட கழியில் ஒரு துணி ஏணை;`.
 - [x] `அலகுகள் போலச் சிலாகைகள் போல` retained from the full phrase span.
 - [x] `எதிரே யுள்ள பாழுங்கிணற்றை` retained with source spacing.
 - [x] `பத்ரகாளி? மகாதேவி!! மகிஷாசுர மர்த்தனி!!!` punctuation retained.
 - [x] `அந்தக்காளிதாசனா?` retained as joined source form.
 
 ## Scan 168 / printed 159
-- [ ] `ஊரிலே குறை நடக்கிறே உனக்குத் தெரியாதா?` — unusual verb ending reads this way in the scan; retained for later human recheck.
+- [x] source wording corrected: `ஊரிலே குறை நடக்கிறே உனக்குத் தெரியாதா?` → `ஊரிலே சூறை நடக்கிறே உனக்குத் தெரியாதா?`; the following `“குறையா?”` is likewise corrected to `“சூறையா?”`. The unusual `நடக்கிறே` ending itself is source-confirmed and retained.
 - [x] `கொள்ளை கொள்ளையாக`, `வாந்திபேதி`, `பிளேக்காம்`, `மிச்ச மிருப்பவர்களிடம்` retained.
-- [x] `அபயங் கேட்க`, `மானுடின்ற மக்களை`, `ஜீவவிட்ட உடல்களோ` retained from direct span review.
-- [x] `நானு?`, `புல்லன்`, `புண்யமில்லை` retained.
+- [x] `அபயங் கேட்க` retained; source corrections applied `மானுடின்ற மக்களை` → `மாளுகின்ற மக்களை` and `ஜீவவிட்ட உடல்களோ` → `ஜில்லிட்ட உடல்களோ`.
+- [x] historical-`னா` correction applied: legacy `நானு?` → source-supported `நானா?`; `புல்லன்` and `புண்யமில்லை` retained.
 - [x] `துஷ்டர்கள் அழித்துத் தூயவர்களைக் காப்பாற்றும்` confirmed from enlarged source span.
 
 ## Scan 169 / printed 160
-- [ ] `பிணக்கொலு கண்டு பெரு மகிழ்வு கொள்ளும்` — scan reads this unusual form; retained for later human recheck.
+- [x] `பிணக்கொலு கண்டு பெரு மகிழ்வு கொள்ளும்` — complete high-resolution source span rechecked; unusual form is source-confirmed and retained.
 - [x] `மமதையாளன்`, `பொல பொலவென`, `“பங்களா”விலே`, `நன்றியிருக்கிறதம்மா` retained.
 - [x] `காளிதாசனைக் காலமேகத்தைக்`, `பத்மாசனீ`, `மக்களை யெல்லாம்` retained.
 - [x] physical split `...என் பார்வை பட்ட` → scan 170 `மாத்திரத்தில் பஞ்சாய்ப் பறக்கும்.`.
@@ -40,18 +40,19 @@
 ## Scan 170 / printed 161
 - [x] `நேத்திரங்களுக்கு`, `ஆண்டிடும்போது`, `விட்டானப்பா`, `எப்படித்தாயே` retained.
 - [x] `சுகம்பெறத்`, `வேண்டுதல் விடுவதாகப்`, source-emphasized `‘கண்ணடக்கம்’` retained.
+- [x] source spelling corrected: `விக்கிரகத்தின்` → `விக்ரகத்தின்`.
 - [x] `கண்கட்டப்பட்ட`, `கண்ணிலேயிருந்து` retained.
 - [x] scan 170 ends with a complete question answered on scan 171.
 
 ## Scan 171 / printed 162
 - [x] `காணிக்கையப்பா`, `நன்றிகாட்டு`, `மறைத்துக் கொண்டிருந்திருக்கிறது`, `பேசினள்` retained.
-- [ ] `நம்முலகு செல்லும் மக்களை மீட்க` — enlarged full span reads this way; unusual compound/form retained for later human recheck.
+- [x] source wording corrected: legacy `நம்முலகு செல்லும் மக்களை மீட்க` → `நமனுலகு செல்லும் மக்களை மீட்க`.
 - [x] `மூடிக் கிடந்ததால் தூர்ந்து விட்ட கிணறுபோல்` retained.
 - [x] `மிச்சம் மீதி`, public-health paragraph, and `பக்தனும் அந்தப் பணியில் முன்னின்றான்.` retained.
 
 ## Scan 172 / printed 163
 - [x] `கண் வைத்திய சாலையில்` retained with source spacing.
-- [x] `கண்திறக்காது`, `எண்ணிக்கொண்டு`, `அந்தவேதனையான` retained as printed.
+- [x] `கண்திறக்காது`, `எண்ணிக்கொண்டு` retained; source spacing corrected `அந்தவேதனையான` → `அந்த வேதனையான`.
 - [x] final ornamental rule checked.
 
 ## Boundary checks
@@ -66,3 +67,8 @@
 - [x] scan 173 independently checked as Story 25 opening `வாழ முடியாதவர்கள்`; no Story 25 text belongs here.
 
 A later correction must be checked against the controlling scan and propagated to the page record, assembled Tamil, audit, story README and affected collection/root control files.
+
+
+## 2026 dual-gate disposition
+
+**0 pending / 0 unresolved.** All legacy candidates and mandatory historical-glyph families were independently reopened. Nine source-proven repairs were synchronized: seven Gate-A wording/spacing repairs plus historical-`ணை` `ஏண்` → `ஏணை` and historical-`னா` `நானு` → `நானா`.

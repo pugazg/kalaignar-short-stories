@@ -45,4 +45,9 @@ The seven story pages are high-resolution scan images. Full-page renders at **78
 
 ## Source-sensitive forms
 
-The scan preserves source-close and historically/typeset-sensitive forms including `பூசி யிருந்த`, `ரத்தமும் சீமும்`, `திவட்டிகளோடு`, `புதியபிணம்`, `துணி ஏண்`, `குறை நடக்கிறே`, `மிச்ச மிருப்பவர்களிடம்`, `அபயங்`, `மானுடின்ற`, `ஜீவவிட்ட உடல்களோ`, `புண்யமில்லை`, `பிணக்கொலு`, `மமதையாளன்`, `பொல பொலவென`, `நன்றியிருக்கிறதம்மா`, `நேத்திரங்களுக்கு`, `விட்டானப்பா`, `சுகம்பெறத்`, `காணிக்கையப்பா`, `நம்முலகு`, `பேசினள்`, `அந்தவேதனையான`, and the physical split `பட்ட` → `மாத்திரத்தில்`. These are preserved rather than silently normalized and are available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+The current source-close layer includes `பூசி யிருந்த`, `ரத்தமும் சீமும்`, `திவட்டிகளோடு`, `புதியபிணம்`, `துணி ஏணை`, `சூறை நடக்கிறே`, `மிச்ச மிருப்பவர்களிடம்`, `அபயங்`, `மாளுகின்ற`, `ஜில்லிட்ட உடல்களோ`, `புண்யமில்லை`, `பிணக்கொலு`, `மமதையாளன்`, `பொல பொலவென`, `நன்றியிருக்கிறதம்மா`, `நேத்திரங்களுக்கு`, `விட்டானப்பா`, `சுகம்பெறத்`, `விக்ரகத்தின்`, `காணிக்கையப்பா`, `நமனுலகு`, `பேசினள்`, `அந்த வேதனையான`, and the physical split `பட்ட` → `மாத்திரத்தில்`. Source-supported historical glyph identities are encoded in modern Unicode; no lexical modernization is applied.
+
+
+## 2026 dual-gate note
+
+All seven story scans were independently reopened at native/high resolution. Nine source-proven repairs were made: seven Gate-A wording/spacing repairs plus historical-`ணை` `ஏண்` → `ஏணை` and historical-`னா` `நானு` → `நானா`. Unresolved source/glyph readings: **0 / 0**. Scan 173 was independently reconfirmed as the next-story boundary.

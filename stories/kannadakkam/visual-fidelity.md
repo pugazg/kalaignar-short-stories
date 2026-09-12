@@ -36,8 +36,9 @@ All six internal joins were checked. The explicit split continuation 169→170 r
 4. scan 172: `story-conclusion` → `story-ending`; closing ornament recorded;
 5. Tamil assembly synchronized with the same source-significant structure;
 6. page map synchronized.
+7. 2026 dual-gate reread synchronized nine source-proven text repairs while preserving source layout/furniture.
 
-**Story wording changed: No — structure/emphasis only.**
+**Story wording changed: Yes — nine source-proven 2026 repairs; structure/emphasis remains source-faithful.**
 
 ## Remaining visual-fidelity issues
 

@@ -41,7 +41,7 @@ The canonical Tamil was not modified during the English activity.
 
 - `கண்ணடக்கம்` is retained as **Kannadakkam** rather than replaced with a single explanatory English title.
 - `காளிதாசன்`, `காளி`, `பத்ரகாளி`, `மகாதேவி`, `மகிஷாசுர மர்த்தனி`, `அகிலாண்டேஸ்வரி`, `பராசக்தி`, `பரமசிவன்`, and `காலமேகம்` are rendered conservatively as **Kalidasan, Kali, Bhadrakali, Mahadevi, Mahishasura Mardhini, Akilandeswari, Parasakthi, Paramasivan**, and **Kalamegam**.
-- the unusual `துணி ஏண்` is represented as **thuni-en** rather than assigned an unsupported object identification.
+- 2026 source re-audit resolves legacy `துணி ஏண்` as historical-`ணை` **`துணி ஏணை`**, translated as **cloth cradle**.
 - `அலகுகள் போலச் சிலாகைகள் போல` keeps both source comparison terms, with **silagaigal** retained where a precise identification would require speculation.
 - `புண்யமில்லை` is rendered by immediate religious sense as **there is no punyam**.
 - `கண்ணடக்கம்` is explained only where the source itself explains it: an eye-shaped gold/silver offering fixed over the idol’s eyes.
@@ -52,12 +52,12 @@ The canonical Tamil was not modified during the English activity.
 
 Notable conservative choices include:
 
-- `குறை நடக்கிறே` is translated by immediate sense as trouble happening in the village without changing the Tamil verb form;
-- `அபயங்`, `மானுடின்ற`, and `ஜீவவிட்ட` are handled minimally from surrounding context;
+- source-corrected `சூறை நடக்கிறே` is rendered as **havoc going on** while the unusual source ending `நடக்கிறே` remains untouched;
+- `அபயங்` is retained from source; source-corrected `மாளுகின்ற` is rendered as **people who are dying**, and `ஜில்லிட்ட` as **bodies have gone cold**;
 - opaque `பிணக்கொலு` is retained as **pinakkolu** rather than replaced with an inferred Tamil word;
 - `மமதையாளன்`, `பொல பொலவென`, `நன்றியிருக்கிறதம்மா`, `நேத்திரங்களுக்கு`, and `விட்டானப்பா` are translated by immediate sentence sense;
-- queued `நம்முலகு செல்லும் மக்களை மீட்க` is rendered minimally as saving the people of our world who are passing away, while the Tamil remains unchanged;
-- `பேசினள்` and `அந்தவேதனையான` remain source-faithful in the canonical Tamil and are not normalized from English expectation.
+- source-corrected `நமனுலகு செல்லும் மக்களை மீட்க` is rendered as saving **the people who are going to Yama’s world**;
+- `பேசினள்` remains source-faithful; source spacing is corrected to `அந்த வேதனையான` without semantic English change.
 
 ## Structural and rhetorical review
 
@@ -68,14 +68,21 @@ Notable conservative choices include:
 - the devotee removes the silver covering, discovers that the covered eyes have lost their light, wipes the religious marks from his own forehead, and joins the arriving doctors’ sanitary work in the same source order;
 - the final eye-hospital awakening remains the narrator’s concluding ironic frame without additional explanation.
 
-## Source issues reopened during translation
+## Source issues reopened during 2026 re-audit
 
-**None.**
-
-Translation exposed no issue strong enough to justify reopening or changing the verified Tamil transcription. Suspicious readings remain governed by the existing human-review queue.
+The later dual-gate source audit corrected nine Tamil readings/spacing points. Six English phrase-level synchronizations were required: `துணி ஏணை`, the two `சூறை` occurrences, `மாளுகின்ற`, `ஜில்லிட்ட`, and `நமனுலகு`. The other Tamil repairs do not change the English sense.
 
 ## Result
 
 **PASS — English translation complete for Story 24.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven Tamil repairs: **9**
+- English phrase-level synchronizations: **6**
+- unresolved source / historical-glyph readings: **0 / 0**

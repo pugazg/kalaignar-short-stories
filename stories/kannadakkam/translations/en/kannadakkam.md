@@ -8,7 +8,7 @@ It was pitch-dark. The river was in flood, overflowing its banks. Across it stoo
 
 <!-- source scan 167; printed page 158 -->
 
-If the relatives were still alive in the morning, they would come there to gather the bones and cast them away. Before that, the river might do the job itself. Sighing deeply, the devotee resumed his running journey. Ahead were more torches. Not a bier! On a long pole was a thuni-en; upon it, a child. A sleep that would not awaken. There was no fire-pot. Some men carried spades. A corpse for burial, perhaps! The devotee began to run many times faster than before. Karuvel thorns pierced his feet. He did not notice. His face scraped against the thorny screw-pine leaves along the bank. He did not notice that either. Thorns stood out all over his body like the hooks—like the silagaigal—seen on the body of one carrying a milk-kavadi to Palani. How he crossed the ruined well ahead, no one knew. How he passed the Pavadairayan and Kathavarayan shrines, terrifying even to look at, he himself did not know! He reached the edge of the village. There—a temple. Forest all around. The shrine within! “Amma! Mother!!” he shouted. He ran as though possessed. The door was locked. He leapt onto the compound wall and jumped down on the other side. Before him stood the fierce form of Kalika Devi. A roaring lion—a blood-dripping head—all only in sculpted form! So the devotee went near the Mother without fear. “Bhadrakali? Mahadevi!! Mahishasura Mardhini!!!” he cried.
+If the relatives were still alive in the morning, they would come there to gather the bones and cast them away. Before that, the river might do the job itself. Sighing deeply, the devotee resumed his running journey. Ahead were more torches. Not a bier! On a long pole was a cloth cradle; upon it, a child. A sleep that would not awaken. There was no fire-pot. Some men carried spades. A corpse for burial, perhaps! The devotee began to run many times faster than before. Karuvel thorns pierced his feet. He did not notice. His face scraped against the thorny screw-pine leaves along the bank. He did not notice that either. Thorns stood out all over his body like the hooks—like the silagaigal—seen on the body of one carrying a milk-kavadi to Palani. How he crossed the ruined well ahead, no one knew. How he passed the Pavadairayan and Kathavarayan shrines, terrifying even to look at, he himself did not know! He reached the edge of the village. There—a temple. Forest all around. The shrine within! “Amma! Mother!!” he shouted. He ran as though possessed. The door was locked. He leapt onto the compound wall and jumped down on the other side. Before him stood the fierce form of Kalika Devi. A roaring lion—a blood-dripping head—all only in sculpted form! So the devotee went near the Mother without fear. “Bhadrakali? Mahadevi!! Mahishasura Mardhini!!!” he cried.
 
 “Who is that?” Kali asked.
 
@@ -26,9 +26,9 @@ If the relatives were still alive in the morning, they would come there to gathe
 
 <!-- source scan 168; printed page 159 -->
 
-“What is this, Mother? Do you not know the trouble happening in the village?”
+“What is this, Mother? Do you not know the havoc going on in the village?”
 
-“Trouble?”
+“Havoc?”
 
 “Yes, Devi! People are dying in heaps. Terrible vomiting and diarrhoea! Deadly poisonous fever! They say plague; some new English disease! Jaundice!.... Ayyo...it cannot even be told, Mother; baskets and baskets of children’s corpses; bier after bier of adult corpses!”
 
@@ -42,7 +42,7 @@ If the relatives were still alive in the morning, they would come there to gathe
 
 “Convey my deepest condolences to those left in the families destroyed by the cruel disease!”
 
-“I did not come to ask for condolences, Sakthi! I came seeking refuge. I came to appeal to Mother to rescue the maanudindra people. I have made it here. By this time how many bodies have lost life—there is no count! The cremation ground has no rest. Proper food for the fire! Arise and come, my Mother!”
+“I did not come to ask for condolences, Sakthi! I came seeking refuge. I came to appeal to Mother to rescue the people who are dying. I have made it here. By this time how many bodies have gone cold—there is no count! The cremation ground has no rest. Proper food for the fire! Arise and come, my Mother!”
 
 “I cannot, son! I cannot! Forgive me. Devotee, go!”
 
@@ -102,7 +102,7 @@ The devotee stared closely at Kali’s eyes.
 
 “Yes—I can see that you are a fool who is fond of me!”
 
-“Why, Mother, do you blame me again? Show me some gratitude, Mother! I have opened the eyes that rain love so as to save the people of our world who are passing away!”
+“Why, Mother, do you blame me again? Show me some gratitude, Mother! I have opened the eyes that rain love so as to save the people who are going to Yama’s world!”
 
 “You opened the eyes; but you cannot give them light! Closed for ten years, my eyes have become like a well gone dry from disuse, son! Was it one year? Two years? Has not this kannadakkam hidden my eyes for ten years? No one can now restore light to my eyes and make compassion overflow in that light! Please go away!” Kali spoke angrily through tears.
 

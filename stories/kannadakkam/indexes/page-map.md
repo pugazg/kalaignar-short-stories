@@ -20,7 +20,11 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `blocked`: **0**
 - unresolved / missing story text: **0**
 - visual fidelity: **PASS — corrected**
+- 2026 dual-gate: **Gate A 7/7 PASS / Gate B 7/7 PASS — 9 repairs / 0 unresolved**
 
 Visual-fidelity synchronization records the opening rule/enlarged initial, source emphasis on `‘கண்ணடக்கம்’`, exclusion of printer signature `க—11`, and scan-172 closing ornament/ending role. Story wording was not changed.
 
 Scan **173** begins Story 25, `வாழ முடியாதவர்கள்`, and is outside this story range.
+
+
+2026 repairs affect scans **167, 168, 170, 171, 172**. Historical-glyph repairs: scan 167 `ஏண்` → `ஏணை` (`ணை`), scan 168 `நானு` → `நானா` (`னா`). Seven additional source wording/spacing repairs are recorded in `../RE_AUDIT_2026.md`. Scan **173** remains the independently checked Story 25 boundary.
