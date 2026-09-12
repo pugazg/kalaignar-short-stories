@@ -2,6 +2,8 @@
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
+Observed live checkpoint when this prompt was refreshed: `f945afb58a20762b5a2c4b99d59130b008410c83` — `Close கண்டதும் காதல் ஒழிக! 2026 dual-gate`. If live `main` has advanced, preserve the newer durable state and do not roll back.
+
 Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf` — முதல் பதிப்பு 1977, 260 scans, 268,486,609 bytes, SHA-256 `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`. Image-only; do not commit it.
 
 This remains **comparison repair, not retranscription**. Source pixels govern; preserve source spelling, punctuation, meaningful spacing, paragraphing, page boundaries and marks. No global replacement or silent normalization. Gate B is independent for every page.

@@ -5,6 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
+- refreshed live checkpoint: `f945afb58a20762b5a2c4b99d59130b008410c83` — `Close கண்டதும் காதல் ஒழிக! 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
