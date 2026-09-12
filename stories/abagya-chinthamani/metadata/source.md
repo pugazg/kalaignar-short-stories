@@ -51,3 +51,8 @@ The scan preserves source-close and historically/typeset-sensitive forms includi
 ## Closure recheck corrections
 
 A final native-scan pass corrected several earlier transcription readings before Story 26 closure: `காற்றுல்` → `காற்றில்`, `பிற்காக்களைப்` → `பிர்க்காக்களைப்`, `மனுஷனையிருக்கும்` → `மனுஷனாயிருக்கும்`, `நாலொரு` → `நாளொரு`, `தண்டுமாக` → `கண்டமுமாக`, `கவமடைந்தேன்` → `கர்வமடைந்தேன்`, `பாலைப் பாஷாணம்` → `பாலப் பாஷாணம்`, `தன்னுள்` → `தன்னால்`, and `எண்ணியிருந்திருன்` → `எண்ணியிருக்கிறான்`. These corrections were made from the controlling scan, not by contextual normalization.
+
+
+## 2026 dual-gate note
+
+All eight story scans were independently reopened at native **3146×4826** resolution. One source-proven repair was made on scan 188: `சோக கதத்தில்` → `சோக கீதத்தில்`. All 11 legacy pending candidates were resolved. Gate B's mandatory historical-glyph pass required no additional repair. Unresolved source/glyph readings: **0 / 0**. Scan 189 was independently reconfirmed as Story 27 `பாலைவன ரோஜா`.

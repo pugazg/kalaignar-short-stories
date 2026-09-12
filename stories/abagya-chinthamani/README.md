@@ -13,6 +13,21 @@ Canonical story workspace for **அபாக்ய சிந்தாமணி**
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **1**
+  - scan 188: `சோக கதத்தில்` → `சோக கீதத்தில்`
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 8 / 8 story pages transcribed and directly source-reviewed.**
@@ -52,7 +67,7 @@ The final Tamil closure recheck corrected several earlier misreadings against th
 
 **PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
 
-The source-bold opening characterization, two displayed song blocks, emphasized `எங்கள் ஒளவைப் பாட்டிதான்`, emphasized `நாயைக் குளிப்பாட்டி நடுவுள்ளே வைத்தால்...`, exclusion of printer signature `க—12`, and final ornament are synchronized. **Story wording changed: No.**
+The source-bold opening characterization, two displayed song blocks, emphasized `எங்கள் ஒளவைப் பாட்டிதான்`, emphasized `நாயைக் குளிப்பாட்டி நடுவுள்ளே வைத்தால்...`, exclusion of printer signature `க—12`, and final ornament are synchronized. **Story wording changed: Yes — one source-proven 2026 repair (`சோக கதத்தில்` → `சோக கீதத்தில்`).**
 
 ## Story boundary
 
@@ -76,8 +91,10 @@ The source-bold opening characterization, two displayed song blocks, emphasized 
 
 ## Completion state
 
-**அபாக்ய சிந்தாமணி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 181–188 / printed pages 172–179.**
+**அபாக்ய சிந்தாமணி is 2026 CURRENT PASS / CLOSED: Gate A 8/8 + Gate B 8/8, 1 source-proven repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 181–188 / printed pages 172–179.
 
 ## Next anthology English activity
 
 Story 27 — **பாலைவன ரோஜா**, printed pages **180–184**, anthology scans **189–193**. Before Story 27 closure, scan **194** remains the boundary witness opening Story 28, whose TOC title is `புரட்சிப்படம்` and opening heading is `புரட்சிப் படம்`.
+
+2026 source reread corrected scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all legacy possible-error candidates are now source-resolved.

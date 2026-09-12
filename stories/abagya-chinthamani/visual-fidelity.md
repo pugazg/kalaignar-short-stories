@@ -49,7 +49,7 @@ The other joins contain no omitted or duplicated text. Scan 188→189 is a clean
 5. scan 188: `story-conclusion` → `story-ending`; closing ornament recorded;
 6. Tamil assembly and page map synchronized with the same source-significant structure.
 
-**Story wording changed: No — structure/emphasis only.**
+**Story wording changed: Yes — one source-proven 2026 repair (`சோக கதத்தில்` → `சோக கீதத்தில்`); structure/emphasis remains source-faithful.**
 
 ## Remaining visual-fidelity issues
 

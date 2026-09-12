@@ -59,7 +59,7 @@ Notable conservative choices include:
 - `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை` is translated conservatively as a **kattu-masthaan, teak-like young man**, avoiding a stronger unsupported reconstruction;
 - `விபச்சாரியாக வாவது` and `இறங்கினள்` are rendered by immediate narrative meaning without Tamil normalization;
 - `போஷாக்கில்லாத நிலையில் பிறந்த ஆண் மகவு` is translated directly as a male child born without adequate nourishment;
-- `அந்தச் சோக கதத்தில் கூட ஏழ்மையின் பிரதி பலிப்பு இல்லையே!` is translated by the source’s closing contrast between poverty and failed love, without importing outside interpretation.
+- 2026 source re-audit corrected legacy `அந்தச் சோக கதத்தில் கூட...` to source `அந்தச் சோக கீதத்தில் கூட...`; existing English **“in that sad cadence”** already carries the corrected meaning, so no prose rewrite was required.
 
 ## Structural and sensitive-content review
 
@@ -81,3 +81,12 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 26.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven Tamil repairs: **1** — scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`
+- English prose rewrite required: **0**
+- unresolved source / historical-glyph readings: **0 / 0**

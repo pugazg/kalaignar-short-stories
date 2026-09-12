@@ -21,7 +21,8 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `blocked`: **0**
 - unresolved / missing story text: **0**
 - visual fidelity: **PASS — corrected**
+- 2026 dual-gate: **Gate A 8/8 PASS / Gate B 8/8 PASS — 1 repair / 0 unresolved**
 
-Visual-fidelity synchronization records the scan-181 opening structure/source-bold quotation, scan-182 display lineation/emphasis, scan-185 source emphasis, scan-186 printer signature `க—12` as page furniture, and scan-188 closing ornament/ending role. Story wording was not changed.
+Visual-fidelity synchronization records the scan-181 opening structure/source-bold quotation, scan-182 display lineation/emphasis, scan-185 source emphasis, scan-186 printer signature `க—12` as page furniture, and scan-188 closing ornament/ending role. 2026 source reread changed one wording point: scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`.
 
 Scan **189** begins Story 27, `பாலைவன ரோஜா`, and is outside this story range.

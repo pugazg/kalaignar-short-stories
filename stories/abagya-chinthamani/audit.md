@@ -25,7 +25,7 @@ A final closure recheck reopened several readings that had been prematurely tran
 | 176 | 185 | verified | completes `வேறு நினைவுபடுத்திப்...`; closure recheck confirms `பாலப் பாஷாணம்` and `தன்னால் ஜோதியின் குடும்பம்` |
 | 177 | 186 | verified | source forms `மடிப்பிச்சை`, `புலம்பினர்கள்`, `புத்தி கூறினர்கள்`, `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை` |
 | 178 | 187 | verified | source forms `விபச்சாரியாக வாவது`, `இறங்கினள்`; closure recheck confirms `அவன் எண்ணியிருக்கிறான்`; ends `அதற்` |
-| 179 | 188 | verified | completes `காகவே`; `போஷாக்கில்லாத நிலையில் பிறந்த ஆண் மகவு`; story conclusion and ornamental rule |
+| 179 | 188 | verified | completes `காகவே`; `போஷாக்கில்லாத நிலையில் பிறந்த ஆண் மகவு`; corrected source `சோக கீதத்தில்`; story conclusion and ornamental rule |
 
 Totals: **8/8 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
@@ -52,7 +52,7 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error. Particularly unusual readings such as `ஆள் அப்படி மதிக்கத் தோன்றுது`, `ஏற்பதிகழ்ச்சியென்ற`, `ஐயமிட்டுண்`, `அபாக்கிய சிந்தாமணி` in the body, `பத்து வயதுப் பசலையின்`, `வசைமாரி`, `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை`, `விபச்சாரியாக வாவது`, and `அந்தச் சோக கதத்தில் கூட ஏழ்மையின் பிரதி பலிப்பு இல்லையே!` remain available for later human recheck while their pages remain structurally verified.
+The 2026 dual-gate pass reopened every legacy candidate. The unusual forms were source-reconfirmed except scan 188 legacy `சோக கதத்தில்`, which was corrected to source `சோக கீதத்தில்`. **No queue item remains pending.**
 
 ## Assembly gate
 
@@ -66,4 +66,20 @@ Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; th
 
 ## Audit result
 
-**PASS — அபாக்ய சிந்தாமணி source range is fully transcribed and structurally source-complete: 8/8 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — அபாக்ய சிந்தாமணி source range is fully transcribed and structurally source-complete: 8/8 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 8/8 PASS + Gate B 8/8 PASS, 1 repair, 0 unresolved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **1**
+- scan 188: `சோக கதத்தில்` → `சோக கீதத்தில்`
+- Gate B additional repairs: **0**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 189 independently reconfirmed as Story 27 `பாலைவன ரோஜா`
+
+Full repair ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

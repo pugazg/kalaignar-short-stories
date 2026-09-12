@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 25 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 26 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -131,8 +131,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 23 | `காதல் கடிதம்` | 161–165 | **CURRENT PASS — 5 repairs / 0 unresolved** |
 | 24 | `கண்ணடக்கம்` | 166–172 | **CURRENT PASS — 9 repairs / 0 unresolved** |
 | 25 | `வாழ முடியாதவர்கள்` | 173–180 | **CURRENT PASS — 3 repairs / 0 unresolved** |
-| 26 | `அபாக்ய சிந்தாமணி` | 181–188 | **NEXT — REOPENED** |
-| 27 | `பாலைவன ரோஜா` | 189–193 | REOPENED / pending |
+| 26 | `அபாக்ய சிந்தாமணி` | 181–188 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 27 | `பாலைவன ரோஜா` | 189–193 | **NEXT — REOPENED** |
 | 28 | `புரட்சிப் படம்` | 194–198 | REOPENED / pending |
 | 29 | `திடுக்கிடும் கதை` | 199–204 | REOPENED / pending |
 | 30 | `கடைசிக் கட்டம்` | 205–210 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 26 `அபாக்ய சிந்தாமணி`, scans **181–188 / printed 172–179**. Complete Gate A **8/8** + independent Gate B **8/8**; use scan **189** only as the Story 27 `பாலைவன ரோஜா` boundary witness; advance **25/37 → 26/37** only with zero unresolved; stop before Story 27.
+Re-audit Story 27 `பாலைவன ரோஜா`, scans **189–193 / printed 180–184**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **194** only as the Story 28 `புரட்சிப் படம்` boundary witness (TOC `புரட்சிப்படம்`); advance **26/37 → 27/37** only with zero unresolved; stop before Story 28.
 
 ### `தொத்துக்கிளி` closure
 
@@ -357,3 +357,17 @@ Scans **173–180 / printed pages 164–171**:
 - scan 181 independently opens Story 26 `அபாக்ய சிந்தாமணி`
 
 Full story record: `../../stories/vazha-mudiyathavargal/RE_AUDIT_2026.md`.
+
+
+### `அபாக்ய சிந்தாமணி` closure
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **1**
+- scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`
+- all 11 legacy pending candidates resolved
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 189 independently opens Story 27 `பாலைவன ரோஜா`
+
+Full story record: `../../stories/abagya-chinthamani/RE_AUDIT_2026.md`.

@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 25/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 26/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -45,8 +45,8 @@
 | 23 | `காதல் கடிதம்` | 152–156 | 161–165 | **2026 Gate A 5/5 PASS / Gate B 5/5 PASS — 5 repairs / 0 unresolved** |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | **2026 Gate A 7/7 PASS / Gate B 7/7 PASS — 9 repairs / 0 unresolved** |
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **2026 Gate A 8/8 PASS / Gate B 8/8 PASS — 3 repairs / 0 unresolved** |
-| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | legacy complete — 8/8; **2026 NEXT** |
-| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | legacy complete — 5/5; 2026 pending |
+| 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **2026 Gate A 8/8 PASS / Gate B 8/8 PASS — 1 repair / 0 unresolved** |
+| 27 | `பாலைவன ரோஜா` | 180–184 | 189–193 | legacy complete — 5/5; **2026 NEXT** |
 | 28 | `புரட்சிப்படம்` | 185–189 | 194–198 | legacy complete — 5/5; opening `புரட்சிப் படம்`; 2026 pending |
 | 29 | `திடுக்கிடும் கதை` | 190–195 | 199–204 | legacy complete — 6/6; 2026 pending |
 | 30 | `கடைசிக் கட்டம்` | 196–201 | 205–210 | legacy complete — 6/6; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 25 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 26 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -89,7 +89,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 25
 - `காதல் கடிதம்` scans 161–165 — PASS / CLOSED — **5 repairs / 0 unresolved**;
 - `கண்ணடக்கம்` scans 166–172 — PASS / CLOSED — **9 repairs / 0 unresolved**;
 - `வாழ முடியாதவர்கள்` scans 173–180 — PASS / CLOSED — **3 repairs / 0 unresolved**;
-- `அபாக்ய சிந்தாமணி` scans 181–188 — **NEXT**.
+- `அபாக்ய சிந்தாமணி` scans 181–188 — PASS / CLOSED — **1 repair / 0 unresolved**;
+- `பாலைவன ரோஜா` scans 189–193 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 
