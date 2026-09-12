@@ -12,4 +12,6 @@
 
 Totals: **7 / 7 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 7/7 PASS / Gate B 7/7 PASS — 1 spacing repair / 0 unresolved**. Scan 219 `இவள்தான்` → `இவள் தான்`.
+
 Physical next-story boundary witness: scan **225 / printed page 216** visibly opens Story 33 **`வேணியின் காதலன்`** and is not included in this workspace.

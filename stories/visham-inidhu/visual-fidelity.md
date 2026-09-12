@@ -30,8 +30,13 @@ Scan 225 independently opens `வேணியின் காதலன்`; Stor
 3. Tamil assembly and page map synchronized with those visual findings;
 4. the already-correct source-bold final phrase, `story-ending` role and closing ornament on scan 224 were retained.
 
-**Story wording changed: No — structure/visual annotation only.**
+**Story wording/spacing changed: Yes — scan 219 source spacing `இவள்தான்` → `இவள் தான்`; structure/visual annotation remains source-faithful.**
 
 ## Result
 
 **PASS — corrected**
+
+
+## 2026 dual-gate note
+
+Gate A **7/7 PASS** and Gate B **7/7 PASS**. One source-spacing repair was synchronized on scan 219; all source-sensitive forms and mandatory historical-glyph families are **0 unresolved**.

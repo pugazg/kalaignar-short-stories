@@ -12,3 +12,10 @@ This is a persistent human-review queue, not a list of confirmed errors. All sev
 - [x] scan 225 / printed 216 — independently inspected only as boundary witness; visibly opens Story 33 `வேணியின் காதலன்`; no Story 33 text included here.
 
 A stronger source-supported correction may reopen any entry later, but no item above is currently treated as an unresolved story-text error.
+
+
+## 2026 dual-gate disposition
+
+- [x] scan 219 / printed 210 — source spacing repaired: legacy `இவள்தான்` → **`இவள் தான்`** in `ஒரிசாவின் புதிய மீராபாய் இவள் தான்...`.
+
+**0 pending / 0 unresolved.** All seven story-page source-sensitive groups and all mandatory historical-glyph families were independently reopened. Gate A **7/7 PASS**, Gate B **7/7 PASS**; Gate B required **0 additional repairs**.

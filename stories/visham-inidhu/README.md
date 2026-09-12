@@ -13,6 +13,21 @@ Canonical story workspace for **விஷம் இனிது**, processed fro
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs: **1 spacing repair**
+  - scan 219: `இவள்தான்` → `இவள் தான்`
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 7 / 7 story pages transcribed and directly source-reviewed.**
@@ -52,4 +67,6 @@ Direct/native review retained edition-specific or unusual forms including `த�
 
 ## Completion state
 
-**விஷம் இனிது Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 218–224 / printed pages 209–215.**
+**விஷம் இனிது is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 1 source-proven spacing repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 218–224 / printed pages 209–215.
+
+2026 source reread corrected scan **219** source spacing `இவள்தான்` → `இவள் தான்`; all historical-glyph families and source-sensitive forms are now resolved to **0 pending / 0 unresolved**.

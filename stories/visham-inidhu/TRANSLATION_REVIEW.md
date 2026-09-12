@@ -66,3 +66,12 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 32.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven Tamil repairs: **1 spacing repair** — scan 219 `இவள்தான்` → `இவள் தான்`
+- English prose rewrite required: **0** — existing “new Mirabai of Orissa” rendering is semantically unchanged
+- unresolved source / historical-glyph readings: **0 / 0**

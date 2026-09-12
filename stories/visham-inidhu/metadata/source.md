@@ -31,3 +31,8 @@ High-value source-close readings include `அப்படி யெல்லா�
 ## Boundary
 
 Scan **224** contains Story 32's final paragraph and ornamental closing mark. Scan **225** was independently inspected and visibly opens Story 33 **`வேணியின் காதலன்`**. No scan-225 Story 33 text is included in the Story 32 workspace.
+
+
+## 2026 dual-gate note
+
+All seven story scans were independently reopened at native **3146×4826** resolution. One Gate-A source-spacing repair was made on scan 219: `இவள்தான்` → `இவள் தான்`. All source-sensitive queue groups were rechecked. Gate B explicitly checked the mandatory historical-glyph families and required **0** additional repair. Unresolved source/glyph readings: **0 / 0**. Scan 225 was independently reconfirmed as Story 33 `வேணியின் காதலன்`.

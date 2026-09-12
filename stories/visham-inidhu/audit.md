@@ -17,7 +17,7 @@ All seven story scans were directly reviewed from high-resolution source renders
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
 | 209 | 218 | verified | opening `விஷம் இனிது`; அமிர்தராணி / ஜெகவீரன் warning dialogue |
-| 210 | 219 | verified | historical setup; அர்தோல் / இராமபிரான் கோயில் background; ends `சிறப்புடையதாயிருக்க` |
+| 210 | 219 | verified | historical setup; source spacing `இவள் தான்`; அர்தோல் / இராமபிரான் கோயில் background; ends `சிறப்புடையதாயிருக்க` |
 | 211 | 220 | verified | temple / வைரச் சுரங்க plan; ends `ரகசியமாகச்` |
 | 212 | 221 | verified | starts `சேமித்து`; warning letter; return to ஒரிசா; ends `பாடிக்கொண்டிருக்` |
 | 213 | 222 | verified | begins `கிறாள் சத்தியவதி`; confrontation and poison-test command |
@@ -58,8 +58,24 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+The 2026 dual-gate pass independently reopened all source-sensitive story-page entries. Scan 219 required one spacing repair, `இவள்தான்` → `இவள் தான்`; all other unusual forms were source-reconfirmed. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — விஷம் இனிது source range is fully transcribed and structurally source-complete: 7/7 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — விஷம் இனிது source range is fully transcribed and structurally source-complete: 7/7 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 7/7 PASS + Gate B 7/7 PASS, 1 spacing repair, 0 unresolved.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs: **1 spacing repair**
+- scan 219: `இவள்தான்` → `இவள் தான்`
+- Gate B additional repairs: **0**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 225 independently reconfirmed as Story 33 `வேணியின் காதலன்`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
