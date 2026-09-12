@@ -68,3 +68,13 @@ No lexical normalization was applied beyond what the controlling source proves.
 ## Completion state
 
 **CURRENT PASS — Tamil source fidelity PASS, independent historical-glyph gate PASS, assembly synchronized, English synchronized, 0 unresolved.**
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

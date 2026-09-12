@@ -76,3 +76,18 @@ The 2026 re-audit directly reconfirmed the unusual Tamil forms that previously s
 **PASS — English is synchronized to the 2026 dual-gate Tamil for `சபலம்`.**
 
 Canonical Tamil remains authoritative; no duplicate English layer was created.
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **7/7 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+Notable adjudications: 24→25 historical split `சக்தி` → `யிழந்து`, 25→26 predicate/subject reordering, and 28→29 `ஜன்னல்` → `வழியே` remain traceable in the two adjacent English sections. No non-adjacent spillover was found.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

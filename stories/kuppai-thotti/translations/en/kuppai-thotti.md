@@ -41,9 +41,11 @@ on the soft, fivefold bed,
 with flower-tressed Nappinnai's breasts beneath you,  
 O flower-chested one lying there, open your mouth!”
 
-That is the verse I read on the crumpled page. Alas, could not this drain-side where I sit suddenly become a *sabarakooda* couch? Could not a female garbage bin come and join me here? If such luck came, how happily I would live with her! I would speak all kinds of new words of love. Instead of calling her “darling,” I would embrace her and call her “garbage-darling.” I would gossip about the whole town with her. Then we would never know how time passed. Andal's poem created all these romantic thoughts in my heart. Poor Andal—whose daughter was she? They say the parents who bore her threw her away, and some Alvar picked her up and raised her! Why that lady mixed so much erotic flavour into worship of God, I do not know. One song alone has put me through all this; if I got all her songs, they would have to take me and leave me beside an asylum.
+That is the verse I read on the crumpled page. Alas, could not this drain-side where I sit suddenly become a *sabarakooda* couch? Could not a female garbage bin come and join me
 
 <!-- source scan 43; printed page 34 -->
+
+here? If such luck came, how happily I would live with her! I would speak all kinds of new words of love. Instead of calling her “darling,” I would embrace her and call her “garbage-darling.” I would gossip about the whole town with her. Then we would never know how time passed. Andal's poem created all these romantic thoughts in my heart. Poor Andal—whose daughter was she? They say the parents who bore her threw her away, and some Alvar picked her up and raised her! Why that lady mixed so much erotic flavour into worship of God, I do not know. One song alone has put me through all this; if I got all her songs, they would have to take me and leave me beside an asylum.
 
 Do I always get such pages and books? Most of the time it is a used food-leaf, a banana peel, orange peel, kamala-orange peel—something of that sort keeps coming. Sometimes they even throw dead rats into my belly. I sit holding my nose and waiting for the municipality cart to come. After midnight, a servant boy from a house at the end of the street comes near me.
 

@@ -39,3 +39,13 @@ English translation: [`translations/en/kuppai-thotti.md`](translations/en/kuppai
 ## State
 
 **Tamil archival source processing: CURRENT PASS / CLOSED — 8/8 pages; 4 repairs; 0 unresolved.**
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **1 page-anchor repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

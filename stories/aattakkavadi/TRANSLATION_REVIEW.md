@@ -54,3 +54,18 @@ The Gate-B candidate `கந்தனும் அவளுக்குக் �
 ## Result
 
 **PASS — English complete / synchronized with the 2026 CURRENT PASS Tamil.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **8/8 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 page-anchor repair**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+One clear anchor defect was repaired at 31→32. Source scan 31 ends after the labour clause; scan 32 begins `முழுசாகக் காண முடியாத பணம்—நூறு ரூபாய்!`. The English marker had been placed after translating that scan-32 clause. The sentence was minimally reordered so scan 31 now ends with the labour clause and scan 32 begins `I could never see that amount of money all at once—a hundred rupees!`. Meaning is unchanged.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

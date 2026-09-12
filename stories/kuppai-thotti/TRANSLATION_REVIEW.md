@@ -38,3 +38,18 @@ Source-close readings such as `மனமனவென்று`, `காரணக
 ## Final result
 
 **PASS — English complete and synchronized; Tamil source edits introduced by translation: 0.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **8/8 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **1 page-anchor repair**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+One clear anchor defect was repaired at 42→43. Source scan 42 ends inside `சேரக்` → scan 43 `கூடாதா?`. The English scan-43 marker had been delayed until after the entire following paragraph. It is now placed inside the equivalent question: `Could not a female garbage bin come and join me` → `here?`. No prose meaning changed.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

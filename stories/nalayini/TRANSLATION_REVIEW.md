@@ -45,3 +45,18 @@ Other Tamil corrections were orthographic, spacing, inflectional, or already rep
 ## Final result
 
 **PASS — English is synchronized to the repaired 1977 canonical Tamil and remains complete for all 8 source pages.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **8/8 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+Notable adjudications: source joins 16→17 (`கால்` → `பாகத்துக்குமேல்`), 18→19 (`தனக்குத்` → `தானே`) and 20→21 (`காணப்படு` → `கிறார்கள்`) are intra-phrase/word source splits. English keeps each continuation in the immediately adjacent page sections at the nearest natural English boundary; no material crosses beyond the adjacent source boundary.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

@@ -55,3 +55,18 @@ Unusual but source-confirmed Tamil is not silently normalized in English review.
 **PASS — English complete and synchronized with the 2026 CURRENT PASS Tamil source state.**
 
 Do not reopen this translation from stale possible-error notes; any future change must first be supported by genuinely new direct source evidence.
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+- physical pages: **10/10 PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issues: **0**
+
+Notable joins were checked directly, including 50→51 `அறிஞர்களின்` → `பாராட்டுக்குரிய` represented as `scholars'` → `praise`, 53→54 `கந்தன்,` continuation, and 55→56 `அசையாமல்` → `கந்தன்...` represented as `Without moving,` → `Kandan stood...`.
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.

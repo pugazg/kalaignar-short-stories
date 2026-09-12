@@ -72,3 +72,13 @@ The re-audit directly reconfirmed unusual forms including `‘பாவலா’
 **ஆட்டக்காவடி: 2026 dual-gate CURRENT PASS / CLOSED for scans 31–38 / printed pages 22–29.**
 
 Do not reopen from stale prompts unless genuinely new direct source evidence appears.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **8/8**
+- E1 repairs: **1 page-anchor repair**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

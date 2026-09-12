@@ -60,3 +60,13 @@ Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 Story 7 — **சங்கிலிச்சாமி**, scans **57–68 / printed pages 48–59**.
 
 Do not reopen `சந்தனக்கிண்ணம்` from stale prompts unless genuinely new direct source evidence appears.
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **10/10**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)

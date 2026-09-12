@@ -91,3 +91,13 @@ The scan-25 correction `அலுப்பைப் பற்றிய அக்
 ## Completion state
 
 **சபலம் is CURRENT PASS / CLOSED under the 2026 dual-gate standard for scans 24–30 / printed pages 15–21: 6 canonical repairs, 0 unresolved source readings, 0 unresolved historical-glyph readings, Tamil assembly and affected English synchronized.**
+
+
+## English post-Tamil re-audit
+
+- E1 completeness / physical-page alignment: **PASS**
+- page coverage: **7/7**
+- E1 repairs: **0**
+- unresolved E1 issues: **0**
+- E2–E5: **PENDING**
+- durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
