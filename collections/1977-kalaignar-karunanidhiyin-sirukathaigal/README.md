@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 36 / 37 CURRENT PASS.**
+**CLOSED — 37 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -296,11 +296,25 @@ Full story record: `../../stories/sumanthaval/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/siddharthan-silai/RE_AUDIT_2026.md`.
 
-## Exact next activity
+### `நுனிக்கரும்பு` closure
 
-Story 37 **`நுனிக்கரும்பு`** — scans **253–259 / printed pages 244–250** — **NEXT**.
+- scans **253–259 / printed 244–250**
+- Gate A **7/7 PASS**
+- Gate B **7/7 PASS**
+- **2 source-proven punctuation repairs / 0 unresolved**
+- scan 256: `ஒண்ணுமில்லே!...என்ன` → `ஒண்ணுமில்லே...என்ன`
+- scan 258: `டே, டே!` → `டே டே!`
+- no historical-glyph repair
+- English synchronization **2 punctuation-only places; 0 prose/meaning changes**
+- scan 260 independently reconfirmed as anthology back cover
 
-Complete Gate A **7/7** and independent Gate B **7/7**. Use scan **260** only as the anthology back-cover boundary witness. Advance to **37/37** only with zero unresolved.
+Full story record: `../../stories/nunikkarumbu/RE_AUDIT_2026.md`.
+
+## 2026 dual-gate closure
+
+**CLOSED — 37 / 37 CURRENT PASS; 0 unresolved.**
+
+There is no remaining story-level activity inside this 1977 dual-gate programme. Reopen only with genuinely new direct controlling-source evidence.
 
 
 ## Legacy processing state

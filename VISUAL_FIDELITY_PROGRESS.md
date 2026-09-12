@@ -60,10 +60,15 @@ The user explicitly expanded the final activity to all remaining stories.
 - **34 `அமிர்தமதி`** — scans **231–238** — `PASS`; eight scans and scan-239 boundary witness reconciled; quoted descriptive material and physical joins preserved; final `story-ending` role and ornament already correct; wording changed **No**.
 - **35 `சுமந்தவள்`** — scans **239–249** — `PASS`; eleven scans and scan-250 boundary witness reconciled; paragraph/dialogue structure and source-close forms retained; final `story-ending` role and ornament already correct; wording changed **No**.
 - **36 TOC `சித்தார்த்தன்` / opening `சித்தார்த்தன் சிலை`** — scans **250–252** — `PASS`; title variance preserved exactly; three scans and scan-253 boundary witness reconciled; final ending/ornament already correct; wording changed **No**.
-- **37 `நுனிக்கரும்பு`** — scans **253–259** — `PASS`; opening Bharathidasan verse lineation, source-sensitive wording and all joins retained; previous source-corrected `இவனத் தெரியுமா?` preserved; scan **260** confirmed as anthology back cover outside story text; wording changed **No**.
+- **37 `நுனிக்கரும்பு`** — scans **253–259** — `PASS`; opening Bharathidasan verse lineation, source-sensitive wording and all joins retained; previous source-corrected `இவனத் தெரியுமா?` preserved; scan **260** confirmed as anthology back cover outside story text. Subsequent 2026 dual-gate re-audit applied **2 punctuation-only repairs**; visual structure remained unchanged.
 
 ## Phase closure
 
 The visual-fidelity phase is **complete: 37 / 37 stories**, with **0 pending**, **0 in progress**, and **0 needs recheck**. Every story has a story-local `visual-fidelity.md` with result `PASS` or `PASS — corrected`.
 
 This completion does **not** authorize English translation, modernization, republication, or any other downstream phase. Begin another phase only after explicit user authorization.
+
+
+### Subsequent 2026 dual-gate closure
+
+The later source-fidelity + independent Old Tamil Glyph programme is now also **CLOSED — 37 / 37 CURRENT PASS**. For Story 37, Gate A/B closed at **7/7 + 7/7**, with **2 punctuation repairs / 0 unresolved** and no visual-structure change.

@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 36 / 37 stories have passed the new dual-gate re-audit.**
+**CLOSED — 37 / 37 stories have passed the 2026 dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -142,7 +142,7 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 34 | `அமிர்தமதி` | 231–238 | **CURRENT PASS — 10 repairs / 0 unresolved** |
 | 35 | `சுமந்தவள்` | 239–249 | **CURRENT PASS — 7 repairs / 0 unresolved** |
 | 36 | `சித்தார்த்தன் சிலை` | 250–252 | **CURRENT PASS — 1 repair / 0 unresolved** |
-| 37 | `நுனிக்கரும்பு` | 253–259 | **NEXT — REOPENED** |
+| 37 | `நுனிக்கரும்பு` | 253–259 | **CURRENT PASS — 2 punctuation repairs / 0 unresolved** |
 
 ### `தாய்மை` closure
 
@@ -307,9 +307,29 @@ Scans **250–252 / printed pages 241–243**:
 
 Full story record: `../../stories/siddharthan-silai/RE_AUDIT_2026.md`.
 
-## Exact next activity
+### `நுனிக்கரும்பு` closure
 
-Re-audit Story 37 `நுனிக்கரும்பு`, scans **253–259 / printed 244–250**. Complete Gate A **7/7** + independent Gate B **7/7**; use scan **260** only as the anthology back-cover boundary witness; advance **36/37 → 37/37** only with zero unresolved.
+Scans **253–259 / printed pages 244–250**:
+
+- Gate A: **PASS — 7/7**
+- Gate B: **PASS — 7/7**
+- source-proven repairs: **2 punctuation repairs**
+- scan 256 `ஒண்ணுமில்லே!...என்ன` → `ஒண்ணுமில்லே...என்ன`
+- scan 258 `டே, டே!` → `டே டே!`
+- no historical-glyph repair
+- opening Bharathidasan verse and source-sensitive queue reconfirmed
+- exact 257→258 `உள்ளங்` → `களைக்` split preserved
+- English synchronized in **2 punctuation-only places; 0 prose/meaning changes**
+- unresolved source / historical-glyph readings: **0 / 0**
+- scan 260 independently reconfirmed as the anthology back-cover boundary witness
+
+Full story record: `../../stories/nunikkarumbu/RE_AUDIT_2026.md`.
+
+## 2026 programme closure
+
+**CLOSED — 37 / 37 CURRENT PASS; 0 unresolved.**
+
+All 37 stories in the 1977 anthology have now independently passed Gate A and Gate B. No further story remains in this anthology re-audit. Reopen a closed story only for genuinely new direct controlling-source evidence.
 
 ### `தொத்துக்கிளி` closure
 

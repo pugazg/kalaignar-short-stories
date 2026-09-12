@@ -14,7 +14,7 @@ A later explicit authorization can reopen the archive for a new source without i
 
 | Scope | Tamil / source | Visual | English | Status |
 |---|---:|---:|---:|---|
-| 1977 `கலைஞர் கருணாநிதியின் சிறுகதைகள்` | **37 / 37 PASS** | **37 / 37 PASS** | **37 / 37 PASS** | **CLOSED** |
+| 1977 `கலைஞர் கருணாநிதியின் சிறுகதைகள்` | **37 / 37 PASS** | **37 / 37 PASS** | **37 / 37 PASS** | **CLOSED — 2026 dual-gate 37/37 CURRENT PASS** |
 | 2008 `கலைஞர் சொன்ன கதைகள்` | **40 / 40 PASS** | **40 / 40 PASS** | **40 / 40 PASS** | **CLOSED** |
 | 2004 `கலைஞரின் குட்டிக் கதைகள்` | **34 / 34 PASS** | **34 / 34 PASS** | **34 / 34 PASS** | **CLOSED** |
 | 1997 new short-story onboarding | `நண்பனா?` **3 / 3 PASS** | **PASS** | **PASS** | **CLOSED** |

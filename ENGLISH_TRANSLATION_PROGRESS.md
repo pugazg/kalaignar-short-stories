@@ -125,8 +125,10 @@ Latest completed batch:
 - exact 257→258 `உள்ளங்` → `களைக்` continuation represented traceably: **Yes**
 - Arulnambi/Amudha stage, phone and dinner sequence and final `தாத்தா` reversal preserved: **Yes**
 - scan 260 confirmed as back-cover boundary and excluded: **Yes**
-- Tamil source changed during translation: **No**
-- result: **PASS**
+- Tamil source changed during original translation: **No**
+- subsequent 2026 dual-gate synchronization: **2 punctuation-only changes** — `Nothing!...What` → `Nothing...What`; `Hey, hey!` → `Hey hey!`
+- prose/meaning change from re-audit: **0**
+- result: **PASS — synchronized**
 
 ## Phase closure
 
@@ -135,3 +137,7 @@ Latest completed batch:
 The English translation phase is closed through Story 37 `நுனிக்கரும்பு`, scan **259 / printed page 250**. Scan **260** remains the verified anthology back cover and is outside story text.
 
 Canonical Tamil remains authoritative. Any future English revision that appears to expose a Tamil source issue must reopen that exact Tamil span against the controlling scan under `SHORT_STORY_PROCESSING_GUIDE.md` before any source-layer change.
+
+## 2026 dual-gate synchronization closure
+
+All English layers materially or punctuationally affected by the 2026 Tamil re-audit are synchronized. The final Story 37 update was punctuation-only; the anthology remains **37 / 37 PASS in English**.

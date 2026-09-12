@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 36/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 37/37 CLOSED** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -56,13 +56,13 @@
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | **2026 Gate A 8/8 PASS / Gate B 8/8 PASS — 10 repairs / 0 unresolved** |
 | 35 | `சுமந்தவள்` | 230–240 | 239–249 | **2026 Gate A 11/11 PASS / Gate B 11/11 PASS — 7 repairs / 0 unresolved** |
 | 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | **2026 Gate A 3/3 PASS / Gate B 3/3 PASS — 1 repair / 0 unresolved**; opening `சித்தார்த்தன் சிலை` |
-| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | legacy complete — 7/7; **2026 NEXT** |
+| 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | **2026 Gate A 7/7 PASS / Gate B 7/7 PASS — 2 punctuation repairs / 0 unresolved** |
 
 ## Current processing boundary
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 36 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **CLOSED — 37 / 37 CURRENT PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -100,10 +100,15 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 36
 - `அமிர்தமதி` scans 231–238 — PASS / CLOSED — **10 repairs / 0 unresolved**;
 - `சுமந்தவள்` scans 239–249 — PASS / CLOSED — **7 repairs / 0 unresolved**;
 - `சித்தார்த்தன் சிலை` scans 250–252 — PASS / CLOSED — **1 repair / 0 unresolved** (TOC `சித்தார்த்தன்`);
-- `நுனிக்கரும்பு` scans 253–259 — **NEXT**.
+- `நுனிக்கரும்பு` scans 253–259 — PASS / CLOSED — **2 punctuation repairs / 0 unresolved**.
 
 Scan **260** remains the verified back cover.
 
 ## Per-story page-record policy
 
 This collection-level map does not replace `stories/<slug>/pages/`. Preserve anthology scan number + printed page number in every page marker and use `../RE_AUDIT_2026.md` for the current release-confidence gate.
+
+
+## 2026 dual-gate closure
+
+All story scans **10–259 / printed pages 1–250** are now closed under Gate A + independent Gate B. Scan **260** remains the verified anthology back cover. Current unresolved count: **0**.

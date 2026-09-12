@@ -44,6 +44,7 @@ The verified pagination relation across the story block is:
 | Anthology stories inventoried | **37 / 37** |
 | Story-opening boundaries checked | **37 / 37** |
 | Tamil source transcription/audit | **37 / 37 complete** |
+| 2026 1977 dual-gate source + Old Tamil Glyph re-audit | **37 / 37 CURRENT PASS — CLOSED; 0 unresolved** |
 | Tamil blocked story text | **0** |
 | Tamil unresolved story text | **0** |
 | Visual fidelity | **37 / 37 complete** |
@@ -218,3 +219,8 @@ The defect was independently rechecked against all six verified Tamil page recor
 The Story-29 translation review preserves the original review history and records the missed provenance condition, repair and re-verification. `ENGLISH_TRANSLATION_GUIDE.md` now requires content-boundary validation rather than marker presence/order alone, with `scripts/validate-english-page-anchors.py` and the Story-29 boundary manifest providing a regression guard.
 
 The earlier repository pin `a9b333f12128686785ee981f97313a64af12e29b` predates this correction and must not be used as a downstream source freeze after the correction lands. Any downstream Wave-2 source freeze must be recomputed from the newer live `main`.
+
+
+## 2026 dual-gate closure addendum
+
+The 1977 anthology source-fidelity + independent Old Tamil Glyph re-audit is **CLOSED — 37 / 37 CURRENT PASS**. Final Story 37 `நுனிக்கரும்பு` closed at Gate A **7/7** + Gate B **7/7** with **2 punctuation repairs / 0 unresolved**. Scan **260** remains the verified back cover.
