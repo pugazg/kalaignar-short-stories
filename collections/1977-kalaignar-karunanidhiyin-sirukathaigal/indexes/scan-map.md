@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 21/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 22/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -41,8 +41,8 @@
 | 19 | `பிரேத விசாரணை` | 131–136 | 140–145 | **2026 Gate A 6/6 PASS / Gate B 6/6 PASS — 1 repair / 0 unresolved** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **2026 Gate A 5/5 PASS / Gate B 5/5 PASS — 0 new repairs / 0 unresolved** |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **2026 Gate A 5/5 PASS / Gate B 5/5 PASS — 89 repairs / 0 unresolved** |
-| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | legacy complete — 5/5; **2026 NEXT** |
-| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | legacy complete — 5/5; 2026 pending |
+| 22 | `தொத்துக்கிளி` | 147–151 | 156–160 | **2026 Gate A 5/5 PASS / Gate B 5/5 PASS — 1 repair / 0 unresolved** |
+| 23 | `காதல் கடிதம்` | 152–156 | 161–165 | legacy complete — 5/5; **2026 NEXT** |
 | 24 | `கண்ணடக்கம்` | 157–163 | 166–172 | legacy complete — 7/7; 2026 pending |
 | 25 | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | legacy complete — 8/8; 2026 pending |
 | 26 | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | legacy complete — 8/8; 2026 pending |
@@ -62,7 +62,7 @@
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 21 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 22 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -85,7 +85,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 21
 - `பிரேத விசாரணை` scans 140–145 — PASS / CLOSED;
 - `கண்டதும் காதல் ஒழிக!` scans 146–150 — PASS / CLOSED;
 - `ஆலமரத்துப் புறாக்கள்` scans 151–155 — PASS / CLOSED — **89 repairs / 0 unresolved**;
-- `தொத்துக்கிளி` scans 156–160 — **NEXT**.
+- `தொத்துக்கிளி` scans 156–160 — PASS / CLOSED — **1 repair / 0 unresolved**;
+- `காதல் கடிதம்` scans 161–165 — **NEXT**.
 
 Scan **260** remains the verified back cover.
 

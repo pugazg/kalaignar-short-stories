@@ -21,7 +21,7 @@
 ## Scan 157 / printed 148
 - [x] `‘களுக்’ என்று சப்தம் கேட்டுத் திரும்பினன்` retained.
 - [x] `அவளுடைய அலையும் விழிகளிலே அவன் அற்புதத்தைக் கண்டான்` retained after enlarged full-span review.
-- [ ] `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்` — enlarged native/full-span inspection supports the current glyph reading, but the phrase is unusually opaque and merits later human recheck.
+- [x] `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்` — 2026 dual-gate native/full-span reread confirms the current source reading; no normalization applied.
 - [x] `ஒவ்வொரு திங்களும்` retained as printed.
 - [x] `கம்பனின் சூர்ப்பனகையாயிருந்தாலென்ன` retained.
 - [x] `“டிசை”னில்` retained with source punctuation.
@@ -43,7 +43,8 @@
 - [x] `விமலா முக்கி முனகிக் கொண்டே` retained after enlarged full-span review.
 - [x] `மனங் குலைவது?` retained.
 - [x] `கொட்டினள்` retained at both occurrences.
-- [ ] `அவன் முகத்திலே கருகு தாளிக்கப் பட்டது` — current reading follows enlarged source inspection; unusual wording merits later human recheck.
+- [x] source correction applied: legacy/canonical `‘ஆ’ என்று அலறி` → source `‘ஆ’ வென்று அலறி`; the native scan clearly shows initial `வ`.
+- [x] `அவன் முகத்திலே கருகு தாளிக்கப் பட்டது` — 2026 dual-gate native/full-span reread confirms the current source reading; no normalization applied.
 - [x] `“நைட்ரிக் ஆசிடைக்”` retained.
 - [x] `அக்கினித் திராவகத்தை!` retained.
 
@@ -63,3 +64,7 @@
 - [x] scan 161 independently checked as Story 23 opening `காதல் கடிதம்`; no Story 23 text belongs here.
 
 A later correction must be checked against the controlling scan and propagated to the page record, assembled Tamil, audit, story README and affected collection/root control files.
+
+## 2026 dual-gate disposition
+
+**0 pending / 0 unresolved.** All legacy candidates above were reopened directly against the controlling scans; only the scan-159 `என்று` → `வென்று` source correction was required.

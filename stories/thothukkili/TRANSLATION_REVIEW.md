@@ -78,3 +78,11 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 22.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+## 2026 source re-audit synchronization
+
+The Tamil source layer was reopened under the anthology dual-gate standard. Scan 159 was corrected from legacy `‘ஆ’ என்று அலறி` to source `‘ஆ’ வென்று அலறி`. This does not alter the translated event: the existing English **“With an ‘Ah!’ Annumalai screamed and fell.”** remains faithful.
+
+- English prose rewrite required: **0**
+- canonical Tamil after re-audit: **CURRENT PASS / CLOSED**
+- Gate A / Gate B: **5/5 PASS / 5/5 PASS**
+- unresolved source/glyph readings: **0 / 0**

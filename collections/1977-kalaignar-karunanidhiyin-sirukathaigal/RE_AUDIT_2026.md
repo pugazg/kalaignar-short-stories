@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 21 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 22 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -127,8 +127,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 19 | `பிரேத விசாரணை` | 140–145 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 20 | `கண்டதும் காதல் ஒழிக!` | 146–150 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **CURRENT PASS — 89 repairs / 0 unresolved** |
-| 22 | `தொத்துக்கிளி` | 156–160 | **NEXT — REOPENED** |
-| 23 | `காதல் கடிதம்` | 161–165 | REOPENED / pending |
+| 22 | `தொத்துக்கிளி` | 156–160 | **CURRENT PASS — 1 repair / 0 unresolved** |
+| 23 | `காதல் கடிதம்` | 161–165 | **NEXT — REOPENED** |
 | 24 | `கண்ணடக்கம்` | 166–172 | REOPENED / pending |
 | 25 | `வாழ முடியாதவர்கள்` | 173–180 | REOPENED / pending |
 | 26 | `அபாக்ய சிந்தாமணி` | 181–188 | REOPENED / pending |
@@ -291,4 +291,19 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 22 `தொத்துக்கிளி`, scans **156–160 / printed 147–151**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **161** only as the Story 23 `காதல் கடிதம்` boundary witness; advance **21/37 → 22/37** only with zero unresolved; stop before Story 23.
+Re-audit Story 23 `காதல் கடிதம்`, scans **161–165 / printed 152–156**. Complete Gate A **5/5** + independent Gate B **5/5**; use scan **166** only as the Story 24 `கண்ணடக்கம்` boundary witness; advance **22/37 → 23/37** only with zero unresolved; stop before Story 24.
+
+### `தொத்துக்கிளி` closure
+
+Scans **156–160 / printed pages 147–151**:
+
+- Gate A: **PASS — 5/5**
+- Gate B: **PASS — 5/5**
+- source-proven repairs: **1**
+- scan 159 `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`
+- `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்` and `கருகு தாளிக்கப் பட்டது` source-reconfirmed at native/high resolution
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 161 independently opens Story 23 `காதல் கடிதம்`
+
+Full story record: `../../stories/thothukkili/RE_AUDIT_2026.md`.

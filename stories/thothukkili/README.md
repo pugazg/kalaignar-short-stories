@@ -13,6 +13,21 @@ Canonical story workspace for **தொத்துக்கிளி**, processe
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **1**
+  - scan 159 / printed 150: `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 5 / 5 story pages transcribed and directly source-reviewed.**
@@ -69,4 +84,4 @@ The opening rule/enlarged initial, final story-ending role and closing ornament 
 
 ## Completion state
 
-**தொத்துக்கிளி Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 156–160 / printed pages 147–151.**
+**தொத்துக்கிளி is 2026 CURRENT PASS / CLOSED: Gate A 5/5 + Gate B 5/5, 1 source-proven repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 156–160 / printed pages 147–151.

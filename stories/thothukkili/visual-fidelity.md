@@ -39,8 +39,9 @@ The other joins contain no omitted or duplicated story text. Scan 160→161 is a
 2. scan 160: `story-conclusion` → `story-ending`; closing ornament recorded;
 3. Tamil assembly synchronized with the same opening/ending annotations;
 4. page map synchronized.
+5. 2026 source-fidelity reread corrected scan 159 `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`; no visual-layout change.
 
-**Story wording changed: No — structure only.**
+**Story wording changed: Yes — one source-fidelity correction on scan 159, `‘ஆ’ என்று` → `‘ஆ’ வென்று`; visual structure itself is unchanged.**
 
 ## Remaining visual-fidelity issues
 

@@ -59,3 +59,17 @@ Source-sensitive but legible forms are retained in `POSSIBLE_ERRORS_FOR_REVIEW.m
 ## Audit result
 
 **PASS — தொத்துக்கிளி source range is fully transcribed and structurally source-complete: 5/5 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **5/5 PASS**
+- Gate B: **5/5 PASS**
+- source-proven repairs: **1**
+- unresolved source / historical-glyph readings: **0 / 0**
+- scan 159 correction: `‘ஆ’ என்று அலறி` → **`‘ஆ’ வென்று அலறி`**
+- scan 157 `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்`: source-confirmed
+- scan 159 `அவன் முகத்திலே கருகு தாளிக்கப் பட்டது`: source-confirmed
+- English prose rewrite required: **0**
+- scan 161 independently reconfirmed as Story 23 `காதல் கடிதம்`

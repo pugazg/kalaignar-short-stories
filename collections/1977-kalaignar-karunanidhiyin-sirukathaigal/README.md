@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 21 / 37 CURRENT PASS.**
+**OPEN — 22 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -57,8 +57,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `பிரேத விசாரணை` — scans **140–145** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `கண்டதும் காதல் ஒழிக!` — scans **146–150** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; English terminology synchronized.
+- `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these twenty stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-two stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -82,11 +83,24 @@ Do not reopen these twenty stories from stale prompts unless genuinely new direc
 
 Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
+### `தொத்துக்கிளி` closure
+
+- scans **156–160 / printed 147–151**
+- Gate A **5/5 PASS**
+- Gate B **5/5 PASS**
+- **1 source-proven repair / 0 unresolved**
+- scan 159: `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`
+- persistent candidates `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்` and `கருகு தாளிக்கப் பட்டது` source-reconfirmed
+- English prose rewrite **0**
+- scan 161 independently opens `காதல் கடிதம்`
+
+Full story record: `../../stories/thothukkili/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 22 **`தொத்துக்கிளி`** — scans **156–160 / printed pages 147–151** — **NEXT**.
+Story 23 **`காதல் கடிதம்`** — scans **161–165 / printed pages 152–156** — **NEXT**.
 
-Complete Gate A **5/5** and independent Gate B **5/5**. Use scan **161** only as the boundary witness opening Story 23 `காதல் கடிதம்`. Advance to **22/37** only with zero unresolved; stop before Story 23.
+Complete Gate A **5/5** and independent Gate B **5/5**. Use scan **166** only as the boundary witness opening Story 24 `கண்ணடக்கம்`. Advance to **23/37** only with zero unresolved; stop before Story 24.
 
 
 ## Legacy processing state

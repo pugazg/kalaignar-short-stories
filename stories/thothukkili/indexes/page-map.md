@@ -18,7 +18,10 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `blocked`: **0**
 - unresolved / missing story text: **0**
 - visual fidelity: **PASS — corrected**
+- 2026 dual-gate: **Gate A 5/5 PASS / Gate B 5/5 PASS — 1 repair / 0 unresolved**
 
 Visual-fidelity synchronization records the scan-156 opening rule/enlarged initial and scan-160 closing ornament/ending role. Story wording was not changed.
 
 Scan **161** begins Story 23, `காதல் கடிதம்`, and is outside this story range.
+
+2026 source repair: scan **159 / printed 150** `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`. Scan **161** remains the independently checked Story 23 boundary.

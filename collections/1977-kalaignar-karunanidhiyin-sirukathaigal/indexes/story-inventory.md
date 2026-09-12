@@ -27,8 +27,8 @@
 | 19 | `பிரேத விசாரணை` | `பிரேத விசாரணை` | 131–136 | 140–145 | **2026 CURRENT PASS — Gate A 6/6 + Gate B 6/6; 1 repair; 0 unresolved** — `stories/pretha-visaranai/` |
 | 20 | `கண்டதும் காதல் ஒழிக!` | `கண்டதும் காதல் ஒழிக!` | 137–141 | 146–150 | **2026 CURRENT PASS — Gate A 5/5 + Gate B 5/5; 0 new repairs; 0 unresolved** — `stories/kandathum-kadhal-ozhiga/` |
 | 21 | `ஆலமரத்துப் புறாக்கள்` | `ஆலமரத்துப் புறாக்கள்` | 142–146 | 151–155 | **2026 CURRENT PASS — Gate A 5/5 + Gate B 5/5; 89 repairs; 0 unresolved** — `stories/aalamarathup-puraakkal/` |
-| 22 | `தொத்துக்கிளி` | `தொத்துக்கிளி` | 147–151 | 156–160 | **legacy Tamil complete — 5/5 verified; 2026 re-audit NEXT** — `stories/thothukkili/` |
-| 23 | `காதல் கடிதம்` | `காதல் கடிதம்` | 152–156 | 161–165 | **legacy Tamil complete — 5/5 verified; 2026 re-audit pending** — `stories/kadhal-kaditham/` |
+| 22 | `தொத்துக்கிளி` | `தொத்துக்கிளி` | 147–151 | 156–160 | **2026 CURRENT PASS — Gate A 5/5 + Gate B 5/5; 1 repair; 0 unresolved** — `stories/thothukkili/` |
+| 23 | `காதல் கடிதம்` | `காதல் கடிதம்` | 152–156 | 161–165 | **legacy Tamil complete — 5/5 verified; 2026 re-audit NEXT** — `stories/kadhal-kaditham/` |
 | 24 | `கண்ணடக்கம்` | `கண்ணடக்கம்` | 157–163 | 166–172 | **legacy Tamil complete — 7/7 verified; 2026 re-audit pending** — `stories/kannadakkam/` |
 | 25 | `வாழ முடியாதவர்கள்` | `வாழ முடியாதவர்கள்` | 164–171 | 173–180 | **legacy Tamil complete — 8/8 verified; 2026 re-audit pending** — `stories/vazha-mudiyathavargal/` |
 | 26 | `அபாக்ய சிந்தாமணி` | `அபாக்ய சிந்தாமணி` | 172–179 | 181–188 | **legacy Tamil complete — 8/8 verified; 2026 re-audit pending** — `stories/abagya-chinthamani/` |
@@ -48,8 +48,8 @@
 
 - anthology stories registered: **37 / 37**
 - legacy Tamil source processing complete: **37 / 37**
-- 2026 dual-gate CURRENT PASS: **21 / 37**
-- 2026 dual-gate next: **Story 22 `தொத்துக்கிளி`**
+- 2026 dual-gate CURRENT PASS: **22 / 37**
+- 2026 dual-gate next: **Story 23 `காதல் கடிதம்`**
 - not yet transcribed: **0 / 37**
 
 The legacy page/assembly corpus remains the comparison baseline. Current release confidence is governed by `../RE_AUDIT_2026.md` and requires both Gate A and Gate B.
@@ -70,6 +70,6 @@ Both source forms must be preserved.
 
 ## Tamil source processing status
 
-**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 21 / 37 current PASS.**
+**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 22 / 37 current PASS.**
 
-Next exact story: `தொத்துக்கிளி`, scans **156–160 / printed 147–151**.
+Next exact story: `காதல் கடிதம்`, scans **161–165 / printed 152–156**.
