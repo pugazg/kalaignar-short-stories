@@ -5,10 +5,10 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `0a30887b7232b70b6f985d8d0bdba742f4d75cb1` — `Close சித்தார்த்தன் சிலை 2026 dual-gate`
+- refreshed durable closure checkpoint: `f980e80c556bc2cf76b1c08e0504e077b0b980ed` — `Close 1977 anthology dual-gate at 37 of 37`
 - permanent source-first guides remain in force
 
-## Highest-priority active work — 1977 anthology full re-audit
+## 1977 anthology — 2026 dual-gate programme
 
 Collection: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/`.
 
@@ -18,99 +18,64 @@ Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநித
 - physical scans: **260**
 - bytes: **268,486,609**
 - SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
-- exact match to registered repository source
 - image-only controlling source
-- do not commit the PDF
+- source PDF must not be committed
 
-### User directive
+### Governing method
 
-This 37-story exercise is **comparison repair, not retranscription**. Existing repository Tamil is the baseline. Compare directly against source pixels; correct only source-proven mismatches. Preserve source spelling, punctuation, meaningful spacing, paragraphing, page boundaries and source marks. No duplicate full transcription, no global replacement, and no modernization from lexical expectation.
+This programme was **comparison repair, not retranscription**. Existing repository Tamil was the baseline. Every story independently required:
 
-### Mandatory dual gates
+1. **Gate A — source-fidelity comparison** against controlling pixels;
+2. **Gate B — independent Old Tamil Glyph verification** at native/high resolution, explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Every story must independently pass:
+No global replacement, lexical modernization, or context-based silent correction was permitted.
 
-1. **Gate A — source-fidelity comparison** of every physical story page;
-2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
+## Durable final state
 
-Current tracker state: **OPEN — 36 / 37 dual-gate complete**.
+**CLOSED — 37 / 37 CURRENT PASS; 0 unresolved.**
 
-## Closed under the 2026 standard
+- Stories **1–37** have Gate A PASS + Gate B PASS.
+- Story scans **10–259 / printed pages 1–250** are closed under the 2026 standard.
+- scan **260** is the independently verified anthology back cover.
+- English layers affected by source repairs are synchronized.
+- source PDF / renders / crops are not committed.
+- do not reopen a closed story from a stale prompt unless genuinely new direct controlling-source evidence appears.
 
-- `புகழேந்தி` — scans **10–15** — Gate A/B PASS; **9 repairs / 0 unresolved**.
-- `நளாயினி` — scans **16–23** — Gate A/B PASS; **15 repairs / 0 unresolved**.
-- `சபலம்` — scans **24–30** — Gate A/B PASS; **6 repairs / 0 unresolved**.
-- `ஆட்டக்காவடி` — scans **31–38** — Gate A/B PASS; **7 repairs / 0 unresolved**.
-- `குப்பைத்தொட்டி` — scans **39–46** — Gate A/B PASS; **4 repairs / 0 unresolved**; historical-`னா` regression `போதுதானு` → `போதுதானா`.
-- `சந்தனக்கிண்ணம்` — scans **47–56** — Gate A/B PASS; **3 repairs / 0 unresolved**.
-- `சங்கிலிச்சாமி` — scans **57–68** — Gate A/B PASS; **6 repairs / 0 unresolved**.
-- `கங்கையின் காதல்` — scans **69–72** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **2 repairs / 0 unresolved**.
-- `தாய்மை` — scans **73–83** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **42 repairs / 0 unresolved**; English resynchronized.
-- `தப்பிவிட்டார்கள்` — scans **84–91** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **12 repairs / 0 unresolved**; English prose rewrite 0.
-- `தப்பவில்லை` — scans **92–101** — Gate A **10/10 PASS**, Gate B **10/10 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
-- `ஆதரிக்கிறார்` — scans **102–107** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 repairs / 0 unresolved**; English resynchronized.
-- `இரகசியம்!` — scans **108–111** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
-- `முந்நூறு ரூபாய்` — scans **112–114** — Gate A **3/3 PASS**, Gate B **3/3 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
-- `ஏழை` — scans **115–118** — Gate A **4/4 PASS**, Gate B **4/4 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
-- `ஒரிஜினலில் உள்ளபடி` — scans **119–125** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 repair / 0 unresolved**; English resynchronized to the corrected crown meaning.
-- `பனங்குலை` — scans **126–130** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
-- `செத்தவள் கதை` — scans **131–139** — Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
-- `பிரேத விசாரணை` — scans **140–145** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
-- `கண்டதும் காதல் ஒழிக!` — scans **146–150** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
-- `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; 88 historical-`றா` pigeon-root repairs plus one scan-151 wording repair; English `purru` terminology synchronized to `puraa`.
-- `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; scan 159 `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`; opaque legacy candidates source-reconfirmed; English prose rewrite 0.
-- `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; three historical-`லை` repairs plus scan-161 spacing and scan-163 `போல்`; English prose rewrite 0.
-- `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; historical `ணை` and `னா` repairs plus seven wording/spacing repairs; English synchronized in 6 phrases.
-- `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; `பரவாயில்ல` → `பரவாயில்லே`, historical `றா` `கேட்கிறயா` → `கேட்கிறாயா`, historical `ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`; English prose rewrite 0.
-- `அபாக்ய சிந்தாமணி` — scans **181–188** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**; scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all 11 legacy queue items resolved; English prose rewrite 0.
-- `பாலைவன ரோஜா` — scans **189–193** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; all 15 legacy pending candidates source-reconfirmed; English prose rewrite 0.
-- `புரட்சிப் படம்` — scans **194–198** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 spacing repair / 0 unresolved**; source `இடத்தில் தான்` restored; TOC `புரட்சிப்படம்` ↔ opening `புரட்சிப் படம்` preserved; English prose rewrite 0.
-- `திடுக்கிடும் கதை` — scans **199–204** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 historical-glyph repairs / 0 unresolved**; `காதலே` → `காதலை` (`லை`), `என்னுல் தான்` → `என்னால் தான்` (`னா`); English prose rewrite 0; 2026-09-02 English page-anchor correction preserved.
-- `கடைசிக் கட்டம்` — scans **205–210** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **0 new repairs / 0 unresolved**; all six legacy source-sensitive groups reconfirmed; English prose rewrite 0.
-- `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` independently revalidated; English prose rewrite 0.
-- `விஷம் இனிது` — scans **218–224** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 spacing repair / 0 unresolved**; scan 219 `இவள்தான்` → `இவள் தான்`; English prose rewrite 0.
-- `வேணியின் காதலன்` — scans **225–230** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 punctuation/spacing repairs / 0 unresolved**; scan 227 ellipsis reduced to six full stops, scan 229 `யோசனைதான்` → `யோசனை தான்`; prior scan-228 `ஆக்குவேனென்றான்` correction revalidated; English prose rewrite 0, punctuation-only sync 1.
-- `அமிர்தமதி` — scans **231–238** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **10 historical-glyph repairs / 0 unresolved**; repaired `றா / னா / னை / ணை` families; English prose rewrite 1 sentence.
-- `சுமந்தவள்` — scans **239–249** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **7 repairs / 0 unresolved**; `துரு துருவென்று`, five historical-`ணா` `அண்ணா` repairs, `ஈன குரத்தை`; `அவள் உள்ளத்தில்` and `முழுங்கால்` retained from 1977; English sync 1 phrase; 2009 epilogue excluded.
-- `சித்தார்த்தன் சிலை` — TOC `சித்தார்த்தன்` — scans **250–252** — Gate A **3/3 PASS**, Gate B **3/3 PASS**, **1 repair / 0 unresolved**; scan 250 `அந்த வானத்துச்` → `அந்தி வானத்துச்`; all source-sensitive forms and `ஒளி!,` reconfirmed; English `a sky` → `the evening sky`; scan 253 independently opens `நுனிக்கரும்பு`.
+## Final story — `நுனிக்கரும்பு`
 
-Do not reopen these thirty-six stories from stale prompts unless genuinely new direct source evidence appears.
+Workspace: `stories/nunikkarumbu/`
 
-## Exact next activity — Story 37 `நுனிக்கரும்பு`
-
-Workspace: `stories/nunikkarumbu/`.
-
-- story title: **`நுனிக்கரும்பு`**
 - scans **253–259 / printed 244–250**
-- canonical pages **7/7**
-- scan **260** is the anthology back-cover boundary witness
-- legacy human-review queue: **0 unresolved**, but every source-sensitive table row must be independently reopened
+- Gate A: **7/7 PASS**
+- Gate B: **7/7 PASS**
+- source-proven repairs: **2 punctuation repairs**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- English synchronization: **2 punctuation-only changes; 0 prose/meaning changes**
 
-Source-sensitive rows to reopen:
+Repairs:
 
-| Scan | Printed | Source-close reading / point | Review note |
-|---:|---:|---|---|
-| 253 | 244 | opening verse `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `சாடை` | verse rechecked at high resolution; do not silently regularize against another edition |
-| 253 | 244 | `நாறுவது நடன நிகழ்ச்சி` | unusual source wording retained |
-| 254 | 245 | `அத்தனைநாள் கடந்தவம்`, `முன்னேடி` | source-close forms retained |
-| 255 | 246 | `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `சாபங்`, `காலக்கடன்களை` | wording/spelling retained after enlarged review |
-| 256 | 247 | `கேட்டாமலே`, `அமுதா இருக்குதா?`, `சேச்சே!` | colloquial/source forms retained |
-| 257 | 248 | `பகல் விருந்து ரசிகுமா?`, `தணலான`, `அடுக்குளப்பக்கம்` | source-close forms retained |
-| 257→258 | 248→249 | `உள்ளங்` → `களைக்` | exact physical split forms `உள்ளங்களைக்`; page break must remain reversible |
-| 258 | 249 | `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, `இவனத் தெரியுமா?`, `நம்பப் பயலா?` | source wording retained after full-span review |
-| 259 | 250 | closing ornament | non-text ending mark retained in canonical convention as `◆ ◆ ◆` |
+1. scan **256 / printed 247**  
+   `ஒண்ணுமில்லே!...என்ன` → **`ஒண்ணுமில்லே...என்ன`**
+2. scan **258 / printed 249**  
+   `டே, டே!` → **`டே டே!`**
 
-Gate A: compare all seven page records and assembly directly against scans **253–259** for wording, punctuation, meaningful spacing, paragraph/dialogue structure, the opening three-line Bharathidasan verse, all physical joins and ending furniture.
+Gate B required no canonical historical-glyph correction. Representative source-confirmed families included `புண்ணாகி` (`ணா`), `தன்னை` (`னை`), `களைப்புத்` (`ளை`), `சென்றார்` (`றா`), `சொன்னார்கள்` (`னா`), and `எண்ணை` (`ணை`).
 
-Gate B: independently reopen all seven scans at native/high resolution and explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, plus faint marks, ligatures and `ர/ற`, `ன/ண`, `ல/ள` ambiguity. Recheck all gendered and narrative endings wherever the old type could mislead.
+Source-sensitive forms such as `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `சாடை`, `நாறுவது நடன நிகழ்ச்சி`, `அத்தனைநாள் கடந்தவம்`, `முன்னேடி`, `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `சாபங்`, `காலக்கடன்களை`, `கேட்டாமலே`, `அமுதா இருக்குதா?`, `சேச்சே!`, `பகல் விருந்து ரசிகுமா?`, `தணலான`, `அடுக்குளப்பக்கம்`, `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, `இவனத் தெரியுமா?`, and `நம்பப் பயலா?` were directly reconfirmed and retained.
 
-High-value structural checks:
+Structural closure:
 
-- preserve the opening verse as a distinct three-line block;
-- 253→254, 254→255, 255→256 and 256→257 joins must have no omission or duplication;
-- preserve exact 257→258 split: `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?`;
-- 258→259 continues the child-address sequence into the final `தாத்தா` reversal;
-- scan **259** contains the story ending and closing ornament;
-- use scan **260** only as the anthology back-cover boundary witness.
+- opening Bharathidasan verse remains a distinct three-line block;
+- all six physical joins PASS;
+- exact 257→258 split remains `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?`;
+- scan 259 contains the ending and closing ornament;
+- scan 260 is back cover only.
 
-If settled: apply only source-proven corrections; synchronize Tamil/controls and affected English; create/update durable `RE_AUDIT_2026.md`; advance **36/37 → 37/37** only with Gate A **7/7** + Gate B **7/7** + 0 unresolved; update collection/root controls to full 37/37 closure; commit and re-fetch live `main`. Stop before any separate post-anthology activity.
+Durable story ledger: `stories/nunikkarumbu/RE_AUDIT_2026.md`.
+
+## Next activity
+
+**None inside the 1977 anthology dual-gate programme.**
+
+Do not automatically begin another collection, witness, modernization, translation revision, republication, or post-anthology phase. Await explicit user direction. If a future chat resumes repository work, fetch live `main` first and preserve any newer durable state.
