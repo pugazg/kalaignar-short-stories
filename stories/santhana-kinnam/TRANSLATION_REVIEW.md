@@ -88,3 +88,12 @@ English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and public/political vocabulary are consistent: **Kandan** matches Story 4, while **Kamala**, **Vijaya**, **Thalamuthu**, **Natarasan**, **Purananuru**, **Hindi**, **Dravidian/Dravida**, **Siva**, **Parvati** and **Murugan** follow the story's established source-derived usage. `Dravidian` and `Dravida` are not flattened because they occur in distinct source expressions. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One awkward phrase was smoothed without changing meaning: **“Kamala was somewhat possessed by old-fashioned ways”** became **“Kamala was somewhat bound by old-fashioned ways.”** The old/new ideological contrast remains intact.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

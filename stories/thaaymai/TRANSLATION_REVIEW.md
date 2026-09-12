@@ -78,3 +78,12 @@ English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Character and kinship terminology is internally stable: **Suzhar-kanni**, source-shortened **Suzhal/Suzhali** where the Tamil itself shortens the name, **Theetchanayan**, **Kopperunthevi**, **Inbasagaran**, **Sundarapuri**, **Aththaan**, **Amma**, **chinnamma**, **paṇ** and **magudi**. The English does not force the source-shortened forms back to the full name. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One literal English phrase was improved: **“He himself would sing in a ripened voice”** became **“He himself would sing in a mellow voice.”** The source's mature/soft vocal quality and surrounding rhetoric remain unchanged.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

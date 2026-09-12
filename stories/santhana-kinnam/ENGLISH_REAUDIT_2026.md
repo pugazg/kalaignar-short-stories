@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ Names and public/political vocabulary are consistent: **Kandan** matches Story 4
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One awkward phrase was smoothed without changing meaning: **“Kamala was somewhat possessed by old-fashioned ways”** became **“Kamala was somewhat bound by old-fashioned ways.”** The old/new ideological contrast remains intact.
+
+- E4 English repairs: **1**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

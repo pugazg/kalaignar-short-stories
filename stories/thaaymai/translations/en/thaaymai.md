@@ -61,7 +61,7 @@ The king came. As if to prove that everything she had told Theetchanayan was tru
 
 Suzhar-kanni was the younger queen of the king of Sundarapuri. Theetchanayan was her brother-in-law, a distant relation. He had a post in the palace as a bodyguard. He had two duties in turn: to guard the king’s body—and, whenever there was leisure and opportunity, to lie embracing Suzhar-kanni’s body! Would fruit-nectar taste bitter to drink? And he was a bear-bodied man besides! Suzhar-kanni was like a honeycomb, coming to him of her own accord, again and again. One need not even imagine bending a branch and pouring out its honey to satisfy a bear’s hunger. In the Sundarapuri palace, this had become an everyday event. The green-parrot-like woman clung to his rock-hard, rough chest.
 
-He himself would sing in a ripened voice, “My sweet one who delights my desire! My ambrosia that gives sweetness!” Behind the curtain, while this shameful injustice went on, the king of kings, unaware even of its trace, would gaze at her and string garlands of praise: “Noble one! Exalted one! Pleasure-giver! Urvashi!”
+He himself would sing in a mellow voice, “My sweet one who delights my desire! My ambrosia that gives sweetness!” Behind the curtain, while this shameful injustice went on, the king of kings, unaware even of its trace, would gaze at her and string garlands of praise: “Noble one! Exalted one! Pleasure-giver! Urvashi!”
 
 The royal connoisseur simply failed to understand that the ‘Vasantha Sena’ who had come to turn the Sundarapuri empire into a cremation ground was roaming there in the form of Suzhar-kanni!
 

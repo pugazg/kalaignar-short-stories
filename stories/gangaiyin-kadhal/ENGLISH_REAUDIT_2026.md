@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ Mythological names are consistently rendered **Ganga, Chandra, Siva, Parvati, Mu
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+One awkward line was clarified without altering the source's uncertainty or mythological reference: **“Could it be done only by my..Parvati?”** became **“Could only my... Parvati manage it?”** The hesitation before Parvati is retained.
+
+- E4 English repairs: **1**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

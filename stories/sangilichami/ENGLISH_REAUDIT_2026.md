@@ -13,7 +13,7 @@
 - E1: **PASS**
 - E2: **PASS**
 - E3: **PASS**
-- E4: **PENDING**
+- E4: **PASS**
 - E5: **PENDING**
 
 ## E1 result
@@ -66,3 +66,17 @@ The story consistently distinguishes the title/name **Sangilichami** from **Sang
 - Tamil/source reopened: **No**
 - unresolved E3 issues: **0**
 - E3 result: **PASS**
+
+
+## E4 — English quality without changing meaning
+
+**PASS.**
+
+The English was reviewed for grammar, punctuation, dialogue flow, tense/pronoun consistency and accidental literalism. The long ellipses, devotional register, satirical repetition and source-close religious vocabulary are intentional features of the story's voice. No E4 repair was required.
+
+- E4 English repairs: **0**
+- Tamil changed: **No**
+- source reopened: **No**
+- E2/E3 decisions altered: **No**
+- unresolved E4 issues: **0**
+- E4 result: **PASS**

@@ -128,3 +128,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Mythological names are consistently rendered **Ganga, Chandra, Siva, Parvati, Murugan, Bhagiratha, Brahma, Kailasa** and **Tara**, matching the anthology convention where those names recur. Source-odd **alvi stalk** and **sallapa rupa** remain documented and conservative. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+One awkward line was clarified without altering the source's uncertainty or mythological reference: **“Could it be done only by my..Parvati?”** became **“Could only my... Parvati manage it?”** The hesitation before Parvati is retained.
+
+English quality repairs: **1**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

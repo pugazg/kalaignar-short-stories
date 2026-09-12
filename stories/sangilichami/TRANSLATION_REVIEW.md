@@ -134,3 +134,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 The story consistently distinguishes the title/name **Sangilichami** from **Sangiliyananda Swami**. **Swami**, **Mudaliar**, **Sambandham**, **Chinnapannai**, **Siva**, **Parvati**, **Kailasa**, **nishta**, **mutt**, and **sacred ash** follow the anthology's cultural-term treatment. Source-close devotional/Sanskritic forms such as **Namap-Parvati Padē**, **mūḍātmā** and **jñānātmā** remain conservative rather than externally normalized. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality without changing meaning.**
+
+The English was reviewed for grammar, punctuation, dialogue flow, tense/pronoun consistency and accidental literalism. The long ellipses, devotional register, satirical repetition and source-close religious vocabulary are intentional features of the story's voice. No E4 repair was required.
+
+English quality repairs: **0**. Tamil/source reopened: **No**. Unresolved E4 issues: **0**.

@@ -122,7 +122,7 @@ Saying this, she embraced Kamala. Tears of joy poured from her eyes. Kamala too 
 
 <!-- source enlarged initial: கு in குடும்பம் marks the new paragraph -->
 
-Family life began in delight. Kamala was somewhat possessed by old-fashioned ways. For some days the quarrels between the lovers arose from clashes between old and new. Then both of them began to mock the gods.
+Family life began in delight. Kamala was somewhat bound by old-fashioned ways. For some days the quarrels between the lovers arose from clashes between old and new. Then both of them began to mock the gods.
 
 “Devotees carry Paramasivan and Parvati every day in a palanquin to the bedchamber...! Yet apart from Ganapati and Murugan they never had any other children! Why?” Kandan would ask.
 
