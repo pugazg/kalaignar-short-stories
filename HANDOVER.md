@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `f7037f1621dd191931b98737f4363de53d512032` — `Close கண்ணடக்கம் 2026 dual-gate`
+- refreshed live checkpoint: `74fbaa225741dd72475ec24ede7785721cf98153` — `Close வாழ முடியாதவர்கள் 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 24 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 25 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -61,41 +61,28 @@ Current tracker state: **OPEN — 24 / 37 dual-gate complete**.
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; scan 159 `‘ஆ’ என்று அலறி` → `‘ஆ’ வென்று அலறி`; opaque legacy candidates source-reconfirmed; English prose rewrite 0.
 - `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; three historical-`லை` repairs plus scan-161 spacing and scan-163 `போல்`; English prose rewrite 0.
 - `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; historical `ணை` and `னா` repairs plus seven wording/spacing repairs; English synchronized in 6 phrases.
+- `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; `பரவாயில்ல` → `பரவாயில்லே`, historical `றா` `கேட்கிறயா` → `கேட்கிறாயா`, historical `ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`; English prose rewrite 0.
 
-Do not reopen these twenty-four stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-five stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 25 `வாழ முடியாதவர்கள்`
+## Exact next activity — Story 26 `அபாக்ய சிந்தாமணி`
 
-Workspace: `stories/vazha-mudiyathavargal/`.
+Workspace: `stories/abagya-chinthamani/`.
 
-- scans **173–180 / printed 164–171**
+- scans **181–188 / printed 172–179**
 - canonical pages **8/8**
-- scan **181** is the boundary witness opening Story 26 `அபாக்ய சிந்தாமணி`
+- scan **189** is the boundary witness opening Story 27 `பாலைவன ரோஜா`
 - persistent human-recheck candidates from the current queue:
-  - [ ] `பிரம்மாவைப் போட்டு கவாட்டா செய்கிறான் சார்` — native/high-resolution span reads `கவாட்டா`; unusual form retained for later human recheck.
-  - [ ] `‘காலேஜ் வேடர்’ களும்` — source visibly prints this form/spacing; retained for later human recheck.
-  - [ ] `சிறகை படித்துக் கொண்டன` retained from the visible source span.
-  - [ ] `வயிற்றின் ஜீலு ஜீலுப்பைப் பீடிப்புகை` — native span directly rechecked; unusual wording retained.
-  - [ ] `இந்த நிலையில் ஏழைக்குக் கல்யாண எழவா?......` retained from source.
-  - [ ] `கேட்கவேண்டிய தில்ல;` retained from source.
-  - [ ] `டாக்டர் தர்மவானை மாறவேண்டும்` retained from the full phrase.
-  - [ ] `‘கிம்பள சான்ஸ்’` retained from source.
-  - [ ] `எந்தப் பெண்ணுல்தான் தாங்கிக்கொள்ள இயலும்` retained from source-sensitive span.
-  - [ ] `அகட்டிப் பேசுவது போலிருந்தது` retained from source.
-  - [ ] `விஷமேறி நடுங்கும் அவன் ஈர விரல்கள்` directly rechecked in enlarged span.
-  - [ ] `மெதுவாக அழுக்கியது` retained from the native source rather than normalized to a contextually expected verb.
-  - [ ] `அந்தக் கற்பினைக் பெயரால் ஏற்பட்ட தீவிதி` — enlarged source span reads this way; retained for later human recheck.
+  - [ ] `ஆள் அப்படி மதிக்கத் தோன்றுது` and `நாற்பது ஐம்பதுதான் மதிக்கத்தோன்றும்` retained as printed.
+  - [ ] `அபாக்கிய சிந்தாமணி` in the body is retained alongside the story heading `அபாக்ய சிந்தாமணி` rather than silently harmonized.
+  - [ ] `பத்து வயதுப் பசலையின்` retained as printed.
+  - [ ] `மாணவர்களிடம் பெரியதொரு யுத்தமே ஏற்படவேண்டும் என் பொருட்டு` retained from the visible span.
+  - [ ] `வசைமாரி` retained.
+  - [ ] `நாயைக் குளிப்பாட்டி` retained.
+  - [ ] `ராமலிங்க சிவானந்தம்` and `ஜோதியானந்தம்` retained as printed names.
+  - [ ] `குரு குலத்திலிருந்து` retained with the source spacing.
+  - [ ] `ஒரு கட்டு மஸ்தான் தேக்குமுள்ள வாலிபனின் மேனியை` retained from the visible source span for later human recheck.
+  - [ ] `விபச்சாரியாக வாவது` retained with the visible source spacing.
+  - [ ] `அந்தச் சோக கதத்தில் கூட ஏழ்மையின் பிரதி பலிப்பு இல்லையே!` retained as printed.
 
-Complete Gate A **8/8** and independent Gate B **8/8**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **24/37 → 25/37** only with zero unresolved; stop before Story 26.
-
-## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
-
-Source: `TVA_BOK_0065574_நளாயினி_1976.pdf`, fourth edition 1976, 78 scans, 164,748,566 bytes, SHA-256 `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`.
-
-For duplicate stories: comparison-only; no new full transcription / no duplicate English. P2 scans **8–12** remains deferred while the 1977 37-story re-audit is the active priority.
-
-Closed new-canonical 1976 stories remain closed: `நாட்டிய கலாராணி` and `மானம்` — Tamil + English PASS.
-
-## Independent external hold
-
-`நடுத்தெரு நாராயணி` remains controlled by the separate `வெள்ளிக்கிழமை` completion gate.
+Complete Gate A **8/8** and independent Gate B **8/8**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **25/37 → 26/37** only with zero unresolved; stop before Story 27.
