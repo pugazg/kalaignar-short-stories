@@ -13,7 +13,7 @@
 | 5 | — | `என்னுரை` | structurally registered |
 | 6–7 | — | `பதிப்புரை` | structurally registered |
 | 8–9 | — | `பொருளடக்கம்` | structurally registered |
-| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 34/37 CURRENT PASS** |
+| 10–259 | 1–250 | 37 short stories | **legacy source coverage 37/37; 2026 dual-gate 35/37 CURRENT PASS** |
 | 260 | — | back cover | **boundary visually confirmed** |
 
 ## Story ranges
@@ -54,15 +54,15 @@
 | 32 | `விஷம் இனிது` | 209–215 | 218–224 | **2026 Gate A 7/7 PASS / Gate B 7/7 PASS — 1 spacing repair / 0 unresolved** |
 | 33 | `வேணியின் காதலன்` | 216–221 | 225–230 | **2026 Gate A 6/6 PASS / Gate B 6/6 PASS — 2 repairs / 0 unresolved** |
 | 34 | `அமிர்தமதி` | 222–229 | 231–238 | **2026 Gate A 8/8 PASS / Gate B 8/8 PASS — 10 repairs / 0 unresolved** |
-| 35 | `சுமந்தவள்` | 230–240 | 239–249 | legacy complete — 11/11; **2026 NEXT** |
-| 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | legacy complete — 3/3; opening `சித்தார்த்தன் சிலை`; 2026 pending |
+| 35 | `சுமந்தவள்` | 230–240 | 239–249 | **2026 Gate A 11/11 PASS / Gate B 11/11 PASS — 7 repairs / 0 unresolved** |
+| 36 | `சித்தார்த்தன்` | 241–243 | 250–252 | legacy complete — 3/3; opening `சித்தார்த்தன் சிலை`; **2026 NEXT** |
 | 37 | `நுனிக்கரும்பு` | 244–250 | 253–259 | legacy complete — 7/7; 2026 pending |
 
 ## Current processing boundary
 
 Legacy Tamil source coverage remains complete for Stories **1–37**, scans **10–259 / printed pages 1–250**. That legacy state is retained only as the comparison baseline.
 
-The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 34 / 37 current PASS**:
+The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 35 / 37 current PASS**:
 
 - `புகழேந்தி` scans 10–15 — PASS / CLOSED;
 - `நளாயினி` scans 16–23 — PASS / CLOSED;
@@ -98,7 +98,8 @@ The 2026 source-fidelity + independent Old Tamil Glyph re-audit is **OPEN — 34
 - `விஷம் இனிது` scans 218–224 — PASS / CLOSED — **1 spacing repair / 0 unresolved**;
 - `வேணியின் காதலன்` scans 225–230 — PASS / CLOSED — **2 repairs / 0 unresolved**;
 - `அமிர்தமதி` scans 231–238 — PASS / CLOSED — **10 repairs / 0 unresolved**;
-- `சுமந்தவள்` scans 239–249 — **NEXT**.
+- `சுமந்தவள்` scans 239–249 — PASS / CLOSED — **7 repairs / 0 unresolved**;
+- `சித்தார்த்தன் சிலை` scans 250–252 — **NEXT** (TOC `சித்தார்த்தன்`).
 
 Scan **260** remains the verified back cover.
 

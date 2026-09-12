@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 34 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 35 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -140,8 +140,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 32 | `விஷம் இனிது` | 218–224 | **CURRENT PASS — 1 spacing repair / 0 unresolved** |
 | 33 | `வேணியின் காதலன்` | 225–230 | **CURRENT PASS — 2 repairs / 0 unresolved** |
 | 34 | `அமிர்தமதி` | 231–238 | **CURRENT PASS — 10 repairs / 0 unresolved** |
-| 35 | `சுமந்தவள்` | 239–249 | **NEXT — REOPENED** |
-| 36 | `சித்தார்த்தன் சிலை` | 250–252 | REOPENED / pending |
+| 35 | `சுமந்தவள்` | 239–249 | **CURRENT PASS — 7 repairs / 0 unresolved** |
+| 36 | `சித்தார்த்தன் சிலை` | 250–252 | **NEXT — REOPENED** |
 | 37 | `நுனிக்கரும்பு` | 253–259 | REOPENED / pending |
 
 ### `தாய்மை` closure
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 35 `சுமந்தவள்`, scans **239–249 / printed 230–240**. Complete Gate A **11/11** + independent Gate B **11/11**; reopen the four strong 1977 controlling-source candidates `சன சுரத்தை`, `அவள் உள்ளத்தில்`, `முழுங்கால்`, and `திரு திருவென்று`; use scan **250** only as the Story 36 `சித்தார்த்தன் சிலை` boundary witness (TOC `சித்தார்த்தன்`); advance **34/37 → 35/37** only with zero unresolved; stop before Story 36.
+Re-audit Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`), scans **250–252 / printed 241–243**. Complete Gate A **3/3** + independent Gate B **3/3**; use scan **253** only as the Story 37 `நுனிக்கரும்பு` boundary witness; advance **35/37 → 36/37** only with zero unresolved; stop before Story 37.
 
 ### `தொத்துக்கிளி` closure
 
@@ -481,3 +481,21 @@ Full story record: `../../stories/veniyin-kadhalan/RE_AUDIT_2026.md`.
 - scan 239 independently opens Story 35 `சுமந்தவள்`
 
 Full story record: `../../stories/amirthamathi/RE_AUDIT_2026.md`.
+
+
+### `சுமந்தவள்` closure
+
+- Gate A: **11/11 PASS**
+- Gate B: **11/11 PASS**
+- source-proven repairs: **7**
+- scan 239 `திரு திருவென்று` → `துரு துருவென்று`
+- scans 241–242: five `அண்ணு` → `அண்ணா` — historical `ணா`
+- scan 246 `சன சுரத்தை` → `ஈன குரத்தை`
+- scan 240 `அவள் உள்ளத்தில்`: 1977 retained
+- scan 245 `முழுங்கால்`: 1977 retained
+- unresolved source / historical-glyph readings: **0 / 0**
+- English synchronization: **1 phrase**
+- 2009-only epilogue excluded
+- scan 250 independently opens Story 36 `சித்தார்த்தன் சிலை`
+
+Full story record: `../../stories/sumanthaval/RE_AUDIT_2026.md`.

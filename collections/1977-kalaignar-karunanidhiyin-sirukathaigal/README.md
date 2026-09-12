@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 34 / 37 CURRENT PASS.**
+**OPEN — 35 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -71,7 +71,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `வேணியின் காதலன்` — scans **225–230** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 punctuation/spacing repairs / 0 unresolved**; prior scan-228 `ஆக்குவேனென்றான்` correction revalidated; English prose rewrite 0, punctuation-only sync 1.
 - `அமிர்தமதி` — scans **231–238** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **10 historical-glyph repairs / 0 unresolved**; English prose rewrite 1 sentence.
 
-Do not reopen these thirty-four stories from stale prompts unless genuinely new direct source evidence appears.
+- `சுமந்தவள்` — scans **239–249** — Gate A **11/11 PASS**, Gate B **11/11 PASS**, **7 repairs / 0 unresolved**; scan 239 `துரு துருவென்று`, five historical-`ணா` `அண்ணா` repairs, scan 246 `ஈன குரத்தை`; English sync 1 phrase; 2009 epilogue excluded.
+
+Do not reopen these thirty-five stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -263,11 +265,27 @@ Full story record: `../../stories/veniyin-kadhalan/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/amirthamathi/RE_AUDIT_2026.md`.
 
+### `சுமந்தவள்` closure
+
+- scans **239–249 / printed 230–240**
+- Gate A **11/11 PASS**
+- Gate B **11/11 PASS**
+- **7 source-proven repairs / 0 unresolved**
+- scan 239: `திரு திருவென்று` → `துரு துருவென்று`
+- scans 241–242: five historical-`ணா` `அண்ணு` → `அண்ணா`
+- scan 246: `சன சுரத்தை` → `ஈன குரத்தை`
+- 1977 retained against 2009: `அவள் உள்ளத்தில்`, `முழுங்கால்`
+- English synchronization **1 phrase**
+- 2009-only epilogue excluded
+- scan 250 independently opens Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`)
+
+Full story record: `../../stories/sumanthaval/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 35 **`சுமந்தவள்`** — scans **239–249 / printed pages 230–240** — **NEXT**.
+Story 36 **`சித்தார்த்தன் சிலை`** — TOC `சித்தார்த்தன்` — scans **250–252 / printed pages 241–243** — **NEXT**.
 
-Complete Gate A **11/11** and independent Gate B **11/11**. Reopen the controlling 1977 source directly, especially the four strong witness-driven candidates `சன சுரத்தை`, `அவள் உள்ளத்தில்`, `முழுங்கால்`, and `திரு திருவென்று`; the 2009 witness is comparative evidence only and must not override the 1977 source. Use scan **250** only as the boundary witness opening Story 36 `சித்தார்த்தன் சிலை` (TOC `சித்தார்த்தன்`). Advance to **35/37** only with zero unresolved; stop before Story 36.
+Complete Gate A **3/3** and independent Gate B **3/3**. Use scan **253** only as the boundary witness opening Story 37 `நுனிக்கரும்பு`. Advance to **36/37** only with zero unresolved; stop before Story 37.
 
 
 ## Legacy processing state
