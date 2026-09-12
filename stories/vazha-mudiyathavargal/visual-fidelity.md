@@ -36,7 +36,7 @@ All seven internal joins were checked. Explicit continuations include 175→176 
 4. Tamil assembly synchronized with the same source-significant structure;
 5. page map synchronized.
 
-**Story wording changed: No — structure/emphasis only.**
+**Story wording changed: Yes — three source-proven 2026 repairs; structure/emphasis remains source-faithful.**
 
 ## Remaining visual-fidelity issues
 

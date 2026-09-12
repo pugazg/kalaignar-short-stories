@@ -13,6 +13,23 @@ Canonical story workspace for **வாழ முடியாதவர்கள�
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **3**
+  - scan 173: `பரவாயில்ல` → `பரவாயில்லே`
+  - scan 173: `கேட்கிறயா` → `கேட்கிறாயா` (historical `றா`)
+  - scan 177: `பெண்ணுல்தான்` → `பெண்ணால்தான்` (historical `ணா`)
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 8 / 8 story pages transcribed and directly source-reviewed.**
@@ -50,7 +67,7 @@ High-value source-close readings include `கம்ப ரசம்`, `கேட
 
 **PASS — corrected.** See [`visual-fidelity.md`](visual-fidelity.md).
 
-The source-bold sentence `சின்னச்சாமி வாழமுடியாதவன். காந்தா அவனால் வாழவைக்கப்பட முடியாதவள்.` and emphasized `“ஆண்டவன் படைப்பு”` remain represented; opening/ending structure is synchronized. **Story wording changed: No.**
+The source-bold sentence `சின்னச்சாமி வாழமுடியாதவன். காந்தா அவனால் வாழவைக்கப்பட முடியாதவள்.` and emphasized `“ஆண்டவன் படைப்பு”` remain represented; opening/ending structure is synchronized. **Story wording changed: Yes — three source-proven 2026 repairs are synchronized.**
 
 ## Story boundary
 
@@ -73,7 +90,7 @@ The source-bold sentence `சின்னச்சாமி வாழமுட�
 
 ## Completion state
 
-**வாழ முடியாதவர்கள் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 173–180 / printed pages 164–171.**
+**வாழ முடியாதவர்கள் is 2026 CURRENT PASS / CLOSED: Gate A 8/8 + Gate B 8/8, 3 source-proven repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 173–180 / printed pages 164–171.
 
 ## Next anthology English activity
 

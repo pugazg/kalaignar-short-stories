@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 24 / 37 CURRENT PASS.**
+**OPEN — 25 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -60,8 +60,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; English prose rewrite 0.
 - `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; English synchronized in 6 phrases.
+- `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
 
-Do not reopen these twenty-four stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-five stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -124,11 +125,25 @@ Full story record: `../../stories/kadhal-kaditham/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/kannadakkam/RE_AUDIT_2026.md`.
 
+### `வாழ முடியாதவர்கள்` closure
+
+- scans **173–180 / printed 164–171**
+- Gate A **8/8 PASS**
+- Gate B **8/8 PASS**
+- **3 source-proven repairs / 0 unresolved**
+- scan 173: `பரவாயில்ல` → `பரவாயில்லே`
+- historical `றா`: `கேட்கிறயா` → `கேட்கிறாயா`
+- historical `ணா`: `பெண்ணுல்தான்` → `பெண்ணால்தான்`
+- English prose rewrite **0**
+- scan 181 independently opens `அபாக்ய சிந்தாமணி`
+
+Full story record: `../../stories/vazha-mudiyathavargal/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 25 **`வாழ முடியாதவர்கள்`** — scans **173–180 / printed pages 164–171** — **NEXT**.
+Story 26 **`அபாக்ய சிந்தாமணி`** — scans **181–188 / printed pages 172–179** — **NEXT**.
 
-Complete Gate A **8/8** and independent Gate B **8/8**. Use scan **181** only as the boundary witness opening Story 26 `அபாக்ய சிந்தாமணி`. Advance to **25/37** only with zero unresolved; stop before Story 26.
+Complete Gate A **8/8** and independent Gate B **8/8**. Use scan **189** only as the boundary witness opening Story 27 `பாலைவன ரோஜா`. Advance to **26/37** only with zero unresolved; stop before Story 27.
 
 
 ## Legacy processing state

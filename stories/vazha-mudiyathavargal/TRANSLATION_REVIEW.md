@@ -79,3 +79,17 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 25.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+The Tamil source layer received three source-proven repairs:
+
+- `பரவாயில்ல` → `பரவாயில்லே`;
+- historical-`றா` `கேட்கிறயா` → `கேட்கிறாயா`;
+- historical-`ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`.
+
+The existing English already conveys all three corrected meanings, so **English prose rewrite required: 0**.
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A / Gate B: **8/8 PASS / 8/8 PASS**
+- unresolved source / historical-glyph readings: **0 / 0**

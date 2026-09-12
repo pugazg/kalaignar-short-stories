@@ -47,3 +47,8 @@ The eight story pages are high-resolution scan images. Native embedded page imag
 ## Source-sensitive forms
 
 The scan preserves source-close and historically/typeset-sensitive forms including `கம்ப ரசம்`, `கேட்கிறயா`, `பரவாயில்ல`, `பிடித்தமில்லே`, `கவாட்டா`, `தேய்ந்துங்`, `‘காலேஜ் வேடர்’ களும்`, `வாட்ட மற்ற நடை`, `கறுப்புக் குல்லாத மீசைகள்`, `சிறகை படித்துக் கொண்டன`, the one-page spelling `சின்னசாமி`, `இதச் சொல்லியபடிக்`, `கொளுத்தினன்`, `அடுக்களை`, `ஜீலு ஜீலுப்பைப்`, `முன்னூறு ரூபாய்`, `கல்யாண எழவா`, `கேட்கவேண்டிய தில்ல`, `கிம்பள சான்ஸ்`, `பெண்ணுல்தான்`, `தாங்கொணா`, `உவரப்போட்டு`, `அகட்டிப்`, `அப்போ`, `விஷமேறி`, `நத்தைகள்`, `அழுக்கியது`, `கற்பினைக் பெயரால்`, `தீவிதி`, `தீவிதிக்காளான`, and `அவனையறியாமல்`. Physical continuations include `பருவ`→`மடைந்து`, `பவளக் கட்டி`→`யும்`, and `எடுத்துக்`→`காட்டிற்று`. These are preserved rather than silently normalized and are available in `../POSSIBLE_ERRORS_FOR_REVIEW.md` for human rechecking where appropriate.
+
+
+## 2026 dual-gate note
+
+All eight story scans were independently reopened at native/high resolution. Three source-proven repairs were made: scan 173 `பரவாயில்ல` → `பரவாயில்லே`, historical-`றா` `கேட்கிறயா` → `கேட்கிறாயா`, and scan 177 historical-`ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`. All legacy possible-error candidates were resolved; unresolved source/glyph readings: **0 / 0**. Scan 181 was independently reconfirmed as the next-story boundary.

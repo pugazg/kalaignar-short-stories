@@ -21,7 +21,11 @@ Controlling anthology source: `TVA_BOK_0064142_கலைஞர்_கருண�
 - `blocked`: **0**
 - unresolved / missing story text: **0**
 - visual fidelity: **PASS — corrected**
+- 2026 dual-gate: **Gate A 8/8 PASS / Gate B 8/8 PASS — 3 repairs / 0 unresolved**
 
 Visual-fidelity synchronization records the scan-173 opening rule, scan-178 source emphasis on `“ஆண்டவன் படைப்பு”`, and scan-180 closing ornament/ending role. Story wording was not changed.
 
 Scan **181** begins Story 26, `அபாக்ய சிந்தாமணி`, and is outside this story range.
+
+
+2026 repairs affect scans **173** and **177**: `பரவாயில்ல` → `பரவாயில்லே`; historical-`றா` `கேட்கிறயா` → `கேட்கிறாயா`; historical-`ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`. Scan **181** remains the independently checked Story 26 boundary.

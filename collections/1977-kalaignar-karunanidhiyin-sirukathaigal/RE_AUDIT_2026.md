@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — 24 / 37 stories have passed the new dual-gate re-audit.**
+**OPEN — 25 / 37 stories have passed the new dual-gate re-audit.**
 
 The earlier 37/37 `verified` / audit-PASS state is retained as legacy provenance only. Current release confidence requires Gate A + Gate B.
 
@@ -130,8 +130,8 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 22 | `தொத்துக்கிளி` | 156–160 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 23 | `காதல் கடிதம்` | 161–165 | **CURRENT PASS — 5 repairs / 0 unresolved** |
 | 24 | `கண்ணடக்கம்` | 166–172 | **CURRENT PASS — 9 repairs / 0 unresolved** |
-| 25 | `வாழ முடியாதவர்கள்` | 173–180 | **NEXT — REOPENED** |
-| 26 | `அபாக்ய சிந்தாமணி` | 181–188 | REOPENED / pending |
+| 25 | `வாழ முடியாதவர்கள்` | 173–180 | **CURRENT PASS — 3 repairs / 0 unresolved** |
+| 26 | `அபாக்ய சிந்தாமணி` | 181–188 | **NEXT — REOPENED** |
 | 27 | `பாலைவன ரோஜா` | 189–193 | REOPENED / pending |
 | 28 | `புரட்சிப் படம்` | 194–198 | REOPENED / pending |
 | 29 | `திடுக்கிடும் கதை` | 199–204 | REOPENED / pending |
@@ -291,7 +291,7 @@ Full story record: `../../stories/aalamarathup-puraakkal/RE_AUDIT_2026.md`.
 
 ## Exact next activity
 
-Re-audit Story 25 `வாழ முடியாதவர்கள்`, scans **173–180 / printed 164–171**. Complete Gate A **8/8** + independent Gate B **8/8**; use scan **181** only as the Story 26 `அபாக்ய சிந்தாமணி` boundary witness; advance **24/37 → 25/37** only with zero unresolved; stop before Story 26.
+Re-audit Story 26 `அபாக்ய சிந்தாமணி`, scans **181–188 / printed 172–179**. Complete Gate A **8/8** + independent Gate B **8/8**; use scan **189** only as the Story 27 `பாலைவன ரோஜா` boundary witness; advance **25/37 → 26/37** only with zero unresolved; stop before Story 27.
 
 ### `தொத்துக்கிளி` closure
 
@@ -340,3 +340,20 @@ Scans **166–172 / printed pages 157–163**:
 - scan 173 independently opens Story 25 `வாழ முடியாதவர்கள்`
 
 Full story record: `../../stories/kannadakkam/RE_AUDIT_2026.md`.
+
+
+### `வாழ முடியாதவர்கள்` closure
+
+Scans **173–180 / printed pages 164–171**:
+
+- Gate A: **PASS — 8/8**
+- Gate B: **PASS — 8/8**
+- source-proven repairs: **3**
+- scan 173: `பரவாயில்ல` → `பரவாயில்லே`
+- historical `றா`: `கேட்கிறயா` → `கேட்கிறாயா`
+- historical `ணா`: `பெண்ணுல்தான்` → `பெண்ணால்தான்`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 181 independently opens Story 26 `அபாக்ய சிந்தாமணி`
+
+Full story record: `../../stories/vazha-mudiyathavargal/RE_AUDIT_2026.md`.

@@ -16,11 +16,11 @@ All eight story scans were directly reviewed from the controlling PDF. Native em
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
-| 164 | 173 | verified | heading `வாழ முடியாதவர்கள்`; opening `‘டாண் டாண்’`; source forms `கம்ப ரசம்`, `கேட்கிறயா`, `பரவாயில்ல`, `பிடித்தமில்லே` |
+| 164 | 173 | verified | heading `வாழ முடியாதவர்கள்`; opening `‘டாண் டாண்’`; corrected `கேட்கிறாயா` (historical `றா`) and `பரவாயில்லே`; source `கம்ப ரசம்`, `பிடித்தமில்லே` |
 | 165 | 174 | verified | source-sensitive `கவாட்டா`, `‘காலேஜ் வேடர்’ களும்`, `சிறகை படித்துக் கொண்டன`; one occurrence `சின்னசாமி` retained |
 | 166 | 175 | verified | source forms `இதச் சொல்லியபடிக்`, `கொளுத்தினன்`, `அடுக்களை`, `ஜீலு ஜீலுப்பைப்`; ends `...உட்கார்ந்திருந்த அவனிடம்,` |
 | 167 | 176 | verified | continues prior sentence; source forms `முன்னூறு ரூபாய்`, `கல்யாண எழவா`, `கேட்கவேண்டிய தில்ல`, `கிம்பள சான்ஸ்`; ends `...பருவ` |
-| 168 | 177 | verified | completes `மடைந்து...`; source forms `வரவில்ல`, `விகாரமில்ல`, `கவின் பெறு`, `பெண்ணுல்தான்`, `தாங்கொணா`; ends `...பவளக் கட்டி` |
+| 168 | 177 | verified | completes `மடைந்து...`; source forms `வரவில்ல`, `விகாரமில்ல`, `கவின் பெறு`, corrected historical-`ணா` `பெண்ணால்தான்`, `தாங்கொணா`; ends `...பவளக் கட்டி` |
 | 169 | 178 | verified | completes `யும்,...`; source forms `பாதம் பருப்பும்`, `உவரப்போட்டு`, `அகட்டிப்`, `தயாராயில்ல`, `அடைக்கவில்ல`; ends `...எடுத்துக்` |
 | 170 | 179 | verified | completes `காட்டிற்று.`; source forms `அப்போ`, `நாவில் நீரில்ல`, `விஷமேறி`, `நத்தைகள்`, `அழுக்கியது` |
 | 171 | 180 | verified | source-sensitive conclusion `கற்பினைக் பெயரால்`, `தீவிதி`, `தீவிதிக்காளான`, `நிற்கவேயில்ல`, `அவனையறியாமல்`; closing ornament |
@@ -50,7 +50,7 @@ No page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms are retained in `POSSIBLE_ERRORS_FOR_REVIEW.md`; an entry there is not proof of error. In particular, `கவாட்டா`, `‘காலேஜ் வேடர்’ களும்`, `சிறகை படித்துக் கொண்டன`, `வயிற்றின் ஜீலு ஜீலுப்பைப் பீடிப்புகை`, `கல்யாண எழவா`, `கேட்கவேண்டிய தில்ல`, `டாக்டர் தர்மவானை மாறவேண்டும்`, `‘கிம்பள சான்ஸ்’`, `பெண்ணுல்தான்`, `அகட்டிப்`, `விஷமேறி நடுங்கும் அவன் ஈர விரல்கள்`, `மெதுவாக அழுக்கியது`, and `அந்தக் கற்பினைக் பெயரால் ஏற்பட்ட தீவிதி` remain explicitly queued for later human recheck while the corresponding pages remain source-reviewed and structurally complete.
+The 2026 dual-gate pass reopened every legacy candidate. `கவாட்டா`, `‘காலேஜ் வேடர்’ களும்`, `சிறகை படித்துக் கொண்டன`, `வயிற்றின் ஜீலு ஜீலுப்பைப் பீடிப்புகை`, `கல்யாண எழவா`, `கேட்கவேண்டிய தில்ல`, `டாக்டர் தர்மவானை மாறவேண்டும்`, `‘கிம்பள சான்ஸ்’`, `அகட்டிப்`, `விஷமேறி நடுங்கும் அவன் ஈர விரல்கள்`, `மெதுவாக அழுக்கியது`, and `அந்தக் கற்பினைக் பெயரால் ஏற்பட்ட தீவிதி` were source-reconfirmed. Legacy `கேட்கிறயா` and `பெண்ணுல்தான்` were corrected as historical `றா` / `ணா`, and `பரவாயில்ல` was corrected to source `பரவாயில்லே`. **No queue item remains pending.**
 
 ## Assembly gate
 
@@ -65,3 +65,19 @@ Source-sensitive but legible forms are retained in `POSSIBLE_ERRORS_FOR_REVIEW.m
 ## Audit result
 
 **PASS — வாழ முடியாதவர்கள் source range is fully transcribed and structurally source-complete: 8/8 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **8/8 PASS**
+- Gate B: **8/8 PASS**
+- source-proven repairs: **3**
+- Gate A repair: **1** — `பரவாயில்ல` → `பரவாயில்லே`
+- Gate B repairs: **2** — historical `றா` `கேட்கிறயா` → `கேட்கிறாயா`; historical `ணா` `பெண்ணுல்தான்` → `பெண்ணால்தான்`
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- scan 181 independently reconfirmed as Story 26 `அபாக்ய சிந்தாமணி`
+
+Full repair ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
