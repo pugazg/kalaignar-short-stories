@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ Corrected state: **PASS**. Reconstructed prior marker placement: **FAIL — page
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The full English was checked sentence-by-sentence against the final canonical Tamil and all four 2026 Tamil repair locations. No E2 prose repair was required. The corrected rhetorical `போதுதானா` and `அலட்சியப் புத்தி` senses are already present. Source-odd `தூராற்றம்` is directly source-confirmed but lexically unusual; the English keeps the conservative transliteration *thoorattram* rather than inventing a normalized sense. The narrative's satire, rhetorical questions, sexual/religious irony, quantities, and final unmarried-mother inference remain intact.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

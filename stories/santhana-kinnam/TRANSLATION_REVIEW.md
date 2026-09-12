@@ -70,3 +70,12 @@ Do not reopen this translation from stale possible-error notes; any future chang
 Notable joins were checked directly, including 50→51 `அறிஞர்களின்` → `பாராட்டுக்குரிய` represented as `scholars'` → `praise`, 53→54 `கந்தன்,` continuation, and 55→56 `அசையாமல்` → `கந்தன்...` represented as `Without moving,` → `Kandan stood...`.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The full English was checked sentence-by-sentence against the final canonical Tamil, including all three 2026 Tamil repair locations, the long martial poem, Vijayā's gift inscription, the anti-Hindi struggle sequence, the sandal-bowl action and retrospective ending. One fidelity repair was made at the opening: `புரோகித மணம் ஏன் கூடாது` states why priestly marriage **should not be performed**; the English had weakened this to “why priestly marriage was unnecessary.” The stronger source meaning is now restored. Source-confirmed unusual forms such as `கண்டலுக்குப் போர்போன`, `மோழைக்குப் பெயர் போர்வீரனும்!`, and `அவள் வலுவில் பேசவந்தாலும்` remain conservatively represented.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

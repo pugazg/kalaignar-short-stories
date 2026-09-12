@@ -69,3 +69,12 @@ The Gate-B candidate `கந்தனும் அவளுக்குக் �
 One clear anchor defect was repaired at 31→32. Source scan 31 ends after the labour clause; scan 32 begins `முழுசாகக் காண முடியாத பணம்—நூறு ரூபாய்!`. The English marker had been placed after translating that scan-32 clause. The sentence was minimally reordered so scan 31 now ends with the labour clause and scan 32 begins `I could never see that amount of money all at once—a hundred rupees!`. Meaning is unchanged.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The full English was checked sentence-by-sentence against the final canonical Tamil, including all seven 2026 repair locations. No E2 prose repair was required. The meaning-sensitive Tamil correction `அவர்களை ஏமாற்றி விட்டால்` is already correctly represented as “If I disappoint them now.” Source-retained oddities and images—including `பாவலா`, the poison/milk comparison, `அதிருப சுந்தரன்`, and `கந்தனும் அவளுக்குக் கருவிழியானை` → “Kandan became the dark pupil of her eye”—remain conservative rather than normalized.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

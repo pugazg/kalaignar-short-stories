@@ -53,3 +53,12 @@ Source-close readings such as `மனமனவென்று`, `காரணக
 One clear anchor defect was repaired at 42→43. Source scan 42 ends inside `சேரக்` → scan 43 `கூடாதா?`. The English scan-43 marker had been delayed until after the entire following paragraph. It is now placed inside the equivalent question: `Could not a female garbage bin come and join me` → `here?`. No prose meaning changed.
 
 Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+
+
+## English re-audit 2026 — E2
+
+**PASS — meaning fidelity.**
+
+The full English was checked sentence-by-sentence against the final canonical Tamil and all four 2026 Tamil repair locations. No E2 prose repair was required. The corrected rhetorical `போதுதானா` and `அலட்சியப் புத்தி` senses are already present. Source-odd `தூராற்றம்` is directly source-confirmed but lexically unusual; the English keeps the conservative transliteration *thoorattram* rather than inventing a normalized sense. The narrative's satire, rhetorical questions, sexual/religious irony, quantities, and final unmarried-mother inference remain intact.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.

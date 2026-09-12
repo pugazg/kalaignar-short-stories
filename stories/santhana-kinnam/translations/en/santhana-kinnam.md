@@ -9,7 +9,7 @@
 
 The leader began to speak. He praised the bride, like a new moon, and the bridegroom sitting there with joy overflowing. He warmly congratulated the young man who had lit the flame of rationalism in that rustic village where the footprints of antiquity had still not faded. Hearing the leader praise the lover who was to bring light into her life, the new bride, seated there in shyness, felt her heart become a stream of delight.
 
-The leader poured out explanation after explanation on why priestly marriage was unnecessary and how revolutionary marriage had grown. The bees who had gathered there drank that honey of sweet Tamil and rejoiced.
+The leader poured out explanation after explanation on why priestly marriage should not be performed and how revolutionary marriage had grown. The bees who had gathered there drank that honey of sweet Tamil and rejoiced.
 
 He also explained what a well-matched marriage meant and what age was necessary and suitable for marriage.
 

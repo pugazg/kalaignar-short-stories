@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ Corrected state: **PASS**. Reconstructed prior marker placement: **FAIL — page
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The full English was checked sentence-by-sentence against the final canonical Tamil, including all seven 2026 repair locations. No E2 prose repair was required. The meaning-sensitive Tamil correction `அவர்களை ஏமாற்றி விட்டால்` is already correctly represented as “If I disappoint them now.” Source-retained oddities and images—including `பாவலா`, the poison/milk comparison, `அதிருப சுந்தரன்`, and `கந்தனும் அவளுக்குக் கருவிழியானை` → “Kandan became the dark pupil of her eye”—remain conservative rather than normalized.
+
+- English fidelity repairs: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.

@@ -11,7 +11,7 @@
 ## Gate state
 
 - E1: **PASS**
-- E2: **PENDING**
+- E2: **PASS**
 - E3: **PENDING**
 - E4: **PENDING**
 - E5: **PENDING**
@@ -39,3 +39,18 @@ No anchor defect was changed; regression fixture not required.
 ## Current disposition
 
 **E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+
+
+## E2 — meaning fidelity
+
+**PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
+
+The full English was checked sentence-by-sentence against the final canonical Tamil, including all three 2026 Tamil repair locations, the long martial poem, Vijayā's gift inscription, the anti-Hindi struggle sequence, the sandal-bowl action and retrospective ending. One fidelity repair was made at the opening: `புரோகித மணம் ஏன் கூடாது` states why priestly marriage **should not be performed**; the English had weakened this to “why priestly marriage was unnecessary.” The stronger source meaning is now restored. Source-confirmed unusual forms such as `கண்டலுக்குப் போர்போன`, `மோழைக்குப் பெயர் போர்வீரனும்!`, and `அவள் வலுவில் பேசவந்தாலும்` remain conservatively represented.
+
+- English fidelity repairs: **1**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 issues: **0**
+- E2 result: **PASS**
+
+Programme next activity remains the next anthology story in E2 order.
