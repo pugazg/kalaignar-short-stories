@@ -230,4 +230,4 @@ The 1977 anthology source-fidelity + independent Old Tamil Glyph re-audit is **C
 
 A new independent English QA phase was authorized after the 1977 Tamil dual-gate closure. Historical 37/37 translation completion remains intact; the new five-gate tracker is `ENGLISH_REAUDIT_PROGRESS.md`.
 
-Current: **E1 CLOSED — 37/37 PASS; E2 1/37 PASS**. Story 1 `புகழேந்தி` E2 required **5 English fidelity repairs / 0 unresolved**. E3–E5 have not started. Next: E2 Story 2 `நளாயினி`.
+Current: **E1 CLOSED — 37/37 PASS; E2 6/37 PASS**. Stories 2–6 added **4 English fidelity repairs / 0 unresolved**, bringing cumulative E2 repairs to **9**. E3–E5 have not started. Next: E2 Story 7 `சங்கிலிச்சாமி`.

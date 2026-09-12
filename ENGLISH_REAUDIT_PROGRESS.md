@@ -10,24 +10,24 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
-- E2 meaning fidelity: **1 / 37 PASS**
+- E2 meaning fidelity: **6 / 37 PASS**
 - E3 terminology / cultural consistency: **0 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
-- E2 English fidelity repairs: **5** (`புகழேந்தி`)
+- E2 English fidelity repairs: **9** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E2 — Story 2 `நளாயினி`, meaning fidelity against final canonical Tamil**
+- exact next activity: **E2 — Story 7 `சங்கிலிச்சாமி`, meaning fidelity against final canonical Tamil**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
 | 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | PENDING | PENDING | PENDING | PENDING |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | PENDING | PENDING | PENDING | PENDING |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | PENDING | PENDING | PENDING | PENDING |
 | 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | PENDING | PENDING | PENDING | PENDING |
@@ -165,3 +165,22 @@ Repairs removed unsupported uncertainty/hearsay/narrator distance, restored pres
 ## Next
 
 Continue **E2** with Story 2 `நளாயினி`. E3 must not start until E2 reaches 37/37 unless the user explicitly changes the gate order.
+
+
+### E2 — Stories 2–6 batch
+
+The user explicitly expanded E2 to five stories. Stories **2–6 are PASS**.
+
+- `நளாயினி` — **1 repair**: corrected `கால் பாகத்துக்குமேல்` from the mistaken “leg portion” reading to **more than a quarter of his body**.
+- `சபலம்` — **2 repairs**: clarified the husband/subject as **Kumares and Chandira** and restored `உமிழ்நீர்` as **saliva**.
+- `ஆட்டக்காவடி` — **0 repairs**.
+- `குப்பைத்தொட்டி` — **0 repairs**; source-confirmed odd `தூராற்றம்` remains conservatively transliterated rather than guessed.
+- `சந்தனக்கிண்ணம்` — **1 repair**: restored the stronger `புரோகித மணம் ஏன் கூடாது` sense as **why priestly marriage should not be performed**, replacing the weaker “was unnecessary.”
+
+Batch result: **4 new English fidelity repairs / 0 unresolved / 0 Tamil changes / 0 source reopenings**.
+
+Cumulative E2: **6/37 PASS / 9 English fidelity repairs / 0 unresolved**.
+
+## Current next
+
+Continue **E2** with Story 7 `சங்கிலிச்சாமி`. Do not start E3 until E2 reaches 37/37 unless explicitly redirected.
