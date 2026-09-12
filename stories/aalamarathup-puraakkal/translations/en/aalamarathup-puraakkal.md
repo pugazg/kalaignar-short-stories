@@ -62,6 +62,6 @@ The black puraa too entered that effort. It called the kavar-puraa to join it.
 
 The valluuru kept right on doing its own work. The white puraa stared, unable to decide whether to laugh or cry at this strange spectacle. Yet it kept building its strength to attack the enemy.
 
-For small miscellaneous helps, and when it was unwell and needed medicine, the kavar-puraa would come to the white puraa. The white puraa would give those helps. But now the black puraa would not give the kavar-puraa even those helps.
+For small everyday help, or when it was unwell and needed medicine, the kavar-puraa would come to the white puraa. The white puraa would give those helps. But now the black puraa would not give the kavar-puraa even those helps.
 
 All the birds in the forest who heard this story laughed and were astonished. At the same time, seeing the white puraa’s intelligence, they praised and acclaimed it. Did the white puraa have time to listen to praise and acclaim? Its entire aim was **to drive away the valluuru!**

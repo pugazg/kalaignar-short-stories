@@ -119,3 +119,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 Names and literary/cultural references are stable: **Annumalai, Vimala, Brahma**, and the descriptive **revolutionary poet of Puduvai**. The story deliberately avoids importing an outside biographical identification into the text. Source-confirmed opaque `அக்கத்தாகக்` remains conservative rather than guessed. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One readability repair replaced an accidentally literal English phrase while preserving the narrator's meaning and tone.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.

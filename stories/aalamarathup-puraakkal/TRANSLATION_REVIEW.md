@@ -71,3 +71,12 @@ English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0
 The allegorical vocabulary is intentionally source-close and internally consistent: **puraa, kavar-puraa, valluuru, kangani, kolvinai-koduppinai, viduthalai viruththam, vetri murasoli**, and quoted **thala / sakthi**. These are not mechanically converted to ordinary English because the story uses them as politically suggestive source labels. No E3 repair was required.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
+
+
+## English re-audit 2026 — E4
+
+**PASS — English quality.**
+
+One readability repair replaced the awkward phrase “small miscellaneous helps” while preserving the allegorical terminology and source sequence.
+
+English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: **No**. Unresolved E4 issues: **0**.
