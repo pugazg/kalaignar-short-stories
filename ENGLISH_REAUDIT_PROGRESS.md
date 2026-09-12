@@ -11,30 +11,31 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - programme: **ACTIVE**
 - E1 completeness / physical-page alignment: **37 / 37 PASS — CLOSED**
 - E2 meaning fidelity: **37 / 37 PASS — CLOSED**
-- E3 terminology / cultural consistency: **0 / 37 PASS**
+- E3 terminology / cultural consistency: **13 / 37 PASS**
 - E4 English quality: **0 / 37 PASS**
 - E5 final bilingual approval: **0 / 37 PASS**
 - E1 page-anchor/content-boundary repairs: **8** (`ஆட்டக்காவடி`, `குப்பைத்தொட்டி`, `தப்பவில்லை`, `ஆதரிக்கிறார்`, `முந்நூறு ரூபாய்`, `ஏழை`, `பிரேத விசாரணை`, `தொத்துக்கிளி`)
 - E1 structure-traceability annotation repairs: **18**
 - E2 English fidelity repairs: **12** (`புகழேந்தி` 5, `நளாயினி` 1, `சபலம்` 2, `சந்தனக்கிண்ணம்` 1, `தாய்மை` 1, `முந்நூறு ரூபாய்` 1, `பனங்குலை` 1)
+- E3 terminology / cultural-consistency repairs: **1** (`ஆதரிக்கிறார்`: `dhoti` → `veshti` for source `வேட்டி`)
 - unresolved English re-audit issues: **0**
-- exact next activity: **E3 — Story 1 `புகழேந்தி`, terminology / names / cultural consistency**
+- exact next activity: **E3 — Stories 14–26, 13-story terminology / names / cultural-consistency batch**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
-| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
-| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
+| 1 | `புகழேந்தி` | 1–6 | 10–15 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 2 | `நளாயினி` | 7–14 | 16–23 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 3 | `சபலம்` | 15–21 | 24–30 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 4 | `ஆட்டக்காவடி` | 22–29 | 31–38 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 5 | `குப்பைத்தொட்டி` | 30–37 | 39–46 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 6 | `சந்தனக்கிண்ணம்` | 38–47 | 47–56 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 7 | `சங்கிலிச்சாமி` | 48–59 | 57–68 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 8 | `கங்கையின் காதல்` | 60–63 | 69–72 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 9 | `தாய்மை` | 64–74 | 73–83 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 10 | `தப்பிவிட்டார்கள்` | 75–82 | 84–91 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 11 | `தப்பவில்லை` | 83–92 | 92–101 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 12 | `ஆதரிக்கிறார்` | 93–98 | 102–107 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
+| 13 | `இரகசியம்!` | 99–102 | 108–111 | **PASS** | **PASS** | **PASS** | PENDING | PENDING |
 | 14 | `முந்நூறு ரூபாய்` | 103–105 | 112–114 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 15 | `ஏழை` | 106–109 | 115–118 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
 | 16 | `ஒரிஜினலில் உள்ளபடி` | 110–116 | 119–125 | **PASS** | **PASS** | PENDING | PENDING | PENDING |
@@ -257,3 +258,35 @@ Cumulative E2 findings:
 ## Current next
 
 Proceed to **E3 — terminology / names / cultural consistency**, beginning with Story 1 `புகழேந்தி`. Do not start E4 until E3 reaches 37/37 unless the user explicitly changes the gate order.
+
+
+### E3 — Stories 1–13 batch
+
+The user set the E3 working cadence to **13 stories per iteration**. Stories **1–13 are E3 PASS**.
+
+Anthology-level consistency checks established and applied in this batch include:
+
+- conservative story-established personal-name spellings;
+- **Siva / Parvati / Murugan** for recurring deity names, with source vocative **Muruga** preserved;
+- **Aththaan**, **Amma**, **Appa**, **Ayya**, **Thambi** retained where direct address is culturally marked, while ordinary narrative kinship may be translated naturally;
+- **Ayyo** for the recurring exclamation;
+- **Mudaliar**, **Swami**, **mutt**, **sacred ash**, **Deepavali**, **Kailasa**, **Draupadi**, **Purananuru** where those established forms recur;
+- source-odd or unresolved-but-verified forms remain conservative rather than being normalized from outside knowledge.
+
+One English E3 repair was required:
+
+- Story 12 `ஆதரிக்கிறார்`: source `வேட்டி` had been rendered **dhoti**; standardized to the anthology-established **veshti**: “Hitching up his veshti, Punyakodi set out.”
+
+Batch result:
+
+- E3 stories closed: **13**
+- E3 English repairs: **1**
+- Tamil changes: **0**
+- source reopenings: **0**
+- unresolved E3 issues: **0**
+
+Durable cross-anthology convention record: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
+
+## Current next
+
+Continue **E3** with the next **13-story iteration: Stories 14–26**, beginning with `முந்நூறு ரூபாய்` and ending with `அபாக்ய சிந்தாமணி`. Do not start E4 until E3 reaches 37/37 unless explicitly redirected.

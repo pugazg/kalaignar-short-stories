@@ -1,35 +1,31 @@
-# NEXT CHAT PROMPT — 1977 English re-audit / E3 Story 1 `புகழேந்தி`
+# NEXT CHAT PROMPT — 1977 English re-audit / E3 Stories 14–26
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable state
 
-- Tamil 1977 dual-gate: **CLOSED — 37/37 CURRENT PASS; 0 unresolved**
-- existing English translations: **37/37 complete**
+- Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS**
 - E1: **CLOSED — 37/37 PASS**
 - E2: **CLOSED — 37/37 PASS**
-- E3: **0/37 PASS**
+- E3: **13/37 PASS**
 - E4–E5: **not started**
-- cumulative E2 English fidelity repairs: **12**
+- cumulative E3 English repairs: **1**
 - unresolved English re-audit issues: **0**
 
-Stories **1–37 are E2 PASS**. The final sixteen-story E2 batch (Stories 22–37) required **0 new fidelity repairs / 0 unresolved / 0 Tamil changes / 0 source reopenings**.
+Stories **1–13 are E3 PASS**.
 
-## Exact next activity
+Cross-anthology convention ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
 
-Process **E3 — Story 1 `புகழேந்தி` — terminology / names / cultural consistency**.
+The user has set **13 stories per iteration** for this phase.
 
-Read final canonical Tamil, existing English, story-local `ENGLISH_REAUDIT_2026.md`, `TRANSLATION_REVIEW.md`, and anthology-wide established English conventions.
+## Exact next iteration
 
-Check:
+Process **E3 Stories 14–26** in one iteration:
 
-- personal names and title forms;
-- kinship and address terms;
-- political / social / religious vocabulary;
-- transliteration consistency;
-- recurring concepts and idioms;
-- culturally specific expressions;
-- source-retained foreign words and historical forms;
-- consistency with other anthology stories without flattening source distinctions.
+`முந்நூறு ரூபாய்`, `ஏழை`, `ஒரிஜினலில் உள்ளபடி`, `பனங்குலை`, `செத்தவள் கதை`, `பிரேத விசாரணை`, `கண்டதும் காதல் ஒழிக!`, `ஆலமரத்துப் புறாக்கள்`, `தொத்துக்கிளி`, `காதல் கடிதம்`, `கண்ணடக்கம்`, `வாழ முடியாதவர்கள்`, `அபாக்ய சிந்தாமணி`.
 
-Do not use outside knowledge to overwrite the source. Do not start E4 until E3 is 37/37 unless explicitly redirected.
+For each story read final Tamil, existing English, `TRANSLATION_REVIEW.md`, story-local `ENGLISH_REAUDIT_2026.md`, and apply the anthology E3 ledger.
+
+Check names, honorifics, kinship/address terms, political/social/religious vocabulary, institutions/titles, transliteration, recurring idioms/concepts, and culturally specific terms. Do not flatten a genuine source distinction merely for uniformity.
+
+Record every repair or 0 repairs. Do not reopen the PDF unless a plausible Tamil-source issue emerges. Do not start E4.

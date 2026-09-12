@@ -11,36 +11,53 @@
 
 ## Durable current state
 
-- E1 completeness / physical-page alignment: **CLOSED — 37/37 PASS**
-- E2 meaning fidelity: **CLOSED — 37/37 PASS**
-- E3 terminology / names / cultural consistency: **0/37**
-- E4 English quality: **0/37**
-- E5 final bilingual approval: **0/37**
-- cumulative E1 page-anchor/content-boundary repairs: **8**
-- cumulative E1 structure-traceability annotation repairs: **18**
+- E1: **CLOSED — 37/37 PASS**
+- E2: **CLOSED — 37/37 PASS**
+- E3 terminology / names / cultural consistency: **13/37 PASS**
+- E4: **0/37**
+- E5: **0/37**
 - cumulative E2 English fidelity repairs: **12**
+- cumulative E3 English terminology repairs: **1**
 - unresolved English re-audit issues: **0**
 
-Final canonical Tamil remains authoritative. The English programme is verification/repair, not retranslation. The controlling PDF is reopened only when an English gate exposes a plausible Tamil-source defect.
+Cross-anthology E3 ledger: `ENGLISH_E3_TERMINOLOGY_CONVENTIONS.md`.
 
-## E2 closure
+## E3 cadence
 
-Stories **1–37 are E2 PASS**.
+The user explicitly set the working cadence to **13 stories per iteration**.
 
-Final closure batch, Stories **22–37**:
+- Iteration 1: Stories **1–13 — COMPLETE / PASS**
+- Iteration 2: Stories **14–26 — NEXT**
+- Iteration 3: Stories **27–37 — final 11 stories**
 
-- reviewed: **16 stories**
-- new English fidelity repairs: **0**
-- Tamil changes: **0**
-- source reopenings: **0**
-- unresolved: **0**
+## E3 Stories 1–13 result
 
-The later translations already reflected their 2026 Tamil synchronizations. Source-close, transliterated, culturally specific or lexically opaque forms that did not create a proven meaning error were not guessed during E2; they are explicitly the subject of E3.
+All thirteen are **PASS**.
 
-Cumulative E2 repairs across the anthology: **12**.
+One terminology consistency repair was required:
+
+- `ஆதரிக்கிறார்`: source `வேட்டி` was translated **dhoti**; changed to anthology-consistent **veshti**.
+
+Key conventions established include **Siva, Parvati, Murugan/Muruga, Mudaliar, Swami, mutt, Aththaan, Ayyo, veshti, Deepavali, Kailasa, Draupadi, Purananuru**, while verified source-odd forms remain conservative.
+
+No Tamil changed. No PDF/source reinspection was required. Unresolved E3 issues: **0**.
 
 ## Exact next activity
 
-**E3 — Story 1 `புகழேந்தி` — terminology / names / cultural consistency.**
+Process **E3 Stories 14–26** in one iteration:
 
-Check personal names, kinship terms, political/social vocabulary, idioms, transliteration, recurring concepts, titles, culturally specific expressions and anthology-wide consistency against the final Tamil and established English conventions. Record every repair or 0 repairs. Do not start E4.
+14. `முந்நூறு ரூபாய்`
+15. `ஏழை`
+16. `ஒரிஜினலில் உள்ளபடி`
+17. `பனங்குலை`
+18. `செத்தவள் கதை`
+19. `பிரேத விசாரணை`
+20. `கண்டதும் காதல் ஒழிக!`
+21. `ஆலமரத்துப் புறாக்கள்`
+22. `தொத்துக்கிளி`
+23. `காதல் கடிதம்`
+24. `கண்ணடக்கம்`
+25. `வாழ முடியாதவர்கள்`
+26. `அபாக்ய சிந்தாமணி`
+
+Apply the E3 conventions ledger, but preserve genuine story-specific/source-specific distinctions. Do not start E4.
