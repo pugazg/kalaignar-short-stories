@@ -141,3 +141,12 @@ Canonical Tamil remains authoritative. Any future English revision that appears 
 ## 2026 dual-gate synchronization closure
 
 All English layers materially or punctuationally affected by the 2026 Tamil re-audit are synchronized. The final Story 37 update was punctuation-only; the anthology remains **37 / 37 PASS in English**.
+
+
+## Post-Tamil-re-audit verification
+
+The original English translation phase remains **COMPLETE — 37 / 37 PASS**.
+
+A separate independent QA programme is now active under `ENGLISH_REAUDIT_GUIDE.md` and tracked in `ENGLISH_REAUDIT_PROGRESS.md`. This does not reset or overwrite historical translation completion.
+
+Current post-Tamil English re-audit: **E1 1/37 PASS; E2–E5 not started**. Story 1 `புகழேந்தி` E1 passed with **0 repairs / 0 unresolved**. Next: Story 2 `நளாயினி` E1.

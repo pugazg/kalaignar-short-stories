@@ -5,77 +5,58 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed durable closure checkpoint: `f980e80c556bc2cf76b1c08e0504e077b0b980ed` — `Close 1977 anthology dual-gate at 37 of 37`
-- permanent source-first guides remain in force
+- Tamil 1977 dual-gate programme: **CLOSED — 37/37 CURRENT PASS; 0 unresolved**
+- newly authorized phase: **1977 English post-Tamil re-audit**
 
-## 1977 anthology — 2026 dual-gate programme
+## English re-audit workflow
 
-Collection: `collections/1977-kalaignar-karunanidhiyin-sirukathaigal/`.
+Guide: `ENGLISH_REAUDIT_GUIDE.md`  
+Tracker: `ENGLISH_REAUDIT_PROGRESS.md`
 
-Controlling source: `TVA_BOK_0064142_கலைஞர்_கருணாநிதியின்_சிறுகதைகள்.pdf`
+This is **verification/repair, not retranslation**. Final canonical Tamil is the authority. The controlling PDF is reopened only if English review exposes a plausible Tamil-source issue.
 
-- first edition: **1977**
-- physical scans: **260**
-- bytes: **268,486,609**
-- SHA-256: `853032661482eaccb26c083a38d7aa75c081362d33c963c63e37d088bf20acb3`
-- image-only controlling source
-- source PDF must not be committed
+Gate order is anthology-wide:
 
-### Governing method
+1. E1 completeness / physical-page alignment — all 37 stories;
+2. E2 meaning fidelity;
+3. E3 terminology / cultural consistency;
+4. E4 English quality without meaning drift;
+5. E5 final bilingual approval.
 
-This programme was **comparison repair, not retranscription**. Existing repository Tamil was the baseline. Every story independently required:
+Process one story per activity unless the user explicitly expands the batch.
 
-1. **Gate A — source-fidelity comparison** against controlling pixels;
-2. **Gate B — independent Old Tamil Glyph verification** at native/high resolution, explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
+## Durable current state
 
-No global replacement, lexical modernization, or context-based silent correction was permitted.
+- existing English translation: **37/37 complete**
+- English re-audit programme: **ACTIVE**
+- E1: **1/37 PASS**
+- E2: **0/37**
+- E3: **0/37**
+- E4: **0/37**
+- E5: **0/37**
+- unresolved re-audit issues: **0**
 
-## Durable final state
+### Story 1 `புகழேந்தி` — E1 CLOSED
 
-**CLOSED — 37 / 37 CURRENT PASS; 0 unresolved.**
+- scans **10–15 / printed 1–6**
+- canonical Tamil pages represented in English: **6/6**
+- physical page-marker alignment: **6/6 PASS**
+- omitted Tamil spans: **0**
+- duplicated/moved/unsupported English spans: **0**
+- E1 repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved: **0**
 
-- Stories **1–37** have Gate A PASS + Gate B PASS.
-- Story scans **10–259 / printed pages 1–250** are closed under the 2026 standard.
-- scan **260** is the independently verified anthology back cover.
-- English layers affected by source repairs are synchronized.
-- source PDF / renders / crops are not committed.
-- do not reopen a closed story from a stale prompt unless genuinely new direct controlling-source evidence appears.
+High-value aligned joins:
 
-## Final story — `நுனிக்கரும்பு`
+- 10→11: `அவனது பெயர் கூறவே` → `மக்கள் தயங்குவர்—...`
+- 12→13: `“உங்கள் இலட்சியம்` → `கைகூடும் வரையில்...`
+- 14→15: `திருமணமும்` → `வேண்டார்!”`
 
-Workspace: `stories/nunikkarumbu/`
+Story record: `stories/pugazhendhi/ENGLISH_REAUDIT_2026.md`.
 
-- scans **253–259 / printed 244–250**
-- Gate A: **7/7 PASS**
-- Gate B: **7/7 PASS**
-- source-proven repairs: **2 punctuation repairs**
-- unresolved source readings: **0**
-- unresolved historical-glyph readings: **0**
-- English synchronization: **2 punctuation-only changes; 0 prose/meaning changes**
+## Exact next activity
 
-Repairs:
+**E1 — Story 2 `நளாயினி`, scans 16–23 / printed pages 7–14.**
 
-1. scan **256 / printed 247**  
-   `ஒண்ணுமில்லே!...என்ன` → **`ஒண்ணுமில்லே...என்ன`**
-2. scan **258 / printed 249**  
-   `டே, டே!` → **`டே டே!`**
-
-Gate B required no canonical historical-glyph correction. Representative source-confirmed families included `புண்ணாகி` (`ணா`), `தன்னை` (`னை`), `களைப்புத்` (`ளை`), `சென்றார்` (`றா`), `சொன்னார்கள்` (`னா`), and `எண்ணை` (`ணை`).
-
-Source-sensitive forms such as `சதிமிதிக்கும்`, `வதங்கவிலாச்சண்பகத்து`, `சாடை`, `நாறுவது நடன நிகழ்ச்சி`, `அத்தனைநாள் கடந்தவம்`, `முன்னேடி`, `கிறு கிறுக்க`, `இன்பபுரிக்கு`, `சாபங்`, `காலக்கடன்களை`, `கேட்டாமலே`, `அமுதா இருக்குதா?`, `சேச்சே!`, `பகல் விருந்து ரசிகுமா?`, `தணலான`, `அடுக்குளப்பக்கம்`, `வண்ணமொழிகேட்டு`, `பரவாயில்ல`, `இவனத் தெரியுமா?`, and `நம்பப் பயலா?` were directly reconfirmed and retained.
-
-Structural closure:
-
-- opening Bharathidasan verse remains a distinct three-line block;
-- all six physical joins PASS;
-- exact 257→258 split remains `...காட்சிகளைக் காட்டி உள்ளங்` → `களைக் கெடுத்து வைத்திருக்கிறார்கள் அல்லவா?`;
-- scan 259 contains the ending and closing ornament;
-- scan 260 is back cover only.
-
-Durable story ledger: `stories/nunikkarumbu/RE_AUDIT_2026.md`.
-
-## Next activity
-
-**None inside the 1977 anthology dual-gate programme.**
-
-Do not automatically begin another collection, witness, modernization, translation revision, republication, or post-anthology phase. Await explicit user direction. If a future chat resumes repository work, fetch live `main` first and preserve any newer durable state.
+Read its final canonical Tamil assembly, all verified per-page records, 2026 Tamil re-audit/audit/possible-error controls, existing English and translation review. Verify completeness and physical source-page alignment only. Do not start E2 yet. If E1 exposes a possible Tamil-source defect, reopen only that exact Tamil span against the controlling 1977 source before changing Tamil.

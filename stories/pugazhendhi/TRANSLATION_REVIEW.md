@@ -59,3 +59,28 @@ No later-edition smoothing was imported. In particular:
 ## Result
 
 **PASS — English translation is synchronized to `புகழேந்தி` after the 2026 dual-gate source repair, with no unresolved downstream translation issue.**
+
+
+## English re-audit 2026 — E1
+
+**PASS — completeness and physical-page alignment.**
+
+Independent post-Tamil review compared the final canonical Tamil, verified scan records 10–15 and the existing English.
+
+- page sections represented: **6/6**
+- source markers aligned to physical Tamil transitions: **6/6**
+- omitted Tamil story spans: **0**
+- duplicated/moved English story spans: **0**
+- unsupported added story content: **0**
+- scan 10→11 split `அவனது பெயர் கூறவே` / `மக்கள் தயங்குவர்—...`: **aligned**
+- scan 12→13 split `“உங்கள் இலட்சியம்` / `கைகூடும் வரையில்...`: **aligned**
+- scan 14→15 split `திருமணமும்` / `வேண்டார்!”`: **aligned**
+- isolated fame display and opening/closing furniture: **traceable**
+- Story 2 text included: **No**
+- E1 corrections: **0**
+- Tamil/source reopened: **No**
+- unresolved E1 issue: **0**
+
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md).
+
+E2 meaning-fidelity review remains pending until anthology-wide E1 is complete.

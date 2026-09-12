@@ -224,3 +224,10 @@ The earlier repository pin `a9b333f12128686785ee981f97313a64af12e29b` predates t
 ## 2026 dual-gate closure addendum
 
 The 1977 anthology source-fidelity + independent Old Tamil Glyph re-audit is **CLOSED — 37 / 37 CURRENT PASS**. Final Story 37 `நுனிக்கரும்பு` closed at Gate A **7/7** + Gate B **7/7** with **2 punctuation repairs / 0 unresolved**. Scan **260** remains the verified back cover.
+
+
+## Post-closure English re-audit
+
+A new independent English QA phase was authorized after the 1977 Tamil dual-gate closure. Historical 37/37 translation completion remains intact; the new five-gate tracker is `ENGLISH_REAUDIT_PROGRESS.md`.
+
+Current: **E1 1/37 PASS** — Story 1 `புகழேந்தி` passed completeness and physical-page alignment with **0 repairs / 0 unresolved**. E2–E5 have not started.

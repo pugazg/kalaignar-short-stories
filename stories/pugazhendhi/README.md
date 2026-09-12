@@ -102,6 +102,18 @@ Translation review:
 
 Only meaning/grammar affected by source-proven corrections is adjusted downstream; source-odd Tamil retained by the re-audit remains source-authoritative.
 
+## English post-Tamil re-audit
+
+Durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md).
+
+- E1 completeness / physical-page alignment: **PASS**
+- six English source-page sections align with verified Tamil scans **10–15**
+- omitted / duplicated / moved / unsupported story spans: **0 / 0 / 0 / 0**
+- E1 English repairs: **0**
+- Tamil/source reopened during E1: **No**
+- E1 unresolved: **0**
+- E2–E5: **PENDING**
+
 ## Completion state
 
-**புகழேந்தி is CURRENT PASS / CLOSED under the 2026 dual-gate standard for scans 10–15 / printed pages 1–6: 9 canonical repairs, 0 unresolved source readings, 0 unresolved historical-glyph readings, Tamil assembly and existing English synchronized.**
+**புகழேந்தி remains CURRENT PASS / CLOSED under the 2026 Tamil dual-gate standard. Its independent English re-audit has E1 PASS; downstream E2–E5 remain pending under the anthology gate-wide workflow.**

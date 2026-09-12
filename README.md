@@ -18,14 +18,26 @@ Permanent guides:
 - [`COLLECTION_SOURCE_GUIDE.md`](COLLECTION_SOURCE_GUIDE.md)
 - [`ENGLISH_TRANSLATION_GUIDE.md`](ENGLISH_TRANSLATION_GUIDE.md)
 - [`ENGLISH_TRANSLATION_PROGRESS.md`](ENGLISH_TRANSLATION_PROGRESS.md)
+- [`ENGLISH_REAUDIT_GUIDE.md`](ENGLISH_REAUDIT_GUIDE.md)
+- [`ENGLISH_REAUDIT_PROGRESS.md`](ENGLISH_REAUDIT_PROGRESS.md)
 - [`NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md`](NEW_STORY_ENGLISH_TRANSLATION_PROGRESS.md)
+
+## 1977 English post-Tamil re-audit — ACTIVE
+
+The existing 37/37 English translation phase remains complete. A separate five-gate verification programme is now active against the final 2026 Tamil canonical layer.
+
+- workflow: [`ENGLISH_REAUDIT_GUIDE.md`](ENGLISH_REAUDIT_GUIDE.md)
+- tracker: [`ENGLISH_REAUDIT_PROGRESS.md`](ENGLISH_REAUDIT_PROGRESS.md)
+- E1 completeness / physical-page alignment: **1 / 37 PASS**
+- E2–E5: **not started**
+- exact next: **E1 Story 2 `நளாயினி`, scans 16–23 / printed 7–14**
 
 ## Canonical stories
 
 | Story | Source state | English |
 |---|---|---|
 | [`கிழவன் கனவு`](stories/kizhavan-kanavu/README.md) | **16 / 16 story scans verified; 0 story blocks** | **complete / source-complete / release-ready** |
-| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 9 repairs; 0 unresolved** | **PASS — synchronized** |
+| [`புகழேந்தி`](stories/pugazhendhi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 9 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 PASS** |
 | [`நளாயினி`](stories/nalayini/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 15 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`சபலம்`](stories/sabalam/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 6 repairs; 0 unresolved** | **PASS — synchronized** |
 | [`ஆட்டக்காவடி`](stories/aattakkavadi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 8/8 + Gate B 8/8; 7 repairs; 0 unresolved** | **PASS — synchronized** |

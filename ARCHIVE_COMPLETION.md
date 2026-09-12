@@ -122,3 +122,9 @@ Initial registered facts:
 The user also supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, now adopted as the mandatory historical-glyph verification guide for this 1987 source. Duplicate checking must precede every new story activation.
 
 Therefore the repository's **current** state is no longer “no authorized work”: the previous archive scope remains closed, while the 1987 source intake is **ACTIVE**. Current execution state is governed by `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, and the 1987 collection controls.
+
+## Active QA addendum — 1977 English re-audit
+
+The 1977 anthology remains source-complete and translation-complete in the historical trackers. A newly authorized post-Tamil English re-audit is **ACTIVE** and does not invalidate those completed phases.
+
+Current English re-audit: **E1 1/37 PASS; E2–E5 not started**. Tracker: `ENGLISH_REAUDIT_PROGRESS.md`.
