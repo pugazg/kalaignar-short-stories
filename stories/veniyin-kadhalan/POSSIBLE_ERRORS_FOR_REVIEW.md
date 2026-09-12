@@ -11,3 +11,12 @@ This is a persistent human-review queue, not a list of confirmed errors. All six
 - [x] scan 231 / printed 222 — independently inspected only as boundary witness; visibly opens Story 34 `அமிர்தமதி`; no Story 34 text included here.
 
 A stronger source-supported correction may reopen any entry later, but no item above is currently treated as an unresolved story-text error.
+
+
+## 2026 dual-gate disposition
+
+- [x] scan 227 / printed 218 — punctuation repaired: legacy `சிப்பாய்.......அவர்தான்` → source **`சிப்பாய்......அவர்தான்`** (six full stops).
+- [x] scan 229 / printed 220 — source spacing repaired: legacy `அருமையான யோசனைதான்!` → **`அருமையான யோசனை தான்!`**.
+- [x] scan 228 / printed 219 — prior source correction **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** independently re-proved; provisional `ஆகுவேனென்றான்` remains rejected.
+
+**0 pending / 0 unresolved.** All six story-page source-sensitive groups and all mandatory historical-glyph families were independently reopened. Gate A **6/6 PASS**, Gate B **6/6 PASS**; Gate B required **0 additional repairs**.

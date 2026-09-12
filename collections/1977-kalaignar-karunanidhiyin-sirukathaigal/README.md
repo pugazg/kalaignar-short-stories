@@ -20,7 +20,7 @@ Pagination inside the story block is `scan = printed page + 9`: scan **10** = pr
 
 ## 2026 full source + Old Tamil Glyph re-audit
 
-**OPEN — 32 / 37 CURRENT PASS.**
+**OPEN — 33 / 37 CURRENT PASS.**
 
 The exact 1977 source was reattached and byte identity matched the registered source. This programme is **comparison repair, not retranscription**. Existing canonical Tamil is the baseline.
 
@@ -68,8 +68,9 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `கடைசிக் கட்டம்` — scans **205–210** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `அய்யோ ராஜா!` — scans **211–217** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **0 new repairs / 0 unresolved**; prior scan-217 historical-`றா` correction `என்றாள் முத்தம்மா` revalidated; English prose rewrite 0.
 - `விஷம் இனிது` — scans **218–224** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **1 spacing repair / 0 unresolved**; scan 219 `இவள்தான்` → `இவள் தான்`; English prose rewrite 0.
+- `வேணியின் காதலன்` — scans **225–230** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **2 punctuation/spacing repairs / 0 unresolved**; prior scan-228 `ஆக்குவேனென்றான்` correction revalidated; English prose rewrite 0, punctuation-only sync 1.
 
-Do not reopen these thirty-two stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these thirty-three stories from stale prompts unless genuinely new direct source evidence appears.
 
 ### `கண்டதும் காதல் ஒழிக!` closure
 
@@ -235,11 +236,25 @@ Full story record: `../../stories/ayyo-raja/RE_AUDIT_2026.md`.
 
 Full story record: `../../stories/visham-inidhu/RE_AUDIT_2026.md`.
 
+### `வேணியின் காதலன்` closure
+
+- scans **225–230 / printed 216–221**
+- Gate A **6/6 PASS**
+- Gate B **6/6 PASS**
+- **2 source-proven punctuation/spacing repairs / 0 unresolved**
+- scan 227: seven-dot ellipsis → source six dots
+- scan 229: `யோசனைதான்!` → `யோசனை தான்!`
+- prior scan-228 `கூண்டுக் கிளி ஆக்குவேனென்றான்` correction revalidated
+- English prose rewrite **0**; punctuation-only synchronization **1**
+- scan 231 independently opens `அமிர்தமதி`
+
+Full story record: `../../stories/veniyin-kadhalan/RE_AUDIT_2026.md`.
+
 ## Exact next activity
 
-Story 33 **`வேணியின் காதலன்`** — scans **225–230 / printed pages 216–221** — **NEXT**.
+Story 34 **`அமிர்தமதி`** — scans **231–238 / printed pages 222–229** — **NEXT**.
 
-Complete Gate A **6/6** and independent Gate B **6/6**. Use scan **231** only as the boundary witness opening Story 34 `அமிர்தமதி`. Advance to **33/37** only with zero unresolved; stop before Story 34.
+Complete Gate A **8/8** and independent Gate B **8/8**. Use scan **239** only as the boundary witness opening Story 35 `சுமந்தவள்`. Advance to **34/37** only with zero unresolved; stop before Story 35.
 
 
 ## Legacy processing state

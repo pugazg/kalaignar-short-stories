@@ -11,6 +11,8 @@
 
 Totals: **6 / 6 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
 
+2026 dual-gate: **Gate A 6/6 PASS / Gate B 6/6 PASS — 2 repairs / 0 unresolved**. Scan 227 ellipsis corrected to six full stops; scan 229 `யோசனை தான்` source spacing restored; prior scan-228 `ஆக்குவேனென்றான்` revalidated.
+
 Physical next-story boundary witness: scan **231 / printed page 222** visibly opens Story 34 **`அமிர்தமதி`** and is not included in this workspace.
 
 ## Visual fidelity

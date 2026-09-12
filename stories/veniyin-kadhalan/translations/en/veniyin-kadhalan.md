@@ -36,7 +36,7 @@ Run away? Why? What for had the sergeant said that? Then who was this woman? Sur
 
 “Why do you flare up at him? Aren’t you his kept woman?” Surya asked.
 
-“Ayyo! Don’t say that, Amma! Do not say it even once more! Listen, Mother, to my wretched tale. Holy woman who watches over bodies ruined by wounds, listen to the history of my life, torn to rags by the savage games of a madman. There is a soldier in the army.......he is my beloved husband. The sinner Gundappan torments him beyond endurance and tries to drag me to his bed. He is only a soldier, Mother, but he is a man of compassion! He is the life mingled with my breath. Before my own eyes that brute attacked him. My head spun. Crying ‘Kanda! Kanda!’ I fell to the ground. That is all I know. When I woke, I was in the hospital.”
+“Ayyo! Don’t say that, Amma! Do not say it even once more! Listen, Mother, to my wretched tale. Holy woman who watches over bodies ruined by wounds, listen to the history of my life, torn to rags by the savage games of a madman. There is a soldier in the army......he is my beloved husband. The sinner Gundappan torments him beyond endurance and tries to drag me to his bed. He is only a soldier, Mother, but he is a man of compassion! He is the life mingled with my breath. Before my own eyes that brute attacked him. My head spun. Crying ‘Kanda! Kanda!’ I fell to the ground. That is all I know. When I woke, I was in the hospital.”
 
 “Kandan!”
 

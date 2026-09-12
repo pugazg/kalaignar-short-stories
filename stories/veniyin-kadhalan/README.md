@@ -13,6 +13,24 @@ Canonical story workspace for **வேணியின் காதலன்**, p
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## 2026 dual-gate status
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **2**
+  - scan 227: `சிப்பாய்.......` → `சிப்பாய்......` (six full stops)
+  - scan 229: `யோசனைதான்!` → `யோசனை தான்!`
+- prior scan-228 source correction `கூண்டுக் கிளி ஆக்குவேனென்றான்`: **revalidated**
+- unresolved source readings: **0**
+- unresolved historical-glyph readings: **0**
+- possible-error queue: **0 pending / 0 unresolved**
+- English prose rewrite required: **0**
+- English punctuation-only synchronization: **1**
+
+Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
+
 ## Tamil archival status
 
 **PASS — 6 / 6 story pages transcribed and directly source-reviewed.**
@@ -31,7 +49,7 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 Direct/full-span review retained edition-specific or unusual forms including `பென்வார்டில்`, `பிரார்த்தனையினூடே`, `படுக்கையண்டை`, `பிரக்ஞையற்றிருந்து`, `புண்ணகிப்போன`, `பஞ்சணைக்கு`, `துவளத் துவள`, `கூண்டுக் கிளி ஆக்குவேனென்றான்`, `தரித்திர நாராயணனும் கந்தனுக்கு`, `சொத்து சுகத்தை யெல்லாம்`, `ஹைகோர்ட்டின் படிக்கட்டுகளைக் கட்டுப்பதிலேயே`, `கந்தனே வேறொரு பெண்ணும் வேணி உரிமை கொண்டாடுவதா?`, `பிளாரென்ஸ் நைட்டிங்கேல்களின்`, source spacing `நான் தான்`, `கந்தனு?`, and `வாழ்க்கைத் துண்டித்த`. These are preserved from the controlling scan, not silently normalized.
 
-A final scan-228 recheck corrected the provisional `கூண்டுக் கிளி ஆகுவேனென்றான்` to the source reading **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** and propagated that reading through the canonical layers.
+A final scan-228 recheck corrected the provisional `கூண்டுக் கிளி ஆகுவேனென்றான்` to the source reading **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** and propagated that reading through the canonical layers. The 2026 Gate-B pass independently revalidated this correction.
 
 ## English translation
 
@@ -54,4 +72,4 @@ A final scan-228 recheck corrected the provisional `கூண்டுக் க
 
 ## Completion state
 
-**வேணியின் காதலன் Tamil archival source processing, visual fidelity and English translation are COMPLETE for scans 225–230 / printed pages 216–221.**
+**வேணியின் காதலன் is 2026 CURRENT PASS / CLOSED: Gate A 6/6 + Gate B 6/6, 2 source-proven punctuation/spacing repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 225–230 / printed pages 216–221.

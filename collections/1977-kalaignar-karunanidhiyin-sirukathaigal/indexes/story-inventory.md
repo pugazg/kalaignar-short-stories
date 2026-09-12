@@ -38,8 +38,8 @@
 | 30 | `கடைசிக் கட்டம்` | `கடைசிக் கட்டம்` | 196–201 | 205–210 | **2026 CURRENT PASS — Gate A 6/6 + Gate B 6/6; 0 new repairs; 0 unresolved** — `stories/kadaisi-kattam/` |
 | 31 | `அய்யோ ராஜா!` | `அய்யோ ராஜா!` | 202–208 | 211–217 | **2026 CURRENT PASS — Gate A 7/7 + Gate B 7/7; 0 new repairs; 0 unresolved; prior `றா` correction revalidated** — `stories/ayyo-raja/` |
 | 32 | `விஷம் இனிது` | `விஷம் இனிது` | 209–215 | 218–224 | **2026 CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 spacing repair; 0 unresolved** — `stories/visham-inidhu/` |
-| 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | **legacy Tamil complete — 6/6 verified; 2026 re-audit NEXT** — `stories/veniyin-kadhalan/` |
-| 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | **legacy Tamil complete — 8/8 verified; 2026 re-audit pending** — `stories/amirthamathi/` |
+| 33 | `வேணியின் காதலன்` | `வேணியின் காதலன்` | 216–221 | 225–230 | **2026 CURRENT PASS — Gate A 6/6 + Gate B 6/6; 2 repairs; 0 unresolved** — `stories/veniyin-kadhalan/` |
+| 34 | `அமிர்தமதி` | `அமிர்தமதி` | 222–229 | 231–238 | **legacy Tamil complete — 8/8 verified; 2026 re-audit NEXT** — `stories/amirthamathi/` |
 | 35 | `சுமந்தவள்` | `சுமந்தவள்` | 230–240 | 239–249 | **legacy Tamil complete — 11/11 verified; 2026 re-audit pending** — `stories/sumanthaval/` |
 | 36 | `சித்தார்த்தன்` | `சித்தார்த்தன் சிலை` | 241–243 | 250–252 | **legacy Tamil complete — 3/3 verified; 2026 re-audit pending; source-title variance preserved** — `stories/siddharthan-silai/` |
 | 37 | `நுனிக்கரும்பு` | `நுனிக்கரும்பு` | 244–250 | 253–259 | **legacy Tamil complete — 7/7 verified; 2026 re-audit pending** — `stories/nunikkarumbu/` |
@@ -48,8 +48,8 @@
 
 - anthology stories registered: **37 / 37**
 - legacy Tamil source processing complete: **37 / 37**
-- 2026 dual-gate CURRENT PASS: **32 / 37**
-- 2026 dual-gate next: **Story 33 `வேணியின் காதலன்`**
+- 2026 dual-gate CURRENT PASS: **33 / 37**
+- 2026 dual-gate next: **Story 34 `அமிர்தமதி`**
 - not yet transcribed: **0 / 37**
 
 The legacy page/assembly corpus remains the comparison baseline. Current release confidence is governed by `../RE_AUDIT_2026.md` and requires both Gate A and Gate B.
@@ -70,6 +70,6 @@ Both source forms must be preserved.
 
 ## Tamil source processing status
 
-**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 32 / 37 current PASS.**
+**Legacy source coverage: COMPLETE — 37 / 37. 2026 dual-gate re-audit: OPEN — 33 / 37 current PASS.**
 
-Next exact story: `வேணியின் காதலன்`, scans **225–230 / printed 216–221**.
+Next exact story: `அமிர்தமதி`, scans **231–238 / printed 222–229**.

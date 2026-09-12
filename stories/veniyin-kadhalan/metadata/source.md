@@ -33,3 +33,8 @@ During full-span review, scan **228** was specifically corrected from the provis
 ## Boundary
 
 Scan **230** contains Story 33's final paragraph and ornamental closing mark. Scan **231** was independently inspected and visibly opens Story 34 **`அமிர்தமதி`**. No scan-231 Story 34 text is included in the Story 33 workspace.
+
+
+## 2026 dual-gate note
+
+All six story scans were independently reopened at native **3146×4826** resolution. Gate A found two source-fidelity mismatches: scan 227 seven-dot ellipsis → source six dots, and scan 229 `யோசனைதான்` → `யோசனை தான்`. The prior scan-228 `கூண்டுக் கிளி ஆக்குவேனென்றான்` correction was re-proved. Gate B explicitly checked all mandatory historical-glyph families and required **0** additional repair. Unresolved source/glyph readings: **0 / 0**. Scan 231 was independently reconfirmed as Story 34 `அமிர்தமதி`.

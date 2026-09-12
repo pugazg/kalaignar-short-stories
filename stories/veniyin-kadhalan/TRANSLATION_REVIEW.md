@@ -22,7 +22,7 @@ The story entered translation after the repository recorded:
 - visual fidelity: **PASS**;
 - possible-error queue read before translation.
 
-The canonical Tamil was not modified during the English activity.
+The canonical Tamil was not modified during the original English activity. The later 2026 source re-audit made two punctuation/spacing-only Tamil repairs.
 
 ## Completeness review
 
@@ -71,3 +71,16 @@ Translation exposed no issue strong enough to justify reopening or changing the 
 **PASS — English translation complete for Story 33.**
 
 The English file is complete and traceable to the verified Tamil assembly. Canonical Tamil remains authoritative.
+
+## 2026 source re-audit synchronization
+
+- canonical Tamil: **CURRENT PASS / CLOSED**
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven Tamil repairs: **2**
+  - scan 227 ellipsis: seven full stops → **six**
+  - scan 229: `யோசனைதான்!` → `யோசனை தான்!`
+- prior scan-228 `கூண்டுக் கிளி ஆக்குவேனென்றான்`: **revalidated**
+- English prose rewrite required: **0**
+- English punctuation-only synchronization: **1** — the scan-227 ellipsis now also has six full stops
+- unresolved source / historical-glyph readings: **0 / 0**

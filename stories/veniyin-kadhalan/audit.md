@@ -22,9 +22,9 @@ During the final full-span pass, scan **228** was reopened and the provisional r
 |---:|---:|---|---|
 | 216 | 225 | verified | opening `வேணியின் காதலன்`; நர்ஸ் சூர்யா / குண்டப்பன் setup |
 | 217 | 226 | verified | வேணி attempts to escape; her accusation begins; final speech continues across page |
-| 218 | 227 | verified | வேணி reveals கந்தன் / குண்டப்பன் background; ends `நான் தொத்தி விளையாண்ட` |
+| 218 | 227 | verified | வேணி reveals கந்தன் / குண்டப்பன் background; source six-dot `சிப்பாய்......`; ends `நான் தொத்தி விளையாண்ட` |
 | 219 | 228 | verified | begins `தோள்கள்.....`; சூர்யாவின் past with கந்தன் and widowhood/nursing background |
-| 220 | 229 | verified | சூர்யாவின் jealousy, moral struggle and decision to help வேணி |
+| 220 | 229 | verified | சூர்யாவின் jealousy, moral struggle and decision to help வேணி; source spacing `யோசனை தான்` / `நான் தான்` |
 | 221 | 230 | verified | கந்தன்'s death revealed; final collapse / death scene; closing ornament |
 
 Totals: **6/6 verified; 0 needs-review status pages; 0 blocked; 0 unresolved story text.**
@@ -59,8 +59,26 @@ No story page is omitted or duplicated.
 
 ## Human-review layer
 
-Source-sensitive but legible forms remain in `POSSIBLE_ERRORS_FOR_REVIEW.md`; their presence is not proof of error and does not downgrade verified pages. No source-sensitive form was silently modernized to a contextually expected reading.
+The 2026 dual-gate pass independently reopened every source-sensitive story-page entry. Two Gate-A mismatches were repaired: scan 227 seven-dot ellipsis → source six dots, and scan 229 `யோசனைதான்` → source `யோசனை தான்`. The prior scan-228 `ஆக்குவேனென்றான்` correction was re-proved. **No queue item remains pending.**
 
 ## Audit result
 
-**PASS — வேணியின் காதலன் source range is fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved story text, with a persistent human possible-error queue.**
+**PASS — வேணியின் காதலன் source range is fully transcribed and structurally source-complete: 6/6 verified, 0 blocked, 0 unresolved story text. 2026 dual-gate: Gate A 6/6 PASS + Gate B 6/6 PASS, 2 repairs, 0 unresolved; prior scan-228 source correction revalidated.**
+
+
+## 2026 dual-gate re-audit
+
+**CURRENT PASS / CLOSED**
+
+- Gate A: **6/6 PASS**
+- Gate B: **6/6 PASS**
+- source-proven repairs: **2**
+- scan 227: `சிப்பாய்.......` → `சிப்பாய்......`
+- scan 229: `யோசனைதான்!` → `யோசனை தான்!`
+- prior scan-228 `கூண்டுக் கிளி ஆக்குவேனென்றான்`: **revalidated**
+- unresolved source / historical-glyph readings: **0 / 0**
+- English prose rewrite required: **0**
+- English punctuation-only synchronization: **1**
+- scan 231 independently reconfirmed as Story 34 `அமிர்தமதி`
+
+Full ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).

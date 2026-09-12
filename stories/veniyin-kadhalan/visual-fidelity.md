@@ -17,7 +17,7 @@ The story's durable Tamil audit records direct high-resolution review of all six
 
 - Scan 225 opens with the exact heading `வேணியின் காதலன்`; the canonical heading is already correct.
 - Paragraph and dialogue separation across scans 225–230 is consistent with the source-reviewed page records; no accidental merge, split, omitted display block or illustration/caption was identified.
-- The previously source-corrected scan-228 reading **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** remains intact; no new wording correction was required in this phase.
+- The previously source-corrected scan-228 reading **`கூண்டுக் கிளி ஆக்குவேனென்றான்`** remains intact and was independently revalidated. The 2026 source reread additionally corrected scan-227 ellipsis count and scan-229 lexical spacing.
 - Scan 230 is already correctly typed as `story-ending` and retains the decorative closing ornament `◆ ◆ ◆`.
 - Running headers, printed page numbers and other page furniture remain excluded from canonical story text.
 
@@ -29,10 +29,15 @@ Scan 231 opens `அமிர்தமதி` and is excluded from this workspace
 
 ## Corrections made in this phase
 
-None. The canonical page records, Tamil assembly, ending role and closing ornament were already source-faithful.
+Two source-fidelity text-surface repairs were synchronized: scan 227 seven-dot → six-dot ellipsis, and scan 229 `யோசனைதான்` → `யோசனை தான்`. No lexical wording was modernized.
 
-**Story wording changed: No.**
+**Story wording/punctuation/spacing changed: Yes — 2 source-proven repairs.**
 
 ## Result
 
 **PASS**
+
+
+## 2026 dual-gate note
+
+Gate A **6/6 PASS** and Gate B **6/6 PASS**. Two punctuation/spacing repairs were synchronized; all source-sensitive forms and mandatory historical-glyph families are **0 unresolved**.
