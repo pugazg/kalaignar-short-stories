@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was checked sentence-by-sentence against the final canonica
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Names and literary/cultural terms are stable: **Kannappan**, personified **Mother Tamil**, **mudangal**, **chamaram** and the sign-off **Vanangamudi** are used consistently within the story. `mudangal` remains source-close rather than being assigned an unsupported modern lexical replacement. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

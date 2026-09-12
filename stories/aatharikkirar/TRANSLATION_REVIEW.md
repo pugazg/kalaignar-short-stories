@@ -52,3 +52,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil, including the two 2026 Tamil repairs and the earlier E1 de-duplication/page-boundary fix. No E2 prose repair was required. Punyakodi's opportunism, the sanitation-workers episode, Brahmin feast, Vellaiyappa relationship, free municipal-office offer, secret ten-thousand-rupee compensation claim, defamation damages, public fundraising, later political reversal and final irony all preserve Tamil agency, quantities and satire. Source-close forms such as `ammammi`, `pusvaanam` and the source-odd praise phrase at 104→105 remain conservative for later terminology/style gates.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Personal, political and municipal terminology is consistent: **Punyakodi, Vellaiyappa Pillai, Raja Nilaiyaththar, municipal chairman, Yellow Party, Brahmins, ammammi** and **pusvaanam**. One anthology-level consistency repair was required: the source term `வேட்டி` had been rendered **dhoti** here, while the same verified Tamil garment term is established as **veshti** elsewhere in the anthology. The sentence now reads **“Hitching up his veshti, Punyakodi set out.”**
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

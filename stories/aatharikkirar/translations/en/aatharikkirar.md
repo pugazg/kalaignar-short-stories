@@ -60,7 +60,7 @@ A notable change took place in the municipality. Vellaiyappa’s dominance was c
 
 <!-- source scan 106; printed page 97 -->
 
-—let us try one move. Hitching up his dhoti, Punyakodi set out.
+—let us try one move. Hitching up his veshti, Punyakodi set out.
 
 He sent his old petition to the new municipal chairman and asked for the ten thousand. The new chairman replied, “All that is old business—ask Vellaiyappa himself.”
 

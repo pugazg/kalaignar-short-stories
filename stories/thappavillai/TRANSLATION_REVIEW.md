@@ -49,3 +49,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was rechecked sentence-by-sentence against the final canonical Tamil, including the sole 2026 repair and the earlier E1 page-anchor correction. No E2 prose repair was required. Muthu's prison reflections, dream/marriage sequence, parents' accusations against alternative suspects, Ponnu's illicit-liquor context, appeal funding, sentence escalation and the final “release from the world” irony preserve the Tamil meaning, agency and quantities. Source-close colloquial/cultural expressions remain for E3/E4 rather than being smoothed in E2.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Names, institutions and cultural address terms are internally consistent: **Muthu, Ponnu, Uththandi Konar, Sivaraman, Durai Pandi, pannaiyar, Thambi, Ayya, Ayyo, Sessions Court, High Court** and the month **Thai**. Direct-address transliterations are retained where culturally marked, while institutional terms are translated naturally. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

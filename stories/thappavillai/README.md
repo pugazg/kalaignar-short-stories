@@ -53,7 +53,9 @@ Story 12 **ஆதரிக்கிறார்** — scans **102–107 / printe
 - page coverage: **10/10**
 - E1 repairs: **1 page-anchor repair**
 - unresolved E1 issues: **0**
-- E2–E5: **PENDING**
+- E2 meaning fidelity: **PASS**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -63,4 +65,13 @@ Story 12 **ஆதரிக்கிறார்** — scans **102–107 / printe
 - English fidelity repairs: **0**
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
+
+
+## English re-audit E3 closure
+
+- terminology / names / cultural consistency: **PASS**
+- E3 English repairs: **0**
+- unresolved E3 issues: **0**
+- E4–E5: **PENDING**
