@@ -5,7 +5,7 @@
 - repository: `pugazg/kalaignar-short-stories`
 - branch: `main`
 - **LIVE MAIN IS AUTHORITATIVE**
-- refreshed live checkpoint: `f945afb58a20762b5a2c4b99d59130b008410c83` — `Close கண்டதும் காதல் ஒழிக! 2026 dual-gate`
+- refreshed live checkpoint: `7f0645ef6a7fc99ae285290ac2bd6f044f481188` — `Close ஆலமரத்துப் புறாக்கள் 2026 dual-gate`
 - permanent source-first guides remain in force
 
 ## Highest-priority active work — 1977 anthology full re-audit
@@ -33,7 +33,7 @@ Every story must independently pass:
 1. **Gate A — source-fidelity comparison** of every physical story page;
 2. **Gate B — Old Tamil Glyph verification**, independently reopening every physical page at high/native resolution and explicitly considering `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` plus other suspicious historical forms.
 
-Current tracker state: **OPEN — 20 / 37 dual-gate complete**.
+Current tracker state: **OPEN — 21 / 37 dual-gate complete**.
 
 ## Closed under the 2026 standard
 
@@ -57,18 +57,20 @@ Current tracker state: **OPEN — 20 / 37 dual-gate complete**.
 - `செத்தவள் கதை` — scans **131–139** — Gate A **9/9 PASS**, Gate B **9/9 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
 - `பிரேத விசாரணை` — scans **140–145** — Gate A **6/6 PASS**, Gate B **6/6 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `கண்டதும் காதல் ஒழிக!` — scans **146–150** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; English prose rewrite 0.
+- `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; 88 historical-`றா` pigeon-root repairs plus one scan-151 wording repair; English `purru` terminology synchronized to `puraa`.
 
-Do not reopen these twenty stories from stale prompts unless genuinely new direct source evidence appears.
+Do not reopen these twenty-one stories from stale prompts unless genuinely new direct source evidence appears.
 
-## Exact next activity — Story 21 `ஆலமரத்துப் புறாக்கள்`
+## Exact next activity — Story 22 `தொத்துக்கிளி`
 
-Workspace: `stories/aalamarathup-puraakkal/`.
+Workspace: `stories/thothukkili/`.
 
-- scans **151–155 / printed 142–146**
+- scans **156–160 / printed 147–151**
 - canonical pages **5/5**
-- scan **156** is the boundary witness opening Story 22 `தொத்துக்கிளி`
+- scan **161** is the boundary witness opening Story 23 `காதல் கடிதம்`
+- persistent human-recheck candidates include `அக்கத்தாகக் குத்திக் கொன்றுவிட்டாள்` (scan 157) and `அவன் முகத்திலே கருகு தாளிக்கப் பட்டது` (scan 159); treat them as candidates, not presumed errors
 
-Complete Gate A **5/5** and independent Gate B **5/5**; correct only source-proven mismatches; synchronize controls/affected English; advance **20/37 → 21/37** only with zero unresolved; stop before Story 22.
+Complete Gate A **5/5** and independent Gate B **5/5**; reopen every listed candidate directly against source pixels; correct only source-proven mismatches; synchronize controls/affected English; advance **21/37 → 22/37** only with zero unresolved; stop before Story 23.
 
 ## 1976 `நளாயினி` exact-edition witness work — READY / DEFERRED
 
