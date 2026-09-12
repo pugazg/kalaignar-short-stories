@@ -34,7 +34,7 @@ Kandasami tore up the proof sheet that the manager had found fault with, took th
 
 Pearl-like letters. A look of pity showed on Kandasami’s face.
 
-**“Thirelapathi Amman Temple Maha Kumbabhishekam”**—this was the heading of the advertisement. Under the programme was the line: **“Sri Jagath Yogananda Swamigal will deliver a discourse on Panchali Suyamvaram.”** Kandasami bit his lips. A little mocking laugh was pulled out of him, followed by an ugly deep sigh.
+**“Draupadi Amman Temple Maha Kumbabhishekam”**—this was the heading of the advertisement. Under the programme was the line: **“Sri Jagath Yogananda Swamigal will deliver a discourse on Panchali Suyamvaram.”** Kandasami bit his lips. A little mocking laugh was pulled out of him, followed by an ugly deep sigh.
 
 “I have been in this press for five years now. Rather than setting type for this obscene heap of puranic rubbish, it would be far better to hang myself! Ah, Tamil letters! Flowers are strung into garlands for the goat-kid sacrificed to Mahakali; they are also woven into wedding garlands. In the same way, you too weave honey-sweet poems and prose that shows the way to life into the form of books. And puranas overflowing with falsehood, trickery and bundles of lies also become your creations. Yes—the gathering of letters is just like a gathering of flowers that is handled and worn away in human hands!”
 
@@ -101,7 +101,7 @@ According to the priests’ decision that the ‘lagnam’ must not be missed, t
 
 Yogananda Swamigal took out the advertisement sheet and flung it at Chettiar.
 
-“Thirelapathi Amman Temple Maha Kumbabhishekam.” Chettiar read it.
+“Draupadi Amman Temple Maha Kumbabhishekam.” Chettiar read it.
 
 “What is wrong with this, Swami?”
 

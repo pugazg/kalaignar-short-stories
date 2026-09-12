@@ -12,7 +12,7 @@
 
 - E1: **PASS**
 - E2: **PASS**
-- E3: **PENDING**
+- E3: **PASS**
 - E4: **PENDING**
 - E5: **PENDING**
 
@@ -54,3 +54,15 @@ The complete English was checked sentence-by-sentence against the final canonica
 - E2 result: **PASS**
 
 Programme next activity remains the next anthology story in E2 order.
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS.**
+
+Personal names **Parvathi, Banu, Nallakkannu Pillai** and **Karunambal** are stable throughout the story. **Parvathi** is a human character name here and is deliberately not mechanically rewritten to the deity convention **Parvati**. Culturally marked **Aththaan, Appa, Ayyo** and the source-close `kaappa bag` remain as established. No E3 repair was required.
+
+- E3 English repairs: **0**
+- Tamil/source reopened: **No**
+- unresolved E3 issues: **0**
+- E3 result: **PASS**

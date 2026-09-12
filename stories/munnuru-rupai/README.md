@@ -40,7 +40,9 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - page coverage: **3/3**
 - E1 repairs: **1 page-anchor repair**
 - unresolved E1 issues: **0**
-- E2–E5: **PENDING**
+- E2 meaning fidelity: **PASS**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
 - durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md)
 
 
@@ -50,4 +52,13 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - English fidelity repairs: **1**
 - Tamil/source reopened: **No**
 - unresolved E2 issues: **0**
-- E3–E5: **PENDING**
+- E3 terminology / cultural consistency: **PASS**
+- E4–E5: **PENDING**
+
+
+## English re-audit E3 closure
+
+- terminology / names / cultural consistency: **PASS**
+- E3 English repairs: **0**
+- unresolved E3 issues: **0**
+- E4–E5: **PENDING**

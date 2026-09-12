@@ -36,3 +36,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 `கிரீடத்தின்` repair. No E2 prose repair was required. The manager's “exactly as in the original” instruction, Kandasami's ideological anger, Chettiar/Swami notice alterations, crowd ridicule, confrontation and final justification preserve the intended wordplay and narrative causality. Deliberately anomalous source forms and transliterations remain for E3/E4 rather than being normalized during meaning review.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+One mythological-name consistency repair was made. Source `திரெளபதி` is the same clearly identified figure rendered **Draupadi** elsewhere in the anthology; the English had retained **Thirelapathi** in the temple name. Those occurrences are now **Draupadi Amman Temple**, while source alternate `பாஞ்சாலி` remains **Panchali** because the Tamil itself changes the name form. Honorific **Swamigal** is retained where the source uses `சுவாமிகள்`, rather than flattened to ordinary `Swami`.
+
+English repairs: **1**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.

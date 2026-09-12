@@ -36,3 +36,12 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 The complete English was checked sentence-by-sentence against the final canonical Tamil, including the 2026 `விநாடிகூட` repair and the E1 de-duplication across 115→116. No E2 prose repair was required. The contrast between the employer couple's leisure and Parvathi's deprivation, her desire to meet her husband, the nose-stud/kiss fantasy, storm imagery, class satire, Banu rescue and Parvathi's abandonment/death remain semantically intact. Opaque cultural/source-close `kaappa bag` is left for E3 terminology work rather than guessed here.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
+
+
+## English re-audit 2026 — E3
+
+**PASS — terminology / names / cultural consistency.**
+
+Personal names **Parvathi, Banu, Nallakkannu Pillai** and **Karunambal** are stable throughout the story. **Parvathi** is a human character name here and is deliberately not mechanically rewritten to the deity convention **Parvati**. Culturally marked **Aththaan, Appa, Ayyo** and the source-close `kaappa bag` remain as established. No E3 repair was required.
+
+English repairs: **0**. Tamil/source reopened: **No**. Unresolved E3 issues: **0**.
