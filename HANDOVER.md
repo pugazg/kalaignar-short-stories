@@ -63,16 +63,17 @@ Current active witness:
 Progress:
 
 - witness extent: **16 scans**
-- reviewed: **4/16 — scans 7–10 / printed 5–8**
+- reviewed: **8/16 — scans 7–14 / printed 5–12**
 - narrative structure in reviewed span: **equivalent**
-- material wording variant: 1956 `அரசின் மஞ்சத்து ராணியாக` ↔ 1977 `அரசரின் மஞ்சத்து ராணியாக`
+- material variants through scan 14: **4 high-value wording/morphology variants**
+- 1956 scan 13 independently confirms current canonical `ஆயிரந்தேர்`
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
 - unresolved witness reading: **0**
 
 ## Exact next activity — current
 
-Continue the 1956 `தாய்மை` witness comparison with **scans 11–14 / printed pages 9–12**.
+Continue the 1956 `தாய்மை` witness comparison with **scans 15–18 / printed pages 13–16**.
 
 1. Fetch live `main`.
 2. Read the collection intake and witness comparison files.
