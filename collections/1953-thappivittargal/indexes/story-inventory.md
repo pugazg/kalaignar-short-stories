@@ -18,11 +18,11 @@ No printed contents page is visible. Story identity is controlled by source-visi
 
 For `விலையால் வாங்கலையோ`, the fresh repository-wide section check did not find the distinctive opening character/dialogue evidence elsewhere. Treat it as a **new-canonical candidate**, but repeat the duplicate check immediately before creating a story workspace.
 
-## Current queue
+## Current frontier
 
-This collection is **INTAKE COMPLETE / QUEUED** behind the active 1950 `வாழமுடியாதவர்கள்` witness collection.
+This collection is **NEXT / READY**. The 1950 `வாழமுடியாதவர்கள்` witness collection is closed **6/6**.
 
-When activated, begin with:
+Active next story when work resumes:
 
 - Story 1 `தப்பிவிட்டார்கள்`
 - scans **7–15**
