@@ -9,7 +9,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - source intake: **PASS**
 - page records initialized: **14/14**
 - Stage 1 first-pass transcription: **14/14**
-- Stage 2 visual text fidelity: **10/14**
+- Stage 2 visual text fidelity: **14/14**
 - Stage 3 historical-glyph audit: **10/14**
 - Stage 4 final independent check: **10/14**
 - verified pages: **10/14**
@@ -23,7 +23,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 |---|---|---|---|---|---|---|
 | P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
 | P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
-| P3 | 21–24 / 20–23 | **COMPLETE — 4/4** | **NEXT** | not started | not started | `needs-review` |
+| P3 | 21–24 / 20–23 | **COMPLETE — 4/4** | **COMPLETE / PASS — 4/4** | **NEXT** | not started | `needs-review` |
 
 ## P1 durable result
 
@@ -126,3 +126,23 @@ The nine P3 checks are tracked in `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 **P3 Stage 2 — visual text-fidelity audit, scans 21–24 / printed pages 20–23.**
 
 Compare the committed four-page transcription against the same source scans line-by-line / phrase-by-phrase, resolve or refine the nine queued readings where source evidence permits, correct omissions/duplications/punctuation/paragraph/page-boundary issues, synchronize controls, commit, and stop before Stage 3.
+
+
+## P3 Stage 2 result
+
+- pages visually source-checked: **4/4**
+- source-proven ordinary fidelity corrections: **14**
+- Stage-1 queued locations dispositioned: **9/9**
+- ordinary Stage-2 unresolved issues: **0**
+- scan 20→21 continuation: **PASS**
+- scan 24 final sentence + closing ornament boundary: **PASS**
+- pages remain `needs-review`
+- Stage 3/4 were not mixed into this activity
+
+Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
+
+## Exact next activity — current
+
+**P3 Stage 3 — historical Tamil glyph audit, scans 21–24 / printed pages 20–23.**
+
+Audit all mandatory historical-glyph families against the same final four scans, with explicit attention to `காட்டினை` and `காப்பாற்றினையா`, correct only source-proven character-identity errors, synchronize controls, commit, and stop before Stage 4.
