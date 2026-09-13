@@ -58,3 +58,20 @@ The final four pages now have first-pass transcriptions. These source-sensitive 
 | 24 | 23 | `அணைந்து விட்டன ....` | final ellipsis/spacing needs exact source recheck | P3 Stage 2 |
 
 P3 Stage-1 queued checks: **9**. Confirmed P3 Stage-1 errors: **0**.
+
+## P3 Stage 2 disposition — scans 21–24
+
+The ordinary visual-fidelity audit is **COMPLETE / PASS 4/4**.
+
+- source-proven Stage-2 corrections: **14**
+- Stage-1 queued locations dispositioned: **9/9**
+- ordinary Stage-2 unresolved issues: **0**
+- scan 24 final sentence + closing ornament boundary: **PASS**
+- P3 pages remain `needs-review` pending Stage 3
+
+Historical-glyph-sensitive carry-forward for Stage 3:
+
+- scan 21: `காட்டினை` — verify whether the apparent form encodes a reform-sensitive `னா / னை` identity;
+- scan 23: `காப்பாற்றினையா` — verify the reform-sensitive `னா / னை` cluster from source glyph identity.
+
+No ordinary lexical normalization is authorized from those two candidates.

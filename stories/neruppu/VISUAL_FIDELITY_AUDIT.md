@@ -95,3 +95,64 @@ P2 gate state:
 - page status: **`needs-review` 5/5**
 
 Stage 3 historical-glyph audit completed **PASS 5/5 with 0 character-identity corrections and 0 unresolved glyph clusters**. Stage 4 has since completed **PASS / VERIFIED 5/5** with 2 final source-proven corrections and 0 unresolved issues. Next: **P3 Stage 1 first-pass transcription — scans 21–24 / printed pages 20–23**.
+
+
+## P3 Stage 2 — scans 21–24 / printed pages 20–23
+
+Status: **COMPLETE / PASS — 4/4 pages visually source-checked**.
+
+The final four Stage-1 pages were compared end-to-end against the attached controlling source. This is the ordinary visual-fidelity gate only; systematic historical-glyph decoding remains P3 Stage 3.
+
+### P3 source-proven corrections
+
+| Scan | Stage-1 reading | Stage-2 source reading | Type |
+|---:|---|---|---|
+| 21 | `எழுத இருக்கிறது` | `எழுதி இருக்கிறது` | lexical fidelity |
+| 21 | `அத்தான்!` | `அதுதான்!` | lexical fidelity |
+| 21 | `காச நோய் வந்தது` | `காசு குவிந்தது` | lexical fidelity |
+| 21 | `எந்த வாலிபம்` | `எந்த வாரிசம்` | lexical fidelity |
+| 21 | `துரோகம் புரிந்த` | `துரோகப் புரிந்த` | source sandhi/form |
+| 22 | `புரியவில்லை` | `புரிய வில்லை` | source spacing |
+| 22 | `சௌக்கியமாக` | `செளக்கியமாக` | source spelling |
+| 22 | `எதுவும் புரியாமல்` | `ஏதுவும் புரியாமல்` | lexical fidelity |
+| 22 | `சாற்ற சக்கையாகி` | `சாற்றற்ற சக்கையாகி` | lexical fidelity |
+| 23 | `இருப்பில் செருகியிருந்த` | `இடுப்பில் செருகியிருந்த` | lexical fidelity |
+| 23 | `பயன்பட்டது` | `பயன் பட்டது` | source spacing |
+| 24 | `அத்தை; பிரபா` | `அத்தே; பிரபா` | lexical fidelity |
+| 24 | `அலறினாள்..,` | `அலறினாள்...,` | punctuation |
+| 24 | `அருள் மட்டும் அழிந்து கொண்டிருந்தான்` | `அருள் மட்டும் அலைந்து கொண்டிருந்தான்` | final-sentence lexical fidelity |
+
+Total P3 Stage-2 corrections: **14**.
+
+### P3 Stage-1 queued readings
+
+All nine Stage-1 queue entries received a Stage-2 disposition:
+
+- scan 21 `காட்டினை` — ordinary source form **confirmed**; historical-glyph identity explicitly carried to Stage 3;
+- scan 21 `வெள்ளாட்டியானேன்` — **confirmed exactly**;
+- scan 21 `மலேயாவில் தாங்கள் விலாசத்தையும்` — **confirmed exactly**;
+- scan 22 `ஓகோ...அப்படியா?!..ம்...` — **confirmed**;
+- scan 22 `சாற்ற சக்கையாகி` — **corrected to `சாற்றற்ற சக்கையாகி`**;
+- scan 23 `காப்பாற்றினையா` — ordinary source form **confirmed**; historical-glyph identity explicitly carried to Stage 3;
+- scan 23 `நண்பன்-இனி` — **confirmed**;
+- scan 24 `ஓவென அலறினாள்..,` — **corrected to `ஓவென அலறினாள்...,`**;
+- scan 24 `அணைந்து விட்டன ....` — **confirmed exactly**.
+
+P3 ordinary Stage-2 unresolved text-fidelity issues: **0**.
+
+Boundary checks:
+
+- scan 20→21 open-letter continuation: **PASS**;
+- scan 24 final sentence: **PASS after correction**;
+- scan 24 closing ornament / story boundary: **PASS**;
+- scan 25 independently opens `வேணியின் காதலன்`: forward boundary unchanged.
+
+P3 gate state:
+
+- Stage 1: **COMPLETE 4/4**
+- Stage 2: **COMPLETE / PASS 4/4**
+- Stage 3 historical-glyph audit: **NEXT**
+- Stage 4 final independent check: not started
+- page status: **`needs-review` 4/4**
+
+Next: **P3 Stage 3 historical Tamil glyph audit — scans 21–24 / printed pages 20–23**.
