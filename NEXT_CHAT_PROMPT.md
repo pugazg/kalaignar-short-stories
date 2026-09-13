@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1956 `தாய்மை` anthology witness / `நடுத்தெரு நாராயணி` scans 49–58
+# NEXT CHAT PROMPT — 1956 `தாய்மை` anthology witness / scans 59–68
 
 Continue the 1956 anthology witness workflow. **LIVE MAIN IS AUTHORITATIVE in each repository.**
 
@@ -25,7 +25,7 @@ Do not use OCR, web copies or later editions as substitutes for reading the 1956
 
 ## User batching rule
 
-Process **10 physical source pages per iteration**.
+Process **10 physical source pages per iteration**. Crossing a work boundary is allowed when necessary to fill the 10-page batch, while preserving separate witness workspaces and canonical authority.
 
 ## Collection durable state
 
@@ -35,90 +35,92 @@ Primary collection workspace:
 
 Physical map:
 
-1. `தாய்மை` — scans **7–22 / printed 5–20**
-2. `ஆட்டக் காவடி` — scans **23–33 / printed 21–31**
+1. `தாய்மை` — scans **7–22 / printed 5–20** — witness **CLOSED / PASS 16/16**
+2. `ஆட்டக் காவடி` — scans **23–33 / printed 21–31** — witness **CLOSED / PASS 11/11**
 3. `நடுத்தெரு நாராயணி` — scans **34–59 / printed 32–57**
 4. `அரும்பு` — scans **60–81 / printed 58–79**, scans **82–87 / printed 82–87**
 
-Printed pages **80–81 are absent** from the supplied PDF.
+Printed pages **80–81 are absent** from the supplied PDF. Do not reconstruct them.
 
-Closed:
-
-- `தாய்மை` witness — **16/16 CLOSED / PASS**
-- `ஆட்டக் காவடி` witness — **11/11 CLOSED / PASS**
-
-Open Aattakkavadi recheck candidate remains:
-
-- 1956 `நாளெல்லாம் பாடுபட்டாலும்`
-- current 1977 canonical `நாவெல்லாம் பாடுபட்டாலும்`
-- no canonical change without direct 1977 controlling-source recheck.
-
-## Active witness — `நடுத்தெரு நாராயணி`
+## Active witness 1 — `நடுத்தெரு நாராயணி`
 
 Repository:
 
 `pugazg/kalaignar-novels`, branch `main`
 
-Canonical workspace:
-
-`works/nadutheru-narayani/`
-
-Witness workspace:
+Workspace:
 
 `works/nadutheru-narayani/witnesses/1956-thaaymai/`
 
-Current canonical source:
+Current state:
 
-- 1978 `அரும்பு`
-- canonical scans **75–90**
-- Tamil **PASS / COMPLETE**
-- English **VERIFIED / RELEASE-READY**
-
-Current 1956 witness state:
-
-- witness extent: **scans 34–59 / printed 32–57**
-- reviewed: **15/26 — scans 34–48 / printed 32–46**
-- narrative structure in reviewed span: **equivalent**
+- witness extent: **26 scans — 34–59 / printed 32–57**
+- reviewed: **25/26 — scans 34–58 / printed 32–56**
+- narrative structure: **equivalent overall**
+- localized 1956-only dialogue line: `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?`
 - canonical Tamil / English changes: **0 / 0**
 - unresolved witness readings: **0**
-- canonical-recheck candidates: **2**
-  1. 1956 `ஆண்களின் கர்வமடக்கும் விதத்திலே` ↔ current 1978 `ஆண்களின் கருவமடக்கும் விதத்திலே`
-  2. 1956 `பிராமணோத்தமரே!` ↔ current 1978 `பிராமணத் தமரே!`
-- no repair without direct 1978 controlling-source recheck.
+- canonical-recheck candidates: **4**
+  1. `கர்வமடக்கும்` ↔ `கருவமடக்கும்`
+  2. `பிராமணோத்தமரே` ↔ `பிராமணத் தமரே`
+  3. `தனது கைகளால்` ↔ `தனது கண்களால்`
+  4. `உறுப்பினர்களை` ↔ `உறுப்பினர்களே`
 
-Read before work:
+Do not change the 1978 canonical without directly reopening its controlling source.
 
-- `works/nadutheru-narayani/README.md`
-- `works/nadutheru-narayani/sections/01-nadutheru-narayani.md`
-- `works/nadutheru-narayani/witnesses/1956-thaaymai/README.md`
-- `works/nadutheru-narayani/witnesses/1956-thaaymai/VARIANT_COMPARISON.md`
-- short-stories collection intake / scan map / story inventory
-- short-stories root `HANDOVER.md`
+## Active witness 2 — `அரும்பு`
 
-## Exact next activity
+Canonical repository:
 
-Process exactly **10 source pages**:
+`pugazg/kalaignar-novels`, branch `main`
 
-- 1956 scans **49–58**
-- printed pages **47–56**
+Canonical workspace:
 
-Method:
+`works/arumbu/`
 
-1. Fetch live `pugazg/kalaignar-novels/main`.
-2. Read the direct 1956 pixels for scans 49–58.
-3. Align to the verified 1978 canonical by text anchors rather than page-count assumptions.
-4. Record genuine lexical, morphology, punctuation, orthography and layout variants.
-5. Ignore routine line-wrap changes.
-6. Do not modify the canonical 1978 Tamil or English solely because the 1956 witness differs.
-7. If another possible canonical defect appears, record it as a recheck candidate only.
-8. Update the witness README / variant comparison in `kalaignar-novels`.
-9. Update collection progress / root handover / next prompt in `kalaignar-short-stories`.
-10. Stop after scan **58**.
+1978 canonical state:
+
+- source: 1978 `அரும்பு`
+- canonical Tamil: **18/18 VERIFIED**
+- English: **VERIFIED**
+- archival state: **RELEASE-READY / CLOSED**
+- current 1978 source range: scans **6–23**
+- source oddities remain protected; do not normalize from the 1956 witness.
+
+No 1956 witness workspace exists yet. Create it only after closing Narayani scan 59.
+
+## Exact next 10-page activity
+
+### Page 1 of this iteration
+
+Finish `நடுத்தெரு நாராயணி`:
+
+- 1956 scan **59 / printed 57**
+- compare against the 1978 canonical ending
+- verify the complete ending
+- verify scan **60** independently opens `அரும்பு`
+- close the Narayani witness if complete
+- preserve all four open canonical-recheck candidates unless the exact 1978 scans are directly rechecked
+
+### Pages 2–10 of this iteration
+
+Begin the 1956 `அரும்பு` witness:
+
+- scans **60–68**
+- printed pages **58–66**
+- total: **9 source pages**
+- create `works/arumbu/witnesses/1956-thaaymai/`
+- align by text anchors to the verified 1978 `works/arumbu/` canonical
+- record lexical / morphology / punctuation / layout variants
+- do not overwrite canonical Tamil or English from witness evidence alone
+- if a possible canonical defect appears, record a recheck candidate only
+
+Stop after scan **68**.
 
 ## Authority rule
 
 1956 scan pixels = authority for the 1956 witness.
 
-1978 `அரும்பு` scan source = authority for the canonical `நடுத்தெரு நாராயணி`.
+1978 source scans = authority for each canonical novel workspace.
 
 A witness never silently replaces canonical text.
