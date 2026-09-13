@@ -27,4 +27,4 @@ The page remains `needs-review` after Stage 3 because final Stage 4 still remain
 | 16–20 | not started | 0 | 0 |
 | 21–24 | not started | 0 | 0 |
 
-Current exact next activity is **P1 Stage 1 scans 11–15**. This glyph gate must not delay first-pass transcription.
+P1 Stage 1 scans **11–15** is now complete. Current exact next activity is **P1 Stage 2 visual text-fidelity audit**. Stage 3 remains intentionally unopened until the Stage-2 commit is durable.

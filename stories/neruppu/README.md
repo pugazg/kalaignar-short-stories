@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / TAMIL TRANSCRIPTION NOT STARTED.**
+**SOURCE INTAKE PASS / P1 STAGE 1 COMPLETE.**
 
 - live `main` was re-fetched before activation;
 - no canonical `நெருப்பு` workspace or documented alternate-title match was found;
@@ -51,26 +51,31 @@ A high-resolution verification problem in Stage 2/3/4 must not block a responsib
 ## Current state
 
 - page records: **14 / 14 initialized**
-- Stage 1 first-pass: **0 / 14**
+- Stage 1 first-pass: **5 / 14**
 - Stage 2 visual fidelity: **0 / 14**
 - Stage 3 historical glyph: **0 / 14**
 - Stage 4 final check: **0 / 14**
 - verified: **0 / 14**
-- needs-review: **0 / 14**
-- not-started: **14 / 14**
+- needs-review: **5 / 14**
+- not-started: **9 / 14**
 - blocked / unresolved: **0 / 0**
 - Tamil assembly: **NOT STARTED**
 - English: **BLOCKED until Tamil/source closure**
 
+## P1 Stage 1 durable result
+
+Scans **11–15 / printed 10–14** now have first-pass transcriptions committed as `needs-review`.
+
+- Stage-1 pages: **5/5 complete**
+- Stage-2 review queue: **7 source-sensitive locations**
+- confirmed errors: **0**
+- blocked: **0**
+- no Stage-2 detailed fidelity audit performed yet
+- no Stage-3 glyph audit performed yet
+- no Stage-4 final verification performed yet
+
 ## Exact next activity
 
-**P1 Stage 1 — scans 11–15 / printed pages 10–14.**
+**P1 Stage 2 — visual text-fidelity audit, scans 11–15 / printed pages 10–14.**
 
-Perform the first-pass transcription of those five whole pages from the attached source. Do **not** wait for Stage-2 visual adjudication, Stage-3 historical-glyph audit or Stage-4 final verification.
-
-- record uncertain readings explicitly rather than guessing;
-- set the five pages to `needs-review`;
-- synchronize controls;
-- commit and stop.
-
-Next after that durable commit: **P1 Stage 2 — visual text-fidelity audit, scans 11–15**.
+Reopen the same five source pages and compare the committed text line-by-line / phrase-by-phrase. Resolve queued readings where source evidence permits, correct source-proven transcription/punctuation/paragraph errors, keep pages `needs-review`, synchronize, commit, and stop before Stage 3.

@@ -27,7 +27,7 @@ The visible source contains four story blocks:
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical activated** | **SOURCE INTAKE PASS; P1 Stage A NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 Stage 1 COMPLETE 5/5; Stage 2 NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -63,14 +63,17 @@ Those three must be handled as **comparison-only witnesses**. Do not create dupl
 
 No repository canonical match was found for **`நெருப்பு`**. Its canonical workspace is now activated at `stories/neruppu/`; source intake is PASS and all 14 page records are initialized without prose transcription.
 
+## Active progress — `நெருப்பு`
+
+P1 Stage 1 is durable:
+
+- scans **11–15 / printed 10–14** — **first-pass transcription COMPLETE 5/5**
+- page state: **needs-review**
+- explicit Stage-2 source-check queue: **7 locations**
+- Stage 2/3/4: not yet performed
+
 ## Exact next activity
 
-Process **`நெருப்பு` P1 Stage A**, scans **11–15 / printed pages 10–14**.
-
-- direct whole-page transcription from the attached 1969 scan;
-- no OCR authority / no alternate edition;
-- preserve source spelling, punctuation, spacing and paragraph/dialogue structure;
-- leave pages `needs-review` after Stage A;
-- commit and stop before the independent Stage-B historical-glyph pass.
+Process **`நெருப்பு` P1 Stage 2 — visual text-fidelity audit**, scans **11–15 / printed pages 10–14**.
 
 Do not begin `வேணியின் காதலன்` witness comparison until `நெருப்பு` Tamil/source work closes.
