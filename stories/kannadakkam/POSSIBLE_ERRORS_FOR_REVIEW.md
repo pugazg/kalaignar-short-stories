@@ -15,6 +15,7 @@
 - [x] `பூசி யிருந்த`, `குங்குமப் பொட்டுங்கூட`, `ரத்தமும் சீமும்`, `புரையோடி விட்ட` retained as printed.
 - [x] `திவட்டிகளோடு` retained with the source vowel form.
 - [x] `புதியபிணம்` retained as a joined source form at its second occurrence.
+- [x] direct enlarged source recheck: legacy `ஆற்றில் தெரியும் வான மீனுக்கோ` → **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**; historical `ளை` identity confirmed.
 - [x] scan 166 ends with a complete sentence; scan 167 begins a new paragraph.
 
 ## Scan 167 / printed 158
@@ -71,4 +72,4 @@ A later correction must be checked against the controlling scan and propagated t
 
 ## 2026 dual-gate disposition
 
-**0 pending / 0 unresolved.** All legacy candidates and mandatory historical-glyph families were independently reopened. Nine source-proven repairs were synchronized: seven Gate-A wording/spacing repairs plus historical-`ணை` `ஏண்` → `ஏணை` and historical-`னா` `நானு` → `நானா`.
+**0 pending / 0 unresolved.** All legacy candidates and mandatory historical-glyph families were independently reopened. Ten source-proven repairs were synchronized: seven Gate-A wording/spacing repairs plus three Gate-B historical-glyph repairs — `வான` → `வாளை` (`ளை`), `ஏண்` → `ஏணை` (`ணை`), and `நானு` → `நானா` (`னா`).

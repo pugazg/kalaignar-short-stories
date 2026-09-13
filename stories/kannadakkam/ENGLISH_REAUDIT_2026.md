@@ -45,7 +45,7 @@ Structure-only annotation repair; no prose/marker regression fixture required.
 
 **PASS — complete sentence-by-sentence comparison against the final canonical Tamil.**
 
-The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all nine 2026 repairs, including the six earlier English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all ten 2026 repairs, including the seven English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
 
 - English fidelity repairs: **0**
 - Tamil/source reopened: **No**
@@ -92,3 +92,23 @@ The canonical Tamil and final English content are byte-stable from the anthology
 - Tamil/source reopened: **No**
 - unresolved English re-audit issues: **0**
 - E5 result: **PASS**
+
+
+## Post-E5 source synchronization — scan 166
+
+The exact 1977 controlling scan was reopened after the completed E5 pass. It directly confirms **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**, not `வான மீனுக்கோ`.
+
+Current synchronized English:
+
+**“From now on it belonged either to the fire or to the vaalai fish in the river.”**
+
+Targeted checks after the repair:
+
+- E1 page anchoring: **PASS / unchanged**
+- E2 meaning fidelity: **PASS**
+- E3 terminology: **PASS** — `vaalai` retained conservatively rather than assigning an unsupported species name
+- E4 English quality: **PASS**
+- E5 final bilingual approval: **PASS**
+- unresolved issues: **0**
+
+This supersedes the earlier byte-stability statement only for this one source-proven post-E5 correction.

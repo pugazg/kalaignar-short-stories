@@ -19,11 +19,11 @@ Full source metadata: [`metadata/source.md`](metadata/source.md).
 
 - Gate A: **7/7 PASS**
 - Gate B: **7/7 PASS**
-- source-proven repairs: **9**
+- source-proven repairs: **10**
 - unresolved source readings: **0**
 - unresolved historical-glyph readings: **0**
 - possible-error queue: **0 pending / 0 unresolved**
-- English phrase-level synchronizations: **6**
+- English phrase-level synchronizations: **7**
 
 Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
@@ -79,18 +79,18 @@ Opening/ending structure, source emphasis on `‘கண்ணடக்கம்�
 - explicit physical continuation **169→170** remains traceable
 - epidemic/cremation opening, Kali dialogue, `கண்ணடக்கம்` explanation, removal of the silver eye-covering, doctors/public-health response and eye-hospital awakening remain complete
 - 2026 source re-audit resolved former queue forms `துணி ஏண்` → `துணி ஏணை` and `நம்முலகு` → `நமனுலகு`; `பிணக்கொலு` was source-reconfirmed
-- English synchronized to the current Tamil in **6 phrase-level changes**
+- English synchronized to the current Tamil in **7 phrase-level changes**
 
 ## Additional edition witnesses
 
 - 1969 second edition `கண்ணடக்கம்`, scans **4–10 / printed 3–9** — **COMPARISON COMPLETE / PASS**: [witness README](witnesses/1969-kannadakkam/README.md), [variant ledger](witnesses/1969-kannadakkam/VARIANT_COMPARISON.md).
 - 2009 `16 கதையினிலே` witness — **COMPARISON COMPLETE**: [witness README](witnesses/2009-16-kathaiyinile/README.md).
 
-The 1969 witness preserves the same narrative and hospital-frame ending. It independently supports `துணி ஏணை` and `நமனுலகு`. Its `வாளை மீனுக்கோ` reading also agrees with the 2009 witness against canonical `வான மீனுக்கோ`; this is recorded only as a **1977 controlling-scan recheck candidate**. Canonical Tamil, English and verification status remain unchanged.
+The 1969 witness preserves the same narrative and hospital-frame ending. It independently supports `துணி ஏணை`, `நமனுலகு`, and `வாளை மீனுக்கோ`. A fresh direct recheck of the exact 1977 controlling scan 166 confirms that the canonical must also read **`வாளை மீனுக்கோ`**. The prior `வான மீனுக்கோ` transcription is corrected in Tamil and English; the 2009 witness independently agrees.
 
 ## Completion state
 
-**கண்ணடக்கம் is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 9 source-proven repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 166–172 / printed pages 157–163.
+**கண்ணடக்கம் is 2026 CURRENT PASS / CLOSED: Gate A 7/7 + Gate B 7/7, 10 source-proven repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 166–172 / printed pages 157–163.
 
 ## Next anthology English activity
 
@@ -141,3 +141,12 @@ Story 25 — **வாழ முடியாதவர்கள்**, printed page
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+
+## Direct scan-166 correction — resolved
+
+Fresh enlarged inspection of the exact 1977 source scan confirms:
+
+**`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**
+
+The old canonical `வான மீனுக்கோ` was a transcription/glyph-decoding error. The 1969 and 2009 witnesses agree with the corrected 1977 reading. This recheck candidate is now **RESOLVED / CLOSED**.

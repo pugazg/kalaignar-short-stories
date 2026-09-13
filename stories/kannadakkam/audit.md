@@ -16,7 +16,7 @@ All seven story scans were directly reviewed from the controlling PDF. High-reso
 
 | Printed page | Scan | Status | Boundary / key note |
 |---:|---:|---|---|
-| 157 | 166 | verified | heading `கண்ணடக்கம்`; source forms `பூசி யிருந்த`, `ரத்தமும் சீமும்`, `திவட்டிகளோடு`, `புதியபிணம்` |
+| 157 | 166 | verified | heading `கண்ணடக்கம்`; source forms `பூசி யிருந்த`, `ரத்தமும் சீமும்`, `திவட்டிகளோடு`, `புதியபிணம்`; corrected historical-`ளை` `வான மீனுக்கோ` → `வாளை மீனுக்கோ` |
 | 158 | 167 | verified | historical-`ணை` repaired `துணி ஏண்` → `துணி ஏணை`; `அலகுகள் போலச் சிலாகைகள் போல`; Kālī dialogue begins |
 | 159 | 168 | verified | corrected `சூறை நடக்கிறே`, `சூறையா`, `மாளுகின்ற`, `ஜில்லிட்ட`, historical-`னா` `நானா`; source `அபயங்`, `புண்யமில்லை`; ends with the devotee's appeal |
 | 160 | 169 | verified | source-sensitive `பிணக்கொலு`, `மமதையாளன்`, `பொல பொலவென`; ends `...என் பார்வை பட்ட` |
@@ -48,7 +48,7 @@ No page is omitted or duplicated.
 
 ## Human-review layer
 
-The 2026 dual-gate pass reopened every legacy queue item. Historical `துணி ஏண்` and `நானு` were corrected to `துணி ஏணை` and `நானா`; `குறை`/`குறையா`, `மானுடின்ற`, `ஜீவவிட்ட`, `விக்கிரகத்தின்`, `நம்முலகு`, and joined `அந்தவேதனையான` were also repaired directly from source pixels. `பிணக்கொலு` was source-reconfirmed. **No queue item remains pending.**
+The 2026 dual-gate pass reopened every legacy queue item. Historical `வான மீனுக்கோ`, `துணி ஏண்` and `நானு` were corrected to `வாளை மீனுக்கோ`, `துணி ஏணை` and `நானா`; `குறை`/`குறையா`, `மானுடின்ற`, `ஜீவவிட்ட`, `விக்கிரகத்தின்`, `நம்முலகு`, and joined `அந்தவேதனையான` were also repaired directly from source pixels. `பிணக்கொலு` was source-reconfirmed. **No queue item remains pending.**
 
 ## Assembly gate
 
@@ -71,11 +71,11 @@ The 2026 dual-gate pass reopened every legacy queue item. Historical `துண�
 
 - Gate A: **7/7 PASS**
 - Gate B: **7/7 PASS**
-- source-proven repairs: **9**
+- source-proven repairs: **10**
 - Gate A repairs: **7**
-- Gate B historical-glyph repairs: **2** — historical `ணை` and `னா`
+- Gate B historical-glyph repairs: **3** — historical `ளை`, `ணை` and `னா`
 - unresolved source / historical-glyph readings: **0 / 0**
-- English phrase-level synchronizations: **6**
+- English phrase-level synchronizations: **7**
 - scan 173 independently reconfirmed as Story 25 `வாழ முடியாதவர்கள்`
 
 Full repair ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
