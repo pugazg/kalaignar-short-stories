@@ -1,113 +1,154 @@
-# Two-Stage Batch Transcription / Verification Workflow
+# Four-Stage Batch Transcription / Verification Workflow
 
 This is the default execution workflow for source-page batches in `pugazg/kalaignar-short-stories` unless the user explicitly overrides it.
 
-It complements `SHORT_STORY_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. It changes **when** the two passes are executed and committed; it does **not** weaken source fidelity, historical-glyph requirements, difficult-reading escalation, or final verification gates.
+It complements `SHORT_STORY_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-## Why this workflow exists
+## Core cadence
 
-Do not combine direct transcription, independent glyph verification, difficult-reading enhancement, control synchronization, and final closure into one oversized activity when they can be made durable in smaller stages.
+Every physical-page batch is processed as **four separate durable activities**, each followed by control synchronization and a commit:
 
-The objective is:
+`Stage 1 first-pass transcription → COMMIT/SYNC → Stage 2 visual text-fidelity audit → COMMIT/SYNC → Stage 3 historical-glyph audit → COMMIT/SYNC → Stage 4 final independent check → COMMIT/SYNC`
 
-- finish useful work sooner;
-- commit completed work before a long verification pass begins;
-- keep the historical-glyph second pass genuinely independent;
-- avoid repeatedly reopening already-clear source text;
-- use crops/enhancements only when the source actually requires them.
+Only after Stage 4 closes may the batch be treated as fully `verified`.
+
+## Why the stages are separate
+
+The purpose is to avoid mixing fast capture, detailed fidelity checking, historical-glyph decoding and final approval into one oversized activity.
+
+- Stage 1 captures the source text without waiting for perfect visual adjudication.
+- Stage 2 checks ordinary textual fidelity independently.
+- Stage 3 isolates historical Tamil glyph risk.
+- Stage 4 performs one fresh end-to-end source check before final verification.
+
+A rendering/enlargement problem in a later verification stage must **not** delay a responsible Stage-1 transcription checkpoint.
 
 ## Batch size
 
-Use the story/work-specific batch size already recorded in its controls. If no special size is recorded, a small batch such as five physical scans is preferred.
-
-Each batch has **two separate durable activities**.
+Use the story/work-specific batch size already recorded in its controls. If none is recorded, five physical scans is the default.
 
 ---
 
-## Stage A — direct transcription
+## Stage 1 — first-pass transcription
 
-Stage A is one bounded activity and one durable checkpoint.
+This is the initial source-faithful capture.
 
-1. Re-fetch live `main`; live `main` remains authoritative.
-2. Resolve the controlling scan/PDF.
-3. Read each requested **whole page directly from the source** and transcribe it once.
-4. Preserve source punctuation, spacing, paragraphing, spelling, source-odd words, page boundaries and clearly identifiable historical character identity.
-5. **Do not run the systematic 13-family Historical Tamil Glyph Pass 2 during Stage A.**
-6. **Do not repeatedly reopen already-clear words or pages during Stage A.**
-7. **Do not create crops/enhancements routinely.** Use a minimal enlargement only when a reading is genuinely too unclear to transcribe responsibly from the normal source view. If it still cannot be settled without a dedicated verification exercise, record the uncertainty instead of turning Stage A into Stage B.
-8. An obvious historical glyph may be encoded correctly when its identity is clear during transcription; that does not count as Pass 2 closure.
-9. After direct transcription, the page normally remains `needs-review`; Stage A alone must not promote a story-text page to final `verified` when the independent glyph gate applies.
-10. Synchronize the page records and **Pass-1/current-state controls only**: page map, Pass-1 tracker, README/audit/handover/NEXT prompt as required by the active work.
-11. Commit Stage A before beginning the independent glyph pass.
-12. Stop and report the durable result. Do not continue into Stage B in the same activity unless the user explicitly asks to combine them.
+1. Re-fetch live `main`.
+2. Open the controlling source pages.
+3. Transcribe each whole page once from the source.
+4. Preserve source wording, paragraphing, dialogue structure, punctuation, spacing, spelling and page boundaries as read.
+5. Clearly readable historical characters may be encoded correctly, but do **not** run the systematic historical-glyph audit here.
+6. Do **not** require high-resolution/crop work for every doubtful character before committing Stage 1.
+7. If a reading is genuinely uncertain, preserve an explicit review marker/note rather than guessing.
+8. Set transcribed pages to `needs-review`.
+9. Synchronize page records, page map, progress tracker, README/audit, `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`.
+10. Commit Stage 1 and stop.
 
-A normal Stage-A report should be short: batch, number transcribed, unresolved count, commit, and the next exact activity.
+**Stage 1 objective:** get a complete first-pass transcription durably committed. Do not hold the whole batch waiting for later fidelity/glyph work.
 
 ---
 
-## Stage B — independent historical-glyph / source verification
+## Stage 2 — visual text-fidelity audit
 
-Stage B is a **separate activity after the Stage-A commit is durable**.
+This is a separate source-vs-transcription comparison after Stage 1 is committed.
 
-1. Re-fetch live `main` and start from the committed Stage-A transcription.
-2. Reopen the same physical pages independently.
-3. Perform the mandatory historical-glyph second pass, explicitly checking:
+1. Re-fetch live `main`.
+2. Reopen the same pages.
+3. Compare the committed transcription against the source **line by line / phrase by phrase**.
+4. Check ordinary textual fidelity:
+   - omissions or duplicated text;
+   - wrong words/letters;
+   - punctuation;
+   - paragraph/dialogue boundaries;
+   - page-boundary continuations;
+   - headings, separators and source marks;
+   - accidental modernization/normalization.
+5. Use enlargement/crops or non-destructive image processing only where the normal view is insufficient.
+6. Correct only what source evidence supports.
+7. Record unresolved source-sensitive locations explicitly.
+8. Keep pages `needs-review`; Stage 2 does **not** close the historical-glyph gate.
+9. Synchronize all relevant controls.
+10. Commit Stage 2 and stop.
 
-   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+---
 
-4. Also inspect any locations recorded as source-sensitive or uncertain in Stage A.
-5. **Do not perform a full retranscription merely because Stage B has begun.** Compare the committed text against the source and correct only where source evidence requires it.
-6. Create crops, native-pixel enlargements, contrast variants or other enhancements **only for an actual unresolved/suspicious character cluster**. An unusual but clearly printed source word is not, by itself, a reason to crop or modernize it.
-7. Record corrections individually; never global-replace.
-8. If ambiguity remains, keep the affected page `needs-review` and follow the documented difficult-reading escalation rules.
-9. Promote a page to `verified` only when direct transcription and the independent source/glyph verification both close.
-10. Synchronize glyph gate, possible-error queue, page map, Pass-1/verification trackers, README/audit/handover/NEXT prompt and any other affected controls.
-11. Commit Stage B and re-fetch live `main` to prove durability.
-12. Stop and report the corrections/unresolved counts and next exact activity.
+## Stage 3 — historical Tamil glyph audit
+
+This is the independent glyph-focused pass.
+
+1. Re-fetch live `main`.
+2. Reopen the same pages independently.
+3. Explicitly audit:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+4. Compare whole words/phrases and same-edition forms when needed; never infer from a single isolated stroke if the cluster is ambiguous.
+5. Correct character identity only where source evidence supports it; do not modernize spelling or grammar.
+6. Never global-replace.
+7. Use crops/native enlargement only for actual glyph ambiguity.
+8. Keep pages `needs-review` until Stage 4.
+9. Synchronize the glyph gate, possible-error queue and all affected controls.
+10. Commit Stage 3 and stop.
+
+---
+
+## Stage 4 — final independent source check
+
+This is the final approval pass.
+
+1. Re-fetch live `main`.
+2. Reopen the complete batch fresh, starting from the Stage-3 committed text.
+3. Perform one final end-to-end comparison against the controlling source.
+4. Confirm:
+   - no omissions or duplications;
+   - all page boundaries and continuations are correct;
+   - text, punctuation and paragraphing remain source-faithful;
+   - all Stage-2 and Stage-3 corrections are reflected;
+   - all recorded uncertainties have a disposition;
+   - no historical-glyph candidate remains unaudited;
+   - source marks/separators/ending ornaments are handled correctly.
+5. If a real issue is found, correct it and document it.
+6. Promote pages to `verified` only when the final check closes with no unresolved source-text issue.
+7. Synchronize page map, trackers, README/audit, handover and next prompt.
+8. Commit Stage 4 and re-fetch live `main` to prove durability.
+9. Only then advance to the next batch.
 
 ---
 
 ## Batch progression rule
 
-For a normal batch sequence:
+Normal sequence:
 
-`Batch N Stage A → COMMIT → Batch N Stage B → COMMIT → Batch N+1 Stage A`
+`Batch N Stage 1 → COMMIT → Stage 2 → COMMIT → Stage 3 → COMMIT → Stage 4 → COMMIT → Batch N+1 Stage 1`
 
-Do **not** begin the next batch merely because Stage A of the current batch is complete. The current batch's Stage B must close first unless the user explicitly changes the workflow.
+Do not skip directly from first-pass transcription to historical-glyph closure. Do not begin the next batch until the current batch's Stage 4 closes unless the user explicitly changes the workflow.
+
+## Status semantics
+
+- `not-started` — no Stage-1 transcription.
+- `partial` — Stage-1 transcription incomplete.
+- `needs-review` — Stage 1 is present but one or more of Stages 2–4 remain, or a genuine ambiguity remains.
+- `verified` — all four stages completed and final source check passed.
+- `blocked` — only after exhaustive source-resolution escalation genuinely fails.
 
 ## Crop / enhancement threshold
 
-The default is **no crop**.
+The default first-pass transcription does **not** require image enhancement.
 
-Use crops/enhancement only when at least one of these is true:
+Use enlargement/crops primarily in Stages 2–4 when:
 
-- character identity cannot be responsibly settled at normal/native page view;
-- a historical glyph family is genuinely ambiguous;
-- ink damage, bleed-through, stamp, touching type, faint vowel mark or scan damage prevents a confident reading;
-- Stage B finds a concrete mismatch between transcription and source that requires closer inspection.
+- ordinary visual comparison cannot settle a character/word;
+- faint ink, bleed-through, stamps, touching type or scan damage obstructs reading;
+- a historical glyph is genuinely ambiguous;
+- the final check identifies a concrete suspicious span.
 
-Do not crop merely because:
+## Commit / sync rule
 
-- a word is archaic or unusual;
-- grammar looks odd;
-- the source differs from modern spelling;
-- a word contains one of the 13 historical-glyph families but is already clearly readable.
+Every stage must end in:
 
-## Status semantics under this workflow
+1. affected page records updated;
+2. progress/gate files synchronized;
+3. story/collection status synchronized where relevant;
+4. root `HANDOVER.md` and `NEXT_CHAT_PROMPT.md` updated;
+5. one focused commit;
+6. stop/report before the next stage unless the user explicitly authorizes combined execution.
 
-- `not-started` — no direct transcription yet;
-- `needs-review` — Stage A transcription exists but independent verification is still pending, or a real ambiguity remains;
-- `verified` — Stage A plus independent Stage B both closed;
-- `blocked` — only after the repository's exhaustive difficult-reading escalation has genuinely failed.
-
-## Turn / activity discipline
-
-The working activity should prioritize producing the durable checkpoint, not narrating every inspection step.
-
-- Perform the bounded stage.
-- Synchronize required controls.
-- Commit.
-- Re-fetch when required by closure rules.
-- Report the result concisely.
-
-If an activity cannot finish, record exactly what is durable and make the unfinished stage—not a later stage—the next exact activity.
+The working activity should produce the durable checkpoint first and narrate only the concise result.

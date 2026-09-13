@@ -1,23 +1,30 @@
 # Historical Tamil Glyph Gate — நெருப்பு
 
-Status: **NOT STARTED — 0/14 pages Stage-B verified**.
+Status: **STAGE 3 NOT STARTED — 0/14 pages glyph-audited**.
 
-Mandatory independent Stage-B families:
+Mandatory Stage-3 families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## Rule
+## Four-stage placement
 
-Each page first receives Stage-A direct transcription. Only in a later durable activity is the same page independently reopened for the systematic historical-glyph/source pass.
+Historical glyph review is **Stage 3**, not the pass immediately after transcription.
 
-No page may become `verified` from Stage A alone.
+Required order for each batch:
+
+1. Stage 1 first-pass transcription — commit;
+2. Stage 2 visual text-fidelity audit — commit;
+3. **Stage 3 historical-glyph audit — commit**;
+4. Stage 4 final independent source check — commit; only then verified.
+
+The page remains `needs-review` after Stage 3 because final Stage 4 still remains.
 
 ## Batch state
 
-| Scans | Stage B state | Corrections | Unresolved |
+| Scans | Stage 3 state | Corrections | Unresolved |
 |---|---|---:|---:|
 | 11–15 | not started | 0 | 0 |
 | 16–20 | not started | 0 | 0 |
 | 21–24 | not started | 0 | 0 |
 
-Current exact next activity is **P1 Stage A scans 11–15**; this file remains unchanged until that Stage-A commit is durable and P1 Stage B becomes next.
+Current exact next activity is **P1 Stage 1 scans 11–15**. This glyph gate must not delay first-pass transcription.

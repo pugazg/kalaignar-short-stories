@@ -46,22 +46,33 @@ Workspace: `stories/neruppu/`
 - physical pages: **14**
 - boundary: scan 24 ending; scan 25 opens `வேணியின் காதலன்`
 - page records initialized: **14/14**
-- Stage A: **0/14**
-- Stage B: **0/14**
+- Stage 1 first-pass: **0/14**
+- Stage 2 visual fidelity: **0/14**
+- Stage 3 historical glyph: **0/14**
+- Stage 4 final check: **0/14**
 - verified: **0/14**
 - not-started: **14/14**
 - unresolved / blocked: **0/0**
 - no prose committed during activation
 
+## Four-stage batch rule — user-confirmed
+
+For every `நெருப்பு` batch:
+
+1. first-pass transcription → **commit + sync**;
+2. visual text-fidelity audit → **commit + sync**;
+3. historical Tamil glyph audit → **commit + sync**;
+4. one final independent source check → **commit + sync**; only then `verified`.
+
+Do not hold Stage 1 waiting for high-resolution verification work. Record uncertainty explicitly and move it into later checks.
+
 ## Exact next activity
 
-**`நெருப்பு` P1 Stage A — scans 11–15 / printed 10–14.**
+**`நெருப்பு` P1 Stage 1 — scans 11–15 / printed 10–14.**
 
-Follow `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`:
+- perform first-pass transcription only;
+- set completed pages to `needs-review`;
+- commit and synchronize;
+- stop.
 
-- direct whole-page transcription only;
-- pages become `needs-review`;
-- do not perform systematic Stage B in the same activity;
-- commit Stage A and stop.
-
-After that, exact next will be P1 Stage B scans 11–15.
+Then exact next = **P1 Stage 2 visual text-fidelity audit scans 11–15**.

@@ -151,18 +151,43 @@ Image enhancement ஒரு plausible word அல்லது short fragment-ஐ
 
 ## 7. Batch workflow
 
-1. repository state ஆய்வு செய்து duplicate story இல்லையென உறுதி செய்.
-2. PDF scan identity, checksum, file size, page count உறுதி செய்.
-3. cover / edition / publication / review / preface pages ஆய்வு செய்.
-4. `metadata/source.md` உருவாக்கு/புதுப்பி.
-5. அனைத்து scan pages-க்கும் `indexes/page-map.md` manifest உருவாக்கு.
-6. சிறிய batch-ஆக page records உருவாக்கி transcription செய்.
-7. தெளிவில்லாதவை முதலில் `partial` அல்லது `needs-review` ஆக வைத்திருந்து exhaustive resolution protocol-க்கு அனுப்பு; story text-ல் `blocked` status-ஐ shortcut ஆகப் பயன்படுத்தக்கூடாது.
-8. batch முடிந்ததும் story README மற்றும் root `HANDOVER.md` புதுப்பி.
-9. direct visual comparison + தேவையான exhaustive escalation + full-span sanity check முடிந்த பின் மட்டும் page status `verified` ஆக மாற்று.
-10. எல்லா physical page boundaries-யும் முன்னும் பின்னும் பார்த்து omitted/duplicated text இல்லை என்று உறுதி செய்.
-11. next-story opening page-ஐ boundary witness ஆக inspect செய்; அந்த next-story text-ஐ current story-க்கு சேர்க்காதே.
-12. முழு தமிழ் source audit முடியும் வரை English translation தொடங்கக்கூடாது.
+ஒவ்வொரு active story page-batch-க்கும் **4 தனித்த durable stages**:
+
+1. **Stage 1 — first-pass transcription**
+   - controlling scan-லிருந்து whole-page முதல் transcription;
+   - source wording / punctuation / paragraphing / page boundary preserve செய்யவும்;
+   - uncertain reading இருந்தால் guess செய்யாமல் review note வைக்கவும்;
+   - systematic visual-fidelity / glyph / final verification இங்கே செய்ய வேண்டாம்;
+   - pages `needs-review`;
+   - **commit + sync**.
+
+2. **Stage 2 — visual text-fidelity audit**
+   - Stage-1 committed text-ஐ source scan-க்கு எதிராக line-by-line / phrase-by-phrase ஒப்பிடவும்;
+   - omission, duplication, wrong word/letter, punctuation, paragraph/dialogue boundary, page continuation, separators/marks ஆகியவற்றை சரிபார்க்கவும்;
+   - source ஆதரிக்கும் correction மட்டும் செய்யவும்;
+   - pages இன்னும் `needs-review`;
+   - **commit + sync**.
+
+3. **Stage 3 — historical Tamil glyph audit**
+   - தனித்த pass-ஆக `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` எல்லாவற்றையும் explicit-ஆக audit செய்யவும்;
+   - global replacement செய்யக்கூடாது;
+   - historical glyph identity மட்டும் decode செய்யவும்; spelling/grammar modernize செய்யக்கூடாது;
+   - pages இன்னும் `needs-review`;
+   - **commit + sync**.
+
+4. **Stage 4 — final independent source check**
+   - same batch-ஐ fresh-ஆக source-க்கு எதிராக முழுமையாக மீண்டும் check செய்யவும்;
+   - omission/duplication, boundaries, punctuation, source marks, Stage-2/3 corrections, unresolved queue அனைத்தையும் close செய்யவும்;
+   - zero unresolved என்றால் மட்டும் `verified`;
+   - **commit + sync**.
+
+Normal cadence:
+
+`Batch N Stage 1 → commit → Stage 2 → commit → Stage 3 → commit → Stage 4 → commit → Batch N+1 Stage 1`.
+
+**Important:** Stage 1 ஒரு first-pass checkpoint. Later high-resolution / difficult-reading verification-ஐ Stage 1-க்கு முன்னால் கட்டாயப்படுத்தி batch-ஐ தாமதப்படுத்தக்கூடாது. தெளிவில்லாத reading-ஐ review queue-க்கு அனுப்பி first pass-ஐ durable ஆக commit செய்ய வேண்டும்.
+
+Detailed execution contract: `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`.
 
 ## 8. Source-page marker
 

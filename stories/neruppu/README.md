@@ -29,24 +29,32 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 - 14 / 14 page records are initialized as `not-started`;
 - no story prose has been committed from OCR, memory, another edition or lexical inference.
 
-## Two-stage workflow
+## Four-stage workflow
 
-This story follows `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`:
+This story follows `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`.
 
-1. **Stage A** — direct source transcription; pages remain `needs-review`;
-2. **Stage B** — independent historical-glyph/source verification; only then may pages become `verified`.
+For every batch:
 
-Mandatory Stage-B families:
+1. **Stage 1 — first-pass transcription** → commit + sync;
+2. **Stage 2 — visual text-fidelity audit** → commit + sync;
+3. **Stage 3 — historical Tamil glyph audit** → commit + sync;
+4. **Stage 4 — final independent source check** → commit + sync; only then `verified`.
+
+Mandatory Stage-3 families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
 Default batch size: **5 physical scans**.
 
+A high-resolution verification problem in Stage 2/3/4 must not block a responsible Stage-1 first-pass transcription. Uncertain readings may remain explicitly queued as `needs-review`.
+
 ## Current state
 
 - page records: **14 / 14 initialized**
-- Stage A: **0 / 14**
-- Stage B: **0 / 14**
+- Stage 1 first-pass: **0 / 14**
+- Stage 2 visual fidelity: **0 / 14**
+- Stage 3 historical glyph: **0 / 14**
+- Stage 4 final check: **0 / 14**
 - verified: **0 / 14**
 - needs-review: **0 / 14**
 - not-started: **14 / 14**
@@ -56,6 +64,13 @@ Default batch size: **5 physical scans**.
 
 ## Exact next activity
 
-**P1 Stage A — scans 11–15 / printed pages 10–14.**
+**P1 Stage 1 — scans 11–15 / printed pages 10–14.**
 
-Directly transcribe those five whole source pages only, preserve source punctuation/spacing/paragraphing and clearly identifiable historical glyph identity, leave the five pages `needs-review`, commit, and stop before Stage B.
+Perform the first-pass transcription of those five whole pages from the attached source. Do **not** wait for Stage-2 visual adjudication, Stage-3 historical-glyph audit or Stage-4 final verification.
+
+- record uncertain readings explicitly rather than guessing;
+- set the five pages to `needs-review`;
+- synchronize controls;
+- commit and stop.
+
+Next after that durable commit: **P1 Stage 2 — visual text-fidelity audit, scans 11–15**.

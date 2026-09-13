@@ -103,36 +103,33 @@ For every page from a potentially historical Tamil edition:
 
 ---
 
-# 5. Mandatory two-pass verification — NEW PERMANENT RULE
+# 5. Historical-glyph verification within the four-stage workflow
 
-Initial transcription and historical-glyph closure are **separate passes**.
+The repository now uses the durable four-stage page-batch sequence defined in `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`:
 
-## Pass 1 — initial transcription
+1. **Stage 1 — first-pass transcription**
+2. **Stage 2 — visual text-fidelity audit**
+3. **Stage 3 — historical Tamil glyph audit**
+4. **Stage 4 — final independent source check**
 
-- transcribe directly from the controlling scan;
-- preserve source wording and physical boundaries;
-- decode obvious historical identities where positively supported;
-- record uncertain clusters explicitly;
-- do not claim final glyph closure merely because the paragraph reads plausibly.
+This guide governs **Stage 3**.
 
-## Pass 2 — independent native/high-resolution glyph audit
+By Stage 3, the page already has a first-pass transcription and a separate ordinary visual-fidelity audit. Reopen the same physical page independently for glyph-focused review.
 
-**After Pass 1 transcription exists, reopen the same physical page at native/high resolution and perform a separate glyph-focused review.**
-
-During Pass 2:
+During Stage 3:
 
 1. explicitly recheck `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-2. search the transcribed page for words containing or plausibly containing those families;
-3. compare each suspicious form against the actual high-resolution source cluster;
+2. search the committed text for words containing or plausibly containing those families;
+3. compare each suspicious form against the source cluster;
 4. compare same-edition/same-font examples where useful;
 5. verify full words, phrases and neighboring characters rather than isolated strokes;
-6. record every correction as apparent/earlier reading → source-supported reading → historical family;
-7. never global-replace even when the same visual pattern recurs;
-8. if a cluster remains uncertain, retain `needs-review`.
+6. record every correction as earlier reading → source-supported reading → historical family;
+7. never global-replace;
+8. keep unresolved clusters explicit and retain `needs-review`;
+9. commit and synchronize Stage 3 separately;
+10. do **not** promote the page to final `verified` yet — Stage 4 must still close.
 
-> **A page may not be promoted to final `verified` from Pass 1 alone. Pass 2 must also close.**
-
-This rule applies even when the first transcription was already performed at enlarged resolution. The second pass is intentionally independent so that transcription momentum/context does not hide a systematic old-glyph error.
+> A historical-glyph pass is necessary but not, by itself, final page approval.
 
 ---
 
@@ -297,48 +294,57 @@ Do not use a likely cross-page word to force an uncertain glyph.
 
 # 14. Verification policy
 
-Recommended states:
+Recommended states under the four-stage workflow:
 
-- `not-started` — no transcription;
-- `partial` — transcription incomplete;
-- `needs-review` — text exists but one or more verification gates remain open;
-- `verified` — source transcription **and** independent high-resolution glyph second pass both closed under project policy;
+- `not-started` — no Stage-1 transcription;
+- `partial` — Stage-1 transcription incomplete;
+- `needs-review` — text exists but Stage 2, Stage 3, Stage 4, or a real ambiguity remains;
+- `verified` — first-pass transcription + visual text-fidelity audit + historical-glyph audit + final independent source check all closed;
 - `blocked` — source evidence genuinely unavailable/insufficient after escalation.
 
-If a systematic glyph error is discovered after pages were called verified, reopen affected coverage to `needs-review` and perform a retrospective high-resolution audit.
+If a systematic glyph error is discovered after pages were called verified, reopen affected coverage to `needs-review`, repeat the necessary later stages, and finish with a new Stage-4 final check.
 
 ---
 
 # 15. Reusable startup / closure checklist
 
-Before transcribing:
+Before Stage 1:
 
 - [ ] identify publication/edition and scan condition;
 - [ ] inspect representative pages;
-- [ ] determine whether historical typeforms occur;
-- [ ] keep the 13-form reference available;
-- [ ] record project-specific glyph policy;
+- [ ] record the active batch and physical boundaries;
 - [ ] transcribe from source pixels, not OCR authority.
 
-After initial transcription of each page:
+After Stage 1:
 
-- [ ] reopen the same page at native/high resolution;
-- [ ] perform the independent 13-family second pass;
+- [ ] first-pass text is durably committed;
+- [ ] uncertainty is recorded rather than guessed;
+- [ ] page remains `needs-review`.
+
+After Stage 2:
+
+- [ ] ordinary word/letter/punctuation/paragraph/page-boundary fidelity is source-checked;
+- [ ] omissions/duplications are checked;
+- [ ] source-supported corrections are committed separately.
+
+During Stage 3:
+
+- [ ] explicitly audit all 13 historical-glyph families;
 - [ ] compare same-edition examples when uncertain;
 - [ ] record every correction with scan provenance;
-- [ ] preserve source spelling/grammar/punctuation/spacing;
-- [ ] avoid global replacements;
-- [ ] leave unresolved pages `needs-review`;
-- [ ] only then consider `verified`.
+- [ ] avoid global replacement and modernization;
+- [ ] commit Stage 3 separately.
 
-Before release/translation:
+Before final `verified`:
 
-- [ ] complete work-level historical-glyph audit;
-- [ ] confirm zero unexamined historical-family candidates;
-- [ ] confirm every `verified` page has evidence of the second high-resolution pass.
+- [ ] perform Stage 4 as a fresh end-to-end source check;
+- [ ] confirm Stage-2 and Stage-3 corrections are present;
+- [ ] confirm no unresolved source-text/glyph issue remains;
+- [ ] confirm page boundaries and source marks;
+- [ ] only then promote to `verified`.
 
 ---
 
 # 16. Short rule to remember
 
-> **Old shape ≠ modern look-alike. Transcribe first, then independently re-open the page at high resolution and prove the historical character identity before final verification.**
+> **Old shape ≠ modern look-alike. First-pass transcription comes first; then visual fidelity, then historical-glyph proof, then one final independent source check before verification.**
