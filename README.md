@@ -6,7 +6,7 @@
 
 Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md).
 
-- **1969 `கண்ணடக்கம்` — ACTIVE:** `நெருப்பு` is **Tamil/source PASS / CLOSED**; comparison witnesses `கண்ணடக்கம்` and `வேணியின் காதலன்` are both **CLOSED / PASS (7/7 scans each)** with canonical Tamil/English unchanged. Exact next is **`அமிர்தமதி` witness scans 32–41 / printed 53–62**. The supplied collection still has an unresolved physical gap at printed pages **31–52**.
+- **1969 `கண்ணடக்கம்` — SOURCE-COMPLETENESS HOLD:** all four visible story blocks are dispositioned (`கண்ணடக்கம்` witness PASS, `நெருப்பு` Tamil/source PASS, `வேணியின் காதலன்` witness PASS, `அமிர்தமதி` witness PASS). The supplied PDF is still physically incomplete because printed pages **31–52** are absent; collection-wide English progression is deferred until that Tamil/source release gate can close.
 - **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
 - **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
 - **1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` — CLOSED:** Tamil/source release audit PASS and English translation phase PASS / CLOSED.

@@ -29,6 +29,21 @@ Missing printed span: **22 pages**.
 
 This completeness issue can close only if stronger same-publication evidence accounts for printed pages 31–52, for example a complete copy/scans supplied by the user.
 
-Until then, collection-level state remains:
+## Visible-source processing disposition
 
-**VISIBLE STORY INTAKE PASS / PHYSICAL COMPLETENESS OPEN**.
+All visible story blocks in the supplied 43-scan PDF have now been dispositioned:
+
+- `கண்ணடக்கம்` scans 4–10 — comparison witness **CLOSED / PASS**;
+- `நெருப்பு` scans 11–24 — new canonical Tamil/source **CLOSED / PASS**;
+- `வேணியின் காதலன்` scans 25–31 — comparison witness **CLOSED / PASS**;
+- `அமிர்தமதி` scans 32–41 — comparison witness **CLOSED / PASS**;
+- scan 42 — advertisement/back matter;
+- scan 43 — terminal rear leaf.
+
+Visible-source completion does **not** close physical completeness.
+
+Because this collection is being processed in a Tamil-first collection-wide workflow, the English phase for the new canonical `நெருப்பு` remains **deferred until the collection-wide Tamil/source release gate can close**.
+
+Until stronger same-publication evidence accounts for printed pages 31–52, collection-level state remains:
+
+**VISIBLE STORY WORK COMPLETE / PHYSICAL COMPLETENESS OPEN / SOURCE-COMPLETENESS HOLD**.

@@ -226,8 +226,18 @@ Workspace: `stories/neruppu/`.
   - 1969 `என் வாழ்வைத் துண்டித்த` vs canonical `வாழ்க்கைத் துண்டித்த` retained as edition wording evidence;
   - canonical Tamil / English / verified status changed: **No**;
   - unresolved witness issues: **0**.
-- `அமிர்தமதி` scans **32–41 / printed 53–62** — **NEXT**
+- `அமிர்தமதி` scans **32–41 / printed 53–62** — **COMPLETE / PASS, 10/10 scans**
+  - same complete frame + embedded `யசோதர காவியம்` narrative;
+  - all ten final 1977 historical-glyph repair identities independently supported;
+  - quoted verse lexical sequence independently supported;
+  - canonical Tamil / English / verified status changed: **No**;
+  - scan 41 ending + scan 42 advertisement boundary: **PASS**;
+  - unresolved witness issues: **0**.
 
-Exact next activity: **1969 `அமிர்தமதி` comparison-only witness audit — scans 32–41 / printed 53–62**.
+### 1969 visible-source disposition
 
-Do not create duplicate canonical Tamil/English layers. The collection printed-page gap **31–52** remains **OPEN** because the supplied source does not contain those pages.
+All visible story work is complete under the supplied PDF. The physical collection remains **INCOMPLETE / OPEN** because printed pages **31–52** are absent.
+
+Current next state: **SOURCE-COMPLETENESS HOLD**.
+
+Because the collection is being processed Tamil-first, English for the new canonical `நெருப்பு` is deferred until the collection-wide Tamil/source release gate can close. Do not infer missing story identities or use substitute editions to patch the gap without explicit authorization.

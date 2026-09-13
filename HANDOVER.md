@@ -26,7 +26,7 @@ Visible routing:
 1. `கண்ணடக்கம்` scans 4–10 — **existing canonical witness — COMPARISON CLOSED / PASS**
 2. `நெருப்பு` scans 11–24 — **NEW canonical — TAMIL/SOURCE CLOSED**
 3. `வேணியின் காதலன்` scans 25–31 — **existing canonical witness — COMPARISON CLOSED / PASS**
-4. `அமிர்தமதி` scans 32–41 — **existing canonical witness — NEXT**
+4. `அமிர்தமதி` scans 32–41 — **existing canonical witness — COMPARISON CLOSED / PASS**
 
 `நெருப்பு` Tamil/source work is now closed; the comparison-only witness backlog is unblocked.
 
@@ -154,8 +154,35 @@ All **14/14** `நெருப்பு` page records are four-gate verified.
 - canonical Tamil / English / status changed: **No**
 - unresolved witness issues: **0**
 
+### `அமிர்தமதி` — scans 32–41 / printed 53–62
+
+**CLOSED / PASS — 10/10 witness scans compared end-to-end.**
+
+- witness workspace: `stories/amirthamathi/witnesses/1969-kannadakkam/`
+- narrative / embedded `யசோதர காவியம்` structure: **equivalent**
+- major added / omitted blocks: **0**
+- 1977 ten historical-glyph repair identities: **independently supported**
+- quoted verse lexical sequence: **independently supported**
+- scan 41 ending: **PASS**
+- scan 42 advertisement/back-matter boundary: **PASS**
+- canonical Tamil / English / status changed: **No**
+- unresolved witness issues: **0**
+
+## 1969 collection current state
+
+All **visible** story blocks are dispositioned:
+
+1. `கண்ணடக்கம்` — comparison **CLOSED / PASS**
+2. `நெருப்பு` — Tamil/source **CLOSED / PASS**
+3. `வேணியின் காதலன்` — comparison **CLOSED / PASS**
+4. `அமிர்தமதி` — comparison **CLOSED / PASS**
+
+The collection itself is **NOT source-complete**: printed pages **31–52 (22 pages)** are absent.
+
+Because this is a Tamil-first collection-wide workflow, `நெருப்பு` English remains **DEFERRED / BLOCKED** until the collection-wide Tamil/source release gate closes.
+
 ## Exact next activity — current
 
-**1969 `அமிர்தமதி` comparison-only witness audit — scans 32–41 / printed pages 53–62.**
+**SOURCE-COMPLETENESS HOLD.**
 
-Compare the attached 1969 witness against the verified 1977 canonical `stories/amirthamathi/` (canonical scans **231–238 / printed 222–229**, **8/8 CURRENT PASS**). Use/create `stories/amirthamathi/witnesses/1969-kannadakkam/`. Pay special attention to the source-sensitive historical-glyph forms and quoted verse already fixed in the canonical audit. Record edition variants and recheck candidates only; do not alter canonical Tamil/English without a separate controlling-source recheck.
+No further source-dependent 1969 work can be performed from the supplied 43-scan PDF. Resume only when stronger same-publication evidence accounts for printed pages **31–52**. On resumption, map the missing physical span and story boundaries first, then duplicate-check before creating or editing canonical story layers. Do not infer missing titles/text and do not use external substitutes unless the user explicitly authorizes research.

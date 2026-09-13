@@ -57,7 +57,7 @@ Default batch size: **5 physical scans**.
 - not-started: **0 / 14**
 - blocked: **0**
 - Tamil assembly: **PASS / CLOSED**
-- English: **UNBLOCKED / NOT STARTED**
+- English: **DEFERRED / BLOCKED by 1969 collection-wide Tamil/source release gate**
 
 ## P1 durable closure
 
@@ -159,6 +159,10 @@ All **14/14** `நெருப்பு` page records are now verified through a
 - unresolved source readings: **0**
 - Tamil/source status: **PASS / CLOSED**
 
-## Exact next activity — collection level
+## Collection-wide phase gate
 
-No further Tamil/source work remains for `நெருப்பு`. Next collection activity: **1969 `கண்ணடக்கம்` comparison-only witness audit, scans 4–10 / printed pages 3–9, against the existing canonical `stories/kannadakkam/`**.
+All visible 1969 witness work has now closed, but the parent collection still lacks printed pages **31–52**. Because the collection is being processed Tamil-first, English for `நெருப்பு` must wait for the collection-wide Tamil/source release gate.
+
+Current `நெருப்பு` English state: **DEFERRED / NOT STARTED**.
+
+No further source-dependent activity is possible for this collection until the missing printed span is supplied or independently resolved.
