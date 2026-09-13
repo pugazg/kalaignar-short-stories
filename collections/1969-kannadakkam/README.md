@@ -14,7 +14,7 @@ Physical-source workspace for the attached **`கண்ணடக்கம்`** 
 - visible price: **ரூ. 1-00**
 - source type: **image-only scan**
 - source PDF committed to GitHub: **No**
-- SHA-256: **PENDING** — raw-byte hashing was unavailable in the current execution environment; do not invent a checksum
+- SHA-256: **PENDING** — do not invent a checksum
 
 The attached PDF itself is the controlling source for this edition. No external website is needed for source-dependent work.
 
@@ -22,12 +22,10 @@ The attached PDF itself is the controlling source for this edition. No external 
 
 **SOURCE INTAKE PASS / PHYSICAL COMPLETENESS OPEN**
 
-The visible source contains four story blocks:
-
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 Stage 4 COMPLETE / PASS — VERIFIED 5/5; P2 Stage 1 NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P2 Stage 1 COMPLETE 5/5; P2 Stage 2 NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -35,10 +33,7 @@ The visible source contains four story blocks:
 
 ## Critical physical discontinuity
 
-The supplied PDF jumps from:
-
-- scan **31** / printed page **30**, ending `வேணியின் காதலன்`,
-- directly to scan **32**, opening `அமிர்தமதி`, whose next page is printed **54**.
+The supplied PDF jumps from scan **31 / printed page 30** directly to scan **32**, opening `அமிர்தமதி`, whose next page is printed **54**.
 
 Therefore printed pages **31–52 — 22 pages — are absent from the supplied PDF**.
 
@@ -53,35 +48,31 @@ See `SOURCE_COMPLETENESS.md`.
 
 ## Canonical deduplication result
 
-Repository inspection found existing canonical workspaces for:
+Existing canonical workspaces already cover `கண்ணடக்கம்`, `வேணியின் காதலன்`, and `அமிர்தமதி`; those three remain **comparison-only witnesses**. Do not create duplicate Tamil transcriptions or duplicate English translations.
 
-- `கண்ணடக்கம்`;
-- `வேணியின் காதலன்`;
-- `அமிர்தமதி`.
-
-Those three must be handled as **comparison-only witnesses**. Do not create duplicate Tamil transcriptions or duplicate English translations.
-
-No repository canonical match was found for **`நெருப்பு`**. Its canonical workspace is now activated at `stories/neruppu/`; source intake is PASS and all 14 page records are initialized without prose transcription.
+`நெருப்பு` is the sole visible new canonical from the supplied source and is active at `stories/neruppu/`.
 
 ## Active progress — `நெருப்பு`
 
 P1 scans **11–15 / printed 10–14**:
 
-- Stage 1: **COMPLETE 5/5**
-- Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
-- Stage-2 corrections: **15**
-- Stage-2 unresolved ordinary fidelity issues: **0**
-- Stage 3 historical glyph: **COMPLETE / PASS 5/5**
-- Stage 4 final check: **COMPLETE / PASS 5/5**
-- Stage-4 final source-proven corrections: **6**
-- interim 16-correction revalidation: **SUPERSEDED; 12 over-corrections reverted**
-- final unresolved issues: **0**
+- all four stages: **COMPLETE / PASS**
 - page state: **verified 5/5**
+- final unresolved: **0**
+
+P2 scans **16–20 / printed 15–19**:
+
+- Stage 1 first-pass: **COMPLETE 5/5**
+- page state: **needs-review 5/5**
+- queued Stage-2 source checks: **6**
+- Stage 2 visual fidelity: **NEXT**
+- Stage 3 / Stage 4: not started
+- blocked: **0**
+
+Overall `நெருப்பு`: Stage 1 **10/14**; Stages 2–4 **5/14**; verified **5/14**; needs-review **5/14**; not-started **4/14**.
 
 ## Exact next activity
 
-Process **`நெருப்பு` P2 Stage 1 — first-pass transcription**, scans **16–20 / printed pages 15–19**.
+Process **`நெருப்பு` P2 Stage 2 — visual text-fidelity audit**, scans **16–20 / printed pages 15–19**.
 
-Transcribe those five scans only, preserve source-faithful readings, keep uncertain items explicitly queued, synchronize controls, commit, and stop before Stage 2.
-
-Do not begin `வேணியின் காதலன்` witness comparison until `நெருப்பு` Tamil/source work closes.
+Do not begin `வேணியின் காதலன்` or the other comparison-only witness work until `நெருப்பு` Tamil/source work closes.

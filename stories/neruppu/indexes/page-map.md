@@ -10,11 +10,11 @@ Story range: scans **11–24 / printed pages 10–23** — **14 physical pages**
 | 13 | 12 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 14 | 13 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 15 | 14 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
-| 16 | 15 | story | `not-started` | not transcribed |
-| 17 | 16 | story | `not-started` | not transcribed |
-| 18 | 17 | story | `not-started` | not transcribed |
-| 19 | 18 | story | `not-started` | not transcribed |
-| 20 | 19 | story | `not-started` | not transcribed |
+| 16 | 15 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
+| 17 | 16 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
+| 18 | 17 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
+| 19 | 18 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
+| 20 | 19 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
 | 21 | 20 | story | `not-started` | not transcribed |
 | 22 | 21 | story | `not-started` | not transcribed |
 | 23 | 22 | story | `not-started` | not transcribed |
@@ -25,17 +25,16 @@ Forward boundary: scan **25** opens `வேணியின் காதலன்
 Current totals:
 
 - page records: **14/14 initialized**
-- Stage 1 first-pass transcription: **5/14**
+- Stage 1 first-pass transcription: **10/14**
 - Stage 2 visual text fidelity: **5/14**
 - Stage 3 historical-glyph audit: **5/14**
 - Stage 4 final check: **5/14**
 - verified: **5**
-- needs-review: **0**
-- not-started: **9**
+- needs-review: **5**
+- not-started: **4**
 - blocked: **0**
-- Stage-2 unresolved ordinary fidelity issues: **0**
-- P1 final Stage-4 source-fidelity corrections: **6**
-- interim 16-correction revalidation: **SUPERSEDED; 12 over-corrections reverted**
 - P1 final unresolved issues: **0**
+- P2 Stage-1 source-sensitive review locations: **6**
+- P2 confirmed errors at Stage 1: **0**
 
-Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.
+Next: **P2 Stage 2 visual text-fidelity audit — scans 16–20 / printed pages 15–19**.

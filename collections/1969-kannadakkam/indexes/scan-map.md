@@ -5,11 +5,11 @@
 | 1 | — | cover | `கண்ணடக்கம்` / `மு. கருணாநிதி` / `திராவிடப்பண்ணை` | front matter |
 | 2 | — | provenance | ownership / inscription page | front matter |
 | 3 | — | edition | `இரண்டாம் பதிப்பு: 1969`; `விலை ரூ. 1-00` | front matter |
-| 4–10 | 3–9 | story | `கண்ணடக்கம்` | existing canonical witness — pending comparison |
-| 11–24 | 10–23 | story | `நெருப்பு` | **NEW canonical ACTIVE — P1 Stage 4 COMPLETE / VERIFIED 5/5; P2 Stage 1 scans 16–20 NEXT** |
-| 25–31 | 24–30 | story | `வேணியின் காதலன்` | existing canonical witness — pending comparison |
+| 4–10 | 3–9 | story | `கண்ணடக்கம்` | existing canonical witness — pending comparison after `நெருப்பு` closure |
+| 11–24 | 10–23 | story | `நெருப்பு` | **NEW canonical ACTIVE — P1 verified 5/5; P2 Stage 1 COMPLETE 5/5; P2 Stage 2 NEXT** |
+| 25–31 | 24–30 | story | `வேணியின் காதலன்` | existing canonical witness — pending comparison after `நெருப்பு` closure |
 | — | **31–52** | **missing printed span** | no scans supplied | **OPEN source-completeness gap — 22 pages** |
-| 32–41 | 53–62* | story | `அமிர்தமதி` | existing canonical witness — pending comparison |
+| 32–41 | 53–62* | story | `அமிர்தமதி` | existing canonical witness — pending comparison after `நெருப்பு` closure |
 | 42 | — | advertisement | `அண்ணாவின் அரிய நூல்கள்` | back matter |
 | 43 | — | rear leaf | publisher/device graphic | terminal non-story page |
 

@@ -19,15 +19,14 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 STAGE 4 COMPLETE — VERIFIED 5/5.**
+**SOURCE INTAKE PASS / P1 VERIFIED / P2 STAGE 1 COMPLETE.**
 
-- live `main` was re-fetched before activation;
-- no canonical `நெருப்பு` workspace or documented alternate-title match was found;
-- scan 11 visibly opens with the heading **நெருப்பு**;
+- no prior canonical `நெருப்பு` workspace or documented alternate-title match was found at activation;
+- scan 11 opens with **நெருப்பு**;
 - scan 24 contains the story ending and closing ornament;
 - scan 25 independently opens **வேணியின் காதலன்**, proving the forward boundary;
-- 14 / 14 page records are initialized as `not-started`;
-- no story prose has been committed from OCR, memory, another edition or lexical inference.
+- all **14/14** page records are initialized;
+- only the attached 1969 source controls this canonical transcription.
 
 ## Four-stage workflow
 
@@ -46,43 +45,45 @@ Mandatory Stage-3 families:
 
 Default batch size: **5 physical scans**.
 
-A high-resolution verification problem in Stage 2/3/4 must not block a responsible Stage-1 first-pass transcription. Uncertain readings may remain explicitly queued as `needs-review`.
-
 ## Current state
 
 - page records: **14 / 14 initialized**
-- Stage 1 first-pass: **5 / 14**
+- Stage 1 first-pass: **10 / 14**
 - Stage 2 visual fidelity: **5 / 14**
 - Stage 3 historical glyph: **5 / 14**
 - Stage 4 final check: **5 / 14**
 - verified: **5 / 14**
-- needs-review: **0 / 14**
-- not-started: **9 / 14**
-- blocked / unresolved: **0 / 0**
+- needs-review: **5 / 14**
+- not-started: **4 / 14**
+- blocked: **0**
 - Tamil assembly: **NOT STARTED**
 - English: **BLOCKED until Tamil/source closure**
 
-## P1 durable result
+## P1 durable closure
 
-Scans **11–15 / printed 10–14**:
+Scans **11–15 / printed 10–14** are **verified 5/5** after all four stages.
 
-- Stage 1 first-pass: **COMPLETE 5/5**
-- Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
-- Stage 3 historical-glyph audit: **COMPLETE / PASS 5/5**
+- Stage-2 corrections: **15**
+- Stage-2 unresolved: **0**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4 final independent check: **COMPLETE / PASS 5/5**
-- Stage-4 final source-proven corrections: **6**
+- final Stage-4 source-proven corrections: **6**
 - interim 16-correction revalidation: **SUPERSEDED; 12 over-corrections reverted**
-- Stage-4 final unresolved issues after corrective revalidation: **0**
-- pages: **`verified` 5/5**
+- final unresolved: **0**
 
-Durable Stage-2 record: `VISUAL_FIDELITY_AUDIT.md`.  
-Durable Stage-3 record: `HISTORICAL_GLYPH_GATE.md`.  
-Durable Stage-4 record: `FINAL_SOURCE_CHECK.md` — both the initial zero-correction checkpoint and the over-inclusive interim 16-correction pass are superseded by the final six-correction source-pixel revalidation.
+## P2 Stage 1 durable result
+
+Scans **16–20 / printed 15–19**:
+
+- first-pass transcription: **COMPLETE 5/5**
+- page state: **`needs-review` 5/5**
+- source-sensitive Stage-2 queue: **6 locations**
+- confirmed Stage-1 errors: **0**
+- blocked: **0**
+- Stage 2/3/4: **not yet performed**
 
 ## Exact next activity
 
-**P2 Stage 1 — first-pass transcription, scans 16–20 / printed pages 15–19.**
+**P2 Stage 2 — visual text-fidelity audit, scans 16–20 / printed pages 15–19.**
 
-Process only those five scans from the controlling source. Do not begin Stage 2 in the same activity.
+Recheck the five committed P2 pages against the same attached source, resolve the six queued locations where source pixels permit, correct only source-proven fidelity errors, synchronize controls, commit, and stop before Stage 3.
