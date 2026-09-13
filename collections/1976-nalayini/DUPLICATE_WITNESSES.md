@@ -24,18 +24,19 @@ Therefore these six sources are processed **comparison-only**:
 - do not create a duplicate story transcription or duplicate English translation;
 - do not overwrite canonicals from witness evidence alone.
 
-Current comparison state:
+Current comparison state: **CLOSED — 6/6 stories / 48/48 target pages**.
 
 - `நளாயினி` scans **3–12** — **COMPLETE / PASS**;
 - `காதல் கடிதம்` scans **13–18** — **COMPLETE / PASS**;
 - `புரட்சிப் படம்` scans **19–24** — **COMPLETE / PASS**;
 - `விஷம் இனிது` scans **47–55** — **COMPLETE / PASS**;
-- `பாலைவன ரோஜா` scans **56–59** — **PASS for reviewed span**; scans **60–62** remain;
-- `அய்யோ ராஜா!` — pending;
-- user-set cadence: **10 comparison pages per iteration**;
-- cumulative reviewed target pages: **35/48**;
-- stories comparison-complete: **4/6**;
-- no duplicate Tamil transcription or duplicate English translation is being created;
+- `பாலைவன ரோஜா` scans **56–62** — **COMPLETE / PASS**;
+- `அய்யோ ராஜா!` scans **63–72** — **COMPLETE / PASS**;
+- cumulative reviewed target pages: **48/48**;
+- true edition variants recorded: **17**;
+- canonical defects exposed and repaired only after canonical-source recheck: **8**;
+- unresolved: **0**;
+- no duplicate Tamil transcription or duplicate English translation was created;
 - the attached 1976 PDF is the controlling witness source; no external mirror lookup is required.
 
 The two stories that were new canonicals from this anthology are:

@@ -113,3 +113,18 @@ On scan **217**, the correct source reading is **`என்றாள் மு�
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+## Additional witness — 1976 `நளாயினி`
+
+Comparison-only witness: `witnesses/1976-nalayini/`.
+
+- 1976 source range: scans **63–72**
+- comparison: **COMPLETE / PASS — 10/10**
+- confirmed meaningful lexical edition variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved witness issues: **0**
+- physical extent difference: **1976 10 pages vs 1977 7 pages — pagination/reflow only**
+- duplicate Tamil transcription / English translation: **No / No**
+
+The attached 1976 PDF is sufficient for this witness comparison; routine website lookup is not required. The canonical historical-glyph reading `என்றாள் முத்தம்மா` remains unchanged.

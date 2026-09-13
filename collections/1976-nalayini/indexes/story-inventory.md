@@ -9,8 +9,8 @@ The source has **no separate printed contents page**. Inventory is based on dire
 | 3 | `புரட்சிப் படம்` | 19–24 | 19–24 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 6/6** |
 | 4 | `நாட்டிய கலாராணி` | 25–46 | 25–46 | `stories/naattiya-kalarani/` | **TAMIL + ENGLISH PASS / CLOSED** |
 | 5 | `விஷம் இனிது` | 47–55 | 47–55 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 9/9** |
-| 6 | `பாலைவன ரோஜா` | 56–62 | 56–62 | existing canonical | **WITNESS IN PROGRESS — scans 56–59 PASS; 60–62 NEXT** |
-| 7 | `அய்யோ ராஜா!` | 63–72 | 63–72 | existing canonical | witness pending |
+| 6 | `பாலைவன ரோஜா` | 56–62 | 56–62 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 7/7** |
+| 7 | `அய்யோ ராஜா!` | 63–72 | 63–72 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 10/10** |
 | 8 | `மானம்` | 73–78 | `10` on scan 73; 74–78 thereafter | `stories/maanam/` | **TAMIL + ENGLISH PASS / CLOSED** |
 
-Scan 73 directly reads `மானம்`; stale `மனம்` is rejected. The exact-edition witness extension covers only Stories 1, 2, 3, 5, 6 and 7 and is tracked in `../EDITION_WITNESS_PROGRESS.md`.
+Scan 73 directly reads `மானம்`; stale `மனம்` is rejected. The exact-edition witness extension for Stories 1, 2, 3, 5, 6 and 7 is now **CLOSED — 6/6 stories / 48/48 pages COMPLETE / PASS**. Tracker: `../EDITION_WITNESS_PROGRESS.md`.

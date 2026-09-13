@@ -88,45 +88,61 @@ Physical reflow, line wrapping, punctuation/spacing and display/layout differenc
 
 Durable record: `stories/visham-inidhu/witnesses/1976-nalayini/VARIANT_COMPARISON.md`.
 
-## Current partial comparison — `பாலைவன ரோஜா`
+## Completed comparison — `பாலைவன ரோஜா`
 
-1976 scans **56–59: PASS for reviewed span — 4/7**.
+1976 scans **56–62: COMPLETE / PASS — 7/7**.
 
-No meaningful lexical mismatch was confirmed in the reviewed span under the comparison policy.
+Direct comparison against the verified canonical found no confirmed meaningful lexical mismatch under the witness policy.
 
-- reviewed: **4/7**
-- meaningful lexical variants so far: **0**
+- reviewed: **7/7**
+- meaningful lexical edition variants: **0**
 - canonical defect candidates: **0**
 - canonical changes: **0**
-- unresolved reviewed-span classifications: **0**
-
-## Current 10-page iteration — COMPLETE
-
-Processed exactly **10 comparison pages**:
-
-1. `விஷம் இனிது` scans **50–55** — **6 pages / story CLOSED**;
-2. `பாலைவன ரோஜா` scans **56–59** — **4 pages / PASS for reviewed span**.
-
-Iteration result:
-
-- pages processed: **10/10**
-- new meaningful lexical variants: **0**
-- canonical changes: **0**
-- duplicate Tamil/English created: **0**
 - unresolved: **0**
 
-Cumulative witness-page progress: **35 / 48** target pages reviewed.
+The 1976 seven-page extent versus the 1977 five-page canonical is physical pagination/reflow, not missing or added story content.
 
-Witness phase state: **OPEN — 4 / 6 stories comparison-complete**.
+Durable record: `stories/palaivana-roja/witnesses/1976-nalayini/VARIANT_COMPARISON.md`.
 
-## Exact next 10-page iteration
+## Completed comparison — `அய்யோ ராஜா!`
 
-Process exactly:
+1976 scans **63–72: COMPLETE / PASS — 10/10**.
 
-- `பாலைவன ரோஜா` scans **60–62** — 3 pages; close the story if PASS;
-- `அய்யோ ராஜா!` scans **63–69** — 7 pages;
-- stop after scan **69**.
+Direct comparison against the verified canonical found no confirmed meaningful lexical mismatch under the witness policy.
 
-Total: **10 comparison pages**.
+- reviewed: **10/10**
+- meaningful lexical edition variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
 
-Use only the attached 1976 PDF for witness evidence. Do not create duplicate transcriptions or duplicate English translations.
+The 1976 ten-page extent versus the 1977 seven-page canonical is physical pagination/reflow, not missing or added story content.
+
+Durable record: `stories/ayyo-raja/witnesses/1976-nalayini/VARIANT_COMPARISON.md`.
+
+## Final 1976 witness programme closure
+
+All remaining pages were processed in the final user-authorized iteration:
+
+1. `பாலைவன ரோஜா` scans **60–62** — 3 pages;
+2. `அய்யோ ராஜா!` scans **63–72** — 10 pages.
+
+Final-iteration pages processed: **13**.
+
+Programme totals:
+
+- comparison targets: **6 / 6 COMPLETE / PASS**
+- target pages reviewed: **48 / 48**
+- true edition variants recorded: **17**
+  - `நளாயினி`: 12
+  - `காதல் கடிதம்`: 5
+  - remaining four witness stories: 0 confirmed meaningful lexical variants
+- canonical defects exposed by witness evidence and repaired only after direct controlling-source recheck: **8**
+- canonical changes made from witness evidence alone: **0**
+- unresolved witness issues: **0**
+- duplicate Tamil transcriptions: **0**
+- duplicate English translations: **0**
+
+Witness phase state: **CLOSED / PASS**.
+
+No routine activity remains in the 1976 `நளாயினி` source under current evidence. Reopen only for stronger source evidence or explicit maintenance/audit authorization.

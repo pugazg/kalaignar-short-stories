@@ -121,10 +121,36 @@ Initial registered facts:
 
 The user also supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, now adopted as the mandatory historical-glyph verification guide for this 1987 source. Duplicate checking must precede every new story activation.
 
-Therefore the repository's **current** state is no longer “no authorized work”: the previous archive scope remains closed, while the 1987 source intake is **ACTIVE**. Current execution state is governed by `HANDOVER.md`, `NEXT_CHAT_PROMPT.md`, and the 1987 collection controls.
+That paragraph recorded the 1987 intake state at activation time. The 1987 collection has since reached **Tamil/source PASS / CLOSED and English 25/25 PASS / CLOSED**; its collection README is authoritative for that later closure. Current execution state is governed by `HANDOVER.md` and `NEXT_CHAT_PROMPT.md`.
 
 ## Closed QA addendum — 1977 English re-audit
 
 The 1977 anthology remains source-complete and translation-complete in the historical trackers. The separately authorized post-Tamil English re-audit is now **CLOSED** and does not invalidate those completed phases.
 
 Final English re-audit: **E1/E2/E3/E4/E5 CLOSED — 37/37 PASS; 49 cumulative E4 English-quality repairs; 0 E5 repairs; 0 unresolved**. E5 final page traceability: **250/250 PASS**. Tracker: `ENGLISH_REAUDIT_PROGRESS.md`.
+
+## Post-closure addendum — 1976 `நளாயினி` exact-edition reconciliation — CLOSED
+
+A later explicit authorization processed:
+
+`TVA_BOK_0065574_நளாயினி_1976.pdf` — fourth edition, 1976, 78 scans.
+
+The source contributed two new canonicals:
+
+- `நாட்டிய கலாராணி` — Tamil + English PASS / CLOSED;
+- `மானம்` — Tamil + English PASS / CLOSED.
+
+The remaining six stories were handled as **comparison-only witnesses** against existing canonicals, with no duplicate Tamil transcription and no duplicate English translation.
+
+Final witness state:
+
+- stories: **6/6 COMPLETE / PASS**
+- target pages: **48/48 reviewed**
+- true edition variants: **17**
+- canonical defects exposed by the `நளாயினி` witness and repaired only after direct controlling-source recheck: **8**
+- canonical changes from witness evidence alone: **0**
+- unresolved witness issues: **0**
+
+Per user instruction, the attached PDF itself was sufficient for the 1976 witness layer; Tamil Digital Library and Wikisource mirrors were not used as substitute sources.
+
+This 1976 reconciliation is **CLOSED under current evidence**.

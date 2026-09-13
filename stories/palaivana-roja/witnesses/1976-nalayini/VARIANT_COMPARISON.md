@@ -18,6 +18,25 @@ Direct comparison of the first four 1976 pages against the verified canonical fo
 
 Physical reflow, line wrapping, punctuation/spacing and display/layout are not promoted as lexical variants.
 
-## Next
+## Batch 2 — 1976 scans 60–62 — COMPLETE / PASS
 
-Compare 1976 scans **60–62** to finish `பாலைவன ரோஜா`. In the same user-set 10-page iteration, continue with `அய்யோ ராஜா!` scans **63–69**, then stop.
+The final three 1976 source pages were directly compared against the verified canonical ending.
+
+- reviewed: **3 / 3 batch pages**
+- meaningful new lexical variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+
+Physical pagination/reflow, line wrapping, punctuation/spacing and display/layout differences are not promoted as lexical variants.
+
+## Final witness closure
+
+- reviewed scans: **56–62 / 7 of 7**
+- confirmed meaningful lexical edition variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+- duplicate Tamil transcription created: **No**
+- duplicate English translation created: **No**
+- result: **COMPARISON COMPLETE / PASS**.

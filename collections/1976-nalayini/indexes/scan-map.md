@@ -9,10 +9,10 @@
 | 19–24 | 19–24 | story | `புரட்சிப் படம்` | **1976 witness comparison COMPLETE / PASS — 6/6** |
 | 25–46 | 25–46 | story | `நாட்டிய கலாராணி` | **Tamil + English PASS / CLOSED** |
 | 47–55 | 47–55 | story | `விஷம் இனிது` | **1976 witness comparison COMPLETE / PASS — 9/9** |
-| 56–62 | 56–62 | story | `பாலைவன ரோஜா` | **1976 witness IN PROGRESS — 56–59 PASS; 60–62 NEXT** |
-| 63–72 | 63–72 | story | `அய்யோ ராஜா!` | 1976 witness pending |
+| 56–62 | 56–62 | story | `பாலைவன ரோஜா` | **1976 witness comparison COMPLETE / PASS — 7/7** |
+| 63–72 | 63–72 | story | `அய்யோ ராஜா!` | **1976 witness comparison COMPLETE / PASS — 10/10** |
 | 73 | `10` | story-opening | `மானம்` | **Tamil + English PASS; source folio anomaly retained** |
 | 74–77 | 74–77 | story | `மானம்` | **Tamil + English PASS** |
 | 78 | 78 | story-ending | `மானம்` | **Tamil + English PASS; paired-swans source mark; final PDF scan** |
 
-Exact-edition witness tracker: `../EDITION_WITNESS_PROGRESS.md`. Next 10 comparison pages: `பாலைவன ரோஜா` scans 60–62, then `அய்யோ ராஜா!` scans 63–69.
+Exact-edition witness tracker: `../EDITION_WITNESS_PROGRESS.md`. **CLOSED — 6/6 comparison stories / 48/48 witness pages COMPLETE / PASS.**

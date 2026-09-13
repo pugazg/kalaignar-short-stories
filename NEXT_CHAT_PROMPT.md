@@ -1,55 +1,40 @@
-# NEXT CHAT PROMPT — 1976 `நளாயினி` cross-witness / next 10 pages
+# NEXT CHAT PROMPT — Kalaignar Short Stories / closed checkpoint
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Preserve closed layers
+## Closed state to preserve
 
 - 1977 Tamil dual-gate: **37/37 CURRENT PASS / CLOSED**
 - 1977 English E1–E5 re-audit: **37/37 PASS / CLOSED**
-- unresolved English re-audit issues: **0**
+- 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`: **Tamil/source + English CLOSED**
+- 1976 `நளாயினி` reconciliation: **CLOSED / PASS**
 
-## Active witness source
+## 1976 source closure
 
-Use only the attached:
+Controlling source:
 
 `TVA_BOK_0065574_நளாயினி_1976.pdf`
 
-- edition: **நான்காம் பதிப்பு — 1976**
-- scans: **78**
-- SHA-256: `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`
+The attached PDF is sufficient; do not browse Tamil Digital Library or Wikisource for this closed source unless explicitly asked.
 
-The user confirmed this is the Tamil Digital Library PDF and the same PDF mirrored by Wikisource. **Do not browse those sites; the attached PDF is sufficient.**
+Two new canonicals from the source are closed:
 
-Comparison-only policy: **no duplicate Tamil transcription and no duplicate English translation**.
+- `நாட்டிய கலாராணி` — Tamil + English PASS
+- `மானம்` — Tamil + English PASS
 
-Cadence: **10 comparison pages per iteration**.
+Six existing-canonical witness comparisons are closed:
 
-## Durable progress
+- `நளாயினி` — 10/10
+- `காதல் கடிதம்` — 6/6
+- `புரட்சிப் படம்` — 6/6
+- `விஷம் இனிது` — 9/9
+- `பாலைவன ரோஜா` — 7/7
+- `அய்யோ ராஜா!` — 10/10
 
-- `நளாயினி` 3–12 — **COMPLETE / PASS**
-- `காதல் கடிதம்` 13–18 — **COMPLETE / PASS**
-  - 5 meaningful true edition variants total
-  - 0 canonical changes
-- `புரட்சிப் படம்` 19–24 — **COMPLETE / PASS**
-  - 0 meaningful lexical variants
-  - 0 canonical changes
-- `விஷம் இனிது` 47–55 — **COMPLETE / PASS**
-  - 0 meaningful lexical variants
-  - 0 canonical changes
-- `பாலைவன ரோஜா` 56–59 — **PASS for reviewed span / 4 of 7**
-  - 0 meaningful lexical variants so far
-  - 0 canonical changes
-- cumulative target-page progress: **35/48**
-- stories comparison-complete: **4/6**
+Final witness programme: **6/6 stories / 48/48 pages COMPLETE / PASS; 17 true edition variants; 8 canonical defects separately source-proved and repaired; 0 unresolved**.
 
-## Exact next 10-page iteration
+## Next activity
 
-Process exactly:
+**None under current authorized short-story sources.**
 
-- `பாலைவன ரோஜா` scans **60–62** — 3 pages; close story if PASS
-- `அய்யோ ராஜா!` scans **63–69** — 7 pages
-- stop after scan **69**
-
-Total: **10 comparison pages**.
-
-Record substantive source-proven edition variants only. Ignore mere physical reflow, line wrapping, punctuation/spacing and display differences unless they affect wording or meaning. Never modify a canonical from 1976 witness evidence alone.
+Do not reopen a closed source or invent a new activity. Wait for a new source, stronger evidence, or an explicit maintenance/audit request.

@@ -146,12 +146,12 @@ Story 28 — TOC **`புரட்சிப்படம்`**, opening heading 
 Comparison-only witness: `witnesses/1976-nalayini/`.
 
 - 1976 source range: scans **56–62**
-- reviewed: scans **56–59 — PASS / 4 of 7**
-- remaining: scans **60–62**
-- meaningful lexical edition variants so far: **0**
+- comparison: **COMPLETE / PASS — 7/7**
+- confirmed meaningful lexical edition variants: **0**
 - canonical defect candidates: **0**
 - canonical changes: **0**
-- unresolved reviewed-span classifications: **0**
+- unresolved witness issues: **0**
+- physical extent difference: **1976 7 pages vs 1977 5 pages — pagination/reflow only**
 - duplicate Tamil transcription / English translation: **No / No**
 
 The attached 1976 PDF is sufficient for this witness comparison; routine website lookup is not required.
