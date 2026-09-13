@@ -74,7 +74,7 @@ Current state:
 - source registration: **COMPLETE**
 - story inventory: **6/6 COMPLETE**
 - new canonical stories: **0**
-- witness comparisons completed: **2/6**
+- witness comparisons completed: **3/6**
 - Story 1 `வாழ முடியாதவர்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
   - scans inspected: **10/10**
   - localized loss: **scan 12**
@@ -93,7 +93,13 @@ Current state:
   - scan **24**: large centered closing star
   - canonical Tamil / English changed: **No / No**
   - canonical-recheck candidates: **0**
-- remaining 1950 witnesses: **4/6 NOT STARTED**
+- Story 3 `கங்கையின் காதல்`: **CLOSED / PASS — 5/5**
+  - narrative structure: **equivalent / complete**
+  - localized 1950-only dialogue addition: `இரண்டு பெண்டாட்டிக்காரன் பாடெல்லாம் இப்படித்தான்...`
+  - corrected `காளை` identity independently supported
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- remaining 1950 witnesses: **3/6 NOT STARTED**
 
 ## Queued source — 1953 `தப்பிவிட்டார்கள்`
 
@@ -132,21 +138,21 @@ Fresh repository-wide assembled-section checks found no duplicate for `வில
 
 ## Exact next activity — current
 
-Process the active 1950 Story 3 witness:
+Process the active 1950 Story 4 witness:
 
-- title: **`கங்கையின் காதல்`**
-- 1950 scans: **25–29**
-- printed pages: **24–28**
-- total: **5 physical source pages**
-- target canonical: `stories/gangaiyin-kadhal/`
+- title: **`கண்டதும் காதல் ஒழிக!`**
+- 1950 scans: **30–36**
+- printed pages: **29–35**
+- total: **7 physical source pages**
+- target canonical: `stories/kandathum-kadhal-ozhiga/`
 - controlling canonical source remains the verified later canonical
 - compare direct 1950 pixels by text anchors
 - document lexical / morphology / orthography / punctuation / layout variants
 - do **not** alter canonical Tamil or English from witness evidence alone
 - any possible canonical defect exposed by the witness becomes a recheck candidate only
-- stop after scan 29
+- stop after scan 36
 
-Stories 1–2 are closed under the 1950 witness. Do not begin Story 4 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+Stories 1–3 are closed under the 1950 witness. Do not begin Story 5 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
 
 ## Closed source — 1956 `தாய்மை`
 
