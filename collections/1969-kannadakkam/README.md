@@ -25,7 +25,7 @@ The attached PDF itself is the controlling source for this edition. No external 
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 + P2 VERIFIED 10/10; P3 Stage 3 COMPLETE / PASS 4/4; P3 Stage 4 NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **ALL FOUR GATES VERIFIED 14/14; TAMIL ASSEMBLY / SOURCE CLOSURE NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -75,11 +75,11 @@ P2 scans **16–20 / printed 15–19**:
 - Stage-4 final unresolved issues: **0**
 - blocked: **0**
 
-Overall `நெருப்பு`: Stages 1–3 **14/14**; Stage 4 **10/14**; verified **10/14**; needs-review **4/14**; not-started **0/14**.
+Overall `நெருப்பு`: Stages 1–4 **14/14**; verified **14/14**; needs-review **0/14**; not-started **0/14**.
 
 ## Exact next activity
 
-Process **`நெருப்பு` P3 Stage 4 — final independent source check**, scans **21–24 / printed pages 20–23**.
+Process **`நெருப்பு` Tamil assembly / source-layer closure** from the 14 verified page records.
 
 Do not begin `வேணியின் காதலன்` or the other comparison-only witness work until `நெருப்பு` Tamil/source work closes.
 
@@ -87,13 +87,16 @@ Do not begin `வேணியின் காதலன்` or the other comparis
 P3 scans **21–24 / printed 20–23**:
 
 - Stage 1 first-pass: **COMPLETE 4/4**
-- page state: **needs-review 4/4**
 - Stage 2 visual fidelity: **COMPLETE / PASS 4/4**
-- Stage-2 source-proven corrections: **14**
-- Stage-2 ordinary unresolved issues: **0**
 - Stage 3 historical glyph: **COMPLETE / PASS 4/4**
-- Stage-3 character-identity corrections: **0**
-- Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
-- scan 24 ending ornament: **captured**
+- Stage 4 final independent source check: **COMPLETE / PASS 4/4**
+- page state: **verified 4/4**
+- Stage-2 interim changes reviewed at final gate: **14**
+- Stage-2 over-corrections reverted: **6**
+- Stage-2 correction refined: **1**
+- additional Stage-4 source corrections: **2**
+- corrective changes applied during Stage 4: **9**
+- final net source-fidelity differences from P3 Stage 1: **10**
+- final unresolved issues: **0**
+- scan 24 ending sentence + ornament boundary: **PASS**
 - blocked: **0**

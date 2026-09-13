@@ -40,9 +40,9 @@ Workspace: `stories/neruppu/`
 - Stage 1 first-pass: **14/14**
 - Stage 2 visual fidelity: **14/14**
 - Stage 3 historical glyph: **14/14**
-- Stage 4 final check: **10/14**
-- verified: **10/14**
-- needs-review: **4/14**
+- Stage 4 final check: **14/14**
+- verified: **14/14**
+- needs-review: **0/14**
 - not-started: **0/14**
 - blocked: **0**
 
@@ -88,21 +88,28 @@ Transcribe the final four story scans from the controlling source only, preserve
 
 ### P3 — scans 21–24 / printed 20–23
 
+**CLOSED / VERIFIED 4/4.**
+
 - Stage 1 first-pass: **COMPLETE 4/4**
-- pages: **`needs-review` 4/4**
-- explicit P3 Stage-2 queue: **9 locations**
-- scan 24 story ending + closing ornament: **captured**
 - Stage 2 visual fidelity: **COMPLETE / PASS 4/4**
-- Stage-2 source-proven corrections: **14**
-- Stage-2 ordinary unresolved issues: **0**
 - Stage 3 historical glyph: **COMPLETE / PASS 4/4**
+- Stage 4 final independent source check: **COMPLETE / PASS 4/4**
+- Stage-2 interim changes reviewed at final gate: **14**
+- Stage-2 over-corrections reverted: **6**
+- Stage-2 correction refined: **1**
+- additional Stage-4 source corrections: **2**
+- corrective changes applied during Stage 4: **9**
+- final net source-fidelity differences from P3 Stage 1: **10**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
+- final unresolved issues: **0**
+- scan 24 ending sentence + closing ornament: **PASS**
 - blocked: **0**
 
-## Exact next activity — superseding the earlier pointer
+All **14/14** `நெருப்பு` page records are four-gate verified.
 
-**`நெருப்பு` P3 Stage 4 — final independent source check, scans 21–24 / printed 20–23.**
+## Exact next activity — current
 
-Reopen the final four pages fresh against the controlling scans, independently verify all Stage-2 corrections and Stage-3 glyph dispositions, recheck the scan-24 ending sentence and ornament boundary, resolve any residual source issue, synchronize controls, and promote to `verified` only if the final gate passes.
+**Assemble and close the `நெருப்பு` Tamil/source layer.**
+
+Create the canonical reading-layer assembly from the 14 verified page records using the existing repository convention (for example `stories/neruppu/sections/neruppu.md`), preserve scan/printed-page provenance markers and reversible page boundaries, validate that scans 11–24 are represented exactly once, confirm scan 24 is terminal and scan 25 is excluded, synchronize closure controls, commit, and stop before comparison-only witness work.

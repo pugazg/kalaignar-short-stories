@@ -193,13 +193,19 @@ Workspace: `stories/neruppu/`.
 - P2 Stage-2 source-proven corrections: **6**
 - P2 Stage-3 character-identity corrections: **0**
 - P2 Stage-4 final source-proven corrections: **2**
-- Stages 1–3 overall: **14/14**
-- Stage 4 overall: **10/14**
-- verified: **10/14**
-- needs-review: **4/14**
+- Stages 1–4 overall: **14/14 COMPLETE / PASS**
+- verified: **14/14**
+- needs-review: **0/14**
 - not-started: **0/14**
 - blocked: **0**
+- P3 Stage-2 interim changes reviewed at final gate: **14**
+- P3 Stage-2 over-corrections reverted: **6**
+- P3 Stage-2 correction refined: **1**
+- additional P3 Stage-4 source corrections: **2**
+- corrective changes applied during P3 Stage 4: **9**
+- P3 final net source-fidelity differences from Stage 1: **10**
+- final unresolved source issues: **0**
 
-Exact next activity: **P3 Stage 4 — final independent source check, scans 21–24 / printed 20–23**.
+Exact next activity: **assemble and close the `நெருப்பு` Tamil/source layer**.
 
 The other three visible stories remain comparison-only witnesses and must not be processed until `நெருப்பு` Tamil/source work closes. The collection printed-page gap **31–52** remains **OPEN** because the supplied source does not contain those pages.
