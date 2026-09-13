@@ -19,6 +19,7 @@
 - scan 15 is heavily torn but retains terminal-story material; scan 16 independently opens `ஒரிஜினலில் உள்ளபடி!`.
 - scan 24 ends Story 2 with a star ornament; scan 25 independently opens `கங்கையின் காதல்`.
 - scan 29 ends Story 3; scan 30 independently opens `கண்டதும் காதல் ஒழிக!`.
+- scans 34–36 have localized paper loss; scan 36 still preserves the 1950-only expanded Story-4 ending and terminal star.
 - scan 36 ends Story 4; scan 37 begins the next work, whose heading is damaged but whose opening matches `ஏழை`.
 - scan 41 ends Story 5; scan 42 independently opens `பிள்ளையோ பிள்ளை!`.
 - scan 63 is printed page 62 and closes Story 6; scan 64 is non-story advertisement/back matter.
