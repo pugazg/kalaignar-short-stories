@@ -84,15 +84,15 @@ Workspace:
 Current state:
 
 - witness extent: **26 scans — 34–59 / printed 32–57**
-- reviewed: **5/26 — scans 34–38 / printed 32–36**
+- reviewed: **15/26 — scans 34–48 / printed 32–46**
 - narrative structure in reviewed span: **equivalent**
-- material variants recorded: **3**
+- material variants recorded: **9**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
-- canonical-recheck candidate:
-  - 1956 `ஆண்களின் கர்வமடக்கும்`
-  - current 1978 canonical `ஆண்களின் கருவமடக்கும்`
-  - do not repair without direct recheck of the exact 1978 controlling scan.
+- canonical-recheck candidates:
+  1. 1956 `ஆண்களின் கர்வமடக்கும்` ↔ current 1978 `ஆண்களின் கருவமடக்கும்`
+  2. 1956 `பிராமணோத்தமரே!` ↔ current 1978 `பிராமணத் தமரே!`
+- do not repair either candidate without direct recheck of the exact 1978 controlling scans.
 
 ### User batching rule
 
@@ -102,14 +102,14 @@ Process **10 physical source pages per iteration**. Crossing a work/repository b
 
 Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels`:
 
-- scans **39–48**
-- printed pages **37–46**
+- scans **49–58**
+- printed pages **47–56**
 - total: **10 source pages**
 - align by text anchors to the verified 1978 canonical
 - record wording / morphology / punctuation / structural variants
 - do not change canonical Tamil or English from witness evidence alone
 - retain the open `கர்வமடக்கும்` / `கருவமடக்கும்` recheck candidate unless the 1978 controlling scan is directly available and explicitly rechecked
-- stop after scan **48**.
+- stop after scan **58**.
 
 ## Deferred source — 1958 `தேனலைகள்`
 
