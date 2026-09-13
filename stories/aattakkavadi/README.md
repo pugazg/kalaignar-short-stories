@@ -25,13 +25,14 @@ Current witness state:
 
 - 1956 title form: **ஆட்டக் காவடி**
 - witness scans **23–33 / printed 21–31**
-- reviewed: **6/11 scans — scans 23–28 / printed 21–26**
+- reviewed: **11/11 scans — CLOSED / PASS**
 - narrative structure in reviewed span: **equivalent**
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
 - unresolved witness readings: **0**
+- additional closing-span variants include 1956 `ஈனஸ்தாயியில்` ↔ 1977 `ஈனக் குரலில்`, and 1956 `மனத்திற்கு விரோதமாக` ↔ 1977 `மனத் தீர்க்கு விரோதமாக`;
 - canonical-recheck candidate open: **1 — 1956 `நாளெல்லாம் பாடுபட்டாலும்` vs current 1977 `நாவெல்லாம் பாடுபட்டாலும்`**
-- exact next: scans **29–33 / printed 27–31**.
+- exact next for this witness: **none — comparison closed**.
 
 The candidate is not a canonical repair. The exact 1977 controlling scan must be reopened before any change.
 
