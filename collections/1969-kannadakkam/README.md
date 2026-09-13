@@ -24,9 +24,9 @@ The attached PDF itself is the controlling source for this edition. No external 
 
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
-| 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | **comparison witness NEXT** |
+| 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | **comparison COMPLETE / PASS** |
 | 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical** | **TAMIL / SOURCE PASS / CLOSED** |
-| 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
+| 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | **comparison witness NEXT** |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
 * Scan 32 is the story-opening page; scan 33 visibly carries printed folio **54**, so the opening is structurally inferred as printed page **53**.
@@ -88,11 +88,25 @@ Overall `நெருப்பு`: Stages 1–4 **14/14**; verified **14/14**; 
 
 The collection itself remains **PHYSICAL COMPLETENESS OPEN** because printed pages **31–52** are absent.
 
+## 1969 `கண்ணடக்கம்` witness result
+
+**COMPLETE / PASS — 7/7 scans reviewed.**
+
+- witness workspace: `stories/kannadakkam/witnesses/1969-kannadakkam/`
+- narrative structure: **equivalent**
+- added / missing major narrative blocks: **0**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical status changed: **No**
+- high-value recheck evidence: 1969 `வாளை மீனுக்கோ` ↔ canonical `வான மீனுக்கோ`; the 2009 witness independently also has `வாளை`
+- current canonical repairs `துணி ஏணை` and `நமனுலகு`: **independently supported**
+- witness unresolved issues: **0**
+
 ## Exact next activity
 
-Begin the **1969 `கண்ணடக்கம்` comparison-only witness audit**, using scans **4–10 / printed pages 3–9** against the existing 1977 canonical at `stories/kannadakkam/`.
+Begin the **1969 `வேணியின் காதலன்` comparison-only witness audit**, scans **25–31 / printed pages 24–30**, against the existing 1977 canonical `stories/veniyin-kadhalan/`.
 
-Create/use witness path `stories/kannadakkam/witnesses/1969-kannadakkam/`. Do **not** create a duplicate canonical Tamil transcription or English translation. Record edition variants as witness evidence; do not modify the 1977 canonical from witness evidence alone.
+Use/create `stories/veniyin-kadhalan/witnesses/1969-kannadakkam/`. Do not create duplicate Tamil or English layers, and do not modify the 1977 canonical from witness evidence alone.
 
 
 P3 scans **21–24 / printed 20–23**:

@@ -210,6 +210,18 @@ Workspace: `stories/neruppu/`.
 - assembly page provenance markers: **14/14**
 - source closure record: `stories/neruppu/TAMIL_SOURCE_CLOSURE.md`
 
-Exact next activity: **1969 `கண்ணடக்கம்` comparison-only witness audit — scans 4–10 / printed 3–9**.
+### 1969 comparison-only witness progress
 
-The comparison-only witness backlog is now unblocked. Process `கண்ணடக்கம்` first, then `வேணியின் காதலன்`, then `அமிர்தமதி`, without duplicate canonical Tamil/English layers. The collection printed-page gap **31–52** remains **OPEN** because the supplied source does not contain those pages.
+- `கண்ணடக்கம்` scans **4–10 / printed 3–9** — **COMPLETE / PASS, 7/7 scans**
+  - same narrative and eye-hospital ending;
+  - no major added / omitted block;
+  - canonical Tamil / English / verified status changed: **No**;
+  - high-value recheck evidence: 1969 `வாளை மீனுக்கோ` and the registered 2009 witness both differ from canonical `வான மீனுக்கோ`;
+  - current canonical `துணி ஏணை` and `நமனுலகு` independently supported;
+  - unresolved witness issues: **0**.
+- `வேணியின் காதலன்` scans **25–31 / printed 24–30** — **NEXT**
+- `அமிர்தமதி` scans **32–41 / printed 53–62** — pending
+
+Exact next activity: **1969 `வேணியின் காதலன்` comparison-only witness audit — scans 25–31 / printed 24–30**.
+
+Do not create duplicate canonical Tamil/English layers. The collection printed-page gap **31–52** remains **OPEN** because the supplied source does not contain those pages.

@@ -23,9 +23,9 @@ Collection physical completeness remains **OPEN** because printed pages **31–5
 
 Visible routing:
 
-1. `கண்ணடக்கம்` scans 4–10 — existing canonical witness
+1. `கண்ணடக்கம்` scans 4–10 — **existing canonical witness — COMPARISON CLOSED / PASS**
 2. `நெருப்பு` scans 11–24 — **NEW canonical — TAMIL/SOURCE CLOSED**
-3. `வேணியின் காதலன்` scans 25–31 — existing canonical witness
+3. `வேணியின் காதலன்` scans 25–31 — **existing canonical witness — NEXT**
 4. `அமிர்தமதி` scans 32–41 — existing canonical witness
 
 `நெருப்பு` Tamil/source work is now closed; the comparison-only witness backlog is unblocked.
@@ -125,8 +125,23 @@ All **14/14** `நெருப்பு` page records are four-gate verified.
 - scan 25: **excluded / opens `வேணியின் காதலன்`**
 - unresolved source readings: **0**
 
+## 1969 comparison-only witness progress
+
+### `கண்ணடக்கம்` — scans 4–10 / printed 3–9
+
+**CLOSED / PASS — 7/7 witness scans compared end-to-end.**
+
+- witness workspace: `stories/kannadakkam/witnesses/1969-kannadakkam/`
+- same narrative / hospital-frame ending: **PASS**
+- major added / omitted blocks: **0**
+- high-value 1977 recheck evidence: `வாளை மீனுக்கோ` vs canonical `வான மீனுக்கோ`
+- 2009 witness independently agrees on `வாளை மீனுக்கோ`
+- 1969 independently supports current canonical `துணி ஏணை` and `நமனுலகு`
+- canonical Tamil / English / status changed: **No**
+- unresolved witness issues: **0**
+
 ## Exact next activity — current
 
-**1969 `கண்ணடக்கம்` comparison-only witness audit — scans 4–10 / printed pages 3–9.**
+**1969 `வேணியின் காதலன்` comparison-only witness audit — scans 25–31 / printed pages 24–30.**
 
-Compare the attached 1969 witness directly against the existing 1977 canonical `stories/kannadakkam/`. Use/create `stories/kannadakkam/witnesses/1969-kannadakkam/`. Record true edition variants and any strong canonical-recheck candidates, but do not import witness wording into the 1977 canonical without a separate controlling-source recheck. Do not create duplicate Tamil or English layers.
+Compare the attached 1969 witness against the verified 1977 canonical `stories/veniyin-kadhalan/` (canonical scans **225–230 / printed 216–221**, 6/6 CURRENT PASS). Use/create `stories/veniyin-kadhalan/witnesses/1969-kannadakkam/`. Record true edition variants and recheck candidates only; do not alter canonical Tamil/English without a separate controlling-source recheck.
