@@ -49,6 +49,7 @@ Story block:
 
 - age wear / staining throughout
 - library ownership stamps present
+- scan 12: localized upper-left paper loss; enough text survives for anchor comparison
 - scan 14: severe paper loss
 - scan 15: extreme paper loss; only a narrow surviving strip remains, including terminal-story material / ornament
 - scan 37: heading region damaged; body opening survives
