@@ -4,15 +4,15 @@ printed_page: 22
 story: "neruppu"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
 “ஏய் அருள், போதும் நிறுத்து! என்ன உளறுகிறாய்?”
 
-“அடப்பாவி; என்னிடமிருந்து அவளைப் பிரித்தாய்! நானும் அனுமதித்தேன், உன்னிடம் நட்பின் காரணமாக நான் ஒரு பயனும் பெறவில்லை. நானே மானத்தையே நட்புக்காகப் பரிசளித்தேன்! பரிசளிக்கப்பட்ட பொருள் எவ்வளவு விலை உயர்ந்தது! அதையாவது காப்பாற்றினையா பாவி!...வெள்ளிக்கூஜா நசுங்கிவிட்டால் உருக்கிப் புதுக் கூஜா செய்துகொள்வார்கள். நீயோ, கூஜாவையே குப்பையில் எறிந்துவிட்டு இன்னொரு கூஜா வாங்கிவிட்டாய்.....அவ்வளவு பணத் திமிர் உனக்கு!.....”
+“அடப்பாவி; என்னிடமிருந்து அவளைப் பிரித்தாய்! நானும் அனுமதித்தேன், உன்னிடம் நட்பின் காரணமாக நான் ஒரு பயனும் பெறவில்லை. நானே மானத்தையே நட்புக்காகப் பரிசளித்தேன்! பரிசளிக்கப்பட்ட பொருள் எவ்வளவு விலை உயர்ந்தது! அதையாவது காப்பாற்றினையா பாவி!....வெள்ளிக்கூஜா நசுங்கிவிட்டால் உருக்கிப் புதுக் கூஜா செய்துகொள்வார்கள். நீயோ, கூஜாவையே குப்பையில் எறிந்துவிட்டு இன்னொரு கூஜா வாங்கிவிட்டாய்.....அவ்வளவு பணத் திமிர் உனக்கு!.....”
 
 அருளின் பேச்சிலே ஆத்திரம் குழறியதைப் பூபதி உணர்ந்து, நடுங்கினான்.
 
@@ -47,5 +47,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit +
 - unresolved glyph clusters: **0**;
 - no spelling, punctuation, sandhi, or lexical modernization applied;
 - Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
+
+## Stage 4 final independent source check
+
+- complete page reopened fresh against the controlling scan after Stage 2 and Stage 3;
+- final Stage-4 source-proven corrections on this page: **1**;
+- the source-visible punctuation after `பாவி!` is four dots; Stage-2 lexical and Stage-3 glyph dispositions were otherwise confirmed
+- omissions / duplications / paragraph / dialogue / page-boundary unresolved issues: **0**;
+- historical-glyph character-identity dispositions overturned: **0**;
+- final unresolved issues: **0**;
+- Stage 4: **COMPLETE / PASS — `verified`**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 22 -->

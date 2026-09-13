@@ -95,3 +95,60 @@ Total P2 Stage-4 source-fidelity corrections: **2**.
 P2 scans **16–20** are **`verified` 5/5** with **2 final Stage-4 corrections** and **0 unresolved issues**.
 
 Next: **P3 Stage 1 — first-pass transcription, scans 21–24 / printed pages 20–23**.
+
+## P3 Stage 4 — scans 21–24 / printed pages 20–23
+
+Status: **COMPLETE / PASS — VERIFIED 4/4 after final corrective revalidation**.
+
+The four P3 pages were reopened fresh against the attached controlling scans after Stage 2 and Stage 3. This final pass specifically rechecked the complete text, the 14 interim Stage-2 changes, the Stage-3 glyph dispositions, the scan 20→21 continuation, and the scan-24 ending/ornament boundary.
+
+### Audit-history correction
+
+P3 Stage 2 recorded **14** changes. Final Stage-4 pixel revalidation found that **6 of those were over-corrections**, **1 Stage-2 correction needed refinement**, and **2 additional source-proven discrepancies had been missed**.
+
+Accordingly:
+
+- Stage-2 changes retained unchanged: **7**;
+- Stage-2 over-corrections reverted: **6**;
+- Stage-2 correction refined at Stage 4: **1**;
+- new Stage-4 source corrections: **2**;
+- final net source-fidelity differences from the P3 Stage-1 text: **10**;
+- corrective changes applied during Stage 4 to the Stage-3 text: **9**.
+
+### P3 final source-proven Stage-4 corrections
+
+| Scan | Earlier committed reading | Final source-supported reading | Disposition |
+|---:|---|---|---|
+| 21 | `என்ன எழுதி இருக்கிறது` | `என்ன எழுத இருக்கிறது` | revert Stage-2 over-correction |
+| 21 | `அதுதான்!` | `அத்தான்!` | revert Stage-2 over-correction |
+| 22 | `புரிய வில்லை` | `புரியவில்லை` | revert line-break over-correction |
+| 22 | `மௌனமாக` | `மெளனமாக` | missed source spelling corrected |
+| 22 | `ஏதுவும் புரியாமல்` | `எதுவும் புரியாமல்` | revert Stage-2 over-correction |
+| 22 | `சாற்றற்ற சக்கையாகி` | `சாறற்ற சக்கையாகி` | refine Stage-2 lexical correction |
+| 23 | `காப்பாற்றினையா பாவி!...வெள்ளிக்கூஜா` | `காப்பாற்றினையா பாவி!....வெள்ளிக்கூஜா` | source punctuation |
+| 24 | `ஓவென அலறினாள்...,` | `ஓவென அலறினாள்..,` | revert punctuation over-correction |
+| 24 | `அருள் மட்டும் அலைந்து கொண்டிருந்தான்.` | `அருள் மட்டும் அழிந்து கொண்டிருந்தான்.` | revert lexical over-correction |
+
+### P3 final revalidation gates
+
+- whole pages reopened against source: **4/4**
+- complete text coverage: **PASS**
+- omissions / duplications after correction: **0**
+- punctuation / paragraph / dialogue / page-boundary unresolved issues: **0**
+- scan 20→21 continuation: **PASS**
+- Stage-3 historical-glyph character identities rechecked: **PASS**
+- Stage-3 character-identity corrections overturned: **0**
+- `காட்டினை`: **confirmed**
+- `காப்பாற்றினையா`: **confirmed**
+- unresolved historical-glyph candidates: **0**
+- scan 24 final sentence: **PASS after correction**
+- scan 24 closing ornament / forward boundary: **PASS**
+- unresolved ordinary source-text readings: **0**
+- blocked readings: **0**
+- P3 page status: **`verified` 4/4**
+
+## P3 final disposition
+
+P3 scans **21–24** are **`verified` 4/4**. The complete `நெருப்பு` source range, scans **11–24 / printed pages 10–23**, is now four-gate verified **14/14** with **0 unresolved issues**.
+
+Next: **assemble and close the `நெருப்பு` Tamil/source layer; do not begin comparison-only witness work in this same activity**.

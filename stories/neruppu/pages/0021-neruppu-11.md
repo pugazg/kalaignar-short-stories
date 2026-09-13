@@ -4,13 +4,13 @@ printed_page: 20
 story: "neruppu"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
-போக்கிக்கொள்ளப் பணம் கிடைக்குமென்று! பிறகு, நான் என்ன எழுதி இருக்கிறது; அதுதான்!
+போக்கிக்கொள்ளப் பணம் கிடைக்குமென்று! பிறகு, நான் என்ன எழுத இருக்கிறது; அத்தான்!
 
 நீங்கள் கூடப் பூபதிக்கு எழுதியதாக ஒரு கடிதத்தை என்னிடம் காட்டினை. அதில் எங்களிருவரையும் வாழ்த்தி யிருந்தீர்கள்....அக் கடிதம் அவனுக்கு வரும்போதெல்லாம் நான் உங்களுடையவளாகத்தான் இருந்தேன். இரண்டு ஆண்டுகளுக்குப் பிறகுதான் அவனுடைய வெள்ளாட்டியானேன்; வைப்பாட்டியானேன்! நேரம் காலம் ஓய்வு ஒழிச்சல் இல்லாத காமப் பதுமையாக அவனுக்கு நான் மாறினேன். அதன் விளைவாகக் காசு குவிந்தது. அம்மாவின் காசம் குறைந்தது. இதோ! அந்தக் காசம் என்னைத் தொத்திக்கொண்டது!....அம்மாவுக்குக் காசம் தீர நான் சம்பாதித்துக் கொடுத்தேன்—இப்போது எனக்கே—காசம் என்னைக் காப்பாற்ற எந்த வாரிசம் இந்த வீட்டில் இல்லை. எனக்குக் காசம் என்று கேள்விப்பட்ட மறுநாளே பூபதி விலகிவிட்டான்.
 
@@ -28,7 +28,7 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit +
 ## Stage 2 visual-fidelity notes
 
 - complete page rechecked line-by-line / phrase-by-phrase against the controlling scan;
-- source-proven corrections on this page: **5**;
+- interim Stage-2 corrections recorded on this page: **5**; Stage 4 later reverted **2** over-corrections;
 - `காட்டினை` — confirmed as the visible source form; exact historical character identity remains for Stage 3;
 - `வெள்ளாட்டியானேன்` — confirmed exactly; preserve the unusual source word;
 - `மலேயாவில் தாங்கள் விலாசத்தையும்` — confirmed exactly; do not normalize the possessive wording;
@@ -45,5 +45,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit +
 - unresolved glyph clusters: **0**;
 - no spelling, punctuation, sandhi, or lexical modernization applied;
 - Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
+
+## Stage 4 final independent source check
+
+- complete page reopened fresh against the controlling scan after Stage 2 and Stage 3;
+- final Stage-4 source-proven corrections on this page: **2**;
+- Stage-2 over-corrections `எழுதி` and `அதுதான்` were reverted to source `எழுத` and `அத்தான்`; all other Stage-2 / Stage-3 dispositions on this page were confirmed
+- omissions / duplications / paragraph / dialogue / page-boundary unresolved issues: **0**;
+- historical-glyph character-identity dispositions overturned: **0**;
+- final unresolved issues: **0**;
+- Stage 4: **COMPLETE / PASS — `verified`**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 20 -->
