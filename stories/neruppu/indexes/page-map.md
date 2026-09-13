@@ -41,7 +41,9 @@ Current totals:
 - P2 Stage-4 source-proven corrections: **2**
 - P2 final unresolved issues: **0**
 
-Next: **assemble and close the `நெருப்பு` Tamil/source layer**.
+Assembly: **PASS / CLOSED — `sections/neruppu.md`, 14/14 page markers, 0 unresolved**.
+
+Next collection activity: **1969 `கண்ணடக்கம்` comparison-only witness audit — scans 4–10 / printed pages 3–9**.
 
 
 - P3 Stage-1 queued source-sensitive locations: **9**

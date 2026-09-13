@@ -24,8 +24,8 @@ The attached PDF itself is the controlling source for this edition. No external 
 
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
-| 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **ALL FOUR GATES VERIFIED 14/14; TAMIL ASSEMBLY / SOURCE CLOSURE NEXT** |
+| 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | **comparison witness NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical** | **TAMIL / SOURCE PASS / CLOSED** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -77,11 +77,22 @@ P2 scans **16–20 / printed 15–19**:
 
 Overall `நெருப்பு`: Stages 1–4 **14/14**; verified **14/14**; needs-review **0/14**; not-started **0/14**.
 
+## `நெருப்பு` Tamil/source closure
+
+- four-gate page verification: **14/14 COMPLETE / PASS**
+- canonical reading layer: `stories/neruppu/sections/neruppu.md`
+- assembly provenance markers: **14/14**
+- source closure record: `stories/neruppu/TAMIL_SOURCE_CLOSURE.md`
+- unresolved source readings: **0**
+- status: **PASS / CLOSED**
+
+The collection itself remains **PHYSICAL COMPLETENESS OPEN** because printed pages **31–52** are absent.
+
 ## Exact next activity
 
-Process **`நெருப்பு` Tamil assembly / source-layer closure** from the 14 verified page records.
+Begin the **1969 `கண்ணடக்கம்` comparison-only witness audit**, using scans **4–10 / printed pages 3–9** against the existing 1977 canonical at `stories/kannadakkam/`.
 
-Do not begin `வேணியின் காதலன்` or the other comparison-only witness work until `நெருப்பு` Tamil/source work closes.
+Create/use witness path `stories/kannadakkam/witnesses/1969-kannadakkam/`. Do **not** create a duplicate canonical Tamil transcription or English translation. Record edition variants as witness evidence; do not modify the 1977 canonical from witness evidence alone.
 
 
 P3 scans **21–24 / printed 20–23**:

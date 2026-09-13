@@ -6,7 +6,7 @@
 
 Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md).
 
-- **1969 `கண்ணடக்கம்` — ACTIVE:** `நெருப்பு` is now **four-gate verified 14/14** with **0 unresolved page-level issues**; exact next is **Tamil assembly / source-layer closure**. The supplied collection still has an unresolved physical gap at printed pages **31–52**.
+- **1969 `கண்ணடக்கம்` — ACTIVE:** `நெருப்பு` is **Tamil/source PASS / CLOSED** with **14/14 verified pages** and a complete reversible reading assembly. Exact next is the **1969 `கண்ணடக்கம்` comparison-only witness audit, scans 4–10 / printed 3–9**. The supplied collection still has an unresolved physical gap at printed pages **31–52**.
 - **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
 - **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
 - **1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` — CLOSED:** Tamil/source release audit PASS and English translation phase PASS / CLOSED.

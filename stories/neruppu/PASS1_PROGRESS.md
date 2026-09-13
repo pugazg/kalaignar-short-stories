@@ -174,8 +174,21 @@ Durable gate: `HISTORICAL_GLYPH_GATE.md`.
 
 Durable final audit: `FINAL_SOURCE_CHECK.md`.
 
-## Exact next activity — current
+## Tamil assembly / source-layer closure
 
-**Assemble and close the `நெருப்பு` Tamil/source layer.**
+- canonical reading layer: `sections/neruppu.md`
+- input page records: **verified 14/14**
+- page provenance markers represented: **14/14**
+- scans **11–24** represented exactly once and in order
+- printed pages **10–23** represented exactly once and in order
+- scan 20→21 open-letter continuation: **PASS**
+- scan 24 terminal prose + ornament boundary: **PASS**
+- scan 25 forward boundary: **excluded**
+- unresolved source readings: **0**
+- Tamil/source status: **PASS / CLOSED**
 
-Build the canonical assembled Tamil text from the 14 verified page records, preserve provenance/page reversibility, validate story boundaries and completeness, synchronize closure controls, and only then unblock the next layer. Do not begin the comparison-only 1969 witness work in the same activity.
+Durable closure: `TAMIL_SOURCE_CLOSURE.md`.
+
+## Exact next activity — collection level
+
+**Begin the 1969 comparison-only witness backlog with `கண்ணடக்கம்`, scans 4–10 / printed pages 3–9.**

@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / ALL PAGE GATES CLOSED — VERIFIED 14/14; TAMIL ASSEMBLY NEXT.**
+**TAMIL / SOURCE PASS / CLOSED — 14/14 VERIFIED + ASSEMBLY COMPLETE.**
 
 - no prior canonical `நெருப்பு` workspace or documented alternate-title match was found at activation;
 - scan 11 opens with **நெருப்பு**;
@@ -56,8 +56,8 @@ Default batch size: **5 physical scans**.
 - needs-review: **0 / 14**
 - not-started: **0 / 14**
 - blocked: **0**
-- Tamil assembly: **NOT STARTED**
-- English: **BLOCKED until Tamil/source closure**
+- Tamil assembly: **PASS / CLOSED**
+- English: **UNBLOCKED / NOT STARTED**
 
 ## P1 durable closure
 
@@ -147,6 +147,18 @@ Scans **21–24 / printed 20–23**:
 
 All **14/14** `நெருப்பு` page records are now verified through all four gates.
 
-## Exact next activity — current
+## Tamil reading layer / source closure
 
-**Assemble and close the `நெருப்பு` Tamil/source layer.**
+- reading layer: [`sections/neruppu.md`](sections/neruppu.md)
+- closure record: [`TAMIL_SOURCE_CLOSURE.md`](TAMIL_SOURCE_CLOSURE.md)
+- verified pages assembled: **14/14**
+- scan / printed-page provenance markers: **14/14**
+- scan 20→21 continuation: **preserved**
+- scan 24 final sentence + closing ornament boundary: **PASS**
+- scan 25 forward boundary: **excluded**
+- unresolved source readings: **0**
+- Tamil/source status: **PASS / CLOSED**
+
+## Exact next activity — collection level
+
+No further Tamil/source work remains for `நெருப்பு`. Next collection activity: **1969 `கண்ணடக்கம்` comparison-only witness audit, scans 4–10 / printed pages 3–9, against the existing canonical `stories/kannadakkam/`**.

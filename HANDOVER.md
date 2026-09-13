@@ -24,11 +24,11 @@ Collection physical completeness remains **OPEN** because printed pages **31–5
 Visible routing:
 
 1. `கண்ணடக்கம்` scans 4–10 — existing canonical witness
-2. `நெருப்பு` scans 11–24 — **NEW canonical ACTIVE**
+2. `நெருப்பு` scans 11–24 — **NEW canonical — TAMIL/SOURCE CLOSED**
 3. `வேணியின் காதலன்` scans 25–31 — existing canonical witness
 4. `அமிர்தமதி` scans 32–41 — existing canonical witness
 
-Do not begin the comparison-only witness backlog until `நெருப்பு` Tamil/source work closes.
+`நெருப்பு` Tamil/source work is now closed; the comparison-only witness backlog is unblocked.
 
 ## `நெருப்பு` current state
 
@@ -45,6 +45,9 @@ Workspace: `stories/neruppu/`
 - needs-review: **0/14**
 - not-started: **0/14**
 - blocked: **0**
+- Tamil assembly: **PASS / CLOSED**
+- reading layer: `stories/neruppu/sections/neruppu.md`
+- source closure: `stories/neruppu/TAMIL_SOURCE_CLOSURE.md`
 
 ### P1 — scans 11–15 / printed 10–14
 
@@ -108,8 +111,22 @@ Transcribe the final four story scans from the controlling source only, preserve
 
 All **14/14** `நெருப்பு` page records are four-gate verified.
 
+## `நெருப்பு` Tamil/source closure
+
+**PASS / CLOSED.**
+
+- verified page records: **14/14**
+- assembled reading layer: `stories/neruppu/sections/neruppu.md`
+- page provenance markers: **14/14**
+- scan sequence: **11–24 exactly once**
+- printed pages: **10–23 exactly once**
+- scan 20→21 continuation: **PASS**
+- scan 24 ending + ornament boundary: **PASS**
+- scan 25: **excluded / opens `வேணியின் காதலன்`**
+- unresolved source readings: **0**
+
 ## Exact next activity — current
 
-**Assemble and close the `நெருப்பு` Tamil/source layer.**
+**1969 `கண்ணடக்கம்` comparison-only witness audit — scans 4–10 / printed pages 3–9.**
 
-Create the canonical reading-layer assembly from the 14 verified page records using the existing repository convention (for example `stories/neruppu/sections/neruppu.md`), preserve scan/printed-page provenance markers and reversible page boundaries, validate that scans 11–24 are represented exactly once, confirm scan 24 is terminal and scan 25 is excluded, synchronize closure controls, commit, and stop before comparison-only witness work.
+Compare the attached 1969 witness directly against the existing 1977 canonical `stories/kannadakkam/`. Use/create `stories/kannadakkam/witnesses/1969-kannadakkam/`. Record true edition variants and any strong canonical-recheck candidates, but do not import witness wording into the 1977 canonical without a separate controlling-source recheck. Do not create duplicate Tamil or English layers.
