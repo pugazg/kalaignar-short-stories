@@ -80,8 +80,55 @@ Examples include:
 - canonical-recheck candidates open: **1 — `நாளெல்லாம்` / `நாவெல்லாம்`**
 - unresolved witness reading: **0**
 
-## Next comparison span
+## Batch 2 — scans 29–33 / printed 27–31
 
-1956 scans **29–33 / printed 27–31** — remaining five pages of `ஆட்டக் காவடி`.
+**COMPLETE / PASS — 5/5 witness scans reviewed.**
 
-Under the user's current batching instruction, then continue with `நடுத்தெரு நாராயணி` scans **34–38 / printed 32–36** so the next iteration processes **10 source pages total**.
+### Physical / textual alignment
+
+| 1956 scan / printed | Witness anchor | 1977 canonical alignment |
+|---:|---|---|
+| 29 / 27 | street procession / Kandan introduction closes; Mirugandu looks toward Kanimozhi | canonical scan 35 → 36 |
+| 30 / 28 | procession sound fades; night intrusion by Mirugandu | canonical scan 36 |
+| 31 / 29 | Kanimozhi resists; Kandan rescues her; marriage / reform sequence | canonical scan 36 → 37 |
+| 32 / 30 | Peethambaram's influence; Palani trip; Kanimozhi disappears; letter setup | canonical scan 37 |
+| 33 / 31 | Kanimozhi's letter; Kandan faints; terminal star | canonical scan 37 → 38 |
+
+No major narrative block is added or omitted.
+
+### Material edition variants
+
+| 1956 witness | 1977 canonical | Disposition |
+|---|---|---|
+| `ஈனஸ்தாயியில்` | `ஈனக் குரலில்` | genuine lexical edition variant |
+| `பகுத்தறிவுப் பெண்ணன்றோ!` | `பகுத்தறிவுப் பெண்ணன்றே!` | particle / rhetorical-form variant |
+| `மனத்திற்கு விரோதமாக` | `மனத் தீர்க்கு விரோதமாக` | genuine edition wording difference; 1977 unusual reading remains source-controlled |
+| `அதை விட்டு வேகமாக அகன்றான்` | `அந்த இடத்தை விட்டு வேகமாக அகன்றான்` | lexical expansion in later edition |
+
+### Witness-only layout evidence
+
+- scan **30 / printed 28** — centered three-star scene break before the night intrusion;
+- scan **32 / printed 30** — centered three-star scene break before the later Kandan/Palani sequence;
+- scan **33 / printed 31** — terminal star after the final sentence.
+
+These marks are physical witness structure, not prose.
+
+### Final boundary
+
+Scan **33** closes the story. Scan **34** independently opens `நடுத்தெரு நாராயணி`.
+
+## Final disposition
+
+- 1956 witness scans reviewed: **11/11**
+- complete-story comparison: **PASS**
+- narrative structure equivalent: **Yes**
+- major added / omitted blocks: **0**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- unresolved witness reading: **0**
+- canonical-recheck candidate remains open: **1956 `நாளெல்லாம்` vs 1977 `நாவெல்லாம்`**
+- witness comparison: **CLOSED / PASS**
+
+## Next collection witness
+
+1956 `நடுத்தெரு நாராயணி`, scans **34–59 / printed 32–57**, routed to `pugazg/kalaignar-novels/works/nadutheru-narayani/`.
