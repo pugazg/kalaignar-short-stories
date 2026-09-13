@@ -1,6 +1,6 @@
 # Visible-Scope Closure — 1969 `கண்ணடக்கம்`
 
-Status: **VISIBLE TAMIL/SOURCE WORK CLOSED / NERUPPU ENGLISH PASS / PHYSICAL COMPLETENESS OPEN**.
+Status: **VISIBLE TAMIL/SOURCE + NERUPPU ENGLISH CLOSED / PRINT GAP DOCUMENTED / CLOSED UNDER AVAILABLE EVIDENCE**.
 
 ## Processed visible blocks
 
@@ -31,6 +31,10 @@ The missing folio span remains an open physical-source issue. The user explicitl
 
 This decision does not infer or waive the missing pages; it only separates **translation readiness of verified `நெருப்பு`** from **physical completeness of the parent printed collection**.
 
-## Resume condition
+## Final disposition
 
-Resume only with stronger same-publication evidence that accounts for the missing printed span. Do not infer missing titles, text or boundaries.
+The user confirms this is the **only available copy**. The absent printed pages **31–52** remain permanently documented as a source limitation.
+
+No acquisition/recovery activity remains pending. This 1969 collection is **CLOSED UNDER AVAILABLE EVIDENCE**.
+
+Reopen only if genuinely new evidence appears in the future; do not infer missing titles, text or boundaries.

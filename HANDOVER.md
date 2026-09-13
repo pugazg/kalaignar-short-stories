@@ -19,7 +19,7 @@
 
 Controlling attached source: `TVA_BOK_0064095_கண்ணடக்கம்.pdf`.
 
-Collection physical completeness remains **OPEN** because printed pages **31–52 (22 pages)** are absent. Do not guess those missing story identities/text.
+Printed pages **31–52 (22 pages)** are absent from the only copy available to the user. This is a **known terminal source limitation**, not a pending search for another copy. Do not guess those missing story identities/text.
 
 Visible routing:
 
@@ -86,13 +86,6 @@ Workspace: `stories/neruppu/`
 2. visual text-fidelity audit → commit + sync
 3. historical Tamil glyph audit → commit + sync
 4. final independent source check → commit + sync; only then `verified`
-
-## Exact next activity
-
-**`நெருப்பு` P3 Stage 1 — first-pass transcription, scans 21–24 / printed 20–23.**
-
-Transcribe the final four story scans from the controlling source only, preserve source spellings/punctuation/spacing and page boundaries, queue genuinely uncertain readings explicitly, synchronize controls, commit, and stop before P3 Stage 2.
-
 
 ### P3 — scans 21–24 / printed 20–23
 
@@ -201,8 +194,22 @@ Durable distinction:
 
 Tracker: `collections/1969-kannadakkam/ENGLISH_TRANSLATION_PROGRESS.md`.
 
+## Final 1969 collection disposition
+
+The user confirms that this 43-scan PDF is **the only copy available**. There is no second or fuller source expected for this collection.
+
+Therefore:
+
+- printed pages **31–52** remain **absent / unrecoverable under current evidence**;
+- the gap is preserved permanently as a source limitation;
+- visible/source-supported work is **CLOSED**;
+- `நெருப்பு` Tamil/source is **CLOSED / PASS**;
+- `நெருப்பு` English is **CLOSED / PASS**;
+- comparison witnesses are **CLOSED / PASS**;
+- no source-completeness hold remains waiting for another copy.
+
 ## Exact next activity — current
 
-**SOURCE-COMPLETENESS HOLD.**
+**NONE — 1969 `கண்ணடக்கம்` is CLOSED UNDER THE ONLY AVAILABLE COPY.**
 
-No further source-dependent 1969 story work can be performed from the supplied 43-scan PDF. `நெருப்பு` translation is complete. Resume the missing-span intake only when stronger same-publication evidence accounts for printed pages **31–52**. Do not infer missing titles/text and do not use external substitutes unless the user explicitly authorizes research.
+Any future reopening would require genuinely new evidence or an explicitly requested separate canonical recheck. There is no automatic pending activity for this collection.

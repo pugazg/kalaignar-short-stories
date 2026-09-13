@@ -2,7 +2,7 @@
 
 ## Status
 
-**OPEN — supplied PDF has a 22-page printed-folio gap.**
+**CLOSED UNDER AVAILABLE EVIDENCE — supplied PDF has a documented 22-page printed-folio gap.**
 
 ## Direct evidence
 
@@ -25,9 +25,17 @@ Missing printed span: **22 pages**.
 - do not search external websites merely to patch the gap unless the user explicitly requests that research;
 - visible story blocks may still be processed normally and source-faithfully.
 
-## Closure condition
+## Closure disposition
 
-This completeness issue can close only if stronger same-publication evidence accounts for printed pages 31–52, for example a complete copy/scans supplied by the user.
+The user confirms that this PDF is **the only copy available**. Therefore the missing printed span cannot be treated as an indefinitely pending acquisition task.
+
+The correct archival disposition is:
+
+- preserve the 22-page gap explicitly;
+- do not infer missing content;
+- do not label the printed book physically complete;
+- close the workflow **under available evidence**;
+- reopen only if genuinely new evidence appears in the future.
 
 ## Visible-source processing disposition
 
@@ -42,11 +50,11 @@ All visible story blocks in the supplied 43-scan PDF have now been dispositioned
 
 Visible-source completion does **not** close physical completeness.
 
-Because this collection is being processed in a Tamil-first collection-wide workflow, the English phase for the new canonical `நெருப்பு` remains **deferred until the collection-wide Tamil/source release gate can close**.
+The user-authorized visible-scope Tamil/source release gate is closed and `நெருப்பு` English is complete.
 
-Until stronger same-publication evidence accounts for printed pages 31–52, collection-level state remains:
+Final collection-level state:
 
-**VISIBLE STORY WORK COMPLETE / PHYSICAL COMPLETENESS OPEN / SOURCE-COMPLETENESS HOLD**.
+**VISIBLE STORY WORK COMPLETE / PHYSICAL PRINT GAP DOCUMENTED / CLOSED UNDER AVAILABLE EVIDENCE**.
 
 
 ## Translation-release scope decision
@@ -62,3 +70,10 @@ This means:
 - no missing story identity/text is inferred;
 - the translation-release gate is **CLOSED for visible processed material only**;
 - `நெருப்பு` English may proceed from its independently closed 14/14 canonical Tamil layer.
+
+
+## Only-copy confirmation
+
+The user explicitly confirmed that there is **no other source copy available** for this 1969 collection.
+
+This confirmation converts the former `SOURCE-COMPLETENESS HOLD` into a terminal archival state: **CLOSED UNDER AVAILABLE EVIDENCE**. The missing printed pages remain documented as absent; they are not considered resolved, reconstructed, or silently waived.

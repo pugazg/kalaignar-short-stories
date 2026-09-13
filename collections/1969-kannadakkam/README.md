@@ -20,7 +20,7 @@ The attached PDF itself is the controlling source for this edition. No external 
 
 ## Intake state
 
-**SOURCE INTAKE PASS / PHYSICAL COMPLETENESS OPEN**
+**SOURCE-LIMITED COMPLETE / CLOSED UNDER ONLY AVAILABLE COPY**
 
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
@@ -140,7 +140,7 @@ All four **visible** story blocks in the supplied 1969 PDF are now dispositioned
 3. `வேணியின் காதலன்` — comparison **CLOSED / PASS**
 4. `அமிர்தமதி` — comparison **CLOSED / PASS**
 
-The physical collection itself remains **OPEN / INCOMPLETE** because printed pages **31–52 (22 pages)** are absent. No missing title, text or boundary is inferred.
+Printed pages **31–52 (22 pages)** are absent from the only copy available to the user. No missing title, text or boundary is inferred. This gap remains a permanent source limitation and does not keep the workflow open indefinitely.
 
 ## Tamil/source release gate — user-authorized visible-scope closure
 
@@ -159,11 +159,21 @@ Result:
 
 English tracker: `ENGLISH_TRANSLATION_PROGRESS.md`.
 
-## Exact next activity
+## Final collection status
 
-**No further source-dependent 1969 story processing is possible from the supplied PDF.** Maintain the collection on a **source-completeness hold** until printed pages **31–52** are supplied or independently resolved.
+The user confirms that this PDF is **the only copy available**.
 
-If stronger same-publication evidence for pages 31–52 is supplied, resume with physical intake / story-boundary mapping and duplicate checking before activating any canonical work. Do not infer missing titles or text.
+Accordingly:
+
+- visible source-supported story work: **COMPLETE / CLOSED**
+- `நெருப்பு` Tamil/source: **PASS / CLOSED**
+- `நெருப்பு` English: **PASS / CLOSED**
+- comparison witnesses: **PASS / CLOSED**
+- printed pages 31–52: **ABSENT / DOCUMENTED SOURCE LIMITATION**
+- waiting for another copy: **No**
+- automatic next activity: **None**
+
+The collection is therefore **CLOSED UNDER AVAILABLE EVIDENCE**, while explicitly remaining physically incomplete as a historical printed object.
 
 
 P3 scans **21–24 / printed 20–23**:

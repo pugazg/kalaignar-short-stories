@@ -248,6 +248,10 @@ Result:
 - English source-page traceability: **14/14 PASS**
 - Tamil changed during translation: **No**
 - English tracker: `collections/1969-kannadakkam/ENGLISH_TRANSLATION_PROGRESS.md`
-- next state: **SOURCE-COMPLETENESS HOLD**
+- user confirms the supplied PDF is the **only available copy**;
+- printed pages **31–52** remain a permanent documented source limitation;
+- final 1969 state: **CLOSED UNDER AVAILABLE EVIDENCE**;
+- no source-completeness hold remains pending;
+- no automatic next activity remains for this collection.
 
-Do not infer missing story identities or use substitute editions to patch the gap without explicit authorization.
+Do not infer missing story identities or reconstruct absent text from other editions.

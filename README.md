@@ -6,7 +6,7 @@
 
 Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md).
 
-- **1969 `கண்ணடக்கம்` — VISIBLE-SCOPE TAMIL + `நெருப்பு` ENGLISH CLOSED / PHYSICAL COMPLETENESS HOLD:** all four visible story blocks are dispositioned. Per explicit user instruction, the missing **31–52** folio gap remains documented but the Tamil/source release gate is closed for the processed visible scope; `நெருப்பு` English is **PASS / COMPLETE (14/14 source pages traceable)**. The physical printed collection itself remains incomplete.
+- **1969 `கண்ணடக்கம்` — CLOSED UNDER ONLY AVAILABLE COPY:** all visible story blocks are dispositioned; `நெருப்பு` Tamil/source and English are **PASS / CLOSED**. Printed pages **31–52** are absent from the only copy available and are preserved as a permanent source limitation, not as a pending hold.
 - **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
 - **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
 - **1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` — CLOSED:** Tamil/source release audit PASS and English translation phase PASS / CLOSED.

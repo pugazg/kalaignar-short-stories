@@ -37,4 +37,4 @@ The three other visible stories are comparison-only witnesses to canonicals cont
 
 **VISIBLE-SCOPE ENGLISH COMPLETE / PASS — 1/1 target.**
 
-The unresolved collection-level item is physical source completeness for printed pages **31–52**, not an English defect in `நெருப்பு`.
+Printed pages **31–52** remain absent from the only available copy. This is a documented source limitation, not an English defect and not a pending acquisition task. The 1969 visible-scope English phase is **CLOSED / PASS**.
