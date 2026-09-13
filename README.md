@@ -2,6 +2,16 @@
 
 கலைஞர் மு. கருணாநிதியின் சிறுகதைகள், தனிநூல் பதிப்புகள், மற்றும் பல சிறுகதைகளை ஒரே தொகுப்பாகக் கொண்ட anthologies-ஐ source-first முறையில் பாதுகாக்கும் repository.
 
+## Current repository status
+
+Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md).
+
+- **1969 `கண்ணடக்கம்` — ACTIVE:** `நெருப்பு` is the sole visible new canonical. P1 is **verified 5/5**; P2 Stage 1 is **complete 5/5**; exact next is **P2 Stage 2, scans 16–20 / printed 15–19**. The supplied collection still has an unresolved physical gap at printed pages **31–52**.
+- **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
+- **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
+- **1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` — CLOSED:** Tamil/source release audit PASS and English translation phase PASS / CLOSED.
+- The previously closed 1977, 1997, 2004, 2008 and 2009 layers remain closed under their collection and project trackers.
+
 ## மூலக் கொள்கை
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
@@ -25,7 +35,7 @@ Permanent guides:
 
 ## 1977 English post-Tamil re-audit — CLOSED
 
-The existing 37/37 English translation phase remains complete. A separate five-gate verification programme is now active against the final 2026 Tamil canonical layer.
+The existing 37/37 English translation phase remains complete. The separate five-gate verification programme against the final 2026 Tamil canonical layer is also complete and closed.
 
 - workflow: [`ENGLISH_REAUDIT_GUIDE.md`](ENGLISH_REAUDIT_GUIDE.md)
 - tracker: [`ENGLISH_REAUDIT_PROGRESS.md`](ENGLISH_REAUDIT_PROGRESS.md)

@@ -157,7 +157,7 @@ This 1976 reconciliation is **CLOSED under current evidence**.
 
 ## Post-closure reactivation — 1969 `கண்ணடக்கம்` — ACTIVE
 
-The user next supplied:
+The user supplied:
 
 `TVA_BOK_0064095_கண்ணடக்கம்.pdf`
 
@@ -170,26 +170,34 @@ Registered source facts:
 - scans: **43**
 - bytes: **50,321,052**
 - source type: image-only
-- SHA-256: **PENDING** because the current runtime did not complete raw-byte hashing
+- source PDF committed: **No**
+- SHA-256: **PENDING**; do not invent a checksum
 
-Visible story blocks:
+Visible routing:
 
-- `கண்ணடக்கம்` — existing canonical witness;
-- `நெருப்பு` — **new canonical candidate**;
-- `வேணியின் காதலன்` — existing canonical witness;
-- `அமிர்தமதி` — existing canonical witness.
+- `கண்ணடக்கம்` scans 4–10 / printed 3–9 — existing canonical, comparison witness only;
+- `நெருப்பு` scans 11–24 / printed 10–23 — **new canonical ACTIVE**;
+- `வேணியின் காதலன்` scans 25–31 / printed 24–30 — existing canonical, comparison witness only;
+- `அமிர்தமதி` scans 32–41 / printed 53–62 — existing canonical, comparison witness only.
 
 A critical physical discontinuity remains open: printed pages **31–52 (22 pages)** are absent from the supplied PDF between `வேணியின் காதலன்` and `அமிர்தமதி`. No missing story identity or text is inferred.
 
-Current exact next activity: activate and process `நெருப்பு`, scans **11–24 / printed 10–23**, as the sole visible new canonical candidate. The other three stories are comparison-only witnesses.
+### Current `நெருப்பு` checkpoint
 
-### 1969 `கண்ணடக்கம்` activation checkpoint — `நெருப்பு`
-
-The sole visible new-canonical candidate `நெருப்பு` has now passed source intake and been activated at `stories/neruppu/`.
+Workspace: `stories/neruppu/`.
 
 - source range: scans **11–24 / printed 10–23**
 - page records: **14/14 initialized**
-- transcription committed at activation: **0 pages**
-- exact next: **P1 Stage A scans 11–15**
-- existing stories `கண்ணடக்கம்`, `வேணியின் காதலன்`, `அமிர்தமதி` remain comparison-only witnesses
-- collection printed-page gap 31–52 remains OPEN
+- P1 scans 11–15: **all four stages COMPLETE / VERIFIED 5/5**
+- P2 scans 16–20: **Stage 1 COMPLETE 5/5**, pages `needs-review`
+- P2 explicit Stage-2 queue: **6 source-sensitive locations**
+- Stage 1 overall: **10/14**
+- Stages 2–4 overall: **5/14**
+- verified: **5/14**
+- needs-review: **5/14**
+- not-started: **4/14**
+- blocked: **0**
+
+Exact next activity: **P2 Stage 2 — visual text-fidelity audit, scans 16–20 / printed 15–19**.
+
+The other three visible stories remain comparison-only witnesses and must not be processed until `நெருப்பு` Tamil/source work closes. The collection printed-page gap **31–52** remains **OPEN** because the supplied source does not contain those pages.

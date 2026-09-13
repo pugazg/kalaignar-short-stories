@@ -28,9 +28,9 @@ User-set cadence: **10 comparison pages per iteration**.
 | 1 | `நளாயினி` | 3–12 | `stories/nalayini/` | **COMPLETE / PASS — 10/10** |
 | 2 | `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` | **COMPLETE / PASS — 6/6** |
 | 3 | `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` | **COMPLETE / PASS — 6/6** |
-| 4 | `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | **IN PROGRESS — 47–49 PASS; 50–55 NEXT** |
-| 5 | `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` | pending |
-| 6 | `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` | pending |
+| 4 | `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | **COMPLETE / PASS — 9/9** |
+| 5 | `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` | **COMPLETE / PASS — 7/7** |
+| 6 | `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` | **COMPLETE / PASS — 10/10** |
 
 `நாட்டிய கலாராணி` and `மானம்` are not witness targets because this exact 1976 edition controls those canonical workspaces and both are already Tamil + English PASS / CLOSED.
 
