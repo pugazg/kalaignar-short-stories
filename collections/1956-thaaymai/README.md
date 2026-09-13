@@ -106,20 +106,20 @@ Workspace:
 `works/nadutheru-narayani/witnesses/1956-thaaymai/`
 
 - witness range: **scans 34–59 / printed 32–57**
-- reviewed: **5/26 — scans 34–38 / printed 32–36**
+- reviewed: **15/26 — scans 34–48 / printed 32–46**
 - narrative structure in reviewed span: **equivalent**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
-- canonical-recheck candidate:
-  - 1956 `கர்வமடக்கும்`
-  - current 1978 canonical `கருவமடக்கும்`
+- canonical-recheck candidates:
+  1. 1956 `கர்வமடக்கும்` ↔ current 1978 `கருவமடக்கும்`
+  2. 1956 `பிராமணோத்தமரே` ↔ current 1978 `பிராமணத் தமரே`
 
 ## Exact next activity
 
 Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels` with **10 source pages**:
 
-- scans **39–48**
-- printed pages **37–46**
+- scans **49–58**
+- printed pages **47–56**
 - preserve 1978 as canonical authority
 - do not resolve the `கர்வமடக்கும்` / `கருவமடக்கும்` candidate without direct 1978 controlling-source recheck.
 
