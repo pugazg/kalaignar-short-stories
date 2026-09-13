@@ -159,8 +159,56 @@ Examples include:
 - canonical recheck candidate opened: **No**
 - unresolved 1956 witness reading: **0**
 
-## Next comparison span
+## Batch 4 — scans 19–22 / printed 17–20
 
-1956 scans **19–22 / printed 17–20**.
+**COMPLETE / PASS — 4/4 witness scans reviewed.**
 
-The witness comparison remains **IN PROGRESS — 12/16 scans**.
+### Physical / textual alignment
+
+| 1956 scan / printed | Witness anchor | 1977 canonical alignment |
+|---:|---|---|
+| 19 / 17 | snake approaches; prince continues flute tune | canonical scan 80 → 81 |
+| 20 / 18 | queen sees the danger and understands the plot | canonical scan 81 → 82 |
+| 21 / 19 | warning cry; flute continues; queen throws herself before the snake | canonical scan 82 |
+| 22 / 20 | death scene, king's arrival and final reflection | canonical scan 82 → 83 |
+
+No narrative block is added or omitted in this closing span.
+
+### Material wording variants
+
+| 1956 witness | 1977 canonical | Disposition |
+|---|---|---|
+| `அதைப் பார்க்காதவள்போல் பாலகன் பின்னே வந்தாள்` | `அவர்களை பார்க்காதவள்போல் பாலகன் பின்னே வந்தாள்` | genuine pronoun/reference rewrite; canonical unchanged |
+| `தன் குமரனைப் பாம்பு தீண்டிவிடும்` | `பின் குமரனைப் பாம்பு தீண்டிவிடும்` | genuine lexical/syntactic edition variant; canonical unchanged |
+| `தாய்மை தன் கடமையைச் செய்து விட்டு, கடையை முடிக்கொண்டது` | `தாய்மை தன் கடமையைச் செய்து விட்டுக் கண்ணை மூடிக் கொண்டது` | major lexical recast of the death sentence; canonical unchanged |
+
+### Additional edition-style differences
+
+The closing span also contains routine spacing, sandhi-display and punctuation differences, including:
+
+- 1956 `ஆடப் போகின்றன` ↔ 1977 `ஆடப்போகின்றன`;
+- 1956 `உயிர்வாங்கும்` ↔ 1977 `உயிர் வாங்கும்`;
+- 1956 `சுந்தர புரியின்` ↔ 1977 `சுந்தரபுரியின்`;
+- 1956 `தொடர்ந்து சப்தமிட்டுக் கொண்டே யிருந்தாள்` ↔ later joined forms;
+- 1956 `நறுக்கி விட்டு` ↔ 1977 `நறுக்கிவிட்டு`.
+
+### Boundary
+
+- scan **22 / printed 20**: complete `தாய்மை` ending + star ornament;
+- scan **23**: independent `ஆட்டக் காவடி` opening.
+
+## Final disposition
+
+- 1956 witness scans reviewed: **16/16**
+- complete-story comparison: **PASS**
+- narrative structure equivalent: **Yes**
+- added / omitted major blocks: **0**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical recheck candidates open: **0**
+- unresolved witness reading: **0**
+- witness comparison: **CLOSED / PASS**
+
+## Next collection witness
+
+`ஆட்டக் காவடி` — 1956 scans **23–33 / printed 21–31**.
