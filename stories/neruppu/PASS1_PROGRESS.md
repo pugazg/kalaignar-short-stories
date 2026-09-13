@@ -11,9 +11,9 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - Stage 1 first-pass transcription: **14/14**
 - Stage 2 visual text fidelity: **14/14**
 - Stage 3 historical-glyph audit: **14/14**
-- Stage 4 final independent check: **10/14**
-- verified pages: **10/14**
-- needs-review: **4/14**
+- Stage 4 final independent check: **14/14**
+- verified pages: **14/14**
+- needs-review: **0/14**
 - not-started: **0/14**
 - blocked: **0**
 - Stage-2 unresolved ordinary fidelity issues in closed P1: **0**
@@ -23,7 +23,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 |---|---|---|---|---|---|---|
 | P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
 | P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
-| P3 | 21–24 / 20–23 | **COMPLETE — 4/4** | **COMPLETE / PASS — 4/4** | **COMPLETE / PASS — 4/4** | **NEXT** | `needs-review` |
+| P3 | 21–24 / 20–23 | **COMPLETE — 4/4** | **COMPLETE / PASS — 4/4** | **COMPLETE / PASS — 4/4** | **COMPLETE / PASS — 4/4** | `verified` |
 
 ## P1 durable result
 
@@ -155,8 +155,27 @@ Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
 
 Durable gate: `HISTORICAL_GLYPH_GATE.md`.
 
+## P3 Stage 4 result
+
+- whole pages independently reopened: **4/4**
+- complete text coverage: **PASS**
+- interim Stage-2 changes reviewed: **14**
+- Stage-2 changes retained unchanged: **7**
+- Stage-2 over-corrections reverted: **6**
+- Stage-2 correction refined: **1**
+- additional Stage-4 source corrections: **2**
+- corrective changes applied during Stage 4: **9**
+- final net source-fidelity differences from P3 Stage 1: **10**
+- Stage-3 historical-glyph dispositions overturned: **0**
+- scan 20→21 continuation: **PASS**
+- scan 24 ending sentence + closing ornament boundary: **PASS**
+- final unresolved issues: **0**
+- P3 pages: **`verified` 4/4**
+
+Durable final audit: `FINAL_SOURCE_CHECK.md`.
+
 ## Exact next activity — current
 
-**P3 Stage 4 — final independent source check, scans 21–24 / printed pages 20–23.**
+**Assemble and close the `நெருப்பு` Tamil/source layer.**
 
-Reopen all four final story pages fresh against the controlling scans, independently recheck Stage-2 corrections and Stage-3 glyph dispositions, verify the ending/ornament boundary, resolve any residual source issue, synchronize controls, and promote to `verified` only if the final gate passes.
+Build the canonical assembled Tamil text from the 14 verified page records, preserve provenance/page reversibility, validate story boundaries and completeness, synchronize closure controls, and only then unblock the next layer. Do not begin the comparison-only 1969 witness work in the same activity.

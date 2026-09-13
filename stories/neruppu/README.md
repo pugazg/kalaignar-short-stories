@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 + P2 VERIFIED 10/10; P3 STAGE 3 COMPLETE / PASS 4/4.**
+**SOURCE INTAKE PASS / ALL PAGE GATES CLOSED — VERIFIED 14/14; TAMIL ASSEMBLY NEXT.**
 
 - no prior canonical `நெருப்பு` workspace or documented alternate-title match was found at activation;
 - scan 11 opens with **நெருப்பு**;
@@ -51,9 +51,9 @@ Default batch size: **5 physical scans**.
 - Stage 1 first-pass: **14 / 14**
 - Stage 2 visual fidelity: **14 / 14**
 - Stage 3 historical glyph: **14 / 14**
-- Stage 4 final check: **10 / 14**
-- verified: **10 / 14**
-- needs-review: **4 / 14**
+- Stage 4 final check: **14 / 14**
+- verified: **14 / 14**
+- needs-review: **0 / 14**
 - not-started: **0 / 14**
 - blocked: **0**
 - Tamil assembly: **NOT STARTED**
@@ -130,6 +130,23 @@ Scans **21–24 / printed 20–23**:
 - ending ornament / forward boundary: **PASS**
 - blocked: **0**
 
+## P3 Stage 4 durable closure
+
+Scans **21–24 / printed 20–23**:
+
+- Stage 4 final independent source check: **COMPLETE / PASS 4/4**
+- page state: **`verified` 4/4**
+- Stage-2 over-corrections reverted at final review: **6**
+- Stage-2 correction refined: **1**
+- additional Stage-4 source corrections: **2**
+- corrective changes applied during Stage 4: **9**
+- final net source-fidelity differences from Stage 1: **10**
+- Stage-3 glyph dispositions overturned: **0**
+- final unresolved issues: **0**
+- scan 24 story-ending sentence + closing ornament: **PASS**
+
+All **14/14** `நெருப்பு` page records are now verified through all four gates.
+
 ## Exact next activity — current
 
-**P3 Stage 4 — final independent source check, scans 21–24 / printed pages 20–23.**
+**Assemble and close the `நெருப்பு` Tamil/source layer.**

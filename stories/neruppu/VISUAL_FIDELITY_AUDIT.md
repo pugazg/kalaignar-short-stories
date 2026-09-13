@@ -122,7 +122,7 @@ The final four Stage-1 pages were compared end-to-end against the attached contr
 | 24 | `அலறினாள்..,` | `அலறினாள்...,` | punctuation |
 | 24 | `அருள் மட்டும் அழிந்து கொண்டிருந்தான்` | `அருள் மட்டும் அலைந்து கொண்டிருந்தான்` | final-sentence lexical fidelity |
 
-Total P3 Stage-2 corrections: **14**.
+Interim P3 Stage-2 corrections recorded at Stage 2: **14**.
 
 ### P3 Stage-1 queued readings
 
@@ -147,12 +147,27 @@ Boundary checks:
 - scan 24 closing ornament / story boundary: **PASS**;
 - scan 25 independently opens `வேணியின் காதலன்`: forward boundary unchanged.
 
-P3 gate state:
+P3 Stage-2 gate state at closure:
 
 - Stage 1: **COMPLETE 4/4**
 - Stage 2: **COMPLETE / PASS 4/4**
-- Stage 3 historical-glyph audit: **NEXT**
-- Stage 4 final independent check: not started
-- page status: **`needs-review` 4/4**
+- page status at that point: **`needs-review` 4/4**
 
-Stage 3 historical-glyph audit has since completed **PASS 4/4 with 0 character-identity corrections and 0 unresolved glyph clusters**. Next: **P3 Stage 4 final independent source check — scans 21–24 / printed pages 20–23**.
+## P3 later-gate disposition
+
+P3 Stage 3 subsequently closed **COMPLETE / PASS 4/4** with **0 historical-glyph character-identity corrections** and **0 unresolved glyph clusters**.
+
+P3 Stage 4 then reopened all four pages independently and superseded part of the Stage-2 correction ledger:
+
+- Stage-2 changes retained unchanged: **7**
+- Stage-2 over-corrections reverted: **6**
+- Stage-2 correction refined: **1**
+- additional Stage-4 source corrections: **2**
+- corrective changes applied during Stage 4 to the Stage-3 text: **9**
+- final net source-fidelity differences from the original P3 Stage-1 text: **10**
+- final unresolved issues: **0**
+- final P3 page status: **`verified` 4/4**
+
+The controlling final dispositions are recorded in `FINAL_SOURCE_CHECK.md`.
+
+Next: **assemble and close the `நெருப்பு` Tamil/source layer**.

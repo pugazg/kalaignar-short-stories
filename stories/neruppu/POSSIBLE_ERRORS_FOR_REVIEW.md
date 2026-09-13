@@ -81,4 +81,18 @@ Historical-glyph audit is **COMPLETE / PASS 4/4**.
 - P3 pages remain `needs-review` pending Stage 4
 - no modernization or global replacement has been applied.
 
-Current open review item: **P3 Stage 4 final independent source check — 4 pages**.
+## P3 Stage 4 final disposition
+
+P3 final independent source check is **COMPLETE / PASS — VERIFIED 4/4**.
+
+- Stage-2 interim changes reviewed at Stage 4: **14**
+- Stage-2 over-corrections reverted: **6**
+- Stage-2 correction refined: **1**
+- new Stage-4 source corrections: **2**
+- corrective changes applied during Stage 4: **9**
+- Stage-3 historical-glyph dispositions overturned: **0**
+- P3 final unresolved issues: **0**
+- P3 page status: **`verified` 4/4**
+- all `நெருப்பு` page-level review queues: **CLOSED**
+
+Current open work item: **assemble and close the `நெருப்பு` Tamil/source layer**.
