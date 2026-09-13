@@ -60,9 +60,9 @@ Stage 2 is now durable. The scan-14 opening continuation was resolved from enlar
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
 - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
-- Stage-4 additional source-proven corrections: **0**
-- omission / duplication / punctuation / paragraph / page-boundary issues: **0**
-- Stage-2 corrections confirmed present: **15/15**
+- Stage-4 corrective source-fidelity corrections: **16**
+- omission / duplication / punctuation / paragraph / page-boundary issues after corrective revalidation: **0**
+- Stage-2 checkpoint preserved; corrective Stage-4 audit supersedes its final-fidelity assumptions
 - final unresolved issues: **0**
 - P1 pages: **`verified` 5/5**
 

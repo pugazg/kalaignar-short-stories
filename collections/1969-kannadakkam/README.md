@@ -73,7 +73,7 @@ P1 scans **11–15 / printed 10–14**:
 - Stage-2 unresolved ordinary fidelity issues: **0**
 - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
 - Stage 4 final check: **COMPLETE / PASS 5/5**
-- Stage-4 additional corrections: **0**
+- Stage-4 corrective source-fidelity corrections: **16**
 - final unresolved issues: **0**
 - page state: **verified 5/5**
 

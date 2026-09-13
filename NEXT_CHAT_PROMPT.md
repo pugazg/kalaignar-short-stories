@@ -19,8 +19,8 @@ P1 = scans **11–15 / printed 10–14**.
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
 - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
-- Stage-4 additional source-proven corrections: **0**
-- final unresolved issues: **0**
+- Stage-4 corrective source-fidelity corrections: **16**
+- final unresolved issues after corrective revalidation: **0**
 - page status: **verified 5/5**
 
 ## Exact next activity

@@ -52,6 +52,6 @@ Stage-2 unresolved ordinary text-fidelity issues: **0**.
 - Stage 4 final independent check: **COMPLETE / PASS 5/5**
 - page status after final gate: **verified 5/5**
 
-Stage-4 additional source-proven corrections: **0**. Final unresolved issues: **0**.
+Stage-4 corrective revalidation later found **16 additional source-fidelity corrections** on scans 13–15. Final unresolved issues after correction: **0**. See `FINAL_SOURCE_CHECK.md`.
 
 Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.

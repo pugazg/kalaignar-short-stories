@@ -58,13 +58,15 @@ Durable gate: `HISTORICAL_GLYPH_GATE.md`.
 ## P1 Stage 4 result
 
 - complete pages independently reopened against source: **5/5**
-- end-to-end omissions / duplications found: **0**
-- additional wrong-text corrections: **0**
-- punctuation / paragraph / page-boundary corrections: **0**
-- Stage-2 correction set confirmed present: **15/15**
-- Stage-3 glyph dispositions confirmed present: **5/5 pages; 0 unresolved clusters**
-- pages promoted to `verified`: **5/5**
+- initial Stage-4 zero-correction claim: **SUPERSEDED by corrective source revalidation**
+- corrective Stage-4 source-fidelity corrections: **16**
+- scans corrected: **13–15**
+- omissions / duplications after correction: **0**
+- Stage-3 glyph dispositions overturned: **0**
+- pages verified after corrective recheck: **5/5**
 - final unresolved issues: **0**
+
+Durable final audit: `FINAL_SOURCE_CHECK.md`.
 
 ## Exact next activity
 

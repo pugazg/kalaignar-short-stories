@@ -34,10 +34,12 @@ Historical-glyph audit for scans **11–15** is **COMPLETE / PASS**.
 
 The complete committed text for scans **11–15** was reopened fresh and checked end-to-end against the controlling source.
 
-- additional source-proven text corrections: **0**
-- omission / duplication issues: **0**
-- punctuation / paragraph / page-boundary issues: **0**
+- corrective Stage-4 source-fidelity corrections: **16**
+- omission / duplication issues after correction: **0**
+- punctuation / paragraph / page-boundary issues after correction: **0**
 - unclosed historical-glyph candidates: **0**
 - Stage-2 and Stage-3 dispositions confirmed present: **PASS**
 - final unresolved queue: **0**
-- page status: **`verified` 5/5**
+- page status after corrective revalidation: **`verified` 5/5**
+
+The earlier zero-correction Stage-4 disposition is superseded by `FINAL_SOURCE_CHECK.md`.
