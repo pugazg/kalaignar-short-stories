@@ -94,4 +94,4 @@ P2 gate state:
 - Stage 4 final independent check: not started
 - page status: **`needs-review` 5/5**
 
-Stage 3 historical-glyph audit has since completed **PASS 5/5 with 0 character-identity corrections and 0 unresolved glyph clusters**. Next: **P2 Stage 4 final independent source check — scans 16–20 / printed pages 15–19**.
+Stage 3 historical-glyph audit completed **PASS 5/5 with 0 character-identity corrections and 0 unresolved glyph clusters**. Stage 4 has since completed **PASS / VERIFIED 5/5** with 2 final source-proven corrections and 0 unresolved issues. Next: **P3 Stage 1 first-pass transcription — scans 21–24 / printed pages 20–23**.

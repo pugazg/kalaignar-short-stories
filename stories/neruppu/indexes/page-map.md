@@ -10,11 +10,11 @@ Story range: scans **11–24 / printed pages 10–23** — **14 physical pages**
 | 13 | 12 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 14 | 13 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 15 | 14 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
-| 16 | 15 | story | `needs-review` | **P2 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
-| 17 | 16 | story | `needs-review` | **P2 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
-| 18 | 17 | story | `needs-review` | **P2 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
-| 19 | 18 | story | `needs-review` | **P2 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
-| 20 | 19 | story | `needs-review` | **P2 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
+| 16 | 15 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 17 | 16 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 18 | 17 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 19 | 18 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 20 | 19 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 21 | 20 | story | `not-started` | not transcribed |
 | 22 | 21 | story | `not-started` | not transcribed |
 | 23 | 22 | story | `not-started` | not transcribed |
@@ -28,9 +28,9 @@ Current totals:
 - Stage 1 first-pass transcription: **10/14**
 - Stage 2 visual text fidelity: **10/14**
 - Stage 3 historical-glyph audit: **10/14**
-- Stage 4 final check: **5/14**
-- verified: **5**
-- needs-review: **5**
+- Stage 4 final check: **10/14**
+- verified: **10**
+- needs-review: **0**
 - not-started: **4**
 - blocked: **0**
 - P1 final unresolved issues: **0**
@@ -38,5 +38,7 @@ Current totals:
 - P2 Stage-2 unresolved ordinary fidelity issues: **0**
 - P2 Stage-3 character-identity corrections: **0**
 - P2 Stage-3 unresolved glyph clusters: **0**
+- P2 Stage-4 source-proven corrections: **2**
+- P2 final unresolved issues: **0**
 
-Next: **P2 Stage 4 final independent source check — scans 16–20 / printed pages 15–19**.
+Next: **P3 Stage 1 first-pass transcription — scans 21–24 / printed pages 20–23**.

@@ -11,9 +11,9 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - Stage 1 first-pass transcription: **10/14**
 - Stage 2 visual text fidelity: **10/14**
 - Stage 3 historical-glyph audit: **10/14**
-- Stage 4 final independent check: **5/14**
-- verified pages: **5/14**
-- needs-review: **5/14**
+- Stage 4 final independent check: **10/14**
+- verified pages: **10/14**
+- needs-review: **0/14**
 - not-started: **4/14**
 - blocked: **0**
 - Stage-2 unresolved ordinary fidelity issues in closed P1: **0**
@@ -22,7 +22,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 | Batch | Scans / printed pages | Stage 1 first-pass | Stage 2 visual fidelity | Stage 3 glyph | Stage 4 final | Final status |
 |---|---|---|---|---|---|---|
 | P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
-| P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | `needs-review` |
+| P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
 | P3 | 21–24 / 20–23 | not started | not started | not started | not started | `not-started` |
 
 ## P1 durable result
@@ -83,8 +83,24 @@ Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
 
 Durable gate: `HISTORICAL_GLYPH_GATE.md`.
 
+## P2 Stage 4 result
+
+- whole pages independently reopened: **5/5**
+- Stage-2 source-proven corrections confirmed present: **6/6**
+- Stage-3 historical-glyph dispositions confirmed: **PASS**
+- final Stage-4 source-proven corrections: **2**
+  - scan 17 — `பூபதி அவளை ரசிப்பான்; அருளோ,` → `பூபதி அவளை ரசிப்பான். அருளோ,`
+  - scan 18 — `புறப்பட்டான்....ஒரு நாள்` → `புறப்பட்டான்.... ஒரு நாள்`
+- omissions / duplications after correction: **0**
+- punctuation / paragraph / dialogue / page-boundary unresolved issues: **0**
+- historical-glyph dispositions overturned: **0**
+- final unresolved issues: **0**
+- P2 pages: **`verified` 5/5**
+
+Durable final audit: `FINAL_SOURCE_CHECK.md`.
+
 ## Exact next activity
 
-**P2 Stage 4 — final independent source check, scans 16–20 / printed pages 15–19.**
+**P3 Stage 1 — first-pass transcription, scans 21–24 / printed pages 20–23.**
 
-Reopen the complete five-page P2 text fresh against the controlling source, verify Stage-2 corrections and Stage-3 glyph dispositions are present, check omissions/duplications/punctuation/paragraph/page-boundary fidelity end-to-end, resolve any residual issue, synchronize controls, and only then promote pages to `verified` if the gate passes.
+Transcribe the final four story scans from the controlling source, preserve source-faithful wording/punctuation/spacing, queue genuinely uncertain readings explicitly, synchronize controls, commit, and stop before P3 Stage 2.
