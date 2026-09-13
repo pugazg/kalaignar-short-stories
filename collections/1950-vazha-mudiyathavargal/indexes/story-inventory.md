@@ -7,8 +7,8 @@ No printed contents page is visible. Story identity is therefore controlled by t
 | 1 | — | `வாழ முடியாதவர்கள்` | 5–14 | 6–15 | `stories/vazha-mudiyathavargal/` | **witness CLOSED / PASS — source-visible material; scans 14–15 severe loss** |
 | 2 | — | `ஒரிஜினலில் உள்ளபடி!` | 15–23 | 16–24 | `stories/originalil-ullapadi/` | **witness CLOSED / PASS — 9/9** |
 | 3 | — | `கங்கையின் காதல்` | 24–28 | 25–29 | `stories/gangaiyin-kadhal/` | **witness CLOSED / PASS — 5/5** |
-| 4 | — | `கண்டதும் காதல் ஒழிக!` | 29–35 | 30–36 | `stories/kandathum-kadhal-ozhiga/` | witness NOT STARTED |
-| 5 | — | heading damaged; `ஏழை` identified from surviving opening text | 36–40 | 37–41 | `stories/ezhai/` | witness NOT STARTED |
+| 4 | — | `கண்டதும் காதல் ஒழிக!` | 29–35 | 30–36 | `stories/kandathum-kadhal-ozhiga/` | **witness CLOSED / PASS — source-visible material; expanded 1950 ending** |
+| 5 | — | heading damaged; `ஏழை` identified from surviving opening text | 36–40 | 37–41 | `stories/ezhai/` | **witness CLOSED / PASS — source-visible material** |
 | 6 | — | `பிள்ளையோ பிள்ளை!` | 41–62 | 42–63 | `stories/petra-pillaiyai-vitra-thaai/` — title variant | witness NOT STARTED |
 
 ## Deduplication result
@@ -60,14 +60,36 @@ Important source-title facts:
 - canonical Tamil / English changed: **No / No**
 - witness workspace: `stories/gangaiyin-kadhal/witnesses/1950-vazha-mudiyathavargal/`
 
+### Story 4 — `கண்டதும் காதல் ஒழிக!`
+
+**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 7/7.**
+
+- scans 34–36: localized paper loss; no reconstruction
+- major earlier-edition difference: expanded Gangadharan / costume-discard ending after the later-edition wig-reveal endpoint
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/kandathum-kadhal-ozhiga/witnesses/1950-vazha-mudiyathavargal/`
+
+### Story 5 — `ஏழை`
+
+**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 5/5.**
+
+- scan 37: heading damage; title letters not reconstructed
+- body narrative: complete / equivalent
+- strong edition rewrites: `கனவு பங்கம்`, `பயங்கரக் கண்வீச்சு`, `...என்ற பயம்தான்`, `இன்ப இரவு`
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/ezhai/witnesses/1950-vazha-mudiyathavargal/`
+
 ## Current frontier
 
-Active collection story: **#4 `கண்டதும் காதல் ஒழிக!`**
+Active collection story: **#6 source title `பிள்ளையோ பிள்ளை!`**
 
 Exact next span:
 
-- scans **30–36**
-- printed pages **29–35**
-- **7 physical source pages**
-- comparison-only witness against the verified canonical
-- Stories 1–3 remain closed; do not reopen them without genuinely new evidence
+- scans **42–63**
+- printed pages **41–62**
+- **22 physical source pages**
+- comparison-only title-variant witness against canonical `stories/petra-pillaiyai-vitra-thaai/`
+- preserve source title `பிள்ளையோ பிள்ளை!`
+- Stories 1–5 remain closed; do not reopen them without genuinely new evidence
