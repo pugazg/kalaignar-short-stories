@@ -25,6 +25,22 @@ Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
 Canonical Tamil assembly: [`sections/ezhai.md`](sections/ezhai.md). Existing English already conveys the repaired meaning, so **English prose rewrite required: 0**.
 
+## 1950 earlier-edition witness
+
+**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 5/5 physical scans inspected.**
+
+- witness workspace: [`witnesses/1950-vazha-mudiyathavargal/`](witnesses/1950-vazha-mudiyathavargal/)
+- source span: scans **37–41 / printed 36–40**
+- scan **37** heading region is physically damaged; missing heading letters were not reconstructed
+- body narrative: **complete / equivalent**
+- high-value edition rewrites include `கனவு பங்கம்` ↔ 1977 `கனவு மங்கலம்`, `பயங்கரக் கண்வீச்சு` ↔ `பயங்கர மின்னீச்சு`, and 1950 `...என்ற பயம்தான்` ↔ source-verified 1977 `...என்று பயந்தான்.`
+- closing layout: 1950 has a large illustration; 1977 has a centered ornament
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`](witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md)
+
+The smoother 1950 Parvathi/Banu sentence does not reopen the unusual 1977 wording because the exact 1977 source was already directly rechecked and confirmed.
+
 ## Boundary
 
 - scan 115 opens `ஏழை`;
