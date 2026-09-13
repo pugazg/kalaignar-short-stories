@@ -55,6 +55,7 @@ Story pagination:
 
 Physical limitations:
 
+- scan **12** — localized upper-left paper loss; enough text survives for anchor comparison
 - scans **14–15** — severe paper loss; substantial Story-1 text physically missing
 - scan **37** — story-heading region damaged
 - never reconstruct missing 1950 text from later editions
@@ -73,8 +74,17 @@ Current state:
 - source registration: **COMPLETE**
 - story inventory: **6/6 COMPLETE**
 - new canonical stories: **0**
-- witness comparisons started: **0/6**
-- canonical Tamil/English changes: **0 / 0**
+- witness comparisons completed: **1/6**
+- Story 1 `வாழ முடியாதவர்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+  - scans inspected: **10/10**
+  - localized loss: **scan 12**
+  - severe physical loss: **scans 14–15**
+  - missing 1950 wording reconstructed: **No**
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **1**
+    - 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
+    - direct recheck required at canonical scan **178 / printed 169** before any repair
+- remaining 1950 witnesses: **5/6 NOT STARTED**
 
 ## Queued source — 1953 `தப்பிவிட்டார்கள்`
 
@@ -113,21 +123,21 @@ Fresh repository-wide assembled-section checks found no duplicate for `வில
 
 ## Exact next activity — current
 
-Process the active 1950 Story 1 witness:
+Process the active 1950 Story 2 witness:
 
-- title: **`வாழ முடியாதவர்கள்`**
-- 1950 scans: **6–15**
-- printed pages: **5–14**
-- total: **10 physical source pages**
-- target canonical: `stories/vazha-mudiyathavargal/`
-- controlling canonical source remains the verified 1977 edition
+- title: **`ஒரிஜினலில் உள்ளபடி!`**
+- 1950 scans: **16–24**
+- printed pages: **15–23**
+- total: **9 physical source pages**
+- target canonical: `stories/originalil-ullapadi/`
+- controlling canonical source remains the verified later canonical
 - compare direct 1950 pixels by text anchors
-- document lexical / morphology / punctuation / structural variants
-- scans 14–15 have severe physical loss; do **not** reconstruct missing 1950 wording
+- document lexical / morphology / orthography / punctuation / layout variants
+- do **not** alter canonical Tamil or English from witness evidence alone
 - any possible canonical defect exposed by the witness becomes a recheck candidate only
-- stop after scan 15
+- stop after scan 24
 
-Do not begin Story 2 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+Story 1 `வாழ முடியாதவர்கள்` is closed for all source-visible 1950 material and must not be reopened without genuinely new evidence. Do not begin Story 3 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
 
 ## Closed source — 1956 `தாய்மை`
 
