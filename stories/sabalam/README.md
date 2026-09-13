@@ -45,6 +45,23 @@ The direct 1977 re-audit repaired:
 
 No source wording repair was required on scans **24, 26, 27, or 29**.
 
+## 1953 earlier-edition witness
+
+**CLOSED / PASS — 8/8 physical witness scans.**
+
+- witness source: `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
+- witness edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
+- witness span: scans **16–23 / printed 14–21**
+- witness workspace: [`witnesses/1953-thappivittargal/`](witnesses/1953-thappivittargal/)
+- narrative structure: **equivalent / complete**
+- high-value edition variants include `இமைகளைப் பிடித்திழுத்து` ↔ 1977 `இமைகளேப் பிடித்திழுத்து`, `பார்க்கவில்லை` ↔ `பார்க்க வில்லை`, `அழுதிடும்` ↔ `அழுதிடுங்`, and `அந்த அகோரமான இருளில்` ↔ `அந்த அந்தகாரமான இருளில்`
+- 1953 lacks the 1977 opening rule / enlarged-`வ` treatment / closing ornament and instead contains a three-open-circle internal divider
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1953-thappivittargal/VARIANT_COMPARISON.md`](witnesses/1953-thappivittargal/VARIANT_COMPARISON.md)
+
+The smoother 1953 forms do not reopen the directly verified 1977 readings.
+
 ## Reading layer
 
 Final current Tamil assembly:
