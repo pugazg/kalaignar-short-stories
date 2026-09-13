@@ -15,7 +15,7 @@
 - 1982 `முடியாத தொடர்கதை`: **Tamil/source + English CLOSED**
 - 2004, 2008, 2009 and the completed supplemental English layers remain closed under their collection trackers.
 
-## Active source — 1956 `தாய்மை`
+## Closed source — 1956 `தாய்மை`
 
 Controlling attached source: `TVA_BOK_0064112_தாய்மை.pdf`.
 
@@ -112,24 +112,41 @@ Current state:
 - witness physical extent: **28 scans — 60–87**
 - printed pages: **58–79**, then **82–87**
 - source gap: **printed 80–81 absent**
-- reviewed: **9/28 — scans 60–68 / printed 58–66**
-- narrative structure in reviewed span: **equivalent**
-- material variants recorded: **5**
+- reviewed: **28/28 physical scans — CLOSED FOR ALL SOURCE-VISIBLE PAGES**
+- visible narrative structure: **equivalent outside the documented source gap**
+- material variants recorded: **11**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
 - canonical-recheck candidates open: **0**
+- 1956 independently confirms protected 1978 `எனக்குப் பொய் அம்மா வேணும்!` and `பேசினேன்`
+- final 1956 page preserves the `இரு இலை, ஒரு மொட்டு` ending image and carries a terminal star
+
+## 1956 `தாய்மை` final disposition
+
+**SOURCE-VISIBLE WITNESS PROCESSING CLOSED.**
+
+- `தாய்மை` — **16/16 CLOSED / PASS**
+- `ஆட்டக் காவடி` — **11/11 CLOSED / PASS**
+- `நடுத்தெரு நாராயணி` — **26/26 CLOSED / PASS**
+- `அரும்பு` — **28/28 physical scans reviewed / CLOSED FOR ALL SOURCE-VISIBLE PAGES**
+- printed pages **80–81** in `அரும்பு` — **ABSENT FROM SUPPLIED PDF**
+- missing pages reconstructed — **No**
+- canonical Tamil changed from witness evidence — **No**
+- canonical English changed from witness evidence — **No**
+
+Separate recheck backlog:
+
+- `ஆட்டக் காவடி`: **1** candidate
+- `நடுத்தெரு நாராயணி`: **4** candidates
+- `அரும்பு`: **0** candidates
+
+Those candidates require the exact later controlling scans and are **not** an automatic continuation of the 1956 page-processing workflow.
 
 ## Exact next activity — current
 
-Continue the 1956 `அரும்பு` witness in `pugazg/kalaignar-novels`:
+**NONE for 1956 `தாய்மை`. Await the user's next anthology.**
 
-- scans **69–78**
-- printed pages **67–76**
-- total: **10 source pages**
-- compare against the verified 1978 canonical by text anchors
-- record edition variants only
-- do not reconstruct printed pages **80–81**
-- stop after scan **78**.
+The previously deferred 1958 `தேனலைகள்` remains deferred; do not resume it unless the user explicitly returns to that PDF.
 
 ## Deferred source — 1958 `தேனலைகள்`
 
