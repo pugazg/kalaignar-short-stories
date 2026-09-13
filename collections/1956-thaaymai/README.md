@@ -106,8 +106,8 @@ Workspace:
 `works/nadutheru-narayani/witnesses/1956-thaaymai/`
 
 - witness range: **scans 34–59 / printed 32–57**
-- reviewed: **25/26 — scans 34–58 / printed 32–56**
-- narrative structure in reviewed span: **equivalent overall; one localized 1956-only dialogue line recorded**
+- reviewed: **26/26 — COMPLETE / PASS**
+- narrative structure: **equivalent overall; one localized 1956-only dialogue line recorded**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
 - localized 1956-only dialogue line: `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?` — absent from 1978
@@ -117,14 +117,30 @@ Workspace:
   3. 1956 `தனது கைகளால்` ↔ current 1978 `தனது கண்களால்`
   4. 1956 `உறுப்பினர்களை` ↔ current 1978 `உறுப்பினர்களே`
 
+### Witness 4 — `அரும்பு`
+
+Canonical repository: `pugazg/kalaignar-novels`
+
+Workspace:
+
+`works/arumbu/witnesses/1956-thaaymai/`
+
+- witness physical range: **scans 60–87**
+- witness printed pages: **58–79**, then **82–87**
+- printed pages **80–81 are absent**
+- reviewed: **9/28 — scans 60–68 / printed 58–66**
+- narrative structure in reviewed span: **equivalent**
+- material edition variants recorded: **5**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- canonical-recheck candidates open: **0**
+
 ## Exact next activity
 
-Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels` with **10 source pages**:
+Continue the 1956 `அரும்பு` witness in `pugazg/kalaignar-novels`:
 
-- scan **59 / printed 57** — close `நடுத்தெரு நாராயணி`
-- then scans **60–68 / printed 58–66** — begin `அரும்பு`
-- total: **10 source pages — scans 59–68**
+- scans **69–78**
+- printed pages **67–76**
+- total: **10 source pages**
 - preserve 1978 as canonical authority
-- do not resolve the `கர்வமடக்கும்` / `கருவமடக்கும்` candidate without direct 1978 controlling-source recheck.
-
-Do not reconstruct missing printed pages 80–81 later in `அரும்பு`.
+- do not reconstruct missing printed pages **80–81** from the later edition.
