@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1956 `தாய்மை` anthology witness / `நடுத்தெரு நாராயணி` scans 39–48
+# NEXT CHAT PROMPT — 1956 `தாய்மை` anthology witness / `நடுத்தெரு நாராயணி` scans 49–58
 
 Continue the 1956 anthology witness workflow. **LIVE MAIN IS AUTHORITATIVE in each repository.**
 
@@ -77,14 +77,14 @@ Current canonical source:
 Current 1956 witness state:
 
 - witness extent: **scans 34–59 / printed 32–57**
-- reviewed: **5/26 — scans 34–38 / printed 32–36**
+- reviewed: **15/26 — scans 34–48 / printed 32–46**
 - narrative structure in reviewed span: **equivalent**
 - canonical Tamil / English changes: **0 / 0**
 - unresolved witness readings: **0**
-- canonical-recheck candidate: **1**
-  - 1956 `ஆண்களின் கர்வமடக்கும் விதத்திலே`
-  - current 1978 canonical `ஆண்களின் கருவமடக்கும் விதத்திலே`
-  - no repair without direct 1978 controlling-source recheck.
+- canonical-recheck candidates: **2**
+  1. 1956 `ஆண்களின் கர்வமடக்கும் விதத்திலே` ↔ current 1978 `ஆண்களின் கருவமடக்கும் விதத்திலே`
+  2. 1956 `பிராமணோத்தமரே!` ↔ current 1978 `பிராமணத் தமரே!`
+- no repair without direct 1978 controlling-source recheck.
 
 Read before work:
 
@@ -99,13 +99,13 @@ Read before work:
 
 Process exactly **10 source pages**:
 
-- 1956 scans **39–48**
-- printed pages **37–46**
+- 1956 scans **49–58**
+- printed pages **47–56**
 
 Method:
 
 1. Fetch live `pugazg/kalaignar-novels/main`.
-2. Read the direct 1956 pixels for scans 39–48.
+2. Read the direct 1956 pixels for scans 49–58.
 3. Align to the verified 1978 canonical by text anchors rather than page-count assumptions.
 4. Record genuine lexical, morphology, punctuation, orthography and layout variants.
 5. Ignore routine line-wrap changes.
@@ -113,7 +113,7 @@ Method:
 7. If another possible canonical defect appears, record it as a recheck candidate only.
 8. Update the witness README / variant comparison in `kalaignar-novels`.
 9. Update collection progress / root handover / next prompt in `kalaignar-short-stories`.
-10. Stop after scan **48**.
+10. Stop after scan **58**.
 
 ## Authority rule
 
