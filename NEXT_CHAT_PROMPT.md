@@ -1,79 +1,103 @@
-# NEXT CHAT PROMPT — 1956 `தாய்மை` CLOSED / await next anthology
+# NEXT CHAT PROMPT — 1950 `வாழமுடியாதவர்கள்` / Story 1 witness scans 6–15
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## 1956 `தாய்மை` — final durable state
+## Controlling witness source
 
-Controlling source used:
+Use only the attached:
 
-`TVA_BOK_0064112_தாய்மை.pdf`
+`TVA_BOK_0064034_வாழமுடியாதவர்கள்.pdf`
 
 Source identity:
 
-- bytes — **104,030,458**
-- SHA-256 — **`b02873fd00b8e7b2afb568d833b07d9541922bddcd0a0600d6ed3ffabc037b78`**
-- physical scans — **87**
-- edition — **முதல் பதிப்பு — மார்ச்சு, 1956**
+- bytes — **89,680,849**
+- SHA-256 — **`9fdc7a7049b74291047bb3212bb48851a8e6eb483d3f7e8ed3bc6f4ce016654e`**
+- physical scans — **64**
+- title — **வாழமுடியாதவர்கள்**
+- author — **மு. கருணாநிதி**
+- publisher — **முன்னேற்றப் பண்ணை, சென்னை-1**
+- visible internal date — **சென்னை 1-1-50** on `மதிப்புரை`
 - source type — **image-only**
+- source authority — **direct scan pixels**
 - source PDF committed — **No**
 
-## Witness closure
+Do not use OCR, web copies or later editions as substitutes for the 1950 witness.
 
-1. `தாய்மை` — **16/16 CLOSED / PASS**
-2. `ஆட்டக் காவடி` — **11/11 CLOSED / PASS**
-3. `நடுத்தெரு நாராயணி` — **26/26 CLOSED / PASS**
-4. `அரும்பு` — **28/28 physical scans reviewed / CLOSED FOR ALL SOURCE-VISIBLE PAGES**
+## Collection intake
 
-No canonical Tamil or English was changed solely from witness evidence.
+Collection workspace:
 
-## Permanent source caveat
+`collections/1950-vazha-mudiyathavargal/`
 
-Within the 1956 `அரும்பு` witness:
+Read before source-dependent work:
 
-- scan **81** = printed page **79**
-- scan **82** = printed page **82**
-- printed pages **80–81 are absent from the supplied PDF**
-- they were **not reconstructed** from the 1978 edition
+- `SHORT_STORY_PROCESSING_GUIDE.md`
+- `COLLECTION_SOURCE_GUIDE.md`
+- root `HANDOVER.md`
+- this `NEXT_CHAT_PROMPT.md`
+- collection `README.md`
+- `metadata/source.md`
+- `indexes/scan-map.md`
+- `indexes/story-inventory.md`
 
-Therefore page processing is complete for the supplied PDF, but the physical 1956 witness remains textually incomplete across that two-page gap.
+Inventory is **COMPLETE 6/6**:
 
-## Cross-edition recheck queue
+1. `வாழ முடியாதவர்கள்` — scans **6–15 / printed 5–14**
+2. `ஒரிஜினலில் உள்ளபடி!` — scans **16–24 / printed 15–23**
+3. `கங்கையின் காதல்` — scans **25–29 / printed 24–28**
+4. `கண்டதும் காதல் ஒழிக!` — scans **30–36 / printed 29–35**
+5. damaged heading; work identity `ஏழை` — scans **37–41 / printed 36–40**
+6. `பிள்ளையோ பிள்ளை!` — scans **42–63 / printed 41–62**
 
-These remain separate optional recheck tasks, not active page-processing work.
+All six route to existing canonical workspaces. Story 6 is the same underlying work as canonical `பெற்ற பிள்ளையை விற்ற தாய்`, with a source-specific title variant.
 
-### `ஆட்டக் காவடி` — 1 candidate
+## Critical physical damage
 
-- 1956 `நாளெல்லாம் பாடுபட்டாலும்`
-- current 1977 canonical `நாவெல்லாம் பாடுபட்டாலும்`
+Story 1 scans **14–15** have severe paper loss.
 
-### `நடுத்தெரு நாராயணி` — 4 candidates
-
-1. `கர்வமடக்கும்` ↔ `கருவமடக்கும்`
-2. `பிராமணோத்தமரே` ↔ `பிராமணத் தமரே`
-3. `தனது கைகளால்` ↔ `தனது கண்களால்`
-4. `உறுப்பினர்களை` ↔ `உறுப்பினர்களே`
-
-Resolve none of these without the exact later controlling source scans.
-
-### `அரும்பு`
-
-- canonical-recheck candidates opened by 1956 witness — **0**
-- 1956 independently supports protected `எனக்குப் பொய் அம்மா வேணும்!` and `பேசினேன்`
-- final visible 1956 page carries the same `இரு இலை, ஒரு மொட்டு` ending image and a terminal star
-
-## Current instruction
-
-**Do not resume 1958 `தேனலைகள்` automatically.** The user explicitly deferred that PDF earlier.
-
-Wait for the user's next anthology/source. When supplied:
-
-1. fetch live `main`;
-2. establish source identity and physical structure first;
-3. inventory all works;
-4. deduplicate against existing canonicals across relevant repositories;
-5. route existing works as witnesses rather than duplicates;
-6. do not start transcription until source routing is clear.
+- scan 14 has a large missing area;
+- scan 15 is mostly lost, with only a narrow surviving strip and terminal material;
+- missing 1950 text must **not** be reconstructed from the 1977 canonical.
 
 ## Exact next activity
 
-**NONE — await the next anthology from the user.**
+Process Story 1 `வாழ முடியாதவர்கள்` as an earlier-edition witness.
+
+Canonical target:
+
+`stories/vazha-mudiyathavargal/`
+
+1950 witness span:
+
+- scans **6–15**
+- printed pages **5–14**
+- total **10 physical source pages**
+
+Method:
+
+1. Fetch live `main`.
+2. Read the current canonical story README / section / source metadata.
+3. Create a witness layer only if it does not already exist, e.g. `stories/vazha-mudiyathavargal/witnesses/1950-vazha-mudiyathavargal/`.
+4. Compare the direct 1950 scan pixels against the verified 1977 canonical by text anchors.
+5. Record genuine wording, morphology, orthography, punctuation and layout variants.
+6. Record source loss on scans 14–15 explicitly.
+7. Do not fill missing 1950 text from 1977.
+8. Do not alter canonical Tamil or English from witness evidence alone.
+9. If a likely canonical defect appears, record a canonical-recheck candidate only.
+10. Update witness / collection / root trackers.
+11. Stop after scan **15**; do not begin Story 2 unless explicitly requested.
+
+## Queued second anthology
+
+The attached `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf` is already registered at:
+
+`collections/1953-thappivittargal/`
+
+Its intake is **COMPLETE 4/4**:
+
+1. `தப்பிவிட்டார்கள்` — witness
+2. `சபலம்` — witness
+3. `விலையால் வாங்கலையோ` — **new-canonical candidate**
+4. `முந்நூறு ரூபாய்` — witness
+
+Do not switch to the 1953 collection until the current 1950 workflow is completed or the user redirects.
