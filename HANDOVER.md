@@ -33,66 +33,83 @@ Source identity:
 - source type: **image-only; direct scan pixels control**
 - source PDF committed: **No**
 
-Printed contents / routing:
+Physical routing:
 
-1. `தாய்மை` — scans **7–22 / printed 5–20** — 1977 canonical in this repo
-2. `ஆட்டக் காவடி` — scans **23–33 / printed 21–31** — 1977 canonical in this repo
-3. `நடுத்தெரு நாராயணி` — scans **34–59 / printed 32–57** — 1978 canonical in `pugazg/kalaignar-novels`
-4. `அரும்பு` — scans **60–81 / printed 58–79**, then **82–87 / printed 82–87** — 1978 canonical in `pugazg/kalaignar-novels`
+1. `தாய்மை` — scans **7–22 / printed 5–20**
+2. `ஆட்டக் காவடி` — scans **23–33 / printed 21–31**
+3. `நடுத்தெரு நாராயணி` — scans **34–59 / printed 32–57**
+4. `அரும்பு` — scans **60–81 / printed 58–79**, then **82–87 / printed 82–87**
 
 Critical source limitation:
 
 - scan **81** = printed **79**
 - scan **82** = printed **82**
 - printed pages **80–81 are absent**
-- do not reconstruct from later editions.
+- do not reconstruct them from the 1978 witness.
 
 ### Witness 1 — `தாய்மை`
 
-Workspace: `stories/thaaymai/witnesses/1956-thaaymai/`
+**CLOSED / PASS — 16/16.**
 
-**CLOSED / PASS — 16/16 witness scans.**
-
+- workspace: `stories/thaaymai/witnesses/1956-thaaymai/`
 - narrative structure equivalent: **Yes**
-- major added / omitted blocks: **0**
 - material edition variants: **11**
-- 1956 `ஆயிரந்தேர்` independently supports the current 1977 canonical
-- major ending rewrite: 1956 `கடையை முடிக்கொண்டது` ↔ 1977 `கண்ணை மூடிக் கொண்டது`
 - canonical Tamil / English changed: **No / No**
 - unresolved: **0**
 
 ### Witness 2 — `ஆட்டக் காவடி`
 
-Workspace: `stories/aattakkavadi/witnesses/1956-thaaymai/`
+**CLOSED / PASS — 11/11.**
+
+- workspace: `stories/aattakkavadi/witnesses/1956-thaaymai/`
+- narrative structure equivalent: **Yes**
+- canonical Tamil / English changed: **No / No**
+- unresolved: **0**
+- canonical-recheck candidate remains open:
+  - 1956 `நாளெல்லாம் பாடுபட்டாலும்`
+  - current 1977 canonical `நாவெல்லாம் பாடுபட்டாலும்`
+- closing-span edition variants include:
+  - 1956 `ஈனஸ்தாயியில்` ↔ 1977 `ஈனக் குரலில்`
+  - 1956 `மனத்திற்கு விரோதமாக` ↔ 1977 `மனத் தீர்க்கு விரோதமாக`
+- scan **33 / printed 31** closes the story; scan **34** opens `நடுத்தெரு நாராயணி`.
+
+### Witness 3 — `நடுத்தெரு நாராயணி`
+
+Canonical repository: `pugazg/kalaignar-novels`
+
+Workspace:
+
+`works/nadutheru-narayani/witnesses/1956-thaaymai/`
 
 Current state:
 
-- witness extent: **11 scans — 23–33 / printed 21–31**
-- reviewed: **6/11 — scans 23–28 / printed 21–26**
+- witness extent: **26 scans — 34–59 / printed 32–57**
+- reviewed: **5/26 — scans 34–38 / printed 32–36**
 - narrative structure in reviewed span: **equivalent**
+- material variants recorded: **3**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
-- canonical-recheck candidate: **1**
-  - 1956 scan 24: `நாளெல்லாம் பாடுபட்டாலும்`
-  - current 1977 canonical: `நாவெல்லாம் பாடுபட்டாலும்`
-  - canonical change is forbidden until exact 1977 controlling scan 31 is directly reopened.
-
-Other high-value 1956 variants include `பணம் வருகின்றதே`, omission of `ஒரு` in `நூறு ரூபாய் சாமான்யமா?`, `செய்ய மாட்டீர்கள்`, `நெசவாளி வீட்டிலே`, and `கனி மரமானாள்`.
+- canonical-recheck candidate:
+  - 1956 `ஆண்களின் கர்வமடக்கும்`
+  - current 1978 canonical `ஆண்களின் கருவமடக்கும்`
+  - do not repair without direct recheck of the exact 1978 controlling scan.
 
 ### User batching rule
 
-Effective now: **process 10 physical source pages per iteration**. Crossing a work boundary is allowed when necessary to fill the 10-page iteration, while preserving separate witness workspaces and source authority.
+Process **10 physical source pages per iteration**. Crossing a work/repository boundary is allowed only when necessary to fill the 10-page batch, while preserving separate witness workspaces and canonical authority.
 
 ## Exact next activity — current
 
-Process **scans 29–38 — 10 source pages total**:
+Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels`:
 
-1. `ஆட்டக் காவடி` scans **29–33 / printed 27–31** — remaining **5 pages**; close this witness if complete.
-2. Then switch to `pugazg/kalaignar-novels`, fetch live `main`, and begin the 1956 `நடுத்தெரு நாராயணி` witness with scans **34–38 / printed 32–36** — **5 pages**.
-3. Create the earlier-witness workspace under the existing canonical novel work; do not duplicate the canonical.
-4. Do not change either canonical from witness evidence alone.
-5. Preserve the 1956 anthology source provenance and the later 1978 canonical authority.
-6. Stop after scan **38**.
+- scans **39–48**
+- printed pages **37–46**
+- total: **10 source pages**
+- align by text anchors to the verified 1978 canonical
+- record wording / morphology / punctuation / structural variants
+- do not change canonical Tamil or English from witness evidence alone
+- retain the open `கர்வமடக்கும்` / `கருவமடக்கும்` recheck candidate unless the 1978 controlling scan is directly available and explicitly rechecked
+- stop after scan **48**.
 
 ## Deferred source — 1958 `தேனலைகள்`
 
