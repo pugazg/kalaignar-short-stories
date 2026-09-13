@@ -182,3 +182,14 @@ Visible story blocks:
 A critical physical discontinuity remains open: printed pages **31–52 (22 pages)** are absent from the supplied PDF between `வேணியின் காதலன்` and `அமிர்தமதி`. No missing story identity or text is inferred.
 
 Current exact next activity: activate and process `நெருப்பு`, scans **11–24 / printed 10–23**, as the sole visible new canonical candidate. The other three stories are comparison-only witnesses.
+
+### 1969 `கண்ணடக்கம்` activation checkpoint — `நெருப்பு`
+
+The sole visible new-canonical candidate `நெருப்பு` has now passed source intake and been activated at `stories/neruppu/`.
+
+- source range: scans **11–24 / printed 10–23**
+- page records: **14/14 initialized**
+- transcription committed at activation: **0 pages**
+- exact next: **P1 Stage A scans 11–15**
+- existing stories `கண்ணடக்கம்`, `வேணியின் காதலன்`, `அமிர்தமதி` remain comparison-only witnesses
+- collection printed-page gap 31–52 remains OPEN

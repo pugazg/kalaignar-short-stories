@@ -5,7 +5,7 @@ No printed contents page is visible in the supplied PDF. Inventory is based on d
 | # | Opening heading | Scan range | Printed page range | Repository identity | Intake disposition |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | `stories/kannadakkam/` | **existing canonical — witness comparison only** |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | no canonical match found | **NEW canonical candidate — NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` | **NEW canonical ACTIVE — source intake PASS; P1 Stage A NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | `stories/veniyin-kadhalan/` | **existing canonical — witness comparison only** |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | `stories/amirthamathi/` | **existing canonical — witness comparison only** |
 
@@ -19,6 +19,6 @@ Visible-story inventory: **4 story blocks**.
 
 Canonical routing:
 
-- new canonical candidates: **1** — `நெருப்பு`;
+- new canonical active workspaces: **1** — `நெருப்பு`;
 - existing-canonical witnesses: **3**;
 - unresolved omitted printed span: **22 pages**.

@@ -13,67 +13,55 @@
 - 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`: **Tamil/source + English CLOSED**
 - 1976 `நளாயினி` reconciliation: **CLOSED / PASS**
 
-Do not reopen those layers without stronger source evidence or explicit maintenance/audit authorization.
-
 ## Active source — 1969 `கண்ணடக்கம்`
 
-Attached controlling source:
+Controlling attached source:
 
 `TVA_BOK_0064095_கண்ணடக்கம்.pdf`
 
 - title: **கண்ணடக்கம்**
 - author: **மு. கருணாநிதி**
 - publisher/imprint: **திராவிடப்பண்ணை**
-- represented edition: **இரண்டாம் பதிப்பு — 1969**
+- edition: **இரண்டாம் பதிப்பு — 1969**
 - scans: **43**
 - bytes: **50,321,052**
-- SHA-256: **PENDING — do not invent**
-- source PDF committed: **No**
-- parser text layer: **none usable; rendered scan pixels control**
+- SHA-256: **PENDING**
+- no usable parsed text layer; source pixels control
 
-## Source intake
+Collection physical completeness remains **OPEN** because printed pages **31–52 (22 pages)** are absent. Do not guess those missing story identities/text.
 
-**PASS for visible physical structure / completeness OPEN.**
+## Visible story routing
 
-Visible story blocks:
+1. `கண்ணடக்கம்` 4–10 — existing canonical witness
+2. `நெருப்பு` 11–24 — **NEW canonical ACTIVE**
+3. `வேணியின் காதலன்` 25–31 — existing canonical witness
+4. `அமிர்தமதி` 32–41 — existing canonical witness
 
-1. `கண்ணடக்கம்` — scans **4–10 / printed 3–9** — existing canonical witness;
-2. `நெருப்பு` — scans **11–24 / printed 10–23** — **NEW canonical candidate**;
-3. `வேணியின் காதலன்` — scans **25–31 / printed 24–30** — existing canonical witness;
-4. `அமிர்தமதி` — scans **32–41 / printed 53–62** — existing canonical witness.
+## `நெருப்பு` activation state
 
-Back matter:
+Workspace: `stories/neruppu/`
 
-- scan 42 — `அண்ணாவின் அரிய நூல்கள்` advertisement;
-- scan 43 — terminal rear leaf.
-
-## Critical completeness gap
-
-The source jumps from printed **30** to the `அமிர்தமதி` opening structurally at printed **53**. Printed pages **31–52 (22 pages)** are absent from the supplied PDF.
-
-Do not guess missing story identities or text. Process only what is physically present unless the user supplies stronger same-source evidence.
-
-## Deduplication
-
-Existing canonical workspaces confirmed:
-
-- `stories/kannadakkam/`
-- `stories/veniyin-kadhalan/`
-- `stories/amirthamathi/`
-
-No canonical match found for `நெருப்பு`.
-
-Existing stories are comparison-only witnesses: no duplicate Tamil transcription and no duplicate English translation.
+- source intake: **PASS**
+- story range: scans **11–24 / printed 10–23**
+- physical pages: **14**
+- boundary: scan 24 ending; scan 25 opens `வேணியின் காதலன்`
+- page records initialized: **14/14**
+- Stage A: **0/14**
+- Stage B: **0/14**
+- verified: **0/14**
+- not-started: **14/14**
+- unresolved / blocked: **0/0**
+- no prose committed during activation
 
 ## Exact next activity
 
-Activate **`நெருப்பு`** as a new canonical story.
+**`நெருப்பு` P1 Stage A — scans 11–15 / printed 10–14.**
 
-- source scans: **11–24**
-- printed pages: **10–23**
-- next-story boundary witness: scan **25** opens `வேணியின் காதலன்`
-- create `stories/neruppu/` only now, when processing begins
-- direct Tamil source transcription / page records / historical-glyph verification
-- do not start `வேணியின் காதலன்` in the same activity
+Follow `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`:
 
-After `நெருப்பு` Tamil/source closure, English is automatically next unless the user redirects. Then process the three existing stories as comparison-only witnesses.
+- direct whole-page transcription only;
+- pages become `needs-review`;
+- do not perform systematic Stage B in the same activity;
+- commit Stage A and stop.
+
+After that, exact next will be P1 Stage B scans 11–15.
