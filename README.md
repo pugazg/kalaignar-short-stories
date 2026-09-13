@@ -6,6 +6,7 @@
 
 Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md).
 
+- **1958 `தேனலைகள்` — ACTIVE / INTAKE COMPLETE:** collection source registered at [`collections/1958-thenalaigal/`](collections/1958-thenalaigal/README.md); **12/12** illustrated story openings and scan/printed-page ranges mapped; story block scans **7–111 / printed 1–105** is continuous; transcription **NOT STARTED**. Exact next: Story 1 `முத்தாரம்`, scans **7–17 / printed 1–11**, Stage 1 first-pass after live duplicate recheck.
 - **1969 `கண்ணடக்கம்` — CLOSED UNDER ONLY AVAILABLE COPY:** all visible story blocks are dispositioned; `நெருப்பு` Tamil/source and English are **PASS / CLOSED**. Printed pages **31–52** are absent from the only copy available and are preserved as a permanent source limitation, not as a pending hold.
 - **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
 - **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
