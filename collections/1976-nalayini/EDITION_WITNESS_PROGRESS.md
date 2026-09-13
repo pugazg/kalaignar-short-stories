@@ -6,7 +6,9 @@ This tracker covers the six stories in `TVA_BOK_0065574_நளாயினி_19
 
 These are **comparison witnesses only**. Do not create another full Tamil transcription or duplicate English translation for stories that already exist canonically.
 
-For any 1976↔repository mismatch, the controlling canonical source state must be checked before classification. The represented 1977 canonical stories used here have already passed direct dual-gate source re-audits; witness evidence alone never overwrites them.
+The attached PDF is the controlling source for the 1976 witness layer. The user explicitly confirmed that it was downloaded from Tamil Digital Library and is the same source mirrored by Wikisource; **do not browse those sites or substitute their pages when the attached PDF is available**.
+
+For any 1976↔repository mismatch, the represented 1977 canonical state remains authoritative. The canonical stories used here already passed direct dual-gate source re-audits; witness evidence alone never overwrites them.
 
 User-set cadence: **10 comparison pages per iteration**.
 
@@ -24,9 +26,9 @@ User-set cadence: **10 comparison pages per iteration**.
 | Order | Story | 1976 scans | Canonical workspace | Witness state |
 |---:|---|---:|---|---|
 | 1 | `நளாயினி` | 3–12 | `stories/nalayini/` | **COMPLETE / PASS — 10/10** |
-| 2 | `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` | **IN PROGRESS — scans 13–17 PASS; 18 NEXT** |
-| 3 | `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` | pending |
-| 4 | `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | pending |
+| 2 | `காதல் கடிதம்` | 13–18 | `stories/kadhal-kaditham/` | **COMPLETE / PASS — 6/6** |
+| 3 | `புரட்சிப் படம்` | 19–24 | `stories/puratchip-padam/` | **COMPLETE / PASS — 6/6** |
+| 4 | `விஷம் இனிது` | 47–55 | `stories/visham-inidhu/` | **IN PROGRESS — 47–49 PASS; 50–55 NEXT** |
 | 5 | `பாலைவன ரோஜா` | 56–62 | `stories/palaivana-roja/` | pending |
 | 6 | `அய்யோ ராஜா!` | 63–72 | `stories/ayyo-raja/` | pending |
 
@@ -36,47 +38,81 @@ User-set cadence: **10 comparison pages per iteration**.
 
 1976 scans **3–12: COMPLETE / PASS**.
 
-Earlier P1 scans **3–7** produced 13 mismatch candidates:
-
-- **8** exposed canonical transcription defects and were repaired only after the 1977 controlling source was directly rechecked;
-- **5** are genuine edition variants;
-- **0** unresolved.
-
-The resumed P2 scans **8–12** add **7** meaningful true edition variants and expose **0** further canonical defects.
-
-Final `நளாயினி` witness disposition:
-
-- reviewed scans: **10 / 10**;
-- meaningful comparison candidates: **20**;
-- true edition variants: **12**;
-- canonical defects exposed and already repaired: **8**;
-- unresolved: **0**;
-- canonical changes from P2: **0**.
+- meaningful comparison candidates: **20**
+- true edition variants: **12**
+- canonical defects exposed by the P1 witness and already repaired only after direct 1977 source recheck: **8**
+- unresolved: **0**
 
 Durable record: `stories/nalayini/witnesses/1976-nalayini/VARIANT_COMPARISON.md`.
 
-## Current 10-page iteration — scans 8–17
+## Completed comparison — `காதல் கடிதம்`
 
-This iteration processed exactly **10 physical comparison pages**:
+1976 scans **13–18: COMPLETE / PASS**.
 
-1. `நளாயினி` scans **8–12** — **5 pages / COMPLETE**;
-2. `காதல் கடிதம்` scans **13–17** — **5 pages / PASS for reviewed span**.
+- scans 13–17: **5 meaningful true edition variants**
+- scan 18: **no additional meaningful lexical variant**
+- total meaningful true edition variants: **5**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
 
-For `காதல் கடிதம்`, five meaningful 1976↔1977 edition variants are recorded so far. No canonical defect candidate was found in scans 13–17; the canonical 1977 story remains unchanged.
+Durable record: `stories/kadhal-kaditham/witnesses/1976-nalayini/VARIANT_COMPARISON.md`.
 
-Cumulative witness-page progress: **15 / 48** target pages reviewed.
+## Completed comparison — `புரட்சிப் படம்`
 
-Witness phase state: **OPEN — 1 / 6 stories comparison-complete**.
+1976 scans **19–24: COMPLETE / PASS**.
+
+Direct comparison against the verified 1977 canonical found **no meaningful lexical edition variant under the current comparison policy**. Differences limited to line wrapping, punctuation/spacing and source display/layout are not promoted as lexical variants.
+
+- reviewed: **6/6**
+- meaningful lexical variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+
+Durable record: `stories/puratchip-padam/witnesses/1976-nalayini/VARIANT_COMPARISON.md`.
+
+## Current partial comparison — `விஷம் இனிது`
+
+1976 scans **47–49: PASS for reviewed span — 3/9**.
+
+No meaningful lexical mismatch was confirmed in the reviewed span under the comparison policy. Layout, punctuation, spacing and reflow are not promoted as lexical variants.
+
+- reviewed: **3/9**
+- meaningful lexical variants so far: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved reviewed-span classifications: **0**
+
+## Current 10-page iteration — COMPLETE
+
+Processed exactly **10 comparison pages**:
+
+1. `காதல் கடிதம்` scan **18** — **1 page / story CLOSED**;
+2. `புரட்சிப் படம்` scans **19–24** — **6 pages / story CLOSED**;
+3. skipped scans **25–46** because `நாட்டிய கலாராணி` is already a completed canonical;
+4. `விஷம் இனிது` scans **47–49** — **3 pages / PASS for reviewed span**.
+
+Iteration result:
+
+- pages processed: **10/10**
+- new meaningful lexical variants: **0**
+- canonical changes: **0**
+- duplicate Tamil/English created: **0**
+- unresolved: **0**
+
+Cumulative witness-page progress: **25 / 48** target pages reviewed.
+
+Witness phase state: **OPEN — 3 / 6 stories comparison-complete**.
 
 ## Exact next 10-page iteration
 
-Process the next **10 comparison pages** only:
+Process exactly:
 
-- `காதல் கடிதம்` scan **18** — 1 page, close the story comparison if PASS;
-- `புரட்சிப் படம்` scans **19–24** — 6 pages;
-- skip scans **25–46** because `நாட்டிய கலாராணி` is already a completed canonical, not a witness target;
-- `விஷம் இனிது` scans **47–49** — 3 pages.
+- `விஷம் இனிது` scans **50–55** — 6 pages; close the story if PASS;
+- `பாலைவன ரோஜா` scans **56–59** — 4 pages;
+- stop after scan **59**.
 
 Total: **10 comparison pages**.
 
-Do not create duplicate transcriptions or duplicate English translations. Stop after scan **49**.
+Use only the attached 1976 PDF for the witness source. Do not create duplicate transcriptions or duplicate English translations.

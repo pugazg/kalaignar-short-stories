@@ -116,3 +116,18 @@ Direct/native review retained edition-specific or unusual forms including `த�
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+## Additional witness — 1976 `நளாயினி`
+
+Comparison-only witness: `witnesses/1976-nalayini/`.
+
+- 1976 source range: scans **47–55**
+- reviewed: scans **47–49 — PASS / 3 of 9**
+- remaining: scans **50–55**
+- meaningful lexical edition variants so far: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved reviewed-span classifications: **0**
+- duplicate Tamil transcription / English translation: **No / No**
+
+Continue with scans **50–55** in the next iteration.

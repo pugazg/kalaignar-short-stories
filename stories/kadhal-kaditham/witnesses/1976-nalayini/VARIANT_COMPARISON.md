@@ -28,6 +28,22 @@ Batch result:
 - canonical changes: **0**
 - unresolved reviewed-span classifications: **0**
 
-## Next
+## Batch 2 — 1976 scan 18 — COMPLETE / PASS
 
-Compare **1976 scan 18 only** to close `காதல் கடிதம்`. Then continue the same 10-page iteration with `புரட்சிப் படம்` scans **19–24** and `விஷம் இனிது` scans **47–49**.
+The closing 1976 page was directly compared against the verified 1977 canonical ending.
+
+- meaningful new lexical variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+
+Punctuation, spacing, line wrapping and the closing ornament are not promoted as lexical edition variants under this witness policy.
+
+## Final witness closure
+
+- reviewed scans: **13–18 / 6 of 6**
+- meaningful true edition variants: **5**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+- result: **COMPARISON COMPLETE / PASS**

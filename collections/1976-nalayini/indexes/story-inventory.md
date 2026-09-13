@@ -5,10 +5,10 @@ The source has **no separate printed contents page**. Inventory is based on dire
 | # | Opening heading | Scan range | Visible printed folio(s) | Canonical result | Current exact-edition state |
 |---:|---|---:|---:|---|---|
 | 1 | `நளாயினி` | 3–12 | 3–12 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 10/10** |
-| 2 | `காதல் கடிதம்` | 13–18 | 13–18 | existing canonical | **WITNESS IN PROGRESS — scans 13–17 PASS; 18 NEXT** |
-| 3 | `புரட்சிப் படம்` | 19–24 | 19–24 | existing canonical | witness pending |
+| 2 | `காதல் கடிதம்` | 13–18 | 13–18 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 6/6** |
+| 3 | `புரட்சிப் படம்` | 19–24 | 19–24 | existing canonical | **WITNESS COMPARISON COMPLETE / PASS — 6/6** |
 | 4 | `நாட்டிய கலாராணி` | 25–46 | 25–46 | `stories/naattiya-kalarani/` | **TAMIL + ENGLISH PASS / CLOSED** |
-| 5 | `விஷம் இனிது` | 47–55 | 47–55 | existing canonical | witness pending |
+| 5 | `விஷம் இனிது` | 47–55 | 47–55 | existing canonical | **WITNESS IN PROGRESS — scans 47–49 PASS; 50–55 NEXT** |
 | 6 | `பாலைவன ரோஜா` | 56–62 | 56–62 | existing canonical | witness pending |
 | 7 | `அய்யோ ராஜா!` | 63–72 | 63–72 | existing canonical | witness pending |
 | 8 | `மானம்` | 73–78 | `10` on scan 73; 74–78 thereafter | `stories/maanam/` | **TAMIL + ENGLISH PASS / CLOSED** |

@@ -141,11 +141,12 @@ The opening structure, continuous letter across scans 162–163, centered two-li
 Comparison-only witness: `witnesses/1976-nalayini/`.
 
 - 1976 source range: scans **13–18**
-- reviewed in current 10-page iteration: scans **13–17 — PASS for reviewed span**
-- remaining: scan **18**
-- meaningful edition variants recorded so far: **5**
+- comparison: **COMPLETE / PASS — 6/6**
+- meaningful true edition variants: **5**
+- scan 18 added variants: **0**
+- canonical defect candidates: **0**
 - canonical 1977 changes: **0**
+- unresolved: **0**
 - duplicate Tamil transcription / English translation: **No / No**
 
-The 1977 canonical remains authoritative and already has Gate A + Gate B source verification. Witness evidence is recorded separately.
-
+The 1977 canonical remains authoritative and already has Gate A + Gate B source verification. The attached 1976 PDF is retained only as an independent comparison witness.

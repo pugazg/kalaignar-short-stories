@@ -27,9 +27,15 @@ Therefore these six sources are processed **comparison-only**:
 Current comparison state:
 
 - `நளாயினி` scans **3–12** — **COMPLETE / PASS**;
-- `காதல் கடிதம்` scans **13–17** — **PASS for reviewed span**; scan **18** remains;
-- the user-set cadence is **10 comparison pages per iteration**;
-- no duplicate Tamil transcription or duplicate English translation is being created.
+- `காதல் கடிதம்` scans **13–18** — **COMPLETE / PASS**;
+- `புரட்சிப் படம்` scans **19–24** — **COMPLETE / PASS**;
+- `விஷம் இனிது` scans **47–49** — **PASS for reviewed span**; scans **50–55** remain;
+- `பாலைவன ரோஜா` — pending;
+- `அய்யோ ராஜா!` — pending;
+- user-set cadence: **10 comparison pages per iteration**;
+- cumulative reviewed target pages: **25/48**;
+- no duplicate Tamil transcription or duplicate English translation is being created;
+- the attached 1976 PDF is the controlling witness source; no external mirror lookup is required.
 
 The two stories that were new canonicals from this anthology are:
 

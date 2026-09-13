@@ -120,3 +120,17 @@ Story 29 — **திடுக்கிடும் கதை**, printed pages *
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+## Additional witness — 1976 `நளாயினி`
+
+Comparison-only witness: `witnesses/1976-nalayini/`.
+
+- 1976 source range: scans **19–24**
+- comparison: **COMPLETE / PASS — 6/6**
+- meaningful lexical edition variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+- duplicate Tamil transcription / English translation: **No / No**
+
+The attached 1976 PDF was compared directly with the verified 1977 canonical. Differences confined to reflow, punctuation/spacing and display/layout are not treated as lexical variants.

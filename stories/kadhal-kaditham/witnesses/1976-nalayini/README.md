@@ -17,15 +17,16 @@ Comparison-only witness for the already-canonical story `காதல் கட�
 - no duplicate full Tamil transcription;
 - no duplicate English translation;
 - source-proven differences are recorded in `VARIANT_COMPARISON.md`;
-- the canonical 1977 layer is not changed from witness evidence alone.
+- the canonical 1977 layer is not changed from witness evidence alone;
+- the attached 1976 PDF is sufficient; do not substitute external mirror pages.
 
-## Current state
+## Final state
 
-- scans **13–17**: **PASS / compared — 5/6**
-- scan **18**: **NEXT**
-- meaningful edition variants recorded: **5**
-- canonical defect candidates in reviewed span: **0**
+- scans **13–18**: **COMPLETE / PASS — 6/6**
+- meaningful true edition variants: **5**
+- scan 18 additional lexical variants: **0**
+- canonical defect candidates: **0**
 - canonical changes: **0**
-- unresolved reviewed-span classifications: **0**
+- unresolved: **0**
 
-Story comparison remains **IN PROGRESS** until scan 18 is checked.
+**1976 `காதல் கடிதம்` witness comparison CLOSED / PASS.**
