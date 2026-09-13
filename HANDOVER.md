@@ -84,7 +84,7 @@ Workspace:
 Current state:
 
 - witness extent: **26 scans — 34–59 / printed 32–57**
-- reviewed: **25/26 — scans 34–58 / printed 32–56**
+- reviewed: **26/26 — CLOSED / PASS**
 - narrative structure in reviewed span: **equivalent overall; one localized 1956-only dialogue line recorded**
 - material variants recorded: **16**
 - canonical Tamil / English changed: **No / No**
@@ -101,18 +101,35 @@ Current state:
 
 Process **10 physical source pages per iteration**. Crossing a work/repository boundary is allowed only when necessary to fill the 10-page batch, while preserving separate witness workspaces and canonical authority.
 
+### Witness 4 — `அரும்பு`
+
+Canonical repository: `pugazg/kalaignar-novels`
+
+Workspace: `works/arumbu/witnesses/1956-thaaymai/`
+
+Current state:
+
+- witness physical extent: **28 scans — 60–87**
+- printed pages: **58–79**, then **82–87**
+- source gap: **printed 80–81 absent**
+- reviewed: **9/28 — scans 60–68 / printed 58–66**
+- narrative structure in reviewed span: **equivalent**
+- material variants recorded: **5**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- canonical-recheck candidates open: **0**
+
 ## Exact next activity — current
 
-Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels`:
+Continue the 1956 `அரும்பு` witness in `pugazg/kalaignar-novels`:
 
-- scan **59 / printed 57** — final Narayani page
-- then `அரும்பு` scans **60–68 / printed 58–66**
+- scans **69–78**
+- printed pages **67–76**
 - total: **10 source pages**
-- align by text anchors to the verified 1978 canonical
-- record wording / morphology / punctuation / structural variants
-- do not change canonical Tamil or English from witness evidence alone
-- retain the open `கர்வமடக்கும்` / `கருவமடக்கும்` recheck candidate unless the 1978 controlling scan is directly available and explicitly rechecked
-- stop after scan **68**.
+- compare against the verified 1978 canonical by text anchors
+- record edition variants only
+- do not reconstruct printed pages **80–81**
+- stop after scan **78**.
 
 ## Deferred source — 1958 `தேனலைகள்`
 
