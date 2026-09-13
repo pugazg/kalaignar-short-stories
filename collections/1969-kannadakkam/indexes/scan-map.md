@@ -7,9 +7,9 @@
 | 3 | — | edition | `இரண்டாம் பதிப்பு: 1969`; `விலை ரூ. 1-00` | front matter |
 | 4–10 | 3–9 | story | `கண்ணடக்கம்` | **existing canonical witness — comparison COMPLETE / PASS** |
 | 11–24 | 10–23 | story | `நெருப்பு` | **NEW canonical — Tamil/source PASS / CLOSED; assembly complete** |
-| 25–31 | 24–30 | story | `வேணியின் காதலன்` | **existing canonical witness — NEXT comparison audit** |
+| 25–31 | 24–30 | story | `வேணியின் காதலன்` | **existing canonical witness — comparison COMPLETE / PASS** |
 | — | **31–52** | **missing printed span** | no scans supplied | **OPEN source-completeness gap — 22 pages** |
-| 32–41 | 53–62* | story | `அமிர்தமதி` | existing canonical witness — pending comparison after `நெருப்பு` closure |
+| 32–41 | 53–62* | story | `அமிர்தமதி` | **existing canonical witness — NEXT comparison audit** |
 | 42 | — | advertisement | `அண்ணாவின் அரிய நூல்கள்` | back matter |
 | 43 | — | rear leaf | publisher/device graphic | terminal non-story page |
 

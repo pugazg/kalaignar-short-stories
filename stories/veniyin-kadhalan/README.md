@@ -70,6 +70,20 @@ A final scan-228 recheck corrected the provisional `கூண்டுக் க
 - scan **231** visibly opens Story 34 `அமிர்தமதி`;
 - Story 34 text included here: **No**.
 
+## Additional edition witness — 1969
+
+The 1969 second-edition `கண்ணடக்கம்` witness, scans **25–31 / printed 24–30**, is **COMPARISON COMPLETE / PASS — 7/7 scans**.
+
+- witness: [README](witnesses/1969-kannadakkam/README.md)
+- variant ledger: [VARIANT_COMPARISON.md](witnesses/1969-kannadakkam/VARIANT_COMPARISON.md)
+- same narrative and fatal ending: **PASS**
+- canonical `கூண்டுக் கிளி ஆக்குவேனென்றான்`: **independently supported**
+- canonical unusual `கந்தனு?`: **independently supported**
+- witness `யோசனைதான்!` vs canonical source-proven `யோசனை தான்!`: **edition spacing variant**
+- witness `என் வாழ்வைத் துண்டித்த` vs canonical `வாழ்க்கைத் துண்டித்த`: **edition wording variant**
+- canonical Tamil / English / verification status changed: **No**
+- unresolved witness issues: **0**
+
 ## Completion state
 
 **வேணியின் காதலன் is 2026 CURRENT PASS / CLOSED: Gate A 6/6 + Gate B 6/6, 2 source-proven punctuation/spacing repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 225–230 / printed pages 216–221.

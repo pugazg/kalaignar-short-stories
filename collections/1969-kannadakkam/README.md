@@ -26,8 +26,8 @@ The attached PDF itself is the controlling source for this edition. No external 
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | **comparison COMPLETE / PASS** |
 | 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical** | **TAMIL / SOURCE PASS / CLOSED** |
-| 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | **comparison witness NEXT** |
-| 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
+| 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | **comparison COMPLETE / PASS** |
+| 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | **comparison witness NEXT** |
 
 * Scan 32 is the story-opening page; scan 33 visibly carries printed folio **54**, so the opening is structurally inferred as printed page **53**.
 
@@ -102,11 +102,25 @@ The collection itself remains **PHYSICAL COMPLETENESS OPEN** because printed pag
 - current canonical repairs `துணி ஏணை` and `நமனுலகு`: **independently supported**
 - witness unresolved issues: **0**
 
+## 1969 `வேணியின் காதலன்` witness result
+
+**COMPLETE / PASS — 7/7 scans reviewed.**
+
+- witness workspace: `stories/veniyin-kadhalan/witnesses/1969-kannadakkam/`
+- narrative structure / fatal ending: **equivalent**
+- major added / missing blocks: **0**
+- canonical `கூண்டுக் கிளி ஆக்குவேனென்றான்`: **independently supported**
+- canonical unusual `கந்தனு?`: **independently supported**
+- 1969 `யோசனைதான்!` vs canonical `யோசனை தான்!`: **edition spacing variant**
+- 1969 `என் வாழ்வைத் துண்டித்த` vs canonical `வாழ்க்கைத் துண்டித்த`: **edition wording variant**
+- canonical Tamil / English / status changed: **No**
+- witness unresolved issues: **0**
+
 ## Exact next activity
 
-Begin the **1969 `வேணியின் காதலன்` comparison-only witness audit**, scans **25–31 / printed pages 24–30**, against the existing 1977 canonical `stories/veniyin-kadhalan/`.
+Begin the **1969 `அமிர்தமதி` comparison-only witness audit**, scans **32–41 / printed pages 53–62**, against the existing 1977 canonical `stories/amirthamathi/`.
 
-Use/create `stories/veniyin-kadhalan/witnesses/1969-kannadakkam/`. Do not create duplicate Tamil or English layers, and do not modify the 1977 canonical from witness evidence alone.
+Use/create `stories/amirthamathi/witnesses/1969-kannadakkam/`. Do not create duplicate Tamil or English layers, and do not alter the 1977 canonical from witness evidence alone.
 
 
 P3 scans **21–24 / printed 20–23**:
