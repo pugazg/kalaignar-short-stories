@@ -73,9 +73,9 @@ No witness reading automatically overwrites a later controlling canonical editio
 Workspace: `stories/thaaymai/witnesses/1956-thaaymai/`
 
 - witness range: **scans 7–22 / printed 5–20**
-- comparison reviewed: **8/16 scans — scans 7–14 / printed 5–12**
+- comparison reviewed: **12/16 scans — scans 7–18 / printed 5–16**
 - narrative structure in reviewed span: **equivalent**
-- material edition variants recorded: **Yes — 4 high-value wording/morphology variants through scan 14**
+- material edition variants recorded: **Yes — 8 high-value wording/morphology/syntax variants through scan 18**
 - earlier witness confirmation: **1956 `ஆயிரந்தேர்` independently supports current 1977 canonical**
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
@@ -83,6 +83,6 @@ Workspace: `stories/thaaymai/witnesses/1956-thaaymai/`
 
 ## Exact next activity
 
-Continue `தாய்மை` witness comparison with **scans 15–18 / printed pages 13–16**.
+Continue `தாய்மை` witness comparison with **scans 19–22 / printed pages 17–20**.
 
 Do not begin `ஆட்டக் காவடி` until the complete `தாய்மை` witness comparison is closed.
