@@ -68,30 +68,34 @@ Story 6 identity is not inferred from title similarity. Its distinctive opening 
 
 ## Witness-processing state
 
-**SOURCE / SCAN / STORY INVENTORY COMPLETE. STORIES 1–5 WITNESS WORK CLOSED.**
+**CLOSED — 6/6 WITNESS STORIES PROCESSED.**
 
 - stories inventoried: **6/6**
-- new canonical candidates: **0**
-- existing-canonical witness routes: **6/6**
-- witness comparisons completed: **5/6**
+- witness comparisons completed: **6/6**
+- new canonical stories from this collection: **0**
+- canonical Tamil changes from witness evidence: **0**
+- canonical English changes from witness evidence: **0**
+- unresolved source-dependent witness blockers: **0**
+- canonical-recheck candidates opened across this collection: **1**
+  - Story 1 `வாழ முடியாதவர்கள்`: 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
+- collection witness workflow: **CLOSED**
 
 ### Story 1 — `வாழ முடியாதவர்கள்`
 
 **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL.**
 
-- scans inspected: **10/10**
-- severe loss: **scans 14–15**
-- missing 1950 text reconstructed: **No**
-- canonical-recheck candidates: **1** — 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
+- scans **6–15**
+- severe paper loss: **14–15**
+- missing 1950 wording reconstructed: **No**
+- canonical-recheck candidates: **1**
 - canonical Tamil / English changed: **No / No**
 
 ### Story 2 — `ஒரிஜினலில் உள்ளபடி!`
 
 **CLOSED / PASS — 9/9.**
 
-- narrative structure: **equivalent / complete**
-- material edition variants: **recorded**
-- 1950-only repeated opening instruction: `ஒரிஜினலில் உள்ளபடி போடு.`
+- scans **16–24**
+- narrative equivalent / complete
 - canonical-recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
 
@@ -99,9 +103,8 @@ Story 6 identity is not inferred from title similarity. Its distinctive opening 
 
 **CLOSED / PASS — 5/5.**
 
-- narrative structure: **equivalent / complete**
-- localized 1950-only dialogue addition: **1**
-- corrected `காளை` identity independently supported
+- scans **25–29**
+- localized 1950-only dialogue addition recorded
 - canonical-recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
 
@@ -109,55 +112,48 @@ Story 6 identity is not inferred from title similarity. Its distinctive opening 
 
 **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 7/7.**
 
-- scans **34–36** have localized paper loss; missing wording was not reconstructed
-- core narrative architecture: **equivalent**
-- **substantial 1950-only ending expansion** after the wig reveal:
-  - actor identifies himself as **கங்காதரன்**
-  - Draupadi stage persona/costume is discarded
-  - story closes with explicit `கண்டதும் காதல் ஒழிக` punchline
-- closing layout: large centered star
+- scans **30–36**
+- localized paper loss: **34–36**
+- missing 1950 wording reconstructed: **No**
+- substantial 1950-only Gangadharan ending expansion recorded
 - canonical-recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
-
-Witness records:
-
-- `stories/kandathum-kadhal-ozhiga/witnesses/1950-vazha-mudiyathavargal/README.md`
-- `stories/kandathum-kadhal-ozhiga/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
 
 ### Story 5 — damaged heading; work identity `ஏழை`
 
 **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 5/5.**
 
-- scan **37** heading physically damaged; missing title letters not reconstructed
-- body narrative: **complete / equivalent**
-- high-value edition variants:
-  - 1950 `கனவு பங்கம்` ↔ 1977 `கனவு மங்கலம்`
-  - 1950 `பயங்கரக் கண்வீச்சு` ↔ 1977 `பயங்கர மின்னீச்சு`
-  - 1950 `...என்ற பயம்தான்` ↔ directly verified 1977 `...என்று பயந்தான்.`
-  - 1950 `இன்ப இரவு` ↔ 1977 `இன்ப வரவு`
-- closing layout: large narrative illustration
+- scans **37–41**
+- scan 37 heading damage preserved as source limitation
+- body narrative complete / equivalent
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+### Story 6 — source title `பிள்ளையோ பிள்ளை!`
+
+**CLOSED / PASS — 22/22.**
+
+- scans **42–63 / printed 41–62**
+- canonical route: `stories/petra-pillaiyai-vitra-thaai/`
+- canonical title: `பெற்ற பிள்ளையை விற்ற தாய்`
+- same underlying work: **CONFIRMED**
+- source title variant preserved: **பிள்ளையோ பிள்ளை!**
+- narrative architecture: **equivalent**
+- major added / omitted narrative blocks: **0**
+- centered 1950 section numeral `2` and source-specific star-divider / closing layout recorded
+- high-value edition variants recorded, including `தலையில் பாரத்தைப்` ↔ `தீயில் பார்த்ததைப்` and `மளிகைக் கடையில்` ↔ `மனிதைக் கடையில்`
 - canonical-recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
 
 Witness records:
 
-- `stories/ezhai/witnesses/1950-vazha-mudiyathavargal/README.md`
-- `stories/ezhai/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
+- `stories/petra-pillaiyai-vitra-thaai/witnesses/1950-vazha-mudiyathavargal/README.md`
+- `stories/petra-pillaiyai-vitra-thaai/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
 
-Remaining witness stories: **1/6 NOT STARTED**.
+## Collection closure
 
-## Exact next activity
+The supplied 1950 `வாழமுடியாதவர்கள்` anthology is now **WITNESS WORKFLOW CLOSED**.
 
-Process Story 6, source title `பிள்ளையோ பிள்ளை!`, as an earlier-edition / title-variant witness:
+Do not reopen this collection from stale prompts. Reopen only for genuinely new direct source evidence or an explicit maintenance request.
 
-- 1950 scans **42–63**
-- printed pages **41–62**
-- **22 physical source pages**
-- canonical target: `stories/petra-pillaiyai-vitra-thaai/`
-- canonical title: `பெற்ற பிள்ளையை விற்ற தாய்`
-- compare direct 1950 source pixels against the verified 1982 canonical by text anchors
-- preserve the 1950 source-specific title `பிள்ளையோ பிள்ளை!`
-- do not alter canonical Tamil or English from witness evidence alone
-- record any likely canonical defect as a recheck candidate only
-
-After Story 6, the 1950 collection witness workflow can be closed.
+Next registered anthology in repository order: **1953 `தப்பிவிட்டார்கள்`**, beginning with Story 1 `தப்பிவிட்டார்கள்`, scans **7–15 / printed 5–13**.
