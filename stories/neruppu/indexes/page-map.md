@@ -5,11 +5,11 @@ Story range: scans **11–24 / printed pages 10–23** — **14 physical pages**
 
 | Scan | Printed | Page type | Status | Note |
 |---:|---:|---|---|---|
-| 11 | 10 | story-opening | `needs-review` | **P1 Stage 3 PASS; Stage 4 NEXT** |
-| 12 | 11 | story | `needs-review` | **P1 Stage 3 PASS; Stage 4 NEXT** |
-| 13 | 12 | story | `needs-review` | **P1 Stage 3 PASS; Stage 4 NEXT** |
-| 14 | 13 | story | `needs-review` | **P1 Stage 3 PASS; Stage 4 NEXT** |
-| 15 | 14 | story | `needs-review` | **P1 Stage 3 PASS; Stage 4 NEXT** |
+| 11 | 10 | story-opening | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 12 | 11 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 13 | 12 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 14 | 13 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
+| 15 | 14 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 16 | 15 | story | `not-started` | not transcribed |
 | 17 | 16 | story | `not-started` | not transcribed |
 | 18 | 17 | story | `not-started` | not transcribed |
@@ -28,11 +28,11 @@ Current totals:
 - Stage 1 first-pass transcription: **5/14**
 - Stage 2 visual text fidelity: **5/14**
 - Stage 3 historical-glyph audit: **5/14**
-- Stage 4 final check: **0/14**
-- verified: **0**
-- needs-review: **5**
+- Stage 4 final check: **5/14**
+- verified: **5**
+- needs-review: **0**
 - not-started: **9**
 - blocked: **0**
 - Stage-2 unresolved ordinary fidelity issues: **0**
 
-Next: **P1 Stage 4 final independent source check — scans 11–15 / printed pages 10–14**.
+Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.

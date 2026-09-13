@@ -4,10 +4,10 @@ printed_page: 14
 story: "neruppu"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
 தன்னுடைய சொந்தக் கிராமத்தில் இதுவரை தன் பார்வையில் படாமல் இவ்வளவு சிறந்த எழிலரசியொருத்தியிருந்தது பூபதிக்கே ஆச்சரியத்தை அளித்தது. திருமணத்தன்று நண்பர்களிருவரும் ஒருவரை யொருவர் கட்டித் தழுவி ஆனந்தக் கண்ணீர் பெருக்கினர். எந்த வேறுபாடுகளும்—இதுவரையில் நண்பர்களுக்கிடையே எழுப்பாத ஒரு பெரும் புயல் இப்போது அந்தத் திருமணம் எழுப்பிவிட்டது என்றுதான் கூறவேண்டும். தன் நண்பனுக்குத் திருமணம் ஆனதிலே பூபதிக்கு மகிழ்ச்சிதான்! ஆனால்... அழகுப் பதுமையாக அச்சடித்த சிலைபோல....ஆரணங்கு ஒருத்தி அருளுக்குக் கிடைத்தது...அதன் மூலம் தன் உள்ளத்தில் ஒரு சூறாவளியைக் கிளப்புவாள் என அவன் எதிர்பார்க்கவில்லை. நண்பனின் மனைவி, அவனுக்குத் தங்கை போல!....அவனும் அந்த எண்ணத்தை இழுத்து இழுத்துப் பிடித்து நிறுத்திப் பார்த்தான். அந்தக் கொள்ளை இருதயத்திலேயிருந்து வழுக்கி வழுக்கி ஓடிற்று.
@@ -28,5 +28,7 @@ transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit agains
 - Stage 2: **PASS**;
 - Stage 3 historical-glyph audit: **PASS**; no character-identity correction required on this page.
 - Representative families checked against source: `கண்ணை` (ணை), `சிலைபோல` (லை), `கொள்ளை` / `மணமக்களை` (ளை), `சூறாவளியைக்` (றா), `நினைக்கிறோம்` (றோ/னை), `மூடினார்` (னா), `மனைவி` / `நினைவு` (னை).
+
+- Stage 4 final independent source check: **PASS**; complete page text, punctuation, paragraphing and page boundary rechecked; no additional source-proven correction required; page promoted to `verified`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 15; அச்சுப் பக்கம்: 14 -->

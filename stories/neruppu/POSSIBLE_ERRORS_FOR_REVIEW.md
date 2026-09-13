@@ -30,4 +30,14 @@ Historical-glyph audit for scans **11–15** is **COMPLETE / PASS**.
 - unresolved glyph clusters: **0**
 - no modernization or global replacement applied
 
-Stage 4 final independent source check remains open; pages therefore stay `needs-review`.
+## P1 Stage 4 disposition
+
+The complete committed text for scans **11–15** was reopened fresh and checked end-to-end against the controlling source.
+
+- additional source-proven text corrections: **0**
+- omission / duplication issues: **0**
+- punctuation / paragraph / page-boundary issues: **0**
+- unclosed historical-glyph candidates: **0**
+- Stage-2 and Stage-3 dispositions confirmed present: **PASS**
+- final unresolved queue: **0**
+- page status: **`verified` 5/5**

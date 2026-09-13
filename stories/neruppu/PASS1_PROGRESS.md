@@ -11,16 +11,16 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - Stage 1 first-pass transcription: **5/14**
 - Stage 2 visual text fidelity: **5/14**
 - Stage 3 historical-glyph audit: **5/14**
-- Stage 4 final independent check: **0/14**
-- verified pages: **0/14**
-- needs-review: **5/14**
+- Stage 4 final independent check: **5/14**
+- verified pages: **5/14**
+- needs-review: **0/14**
 - not-started: **9/14**
 - blocked: **0**
 - Stage-2 unresolved ordinary fidelity issues: **0**
 
 | Batch | Scans / printed pages | Stage 1 first-pass | Stage 2 visual fidelity | Stage 3 glyph | Stage 4 final | Final status |
 |---|---|---|---|---|---|---|
-| P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | `needs-review` |
+| P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
 | P2 | 16–20 / 15–19 | not started | not started | not started | not started | `not-started` |
 | P3 | 21–24 / 20–23 | not started | not started | not started | not started | `not-started` |
 
@@ -55,8 +55,19 @@ Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
 
 Durable gate: `HISTORICAL_GLYPH_GATE.md`.
 
+## P1 Stage 4 result
+
+- complete pages independently reopened against source: **5/5**
+- end-to-end omissions / duplications found: **0**
+- additional wrong-text corrections: **0**
+- punctuation / paragraph / page-boundary corrections: **0**
+- Stage-2 correction set confirmed present: **15/15**
+- Stage-3 glyph dispositions confirmed present: **5/5 pages; 0 unresolved clusters**
+- pages promoted to `verified`: **5/5**
+- final unresolved issues: **0**
+
 ## Exact next activity
 
-**P1 Stage 4 — final independent source check, scans 11–15 / printed pages 10–14.**
+**P2 Stage 1 — first-pass transcription, scans 16–20 / printed pages 15–19.**
 
-Reopen the five pages fresh, compare the complete text to source end-to-end, confirm Stage-2/3 dispositions and zero unresolved issues, then promote to `verified` only if the final check closes.
+Transcribe only those five scans from the controlling source, preserve source punctuation/spacing/readings, queue any genuinely uncertain reading as `needs-review`, synchronize controls, commit, and stop before Stage 2.

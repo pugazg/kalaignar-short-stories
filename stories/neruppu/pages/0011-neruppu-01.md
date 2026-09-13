@@ -4,10 +4,10 @@ printed_page: 10
 story: "neruppu"
 section: "story"
 page_type: "story-opening"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
 # நெருப்பு
@@ -22,5 +22,7 @@ transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit agains
 - Stage 2: **PASS**;
 - Stage 3 historical-glyph audit: **PASS**; no character-identity correction required on this page.
 - Representative families checked against source: `துணைவர்கள்` (ணை), `மலையாக்கி` / `சகிக்கவில்லை` (லை), `பிரச்சினைகளை` / `அவர்களை` / `தங்களை` (ளை/னை), `வாட்டுகிறார்கள்` (றா), `என்னால்` (னா), `என்னோடு` (னோ).
+
+- Stage 4 final independent source check: **PASS**; complete page text, punctuation, paragraphing and page boundary rechecked; no additional source-proven correction required; page promoted to `verified`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 11; அச்சுப் பக்கம்: 10 -->

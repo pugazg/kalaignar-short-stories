@@ -27,7 +27,7 @@ The visible source contains four story blocks:
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 Stage 3 COMPLETE / PASS 5/5; Stage 4 NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 Stage 4 COMPLETE / PASS — VERIFIED 5/5; P2 Stage 1 NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -72,13 +72,15 @@ P1 scans **11–15 / printed 10–14**:
 - Stage-2 corrections: **15**
 - Stage-2 unresolved ordinary fidelity issues: **0**
 - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
-- Stage 4 final check: **NEXT**
-- page state: **needs-review**
+- Stage 4 final check: **COMPLETE / PASS 5/5**
+- Stage-4 additional corrections: **0**
+- final unresolved issues: **0**
+- page state: **verified 5/5**
 
 ## Exact next activity
 
-Process **`நெருப்பு` P1 Stage 4 — final independent source check**, scans **11–15 / printed pages 10–14**.
+Process **`நெருப்பு` P2 Stage 1 — first-pass transcription**, scans **16–20 / printed pages 15–19**.
 
-If the full five-page source comparison closes with no unresolved issue, promote those pages to `verified`, synchronize controls, commit, and then advance to P2 Stage 1.
+Transcribe those five scans only, preserve source-faithful readings, keep uncertain items explicitly queued, synchronize controls, commit, and stop before Stage 2.
 
 Do not begin `வேணியின் காதலன்` witness comparison until `நெருப்பு` Tamil/source work closes.

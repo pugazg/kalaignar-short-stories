@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Gate — நெருப்பு
 
-Status: **P1 STAGE 3 COMPLETE / PASS — 5/14 pages glyph-audited**.
+Status: **P1 STAGE 3 COMPLETE / PASS — 5/14 pages glyph-audited; P1 Stage 4 independently closed / verified**.
 
 Mandatory Stage-3 families:
 
@@ -35,10 +35,14 @@ The five Stage-2 texts were reopened against the same controlling source and rev
 - unresolved glyph clusters: **0**
 - global replacements: **0**
 - spelling/grammar modernization: **0**
-- page status remains: **needs-review**
-- Stage 4 final independent source check: **NEXT**
+- page status after Stage 4: **verified 5/5**
+- Stage 4 final independent source check: **COMPLETE / PASS 5/5**
 
 The absence of Stage-3 corrections does not by itself promote pages to `verified`; final Stage 4 remains mandatory.
+
+## P1 Stage-4 cross-check
+
+Stage 4 rechecked the complete five-page text and all Stage-3-sensitive readings against the source. No historical-glyph disposition was overturned, no new character-identity correction was required, and no unresolved glyph candidate remains. P1 is therefore **verified 5/5**.
 
 ## Batch state
 
@@ -48,4 +52,4 @@ The absence of Stage-3 corrections does not by itself promote pages to `verified
 | 16–20 | not started | 0 | 0 |
 | 21–24 | not started | 0 | 0 |
 
-Next: **P1 Stage 4 final independent source check — scans 11–15**.
+Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.

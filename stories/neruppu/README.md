@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 STAGE 3 COMPLETE.**
+**SOURCE INTAKE PASS / P1 STAGE 4 COMPLETE — VERIFIED 5/5.**
 
 - live `main` was re-fetched before activation;
 - no canonical `நெருப்பு` workspace or documented alternate-title match was found;
@@ -54,9 +54,9 @@ A high-resolution verification problem in Stage 2/3/4 must not block a responsib
 - Stage 1 first-pass: **5 / 14**
 - Stage 2 visual fidelity: **5 / 14**
 - Stage 3 historical glyph: **5 / 14**
-- Stage 4 final check: **0 / 14**
-- verified: **0 / 14**
-- needs-review: **5 / 14**
+- Stage 4 final check: **5 / 14**
+- verified: **5 / 14**
+- needs-review: **0 / 14**
 - not-started: **9 / 14**
 - blocked / unresolved: **0 / 0**
 - Tamil assembly: **NOT STARTED**
@@ -71,14 +71,17 @@ Scans **11–15 / printed 10–14**:
 - Stage 3 historical-glyph audit: **COMPLETE / PASS 5/5**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4 final independent check: **NEXT**
-- pages remain `needs-review`
+- Stage 4 final independent check: **COMPLETE / PASS 5/5**
+- Stage-4 additional source-proven corrections: **0**
+- Stage-4 unresolved issues: **0**
+- pages: **`verified` 5/5**
 
 Durable Stage-2 record: `VISUAL_FIDELITY_AUDIT.md`.  
-Durable Stage-3 record: `HISTORICAL_GLYPH_GATE.md`.
+Durable Stage-3 record: `HISTORICAL_GLYPH_GATE.md`.  
+Durable Stage-4 record: `FINAL_SOURCE_CHECK.md`.
 
 ## Exact next activity
 
-**P1 Stage 4 — final independent source check, scans 11–15 / printed pages 10–14.**
+**P2 Stage 1 — first-pass transcription, scans 16–20 / printed pages 15–19.**
 
-Perform one fresh end-to-end source comparison, confirm no omissions/duplications or unresolved source/glyph issues remain, synchronize, commit, and promote the five pages to `verified` only if the final check passes.
+Process only those five scans from the controlling source. Do not begin Stage 2 in the same activity.

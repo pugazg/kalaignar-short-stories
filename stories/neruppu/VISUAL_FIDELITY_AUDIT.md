@@ -48,8 +48,10 @@ Stage-2 unresolved ordinary text-fidelity issues: **0**.
 
 - Stage 1: **COMPLETE 5/5**
 - Stage 2: **COMPLETE / PASS 5/5**
-- Stage 3 historical-glyph audit: **NOT STARTED**
-- Stage 4 final independent check: **NOT STARTED**
-- page status remains: **needs-review**
+- Stage 3 historical-glyph audit: **COMPLETE / PASS 5/5**
+- Stage 4 final independent check: **COMPLETE / PASS 5/5**
+- page status after final gate: **verified 5/5**
 
-Next: **P1 Stage 3 historical Tamil glyph audit — scans 11–15**.
+Stage-4 additional source-proven corrections: **0**. Final unresolved issues: **0**.
+
+Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.

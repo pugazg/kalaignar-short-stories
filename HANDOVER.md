@@ -37,9 +37,9 @@ Workspace: `stories/neruppu/`
 - Stage 1 total: **5/14**
 - Stage 2 visual fidelity: **5/14**
 - Stage 3 historical glyph: **5/14**
-- Stage 4 final check: **0/14**
-- verified: **0/14**
-- needs-review: **5/14**
+- Stage 4 final check: **5/14**
+- verified: **5/14**
+- needs-review: **0/14**
 - not-started: **9/14**
 - blocked: **0**
 - P1 Stage-2 ordinary fidelity corrections: **15**
@@ -54,15 +54,20 @@ Stage 2 is now durable. The scan-14 opening continuation was resolved from enlar
 3. historical Tamil glyph audit → commit + sync
 4. final independent source check → commit + sync; only then `verified`
 
-## P1 Stage 3 durable result
+## P1 durable closure
 
-- historical-glyph audit: **COMPLETE / PASS 5/5**
-- character-identity corrections: **0**
-- unresolved glyph clusters: **0**
-- pages remain `needs-review`
+- Stage 3 historical-glyph audit: **COMPLETE / PASS 5/5**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final independent source check: **COMPLETE / PASS 5/5**
+- Stage-4 additional source-proven corrections: **0**
+- omission / duplication / punctuation / paragraph / page-boundary issues: **0**
+- Stage-2 corrections confirmed present: **15/15**
+- final unresolved issues: **0**
+- P1 pages: **`verified` 5/5**
 
 ## Exact next activity
 
-**`நெருப்பு` P1 Stage 4 — final independent source check, scans 11–15 / printed 10–14.**
+**`நெருப்பு` P2 Stage 1 — first-pass transcription, scans 16–20 / printed 15–19.**
 
-Reopen the complete five-page batch fresh, confirm all text/punctuation/boundaries and Stage-2/3 dispositions against the source, resolve any final issue, synchronize controls, commit, and mark pages `verified` only if the final gate passes.
+Transcribe only the five P2 scans from the controlling source, preserve source spellings/punctuation/spacing, queue genuinely uncertain readings as `needs-review`, synchronize controls, commit, and stop before Stage 2.
