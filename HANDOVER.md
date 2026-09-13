@@ -63,17 +63,19 @@ Current active witness:
 Progress:
 
 - witness extent: **16 scans**
-- reviewed: **8/16 — scans 7–14 / printed 5–12**
+- reviewed: **12/16 — scans 7–18 / printed 5–16**
 - narrative structure in reviewed span: **equivalent**
-- material variants through scan 14: **4 high-value wording/morphology variants**
+- material variants through scan 18: **8 high-value wording/morphology/syntax variants**
 - 1956 scan 13 independently confirms current canonical `ஆயிரந்தேர்`
+- 1956 scan 18 layout: explicit three-star scene break before the palace-garden sequence
+- canonical recheck candidates open: **0**
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
 - unresolved witness reading: **0**
 
 ## Exact next activity — current
 
-Continue the 1956 `தாய்மை` witness comparison with **scans 15–18 / printed pages 13–16**.
+Continue the 1956 `தாய்மை` witness comparison with **scans 19–22 / printed pages 17–20**.
 
 1. Fetch live `main`.
 2. Read the collection intake and witness comparison files.
