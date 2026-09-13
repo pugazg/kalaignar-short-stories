@@ -38,7 +38,7 @@ These are source-supported 1969-vs-1977 differences. They are **edition evidence
 
 | 1969 witness | 1977 canonical | Class / disposition |
 |---|---|---|
-| `ஆற்றில் தெரியும் வாளை மீனுக்கோ` | `ஆற்றில் தெரியும் வான மீனுக்கோ` | lexical; **high-value 1977 recheck candidate** |
+| `ஆற்றில் தெரியும் வாளை மீனுக்கோ` | `ஆற்றில் தெரியும் வாளை மீனுக்கோ` | **agreement; direct 1977 scan recheck resolved prior canonical error** |
 | `காளி கேட்டான்.` | `காளி கேட்டாள்.` | true edition/source-form difference; canonical unchanged |
 | `இல்ல தாயே... நான் அவனில்ல! ... ஆனால் உன் பக்தன்!` | `இல்லை தாயே...நான் அவனில்லை! ... ஆனாலும் உன் பக்தன்!` | colloquial/full-form edition rewrite |
 | `அய்யோ... அப்படியா? ... எனக்குத் தெரியாதா!` | `அய்யய்யோ...அப்படியா? எனக்குத் தெரியாதே!` | interjection + lexical ending variant |
@@ -87,15 +87,15 @@ The 1969 witness independently supports current canonical readings that had requ
 | `பிணக்கொலு` | present | supports preservation of unusual source form |
 | hospital-frame ending | present | narrative closure equivalent |
 
-## Canonical-recheck candidate
+## Resolved controlling-source recheck
 
-### `வாளை மீனுக்கோ` ↔ `வான மீனுக்கோ`
+### `வாளை மீனுக்கோ`
 
 - 1969 witness: **`வாளை மீனுக்கோ`**
-- 1977 canonical: **`வான மீனுக்கோ`**
+- exact 1977 controlling scan 166: **`வாளை மீனுக்கோ`**
 - registered 2009 witness: **`வாளை மீனுக்கோ`**
 
-Because two non-canonical witnesses agree against the current canonical reading, this is strong recheck evidence. It **does not authorize a canonical change**. The exact 1977 controlling scan must be reopened separately before any repair.
+Fresh enlarged inspection of the exact 1977 scan confirms historical `ளை`. The former canonical `வான மீனுக்கோ` was corrected to `வாளை மீனுக்கோ`, and the English was synchronized. The repair is grounded in the controlling 1977 source, not imported from witness evidence alone.
 
 ## Final disposition
 
@@ -104,7 +104,7 @@ Because two non-canonical witnesses agree against the current canonical reading,
 - narrative structure equivalent: **Yes**
 - added / omitted major blocks: **0**
 - witness boundary unresolved: **0**
-- canonical Tamil changed: **No**
-- canonical English changed: **No**
+- canonical Tamil changed: **Yes — after direct controlling-source recheck**
+- canonical English changed: **Yes — synchronized to corrected canonical**
 - canonical verified statuses changed: **No**
 - witness comparison: **CLOSED / PASS**

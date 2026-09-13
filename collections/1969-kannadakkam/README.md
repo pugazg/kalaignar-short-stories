@@ -95,10 +95,10 @@ The collection itself remains **PHYSICAL COMPLETENESS OPEN** because printed pag
 - witness workspace: `stories/kannadakkam/witnesses/1969-kannadakkam/`
 - narrative structure: **equivalent**
 - added / missing major narrative blocks: **0**
-- canonical Tamil changed: **No**
-- canonical English changed: **No**
-- canonical status changed: **No**
-- high-value recheck evidence: 1969 `வாளை மீனுக்கோ` ↔ canonical `வான மீனுக்கோ`; the 2009 witness independently also has `வாளை`
+- canonical Tamil changed after later controlling-source recheck: **Yes — `வான` → `வாளை`**
+- canonical English synchronized after that repair: **Yes**
+- canonical status: **PASS / CLOSED**
+- resolved recheck: 1969 `வாளை மீனுக்கோ`, exact 1977 scan 166 `வாளை மீனுக்கோ`, and 2009 witness `வாளை மீனுக்கோ` all agree; former canonical `வான` was corrected after direct 1977 source recheck
 - current canonical repairs `துணி ஏணை` and `நமனுலகு`: **independently supported**
 - witness unresolved issues: **0**
 

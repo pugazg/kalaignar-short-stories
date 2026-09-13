@@ -45,9 +45,9 @@ The witness does contain genuine edition wording, morphology, punctuation, spaci
 
 ## Highest-value witness finding
 
-1969 reads **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**, whereas the current 1977 canonical reads **`ஆற்றில் தெரியும் வான மீனுக்கோ`**.
+1969 reads **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**. A fresh enlarged recheck of the exact 1977 controlling scan **166 / printed 157** now confirms that the 1977 source also reads **`வாளை மீனுக்கோ`**. The registered 2009 witness independently agrees.
 
-The already-registered 2009 witness independently also reads **`வாளை மீனுக்கோ`**. This makes the location a high-value **1977 controlling-scan recheck candidate**, not an automatic canonical correction. The 1977 canonical remains unchanged unless its exact controlling scan is separately reopened and proves a repair.
+The prior canonical `வான மீனுக்கோ` was therefore corrected only after the controlling 1977 scan was reopened. This witness did not by itself authorize the repair.
 
 ## Canonical readings independently supported by 1969
 
@@ -69,9 +69,9 @@ The 1969 final page uses an explicit three-part scene-break ornament before the 
 - narrative completeness: **PASS**
 - boundary traceability: **PASS**
 - material edition variants: **recorded**
-- canonical-recheck candidates: **1 high-value location**
-- canonical Tamil modified: **No**
-- canonical English modified: **No**
+- canonical-recheck candidates: **0 open — prior `வாளை` candidate resolved by direct 1977 scan**
+- canonical Tamil modified: **Yes — later direct 1977 source recheck, not witness-only evidence**
+- canonical English modified: **Yes — synchronized after the direct 1977 source repair**
 - canonical status modified: **No**
 - unresolved witness reading: **0**
 

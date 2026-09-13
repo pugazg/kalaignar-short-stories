@@ -15,8 +15,8 @@ The local conversation copy ends at scan 150, so this comparison uses the public
 
 Strong later-witness evidence includes:
 
-- canonical `ஆற்றில் தெரியும் வான மீனுக்கோ` ↔ 2009 `ஆற்றில் தெரியும் வாளை மீனுக்கோ`;
+- 2009 `ஆற்றில் தெரியும் வாளை மீனுக்கோ` now agrees with the directly rechecked 1977 canonical `ஆற்றில் தெரியும் வாளை மீனுக்கோ`;
 - canonical `நீண்ட கழியில் ஒரு துணி ஏண்` ↔ 2009 `நீண்ட கழியில் ஒரு துணி ஏணை`;
 - later edition also regularizes `திவட்டி`/`தீவட்டி`, spacing, punctuation and several dialogue forms.
 
-These are recheck candidates only. Canonical 1977 Tamil/English remain unchanged.
+`வாளை மீனுக்கோ` is no longer an open recheck candidate: the exact 1977 scan 166 was reopened and confirms `வாளை`. Other later-edition differences remain witness evidence unless separately rechecked.
