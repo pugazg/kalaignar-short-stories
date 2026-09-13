@@ -1,23 +1,8 @@
-# NEXT CHAT PROMPT — 1953 `தப்பிவிட்டார்கள்` / Story 1 witness scans 7–15
+# NEXT CHAT PROMPT — 1953 `தப்பிவிட்டார்கள்` / `விலையால் வாங்கலையோ` activation
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Previous collection closure
-
-The 1950 `வாழமுடியாதவர்கள்` witness collection is **CLOSED — 6/6**.
-
-Final Story 6 source title `பிள்ளையோ பிள்ளை!` was compared across scans **42–63 / printed 41–62** against canonical `பெற்ற பிள்ளையை விற்ற தாய்` and closed **PASS 22/22**.
-
-- same-work identity: **CONFIRMED**
-- 1950 source title preserved: **Yes**
-- narrative architecture: **equivalent**
-- canonical Tamil / English changed: **No / No**
-- Story-6 canonical-recheck candidates: **0**
-- total 1950 collection recheck backlog: **1 candidate from Story 1 only**
-
-Do not reopen the 1950 collection without genuinely new direct evidence.
-
-## Controlling 1953 witness source
+## Controlling source
 
 Use only the attached:
 
@@ -37,46 +22,75 @@ Source identity:
 - source authority — **direct scan pixels**
 - source PDF committed — **No**
 
-Do not use OCR, web copies or other editions as substitutes for this 1953 witness.
+Do not use OCR, web copies or another edition as a substitute for this source.
 
-## Collection intake
+## Durable collection state
 
 Collection workspace:
 
 `collections/1953-thappivittargal/`
 
-Intake is **COMPLETE 4/4**:
+Inventory remains **COMPLETE 4/4**.
 
-1. `தப்பிவிட்டார்கள்` — scans **7–15 / printed 5–13** — existing-canonical witness
-2. `சபலம்` — scans **16–23 / printed 14–21** — existing-canonical witness
-3. `விலையால் வாங்கலையோ` — scans **24–31 / printed 22–29** — **new-canonical candidate**
-4. `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — existing-canonical witness
+### Story 1 — `தப்பிவிட்டார்கள்`
+
+**CLOSED / PASS — 9/9.**
+
+- scans **7–15 / printed 5–13**
+- witness workspace — `stories/thappivittargal/witnesses/1953-thappivittargal/`
+- narrative structure — **equivalent / complete**
+- canonical-recheck candidates — **0**
+- canonical Tamil / English changed — **No / No**
+
+### Story 2 — `சபலம்`
+
+**CLOSED / PASS — 8/8.**
+
+- scans **16–23 / printed 14–21**
+- witness workspace — `stories/sabalam/witnesses/1953-thappivittargal/`
+- narrative structure — **equivalent / complete**
+- high-value edition differences include:
+  - 1953 `இமைகளைப் பிடித்திழுத்து` ↔ 1977 `இமைகளேப் பிடித்திழுத்து`
+  - 1953 `பார்க்கவில்லை` ↔ 1977 `பார்க்க வில்லை`
+  - 1953 `அழுதிடும்` ↔ 1977 `அழுதிடுங்`
+  - 1953 `அந்த அகோரமான இருளில்` ↔ 1977 `அந்த அந்தகாரமான இருளில்`
+- canonical-recheck candidates — **0**
+- canonical Tamil / English changed — **No / No**
+
+Do not reopen Stories 1–2 without genuinely new direct evidence.
 
 ## Exact next activity
 
-Process Story 1 `தப்பிவிட்டார்கள்` as an earlier-edition witness.
+Activate Story 3 **`விலையால் வாங்கலையோ`**.
 
-Canonical target:
+Source span:
 
-`stories/thappivittargal/`
+- scans **24–31**
+- printed pages **22–29**
+- total **8 physical source pages**
 
-1953 witness span:
+Current status: **NEW-CANONICAL CANDIDATE**.
 
-- scans **7–15**
-- printed pages **5–13**
-- total **9 physical source pages**
-
-Method:
+Required workflow:
 
 1. Fetch live `main`.
-2. Read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, root `HANDOVER.md`, this prompt, and the 1953 collection README / source metadata / scan map / story inventory.
-3. Read the canonical `stories/thappivittargal/` README / source metadata / assembled Tamil and current audit state.
-4. Create a witness layer only if absent, e.g. `stories/thappivittargal/witnesses/1953-thappivittargal/`.
-5. Compare direct 1953 scan pixels against the verified canonical by text anchors.
-6. Record genuine wording, morphology, orthography, punctuation and layout variants.
-7. Do not alter canonical Tamil or English from witness evidence alone.
-8. If a likely canonical defect appears, record a canonical-recheck candidate only.
-9. Update witness / collection / root trackers.
-10. Stop after scan **15**; do not begin Story 2 unless explicitly requested.
+2. Read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, root `HANDOVER.md`, this prompt, and the 1953 collection trackers.
+3. Repeat the live-main duplicate / identity search immediately before creating a workspace:
+   - exact title `விலையால் வாங்கலையோ`;
+   - plausible title variants / slug forms;
+   - distinctive opening evidence, especially `வைரக்கண்ணு` and the opening marriage-market dialogue.
+4. If an existing canonical work is found, do **not** create a duplicate; route the 1953 source as an additional witness.
+5. If still unique, create a repository-consistent canonical workspace, expected slug `stories/vilaiyal-vangalaiyo/` unless live naming evidence requires another slug.
+6. Process all **8** source pages directly from the 1953 scan pixels:
+   - Stage 1 — first-pass transcription;
+   - Stage 2 — independent historical-glyph / difficult-reading review;
+   - Stage 3 — final source / visual fidelity audit and page verification;
+   - Stage 4 — synchronized Tamil assembly / controls.
+7. Preserve source wording, punctuation, paragraphing and old forms exactly; do not modernize or infer.
+8. Do not start English until the Tamil/source gate is fully closed.
+9. Update collection and root trackers.
+10. Stop after Story 3; do not begin Story 4 `முந்நூறு ரூபாய்` unless explicitly requested.
 
-Do not activate `விலையால் வாங்கலையோ` until Stories 1–2 are dispositioned or the user explicitly redirects.
+## Remaining collection item
+
+Story 4 `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — remains an existing-canonical witness and is **NOT STARTED**.
