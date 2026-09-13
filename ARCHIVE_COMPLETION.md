@@ -219,9 +219,15 @@ Workspace: `stories/neruppu/`.
   - high-value recheck evidence: 1969 `வாளை மீனுக்கோ` and the registered 2009 witness both differ from canonical `வான மீனுக்கோ`;
   - current canonical `துணி ஏணை` and `நமனுலகு` independently supported;
   - unresolved witness issues: **0**.
-- `வேணியின் காதலன்` scans **25–31 / printed 24–30** — **NEXT**
-- `அமிர்தமதி` scans **32–41 / printed 53–62** — pending
+- `வேணியின் காதலன்` scans **25–31 / printed 24–30** — **COMPLETE / PASS, 7/7 scans**
+  - same narrative / fatal ending;
+  - canonical `கூண்டுக் கிளி ஆக்குவேனென்றான்` and unusual `கந்தனு?` independently supported;
+  - 1969 `யோசனைதான்!` vs canonical `யோசனை தான்!` retained as edition spacing evidence;
+  - 1969 `என் வாழ்வைத் துண்டித்த` vs canonical `வாழ்க்கைத் துண்டித்த` retained as edition wording evidence;
+  - canonical Tamil / English / verified status changed: **No**;
+  - unresolved witness issues: **0**.
+- `அமிர்தமதி` scans **32–41 / printed 53–62** — **NEXT**
 
-Exact next activity: **1969 `வேணியின் காதலன்` comparison-only witness audit — scans 25–31 / printed 24–30**.
+Exact next activity: **1969 `அமிர்தமதி` comparison-only witness audit — scans 32–41 / printed 53–62**.
 
 Do not create duplicate canonical Tamil/English layers. The collection printed-page gap **31–52** remains **OPEN** because the supplied source does not contain those pages.
