@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 STAGE 1 COMPLETE.**
+**SOURCE INTAKE PASS / P1 STAGE 2 COMPLETE.**
 
 - live `main` was re-fetched before activation;
 - no canonical `நெருப்பு` workspace or documented alternate-title match was found;
@@ -52,7 +52,7 @@ A high-resolution verification problem in Stage 2/3/4 must not block a responsib
 
 - page records: **14 / 14 initialized**
 - Stage 1 first-pass: **5 / 14**
-- Stage 2 visual fidelity: **0 / 14**
+- Stage 2 visual fidelity: **5 / 14**
 - Stage 3 historical glyph: **0 / 14**
 - Stage 4 final check: **0 / 14**
 - verified: **0 / 14**
@@ -62,20 +62,23 @@ A high-resolution verification problem in Stage 2/3/4 must not block a responsib
 - Tamil assembly: **NOT STARTED**
 - English: **BLOCKED until Tamil/source closure**
 
-## P1 Stage 1 durable result
+## P1 durable result
 
-Scans **11–15 / printed 10–14** now have first-pass transcriptions committed as `needs-review`.
+Scans **11–15 / printed 10–14**:
 
-- Stage-1 pages: **5/5 complete**
-- Stage-2 review queue: **7 source-sensitive locations**
-- confirmed errors: **0**
-- blocked: **0**
-- no Stage-2 detailed fidelity audit performed yet
-- no Stage-3 glyph audit performed yet
-- no Stage-4 final verification performed yet
+- Stage 1 first-pass: **COMPLETE 5/5**
+- Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
+- Stage-2 source-proven corrections: **15**
+- Stage-1 queued readings resolved: **7/7**
+- Stage-2 unresolved ordinary fidelity issues: **0**
+- Stage 3 historical glyph: **NEXT**
+- Stage 4 final verification: not started
+- pages remain `needs-review`
+
+Durable Stage-2 record: `VISUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-**P1 Stage 2 — visual text-fidelity audit, scans 11–15 / printed pages 10–14.**
+**P1 Stage 3 — historical Tamil glyph audit, scans 11–15 / printed pages 10–14.**
 
-Reopen the same five source pages and compare the committed text line-by-line / phrase-by-phrase. Resolve queued readings where source evidence permits, correct source-proven transcription/punctuation/paragraph errors, keep pages `needs-review`, synchronize, commit, and stop before Stage 3.
+Run the independent 13-family glyph audit against the source, record only source-proven character-identity corrections, keep pages `needs-review`, synchronize, commit, and stop before Stage 4.

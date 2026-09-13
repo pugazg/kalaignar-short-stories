@@ -1,46 +1,41 @@
-# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / `நெருப்பு` P1 Stage 2
+# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / `நெருப்பு` P1 Stage 3
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Controlling source
 
-Use only the attached:
+Use only the attached `TVA_BOK_0064095_கண்ணடக்கம்.pdf`.
 
-`TVA_BOK_0064095_கண்ணடக்கம்.pdf`
-
-- edition: **இரண்டாம் பதிப்பு — 1969**
-- active story: **நெருப்பு**
-- story scans: **11–24**
-- printed pages: **10–23**
-- scan 25 opens `வேணியின் காதலன்`
+Active story: **நெருப்பு**, scans **11–24 / printed 10–23**.
 
 ## Durable P1 state
 
 P1 = scans **11–15 / printed 10–14**.
 
 - Stage 1 first-pass: **COMPLETE 5/5**
-- page status: **needs-review 5/5**
-- Stage 2 visual fidelity: **NEXT**
-- Stage 3 historical glyph: not started
+- Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
+- Stage-2 source-proven corrections: **15**
+- Stage-1 queued ordinary-fidelity readings resolved: **7/7**
+- Stage-2 unresolved ordinary fidelity issues: **0**
+- Stage 3 historical glyph: **NEXT**
 - Stage 4 final check: not started
-- explicit Stage-2 review queue: **7 locations**
-- blocked: **0**
+- page status: **needs-review 5/5**
 
-The committed first pass intentionally carries one explicit unclear source token at scan 14 opening rather than guessing it.
+Stage-2 audit: `stories/neruppu/VISUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Perform **P1 Stage 2 — visual text-fidelity audit, scans 11–15** only.
+Perform **P1 Stage 3 — historical Tamil glyph audit, scans 11–15** only.
 
 1. re-fetch live `main`;
-2. reopen the same five source scans;
-3. compare committed transcription line-by-line / phrase-by-phrase;
-4. check omissions, duplicated text, words/letters, punctuation, paragraph/dialogue boundaries, page continuation and source marks;
-5. resolve or refine the seven queued readings where source pixels support a decision;
-6. use enlargement/crops only where needed;
-7. do not modernize source wording;
-8. keep pages `needs-review` after Stage 2;
-9. synchronize page records, review queue, page map, progress tracker, README, HANDOVER and NEXT prompt;
+2. reopen the same five source scans independently;
+3. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+4. compare complete words/phrases and same-edition forms where needed;
+5. correct only source-proven character identity; do not modernize spelling/grammar;
+6. never global-replace;
+7. update `HISTORICAL_GLYPH_GATE.md` and any review records;
+8. keep pages `needs-review`;
+9. synchronize page map, progress tracker, README, HANDOVER and NEXT prompt;
 10. commit and stop.
 
-Next after that durable commit: **P1 Stage 3 historical Tamil glyph audit, scans 11–15**.
+Next after Stage 3: **P1 Stage 4 final independent source check, scans 11–15**.

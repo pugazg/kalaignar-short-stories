@@ -23,8 +23,8 @@ The page remains `needs-review` after Stage 3 because final Stage 4 still remain
 
 | Scans | Stage 3 state | Corrections | Unresolved |
 |---|---|---:|---:|
-| 11–15 | not started | 0 | 0 |
+| 11–15 | **NEXT** | 0 | 0 |
 | 16–20 | not started | 0 | 0 |
 | 21–24 | not started | 0 | 0 |
 
-P1 Stage 1 scans **11–15** is now complete. Current exact next activity is **P1 Stage 2 visual text-fidelity audit**. Stage 3 remains intentionally unopened until the Stage-2 commit is durable.
+P1 Stage 1 and Stage 2 scans **11–15** are now complete. Current exact next activity is **P1 Stage 3 historical Tamil glyph audit**.

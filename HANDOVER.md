@@ -35,16 +35,17 @@ Workspace: `stories/neruppu/`
 - page records: **14/14**
 - P1 Stage 1 first-pass scans 11–15: **COMPLETE 5/5**
 - Stage 1 total: **5/14**
-- Stage 2 visual fidelity: **0/14**
+- Stage 2 visual fidelity: **5/14**
 - Stage 3 historical glyph: **0/14**
 - Stage 4 final check: **0/14**
 - verified: **0/14**
 - needs-review: **5/14**
 - not-started: **9/14**
 - blocked: **0**
-- explicit P1 Stage-2 review queue: **7 locations**
+- P1 Stage-2 ordinary fidelity corrections: **15**
+- P1 Stage-2 unresolved ordinary fidelity issues: **0**
 
-The first pass was deliberately committed without waiting for later high-resolution verification. The unclear scan-14 opening continuation is explicitly marked for Stage 2 rather than guessed.
+Stage 2 is now durable. The scan-14 opening continuation was resolved from enlarged source pixels as `விதந்தன்னை`; all seven Stage-1 queued ordinary-fidelity readings have dispositions.
 
 ## Mandatory four-stage cadence
 
@@ -55,6 +56,6 @@ The first pass was deliberately committed without waiting for later high-resolut
 
 ## Exact next activity
 
-**`நெருப்பு` P1 Stage 2 — visual text-fidelity audit, scans 11–15 / printed 10–14.**
+**`நெருப்பு` P1 Stage 3 — historical Tamil glyph audit, scans 11–15 / printed 10–14.**
 
-Compare the committed first-pass text against the same five scans line-by-line / phrase-by-phrase, resolve/refine queued readings where source evidence permits, correct source-proven fidelity issues, synchronize controls, commit, and stop before Stage 3.
+Explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` against the same five source scans, record corrections individually, synchronize controls, commit, and stop before Stage 4.
