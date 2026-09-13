@@ -87,17 +87,40 @@ Workspace: `stories/thaaymai/witnesses/1956-thaaymai/`
 Workspace: `stories/aattakkavadi/witnesses/1956-thaaymai/`
 
 - witness range: **scans 23–33 / printed 21–31**
-- reviewed: **6/11 — scans 23–28 / printed 21–26**
+- comparison reviewed: **11/11 — COMPLETE / PASS**
+- narrative structure: **equivalent**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- canonical-recheck candidate remains open:
+  - 1956 `நாளெல்லாம் பாடுபட்டாலும்`
+  - current 1977 canonical `நாவெல்லாம் பாடுபட்டாலும்`
+- closing-span variants include `ஈனஸ்தாயியில்` ↔ `ஈனக் குரலில்` and `மனத்திற்கு விரோதமாக` ↔ `மனத் தீர்க்கு விரோதமாக`
+- status: **CLOSED / PASS**
+
+### Witness 3 — `நடுத்தெரு நாராயணி`
+
+Canonical repository: `pugazg/kalaignar-novels`
+
+Workspace:
+
+`works/nadutheru-narayani/witnesses/1956-thaaymai/`
+
+- witness range: **scans 34–59 / printed 32–57**
+- reviewed: **5/26 — scans 34–38 / printed 32–36**
 - narrative structure in reviewed span: **equivalent**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
-- canonical-recheck candidate: **1 — `நாளெல்லாம்` vs canonical `நாவெல்லாம்`**
+- canonical-recheck candidate:
+  - 1956 `கர்வமடக்கும்`
+  - current 1978 canonical `கருவமடக்கும்`
 
 ## Exact next activity
 
-Process **10 source pages total** per the user's current batching rule:
+Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels` with **10 source pages**:
 
-1. finish `ஆட்டக் காவடி` — scans **29–33 / printed 27–31** (**5 pages**);
-2. then continue into `நடுத்தெரு நாராயணி` — scans **34–38 / printed 32–36** (**5 pages**).
+- scans **39–48**
+- printed pages **37–46**
+- preserve 1978 as canonical authority
+- do not resolve the `கர்வமடக்கும்` / `கருவமடக்கும்` candidate without direct 1978 controlling-source recheck.
 
 Do not reconstruct missing printed pages 80–81 later in `அரும்பு`.
