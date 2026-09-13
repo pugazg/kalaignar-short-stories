@@ -128,19 +128,36 @@ Workspace:
 - witness physical range: **scans 60–87**
 - witness printed pages: **58–79**, then **82–87**
 - printed pages **80–81 are absent**
-- reviewed: **9/28 — scans 60–68 / printed 58–66**
-- narrative structure in reviewed span: **equivalent**
-- material edition variants recorded: **5**
+- reviewed: **28/28 physical scans — CLOSED FOR ALL SOURCE-VISIBLE PAGES**
+- visible narrative structure: **equivalent outside the documented source gap**
+- material edition variants recorded: **11**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
 - canonical-recheck candidates open: **0**
+- independent confirmations: 1956 supports protected 1978 `எனக்குப் பொய் அம்மா வேணும்!` and `பேசினேன்`
+- final 1956 page preserves the `இரு இலை, ஒரு மொட்டு` ending image and has a terminal star
 
-## Exact next activity
+## Collection closure
 
-Continue the 1956 `அரும்பு` witness in `pugazg/kalaignar-novels`:
+All **source-visible pages** in the supplied 1956 `தாய்மை` PDF have now been dispositioned.
 
-- scans **69–78**
-- printed pages **67–76**
-- total: **10 source pages**
-- preserve 1978 as canonical authority
-- do not reconstruct missing printed pages **80–81** from the later edition.
+Final witness state:
+
+1. `தாய்மை` — **16/16 CLOSED / PASS**
+2. `ஆட்டக் காவடி` — **11/11 CLOSED / PASS**
+3. `நடுத்தெரு நாராயணி` — **26/26 CLOSED / PASS**
+4. `அரும்பு` — **28/28 physical scans reviewed / CLOSED FOR ALL SOURCE-VISIBLE PAGES**
+
+Source-completeness caveat:
+
+- `அரும்பு` printed pages **80–81 remain absent** from the supplied PDF;
+- they were **not reconstructed** from the 1978 canonical;
+- therefore collection witness processing is closed for the supplied source, while physical source completeness remains limited by that two-page gap.
+
+Open cross-edition canonical-recheck candidates remain separate from collection page processing:
+
+- `ஆட்டக் காவடி` — **1**
+- `நடுத்தெரு நாராயணி` — **4**
+- `அரும்பு` — **0**
+
+No automatic next activity remains for the 1956 anthology.
