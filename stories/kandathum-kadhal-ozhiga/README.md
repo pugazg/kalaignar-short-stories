@@ -23,6 +23,22 @@ Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
 Canonical Tamil [`sections/kandathum-kadhal-ozhiga.md`](sections/kandathum-kadhal-ozhiga.md) required no wording change. Existing English remains synchronized; **English prose rewrite required: 0**.
 
+## 1950 earlier-edition witness
+
+**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 7/7 physical scans inspected.**
+
+- witness workspace: [`witnesses/1950-vazha-mudiyathavargal/`](witnesses/1950-vazha-mudiyathavargal/)
+- source span: scans **30–36 / printed 29–35**
+- scans **34–36** contain localized paper loss; missing 1950 wording was not reconstructed
+- core narrative architecture: **equivalent**
+- major edition difference: **1950 has a materially longer ending after the wig reveal**
+- 1950 continuation identifies the actor as **கங்காதரன்**, removes the Draupadi stage persona/costume, and closes with an explicit `கண்டதும் காதல் ஒழிக` punchline
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`](witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md)
+
+The longer 1950 ending is preserved as edition history. It does not reopen the directly verified 1977 canonical endpoint.
+
 ## Boundary / visual fidelity
 
 - scan 146 opens `கண்டதும் காதல் ஒழிக!` with the opening rule;
