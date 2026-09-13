@@ -15,7 +15,7 @@
 - 1982 `முடியாத தொடர்கதை`: **Tamil/source + English CLOSED**
 - 2004, 2008, 2009 and the completed supplemental English layers remain closed under their collection trackers.
 
-## Active source — 1950 `வாழமுடியாதவர்கள்`
+## Closed source — 1950 `வாழமுடியாதவர்கள்`
 
 Controlling attached source:
 
@@ -74,7 +74,7 @@ Current state:
 - source registration: **COMPLETE**
 - story inventory: **6/6 COMPLETE**
 - new canonical stories: **0**
-- witness comparisons completed: **5/6**
+- witness comparisons completed: **6/6**
 - Story 1 `வாழ முடியாதவர்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
   - scans inspected: **10/10**
   - localized loss: **scan 12**
@@ -112,9 +112,21 @@ Current state:
   - smoother 1950 `...என்ற பயம்தான்` does not reopen the directly verified 1977 `...என்று பயந்தான்.`
   - canonical Tamil / English changed: **No / No**
   - canonical-recheck candidates: **0**
-- remaining 1950 witnesses: **1/6 NOT STARTED**
+- Story 6 source title `பிள்ளையோ பிள்ளை!`: **CLOSED / PASS — 22/22**
+  - canonical route: `stories/petra-pillaiyai-vitra-thaai/`
+  - later canonical title: `பெற்ற பிள்ளையை விற்ற தாய்`
+  - same-work identity: **CONFIRMED**
+  - 1950 title variant preserved: **Yes**
+  - narrative architecture: **equivalent**
+  - centered 1950 section numeral `2` and differing star / closing layout recorded
+  - representative variants include `குழலினிது யாழ் இனிது` ↔ 1982 `குழலினது யாழ் இனிது`, `தலையில் பாரத்தைப்` ↔ `தீயில் பார்த்ததைப்`, and `மளிகைக் கடையில்` ↔ `மனிதைக் கடையில்`
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- 1950 collection witness workflow: **CLOSED — 6/6**
+- unresolved source-dependent witness blockers: **0**
+- collection-level canonical-recheck backlog: **1 candidate from Story 1 only**
 
-## Queued source — 1953 `தப்பிவிட்டார்கள்`
+## Next source — 1953 `தப்பிவிட்டார்கள்`
 
 Controlling attached source:
 
@@ -151,23 +163,23 @@ Fresh repository-wide assembled-section checks found no duplicate for `வில
 
 ## Exact next activity — current
 
-Process the final 1950 Story 6 witness:
+Begin the 1953 `தப்பிவிட்டார்கள்` collection with Story 1 as an earlier-edition witness:
 
-- source title: **`பிள்ளையோ பிள்ளை!`**
-- 1950 scans: **42–63**
-- printed pages: **41–62**
-- total: **22 physical source pages**
-- canonical target: `stories/petra-pillaiyai-vitra-thaai/`
-- canonical title: **`பெற்ற பிள்ளையை விற்ற தாய்`**
-- controlling canonical source: verified 1982 first-edition `முடியாத தொடர்கதை`
-- preserve the 1950 source-specific title; do not normalize it away
-- compare direct 1950 pixels by text anchors
-- document wording / morphology / orthography / punctuation / layout and title-variant evidence
+- source: `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
+- source edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
+- title: **`தப்பிவிட்டார்கள்`**
+- 1953 scans: **7–15**
+- printed pages: **5–13**
+- total: **9 physical source pages**
+- canonical target: `stories/thappivittargal/`
+- use direct 1953 scan pixels as witness authority
+- compare against the verified canonical by text anchors
+- record genuine wording / morphology / orthography / punctuation / layout variants
 - do **not** alter canonical Tamil or English from witness evidence alone
-- any likely canonical defect exposed by the witness becomes a recheck candidate only
-- stop after scan 63; scan 64 is non-story advertisement/back matter
+- any likely canonical defect becomes a recheck candidate only
+- stop after scan **15**; do not begin Story 2 unless explicitly requested
 
-Stories 1–5 are closed under the 1950 witness. After Story 6, close the 1950 collection witness workflow if no unresolved source-dependent blocker remains.
+The 1950 `வாழமுடியாதவர்கள்` collection is closed **6/6** and must not be reopened from a stale prompt.
 
 ## Closed source — 1956 `தாய்மை`
 
