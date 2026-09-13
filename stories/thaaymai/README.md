@@ -9,6 +9,26 @@ Canonical Story 9 workspace for **தாய்மை**, from the 1977 first edit
 - physical scans: **73–83**
 - source PDF committed: **No**
 
+## Additional witness — 1956 `தாய்மை`
+
+A new earlier-edition witness from the 1956 anthology `தாய்மை` is being compared under:
+
+- `witnesses/1956-thaaymai/README.md`
+- `witnesses/1956-thaaymai/VARIANT_COMPARISON.md`
+
+Current witness state:
+
+- 1956 scans **7–22 / printed 5–20**;
+- comparison completed so far: **4/16 scans — scans 7–10 / printed 5–8**;
+- reviewed narrative structure: **equivalent**;
+- material edition variant recorded: 1956 `அரசின் மஞ்சத்து ராணியாக` ↔ canonical 1977 `அரசரின் மஞ்சத்து ராணியாக`;
+- canonical Tamil changed: **No**;
+- canonical English changed: **No**;
+- unresolved witness reading in reviewed span: **0**;
+- exact next: 1956 scans **11–14 / printed 9–12**.
+
+The 1977 source remains controlling. Witness evidence does not overwrite the canonical layer without direct controlling-source recheck.
+
 ## 2026 archival status
 
 **CURRENT PASS / CLOSED**
