@@ -84,15 +84,18 @@ Workspace:
 Current state:
 
 - witness extent: **26 scans — 34–59 / printed 32–57**
-- reviewed: **15/26 — scans 34–48 / printed 32–46**
-- narrative structure in reviewed span: **equivalent**
-- material variants recorded: **9**
+- reviewed: **25/26 — scans 34–58 / printed 32–56**
+- narrative structure in reviewed span: **equivalent overall; one localized 1956-only dialogue line recorded**
+- material variants recorded: **16**
 - canonical Tamil / English changed: **No / No**
 - unresolved witness readings: **0**
 - canonical-recheck candidates:
   1. 1956 `ஆண்களின் கர்வமடக்கும்` ↔ current 1978 `ஆண்களின் கருவமடக்கும்`
   2. 1956 `பிராமணோத்தமரே!` ↔ current 1978 `பிராமணத் தமரே!`
-- do not repair either candidate without direct recheck of the exact 1978 controlling scans.
+  3. 1956 `தனது கைகளால்` ↔ current 1978 `தனது கண்களால்`
+  4. 1956 `ஏழெட்டு உறுப்பினர்களை` ↔ current 1978 `ஏழெட்டு உறுப்பினர்களே`
+- localized 1956-only dialogue line: `அடி விபசாரி! உனக்கு இவ்வளவு கொழுப்பா?`
+- do not repair any candidate without direct recheck of the exact 1978 controlling scans.
 
 ### User batching rule
 
@@ -102,14 +105,14 @@ Process **10 physical source pages per iteration**. Crossing a work/repository b
 
 Continue the 1956 `நடுத்தெரு நாராயணி` witness in `pugazg/kalaignar-novels`:
 
-- scans **49–58**
-- printed pages **47–56**
+- scan **59 / printed 57** — final Narayani page
+- then `அரும்பு` scans **60–68 / printed 58–66**
 - total: **10 source pages**
 - align by text anchors to the verified 1978 canonical
 - record wording / morphology / punctuation / structural variants
 - do not change canonical Tamil or English from witness evidence alone
 - retain the open `கர்வமடக்கும்` / `கருவமடக்கும்` recheck candidate unless the 1978 controlling scan is directly available and explicitly rechecked
-- stop after scan **58**.
+- stop after scan **68**.
 
 ## Deferred source — 1958 `தேனலைகள்`
 
