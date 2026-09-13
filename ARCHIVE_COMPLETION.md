@@ -154,3 +154,31 @@ Final witness state:
 Per user instruction, the attached PDF itself was sufficient for the 1976 witness layer; Tamil Digital Library and Wikisource mirrors were not used as substitute sources.
 
 This 1976 reconciliation is **CLOSED under current evidence**.
+
+## Post-closure reactivation — 1969 `கண்ணடக்கம்` — ACTIVE
+
+The user next supplied:
+
+`TVA_BOK_0064095_கண்ணடக்கம்.pdf`
+
+Registered source facts:
+
+- printed title: **கண்ணடக்கம்**
+- author: **மு. கருணாநிதி**
+- publisher/imprint: **திராவிடப்பண்ணை**
+- represented edition: **இரண்டாம் பதிப்பு — 1969**
+- scans: **43**
+- bytes: **50,321,052**
+- source type: image-only
+- SHA-256: **PENDING** because the current runtime did not complete raw-byte hashing
+
+Visible story blocks:
+
+- `கண்ணடக்கம்` — existing canonical witness;
+- `நெருப்பு` — **new canonical candidate**;
+- `வேணியின் காதலன்` — existing canonical witness;
+- `அமிர்தமதி` — existing canonical witness.
+
+A critical physical discontinuity remains open: printed pages **31–52 (22 pages)** are absent from the supplied PDF between `வேணியின் காதலன்` and `அமிர்தமதி`. No missing story identity or text is inferred.
+
+Current exact next activity: activate and process `நெருப்பு`, scans **11–24 / printed 10–23**, as the sole visible new canonical candidate. The other three stories are comparison-only witnesses.

@@ -1,40 +1,44 @@
-# NEXT CHAT PROMPT — Kalaignar Short Stories / closed checkpoint
+# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / activate `நெருப்பு`
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed state to preserve
+## Controlling source
 
-- 1977 Tamil dual-gate: **37/37 CURRENT PASS / CLOSED**
-- 1977 English E1–E5 re-audit: **37/37 PASS / CLOSED**
-- 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`: **Tamil/source + English CLOSED**
-- 1976 `நளாயினி` reconciliation: **CLOSED / PASS**
+Use the attached:
 
-## 1976 source closure
+`TVA_BOK_0064095_கண்ணடக்கம்.pdf`
 
-Controlling source:
+- title: `கண்ணடக்கம்`
+- author: `மு. கருணாநிதி`
+- publisher/imprint: `திராவிடப்பண்ணை`
+- edition: **இரண்டாம் பதிப்பு — 1969**
+- physical scans: **43**
+- bytes: **50,321,052**
+- SHA-256: **PENDING**
+- no usable parsed text layer; scan pixels control
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf`
+## Collection intake state
 
-The attached PDF is sufficient; do not browse Tamil Digital Library or Wikisource for this closed source unless explicitly asked.
+Visible stories:
 
-Two new canonicals from the source are closed:
+1. `கண்ணடக்கம்` — 4–10 — existing canonical witness
+2. `நெருப்பு` — **11–24 — NEW canonical candidate**
+3. `வேணியின் காதலன்` — 25–31 — existing canonical witness
+4. `அமிர்தமதி` — 32–41 — existing canonical witness
 
-- `நாட்டிய கலாராணி` — Tamil + English PASS
-- `மானம்` — Tamil + English PASS
+Printed pages **31–52 are absent** from the supplied PDF. This 22-page gap remains OPEN. Do not infer missing story titles/text or patch it from another edition.
 
-Six existing-canonical witness comparisons are closed:
+## Exact next activity
 
-- `நளாயினி` — 10/10
-- `காதல் கடிதம்` — 6/6
-- `புரட்சிப் படம்` — 6/6
-- `விஷம் இனிது` — 9/9
-- `பாலைவன ரோஜா` — 7/7
-- `அய்யோ ராஜா!` — 10/10
+Activate **`நெருப்பு`** only.
 
-Final witness programme: **6/6 stories / 48/48 pages COMPLETE / PASS; 17 true edition variants; 8 canonical defects separately source-proved and repaired; 0 unresolved**.
+- story scans: **11–24**
+- printed pages: **10–23**
+- boundary witness: scan **25** visibly opens `வேணியின் காதலன்`
+- confirm again that no canonical `நெருப்பு` workspace has appeared on live main
+- create the canonical story workspace
+- perform direct source-faithful Tamil page transcription and verification from the attached scans
+- preserve historical Tamil glyph identity and source spelling/punctuation
+- do not create or process the `வேணியின் காதலன்` witness in the same activity
 
-## Next activity
-
-**None under current authorized short-story sources.**
-
-Do not reopen a closed source or invent a new activity. Wait for a new source, stronger evidence, or an explicit maintenance/audit request.
+The three existing stories in this anthology are **comparison-only**; never create duplicate Tamil or duplicate English layers for them.

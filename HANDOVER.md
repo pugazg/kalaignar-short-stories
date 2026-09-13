@@ -8,63 +8,72 @@
 
 ## Closed durable layers
 
-- 1977 Tamil dual-gate: **CLOSED — 37/37 CURRENT PASS; 0 unresolved**
-- existing 1977 English translations: **37/37 complete**
-- 1977 English post-Tamil re-audit E1–E5: **CLOSED — 37/37 PASS**
-- E5 physical story-page traceability: **250/250 PASS**
-- 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`: **Tamil/source CLOSED + English 25/25 PASS / CLOSED**
-- 1976 `நளாயினி` collection reconciliation: **CLOSED / PASS**
+- 1977 Tamil dual-gate: **37/37 CURRENT PASS / CLOSED**
+- 1977 English E1–E5 re-audit: **37/37 PASS / CLOSED**
+- 1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்`: **Tamil/source + English CLOSED**
+- 1976 `நளாயினி` reconciliation: **CLOSED / PASS**
 
-Do not reopen closed layers without genuinely stronger source evidence or explicit maintenance/audit authorization.
+Do not reopen those layers without stronger source evidence or explicit maintenance/audit authorization.
 
-## 1976 `நளாயினி` source — CLOSED
+## Active source — 1969 `கண்ணடக்கம்`
 
-Controlling source:
+Attached controlling source:
 
-`TVA_BOK_0065574_நளாயினி_1976.pdf`
+`TVA_BOK_0064095_கண்ணடக்கம்.pdf`
 
-- edition: **நான்காம் பதிப்பு — 1976**
-- scans: **78**
-- bytes: **164,748,566**
-- SHA-256: `7297006fca435b07f8a4f0f564c254cf54c23892c63f5c870e79edac1cf1dd06`
+- title: **கண்ணடக்கம்**
+- author: **மு. கருணாநிதி**
+- publisher/imprint: **திராவிடப்பண்ணை**
+- represented edition: **இரண்டாம் பதிப்பு — 1969**
+- scans: **43**
+- bytes: **50,321,052**
+- SHA-256: **PENDING — do not invent**
 - source PDF committed: **No**
+- parser text layer: **none usable; rendered scan pixels control**
 
-The user confirmed the attached PDF was downloaded from Tamil Digital Library and is the same PDF mirrored by Wikisource. **The attached PDF itself was used; no website lookup is required.**
+## Source intake
 
-### New canonicals from this source
+**PASS for visible physical structure / completeness OPEN.**
 
-- `நாட்டிய கலாராணி` scans 25–46 — **Tamil + English PASS / CLOSED**
-- `மானம்` scans 73–78 — **Tamil + English PASS / CLOSED**
+Visible story blocks:
 
-### Existing-canonical cross-witness programme
+1. `கண்ணடக்கம்` — scans **4–10 / printed 3–9** — existing canonical witness;
+2. `நெருப்பு` — scans **11–24 / printed 10–23** — **NEW canonical candidate**;
+3. `வேணியின் காதலன்` — scans **25–31 / printed 24–30** — existing canonical witness;
+4. `அமிர்தமதி` — scans **32–41 / printed 53–62** — existing canonical witness.
 
-1. `நளாயினி` 3–12 — **COMPLETE / PASS — 10/10**
-2. `காதல் கடிதம்` 13–18 — **COMPLETE / PASS — 6/6**
-3. `புரட்சிப் படம்` 19–24 — **COMPLETE / PASS — 6/6**
-4. `விஷம் இனிது` 47–55 — **COMPLETE / PASS — 9/9**
-5. `பாலைவன ரோஜா` 56–62 — **COMPLETE / PASS — 7/7**
-6. `அய்யோ ராஜா!` 63–72 — **COMPLETE / PASS — 10/10**
+Back matter:
 
-Final witness totals:
+- scan 42 — `அண்ணாவின் அரிய நூல்கள்` advertisement;
+- scan 43 — terminal rear leaf.
 
-- comparison stories: **6/6 complete**
-- target pages: **48/48 reviewed**
-- true edition variants: **17**
-  - `நளாயினி`: 12
-  - `காதல் கடிதம்`: 5
-  - other four: 0 confirmed meaningful lexical variants
-- canonical defects exposed by `நளாயினி` witness and repaired only after direct 1977 source recheck: **8**
-- canonical changes from witness evidence alone: **0**
-- unresolved witness issues: **0**
-- duplicate Tamil transcriptions: **0**
-- duplicate English translations: **0**
+## Critical completeness gap
 
-## Current activity
+The source jumps from printed **30** to the `அமிர்தமதி` opening structurally at printed **53**. Printed pages **31–52 (22 pages)** are absent from the supplied PDF.
 
-**No routine short-story activity remains under the 1976 source.**
+Do not guess missing story identities or text. Process only what is physically present unless the user supplies stronger same-source evidence.
 
-Do not invent a next story or reopen a closed collection. The next activity requires either:
+## Deduplication
 
-- a newly supplied/authorized source;
-- genuinely stronger evidence for a closed source;
-- or an explicit maintenance/audit request.
+Existing canonical workspaces confirmed:
+
+- `stories/kannadakkam/`
+- `stories/veniyin-kadhalan/`
+- `stories/amirthamathi/`
+
+No canonical match found for `நெருப்பு`.
+
+Existing stories are comparison-only witnesses: no duplicate Tamil transcription and no duplicate English translation.
+
+## Exact next activity
+
+Activate **`நெருப்பு`** as a new canonical story.
+
+- source scans: **11–24**
+- printed pages: **10–23**
+- next-story boundary witness: scan **25** opens `வேணியின் காதலன்`
+- create `stories/neruppu/` only now, when processing begins
+- direct Tamil source transcription / page records / historical-glyph verification
+- do not start `வேணியின் காதலன்` in the same activity
+
+After `நெருப்பு` Tamil/source closure, English is automatically next unless the user redirects. Then process the three existing stories as comparison-only witnesses.
