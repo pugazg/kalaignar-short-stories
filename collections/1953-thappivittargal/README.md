@@ -59,28 +59,54 @@ For Story 3, `விலையால் வாங்கலையோ`:
 
 Do not create its story folder during intake.
 
-## Intake state
+## Processing state
 
-**SOURCE / SCAN / STORY INVENTORY COMPLETE.**
+**INTAKE COMPLETE 4/4; STORIES 1–2 WITNESS WORK CLOSED.**
 
 - stories inventoried: **4/4**
 - existing-canonical witness routes: **3/4**
 - new-canonical candidates: **1/4 — `விலையால் வாங்கலையோ`**
-- witness comparisons started: **0**
+- witness comparisons completed: **2/3 existing-canonical witnesses**
 - transcription started: **0**
-- canonical Tamil changed: **No**
-- canonical English changed: **No**
+- canonical Tamil changed from witness evidence: **No**
+- canonical English changed from witness evidence: **No**
+- canonical-recheck candidates opened from Stories 1–2: **0**
 
-## Activation state
+### Story 1 — `தப்பிவிட்டார்கள்`
 
-**NEXT / READY — intake complete; witness work not yet started.**
+**CLOSED / PASS — 9/9.**
 
-The preceding 1950 `வாழமுடியாதவர்கள்` witness collection is now closed **6/6**.
+- scans **7–15 / printed 5–13**
+- narrative structure: **equivalent / complete**
+- notable variants: `போடக்கூடாது` ↔ `போட்டுக்கூடாது`; `மூவாயிரம் தொழிலாளர்` ↔ `மூவாயிரம் தொழிலாளர்கள்`
+- layout: 1953 three-open-circle divider before Leela Mill; simple closing rule
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/thappivittargal/witnesses/1953-thappivittargal/`
 
-Exact next activity:
+### Story 2 — `சபலம்`
 
-- Story 1 `தப்பிவிட்டார்கள்`
-- scans **7–15**
-- printed pages **5–13**
-- earlier-edition witness comparison against `stories/thappivittargal/`
-- do not begin Story 2 in the same activity unless explicitly requested
+**CLOSED / PASS — 8/8.**
+
+- scans **16–23 / printed 14–21**
+- narrative structure: **equivalent / complete**
+- high-value variants: `இமைகளைப்` ↔ `இமைகளேப்`; `பார்க்கவில்லை` ↔ `பார்க்க வில்லை`; `அழுதிடும்` ↔ `அழுதிடுங்`; `அந்த அகோரமான இருளில்` ↔ `அந்த அந்தகாரமான இருளில்`
+- layout: 1953 internal three-open-circle divider; no 1977-style opening rule / enlarged `வ` / closing ornament
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/sabalam/witnesses/1953-thappivittargal/`
+
+## Exact next activity
+
+Activate Story 3, **`விலையால் வாங்கலையோ`**, as the collection's new-canonical candidate:
+
+- scans **24–31**
+- printed pages **22–29**
+- total **8 physical source pages**
+- first repeat the live-main duplicate / identity search required by intake
+- if still unique, create the canonical story workspace under an appropriate slug
+- source pixels from this 1953 edition are controlling
+- begin source-grounded Tamil processing under the repository's normal new-canonical workflow
+- do not begin Story 4 `முந்நூறு ரூபாய்` in the same activity unless explicitly requested
+
+Story 4 remains a later witness task after Story 3 is dispositioned.
