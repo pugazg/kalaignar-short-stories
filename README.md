@@ -6,7 +6,7 @@
 
 Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md).
 
-- **1969 `கண்ணடக்கம்` — ACTIVE:** `நெருப்பு` is the sole visible new canonical. P1 is **verified 5/5**; P2 Stage 1 is **complete 5/5**; exact next is **P2 Stage 2, scans 16–20 / printed 15–19**. The supplied collection still has an unresolved physical gap at printed pages **31–52**.
+- **1969 `கண்ணடக்கம்` — ACTIVE:** `நெருப்பு` is the sole visible new canonical. P1 and P2 are **verified 10/10**; exact next is **P3 Stage 1, scans 21–24 / printed 20–23**. The supplied collection still has an unresolved physical gap at printed pages **31–52**.
 - **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
 - **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
 - **1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` — CLOSED:** Tamil/source release audit PASS and English translation phase PASS / CLOSED.
