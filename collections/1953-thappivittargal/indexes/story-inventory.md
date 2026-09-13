@@ -4,8 +4,8 @@ No printed contents page is visible. Story identity is controlled by source-visi
 
 | # | TOC title | Story-opening title | Printed pages | PDF scans | Canonical routing | Intake status |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | `stories/thappivittargal/` | witness NOT STARTED |
-| 2 | — | `சபலம்` | 14–21 | 16–23 | `stories/sabalam/` | witness NOT STARTED |
+| 1 | — | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | `stories/thappivittargal/` | **witness CLOSED / PASS — 9/9** |
+| 2 | — | `சபலம்` | 14–21 | 16–23 | `stories/sabalam/` | **witness CLOSED / PASS — 8/8** |
 | 3 | — | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | **new canonical candidate** | NOT STARTED |
 | 4 | — | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | `stories/munnuru-rupai/` | witness NOT STARTED |
 
@@ -18,13 +18,31 @@ No printed contents page is visible. Story identity is controlled by source-visi
 
 For `விலையால் வாங்கலையோ`, the fresh repository-wide section check did not find the distinctive opening character/dialogue evidence elsewhere. Treat it as a **new-canonical candidate**, but repeat the duplicate check immediately before creating a story workspace.
 
+## Witness progress
+
+### Story 1 — `தப்பிவிட்டார்கள்`
+
+**CLOSED / PASS — 9/9.**
+
+- canonical route: `stories/thappivittargal/`
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+### Story 2 — `சபலம்`
+
+**CLOSED / PASS — 8/8.**
+
+- canonical route: `stories/sabalam/`
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
 ## Current frontier
 
-This collection is **NEXT / READY**. The 1950 `வாழமுடியாதவர்கள்` witness collection is closed **6/6**.
+Active next work: **Story 3 `விலையால் வாங்கலையோ` — NEW-CANONICAL CANDIDATE**
 
-Active next story when work resumes:
-
-- Story 1 `தப்பிவிட்டார்கள்`
-- scans **7–15**
-- printed pages **5–13**
-- earlier-edition witness comparison against `stories/thappivittargal/`
+- scans **24–31**
+- printed pages **22–29**
+- **8 physical source pages**
+- repeat live-main duplicate check immediately before workspace creation
+- if still unique, begin canonical onboarding / Tamil source processing
+- Story 4 `முந்நூறு ரூபாய்` remains NOT STARTED
