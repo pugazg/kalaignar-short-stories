@@ -29,19 +29,20 @@ The 1956 witness can expose comparison candidates, but it does not by itself aut
 
 ## Comparison state
 
-**IN PROGRESS — 8/16 witness scans reviewed.**
+**IN PROGRESS — 12/16 witness scans reviewed.**
 
 Completed span:
 
-- 1956 scans **7–14 / printed 5–12**
+- 1956 scans **7–18 / printed 5–16**
 - Batch 1 scans **7–10** aligned primarily against canonical scans **73–75**
 - Batch 2 scans **11–14** aligned primarily against canonical scans **75–78**
+- Batch 3 scans **15–18** aligned primarily against canonical scans **78–80**
 
 Result so far:
 
 - narrative sequence: **equivalent**
 - added / missing major narrative block in reviewed span: **0**
-- material wording / morphology variants recorded: **4**
+- material wording / morphology variants recorded: **8**
 - routine spacing / punctuation / typography variants: **recorded by class**
 - unresolved witness readings in reviewed span: **0**
 - canonical Tamil changed: **No**
@@ -72,8 +73,23 @@ High-value edition findings:
 
 No reviewed difference requires a canonical recheck. The 1977 canonical remains unchanged.
 
+## Batch 3 findings — scans 15–18 / printed 13–16
+
+Batch 3 is **COMPLETE / PASS — 4/4 scans**.
+
+High-value edition findings include:
+
+- 1956 `எங்கு போவேன்; தங்கள் தங்கையாக என்னைக் கருதி` ↔ 1977 `எங்கே போவேன்? தங்கள் தங்கையாக எண்ணிக் கருதி`;
+- 1956 `இது எது இந்தக் குழல் வாத்தியம்?` ↔ 1977 `ஏது இந்தக் குழல் வாத்தியம்?`;
+- 1956 `மழலையின் இனிமை மறைந்திருந்து பெருமையை அதிகமாக்குகிறது` ↔ 1977 `மழலையின் இனிமை மறைந்திருக்கிறது! பெருமையை அதிகமாக்குகிறது.`;
+- 1956 `அரசிளங் குமரன் ஆரம்பித்து விட்டான் குழல் வாத்தியத்தை!` ↔ 1977 `அரசிளங்குமரன் ஆர்ப்பித்து விட்டான் குழல் வாத்தியத்தை!`.
+
+The 1956 source also has an explicit three-star scene-break ornament before the palace-garden sequence on printed page 16; this is retained as witness-layout evidence, not canonical prose.
+
+No reviewed difference requires a canonical recheck. The 1977 canonical remains unchanged.
+
 ## Next activity
 
-Continue direct visual comparison with 1956 scans **15–18 / printed 13–16**.
+Continue direct visual comparison with 1956 scans **19–22 / printed 17–20**.
 
 Do not begin `ஆட்டக் காவடி` until this complete 1956 `தாய்மை` witness is closed.
