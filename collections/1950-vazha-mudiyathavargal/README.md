@@ -44,6 +44,7 @@ No printed contents page is visible.
 
 The physical witness is materially damaged in places.
 
+- scan **12** has localized upper-left paper loss; enough source text survives for reliable anchor comparison;
 - scans **14–15** have severe paper loss and large missing text areas near the end of Story 1;
 - scan **37** has damage across the story heading, although the surviving opening text identifies the work as `ஏழை`;
 - library stamps / ownership markings and ordinary age wear occur elsewhere.
@@ -63,26 +64,41 @@ Missing text must not be reconstructed from later editions during witness compar
 
 Story 6 identity is not inferred from title similarity. Its distinctive opening — beginning with the wedding pavilion / Varadachariyar / `சந்தான விருத்தி` passage — matches the canonical work `பெற்ற பிள்ளையை விற்ற தாய்`.
 
-## Intake state
+## Witness-processing state
 
-**SOURCE / SCAN / STORY INVENTORY COMPLETE.**
+**SOURCE / SCAN / STORY INVENTORY COMPLETE. STORY 1 WITNESS CLOSED FOR SOURCE-VISIBLE MATERIAL.**
 
 - stories inventoried: **6/6**
 - new canonical candidates: **0**
 - existing-canonical witness routes: **6/6**
-- witness comparisons started: **0/6**
-- canonical Tamil changed: **No**
-- canonical English changed: **No**
+- witness comparisons completed: **1/6**
+- Story 1 `வாழ முடியாதவர்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+  - scans inspected: **10/10**
+  - substantially readable: **8/10**
+  - localized loss: **scan 12**
+  - severe loss: **scans 14–15**
+  - missing 1950 text reconstructed: **No**
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **1** — 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
+- remaining witness stories: **5/6 NOT STARTED**
 - transcription started: **No**
+
+Story-1 witness records:
+
+- `stories/vazha-mudiyathavargal/witnesses/1950-vazha-mudiyathavargal/README.md`
+- `stories/vazha-mudiyathavargal/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
 
 ## Exact next activity
 
-Process Story 1, `வாழ முடியாதவர்கள்`, as an earlier-edition witness:
+Process Story 2, `ஒரிஜினலில் உள்ளபடி!`, as an earlier-edition witness:
 
-- 1950 scans **6–15**
-- printed pages **5–14**
-- **10 physical source pages**
-- target: `stories/vazha-mudiyathavargal/`
-- compare by direct source pixels against the verified 1977 canonical
-- preserve the severe physical loss on scans 14–15; do not reconstruct missing 1950 text
-- record edition variants and any source-supported canonical-recheck candidates only
+- 1950 scans **16–24**
+- printed pages **15–23**
+- **9 physical source pages**
+- target: `stories/originalil-ullapadi/`
+- compare direct 1950 source pixels against the verified canonical by text anchors
+- preserve source-specific wording, morphology, orthography, punctuation and layout differences
+- do not alter canonical Tamil or English from witness evidence alone
+- record a canonical-recheck candidate only if the witness exposes a likely canonical defect
+
+Do not begin Story 3 in the same activity unless explicitly requested.
