@@ -57,7 +57,7 @@ Default batch size: **5 physical scans**.
 - not-started: **0 / 14**
 - blocked: **0**
 - Tamil assembly: **PASS / CLOSED**
-- English: **DEFERRED / BLOCKED by 1969 collection-wide Tamil/source release gate**
+- English: **PASS / COMPLETE**
 
 ## P1 durable closure
 
@@ -159,10 +159,16 @@ All **14/14** `நெருப்பு` page records are now verified through a
 - unresolved source readings: **0**
 - Tamil/source status: **PASS / CLOSED**
 
-## Collection-wide phase gate
+## English translation
 
-All visible 1969 witness work has now closed, but the parent collection still lacks printed pages **31–52**. Because the collection is being processed Tamil-first, English for `நெருப்பு` must wait for the collection-wide Tamil/source release gate.
+User-authorized visible-scope Tamil/source release closure allows English to proceed without relabeling the physically incomplete 1969 PDF as complete.
 
-Current `நெருப்பு` English state: **DEFERRED / NOT STARTED**.
+- English: [`translations/en/neruppu.md`](translations/en/neruppu.md)
+- review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
+- translated pages: **14/14**
+- physical page-anchor alignment: **PASS**
+- Tamil changed during translation: **No**
+- unresolved English issues: **0**
+- result: **PASS / COMPLETE**
 
-No further source-dependent activity is possible for this collection until the missing printed span is supplied or independently resolved.
+The parent collection’s printed-page gap **31–52** remains open as a separate source-completeness issue.

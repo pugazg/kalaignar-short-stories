@@ -47,3 +47,18 @@ Because this collection is being processed in a Tamil-first collection-wide work
 Until stronger same-publication evidence accounts for printed pages 31–52, collection-level state remains:
 
 **VISIBLE STORY WORK COMPLETE / PHYSICAL COMPLETENESS OPEN / SOURCE-COMPLETENESS HOLD**.
+
+
+## Translation-release scope decision
+
+The physical-completeness status above remains unchanged.
+
+On 2026-09-13, the user explicitly authorized closing the **Tamil/source release gate for the fully processed visible scope** so that English translation of the new canonical `நெருப்பு` could proceed.
+
+This means:
+
+- **physical completeness remains OPEN**;
+- the 22-page gap remains a durable source-completeness issue;
+- no missing story identity/text is inferred;
+- the translation-release gate is **CLOSED for visible processed material only**;
+- `நெருப்பு` English may proceed from its independently closed 14/14 canonical Tamil layer.

@@ -142,11 +142,22 @@ All four **visible** story blocks in the supplied 1969 PDF are now dispositioned
 
 The physical collection itself remains **OPEN / INCOMPLETE** because printed pages **31–52 (22 pages)** are absent. No missing title, text or boundary is inferred.
 
-## Collection-wide Tamil/source gate
+## Tamil/source release gate — user-authorized visible-scope closure
 
-The **visible-source** work is complete, but the collection-wide Tamil/source release gate is **NOT CLOSED** because printed pages **31–52** are absent.
+The physical collection remains **INCOMPLETE** because printed pages **31–52** are absent.
 
-Under `COLLECTION_SOURCE_GUIDE.md` / `ENGLISH_TRANSLATION_GUIDE.md`, this 1969 source is being handled in Tamil-first collection-wide mode. Therefore English for the new canonical `நெருப்பு` remains **DEFERRED / BLOCKED by the collection-wide source-completeness hold**. Do not begin English merely because `நெருப்பு` itself is source-closed.
+However, on the user’s explicit instruction, the Tamil/source **release gate for translation progression is CLOSED for the fully processed visible scope**. This does not claim physical completeness and does not infer any missing title, text or boundary.
+
+Result:
+
+- visible Tamil/source story work: **CLOSED**
+- `நெருப்பு` Tamil/source: **CLOSED / PASS**
+- physical collection completeness: **OPEN**
+- missing printed pages 31–52: **still documented / unresolved**
+- English progression for `நெருப்பு`: **AUTHORIZED**
+- `நெருப்பு` English: **PASS / COMPLETE**
+
+English tracker: `ENGLISH_TRANSLATION_PROGRESS.md`.
 
 ## Exact next activity
 
