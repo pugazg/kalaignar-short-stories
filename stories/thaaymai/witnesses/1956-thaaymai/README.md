@@ -29,20 +29,21 @@ The 1956 witness can expose comparison candidates, but it does not by itself aut
 
 ## Comparison state
 
-**IN PROGRESS — 12/16 witness scans reviewed.**
+**COMPARISON COMPLETE / PASS — 16/16 witness scans reviewed.**
 
 Completed span:
 
-- 1956 scans **7–18 / printed 5–16**
+- 1956 scans **7–22 / printed 5–20**
 - Batch 1 scans **7–10** aligned primarily against canonical scans **73–75**
 - Batch 2 scans **11–14** aligned primarily against canonical scans **75–78**
 - Batch 3 scans **15–18** aligned primarily against canonical scans **78–80**
+- Batch 4 scans **19–22** aligned primarily against canonical scans **80–83**
 
 Result so far:
 
 - narrative sequence: **equivalent**
 - added / missing major narrative block in reviewed span: **0**
-- material wording / morphology variants recorded: **8**
+- material wording / morphology variants recorded: **11**
 - routine spacing / punctuation / typography variants: **recorded by class**
 - unresolved witness readings in reviewed span: **0**
 - canonical Tamil changed: **No**
@@ -88,8 +89,33 @@ The 1956 source also has an explicit three-star scene-break ornament before the 
 
 No reviewed difference requires a canonical recheck. The 1977 canonical remains unchanged.
 
-## Next activity
+## Batch 4 findings — scans 19–22 / printed 17–20
 
-Continue direct visual comparison with 1956 scans **19–22 / printed 17–20**.
+Batch 4 is **COMPLETE / PASS — 4/4 scans**.
 
-Do not begin `ஆட்டக் காவடி` until this complete 1956 `தாய்மை` witness is closed.
+High-value edition findings include:
+
+- 1956 `அதைப் பார்க்காதவள்போல் பாலகன் பின்னே வந்தாள்` ↔ 1977 `அவர்களை பார்க்காதவள்போல் பாலகன் பின்னே வந்தாள்`;
+- 1956 `தன் குமரனைப் பாம்பு தீண்டிவிடும்` ↔ 1977 `பின் குமரனைப் பாம்பு தீண்டிவிடும்`;
+- 1956 `தாய்மை தன் கடமையைச் செய்து விட்டு, கடையை முடிக்கொண்டது` ↔ 1977 `தாய்மை தன் கடமையைச் செய்து விட்டுக் கண்ணை மூடிக் கொண்டது`.
+
+The last item is a major lexical rewriting between editions. It is retained as witness evidence only; the verified 1977 canonical remains unchanged.
+
+Story ending and forward boundary are both clean:
+
+- scan **22 / printed 20** closes `தாய்மை` with a star ornament;
+- scan **23** independently opens `ஆட்டக் காவடி`.
+
+## Final witness disposition
+
+- witness scans reviewed: **16/16**
+- narrative structure equivalent: **Yes**
+- added / omitted major narrative blocks: **0**
+- material edition variants recorded: **11**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical recheck candidates open: **0**
+- unresolved witness readings: **0**
+- status: **CLOSED / PASS**
+
+Next collection witness: **`ஆட்டக் காவடி` — scans 23–33 / printed 21–31**.
