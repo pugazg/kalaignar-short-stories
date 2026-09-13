@@ -15,7 +15,89 @@
 - 1982 `முடியாத தொடர்கதை`: **Tamil/source + English CLOSED**
 - 2004, 2008, 2009 and the completed supplemental English layers remain closed under their collection trackers.
 
-## Active source — 1969 `கண்ணடக்கம்`
+## Active source — 1958 `தேனலைகள்`
+
+Controlling attached source: `TVA_BOK_0064030_தேனலைகள்.pdf`.
+
+Collection workspace: `collections/1958-thenalaigal/`.
+
+Source identity:
+
+- bytes: **111,904,021**
+- SHA-256: **`6d27bbf95f4a91e275b720d9a7d573c5649245dbfeb8a9ac2768ead7755652c7`**
+- physical scans: **112**
+- first edition: **December 1958**
+- publisher: **முத்துவேல் பதிப்பகம்**
+- source type: **image-only; rendered scan pixels are controlling**
+- source PDF committed: **No**
+
+Front matter:
+
+- scan 1 — cover;
+- scan 2 — edition / rights / price / printer;
+- scans 3–4 — `வணக்கம்` publisher note;
+- scan 5 — `என்னுரை`;
+- scan 6 — non-story reverse/blank;
+- no printed TOC is visible.
+
+Story block:
+
+- scans **7–111**
+- printed pages **1–105**
+- pagination relation: **scan = printed page + 6**
+- scan **112** — `புது வெளியீடுகள்` advertisement/back matter
+- internal printed-story-page gaps detected: **0**
+
+Story inventory — **12/12 mapped; transcription not started**:
+
+1. `முத்தாரம்` — scans **7–17 / printed 1–11**
+2. `மயிலிறகு` — scans **18–29 / printed 12–23**
+3. `முத்துமாலை` — scans **30–38 / printed 24–32**
+4. `மடல்` — scans **39–44 / printed 33–38**
+5. `தோழி` — scans **45–52 / printed 39–46**
+6. `மருதாணி` — scans **53–60 / printed 47–54**
+7. `அருவி` — scans **61–67 / printed 55–61**
+8. `முறம்` — scans **68–74 / printed 62–68**
+9. `யாழ்` — scans **75–82 / printed 69–76**
+10. `சிற்பி` — scans **83–95 / printed 77–89**
+11. `சேவல் சண்டை` — scans **96–104 / printed 90–98**
+12. `ஆண்டு விழா` — scans **105–111 / printed 99–105**
+
+Preliminary canonical deduplication on live `main` found no exact Tamil-title or obvious slug match for these twelve headings. All twelve are **new-canonical candidates**, but the check must be repeated immediately before each story is activated.
+
+Durable intake files:
+
+- `collections/1958-thenalaigal/README.md`
+- `collections/1958-thenalaigal/metadata/source.md`
+- `collections/1958-thenalaigal/indexes/scan-map.md`
+- `collections/1958-thenalaigal/indexes/story-inventory.md`
+
+Current processing state:
+
+- source registration: **COMPLETE**
+- scan map: **COMPLETE**
+- story inventory: **COMPLETE 12/12**
+- story workspaces created: **0**
+- page records created: **0**
+- Stage 1 transcription: **0/12 stories**
+- English: **NOT STARTED**
+
+## Exact next activity — current
+
+Story 1 **`முத்தாரம்`**, scans **7–17 / printed 1–11**.
+
+Before writing story text:
+
+1. fetch live `main`;
+2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 1958 collection intake files;
+3. reconfirm no canonical duplicate exists;
+4. visually confirm scan 7 opening and scan 17 ending / scan 18 `மயிலிறகு` boundary;
+5. create the Story 1 canonical workspace/page records;
+6. begin **Stage 1 first-pass transcription** for `முத்தாரம்`.
+
+Do not begin Story 2 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+
+## Closed source — 1969 `கண்ணடக்கம்`
 
 Controlling attached source: `TVA_BOK_0064095_கண்ணடக்கம்.pdf`.
 
@@ -207,7 +289,7 @@ Therefore:
 - comparison witnesses are **CLOSED / PASS**;
 - no source-completeness hold remains waiting for another copy.
 
-## Exact next activity — current
+## 1969 exact next activity
 
 **NONE — 1969 `கண்ணடக்கம்` is CLOSED UNDER THE ONLY AVAILABLE COPY.**
 
