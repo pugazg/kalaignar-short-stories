@@ -46,6 +46,8 @@ The physical witness is materially damaged in places.
 
 - scan **12** has localized upper-left paper loss; enough source text survives for reliable anchor comparison;
 - scans **14–15** have severe paper loss and large missing text areas near the end of Story 1;
+- scan **34** has localized upper-page paper loss / patch damage obscuring parts of Story 4;
+- scans **35–36** have additional localized upper-page paper loss in Story 4;
 - scan **37** has damage across the story heading, although the surviving opening text identifies the work as `ஏழை`;
 - library stamps / ownership markings and ordinary age wear occur elsewhere.
 
@@ -66,23 +68,22 @@ Story 6 identity is not inferred from title similarity. Its distinctive opening 
 
 ## Witness-processing state
 
-**SOURCE / SCAN / STORY INVENTORY COMPLETE. STORIES 1–3 WITNESS WORK CLOSED.**
+**SOURCE / SCAN / STORY INVENTORY COMPLETE. STORIES 1–5 WITNESS WORK CLOSED.**
 
 - stories inventoried: **6/6**
 - new canonical candidates: **0**
 - existing-canonical witness routes: **6/6**
-- witness comparisons completed: **3/6**
+- witness comparisons completed: **5/6**
 
 ### Story 1 — `வாழ முடியாதவர்கள்`
 
 **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL.**
 
 - scans inspected: **10/10**
-- localized loss: **scan 12**
 - severe loss: **scans 14–15**
 - missing 1950 text reconstructed: **No**
-- canonical Tamil / English changed: **No / No**
 - canonical-recheck candidates: **1** — 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
+- canonical Tamil / English changed: **No / No**
 
 ### Story 2 — `ஒரிஜினலில் உள்ளபடி!`
 
@@ -98,34 +99,65 @@ Story 6 identity is not inferred from title similarity. Its distinctive opening 
 
 **CLOSED / PASS — 5/5.**
 
-- scans inspected: **5/5**
-- printed pages: **24–28**
 - narrative structure: **equivalent / complete**
-- localized 1950-only dialogue addition: **1** — `இரண்டு பெண்டாட்டிக்காரன் பாடெல்லாம் இப்படித்தான்...`
-- canonical confirmation: corrected `காளை` identity independently supported
-- notable edition variants: `பூனையைப்போல்` ↔ `பூனையைப் போன்ற`; `சுற்றுமுற்றும்` ↔ `சற்று முற்றும்`; `அல்லித் தண்டில்` ↔ `அல்வித் தண்டில்`
-- closing layout: large illustrated emblem in 1950 vs floral flourish in 1977
+- localized 1950-only dialogue addition: **1**
+- corrected `காளை` identity independently supported
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+### Story 4 — `கண்டதும் காதல் ஒழிக!`
+
+**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 7/7.**
+
+- scans **34–36** have localized paper loss; missing wording was not reconstructed
+- core narrative architecture: **equivalent**
+- **substantial 1950-only ending expansion** after the wig reveal:
+  - actor identifies himself as **கங்காதரன்**
+  - Draupadi stage persona/costume is discarded
+  - story closes with explicit `கண்டதும் காதல் ஒழிக` punchline
+- closing layout: large centered star
 - canonical-recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
 
 Witness records:
 
-- `stories/gangaiyin-kadhal/witnesses/1950-vazha-mudiyathavargal/README.md`
-- `stories/gangaiyin-kadhal/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
+- `stories/kandathum-kadhal-ozhiga/witnesses/1950-vazha-mudiyathavargal/README.md`
+- `stories/kandathum-kadhal-ozhiga/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
 
-Remaining witness stories: **3/6 NOT STARTED**.
+### Story 5 — damaged heading; work identity `ஏழை`
+
+**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 5/5.**
+
+- scan **37** heading physically damaged; missing title letters not reconstructed
+- body narrative: **complete / equivalent**
+- high-value edition variants:
+  - 1950 `கனவு பங்கம்` ↔ 1977 `கனவு மங்கலம்`
+  - 1950 `பயங்கரக் கண்வீச்சு` ↔ 1977 `பயங்கர மின்னீச்சு`
+  - 1950 `...என்ற பயம்தான்` ↔ directly verified 1977 `...என்று பயந்தான்.`
+  - 1950 `இன்ப இரவு` ↔ 1977 `இன்ப வரவு`
+- closing layout: large narrative illustration
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+Witness records:
+
+- `stories/ezhai/witnesses/1950-vazha-mudiyathavargal/README.md`
+- `stories/ezhai/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
+
+Remaining witness stories: **1/6 NOT STARTED**.
 
 ## Exact next activity
 
-Process Story 4, `கண்டதும் காதல் ஒழிக!`, as an earlier-edition witness:
+Process Story 6, source title `பிள்ளையோ பிள்ளை!`, as an earlier-edition / title-variant witness:
 
-- 1950 scans **30–36**
-- printed pages **29–35**
-- **7 physical source pages**
-- target: `stories/kandathum-kadhal-ozhiga/`
-- compare direct 1950 source pixels against the verified canonical by text anchors
-- preserve genuine wording, morphology, orthography, punctuation and layout differences
+- 1950 scans **42–63**
+- printed pages **41–62**
+- **22 physical source pages**
+- canonical target: `stories/petra-pillaiyai-vitra-thaai/`
+- canonical title: `பெற்ற பிள்ளையை விற்ற தாய்`
+- compare direct 1950 source pixels against the verified 1982 canonical by text anchors
+- preserve the 1950 source-specific title `பிள்ளையோ பிள்ளை!`
 - do not alter canonical Tamil or English from witness evidence alone
-- record a canonical-recheck candidate only if the witness exposes a likely canonical defect
+- record any likely canonical defect as a recheck candidate only
 
-Do not begin Story 5 in the same activity unless explicitly requested.
+After Story 6, the 1950 collection witness workflow can be closed.
