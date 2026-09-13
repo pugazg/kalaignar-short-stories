@@ -19,14 +19,14 @@ A new earlier-edition witness from the 1956 anthology `தாய்மை` is be
 Current witness state:
 
 - 1956 scans **7–22 / printed 5–20**;
-- comparison completed so far: **8/16 scans — scans 7–14 / printed 5–12**;
+- comparison completed so far: **12/16 scans — scans 7–18 / printed 5–16**;
 - reviewed narrative structure: **equivalent**;
-- material edition variants recorded through scan 14: **4 high-value wording/morphology variants**;
+- material edition variants recorded through scan 18: **8 high-value wording/morphology/syntax variants**;
 - 1956 `ஆயிரந்தேர்` independently supports the current repaired 1977 canonical reading;
 - canonical Tamil changed: **No**;
 - canonical English changed: **No**;
 - unresolved witness reading in reviewed span: **0**;
-- exact next: 1956 scans **15–18 / printed 13–16**.
+- exact next: 1956 scans **19–22 / printed 17–20**.
 
 The 1977 source remains controlling. Witness evidence does not overwrite the canonical layer without direct controlling-source recheck.
 
