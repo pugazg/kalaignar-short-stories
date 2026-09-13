@@ -24,7 +24,7 @@ This pass compared the committed Stage-1 transcription line-by-line / phrase-by-
 | 14 | `ஒரு மாதிரியென்றும்` | `ஒருமாதிரியென்றும்` | source spacing |
 | 15 | `எழிலரசி ஒருத்தி இருந்தது` | `எழிலரசியொருத்தியிருந்தது` | source sandhi/spacing |
 | 15 | `ஒருவரை ஒருவர்` | `ஒருவரை யொருவர்` | source sandhi |
-| 15 | `வேறுபாடுகளும்-இதுவரையில்` | `வேறுபாடுகளும்—இதுவரையில்` | punctuation |
+| 15 | `வேறுபாடுகளும்-இதுவரையில்` | `வேறுபாடுகளும்—இதுவரையில்` | punctuation — **Stage-2 disposition superseded at final Stage 4; source retains short hyphen** |
 | 15 | `மனைவியைக் கூடி` | `மனைவியை கூடி` | source text fidelity |
 | 15 | em-dash joined to `பூபதிக்கு` | em-dash + source-visible spacing before `பூபதிக்கு` | punctuation/spacing |
 
@@ -52,6 +52,6 @@ Stage-2 unresolved ordinary text-fidelity issues: **0**.
 - Stage 4 final independent check: **COMPLETE / PASS 5/5**
 - page status after final gate: **verified 5/5**
 
-Stage-4 corrective revalidation later found **16 additional source-fidelity corrections** on scans 13–15. Final unresolved issues after correction: **0**. See `FINAL_SOURCE_CHECK.md`.
+Final Stage-4 corrective revalidation establishes **6 source-proven corrections** on scans 13–15. The interim 16-correction pass was over-inclusive; **12 over-corrections were reverted**. One Stage-2 punctuation disposition is superseded: the final source reading is `வேறுபாடுகளும்-இதுவரையில்` with a short hyphen. Final unresolved issues: **0**. See `FINAL_SOURCE_CHECK.md`.
 
 Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.

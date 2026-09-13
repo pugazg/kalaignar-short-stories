@@ -42,7 +42,7 @@ The absence of Stage-3 corrections does not by itself promote pages to `verified
 
 ## P1 Stage-4 cross-check
 
-Stage 4 rechecked the complete five-page text and all Stage-3-sensitive readings against the source. No historical-glyph disposition was overturned, no new character-identity correction was required, and no unresolved glyph candidate remains. P1 is therefore **verified 5/5**.
+Stage 4 rechecked the complete five-page text and all Stage-3-sensitive readings against the source. The final corrective revalidation made **6 ordinary text/quotation/punctuation/spacing corrections**, but **no historical-glyph disposition was overturned**, no new character-identity correction was required, and no unresolved glyph candidate remains. The interim 16-correction source-fidelity pass was over-inclusive and is superseded by `FINAL_SOURCE_CHECK.md`. P1 is therefore **verified 5/5**.
 
 ## Batch state
 

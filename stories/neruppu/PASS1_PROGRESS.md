@@ -58,12 +58,16 @@ Durable gate: `HISTORICAL_GLYPH_GATE.md`.
 ## P1 Stage 4 result
 
 - complete pages independently reopened against source: **5/5**
-- initial Stage-4 zero-correction claim: **SUPERSEDED by corrective source revalidation**
-- corrective Stage-4 source-fidelity corrections: **16**
-- scans corrected: **13–15**
+- initial Stage-4 zero-correction claim: **SUPERSEDED**
+- interim 16-correction revalidation: **SUPERSEDED as over-inclusive**
+- final source-proven Stage-4 corrections: **6**
+  - scan 13 — `பிடிக்கவில்லை யென்றாலும்`; double quotation marks in `“உலகப் பேரழகி கிளியோ”`
+  - scan 14 — `இந்திரனா?`; `கேட்டுக் கேட்டுச்`
+  - scan 15 — source short hyphen in `வேறுபாடுகளும்-இதுவரையில்`; normalized line-join space in `சுக்ரீவன்.... அவன்தான்`
+- interim over-corrections reverted: **12**
 - omissions / duplications after correction: **0**
 - Stage-3 glyph dispositions overturned: **0**
-- pages verified after corrective recheck: **5/5**
+- pages verified after final corrective recheck: **5/5**
 - final unresolved issues: **0**
 
 Durable final audit: `FINAL_SOURCE_CHECK.md`.

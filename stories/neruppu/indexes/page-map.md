@@ -34,7 +34,8 @@ Current totals:
 - not-started: **9**
 - blocked: **0**
 - Stage-2 unresolved ordinary fidelity issues: **0**
-- P1 corrective Stage-4 source-fidelity corrections: **16**
+- P1 final Stage-4 source-fidelity corrections: **6**
+- interim 16-correction revalidation: **SUPERSEDED; 12 over-corrections reverted**
 - P1 final unresolved issues: **0**
 
 Next: **P2 Stage 1 first-pass transcription — scans 16–20 / printed pages 15–19**.

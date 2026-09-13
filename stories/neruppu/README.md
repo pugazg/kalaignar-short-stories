@@ -72,13 +72,14 @@ Scans **11–15 / printed 10–14**:
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
 - Stage 4 final independent check: **COMPLETE / PASS 5/5**
-- Stage-4 corrective source-fidelity corrections: **16**
+- Stage-4 final source-proven corrections: **6**
+- interim 16-correction revalidation: **SUPERSEDED; 12 over-corrections reverted**
 - Stage-4 final unresolved issues after corrective revalidation: **0**
 - pages: **`verified` 5/5**
 
 Durable Stage-2 record: `VISUAL_FIDELITY_AUDIT.md`.  
 Durable Stage-3 record: `HISTORICAL_GLYPH_GATE.md`.  
-Durable Stage-4 record: `FINAL_SOURCE_CHECK.md` — the initial zero-correction Stage-4 checkpoint was superseded by a 16-correction source-pixel revalidation.
+Durable Stage-4 record: `FINAL_SOURCE_CHECK.md` — both the initial zero-correction checkpoint and the over-inclusive interim 16-correction pass are superseded by the final six-correction source-pixel revalidation.
 
 ## Exact next activity
 
