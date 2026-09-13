@@ -74,7 +74,7 @@ Current state:
 - source registration: **COMPLETE**
 - story inventory: **6/6 COMPLETE**
 - new canonical stories: **0**
-- witness comparisons completed: **3/6**
+- witness comparisons completed: **5/6**
 - Story 1 `வாழ முடியாதவர்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
   - scans inspected: **10/10**
   - localized loss: **scan 12**
@@ -99,7 +99,20 @@ Current state:
   - corrected `காளை` identity independently supported
   - canonical Tamil / English changed: **No / No**
   - canonical-recheck candidates: **0**
-- remaining 1950 witnesses: **3/6 NOT STARTED**
+- Story 4 `கண்டதும் காதல் ஒழிக!`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 7/7**
+  - scans **34–36**: localized paper loss; missing 1950 wording reconstructed: **No**
+  - core narrative architecture: **equivalent**
+  - substantive 1950-only ending expansion after the wig reveal: actor identifies himself as **கங்காதரன்**, discards the Draupadi stage persona/costume, and the story closes with explicit `கண்டதும் காதல் ஒழிக`
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- Story 5 `ஏழை`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 5/5**
+  - scan **37** heading damaged; missing heading letters reconstructed: **No**
+  - body narrative: **complete / equivalent**
+  - major 1950 variants include `கனவு பங்கம்`, `பயங்கரக் கண்வீச்சு`, `...என்ற பயம்தான்`, and `இன்ப இரவு`
+  - smoother 1950 `...என்ற பயம்தான்` does not reopen the directly verified 1977 `...என்று பயந்தான்.`
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- remaining 1950 witnesses: **1/6 NOT STARTED**
 
 ## Queued source — 1953 `தப்பிவிட்டார்கள்`
 
@@ -138,21 +151,23 @@ Fresh repository-wide assembled-section checks found no duplicate for `வில
 
 ## Exact next activity — current
 
-Process the active 1950 Story 4 witness:
+Process the final 1950 Story 6 witness:
 
-- title: **`கண்டதும் காதல் ஒழிக!`**
-- 1950 scans: **30–36**
-- printed pages: **29–35**
-- total: **7 physical source pages**
-- target canonical: `stories/kandathum-kadhal-ozhiga/`
-- controlling canonical source remains the verified later canonical
+- source title: **`பிள்ளையோ பிள்ளை!`**
+- 1950 scans: **42–63**
+- printed pages: **41–62**
+- total: **22 physical source pages**
+- canonical target: `stories/petra-pillaiyai-vitra-thaai/`
+- canonical title: **`பெற்ற பிள்ளையை விற்ற தாய்`**
+- controlling canonical source: verified 1982 first-edition `முடியாத தொடர்கதை`
+- preserve the 1950 source-specific title; do not normalize it away
 - compare direct 1950 pixels by text anchors
-- document lexical / morphology / orthography / punctuation / layout variants
+- document wording / morphology / orthography / punctuation / layout and title-variant evidence
 - do **not** alter canonical Tamil or English from witness evidence alone
-- any possible canonical defect exposed by the witness becomes a recheck candidate only
-- stop after scan 36
+- any likely canonical defect exposed by the witness becomes a recheck candidate only
+- stop after scan 63; scan 64 is non-story advertisement/back matter
 
-Stories 1–3 are closed under the 1950 witness. Do not begin Story 5 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+Stories 1–5 are closed under the 1950 witness. After Story 6, close the 1950 collection witness workflow if no unresolved source-dependent blocker remains.
 
 ## Closed source — 1956 `தாய்மை`
 
