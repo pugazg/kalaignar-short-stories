@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 தண்ணீர் குடிப்பான். உறிஞ்சிக் குடித்தால் பார்வை மேலே போகாது என்பதற்காக மிகவும் சுத்தக்காரன் போலக் குவளையை மேலே தூக்கிக் குடிப்பான். அந்த இழி பண்பு தெரியாத அருள், “சும்மா எச்சில் செய்து குடிடா பூபதி!” என்று களங்கமின்றிக் கூறுவான். பூபதி அவளை ரசிப்பான்; அருளோ, பூபதியின் இலையில் என்ன இல்லை என்பதைக் கவனித்து, அடிக்கடி பிரபாவைக் கூப்பிட்டு இல்லாததைப் பரிமாறச் சொல்வான்.
@@ -25,5 +25,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - `ஆசைப்பட்ட வில்லையா` — **confirmed** with the source's separated negative auxiliary;
 - full-page check found no omission, duplication, paragraph-boundary, dialogue-boundary, or page-continuation error;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened at source resolution for character-identity review;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `பண்ணைக்` (`ணை`), `இலையில்` / `வேலை` (`லை`), `குவளையை` (`ளை`), `செய்கிறான்` / `கஷ்டப்படுகிறார்கள்` (`றா`), `நினைத்தது` / `உன்னை` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no global replacement, spelling modernization, or lexical normalization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 17; அச்சுப் பக்கம்: 16 -->

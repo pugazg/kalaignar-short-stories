@@ -94,4 +94,4 @@ P2 gate state:
 - Stage 4 final independent check: not started
 - page status: **`needs-review` 5/5**
 
-Next: **P2 Stage 3 historical Tamil glyph audit — scans 16–20 / printed pages 15–19**.
+Stage 3 historical-glyph audit has since completed **PASS 5/5 with 0 character-identity corrections and 0 unresolved glyph clusters**. Next: **P2 Stage 4 final independent source check — scans 16–20 / printed pages 15–19**.

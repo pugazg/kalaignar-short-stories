@@ -10,7 +10,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - page records initialized: **14/14**
 - Stage 1 first-pass transcription: **10/14**
 - Stage 2 visual text fidelity: **10/14**
-- Stage 3 historical-glyph audit: **5/14**
+- Stage 3 historical-glyph audit: **10/14**
 - Stage 4 final independent check: **5/14**
 - verified pages: **5/14**
 - needs-review: **5/14**
@@ -22,7 +22,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 | Batch | Scans / printed pages | Stage 1 first-pass | Stage 2 visual fidelity | Stage 3 glyph | Stage 4 final | Final status |
 |---|---|---|---|---|---|---|
 | P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
-| P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | not started | `needs-review` |
+| P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | `needs-review` |
 | P3 | 21–24 / 20–23 | not started | not started | not started | not started | `not-started` |
 
 ## P1 durable result
@@ -71,8 +71,20 @@ The six queued P2 checks are tracked in `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 
 Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
 
+## P2 Stage 3 result
+
+- pages glyph-audited: **5/5**
+- mandatory historical-glyph families checked: **13/13**
+- historical-glyph character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- global replacements / modernization: **0**
+- pages remain `needs-review`
+- Stage 4 was not mixed into this activity
+
+Durable gate: `HISTORICAL_GLYPH_GATE.md`.
+
 ## Exact next activity
 
-**P2 Stage 3 — historical Tamil glyph audit, scans 16–20 / printed pages 15–19.**
+**P2 Stage 4 — final independent source check, scans 16–20 / printed pages 15–19.**
 
-Systematically check the mandatory historical-glyph families against the same five controlling scans, correct only source-proven character-identity errors, synchronize controls, commit, and stop before Stage 4.
+Reopen the complete five-page P2 text fresh against the controlling source, verify Stage-2 corrections and Stage-3 glyph dispositions are present, check omissions/duplications/punctuation/paragraph/page-boundary fidelity end-to-end, resolve any residual issue, synchronize controls, and only then promote pages to `verified` if the gate passes.

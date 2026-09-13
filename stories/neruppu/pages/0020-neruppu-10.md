@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 மாசுபடிந்த ஒரு மாதாவின் வயிற்றிலேதான் பிறந்தேன். தாய் செய்த குற்றம் என் தலைமீது விழுந்து எனக்குத் தாலி கட்ட யாருமே முன் வராதபோது தாங்கள் வந்தீர்கள்; தெய்வம்போல! தேன் மணக்கும் வாழ்விலே என்றுதான் நம்பினேன். தீக்காடு சூழுமென்று எதிர்பார்க்கவில்லை. என்னைச் சந்தேகப்பட்டுத் தெளிவற்ற நிலையில் எதையும் தீர விசாரிக்காமல் போய்விட்டீர்கள். எங்கு போனீர்கள் என்றே தெரியாமல் தவித்தோம்.
@@ -26,5 +26,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - no source-proven prose correction was required on this page;
 - the open letter and final sentence continuing into scan 21 were source-checked and retained;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened at source resolution for character-identity review;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `கொள்ளைப்புறம்` / `தங்களை` (`ளை`), `தொடங்கினான்` / `கெஞ்சினாள்` (`னா`), `என்னைச்` / `கற்பனை` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no global replacement, spelling modernization, or lexical normalization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 20; அச்சுப் பக்கம்: 19 -->

@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 அதன்படி அருள் வேலை தேடிப் புறப்பட்டான்....ஒரு நாள் இரண்டு நாளல்ல; பல மாதங்கள் வேலைதேடி அலைந்தான்.
@@ -28,5 +28,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - second `மார்கழித்திருநாள்` — **confirmed** as one lexical word split across the source line break (`மார்கழித்திரு / நாள்`);
 - `அவளைத் தனியே விட்டு விட்டுக்` and the scan-18→19 continuation were source-checked and retained;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened at source resolution for character-identity review;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `விசாரணையைத்` (`ணை`), `அலைந்தான்` (`லை`), `பிள்ளை` / `அவளைத்` (`ளை`), `விழுந்தவளானாலும்` / `கிளம்பினாள்` (`னா`), `அவனைப்` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no global replacement, spelling modernization, or lexical normalization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 18; அச்சுப் பக்கம்: 17 -->

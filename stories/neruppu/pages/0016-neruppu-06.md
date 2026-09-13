@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 அங்கேயே தங்கிவிட்டான். அருள், வெள்ளை மனங் கொண்டவன். பூபதியின் உள்ளத்தில் மூண்டிருக்கிற நெருப்பை அவன் உணரவில்லை. பிரபா மட்டும் அதை உணர்ந்து கொண்டு வந்தாள். நெஞ்சிலே கொழுந்து விடும் தீ ஜ்வாலை பூபதியின் கண்களின் வழியாக வெளி வந்து அவளைப் பலமுறை சுட்டிருக்கிறது...
@@ -22,5 +22,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - queued phrase `அற்ப எண்ணங்களை அலைய விடுகிறோம்` — **confirmed from source**;
 - full-page check found no omission, duplication, paragraph-boundary, dialogue-boundary, or page-continuation error;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened at source resolution for character-identity review;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `காணாத` (`ணா`), `துணைவியைப்பற்றி` (`ணை`), `ஜ்வாலை` (`லை`), `வெள்ளை` / `எண்ணங்களை` (`ளை`), `கொண்டிருக்கிறார்` (`றா`), `செய்கிறோம்` / `ஆற்றோரம்` (`றோ`), `எத்தனை` / `தன்னையே` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no global replacement, spelling modernization, or lexical normalization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 16; அச்சுப் பக்கம்: 15 -->

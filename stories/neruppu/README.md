@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 VERIFIED / P2 STAGE 2 COMPLETE / PASS.**
+**SOURCE INTAKE PASS / P1 VERIFIED / P2 STAGE 3 COMPLETE / PASS.**
 
 - no prior canonical `நெருப்பு` workspace or documented alternate-title match was found at activation;
 - scan 11 opens with **நெருப்பு**;
@@ -50,7 +50,7 @@ Default batch size: **5 physical scans**.
 - page records: **14 / 14 initialized**
 - Stage 1 first-pass: **10 / 14**
 - Stage 2 visual fidelity: **10 / 14**
-- Stage 3 historical glyph: **5 / 14**
+- Stage 3 historical glyph: **10 / 14**
 - Stage 4 final check: **5 / 14**
 - verified: **5 / 14**
 - needs-review: **5 / 14**
@@ -81,12 +81,14 @@ Scans **16–20 / printed 15–19**:
 - Stage-1 queued readings resolved at Stage 2: **6/6**
 - Stage-2 unresolved ordinary fidelity issues: **0**
 - page state: **`needs-review` 5/5**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4 final check: not started
+- Stage 3 historical glyph: **COMPLETE / PASS 5/5**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final check: **NEXT**
 - blocked: **0**
 
 ## Exact next activity
 
-**P2 Stage 3 — historical Tamil glyph audit, scans 16–20 / printed pages 15–19.**
+**P2 Stage 4 — final independent source check, scans 16–20 / printed pages 15–19.**
 
-Check the mandatory historical-glyph families systematically against the same attached source, make only source-proven character-identity corrections, synchronize controls, commit, and stop before Stage 4.
+Reopen the five complete P2 pages fresh against the controlling source, confirm Stage-2 and Stage-3 dispositions, check the full text and physical continuations end-to-end, and promote to `verified` only if the final gate passes.

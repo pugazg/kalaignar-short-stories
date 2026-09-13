@@ -31,6 +31,8 @@ Additional source-proven P2 Stage-2 corrections found during the complete-page a
 
 - P1 unresolved: **0**
 - P2 ordinary Stage-2 unresolved: **0**
-- P2 pages awaiting Stage 3 historical-glyph audit: **5/5**
-- P2 Stage 4: not started
+- P2 Stage 3 historical-glyph audit: **COMPLETE / PASS 5/5**
+- P2 Stage-3 character-identity corrections: **0**
+- P2 Stage-3 unresolved glyph clusters: **0**
+- P2 pages awaiting Stage 4 final independent source check: **5/5**
 - no modernization or global replacement has been applied.

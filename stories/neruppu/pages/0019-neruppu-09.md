@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 கொல்லைக் கதவைத் திறந்துகொண்டு ஓடினான். தெருக் கதவைத் தட்டியது அருள்!...கொள்ளைப்புறமாக யாரோ ஓடுவதை அருள் கவனித்தான். ஓடிப்போய்ப் பார்த்தான், பூபதிதான் என்பதைப் புரிந்துகொண்டான். தெருக் கதவு திறக்கப்பட்டது. அருளைக்கண்ட, பிரபா ஓடிப்பாய்ந்து “அத்தான்” என்று தழுவிக்கொண்டாள். “விடு என்னை! நான் பூபதியல்ல!” என்று அவளை உதறிவிட்டு அருள் எங்கேயோ வேகமாக நடந்தான்.
@@ -22,5 +22,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - quoted letter opening and its continuation across scan 19→20 were source-checked and retained;
 - full-page check found no omission, duplication, paragraph-boundary, or dialogue-boundary error;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened at source resolution for character-identity review;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `கிள்ளை` (`ளை`), `தவறான` / `வருகிறான்` (`றா`), `அன்றொரு` (`றொ`), `ஓடினான்` (`னா`), `என்னை` / `மனைவியைப்` / `நினைவுச்` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no global replacement, spelling modernization, or lexical normalization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 19; அச்சுப் பக்கம்: 18 -->
