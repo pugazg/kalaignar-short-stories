@@ -4,7 +4,7 @@
 |---:|---|---:|---:|---|---|
 | 1 | `தாய்மை` | 5–20 | 7–22 | `stories/thaaymai/` — 1977 canonical | **witness comparison CLOSED / PASS — 16/16** |
 | 2 | `ஆட்டக் காவடி` | 21–31 | 23–33 | `stories/aattakkavadi/` — 1977 canonical | **witness comparison CLOSED / PASS — 11/11** |
-| 3 | `நடுத்தெரு நாராயணி` | 32–57 | 34–59 | `pugazg/kalaignar-novels/works/nadutheru-narayani/` — 1978 canonical | **cross-repo witness IN PROGRESS — 5/26** |
+| 3 | `நடுத்தெரு நாராயணி` | 32–57 | 34–59 | `pugazg/kalaignar-novels/works/nadutheru-narayani/` — 1978 canonical | **cross-repo witness IN PROGRESS — 15/26** |
 | 4 | `அரும்பு` | 58–79, 82–87 | 60–87 with p.80–81 absent | `pugazg/kalaignar-novels/works/arumbu/` — 1978 canonical | cross-repo witness NOT STARTED / source gap documented |
 
 ## Deduplication result
@@ -21,11 +21,11 @@ Completed:
 
 - `தாய்மை` — **16/16 CLOSED / PASS**
 - `ஆட்டக் காவடி` — **11/11 CLOSED / PASS**
-- `நடுத்தெரு நாராயணி` — scans **34–38 / printed 32–36 — 5/26 reviewed**
+- `நடுத்தெரு நாராயணி` — scans **34–48 / printed 32–46 — 15/26 reviewed**
 
 Exact next span:
 
-- scans **39–48**
-- printed pages **37–46**
+- scans **49–58**
+- printed pages **47–56**
 - **10 source pages**
 
