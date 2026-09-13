@@ -29,18 +29,19 @@ The 1956 witness can expose comparison candidates, but it does not by itself aut
 
 ## Comparison state
 
-**IN PROGRESS — 4/16 witness scans reviewed.**
+**IN PROGRESS — 8/16 witness scans reviewed.**
 
 Completed span:
 
-- 1956 scans **7–10 / printed 5–8**
-- aligned primarily against 1977 canonical scans **73–75**
+- 1956 scans **7–14 / printed 5–12**
+- Batch 1 scans **7–10** aligned primarily against canonical scans **73–75**
+- Batch 2 scans **11–14** aligned primarily against canonical scans **75–78**
 
 Result so far:
 
 - narrative sequence: **equivalent**
 - added / missing major narrative block in reviewed span: **0**
-- material wording variant recorded: **1**
+- material wording / morphology variants recorded: **4**
 - routine spacing / punctuation / typography variants: **recorded by class**
 - unresolved witness readings in reviewed span: **0**
 - canonical Tamil changed: **No**
@@ -58,8 +59,21 @@ The verified 1977 canonical reads:
 
 This is retained as an edition-level lexical/morphological variant. The 1977 canonical is not changed from witness evidence alone.
 
+## Batch 2 findings — scans 11–14 / printed 9–12
+
+Batch 2 is **COMPLETE / PASS — 4/4 scans**.
+
+High-value edition findings:
+
+- 1956 `பாராங்கல்லைப் போன்ற கரடுமுரடான அவனது மார்பகத்தில்` ↔ 1977 `பாருங்கல்லில் ஒத்த கரடு முரடான அவனது மார்பகத்தில்`;
+- 1956 `இன்பசாகரோடு` ↔ 1977 `இன்பசாகரனோடு`;
+- 1956 `அரசனை அருகிலே வைத்து` ↔ 1977 `அரசன் அருகிலே வைத்து`;
+- 1956 independently supports the repaired canonical reading **`ஆயிரந்தேர்`**.
+
+No reviewed difference requires a canonical recheck. The 1977 canonical remains unchanged.
+
 ## Next activity
 
-Continue direct visual comparison with 1956 scans **11–14 / printed 9–12**.
+Continue direct visual comparison with 1956 scans **15–18 / printed 13–16**.
 
 Do not begin `ஆட்டக் காவடி` until this complete 1956 `தாய்மை` witness is closed.
