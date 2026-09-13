@@ -1,6 +1,6 @@
 # Historical Tamil Glyph Gate — நெருப்பு
 
-Status: **P1 + P2 STAGE 3 COMPLETE / PASS — 10/14 pages glyph-audited; P1 + P2 Stage 4 independently closed / verified**.
+Status: **P1 + P2 + P3 STAGE 3 COMPLETE / PASS — 14/14 pages glyph-audited; P1 + P2 Stage 4 independently closed / verified; P3 Stage 4 NEXT**.
 
 Mandatory Stage-3 families:
 
@@ -81,12 +81,53 @@ Same-edition comparison was available across the five pages for the recurring `�
 
 The Stage-3 pass itself did not promote P2 pages; the subsequent Stage 4 final independent source check closed **PASS / VERIFIED 5/5** with no historical-glyph disposition overturned.
 
+## P3 audit — scans 21–24 / printed pages 20–23
+
+The four Stage-2 P3 texts were reopened against the attached controlling scans specifically for historical/reform-sensitive Tamil character identity. Ordinary lexical/punctuation decisions from Stage 2 were left unchanged.
+
+### Family coverage
+
+| Family | P3 source coverage / examples | Result |
+|---|---|---|
+| `ணா` | no confirmed occurrence requiring action in P3 | no action |
+| `ணை` | `கண்ணை` | confirmed |
+| `ணொ` | no confirmed occurrence in P3 | no action |
+| `ணோ` | no confirmed occurrence in P3 | no action |
+| `லை` | `நிலையத்தில்`, `நிலை`, `காலையில்`, `அலைந்து` | confirmed |
+| `ளை` | `வெள்ளாட்டியானேன்`, `அவளைப்` | confirmed |
+| `றா` | `காப்பாற்றினையா`, `இருக்கிறாளா` | confirmed |
+| `றொ` | no confirmed occurrence in P3 | no action |
+| `றோ` | no confirmed occurrence in P3 | no action |
+| `னா` | `வாழுகிறான்`, `நடுங்கினான்`, `ஓடினான்`, `அலறினாள்` | confirmed |
+| `னை` | `காட்டினை`, `காப்பாற்றினையா`, `மனைவி`, `தன்னை` | confirmed |
+| `னொ` | no confirmed occurrence in P3 | no action |
+| `னோ` | `நானோ` | confirmed |
+
+### Explicit source-sensitive dispositions
+
+- scan 21 `காட்டினை` — **confirmed**; final cluster is source-supported `னை`, not a modern-lookalike substitution;
+- scan 23 `காப்பாற்றினையா` — **confirmed**; the source supports both `றா` and final `னை` character identity;
+- same-edition comparison across scans 21–24 supported the recurring `லை / ளை / றா / னா / னை` forms.
+
+## P3 Stage-3 result
+
+- pages glyph-audited: **4/4**
+- mandatory family set explicitly checked: **13/13**
+- historical-glyph character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- global replacements: **0**
+- spelling/grammar modernization: **0**
+- page status: **`needs-review` 4/4**
+- Stage 4 final independent source check: **NEXT**
+
+The Stage-3 pass does not promote P3 pages to `verified`; Stage 4 remains mandatory.
+
 ## Batch state
 
 | Scans | Stage 3 state | Corrections | Unresolved |
 |---|---|---:|---:|
 | 11–15 | **COMPLETE / PASS** | 0 | 0 |
 | 16–20 | **COMPLETE / PASS** | 0 | 0 |
-| 21–24 | not started | 0 | 0 |
+| 21–24 | **COMPLETE / PASS** | 0 | 0 |
 
-Stage 4 cross-check: **COMPLETE / PASS 5/5**; historical-glyph dispositions overturned: **0**. Next: **P3 Stage 1 — scans 21–24 / printed pages 20–23**.
+Next: **P3 Stage 4 final independent source check — scans 21–24 / printed pages 20–23**.

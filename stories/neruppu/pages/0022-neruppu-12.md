@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 தங்கள் காலடிகளை என் கண்ணீரால் குளிப்பாட்டி விட்டுக் கண்ணை மூடுவதில்தான் எனக்கு நிம்மதி!..... வருவீர்களா?
@@ -44,5 +44,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - dialogue and paragraph boundaries confirmed;
 - ordinary Stage-2 unresolved fidelity issues: **0**;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened against the controlling scan specifically for historical/reform-sensitive character identity;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `கண்ணை` (`ணை`), `நிலையத்தில்` / `நிலை` (`லை`), `விழித்தாள்` / `அவள்` (`ளை`), `இருக்கிறாளா` (`றா`), `மனைவி` / `தன்னை` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no spelling, punctuation, sandhi, or lexical modernization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 21 -->

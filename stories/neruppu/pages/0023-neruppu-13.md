@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 “ஏய் அருள், போதும் நிறுத்து! என்ன உளறுகிறாய்?”
@@ -37,5 +37,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - story action/paragraph boundaries and scan 23→24 continuity confirmed;
 - ordinary Stage-2 unresolved fidelity issues: **0**;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened against the controlling scan specifically for historical/reform-sensitive character identity;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `காப்பாற்றினையா` (`றா` + `னை`), `அவளைப்` (`ளை`), `நடுங்கினான்` / `ஓடினான்` (`னா`), `மனைவி` (`னை`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no spelling, punctuation, sandhi, or lexical modernization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 22 -->

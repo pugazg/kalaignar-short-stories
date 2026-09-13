@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 போக்கிக்கொள்ளப் பணம் கிடைக்குமென்று! பிறகு, நான் என்ன எழுதி இருக்கிறது; அதுதான்!
@@ -35,5 +35,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - scan 20→21 letter continuation verified;
 - ordinary Stage-2 unresolved fidelity issues: **0**;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened against the controlling scan specifically for historical/reform-sensitive character identity;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `காட்டினை` / `மனைவியாக` (`னை`), `நானோ` (`னோ`), `வெள்ளாட்டியானேன்` (`ளை`), `வாழுகிறான்` (`னா`);
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no spelling, punctuation, sandhi, or lexical modernization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 20 -->

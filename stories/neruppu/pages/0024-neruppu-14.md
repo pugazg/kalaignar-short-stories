@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 அங்கிருந்து பிரபாவின் வீடு நோக்கி ஓடினான். கோமதியம்மாள் வாசலில் உட்கார்ந்திருந்தாள் வானத்தைப் பார்த்தவாறு!....விளக்கு ‘மினுக் மினுக்’ என்று எரிந்து கொண்டிருந்தது!
@@ -38,5 +38,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit a
 - story-ending ornament below the final sentence confirmed as the physical boundary;
 - ordinary Stage-2 unresolved fidelity issues: **0**;
 - Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
+
+## Stage 3 historical-glyph audit
+
+- complete page reopened against the controlling scan specifically for historical/reform-sensitive character identity;
+- mandatory families checked: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- representative source occurrences on this page: `காலையில்` / `அலைந்து` (`லை`), `அவளைப்` (`ளை`), `அலறினாள்` / `கொண்டிருந்தான்` (`னா`), `கண்மணியின்` same-edition consonant/vowel comparison supporting the page's reform-sensitive readings;
+- historical-glyph character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- no spelling, punctuation, sandhi, or lexical modernization applied;
+- Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
 
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 23 -->
