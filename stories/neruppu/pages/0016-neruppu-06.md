@@ -4,10 +4,10 @@ printed_page: 15
 story: "neruppu"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
 அங்கேயே தங்கிவிட்டான். அருள், வெள்ளை மனங் கொண்டவன். பூபதியின் உள்ளத்தில் மூண்டிருக்கிற நெருப்பை அவன் உணரவில்லை. பிரபா மட்டும் அதை உணர்ந்து கொண்டு வந்தாள். நெஞ்சிலே கொழுந்து விடும் தீ ஜ்வாலை பூபதியின் கண்களின் வழியாக வெளி வந்து அவளைப் பலமுறை சுட்டிருக்கிறது...
@@ -32,5 +32,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit +
 - unresolved glyph clusters: **0**;
 - no global replacement, spelling modernization, or lexical normalization applied;
 - Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
+
+## Stage 4 final independent source check
+
+- complete page reopened fresh against the controlling source after Stage 2 and Stage 3;
+- Stage-2 corrections and Stage-3 historical-glyph dispositions were independently rechecked;
+- final Stage-4 source-proven corrections on this page: **0**;
+- omissions / duplications / paragraph / dialogue / page-boundary unresolved issues: **0**;
+- historical-glyph dispositions overturned: **0**;
+- final unresolved issues: **0**;
+- Stage 4: **COMPLETE / PASS — `verified`**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 16; அச்சுப் பக்கம்: 15 -->

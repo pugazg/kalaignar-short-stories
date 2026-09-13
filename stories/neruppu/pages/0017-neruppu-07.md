@@ -4,13 +4,13 @@ printed_page: 16
 story: "neruppu"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
-தண்ணீர் குடிப்பான். உறிஞ்சிக் குடித்தால் பார்வை மேலே போகாது என்பதற்காக மிகவும் சுத்தக்காரன் போலக் குவளையை மேலே தூக்கிக் குடிப்பான். அந்த இழி பண்பு தெரியாத அருள், “சும்மா எச்சில் செய்து குடிடா பூபதி!” என்று களங்கமின்றிக் கூறுவான். பூபதி அவளை ரசிப்பான்; அருளோ, பூபதியின் இலையில் என்ன இல்லை என்பதைக் கவனித்து, அடிக்கடி பிரபாவைக் கூப்பிட்டு இல்லாததைப் பரிமாறச் சொல்வான்.
+தண்ணீர் குடிப்பான். உறிஞ்சிக் குடித்தால் பார்வை மேலே போகாது என்பதற்காக மிகவும் சுத்தக்காரன் போலக் குவளையை மேலே தூக்கிக் குடிப்பான். அந்த இழி பண்பு தெரியாத அருள், “சும்மா எச்சில் செய்து குடிடா பூபதி!” என்று களங்கமின்றிக் கூறுவான். பூபதி அவளை ரசிப்பான். அருளோ, பூபதியின் இலையில் என்ன இல்லை என்பதைக் கவனித்து, அடிக்கடி பிரபாவைக் கூப்பிட்டு இல்லாததைப் பரிமாறச் சொல்வான்.
 
 செய்வது தவறுதான்! நன்றாகத் தெரிகிறது; பூபதிக்கு! அதற்காக வருந்தவும் செய்கிறான். அனுசூயா நிர்வாணமாகவே வந்து பரிமாற வேண்டும் என்று ஆசைப்பட்ட வில்லையா மும்மூர்த்திகளும்!....அதைவிட இது பெரிய தவறு என்று முடிவுகட்டி விட்டான் போலும்!....
 
@@ -35,5 +35,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit +
 - unresolved glyph clusters: **0**;
 - no global replacement, spelling modernization, or lexical normalization applied;
 - Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
+
+## Stage 4 final independent source check
+
+- complete page reopened fresh against the controlling source after Stage 2 and Stage 3;
+- Stage-2 corrections and Stage-3 historical-glyph dispositions were independently rechecked;
+- final Stage-4 source-proven corrections on this page: **1**;
+- omissions / duplications / paragraph / dialogue / page-boundary unresolved issues: **0**;
+- historical-glyph dispositions overturned: **0**;
+- final unresolved issues: **0**;
+- Stage 4: **COMPLETE / PASS — `verified`**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 17; அச்சுப் பக்கம்: 16 -->

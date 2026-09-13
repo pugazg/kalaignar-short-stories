@@ -4,13 +4,13 @@ printed_page: 17
 story: "neruppu"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit + Stage 3 historical-glyph audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit + Stage 4 final independent source check against controlling scan"
 ---
 
-அதன்படி அருள் வேலை தேடிப் புறப்பட்டான்....ஒரு நாள் இரண்டு நாளல்ல; பல மாதங்கள் வேலைதேடி அலைந்தான்.
+அதன்படி அருள் வேலை தேடிப் புறப்பட்டான்.... ஒரு நாள் இரண்டு நாளல்ல; பல மாதங்கள் வேலைதேடி அலைந்தான்.
 
 பிரபா, கொள்ளிடத்திற்கு வந்திருக்கிற சேதி கேள்விப்பட்ட பூபதி, அடிக்கடி அவள் வீட்டுக்குப் போய் அருளின் சுகத்தைப்பற்றி மிக அக்கரையோடு விசாரித்து வந்தான். பிரபாவின் தாயாருக்குப் பூபதியின் மீது மரியாதையும் அன்பும் அதிகமாயிற்று. பெரிய மனிதர் வீட்டுப் பிள்ளை, தன் குடும்பத்திலே இவ்வளவு அக்கரையாக இருக்கிறதே என்று வியந்தாள். அருளுக்கும், பூபதிக்குமுள்ள நட்பைக் கேள்விப்பட்டு, அவனைப் பரிபூரணமாகக் கோமதி நம்பியும் விட்டாள். பணமுடை ஏற்படுகிற நேரங்களில் பத்து, அஞ்சு என்று அவனிடம் கோமதியம்மாள் வாங்கிக்கொண்டாள்.
 
@@ -38,5 +38,15 @@ transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit +
 - unresolved glyph clusters: **0**;
 - no global replacement, spelling modernization, or lexical normalization applied;
 - Stage 3: **COMPLETE / PASS**; page remains `needs-review` pending Stage 4 final independent source check.
+
+## Stage 4 final independent source check
+
+- complete page reopened fresh against the controlling source after Stage 2 and Stage 3;
+- Stage-2 corrections and Stage-3 historical-glyph dispositions were independently rechecked;
+- final Stage-4 source-proven corrections on this page: **1**;
+- omissions / duplications / paragraph / dialogue / page-boundary unresolved issues: **0**;
+- historical-glyph dispositions overturned: **0**;
+- final unresolved issues: **0**;
+- Stage 4: **COMPLETE / PASS — `verified`**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 18; அச்சுப் பக்கம்: 17 -->

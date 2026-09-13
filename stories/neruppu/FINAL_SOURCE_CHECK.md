@@ -60,4 +60,38 @@ The following 12 interim changes were not supported by the source and were resto
 
 P1 scans **11–15** remain **`verified` 5/5** with **6 final source-proven Stage-4 corrections** and **0 unresolved issues**.
 
-Next: **P2 Stage 1 — scans 16–20 / printed pages 15–19**.
+## P2 Stage 4 — scans 16–20 / printed pages 15–19
+
+Status: **COMPLETE / PASS — VERIFIED 5/5**.
+
+The five complete P2 page records were reopened fresh against the attached controlling scans after Stage 2 and Stage 3 had closed. The full text, punctuation, quotation/dialogue boundaries, paragraphing, cross-page continuations, and representative historical-glyph dispositions were rechecked end-to-end.
+
+### P2 final source-proven corrections
+
+| Scan | Earlier committed reading | Final source-supported reading | Type |
+|---:|---|---|---|
+| 17 | `பூபதி அவளை ரசிப்பான்; அருளோ,` | `பூபதி அவளை ரசிப்பான். அருளோ,` | punctuation |
+| 18 | `புறப்பட்டான்....ஒரு நாள்` | `புறப்பட்டான்.... ஒரு நாள்` | source-visible spacing |
+
+Total P2 Stage-4 source-fidelity corrections: **2**.
+
+### P2 final revalidation gates
+
+- whole pages reopened against source: **5/5**
+- complete text coverage: **PASS**
+- six Stage-2 source-proven corrections confirmed present: **6/6**
+- Stage-3 historical-glyph dispositions rechecked: **PASS**
+- Stage-3 character-identity corrections overturned: **0**
+- additional Stage-4 source-proven corrections: **2**
+- omissions / duplications after correction: **0**
+- punctuation / paragraph / dialogue / page-boundary unresolved issues: **0**
+- unresolved historical-glyph candidates: **0**
+- unresolved ordinary source-text readings: **0**
+- blocked readings: **0**
+- P2 page status: **`verified` 5/5**
+
+## P2 final disposition
+
+P2 scans **16–20** are **`verified` 5/5** with **2 final Stage-4 corrections** and **0 unresolved issues**.
+
+Next: **P3 Stage 1 — first-pass transcription, scans 21–24 / printed pages 20–23**.
