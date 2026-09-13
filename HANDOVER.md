@@ -132,8 +132,7 @@ All **14/14** `நெருப்பு` page records are four-gate verified.
 - witness workspace: `stories/kannadakkam/witnesses/1969-kannadakkam/`
 - same narrative / hospital-frame ending: **PASS**
 - major added / omitted blocks: **0**
-- high-value 1977 recheck evidence: `வாளை மீனுக்கோ` vs canonical `வான மீனுக்கோ`
-- 2009 witness independently agrees on `வாளை மீனுக்கோ`
+- resolved 1977 recheck: exact scan 166 confirms `வாளை மீனுக்கோ`; 1969 and 2009 witnesses independently agree
 - 1969 independently supports current canonical `துணி ஏணை` and `நமனுலகு`
 - canonical Tamil / English / status changed: **No**
 - unresolved witness issues: **0**
@@ -213,3 +212,16 @@ Therefore:
 **NONE — 1969 `கண்ணடக்கம்` is CLOSED UNDER THE ONLY AVAILABLE COPY.**
 
 Any future reopening would require genuinely new evidence or an explicitly requested separate canonical recheck. There is no automatic pending activity for this collection.
+
+
+## Resolved canonical recheck — `கண்ணடக்கம்`
+
+The exact 1977 controlling scan **166 / printed 157** was freshly reopened at enlarged resolution after the user flagged the reading. It reads **`வாளை மீனுக்கோ`**, not `வான மீனுக்கோ`.
+
+- canonical Tamil: corrected
+- canonical English: synchronized to “vaalai fish in the river”
+- source-proven repair count: **10**
+- unresolved: **0**
+- 1969 witness: agrees
+- 2009 witness: agrees
+- recheck candidate: **CLOSED**

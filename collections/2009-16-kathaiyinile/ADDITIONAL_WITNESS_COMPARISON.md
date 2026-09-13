@@ -18,7 +18,7 @@ Policy: the 2009 edition is an independent witness. It does **not** silently ove
 | 6 | `தப்பிவிட்டார்கள்` | 126–136 | same narrative; spelling/verb-form modernization |
 | 7 | `தப்பவில்லை` | 137–149 | same narrative/final irony; editorial repagination/regularization |
 | 8 | `ஏழை` | 150–154 | same story identity/boundary; lexical assertions kept conservative beyond the rendered-preview limit at scan 150 |
-| 9 | `கண்ணடக்கம்` | 155–163 | same narrative; `வான மீனுக்கோ` ↔ `வாளை மீனுக்கோ`, `துணி ஏண்` ↔ `துணி ஏணை` |
+| 9 | `கண்ணடக்கம்` | 155–163 | same narrative; `வாளை மீனுக்கோ` now confirmed in the directly rechecked 1977 source too; `துணி ஏண்` ↔ `துணி ஏணை` |
 | 10 | `வாழ முடியாதவர்கள்` | 164–173 | same narrative; major clarification `கற்பினைக்...தீவிதி` ↔ `கற்பனைப்...தலைவிதி` |
 | 11 | `அய்யோ ராஜா` | 174–182 | same story identity/boundary; explicit title punctuation difference; conservative lexical disposition |
 
@@ -33,10 +33,10 @@ These later readings are evidence only until the exact canonical controlling sca
 - `நளாயினி`: `தாசிநாதீனத்தொழு!` ↔ `காசிநாதனைத் தொழு!`; `நயனவல்லித்ததை` ↔ `நயன வனிதையை`; `அண்டெடுத்து` ↔ `அணைத்தெடுத்து`; `எண்ணுதெல்லாம்` ↔ `எண்ணாததெல்லாம்`.
 - `குப்பைத் தொட்டி`: `போதுதானு` ↔ `போதுதானா`; `மனமனவென்று` ↔ `மளமளவென்று`; `வளர்த்துக்கொண்டது` ↔ `வளைத்துக்கொண்டது`; `மூன்றூறு` ↔ `முன்னூறு`; `அவசரியப் புத்தி` ↔ `அலட்சியப் புத்தி`; `போனேனோ` ↔ `போனானோ`.
 - `சங்கிலிச்சாமி`: devotional `படே` ↔ later `பதே` is a controlling-scan recheck candidate.
-- `கண்ணடக்கம்`: `வான மீனுக்கோ` ↔ `வாளை மீனுக்கோ`; `துணி ஏண்` ↔ `துணி ஏணை`.
+- `கண்ணடக்கம்`: **resolved** — direct 1977 scan 166 confirms `வாளை மீனுக்கோ`; `துணி ஏண்` ↔ `துணி ஏணை` remains the separate later-witness clarification already resolved by source recheck.
 - `வாழ முடியாதவர்கள்`: `கவாட்டா` ↔ `கலாட்டா`; `சிறகை படித்துக்` ↔ `சிறகையடித்துக்`; especially `கற்பினைக் பெயரால் ஏற்பட்ட தீவிதி` ↔ `கற்பனைப் பெயரால் ஏற்பட்ட தலைவிதி`.
 
-No canonical Tamil or English was changed from these later-edition readings because the 1977 controlling PDF was not available for fresh scan-level rechecks during this phase.
+During this 2009 comparison phase no canonical Tamil/English was changed from witness evidence alone. Subsequently, the exact 1977 source was reopened; `வாளை மீனுக்கோ` was directly confirmed and canonical Tamil/English were synchronized from the controlling source.
 
 ## Source-access provenance — corrected 2026-09-06
 

@@ -49,4 +49,4 @@ The gap remains documented in `collections/1969-kannadakkam/SOURCE_COMPLETENESS.
 
 Do not reopen the missing-span workflow merely because the printed book is physically incomplete. Reopen only if genuinely new evidence is supplied in the future.
 
-A separate canonical recheck—such as `கண்ணடக்கம்` `வான மீனுக்கோ` vs two later witnesses `வாளை மீனுக்கோ`—remains optional and requires explicit authorization plus the controlling 1977 scan.
+The prior `கண்ணடக்கம்` `வான மீனுக்கோ` recheck is **RESOLVED**: direct enlarged inspection of the exact 1977 scan 166 confirms `வாளை மீனுக்கோ`, matching the 1969 and 2009 witnesses. Canonical Tamil/English are synchronized.

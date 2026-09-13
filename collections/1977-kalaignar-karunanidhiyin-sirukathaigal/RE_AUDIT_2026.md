@@ -129,7 +129,7 @@ Full story record: `../../stories/gangaiyin-kadhal/RE_AUDIT_2026.md`.
 | 21 | `ஆலமரத்துப் புறாக்கள்` | 151–155 | **CURRENT PASS — 89 repairs / 0 unresolved** |
 | 22 | `தொத்துக்கிளி` | 156–160 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 23 | `காதல் கடிதம்` | 161–165 | **CURRENT PASS — 5 repairs / 0 unresolved** |
-| 24 | `கண்ணடக்கம்` | 166–172 | **CURRENT PASS — 9 repairs / 0 unresolved** |
+| 24 | `கண்ணடக்கம்` | 166–172 | **CURRENT PASS — 10 repairs / 0 unresolved** |
 | 25 | `வாழ முடியாதவர்கள்` | 173–180 | **CURRENT PASS — 3 repairs / 0 unresolved** |
 | 26 | `அபாக்ய சிந்தாமணி` | 181–188 | **CURRENT PASS — 1 repair / 0 unresolved** |
 | 27 | `பாலைவன ரோஜா` | 189–193 | **CURRENT PASS — 0 new repairs / 0 unresolved** |
@@ -537,3 +537,8 @@ Full story record: `../../stories/amirthamathi/RE_AUDIT_2026.md`.
 - scan 250 independently opens Story 36 `சித்தார்த்தன் சிலை`
 
 Full story record: `../../stories/sumanthaval/RE_AUDIT_2026.md`.
+
+
+### Post-closure direct recheck — Story 24 `கண்ணடக்கம்`
+
+Fresh enlarged inspection of exact controlling scan **166 / printed 157** confirms **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**. The former canonical `வான மீனுக்கோ` is corrected as a historical-`ளை` decoding error. Story 24 remains **CURRENT PASS / CLOSED — 10 repairs / 0 unresolved**.

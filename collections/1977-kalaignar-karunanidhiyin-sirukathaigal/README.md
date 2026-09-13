@@ -59,7 +59,7 @@ Gate definition: [`OLD_TAMIL_GLYPH_REAUDIT_GATE.md`](OLD_TAMIL_GLYPH_REAUDIT_GAT
 - `ஆலமரத்துப் புறாக்கள்` — scans **151–155** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **89 repairs / 0 unresolved**; English terminology synchronized.
 - `தொத்துக்கிளி` — scans **156–160** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `காதல் கடிதம்` — scans **161–165** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **5 repairs / 0 unresolved**; English prose rewrite 0.
-- `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **9 repairs / 0 unresolved**; English synchronized in 6 phrases.
+- `கண்ணடக்கம்` — scans **166–172** — Gate A **7/7 PASS**, Gate B **7/7 PASS**, **10 repairs / 0 unresolved**; direct scan-166 historical-`ளை` repair `வான மீனுக்கோ` → `வாளை மீனுக்கோ`; English synchronized in 7 phrases.
 - `வாழ முடியாதவர்கள்` — scans **173–180** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **3 repairs / 0 unresolved**; English prose rewrite 0.
 - `அபாக்ய சிந்தாமணி` — scans **181–188** — Gate A **8/8 PASS**, Gate B **8/8 PASS**, **1 repair / 0 unresolved**; English prose rewrite 0.
 - `பாலைவன ரோஜா` — scans **189–193** — Gate A **5/5 PASS**, Gate B **5/5 PASS**, **0 new repairs / 0 unresolved**; all 15 legacy pending candidates resolved; English prose rewrite 0.
@@ -128,10 +128,10 @@ Full story record: `../../stories/kadhal-kaditham/RE_AUDIT_2026.md`.
 - scans **166–172 / printed 157–163**
 - Gate A **7/7 PASS**
 - Gate B **7/7 PASS**
-- **9 source-proven repairs / 0 unresolved**
-- historical glyphs: `துணி ஏண்` → `துணி ஏணை` (`ணை`); `நானு` → `நானா` (`னா`)
+- **10 source-proven repairs / 0 unresolved**
+- historical glyphs: `வான மீனுக்கோ` → `வாளை மீனுக்கோ` (`ளை`); `துணி ஏண்` → `துணி ஏணை` (`ணை`); `நானு` → `நானா` (`னா`)
 - source wording: two `குறை` → `சூறை`; `மானுடின்ற` → `மாளுகின்ற`; `ஜீவவிட்ட` → `ஜில்லிட்ட`; `விக்கிரகத்தின்` → `விக்ரகத்தின்`; `நம்முலகு` → `நமனுலகு`; `அந்தவேதனையான` → `அந்த வேதனையான`
-- English synchronized in **6 phrases**
+- English synchronized in **7 phrases**
 - scan 173 independently opens `வாழ முடியாதவர்கள்`
 
 Full story record: `../../stories/kannadakkam/RE_AUDIT_2026.md`.
