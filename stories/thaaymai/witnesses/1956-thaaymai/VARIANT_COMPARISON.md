@@ -50,7 +50,59 @@ Examples from the reviewed span include:
 
 These are spacing, sandhi-display or punctuation-level edition differences and are not imported into the canonical layer.
 
-## Canonical disposition after Batch 1
+## Batch 2 — scans 11–14 / printed 9–12
+
+**COMPLETE / PASS — 4/4 witness scans reviewed.**
+
+### Physical / textual alignment
+
+| 1956 scan / printed | Witness anchor | 1977 canonical alignment |
+|---:|---|---|
+| 11 / 9 | closes early dialogue; `இல்ல; நம் உண்மைக் காதலைப் போல!`; மன்னன் enters | canonical scan 75 → scan 76 |
+| 12 / 10 | சுழற்கண்ணி / தீட்சணயன் relation and palace description | canonical scan 76 → scan 77 |
+| 13 / 11 | கோப்பெருந்தேவி contrast; siege metaphor; `ஆயிரந்தேர்` | canonical scan 77 |
+| 14 / 12 | பலகணி / இன்பசாகரன் consolation; conspiracy first stage | canonical scan 77 → scan 78 |
+
+No narrative block is added or omitted in this reviewed span.
+
+### Material wording / morphology variants
+
+| 1956 witness | 1977 canonical | Class / disposition |
+|---|---|---|
+| `பாராங்கல்லைப் போன்ற கரடுமுரடான அவனது மார்பகத்தில்` | `பாருங்கல்லில் ஒத்த கரடு முரடான அவனது மார்பகத்தில்` | genuine lexical recasting; canonical unchanged |
+| `தேவி-இன்பசாகரோடு` | `தேவி இன்பசாகரனோடு` | name-case / morphology variant; canonical unchanged |
+| `அரசனை அருகிலே வைத்து` | `அரசன் அருகிலே வைத்து` | case-marking variant; canonical unchanged |
+| `முதற்கட்டம்` | `முதற் கட்டம்` | orthographic / sandhi-display variant |
+
+### Independent canonical confirmation
+
+1956 scan **13 / printed 11** clearly reads **`ஆயிரந்தேர்`** in the army-list sequence:
+
+`ஆயிரந்தேர் - ஐயாயிரம் காலாள் - ஆனைப்படை - புரவிச்சேனை`.
+
+This independently supports the current repaired 1977 canonical **`ஆயிரந்தேர்`** reading. No canonical change is required.
+
+### Additional edition-style differences
+
+The reviewed span also contains routine punctuation / spacing / sandhi-display differences, including forms such as:
+
+- 1956 `விடியற்காலை! திட்டம்—மறந்துவிடாதீர்!` ↔ 1977 `விடியற்காலை—திட்டம்—மறந்து விடாதீர்!`;
+- 1956 `விருந்து! அதையும் நீ மறந்துவிடாதே!` ↔ 1977 `விருந்து—அதையும் நீ மறந்து விடாதே!`;
+- 1956 `அரசருக் கரசன்` ↔ 1977 `அரசருக்கரசன்`;
+- 1956 `வந்து சேர்ந்தது` / `வந்துசேர்ந்தது` style joins versus the later spaced form;
+- quotation-mark and dash differences around `வசந்த சேனை`, `திராட்சையினும் இனியது இந்த ரசம்`, and dialogue.
+
+These do not alter narrative structure or meaning and are not imported into the canonical layer.
+
+## Canonical disposition after Batch 2
+
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical verification status changed: **No**
+- canonical recheck candidate opened: **No**
+- unresolved 1956 witness reading: **0**
+
+
 
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
@@ -60,6 +112,6 @@ These are spacing, sandhi-display or punctuation-level edition differences and a
 
 ## Next comparison span
 
-1956 scans **11–14 / printed 9–12**.
+1956 scans **15–18 / printed 13–16**.
 
-The witness comparison remains **IN PROGRESS — 4/16 scans**.
+The witness comparison remains **IN PROGRESS — 8/16 scans**.
