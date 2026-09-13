@@ -52,6 +52,9 @@ Story block:
 - scan 12: localized upper-left paper loss; enough text survives for anchor comparison
 - scan 14: severe paper loss
 - scan 15: extreme paper loss; only a narrow surviving strip remains, including terminal-story material / ornament
+- scan 34: localized upper-page paper loss / patch damage obscures portions of Story-4 text
+- scan 35: localized upper-page paper loss affects a small amount of Story-4 text
+- scan 36: upper-page paper loss affects part of the Story-4 closing page; the expanded ending remains source-visible
 - scan 37: heading region damaged; body opening survives
 - source damage is part of the witness and must be preserved as a limitation
 
