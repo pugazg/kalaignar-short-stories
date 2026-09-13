@@ -15,10 +15,10 @@ Story range: scans **11–24 / printed pages 10–23** — **14 physical pages**
 | 18 | 17 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 19 | 18 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 20 | 19 | story | `verified` | **P2 Stage 4 COMPLETE / PASS — VERIFIED** |
-| 21 | 20 | story | `needs-review` | **P3 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
-| 22 | 21 | story | `needs-review` | **P3 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
-| 23 | 22 | story | `needs-review` | **P3 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
-| 24 | 23 | story-ending | `needs-review` | **P3 Stage 2 COMPLETE / PASS — Stage 3 NEXT; ending ornament PASS** |
+| 21 | 20 | story | `needs-review` | **P3 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
+| 22 | 21 | story | `needs-review` | **P3 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
+| 23 | 22 | story | `needs-review` | **P3 Stage 3 COMPLETE / PASS — Stage 4 NEXT** |
+| 24 | 23 | story-ending | `needs-review` | **P3 Stage 3 COMPLETE / PASS — Stage 4 NEXT; ending ornament PASS** |
 
 Forward boundary: scan **25** opens `வேணியின் காதலன்` and is excluded.
 
@@ -27,7 +27,7 @@ Current totals:
 - page records: **14/14 initialized**
 - Stage 1 first-pass transcription: **14/14**
 - Stage 2 visual text fidelity: **14/14**
-- Stage 3 historical-glyph audit: **10/14**
+- Stage 3 historical-glyph audit: **14/14**
 - Stage 4 final check: **10/14**
 - verified: **10**
 - needs-review: **4**
@@ -41,7 +41,7 @@ Current totals:
 - P2 Stage-4 source-proven corrections: **2**
 - P2 final unresolved issues: **0**
 
-Next: **P3 Stage 3 historical Tamil glyph audit — scans 21–24 / printed pages 20–23**.
+Next: **P3 Stage 4 final independent source check — scans 21–24 / printed pages 20–23**.
 
 
 - P3 Stage-1 queued source-sensitive locations: **9**
@@ -49,3 +49,5 @@ Next: **P3 Stage 3 historical Tamil glyph audit — scans 21–24 / printed page
 
 - P3 Stage-2 source-proven corrections: **14**
 - P3 ordinary Stage-2 unresolved issues: **0**
+- P3 Stage-3 character-identity corrections: **0**
+- P3 Stage-3 unresolved glyph clusters: **0**

@@ -155,4 +155,4 @@ P3 gate state:
 - Stage 4 final independent check: not started
 - page status: **`needs-review` 4/4**
 
-Next: **P3 Stage 3 historical Tamil glyph audit — scans 21–24 / printed pages 20–23**.
+Stage 3 historical-glyph audit has since completed **PASS 4/4 with 0 character-identity corrections and 0 unresolved glyph clusters**. Next: **P3 Stage 4 final independent source check — scans 21–24 / printed pages 20–23**.

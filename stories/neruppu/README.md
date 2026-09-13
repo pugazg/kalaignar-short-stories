@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 + P2 VERIFIED 10/10; P3 STAGE 2 COMPLETE / PASS 4/4.**
+**SOURCE INTAKE PASS / P1 + P2 VERIFIED 10/10; P3 STAGE 3 COMPLETE / PASS 4/4.**
 
 - no prior canonical `நெருப்பு` workspace or documented alternate-title match was found at activation;
 - scan 11 opens with **நெருப்பு**;
@@ -50,7 +50,7 @@ Default batch size: **5 physical scans**.
 - page records: **14 / 14 initialized**
 - Stage 1 first-pass: **14 / 14**
 - Stage 2 visual fidelity: **14 / 14**
-- Stage 3 historical glyph: **10 / 14**
+- Stage 3 historical glyph: **14 / 14**
 - Stage 4 final check: **10 / 14**
 - verified: **10 / 14**
 - needs-review: **4 / 14**
@@ -123,11 +123,13 @@ Scans **21–24 / printed 20–23**:
 - Stage-1 queued readings dispositioned: **9/9**
 - ordinary Stage-2 unresolved issues: **0**
 - page state: **`needs-review` 4/4**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4 final check: not started
+- Stage 3 historical glyph: **COMPLETE / PASS 4/4**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final check: **NEXT**
 - ending ornament / forward boundary: **PASS**
 - blocked: **0**
 
 ## Exact next activity — current
 
-**P3 Stage 3 — historical Tamil glyph audit, scans 21–24 / printed pages 20–23.**
+**P3 Stage 4 — final independent source check, scans 21–24 / printed pages 20–23.**

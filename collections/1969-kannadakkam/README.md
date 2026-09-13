@@ -25,7 +25,7 @@ The attached PDF itself is the controlling source for this edition. No external 
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 + P2 VERIFIED 10/10; P3 Stage 2 COMPLETE / PASS 4/4; P3 Stage 3 NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 + P2 VERIFIED 10/10; P3 Stage 3 COMPLETE / PASS 4/4; P3 Stage 4 NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -75,11 +75,11 @@ P2 scans **16–20 / printed 15–19**:
 - Stage-4 final unresolved issues: **0**
 - blocked: **0**
 
-Overall `நெருப்பு`: Stages 1–2 **14/14**; Stages 3–4 **10/14**; verified **10/14**; needs-review **4/14**; not-started **0/14**.
+Overall `நெருப்பு`: Stages 1–3 **14/14**; Stage 4 **10/14**; verified **10/14**; needs-review **4/14**; not-started **0/14**.
 
 ## Exact next activity
 
-Process **`நெருப்பு` P3 Stage 3 — historical Tamil glyph audit**, scans **21–24 / printed pages 20–23**.
+Process **`நெருப்பு` P3 Stage 4 — final independent source check**, scans **21–24 / printed pages 20–23**.
 
 Do not begin `வேணியின் காதலன்` or the other comparison-only witness work until `நெருப்பு` Tamil/source work closes.
 
@@ -91,7 +91,9 @@ P3 scans **21–24 / printed 20–23**:
 - Stage 2 visual fidelity: **COMPLETE / PASS 4/4**
 - Stage-2 source-proven corrections: **14**
 - Stage-2 ordinary unresolved issues: **0**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4: not started
+- Stage 3 historical glyph: **COMPLETE / PASS 4/4**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **NEXT**
 - scan 24 ending ornament: **captured**
 - blocked: **0**

@@ -69,9 +69,16 @@ The ordinary visual-fidelity audit is **COMPLETE / PASS 4/4**.
 - scan 24 final sentence + closing ornament boundary: **PASS**
 - P3 pages remain `needs-review` pending Stage 3
 
-Historical-glyph-sensitive carry-forward for Stage 3:
+## P3 Stage 3 disposition
 
-- scan 21: `காட்டினை` — verify whether the apparent form encodes a reform-sensitive `னா / னை` identity;
-- scan 23: `காப்பாற்றினையா` — verify the reform-sensitive `னா / னை` cluster from source glyph identity.
+Historical-glyph audit is **COMPLETE / PASS 4/4**.
 
-No ordinary lexical normalization is authorized from those two candidates.
+- mandatory historical-glyph families checked: **13/13**
+- scan 21 `காட்டினை`: **source `னை` identity confirmed**
+- scan 23 `காப்பாற்றினையா`: **source `றா` + `னை` identity confirmed**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- P3 pages remain `needs-review` pending Stage 4
+- no modernization or global replacement has been applied.
+
+Current open review item: **P3 Stage 4 final independent source check — 4 pages**.

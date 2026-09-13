@@ -39,7 +39,7 @@ Workspace: `stories/neruppu/`
 - page records: **14/14**
 - Stage 1 first-pass: **14/14**
 - Stage 2 visual fidelity: **14/14**
-- Stage 3 historical glyph: **10/14**
+- Stage 3 historical glyph: **14/14**
 - Stage 4 final check: **10/14**
 - verified: **10/14**
 - needs-review: **4/14**
@@ -95,12 +95,14 @@ Transcribe the final four story scans from the controlling source only, preserve
 - Stage 2 visual fidelity: **COMPLETE / PASS 4/4**
 - Stage-2 source-proven corrections: **14**
 - Stage-2 ordinary unresolved issues: **0**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4: not started
+- Stage 3 historical glyph: **COMPLETE / PASS 4/4**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **NEXT**
 - blocked: **0**
 
 ## Exact next activity — superseding the earlier pointer
 
-**`நெருப்பு` P3 Stage 3 — historical Tamil glyph audit, scans 21–24 / printed 20–23.**
+**`நெருப்பு` P3 Stage 4 — final independent source check, scans 21–24 / printed 20–23.**
 
-Systematically check all mandatory historical-glyph families against the same four scans, explicitly resolve the glyph identity of `காட்டினை` and `காப்பாற்றினையா`, make only source-proven character-identity corrections, synchronize controls, commit, and stop before Stage 4.
+Reopen the final four pages fresh against the controlling scans, independently verify all Stage-2 corrections and Stage-3 glyph dispositions, recheck the scan-24 ending sentence and ornament boundary, resolve any residual source issue, synchronize controls, and promote to `verified` only if the final gate passes.
