@@ -66,62 +66,66 @@ Story 6 identity is not inferred from title similarity. Its distinctive opening 
 
 ## Witness-processing state
 
-**SOURCE / SCAN / STORY INVENTORY COMPLETE. STORIES 1–2 WITNESS WORK CLOSED.**
+**SOURCE / SCAN / STORY INVENTORY COMPLETE. STORIES 1–3 WITNESS WORK CLOSED.**
 
 - stories inventoried: **6/6**
 - new canonical candidates: **0**
 - existing-canonical witness routes: **6/6**
-- witness comparisons completed: **2/6**
+- witness comparisons completed: **3/6**
 
 ### Story 1 — `வாழ முடியாதவர்கள்`
 
 **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL.**
 
 - scans inspected: **10/10**
-- substantially readable: **8/10**
 - localized loss: **scan 12**
 - severe loss: **scans 14–15**
 - missing 1950 text reconstructed: **No**
 - canonical Tamil / English changed: **No / No**
 - canonical-recheck candidates: **1** — 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
 
-Witness records:
-
-- `stories/vazha-mudiyathavargal/witnesses/1950-vazha-mudiyathavargal/README.md`
-- `stories/vazha-mudiyathavargal/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
-
 ### Story 2 — `ஒரிஜினலில் உள்ளபடி!`
 
 **CLOSED / PASS — 9/9.**
 
-- scans inspected: **9/9**
-- printed pages: **15–23**
 - narrative structure: **equivalent / complete**
 - material edition variants: **recorded**
 - 1950-only repeated opening instruction: `ஒரிஜினலில் உள்ளபடி போடு.`
-- canonical confirmations: `கிரீடத்தின்`, `நாறு`, `திரெளபதி`, feminine `...இருக்கிறள்`, `பொறும்`
-- layout variants: scan **23** three-star scene divider; scan **24** large centered closing star
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+### Story 3 — `கங்கையின் காதல்`
+
+**CLOSED / PASS — 5/5.**
+
+- scans inspected: **5/5**
+- printed pages: **24–28**
+- narrative structure: **equivalent / complete**
+- localized 1950-only dialogue addition: **1** — `இரண்டு பெண்டாட்டிக்காரன் பாடெல்லாம் இப்படித்தான்...`
+- canonical confirmation: corrected `காளை` identity independently supported
+- notable edition variants: `பூனையைப்போல்` ↔ `பூனையைப் போன்ற`; `சுற்றுமுற்றும்` ↔ `சற்று முற்றும்`; `அல்லித் தண்டில்` ↔ `அல்வித் தண்டில்`
+- closing layout: large illustrated emblem in 1950 vs floral flourish in 1977
 - canonical-recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
 
 Witness records:
 
-- `stories/originalil-ullapadi/witnesses/1950-vazha-mudiyathavargal/README.md`
-- `stories/originalil-ullapadi/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
+- `stories/gangaiyin-kadhal/witnesses/1950-vazha-mudiyathavargal/README.md`
+- `stories/gangaiyin-kadhal/witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`
 
-Remaining witness stories: **4/6 NOT STARTED**.
+Remaining witness stories: **3/6 NOT STARTED**.
 
 ## Exact next activity
 
-Process Story 3, `கங்கையின் காதல்`, as an earlier-edition witness:
+Process Story 4, `கண்டதும் காதல் ஒழிக!`, as an earlier-edition witness:
 
-- 1950 scans **25–29**
-- printed pages **24–28**
-- **5 physical source pages**
-- target: `stories/gangaiyin-kadhal/`
+- 1950 scans **30–36**
+- printed pages **29–35**
+- **7 physical source pages**
+- target: `stories/kandathum-kadhal-ozhiga/`
 - compare direct 1950 source pixels against the verified canonical by text anchors
 - preserve genuine wording, morphology, orthography, punctuation and layout differences
 - do not alter canonical Tamil or English from witness evidence alone
 - record a canonical-recheck candidate only if the witness exposes a likely canonical defect
 
-Do not begin Story 4 in the same activity unless explicitly requested.
+Do not begin Story 5 in the same activity unless explicitly requested.
