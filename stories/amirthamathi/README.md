@@ -65,6 +65,20 @@ The quoted verse on scan 236 was retained source-close after enlarged full-span 
 - scan **239** visibly opens Story 35 `சுமந்தவள்`;
 - Story 35 text included here: **No**.
 
+## Additional edition witness — 1969
+
+The 1969 second-edition `கண்ணடக்கம்` witness, scans **32–41 / printed 53–62**, is **COMPARISON COMPLETE / PASS — 10/10 scans**.
+
+- witness: [README](witnesses/1969-kannadakkam/README.md)
+- variant ledger: [VARIANT_COMPARISON.md](witnesses/1969-kannadakkam/VARIANT_COMPARISON.md)
+- narrative / embedded `யசோதர காவியம்` structure: **equivalent**
+- major added / omitted blocks: **0**
+- 1977 ten historical-glyph repair identities: **independently supported**
+- scan-236 quoted verse lexical sequence: **independently supported**
+- notable edition differences include `யசோதரா காவியம்`, `பூரிப்பு கண்டு`, `நையப் புடைத்து`, `விலாவிலே`, and final `என்று` against source-close canonical forms
+- canonical Tamil / English / verification status changed: **No**
+- unresolved witness issues: **0**
+
 ## Completion state
 
 **அமிர்தமதி is 2026 CURRENT PASS / CLOSED: Gate A 8/8 + Gate B 8/8, 10 historical-glyph repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 231–238 / printed pages 222–229.

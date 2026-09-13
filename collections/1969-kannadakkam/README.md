@@ -27,7 +27,7 @@ The attached PDF itself is the controlling source for this edition. No external 
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | **comparison COMPLETE / PASS** |
 | 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical** | **TAMIL / SOURCE PASS / CLOSED** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | **comparison COMPLETE / PASS** |
-| 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | **comparison witness NEXT** |
+| 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | **comparison COMPLETE / PASS** |
 
 * Scan 32 is the story-opening page; scan 33 visibly carries printed folio **54**, so the opening is structurally inferred as printed page **53**.
 
@@ -116,11 +116,35 @@ The collection itself remains **PHYSICAL COMPLETENESS OPEN** because printed pag
 - canonical Tamil / English / status changed: **No**
 - witness unresolved issues: **0**
 
+## 1969 `அமிர்தமதி` witness result
+
+**COMPLETE / PASS — 10/10 scans reviewed.**
+
+- witness workspace: `stories/amirthamathi/witnesses/1969-kannadakkam/`
+- complete narrative / embedded-caveat structure: **equivalent**
+- major added / missing blocks: **0**
+- 1977 ten historical-glyph repair identities: **independently supported**
+- scan-236 quoted verse lexical sequence: **independently supported**
+- material edition variants recorded without changing the canonical
+- scan 41 ending: **PASS**
+- scan 42 advertisement/back-matter boundary: **PASS**
+- canonical Tamil / English / status changed: **No**
+- witness unresolved issues: **0**
+
+## Visible-source disposition
+
+All four **visible** story blocks in the supplied 1969 PDF are now dispositioned:
+
+1. `கண்ணடக்கம்` — comparison **CLOSED / PASS**
+2. `நெருப்பு` — new canonical Tamil/source **CLOSED / PASS**
+3. `வேணியின் காதலன்` — comparison **CLOSED / PASS**
+4. `அமிர்தமதி` — comparison **CLOSED / PASS**
+
+The physical collection itself remains **OPEN / INCOMPLETE** because printed pages **31–52 (22 pages)** are absent. No missing title, text or boundary is inferred.
+
 ## Exact next activity
 
-Begin the **1969 `அமிர்தமதி` comparison-only witness audit**, scans **32–41 / printed pages 53–62**, against the existing 1977 canonical `stories/amirthamathi/`.
-
-Use/create `stories/amirthamathi/witnesses/1969-kannadakkam/`. Do not create duplicate Tamil or English layers, and do not alter the 1977 canonical from witness evidence alone.
+**No further source-dependent 1969 story processing is possible from the supplied PDF.** Maintain the collection on a **source-completeness hold** until printed pages **31–52** are supplied or independently resolved.
 
 
 P3 scans **21–24 / printed 20–23**:
