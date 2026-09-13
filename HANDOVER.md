@@ -15,6 +15,120 @@
 - 1982 `முடியாத தொடர்கதை`: **Tamil/source + English CLOSED**
 - 2004, 2008, 2009 and the completed supplemental English layers remain closed under their collection trackers.
 
+## Active source — 1950 `வாழமுடியாதவர்கள்`
+
+Controlling attached source:
+
+`TVA_BOK_0064034_வாழமுடியாதவர்கள்.pdf`
+
+Collection workspace:
+
+`collections/1950-vazha-mudiyathavargal/`
+
+Source identity:
+
+- bytes: **89,680,849**
+- SHA-256: **`9fdc7a7049b74291047bb3212bb48851a8e6eb483d3f7e8ed3bc6f4ce016654e`**
+- physical scans: **64**
+- source type: **image-only; direct scan pixels control**
+- title: **வாழமுடியாதவர்கள்**
+- author: **மு. கருணாநிதி**
+- publisher: **முன்னேற்றப் பண்ணை, சென்னை-1**
+- visible date anchor: **மதிப்புரை signed சென்னை 1-1-50 by இரா. நெடுஞ்செழியன்**
+- explicit edition statement: **not visible**
+- source PDF committed: **No**
+
+Front matter:
+
+- scan 1 — cover
+- scan 2 — title / author / publisher
+- scan 3 — rights / price / printer
+- scans 4–5 — `மதிப்புரை`
+- no printed TOC
+- scan 64 — advertisement/back matter
+
+Story pagination:
+
+- scans **6–63**
+- printed pages **5–62**
+- relation: **scan = printed page + 1**
+
+Physical limitations:
+
+- scans **14–15** — severe paper loss; substantial Story-1 text physically missing
+- scan **37** — story-heading region damaged
+- never reconstruct missing 1950 text from later editions
+
+Inventory — **6/6 COMPLETE**:
+
+1. `வாழ முடியாதவர்கள்` — scans **6–15 / printed 5–14** — existing canonical witness
+2. `ஒரிஜினலில் உள்ளபடி!` — scans **16–24 / printed 15–23** — existing canonical witness
+3. `கங்கையின் காதல்` — scans **25–29 / printed 24–28** — existing canonical witness
+4. `கண்டதும் காதல் ஒழிக!` — scans **30–36 / printed 29–35** — existing canonical witness
+5. damaged heading; work identity `ஏழை` — scans **37–41 / printed 36–40** — existing canonical witness
+6. `பிள்ளையோ பிள்ளை!` — scans **42–63 / printed 41–62** — same underlying work as canonical `பெற்ற பிள்ளையை விற்ற தாய்`; preserve source-specific title
+
+Current state:
+
+- source registration: **COMPLETE**
+- story inventory: **6/6 COMPLETE**
+- new canonical stories: **0**
+- witness comparisons started: **0/6**
+- canonical Tamil/English changes: **0 / 0**
+
+## Queued source — 1953 `தப்பிவிட்டார்கள்`
+
+Controlling attached source:
+
+`TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
+
+Collection workspace:
+
+`collections/1953-thappivittargal/`
+
+Source identity:
+
+- bytes: **50,916,676**
+- SHA-256: **`435a2e8afbf036bce7daff27283722050ca9e03b92cd2dbb077dea339447a36b`**
+- physical scans: **34**
+- edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
+- publisher: **திராவிடன் பதிப்பகம், வேலூர் (வ. ஆ.)**
+- source type: **image-only**
+- source PDF committed: **No**
+
+Story pagination:
+
+- scans **7–34**
+- printed pages **5–32**
+- relation: **scan = printed page + 2**
+
+Inventory — **4/4 COMPLETE**:
+
+1. `தப்பிவிட்டார்கள்` — scans **7–15 / printed 5–13** — existing canonical witness
+2. `சபலம்` — scans **16–23 / printed 14–21** — existing canonical witness
+3. `விலையால் வாங்கலையோ` — scans **24–31 / printed 22–29** — **new-canonical candidate**
+4. `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — existing canonical witness
+
+Fresh repository-wide assembled-section checks found no duplicate for `விலையால் வாங்கலையோ`; repeat the duplicate check immediately before activation.
+
+## Exact next activity — current
+
+Process the active 1950 Story 1 witness:
+
+- title: **`வாழ முடியாதவர்கள்`**
+- 1950 scans: **6–15**
+- printed pages: **5–14**
+- total: **10 physical source pages**
+- target canonical: `stories/vazha-mudiyathavargal/`
+- controlling canonical source remains the verified 1977 edition
+- compare direct 1950 pixels by text anchors
+- document lexical / morphology / punctuation / structural variants
+- scans 14–15 have severe physical loss; do **not** reconstruct missing 1950 wording
+- any possible canonical defect exposed by the witness becomes a recheck candidate only
+- stop after scan 15
+
+Do not begin Story 2 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+
 ## Closed source — 1956 `தாய்மை`
 
 Controlling attached source: `TVA_BOK_0064112_தாய்மை.pdf`.
