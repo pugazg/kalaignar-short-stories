@@ -38,7 +38,7 @@ Workspace: `stories/neruppu/`
 - story range: scans **11–24 / printed 10–23**
 - page records: **14/14**
 - Stage 1 first-pass: **10/14**
-- Stage 2 visual fidelity: **5/14**
+- Stage 2 visual fidelity: **10/14**
 - Stage 3 historical glyph: **5/14**
 - Stage 4 final check: **5/14**
 - verified: **5/14**
@@ -59,10 +59,12 @@ Workspace: `stories/neruppu/`
 ### P2 — scans 16–20 / printed 15–19
 
 - Stage 1 first-pass: **COMPLETE 5/5**
+- Stage 2 visual fidelity: **COMPLETE / PASS 5/5**
+- Stage-2 source-proven corrections: **6**
+- Stage-1 source-sensitive queue resolved: **6/6**
+- Stage-2 unresolved ordinary fidelity issues: **0**
 - pages: **`needs-review` 5/5**
-- explicit P2 Stage-2 queue: **6 locations**
-- Stage 2: **NEXT**
-- Stage 3: not started
+- Stage 3 historical glyph: **NEXT**
 - Stage 4: not started
 - blocked: **0**
 
@@ -75,6 +77,6 @@ Workspace: `stories/neruppu/`
 
 ## Exact next activity
 
-**`நெருப்பு` P2 Stage 2 — visual text-fidelity audit, scans 16–20 / printed 15–19.**
+**`நெருப்பு` P2 Stage 3 — historical Tamil glyph audit, scans 16–20 / printed 15–19.**
 
-Compare the committed P2 first-pass text against the same five source scans line-by-line / phrase-by-phrase, resolve/refine the six queued readings where source evidence permits, correct source-proven fidelity issues, synchronize controls, commit, and stop before Stage 3.
+Systematically check the mandatory historical Tamil glyph families against the same five source scans, correct only source-proven character-identity errors, synchronize controls, commit, and stop before Stage 4.

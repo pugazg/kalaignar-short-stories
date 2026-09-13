@@ -4,36 +4,33 @@ This is a human/source-sensitive review queue, not a list of confirmed errors.
 
 ## P1 final disposition — scans 11–15
 
-All seven Stage-1 ordinary text-fidelity candidates were resolved in Stage 2. P1 then completed the historical-glyph and final independent checks.
+P1 completed all four gates and remains **verified 5/5**.
 
 - Stage-2 unresolved ordinary fidelity issues: **0**
-- Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- final Stage-4 source-fidelity corrections: **6**
-- interim 16-correction disposition: **SUPERSEDED; 12 over-corrections reverted**
-- final unresolved queue: **0**
-- P1 page status: **`verified` 5/5**
+- Stage-4 final unresolved issues: **0**
 
-The durable P1 detail remains in `VISUAL_FIDELITY_AUDIT.md`, `HISTORICAL_GLYPH_GATE.md`, and `FINAL_SOURCE_CHECK.md`.
+Durable detail: `VISUAL_FIDELITY_AUDIT.md`, `HISTORICAL_GLYPH_GATE.md`, and `FINAL_SOURCE_CHECK.md`.
 
-## P2 Stage 1 queue — scans 16–20
+## P2 Stage 2 disposition — scans 16–20
 
-These are deliberately queued for P2 Stage 2 rather than silently normalized at first pass.
+All six P2 Stage-1 source-sensitive queue entries were rechecked against the attached controlling source.
 
-| Scan | Printed | First-pass reading / location | Why queued | Next gate |
-|---:|---:|---|---|---|
-| 16 | 15 | `மன துக்குள்` | exact source sandhi / word boundary needs line-level recheck | P2 Stage 2 |
-| 16 | 15 | `அற்ப எண்ணங்களை அலைய விடுகிறோம்` | exact source case / spacing needs line-level recheck | P2 Stage 2 |
-| 17 | 16 | `நிர்வாணமாகவே` | source typography visually separates the compound; verify exact printed boundary | P2 Stage 2 |
-| 17 | 16 | `ஆசைப்பட்ட வில்லையா` | apparent source spacing retained; verify auxiliary boundary | P2 Stage 2 |
-| 18 | 17 | second `மார்கழித்திருநாள்` | apparent joined form retained; verify printed word boundary | P2 Stage 2 |
-| 20 | 19 | `அவர்களைக் காசம் பற்றிக்கொண்டது` | unusual apparent source wording; verify lexically rather than normalize | P2 Stage 2 |
+| Scan | Stage-1 candidate | Stage-2 disposition |
+|---:|---|---|
+| 16 | `மன துக்குள்` | **corrected** to source `மனதுக்குள்` |
+| 16 | `அற்ப எண்ணங்களை அலைய விடுகிறோம்` | **confirmed** |
+| 17 | `நிர்வாணமாகவே` | **confirmed**; printed line break splits the lexical word |
+| 17 | `ஆசைப்பட்ட வில்லையா` | **confirmed** with separated negative auxiliary |
+| 18 | second `மார்கழித்திருநாள்` | **confirmed** as one lexical word across the printed line break |
+| 20 | `அவர்களைக் காசம் பற்றிக்கொண்டது` | **confirmed exactly**; preserve unusual source wording |
+
+Additional source-proven P2 Stage-2 corrections found during the complete-page audit are recorded in `VISUAL_FIDELITY_AUDIT.md`.
 
 ## Current queue
 
 - P1 unresolved: **0**
-- P2 Stage-1 queued checks: **6**
-- P2 pages awaiting Stage 2: **5/5**
-- P2 Stage 3: **not started**
-- P2 Stage 4: **not started**
+- P2 ordinary Stage-2 unresolved: **0**
+- P2 pages awaiting Stage 3 historical-glyph audit: **5/5**
+- P2 Stage 4: not started
 - no modernization or global replacement has been applied.

@@ -9,7 +9,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - source intake: **PASS**
 - page records initialized: **14/14**
 - Stage 1 first-pass transcription: **10/14**
-- Stage 2 visual text fidelity: **5/14**
+- Stage 2 visual text fidelity: **10/14**
 - Stage 3 historical-glyph audit: **5/14**
 - Stage 4 final independent check: **5/14**
 - verified pages: **5/14**
@@ -17,12 +17,12 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - not-started: **4/14**
 - blocked: **0**
 - Stage-2 unresolved ordinary fidelity issues in closed P1: **0**
-- P2 Stage-1 review queue: **6 source-sensitive locations**
+- P2 Stage-2 unresolved ordinary fidelity issues: **0**
 
 | Batch | Scans / printed pages | Stage 1 first-pass | Stage 2 visual fidelity | Stage 3 glyph | Stage 4 final | Final status |
 |---|---|---|---|---|---|---|
 | P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | `verified` |
-| P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **NEXT** | not started | not started | `needs-review` |
+| P2 | 16–20 / 15–19 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | not started | `needs-review` |
 | P3 | 21–24 / 20–23 | not started | not started | not started | not started | `not-started` |
 
 ## P1 durable result
@@ -58,8 +58,21 @@ Scans **16–20 / printed pages 15–19** were transcribed directly from the att
 
 The six queued P2 checks are tracked in `POSSIBLE_ERRORS_FOR_REVIEW.md`.
 
+## P2 Stage 2 result
+
+- pages visually source-checked: **5/5**
+- source-proven ordinary fidelity corrections: **6**
+- P2 Stage-1 queued locations resolved: **6/6**
+- omissions / duplications found after correction: **0**
+- paragraph / dialogue / page-continuation unresolved issues: **0**
+- Stage-2 unresolved ordinary fidelity issues: **0**
+- pages remain `needs-review`
+- Stage 3/4 were not mixed into this activity
+
+Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-**P2 Stage 2 — visual text-fidelity audit, scans 16–20 / printed pages 15–19.**
+**P2 Stage 3 — historical Tamil glyph audit, scans 16–20 / printed pages 15–19.**
 
-Reopen the same five source scans and compare the committed P2 text line-by-line / phrase-by-phrase. Resolve or refine the six queued source-sensitive locations where the pixels support a decision; correct omissions, duplication, punctuation, paragraph/dialogue boundaries and page-continuation errors; synchronize controls; commit; and stop before Stage 3.
+Systematically check the mandatory historical-glyph families against the same five controlling scans, correct only source-proven character-identity errors, synchronize controls, commit, and stop before Stage 4.

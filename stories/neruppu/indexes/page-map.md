@@ -10,11 +10,11 @@ Story range: scans **11–24 / printed pages 10–23** — **14 physical pages**
 | 13 | 12 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 14 | 13 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
 | 15 | 14 | story | `verified` | **P1 Stage 4 COMPLETE / PASS — VERIFIED** |
-| 16 | 15 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
-| 17 | 16 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
-| 18 | 17 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
-| 19 | 18 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
-| 20 | 19 | story | `needs-review` | **P2 Stage 1 COMPLETE — Stage 2 NEXT** |
+| 16 | 15 | story | `needs-review` | **P2 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
+| 17 | 16 | story | `needs-review` | **P2 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
+| 18 | 17 | story | `needs-review` | **P2 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
+| 19 | 18 | story | `needs-review` | **P2 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
+| 20 | 19 | story | `needs-review` | **P2 Stage 2 COMPLETE / PASS — Stage 3 NEXT** |
 | 21 | 20 | story | `not-started` | not transcribed |
 | 22 | 21 | story | `not-started` | not transcribed |
 | 23 | 22 | story | `not-started` | not transcribed |
@@ -26,7 +26,7 @@ Current totals:
 
 - page records: **14/14 initialized**
 - Stage 1 first-pass transcription: **10/14**
-- Stage 2 visual text fidelity: **5/14**
+- Stage 2 visual text fidelity: **10/14**
 - Stage 3 historical-glyph audit: **5/14**
 - Stage 4 final check: **5/14**
 - verified: **5**
@@ -34,7 +34,7 @@ Current totals:
 - not-started: **4**
 - blocked: **0**
 - P1 final unresolved issues: **0**
-- P2 Stage-1 source-sensitive review locations: **6**
-- P2 confirmed errors at Stage 1: **0**
+- P2 Stage-2 source-proven corrections: **6**
+- P2 Stage-2 unresolved ordinary fidelity issues: **0**
 
-Next: **P2 Stage 2 visual text-fidelity audit — scans 16–20 / printed pages 15–19**.
+Next: **P2 Stage 3 historical Tamil glyph audit — scans 16–20 / printed pages 15–19**.

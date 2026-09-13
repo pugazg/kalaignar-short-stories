@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 first-pass direct visual transcription from controlling scan"
+transcription_method: "Stage 1 first-pass + Stage 2 visual text-fidelity audit against controlling scan"
 ---
 
 மாசுபடிந்த ஒரு மாதாவின் வயிற்றிலேதான் பிறந்தேன். தாய் செய்த குற்றம் என் தலைமீது விழுந்து எனக்குத் தாலி கட்ட யாருமே முன் வராதபோது தாங்கள் வந்தீர்கள்; தெய்வம்போல! தேன் மணக்கும் வாழ்விலே என்றுதான் நம்பினேன். தீக்காடு சூழுமென்று எதிர்பார்க்கவில்லை. என்னைச் சந்தேகப்பட்டுத் தெளிவற்ற நிலையில் எதையும் தீர விசாரிக்காமல் போய்விட்டீர்கள். எங்கு போனீர்கள் என்றே தெரியாமல் தவித்தோம்.
@@ -20,10 +20,11 @@ transcription_method: "Stage 1 first-pass direct visual transcription from contr
 
 “பூபதிக்கு இணங்கிவிடடி என் கண்ணே!” என்று தாடையைப் பிடித்துத் தாய் கெஞ்சினாள் தன் நோயைப்
 
-## Stage 1 review notes
+## Stage 2 visual-fidelity notes
 
-- `அவர்களைக் காசம் பற்றிக்கொண்டது` — unusual but apparent source wording; preserve and verify lexically in Stage 2 rather than normalize.
-- the letter and final sentence intentionally continue into scan 21.
-- No P2 Stage-2 visual-fidelity audit, Stage-3 historical-glyph audit, or Stage-4 final check has yet been performed.
+- `அவர்களைக் காசம் பற்றிக்கொண்டது` — **confirmed exactly from source**; preserve the unusual wording;
+- no source-proven prose correction was required on this page;
+- the open letter and final sentence continuing into scan 21 were source-checked and retained;
+- Stage 2: **COMPLETE / PASS**; page remains `needs-review` pending Stage 3 historical-glyph audit.
 
 <!-- மூல ஸ்கேன் பக்கம்: 20; அச்சுப் பக்கம்: 19 -->
