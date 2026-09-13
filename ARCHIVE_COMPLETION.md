@@ -215,8 +215,9 @@ Workspace: `stories/neruppu/`.
 - `கண்ணடக்கம்` scans **4–10 / printed 3–9** — **COMPLETE / PASS, 7/7 scans**
   - same narrative and eye-hospital ending;
   - no major added / omitted block;
-  - canonical Tamil / English / verified status changed: **No**;
-  - high-value recheck evidence: 1969 `வாளை மீனுக்கோ` and the registered 2009 witness both differ from canonical `வான மீனுக்கோ`;
+  - direct recheck of exact 1977 scan 166 confirms **`வாளை மீனுக்கோ`**, matching both 1969 and 2009 witnesses;
+  - former canonical `வான மீனுக்கோ` was corrected only after the controlling 1977 scan was reopened;
+  - canonical English was synchronized to **“vaalai fish in the river”**;
   - current canonical `துணி ஏணை` and `நமனுலகு` independently supported;
   - unresolved witness issues: **0**.
 - `வேணியின் காதலன்` scans **25–31 / printed 24–30** — **COMPLETE / PASS, 7/7 scans**
@@ -255,3 +256,19 @@ Result:
 - no automatic next activity remains for this collection.
 
 Do not infer missing story identities or reconstruct absent text from other editions.
+
+
+### Post-closure canonical source correction — `கண்ணடக்கம்` scan 166
+
+A fresh enlarged recheck of the exact 1977 controlling source confirms:
+
+**`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**
+
+The previous canonical `வான மீனுக்கோ` was a historical-`ளை` transcription error. The 1969 and 2009 witnesses independently agree with the corrected reading.
+
+- Story 24 source-proven repairs: **10**
+- canonical Tamil: **synchronized**
+- canonical English: **synchronized**
+- English affected phrase: **“vaalai fish in the river”**
+- unresolved source issues: **0**
+- Story 24 remains **CURRENT PASS / CLOSED**

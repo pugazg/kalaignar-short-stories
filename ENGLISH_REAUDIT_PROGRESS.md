@@ -21,6 +21,7 @@ Existing English translation state remains **37/37 complete**. This tracker reco
 - E4 English-quality repairs: **49** (11 in Stories 1–13; 14 in Stories 14–26; 24 in Stories 27–37)
 - unresolved English re-audit issues: **0**
 - exact next activity: **NONE — 1977 English post-Tamil re-audit CLOSED**
+- post-E5 source synchronization: **Story 24 `கண்ணடக்கம்` — 1 source-driven English phrase repair; targeted E1–E5 revalidation PASS**
 
 | # | Story | Printed | Scans | E1 | E2 | E3 | E4 | E5 |
 |---:|---|---:|---:|---|---|---|---|---|
@@ -554,3 +555,24 @@ Cumulative repair totals remain:
 - unresolved English re-audit issues: **0**.
 
 No routine activity remains in this five-gate programme.
+
+
+## Post-E5 controlling-source synchronization — Story 24 `கண்ணடக்கம்`
+
+After programme closure, the exact 1977 controlling scan **166 / printed 157** was freshly reopened at enlarged resolution and confirmed **`வாளை மீனுக்கோ`**, not the prior canonical `வான மீனுக்கோ`.
+
+Dependent English was synchronized:
+
+- old: **“sky-fish reflected in the river”**
+- current: **“vaalai fish in the river”**
+
+Targeted revalidation after this source-driven correction:
+
+- E1 page anchoring: **PASS / unchanged**
+- E2 meaning fidelity: **PASS**
+- E3 terminology/cultural consistency: **PASS**
+- E4 English quality: **PASS**
+- E5 final bilingual approval: **PASS**
+- unresolved issues: **0**
+
+The historical programme aggregate **E2 repairs = 12** is retained because this repair occurred **after E5 closure as a direct controlling-source synchronization**, not during the original E2 programme.
