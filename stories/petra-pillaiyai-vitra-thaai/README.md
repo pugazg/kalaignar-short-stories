@@ -30,6 +30,26 @@ Canonical story workspace for **`பெற்ற பிள்ளையை வி
 
 The verified Tamil/source layer is frozen under the current controlling source. Source-odd forms such as `முருங்கை மிலார்`, `தெரியாத்தனம்`, `இலவுக்காத்தக் கிளி`, and the printed குறள் wording remain source-faithful and were not modernized for English.
 
+## 1950 title-variant / earlier-edition witness
+
+**CLOSED / PASS — 22/22 physical witness scans.**
+
+- witness source title: **`பிள்ளையோ பிள்ளை!`**
+- witness source: `TVA_BOK_0064034_வாழமுடியாதவர்கள்.pdf`
+- witness span: scans **42–63 / printed 41–62**
+- witness workspace: [`witnesses/1950-vazha-mudiyathavargal/`](witnesses/1950-vazha-mudiyathavargal/)
+- same underlying work: **CONFIRMED by full narrative alignment**
+- title variant preserved: **Yes**
+- narrative architecture: **equivalent**
+- major added / omitted narrative blocks: **0**
+- material edition variants: **recorded**
+- structural differences include a centered section `2`, differing star dividers, and a different closing device
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`](witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md)
+
+High-value earlier readings include `குழலினிது யாழ் இனிது`, `ஆண்டவன் தலையில் பாரத்தைப் போட்டவில்லை`, and `மளிகைக் கடையில்`, against the source-verified 1982 forms. Because the 1982 canonical already passed a separate 22/22 final source/visual closure, these remain edition evidence and do not reopen the canonical text.
+
 ## English state
 
 **PASS / COMPLETE.**
