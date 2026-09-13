@@ -52,7 +52,7 @@ Read before work:
 
 Canonical target remains the verified 1977 story at `stories/thaaymai/`.
 
-Completed comparison:
+Completed comparison — **8/16 witness scans**:
 
 - 1956 scans **7–10 / printed 5–8** — **COMPLETE / PASS 4/4**
 - 1956 scans **11–14 / printed 9–12** — **COMPLETE / PASS 4/4**
