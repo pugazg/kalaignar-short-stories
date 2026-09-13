@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1956 `தாய்மை` witness / scans 11–14
+# NEXT CHAT PROMPT — 1956 `தாய்மை` witness / scans 15–18
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -55,8 +55,10 @@ Canonical target remains the verified 1977 story at `stories/thaaymai/`.
 Completed comparison:
 
 - 1956 scans **7–10 / printed 5–8** — **COMPLETE / PASS 4/4**
+- 1956 scans **11–14 / printed 9–12** — **COMPLETE / PASS 4/4**
 - narrative structure: **equivalent in reviewed span**
-- material variant: 1956 `அரசின் மஞ்சத்து ராணியாக` ↔ canonical `அரசரின் மஞ்சத்து ராணியாக`
+- material variants recorded through scan 14: **4 high-value wording/morphology variants**
+- 1956 scan 13 independently confirms canonical `ஆயிரந்தேர்`
 - routine spacing/punctuation variants recorded
 - canonical Tamil changes: **0**
 - canonical English changes: **0**
@@ -64,7 +66,7 @@ Completed comparison:
 
 ## Exact next activity
 
-Compare **1956 scans 11–14 / printed pages 9–12** against the verified 1977 canonical `தாய்மை`.
+Compare **1956 scans 15–18 / printed pages 13–16** against the verified 1977 canonical `தாய்மை`.
 
 Rules:
 
@@ -75,4 +77,4 @@ Rules:
 5. Do not change the canonical 1977 Tamil solely because the 1956 witness differs.
 6. If the witness exposes a plausible canonical defect, record a **canonical-recheck candidate**; canonical repair requires direct recheck of the 1977 controlling scan.
 7. Update witness README / variant comparison / collection trackers / root handover.
-8. Stop after scans 11–14. Do not begin `ஆட்டக் காவடி`.
+8. Stop after scans 15–18. Do not begin `ஆட்டக் காவடி`.
