@@ -28,6 +28,23 @@ Page map: [`indexes/page-map.md`](indexes/page-map.md).
 Audit: [`audit.md`](audit.md).  
 Closed possible-error queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md).
 
+## 1950 earlier-edition witness
+
+**COMPARISON COMPLETE / PASS — 5/5.**
+
+- witness workspace: [`witnesses/1950-vazha-mudiyathavargal/`](witnesses/1950-vazha-mudiyathavargal/)
+- source: `TVA_BOK_0064034_வாழமுடியாதவர்கள்.pdf`
+- witness span: scans **25–29 / printed 24–28**
+- narrative structure: **equivalent / complete**
+- localized 1950-only dialogue addition: **1** — `இரண்டு பெண்டாட்டிக்காரன் பாடெல்லாம் இப்படித்தான்...`
+- 1950 independently supports corrected `காளை` character identity
+- material edition variants: **recorded**
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`](witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md)
+
+The verified 1977 edition remains controlling. Smoother 1950 forms such as `சுற்றுமுற்றும்` and `அல்லித் தண்டில்` are retained as edition variants because the unusual 1977 readings were already directly source-verified.
+
 ## Tamil / visual layer
 
 Canonical Tamil assembly: [`sections/gangaiyin-kadhal.md`](sections/gangaiyin-kadhal.md).
