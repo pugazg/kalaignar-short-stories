@@ -14,6 +14,27 @@ Canonical story workspace for **ஆட்டக்காவடி**, processed f
 
 Full source metadata: [`metadata/source.md`](metadata/source.md).
 
+## Additional witness — 1956 `தாய்மை`
+
+Earlier-edition witness comparison is active under:
+
+- `witnesses/1956-thaaymai/README.md`
+- `witnesses/1956-thaaymai/VARIANT_COMPARISON.md`
+
+Current witness state:
+
+- 1956 title form: **ஆட்டக் காவடி**
+- witness scans **23–33 / printed 21–31**
+- reviewed: **6/11 scans — scans 23–28 / printed 21–26**
+- narrative structure in reviewed span: **equivalent**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- unresolved witness readings: **0**
+- canonical-recheck candidate open: **1 — 1956 `நாளெல்லாம் பாடுபட்டாலும்` vs current 1977 `நாவெல்லாம் பாடுபட்டாலும்`**
+- exact next: scans **29–33 / printed 27–31**.
+
+The candidate is not a canonical repair. The exact 1977 controlling scan must be reopened before any change.
+
 ## 2026 dual-gate re-audit
 
 **CURRENT PASS / CLOSED — Gate A 8/8 PASS + Gate B 8/8 PASS; 7 source-proven repairs; 0 unresolved source readings; 0 unresolved historical-glyph readings.**
