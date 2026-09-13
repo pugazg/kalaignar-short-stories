@@ -15,7 +15,7 @@
 
 - Gate A — source fidelity: **PASS — 7/7**
 - Gate B — independent Old Tamil Glyph verification: **PASS — 7/7**
-- source-proven repairs: **9**
+- source-proven repairs: **10**
 - unresolved source readings: **0**
 - unresolved historical-glyph readings: **0**
 - possible-error queue: **0 pending / 0 unresolved**
@@ -51,18 +51,19 @@ Each scan 166–172 was independently reopened at native/high resolution and exp
 
 plus old ligatures, faint vowel marks and `ர/ற`, `ன/ண`, `ல/ள` confusions.
 
-Two historical-family repairs were required:
+Three historical-family repairs were required:
 
-1. scan 167 / printed 158: legacy `துணி ஏண்` → source identity **`துணி ஏணை`** — historical `ணை`;
-2. scan 168 / printed 159: legacy `நானு?` → source identity **`நானா?`** — historical `னா`.
+1. scan 166 / printed 157: legacy `ஆற்றில் தெரியும் வான மீனுக்கோ` → source identity **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`** — historical `ளை`; direct enlarged controlling-scan recheck confirms `வாளை`;
+2. scan 167 / printed 158: legacy `துணி ஏண்` → source identity **`துணி ஏணை`** — historical `ணை`;
+3. scan 168 / printed 159: legacy `நானு?` → source identity **`நானா?`** — historical `னா`.
 
 Other visibly old/literary forms, including `திரும்பினன்`, `கத்தினன்`, `தாவினன்`, `கூவினன்`, `பதறினன்`, and `பேசினள்`, were retained because the controlling pixels support those forms; they are not silently modernized.
 
 ## Total repair count
 
 - Gate A source wording/spacing: **7**
-- Gate B historical-glyph identity: **2**
-- **Total: 9**
+- Gate B historical-glyph identity: **3**
+- **Total: 10**
 
 No global replacement or lexical modernization was used. Every repair is tied to a directly reopened source location.
 
@@ -76,8 +77,9 @@ No global replacement or lexical modernization was used. Every repair is tied to
 
 ## English synchronization
 
-The corrected source layer required six English phrase-level synchronizations:
+The corrected source layer required seven English phrase-level synchronizations:
 
+- `வாளை மீனுக்கோ`: erroneous **sky-fish reflected in the river** → source-faithful **vaalai fish in the river**;
 - `துணி ஏணை`: opaque legacy **thuni-en** → **cloth cradle**;
 - `சூறை`: “trouble” → **havoc** in both the devotee's line and Kali's echo;
 - `மாளுகின்ற மக்களை`: opaque transliteration → **people who are dying**;
@@ -89,3 +91,14 @@ The `நானா?`, `விக்ரகத்தின்`, and spacing repairs
 ## Closure
 
 Page records 167, 168, 170, 171 and 172, assembled Tamil, audit, possible-error queue, README, source metadata, page map, visual-fidelity record, English translation and translation review are synchronized. Story 24 is **CURRENT PASS / CLOSED** and must not be reopened from a stale prompt without genuinely new direct source evidence.
+
+
+## Post-closure direct-source correction — scan 166
+
+A later user challenge triggered a fresh enlarged recheck of the exact 1977 controlling scan **166 / printed 157**. The source clearly reads:
+
+**`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**
+
+not `வான மீனுக்கோ`.
+
+The 1969 and 2009 witnesses both independently carry the same `வாளை` reading. The canonical page record, assembled Tamil and English translation are now synchronized. This is a direct controlling-source repair, not a witness-only import.

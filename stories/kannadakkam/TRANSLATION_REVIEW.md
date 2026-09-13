@@ -70,7 +70,7 @@ Notable conservative choices include:
 
 ## Source issues reopened during 2026 re-audit
 
-The later dual-gate source audit corrected nine Tamil readings/spacing points. Six English phrase-level synchronizations were required: `துணி ஏணை`, the two `சூறை` occurrences, `மாளுகின்ற`, `ஜில்லிட்ட`, and `நமனுலகு`. The other Tamil repairs do not change the English sense.
+The source audit now records ten Tamil repairs. Seven English phrase-level synchronizations were required: `துணி ஏணை`, the two `சூறை` occurrences, `மாளுகின்ற`, `ஜில்லிட்ட`, and `நமனுலகு`. The other Tamil repairs do not change the English sense.
 
 ## Result
 
@@ -83,8 +83,8 @@ The English file is complete and traceable to the verified Tamil assembly. Canon
 - canonical Tamil: **CURRENT PASS / CLOSED**
 - Gate A: **7/7 PASS**
 - Gate B: **7/7 PASS**
-- source-proven Tamil repairs: **9**
-- English phrase-level synchronizations: **6**
+- source-proven Tamil repairs: **10**
+- English phrase-level synchronizations: **7**
 - unresolved source / historical-glyph readings: **0 / 0**
 
 
@@ -107,7 +107,7 @@ Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remai
 
 **PASS — meaning fidelity.**
 
-The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all nine 2026 repairs, including the six earlier English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
+The complete English was rechecked sentence-by-sentence against the final canonical Tamil and all ten 2026 repairs, including the seven English synchronizations. No new E2 prose repair was required. The devotee's flight past corpses, Kali dialogue, epidemic imagery, silver eye-covering, removal of the kannadakkam and final rationalist irony preserve agency and argument. Source-opaque `பிணக்கொலு` and `silagaigal` remain deliberately conservative for E3; they do not create a proven E2 meaning contradiction.
 
 English repairs: **0**. Tamil/source reopened: **No**. Unresolved E2 issues: **0**.
 
@@ -136,3 +136,15 @@ English-quality repairs: **1**. Tamil changed: **No**. E2/E3 decisions altered: 
 The final Tamil/English pair remains byte-identical to the E4-closed audited content. E5 confirmed **7/7** physical-page traceability, intact story boundaries, synchronized E1–E4 repairs and retained difficult/source-sensitive documentation. No English repair or Tamil/source reopening was required.
 
 E5 English repairs: **0**. Post-E4 content drift: **0**. Unresolved English re-audit issues: **0**. Final result: **PASS**.
+
+
+## Post-E5 controlling-source synchronization — scan 166
+
+A fresh enlarged recheck of the exact 1977 controlling scan **166 / printed 157** confirms **`வாளை மீனுக்கோ`**, not the earlier canonical `வான மீனுக்கோ`.
+
+Synchronized repair:
+
+- Tamil: `ஆற்றில் தெரியும் வான மீனுக்கோ` → **`ஆற்றில் தெரியும் வாளை மீனுக்கோ`**;
+- English: **“sky-fish reflected in the river”** → **“vaalai fish in the river”**.
+
+The page marker remains scan 166 / printed 157; no page-anchor or structural change was required. Targeted bilingual fidelity and final approval were rerun for the affected sentence: **PASS**. Unresolved issues: **0**.
