@@ -39,3 +39,22 @@ Additional source-proven P2 Stage-2 corrections found during the complete-page a
 - P2 final unresolved issues: **0**
 - P2 page status: **`verified` 5/5**
 - no modernization or global replacement has been applied.
+
+
+## P3 Stage 1 queue — scans 21–24
+
+The final four pages now have first-pass transcriptions. These source-sensitive readings are deliberately queued for P3 Stage 2 rather than silently normalized.
+
+| Scan | Printed | First-pass reading / location | Why queued | Next gate |
+|---:|---:|---|---|---|
+| 21 | 20 | `காட்டினை` | exact source inflection needs line-level recheck | P3 Stage 2 |
+| 21 | 20 | `வெள்ளாட்டியானேன்` | unusual lexical reading; preserve pending exact source check | P3 Stage 2 |
+| 21 | 20 | `மலேயாவில் தாங்கள் விலாசத்தையும்` | exact possessive wording needs source recheck | P3 Stage 2 |
+| 22 | 21 | `ஓகோ...அப்படியா?!..ம்...` | unusual punctuation/interjection sequence | P3 Stage 2 |
+| 22 | 21 | `சாற்ற சக்கையாகி` | source-sensitive idiomatic reading/spacing | P3 Stage 2 |
+| 23 | 22 | `காப்பாற்றினையா` | exact lexical / historical-glyph identity needs recheck | P3 Stage 2 |
+| 23 | 22 | `நண்பன்-இனி` | short-hyphen punctuation needs source recheck | P3 Stage 2 |
+| 24 | 23 | `ஓவென அலறினாள்..,` | unusual punctuation sequence | P3 Stage 2 |
+| 24 | 23 | `அணைந்து விட்டன ....` | final ellipsis/spacing needs exact source recheck | P3 Stage 2 |
+
+P3 Stage-1 queued checks: **9**. Confirmed P3 Stage-1 errors: **0**.

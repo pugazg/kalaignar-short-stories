@@ -37,13 +37,13 @@ Workspace: `stories/neruppu/`
 - source intake: **PASS**
 - story range: scans **11–24 / printed 10–23**
 - page records: **14/14**
-- Stage 1 first-pass: **10/14**
+- Stage 1 first-pass: **14/14**
 - Stage 2 visual fidelity: **10/14**
 - Stage 3 historical glyph: **10/14**
 - Stage 4 final check: **10/14**
 - verified: **10/14**
-- needs-review: **0/14**
-- not-started: **4/14**
+- needs-review: **4/14**
+- not-started: **0/14**
 - blocked: **0**
 
 ### P1 — scans 11–15 / printed 10–14
@@ -84,3 +84,21 @@ Workspace: `stories/neruppu/`
 **`நெருப்பு` P3 Stage 1 — first-pass transcription, scans 21–24 / printed 20–23.**
 
 Transcribe the final four story scans from the controlling source only, preserve source spellings/punctuation/spacing and page boundaries, queue genuinely uncertain readings explicitly, synchronize controls, commit, and stop before P3 Stage 2.
+
+
+### P3 — scans 21–24 / printed 20–23
+
+- Stage 1 first-pass: **COMPLETE 4/4**
+- pages: **`needs-review` 4/4**
+- explicit P3 Stage-2 queue: **9 locations**
+- scan 24 story ending + closing ornament: **captured**
+- Stage 2 visual fidelity: **NEXT**
+- Stage 3: not started
+- Stage 4: not started
+- blocked: **0**
+
+## Exact next activity — superseding the earlier pointer
+
+**`நெருப்பு` P3 Stage 2 — visual text-fidelity audit, scans 21–24 / printed 20–23.**
+
+Compare the committed final four pages against the controlling source line-by-line / phrase-by-phrase, resolve/refine the nine queued readings where source evidence permits, correct source-proven fidelity issues, synchronize controls, commit, and stop before Stage 3.

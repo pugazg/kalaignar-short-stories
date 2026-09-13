@@ -6,7 +6,7 @@
 | 2 | — | provenance | ownership / inscription page | front matter |
 | 3 | — | edition | `இரண்டாம் பதிப்பு: 1969`; `விலை ரூ. 1-00` | front matter |
 | 4–10 | 3–9 | story | `கண்ணடக்கம்` | existing canonical witness — pending comparison after `நெருப்பு` closure |
-| 11–24 | 10–23 | story | `நெருப்பு` | **NEW canonical ACTIVE — P1 + P2 verified 10/10; P3 Stage 1 scans 21–24 NEXT** |
+| 11–24 | 10–23 | story | `நெருப்பு` | **NEW canonical ACTIVE — P1 + P2 verified 10/10; P3 Stage 1 COMPLETE 4/4; P3 Stage 2 NEXT** |
 | 25–31 | 24–30 | story | `வேணியின் காதலன்` | existing canonical witness — pending comparison after `நெருப்பு` closure |
 | — | **31–52** | **missing printed span** | no scans supplied | **OPEN source-completeness gap — 22 pages** |
 | 32–41 | 53–62* | story | `அமிர்தமதி` | existing canonical witness — pending comparison after `நெருப்பு` closure |

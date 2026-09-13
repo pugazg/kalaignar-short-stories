@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 + P2 VERIFIED 10/10; P3 NOT STARTED.**
+**SOURCE INTAKE PASS / P1 + P2 VERIFIED 10/10; P3 STAGE 1 COMPLETE 4/4.**
 
 - no prior canonical `நெருப்பு` workspace or documented alternate-title match was found at activation;
 - scan 11 opens with **நெருப்பு**;
@@ -48,13 +48,13 @@ Default batch size: **5 physical scans**.
 ## Current state
 
 - page records: **14 / 14 initialized**
-- Stage 1 first-pass: **10 / 14**
+- Stage 1 first-pass: **14 / 14**
 - Stage 2 visual fidelity: **10 / 14**
 - Stage 3 historical glyph: **10 / 14**
 - Stage 4 final check: **10 / 14**
 - verified: **10 / 14**
-- needs-review: **0 / 14**
-- not-started: **4 / 14**
+- needs-review: **4 / 14**
+- not-started: **0 / 14**
 - blocked: **0**
 - Tamil assembly: **NOT STARTED**
 - English: **BLOCKED until Tamil/source closure**
@@ -94,3 +94,20 @@ Scans **16–20 / printed 15–19**:
 **P3 Stage 1 — first-pass transcription, scans 21–24 / printed pages 20–23.**
 
 Process the final four story pages only, preserve source wording/punctuation/spacing, queue genuinely uncertain readings as `needs-review`, synchronize controls, commit, and stop before Stage 2.
+
+
+## P3 Stage 1 durable result
+
+Scans **21–24 / printed 20–23**:
+
+- first-pass transcription: **COMPLETE 4/4**
+- page state: **`needs-review` 4/4**
+- source-sensitive Stage-2 queue: **9 locations**
+- confirmed Stage-1 errors: **0**
+- scan 24 story-ending boundary + closing ornament: **captured**
+- Stage 2/3/4: **not yet performed**
+- blocked: **0**
+
+## Exact next activity — superseding the earlier pointer
+
+**P3 Stage 2 — visual text-fidelity audit, scans 21–24 / printed pages 20–23.**
