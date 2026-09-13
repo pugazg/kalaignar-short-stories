@@ -71,8 +71,16 @@ Do not create its story folder during intake.
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
 
-## Queue
+## Activation state
 
-This collection is registered and ready, but the current active collection is the earlier 1950 `வாழமுடியாதவர்கள்` witness anthology.
+**NEXT / READY — intake complete; witness work not yet started.**
 
-After that source is dispositioned, begin here with Story 1 `தப்பிவிட்டார்கள்`, scans **7–15 / printed 5–13**, unless the user redirects.
+The preceding 1950 `வாழமுடியாதவர்கள்` witness collection is now closed **6/6**.
+
+Exact next activity:
+
+- Story 1 `தப்பிவிட்டார்கள்`
+- scans **7–15**
+- printed pages **5–13**
+- earlier-edition witness comparison against `stories/thappivittargal/`
+- do not begin Story 2 in the same activity unless explicitly requested
