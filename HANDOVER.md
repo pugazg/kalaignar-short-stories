@@ -15,7 +15,73 @@
 - 1982 `முடியாத தொடர்கதை`: **Tamil/source + English CLOSED**
 - 2004, 2008, 2009 and the completed supplemental English layers remain closed under their collection trackers.
 
-## Active source — 1958 `தேனலைகள்`
+## Active source — 1956 `தாய்மை`
+
+Controlling attached source: `TVA_BOK_0064112_தாய்மை.pdf`.
+
+Collection workspace: `collections/1956-thaaymai/`.
+
+Source identity:
+
+- bytes: **104,030,458**
+- SHA-256: **`b02873fd00b8e7b2afb568d833b07d9541922bddcd0a0600d6ed3ffabc037b78`**
+- physical scans: **87**
+- printed title: **தாய்மை**
+- author: **மு. கருணாநிதி**
+- publisher: **மோகன் பதிப்பகம், சென்னை-5**
+- edition: **முதல் பதிப்பு — மார்ச்சு, 1956**
+- source type: **image-only; direct scan pixels control**
+- source PDF committed: **No**
+
+Front matter:
+
+- scan 1 — cover
+- scan 2 — ownership / provenance page
+- scan 3 — title page
+- scan 4 — edition / price / printer
+- scan 5 — printed contents
+- scan 6 — blank / reverse / show-through
+
+Printed contents / routing:
+
+1. `தாய்மை` — scans **7–22 / printed 5–20** — existing 1977 canonical `stories/thaaymai/`
+2. `ஆட்டக் காவடி` — scans **23–33 / printed 21–31** — existing 1977 canonical `stories/aattakkavadi/`
+3. `நடுத்தெரு நாராயணி` — scans **34–59 / printed 32–57** — existing 1978 canonical in `pugazg/kalaignar-novels`
+4. `அரும்பு` — scans **60–81 / printed 58–79**, then scans **82–87 / printed 82–87** — existing 1978 canonical in `pugazg/kalaignar-novels`
+
+Critical source limitation:
+
+- scan **81** is printed **79**;
+- scan **82** is printed **82**;
+- printed pages **80–81 are absent from the supplied PDF**;
+- do not reconstruct those missing pages from the 1978 witness.
+
+Current active witness:
+
+`stories/thaaymai/witnesses/1956-thaaymai/`
+
+Progress:
+
+- witness extent: **16 scans**
+- reviewed: **4/16 — scans 7–10 / printed 5–8**
+- narrative structure in reviewed span: **equivalent**
+- material wording variant: 1956 `அரசின் மஞ்சத்து ராணியாக` ↔ 1977 `அரசரின் மஞ்சத்து ராணியாக`
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- unresolved witness reading: **0**
+
+## Exact next activity — current
+
+Continue the 1956 `தாய்மை` witness comparison with **scans 11–14 / printed pages 9–12**.
+
+1. Fetch live `main`.
+2. Read the collection intake and witness comparison files.
+3. Compare direct 1956 scan pixels against the verified 1977 canonical assembly.
+4. Record only true edition variants / confirmations; do not normalize either edition.
+5. Do not alter canonical Tamil from witness evidence alone.
+6. Do not begin `ஆட்டக் காவடி` until the complete `தாய்மை` witness is closed.
+
+## Deferred source — 1958 `தேனலைகள்`
 
 Controlling attached source: `TVA_BOK_0064030_தேனலைகள்.pdf`.
 
