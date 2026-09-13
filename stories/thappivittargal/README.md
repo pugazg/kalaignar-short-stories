@@ -24,6 +24,23 @@ Canonical Story 10 workspace from the 1977 anthology **கலைஞர் கர
 
 Durable re-audit ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
+## 1953 earlier-edition witness
+
+**CLOSED / PASS — 9/9 physical witness scans.**
+
+- witness source: `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
+- witness edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
+- witness span: scans **7–15 / printed 5–13**
+- witness workspace: [`witnesses/1953-thappivittargal/`](witnesses/1953-thappivittargal/)
+- narrative structure: **equivalent / complete**
+- notable variants include 1953 `போடக்கூடாது` ↔ 1977 `போட்டுக்கூடாது` and `மூவாயிரம் தொழிலாளர்` ↔ `மூவாயிரம் தொழிலாளர்கள்`
+- 1953 uses a three-open-circle internal divider before the Leela Mill section and a simpler closing rule
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1953-thappivittargal/VARIANT_COMPARISON.md`](witnesses/1953-thappivittargal/VARIANT_COMPARISON.md)
+
+The verified 1977 first-edition anthology remains canonical. The 1953 differences are retained as edition history.
+
 ## Reading / English layers
 
 - Tamil assembly: [`sections/thappivittargal.md`](sections/thappivittargal.md)
