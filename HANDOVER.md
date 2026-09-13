@@ -126,7 +126,7 @@ Current state:
 - unresolved source-dependent witness blockers: **0**
 - collection-level canonical-recheck backlog: **1 candidate from Story 1 only**
 
-## Next source — 1953 `தப்பிவிட்டார்கள்`
+## Active source — 1953 `தப்பிவிட்டார்கள்`
 
 Controlling attached source:
 
@@ -143,7 +143,7 @@ Source identity:
 - physical scans: **34**
 - edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
 - publisher: **திராவிடன் பதிப்பகம், வேலூர் (வ. ஆ.)**
-- source type: **image-only**
+- source type: **image-only; direct scan pixels control**
 - source PDF committed: **No**
 
 Story pagination:
@@ -159,27 +159,42 @@ Inventory — **4/4 COMPLETE**:
 3. `விலையால் வாங்கலையோ` — scans **24–31 / printed 22–29** — **new-canonical candidate**
 4. `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — existing canonical witness
 
-Fresh repository-wide assembled-section checks found no duplicate for `விலையால் வாங்கலையோ`; repeat the duplicate check immediately before activation.
+Current state:
+
+- source / scan / story inventory: **COMPLETE 4/4**
+- Story 1 `தப்பிவிட்டார்கள்`: **CLOSED / PASS — 9/9**
+  - witness workspace: `stories/thappivittargal/witnesses/1953-thappivittargal/`
+  - narrative structure: **equivalent / complete**
+  - representative variants: 1953 `போடக்கூடாது` ↔ 1977 `போட்டுக்கூடாது`; `மூவாயிரம் தொழிலாளர்` ↔ `மூவாயிரம் தொழிலாளர்கள்`
+  - 1953 layout: three-open-circle divider before Leela Mill; simple closing rule
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- Story 2 `சபலம்`: **CLOSED / PASS — 8/8**
+  - witness workspace: `stories/sabalam/witnesses/1953-thappivittargal/`
+  - narrative structure: **equivalent / complete**
+  - representative variants: `இமைகளைப் பிடித்திழுத்து` ↔ 1977 `இமைகளேப் பிடித்திழுத்து`; `பார்க்கவில்லை` ↔ `பார்க்க வில்லை`; `அழுதிடும்` ↔ `அழுதிடுங்`; `அந்த அகோரமான இருளில்` ↔ `அந்த அந்தகாரமான இருளில்`
+  - 1953 layout: internal three-open-circle divider; no 1977-style opening rule / enlarged `வ` / closing ornament
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- existing-canonical witness comparisons completed: **2/3**
+- next new-canonical candidate: **`விலையால் வாங்கலையோ`**
+- Story 4 `முந்நூறு ரூபாய்`: witness **NOT STARTED**
 
 ## Exact next activity — current
 
-Begin the 1953 `தப்பிவிட்டார்கள்` collection with Story 1 as an earlier-edition witness:
+Activate Story 3 `விலையால் வாங்கலையோ` as a new-canonical candidate:
 
-- source: `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
-- source edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
-- title: **`தப்பிவிட்டார்கள்`**
-- 1953 scans: **7–15**
-- printed pages: **5–13**
-- total: **9 physical source pages**
-- canonical target: `stories/thappivittargal/`
-- use direct 1953 scan pixels as witness authority
-- compare against the verified canonical by text anchors
-- record genuine wording / morphology / orthography / punctuation / layout variants
-- do **not** alter canonical Tamil or English from witness evidence alone
-- any likely canonical defect becomes a recheck candidate only
-- stop after scan **15**; do not begin Story 2 unless explicitly requested
+- 1953 scans: **24–31**
+- printed pages: **22–29**
+- total: **8 physical source pages**
+- controlling source: the attached 1953 fourth-edition PDF
+- first repeat the live-main duplicate / identity search using the title plus distinctive opening evidence such as `வைரக்கண்ணு` and the opening marriage-market dialogue
+- if an existing canonical work is found, route this source as a witness instead of creating a duplicate
+- if still unique, create a repository-consistent canonical story workspace and process the full 8-page Tamil/source layer under the normal four-stage workflow
+- do not begin English before the Tamil/source gate is closed
+- stop after Story 3; do not begin Story 4 `முந்நூறு ரூபாய்` unless explicitly requested
 
-The 1950 `வாழமுடியாதவர்கள்` collection is closed **6/6** and must not be reopened from a stale prompt.
+Stories 1–2 are closed under the 1953 witness and must not be reopened from stale prompts.
 
 ## Closed source — 1956 `தாய்மை`
 
