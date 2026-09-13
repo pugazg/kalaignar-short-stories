@@ -19,7 +19,7 @@ Canonical story workspace for **நெருப்பு**, controlled by the at
 
 ## Canonical activation
 
-**SOURCE INTAKE PASS / P1 STAGE 2 COMPLETE.**
+**SOURCE INTAKE PASS / P1 STAGE 3 COMPLETE.**
 
 - live `main` was re-fetched before activation;
 - no canonical `நெருப்பு` workspace or documented alternate-title match was found;
@@ -53,7 +53,7 @@ A high-resolution verification problem in Stage 2/3/4 must not block a responsib
 - page records: **14 / 14 initialized**
 - Stage 1 first-pass: **5 / 14**
 - Stage 2 visual fidelity: **5 / 14**
-- Stage 3 historical glyph: **0 / 14**
+- Stage 3 historical glyph: **5 / 14**
 - Stage 4 final check: **0 / 14**
 - verified: **0 / 14**
 - needs-review: **5 / 14**
@@ -68,17 +68,17 @@ Scans **11–15 / printed 10–14**:
 
 - Stage 1 first-pass: **COMPLETE 5/5**
 - Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
-- Stage-2 source-proven corrections: **15**
-- Stage-1 queued readings resolved: **7/7**
-- Stage-2 unresolved ordinary fidelity issues: **0**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4 final verification: not started
+- Stage 3 historical-glyph audit: **COMPLETE / PASS 5/5**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final independent check: **NEXT**
 - pages remain `needs-review`
 
-Durable Stage-2 record: `VISUAL_FIDELITY_AUDIT.md`.
+Durable Stage-2 record: `VISUAL_FIDELITY_AUDIT.md`.  
+Durable Stage-3 record: `HISTORICAL_GLYPH_GATE.md`.
 
 ## Exact next activity
 
-**P1 Stage 3 — historical Tamil glyph audit, scans 11–15 / printed pages 10–14.**
+**P1 Stage 4 — final independent source check, scans 11–15 / printed pages 10–14.**
 
-Run the independent 13-family glyph audit against the source, record only source-proven character-identity corrections, keep pages `needs-review`, synchronize, commit, and stop before Stage 4.
+Perform one fresh end-to-end source comparison, confirm no omissions/duplications or unresolved source/glyph issues remain, synchronize, commit, and promote the five pages to `verified` only if the final check passes.

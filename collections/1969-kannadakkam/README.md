@@ -27,7 +27,7 @@ The visible source contains four story blocks:
 | # | Opening heading | PDF scans | Printed pages | Canonical result | Current action |
 |---:|---|---:|---:|---|---|
 | 1 | `கண்ணடக்கம்` | 4–10 | 3–9 | existing canonical — `stories/kannadakkam/` | comparison witness only |
-| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 Stage 2 COMPLETE / PASS 5/5; Stage 3 NEXT** |
+| 2 | `நெருப்பு` | 11–24 | 10–23 | `stories/neruppu/` — **new canonical active** | **P1 Stage 3 COMPLETE / PASS 5/5; Stage 4 NEXT** |
 | 3 | `வேணியின் காதலன்` | 25–31 | 24–30 | existing canonical — `stories/veniyin-kadhalan/` | comparison witness only |
 | 4 | `அமிர்தமதி` | 32–41 | 53–62* | existing canonical — `stories/amirthamathi/` | comparison witness only |
 
@@ -71,12 +71,14 @@ P1 scans **11–15 / printed 10–14**:
 - Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
 - Stage-2 corrections: **15**
 - Stage-2 unresolved ordinary fidelity issues: **0**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4 final check: not started
+- Stage 3 historical glyph: **COMPLETE / PASS 5/5**
+- Stage 4 final check: **NEXT**
 - page state: **needs-review**
 
 ## Exact next activity
 
-Process **`நெருப்பு` P1 Stage 3 — historical Tamil glyph audit**, scans **11–15 / printed pages 10–14**.
+Process **`நெருப்பு` P1 Stage 4 — final independent source check**, scans **11–15 / printed pages 10–14**.
+
+If the full five-page source comparison closes with no unresolved issue, promote those pages to `verified`, synchronize controls, commit, and then advance to P2 Stage 1.
 
 Do not begin `வேணியின் காதலன்` witness comparison until `நெருப்பு` Tamil/source work closes.

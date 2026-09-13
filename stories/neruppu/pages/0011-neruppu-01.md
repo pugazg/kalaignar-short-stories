@@ -7,7 +7,7 @@ page_type: "story-opening"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 transcription + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 # நெருப்பு
@@ -20,6 +20,7 @@ transcription_method: "Stage 1 transcription + Stage 2 visual text-fidelity audi
 - source confirms `முளியாகிவிட்டால்`;
 - ordinary fidelity corrections applied: `பிரச்சினைகளை யெல்லாம்`, `தங்களை யொருமுறை`;
 - Stage 2: **PASS**;
-- Stage 3 historical-glyph audit remains pending.
+- Stage 3 historical-glyph audit: **PASS**; no character-identity correction required on this page.
+- Representative families checked against source: `துணைவர்கள்` (ணை), `மலையாக்கி` / `சகிக்கவில்லை` (லை), `பிரச்சினைகளை` / `அவர்களை` / `தங்களை` (ளை/னை), `வாட்டுகிறார்கள்` (றா), `என்னால்` (னா), `என்னோடு` (னோ).
 
 <!-- மூல ஸ்கேன் பக்கம்: 11; அச்சுப் பக்கம்: 10 -->

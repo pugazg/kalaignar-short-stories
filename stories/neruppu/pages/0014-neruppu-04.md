@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 transcription + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 விதந்தன்னை எப்படித்தான் வர்ணிக்கிறானப்பா இந்த மாமேதையெனப் பாராட்டி மகிழ்வான் பூபதி!.... அந்த வேளை அருளோ, சந்திரனில் மனிதர் உண்டா என்ற ஆராய்ச்சி நூலிலே கருத்தைப் பதிய வைத்திருப்பான்... இந்திரன் என்று தெரிந்த பிறகும் அகலிகை பேசாதிருந்தாள் எனக் குறிப்பிடும் திறமை காம நூல் வல்லார் ஒருவருக்கே ஏற்பட முடியும். இதுவரை பெற்றிடாத பெறற்கரிய இன்பத்தைப் பெறும்போது “இந்திரனே? இழி மகனே!... இது தகாது!” என இடித்துரைக்கும் செயல் அகல்யாவுக்கு ஏற்படாது நியாயந்தான்!... என விமர்சனம் செய்வான் பூபதி! அவனுக்கு இந்தமாதிரி விமர்சனங்களைத் தன் நண்பனிடம் கேட்டுக் கேட்டு சலித்துவிட்டது. ஆனாலும் அவர்கள் நட்பு இதுபோன்ற வேறுபாடுகளால் தேய்பிறை ஆகவில்லை...மாறாக வளர்ந்தது....
@@ -24,6 +24,7 @@ transcription_method: "Stage 1 transcription + Stage 2 visual text-fidelity audi
 - ordinary fidelity corrections applied: `இந்தமாதிரி`, `விமர்சனங்களைத் தன்`, `சாகவேண்டுமென்று`, `ஒருமாதிரியென்றும்`;
 - `அகல்யாவுக்கு` and all historical-glyph-sensitive forms remain for Stage 3; no modernization performed;
 - Stage 2: **PASS**;
-- Stage 3 historical-glyph audit remains pending.
+- Stage 3 historical-glyph audit: **PASS**; no character-identity correction required on this page.
+- Representative families checked against source: `துணைவியாக்கச்` (ணை), `வேளை` / `விமர்சனங்களைத்` (ளை), `வர்ணிக்கிறானப்பா` / `அனுபவிக்கிறாள்` (றா), `மகனை` / `தண்டனை` / `விதந்தன்னை` (னை), `திரும்பினான்` (னா).
 
 <!-- மூல ஸ்கேன் பக்கம்: 14; அச்சுப் பக்கம்: 13 -->

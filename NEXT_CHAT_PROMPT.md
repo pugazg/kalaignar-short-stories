@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / `நெருப்பு` P1 Stage 3
+# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / `நெருப்பு` P1 Stage 4
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,28 +14,26 @@ P1 = scans **11–15 / printed 10–14**.
 
 - Stage 1 first-pass: **COMPLETE 5/5**
 - Stage 2 visual text fidelity: **COMPLETE / PASS 5/5**
-- Stage-2 source-proven corrections: **15**
-- Stage-1 queued ordinary-fidelity readings resolved: **7/7**
-- Stage-2 unresolved ordinary fidelity issues: **0**
-- Stage 3 historical glyph: **NEXT**
-- Stage 4 final check: not started
+- Stage-2 corrections: **15**
+- Stage 3 historical glyph: **COMPLETE / PASS 5/5**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final independent check: **NEXT**
 - page status: **needs-review 5/5**
-
-Stage-2 audit: `stories/neruppu/VISUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Perform **P1 Stage 3 — historical Tamil glyph audit, scans 11–15** only.
+Perform **P1 Stage 4 — final independent source check, scans 11–15** only.
 
 1. re-fetch live `main`;
-2. reopen the same five source scans independently;
-3. explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-4. compare complete words/phrases and same-edition forms where needed;
-5. correct only source-proven character identity; do not modernize spelling/grammar;
-6. never global-replace;
-7. update `HISTORICAL_GLYPH_GATE.md` and any review records;
-8. keep pages `needs-review`;
-9. synchronize page map, progress tracker, README, HANDOVER and NEXT prompt;
-10. commit and stop.
+2. reopen all five source scans fresh;
+3. compare the complete committed text end-to-end against source;
+4. confirm no omission/duplication, wrong text, punctuation/paragraph/page-boundary issue, or unclosed historical-glyph candidate remains;
+5. confirm Stage-2 and Stage-3 corrections/dispositions are present;
+6. correct and document any final source-proven issue;
+7. if zero unresolved remains, set scans 11–15 to `verified`;
+8. synchronize page map, progress tracker, README, review/gate files, HANDOVER and NEXT prompt;
+9. commit and re-fetch live `main`;
+10. stop.
 
-Next after Stage 3: **P1 Stage 4 final independent source check, scans 11–15**.
+Next after successful Stage 4: **P2 Stage 1 — scans 16–20 / printed pages 15–19**.

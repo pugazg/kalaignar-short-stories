@@ -22,4 +22,12 @@ Additional ordinary fidelity corrections discovered during the full Stage-2 pass
 
 Ordinary Stage-2 text-fidelity issues for P1: **0 unresolved**.
 
-Stage 3 remains open for historical-glyph-sensitive character identity. Do not treat this empty Stage-2 queue as final page verification.
+## P1 Stage 3 disposition
+
+Historical-glyph audit for scans **11–15** is **COMPLETE / PASS**.
+
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- no modernization or global replacement applied
+
+Stage 4 final independent source check remains open; pages therefore stay `needs-review`.

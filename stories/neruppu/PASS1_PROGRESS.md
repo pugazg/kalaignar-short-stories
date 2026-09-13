@@ -10,7 +10,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 - page records initialized: **14/14**
 - Stage 1 first-pass transcription: **5/14**
 - Stage 2 visual text fidelity: **5/14**
-- Stage 3 historical-glyph audit: **0/14**
+- Stage 3 historical-glyph audit: **5/14**
 - Stage 4 final independent check: **0/14**
 - verified pages: **0/14**
 - needs-review: **5/14**
@@ -20,7 +20,7 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 
 | Batch | Scans / printed pages | Stage 1 first-pass | Stage 2 visual fidelity | Stage 3 glyph | Stage 4 final | Final status |
 |---|---|---|---|---|---|---|
-| P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | not started | `needs-review` |
+| P1 | 11–15 / 10–14 | **COMPLETE — 5/5** | **COMPLETE / PASS — 5/5** | **COMPLETE / PASS — 5/5** | **NEXT** | `needs-review` |
 | P2 | 16–20 / 15–19 | not started | not started | not started | not started | `not-started` |
 | P3 | 21–24 / 20–23 | not started | not started | not started | not started | `not-started` |
 
@@ -44,8 +44,19 @@ Workflow: root `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md` — four separate 
 
 Durable audit: `VISUAL_FIDELITY_AUDIT.md`.
 
+## P1 Stage 3 result
+
+- pages glyph-audited: **5/5**
+- historical-glyph character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- global replacements / modernization: **0**
+- pages remain `needs-review`
+- Stage 4 not mixed into this activity
+
+Durable gate: `HISTORICAL_GLYPH_GATE.md`.
+
 ## Exact next activity
 
-**P1 Stage 3 — historical Tamil glyph audit, scans 11–15 / printed pages 10–14.**
+**P1 Stage 4 — final independent source check, scans 11–15 / printed pages 10–14.**
 
-Explicitly audit the 13 historical-glyph families against the source, record corrections individually, synchronize and commit. Keep pages `needs-review` until Stage 4.
+Reopen the five pages fresh, compare the complete text to source end-to-end, confirm Stage-2/3 dispositions and zero unresolved issues, then promote to `verified` only if the final check closes.

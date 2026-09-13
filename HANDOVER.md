@@ -36,7 +36,7 @@ Workspace: `stories/neruppu/`
 - P1 Stage 1 first-pass scans 11–15: **COMPLETE 5/5**
 - Stage 1 total: **5/14**
 - Stage 2 visual fidelity: **5/14**
-- Stage 3 historical glyph: **0/14**
+- Stage 3 historical glyph: **5/14**
 - Stage 4 final check: **0/14**
 - verified: **0/14**
 - needs-review: **5/14**
@@ -54,8 +54,15 @@ Stage 2 is now durable. The scan-14 opening continuation was resolved from enlar
 3. historical Tamil glyph audit → commit + sync
 4. final independent source check → commit + sync; only then `verified`
 
+## P1 Stage 3 durable result
+
+- historical-glyph audit: **COMPLETE / PASS 5/5**
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- pages remain `needs-review`
+
 ## Exact next activity
 
-**`நெருப்பு` P1 Stage 3 — historical Tamil glyph audit, scans 11–15 / printed 10–14.**
+**`நெருப்பு` P1 Stage 4 — final independent source check, scans 11–15 / printed 10–14.**
 
-Explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` against the same five source scans, record corrections individually, synchronize controls, commit, and stop before Stage 4.
+Reopen the complete five-page batch fresh, confirm all text/punctuation/boundaries and Stage-2/3 dispositions against the source, resolve any final issue, synchronize controls, commit, and mark pages `verified` only if the final gate passes.

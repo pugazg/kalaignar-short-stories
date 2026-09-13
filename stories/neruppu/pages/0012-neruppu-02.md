@@ -7,7 +7,7 @@ page_type: "story"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064095_கண்ணடக்கம்.pdf"
-transcription_method: "Stage 1 transcription + Stage 2 visual text-fidelity audit against controlling scan"
+transcription_method: "Stage 1 + Stage 2 + Stage 3 historical-glyph audit against controlling scan"
 ---
 
 சந்தித்த ‘பகை’யின் வகைகள் எத்தனை யென்பதும் அவர்கள் அறியாததல்ல! ஆனாலும் என்னை அழவிடுகிறார்கள்; ஏனோ தெரியவில்லை...இந்தக் கடுமையான தண்டனை எனக்கு!
@@ -29,6 +29,7 @@ transcription_method: "Stage 1 transcription + Stage 2 visual text-fidelity audi
 - source-fidelity corrections applied: `செய்துகொள்ள`, `பத்துப் பன்னிரெண்டு`;
 - paragraph sequence and page ending rechecked against source;
 - Stage 2: **PASS**;
-- Stage 3 historical-glyph audit remains pending.
+- Stage 3 historical-glyph audit: **PASS**; no character-identity correction required on this page.
+- Representative families checked against source: `தில்லையை` (லை), `கண்களைத்` / `இடங்களை` (ளை), `மூன்றாம்` (றா), `எத்தனை` / `தண்டனை` / `சிந்தனையை` (னை), `ஏனோ` (னோ).
 
 <!-- மூல ஸ்கேன் பக்கம்: 12; அச்சுப் பக்கம்: 11 -->
