@@ -73,16 +73,31 @@ No witness reading automatically overwrites a later controlling canonical editio
 Workspace: `stories/thaaymai/witnesses/1956-thaaymai/`
 
 - witness range: **scans 7–22 / printed 5–20**
-- comparison reviewed: **12/16 scans — scans 7–18 / printed 5–16**
+- comparison reviewed: **16/16 — COMPLETE / PASS**
+- narrative structure: **equivalent**
+- material edition variants recorded: **11**
+- 1956 `ஆயிரந்தேர்` independently supports the current 1977 canonical
+- closing lexical rewrite recorded: 1956 `கடையை முடிக்கொண்டது` ↔ 1977 `கண்ணை மூடிக் கொண்டது`
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- status: **CLOSED / PASS**
+
+### Witness 2 — `ஆட்டக் காவடி`
+
+Workspace: `stories/aattakkavadi/witnesses/1956-thaaymai/`
+
+- witness range: **scans 23–33 / printed 21–31**
+- reviewed: **6/11 — scans 23–28 / printed 21–26**
 - narrative structure in reviewed span: **equivalent**
-- material edition variants recorded: **Yes — 8 high-value wording/morphology/syntax variants through scan 18**
-- earlier witness confirmation: **1956 `ஆயிரந்தேர்` independently supports current 1977 canonical**
-- canonical Tamil changed: **No**
-- canonical English changed: **No**
-- unresolved witness reading in reviewed span: **0**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
+- canonical-recheck candidate: **1 — `நாளெல்லாம்` vs canonical `நாவெல்லாம்`**
 
 ## Exact next activity
 
-Continue `தாய்மை` witness comparison with **scans 19–22 / printed pages 17–20**.
+Process **10 source pages total** per the user's current batching rule:
 
-Do not begin `ஆட்டக் காவடி` until the complete `தாய்மை` witness comparison is closed.
+1. finish `ஆட்டக் காவடி` — scans **29–33 / printed 27–31** (**5 pages**);
+2. then continue into `நடுத்தெரு நாராயணி` — scans **34–38 / printed 32–36** (**5 pages**).
+
+Do not reconstruct missing printed pages 80–81 later in `அரும்பு`.
