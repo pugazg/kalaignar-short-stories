@@ -28,7 +28,7 @@ Visible routing:
 3. `வேணியின் காதலன்` scans 25–31 — **existing canonical witness — COMPARISON CLOSED / PASS**
 4. `அமிர்தமதி` scans 32–41 — **existing canonical witness — COMPARISON CLOSED / PASS**
 
-`நெருப்பு` Tamil/source work is now closed; the comparison-only witness backlog is unblocked.
+`நெருப்பு` Tamil/source work is closed. All visible comparison-only witness work is also closed.
 
 ## `நெருப்பு` current state
 
@@ -48,6 +48,11 @@ Workspace: `stories/neruppu/`
 - Tamil assembly: **PASS / CLOSED**
 - reading layer: `stories/neruppu/sections/neruppu.md`
 - source closure: `stories/neruppu/TAMIL_SOURCE_CLOSURE.md`
+- Tamil/source release gate for translation: **CLOSED by explicit user-authorized visible-scope decision**
+- English translation: **PASS / COMPLETE**
+- English file: `stories/neruppu/translations/en/neruppu.md`
+- English review: `stories/neruppu/TRANSLATION_REVIEW.md`
+- English page traceability: **14/14 PASS**
 
 ### P1 — scans 11–15 / printed 10–14
 
@@ -179,10 +184,25 @@ All **visible** story blocks are dispositioned:
 
 The collection itself is **NOT source-complete**: printed pages **31–52 (22 pages)** are absent.
 
-Because this is a Tamil-first collection-wide workflow, `நெருப்பு` English remains **DEFERRED / BLOCKED** until the collection-wide Tamil/source release gate closes.
+## User-authorized Tamil release-gate decision
+
+The physical-completeness finding remains unchanged. The user explicitly instructed the repository to **record the missing-span caveat, close the Tamil/source release gate for the fully processed visible scope, and proceed with `நெருப்பு` English**.
+
+Durable distinction:
+
+- physical collection completeness: **OPEN**
+- visible Tamil/source work: **CLOSED / PASS**
+- Tamil/source release gate for translation: **CLOSED for visible authorized scope**
+- missing printed pages 31–52: **still unresolved / documented**
+- `நெருப்பு` English: **PASS / COMPLETE**
+- English source pages represented: **14/14**
+- Tamil changed during translation: **No**
+- unresolved English issues: **0**
+
+Tracker: `collections/1969-kannadakkam/ENGLISH_TRANSLATION_PROGRESS.md`.
 
 ## Exact next activity — current
 
 **SOURCE-COMPLETENESS HOLD.**
 
-No further source-dependent 1969 work can be performed from the supplied 43-scan PDF. Resume only when stronger same-publication evidence accounts for printed pages **31–52**. On resumption, map the missing physical span and story boundaries first, then duplicate-check before creating or editing canonical story layers. Do not infer missing titles/text and do not use external substitutes unless the user explicitly authorizes research.
+No further source-dependent 1969 story work can be performed from the supplied 43-scan PDF. `நெருப்பு` translation is complete. Resume the missing-span intake only when stronger same-publication evidence accounts for printed pages **31–52**. Do not infer missing titles/text and do not use external substitutes unless the user explicitly authorizes research.

@@ -238,6 +238,16 @@ Workspace: `stories/neruppu/`.
 
 All visible story work is complete under the supplied PDF. The physical collection remains **INCOMPLETE / OPEN** because printed pages **31–52** are absent.
 
-Current next state: **SOURCE-COMPLETENESS HOLD**.
+The user then explicitly authorized a **visible-scope Tamil/source release closure for translation progression**, while preserving the physical gap as an open source-completeness issue.
 
-Because the collection is being processed Tamil-first, English for the new canonical `நெருப்பு` is deferred until the collection-wide Tamil/source release gate can close. Do not infer missing story identities or use substitute editions to patch the gap without explicit authorization.
+Result:
+
+- visible Tamil/source gate: **CLOSED / PASS**
+- physical completeness: **OPEN**
+- `நெருப்பு` English translation: **PASS / COMPLETE**
+- English source-page traceability: **14/14 PASS**
+- Tamil changed during translation: **No**
+- English tracker: `collections/1969-kannadakkam/ENGLISH_TRANSLATION_PROGRESS.md`
+- next state: **SOURCE-COMPLETENESS HOLD**
+
+Do not infer missing story identities or use substitute editions to patch the gap without explicit authorization.

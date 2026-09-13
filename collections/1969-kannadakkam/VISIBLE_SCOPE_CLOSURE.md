@@ -1,6 +1,6 @@
 # Visible-Scope Closure — 1969 `கண்ணடக்கம்`
 
-Status: **VISIBLE STORY WORK COMPLETE / PHYSICAL COMPLETENESS OPEN**.
+Status: **VISIBLE TAMIL/SOURCE WORK CLOSED / NERUPPU ENGLISH PASS / PHYSICAL COMPLETENESS OPEN**.
 
 ## Processed visible blocks
 
@@ -19,9 +19,17 @@ All visible story text has been dispositioned. No visible comparison witness cha
 
 Printed pages **31–52 (22 pages)** are absent from the supplied PDF. This prevents collection-wide Tamil/source release closure.
 
-## Phase effect
+## Translation-release decision
 
-The collection is in Tamil-first collection-wide mode. Therefore the new canonical `நெருப்பு` English layer remains **DEFERRED / NOT STARTED** until the source-completeness gap is resolved and the collection-wide Tamil/source release gate closes.
+The missing folio span remains an open physical-source issue. The user explicitly authorized a narrower release decision for the fully processed visible scope:
+
+- Tamil/source release gate for visible processed material: **CLOSED**
+- physical completeness: **OPEN**
+- `நெருப்பு` English: **PASS / COMPLETE**
+- source-page traceability: **14/14 PASS**
+- Tamil changed during translation: **No**
+
+This decision does not infer or waive the missing pages; it only separates **translation readiness of verified `நெருப்பு`** from **physical completeness of the parent printed collection**.
 
 ## Resume condition
 

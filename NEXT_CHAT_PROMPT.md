@@ -1,70 +1,63 @@
-# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / source-completeness hold
+# NEXT CHAT PROMPT — 1969 `கண்ணடக்கம்` / visible scope closed, physical completeness hold
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Controlling source
+## Durable state
 
-Current supplied source:
+Controlling supplied source: `TVA_BOK_0064095_கண்ணடக்கம்.pdf`.
 
-`TVA_BOK_0064095_கண்ணடக்கம்.pdf`
+Visible-source processing is closed:
 
-- represented edition: **இரண்டாம் பதிப்பு — 1969**
-- physical scans: **43**
-- visible story scans: **4–41**
-- scan 42: advertisement/back matter
-- scan 43: rear leaf
-- physical completeness: **OPEN**
+1. `கண்ணடக்கம்` scans **4–10 / printed 3–9** — witness **CLOSED / PASS**
+2. `நெருப்பு` scans **11–24 / printed 10–23** — Tamil/source **CLOSED / PASS 14/14**
+3. `வேணியின் காதலன்` scans **25–31 / printed 24–30** — witness **CLOSED / PASS**
+4. `அமிர்தமதி` scans **32–41 / printed 53–62** — witness **CLOSED / PASS**
 
-## Durable visible-source result
+## Tamil release gate / English
 
-All visible story blocks are dispositioned:
+Per explicit user instruction, the repository records the physical gap but **closes the Tamil/source release gate for the fully processed visible scope**.
 
-1. `கண்ணடக்கம்` — scans **4–10 / printed 3–9** — comparison witness **CLOSED / PASS 7/7**
-2. `நெருப்பு` — scans **11–24 / printed 10–23** — new canonical Tamil/source **CLOSED / PASS 14/14**
-3. `வேணியின் காதலன்` — scans **25–31 / printed 24–30** — comparison witness **CLOSED / PASS 7/7**
-4. `அமிர்தமதி` — scans **32–41 / printed 53–62** — comparison witness **CLOSED / PASS 10/10**
+This is not a physical-completeness claim.
 
-No visible witness comparison changed the controlling 1977 Tamil/English canonicals.
+- physical collection completeness: **OPEN**
+- missing printed pages: **31–52 (22 pages)**
+- missing titles/text/boundaries inferred: **No**
+- visible-scope Tamil/source release gate: **CLOSED**
+- `நெருப்பு` English: **PASS / COMPLETE**
+- English: `stories/neruppu/translations/en/neruppu.md`
+- review: `stories/neruppu/TRANSLATION_REVIEW.md`
+- English source-page traceability: **14/14 PASS**
+- Tamil changed during translation: **No**
+- unresolved English issues: **0**
+- tracker: `collections/1969-kannadakkam/ENGLISH_TRANSLATION_PROGRESS.md`
 
-## Blocking source gap
+## Physical source-completeness gap
 
 The supplied PDF jumps from printed page **30** to the block structurally beginning at printed page **53**.
 
-Therefore printed pages **31–52 — 22 pages — are absent**.
-
-Do not infer:
+Printed pages **31–52** are absent. Do not infer:
 
 - how many stories are missing;
 - their titles;
 - their boundaries;
 - their text.
 
-Do not use another edition or an external website to patch the gap unless the user explicitly asks for research outside this source.
-
-## English phase gate
-
-This collection is being processed in **Tamil-first collection-wide mode**.
-
-Although `நெருப்பு` itself is Tamil/source closed, `COLLECTION_SOURCE_GUIDE.md` and `ENGLISH_TRANSLATION_GUIDE.md` require the **collection-wide Tamil/source release gate** to close before English begins. Because the 22-page physical gap remains unresolved:
-
-- `நெருப்பு` English: **DEFERRED / NOT STARTED**
-- automatic English phase: **BLOCKED**
+Do not use another edition or external website to fill the gap unless the user explicitly authorizes that research.
 
 ## Exact next activity
 
-**SOURCE-COMPLETENESS HOLD — no further source-dependent 1969 activity is possible from the current PDF.**
+**SOURCE-COMPLETENESS HOLD.**
+
+No further source-dependent 1969 story work remains possible from the current PDF, and `நெருப்பு` English is already complete.
 
 When stronger same-publication evidence for printed pages **31–52** is supplied:
 
 1. re-fetch live `main`;
-2. register the new source evidence without overwriting the current 43-scan witness;
+2. register the new source evidence without overwriting existing evidence;
 3. map the missing physical span and printed folios;
-4. identify story boundaries only from the supplied evidence;
-5. duplicate-check every recovered story against canonical workspaces before activation;
-6. process any new canonical Tamil/source work under the normal verification workflow;
-7. close the collection-wide Tamil/source release gate only when physical completeness is actually resolved;
-8. then advance automatically to English according to `ENGLISH_TRANSLATION_GUIDE.md`.
+4. identify story boundaries only from the new same-publication evidence;
+5. duplicate-check every recovered story against canonical workspaces;
+6. process any genuinely new canonical Tamil/source work through the normal verification workflow;
+7. preserve the already closed `நெருப்பு` Tamil and English layers unless stronger source evidence directly affects them.
 
-Until then, stop. The missing-span hold is the authoritative next state.
-
-A separate canonical recheck such as `கண்ணடக்கம்` `வான மீனுக்கோ` ↔ two-witness `வாளை மீனுக்கோ` is **not automatic**; it requires the exact 1977 controlling scan to be reopened under a separately authorized recheck.
+Until such evidence is supplied, stop.
