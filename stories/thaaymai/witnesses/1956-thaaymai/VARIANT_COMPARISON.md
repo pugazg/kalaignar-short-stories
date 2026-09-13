@@ -110,8 +110,57 @@ These do not alter narrative structure or meaning and are not imported into the 
 - canonical recheck candidate opened: **No**
 - unresolved 1956 witness reading: **0**
 
+## Batch 3 — scans 15–18 / printed 13–16
+
+**COMPLETE / PASS — 4/4 witness scans reviewed.**
+
+### Physical / textual alignment
+
+| 1956 scan / printed | Witness anchor | 1977 canonical alignment |
+|---:|---|---|
+| 15 / 13 | reconciliation performance; palace reaction; prince shifts toward the younger queen | canonical scan 78 |
+| 16 / 14 | flute enters; conspiracy second stage; rose metaphor; lesson begins | canonical scan 78 → scan 79 |
+| 17 / 15 | prince learns the tune; praise and garden suggestion | canonical scan 79 → scan 80 |
+| 18 / 16 | victory aside; explicit scene break; palace-garden / snake-plan exposition | canonical scan 80 |
+
+No narrative block is added or omitted in this reviewed span.
+
+### Material wording / syntax variants
+
+| 1956 witness | 1977 canonical | Class / disposition |
+|---|---|---|
+| `எங்கு போவேன்; தங்கள் தங்கையாக என்னைக் கருதி` | `எங்கே போவேன்? தங்கள் தங்கையாக எண்ணிக் கருதி` | genuine lexical/syntactic edition recast; canonical unchanged |
+| `இது எது இந்தக் குழல் வாத்தியம்?` | `ஏது இந்தக் குழல் வாத்தியம்?` | genuine wording variant; canonical unchanged |
+| `மழலையின் இனிமை மறைந்திருந்து பெருமையை அதிகமாக்குகிறது` | `மழலையின் இனிமை மறைந்திருக்கிறது! பெருமையை அதிகமாக்குகிறது.` | syntactic / sentence-boundary recast; canonical unchanged |
+| `அரசிளங் குமரன் ஆரம்பித்து விட்டான் குழல் வாத்தியத்தை!` | `அரசிளங்குமரன் ஆர்ப்பித்து விட்டான் குழல் வாத்தியத்தை!` | genuine lexical variant; both readings are semantically viable, so no canonical-recheck candidate is opened |
+
+### Additional edition-style differences
+
+Examples include:
+
+- 1956 `வாழ்வளியுங்கள்` ↔ 1977 `வாழ்வு அளியுங்கள்`;
+- 1956 `இளையராணியின் மாளிகையிலேயே` ↔ 1977 `இளைய ராணியின் மாளிகையிலே`;
+- 1956 `வாயிலே போட்டுக் கொண்டே` ↔ 1977 `வாயில் போட்டுக்கொண்டே`;
+- 1956 `ஒரு அருமையான பண்` ↔ 1977 `ஓர் அருமையான பண்`;
+- 1956 `பாலகனின் மனதையும்` ↔ 1977 `பாலகனின் மனத்தையும்`;
+- 1956 `கற்றுக் கொள்ள` ↔ 1977 `கற்றுக்கொள்ள`;
+- 1956 `தானே வந்து` ↔ 1977 `தாமே வந்து`;
+- punctuation and dash differences around the victory exclamation and conspiracy exposition.
+
+### Witness-only layout evidence
+
+1956 scan **18 / printed 16** places an explicit centered **three-star scene-break ornament** between சுழற்கண்ணி's victory aside and the palace-garden sequence. This is physical witness layout evidence only; it is not prose and does not alter the 1977 canonical structure.
+
+## Canonical disposition after Batch 3
+
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- canonical verification status changed: **No**
+- canonical recheck candidate opened: **No**
+- unresolved 1956 witness reading: **0**
+
 ## Next comparison span
 
-1956 scans **15–18 / printed 13–16**.
+1956 scans **19–22 / printed 17–20**.
 
-The witness comparison remains **IN PROGRESS — 8/16 scans**.
+The witness comparison remains **IN PROGRESS — 12/16 scans**.
