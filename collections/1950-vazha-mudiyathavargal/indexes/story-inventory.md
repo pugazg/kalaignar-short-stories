@@ -9,7 +9,7 @@ No printed contents page is visible. Story identity is therefore controlled by t
 | 3 | — | `கங்கையின் காதல்` | 24–28 | 25–29 | `stories/gangaiyin-kadhal/` | **witness CLOSED / PASS — 5/5** |
 | 4 | — | `கண்டதும் காதல் ஒழிக!` | 29–35 | 30–36 | `stories/kandathum-kadhal-ozhiga/` | **witness CLOSED / PASS — source-visible material; expanded 1950 ending** |
 | 5 | — | heading damaged; `ஏழை` identified from surviving opening text | 36–40 | 37–41 | `stories/ezhai/` | **witness CLOSED / PASS — source-visible material** |
-| 6 | — | `பிள்ளையோ பிள்ளை!` | 41–62 | 42–63 | `stories/petra-pillaiyai-vitra-thaai/` — title variant | witness NOT STARTED |
+| 6 | — | `பிள்ளையோ பிள்ளை!` | 41–62 | 42–63 | `stories/petra-pillaiyai-vitra-thaai/` — title variant | **witness CLOSED / PASS — 22/22** |
 
 ## Deduplication result
 
@@ -81,15 +81,27 @@ Important source-title facts:
 - canonical Tamil / English changed: **No / No**
 - witness workspace: `stories/ezhai/witnesses/1950-vazha-mudiyathavargal/`
 
-## Current frontier
+### Story 6 — source title `பிள்ளையோ பிள்ளை!`
 
-Active collection story: **#6 source title `பிள்ளையோ பிள்ளை!`**
+**CLOSED / PASS — 22/22.**
 
-Exact next span:
+- canonical route: `stories/petra-pillaiyai-vitra-thaai/`
+- later canonical title: `பெற்ற பிள்ளையை விற்ற தாய்`
+- same-work identity: **CONFIRMED**
+- 1950 source title preserved: **Yes**
+- narrative architecture: **equivalent**
+- material wording / layout variants: **recorded**
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/petra-pillaiyai-vitra-thaai/witnesses/1950-vazha-mudiyathavargal/`
 
-- scans **42–63**
-- printed pages **41–62**
-- **22 physical source pages**
-- comparison-only title-variant witness against canonical `stories/petra-pillaiyai-vitra-thaai/`
-- preserve source title `பிள்ளையோ பிள்ளை!`
-- Stories 1–5 remain closed; do not reopen them without genuinely new evidence
+## Collection disposition
+
+**1950 `வாழமுடியாதவர்கள்` witness workflow CLOSED — 6/6.**
+
+- comparisons complete: **6/6**
+- unresolved source-dependent witness blockers: **0**
+- canonical Tamil / English modifications from witness work: **0 / 0**
+- collection-level canonical-recheck backlog: **1 candidate from Story 1 only**
+
+Next collection: **1953 `தப்பிவிட்டார்கள்`**, Story 1 scans **7–15 / printed 5–13**.
