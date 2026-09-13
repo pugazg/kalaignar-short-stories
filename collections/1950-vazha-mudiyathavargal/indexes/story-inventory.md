@@ -6,7 +6,7 @@ No printed contents page is visible. Story identity is therefore controlled by t
 |---:|---|---|---:|---:|---|---|
 | 1 | — | `வாழ முடியாதவர்கள்` | 5–14 | 6–15 | `stories/vazha-mudiyathavargal/` | **witness CLOSED / PASS — source-visible material; scans 14–15 severe loss** |
 | 2 | — | `ஒரிஜினலில் உள்ளபடி!` | 15–23 | 16–24 | `stories/originalil-ullapadi/` | **witness CLOSED / PASS — 9/9** |
-| 3 | — | `கங்கையின் காதல்` | 24–28 | 25–29 | `stories/gangaiyin-kadhal/` | witness NOT STARTED |
+| 3 | — | `கங்கையின் காதல்` | 24–28 | 25–29 | `stories/gangaiyin-kadhal/` | **witness CLOSED / PASS — 5/5** |
 | 4 | — | `கண்டதும் காதல் ஒழிக!` | 29–35 | 30–36 | `stories/kandathum-kadhal-ozhiga/` | witness NOT STARTED |
 | 5 | — | heading damaged; `ஏழை` identified from surviving opening text | 36–40 | 37–41 | `stories/ezhai/` | witness NOT STARTED |
 | 6 | — | `பிள்ளையோ பிள்ளை!` | 41–62 | 42–63 | `stories/petra-pillaiyai-vitra-thaai/` — title variant | witness NOT STARTED |
@@ -48,14 +48,26 @@ Important source-title facts:
 - canonical Tamil / English changed: **No / No**
 - witness workspace: `stories/originalil-ullapadi/witnesses/1950-vazha-mudiyathavargal/`
 
+### Story 3 — `கங்கையின் காதல்`
+
+**CLOSED / PASS — 5/5.**
+
+- physical scans inspected: **5/5**
+- narrative structure: **equivalent / complete**
+- localized 1950-only dialogue addition: **1**
+- canonical confirmation: `காளை` independently supported
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/gangaiyin-kadhal/witnesses/1950-vazha-mudiyathavargal/`
+
 ## Current frontier
 
-Active collection story: **#3 `கங்கையின் காதல்`**
+Active collection story: **#4 `கண்டதும் காதல் ஒழிக!`**
 
 Exact next span:
 
-- scans **25–29**
-- printed pages **24–28**
-- **5 physical source pages**
+- scans **30–36**
+- printed pages **29–35**
+- **7 physical source pages**
 - comparison-only witness against the verified canonical
-- Stories 1–2 remain closed; do not reopen them without genuinely new evidence
+- Stories 1–3 remain closed; do not reopen them without genuinely new evidence
