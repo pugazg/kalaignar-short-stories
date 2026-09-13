@@ -25,6 +25,24 @@ Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 
 Canonical Tamil assembly: [`sections/originalil-ullapadi.md`](sections/originalil-ullapadi.md). English was resynchronized to the corrected **crown** meaning.
 
+## 1950 earlier-edition witness
+
+**COMPARISON COMPLETE / PASS — 9/9.**
+
+- witness workspace: [`witnesses/1950-vazha-mudiyathavargal/`](witnesses/1950-vazha-mudiyathavargal/)
+- source: `TVA_BOK_0064034_வாழமுடியாதவர்கள்.pdf`
+- witness span: scans **16–24 / printed 15–23**
+- narrative structure: **equivalent / complete**
+- material wording / morphology / orthography / punctuation / layout variants: **recorded**
+- 1950 independently supports canonical `கிரீடத்தின்`, `நாறு`, `திரெளபதி`, feminine `...இருக்கிறள்`, and `பொறும்`
+- 1950-only repeated opening instruction: `ஒரிஜினலில் உள்ளபடி போடு.`
+- 1950 scan 23 has a three-star internal scene divider; scan 24 closes with a large centered star
+- canonical-recheck candidates: **0**
+- canonical Tamil / English changed from witness evidence: **No / No**
+- variant ledger: [`witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`](witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md)
+
+The verified 1977 edition remains controlling. Unusual 1977 forms such as `என்று கம்பாசிட்டர், ஆச்சா?` and `கட்டினை!` were already directly source-verified, so smoother 1950 readings are retained as edition variants rather than canonical-recheck candidates.
+
 ## Boundary
 
 - scan 119 opens `ஒரிஜினலில் உள்ளபடி`;
