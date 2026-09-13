@@ -18,6 +18,25 @@ Direct comparison of the opening three 1976 pages against the verified canonical
 
 Physical reflow, line wrapping, punctuation/spacing and display/layout are not promoted as lexical variants.
 
-## Next
+## Batch 2 — 1976 scans 50–55 — COMPLETE / PASS
 
-Compare 1976 scans **50–55** to finish `விஷம் இனிது`. In the same user-set 10-page iteration, continue with `பாலைவன ரோஜா` scans **56–59**, then stop.
+The remaining six 1976 source pages were directly compared against the verified canonical.
+
+- reviewed: **6 / 6 batch pages**
+- meaningful new lexical variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+
+Physical pagination/reflow, line wrapping, punctuation/spacing and display/layout differences are not promoted as lexical variants.
+
+## Final witness closure
+
+- reviewed scans: **47–55 / 9 of 9**
+- meaningful lexical edition variants: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved: **0**
+- duplicate Tamil transcription created: **No**
+- duplicate English translation created: **No**
+- result: **COMPARISON COMPLETE / PASS**.

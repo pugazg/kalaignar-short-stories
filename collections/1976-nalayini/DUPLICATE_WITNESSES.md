@@ -29,11 +29,12 @@ Current comparison state:
 - `நளாயினி` scans **3–12** — **COMPLETE / PASS**;
 - `காதல் கடிதம்` scans **13–18** — **COMPLETE / PASS**;
 - `புரட்சிப் படம்` scans **19–24** — **COMPLETE / PASS**;
-- `விஷம் இனிது` scans **47–49** — **PASS for reviewed span**; scans **50–55** remain;
-- `பாலைவன ரோஜா` — pending;
+- `விஷம் இனிது` scans **47–55** — **COMPLETE / PASS**;
+- `பாலைவன ரோஜா` scans **56–59** — **PASS for reviewed span**; scans **60–62** remain;
 - `அய்யோ ராஜா!` — pending;
 - user-set cadence: **10 comparison pages per iteration**;
-- cumulative reviewed target pages: **25/48**;
+- cumulative reviewed target pages: **35/48**;
+- stories comparison-complete: **4/6**;
 - no duplicate Tamil transcription or duplicate English translation is being created;
 - the attached 1976 PDF is the controlling witness source; no external mirror lookup is required.
 

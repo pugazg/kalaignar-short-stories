@@ -39,23 +39,21 @@ User-set cadence: **10 comparison pages per iteration**.
 1. `நளாயினி` scans 3–12 — **COMPLETE / PASS — 10/10**
 2. `காதல் கடிதம்` scans 13–18 — **COMPLETE / PASS — 6/6**
 3. `புரட்சிப் படம்` scans 19–24 — **COMPLETE / PASS — 6/6**
-4. `விஷம் இனிது` scans 47–55 — **IN PROGRESS — 47–49 PASS; 50–55 NEXT**
-5. `பாலைவன ரோஜா` scans 56–62 — pending
+4. `விஷம் இனிது` scans 47–55 — **COMPLETE / PASS — 9/9**
+5. `பாலைவன ரோஜா` scans 56–62 — **IN PROGRESS — 56–59 PASS; 60–62 NEXT**
 6. `அய்யோ ராஜா!` scans 63–72 — pending
 
 `நாட்டிய கலாராணி` scans 25–46 and `மானம்` scans 73–78 are already completed canonicals from this exact edition and remain excluded from witness comparison.
 
-Cumulative target-page progress: **25/48**.
-Stories comparison-complete: **3/6**.
+Cumulative target-page progress: **35/48**.
+Stories comparison-complete: **4/6**.
 
 ## Latest completed 10-page iteration
 
 Processed exactly:
 
-- `காதல் கடிதம்` scan **18** — **PASS / story CLOSED**
-- `புரட்சிப் படம்` scans **19–24** — **6/6 PASS / story CLOSED**
-- skipped completed canonical `நாட்டிய கலாராணி` scans 25–46
-- `விஷம் இனிது` scans **47–49** — **3/3 reviewed / PASS for span**
+- `விஷம் இனிது` scans **50–55** — **6/6 batch PASS / story CLOSED 9/9**
+- `பாலைவன ரோஜா` scans **56–59** — **4/4 reviewed / PASS for span**
 
 Iteration findings:
 
@@ -65,15 +63,14 @@ Iteration findings:
 - unresolved: **0**
 - duplicate Tamil/English created: **0**
 
-`காதல் கடிதம்` final witness total remains **5 true edition variants** from scans 13–17; scan 18 added none.
-`புரட்சிப் படம்` closes with **0 meaningful lexical variants** under the comparison policy.
+`விஷம் இனிது` closes with **0 meaningful lexical variants** across all 9 witness pages.
 
 ## Exact next activity — 10 pages
 
 Process exactly:
 
-1. `விஷம் இனிது` scans **50–55** — 6 pages;
-2. `பாலைவன ரோஜா` scans **56–59** — 4 pages;
-3. stop after scan **59**.
+1. `பாலைவன ரோஜா` scans **60–62** — 3 pages;
+2. `அய்யோ ராஜா!` scans **63–69** — 7 pages;
+3. stop after scan **69**.
 
 Use only the attached 1976 PDF for witness evidence. Do not create duplicate transcriptions or duplicate English translations.

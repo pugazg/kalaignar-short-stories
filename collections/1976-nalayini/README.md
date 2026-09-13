@@ -23,8 +23,8 @@ The attached PDF itself is the controlling source for this edition.
 | 2 | `காதல் கடிதம்` | 13–18 | existing canonical — **comparison COMPLETE / PASS — 6/6** |
 | 3 | `புரட்சிப் படம்` | 19–24 | existing canonical — **comparison COMPLETE / PASS — 6/6** |
 | 4 | `நாட்டிய கலாராணி` | 25–46 | **TAMIL SOURCE-COMPLETE + ENGLISH PASS** |
-| 5 | `விஷம் இனிது` | 47–55 | existing canonical — **comparison IN PROGRESS — scans 47–49 PASS; 50–55 NEXT** |
-| 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — comparison pending |
+| 5 | `விஷம் இனிது` | 47–55 | existing canonical — **comparison COMPLETE / PASS — 9/9** |
+| 6 | `பாலைவன ரோஜா` | 56–62 | existing canonical — **comparison IN PROGRESS — scans 56–59 PASS; 60–62 NEXT** |
 | 7 | `அய்யோ ராஜா!` | 63–72 | existing canonical — comparison pending |
 | 8 | `மானம்` | scans 73–78 / folios `10`, 74–78 | **TAMIL SOURCE-COMPLETE + ENGLISH PASS** |
 
@@ -41,18 +41,17 @@ For the other six stories, the user explicitly requires **comparison only**. No 
 
 Tracker: `EDITION_WITNESS_PROGRESS.md`.
 
-Current duplicate-story comparison phase: **OPEN — 3/6 complete**.
+Current duplicate-story comparison phase: **OPEN — 4/6 complete**.
 
-Latest user-directed 10-page iteration covered exactly **1976 scans 18–24 and 47–49** from the attached PDF:
+Latest user-directed 10-page iteration covered exactly **1976 scans 50–59** from the attached PDF:
 
-- `காதல் கடிதம்` scan **18** — comparison **PASS; story COMPLETE 6/6**;
-- `புரட்சிப் படம்` scans **19–24** — comparison **COMPLETE / PASS 6/6**;
-- `விஷம் இனிது` scans **47–49** — comparison **PASS for reviewed span / 3 of 9 scans**;
-- comparison-target pages reviewed cumulatively: **25 / 48**;
+- `விஷம் இனிது` scans **50–55** — comparison **PASS; story COMPLETE 9/9**;
+- `பாலைவன ரோஜா` scans **56–59** — comparison **PASS for reviewed span / 4 of 7 scans**;
+- comparison-target pages reviewed cumulatively: **35 / 48**;
 - new meaningful lexical edition variants in this iteration: **0**;
 - canonical Tamil changes in this iteration: **0**;
 - duplicate transcription / duplicate English: **0**.
 
-The attached `TVA_BOK_0065574_நளாயினி_1976.pdf` is sufficient for this 1976 witness layer. Do **not** substitute Tamil Digital Library or Wikisource pages for the attached source.
+The attached `TVA_BOK_0065574_நளாயினி_1976.pdf` remains sufficient for this witness layer. Do **not** substitute Tamil Digital Library or Wikisource pages for the attached source.
 
-Next 10-page iteration: `விஷம் இனிது` scans **50–55** (6 pages), then `பாலைவன ரோஜா` scans **56–59** (4 pages), then stop.
+Next 10-page iteration: `பாலைவன ரோஜா` scans **60–62** (3 pages), then `அய்யோ ராஜா!` scans **63–69** (7 pages), then stop.

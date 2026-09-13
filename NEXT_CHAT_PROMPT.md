@@ -33,19 +33,22 @@ Cadence: **10 comparison pages per iteration**.
 - `புரட்சிப் படம்` 19–24 — **COMPLETE / PASS**
   - 0 meaningful lexical variants
   - 0 canonical changes
-- `விஷம் இனிது` 47–49 — **PASS for reviewed span / 3 of 9**
+- `விஷம் இனிது` 47–55 — **COMPLETE / PASS**
+  - 0 meaningful lexical variants
+  - 0 canonical changes
+- `பாலைவன ரோஜா` 56–59 — **PASS for reviewed span / 4 of 7**
   - 0 meaningful lexical variants so far
   - 0 canonical changes
-- cumulative target-page progress: **25/48**
-- stories comparison-complete: **3/6**
+- cumulative target-page progress: **35/48**
+- stories comparison-complete: **4/6**
 
 ## Exact next 10-page iteration
 
 Process exactly:
 
-- `விஷம் இனிது` scans **50–55** — 6 pages; close story if PASS
-- `பாலைவன ரோஜா` scans **56–59** — 4 pages
-- stop after scan **59**
+- `பாலைவன ரோஜா` scans **60–62** — 3 pages; close story if PASS
+- `அய்யோ ராஜா!` scans **63–69** — 7 pages
+- stop after scan **69**
 
 Total: **10 comparison pages**.
 

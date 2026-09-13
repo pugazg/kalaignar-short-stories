@@ -122,12 +122,11 @@ Direct/native review retained edition-specific or unusual forms including `த�
 Comparison-only witness: `witnesses/1976-nalayini/`.
 
 - 1976 source range: scans **47–55**
-- reviewed: scans **47–49 — PASS / 3 of 9**
-- remaining: scans **50–55**
-- meaningful lexical edition variants so far: **0**
+- comparison: **COMPLETE / PASS — 9/9**
+- meaningful lexical edition variants: **0**
 - canonical defect candidates: **0**
 - canonical changes: **0**
-- unresolved reviewed-span classifications: **0**
+- unresolved witness issues: **0**
 - duplicate Tamil transcription / English translation: **No / No**
 
-Continue with scans **50–55** in the next iteration.
+The attached 1976 PDF is sufficient for this witness comparison; routine website lookup is not required.

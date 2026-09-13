@@ -140,3 +140,18 @@ Story 28 — TOC **`புரட்சிப்படம்`**, opening heading 
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+## Additional witness — 1976 `நளாயினி`
+
+Comparison-only witness: `witnesses/1976-nalayini/`.
+
+- 1976 source range: scans **56–62**
+- reviewed: scans **56–59 — PASS / 4 of 7**
+- remaining: scans **60–62**
+- meaningful lexical edition variants so far: **0**
+- canonical defect candidates: **0**
+- canonical changes: **0**
+- unresolved reviewed-span classifications: **0**
+- duplicate Tamil transcription / English translation: **No / No**
+
+The attached 1976 PDF is sufficient for this witness comparison; routine website lookup is not required.
