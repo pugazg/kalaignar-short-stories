@@ -74,7 +74,7 @@ Current state:
 - source registration: **COMPLETE**
 - story inventory: **6/6 COMPLETE**
 - new canonical stories: **0**
-- witness comparisons completed: **1/6**
+- witness comparisons completed: **2/6**
 - Story 1 `வாழ முடியாதவர்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
   - scans inspected: **10/10**
   - localized loss: **scan 12**
@@ -84,7 +84,16 @@ Current state:
   - canonical-recheck candidates: **1**
     - 1950 `பாதாம் பருப்பும்` ↔ current 1977 `பாதம் பருப்பும்`
     - direct recheck required at canonical scan **178 / printed 169** before any repair
-- remaining 1950 witnesses: **5/6 NOT STARTED**
+- Story 2 `ஒரிஜினலில் உள்ளபடி!`: **CLOSED / PASS — 9/9**
+  - narrative structure: **equivalent / complete**
+  - material edition variants: **recorded**
+  - canonical confirmations: `கிரீடத்தின்`, `நாறு`, `திரெளபதி`, feminine `...இருக்கிறள்`, `பொறும்`
+  - 1950-only repeated opening instruction: `ஒரிஜினலில் உள்ளபடி போடு.`
+  - scan **23**: three-star scene divider
+  - scan **24**: large centered closing star
+  - canonical Tamil / English changed: **No / No**
+  - canonical-recheck candidates: **0**
+- remaining 1950 witnesses: **4/6 NOT STARTED**
 
 ## Queued source — 1953 `தப்பிவிட்டார்கள்`
 
@@ -123,21 +132,21 @@ Fresh repository-wide assembled-section checks found no duplicate for `வில
 
 ## Exact next activity — current
 
-Process the active 1950 Story 2 witness:
+Process the active 1950 Story 3 witness:
 
-- title: **`ஒரிஜினலில் உள்ளபடி!`**
-- 1950 scans: **16–24**
-- printed pages: **15–23**
-- total: **9 physical source pages**
-- target canonical: `stories/originalil-ullapadi/`
+- title: **`கங்கையின் காதல்`**
+- 1950 scans: **25–29**
+- printed pages: **24–28**
+- total: **5 physical source pages**
+- target canonical: `stories/gangaiyin-kadhal/`
 - controlling canonical source remains the verified later canonical
 - compare direct 1950 pixels by text anchors
 - document lexical / morphology / orthography / punctuation / layout variants
 - do **not** alter canonical Tamil or English from witness evidence alone
 - any possible canonical defect exposed by the witness becomes a recheck candidate only
-- stop after scan 24
+- stop after scan 29
 
-Story 1 `வாழ முடியாதவர்கள்` is closed for all source-visible 1950 material and must not be reopened without genuinely new evidence. Do not begin Story 3 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+Stories 1–2 are closed under the 1950 witness. Do not begin Story 4 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
 
 ## Closed source — 1956 `தாய்மை`
 
