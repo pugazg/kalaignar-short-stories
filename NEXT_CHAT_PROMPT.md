@@ -1,78 +1,79 @@
-# NEXT CHAT PROMPT — 1956 `தாய்மை` anthology witness / `அரும்பு` scans 69–78
+# NEXT CHAT PROMPT — 1956 `தாய்மை` CLOSED / await next anthology
 
-Continue the 1956 anthology witness workflow. **LIVE MAIN IS AUTHORITATIVE in each repository.**
+Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Controlling witness source
+## 1956 `தாய்மை` — final durable state
 
-Use only the attached `TVA_BOK_0064112_தாய்மை.pdf`.
+Controlling source used:
+
+`TVA_BOK_0064112_தாய்மை.pdf`
+
+Source identity:
 
 - bytes — **104,030,458**
 - SHA-256 — **`b02873fd00b8e7b2afb568d833b07d9541922bddcd0a0600d6ed3ffabc037b78`**
 - physical scans — **87**
 - edition — **முதல் பதிப்பு — மார்ச்சு, 1956**
 - source type — **image-only**
-- authority — **direct scan pixels**
+- source PDF committed — **No**
 
-## User batching rule
+## Witness closure
 
-Process **10 physical source pages per iteration**.
+1. `தாய்மை` — **16/16 CLOSED / PASS**
+2. `ஆட்டக் காவடி` — **11/11 CLOSED / PASS**
+3. `நடுத்தெரு நாராயணி` — **26/26 CLOSED / PASS**
+4. `அரும்பு` — **28/28 physical scans reviewed / CLOSED FOR ALL SOURCE-VISIBLE PAGES**
 
-## Closed witnesses
+No canonical Tamil or English was changed solely from witness evidence.
 
-- `தாய்மை` — **16/16 CLOSED / PASS**
-- `ஆட்டக் காவடி` — **11/11 CLOSED / PASS**
-- `நடுத்தெரு நாராயணி` — **26/26 CLOSED / PASS**
+## Permanent source caveat
 
-The four Narayani canonical-recheck candidates remain open; do not modify the 1978 canonical without direct controlling-source recheck.
+Within the 1956 `அரும்பு` witness:
 
-## Active witness — `அரும்பு`
+- scan **81** = printed page **79**
+- scan **82** = printed page **82**
+- printed pages **80–81 are absent from the supplied PDF**
+- they were **not reconstructed** from the 1978 edition
 
-Repository: `pugazg/kalaignar-novels`, branch `main`
+Therefore page processing is complete for the supplied PDF, but the physical 1956 witness remains textually incomplete across that two-page gap.
 
-Canonical workspace: `works/arumbu/`
+## Cross-edition recheck queue
 
-Witness workspace: `works/arumbu/witnesses/1956-thaaymai/`
+These remain separate optional recheck tasks, not active page-processing work.
 
-1956 witness:
+### `ஆட்டக் காவடி` — 1 candidate
 
-- physical scans: **60–87**
-- printed pages: **58–79**, then **82–87**
-- printed pages **80–81 are absent**
-- reviewed: **9/28 — scans 60–68 / printed 58–66**
-- narrative structure: **equivalent in reviewed span**
-- material variants recorded: **5**
-- canonical Tamil / English changes: **0 / 0**
-- unresolved witness readings: **0**
-- canonical-recheck candidates: **0**
+- 1956 `நாளெல்லாம் பாடுபட்டாலும்`
+- current 1977 canonical `நாவெல்லாம் பாடுபட்டாலும்`
 
-1978 canonical:
+### `நடுத்தெரு நாராயணி` — 4 candidates
 
-- source: 1978 `அரும்பு`
-- scans **6–23**
-- Tamil **18/18 VERIFIED**
-- English **VERIFIED**
-- archival state **RELEASE-READY / CLOSED**
+1. `கர்வமடக்கும்` ↔ `கருவமடக்கும்`
+2. `பிராமணோத்தமரே` ↔ `பிராமணத் தமரே`
+3. `தனது கைகளால்` ↔ `தனது கண்களால்`
+4. `உறுப்பினர்களை` ↔ `உறுப்பினர்களே`
+
+Resolve none of these without the exact later controlling source scans.
+
+### `அரும்பு`
+
+- canonical-recheck candidates opened by 1956 witness — **0**
+- 1956 independently supports protected `எனக்குப் பொய் அம்மா வேணும்!` and `பேசினேன்`
+- final visible 1956 page carries the same `இரு இலை, ஒரு மொட்டு` ending image and a terminal star
+
+## Current instruction
+
+**Do not resume 1958 `தேனலைகள்` automatically.** The user explicitly deferred that PDF earlier.
+
+Wait for the user's next anthology/source. When supplied:
+
+1. fetch live `main`;
+2. establish source identity and physical structure first;
+3. inventory all works;
+4. deduplicate against existing canonicals across relevant repositories;
+5. route existing works as witnesses rather than duplicates;
+6. do not start transcription until source routing is clear.
 
 ## Exact next activity
 
-Process exactly **10 source pages**:
-
-- 1956 scans **69–78**
-- printed pages **67–76**
-
-Method:
-
-1. Fetch live `pugazg/kalaignar-novels/main`.
-2. Read direct 1956 scan pixels for scans 69–78.
-3. Align to the verified 1978 canonical by text anchors.
-4. Record genuine lexical, morphology, punctuation, orthography and layout variants.
-5. Ignore routine line-wrap differences.
-6. Do not modify the 1978 canonical from witness evidence alone.
-7. If a possible canonical defect appears, record a recheck candidate only.
-8. Update the Arumbu witness README / variant comparison / canonical README.
-9. Update the 1956 collection trackers and root handover in `pugazg/kalaignar-short-stories`.
-10. Stop after scan **78**.
-
-## Source-gap rule
-
-When later reaching scan **81 / printed 79**, the next physical scan is **82 / printed 82**. Printed pages **80–81 are absent from the supplied 1956 PDF**. Do not reconstruct them from 1978.
+**NONE — await the next anthology from the user.**
