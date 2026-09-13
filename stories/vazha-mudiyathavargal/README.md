@@ -88,6 +88,25 @@ The source-bold sentence `சின்னச்சாமி வாழமுட�
 - the father–daughter night sequence is translated to the same degree of explicitness as the source, without added mechanics or euphemistic omission
 - canonical Tamil changed during translation: **No**
 
+## 1950 earlier-edition witness
+
+**SOURCE-VISIBLE COMPARISON CLOSED / PASS.**
+
+- witness workspace: [`witnesses/1950-vazha-mudiyathavargal/`](witnesses/1950-vazha-mudiyathavargal/)
+- source: `TVA_BOK_0064034_வாழமுடியாதவர்கள்.pdf`
+- witness span: scans **6–15 / printed 5–14**
+- physical scans inspected: **10/10**
+- scans **6–13**: source-visible anchor comparison completed
+- scan **12**: localized upper-left paper loss; comparison remains substantially readable
+- scans **14–15**: severe physical paper loss; missing 1950 text was **not reconstructed**
+- canonical Tamil changed from witness evidence: **No**
+- canonical English changed from witness evidence: **No**
+- witness-triggered canonical-recheck candidates: **1**
+  - 1950 `பாதாம் பருப்பும்` ↔ current 1977 canonical `பாதம் பருப்பும்`; exact 1977 scan **178 / printed 169** must be reopened before any repair
+- variant ledger: [`witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md`](witnesses/1950-vazha-mudiyathavargal/VARIANT_COMPARISON.md)
+
+The 1977 canonical remains controlling and **CURRENT PASS / CLOSED**. The open recheck candidate is witness-triggered evidence only and does not authorize a canonical change.
+
 ## Completion state
 
 **வாழ முடியாதவர்கள் is 2026 CURRENT PASS / CLOSED: Gate A 8/8 + Gate B 8/8, 3 source-proven repairs, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 173–180 / printed pages 164–171.
