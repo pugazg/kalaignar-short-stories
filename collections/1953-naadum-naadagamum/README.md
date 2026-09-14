@@ -99,21 +99,16 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
   - Stage 3 historical glyph: **COMPLETE 5/5**
   - Stage-3 character-identity corrections: **0**
-  - Stage 4: **PARTIAL / HOLD — 4/5 PASS**
+  - Stage 4: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
   - Stage-4 source-proven corrections: **0**
-  - page status: **verified 4/5; needs-review 1/5 (scan 9)**
+  - page status: **verified 4/5; blocked 1/5 (scan 9 physical source loss)**
 - remaining transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Resolve or formally disposition the **single scan-9 mark-crossed source span** in retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 1 first-pass transcription**, scans **10–14 / printed 6–10**.
 
-Batch 1 scans **5–9 / printed 1–5** now has Stage 4 **PARTIAL / HOLD**:
+Batch 1 scans 5–9 is closed under documented source limitation: scans 5–8 verified; scan 9 terminally blocked only at one physically obliterated span, with no guessed reconstruction.
 
-- scans 5–8 — **VERIFIED**
-- scan 9 — **NEEDS-REVIEW**
-- Stage-4 corrections — **0**
-- remaining source-text issues — **1**
-
-Do **not** begin scans 10–14 until Batch 1 closes. After the full prose/discourse work closes, process `தெருக்கூத்து` next in source order.
+Do not start Stage 2 for Batch 2 in the same activity.
