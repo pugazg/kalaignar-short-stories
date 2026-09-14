@@ -6,7 +6,7 @@ No printed contents page is visible. Story identity is controlled by source-visi
 |---:|---|---|---:|---:|---|---|
 | 1 | — | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | `stories/thappivittargal/` | **witness CLOSED / PASS — 9/9** |
 | 2 | — | `சபலம்` | 14–21 | 16–23 | `stories/sabalam/` | **witness CLOSED / PASS — 8/8** |
-| 3 | — | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | **new canonical candidate** | NOT STARTED |
+| 3 | — | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | `stories/vilaiyal-vangalaiyo/` | **canonical ACTIVE — T1 2/8** |
 | 4 | — | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | `stories/munnuru-rupai/` | witness NOT STARTED |
 
 ## Deduplication result
@@ -38,11 +38,11 @@ For `விலையால் வாங்கலையோ`, the fresh repository
 
 ## Current frontier
 
-Active next work: **Story 3 `விலையால் வாங்கலையோ` — NEW-CANONICAL CANDIDATE**
+Active work: **Story 3 `விலையால் வாங்கலையோ` — CANONICAL / T1 IN PROGRESS 2/8**
 
-- scans **24–31**
-- printed pages **22–29**
-- **8 physical source pages**
-- repeat live-main duplicate check immediately before workspace creation
-- if still unique, begin canonical onboarding / Tamil source processing
+- canonical route: `stories/vilaiyal-vangalaiyo/`
+- T1 complete: scans **24–25 / printed 22–23**
+- next small batch: scans **26–27 / printed 24–25**
+- scans **28–31** remain untouched
+- Stage 2–4 not started
 - Story 4 `முந்நூறு ரூபாய்` remains NOT STARTED
