@@ -44,7 +44,7 @@ Printed story pagination runs **5–32** with the stable relation:
 |---:|---|---:|---:|---|
 | 1 | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | existing canonical `stories/thappivittargal/` — earlier witness |
 | 2 | `சபலம்` | 14–21 | 16–23 | existing canonical `stories/sabalam/` — earlier witness |
-| 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | canonical `stories/vilaiyal-vangalaiyo/` — **ACTIVE / T1 8/8; Stage 2 8/8; Stage 3 8/8** |
+| 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | canonical `stories/vilaiyal-vangalaiyo/` — **TAMIL/SOURCE CLOSED / PASS 8/8** |
 | 4 | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | existing canonical `stories/munnuru-rupai/` — earlier witness |
 
 ## Deduplication result
@@ -70,6 +70,7 @@ Do not create its story folder during intake.
 - Story 3 T1 transcription: **8/8 COMPLETE — scans 24–31**
 - Story 3 Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
 - Story 3 Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
+- Story 3 Stage 4 Tamil assembly / controls: **PASS / CLOSED**
 - canonical Tamil changed from witness evidence: **No**
 - canonical English changed from witness evidence: **No**
 - canonical-recheck candidates opened from Stories 1–2: **0**
@@ -100,7 +101,7 @@ Do not create its story folder during intake.
 
 ### Story 3 — `விலையால் வாங்கலையோ`
 
-**CANONICAL WORKSPACE ACTIVE / T1 8/8 / STAGE 2 8/8 / STAGE 3 8/8.**
+**TAMIL / SOURCE PASS / CLOSED — 8/8 VERIFIED + ASSEMBLY COMPLETE.**
 
 - canonical route: `stories/vilaiyal-vangalaiyo/`
 - duplicate/identity recheck before activation: **PASS — no existing canonical match**
@@ -110,8 +111,11 @@ Do not create its story folder during intake.
 - page statuses: **needs-review 0 / partial 0 / verified 8**
 - Stage 2: **8/8 COMPLETE / PASS**
 - Stage 3: **8/8 COMPLETE / PASS**
-- Stage 4: **not started**
-- English: **blocked until Tamil/source closure**
+- Stage 4: **PASS / CLOSED**
+- reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
+- closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
+- unresolved source readings: **0**
+- English: **blocked by collection-wide Tamil-first gate pending Story 4 witness**
 - durable T1 checkpoints: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 - Stage-2 checkpoints: `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`, `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 - Stage-2 cumulative repairs: **30 occurrence-level textual repairs; 9 historical-character identity corrections / resolutions**
@@ -120,7 +124,7 @@ Do not create its story folder during intake.
 
 ## Exact next activity
 
-Begin **Stage 4 Tamil assembly / controls only** for `விலையால் வாங்கலையோ`. Assemble the verified 8/8 page records, validate sequence / provenance / continuations / dividers / ending, create Tamil/source closure controls, commit / synchronize, and stop before English.
+Process Story 4 **`முந்நூறு ரூபாய்`** as the final 1953 additional-witness comparison: scans **32–34 / printed 30–32** against the closed 1977 canonical `stories/munnuru-rupai/` (canonical scans **112–114 / printed 103–105**). Complete all 3 witness pages, record edition variants / any genuine canonical-recheck candidates, synchronize collection controls, and then close the collection-wide Tamil/source gate if no source-dependent backlog remains.
 
 Do **not** start Story 4 body processing.
 
