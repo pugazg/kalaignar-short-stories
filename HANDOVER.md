@@ -684,8 +684,10 @@ Current state:
 - repository/routing label retained from the user's wording: **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**
 - Batch 1 scans **5–9 / printed 1–5**:
   - Stage 1 first-pass: **COMPLETE 5/5**
-  - Stage 2: **NEXT**
-  - Stage 3: **NOT STARTED**
+  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
+  - Stage-2 source-proven corrections: **16**
+  - Stage-2 unresolved source-text spans: **1 — scan 9 library/ownership-mark crossing**
+  - Stage 3: **NEXT**
   - Stage 4: **NOT STARTED**
   - page status: **needs-review 5/5**
   - verified: **0/5**
@@ -756,21 +758,30 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** has **Stage 1 first-pass COMPLETE / 5/5** and all five pages remain `needs-review`.
+Batch 1 scans **5–9 / printed 1–5** now has:
 
-**NEXT: Stage 2 visual text-fidelity audit on the same scans 5–9.**
+- Stage 1 first-pass: **COMPLETE 5/5**
+- Stage 2 visual text-fidelity: **COMPLETE 5/5**
+- Stage-2 source-proven corrections: **16**
+- Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
+- page status: **needs-review 5/5**
+
+Stage-2 audit record:
+
+`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE2_BATCH_001.md`
+
+**NEXT: Stage 3 historical Tamil glyph audit on the same scans 5–9.**
 
 Before source-dependent writes:
 
 1. fetch live `main`;
-2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the active work controls;
+2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the active work controls;
 3. reopen scans **5–9** from the user-supplied PDF;
-4. compare every committed Stage-1 page line-by-line / phrase-by-phrase against the scan;
-5. resolve ordinary omissions, wrong letters/words, punctuation, paragraph boundaries, page continuations, and the documented Stage-1 review queue only where direct pixels support the reading;
-6. keep pages `needs-review`; **do not** perform Stage 3 in this same activity;
-7. commit/sync Stage 2 and stop.
-
-Specific Stage-1 review items include the scan-5 terminal edge reading, the scan-6→7 physical split of `குறிப்பிட்ட`, the scan-7 phrase around `தீயீடு`, scan-8 Krishna/Gopika case endings/punctuation, and the scan-9 phrase crossed by a library/ownership mark.
+4. audit historical glyph identities explicitly, including `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. make only source-proven character-identity corrections; do not modernize spelling, punctuation, grammar, or spacing;
+6. retain the scan-9 mark-crossed span as unresolved unless the glyph pass itself provides defensible source evidence;
+7. keep all pages `needs-review`; **do not** perform Stage 4 in the same activity;
+8. commit/sync Stage 3 and stop.
 
 Do **not** begin scans 10–14 until Batch 1 Stage 4 closes. After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
