@@ -6,7 +6,7 @@
 | 6 | 2 | body | **verified — Stage 4 PASS** |
 | 7 | 3 | body | **verified — Stage 4 PASS** |
 | 8 | 4 | body | **verified — Stage 4 PASS** |
-| 9 | 5 | body | **Stage 4 HOLD / needs-review** |
+| 9 | 5 | body | **blocked — terminal physical source loss; Batch 1 closed** |
 | 10 | 6 | body | not-started |
 | 11 | 7 | body | not-started |
 | 12 | 8 | body | not-started |
@@ -34,11 +34,11 @@ Scans **5–9 / printed 1–5**
 - Stage 3: **COMPLETE / 5 pages**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **PARTIAL / HOLD — 4/5 PASS**
+- Stage 4: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
 - Stage-4 source-proven corrections: **0**
 - verified: **4**
-- needs-review: **1 — scan 9**
-- blocked: **0**
+- needs-review: **0**
+- blocked: **1 — scan 9 physical source loss**
 
 ### Stage-2 disposition
 
@@ -61,12 +61,12 @@ Scans **5–9 / printed 1–5**
 ### Stage-4 disposition
 
 - scans **5–8**: **PASS / VERIFIED**
-- scan **9**: **HOLD / NEEDS-REVIEW**
+- scan **9**: **BLOCKED — terminal physical source limitation**
 - Stage-4 source-proven corrections: **0**
-- unresolved source-text spans: **1 — scan 9 mark crossing**
+- un-dispositioned source-text spans: **0**
 - exhaustive image escalation: **performed**
-- batch closure: **OPEN**
+- batch closure: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
 
 ## Exact next activity
 
-Resolve or formally disposition the single scan-9 source obstruction. Do not begin scans 10–14 until Batch 1 closes.
+Batch 2 Stage 1 first-pass transcription — scans **10–14 / printed 6–10**.
