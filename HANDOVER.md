@@ -696,7 +696,18 @@ Current state:
   - scan 9 former physical-loss span: **RESOLVED**
   - guessed reconstruction: **0**
   - remaining actionable Batch-1 review items: **0**
-- remaining transcription / witness comparison: **NOT STARTED**
+- Batch 2 scans **10–14 / printed 6–10**:
+  - Stage 1 first-pass transcription: **COMPLETE 5/5**
+  - page records: **5/5**
+  - page status: **needs-review 5/5**
+  - explicit unresolved first-pass spans: **3 — scan 13**
+  - scan 13→14 boundary: **`சாதனங்` / `களையும்` preserved**
+  - guessed readings: **0**
+  - Stage 2 visual text-fidelity audit: **NEXT**
+  - Stage 3: **NOT STARTED**
+  - Stage 4: **NOT STARTED**
+  - durable Stage-1 record: `STAGE1_BATCH_002.md`
+- remaining later transcription / witness comparison: **NOT STARTED**
 
 Durable intake files:
 
