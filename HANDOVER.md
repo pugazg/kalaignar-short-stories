@@ -678,7 +678,19 @@ Current state:
 - short-story openings visually checked: **3/3**
 - canonical witness routes: **2**
 - new-canonical candidates: **1 — `பெண்கள்`**
-- transcription / witness comparison: **NOT STARTED**
+- retained work 1 transcription: **IN PROGRESS**
+- workspace: `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
+- source-visible scan-5 heading: **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**
+- repository/routing label retained from the user's wording: **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**
+- Batch 1 scans **5–9 / printed 1–5**:
+  - Stage 1 first-pass: **COMPLETE 5/5**
+  - Stage 2: **NEXT**
+  - Stage 3: **NOT STARTED**
+  - Stage 4: **NOT STARTED**
+  - page status: **needs-review 5/5**
+  - verified: **0/5**
+  - blocked: **0**
+- remaining transcription / witness comparison: **NOT STARTED**
 
 Durable intake files:
 
@@ -738,22 +750,29 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-Process 1953 `நாடும் நாடகமும்` retained work 1:
+Continue 1953 `நாடும் நாடகமும்` retained work 1.
 
-**`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — scans 5–24 / printed 1–16, 16-A–16-D.**
+Workspace:
+
+`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
+
+Batch 1 scans **5–9 / printed 1–5** has **Stage 1 first-pass COMPLETE / 5/5** and all five pages remain `needs-review`.
+
+**NEXT: Stage 2 visual text-fidelity audit on the same scans 5–9.**
 
 Before source-dependent writes:
 
 1. fetch live `main`;
-2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 1953 collection intake;
-3. preserve this work **inside `pugazg/kalaignar-short-stories`** despite its prose/discourse genre;
-4. visually confirm scan **5** opening, scan **24 / printed 16-D** ending, and scan **25** `தெருக்கூத்து` boundary;
-5. create a durable workspace for the retained work in this repository;
-6. begin source-faithful Stage 1 first-pass transcription from the supplied scan pixels only.
+2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the active work controls;
+3. reopen scans **5–9** from the user-supplied PDF;
+4. compare every committed Stage-1 page line-by-line / phrase-by-phrase against the scan;
+5. resolve ordinary omissions, wrong letters/words, punctuation, paragraph boundaries, page continuations, and the documented Stage-1 review queue only where direct pixels support the reading;
+6. keep pages `needs-review`; **do not** perform Stage 3 in this same activity;
+7. commit/sync Stage 2 and stop.
 
-After this work is closed, the next source-order retained unit is **`தெருக்கூத்து` — scans 25–51 / printed 17–43**, also to remain in this repository.
+Specific Stage-1 review items include the scan-5 terminal edge reading, the scan-6→7 physical split of `குறிப்பிட்ட`, the scan-7 phrase around `தீயீடு`, scan-8 Krishna/Gopika case endings/punctuation, and the scan-9 phrase crossed by a library/ownership mark.
 
-Do **not** skip directly to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
+Do **not** begin scans 10–14 until Batch 1 Stage 4 closes. After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
 This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover. In particular, do **not** auto-resume 1958 `தேனலைகள்`.
 
