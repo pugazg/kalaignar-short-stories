@@ -1,0 +1,123 @@
+# Vilaiyal Vangalaiyo
+
+<!-- source scan 24; printed page 22 -->
+
+“Why are you just sitting there with a newspaper in your hand? Couldn't you at least wash your face and put on some powder and rouge?”
+
+“Amma! I don't need any polish.”
+
+“Even if it is a gold vessel, only if it is polished will it fetch a good price.”
+
+“Have you turned me into something to be sold for a price?”
+
+“Enough of those questions...... There comes Natarajan...... Ask him.”
+
+“What is little sister saying, Amma?”
+
+“What else is she saying....she refuses the pottukattu.”
+
+“She's singing the same old pallavi, isn't she?”
+
+“Even if I sing the anupallavi, I'll sing the same thing, brother!”
+
+“This obstinate donkey will sing even the charanam...... Lakshmi!....so that our family can live well....”
+
+“So I must be ruined—that's it, isn't it, Amma?”
+
+“Little sister...the zamindar will shower us with gold. We can live in grand style.”
+
+“Brother...must I become a prostitute for your life of pleasure?”
+
+“Don't talk back....Is this why I raised you—to talk like this?”
+
+“Even cattle are raised....in the hope that they'll fetch a good price.”
+
+“Lakshmi......look here....you're making trouble because you're thinking of Vairakkannu!...That wretched fellow
+
+<!-- source scan 25; printed page 23 -->
+
+won't come back to this town. If he does....the zamindar will have his leg broken. Don't argue...do as we say.”
+
+“Brother!......I am a dasi...your sister is a dasi...Ayyo...doesn't that word feel like poison to you?”
+
+“Poison or famine....Do you think this has been going on since our elders' time because they knew nothing?”
+
+“The elders...the supreme enemies of womankind! Sinners!...a nest of snakes!”
+
+“Don't go too far, Lakshmi!....The zamindar is coming to our house the day after tomorrow. If you make any trouble....our very heads will roll.”
+
+“Hey, Nataraja!...Will the zamindar come before the pottu-tying marriage is finished?”
+
+“Go on, Amma!...Throw your old shastra in the rubbish. We can tie the pottu later; let the money come first.”
+
+Natarajan went to the full-length mirror to put his dishevelled hair in order.
+
+Sobbing and sobbing, Lakshmi moved away from there.
+
+Her lips were trembling. The trembling lips stretched out a single word—“Vairakkannu”—and closed again.
+
+○　　　　　　　　　○　　　　　　　　　○
+
+Vairakkannu finished writing the editorial. He read its closing passages twice.
+
+<!-- source scan 26; printed page 24 -->
+
+“Society!......Fine society......rotten
+society. A worm-eaten society in which
+heartless good-for-nothings roam.”
+
+He folded it just as it was and leaned back in his chair.
+
+“An editor, is he...an editor! If you don't
+put down the interest and principal on the debt by tomorrow,
+brother...you'll be counting prison bars. Be careful.”
+
+That stinging warning was thundering like a bolt inside Vairakkannu's heart.
+
+It was the notice of danger brought on by his failure to repay the five hundred rupees he had borrowed from Ariyanayaka Mudaliar to run the newspaper!
+
+After a long silence came one long sigh. His eyes had become pools, and two drops of water clung to his cheeks.
+
+He picked up a letter lying on the table and unfolded it. Its creases were worn. He seemed to have read it that many times.
+
+“Dear Aththan........we shall meet soon...”
+
+The movement of his lips showed that the ending “we shall meet soon” was sweeter than even “Dear Aththan.” The tears that had stood on his cheeks had dried.
+
+It seemed as though a cuckoo had called out, “Aththan.”
+
+Vairakkannu sprang up. His heart began to pound.
+
+Lakshmi!......“Aththan”!! Those heartbeats intertwined with one another.
+
+The silence did not last long.
+
+<!-- source scan 27; printed page 25 -->
+
+“You only wrote the letter yesterday. How did you get here so soon, Lakshmi?”
+
+“I escaped from a great danger.
+Listen—following Amma's wish.........and accepting
+Nataraj brother's invitation......the zamindar came
+to marry me first. I was
+forced into a room.”
+
+“Ah!”
+
+“Listen! I pleaded with the zamindar again and again. All my admonitions were like the speech of a mute to him. My plea that he should not smear poison over my life...how would he have listened to it at that moment?”
+
+“He pointed a gun at you and threatened you.”
+
+“I resorted to a daring plan. Every variety of liquor ended up mixed in the zamindar's stomach. He thought it a great blessing to receive them from my own hands and drink them. When his hand trembled as he took the cup, I poured it into his mouth myself.”
+
+“That was all. The drink went to the zamindar's head and he collapsed.”
+
+“Then?”
+
+“I stayed awake. Four in the morning, before dawn! The whole house was fast asleep. I slipped out in the darkness and boarded the train. Now....”
+
+“Lakshmi!......brave Lakshmi......?”
+
+“Aththan...these diamond bangles were given by the zamindar.”
+
+“Poor fellow......a pitiable man. He was thoroughly fooled.”
