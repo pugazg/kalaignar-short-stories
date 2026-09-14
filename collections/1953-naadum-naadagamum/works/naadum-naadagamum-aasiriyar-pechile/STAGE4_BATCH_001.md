@@ -66,7 +66,7 @@ No OCR, web text, Wikisource, catalogue text, or alternate-edition wording was i
 
 The page was subsequently reopened after the user challenged the lower-line reading and supplied a transliterated reading. Fresh enlarged native-pixel inspection resolved the formerly disputed line as:
 
-`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்டிறேன்.`
+`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`
 
 The previous `மத நம்பிக்கை` / intermediate `மத நம்பிக்கையின்மை` readings and `தந்திரம்` reading are superseded.
 
