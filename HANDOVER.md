@@ -413,20 +413,13 @@ Current processing state:
 - Stage 1 transcription: **0/12 stories**
 - English: **NOT STARTED**
 
-## Exact next activity — current
+## Deferred next activity — 1958
 
-Story 1 **`முத்தாரம்`**, scans **7–17 / printed 1–11**.
+The source remains intake-complete, but **the collection is explicitly DEFERRED**.
 
-Before writing story text:
+If the user later returns to this PDF, the first activity would be Story 1 **`முத்தாரம்`**, scans **7–17 / printed 1–11**, after a fresh live-`main` canonical-deduplication check.
 
-1. fetch live `main`;
-2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 1958 collection intake files;
-3. reconfirm no canonical duplicate exists;
-4. visually confirm scan 7 opening and scan 17 ending / scan 18 `மயிலிறகு` boundary;
-5. create the Story 1 canonical workspace/page records;
-6. begin **Stage 1 first-pass transcription** for `முத்தாரம்`.
-
-Do not begin Story 2 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+Do **not** execute that activity automatically while another newly supplied source is active.
 
 ## Closed source — 1969 `கண்ணடக்கம்`
 
@@ -638,3 +631,125 @@ The exact 1977 controlling scan **166 / printed 157** was freshly reopened at en
 - 1969 witness: agrees
 - 2009 witness: agrees
 - recheck candidate: **CLOSED**
+
+## Active source — 1953 `நாடும் நாடகமும்`
+
+Controlling attached source:
+
+`TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
+
+Collection workspace:
+
+`collections/1953-naadum-naadagamum/`
+
+Source identity:
+
+- bytes: **119,943,631**
+- SHA-256: **`f852f0d0e5501cf74109c491ec8ae7ba9cb0840289524c95556144423beb887f`**
+- physical scans: **80**
+- printed title: **நாடும் நாடகமும்**
+- author: **மு. கருணாநிதி**
+- publisher: **திராவிடப்பண்ணை**
+- represented edition: **முதல் பதிப்பு — 1953**
+- source type: **image-only; direct scan pixels control**
+- source PDF committed: **No**
+
+This is a **mixed publication**, not a pure short-story anthology.
+
+Physical routing:
+
+- scans **1–4** — front matter / `பதிப்புரை`
+- scans **5–20 / printed 1–16** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — non-story prose/discourse
+- scans **21–24 / printed 16-A–16-D** — continuation of the same non-story unit
+- scans **25–51 / printed 17–43** — `தெருக்கூத்து` — dramatic work / non-story
+- scans **52–68 / printed 44–60** — `ஆலமரத்துப் புறாக்கள்` — existing canonical, earlier witness
+- scans **69–75 / printed 61–67** — `பெண்கள்` — new-canonical candidate at intake
+- scans **76–80 / printed 68–72** — `இரகசியம்!` — existing canonical, earlier witness
+
+No printed TOC is visible. Scan **80 / printed 72** closes `இரகசியம்!` with the terminal star and is the final supplied scan.
+
+Current state:
+
+- source registration: **COMPLETE**
+- whole-source scan map: **COMPLETE**
+- short-story inventory: **3/3 COMPLETE**
+- short-story openings visually checked: **3/3**
+- canonical witness routes: **2**
+- new-canonical candidates: **1 — `பெண்கள்`**
+- story transcription / witness comparison: **NOT STARTED**
+
+Durable intake files:
+
+- `collections/1953-naadum-naadagamum/README.md`
+- `collections/1953-naadum-naadagamum/metadata/source.md`
+- `collections/1953-naadum-naadagamum/indexes/scan-map.md`
+- `collections/1953-naadum-naadagamum/indexes/story-inventory.md`
+
+## Queued source — 1979 `பழக்கூடை`
+
+Controlling attached source:
+
+`TVA_BOK_0064146_பழக்கூடை.pdf`
+
+Collection workspace:
+
+`collections/1979-pazhakkoodai/`
+
+Source identity:
+
+- bytes: **74,336,202**
+- SHA-256: **`b62a13eadc3c520721c9690e3c99fd949072a1abbcb388627262dc4ac841b11d`**
+- physical scans: **65**
+- printed title: **பழக்கூடை**
+- author: **மு. கருணாநிதி**
+- publisher: **திராவிடப்பண்ணை**
+- represented printed edition: **மூன்றாம் பதிப்பு — 1979**
+- source type: **image-only; direct scan pixels control**
+- source PDF committed: **No**
+
+The handwritten scan-3 note that appears to reference 1955 is treated as a provenance annotation only; it does not replace the printed 1979 third-edition statement.
+
+Story inventory — **5/5 COMPLETE**:
+
+1. source `தொடர்கதை` — scans **6–35 / printed 5–34** — same work as canonical `முடியாத தொடர்கதை`; title variant / witness
+2. `கடைசிக் கட்டம்` — scans **36–41 / printed 35–40** — existing canonical witness
+3. `புகழேந்தி` — scans **42–48 / printed 41–47** — existing canonical witness
+4. `திடுக்கிடும் கதை` — scans **49–55 / printed 48–54** — existing canonical witness
+5. `அபாக்ய சிந்தாமணி` — scans **56–65 / printed 55–64** — existing canonical witness
+
+All five stories route to existing canonical workspaces; **new canonical stories: 0**.
+
+Current state:
+
+- source registration: **COMPLETE**
+- scan map: **COMPLETE**
+- story inventory: **5/5 COMPLETE**
+- witness comparison: **NOT STARTED**
+- queue state: **WAIT until the active 1953 `நாடும் நாடகமும்` activity is completed or the user explicitly redirects**
+
+Durable intake files:
+
+- `collections/1979-pazhakkoodai/README.md`
+- `collections/1979-pazhakkoodai/metadata/source.md`
+- `collections/1979-pazhakkoodai/indexes/scan-map.md`
+- `collections/1979-pazhakkoodai/indexes/story-inventory.md`
+
+## Exact next activity — CURRENT
+
+Process 1953 `நாடும் நாடகமும்` short-story item 1:
+
+**`ஆலமரத்துப் புறாக்கள்` — scans 52–68 / printed 44–60 — earlier witness comparison.**
+
+Before source-dependent writes:
+
+1. fetch live `main`;
+2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 1953 collection intake;
+3. confirm the canonical route remains `stories/aalamarathup-puraakkal/`;
+4. visually confirm scan **52** opening, scan **68** ending, and scan **69** `பெண்கள்` boundary;
+5. create a 1953 witness workspace under the existing canonical story;
+6. compare the full **17 source scans** against the canonical work, preserving edition-specific wording and structure and never silently overwriting the 1977 canonical text.
+
+Do **not** begin `பெண்கள்` in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+
+This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover. In particular, do **not** auto-resume 1958 `தேனலைகள்`.
+
