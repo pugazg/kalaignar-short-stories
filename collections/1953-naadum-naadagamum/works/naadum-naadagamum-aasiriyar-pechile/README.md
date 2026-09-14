@@ -42,7 +42,7 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - Stage 4 final independent check: **COMPLETE / PASS after targeted scan-9 resolution**
 - Stage-4 source-proven corrections: **0**
 - post-closure word-by-word fidelity re-audit: **COMPLETE — 5/5**
-- post-closure source-proven corrections: **18**
+- post-closure source-proven corrections: **19**
 - page status: **verified 5/5**
 - verified: **5/20**
 - blocked: **0/20**
@@ -57,7 +57,7 @@ Scans **5–9 / printed 1–5** are **CLOSED / VERIFIED 5/5**.
 - scans 5–8 — **verified after fresh word-by-word re-audit**
 - scan 9 — **VERIFIED after user-guided targeted lower-line recheck**
 - word-by-word audit — [`WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`](WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md)
-- re-audit source-proven corrections — **18**
+- re-audit source-proven corrections — **19**
 - resolved historical limitation record — [`SOURCE_LIMITATION_SCAN_009.md`](SOURCE_LIMITATION_SCAN_009.md)
 - no guessed reconstruction
 
