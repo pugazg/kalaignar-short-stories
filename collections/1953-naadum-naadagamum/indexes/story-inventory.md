@@ -4,7 +4,7 @@
 
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 Stage 4 PARTIAL: scans 5–8 VERIFIED; scan 9 HOLD** |
+| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 CLOSED UNDER SOURCE LIMITATION; Batch 2 Stage 1 NEXT** |
 | B | `தெருக்கூத்து` | play | 17–43 | 25–51 | **retain/process in this repository** | **NOT STARTED** |
 
 ## Short-story inventory basis
@@ -76,11 +76,10 @@ The 1953 opening begins with the same poet figure and wording as the closed 1977
 
 Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**.
 
-Batch 1 scans **5–9 / printed 1–5**:
+Batch 1 scans **5–9 / printed 1–5** is **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**:
 
-- scans 5–8 — **VERIFIED**
-- scan 9 — **Stage 4 HOLD / NEEDS-REVIEW**
-- Stage-4 corrections — **0**
-- unresolved source spans — **1**
+- scans 5–8 — verified
+- scan 9 — blocked only at one physically obliterated span
+- guessed reconstruction — 0
 
-Next: resolve or formally disposition the scan-9 source obstruction. Do not start scans 10–14 in the same activity.
+Next: **Batch 2 Stage 1 first-pass transcription, scans 10–14 / printed 6–10**.
