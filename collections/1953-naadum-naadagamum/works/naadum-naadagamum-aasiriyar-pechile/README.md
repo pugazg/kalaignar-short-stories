@@ -36,8 +36,10 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
 - Stage-2 source-proven corrections: **16**
 - Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
-- Stage 3 historical-glyph audit: **NOT STARTED**
-- Stage 4 final independent check: **NOT STARTED**
+- Stage 3 historical-glyph audit: **COMPLETE — 5/5**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final independent check: **NEXT**
 - page status: **needs-review 5/5**
 - verified: **0/20**
 - blocked: **0**
@@ -46,10 +48,13 @@ Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
 ## Exact next activity
 
-Run **Stage 3 historical Tamil glyph audit** for the same Batch 1 scans **5–9 / printed 1–5**.
+Run **Stage 4 final independent source check** for Batch 1 scans **5–9 / printed 1–5**.
 
-Explicitly audit historical identities such as `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` directly against the source pixels. Do not use global replacement or modernize spelling.
+Start fresh from the Stage-3 committed text and compare all five pages end-to-end against the controlling scan pixels. Confirm ordinary text, punctuation, paragraphing, page boundaries, the **16 Stage-2 corrections**, and the **0-change Stage-3 glyph disposition**.
 
-Keep all five pages `needs-review`; do **not** perform Stage 4 or begin scans 10–14 in the same activity.
+The scan-9 library/ownership-mark-crossed source span remains unresolved. Apply the exhaustive source-resolution protocol during Stage 4; do not guess. Promote pages to `verified` only if every source-text issue receives a defensible disposition.
 
-Stage-2 audit record: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)
+Do **not** begin scans 10–14 in the same activity.
+
+Stage-2 audit: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)  
+Stage-3 audit: [`STAGE3_BATCH_001.md`](STAGE3_BATCH_001.md)
