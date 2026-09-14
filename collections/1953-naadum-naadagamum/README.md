@@ -97,21 +97,19 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage 2 visual fidelity: **COMPLETE 5/5**
   - Stage-2 source-proven corrections: **16**
   - Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
-  - Stage 3–4: **NOT STARTED**
+  - Stage 3 historical glyph: **COMPLETE 5/5**
+  - Stage-3 character-identity corrections: **0**
+  - Stage 4: **NEXT**
   - page status: **needs-review 5/5**
 - remaining transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Run **Stage 3 historical Tamil glyph audit** for retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`, Batch 1 scans **5–9 / printed 1–5**.
+Run **Stage 4 final independent source check** for retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`, Batch 1 scans **5–9 / printed 1–5**.
 
-Workspace:
+Stages 1–3 are complete. Stage 2 made **16 source-proven corrections**; Stage 3 found **0 character-identity corrections / 0 unresolved glyph clusters**.
 
-`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
+One scan-9 source-text span remains obscured by a library/ownership mark. Stage 4 must apply the exhaustive source-resolution protocol and may mark pages `verified` only if all source-text issues receive a defensible disposition.
 
-Stage 2 is complete with **16 source-proven corrections**. One scan-9 source span crossed by a library/ownership mark remains unresolved and must not be guessed.
-
-Keep all five pages `needs-review` after Stage 3. Do **not** begin Stage 4 or scans 10–14 in the same activity.
-
-After this retained work closes, process `தெருக்கூத்து` next in source order; do not skip to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
+Do **not** begin scans 10–14 in the same activity. After this retained work closes, process `தெருக்கூத்து` next in source order.
