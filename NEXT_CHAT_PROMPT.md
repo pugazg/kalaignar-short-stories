@@ -43,14 +43,15 @@ Intake is **COMPLETE**:
 - workspace — `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 - Batch 1 scans **5–9 / printed 1–5** Stage 1 — **COMPLETE 5/5**
 - Stage 2 visual text-fidelity — **COMPLETE 5/5**
-- Stage-2 source-proven corrections — **16**
-- Stage-2 unresolved source-text spans — **1 — scan 9 mark crossing**
-- Batch 1 page status — **needs-review 5/5**
+- historical Stage-2 source-proven corrections — **16**
 - Stage 3 historical glyph — **COMPLETE 5/5**
 - Stage-3 character-identity corrections — **0**
-- Stage-3 unresolved glyph clusters — **0**
 - Stage 4 — **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
-- Batch 1 disposition — **scans 5–8 VERIFIED; scan 9 BLOCKED at one physical-loss span**
+- post-closure word-by-word visual fidelity re-audit — **COMPLETE 5/5**
+- re-audit source-proven corrections — **14**
+- scans 5–8 — **RE-VERIFIED**
+- scan 9 recoverable text — **PASS**
+- scan 9 terminal physical-loss span — **BLOCKED / UNCHANGED**
 - guessed reconstruction — **0**
 - remaining transcription / witness comparison — **NOT STARTED**
 
@@ -82,12 +83,21 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** is **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**:
+Batch 1 scans **5–9 / printed 1–5** is closed after the user-requested **word-by-word visual fidelity re-audit**:
 
-- scans 5–8 — verified
-- scan 9 — blocked only at one physically obliterated source span
-- no guessed reconstruction
-- durable limitation record — `SOURCE_LIMITATION_SCAN_009.md`
+- scans checked — **5/5**
+- additional source-proven corrections — **14**
+- scans 5–8 — **RE-VERIFIED**
+- scan 9 recoverable text — **PASS**
+- scan 9 physical-loss span — **BLOCKED / UNCHANGED**
+- guessed reconstruction — **0**
+- durable audit — `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
+
+Important boundary correction:
+
+- scan 8 ends `... ஓவியன் தீட்டிக்`
+- scan 9 begins `காட்டிய வனப்பும் ...`
+- continuous phrase: `ஓவியன் தீட்டிக் காட்டிய வனப்பும்`
 
 Run **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**:
 
