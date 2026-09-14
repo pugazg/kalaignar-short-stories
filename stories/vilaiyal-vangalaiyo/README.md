@@ -39,7 +39,7 @@ No existing canonical story was found. This workspace is therefore the canonical
 - Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
 - Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
 - Stage 4 synchronized Tamil assembly / controls: **PASS / CLOSED**
-- English: **IN PROGRESS — FULL-STORY REVIEW PASS / final page-anchor closure NEXT**
+- English: **PASS / CLOSED**
 
 After Stage 3, all **8/8** page records are `verified`.
 
@@ -59,7 +59,7 @@ To keep every step durable and synchronized:
 10. English scans 24–27 — **COMPLETE / COMMITTED**
 11. English scans 28–31 — **COMPLETE / COMMITTED**
 12. Full-story English fidelity / terminology review — **COMPLETE / PASS**
-13. Physical page-anchor validation / final English closure — **NEXT**
+13. Physical page-anchor validation / final English closure — **COMPLETE / PASS**
 Current T1 checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md), and [`T1_BATCH_030_031.md`](T1_BATCH_030_031.md).
 
 Stage-2 checkpoints: [`STAGE2_BATCH_024_027.md`](STAGE2_BATCH_024_027.md) and [`STAGE2_BATCH_028_031.md`](STAGE2_BATCH_028_031.md).
@@ -102,4 +102,10 @@ The 1953 collection-wide Tamil/source gate is **CLOSED / PASS**. English draftin
 - unresolved fidelity / terminology issues: **0**
 - Tamil reopened during review: **No**
 
-The next durable activity is the dedicated **physical page-anchor validation / final English closure** gate.
+- page-anchor manifest: [`translations/en/page-anchors.json`](translations/en/page-anchors.json)
+- final page-anchor validation: **PASS 8/8**
+- validator: **PASS with human-reviewed boundary anchors**
+- regression proof: **corrected PASS → shifted-marker expected FAIL → restored PASS**
+- English status: **PASS / CLOSED**
+
+No further activity is required for this story unless genuinely new evidence appears.
