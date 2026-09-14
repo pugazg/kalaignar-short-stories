@@ -4,10 +4,10 @@ printed_page: 24
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "partial"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 first-pass direct visual transcription from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
 ---
 
 “சமுதாயம்!......நல்ல சமுதாயம்......கெடுகெட்ட
@@ -36,7 +36,7 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 
 வைரக்கண்ணு திடுக்கிட்டு எழுந்தான். அவன் நெஞ்சு படபடவென்று அடித்துக் கொண்டது.
 
-லட்சுமி!......‘அத்தான்’!! இந்த இதய ஒலிகள் <!-- T1 unresolved source cluster: exact words before “பின்னிக் கொண்டன” require Stage-2 native-glyph recheck; do not infer. --> பின்னிக் கொண்டன.
+லக்ஷ்மி!......‘அத்தான்’!! இந்த இதய ஒலிகள் ஒன்றோடொன்று பின்னிக் கொண்டன.
 
 அமைதி அதிக நேரம் நீடிக்கவில்லை.
 
@@ -52,3 +52,17 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 - unresolved text has been left explicitly unresolved rather than reconstructed from context.
 
 <!-- anthology scan: 26; printed page: 24 -->
+
+
+## Stage 2 historical-glyph / difficult-reading audit
+
+**PASS FOR STAGE 2 — page remains `needs-review` pending Stage 3.**
+
+- complete page re-inspected at native / enlarged resolution;
+- checked all 13 known historical families;
+- the source-visible physical line break `வைக்கா / விட்டால்` is retained in the page record and is not used to force a lexical rewrite;
+- previously unresolved clause resolved directly from source pixels:
+  - `இந்த இதய ஒலிகள் ஒன்றோடொன்று பின்னிக் கொண்டன.`;
+- source spelling `லக்ஷ்மி` restored where T1 had `லட்சுமி`;
+- no semantic inference, global replacement or modernization was used;
+- unresolved Stage-2 glyph clusters on this page: **0**.
