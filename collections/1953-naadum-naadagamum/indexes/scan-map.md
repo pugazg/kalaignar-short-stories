@@ -9,7 +9,7 @@
 | 1 | — | cover/title | `நாடும் நாடகமும்` / `மு. கருணாநிதி` / `திராவிடப்பண்ணை` | registered |
 | 2 | — | edition / imprint | `முதல் பதிப்பு — 1953`; price; printer line | registered |
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
-| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — scans 5–9 Stage 1 complete; scans 10–20 not-started** |
+| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — scans 5–9 Stage 2 complete / Stage 3 next; scans 10–20 not-started** |
 | 21–24 | 16-A–16-D | prose/discourse | continuation of `நாடும் நாடகமும்` | retained here / pending processing |
 | 25–51 | 17–43 | play | `தெருக்கூத்து`; begins `காட்சி 1` | **retained here / pending processing** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | inventory only / existing-canonical witness |
@@ -61,8 +61,10 @@ No story text was transcribed during intake.
 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — Batch 1 scans **5–9 / printed 1–5**:
 
 - Stage 1 first-pass: **COMPLETE 5/5**
-- Stage 2: **NEXT**
-- Stage 3: **NOT STARTED**
+- Stage 2: **COMPLETE 5/5**
+- Stage-2 source-proven corrections: **16**
+- Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
+- Stage 3: **NEXT**
 - Stage 4: **NOT STARTED**
 - verified: **0/5**
 - current page status: **needs-review 5/5**
