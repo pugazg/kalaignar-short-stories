@@ -70,8 +70,8 @@ Scans **5–9 / printed 1–5**
 ### Post-closure word-by-word re-audit
 
 - scans checked word by word: **5/5**
-- additional source-proven corrections: **14**
-- wording / spelling / source-spacing: **7**
+- additional source-proven corrections: **15**
+- wording / spelling / source-spacing: **8**
 - punctuation: **7**
 - scan 8→9 boundary: **resolved as `தீட்டிக்` / `காட்டிய`**
 - scan 9 physical-loss span: **unchanged**
