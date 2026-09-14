@@ -26,10 +26,14 @@ Boundary witness:
 - Stage 4 Tamil assembly / controls: **PASS / CLOSED**
 - reading layer: `../sections/vilaiyal-vangalaiyo.md`
 - Tamil/source closure: `../TAMIL_SOURCE_CLOSURE.md`
-- English: **IN PROGRESS — full-story fidelity / terminology review PASS; final page-anchor closure NEXT**
+- English: **PASS / CLOSED**
 - English page markers present / ordered: **PASS 8/8**
 - English draft-stage physical boundary alignment: **PASS 8/8**
 - English meaningful dividers: **PASS 3/3**
 
 - reviewed English title: **Bought for a Price?**
 - full-story English fidelity / terminology issues open: **0**
+
+- English page-anchor manifest: `../translations/en/page-anchors.json`
+- English physical page anchoring: **PASS 8/8**
+- English validator regression: **PASS → expected anchor FAIL → PASS**
