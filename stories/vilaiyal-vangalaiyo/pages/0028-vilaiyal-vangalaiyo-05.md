@@ -4,10 +4,10 @@ printed_page: 26
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 “அத்தான்.........இன்று முதல் நம் வாழ்க்கை ஆரம்பம்.”
@@ -24,7 +24,7 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 
 “நான் நம்பமாட்டேன்... நடந்ததைச் சொல்லுங்கள்.”
 
-வைரக்கண்ணு வாய் திறக்கவேயில்லை. லக்ஷ்மியின் இடைவிடாத பிடிவாதத்தால் கடைசியில், தான் பட்ட கஷ்டங்களால் ‘கோர்ட்’டுக்குச் செல்லவேண்டு மென்ற உண்மை வெளியாகிற்று. லக்ஷ்மி கவலைப் படவே இல்லை. ஜமீன்தார் போட்ட வளையல்களைக் கழற்றினாள். தன் கழுத்தில் கிடந்த சிறிய சங்கிலியையும் வளையல்களையும் வைரக்கண்ணுவிடம் அளித்தாள்.
+வைரக்கண்ணு வாய் திறக்கவேயில்லை. லக்ஷ்மியின் இடைவிடாத பிடிவாதத்தால் கடைசியில், தான் பட்ட கஷ்டங்களால் ‘கோர்ட்’டுக்குச் செல்லவேண்டு மென்ற உண்மை வெளியாயிற்று. லக்ஷ்மி கவலைப் படவே யில்லை. ஜமீன்தார் போட்ட வளையல்களைக் கழற்றினாள். தன் கழுத்தில் கிடந்த சிறிய சங்கிலியையும் வளையல்களையும் வைரக்கண்ணுவிடம் அளித்தாள்.
 
 “அத்தான்.........இவைகளை நாளைக்கே விற்று விடுங்கள். கடன் தீரட்டும். மீதிப்பணம்......பத்திரிகைக்கு முதலாக இருக்கட்டும். நீங்கள் தயங்க வேண்டாம்.”
 
@@ -70,3 +70,18 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - source-visible `செல்லவேண்டு மென்ற` and joined `புதுஒளி` are retained exactly;
 - no global replacement or lexical modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the full page was independently re-read line by line from the controlling native / enlarged scan;
+- dialogue sequence, ellipsis punctuation, the three-open-circle divider, paragraphing and lower-page narrative were rechecked;
+- Stage-2 repairs were independently revalidated, including `அத்தான்.....ஏன் அழுகிறீர்கள்?`, source `லக்ஷ்மி`, and the historical-`ளை` readings in `வளையல்களைக் / வளையல்களையும் / வளையல்களை`;
+- Stage-3 source-fidelity corrections:
+  1. `வெளியாகிற்று` → `வெளியாயிற்று`;
+  2. `கவலைப் படவே இல்லை` → `கவலைப் படவே யில்லை`;
+- `செல்லவேண்டு மென்ற`, joined `புதுஒளி`, and final `மாட மாளிகைகளை யெல்லாம் மண் மேடாக` remain source-supported;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
