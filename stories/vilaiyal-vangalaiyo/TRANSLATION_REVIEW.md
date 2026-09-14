@@ -2,9 +2,9 @@
 
 ## Status
 
-**FULL-STORY FIDELITY / TERMINOLOGY REVIEW — PASS.**
+**PASS / CLOSED — ENGLISH TRANSLATION COMPLETE.**
 
-Overall English phase remains **IN PROGRESS** only because the dedicated physical page-anchor validation / final English closure gate has not yet run.
+Full-story fidelity, terminology, and physical page-anchor validation are all **PASS**.
 
 ## Scope
 
@@ -158,7 +158,46 @@ The reviewed English preserves:
 - scan 30→31 draft boundary: **preserved**
 - final scan contains substantive translated ending: **Yes**
 
-These checks are not the final physical page-anchor closure. The dedicated anchor gate still must create / adjudicate boundary anchors and run the repository validator.
+These draft-stage checks were subsequently closed by the dedicated human-adjudicated page-anchor gate described below.
+
+## Final physical page-anchor validation
+
+Manifest:
+
+`translations/en/page-anchors.json`
+
+Human-adjudicated anchors cover scans **24–31 / printed 22–29** exactly once.
+
+Final validator result:
+
+`PASS stories/vilaiyal-vangalaiyo: scans 24–31 are structurally anchored with human-reviewed boundary anchors`
+
+Validation checks:
+
+- marker scan sequence **24–31 exactly once — PASS**;
+- printed pages **22–29 exactly once — PASS**;
+- all **8/8** verified Tamil story pages have substantive English content — **PASS**;
+- scan **31** final English section is substantive / non-empty — **PASS**;
+- human-reviewed start / end anchors **8/8 — PASS**;
+- three-open-circle dividers **3/3 — PASS**;
+- scan 29→30 split-word boundary `sa` → `id` — **PASS**;
+- scan 30→31 sentence continuation — **PASS**.
+
+Validator self-test:
+
+- corrected fixture — **PASS**;
+- shifted-marker fixture — **EXPECTED FAIL because of anchoring**;
+- restored fixture — **PASS**.
+
+Story-specific regression proof:
+
+1. corrected live-equivalent state — **PASS**;
+2. temporary shifted scan-29→30 marker fixture — **FAIL because of page anchoring**, specifically:
+   - scan 29 no longer ended with expected `he sa`;
+   - scan 30 no longer began with expected `id something in Hindustani to his shop boy.`;
+3. restored corrected state — **PASS**.
+
+The defective fixture was temporary and was **not committed**.
 
 ## Tamil/source issues reopened during review
 
@@ -172,10 +211,19 @@ Canonical Tamil was not modified to improve English.
 - terminology review: **PASS**
 - title decision: **CLOSED — Bought for a Price?**
 - unresolved English fidelity / terminology issues: **0**
-- English phase status: **IN PROGRESS — final page-anchor validation / closure pending**
+- physical page-anchor validation: **PASS**
+- English phase status: **PASS / CLOSED**
 
-## Next gate
+## Final disposition
 
-Run the dedicated **physical page-anchor validation / final English closure** gate.
+**ENGLISH PASS / CLOSED.**
 
-That gate must use the verified Tamil page records, create / adjudicate `translations/en/page-anchors.json`, run `scripts/validate-english-page-anchors.py`, perform the required corrected → shifted-defect → restored regression check, synchronize controls, and only then mark the English translation / collection phase final `PASS`.
+- reviewed English title: **Bought for a Price?**
+- full-story fidelity / terminology review: **PASS**
+- page-anchor manifest: **PASS 8/8**
+- validator: **PASS**
+- corrected → shifted-defect → restored regression: **PASS / EXPECTED FAIL / PASS**
+- unresolved English issues: **0**
+- Tamil changed during English: **No**
+
+No further activity is required for this story unless genuinely new source evidence appears.
