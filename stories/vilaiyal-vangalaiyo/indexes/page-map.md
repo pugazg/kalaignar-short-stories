@@ -23,4 +23,7 @@ Boundary witness:
 - Stage 2 historical-glyph audit: **8/8 COMPLETE / PASS**
 - Stage 3 final source / visual fidelity: **8/8 COMPLETE / PASS**
 - page statuses: **needs-review 0 / partial 0 / verified 8**
-- English: **blocked**
+- Stage 4 Tamil assembly / controls: **PASS / CLOSED**
+- reading layer: `../sections/vilaiyal-vangalaiyo.md`
+- Tamil/source closure: `../TAMIL_SOURCE_CLOSURE.md`
+- English: **blocked by collection-wide Tamil-first gate**
