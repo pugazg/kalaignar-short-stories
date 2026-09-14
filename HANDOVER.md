@@ -690,7 +690,7 @@ Current state:
   - Stage-3 character-identity corrections: **0**
   - Stage 4: **COMPLETE / PASS after targeted scan-9 resolution**
   - post-closure word-by-word visual fidelity re-audit: **COMPLETE 5/5**
-  - re-audit source-proven corrections: **18**
+  - re-audit source-proven corrections: **19**
   - scans 5–9: **VERIFIED**
   - scan 9: **VERIFIED**
   - scan 9 former physical-loss span: **RESOLVED**
@@ -765,8 +765,8 @@ Workspace:
 Batch 1 scans **5–9 / printed 1–5** has now completed the user-requested **word-by-word visual text-fidelity re-audit**:
 
 - scans checked word by word — **5/5**
-- additional source-proven corrections — **18**
-- wording / spelling / source-spacing corrections — **11**
+- additional source-proven corrections — **19**
+- wording / spelling / source-spacing corrections — **12**
 - punctuation corrections — **7**
 - scans **5–9** — **VERIFIED**
 - scan **9** — **VERIFIED**
@@ -777,11 +777,16 @@ Batch 1 scans **5–9 / printed 1–5** has now completed the user-requested **w
 
 Targeted scan-9 lower-line resolution after user review:
 
-- earlier archive reading — `‘மத நம்பிக்கை’ என்ற போர்வை ... தந்திரம் ஆளவந்தாரையும் கேட்டிறேன்`
+- earlier archive reading — `‘மத நம்பிக்கை’ என்ற போர்வை ... தந்திரம் ஆளவந்தாரையும் கேட்கிறேன்`
 - superseded intermediate reading — `‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
-- final source-supported reading — **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்டிறேன்.`**
+- final source-supported reading — **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`**
 - former physical-loss hold — **RESOLVED**
 - guessed reconstruction — **0**
+
+Targeted final-word correction after user review:
+
+- incorrect — `கேட்டிறேன்`
+- source-visible — **`கேட்கிறேன்`**
 
 Important resolved boundary:
 
