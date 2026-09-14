@@ -108,17 +108,23 @@ No new canonical story folder was created in this intake-only iteration.
   - page status: **verified 5/5**
   - Batch 2 scans **10–14 / printed 6–10**
   - Stage 1 first-pass: **COMPLETE 5/5**
+  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
+  - Stage-2 source-proven corrections: **22**
+  - Stage-1 uncertain spans resolved at Stage 2: **1/3**
+  - unresolved source-text spans: **2 — scan 13**
   - page status: **needs-review 5/5**
-  - explicit unresolved first-pass spans: **3 — scan 13**
   - guessed readings: **0**
-  - Batch 2 Stage 2 visual fidelity: **NEXT**
+  - Batch 2 Stage 3 historical glyph: **NEXT**
+  - Batch 2 Stage 4: **NOT STARTED**
 - remaining later transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 2 visual text-fidelity audit**, scans **10–14 / printed 6–10**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 3 historical Tamil glyph audit**, scans **10–14 / printed 6–10**.
 
-Batch 1 scans 5–9 is **CLOSED / VERIFIED 5/5** after the requested word-by-word re-audit and user-guided targeted scan-9 recheck. **19 final source-proven corrections** are recorded; the former scan-9 hold is resolved; guessed reconstruction remains 0.
+Batch 1 scans 5–9 remains **CLOSED / VERIFIED 5/5**.
 
-Stage 1 is durably complete. Resolve the first-pass review queue at Stage 2, keep pages `needs-review`, commit/sync, and stop before Stage 3.
+Batch 2 Stage 2 is durably **COMPLETE 5/5** with **22 source-proven corrections**. One of the three Stage-1 scan-13 uncertainties was resolved; two remain explicitly unresolved with no guessed reconstruction. All five pages remain `needs-review`.
+
+Run Stage 3 only, synchronize controls, commit, and stop before Stage 4.

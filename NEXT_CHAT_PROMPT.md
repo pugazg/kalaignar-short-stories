@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 2 Stage 2 scans 10–14
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 2 Stage 3 scans 10–14
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,64 +26,7 @@ Source identity:
 
 Do not use OCR, web copies, Wikisource, catalogue text, or an alternate edition as source authority.
 
-## Intake state
-
-Collection workspace:
-
-`collections/1953-naadum-naadagamum/`
-
-Intake is **COMPLETE**:
-
-- whole-source scan map — **COMPLETE**
-- full body-unit inventory — **5/5 COMPLETE**
-- repository-retained special works — **2/2**
-- short-story inventory — **3/3 COMPLETE**
-- story openings visually checked — **3/3**
-- retained work 1 transcription — **IN PROGRESS**
-- workspace — `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
-- Batch 1 scans **5–9 / printed 1–5** Stage 1 — **COMPLETE 5/5**
-- Stage 2 visual text-fidelity — **COMPLETE 5/5**
-- historical Stage-2 source-proven corrections — **16**
-- Stage 3 historical glyph — **COMPLETE 5/5**
-- Stage-3 character-identity corrections — **0**
-- Stage 4 — **COMPLETE / PASS after targeted scan-9 resolution**
-- post-closure word-by-word visual fidelity re-audit — **COMPLETE 5/5**
-- re-audit source-proven corrections — **19**
-- scans 5–9 — **VERIFIED**
-- scan 9 — **VERIFIED**
-- scan 9 former physical-loss span — **RESOLVED**
-- guessed reconstruction — **0**
-- Batch 2 scans **10–14 / printed 6–10** Stage 1 — **COMPLETE 5/5**
-- Batch 2 page status — **needs-review 5/5**
-- Batch 2 explicit unresolved first-pass spans — **3 — scan 13**
-- Batch 2 scan 13→14 boundary — **`சாதனங்` / `களையும்` preserved**
-- Batch 2 guessed readings — **0**
-- Batch 2 Stage 2 visual fidelity — **NEXT**
-- remaining later transcription / witness comparison — **NOT STARTED**
-
-The publication is mixed:
-
-- scans 5–24 — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — prose/discourse — **retain/process in this repository**;
-- scans 25–51 — `தெருக்கூத்து` — play — **retain/process in this repository**;
-- scans 52–68 — `ஆலமரத்துப் புறாக்கள்`;
-- scans 69–75 — `பெண்கள்`;
-- scans 76–80 — `இரகசியம்!`.
-
-Pagination includes inserted printed pages **16-A–16-D**. From scan 25 onward:
-
-**PDF scan = printed page + 8.**
-
-## Repository routing
-
-1. `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — scans **5–24 / printed 1–16, 16-A–16-D** — **retain/process here**
-2. `தெருக்கூத்து` — scans **25–51 / printed 17–43** — **retain/process here**
-3. `ஆலமரத்துப் புறாக்கள்` — scans **52–68 / printed 44–60** — existing canonical `stories/aalamarathup-puraakkal/` — **earlier witness**
-4. `பெண்கள்` — scans **69–75 / printed 61–67** — **new-canonical candidate at intake**
-5. `இரகசியம்!` — scans **76–80 / printed 68–72** — existing canonical `stories/iragasiyam/` — **earlier witness**
-
-## Exact next activity
-
-Continue retained work 1 **`நாடும் நாடகமும்`**.
+## Active work
 
 Workspace:
 
@@ -91,48 +34,51 @@ Workspace:
 
 Batch 1 scans **5–9 / printed 1–5** remains **CLOSED / VERIFIED 5/5**.
 
-Batch 2 scans **10–14 / printed 6–10** now has:
+Batch 2 scans **10–14 / printed 6–10**:
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
+- Stage-2 source-proven corrections — **22**
+- Stage-1 uncertain spans resolved at Stage 2 — **1/3**
+- unresolved source-text spans — **2, both on scan 13**
 - page records — **5/5**
 - page status — **needs-review 5/5**
-- explicit unresolved first-pass spans — **3, all on scan 13**
 - guessed readings — **0**
-- scan 13→14 boundary — **`சாதனங்` / `களையும்` preserved**
+- scan 13→14 boundary — **`சாதனங்` / `களையும்` confirmed / preserved**
 - durable Stage-1 record — `STAGE1_BATCH_002.md`
+- durable Stage-2 record — `STAGE2_BATCH_002.md`
+- Stage 3 historical-glyph audit — **NEXT**
+- Stage 4 final independent check — **NOT STARTED**
 
-Run **Batch 2 Stage 2 visual text-fidelity audit** for scans **10–14 / printed 6–10**:
+Stage 2 resolved the middle scan-13 uncertainty as:
+
+`அவைகளால் கிடைக்கும் சௌகரியத்தைப் பெறுகின்றனர்`
+
+Two scan-13 source-text spans remain deliberately unresolved:
+
+1. after `தேவையற்ற தேவைகள்` before `தீங்கு விளைத்திடும்`;
+2. immediately before `புதுமைகளையும்` in the final paragraph.
+
+Do not guess either span.
+
+## Exact next activity
+
+Run **Batch 2 Stage 3 historical Tamil glyph audit** for scans **10–14 / printed 6–10**:
 
 1. fetch live `main`;
-2. reread the permanent guides, `HANDOVER.md`, this prompt, the active-work README, `indexes/page-map.md`, and `STAGE1_BATCH_002.md`;
+2. reread the permanent guides, `HANDOVER.md`, the active-work README, `indexes/page-map.md`, `STAGE1_BATCH_002.md`, and `STAGE2_BATCH_002.md`;
 3. use only the user-supplied PDF/native scan pixels as authority;
-4. compare the committed Stage-1 text line-by-line / phrase-by-phrase;
-5. resolve omissions, wrong words/letters, punctuation, paragraph boundaries, page continuations, and the explicit review queue;
-6. resolve the three scan-13 uncertain spans only when source-supported; do not guess;
-7. keep all five pages `needs-review`;
-8. create/update the durable Stage-2 audit and synchronize work/collection/root trackers;
-9. commit Stage 2 and stop.
+4. independently audit the mandatory historical-glyph families:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. compare whole words/phrases and same-edition forms where needed; never global-replace or modernize;
+6. correct character identity only where source evidence supports it;
+7. keep the two unresolved scan-13 ordinary source-text spans separate unless the glyph audit genuinely settles either one;
+8. keep all five pages `needs-review`;
+9. create/update the durable Stage-3 audit and synchronize work/collection/root trackers;
+10. commit Stage 3 and stop.
 
-Do **not** start Stage 3 in the same activity.
+Do **not** start Stage 4 in the same activity.
 
 After the full prose/discourse work closes, retained work 2 **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, remains next in source order.
 
-## Queued second source
-
-The user also supplied `TVA_BOK_0064146_பழக்கூடை.pdf`.
-
-Its intake is already registered at:
-
-`collections/1979-pazhakkoodai/`
-
-State:
-
-- 65 scans
-- printed **மூன்றாம் பதிப்பு — 1979**
-- **5/5** story ranges mapped
-- all five route to existing canonical works
-- witness comparison **NOT STARTED**
-
-Do not switch to `பழக்கூடை` while the active 1953 retained-work workflow is in progress unless the user explicitly redirects.
-
-The previously deferred 1958 `தேனலைகள்` remains deferred. Do not auto-resume it.
+The queued 1979 `பழக்கூடை` source remains intake-complete but waiting. The deferred 1958 `தேனலைகள்` remains deferred.

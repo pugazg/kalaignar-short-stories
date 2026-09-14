@@ -7,11 +7,11 @@
 | 7 | 3 | body | **verified — word-by-word re-audit PASS** |
 | 8 | 4 | body | **verified — word-by-word re-audit PASS** |
 | 9 | 5 | body | **verified — targeted lower-line recheck PASS** |
-| 10 | 6 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
-| 11 | 7 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
-| 12 | 8 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
-| 13 | 9 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
-| 14 | 10 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
+| 10 | 6 | body | **needs-review — Batch 2 Stage 2 COMPLETE** |
+| 11 | 7 | body | **needs-review — Batch 2 Stage 2 COMPLETE** |
+| 12 | 8 | body | **needs-review — Batch 2 Stage 2 COMPLETE** |
+| 13 | 9 | body | **needs-review — Batch 2 Stage 2 COMPLETE** |
+| 14 | 10 | body | **needs-review — Batch 2 Stage 2 COMPLETE** |
 | 15 | 11 | body | not-started |
 | 16 | 12 | body | not-started |
 | 17 | 13 | body | not-started |
@@ -84,16 +84,30 @@ Scans **5–9 / printed 1–5**
 Scans **10–14 / printed 6–10**
 
 - Stage 1: **COMPLETE / 5 pages**
+- Stage 2: **COMPLETE / 5 pages**
+- source-proven Stage-2 corrections: **22**
+- Stage-1 uncertain spans resolved at Stage 2: **1/3**
+- unresolved source-text spans: **2 — scan 13**
 - page records: **5/5**
 - needs-review: **5**
 - verified: **0**
 - blocked: **0**
 - guessed readings: **0**
-- explicit unresolved first-pass spans: **3 — scan 13**
-- scan 13→14 boundary: **`சாதனங்` / `களையும்` preserved**
-- durable audit: `STAGE1_BATCH_002.md`
-- Stage 2: **NEXT**
+- scan 13→14 boundary: **`சாதனங்` / `களையும்` confirmed**
+- durable Stage-1 audit: `STAGE1_BATCH_002.md`
+- durable Stage-2 audit: `STAGE2_BATCH_002.md`
+- Stage 3: **NEXT**
+- Stage 4: **NOT STARTED**
+
+### Stage-2 disposition
+
+- scans audited directly against source pixels: **5/5**
+- source-proven corrections: **22**
+- scan 13 uncertainty #2: **RESOLVED — `அவைகளால் கிடைக்கும் சௌகரியத்தைப் பெறுகின்றனர்`**
+- scan 13 uncertainties #1 and #3: **remain unresolved / no guess**
+- scan 13→14 split: **confirmed / preserved**
+- page status: **needs-review 5/5**
 
 ## Exact next activity
 
-Batch 2 Stage 2 visual text-fidelity audit — scans **10–14 / printed 6–10**.
+Batch 2 Stage 3 historical Tamil glyph audit — scans **10–14 / printed 6–10**.

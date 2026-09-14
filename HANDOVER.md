@@ -698,15 +698,18 @@ Current state:
   - remaining actionable Batch-1 review items: **0**
 - Batch 2 scans **10–14 / printed 6–10**:
   - Stage 1 first-pass transcription: **COMPLETE 5/5**
+  - Stage 2 visual text-fidelity audit: **COMPLETE 5/5**
+  - Stage-2 source-proven corrections: **22**
+  - Stage-1 uncertain spans resolved at Stage 2: **1/3**
+  - unresolved source-text spans: **2 — scan 13**
   - page records: **5/5**
   - page status: **needs-review 5/5**
-  - explicit unresolved first-pass spans: **3 — scan 13**
-  - scan 13→14 boundary: **`சாதனங்` / `களையும்` preserved**
+  - scan 13→14 boundary: **`சாதனங்` / `களையும்` confirmed / preserved**
   - guessed readings: **0**
-  - Stage 2 visual text-fidelity audit: **NEXT**
-  - Stage 3: **NOT STARTED**
+  - Stage 3: **NEXT**
   - Stage 4: **NOT STARTED**
   - durable Stage-1 record: `STAGE1_BATCH_002.md`
+  - durable Stage-2 record: `STAGE2_BATCH_002.md`
 - remaining later transcription / witness comparison: **NOT STARTED**
 
 Durable intake files:
@@ -787,29 +790,32 @@ Scans **5–9 / printed 1–5** remain **CLOSED / VERIFIED 5/5**.
 Scans **10–14 / printed 6–10**:
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
+- Stage-2 source-proven corrections — **22**
+- Stage-1 uncertain spans resolved at Stage 2 — **1/3**
+- unresolved source-text spans — **2, both on scan 13**
 - page records — **5/5**
 - page status — **needs-review 5/5**
-- explicit unresolved first-pass spans — **3, all on scan 13**
 - guessed readings — **0**
-- scan 13→14 physical boundary — **`சாதனங்` / `களையும்` preserved**
+- scan 13→14 physical boundary — **`சாதனங்` / `களையும்` confirmed / preserved**
 - durable Stage-1 record — `STAGE1_BATCH_002.md`
-- Stage 2 visual text-fidelity audit — **NEXT**
-- Stage 3 — **NOT STARTED**
+- durable Stage-2 record — `STAGE2_BATCH_002.md`
+- Stage 3 historical-glyph audit — **NEXT**
 - Stage 4 — **NOT STARTED**
 
-Stage-2 review queue includes:
+Stage-2 disposition:
 
-- scan 10 — wording around `ஆனால் தாராள மற்றது`, final paragraph opening `ஆகியே`, quoted-title punctuation;
-- scan 11 — `பிரயாண மின்றிச்` and final-paragraph punctuation;
-- scan 12 — `கவனிக்கப்பட வேண்டும்`, `சுருக்கக் கூறின்`, closing `ஒப்பிய உண்மையுமாகும்`;
-- scan 13 — three deliberately unresolved spans recorded in the page file;
-- scan 14 — `பிறவாவரம்`, `புண்ணியத் தேடி`, and long-paragraph punctuation.
+- scans 10–14 directly audited: **5/5**
+- scan 13 uncertainty #2 resolved as `அவைகளால் கிடைக்கும் சௌகரியத்தைப் பெறுகின்றனர்`
+- scan 13 uncertainties #1 and #3 remain explicitly unresolved; no guessed wording
+- scan 13→14 `சாதனங்` / `களையும்` split confirmed
+- all five pages remain `needs-review`
 
-**NEXT: Batch 2 Stage 2 visual text-fidelity audit — scans 10–14 / printed 6–10.**
+**NEXT: Batch 2 Stage 3 historical Tamil glyph audit — scans 10–14 / printed 6–10.**
 
-Use only the controlling native scan pixels. Compare the committed Stage-1 text line-by-line / phrase-by-phrase, resolve source-supported corrections and the scan-13 review spans, keep all five pages `needs-review`, synchronize trackers, commit Stage 2, and stop.
+Explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` directly against the controlling scan. Keep the two unresolved ordinary source-text spans separate unless glyph evidence genuinely settles them. Keep all pages `needs-review`, synchronize trackers, commit Stage 3, and stop.
 
-Do **not** begin Stage 3 in the same activity.
+Do **not** begin Stage 4 in the same activity.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
