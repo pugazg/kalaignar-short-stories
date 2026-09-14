@@ -82,3 +82,32 @@ Story 15 **ஏழை** — scans **115–118 / printed 106–109**. Use scan **1
 - E5 English repairs: **0**
 - unresolved English re-audit issues: **0**
 - final 1977 English re-audit state for this story: **PASS**
+
+## 1953 additional witness — தப்பிவிட்டார்கள்
+
+Witness source:
+
+`TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf` — fourth edition, August 1953.
+
+- witness scans: **32–34 / printed 30–32**
+- physical witness pages: **3/3 reviewed**
+- result: **CLOSED / PASS**
+- narrative structure: **equivalent / complete**
+- major added / omitted narrative blocks: **0**
+- alternate ending: **No**
+- canonical-recheck candidates: **0**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- witness workspace: `witnesses/1953-thappivittargal/`
+
+High-value edition variants include:
+
+- 1953 `எழுபது நாட்களாகி விட்டன` ↔ source-verified 1977 `எழுபட்டு நாட்களாகி விட்டன`;
+- 1953 `செலவளித்துக்` ↔ 1977 `செலவழித்துக்`;
+- 1953 `நல்லவனுமிருந்தாலும்` ↔ 1977 `நல்லவனாயிருந்தாலும்`;
+- 1953 `பிளேயர்ஸ் சிகரெட்டை` ↔ 1977 `பிளேயர்ஸ் சிகரெட்டைப்`;
+- 1953 `வியாபாரச் செழிப்பில் வளருகிறது` ↔ 1977 `வியாபாரச் செழிப்பில் வளர்ந்தது`.
+
+The 1953 source ends with a short plain horizontal rule; the 1977 canonical has its own centered ornamental closing rule.
+
+No 1953 difference reopens the directly verified 1977 canonical.
