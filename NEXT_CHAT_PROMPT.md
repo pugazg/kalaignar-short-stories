@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 2 Stage 1 scans 10–14
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 2 Stage 2 scans 10–14
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -83,48 +83,31 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** is closed after the user-requested **word-by-word visual fidelity re-audit**:
+Batch 1 scans **5–9 / printed 1–5** remains **CLOSED / VERIFIED 5/5**.
 
-- scans checked — **5/5**
-- additional source-proven corrections — **19**
-- scans 5–8 — **RE-VERIFIED**
-- scan 9 recoverable text — **PASS**
-- scan 9 physical-loss span — **BLOCKED / UNCHANGED**
-- guessed reconstruction — **0**
-- durable audit — `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
+Batch 2 scans **10–14 / printed 6–10** now has:
 
-Targeted scan-9 lower-line resolution:
+- Stage 1 first-pass transcription — **COMPLETE 5/5**
+- page records — **5/5**
+- page status — **needs-review 5/5**
+- explicit unresolved first-pass spans — **3, all on scan 13**
+- guessed readings — **0**
+- scan 13→14 boundary — **`சாதனங்` / `களையும்` preserved**
+- durable Stage-1 record — `STAGE1_BATCH_002.md`
 
-- earlier archive reading — `‘மத நம்பிக்கை’ என்ற போர்வை ... தந்திரம் ஆளவந்தாரையும் கேட்கிறேன்`
-- superseded intermediate reading — `‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
-- final source-supported reading — **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`**
-- former blocked span — **RESOLVED**
-- guessed reconstruction — **0**
-
-Targeted final-word correction:
-
-- incorrect — `கேட்டிறேன்`
-- corrected source-visible reading — **`கேட்கிறேன்`**
-
-Important boundary correction:
-
-- scan 8 ends `... ஓவியன் தீட்டிக்`
-- scan 9 begins `காட்டிய வனப்பும் ...`
-- continuous phrase: `ஓவியன் தீட்டிக் காட்டிய வனப்பும்`
-
-Run **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**:
+Run **Batch 2 Stage 2 visual text-fidelity audit** for scans **10–14 / printed 6–10**:
 
 1. fetch live `main`;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, and the retained-work README/page-map;
-3. use only the user-supplied PDF scan pixels as authority;
-4. transcribe scans **10–14** once, preserving source wording, punctuation, paragraphing, spelling and physical page boundaries;
-5. create five page records;
-6. record uncertainty explicitly rather than guessing;
-7. set all five pages to `needs-review`;
-8. synchronize work/collection/root trackers;
-9. commit Stage 1 and stop.
+2. reread the permanent guides, `HANDOVER.md`, this prompt, the active-work README, `indexes/page-map.md`, and `STAGE1_BATCH_002.md`;
+3. use only the user-supplied PDF/native scan pixels as authority;
+4. compare the committed Stage-1 text line-by-line / phrase-by-phrase;
+5. resolve omissions, wrong words/letters, punctuation, paragraph boundaries, page continuations, and the explicit review queue;
+6. resolve the three scan-13 uncertain spans only when source-supported; do not guess;
+7. keep all five pages `needs-review`;
+8. create/update the durable Stage-2 audit and synchronize work/collection/root trackers;
+9. commit Stage 2 and stop.
 
-Do **not** start Stage 2 in the same activity.
+Do **not** start Stage 3 in the same activity.
 
 After the full prose/discourse work closes, retained work 2 **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, remains next in source order.
 
