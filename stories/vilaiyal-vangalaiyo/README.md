@@ -36,12 +36,12 @@ No existing canonical story was found. This workspace is therefore the canonical
 - scans **28–29 / printed 26–27**: T1 COMPLETE / COMMITTED
 - scans **30–31 / printed 28–29**: T1 COMPLETE / COMMITTED
 - scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
-- Stage 2 historical-glyph / difficult-reading audit: not started
+- Stage 2 historical-glyph / difficult-reading audit: **4/8 COMPLETE / PASS — scans 24–27**
 - Stage 3 final source / visual-fidelity audit: not started
 - Stage 4 synchronized Tamil assembly / controls: not started
 - English: **BLOCKED until Tamil/source closure**
 
-The first-pass page records remain `partial`; no page is promoted to `verified` during T1.
+After Stage 2, scans **24–27** are `needs-review`; scans **28–31** remain `partial`. No page is `verified` before Stage 3.
 
 ## Small-batch plan
 
@@ -51,11 +51,15 @@ To keep every step durable and synchronized:
 2. T1 scans 26–27 — **COMPLETE / COMMITTED**
 3. T1 scans 28–29 — **COMPLETE / COMMITTED**
 4. T1 scans 30–31 + confirm scan-32 next-story boundary — **COMPLETE / COMMITTED**
-5. Stage 2 glyph audit scans 24–27 — **NEXT**
-6. Stage 2 glyph audit scans 28–31
+5. Stage 2 glyph audit scans 24–27 — **COMPLETE / PASS**
+6. Stage 2 glyph audit scans 28–31 — **NEXT**
 7. Stage 3 + Stage 4 Tamil/source closure
 8. English only after Tamil/source closure
 
-Current checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md), and [`T1_BATCH_030_031.md`](T1_BATCH_030_031.md).
+Current T1 checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md), and [`T1_BATCH_030_031.md`](T1_BATCH_030_031.md).
 
-Current next small task: **Stage 2 historical-glyph / difficult-reading audit scans 24–27 only**.
+Stage-2 checkpoint: [`STAGE2_BATCH_024_027.md`](STAGE2_BATCH_024_027.md).
+
+Stage-2 repairs in scans 24–27: **14 occurrence-level textual repairs**, including **1 historical-character correction** (`நன்றுக` → `நன்றாக`, historical `றா`).
+
+Current next small task: **Stage 2 historical-glyph / difficult-reading audit scans 28–31 only**.
