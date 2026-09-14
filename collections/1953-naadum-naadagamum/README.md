@@ -101,6 +101,10 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage-3 character-identity corrections: **0**
   - Stage 4: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
   - Stage-4 source-proven corrections: **0**
+  - post-closure word-by-word visual fidelity re-audit: **COMPLETE 5/5**
+  - re-audit source-proven corrections: **14**
+  - scans 5–8: **RE-VERIFIED**
+  - scan 9 recoverable text: **PASS; blocked span unchanged**
   - page status: **verified 4/5; blocked 1/5 (scan 9 physical source loss)**
 - remaining transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
@@ -109,6 +113,6 @@ No new canonical story folder was created in this intake-only iteration.
 
 Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 1 first-pass transcription**, scans **10–14 / printed 6–10**.
 
-Batch 1 scans 5–9 is closed under documented source limitation: scans 5–8 verified; scan 9 terminally blocked only at one physically obliterated span, with no guessed reconstruction.
+Batch 1 scans 5–9 is closed after the requested word-by-word re-audit: **14 additional source-proven corrections** were applied; scans 5–8 were re-verified; scan 9 recoverable text passed and its terminal physical-loss span remains unchanged; guessed reconstruction remains 0.
 
 Do not start Stage 2 for Batch 2 in the same activity.
