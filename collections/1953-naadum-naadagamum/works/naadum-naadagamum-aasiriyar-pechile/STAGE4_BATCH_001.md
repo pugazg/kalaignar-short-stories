@@ -12,12 +12,12 @@ Batch: scans **5–9 / printed 1–5**
 - Stage 1 first-pass: **COMPLETE**
 - Stage 2 visual text-fidelity: **COMPLETE**
 - Stage 3 historical-glyph audit: **COMPLETE**
-- Stage 4 final independent source check: **PARTIAL / HOLD**
+- Stage 4 final independent source check: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
 - pages promoted to `verified`: **4/5 — scans 5–8**
-- pages remaining `needs-review`: **1/5 — scan 9**
+- pages terminally source-limited: **1/5 — scan 9 `blocked`**
 - Stage-4 source-proven corrections: **0**
-- blocked pages: **0**
-- remaining unresolved source-text spans: **1 — scan 9 library/ownership-mark crossing**
+- blocked pages: **1 — scan 9 physical source loss**
+- remaining un-dispositioned source-text spans: **0**
 
 No OCR, web text, Wikisource, catalogue text, or alternate-edition wording was imported.
 
@@ -62,7 +62,7 @@ No OCR, web text, Wikisource, catalogue text, or alternate-edition wording was i
 
 ### Scan 9 / printed 5
 
-**HOLD / NEEDS-REVIEW**
+**CLOSED / BLOCKED — TERMINAL PHYSICAL SOURCE LIMITATION**
 
 The complete page was re-read fresh. The final paragraph still contains one physically obstructed source span immediately after:
 
@@ -89,9 +89,11 @@ For the scan-9 obstruction, Stage 4 performed the source-first escalation requir
 9. no outside/web wording was imported;
 10. no contextual completion was guessed.
 
-Disposition: **physical source obstruction remains unresolved under currently permitted evidence**.
+Disposition: the physical source obstruction remains unrecoverable under current evidence. The user authorized proceeding with the recorded exact next activity, so this single location is now formally dispositioned as a **terminal physical-source limitation**.
 
-This does **not** justify a terminal `blocked` status yet. The page remains `needs-review` and Batch 1 Stage 4 remains on hold.
+No missing wording is reconstructed. Scan 9 is `blocked` for the lost span, while its visible text remains preserved.
+
+Durable limitation record: `SOURCE_LIMITATION_SCAN_009.md`.
 
 ## Batch state
 
@@ -101,18 +103,19 @@ This does **not** justify a terminal `blocked` status yet. The page remains `nee
 | 6 | 2 | **PASS / VERIFIED** |
 | 7 | 3 | **PASS / VERIFIED** |
 | 8 | 4 | **PASS / VERIFIED** |
-| 9 | 5 | **HOLD / NEEDS-REVIEW** |
+| 9 | 5 | **CLOSED / BLOCKED — SOURCE LIMITATION** |
+
+## Batch closure
+
+Batch 1 scans **5–9 / printed 1–5** is now **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**:
+
+- scans **5–8** — **PASS / VERIFIED**
+- scan **9** — **BLOCKED only for the physically obliterated span**
+- guessed wording — **0**
+- remaining actionable Batch-1 review items — **0**
 
 ## Exact next activity
 
-Resolve or formally disposition the **single scan-9 mark-crossed source span** so Batch 1 can close.
+Begin **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**.
 
-Do **not** begin scans 10–14 while Batch 1 remains open.
-
-Acceptable next evidence is limited to:
-
-- a clearer image/copy of the same physical page supplied by the user;
-- a provenance-known independent witness of the same work used only for corroboration and then checked back against the controlling pixels;
-- or an explicit user-authorized closure decision preserving the physical-loss caveat.
-
-Until then, scans 5–8 remain verified and scan 9 remains needs-review.
+Do not reopen Batch 1 unless genuinely new source evidence appears.
