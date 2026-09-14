@@ -2,11 +2,11 @@
 
 | Source scan | Printed page | Page type | Current state |
 |---:|---|---|---|
-| 5 | 1 | work-opening | Stage 1 complete / needs-review |
-| 6 | 2 | body | Stage 1 complete / needs-review |
-| 7 | 3 | body | Stage 1 complete / needs-review |
-| 8 | 4 | body | Stage 1 complete / needs-review |
-| 9 | 5 | body | Stage 1 complete / needs-review |
+| 5 | 1 | work-opening | Stage 2 complete / needs-review |
+| 6 | 2 | body | Stage 2 complete / needs-review |
+| 7 | 3 | body | Stage 2 complete / needs-review |
+| 8 | 4 | body | Stage 2 complete / needs-review |
+| 9 | 5 | body | Stage 2 complete / needs-review |
 | 10 | 6 | body | not-started |
 | 11 | 7 | body | not-started |
 | 12 | 8 | body | not-started |
@@ -28,19 +28,25 @@
 Scans **5–9 / printed 1–5**
 
 - Stage 1: **COMPLETE / 5 pages**
-- Stage 2: **NOT STARTED**
-- Stage 3: **NOT STARTED**
+- Stage 2: **COMPLETE / 5 pages**
+- Stage-2 source-proven corrections: **16**
+- Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
+- Stage 3: **NEXT**
 - Stage 4: **NOT STARTED**
 - verified: **0**
 - needs-review: **5**
 - blocked: **0**
 
-### Stage-1 review queue
+### Stage-2 disposition
 
-These are first-pass review items only; none is a terminal unresolved reading.
+- scan 5 edge reading `தோழனுக்`: **source-visible / preserved**
+- scan 6→7 `குறி` / `பிட்ட` split: **confirmed**
+- scan 7 `தீயீடு`: **source-supported at Stage 2; glyph identity still audited at Stage 3**
+- scan 8 Krishna/Gopika paragraph: **ordinary fidelity issues resolved**
+- scan 9 library/ownership-mark crossing: **1 unresolved source span remains; no guess**
+- source-proven Stage-2 corrections: **16**
+- blocked: **0**
 
-- scan 5: final line reaches the source right edge; terminal word needs Stage-2 recheck against full/native pixels.
-- scan 6 → 7: the source splits `குறிப்பிட்ட` across the physical page boundary as visible `குறி...` / `...பிட்ட`; preserve the physical split while auditing.
-- scan 7: recheck the phrase around the villain's `தீயீடு` at Stage 2.
-- scan 8: recheck the Krishna/Gopika paragraph for exact case endings and punctuation.
-- scan 9: final paragraph has a library/ownership mark crossing part of a phrase after `‘மத நம்பிக்கை’ என்ற போர்வை`; Stage 1 does not guess the obscured span.
+## Exact next activity
+
+Stage 3 historical Tamil glyph audit on scans **5–9 / printed 1–5**. Keep pages `needs-review`; do not start Stage 4 or scans 10–14 in the same activity.
