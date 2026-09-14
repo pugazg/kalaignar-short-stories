@@ -1,64 +1,47 @@
-# Source limitation — scan 9 / printed page 5
+# Resolved source limitation — scan 9 / printed page 5
 
 Work: **நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)**  
 Source: `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`  
 Physical scan: **9**  
 Printed page: **5**
 
-## Location
+## Final status
 
-The final paragraph contains a library/ownership mark crossing the printed line immediately after:
+**RESOLVED / CLOSED**
 
-`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
+This file is retained as an audit trail because the lower line was previously treated as a terminal physical-source limitation.
 
-A later visible span on the same physical line remains source-supported:
+## Correct source reading
 
-`தந்திரம் ஆளவந்தாரையும் கேட்டிறேன்`
+After the user supplied a reading and the native scan was re-opened at high enlargement, the previously disputed passage was rechecked character by character.
 
-The intervening printed words are physically obscured.
+Final source-supported text:
 
-## Targeted phrase recheck
+`அறிவு, ஆராய்ச்சி என்றும் அலறியடித்துக் கொண்டு ஆர்ப்பாட்டம் செய்யும் பழமை விரும்பிகளும், அவர்களுக்கு, ‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்டிறேன்.`
 
-After the user flagged the earlier reading, the native scan was enlarged and rechecked specifically at the quoted phrase.
+Key corrections to the earlier archive reading:
 
-Correct source-visible reading:
+- `மத நம்பிக்கை` / later intermediate `மத நம்பிக்கையின்மை` → **`மத நடுநிலைமை`**
+- `போர்வை` → **`போர்வையிலே`**
+- formerly obscured word → **`தூதா`**
+- `தந்திரம்` → **`தந்திடும்`**
 
-`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
+The earlier intermediate `மத நம்பிக்கையின்மை` reading is superseded.
 
-Earlier incomplete reading:
+## Resolution basis
 
-`‘மத நம்பிக்கை’ என்ற போர்வை`
+- user supplied the reading in transliteration;
+- native full-resolution scan pixels were reopened;
+- enlarged crops of the quote, line ending, and lower line were checked;
+- the visible remnants around the damaged/marked area align with the supplied reading;
+- surrounding syntax and physical line continuation were rechecked;
+- no web, OCR, Wikisource, catalogue text, or alternate edition was used as source authority.
 
-This correction applies to the **recoverable text before the physical-loss span**. It does not reconstruct any obscured words after `போர்வை`.
+## Repository disposition
 
-## Recovery work performed
+- scan 9: **VERIFIED**
+- unresolved source spans on scan 9: **0**
+- guessed wording: **0**
+- Batch 1 scans 5–9: **5/5 VERIFIED**
 
-The repository's exhaustive difficult-reading protocol was completed:
-
-- native/full-resolution source pixels;
-- progressively enlarged crops;
-- nearest-neighbour and Lanczos resampling;
-- grayscale / contrast / sharpening variants;
-- RGB, min-channel and saturation-based separation;
-- morphology/edge-oriented review of surviving print strokes;
-- same-page / same-font comparison;
-- scan-10 physical continuation check;
-- repository and user-Library search for a provenance-known same-work witness.
-
-No independently usable witness was found in the available project/user evidence, and the controlling pixels do not support a complete reconstruction of the obscured span.
-
-## Final disposition
-
-The user authorized proceeding with the recorded exact next activity after Stage 4. Because recovery still failed, this location is formally closed as a **terminal physical-source limitation**.
-
-- no contextual completion inserted;
-- no OCR wording imported;
-- no alternate-edition wording imported;
-- no guessed reconstruction;
-- visible source text remains preserved;
-- scan 9 status: **blocked — terminal physical source loss**;
-- Batch 1 may proceed as **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**.
-
-This is not a claim that the lost wording never existed. It records only that it is not defensibly recoverable from the currently available evidence.
-
-A future genuinely clearer source or provenance-known independent witness may reopen this one location.
+A future genuinely clearer witness may still be compared, but there is no active hold on this page.
