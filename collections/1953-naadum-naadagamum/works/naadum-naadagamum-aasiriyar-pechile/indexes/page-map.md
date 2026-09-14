@@ -2,11 +2,11 @@
 
 | Source scan | Printed page | Page type | Current state |
 |---:|---|---|---|
-| 5 | 1 | work-opening | **verified — Stage 4 PASS** |
-| 6 | 2 | body | **verified — Stage 4 PASS** |
-| 7 | 3 | body | **verified — Stage 4 PASS** |
-| 8 | 4 | body | **verified — Stage 4 PASS** |
-| 9 | 5 | body | **blocked — terminal physical source loss; Batch 1 closed** |
+| 5 | 1 | work-opening | **verified — word-by-word re-audit PASS** |
+| 6 | 2 | body | **verified — word-by-word re-audit PASS** |
+| 7 | 3 | body | **verified — word-by-word re-audit PASS** |
+| 8 | 4 | body | **verified — word-by-word re-audit PASS** |
+| 9 | 5 | body | **recoverable text re-audit PASS; blocked only at terminal physical-loss span** |
 | 10 | 6 | body | not-started |
 | 11 | 7 | body | not-started |
 | 12 | 8 | body | not-started |
@@ -66,6 +66,17 @@ Scans **5–9 / printed 1–5**
 - un-dispositioned source-text spans: **0**
 - exhaustive image escalation: **performed**
 - batch closure: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
+
+### Post-closure word-by-word re-audit
+
+- scans checked word by word: **5/5**
+- additional source-proven corrections: **14**
+- wording / spelling / source-spacing: **7**
+- punctuation: **7**
+- scan 8→9 boundary: **resolved as `தீட்டிக்` / `காட்டிய`**
+- scan 9 physical-loss span: **unchanged**
+- guessed readings: **0**
+- durable audit: `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
 
 ## Exact next activity
 
