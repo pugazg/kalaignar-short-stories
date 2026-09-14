@@ -1,0 +1,112 @@
+# Stage 4 — Batch 2 final independent source check
+
+Work: **நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)**  
+Controlling source: `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`  
+Batch: scans **10–14 / printed 6–10**
+
+## Result
+
+- complete batch freshly re-read against controlling scan pixels: **5/5**
+- Stage 4 page result:
+  - **PASS / VERIFIED — 4/5**: scans 10, 11, 12, 14
+  - **NEEDS RECHECK — 1/5**: scan 13
+- additional Stage-4 source-supported corrections: **24**
+- Stage-3 glyph dispositions reconfirmed: **5/5**
+- Stage-3 character-identity corrections changed at Stage 4: **0**
+- unresolved source-text spans after Stage 4: **1 — scan 13**
+- guessed readings: **0**
+- scan 13→14 boundary: **PASS / reconfirmed**
+- Batch 2 overall closure: **OPEN — one source-obscured scan-13 span remains**
+- Batch 3: **NOT STARTED**
+
+The user-supplied `Naadum_naadagamum.md` was used only as a locator/clue for difficult regions. It is **not source authority** and contains clear mismatches elsewhere. Every accepted Stage-4 reading below was independently confirmed against the controlling PDF pixels.
+
+No OCR, web copy, Wikisource, catalogue text, or alternate edition was used as authority.
+
+## Stage-4 corrections
+
+### Scan 10 / printed 6 — 2
+
+- `மட்டுமல்லாது` → `மட்டுமில்லாது`
+- erroneous Stage-2 reading `ஆனால் தாராள,` → source `ஆளவந்தாரால்,`
+
+Result: **PASS / VERIFIED**.
+
+### Scan 11 / printed 7 — 2
+
+- `ஆக்க வேலைக்கும்` → `ஆக்க வேலைகட்கும்`
+- `தீர்ந்தது,` → `தீர்ந்தது.`
+
+Result: **PASS / VERIFIED**.
+
+### Scan 12 / printed 8 — 8
+
+- `தவறினோமா` → `தவறுகின்றோமா`
+- `இல்லையே!` → `இல்லையே?`
+- `கொல்பாதகக்` → `கொலைபாதகக்`
+- `கோட்ஸேயின்` → `கோட்சேயின்`
+- second `கோட்ஸே` → `கோட்சே`
+- `இதுபோல்வேதான்` → `இதுபோலவேதான்`
+- `காலத்தோடொட்டி` → `கால வேகத்தோடு ஒட்டி`
+- `நல்லவாழ்வு` → `நல்வாழ்வு`
+
+Result: **PASS / VERIFIED**.
+
+### Scan 13 / printed 9 — 9 source-supported dispositions
+
+- `வேதவிதி` → `வேதன்விதி`
+- unsupported first-pass/Stage-2 text `தேவையற்ற தேவைகள்` retracted; source-visible frame narrowed to:
+  `தேவைப் ⟦source-obscured continuation⟧ தேவைப் படாததுமட்டுமல்ல`
+- `சேவைகள்` → `சேவைகளை`
+- `எத்தனை பெயர்தானோ` → `எத்தனை யெத்தனையோ`
+- `சௌகரியத்தைப்` → `சௌகர்யத்தைப்`
+- `பெரும் நிலையிலே` → `பெறும் நிலையிலே`
+- `விஞ்ஞானம்-பொது அறிவு` → `விஞ்ஞானம் - பொது அறிவு`
+- former final-paragraph uncertainty resolved as `விளைத்திட்ட`
+- `நல்லவாழ்வுச்` → `நல்வாழ்வுச்`
+
+One span remains unreadable in the controlling scan: the continuation after the first visible `தேவைப்` and before the following visible `தேவைப் படாததுமட்டுமல்ல`. Native view, enlarged crops, contrast variants, and the user transcription as a non-authoritative clue were all considered. The scan pixels still do not support a defensible full reconstruction.
+
+Result: **NEEDS RECHECK / NOT VERIFIED**.
+
+### Scan 14 / printed 10 — 3
+
+- `அக்கறை` → `அக்கரை`
+- semicolon after `‘வாழ்வாவது மாயம், இது மண்ணாவது திண்ணம்’` → source comma
+- `புண்ணியத் தேடி` → `புண்ணியந் தேடி`
+
+Result: **PASS / VERIFIED**.
+
+## Boundary result
+
+The physical continuation remains correct:
+
+- scan 13 ends: `சாதனங்`
+- scan 14 begins: `களையும்`
+- continuous reading: `சாதனங்களையும்`
+
+No duplication or omission was found at the join.
+
+## Current Batch-2 status
+
+- Stage 1: **COMPLETE 5/5**
+- Stage 2: **COMPLETE 5/5**
+- Stage 3: **COMPLETE / PASS 5/5**
+- Stage 4 checked: **5/5**
+- verified: **4/5**
+- needs-review: **1/5 — scan 13**
+- unresolved source-text spans: **1**
+- guessed readings: **0**
+- batch closure: **OPEN**
+
+## Exact next activity
+
+Perform a **targeted final source-resolution pass on scan 13 only**, limited to the single remaining source-obscured span between:
+
+`தேவைப்` … `தேவைப் படாததுமட்டுமல்ல`
+
+Do not infer from grammar/context and do not adopt the user transcription unless the controlling scan itself supports the reading.
+
+If the source remains genuinely unreadable after the targeted resolution attempt, preserve the explicit hold and record the source limitation rather than fabricating text.
+
+Do **not** begin Batch 3 until Batch 2 is either fully closed or explicitly dispositioned by the user.

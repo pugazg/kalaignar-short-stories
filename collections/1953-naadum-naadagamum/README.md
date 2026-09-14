@@ -113,20 +113,21 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
-  - Stage-1 uncertain spans resolved at Stage 2: **1/3**
-  - ordinary unresolved source-text spans: **2 — scan 13**
-  - page status: **needs-review 5/5**
+  - Stage 4 final independent source check: **CHECKED 5/5**
+  - Stage-4 additional source-supported corrections: **24**
+  - Stage-4 page result: **verified 4/5; needs-review 1/5 — scan 13**
+  - unresolved source-text spans: **1 — scan 13**
   - guessed readings: **0**
-  - Batch 2 Stage 4 final independent check: **NEXT**
+  - Batch 2 closure: **OPEN**
 - remaining later transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 4 final independent source check**, scans **10–14 / printed 6–10**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **targeted Batch 2 scan-13 source resolution**.
 
 Batch 1 scans 5–9 remains **CLOSED / VERIFIED 5/5**.
 
-Batch 2 Stages 1–3 are durably complete. Stage 3 audited all 13 mandatory historical-glyph families, made **0 character-identity corrections**, and left **0 unresolved glyph clusters**. Two ordinary source-text spans on scan 13 remain explicitly unresolved from Stage 2.
+Batch 2 Stage 4 has been checked on all five pages. Scans **10, 11, 12 and 14 are VERIFIED**. Scan **13 remains needs-review** because one narrowly bounded source-obscured continuation is still unreadable. Stage 4 added **24 source-supported corrections**, resolved the former final-paragraph hold as `விளைத்திட்ட`, and retracted the unsupported `தேவையற்ற தேவைகள்` reading.
 
-Run Stage 4 only. Promote pages to `verified` only if the final source check responsibly closes all remaining source-text issues; otherwise preserve the holds. Commit/sync and stop before Batch 3.
+Resolve only the remaining span between visible `தேவைப்` and `தேவைப் படாததுமட்டுமல்ல`; do not guess and do not begin Batch 3.

@@ -7,11 +7,11 @@
 | 7 | 3 | body | **verified — word-by-word re-audit PASS** |
 | 8 | 4 | body | **verified — word-by-word re-audit PASS** |
 | 9 | 5 | body | **verified — targeted lower-line recheck PASS** |
-| 10 | 6 | body | **needs-review — Batch 2 Stage 3 COMPLETE** |
-| 11 | 7 | body | **needs-review — Batch 2 Stage 3 COMPLETE** |
-| 12 | 8 | body | **needs-review — Batch 2 Stage 3 COMPLETE** |
-| 13 | 9 | body | **needs-review — Batch 2 Stage 3 COMPLETE** |
-| 14 | 10 | body | **needs-review — Batch 2 Stage 3 COMPLETE** |
+| 10 | 6 | body | **verified — Batch 2 Stage 4 PASS** |
+| 11 | 7 | body | **verified — Batch 2 Stage 4 PASS** |
+| 12 | 8 | body | **verified — Batch 2 Stage 4 PASS** |
+| 13 | 9 | body | **needs-review — Stage 4 source-obscured hold** |
+| 14 | 10 | body | **verified — Batch 2 Stage 4 PASS** |
 | 15 | 11 | body | not-started |
 | 16 | 12 | body | not-started |
 | 17 | 13 | body | not-started |
@@ -89,18 +89,21 @@ Scans **10–14 / printed 6–10**
 - Stage 3: **COMPLETE / PASS / 5 pages**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage-1 uncertain spans resolved at Stage 2: **1/3**
-- ordinary unresolved source-text spans: **2 — scan 13**
+- Stage 4: **CHECKED / 5 pages**
+- Stage-4 additional source-supported corrections: **24**
+- Stage-4 page result: **PASS 4 / NEEDS RECHECK 1**
+- unresolved source-text spans: **1 — scan 13**
 - page records: **5/5**
-- needs-review: **5**
-- verified: **0**
+- needs-review: **1**
+- verified: **4**
 - blocked: **0**
 - guessed readings: **0**
-- scan 13→14 boundary: **`சாதனங்` / `களையும்` confirmed**
+- scan 13→14 boundary: **`சாதனங்` / `களையும்` PASS / reconfirmed**
 - durable Stage-1 audit: `STAGE1_BATCH_002.md`
 - durable Stage-2 audit: `STAGE2_BATCH_002.md`
 - durable Stage-3 audit: `STAGE3_BATCH_002.md`
-- Stage 4: **NEXT**
+- durable Stage-4 audit: `STAGE4_BATCH_002.md`
+- Batch 2 closure: **OPEN**
 
 ### Stage-2 disposition
 
@@ -121,6 +124,16 @@ Scans **10–14 / printed 6–10**
 - two ordinary scan-13 source-text holds remain unchanged
 - page status: **needs-review 5/5**
 
+### Stage-4 disposition
+
+- scans 10, 11, 12, 14: **PASS / VERIFIED**
+- scan 13: **NEEDS RECHECK**
+- former scan-13 final-paragraph hold: **RESOLVED — `விளைத்திட்ட`**
+- remaining scan-13 hold: **1 narrowly bounded source-obscured continuation**
+- unsupported `தேவையற்ற தேவைகள்` reading: **RETRACTED**
+- guessed reconstruction: **0**
+- batch closure: **OPEN**
+
 ## Exact next activity
 
-Batch 2 Stage 4 final independent source check — scans **10–14 / printed 6–10**.
+Targeted final source-resolution pass on **scan 13 only**, limited to the span between `தேவைப்` and `தேவைப் படாததுமட்டுமல்ல`. Do not begin Batch 3.

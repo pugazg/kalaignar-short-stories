@@ -703,16 +703,19 @@ Current state:
   - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
-  - Stage-1 uncertain spans resolved at Stage 2: **1/3**
-  - ordinary unresolved source-text spans: **2 — scan 13**
+  - Stage 4 final independent source check: **CHECKED 5/5**
+  - Stage-4 additional source-supported corrections: **24**
+  - verified: **4/5 — scans 10, 11, 12, 14**
+  - needs-review: **1/5 — scan 13**
+  - unresolved source-text spans: **1 — scan 13**
   - page records: **5/5**
-  - page status: **needs-review 5/5**
-  - scan 13→14 boundary: **`சாதனங்` / `களையும்` confirmed / preserved**
+  - scan 13→14 boundary: **`சாதனங்` / `களையும்` PASS / reconfirmed**
   - guessed readings: **0**
-  - Stage 4: **NEXT**
+  - Batch 2 closure: **OPEN**
   - durable Stage-1 record: `STAGE1_BATCH_002.md`
   - durable Stage-2 record: `STAGE2_BATCH_002.md`
   - durable Stage-3 record: `STAGE3_BATCH_002.md`
+  - durable Stage-4 record: `STAGE4_BATCH_002.md`
 - remaining later transcription / witness comparison: **NOT STARTED**
 
 Durable intake files:
@@ -799,31 +802,35 @@ Scans **10–14 / printed 6–10**:
 - mandatory glyph families audited — **13/13**
 - Stage-3 character-identity corrections — **0**
 - Stage-3 unresolved glyph clusters — **0**
-- Stage-1 uncertain spans resolved at Stage 2 — **1/3**
-- ordinary unresolved source-text spans — **2, both on scan 13**
+- Stage 4 final independent source check — **CHECKED 5/5**
+- Stage-4 additional source-supported corrections — **24**
+- verified — **4/5: scans 10, 11, 12, 14**
+- needs-review — **1/5: scan 13**
+- unresolved source-text spans — **1**
 - page records — **5/5**
-- page status — **needs-review 5/5**
 - guessed readings — **0**
-- scan 13→14 physical boundary — **`சாதனங்` / `களையும்` confirmed / preserved**
+- scan 13→14 physical boundary — **`சாதனங்` / `களையும்` PASS / reconfirmed**
 - durable Stage-1 record — `STAGE1_BATCH_002.md`
 - durable Stage-2 record — `STAGE2_BATCH_002.md`
 - durable Stage-3 record — `STAGE3_BATCH_002.md`
-- Stage 4 final independent source check — **NEXT**
+- durable Stage-4 record — `STAGE4_BATCH_002.md`
+- Batch 2 closure — **OPEN**
 
-Stage-3 disposition:
+Stage-4 disposition:
 
-- all 13 mandatory historical-glyph families explicitly audited
-- `ணொ / ணோ / னொ` are absent from the audited Batch-2 text
-- character-identity corrections: **0**
-- unresolved glyph clusters: **0**
-- the two scan-13 source-text holds remain ordinary fidelity issues, not glyph ambiguities
-- all five pages remain `needs-review`
+- scan 10: **PASS / VERIFIED**
+- scan 11: **PASS / VERIFIED**
+- scan 12: **PASS / VERIFIED**
+- scan 13: **NEEDS RECHECK**
+- scan 14: **PASS / VERIFIED**
+- former scan-13 final-paragraph hold: **RESOLVED as `விளைத்திட்ட`**
+- unsupported `தேவையற்ற தேவைகள்` reading: **RETRACTED**
+- remaining hold: one source-obscured continuation between visible `தேவைப்` and `தேவைப் படாததுமட்டுமல்ல`
+- no guessed reconstruction
 
-**NEXT: Batch 2 Stage 4 final independent source check — scans 10–14 / printed 6–10.**
+**NEXT: targeted final source-resolution pass on scan 13 only.**
 
-Reopen the full batch fresh against the controlling scan, verify all Stage-2 corrections and Stage-3 dispositions, attempt final source-supported disposition of the two scan-13 holds without guessing, confirm the scan 13→14 boundary, and promote pages to `verified` only when no unresolved source-text issue remains.
-
-Commit/synchronize Stage 4 and stop before Batch 3.
+Use the controlling scan pixels only. The user-provided transcription may be consulted solely as a clue, never as authority. Do not start Batch 3 while the remaining scan-13 hold is open.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

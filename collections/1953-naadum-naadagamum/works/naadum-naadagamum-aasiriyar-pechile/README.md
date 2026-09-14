@@ -44,7 +44,7 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - post-closure word-by-word fidelity re-audit: **COMPLETE — 5/5**
 - post-closure source-proven corrections: **19**
 - page status: **verified 5/5**
-- verified: **5/20**
+- verified: **9/20**
 - blocked: **0/20**
 - remaining actionable Batch-1 source-text issues: **0**
 
@@ -68,22 +68,26 @@ Batch 2 = scans **10–14 / printed 6–10**.
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
 - Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
 - Stage 3 historical-glyph audit: **COMPLETE / PASS — 5/5**
+- Stage 4 final independent source check: **CHECKED — 5/5**
+- Stage-4 page result: **PASS / VERIFIED 4/5; NEEDS RECHECK 1/5 — scan 13**
 - page records: **5/5**
-- page status: **needs-review 5/5**
+- verified: **4/5**
+- needs-review: **1/5 — scan 13**
 - Stage-2 source-proven corrections: **22**
-- Stage-1 uncertain spans resolved at Stage 2: **1/3**
-- ordinary unresolved source-text spans: **2 — both on scan 13**
+- Stage-4 additional source-supported corrections: **24**
+- unresolved source-text spans: **1 — scan 13 source-obscured span**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
 - guessed readings: **0**
-- scan 13→14 boundary: **confirmed — `சாதனங்` / `களையும்`**
-- Stage 4 final independent check: **NEXT**
+- scan 13→14 boundary: **PASS / reconfirmed — `சாதனங்` / `களையும்`**
+- Batch 2 closure: **OPEN**
 - durable Stage-1 record: [`STAGE1_BATCH_002.md`](STAGE1_BATCH_002.md)
 - durable Stage-2 record: [`STAGE2_BATCH_002.md`](STAGE2_BATCH_002.md)
 - durable Stage-3 record: [`STAGE3_BATCH_002.md`](STAGE3_BATCH_002.md)
+- durable Stage-4 record: [`STAGE4_BATCH_002.md`](STAGE4_BATCH_002.md)
 
 ## Exact next activity
 
-Run **Batch 2 Stage 4 final independent source check** for scans **10–14 / printed 6–10**.
+Run a **targeted final source-resolution pass on scan 13 only** for the one remaining source-obscured span between the visible `தேவைப்` and the following visible `தேவைப் படாததுமட்டுமல்ல`.
 
-Reopen all five pages fresh against the controlling source. Confirm Stage-2 corrections, Stage-3 glyph identities, the two scan-13 source-text holds, and the scan 13→14 boundary. Promote pages to `verified` only if all remaining source-text issues can be responsibly dispositioned. Commit/sync Stage 4 and stop before Batch 3.
+Do not infer from context or adopt the user transcription unless the controlling scan pixels independently support the reading. Do not start Batch 3 while this hold remains.
