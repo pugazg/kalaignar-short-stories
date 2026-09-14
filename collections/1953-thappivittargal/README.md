@@ -44,7 +44,7 @@ Printed story pagination runs **5–32** with the stable relation:
 |---:|---|---:|---:|---|
 | 1 | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | existing canonical `stories/thappivittargal/` — earlier witness |
 | 2 | `சபலம்` | 14–21 | 16–23 | existing canonical `stories/sabalam/` — earlier witness |
-| 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | **new-canonical candidate** |
+| 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | canonical `stories/vilaiyal-vangalaiyo/` — **ACTIVE / T1 2/8** |
 | 4 | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | existing canonical `stories/munnuru-rupai/` — earlier witness |
 
 ## Deduplication result
@@ -65,9 +65,9 @@ Do not create its story folder during intake.
 
 - stories inventoried: **4/4**
 - existing-canonical witness routes: **3/4**
-- new-canonical candidates: **1/4 — `விலையால் வாங்கலையோ`**
+- new-canonical stories activated: **1/4 — `விலையால் வாங்கலையோ` → `stories/vilaiyal-vangalaiyo/`**
 - witness comparisons completed: **2/3 existing-canonical witnesses**
-- transcription started: **0**
+- Story 3 T1 transcription: **2/8 physical pages complete — scans 24–25**
 - canonical Tamil changed from witness evidence: **No**
 - canonical English changed from witness evidence: **No**
 - canonical-recheck candidates opened from Stories 1–2: **0**
@@ -96,17 +96,23 @@ Do not create its story folder during intake.
 - canonical Tamil / English changed: **No / No**
 - witness workspace: `stories/sabalam/witnesses/1953-thappivittargal/`
 
+### Story 3 — `விலையால் வாங்கலையோ`
+
+**CANONICAL WORKSPACE ACTIVATED / T1 IN PROGRESS — 2/8.**
+
+- canonical route: `stories/vilaiyal-vangalaiyo/`
+- duplicate/identity recheck before activation: **PASS — no existing canonical match**
+- completed T1 pages: scans **24–25 / printed 22–23**
+- remaining T1 pages: scans **26–31 / printed 24–29**
+- verified pages: **0/8**
+- Stage 2–4: **not started**
+- English: **blocked until Tamil/source closure**
+- durable checkpoint: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`
+
 ## Exact next activity
 
-Activate Story 3, **`விலையால் வாங்கலையோ`**, as the collection's new-canonical candidate:
+Process only **T1 scans 26–27 / printed 24–25** for `விலையால் வாங்கலையோ`, then commit and synchronize before continuing.
 
-- scans **24–31**
-- printed pages **22–29**
-- total **8 physical source pages**
-- first repeat the live-main duplicate / identity search required by intake
-- if still unique, create the canonical story workspace under an appropriate slug
-- source pixels from this 1953 edition are controlling
-- begin source-grounded Tamil processing under the repository's normal new-canonical workflow
-- do not begin Story 4 `முந்நூறு ரூபாய்` in the same activity unless explicitly requested
+Do **not** start scans 28–29 in the same activity.
 
-Story 4 remains a later witness task after Story 3 is dispositioned.
+Story 4 `முந்நூறு ரூபாய்` remains a later witness task after Story 3 is dispositioned.
