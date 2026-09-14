@@ -175,9 +175,9 @@ Current Tamil state:
 - scans **30–31 / printed 28–29**: **T1 COMPLETE / COMMITTED**
 - scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
 - Stage 2 historical-glyph audit: **8/8 COMPLETE / PASS**
-- Stage 3 final source / visual fidelity: **0/8**
+- Stage 3 final source / visual fidelity: **4/8 COMPLETE / PASS — scans 24–27 VERIFIED**
 - Stage 4 Tamil assembly / controls: not started
-- page statuses: **needs-review 8 / partial 0 / verified 0**
+- page statuses: **needs-review 4 / partial 0 / verified 4**
 - English: **BLOCKED**
 
 Durable checkpoint:
@@ -194,7 +194,9 @@ Durable checkpoint:
 
 `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 
-T1 scan-24 intentionally contains one unresolved dialogue span rather than a guessed reading. It must be reopened in Stage 2 using the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and direct native source pixels.
+`stories/vilaiyal-vangalaiyo/STAGE3_BATCH_024_027.md`
+
+Stage 2 resolved all previously deferred T1 difficult readings. Stage 3 scans 24–27 independently revalidated them; those four pages are now verified with **5 final source-fidelity corrections** and **0 unresolved readings**.
 
 ### Small-batch execution plan
 
@@ -204,16 +206,16 @@ T1 scan-24 intentionally contains one unresolved dialogue span rather than a gue
 4. T1 scans 30–31 + scan-32 boundary confirmation — **DONE**
 5. Stage 2 scans 24–27 — **DONE / PASS**
 6. Stage 2 scans 28–31 — **DONE / PASS**
-7. Stage 3 scans 24–27 — **NEXT**
-8. Stage 3 scans 28–31
+7. Stage 3 scans 24–27 — **DONE / PASS / VERIFIED**
+8. Stage 3 scans 28–31 — **NEXT**
 9. Stage 4 Tamil assembly / controls
-8. English only after Tamil/source closure
+10. English only after Tamil/source closure
 
 ## Exact next activity — current
 
-Begin **Stage 3 final source / visual-fidelity audit scans 24–27 only** for `விலையால் வாங்கலையோ`.
+Continue with **Stage 3 final source / visual-fidelity audit scans 28–31 only** for `விலையால் வாங்கலையோ`.
 
-Stage 2 is now **8/8 COMPLETE / PASS** with **30 occurrence-level textual repairs** and **9 historical-character identity corrections / resolutions** across the story. Re-read scans 24–27 independently from direct native / enlarged source pixels, promote only source-clean pages to `verified`, commit and synchronize, then stop before Stage 3 scans 28–31.
+Stage 3 scans 24–27 are **PASS / VERIFIED 4/4** with **5 final source-fidelity corrections** and **0 unresolved readings**. Independently re-read scans 28–31 from direct native / enlarged source pixels, promote only source-clean pages to `verified`, commit and synchronize, then stop before Stage 4.
 
 Do not start Story 4 `முந்நூறு ரூபாய்` yet.
 
