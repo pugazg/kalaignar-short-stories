@@ -4,10 +4,10 @@ printed_page: 26
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "partial"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 first-pass direct visual transcription from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
 ---
 
 “அத்தான்.........இன்று முதல் நம் வாழ்க்கை ஆரம்பம்.”
@@ -18,13 +18,13 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 
 “இல்...லை.”
 
-<!-- T1 unresolved source line: a short question beginning with “அத்தான்...” follows here. The exact middle/final glyph cluster is deferred to Stage 2 rather than guessed. -->
+“அத்தான்.....ஏன் அழுகிறீர்கள்?”
 
 “அழவில்லை.... ஆனந்தக் கண்ணீர்.”
 
 “நான் நம்பமாட்டேன்... நடந்ததைச் சொல்லுங்கள்.”
 
-வைரக்கண்ணு வாய் திறக்கவேயில்லை. லட்சுமியின் இடைவிடாத பிடிவாதத்தால் கடைசியில், தான் பட்ட கஷ்டங்களால் ‘கோர்ட்’டுக்குச் செல்லவேண்டு மென்ற உண்மை வெளியாகிற்று. லட்சுமி கவலைப் படவேயில்லை. ஜமீன்தார் போட்ட வளையல்களைக் கழற்றினாள். தன் கழுத்தில் கிடந்த சிறிய சங்கிலியையும் வளையல்களையும் வைரக்கண்ணுவிடம் அளித்தாள்.
+வைரக்கண்ணு வாய் திறக்கவேயில்லை. லக்ஷ்மியின் இடைவிடாத பிடிவாதத்தால் கடைசியில், தான் பட்ட கஷ்டங்களால் ‘கோர்ட்’டுக்குச் செல்லவேண்டு மென்ற உண்மை வெளியாகிற்று. லக்ஷ்மி கவலைப் படவே இல்லை. ஜமீன்தார் போட்ட வளையல்களைக் கழற்றினாள். தன் கழுத்தில் கிடந்த சிறிய சங்கிலியையும் வளையல்களையும் வைரக்கண்ணுவிடம் அளித்தாள்.
 
 “அத்தான்.........இவைகளை நாளைக்கே விற்று விடுங்கள். கடன் தீரட்டும். மீதிப்பணம்......பத்திரிகைக்கு முதலாக இருக்கட்டும். நீங்கள் தயங்க வேண்டாம்.”
 
@@ -34,7 +34,7 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 
 ○　　　　　　　　　○　　　　　　　　　○
 
-வளையல்களை எடுத்துக்கொண்டு வைரக்கண்ணு புறப்பட்டான். வாயிற்படி வரையில் லட்சுமி வந்து வழியனுப்பினாள். அவள் கண்களில் புதுஒளி! இதழைக் கிழித்துக் கொண்டு புன்னகை நெளிந்தது.
+வளையல்களை எடுத்துக்கொண்டு வைரக்கண்ணு புறப்பட்டான். வாயிற்படி வரையில் லக்ஷ்மி வந்து வழியனுப்பினாள். அவள் கண்களில் புதுஒளி! இதழைக் கிழித்துக் கொண்டு புன்னகை நெளிந்தது.
 
 அவள் திருச்சியிலே வைரக்கண்ணுவின் வீட்டில் இருப்பதாக நினைக்கவில்லை. இன்பபுரியில் இருப்பதாக நினைத்தாள். ஒரு அநாதைச் சிறுவனின் மேல் அவள் கொண்ட காதல் ஜமீன்தார் கட்டிய மாட மாளிகைகளை யெல்லாம் மண் மேடாக மதித்தது.
 
@@ -52,3 +52,21 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 - internal three-circle divider is preserved as source structure.
 
 <!-- anthology scan: 28; printed page: 26 -->
+
+
+## Stage 2 historical-glyph / difficult-reading audit
+
+**PASS FOR STAGE 2 — page remains `needs-review` pending Stage 3.**
+
+- complete page re-inspected at native / enlarged resolution;
+- checked the full known historical-family set: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- previously unresolved dialogue resolved directly from source pixels:
+  - `அத்தான்.....ஏன் அழுகிறீர்கள்?`;
+- source spelling `லக்ஷ்மி` restored at all three T1 occurrences on this page;
+- source spacing restored:
+  - `கவலைப் படவேயில்லை` → `கவலைப் படவே இல்லை`;
+- `வளையல்களைக்`, `வளையல்களையும்`, and `வளையல்களை` were checked against the historical-`ளை` family and retained;
+- `வழியனுப்பினாள்` and `நினைத்தாள்` were checked as same-edition old-form `ளா` occurrences; their existing Unicode readings are retained;
+- source-visible `செல்லவேண்டு மென்ற` and joined `புதுஒளி` are retained exactly;
+- no global replacement or lexical modernization was used;
+- unresolved Stage-2 glyph clusters on this page: **0**.
