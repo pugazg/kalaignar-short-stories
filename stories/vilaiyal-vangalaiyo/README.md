@@ -39,7 +39,7 @@ No existing canonical story was found. This workspace is therefore the canonical
 - Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
 - Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
 - Stage 4 synchronized Tamil assembly / controls: **PASS / CLOSED**
-- English: **BLOCKED by collection-wide Tamil-first gate until Story 4 witness closes**
+- English: **READY / PENDING — collection-wide Tamil/source gate is now CLOSED**
 
 After Stage 3, all **8/8** page records are `verified`.
 
@@ -81,4 +81,4 @@ Stage-3 cumulative result: **8/8 VERIFIED / 13 final source-fidelity corrections
 - unresolved source readings: **0**
 - Tamil/source status: **PASS / CLOSED**
 
-Because this anthology is being processed Tamil-first collection-wide, English does **not** begin yet. The remaining Tamil/source activity is the 1953 witness comparison for Story 4 `முந்நூறு ரூபாய்`.
+The 1953 collection-wide Tamil/source gate is now **CLOSED / PASS** after the Story 4 `முந்நூறு ரூபாய்` witness comparison. English translation for this canonical story is the automatic next phase. The next durable batch is **scans 24–27 / printed 22–25** only.
