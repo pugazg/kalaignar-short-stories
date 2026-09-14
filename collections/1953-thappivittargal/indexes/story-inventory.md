@@ -13,10 +13,10 @@ No printed contents page is visible. Story identity is controlled by source-visi
 
 - Story 1 — existing 1977 canonical
 - Story 2 — existing 1977 canonical
+- Story 3 — final duplicate check **PASS / unique**; canonical workspace `stories/vilaiyal-vangalaiyo/` created and Tamil/source closed
 - Story 4 — existing 1977 canonical
-- Story 3 — no current canonical match found
 
-For `விலையால் வாங்கலையோ`, the fresh repository-wide section check did not find the distinctive opening character/dialogue evidence elsewhere. Treat it as a **new-canonical candidate**, but repeat the duplicate check immediately before creating a story workspace.
+No duplicate canonical story workspace remains.
 
 ## Witness progress
 
