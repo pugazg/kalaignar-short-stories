@@ -91,22 +91,24 @@ No new canonical story folder was created in this intake-only iteration.
 - short-story inventory: **3/3 COMPLETE**
 - short-story opening scans visually checked: **3/3**
 - final source boundary checked: **PASS — scan 80**
-- transcription / witness comparison: **NOT STARTED**
+- retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`: **IN PROGRESS**
+  - Batch 1 scans **5–9 / printed 1–5**
+  - Stage 1 first-pass: **COMPLETE 5/5**
+  - Stage 2–4: **NOT STARTED**
+  - page status: **needs-review 5/5**
+- remaining transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Process repository-retained work 1 **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**, scans **5–24 / printed 1–16, 16-A–16-D**.
+Run **Stage 2 visual text-fidelity audit** for retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`, Batch 1 scans **5–9 / printed 1–5**.
 
-Before transcription:
+Workspace:
 
-1. fetch live `main`;
-2. reread the short-story and collection guides plus this intake;
-3. preserve this unit in **this repository** despite its prose/discourse genre;
-4. visually recheck scan 5 opening, scan 24 ending, and scan 25 `தெருக்கூத்து` boundary;
-5. create a dedicated durable workspace for this retained work within this repository;
-6. begin source-faithful Stage 1 first-pass transcription only from the attached scan pixels.
+`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-After this work is closed, the next source-order retained work is **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**.
+Reopen the same five controlling scans and compare the committed Stage-1 text line-by-line / phrase-by-phrase. Resolve ordinary omissions, wrong letters/words, punctuation, paragraph boundaries, physical page continuations, and the documented Stage-1 review queue where the source supports a reading.
 
-Do **not** skip directly to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
+Keep the pages `needs-review` after Stage 2. Do **not** begin Stage 3 or the next batch in the same activity.
+
+After this retained work closes, process `தெருக்கூத்து` next in source order; do not skip to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
