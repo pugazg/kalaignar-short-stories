@@ -762,23 +762,28 @@ Workspace:
 
 Batch 1 scans **5–9 / printed 1–5** now has:
 
-- Stage 1 first-pass: **COMPLETE 5/5**
-- Stage 2 visual text-fidelity: **COMPLETE 5/5**
+- scans **5–8** — **Stage 4 PASS / VERIFIED**
+- scan **9** — **Stage 4 HOLD / NEEDS-REVIEW**
 - Stage-2 source-proven corrections: **16**
-- Stage 3 historical Tamil glyph audit: **COMPLETE 5/5**
 - Stage-3 character-identity corrections: **0**
-- Stage-3 unresolved glyph clusters: **0**
-- page status: **needs-review 5/5**
-- remaining source-text issue: **1 — scan 9 library/ownership-mark crossing**
+- Stage-4 additional corrections: **0**
+- remaining source-text issues: **1**
 
-Stage-2 audit: `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE2_BATCH_001.md`  
-Stage-3 audit: `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE3_BATCH_001.md`
+The unresolved location is on scan 9 after:
 
-**NEXT: Stage 4 final independent source check on scans 5–9.**
+`‘மத நம்பிக்கை’ என்ற போர்வை`
 
-Reopen the full batch fresh from the Stage-3 committed text. Confirm all text, punctuation, paragraphing, page boundaries, all Stage-2 corrections, and the Stage-3 glyph disposition. Apply the exhaustive difficult-reading protocol to the scan-9 mark-crossed span. Do not guess; pages may become `verified` only if every source-text issue receives a defensible final disposition.
+A library/ownership mark physically obliterates part of the printed line. Stage 4 has already checked native pixels, enlarged crops, nearest-neighbour and Lanczos resampling, grayscale/contrast/sharpening, RGB/min-channel and saturation variants, same-font forms, scan-10 page continuation, and repository/connected-GitHub exact-phrase searches. No defensible reading was recovered and no wording was guessed.
 
-Do **not** begin scans 10–14 in the same activity. After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
+Stage-4 audit:
+
+`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE4_BATCH_001.md`
+
+**NEXT: resolve or formally disposition this single scan-9 source obstruction.**
+
+Do **not** begin scans 10–14 while Batch 1 remains open. Acceptable evidence is a clearer same-page image/copy, a provenance-known independent witness used only for corroboration, or an explicit user-authorized closure preserving the physical-loss caveat.
+
+After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
 This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover. In particular, do **not** auto-resume 1958 `தேனலைகள்`.
 
