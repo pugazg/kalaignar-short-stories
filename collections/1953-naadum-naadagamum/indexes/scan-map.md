@@ -9,9 +9,9 @@
 | 1 | — | cover/title | `நாடும் நாடகமும்` / `மு. கருணாநிதி` / `திராவிடப்பண்ணை` | registered |
 | 2 | — | edition / imprint | `முதல் பதிப்பு — 1953`; price; printer line | registered |
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
-| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | retained here / pending processing |
+| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — scans 5–9 Stage 1 complete; scans 10–20 not-started** |
 | 21–24 | 16-A–16-D | prose/discourse | continuation of `நாடும் நாடகமும்` | retained here / pending processing |
-| 25–51 | 17–43 | play | `தெருக்கூத்து`; begins `காட்சி 1` | mapped / non-story |
+| 25–51 | 17–43 | play | `தெருக்கூத்து`; begins `காட்சி 1` | **retained here / pending processing** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | inventory only / existing-canonical witness |
 | 69–75 | 61–67 | short story | `பெண்கள்` | inventory only / new-canonical candidate |
 | 76–80 | 68–72 | short story | `இரகசியம்!` | inventory only / existing-canonical witness |
@@ -54,3 +54,15 @@ Ending/boundary checks:
 - scan **80 / printed 72** closes `இரகசியம்!` with a terminal star and is the final supplied scan.
 
 No story text was transcribed during intake.
+
+
+## Active retained-work checkpoint
+
+`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — Batch 1 scans **5–9 / printed 1–5**:
+
+- Stage 1 first-pass: **COMPLETE 5/5**
+- Stage 2: **NEXT**
+- Stage 3: **NOT STARTED**
+- Stage 4: **NOT STARTED**
+- verified: **0/5**
+- current page status: **needs-review 5/5**
