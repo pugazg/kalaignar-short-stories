@@ -4,7 +4,7 @@
 
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **NOT STARTED** |
+| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 Stage 1 scans 5–9 COMPLETE** |
 | B | `தெருக்கூத்து` | play | 17–43 | 25–51 | **retain/process in this repository** | **NOT STARTED** |
 
 ## Short-story inventory basis
@@ -74,10 +74,10 @@ The 1953 opening begins with the same poet figure and wording as the closed 1977
 
 ## Exact next activity
 
-Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**, scans **5–24 / printed 1–16, 16-A–16-D**.
+Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**.
 
-Process it **inside this repository**. Do not relocate it based on genre.
+Batch 1 scans **5–9 / printed 1–5** now has Stage 1 first-pass **COMPLETE / 5/5**.
 
-After it is closed, process special work B **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, also inside this repository.
+Next: **Stage 2 visual text-fidelity audit on the same five scans**. Keep pages `needs-review`; do not start Stage 3 or scans 10–14 in the same activity.
 
-Only then continue source-order short-story work with `ஆலமரத்துப் புறாக்கள்`, unless the user explicitly redirects.
+After the full prose/discourse work is closed, process special work B **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, also inside this repository.
