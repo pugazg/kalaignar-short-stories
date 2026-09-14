@@ -146,55 +146,61 @@ Source identity:
 - source type: **image-only; direct scan pixels control**
 - source PDF committed: **No**
 
-Story pagination:
-
-- scans **7–34**
-- printed pages **5–32**
-- relation: **scan = printed page + 2**
-
 Inventory — **4/4 COMPLETE**:
 
-1. `தப்பிவிட்டார்கள்` — scans **7–15 / printed 5–13** — existing canonical witness
-2. `சபலம்` — scans **16–23 / printed 14–21** — existing canonical witness
-3. `விலையால் வாங்கலையோ` — scans **24–31 / printed 22–29** — **new-canonical candidate**
-4. `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — existing canonical witness
+1. `தப்பிவிட்டார்கள்` — scans **7–15 / printed 5–13** — witness **CLOSED / PASS 9/9**
+2. `சபலம்` — scans **16–23 / printed 14–21** — witness **CLOSED / PASS 8/8**
+3. `விலையால் வாங்கலையோ` — scans **24–31 / printed 22–29** — **canonical ACTIVE**
+4. `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — witness **NOT STARTED**
 
-Current state:
+### Story 3 — `விலையால் வாங்கலையோ`
 
-- source / scan / story inventory: **COMPLETE 4/4**
-- Story 1 `தப்பிவிட்டார்கள்`: **CLOSED / PASS — 9/9**
-  - witness workspace: `stories/thappivittargal/witnesses/1953-thappivittargal/`
-  - narrative structure: **equivalent / complete**
-  - representative variants: 1953 `போடக்கூடாது` ↔ 1977 `போட்டுக்கூடாது`; `மூவாயிரம் தொழிலாளர்` ↔ `மூவாயிரம் தொழிலாளர்கள்`
-  - 1953 layout: three-open-circle divider before Leela Mill; simple closing rule
-  - canonical Tamil / English changed: **No / No**
-  - canonical-recheck candidates: **0**
-- Story 2 `சபலம்`: **CLOSED / PASS — 8/8**
-  - witness workspace: `stories/sabalam/witnesses/1953-thappivittargal/`
-  - narrative structure: **equivalent / complete**
-  - representative variants: `இமைகளைப் பிடித்திழுத்து` ↔ 1977 `இமைகளேப் பிடித்திழுத்து`; `பார்க்கவில்லை` ↔ `பார்க்க வில்லை`; `அழுதிடும்` ↔ `அழுதிடுங்`; `அந்த அகோரமான இருளில்` ↔ `அந்த அந்தகாரமான இருளில்`
-  - 1953 layout: internal three-open-circle divider; no 1977-style opening rule / enlarged `வ` / closing ornament
-  - canonical Tamil / English changed: **No / No**
-  - canonical-recheck candidates: **0**
-- existing-canonical witness comparisons completed: **2/3**
-- next new-canonical candidate: **`விலையால் வாங்கலையோ`**
-- Story 4 `முந்நூறு ரூபாய்`: witness **NOT STARTED**
+Canonical route:
+
+`stories/vilaiyal-vangalaiyo/`
+
+Activation / identity:
+
+- final live-main duplicate check: **PASS — no existing canonical match**
+- exact title / transliteration / `வைரக்கண்ணு` / opening-dialogue anchors checked
+- new canonical workspace created: **Yes**
+- controlling source: this 1953 fourth edition
+
+Current Tamil state:
+
+- T1: **IN PROGRESS — 2/8**
+- scans **24–25 / printed 22–23**: **T1 COMPLETE / COMMITTED**
+- scans **26–31 / printed 24–29**: not started
+- Stage 2 historical-glyph audit: **0/8**
+- Stage 3 final source / visual fidelity: **0/8**
+- Stage 4 Tamil assembly / controls: not started
+- verified pages: **0/8**
+- English: **BLOCKED**
+
+Durable checkpoint:
+
+`stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`
+
+T1 scan-24 intentionally contains one unresolved dialogue span rather than a guessed reading. It must be reopened in Stage 2 using the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and direct native source pixels.
+
+### Small-batch execution plan
+
+1. T1 scans 24–25 — **DONE**
+2. T1 scans 26–27 — **NEXT**
+3. T1 scans 28–29
+4. T1 scans 30–31 + scan-32 boundary confirmation
+5. Stage 2 scans 24–27
+6. Stage 2 scans 28–31
+7. Stage 3 + Stage 4 Tamil/source closure
+8. English only after Tamil/source closure
 
 ## Exact next activity — current
 
-Activate Story 3 `விலையால் வாங்கலையோ` as a new-canonical candidate:
+Process only **T1 scans 26–27 / printed 24–25** for `விலையால் வாங்கலையோ`.
 
-- 1953 scans: **24–31**
-- printed pages: **22–29**
-- total: **8 physical source pages**
-- controlling source: the attached 1953 fourth-edition PDF
-- first repeat the live-main duplicate / identity search using the title plus distinctive opening evidence such as `வைரக்கண்ணு` and the opening marriage-market dialogue
-- if an existing canonical work is found, route this source as a witness instead of creating a duplicate
-- if still unique, create a repository-consistent canonical story workspace and process the full 8-page Tamil/source layer under the normal four-stage workflow
-- do not begin English before the Tamil/source gate is closed
-- stop after Story 3; do not begin Story 4 `முந்நூறு ரூபாய்` unless explicitly requested
+Commit those two page records and refresh the story / collection / root trackers **before** beginning scans 28–29.
 
-Stories 1–2 are closed under the 1953 witness and must not be reopened from stale prompts.
+Do not start Story 4 `முந்நூறு ரூபாய்` yet.
 
 ## Closed source — 1956 `தாய்மை`
 
