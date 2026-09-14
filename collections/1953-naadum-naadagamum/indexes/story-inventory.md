@@ -4,7 +4,7 @@
 
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 WORD-BY-WORD RE-AUDIT CLOSED (15 corrections); Batch 2 Stage 1 NEXT** |
+| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 CLOSED / VERIFIED 5/5 (18 re-audit corrections); Batch 2 Stage 1 NEXT** |
 | B | `தெருக்கூத்து` | play | 17–43 | 25–51 | **retain/process in this repository** | **NOT STARTED** |
 
 ## Short-story inventory basis
@@ -76,11 +76,11 @@ The 1953 opening begins with the same poet figure and wording as the closed 1977
 
 Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**.
 
-Batch 1 scans **5–9 / printed 1–5** is **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**:
+Batch 1 scans **5–9 / printed 1–5** is **CLOSED / VERIFIED 5/5**:
 
 - scans 5–8 — **re-verified after word-by-word scan audit**
-- scan 9 — **recoverable text re-audit PASS; blocked only at one physically obliterated span**
-- additional re-audit corrections — **15**
+- scan 9 — **VERIFIED after targeted lower-line recheck**
+- additional re-audit corrections — **18**
 - guessed reconstruction — **0**
 
 Next: **Batch 2 Stage 1 first-pass transcription, scans 10–14 / printed 6–10**.
