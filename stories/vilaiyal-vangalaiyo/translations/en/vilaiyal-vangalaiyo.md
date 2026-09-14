@@ -121,3 +121,130 @@ forced into a room.”
 “Aththan...these diamond bangles were given by the zamindar.”
 
 “Poor fellow......a pitiable man. He was thoroughly fooled.”
+
+<!-- source scan 28; printed page 26 -->
+
+“Aththan.........from today, our life begins.”
+
+“Yes.”
+
+“From now on........we need never part.”
+
+“No...we don't.”
+
+“Aththan.....why are you crying?”
+
+“I'm not crying....tears of joy.”
+
+“I don't believe you...tell me what happened.”
+
+Vairakkannu would not open his mouth. At last, under Lakshmi's relentless insistence, the truth came out: because of the hardships he had suffered, he would have to go to court. Lakshmi was not worried. She removed the bangles the zamindar had put on her. She also took off the small chain around her neck and gave both the chain and the bangles to Vairakkannu.
+
+“Aththan.........sell these tomorrow itself. Let the debt be cleared. Let the money left over......be capital for the newspaper. Don't hesitate.”
+
+Vairakkannu thought it over. Even so, he agreed. The night kept moving on.
+
+○　　　　　　　　　○　　　　　　　　　○
+
+Taking the bangles with him, Vairakkannu set out. Lakshmi came as far as the doorway to see him off. A new light shone in her eyes! A smile curled across her parted lips.
+
+She did not think of herself as being in Vairakkannu's house in Tiruchi. She imagined herself in a city of bliss. Her love for an orphaned young man made all the mansions built by the zamindar seem no more than mounds of earth.
+
+<!-- source scan 29; printed page 27 -->
+
+How many hardships had she endured for his love! She heard that Vairakkannu had been driven away. It was a spear driven into her side.
+
+Because of the firmness of her love, she did not falter. Natarasan's coercion—that her life must be sacrificed to the life of a “country dandy”!......It was oil poured onto a burning fire......
+
+That was the day of her festival of liberation!... She rejoiced at the thought. Dancing, she ran inside...... A cuckoo's song arose.
+
+○　　　　　　　　　○　　　　　　　　　○
+
+At a North Indian Marwari's money shop, the diamond bangles were tested and the bargaining began.
+
+“These aren't high-grade diamonds, just ordinary ones. Altogether they're not worth even a hundred rupees.” The Marwari set the bangles down dismissively.
+
+Vairakkannu picked up the bangles and said, “Open your eyes and name a proper price, man.”
+
+“Let it go....take a hundred and fifty,” said the Marwari.
+
+“Poor sir, how pitiable,” Vairakkannu said sarcastically.
+
+“One price...two hundred rupees!”
+
+“So sir's opinion is that Tamil people have no brains.” Vairakkannu said this in anger.
+
+“All right. Don't get angry, sir...I'll look again.”
+
+The Marwari took the bangles and appraised them again. As he examined them, he said something in Hindustani to his shop boy. The word itself was split by the physical page boundary: sa
+
+<!-- source scan 30; printed page 28 -->
+
+id. The shop boy ran off somewhere. The Marwari kept looking at the bangles again and again. Vairakkannu too grew tired of it.
+
+“Look quickly, man!”
+
+“I'm almost done.”
+
+“How long are you going to appraise them?”
+
+“The boy has gone out. Let him come back; then I'll send you on your way.”
+
+The shop boy returned, and the sub-inspector came along behind him.
+
+Vairakkannu.......was accused of having brought stolen jewellery.
+
+“Your name is Vairakkannu, isn't it?”
+
+“Yes.”
+
+“You are the editor of the Paattali newspaper, aren't you?”
+
+“Yes.”
+
+“Whose jewels are these?”
+
+“My wife's.”
+
+“Earlier...once...you told me you weren't married!”
+
+“Not my wife...my lover. I came to sell these at her wish.”
+
+“Your lover...where is she now?”
+
+“At my house.”
+
+“All right....we'll go to the house.”
+
+“Here...I'm coming.”
+
+The sub-inspector, Vairakkannu, and the onlookers walked towards his house.
+
+As the house drew nearer and nearer, Vairakkannu began to laugh. In his mind arose the thought that the sub-inspector was going to be thoroughly
+
+<!-- source scan 31; printed page 29 -->
+
+fooled.
+
+They entered the house.
+
+“Lakshmi!” Vairakkannu called eagerly. There was no reply. She was lying in a corner. “Sleeping in the daytime?” He tapped her to wake her. The sub-inspector's suspicion was dispelled.
+
+Suddenly Vairakkannu screamed and struck himself in the face.
+
+His whole face was smeared with blood... like a madman... he reeled and danced.
+
+Everyone came inside. Lakshmi lay there dead,
+
+Vairakkannu was arrested.
+
+“Thief!Murderer!” The sub-inspector's voice thundered like a storm!
+
+“You wretch....you've killed a beautiful woman for her jewels.”
+
+That was what the onlookers said!
+
+No one knew the secret: Natarajan, who could not bear that his sister—unfit for the dasi profession—had deceived both him and the zamindar and was living with an orphaned fellow, had tracked her down the moment she ran away; when he called her and she refused to return, he shot her dead and left. How could anyone have known?
+
+Vairakkannu was brought before the court. He was no longer the old Vairakkannu. He was a mad Vairakkannu... Whatever the lawyer asked, he gave only one answer: “Were you bought for a price, bangle?”
+
