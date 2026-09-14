@@ -99,17 +99,21 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
   - Stage 3 historical glyph: **COMPLETE 5/5**
   - Stage-3 character-identity corrections: **0**
-  - Stage 4: **NEXT**
-  - page status: **needs-review 5/5**
+  - Stage 4: **PARTIAL / HOLD — 4/5 PASS**
+  - Stage-4 source-proven corrections: **0**
+  - page status: **verified 4/5; needs-review 1/5 (scan 9)**
 - remaining transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Run **Stage 4 final independent source check** for retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`, Batch 1 scans **5–9 / printed 1–5**.
+Resolve or formally disposition the **single scan-9 mark-crossed source span** in retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`.
 
-Stages 1–3 are complete. Stage 2 made **16 source-proven corrections**; Stage 3 found **0 character-identity corrections / 0 unresolved glyph clusters**.
+Batch 1 scans **5–9 / printed 1–5** now has Stage 4 **PARTIAL / HOLD**:
 
-One scan-9 source-text span remains obscured by a library/ownership mark. Stage 4 must apply the exhaustive source-resolution protocol and may mark pages `verified` only if all source-text issues receive a defensible disposition.
+- scans 5–8 — **VERIFIED**
+- scan 9 — **NEEDS-REVIEW**
+- Stage-4 corrections — **0**
+- remaining source-text issues — **1**
 
-Do **not** begin scans 10–14 in the same activity. After this retained work closes, process `தெருக்கூத்து` next in source order.
+Do **not** begin scans 10–14 until Batch 1 closes. After the full prose/discourse work closes, process `தெருக்கூத்து` next in source order.
