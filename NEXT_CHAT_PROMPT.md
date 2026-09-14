@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — `விலையால் வாங்கலையோ` / Stage 2 scans 28–31
+# NEXT CHAT PROMPT — `விலையால் வாங்கலையோ` / Stage 3 scans 24–27
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,66 +16,69 @@ Use only the attached:
 - story span: scans **24–31 / printed 22–29**
 - canonical route: `stories/vilaiyal-vangalaiyo/`
 
-For historical-glyph decoding use the user-supplied:
+Historical-glyph guide:
 
 `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 
-Do not use OCR, web text or another edition as textual authority.
+No OCR, web text or alternate edition may replace the controlling source pixels.
 
 ## Durable state
 
-- T1: **8/8 COMPLETE**
-- Stage 2: **4/8 COMPLETE / PASS — scans 24–27**
-- scans 24–27 page status: **needs-review 4/4**
-- scans 28–31 page status: **partial 4/4**
-- verified pages: **0/8**
-- Stage 3–4: not started
+- T1 first-pass: **8/8 COMPLETE**
+- Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
+- unresolved Stage-2 glyph clusters: **0**
+- page statuses: **needs-review 8 / verified 0**
+- Stage 3 final source / visual-fidelity audit: **0/8**
+- Stage 4 Tamil assembly / controls: not started
 - English: blocked
 
-Stage-2 checkpoint:
+Stage-2 checkpoints:
 
-`stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`
+- `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`
+- `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 
-Stage-2 scans 24–27 result:
+Stage-2 cumulative result:
 
-- **14 occurrence-level textual repairs**;
-- **1 historical-character correction**: apparent `நன்றுக` → source-supported `நன்றாக` (`றா` family);
-- unresolved Stage-2 glyph clusters: **0**;
-- previously unresolved text on scans 24, 26 and 27 was resolved only from direct pixels.
+- **30 occurrence-level textual repairs**;
+- **9 historical-character identity corrections / resolutions**;
+- scans 28–31 contributed **16** repairs, including historical `னா`, `றா`, and same-edition old `ளா` decoding;
+- no Stage-2 unresolved glyph cluster remains.
 
 ## Small-task rule
 
-Keep every unit small enough to commit and synchronize:
+Keep the final verification in small durable units:
 
 1. T1 scans 24–31 + boundary — **DONE**
 2. Stage 2 scans 24–27 — **DONE / PASS**
-3. Stage 2 scans 28–31 — **CURRENT**
-4. Stage 3 final source / visual-fidelity audit
-5. Stage 4 assembly / controls
+3. Stage 2 scans 28–31 — **DONE / PASS**
+4. Stage 3 scans 24–27 — **CURRENT**
+5. Stage 3 scans 28–31
+6. Stage 4 assembly / controls
 
 ## Exact next activity
 
-Process **Stage 2 only for scans 28–31 / printed 26–29**.
+Process **Stage 3 final source / visual-fidelity audit only for scans 24–27 / printed 22–25**.
 
 1. Fetch live `main`.
-2. Read the four existing page records for scans 28–31 and their T1 checkpoints.
-3. Read the user-supplied historical-glyph guide.
-4. Reopen scans 28–31 at native / enlarged resolution.
-5. Check all 13 known historical glyph families on every page.
-6. Resolve T1 review points only when the source pixels support the full cluster / phrase.
-7. Record every correction separately; distinguish historical-character corrections from ordinary source-fidelity corrections.
-8. Leave genuinely uncertain readings explicit rather than guessing.
-9. Create `STAGE2_BATCH_028_031.md`.
-10. Update page statuses to `needs-review` only when their Stage-2 audit is complete.
-11. Update story / collection / root trackers and this prompt.
-12. Commit / synchronize.
-13. **Stop after scan 31. Do not start Stage 3 in the same activity.**
+2. Read the four Stage-2-updated page records for scans 24–27 and both relevant checkpoints.
+3. Reopen scans 24–27 directly at native / enlarged resolution.
+4. Independently re-read every line, punctuation mark, dialogue boundary, page continuation and structural divider.
+5. Recheck all Stage-2 corrections rather than assuming they are right.
+6. Recheck the 13 known historical glyph families and any additional edition-specific old forms encountered.
+7. If a Stage-2 correction proves wrong, repair it and document the reversal / refinement.
+8. Do not modernize spelling, sandhi, punctuation, compounds, names or grammar.
+9. If a page is source-clean with no unresolved reading, change its page status from `needs-review` to `verified`.
+10. If any source issue remains, keep that page `needs-review` and record the exact blocker.
+11. Create a durable Stage-3 checkpoint for scans 24–27.
+12. Update story README / page map, collection trackers, root `HANDOVER.md`, and this prompt.
+13. Commit / synchronize.
+14. **Stop after scan 27. Do not begin Stage 3 scans 28–31 in the same activity.**
 
-Known T1 review points in this batch include:
+High-value Stage-2 repairs to revalidate in this batch include:
 
-- scan 28 — unresolved short dialogue after `“இல்...லை.”`; `வளையல்களைக்` / `வளையல்களையும்`; source spacing around `செல்லவேண்டு மென்ற`; `புதுஒளி`;
-- scan 29 — unresolved short clause before `குயிலிசை கிளம்பிற்று.`; `நாட்டு சோக்காளி`; `நூறு ரூபாய்கூடப் பெறுமானமில்லை`; historical `ளை` clusters; page-ending `சொன்` continuing to scan 30;
-- scan 30 — `நாழிகை`; `குற்றஞ் சாட்டப்பட்டான்`; `புறப்படும்`; lower-dialogue physical circular losses; historical-family sweep;
-- scan 31 — `பதிலவரவில்லை`; `எழுப்பினன்`; `அலறினன்`; `ஆடினன்`; `சண்டமாருத`; `கூறினர்களிப்படி`; the long explanatory sentence; closing phrase `விலையால் வாங்கலையோ வளையல்`; circular physical losses.
+- scan 24 — `தங்கப் பாத்திரமா`, source `லக்ஷ்மி`, `வாழ்வுக்காக`, recovered `ஆடுமாடுகளைக் கூடத்தான்....நல்லவிலே போகுமென்று வளர்க்கிறார்கள்.`;
+- scan 25 — `அபிப் பிராயப்படி`, `தகராறு பண்ணினை`, `நிலைக்கண்ணாடிக்கு`, source `லக்ஷ்மி`;
+- scan 26 — `ஒன்றோடொன்று பின்னிக் கொண்டன`, source `லக்ஷ்மி`, and the physical `வைக்கா / விட்டால்` line break;
+- scan 27 — `அழைப்பை`, source `லக்ஷ்மி` / `வீரலக்ஷ்மி`, and historical-`றா` correction `நன்றாக`.
 
 Story 4 `முந்நூறு ரூபாய்` remains untouched.
