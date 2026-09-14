@@ -760,28 +760,29 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** now has:
+Batch 1 scans **5–9 / printed 1–5** is now **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**:
 
-- scans **5–8** — **Stage 4 PASS / VERIFIED**
-- scan **9** — **Stage 4 HOLD / NEEDS-REVIEW**
-- Stage-2 source-proven corrections: **16**
-- Stage-3 character-identity corrections: **0**
-- Stage-4 additional corrections: **0**
-- remaining source-text issues: **1**
+- scans **5–8** — **VERIFIED**
+- scan **9** — **BLOCKED only at one physically obliterated span**
+- guessed reconstruction — **0**
+- limitation record — `SOURCE_LIMITATION_SCAN_009.md`
+- remaining actionable Batch-1 review items — **0**
 
-The unresolved location is on scan 9 after:
+**NEXT: Batch 2 Stage 1 first-pass transcription, scans 10–14 / printed 6–10.**
 
-`‘மத நம்பிக்கை’ என்ற போர்வை`
+Before source-dependent writes:
 
-A library/ownership mark physically obliterates part of the printed line. Stage 4 has already checked native pixels, enlarged crops, nearest-neighbour and Lanczos resampling, grayscale/contrast/sharpening, RGB/min-channel and saturation variants, same-font forms, scan-10 page continuation, and repository/connected-GitHub exact-phrase searches. No defensible reading was recovered and no wording was guessed.
+1. fetch live `main`;
+2. reread the permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, and the retained-work README/page-map;
+3. reopen scans **10–14** from the user-supplied PDF;
+4. create one page record per physical scan;
+5. transcribe source-faithfully from scan pixels only;
+6. preserve punctuation, paragraphing, spelling and page boundaries;
+7. mark uncertain readings explicitly rather than guessing;
+8. set all five transcribed pages to `needs-review`;
+9. commit/sync Stage 1 and stop.
 
-Stage-4 audit:
-
-`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE4_BATCH_001.md`
-
-**NEXT: resolve or formally disposition this single scan-9 source obstruction.**
-
-Do **not** begin scans 10–14 while Batch 1 remains open. Acceptable evidence is a clearer same-page image/copy, a provenance-known independent witness used only for corroboration, or an explicit user-authorized closure preserving the physical-loss caveat.
+Do **not** begin Stage 2 in the same activity. Batch 1 remains closed unless genuinely new source evidence appears.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
