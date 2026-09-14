@@ -39,22 +39,23 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - Stage 3 historical-glyph audit: **COMPLETE — 5/5**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4 final independent check: **NEXT**
-- page status: **needs-review 5/5**
-- verified: **0/20**
+- Stage 4 final independent check: **PARTIAL / HOLD — 4/5 PASS**
+- Stage-4 source-proven corrections: **0**
+- page status: **verified 4/5; needs-review 1/5 (scan 9)**
+- verified: **4/20**
 - blocked: **0**
+- remaining source-text issue: **1 — scan 9 library/ownership-mark crossing**
 
 Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
 ## Exact next activity
 
-Run **Stage 4 final independent source check** for Batch 1 scans **5–9 / printed 1–5**.
+Resolve or formally disposition the **single scan-9 library/ownership-mark-crossed source span** so Batch 1 can close.
 
-Start fresh from the Stage-3 committed text and compare all five pages end-to-end against the controlling scan pixels. Confirm ordinary text, punctuation, paragraphing, page boundaries, the **16 Stage-2 corrections**, and the **0-change Stage-3 glyph disposition**.
+Scans **5–8 / printed 1–4** are now **VERIFIED**. Scan **9 / printed 5** remains `needs-review` after exhaustive Stage-4 image work.
 
-The scan-9 library/ownership-mark-crossed source span remains unresolved. Apply the exhaustive source-resolution protocol during Stage 4; do not guess. Promote pages to `verified` only if every source-text issue receives a defensible disposition.
-
-Do **not** begin scans 10–14 in the same activity.
+Do **not** begin scans 10–14 while Batch 1 remains open.
 
 Stage-2 audit: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)  
-Stage-3 audit: [`STAGE3_BATCH_001.md`](STAGE3_BATCH_001.md)
+Stage-3 audit: [`STAGE3_BATCH_001.md`](STAGE3_BATCH_001.md)  
+Stage-4 audit: [`STAGE4_BATCH_001.md`](STAGE4_BATCH_001.md)
