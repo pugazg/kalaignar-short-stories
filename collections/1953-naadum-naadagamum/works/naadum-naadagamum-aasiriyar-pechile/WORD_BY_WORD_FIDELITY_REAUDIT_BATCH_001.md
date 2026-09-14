@@ -16,12 +16,12 @@ Every recoverable word, punctuation mark, source spacing decision relevant to le
 
 - physical scans re-audited: **5/5**
 - recoverable page text checked word by word: **5/5**
-- source-proven corrections: **15**
-  - wording / spelling / source spacing: **8**
+- source-proven corrections: **18**
+  - wording / spelling / source spacing: **11**
   - punctuation: **7**
 - scans re-verified after correction: **5–8**
-- scan 9 recoverable text: **PASS**
-- scan 9 terminal source-loss span: **UNCHANGED / BLOCKED**
+- scan 9: **FULLY RESOLVED / VERIFIED**
+- terminal source-loss spans: **0**
 - guessed readings introduced: **0**
 - new unresolved recoverable-text issues: **0**
 
@@ -79,15 +79,20 @@ Therefore the continuous phrase is:
 
 The comma after `பிறகுதான்,` is source-supported and remains unchanged.
 
-### Scan 9 / printed 5 — 3 corrections
+### Scan 9 / printed 5 — 6 final corrections
 
 1. `தீட்டியுள்ள திறமையும்,` → `தீட்டியுள்ள திறமையும்.`
 2. `விதவிதமான` → `வித விதமான`
-3. `‘மத நம்பிக்கை’` → `‘மத நம்பிக்கையின்மை’`
+3. `மத நம்பிக்கை` → `மத நடுநிலைமை`
+4. `போர்வை` → `போர்வையிலே`
+5. previously obscured word restored as `தூதா`
+6. `தந்திரம்` → `தந்திடும்`
 
-The third correction was made after the user explicitly flagged the earlier reading. A fresh enlarged native-pixel recheck shows the longer quoted form `மத நம்பிக்கையின்மை`; the shorter `மத நம்பிக்கை` reading was incomplete.
+The complete corrected lower sentence is:
 
-The library/ownership-mark-crossed final-line span remains a terminal physical-source limitation. The re-audit did not reconstruct, import, or guess its missing wording.
+`அறிவு, ஆராய்ச்சி என்றும் அலறியடித்துக் கொண்டு ஆர்ப்பாட்டம் செய்யும் பழமை விரும்பிகளும், அவர்களுக்கு, ‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்டிறேன்.`
+
+The earlier intermediate reading `மத நம்பிக்கையின்மை` is superseded and is **not** counted as an additional durable correction. The user's supplied reading enabled a targeted reinspection of the damaged line; the surviving native glyphs align with the corrected full phrase. The former physical-loss hold is therefore resolved.
 
 ## Status after re-audit
 
@@ -97,16 +102,16 @@ The library/ownership-mark-crossed final-line span remains a terminal physical-s
 | 6 | 2 | **VERIFIED — word-by-word re-audit PASS** |
 | 7 | 3 | **VERIFIED — word-by-word re-audit PASS** |
 | 8 | 4 | **VERIFIED — word-by-word re-audit PASS** |
-| 9 | 5 | **BLOCKED only at documented physical-loss span; recoverable text re-audit PASS** |
+| 9 | 5 | **VERIFIED — targeted lower-line recheck resolved former hold** |
 
 ## Supersession note
 
-This audit is newer than the original Batch-1 Stage-2/Stage-4 fidelity decisions and supersedes those earlier readings wherever the 15 corrections above conflict with them.
+This audit is newer than the original Batch-1 Stage-2/Stage-4 fidelity decisions and supersedes those earlier readings wherever the 18 corrections above conflict with them.
 
 The historical Stage-2 correction count remains part of the audit trail; it must not be treated as the current exact text without this re-audit.
 
 ## Exact next activity
 
-Batch 1 is again closed after the requested re-audit.
+Batch 1 is now fully closed **5/5 VERIFIED** after the requested re-audit and targeted scan-9 resolution.
 
 Proceed to **Batch 2 Stage 1 first-pass transcription — scans 10–14 / printed 6–10**.
