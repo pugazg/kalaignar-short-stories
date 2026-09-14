@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / retained work Batch 1 Stage 3
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / retained work Batch 1 Stage 4
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -46,8 +46,10 @@ Intake is **COMPLETE**:
 - Stage-2 source-proven corrections — **16**
 - Stage-2 unresolved source-text spans — **1 — scan 9 mark crossing**
 - Batch 1 page status — **needs-review 5/5**
-- Stage 3 — **NEXT**
-- Stage 4 — **NOT STARTED**
+- Stage 3 historical glyph — **COMPLETE 5/5**
+- Stage-3 character-identity corrections — **0**
+- Stage-3 unresolved glyph clusters — **0**
+- Stage 4 — **NEXT**
 - verified — **0/5**
 - remaining transcription / witness comparison — **NOT STARTED**
 
@@ -73,28 +75,33 @@ Pagination includes inserted printed pages **16-A–16-D**. From scan 25 onward:
 
 ## Exact next activity
 
-Continue retained work 1 **`நாடும் நாடகமும்`**. The source-visible scan-5 subheading is **`(ஆசிரியர் பேசுகிறார்)`**; the user's repository-routing label **`(ஆசிரியர் பேச்சிலே)`** remains documented.
+Continue retained work 1 **`நாடும் நாடகமும்`**.
 
 Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** now has Stage 1 + Stage 2 **COMPLETE / 5/5**.
+Batch 1 scans **5–9 / printed 1–5** has Stages **1–3 COMPLETE / 5/5**.
 
-Stage 2 made **16 source-proven corrections**. One source span on scan 9, immediately after `‘மத நம்பிக்கை’ என்ற போர்வை`, remains obscured by a library/ownership mark; it was not guessed.
+- Stage 2 source-proven corrections: **16**
+- Stage 3 character-identity corrections: **0**
+- Stage 3 unresolved glyph clusters: **0**
+- page status: **needs-review 5/5**
+- remaining source-text issue: **scan 9 library/ownership-mark crossing**
 
-Run **Stage 3 historical Tamil glyph audit** on the same five scans:
+Run **Stage 4 final independent source check** on the same five scans:
 
 1. fetch live `main`;
-2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, root `HANDOVER.md`, active collection intake, and the retained-work README/page-map;
-3. use only the user-supplied PDF scan pixels as authority;
-4. explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` and any other historical typeforms encountered;
-5. make only source-proven character-identity corrections; do not modernize;
-6. keep the scan-9 mark-crossed span unresolved unless direct source evidence supports a reading;
-7. keep all pages `needs-review`;
-8. commit/sync Stage 3 and stop.
+2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, the active work README/page-map, and `STAGE2_BATCH_001.md` + `STAGE3_BATCH_001.md`;
+3. reopen scans **5–9** fresh from the user-supplied PDF;
+4. compare the entire Stage-3 committed text end-to-end against the scan pixels;
+5. confirm all Stage-2 corrections and the Stage-3 zero-correction glyph result;
+6. apply the exhaustive difficult-reading protocol to the scan-9 mark-crossed source span, including native pixels, enlargement, non-destructive variants, same-font comparison, and page-continuation evidence as applicable;
+7. do not guess or import outside wording;
+8. promote pages to `verified` only if all source-text issues receive a defensible final disposition;
+9. commit/sync Stage 4 and stop.
 
-Do **not** start Stage 4 or scans 10–14 in this same activity.
+Do **not** start scans 10–14 in this same activity.
 
 After the full prose/discourse work closes, retained work 2 **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, remains next in source order.
 
