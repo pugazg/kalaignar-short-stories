@@ -44,7 +44,7 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - post-closure word-by-word fidelity re-audit: **COMPLETE — 5/5**
 - post-closure source-proven corrections: **19**
 - page status: **verified 5/5**
-- verified: **10/20**
+- verified: **15/20**
 - blocked: **0/20**
 - remaining actionable Batch-1 source-text issues: **0**
 
@@ -95,22 +95,29 @@ Batch 3 = scans **15–19 / printed 11–15**.
 - source-proven Stage-2 corrections: **7**
 - Stage 3 historical-glyph audit: **COMPLETE / PASS — 5/5**
 - mandatory historical-glyph families audited: **13/13**
-- visibly represented families: **8/13**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final independent source check: **COMPLETE / PASS — 5/5**
+- Stage-4 source-proven corrections: **2**
 - page records: **5/5**
-- page status: **needs-review 5/5**
-- unresolved ordinary source spans: **0**
+- page status: **verified 5/5**
+- unresolved source-text issues: **0**
 - guessed readings: **0**
-- scan 15→16 boundary: **PASS — `பறி` / `கொடுத்துப்`**
-- scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
-- Stage 4 final independent check: **NEXT**
+- scan 15→16 boundary: **PASS / reconfirmed — `பறி` / `கொடுத்துப்`**
+- scan 16→17 boundary: **PASS / reconfirmed — `கொடுமைக்` / `கொடுத்து`**
+- Batch 3 closure: **CLOSED / VERIFIED 5/5**
 - durable Stage-1 record: [`STAGE1_BATCH_003.md`](STAGE1_BATCH_003.md)
 - durable Stage-2 record: [`STAGE2_BATCH_003.md`](STAGE2_BATCH_003.md)
 - durable Stage-3 record: [`STAGE3_BATCH_003.md`](STAGE3_BATCH_003.md)
+- durable Stage-4 record: [`STAGE4_BATCH_003.md`](STAGE4_BATCH_003.md)
+
+Stage-4 additional corrections:
+
+- scan 15: `தமிழனின் சரித்திரத்தை` → `தமிழரின் சரித்திரத்தை`
+- scan 16: `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`
 
 ## Exact next activity
 
-Run **Batch 3 Stage 4 final independent source check** for scans **15–19 / printed 11–15**.
+Start **scans 20–24 / printed 16, 16-A–16-D — Stage 1 first-pass transcription**.
 
-Reopen the entire batch fresh against the controlling source, verify all Stage-2 corrections and Stage-3 glyph dispositions, reconfirm both physical joins, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before scans 20–24.
+This is the final five-scan batch of the prose/discourse work. Use only the controlling scan pixels, create all five page records as `needs-review`, preserve uncertain readings explicitly rather than guessing, synchronize controls, commit Stage 1, and stop before Stage 2.

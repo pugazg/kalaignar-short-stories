@@ -855,31 +855,38 @@ Scans **15–19 / printed 11–15**:
 - Stage-2 source-proven corrections — **7**
 - Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
 - mandatory glyph families audited — **13/13**
-- visibly represented families — **8/13**
 - Stage-3 character-identity corrections — **0**
 - Stage-3 unresolved glyph clusters — **0**
+- Stage 4 final independent source check — **COMPLETE / PASS 5/5**
+- Stage-4 source-proven corrections — **2**
 - page records — **5/5**
-- page status — **needs-review 5/5**
-- unresolved ordinary source spans — **0**
+- page status — **verified 5/5**
+- unresolved source-text issues — **0**
 - guessed readings — **0**
-- scan 15→16 physical boundary — **PASS — `பறி` / `கொடுத்துப்`**
-- scan 16→17 physical boundary — **PASS — `கொடுமைக்` / `கொடுத்து`**
+- scan 15→16 physical boundary — **PASS / reconfirmed — `பறி` / `கொடுத்துப்`**
+- scan 16→17 physical boundary — **PASS / reconfirmed — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 record — `STAGE1_BATCH_003.md`
 - durable Stage-2 record — `STAGE2_BATCH_003.md`
 - durable Stage-3 record — `STAGE3_BATCH_003.md`
-- Stage 4 — **NEXT**
+- durable Stage-4 record — `STAGE4_BATCH_003.md`
+- Batch 3 closure — **CLOSED / VERIFIED 5/5**
 
-Stage-3 disposition:
+Stage-4 disposition:
 
-- mandatory families present: `ணா / ணை / லை / ளை / றா / றோ / னா / னை`
-- mandatory families absent: `ணொ / ணோ / றொ / னொ / னோ`
-- character-identity corrections: **0**
-- unresolved glyph clusters: **0**
-- all five pages remain `needs-review`
+- scan 15: `தமிழனின் சரித்திரத்தை` → `தமிழரின் சரித்திரத்தை`
+- scan 16: `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`
+- scans 17–19: **PASS / 0 additional corrections**
+- historical-glyph disposition: **reconfirmed / 0 character-identity changes**
+- unresolved issues: **0**
+- guessed readings: **0**
 
-**NEXT: Batch 3 Stage 4 final independent source check — scans 15–19 / printed 11–15.**
+### Final prose/discourse batch
 
-Reopen all five pages fresh against the controlling scan, confirm every Stage-2 correction and Stage-3 glyph disposition, reconfirm both physical continuations, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before scans 20–24.
+Scans **20–24 / printed 16, 16-A–16-D** are **NOT STARTED**.
+
+**NEXT: Stage 1 first-pass transcription — scans 20–24 / printed 16, 16-A–16-D.**
+
+Use only the controlling source pixels. Transcribe all five pages once, preserve source wording/punctuation/spacing and physical boundaries, mark genuine uncertainty rather than guessing, create page records as `needs-review`, synchronize controls, commit Stage 1, and stop before Stage 2.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

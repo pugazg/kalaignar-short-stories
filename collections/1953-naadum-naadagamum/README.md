@@ -128,20 +128,22 @@ No new canonical story folder was created in this intake-only iteration.
   - mandatory glyph families audited: **13/13**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
-  - page status: **needs-review 5/5**
-  - unresolved ordinary source spans: **0**
+  - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
+  - Stage-4 source-proven corrections: **2**
+  - page status: **verified 5/5**
+  - unresolved source-text issues: **0**
   - guessed readings: **0**
-  - Stage 4: **NEXT**
-- later retained-work scans **20–24**: **NOT STARTED**
+  - Batch 3 closure: **CLOSED / VERIFIED 5/5**
+- final retained-work batch scans **20–24 / printed 16, 16-A–16-D**: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 4 final independent source check**, scans **15–19 / printed 11–15**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **final batch Stage 1 first-pass transcription**, scans **20–24 / printed 16, 16-A–16-D**.
 
-Batch 1 scans 5–9 and Batch 2 scans 10–14 remain **CLOSED / VERIFIED 10/10**.
+Batches 1–3, scans **5–19**, are now **CLOSED / VERIFIED 15/15**.
 
-Batch 3 Stage 3 is durably **COMPLETE / PASS 5/5**. All 13 mandatory historical-glyph families were explicitly audited; 8 occur in the batch and 5 are absent. Character-identity corrections and unresolved glyph clusters are both 0. All five pages remain `needs-review`.
+Batch 3 Stage 4 passed 5/5 with two additional source-proven corrections: scan 15 `தமிழனின்` → `தமிழரின்`, and scan 16 `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`. Unresolved issues and guessed readings are 0.
 
-Run Stage 4 only, synchronize controls, commit, and stop before scans 20–24.
+Start scans 20–24 Stage 1 only. These five scans close the prose/discourse source unit physically; set new pages to `needs-review`, synchronize controls, commit, and stop before Stage 2.

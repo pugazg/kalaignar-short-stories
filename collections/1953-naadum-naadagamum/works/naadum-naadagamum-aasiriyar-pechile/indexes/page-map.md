@@ -12,11 +12,11 @@
 | 12 | 8 | body | **verified — Batch 2 Stage 4 PASS** |
 | 13 | 9 | body | **verified — targeted scan-13 source resolution PASS** |
 | 14 | 10 | body | **verified — Batch 2 Stage 4 PASS** |
-| 15 | 11 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
-| 16 | 12 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
-| 17 | 13 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
-| 18 | 14 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
-| 19 | 15 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
+| 15 | 11 | body | **verified — Batch 3 Stage 4 PASS** |
+| 16 | 12 | body | **verified — Batch 3 Stage 4 PASS** |
+| 17 | 13 | body | **verified — Batch 3 Stage 4 PASS** |
+| 18 | 14 | body | **verified — Batch 3 Stage 4 PASS** |
+| 19 | 15 | body | **verified — Batch 3 Stage 4 PASS** |
 | 20 | 16 | body | not-started |
 | 21 | 16-A | body | not-started |
 | 22 | 16-B | body | not-started |
@@ -144,21 +144,23 @@ Scans **15–19 / printed 11–15**
 - source-proven Stage-2 corrections: **7**
 - Stage 3: **COMPLETE / PASS / 5 pages**
 - mandatory glyph families audited: **13/13**
-- visibly represented families: **8/13**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **COMPLETE / PASS / 5 pages**
+- Stage-4 source-proven corrections: **2**
 - page records: **5/5**
-- needs-review: **5**
-- verified: **0**
+- needs-review: **0**
+- verified: **5**
 - blocked: **0**
-- unresolved ordinary source spans: **0**
+- unresolved source-text issues: **0**
 - guessed readings: **0**
-- scan 15→16 boundary: **PASS — `பறி` / `கொடுத்துப்`**
-- scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
+- scan 15→16 boundary: **PASS / reconfirmed — `பறி` / `கொடுத்துப்`**
+- scan 16→17 boundary: **PASS / reconfirmed — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 audit: `STAGE1_BATCH_003.md`
 - durable Stage-2 audit: `STAGE2_BATCH_003.md`
 - durable Stage-3 audit: `STAGE3_BATCH_003.md`
-- Stage 4: **NEXT**
+- durable Stage-4 audit: `STAGE4_BATCH_003.md`
+- Batch 3 closure: **CLOSED / VERIFIED 5/5**
 
 ### Stage-2 disposition
 
@@ -180,6 +182,16 @@ Scans **15–19 / printed 11–15**
 - unresolved glyph clusters: **0**
 - pages remain `needs-review`
 
+### Stage-4 disposition
+
+- scan 15: **PASS / VERIFIED** — `தமிழனின்` → `தமிழரின்`
+- scan 16: **PASS / VERIFIED** — `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`
+- scans 17–19: **PASS / VERIFIED / 0 additional corrections**
+- Stage-3 glyph disposition: **reconfirmed / 0 character-identity changes**
+- unresolved source-text issues: **0**
+- guessed readings: **0**
+- Batch 3: **CLOSED / VERIFIED 5/5**
+
 ## Exact next activity
 
-Batch 3 Stage 4 final independent source check — scans **15–19 / printed 11–15**. Do not begin scans 20–24 in the same activity.
+Scans **20–24 / printed 16, 16-A–16-D — Stage 1 first-pass transcription**. Do not begin Stage 2 in the same activity.
