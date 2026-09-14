@@ -93,19 +93,24 @@ Batch 3 = scans **15–19 / printed 11–15**.
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
 - Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
 - source-proven Stage-2 corrections: **7**
+- Stage 3 historical-glyph audit: **COMPLETE / PASS — 5/5**
+- mandatory historical-glyph families audited: **13/13**
+- visibly represented families: **8/13**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
 - page records: **5/5**
 - page status: **needs-review 5/5**
 - unresolved ordinary source spans: **0**
 - guessed readings: **0**
 - scan 15→16 boundary: **PASS — `பறி` / `கொடுத்துப்`**
 - scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
-- Stage 3 historical-glyph audit: **NEXT**
-- Stage 4 final independent check: **NOT STARTED**
+- Stage 4 final independent check: **NEXT**
 - durable Stage-1 record: [`STAGE1_BATCH_003.md`](STAGE1_BATCH_003.md)
 - durable Stage-2 record: [`STAGE2_BATCH_003.md`](STAGE2_BATCH_003.md)
+- durable Stage-3 record: [`STAGE3_BATCH_003.md`](STAGE3_BATCH_003.md)
 
 ## Exact next activity
 
-Run **Batch 3 Stage 3 historical Tamil glyph audit** for scans **15–19 / printed 11–15**.
+Run **Batch 3 Stage 4 final independent source check** for scans **15–19 / printed 11–15**.
 
-Audit the mandatory historical-glyph families directly against the controlling scan, correct only source-supported character identity, keep all five pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
+Reopen the entire batch fresh against the controlling source, verify all Stage-2 corrections and Stage-3 glyph dispositions, reconfirm both physical joins, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before scans 20–24.

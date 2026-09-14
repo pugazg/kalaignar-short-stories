@@ -721,16 +721,21 @@ Current state:
   - Stage 1 first-pass transcription: **COMPLETE 5/5**
   - Stage 2 visual text-fidelity audit: **COMPLETE 5/5**
   - Stage-2 source-proven corrections: **7**
+  - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
+  - mandatory glyph families audited: **13/13**
+  - visibly represented families: **8/13**
+  - Stage-3 character-identity corrections: **0**
+  - Stage-3 unresolved glyph clusters: **0**
   - page records: **5/5**
   - page status: **needs-review 5/5**
   - unresolved ordinary source spans: **0**
   - guessed readings: **0**
   - scan 15→16 boundary: **PASS — `பறி` / `கொடுத்துப்`**
   - scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
-  - Stage 3 historical Tamil glyph audit: **NEXT**
-  - Stage 4: **NOT STARTED**
+  - Stage 4: **NEXT**
   - durable Stage-1 record: `STAGE1_BATCH_003.md`
   - durable Stage-2 record: `STAGE2_BATCH_003.md`
+  - durable Stage-3 record: `STAGE3_BATCH_003.md`
 - later retained-work scans 20–24 / witness comparison: **NOT STARTED**
 
 Durable intake files:
@@ -848,6 +853,11 @@ Scans **15–19 / printed 11–15**:
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
 - Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
 - Stage-2 source-proven corrections — **7**
+- Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
+- mandatory glyph families audited — **13/13**
+- visibly represented families — **8/13**
+- Stage-3 character-identity corrections — **0**
+- Stage-3 unresolved glyph clusters — **0**
 - page records — **5/5**
 - page status — **needs-review 5/5**
 - unresolved ordinary source spans — **0**
@@ -856,18 +866,20 @@ Scans **15–19 / printed 11–15**:
 - scan 16→17 physical boundary — **PASS — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 record — `STAGE1_BATCH_003.md`
 - durable Stage-2 record — `STAGE2_BATCH_003.md`
-- Stage 3 historical Tamil glyph audit — **NEXT**
-- Stage 4 — **NOT STARTED**
+- durable Stage-3 record — `STAGE3_BATCH_003.md`
+- Stage 4 — **NEXT**
 
-Stage-2 correction summary:
+Stage-3 disposition:
 
-- scan 15: `தமிழனின்` → `தமிழரின்`
-- scan 17: `நாடகங்களை` → `நாடகங்கள்`; `கேளாக்காதர்களாக` → `கேளாக் காதர்களாக`; `மருந்துண்ணாவிட்டால்` → `மருந்துண்ணா விட்டால்`
-- scan 19: `பழமையினால்` → `பழமை மூலம்`; spacing around `ஏழை — எரிமலையாகி`; `முன்ஜன்ம` → `முன் ஜன்ம`
+- mandatory families present: `ணா / ணை / லை / ளை / றா / றோ / னா / னை`
+- mandatory families absent: `ணொ / ணோ / றொ / னொ / னோ`
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- all five pages remain `needs-review`
 
-**NEXT: Batch 3 Stage 3 historical Tamil glyph audit — scans 15–19 / printed 11–15.**
+**NEXT: Batch 3 Stage 4 final independent source check — scans 15–19 / printed 11–15.**
 
-Audit all mandatory historical-glyph families directly against the controlling scan, correct character identity only where source-supported, keep all pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
+Reopen all five pages fresh against the controlling scan, confirm every Stage-2 correction and Stage-3 glyph disposition, reconfirm both physical continuations, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before scans 20–24.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

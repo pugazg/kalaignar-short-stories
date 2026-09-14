@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 3 Stage 3 scans 15–19
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 3 Stage 4 scans 15–19
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,6 +42,13 @@ Workspace:
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
 - Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
 - Stage-2 source-proven corrections — **7**
+- Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
+- mandatory glyph families audited — **13/13**
+- visibly represented mandatory families — **8/13**
+- represented: `ணா / ணை / லை / ளை / றா / றோ / னா / னை`
+- absent: `ணொ / ணோ / றொ / னொ / னோ`
+- Stage-3 character-identity corrections — **0**
+- Stage-3 unresolved glyph clusters — **0**
 - page records — **5/5**
 - page status — **needs-review 5/5**
 - unresolved ordinary source spans — **0**
@@ -50,33 +57,26 @@ Workspace:
 - scan 16→17 boundary — **PASS — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 record — `STAGE1_BATCH_003.md`
 - durable Stage-2 record — `STAGE2_BATCH_003.md`
-- Stage 3 historical Tamil glyph audit — **NEXT**
-- Stage 4 final independent source check — **NOT STARTED**
-
-Stage-2 correction summary:
-
-- scan 15 — `தமிழனின்` → `தமிழரின்`
-- scan 17 — `நாடகங்களை` → `நாடகங்கள்`; `கேளாக்காதர்களாக` → `கேளாக் காதர்களாக`; `மருந்துண்ணாவிட்டால்` → `மருந்துண்ணா விட்டால்`
-- scan 19 — `பழமையினால்` → `பழமை மூலம்`; `ஏழை—எரிமலையாகி` → `ஏழை — எரிமலையாகி`; `முன்ஜன்ம` → `முன் ஜன்ம`
+- durable Stage-3 record — `STAGE3_BATCH_003.md`
+- Stage 4 final independent source check — **NEXT**
 
 ## Exact next activity
 
-Run **Batch 3 Stage 3 historical Tamil glyph audit** for scans **15–19 / printed 11–15**.
+Run **Batch 3 Stage 4 final independent source check** for scans **15–19 / printed 11–15**.
 
 1. fetch live `main`;
-2. reread the historical-glyph guide, workflow/fidelity guides, `HANDOVER.md`, this prompt, the active-work README, `indexes/page-map.md`, `STAGE1_BATCH_003.md`, and `STAGE2_BATCH_003.md`;
-3. use only the controlling PDF/native scan pixels as authority;
-4. explicitly audit all mandatory historical-glyph families:
-   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-5. inspect full words/phrases rather than isolated glyph guesses;
-6. correct character identity only when the scan supports it;
-7. do not modernize spelling or spacing;
-8. keep all five pages `needs-review`;
-9. create `STAGE3_BATCH_003.md` and synchronize work/collection/root trackers;
-10. commit Stage 3 and stop.
+2. reread the permanent workflow/fidelity/glyph guides, `HANDOVER.md`, this prompt, the active-work README, page map, and `STAGE1_BATCH_003.md` / `STAGE2_BATCH_003.md` / `STAGE3_BATCH_003.md`;
+3. reopen scans 15–19 fresh from the controlling source;
+4. compare every page end-to-end against the Stage-3 committed text;
+5. confirm all seven Stage-2 source-proven corrections;
+6. confirm all Stage-3 glyph identities and the zero-correction disposition;
+7. reconfirm scan 15→16 `பறி` / `கொடுத்துப்` and scan 16→17 `கொடுமைக்` / `கொடுத்து`;
+8. check for any remaining omission, duplication, wrong word/letter, punctuation, spacing, paragraph, glyph, or page-boundary issue;
+9. promote each page to `verified` only if no issue remains;
+10. create `STAGE4_BATCH_003.md`, synchronize page/work/collection/root controls, commit Stage 4, and stop.
 
-Do **not** begin Stage 4 in the same activity.
+Do **not** begin scans **20–24 / printed 16, 16-A–16-D** in the same activity.
 
-After the prose/discourse work closes through scan 24, retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** remains next in source order.
+After scans 20–24 close the prose/discourse work, retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** remains next in source order.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.

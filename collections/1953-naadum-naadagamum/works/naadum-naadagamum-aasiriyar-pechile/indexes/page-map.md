@@ -12,11 +12,11 @@
 | 12 | 8 | body | **verified — Batch 2 Stage 4 PASS** |
 | 13 | 9 | body | **verified — targeted scan-13 source resolution PASS** |
 | 14 | 10 | body | **verified — Batch 2 Stage 4 PASS** |
-| 15 | 11 | body | **needs-review — Batch 3 Stage 2 COMPLETE** |
-| 16 | 12 | body | **needs-review — Batch 3 Stage 2 COMPLETE** |
-| 17 | 13 | body | **needs-review — Batch 3 Stage 2 COMPLETE** |
-| 18 | 14 | body | **needs-review — Batch 3 Stage 2 COMPLETE** |
-| 19 | 15 | body | **needs-review — Batch 3 Stage 2 COMPLETE** |
+| 15 | 11 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
+| 16 | 12 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
+| 17 | 13 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
+| 18 | 14 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
+| 19 | 15 | body | **needs-review — Batch 3 Stage 3 COMPLETE** |
 | 20 | 16 | body | not-started |
 | 21 | 16-A | body | not-started |
 | 22 | 16-B | body | not-started |
@@ -142,6 +142,11 @@ Scans **15–19 / printed 11–15**
 - Stage 1: **COMPLETE / 5 pages**
 - Stage 2: **COMPLETE / 5 pages**
 - source-proven Stage-2 corrections: **7**
+- Stage 3: **COMPLETE / PASS / 5 pages**
+- mandatory glyph families audited: **13/13**
+- visibly represented families: **8/13**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
 - page records: **5/5**
 - needs-review: **5**
 - verified: **0**
@@ -152,8 +157,8 @@ Scans **15–19 / printed 11–15**
 - scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 audit: `STAGE1_BATCH_003.md`
 - durable Stage-2 audit: `STAGE2_BATCH_003.md`
-- Stage 3: **NEXT**
-- Stage 4: **NOT STARTED**
+- durable Stage-3 audit: `STAGE3_BATCH_003.md`
+- Stage 4: **NEXT**
 
 ### Stage-2 disposition
 
@@ -166,6 +171,15 @@ Scans **15–19 / printed 11–15**
 - guessed readings: **0**
 - both physical joins: **confirmed**
 
+### Stage-3 disposition
+
+- all mandatory historical-glyph families explicitly audited: **13/13**
+- present in Batch 3: **`ணா / ணை / லை / ளை / றா / றோ / னா / னை`**
+- absent in Batch 3: **`ணொ / ணோ / றொ / னொ / னோ`**
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- pages remain `needs-review`
+
 ## Exact next activity
 
-Batch 3 Stage 3 historical Tamil glyph audit — scans **15–19 / printed 11–15**. Do not begin Stage 4 in the same activity.
+Batch 3 Stage 4 final independent source check — scans **15–19 / printed 11–15**. Do not begin scans 20–24 in the same activity.

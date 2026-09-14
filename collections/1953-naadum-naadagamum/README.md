@@ -124,21 +124,24 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage 1 first-pass: **COMPLETE 5/5**
   - Stage 2 visual text-fidelity: **COMPLETE 5/5**
   - Stage-2 source-proven corrections: **7**
+  - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
+  - mandatory glyph families audited: **13/13**
+  - Stage-3 character-identity corrections: **0**
+  - Stage-3 unresolved glyph clusters: **0**
   - page status: **needs-review 5/5**
   - unresolved ordinary source spans: **0**
   - guessed readings: **0**
-  - Stage 3 historical glyph: **NEXT**
-  - Stage 4: **NOT STARTED**
+  - Stage 4: **NEXT**
 - later retained-work scans **20–24**: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 3 historical Tamil glyph audit**, scans **15–19 / printed 11–15**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 4 final independent source check**, scans **15–19 / printed 11–15**.
 
 Batch 1 scans 5–9 and Batch 2 scans 10–14 remain **CLOSED / VERIFIED 10/10**.
 
-Batch 3 Stage 2 is durably **COMPLETE 5/5** with **7 source-proven ordinary-fidelity corrections**. All five pages remain `needs-review`; unresolved ordinary source spans and guessed readings are both 0. Both physical joins are confirmed.
+Batch 3 Stage 3 is durably **COMPLETE / PASS 5/5**. All 13 mandatory historical-glyph families were explicitly audited; 8 occur in the batch and 5 are absent. Character-identity corrections and unresolved glyph clusters are both 0. All five pages remain `needs-review`.
 
-Run Stage 3 only, synchronize controls, commit, and stop before Stage 4.
+Run Stage 4 only, synchronize controls, commit, and stop before scans 20–24.
