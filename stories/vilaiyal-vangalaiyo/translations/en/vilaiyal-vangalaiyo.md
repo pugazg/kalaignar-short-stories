@@ -176,11 +176,11 @@ Vairakkannu picked up the bangles and said, “Open your eyes and name a proper 
 
 “All right. Don't get angry, sir...I'll look again.”
 
-The Marwari took the bangles and appraised them again. As he examined them, he said something in Hindustani to his shop boy. The word itself was split by the physical page boundary: sa
+The Marwari took the bangles and appraised them again. As he examined them, he sa
 
 <!-- source scan 30; printed page 28 -->
 
-id. The shop boy ran off somewhere. The Marwari kept looking at the bangles again and again. Vairakkannu too grew tired of it.
+id something in Hindustani to his shop boy. The shop boy ran off somewhere. The Marwari kept looking at the bangles again and again. Vairakkannu too grew tired of it.
 
 “Look quickly, man!”
 
