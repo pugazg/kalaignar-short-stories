@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 1 scan-9 Stage 4 hold
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 2 Stage 1 scans 10–14
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -49,8 +49,9 @@ Intake is **COMPLETE**:
 - Stage 3 historical glyph — **COMPLETE 5/5**
 - Stage-3 character-identity corrections — **0**
 - Stage-3 unresolved glyph clusters — **0**
-- Stage 4 — **PARTIAL / HOLD — scans 5–8 VERIFIED; scan 9 NEEDS-REVIEW**
-- verified — **0/5**
+- Stage 4 — **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
+- Batch 1 disposition — **scans 5–8 VERIFIED; scan 9 BLOCKED at one physical-loss span**
+- guessed reconstruction — **0**
 - remaining transcription / witness comparison — **NOT STARTED**
 
 The publication is mixed:
@@ -81,30 +82,28 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** is now:
+Batch 1 scans **5–9 / printed 1–5** is **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**:
 
-- scans **5–8** — **VERIFIED**
-- scan **9** — **Stage 4 HOLD / NEEDS-REVIEW**
-- Stage-4 additional corrections — **0**
-- remaining source-text issue — **1**
+- scans 5–8 — verified
+- scan 9 — blocked only at one physically obliterated source span
+- no guessed reconstruction
+- durable limitation record — `SOURCE_LIMITATION_SCAN_009.md`
 
-The unresolved scan-9 location is immediately after:
+Run **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**:
 
-`‘மத நம்பிக்கை’ என்ற போர்வை`
+1. fetch live `main`;
+2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, root `HANDOVER.md`, and the retained-work README/page-map;
+3. use only the user-supplied PDF scan pixels as authority;
+4. transcribe scans **10–14** once, preserving source wording, punctuation, paragraphing, spelling and physical page boundaries;
+5. create five page records;
+6. record uncertainty explicitly rather than guessing;
+7. set all five pages to `needs-review`;
+8. synchronize work/collection/root trackers;
+9. commit Stage 1 and stop.
 
-The Stage-4 audit at `STAGE4_BATCH_001.md` documents the exhaustive image-processing attempts. The source-visible right side remains `தந்திரம் ஆளவந்தாரையும் கேட்டிறேன்`, but the intervening words are physically obscured and must not be guessed.
+Do **not** start Stage 2 in the same activity.
 
-Next action: **resolve or formally disposition that single source obstruction**.
-
-Do **not** start scans 10–14 until Batch 1 closes.
-
-Permitted ways forward:
-
-1. a clearer image/copy of the same page supplied by the user;
-2. a provenance-known independent witness of the same work, used only as corroboration and checked back against the controlling scan;
-3. or an explicit user-authorized closure decision preserving the physical-loss caveat.
-
-After this retained prose/discourse work closes, retained work 2 **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, remains next in source order.
+After the full prose/discourse work closes, retained work 2 **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, remains next in source order.
 
 ## Queued second source
 
