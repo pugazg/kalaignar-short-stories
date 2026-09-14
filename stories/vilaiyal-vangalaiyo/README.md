@@ -39,7 +39,7 @@ No existing canonical story was found. This workspace is therefore the canonical
 - Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
 - Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
 - Stage 4 synchronized Tamil assembly / controls: **PASS / CLOSED**
-- English: **IN PROGRESS — 4/8 source pages drafted (scans 24–27)**
+- English: **IN PROGRESS — DRAFT COMPLETE 8/8 / full-story review NEXT**
 
 After Stage 3, all **8/8** page records are `verified`.
 
@@ -57,8 +57,8 @@ To keep every step durable and synchronized:
 8. Stage 3 scans 28–31 — **COMPLETE / PASS / VERIFIED**
 9. Stage 4 Tamil assembly / controls — **COMPLETE / PASS / CLOSED**
 10. English scans 24–27 — **COMPLETE / COMMITTED**
-11. English scans 28–31 — **NEXT**
-12. Full-story English fidelity / terminology review
+11. English scans 28–31 — **COMPLETE / COMMITTED**
+12. Full-story English fidelity / terminology review — **NEXT**
 13. Physical page-anchor validation / final English closure
 Current T1 checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md), and [`T1_BATCH_030_031.md`](T1_BATCH_030_031.md).
 
@@ -84,13 +84,17 @@ Stage-3 cumulative result: **8/8 VERIFIED / 13 final source-fidelity corrections
 - unresolved source readings: **0**
 - Tamil/source status: **PASS / CLOSED**
 
-The 1953 collection-wide Tamil/source gate is **CLOSED / PASS**. English drafting is now **4/8 complete**.
+The 1953 collection-wide Tamil/source gate is **CLOSED / PASS**. English drafting is now **8/8 complete**.
 
 - English draft: [`translations/en/vilaiyal-vangalaiyo.md`](translations/en/vilaiyal-vangalaiyo.md)
-- English review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — **IN PROGRESS**
-- drafted span: scans **24–27 / printed 22–25**
-- drafted marker presence / order: **PASS 4/4**
-- drafted physical boundary alignment: **PASS 4/4**
+- English review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — **IN PROGRESS / DRAFT COMPLETE**
+- drafted span: scans **24–31 / printed 22–29**
+- page markers present / ordered: **PASS 8/8**
+- draft-stage physical boundary alignment: **PASS 8/8**
+- three-open-circle dividers: **PASS 3/3**
+- scan 29→30 split-word anchor: **PASS**
+- scan 30→31 continuation anchor: **PASS**
+- final scan contains substantive translated ending: **PASS**
 - Tamil reopened during English: **No**
 
-The next durable batch is **English scans 28–31 / printed 26–29 only**.
+The next durable activity is the **full-story English fidelity / terminology review**. Final page-anchor validation and English closure remain later gates.
