@@ -46,12 +46,12 @@ Intake is **COMPLETE**:
 - historical Stage-2 source-proven corrections — **16**
 - Stage 3 historical glyph — **COMPLETE 5/5**
 - Stage-3 character-identity corrections — **0**
-- Stage 4 — **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
+- Stage 4 — **COMPLETE / PASS after targeted scan-9 resolution**
 - post-closure word-by-word visual fidelity re-audit — **COMPLETE 5/5**
-- re-audit source-proven corrections — **15**
-- scans 5–8 — **RE-VERIFIED**
-- scan 9 recoverable text — **PASS**
-- scan 9 terminal physical-loss span — **BLOCKED / UNCHANGED**
+- re-audit source-proven corrections — **18**
+- scans 5–9 — **VERIFIED**
+- scan 9 — **VERIFIED**
+- scan 9 former physical-loss span — **RESOLVED**
 - guessed reconstruction — **0**
 - remaining transcription / witness comparison — **NOT STARTED**
 
@@ -86,18 +86,20 @@ Workspace:
 Batch 1 scans **5–9 / printed 1–5** is closed after the user-requested **word-by-word visual fidelity re-audit**:
 
 - scans checked — **5/5**
-- additional source-proven corrections — **15**
+- additional source-proven corrections — **18**
 - scans 5–8 — **RE-VERIFIED**
 - scan 9 recoverable text — **PASS**
 - scan 9 physical-loss span — **BLOCKED / UNCHANGED**
 - guessed reconstruction — **0**
 - durable audit — `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
 
-Targeted scan-9 phrase correction:
+Targeted scan-9 lower-line resolution:
 
-- earlier incomplete reading — `‘மத நம்பிக்கை’ என்ற போர்வை`
-- corrected source-visible reading — **`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`**
-- physical-loss span remains after `போர்வை`; no obscured wording was guessed
+- earlier archive reading — `‘மத நம்பிக்கை’ என்ற போர்வை ... தந்திரம் ஆளவந்தாரையும் கேட்டிறேன்`
+- superseded intermediate reading — `‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
+- final source-supported reading — **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்டிறேன்.`**
+- former blocked span — **RESOLVED**
+- guessed reconstruction — **0**
 
 Important boundary correction:
 
