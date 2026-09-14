@@ -2,11 +2,11 @@
 
 | Source scan | Printed page | Page type | Current state |
 |---:|---|---|---|
-| 5 | 1 | work-opening | Stage 3 complete / needs-review |
-| 6 | 2 | body | Stage 3 complete / needs-review |
-| 7 | 3 | body | Stage 3 complete / needs-review |
-| 8 | 4 | body | Stage 3 complete / needs-review |
-| 9 | 5 | body | Stage 3 complete / needs-review |
+| 5 | 1 | work-opening | **verified — Stage 4 PASS** |
+| 6 | 2 | body | **verified — Stage 4 PASS** |
+| 7 | 3 | body | **verified — Stage 4 PASS** |
+| 8 | 4 | body | **verified — Stage 4 PASS** |
+| 9 | 5 | body | **Stage 4 HOLD / needs-review** |
 | 10 | 6 | body | not-started |
 | 11 | 7 | body | not-started |
 | 12 | 8 | body | not-started |
@@ -34,9 +34,10 @@ Scans **5–9 / printed 1–5**
 - Stage 3: **COMPLETE / 5 pages**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
-- verified: **0**
-- needs-review: **5**
+- Stage 4: **PARTIAL / HOLD — 4/5 PASS**
+- Stage-4 source-proven corrections: **0**
+- verified: **4**
+- needs-review: **1 — scan 9**
 - blocked: **0**
 
 ### Stage-2 disposition
@@ -57,6 +58,15 @@ Scans **5–9 / printed 1–5**
 - scan-9 mark-crossed source-text span: **still unresolved; not a settled glyph reading**
 - page status: **needs-review 5/5**
 
+### Stage-4 disposition
+
+- scans **5–8**: **PASS / VERIFIED**
+- scan **9**: **HOLD / NEEDS-REVIEW**
+- Stage-4 source-proven corrections: **0**
+- unresolved source-text spans: **1 — scan 9 mark crossing**
+- exhaustive image escalation: **performed**
+- batch closure: **OPEN**
+
 ## Exact next activity
 
-Stage 4 final independent source check on scans **5–9 / printed 1–5**. Reopen the complete batch fresh and apply the exhaustive-resolution protocol to the scan-9 mark-crossed span. Do not begin scans 10–14 until Stage 4 closes.
+Resolve or formally disposition the single scan-9 source obstruction. Do not begin scans 10–14 until Batch 1 closes.
