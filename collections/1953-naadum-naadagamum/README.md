@@ -32,7 +32,9 @@ It contains:
    - `பெண்கள்`
    - `இரகசியம்!`
 
-The non-short-story material is mapped here only to preserve the physical source structure. It is **not** activated for transcription in this short-stories repository.
+Per explicit user instruction, **all five body units remain in this short-stories repository**, including the prose/discourse `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` and the play `தெருக்கூத்து`. They are not to be moved to another repository merely because their genre differs.
+
+For repository organization, the first two are treated as **repository-retained special works** within this source collection; the remaining three use the normal short-story canonical/witness workflow.
 
 ## Front matter / physical structure
 
@@ -54,13 +56,15 @@ The publication has an inserted four-page sequence after printed page 16:
 
 Thus a simple constant scan/printed-page offset does **not** apply across the entire body.
 
-## Short-story inventory
+## Repository-retained work inventory
 
-| # | Opening heading | PDF scans | Printed pages | Repository routing |
-|---:|---|---:|---:|---|
-| 1 | `ஆலமரத்துப் புறாக்கள்` | 52–68 | 44–60 | existing canonical `stories/aalamarathup-puraakkal/` — **earlier witness** |
-| 2 | `பெண்கள்` | 69–75 | 61–67 | **new-canonical candidate**; no exact title / obvious title-derived slug found on live `main` at intake |
-| 3 | `இரகசியம்!` | 76–80 | 68–72 | existing canonical `stories/iragasiyam/` — **earlier witness** |
+| # | Opening heading | Type | PDF scans | Printed pages | Repository routing |
+|---:|---|---|---:|---:|---|
+| 1 | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 5–24 | 1–16, 16-A–16-D | **retain and process in this repository** |
+| 2 | `தெருக்கூத்து` | play | 25–51 | 17–43 | **retain and process in this repository** |
+| 3 | `ஆலமரத்துப் புறாக்கள்` | short story | 52–68 | 44–60 | existing canonical `stories/aalamarathup-puraakkal/` — **earlier witness** |
+| 4 | `பெண்கள்` | short story | 69–75 | 61–67 | **new-canonical candidate**; no exact title / obvious title-derived slug found on live `main` at intake |
+| 5 | `இரகசியம்!` | short story | 76–80 | 68–72 | existing canonical `stories/iragasiyam/` — **earlier witness** |
 
 Detailed structural records:
 
@@ -82,23 +86,27 @@ No new canonical story folder was created in this intake-only iteration.
 
 - source registration: **COMPLETE**
 - whole-source scan map: **COMPLETE**
+- full body-unit inventory: **5/5 COMPLETE**
+- repository-retained special works: **2/2**
 - short-story inventory: **3/3 COMPLETE**
 - short-story opening scans visually checked: **3/3**
 - final source boundary checked: **PASS — scan 80**
-- non-story components classified: **COMPLETE**
-- story transcription / witness comparison: **NOT STARTED**
+- transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Process short-story item 1 **`ஆலமரத்துப் புறாக்கள்`**, scans **52–68 / printed 44–60**, as an **earlier-edition witness** to the existing canonical story.
+Process repository-retained work 1 **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**, scans **5–24 / printed 1–16, 16-A–16-D**.
 
-Before comparison:
+Before transcription:
 
 1. fetch live `main`;
 2. reread the short-story and collection guides plus this intake;
-3. confirm the canonical route remains `stories/aalamarathup-puraakkal/`;
-4. visually recheck scan 52 opening, scan 68 ending, and scan 69 `பெண்கள்` boundary;
-5. create a witness workspace under the existing canonical story and compare the 17 source scans without overwriting the 1977 canonical text.
+3. preserve this unit in **this repository** despite its prose/discourse genre;
+4. visually recheck scan 5 opening, scan 24 ending, and scan 25 `தெருக்கூத்து` boundary;
+5. create a dedicated durable workspace for this retained work within this repository;
+6. begin source-faithful Stage 1 first-pass transcription only from the attached scan pixels.
 
-Do **not** begin `பெண்கள்` in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+After this work is closed, the next source-order retained work is **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**.
+
+Do **not** skip directly to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
