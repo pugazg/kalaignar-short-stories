@@ -73,7 +73,7 @@ No duplicate canonical story workspace was created.
 - canonical-recheck candidates opened from 1953 witnesses: **0**
 - collection-wide unresolved source-dependent items: **0**
 - collection-wide Tamil/source gate: **CLOSED / PASS**
-- English phase: **IN PROGRESS — `விலையால் வாங்கலையோ` full-story review PASS / final anchor closure NEXT**
+- English phase: **CLOSED / PASS — `விலையால் வாங்கலையோ` ENGLISH COMPLETE**
 
 ### Story 1 — `தப்பிவிட்டார்கள்`
 
@@ -115,7 +115,7 @@ No duplicate canonical story workspace was created.
 - reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
 - closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
 - unresolved source readings: **0**
-- English: **IN PROGRESS — full-story fidelity / terminology review PASS / final anchor closure NEXT**
+- English: **PASS / CLOSED**
 - durable T1 checkpoints: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 - Stage-2 checkpoints: `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`, `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 - Stage-2 cumulative repairs: **30 occurrence-level textual repairs; 9 historical-character identity corrections / resolutions**
@@ -169,10 +169,26 @@ Current `விலையால் வாங்கலையோ` state:
 - draft-stage physical boundary alignment: **PASS 8/8**
 - three-open-circle dividers: **PASS 3/3**
 - Tamil reopened during translation / review: **No**
-- final page-anchor validation / English closure: **PENDING / NEXT**
+- final page-anchor validation / English closure: **PASS / CLOSED**
+- page-anchor manifest: `stories/vilaiyal-vangalaiyo/translations/en/page-anchors.json`
+- validator: **PASS with human-reviewed boundary anchors**
+- regression proof: **PASS → expected anchor FAIL → PASS**
+
+## 1953 collection English closure
+
+**CLOSED / PASS.**
+
+- English targets in this collection: **1**
+- `விலையால் வாங்கலையோ`: **PASS / CLOSED**
+- page-anchor validation: **PASS 8/8**
+- validator regression: **PASS → expected anchor FAIL → PASS**
+- unresolved English issues: **0**
+- `pending`: **0**
+- `in progress`: **0**
+- `NEEDS REVIEW`: **0**
 
 ## Exact next activity
 
-Run the dedicated **physical page-anchor validation / final English closure** gate for `விலையால் வாங்கலையோ`.
+**NONE for the 1953 `தப்பிவிட்டார்கள்` collection.**
 
-Create and adjudicate `stories/vilaiyal-vangalaiyo/translations/en/page-anchors.json`, validate all eight physical source boundaries against the verified Tamil page records, run `scripts/validate-english-page-anchors.py`, perform the required corrected → shifted-defect → restored regression check, synchronize all English / collection / root controls, and only then mark the story and 1953 collection English phase final `PASS`.
+The collection is fully closed for Tamil/source and English. Await the user's next explicit source or instruction; do not auto-start another anthology.
