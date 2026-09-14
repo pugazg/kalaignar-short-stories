@@ -654,14 +654,14 @@ Source identity:
 - source type: **image-only; direct scan pixels control**
 - source PDF committed: **No**
 
-This is a **mixed publication**, not a pure short-story anthology.
+This is a **mixed publication**, not a pure short-story anthology. Per explicit user instruction, **all body units remain in this short-stories repository**, including the prose/discourse and play.
 
 Physical routing:
 
 - scans **1–4** — front matter / `பதிப்புரை`
-- scans **5–20 / printed 1–16** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — non-story prose/discourse
-- scans **21–24 / printed 16-A–16-D** — continuation of the same non-story unit
-- scans **25–51 / printed 17–43** — `தெருக்கூத்து` — dramatic work / non-story
+- scans **5–20 / printed 1–16** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — prose/discourse — **RETAIN / PROCESS HERE**
+- scans **21–24 / printed 16-A–16-D** — continuation of the same retained work
+- scans **25–51 / printed 17–43** — `தெருக்கூத்து` — play — **RETAIN / PROCESS HERE**
 - scans **52–68 / printed 44–60** — `ஆலமரத்துப் புறாக்கள்` — existing canonical, earlier witness
 - scans **69–75 / printed 61–67** — `பெண்கள்` — new-canonical candidate at intake
 - scans **76–80 / printed 68–72** — `இரகசியம்!` — existing canonical, earlier witness
@@ -672,11 +672,13 @@ Current state:
 
 - source registration: **COMPLETE**
 - whole-source scan map: **COMPLETE**
+- body-unit inventory: **5/5 COMPLETE**
+- repository-retained special works: **2/2 — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`, `தெருக்கூத்து`**
 - short-story inventory: **3/3 COMPLETE**
 - short-story openings visually checked: **3/3**
 - canonical witness routes: **2**
 - new-canonical candidates: **1 — `பெண்கள்`**
-- story transcription / witness comparison: **NOT STARTED**
+- transcription / witness comparison: **NOT STARTED**
 
 Durable intake files:
 
@@ -736,20 +738,22 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-Process 1953 `நாடும் நாடகமும்` short-story item 1:
+Process 1953 `நாடும் நாடகமும்` retained work 1:
 
-**`ஆலமரத்துப் புறாக்கள்` — scans 52–68 / printed 44–60 — earlier witness comparison.**
+**`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — scans 5–24 / printed 1–16, 16-A–16-D.**
 
 Before source-dependent writes:
 
 1. fetch live `main`;
 2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the 1953 collection intake;
-3. confirm the canonical route remains `stories/aalamarathup-puraakkal/`;
-4. visually confirm scan **52** opening, scan **68** ending, and scan **69** `பெண்கள்` boundary;
-5. create a 1953 witness workspace under the existing canonical story;
-6. compare the full **17 source scans** against the canonical work, preserving edition-specific wording and structure and never silently overwriting the 1977 canonical text.
+3. preserve this work **inside `pugazg/kalaignar-short-stories`** despite its prose/discourse genre;
+4. visually confirm scan **5** opening, scan **24 / printed 16-D** ending, and scan **25** `தெருக்கூத்து` boundary;
+5. create a durable workspace for the retained work in this repository;
+6. begin source-faithful Stage 1 first-pass transcription from the supplied scan pixels only.
 
-Do **not** begin `பெண்கள்` in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+After this work is closed, the next source-order retained unit is **`தெருக்கூத்து` — scans 25–51 / printed 17–43**, also to remain in this repository.
+
+Do **not** skip directly to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
 
 This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover. In particular, do **not** auto-resume 1958 `தேனலைகள்`.
 
