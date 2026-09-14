@@ -10,8 +10,8 @@ Controlling collection source: `TVA_BOK_0064098_தப்பிவிட்ட�
 | 27 | 25 | story body | T1 partial | `../pages/0027-vilaiyal-vangalaiyo-04.md` |
 | 28 | 26 | story body / internal three-circle divider | T1 partial | `../pages/0028-vilaiyal-vangalaiyo-05.md` |
 | 29 | 27 | story body / internal three-circle divider | T1 partial | `../pages/0029-vilaiyal-vangalaiyo-06.md` |
-| 30 | 28 | story body | not started | — |
-| 31 | 29 | story ending | not started | — |
+| 30 | 28 | story body | T1 partial | `../pages/0030-vilaiyal-vangalaiyo-07.md` |
+| 31 | 29 | story ending | T1 partial | `../pages/0031-vilaiyal-vangalaiyo-08.md` |
 
 Boundary witness:
 
@@ -19,7 +19,7 @@ Boundary witness:
 
 ## Current status
 
-- T1 first-pass transcription: **6/8**
+- T1 first-pass transcription: **8/8 COMPLETE**
 - Stage 2 historical-glyph audit: **0/8**
 - Stage 3 final source / visual fidelity: **0/8**
 - verified pages: **0/8**
