@@ -4,14 +4,14 @@ printed_page: 28
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "partial"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 first-pass direct visual transcription from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
 ---
 
-ணன். கடைப் பையன் எங்கேயோ ஓடினன். திருப்பித்
-திருப்பி, வளையல்களைக் பார்த்துக் கொண்டே இருந்தான்.
+ணன். கடைப் பையன் எங்கேயோ ஓடினான். திருப்பித்
+திருப்பி, வளையல்களைப் பார்த்துக் கொண்டே இருந்தான்.
 வைரக்கண்ணுக்கும் அலுத்துவிட்டது.
 
 “சீக்கிரம் பாரய்யா!”
@@ -23,7 +23,7 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 “பையன் போயிருக்கிறான். வரட்டும் உங்களை
 அனுப்பி விடுகிறேன்.”
 
-கடைப் பையன் திரும்பினன், அவனைத்
+கடைப் பையன் திரும்பினான், அவனைத்
 தொடர்ந்து சப் இன்ஸ்பெக்டரும் வந்து சேர்ந்தார்.
 
 வைரக்கண்ணு.......நகைகளைத் திருடிவந்ததாகக்
@@ -42,7 +42,7 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 “என் மனைவியின் நகைகள்.”
 
 “முன்பு...ஒரு முறை...உமக்குக் கல்யாணம் ஆக
-வில்லை என்று என்னிடம் சொன்னீரே!”
+வில்லை யென்று என்னிடம் சொன்னீரே!”
 
 “மனைவியல்ல...என் காதலி, அவள் விருப்பத்தின்
 படிதான் இவைகளை விற்க வந்தேன்.”
@@ -75,3 +75,23 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 - page ending `சரியானபடி` continues directly on scan 31.
 
 <!-- anthology scan: 30; printed page: 28 -->
+
+
+## Stage 2 historical-glyph / difficult-reading audit
+
+**PASS FOR STAGE 2 — page remains `needs-review` pending Stage 3.**
+
+- complete page re-inspected at native / enlarged resolution;
+- checked all 13 known historical families;
+- historical-`னா` corrections:
+  - `ஓடினன்` → `ஓடினான்`;
+  - `திரும்பினன்` → `திரும்பினான்`;
+- ordinary source-fidelity corrections:
+  - `வளையல்களைக் பார்த்துக்` → `வளையல்களைப் பார்த்துக்`;
+  - `வில்லை என்று` → `வில்லை யென்று`;
+- `நாழிகை`, `குற்றஞ் சாட்டப்பட்டான்`, and source form `புறப்படும்` are directly supported and retained;
+- `போயிருக்கிறான்` was checked against the historical-`றா` family and retained;
+- lower-dialogue circular physical losses were inspected at enlarged resolution; no additional unreadable source cluster remains in the recorded text;
+- scan 29→30 boundary fragments remain physically separate in page records; no cross-page lexical reconstruction was inserted here;
+- no global replacement or lexical modernization was used;
+- unresolved Stage-2 glyph clusters on this page: **0**.
