@@ -128,8 +128,6 @@ Current state:
 
 ## 1953 `தப்பிவிட்டார்கள்` — Tamil/source CLOSED / English IN PROGRESS
 
-Controlling source: `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`.
-
 Collection workspace: `collections/1953-thappivittargal/`.
 
 Tamil/source phase: **PASS / CLOSED**.
@@ -142,51 +140,57 @@ Tamil/source phase: **PASS / CLOSED**.
 Collection-wide unresolved source-dependent items: **0**.
 Canonical-recheck candidates opened from this collection: **0**.
 
-### `விலையால் வாங்கலையோ` Tamil authority
-
-- verified source scans: **24–31 / printed 22–29 — 8/8**
-- Tamil assembly: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
-- source closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
-- Tamil review queue: **0 open**
-- unresolved Tamil readings: **0**
-
 ### `விலையால் வாங்கலையோ` English state
 
-- guide: `ENGLISH_TRANSLATION_GUIDE.md`
+- Tamil assembly: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
 - English path: `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`
 - review: `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`
-- collection tracker: `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
-- draft coverage: **8/8 source pages COMPLETE**
+- tracker: `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
+- source scans: **24–31 / printed 22–29**
+- English draft coverage: **8/8 COMPLETE**
+- full-story fidelity review: **PASS**
+- terminology review: **PASS**
+- reviewed English title: **Bought for a Price?**
+- reviewed final refrain: **Was the bangle bought for a price?**
+- English refinements in full-story review: **30**
+- unresolved fidelity / terminology issues: **0**
+- Tamil reopened during translation / review: **No**
 - page markers present / ordered: **PASS 8/8**
-- draft-stage physical boundary alignment: **PASS 8/8**
-- meaningful three-open-circle dividers: **PASS 3/3**
-- final source page has substantive translated ending: **PASS**
-- Tamil reopened during translation: **No**
-- unresolved drafting blocks: **0**
-- review state: **IN PROGRESS — DRAFT COMPLETE**
-- working title: **Vilaiyal Vangalaiyo** — final title treatment pending full-story review
+- three-open-circle dividers: **PASS 3/3**
+- final page contains substantive translated ending: **PASS**
+- final page-anchor validation / English closure: **PENDING / NEXT**
 
-Boundary-sensitive draft points already preserved:
+Terminology decisions closed in the fidelity review:
 
-- scan 24→25: `That wretched fellow` → `won't come back to this town.`
-- scan 29→30: source split `சொன்` → `ணன்.` mirrored by English `sa` → `id`
-- scan 30→31: `going to be thoroughly` → `fooled.`
-- scan 31 ending: draft closes with **“Were you bought for a price, bangle?”**
+- `அத்தான்` → **Aththan**
+- `தாசி` → **dasi**
+- `பொட்டுக்கட்டு / பொட்டு` → **pottukattu / pottu**
+- `பல்லவி / அனுபல்லவி / சரணம்` → **pallavi / anupallavi / charanam**
+- `ஜமீன்தார்` → **zamindar**
+- `வீரலக்ஷ்மி` → **brave Lakshmi**
+- `இன்பபுரி` → **a city of bliss**
+- `நாட்டு சோக்காளி வாழ்வு` → **his life as a “local dandy”**
+
+Boundary-sensitive English remains in place pending the dedicated anchor gate:
+
+- scan 24 ends with `That wretched fellow` and scan 25 begins `won't come back to this town.`
+- scan 29 ends with `he sa` and scan 30 begins `id something in Hindustani...`, mirroring Tamil split `சொன்` → `ணன்.`
+- scan 30 ends with `going to be thoroughly` and scan 31 begins `fooled.`
 
 ### Exact next activity — current
 
-Perform the **full-story English fidelity / terminology review** for `விலையால் வாங்கலையோ` across scans **24–31 / printed 22–29**.
+Run the dedicated **physical page-anchor validation / final English closure** for `விலையால் வாங்கலையோ`.
 
-- compare the complete verified Tamil assembly against the full English draft;
-- review every paragraph for omission, duplication, meaning, tone, rhetorical repetition, dialogue and cultural-term consistency;
-- adjudicate the working title and final bangle refrain together;
-- explicitly review `Aththan`, `dasi`, `pottukattu / pottu`, `pallavi / anupallavi / charanam`, `zamindar`, `country dandy`, `city of bliss`, and the final refrain;
-- repair English only unless a genuine Tamil source issue is exposed;
-- update `TRANSLATION_REVIEW.md`, progress tracker, story / collection / root controls;
-- commit / synchronize;
-- **stop before final physical page-anchor validation / English closure**.
+Required actions:
 
-Do not reopen Tamil merely to make the English smoother.
+- read all verified Tamil page records 24–31 and the reviewed English translation;
+- create `stories/vilaiyal-vangalaiyo/translations/en/page-anchors.json` with human-adjudicated start / end anchors for every physical source page;
+- confirm printed-page agreement 22–29;
+- run `python3 scripts/validate-english-page-anchors.py stories/vilaiyal-vangalaiyo`;
+- run the required regression sequence: corrected state **PASS** → shifted-marker defect **FAIL because of anchoring** → restored corrected state **PASS**;
+- update `TRANSLATION_REVIEW.md`, collection English tracker, story / collection / root controls;
+- if all checks pass, mark `விலையால் வாங்கலையோ` English **PASS / CLOSED** and close the 1953 collection English phase;
+- do not modify Tamil or start another anthology in the same activity.
 
 ## Closed source — 1956 `தாய்மை`
 
