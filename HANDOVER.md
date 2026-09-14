@@ -762,54 +762,43 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-Batch 1 scans **5–9 / printed 1–5** has now completed the user-requested **word-by-word visual text-fidelity re-audit**:
+### Batch 1
 
-- scans checked word by word — **5/5**
-- additional source-proven corrections — **19**
-- wording / spelling / source-spacing corrections — **12**
-- punctuation corrections — **7**
-- scans **5–9** — **VERIFIED**
-- scan **9** — **VERIFIED**
-- scan **9** former physical-loss span — **RESOLVED**
-- guessed reconstruction — **0**
-- durable audit — `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
-- limitation record — `SOURCE_LIMITATION_SCAN_009.md`
+Scans **5–9 / printed 1–5** remain **CLOSED / VERIFIED 5/5**.
 
-Targeted scan-9 lower-line resolution after user review:
-
-- earlier archive reading — `‘மத நம்பிக்கை’ என்ற போர்வை ... தந்திரம் ஆளவந்தாரையும் கேட்கிறேன்`
-- superseded intermediate reading — `‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
-- final source-supported reading — **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`**
-- former physical-loss hold — **RESOLVED**
+- word-by-word re-audit corrections — **19**
+- scan 9 former hold — **RESOLVED**
+- final corrected lower line includes **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`**
 - guessed reconstruction — **0**
 
-Targeted final-word correction after user review:
+### Batch 2
 
-- incorrect — `கேட்டிறேன்`
-- source-visible — **`கேட்கிறேன்`**
+Scans **10–14 / printed 6–10**:
 
-Important resolved boundary:
+- Stage 1 first-pass transcription — **COMPLETE 5/5**
+- page records — **5/5**
+- page status — **needs-review 5/5**
+- explicit unresolved first-pass spans — **3, all on scan 13**
+- guessed readings — **0**
+- scan 13→14 physical boundary — **`சாதனங்` / `களையும்` preserved**
+- durable Stage-1 record — `STAGE1_BATCH_002.md`
+- Stage 2 visual text-fidelity audit — **NEXT**
+- Stage 3 — **NOT STARTED**
+- Stage 4 — **NOT STARTED**
 
-`scan 8: ... ஓவியன் தீட்டிக்`  
-`scan 9: காட்டிய வனப்பும் ...`
+Stage-2 review queue includes:
 
-Continuous phrase: **`ஓவியன் தீட்டிக் காட்டிய வனப்பும்`**.
+- scan 10 — wording around `ஆனால் தாராள மற்றது`, final paragraph opening `ஆகியே`, quoted-title punctuation;
+- scan 11 — `பிரயாண மின்றிச்` and final-paragraph punctuation;
+- scan 12 — `கவனிக்கப்பட வேண்டும்`, `சுருக்கக் கூறின்`, closing `ஒப்பிய உண்மையுமாகும்`;
+- scan 13 — three deliberately unresolved spans recorded in the page file;
+- scan 14 — `பிறவாவரம்`, `புண்ணியத் தேடி`, and long-paragraph punctuation.
 
-**NEXT: Batch 2 Stage 1 first-pass transcription, scans 10–14 / printed 6–10.**
+**NEXT: Batch 2 Stage 2 visual text-fidelity audit — scans 10–14 / printed 6–10.**
 
-Before source-dependent writes:
+Use only the controlling native scan pixels. Compare the committed Stage-1 text line-by-line / phrase-by-phrase, resolve source-supported corrections and the scan-13 review spans, keep all five pages `needs-review`, synchronize trackers, commit Stage 2, and stop.
 
-1. fetch live `main`;
-2. reread the permanent guides, this handover, `NEXT_CHAT_PROMPT.md`, and the retained-work README/page-map;
-3. reopen scans **10–14** from the user-supplied PDF;
-4. create one page record per physical scan;
-5. transcribe source-faithfully from scan pixels only;
-6. preserve punctuation, paragraphing, spelling and physical page boundaries;
-7. mark uncertain readings explicitly rather than guessing;
-8. set all five transcribed pages to `needs-review`;
-9. commit/sync Stage 1 and stop.
-
-Do **not** begin Stage 2 in the same activity. Batch 1 remains closed unless genuinely new source evidence appears.
+Do **not** begin Stage 3 in the same activity.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
