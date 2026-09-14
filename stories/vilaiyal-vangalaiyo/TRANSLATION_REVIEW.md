@@ -2,127 +2,180 @@
 
 ## Status
 
-**IN PROGRESS — FULL ENGLISH DRAFT COMPLETE 8/8; full-story fidelity / terminology review NEXT.**
+**FULL-STORY FIDELITY / TERMINOLOGY REVIEW — PASS.**
 
-Do not treat the English layer as final PASS yet.
+Overall English phase remains **IN PROGRESS** only because the dedicated physical page-anchor validation / final English closure gate has not yet run.
 
 ## Scope
 
 - Tamil title: **விலையால் வாங்கலையோ**
-- draft English title treatment: **Vilaiyal Vangalaiyo**
-- title policy: conservative transliteration retained during drafting; final English title treatment remains open for the full-story review
+- final reviewed English title: **Bought for a Price?**
+- source scans: **24–31 / printed 22–29**
 - controlling Tamil assembly: `sections/vilaiyal-vangalaiyo.md`
 - verified Tamil page records: **8/8**
-- English draft coverage: scans **24–31 / printed 22–29 — 8/8 COMPLETE**
+- English draft coverage: **8/8 COMPLETE**
 - Tamil/source gate before English: **PASS / CLOSED**
 - collection-wide Tamil/source gate: **CLOSED / PASS**
 - Tamil review queue before English: **0 open**
-- Tamil reopened during translation: **No**
+- Tamil reopened during translation / review: **No**
 
-## Authority
+## Review method
 
-The draft follows only the verified canonical Tamil for this story.
+The complete verified Tamil assembly and complete English draft were re-read end-to-end in source order.
 
-No wording has been imported from:
+Every page span and paragraph was checked for:
 
-- the 1977 anthology versions of other stories;
-- the 1953 witness-comparison layers for `தப்பிவிட்டார்கள்`, `சபலம்`, or `முந்நூறு ரூபாய்`;
-- OCR, web copies, or outside editions.
+- omission / duplication;
+- meaning fidelity;
+- tone, irony and rhetorical repetition;
+- dialogue attribution and pronouns;
+- names and source-sensitive vocabulary;
+- cultural-term consistency;
+- paragraph / divider structure;
+- accidental explanatory prose or over-interpretation.
 
-Canonical Tamil was **not modified** during either English drafting batch.
+Result:
 
-## Page-marker status
+- omitted Tamil narrative blocks: **0**
+- duplicated narrative blocks: **0**
+- unresolved fidelity issues after review: **0**
+- Tamil source issues exposed by English: **0**
 
-Marker presence and numeric order: **PASS — 8/8 markers present exactly once and ordered 24→31**.
+## Title / final refrain decision
 
-Meaningful structural dividers: **PASS — 3/3 three-open-circle dividers preserved**.
+The working transliteration **Vilaiyal Vangalaiyo** is replaced by the reviewed English title:
 
-The draft currently preserves the verified physical source transitions as follows:
+**Bought for a Price?**
 
-- **24→25** — Tamil `இனி அந்த வாட்டுப் பயல்` → `இந்த ஊர்திரும்ப மாட்டான்.`; English **“That wretched fellow” → “won't come back to this town.”**
-- **25→26** — scan 25 closes after Vairakkannu rereads the editorial; scan 26 opens with the quoted editorial itself
-- **26→27** — scan 26 closes after the intertwined `Lakshmi / Aththan` heartbeats and silence; scan 27 opens with Lakshmi's arrival dialogue
-- **27→28** — scan 27 closes after `நன்றாக ஏமாந்தான்`; scan 28 opens with `அத்தான்.........இன்று முதல் நம் வாழ்க்கை ஆரம்பம்.`
-- **28→29** — scan 28 closes with Lakshmi imagining the zamindar's mansions as mounds of earth; scan 29 opens with the hardships she suffered for Vairakkannu's love
-- **29→30** — verified Tamil splits `சொன்` → `ணன்.`; the draft deliberately mirrors this inside the English word **`sa` → `id`** so the marker sits at the physical source transition
-- **30→31** — Tamil `சப் இன்ஸ்பெக்டர் சரியானபடி` → `ஏமாற்றப்போகிறார் என்று...`; English preserves the transition as **“going to be thoroughly” → “fooled.”**
-- scan **31** carries substantive ending content and ends with the translated title/bangle refrain
+Rationale:
 
-These boundary checks are **draft-stage PASS**. Final page-anchor validation / closure remains a separate later gate under `ENGLISH_TRANSLATION_GUIDE.md`.
+- the Tamil title is an elliptical question built around `விலையால் வாங்கலையோ`;
+- the same wording returns in the final mad refrain with `வளையல்`;
+- the reviewed English ending is therefore **“Was the bangle bought for a price?”**;
+- this preserves the story's commodity / price motif from Lakshmi's opening protest through the final bangle refrain without adding outside interpretation.
 
-## Names / source-sensitive choices retained across the draft
+## Terminology decisions
 
-- `லக்ஷ்மி` → **Lakshmi**
-- `நடராஜன்` / dialogue `நடராஜ்` → **Natarajan / Nataraj** according to verified Tamil form
-- `வைரக்கண்ணு` → **Vairakkannu**
-- `அரியநாயக முதலியார்` → **Ariyanayaka Mudaliar**
-- `ஜமீன்தார்` → **zamindar**
-- `அத்தான்` → **Aththan**
-- `தாசி` → **dasi**
-- `பொட்டுக்கட்டு / பொட்டு` → **pottukattu / pottu**
-- `பல்லவி / அனுபல்லவி / சரணம்` → **pallavi / anupallavi / charanam**
-- `சாஸ்திரம்` → **shastra**
-- `பாட்டாளி` → **Paattali** when naming the newspaper
-- `சப் இன்ஸ்பெக்டர்` → **sub-inspector**
+| Tamil | Reviewed English | Decision |
+|---|---|---|
+| `அத்தான்` | **Aththan** | retain transliteration; do not flatten to a generic English kinship / endearment |
+| `தாசி` | **dasi** | retain source social term |
+| `பொட்டுக்கட்டு / பொட்டு` | **pottukattu / pottu** | retain source ritual vocabulary without inserted explanation |
+| `பல்லவி / அனுபல்லவி / சரணம்` | **pallavi / anupallavi / charanam** | retain musical wordplay |
+| `ஜமீன்தார்` | **zamindar** | retain established source term |
+| `வீரலக்ஷ்மி` | **brave Lakshmi** | semantic rendering retained; no separate proper-name identity is asserted |
+| `இன்பபுரி` | **a city of bliss** | figurative rendering retained; not treated as a verified place-name |
+| `நாட்டு சோக்காளி வாழ்வு` | **his life as a “local dandy”** | refined from draft `country dandy` for clearer English while preserving colloquial contempt |
+| `காசுக்கடை` | **the money shop of a North Indian Marwari** | conservative rendering retained; no outside institutional label inserted |
+| `கண்ணைத் திறந்து கேளப்பா` | **Open your eyes and quote a price, man.** | refined to remove draft-added `proper` |
+| `சண்டமாருத ஒலிகள்` | **voice thundered like a storm** | figurative force retained |
+| `விலையால் வாங்கலையோ வளையல்` | **Was the bangle bought for a price?** | final refrain aligned with reviewed title |
 
-## Difficult / conservative renderings — scans 24–27
+## English refinements applied in this review
 
-- `மூஞ்சிக்கிஞ்சி கழுவி` → **“wash your face”**
-- `வக்கணை பேசாதே` → **“Don't talk back”**
-- `வாட்டுப் பயல்` → **“that wretched fellow”**
-- `அவன் காலை வாங்கி விடுவார்` → **“the zamindar will have his leg broken”**
-- `நஞ்சாவது பஞ்சாவது` → **“Poison or famine...”**
-- `கம்பி எண்ணணும்` → **“you'll be counting prison bars”**
-- `என்னை முதல் திருமணம் செய்துகொள்ள` → **“to marry me first”**
-- `என் உபதேசங்கள் எல்லாம் அவருக்கு ஊமையின் பேச்சாகத் தெரிந்தன` → **“All my admonitions were like the speech of a mute to him.”**
-- `வீரலக்ஷ்மி` → **“brave Lakshmi”** in the draft; final terminology review must reconsider whether retaining **Veera-Lakshmi** better preserves the rhetorical form
+Total English refinements: **30**.
 
-## Difficult / conservative renderings — scans 28–31
+### Scan 24 / printed 22
 
-- `கோர்ட்` → **court**, without adding procedural interpretation
-- `இன்பபுரி` → **“a city of bliss”**, preserving the figurative contrast rather than treating it as a verified place-name
-- `நாட்டு சோக்காளி வாழ்க்கை` → **“the life of a ‘country dandy’”** in the draft; this colloquial choice requires explicit review in the next gate
-- `காசுக்கடை` → **money shop** in the narrative setup; the Marwari remains identified as in the Tamil
-- `கண்ணைத் திறந்து கேளப்பா` → **“Open your eyes and name a proper price, man.”**
-- `புறப்படும்` in the sub-inspector dialogue → **“we'll go to the house”**, following scene function without correcting the Tamil
-- `சண்டமாருத ஒலிகள்` → **“voice thundered like a storm”**
-- final title-refrain `விலையால் வாங்கலையோ வளையல்` → **“Were you bought for a price, bangle?”** in the draft; title/refrain equivalence must be adjudicated in full-story review
+1. `she refuses the pottukattu` → `she refuses to go through with the pottukattu`.
 
-## Structural / rhetorical fidelity
+### Scan 25 / printed 23
 
-The full draft preserves:
+2. elders passage refined to `since our elders' time out of ignorance?`.
+3. `Hey, Nataraja!` → `Hey, Nataraja, my boy!` and `pottu-tying marriage` → `pottukattu marriage`.
 
-- the price / sale metaphor from the opening through the final bangle refrain;
-- the pallavi → anupallavi → charanam wordplay;
-- Lakshmi's rejection of being sacrificed for the family's benefit;
-- pottukattu / dasi vocabulary without explanatory prose inserted into the story body;
+### Scan 26 / printed 24
+
+4. restored omitted action: `folded it, put it aside, and leaned back`.
+5. creditor's line changed from third-person `An editor, is he...` to direct-address `So you're an editor...`.
+6. `one long sigh` → `one long, deep sigh`.
+7. `Those heartbeats...` → `Those sounds in his heart...` to follow the source's `இதய ஒலிகள்` more closely.
+
+### Scan 27 / printed 25
+
+8. gun line refined to `He thrust out a gun to frighten you.`
+9. `Four in the morning, before dawn!` → `Four o'clock at dawn!`.
+
+### Scan 28 / printed 26
+
+10. `Lakshmi was not worried` → `Lakshmi was not worried at all`.
+11. `The night kept moving on` → `The night wore on`.
+12. `orphaned young man` → `orphaned youth`.
+
+### Scan 29 / printed 27
+
+13. `country dandy` → `local dandy`, with Natarasan's ownership relation made explicit.
+14. Marwari shop sentence naturalized without adding outside institutional identification.
+15. `name a proper price` → `quote a price`.
+16. sarcastic `பாவம் ஐயாவுக்குப் பரிதாபம்` refined to `Poor me—sir has taken pity`.
+17. `One price` → `One price only`.
+18. `Tamil people have no brains` → `Tamils have no brains at all`.
+
+### Scan 30 / printed 28
+
+19. theft accusation refined from `brought stolen jewellery` to `stolen the jewellery`.
+20. `at her wish` → `at her request`.
+21. `we'll go to the house` → `let's go to the house`.
+22. `Here...I'm coming` → `Here I come`.
+23. house-approach sentence simplified without changing the scan-30→31 boundary.
+
+### Scan 31 / printed 29
+
+24. `struck himself in the face` → `slapped himself across the face`.
+25. blood / madman sentence tightened to the source-supported `covered in bloodstains...like a madman...he danced`.
+26. English comma splice after Lakshmi's death normalized to a full stop.
+27. `Thief!Murderer!` → natural-English `Thief! Murderer!`.
+28. `unfit for the dasi profession` → `would not submit to the dasi profession`, avoiding an unintended implication of incapacity.
+29. final refrain changed from vocative `Were you bought for a price, bangle?` to `Was the bangle bought for a price?`.
+
+### Story-level title
+
+30. `Vilaiyal Vangalaiyo` → **Bought for a Price?**.
+
+## Structural / rhetorical fidelity after review
+
+The reviewed English preserves:
+
+- the opening commodity / sale metaphor;
+- pallavi → anupallavi → charanam wordplay;
+- Lakshmi's refusal to be sacrificed for family benefit;
+- dasi / pottukattu terminology without translator exposition in the story body;
 - all **3** source-significant three-open-circle dividers;
 - the embedded editorial;
 - the repeated `Aththan` motif;
 - Lakshmi's escape account;
-- the jewellery-sale bargaining sequence;
-- the accusation / house-return sequence;
-- the tragic reveal and court ending.
+- the jewellery-sale bargaining scene;
+- the accusation / return-home sequence;
+- the tragic reveal and court ending;
+- the title / final-refrain price motif.
 
-## Tamil/source issues reopened during translation
+## Page-marker state after review
+
+- source markers present / ordered: **PASS 8/8**
+- three-open-circle dividers: **PASS 3/3**
+- scan 24→25 draft boundary: **preserved**
+- scan 29→30 split-word draft boundary: **preserved as `sa` → `id`**
+- scan 30→31 draft boundary: **preserved**
+- final scan contains substantive translated ending: **Yes**
+
+These checks are not the final physical page-anchor closure. The dedicated anchor gate still must create / adjudicate boundary anchors and run the repository validator.
+
+## Tamil/source issues reopened during review
 
 **None.**
 
-No English difficulty in scans 24–31 produced source evidence requiring verified Tamil to be reopened.
+Canonical Tamil was not modified to improve English.
 
-## Draft-completeness result
+## Review result
 
-- English draft coverage: **8/8 source pages**
-- page markers present / ordered: **PASS 8/8**
-- substantive translated content under final scan marker: **Yes**
-- meaningful dividers preserved: **PASS 3/3**
-- draft-stage physical boundary alignment: **PASS 8/8**
-- Tamil changed during translation: **No**
-- unresolved drafting block: **0**
-- overall state: **IN PROGRESS — DRAFT COMPLETE**
+- full-story fidelity review: **PASS**
+- terminology review: **PASS**
+- title decision: **CLOSED — Bought for a Price?**
+- unresolved English fidelity / terminology issues: **0**
+- English phase status: **IN PROGRESS — final page-anchor validation / closure pending**
 
 ## Next gate
 
-Perform the **full-story English fidelity / terminology review** across scans 24–31.
+Run the dedicated **physical page-anchor validation / final English closure** gate.
 
-That review must re-read the complete verified Tamil assembly against the complete English draft, adjudicate the working title and difficult renderings, repair any omissions / tonal distortions / over-interpretations, update this review record, and then stop before final page-anchor validation / English closure.
+That gate must use the verified Tamil page records, create / adjudicate `translations/en/page-anchors.json`, run `scripts/validate-english-page-anchors.py`, perform the required corrected → shifted-defect → restored regression check, synchronize controls, and only then mark the English translation / collection phase final `PASS`.
