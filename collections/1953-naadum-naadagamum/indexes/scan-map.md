@@ -9,7 +9,7 @@
 | 1 | — | cover/title | `நாடும் நாடகமும்` / `மு. கருணாநிதி` / `திராவிடப்பண்ணை` | registered |
 | 2 | — | edition / imprint | `முதல் பதிப்பு — 1953`; price; printer line | registered |
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
-| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — Batch 1 CLOSED / VERIFIED 5/5 after word-by-word re-audit with 19 corrections; Batch 2 scans 10–14 Stage 1 next** |
+| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — Batch 1 CLOSED / VERIFIED 5/5; Batch 2 scans 10–14 Stage 1 COMPLETE 5/5; Stage 2 next** |
 | 21–24 | 16-A–16-D | prose/discourse | continuation of `நாடும் நாடகமும்` | retained here / pending processing |
 | 25–51 | 17–43 | play | `தெருக்கூத்து`; begins `காட்சி 1` | **retained here / pending processing** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | inventory only / existing-canonical witness |
@@ -76,3 +76,14 @@ No story text was transcribed during intake.
 - blocked: **0/5**
 - remaining actionable source-text issues: **0**
 - next batch: **scans 10–14 / printed 6–10 Stage 1**
+
+## Batch 2 checkpoint
+
+`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — scans **10–14 / printed 6–10**:
+
+- Stage 1 first-pass: **COMPLETE 5/5**
+- page status: **needs-review 5/5**
+- explicit unresolved first-pass spans: **3 — scan 13**
+- scan 13→14 boundary: **`சாதனங்` / `களையும்`**
+- guessed readings: **0**
+- Stage 2 visual text-fidelity audit: **NEXT**
