@@ -4,7 +4,7 @@
 
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 Stage 2 scans 5–9 COMPLETE; Stage 3 NEXT** |
+| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 Stage 3 scans 5–9 COMPLETE; Stage 4 NEXT** |
 | B | `தெருக்கூத்து` | play | 17–43 | 25–51 | **retain/process in this repository** | **NOT STARTED** |
 
 ## Short-story inventory basis
@@ -76,13 +76,11 @@ The 1953 opening begins with the same poet figure and wording as the closed 1977
 
 Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**.
 
-Batch 1 scans **5–9 / printed 1–5** now has:
+Batch 1 scans **5–9 / printed 1–5** now has Stages **1–3 COMPLETE**:
 
-- Stage 1: **COMPLETE 5/5**
-- Stage 2: **COMPLETE 5/5**
-- Stage-2 source-proven corrections: **16**
-- unresolved source-text spans: **1 — scan 9 mark crossing**
+- Stage 2 source-proven corrections: **16**
+- Stage 3 character-identity corrections: **0**
+- Stage 3 unresolved glyph clusters: **0**
+- page status: **needs-review 5/5**
 
-Next: **Stage 3 historical Tamil glyph audit on the same five scans**. Keep pages `needs-review`; do not start Stage 4 or scans 10–14 in the same activity.
-
-After the full prose/discourse work is closed, process special work B **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, also inside this repository.
+Next: **Stage 4 final independent source check on the same five scans**. The scan-9 mark-crossed source span must receive an exhaustive-resolution disposition. Do not start scans 10–14 in the same activity.
