@@ -4,10 +4,10 @@ printed_page: 25
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 “நேற்றுத்தானே கடிதமெழுதியிருக்கிறாய். அதற்குள் எப்படி, லக்ஷ்மி, வந்தாய்?”
@@ -69,3 +69,16 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - `வளையல்கள்` was checked as a representative historical-`ளை` family occurrence;
 - no global replacement or lexical modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the complete page was independently re-read line by line from the controlling native / enlarged scan;
+- dialogue sequence, paragraphing, punctuation, physical circular losses and all Stage-2 repairs were checked without relying on expected grammar;
+- `நடராஜ் அண்ணாவின் அழைப்பை ஏற்று`, source `லக்ஷ்மி` / `வீரலக்ஷ்மி`, and historical-`றா` `நன்றாக` were independently confirmed;
+- the apparently suspicious `அவருக்கு` in `என் உபதேசங்கள் எல்லாம் அவருக்கு ஊமையின் பேச்சாகத் தெரிந்தன` was rechecked at high resolution and is source-supported;
+- Stage-3 textual corrections: **0**;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
