@@ -2,7 +2,7 @@
 
 ## Phase status
 
-**IN PROGRESS**
+**IN PROGRESS — DRAFT COMPLETE / REVIEW PENDING**
 
 The collection-wide Tamil/source gate is **CLOSED / PASS**.
 
@@ -12,7 +12,7 @@ Only the new canonical Story 3 requires a new canonical English translation in t
 |---:|---|---|---|---|
 | 1 | `தப்பிவிட்டார்கள்` | additional witness to existing canonical | No — canonical English controlled by existing canonical edition | not a target |
 | 2 | `சபலம்` | additional witness to existing canonical | No — canonical English controlled by existing canonical edition | not a target |
-| 3 | `விலையால் வாங்கலையோ` | new canonical story | **Yes** | **in progress — 4/8 source pages drafted** |
+| 3 | `விலையால் வாங்கலையோ` | new canonical story | **Yes** | **in progress — draft complete 8/8; full-story review NEXT** |
 | 4 | `முந்நூறு ரூபாய்` | additional witness to existing canonical | No — canonical English controlled by existing canonical edition | not a target |
 
 ## Story 3 — விலையால் வாங்கலையோ
@@ -20,17 +20,20 @@ Only the new canonical Story 3 requires a new canonical English translation in t
 - Tamil/source: **CLOSED / PASS 8/8**
 - English path: `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`
 - review path: `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`
-- drafted source scans: **24–27**
-- drafted printed pages: **22–25**
-- page markers drafted: **4/8**
-- physical content-boundary alignment for drafted span: **PASS 4/4**
-- remaining draft: scans **28–31 / printed 26–29**
+- drafted source scans: **24–31 / 8/8 COMPLETE**
+- drafted printed pages: **22–29**
+- page markers present / ordered: **PASS 8/8**
+- three-open-circle dividers: **PASS 3/3**
+- draft-stage physical content-boundary alignment: **PASS 8/8**
 - Tamil reopened during translation: **No**
-- current state: **in progress**
+- unresolved drafting blocks: **0**
+- current state: **in progress — draft complete**
 
-## Planned durable sequence
+## Durable sequence
 
 1. English scans 24–27 — **DONE / COMMITTED**
-2. English scans 28–31 — **NEXT**
-3. full-story fidelity / terminology review
+2. English scans 28–31 — **DONE / COMMITTED**
+3. full-story fidelity / terminology review — **NEXT**
 4. physical page-anchor validation / final English closure
+
+The collection English phase remains **IN PROGRESS** until Story 3 translation and review are final PASS.
