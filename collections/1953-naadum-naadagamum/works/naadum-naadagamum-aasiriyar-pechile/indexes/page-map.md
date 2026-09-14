@@ -2,11 +2,11 @@
 
 | Source scan | Printed page | Page type | Current state |
 |---:|---|---|---|
-| 5 | 1 | work-opening | Stage 2 complete / needs-review |
-| 6 | 2 | body | Stage 2 complete / needs-review |
-| 7 | 3 | body | Stage 2 complete / needs-review |
-| 8 | 4 | body | Stage 2 complete / needs-review |
-| 9 | 5 | body | Stage 2 complete / needs-review |
+| 5 | 1 | work-opening | Stage 3 complete / needs-review |
+| 6 | 2 | body | Stage 3 complete / needs-review |
+| 7 | 3 | body | Stage 3 complete / needs-review |
+| 8 | 4 | body | Stage 3 complete / needs-review |
+| 9 | 5 | body | Stage 3 complete / needs-review |
 | 10 | 6 | body | not-started |
 | 11 | 7 | body | not-started |
 | 12 | 8 | body | not-started |
@@ -31,8 +31,10 @@ Scans **5–9 / printed 1–5**
 - Stage 2: **COMPLETE / 5 pages**
 - Stage-2 source-proven corrections: **16**
 - Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
-- Stage 3: **NEXT**
-- Stage 4: **NOT STARTED**
+- Stage 3: **COMPLETE / 5 pages**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **NEXT**
 - verified: **0**
 - needs-review: **5**
 - blocked: **0**
@@ -47,6 +49,14 @@ Scans **5–9 / printed 1–5**
 - source-proven Stage-2 corrections: **16**
 - blocked: **0**
 
+### Stage-3 disposition
+
+- all **13** mandatory historical-glyph families explicitly audited across scans 5–9
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- scan-9 mark-crossed source-text span: **still unresolved; not a settled glyph reading**
+- page status: **needs-review 5/5**
+
 ## Exact next activity
 
-Stage 3 historical Tamil glyph audit on scans **5–9 / printed 1–5**. Keep pages `needs-review`; do not start Stage 4 or scans 10–14 in the same activity.
+Stage 4 final independent source check on scans **5–9 / printed 1–5**. Reopen the complete batch fresh and apply the exhaustive-resolution protocol to the scan-9 mark-crossed span. Do not begin scans 10–14 until Stage 4 closes.
