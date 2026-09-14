@@ -73,7 +73,7 @@ No duplicate canonical story workspace was created.
 - canonical-recheck candidates opened from 1953 witnesses: **0**
 - collection-wide unresolved source-dependent items: **0**
 - collection-wide Tamil/source gate: **CLOSED / PASS**
-- English phase: **IN PROGRESS — `விலையால் வாங்கலையோ` 4/8 source pages drafted**
+- English phase: **IN PROGRESS — `விலையால் வாங்கலையோ` draft complete 8/8 / full-story review NEXT**
 
 ### Story 1 — `தப்பிவிட்டார்கள்`
 
@@ -115,7 +115,7 @@ No duplicate canonical story workspace was created.
 - reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
 - closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
 - unresolved source readings: **0**
-- English: **IN PROGRESS — scans 24–27 drafted / scans 28–31 pending**
+- English: **IN PROGRESS — draft complete 8/8 / full-story review NEXT**
 - durable T1 checkpoints: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 - Stage-2 checkpoints: `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`, `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 - Stage-2 cumulative repairs: **30 occurrence-level textual repairs; 9 historical-character identity corrections / resolutions**
@@ -159,14 +159,19 @@ Progress tracker:
 
 Current `விலையால் வாங்கலையோ` state:
 
-- English draft: **4/8 source pages complete**
-- drafted scans: **24–27 / printed 22–25**
-- page markers / physical boundary alignment for drafted span: **PASS 4/4**
+- English draft: **8/8 source pages COMPLETE**
+- drafted scans: **24–31 / printed 22–29**
+- page markers present / ordered: **PASS 8/8**
+- draft-stage physical boundary alignment: **PASS 8/8**
+- three-open-circle dividers: **PASS 3/3**
+- scan 29→30 split-word anchor: **PASS**
+- scan 30→31 continuation anchor: **PASS**
+- final source page translated with substantive ending: **PASS**
 - Tamil reopened during translation: **No**
-- translation review: **IN PROGRESS**
+- translation review: **IN PROGRESS — DRAFT COMPLETE**
 
 ## Exact next activity
 
-Continue **English translation for `விலையால் வாங்கலையோ`** with **scans 28–31 / printed 26–29 only**.
+Perform the **full-story English fidelity / terminology review** for `விலையால் வாங்கலையோ` across scans **24–31 / printed 22–29**.
 
-Complete the remaining four-page draft, preserve verified page boundaries and the internal three-circle dividers on scans 28 and 29, update English review / progress controls, commit / synchronize, and stop before full-story English fidelity review.
+Re-read the complete verified Tamil assembly against the complete English draft, adjudicate the working title and difficult renderings, repair any omission / tonal distortion / over-interpretation, update review / progress / story / collection / root controls, commit / synchronize, and stop before final physical page-anchor validation / English closure.
