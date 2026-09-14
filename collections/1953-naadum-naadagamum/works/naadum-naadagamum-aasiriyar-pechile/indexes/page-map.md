@@ -10,7 +10,7 @@
 | 10 | 6 | body | **verified — Batch 2 Stage 4 PASS** |
 | 11 | 7 | body | **verified — Batch 2 Stage 4 PASS** |
 | 12 | 8 | body | **verified — Batch 2 Stage 4 PASS** |
-| 13 | 9 | body | **needs-review — Stage 4 source-obscured hold** |
+| 13 | 9 | body | **verified — targeted scan-13 source resolution PASS** |
 | 14 | 10 | body | **verified — Batch 2 Stage 4 PASS** |
 | 15 | 11 | body | not-started |
 | 16 | 12 | body | not-started |
@@ -89,13 +89,13 @@ Scans **10–14 / printed 6–10**
 - Stage 3: **COMPLETE / PASS / 5 pages**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **CHECKED / 5 pages**
+- Stage 4: **COMPLETE / PASS / 5 pages after targeted scan-13 resolution**
 - Stage-4 additional source-supported corrections: **24**
-- Stage-4 page result: **PASS 4 / NEEDS RECHECK 1**
-- unresolved source-text spans: **1 — scan 13**
+- targeted scan-13 source resolution: **1 span — `படுவது,`**
+- unresolved source-text spans: **0**
 - page records: **5/5**
-- needs-review: **1**
-- verified: **4**
+- needs-review: **0**
+- verified: **5**
 - blocked: **0**
 - guessed readings: **0**
 - scan 13→14 boundary: **`சாதனங்` / `களையும்` PASS / reconfirmed**
@@ -103,7 +103,7 @@ Scans **10–14 / printed 6–10**
 - durable Stage-2 audit: `STAGE2_BATCH_002.md`
 - durable Stage-3 audit: `STAGE3_BATCH_002.md`
 - durable Stage-4 audit: `STAGE4_BATCH_002.md`
-- Batch 2 closure: **OPEN**
+- Batch 2 closure: **CLOSED / VERIFIED 5/5**
 
 ### Stage-2 disposition
 
@@ -127,13 +127,14 @@ Scans **10–14 / printed 6–10**
 ### Stage-4 disposition
 
 - scans 10, 11, 12, 14: **PASS / VERIFIED**
-- scan 13: **NEEDS RECHECK**
+- scan 13 initial Stage-4 hold: **RESOLVED by targeted native-pixel review**
+- resolved source phrase: **`பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`**
 - former scan-13 final-paragraph hold: **RESOLVED — `விளைத்திட்ட`**
-- remaining scan-13 hold: **1 narrowly bounded source-obscured continuation**
 - unsupported `தேவையற்ற தேவைகள்` reading: **RETRACTED**
+- unresolved source-text spans: **0**
 - guessed reconstruction: **0**
-- batch closure: **OPEN**
+- batch closure: **CLOSED / VERIFIED 5/5**
 
 ## Exact next activity
 
-Targeted final source-resolution pass on **scan 13 only**, limited to the span between `தேவைப்` and `தேவைப் படாததுமட்டுமல்ல`. Do not begin Batch 3.
+Batch 3 Stage 1 first-pass transcription — scans **15–19 / printed 11–15**. Do not begin Stage 2 in the same activity.

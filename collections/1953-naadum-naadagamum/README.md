@@ -113,21 +113,22 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **CHECKED 5/5**
+  - Stage 4 final independent source check: **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
   - Stage-4 additional source-supported corrections: **24**
-  - Stage-4 page result: **verified 4/5; needs-review 1/5 — scan 13**
-  - unresolved source-text spans: **1 — scan 13**
+  - targeted scan-13 source resolution: **`படுவது,`**
+  - page status: **verified 5/5**
+  - unresolved source-text spans: **0**
   - guessed readings: **0**
-  - Batch 2 closure: **OPEN**
+  - Batch 2 closure: **CLOSED / VERIFIED 5/5**
 - remaining later transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **targeted Batch 2 scan-13 source resolution**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 1 first-pass transcription**, scans **15–19 / printed 11–15**.
 
 Batch 1 scans 5–9 remains **CLOSED / VERIFIED 5/5**.
 
-Batch 2 Stage 4 has been checked on all five pages. Scans **10, 11, 12 and 14 are VERIFIED**. Scan **13 remains needs-review** because one narrowly bounded source-obscured continuation is still unreadable. Stage 4 added **24 source-supported corrections**, resolved the former final-paragraph hold as `விளைத்திட்ட`, and retracted the unsupported `தேவையற்ற தேவைகள்` reading.
+Batch 2 scans 10–14 is now **CLOSED / VERIFIED 5/5**. The targeted scan-13 source-resolution pass directly resolves the former hold as `படுவது,`, yielding `பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`. Unresolved source-text spans are **0** and guessed reconstruction remains **0**.
 
-Resolve only the remaining span between visible `தேவைப்` and `தேவைப் படாததுமட்டுமல்ல`; do not guess and do not begin Batch 3.
+Start Batch 3 Stage 1 only; transcribe scans 15–19 from the controlling source, set pages to `needs-review`, synchronize, commit, and stop before Stage 2.

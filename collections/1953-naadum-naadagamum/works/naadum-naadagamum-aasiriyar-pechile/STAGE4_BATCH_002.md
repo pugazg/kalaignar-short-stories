@@ -4,22 +4,25 @@ Work: **நாடும் நாடகமும் (ஆசிரியர் �
 Controlling source: `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`  
 Batch: scans **10–14 / printed 6–10**
 
-## Result
+## Final result
 
 - complete batch freshly re-read against controlling scan pixels: **5/5**
-- Stage 4 page result:
+- Stage 4 initial page result:
   - **PASS / VERIFIED — 4/5**: scans 10, 11, 12, 14
   - **NEEDS RECHECK — 1/5**: scan 13
-- additional Stage-4 source-supported corrections: **24**
+- Stage-4 additional source-supported corrections before targeted follow-up: **24**
+- targeted scan-13 final source resolution: **PASS — 1 resolved span**
+- final verified: **5/5**
+- final needs-review: **0**
+- unresolved source-text spans: **0**
 - Stage-3 glyph dispositions reconfirmed: **5/5**
 - Stage-3 character-identity corrections changed at Stage 4: **0**
-- unresolved source-text spans after Stage 4: **1 — scan 13**
 - guessed readings: **0**
 - scan 13→14 boundary: **PASS / reconfirmed**
-- Batch 2 overall closure: **OPEN — one source-obscured scan-13 span remains**
-- Batch 3: **NOT STARTED**
+- Batch 2 overall closure: **CLOSED / VERIFIED 5/5**
+- Batch 3: **NEXT — Stage 1 scans 15–19 / printed 11–15**
 
-The user-supplied `Naadum_naadagamum.md` was used only as a locator/clue for difficult regions. It is **not source authority** and contains clear mismatches elsewhere. Every accepted Stage-4 reading below was independently confirmed against the controlling PDF pixels.
+The user-supplied `Naadum_naadagamum.md` was used only as a locator/clue for difficult regions. It is **not source authority** and contains clear mismatches elsewhere. Every accepted reading was independently confirmed against the controlling PDF pixels.
 
 No OCR, web copy, Wikisource, catalogue text, or alternate edition was used as authority.
 
@@ -52,11 +55,12 @@ Result: **PASS / VERIFIED**.
 
 Result: **PASS / VERIFIED**.
 
-### Scan 13 / printed 9 — 9 source-supported dispositions
+### Scan 13 / printed 9 — Stage-4 dispositions + targeted final resolution
+
+Stage 4 source-supported dispositions:
 
 - `வேதவிதி` → `வேதன்விதி`
-- unsupported first-pass/Stage-2 text `தேவையற்ற தேவைகள்` retracted; source-visible frame narrowed to:
-  `தேவைப் ⟦source-obscured continuation⟧ தேவைப் படாததுமட்டுமல்ல`
+- unsupported first-pass/Stage-2 text `தேவையற்ற தேவைகள்` retracted
 - `சேவைகள்` → `சேவைகளை`
 - `எத்தனை பெயர்தானோ` → `எத்தனை யெத்தனையோ`
 - `சௌகரியத்தைப்` → `சௌகர்யத்தைப்`
@@ -65,9 +69,13 @@ Result: **PASS / VERIFIED**.
 - former final-paragraph uncertainty resolved as `விளைத்திட்ட`
 - `நல்லவாழ்வுச்` → `நல்வாழ்வுச்`
 
-One span remains unreadable in the controlling scan: the continuation after the first visible `தேவைப்` and before the following visible `தேவைப் படாததுமட்டுமல்ல`. Native view, enlarged crops, contrast variants, and the user transcription as a non-authoritative clue were all considered. The scan pixels still do not support a defensible full reconstruction.
+The Stage-4 pass initially left one narrowly bounded source hold. A subsequent targeted native-pixel reinspection at higher enlargement resolves it directly from the scan as:
 
-Result: **NEEDS RECHECK / NOT VERIFIED**.
+`பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`
+
+The previously hidden continuation is therefore **`படுவது,`**. No contextual reconstruction was used.
+
+Result after targeted follow-up: **PASS / VERIFIED**.
 
 ### Scan 14 / printed 10 — 3
 
@@ -87,26 +95,23 @@ The physical continuation remains correct:
 
 No duplication or omission was found at the join.
 
-## Current Batch-2 status
+## Batch-2 closure
 
 - Stage 1: **COMPLETE 5/5**
 - Stage 2: **COMPLETE 5/5**
 - Stage 3: **COMPLETE / PASS 5/5**
 - Stage 4 checked: **5/5**
-- verified: **4/5**
-- needs-review: **1/5 — scan 13**
-- unresolved source-text spans: **1**
+- targeted final resolution: **COMPLETE**
+- verified: **5/5**
+- needs-review: **0**
+- unresolved source-text spans: **0**
 - guessed readings: **0**
-- batch closure: **OPEN**
+- batch closure: **CLOSED / VERIFIED 5/5**
 
 ## Exact next activity
 
-Perform a **targeted final source-resolution pass on scan 13 only**, limited to the single remaining source-obscured span between:
+Start **Batch 3 Stage 1 first-pass transcription** for scans **15–19 / printed 11–15**.
 
-`தேவைப்` … `தேவைப் படாததுமட்டுமல்ல`
+Use only the controlling source pixels, transcribe all five pages once, preserve uncertain readings explicitly rather than guessing, set new pages to `needs-review`, synchronize controls, commit Stage 1, and stop.
 
-Do not infer from grammar/context and do not adopt the user transcription unless the controlling scan itself supports the reading.
-
-If the source remains genuinely unreadable after the targeted resolution attempt, preserve the explicit hold and record the source limitation rather than fabricating text.
-
-Do **not** begin Batch 3 until Batch 2 is either fully closed or explicitly dispositioned by the user.
+Do **not** begin Batch 3 Stage 2 in the same activity.

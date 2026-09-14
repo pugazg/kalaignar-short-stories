@@ -703,15 +703,16 @@ Current state:
   - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **CHECKED 5/5**
+  - Stage 4 final independent source check: **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
   - Stage-4 additional source-supported corrections: **24**
-  - verified: **4/5 — scans 10, 11, 12, 14**
-  - needs-review: **1/5 — scan 13**
-  - unresolved source-text spans: **1 — scan 13**
+  - targeted scan-13 source resolution: **`படுவது,`**
+  - verified: **5/5**
+  - needs-review: **0**
+  - unresolved source-text spans: **0**
   - page records: **5/5**
   - scan 13→14 boundary: **`சாதனங்` / `களையும்` PASS / reconfirmed**
   - guessed readings: **0**
-  - Batch 2 closure: **OPEN**
+  - Batch 2 closure: **CLOSED / VERIFIED 5/5**
   - durable Stage-1 record: `STAGE1_BATCH_002.md`
   - durable Stage-2 record: `STAGE2_BATCH_002.md`
   - durable Stage-3 record: `STAGE3_BATCH_002.md`
@@ -802,11 +803,12 @@ Scans **10–14 / printed 6–10**:
 - mandatory glyph families audited — **13/13**
 - Stage-3 character-identity corrections — **0**
 - Stage-3 unresolved glyph clusters — **0**
-- Stage 4 final independent source check — **CHECKED 5/5**
+- Stage 4 final independent source check — **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
 - Stage-4 additional source-supported corrections — **24**
-- verified — **4/5: scans 10, 11, 12, 14**
-- needs-review — **1/5: scan 13**
-- unresolved source-text spans — **1**
+- targeted scan-13 source resolution — **`படுவது,`**
+- verified — **5/5**
+- needs-review — **0**
+- unresolved source-text spans — **0**
 - page records — **5/5**
 - guessed readings — **0**
 - scan 13→14 physical boundary — **`சாதனங்` / `களையும்` PASS / reconfirmed**
@@ -814,23 +816,20 @@ Scans **10–14 / printed 6–10**:
 - durable Stage-2 record — `STAGE2_BATCH_002.md`
 - durable Stage-3 record — `STAGE3_BATCH_002.md`
 - durable Stage-4 record — `STAGE4_BATCH_002.md`
-- Batch 2 closure — **OPEN**
+- Batch 2 closure — **CLOSED / VERIFIED 5/5**
 
-Stage-4 disposition:
+Targeted scan-13 disposition:
 
-- scan 10: **PASS / VERIFIED**
-- scan 11: **PASS / VERIFIED**
-- scan 12: **PASS / VERIFIED**
-- scan 13: **NEEDS RECHECK**
-- scan 14: **PASS / VERIFIED**
-- former scan-13 final-paragraph hold: **RESOLVED as `விளைத்திட்ட`**
-- unsupported `தேவையற்ற தேவைகள்` reading: **RETRACTED**
-- remaining hold: one source-obscured continuation between visible `தேவைப்` and `தேவைப் படாததுமட்டுமல்ல`
+- native-pixel/enlarged-line review directly resolves the former hold as `படுவது,`
+- final source phrase: **`பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`**
+- former final-paragraph hold remains resolved as `விளைத்திட்ட`
+- unsupported `தேவையற்ற தேவைகள்` reading remains retracted
 - no guessed reconstruction
+- no unresolved Batch-2 source text
 
-**NEXT: targeted final source-resolution pass on scan 13 only.**
+**NEXT: Batch 3 Stage 1 first-pass transcription — scans 15–19 / printed 11–15.**
 
-Use the controlling scan pixels only. The user-provided transcription may be consulted solely as a clue, never as authority. Do not start Batch 3 while the remaining scan-13 hold is open.
+Use only the controlling source pixels. Transcribe all five pages once, preserve genuine uncertainties explicitly rather than guessing, set the new pages to `needs-review`, synchronize controls, commit Stage 1, and stop before Stage 2.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
