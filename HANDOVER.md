@@ -168,11 +168,12 @@ Activation / identity:
 
 Current Tamil state:
 
-- T1: **IN PROGRESS — 6/8**
+- T1: **COMPLETE — 8/8**
 - scans **24–25 / printed 22–23**: **T1 COMPLETE / COMMITTED**
 - scans **26–27 / printed 24–25**: **T1 COMPLETE / COMMITTED**
 - scans **28–29 / printed 26–27**: **T1 COMPLETE / COMMITTED**
-- scans **30–31 / printed 28–29**: not started
+- scans **30–31 / printed 28–29**: **T1 COMPLETE / COMMITTED**
+- scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
 - Stage 2 historical-glyph audit: **0/8**
 - Stage 3 final source / visual fidelity: **0/8**
 - Stage 4 Tamil assembly / controls: not started
@@ -187,6 +188,8 @@ Durable checkpoint:
 
 `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`
 
+`stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
+
 T1 scan-24 intentionally contains one unresolved dialogue span rather than a guessed reading. It must be reopened in Stage 2 using the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and direct native source pixels.
 
 ### Small-batch execution plan
@@ -194,17 +197,17 @@ T1 scan-24 intentionally contains one unresolved dialogue span rather than a gue
 1. T1 scans 24–25 — **DONE**
 2. T1 scans 26–27 — **DONE**
 3. T1 scans 28–29 — **DONE**
-4. T1 scans 30–31 + scan-32 boundary confirmation — **NEXT**
-5. Stage 2 scans 24–27
+4. T1 scans 30–31 + scan-32 boundary confirmation — **DONE**
+5. Stage 2 scans 24–27 — **NEXT**
 6. Stage 2 scans 28–31
 7. Stage 3 + Stage 4 Tamil/source closure
 8. English only after Tamil/source closure
 
 ## Exact next activity — current
 
-Process only **T1 scans 30–31 / printed 28–29** for `விலையால் வாங்கலையோ`, and inspect scan **32** only as the next-story boundary witness.
+Begin **Stage 2 historical-glyph / difficult-reading audit scans 24–27 only** for `விலையால் வாங்கலையோ`.
 
-Commit / synchronize the final T1 batch **before** beginning Stage 2.
+Use the user-supplied historical Tamil glyph guide plus direct native / enlarged source pixels. Resolve only source-supported readings, commit and synchronize, then stop before Stage 2 scans 28–31.
 
 Do not start Story 4 `முந்நூறு ரூபாய்` yet.
 
