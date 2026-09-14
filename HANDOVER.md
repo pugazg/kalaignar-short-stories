@@ -174,10 +174,10 @@ Current Tamil state:
 - scans **28–29 / printed 26–27**: **T1 COMPLETE / COMMITTED**
 - scans **30–31 / printed 28–29**: **T1 COMPLETE / COMMITTED**
 - scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
-- Stage 2 historical-glyph audit: **0/8**
+- Stage 2 historical-glyph audit: **4/8 COMPLETE / PASS — scans 24–27**
 - Stage 3 final source / visual fidelity: **0/8**
 - Stage 4 Tamil assembly / controls: not started
-- verified pages: **0/8**
+- page statuses: **needs-review 4 / partial 4 / verified 0**
 - English: **BLOCKED**
 
 Durable checkpoint:
@@ -190,6 +190,8 @@ Durable checkpoint:
 
 `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 
+`stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`
+
 T1 scan-24 intentionally contains one unresolved dialogue span rather than a guessed reading. It must be reopened in Stage 2 using the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and direct native source pixels.
 
 ### Small-batch execution plan
@@ -198,16 +200,16 @@ T1 scan-24 intentionally contains one unresolved dialogue span rather than a gue
 2. T1 scans 26–27 — **DONE**
 3. T1 scans 28–29 — **DONE**
 4. T1 scans 30–31 + scan-32 boundary confirmation — **DONE**
-5. Stage 2 scans 24–27 — **NEXT**
-6. Stage 2 scans 28–31
+5. Stage 2 scans 24–27 — **DONE / PASS**
+6. Stage 2 scans 28–31 — **NEXT**
 7. Stage 3 + Stage 4 Tamil/source closure
 8. English only after Tamil/source closure
 
 ## Exact next activity — current
 
-Begin **Stage 2 historical-glyph / difficult-reading audit scans 24–27 only** for `விலையால் வாங்கலையோ`.
+Continue with **Stage 2 historical-glyph / difficult-reading audit scans 28–31 only** for `விலையால் வாங்கலையோ`.
 
-Use the user-supplied historical Tamil glyph guide plus direct native / enlarged source pixels. Resolve only source-supported readings, commit and synchronize, then stop before Stage 2 scans 28–31.
+Scans 24–27 are Stage-2 PASS with **14 occurrence-level textual repairs**, including the historical-`றா` correction `நன்றுக` → `நன்றாக`. Use the user-supplied historical Tamil glyph guide plus direct native / enlarged source pixels, commit and synchronize, then stop before Stage 3.
 
 Do not start Story 4 `முந்நூறு ரூபாய்` yet.
 
