@@ -16,8 +16,8 @@ Every recoverable word, punctuation mark, source spacing decision relevant to le
 
 - physical scans re-audited: **5/5**
 - recoverable page text checked word by word: **5/5**
-- source-proven corrections: **14**
-  - wording / spelling / source spacing: **7**
+- source-proven corrections: **15**
+  - wording / spelling / source spacing: **8**
   - punctuation: **7**
 - scans re-verified after correction: **5–8**
 - scan 9 recoverable text: **PASS**
@@ -79,10 +79,13 @@ Therefore the continuous phrase is:
 
 The comma after `பிறகுதான்,` is source-supported and remains unchanged.
 
-### Scan 9 / printed 5 — 2 corrections
+### Scan 9 / printed 5 — 3 corrections
 
 1. `தீட்டியுள்ள திறமையும்,` → `தீட்டியுள்ள திறமையும்.`
 2. `விதவிதமான` → `வித விதமான`
+3. `‘மத நம்பிக்கை’` → `‘மத நம்பிக்கையின்மை’`
+
+The third correction was made after the user explicitly flagged the earlier reading. A fresh enlarged native-pixel recheck shows the longer quoted form `மத நம்பிக்கையின்மை`; the shorter `மத நம்பிக்கை` reading was incomplete.
 
 The library/ownership-mark-crossed final-line span remains a terminal physical-source limitation. The re-audit did not reconstruct, import, or guess its missing wording.
 
@@ -98,7 +101,7 @@ The library/ownership-mark-crossed final-line span remains a terminal physical-s
 
 ## Supersession note
 
-This audit is newer than the original Batch-1 Stage-2/Stage-4 fidelity decisions and supersedes those earlier readings wherever the 14 corrections above conflict with them.
+This audit is newer than the original Batch-1 Stage-2/Stage-4 fidelity decisions and supersedes those earlier readings wherever the 15 corrections above conflict with them.
 
 The historical Stage-2 correction count remains part of the audit trail; it must not be treated as the current exact text without this re-audit.
 
