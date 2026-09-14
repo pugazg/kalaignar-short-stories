@@ -168,9 +168,10 @@ Activation / identity:
 
 Current Tamil state:
 
-- T1: **IN PROGRESS — 2/8**
+- T1: **IN PROGRESS — 4/8**
 - scans **24–25 / printed 22–23**: **T1 COMPLETE / COMMITTED**
-- scans **26–31 / printed 24–29**: not started
+- scans **26–27 / printed 24–25**: **T1 COMPLETE / COMMITTED**
+- scans **28–31 / printed 26–29**: not started
 - Stage 2 historical-glyph audit: **0/8**
 - Stage 3 final source / visual fidelity: **0/8**
 - Stage 4 Tamil assembly / controls: not started
@@ -181,13 +182,15 @@ Durable checkpoint:
 
 `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`
 
+`stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`
+
 T1 scan-24 intentionally contains one unresolved dialogue span rather than a guessed reading. It must be reopened in Stage 2 using the user-supplied `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and direct native source pixels.
 
 ### Small-batch execution plan
 
 1. T1 scans 24–25 — **DONE**
-2. T1 scans 26–27 — **NEXT**
-3. T1 scans 28–29
+2. T1 scans 26–27 — **DONE**
+3. T1 scans 28–29 — **NEXT**
 4. T1 scans 30–31 + scan-32 boundary confirmation
 5. Stage 2 scans 24–27
 6. Stage 2 scans 28–31
@@ -196,9 +199,9 @@ T1 scan-24 intentionally contains one unresolved dialogue span rather than a gue
 
 ## Exact next activity — current
 
-Process only **T1 scans 26–27 / printed 24–25** for `விலையால் வாங்கலையோ`.
+Process only **T1 scans 28–29 / printed 26–27** for `விலையால் வாங்கலையோ`.
 
-Commit those two page records and refresh the story / collection / root trackers **before** beginning scans 28–29.
+Commit those two page records and refresh the story / collection / root trackers **before** beginning scans 30–31.
 
 Do not start Story 4 `முந்நூறு ரூபாய்` yet.
 
