@@ -41,6 +41,8 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - Stage-3 unresolved glyph clusters: **0**
 - Stage 4 final independent check: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
 - Stage-4 source-proven corrections: **0**
+- post-closure word-by-word fidelity re-audit: **COMPLETE — 5/5**
+- post-closure source-proven corrections: **14**
 - page status: **verified 4/5; blocked 1/5 (scan 9 physical source loss)**
 - verified: **4/20**
 - blocked: **1/20**
@@ -52,8 +54,10 @@ Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
 Scans **5–9 / printed 1–5** are **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**.
 
-- scans 5–8 — **verified**
-- scan 9 — **blocked only at one physically obliterated span**
+- scans 5–8 — **verified after fresh word-by-word re-audit**
+- scan 9 — **recoverable text re-audit PASS; blocked only at one physically obliterated span**
+- word-by-word audit — [`WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`](WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md)
+- re-audit source-proven corrections — **14**
 - limitation record — [`SOURCE_LIMITATION_SCAN_009.md`](SOURCE_LIMITATION_SCAN_009.md)
 - no guessed reconstruction
 
