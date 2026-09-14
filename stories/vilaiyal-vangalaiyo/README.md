@@ -29,11 +29,12 @@ No existing canonical story was found. This workspace is therefore the canonical
 
 ## Current Tamil workflow
 
-**T1 FIRST-PASS TRANSCRIPTION — IN PROGRESS 4/8.**
+**T1 FIRST-PASS TRANSCRIPTION — IN PROGRESS 6/8.**
 
 - scans **24–25 / printed 22–23**: T1 COMPLETE / COMMITTED
 - scans **26–27 / printed 24–25**: T1 COMPLETE / COMMITTED
-- scans **28–31 / printed 26–29**: not started
+- scans **28–29 / printed 26–27**: T1 COMPLETE / COMMITTED
+- scans **30–31 / printed 28–29**: not started
 - Stage 2 historical-glyph / difficult-reading audit: not started
 - Stage 3 final source / visual-fidelity audit: not started
 - Stage 4 synchronized Tamil assembly / controls: not started
@@ -47,13 +48,13 @@ To keep every step durable and synchronized:
 
 1. T1 scans 24–25 — **COMPLETE / COMMITTED**
 2. T1 scans 26–27 — **COMPLETE / COMMITTED**
-3. T1 scans 28–29 — **NEXT**
-4. T1 scans 30–31 + confirm scan-32 next-story boundary
+3. T1 scans 28–29 — **COMPLETE / COMMITTED**
+4. T1 scans 30–31 + confirm scan-32 next-story boundary — **NEXT**
 5. Stage 2 glyph audit scans 24–27
 6. Stage 2 glyph audit scans 28–31
 7. Stage 3 + Stage 4 Tamil/source closure
 8. English only after Tamil/source closure
 
-Current checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md) and [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md).
+Current checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), and [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md).
 
-Current next small task: **T1 scans 28–29 / printed 26–27 only**.
+Current next small task: **T1 scans 30–31 / printed 28–29 + scan-32 boundary witness only**.
