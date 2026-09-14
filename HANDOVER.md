@@ -126,7 +126,7 @@ Current state:
 - unresolved source-dependent witness blockers: **0**
 - collection-level canonical-recheck backlog: **1 candidate from Story 1 only**
 
-## 1953 `தப்பிவிட்டார்கள்` — Tamil/source CLOSED / English NEXT
+## 1953 `தப்பிவிட்டார்கள்` — Tamil/source CLOSED / English IN PROGRESS
 
 Controlling attached source:
 
@@ -146,12 +146,15 @@ Source identity:
 - source type: **image-only; direct scan pixels control**
 - source PDF committed: **No**
 
-Inventory — **4/4 COMPLETE / DISPOSITIONED**:
+Tamil/source collection state: **PASS / CLOSED**.
 
-1. `தப்பிவிட்டார்கள்` — scans **7–15 / printed 5–13** — witness **CLOSED / PASS 9/9**
-2. `சபலம்` — scans **16–23 / printed 14–21** — witness **CLOSED / PASS 8/8**
-3. `விலையால் வாங்கலையோ` — scans **24–31 / printed 22–29** — canonical **TAMIL/SOURCE CLOSED / PASS 8/8**
-4. `முந்நூறு ரூபாய்` — scans **32–34 / printed 30–32** — witness **CLOSED / PASS 3/3**
+1. `தப்பிவிட்டார்கள்` — witness **CLOSED / PASS 9/9**
+2. `சபலம்` — witness **CLOSED / PASS 8/8**
+3. `விலையால் வாங்கலையோ` — canonical Tamil/source **CLOSED / PASS 8/8**
+4. `முந்நூறு ரூபாய்` — witness **CLOSED / PASS 3/3**
+
+Collection-wide unresolved source-dependent items: **0**.  
+Canonical-recheck candidates opened from this 1953 collection: **0**.
 
 ### Story 3 — `விலையால் வாங்கலையோ`
 
@@ -159,18 +162,46 @@ Canonical route:
 
 `stories/vilaiyal-vangalaiyo/`
 
-Tamil/source final state:
+Tamil/source authority:
 
-- T1 first-pass: **8/8 COMPLETE**
-- Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
-- Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS**
-- verified pages: **8/8**
+- verified page records: **8/8**
+- scans **24–31 / printed 22–29**
+- Stage 2 historical-glyph audit: **8/8 PASS**
+- Stage 3 final source audit: **8/8 PASS**
 - Stage 4 Tamil assembly / controls: **PASS / CLOSED**
 - reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
-- closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
+- source closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
 - review queue: **0 open**
-- unresolved source readings: **0**
-- English gate: **OPEN / PENDING**
+- unresolved Tamil readings: **0**
+
+English authority:
+
+- guide: `ENGLISH_TRANSLATION_GUIDE.md`
+- English path: `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`
+- review: `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`
+- collection tracker: `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
+
+Current English state:
+
+- draft coverage: **4/8 source pages**
+- completed: scans **24–27 / printed 22–25**
+- pending: scans **28–31 / printed 26–29**
+- drafted page markers: **4/4 PASS**
+- drafted physical content-boundary alignment: **4/4 PASS**
+- scan 25 three-open-circle divider: **preserved**
+- Tamil reopened during translation: **No**
+- translation review: **IN PROGRESS**
+- title treatment during draft: **Vilaiyal Vangalaiyo** (conservative transliteration; final title treatment deferred to full-story review)
+
+Source-sensitive English choices already documented include:
+
+- `அத்தான்` → **Aththan**
+- `தாசி` → **dasi**
+- `பொட்டுக்கட்டு / பொட்டு` → **pottukattu / pottu**
+- `பல்லவி / அனுபல்லவி / சரணம்` → **pallavi / anupallavi / charanam**
+- `ஜமீன்தார்` → **zamindar**
+
+The scan **24→25** physical continuation is preserved in English as **“That wretched fellow” → “won't come back to this town.”**
 
 ### Story 4 — `முந்நூறு ரூபாய்` 1953 witness
 
@@ -178,69 +209,33 @@ Witness workspace:
 
 `stories/munnuru-rupai/witnesses/1953-thappivittargal/`
 
-Source span:
+Result: **CLOSED / PASS 3/3**.
 
-- scans **32–34**
-- printed pages **30–32**
-- scan **34** is the terminal physical scan of the 1953 anthology
-
-Canonical target:
-
-- `stories/munnuru-rupai/`
-- controlling edition: **1977 first edition**
-- canonical scans **112–114 / printed 103–105**
-- canonical Tamil / English: **CLOSED / PASS**
-
-Witness result:
-
-- reviewed: **3/3**
-- narrative structure: **equivalent / complete**
-- major added / omitted narrative blocks: **0**
+- narrative structure equivalent / complete
+- major added / omitted blocks: **0**
 - alternate ending: **No**
-- unresolved source-dependent comparison items: **0**
-- canonical-recheck candidates: **0**
+- unresolved comparison items: **0**
+- canonical recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
 
-Representative variants:
-
-- 1953 `விட்டுவிட்டு செத்து விட்டாள்` ↔ 1977 `விட்டு விட்டுச் செத்து விட்டாள்`
-- 1953 `செலவளித்துக்` ↔ 1977 `செலவழித்துக்`
-- 1953 `எழுபது நாட்களாகி விட்டன` ↔ source-verified 1977 `எழுபட்டு நாட்களாகி விட்டன`
-- 1953 `நல்லவனுமிருந்தாலும்` ↔ 1977 `நல்லவனாயிருந்தாலும்`
-- 1953 `பிளேயர்ஸ் சிகரெட்டை` ↔ 1977 `பிளேயர்ஸ் சிகரெட்டைப்`
-- 1953 `வியாபாரச் செழிப்பில் வளருகிறது` ↔ 1977 `வியாபாரச் செழிப்பில் வளர்ந்தது`
-- 1953 closes with a **plain short horizontal rule**; 1977 has an **ornamental closing rule**
-
-The 1977 odd form `எழுபட்டு` was already directly revalidated in the 2026 dual-gate audit; the smoother 1953 `எழுபது` is edition evidence only and does not reopen the canonical source.
-
-### 1953 collection Tamil/source closure
-
-**PASS / CLOSED.**
-
-- existing-canonical witness comparisons: **3/3 CLOSED**
-- new canonical Story 3 Tamil/source: **CLOSED / PASS**
-- unresolved source-dependent items: **0**
-- canonical-recheck candidates opened from this collection: **0**
-- collection-wide Tamil/source release gate: **CLOSED**
-
-Under `COLLECTION_SOURCE_GUIDE.md` and `ENGLISH_TRANSLATION_GUIDE.md`, English translation for `விலையால் வாங்கலையோ` is now the automatic next phase.
+Representative variants include 1953 `எழுபது` ↔ source-verified 1977 `எழுபட்டு`, 1953 `செலவளித்துக்` ↔ 1977 `செலவழித்துக்`, and 1953 `வளருகிறது` ↔ 1977 `வளர்ந்தது`.
 
 ## Exact next activity — current
 
-Begin **English translation for `விலையால் வாங்கலையோ`**, using only the verified Tamil assembly and page records.
+Continue **English drafting for `விலையால் வாங்கலையோ` — scans 28–31 / printed 26–29 only**.
 
-To preserve the user's small-durable-task rule, process **scans 24–27 / printed 22–25 only** in the next activity:
+- read the verified Tamil page records for scans 28–31;
+- append the remaining four source-page sections to the existing English file;
+- preserve source-page markers at the exact Tamil physical boundaries;
+- preserve the internal three-open-circle dividers on scans **28** and **29**;
+- preserve the scan **29→30** split-word continuation and scan **30→31** sentence continuation at the correct marker locations;
+- preserve the scan-31 story ending;
+- update `TRANSLATION_REVIEW.md` and `ENGLISH_TRANSLATION_PROGRESS.md` to **draft complete 8/8**;
+- update story / collection / root controls;
+- commit / synchronize;
+- **stop before the full-story English fidelity / terminology review**.
 
-- create / initialize `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`;
-- retain source-page markers at the verified physical boundaries;
-- translate the four-page span faithfully from the verified Tamil;
-- create / initialize `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`;
-- create / initialize `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`;
-- mark English **in progress 4/8**;
-- commit and synchronize story / collection / root controls;
-- stop before scans **28–31**.
-
-Do not modify Tamil merely to improve the English.
+Do not alter verified Tamil merely to improve English.
 
 ## Closed source — 1956 `தாய்மை`
 
