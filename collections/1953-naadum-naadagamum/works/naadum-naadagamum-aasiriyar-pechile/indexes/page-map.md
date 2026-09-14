@@ -6,7 +6,7 @@
 | 6 | 2 | body | **verified — word-by-word re-audit PASS** |
 | 7 | 3 | body | **verified — word-by-word re-audit PASS** |
 | 8 | 4 | body | **verified — word-by-word re-audit PASS** |
-| 9 | 5 | body | **recoverable text re-audit PASS; blocked only at terminal physical-loss span** |
+| 9 | 5 | body | **verified — targeted lower-line recheck PASS** |
 | 10 | 6 | body | not-started |
 | 11 | 7 | body | not-started |
 | 12 | 8 | body | not-started |
@@ -34,11 +34,11 @@ Scans **5–9 / printed 1–5**
 - Stage 3: **COMPLETE / 5 pages**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
+- Stage 4: **COMPLETE / PASS after targeted scan-9 resolution**
 - Stage-4 source-proven corrections: **0**
-- verified: **4**
+- verified: **5**
 - needs-review: **0**
-- blocked: **1 — scan 9 physical source loss**
+- blocked: **0**
 
 ### Stage-2 disposition
 
@@ -61,20 +61,20 @@ Scans **5–9 / printed 1–5**
 ### Stage-4 disposition
 
 - scans **5–8**: **PASS / VERIFIED**
-- scan **9**: **BLOCKED — terminal physical source limitation**
+- scan **9**: **PASS / VERIFIED after targeted lower-line resolution**
 - Stage-4 source-proven corrections: **0**
 - un-dispositioned source-text spans: **0**
 - exhaustive image escalation: **performed**
-- batch closure: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
+- batch closure: **CLOSED / VERIFIED 5/5**
 
 ### Post-closure word-by-word re-audit
 
 - scans checked word by word: **5/5**
-- additional source-proven corrections: **15**
-- wording / spelling / source-spacing: **8**
+- additional source-proven corrections: **18**
+- wording / spelling / source-spacing: **11**
 - punctuation: **7**
 - scan 8→9 boundary: **resolved as `தீட்டிக்` / `காட்டிய`**
-- scan 9 physical-loss span: **unchanged**
+- scan 9 former physical-loss span: **RESOLVED**
 - guessed readings: **0**
 - durable audit: `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
 
