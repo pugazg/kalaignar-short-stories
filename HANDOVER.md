@@ -719,16 +719,18 @@ Current state:
   - durable Stage-4 record: `STAGE4_BATCH_002.md`
 - Batch 3 scans **15–19 / printed 11–15**:
   - Stage 1 first-pass transcription: **COMPLETE 5/5**
+  - Stage 2 visual text-fidelity audit: **COMPLETE 5/5**
+  - Stage-2 source-proven corrections: **7**
   - page records: **5/5**
   - page status: **needs-review 5/5**
-  - inline unresolved source spans: **0**
+  - unresolved ordinary source spans: **0**
   - guessed readings: **0**
-  - scan 15→16 boundary: **`பறி` / `கொடுத்துப்` preserved**
-  - scan 16→17 boundary: **`கொடுமைக்` / `கொடுத்து` preserved**
-  - Stage 2 visual text-fidelity audit: **NEXT**
-  - Stage 3: **NOT STARTED**
+  - scan 15→16 boundary: **PASS — `பறி` / `கொடுத்துப்`**
+  - scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
+  - Stage 3 historical Tamil glyph audit: **NEXT**
   - Stage 4: **NOT STARTED**
   - durable Stage-1 record: `STAGE1_BATCH_003.md`
+  - durable Stage-2 record: `STAGE2_BATCH_003.md`
 - later retained-work scans 20–24 / witness comparison: **NOT STARTED**
 
 Durable intake files:
@@ -844,20 +846,28 @@ Targeted scan-13 disposition:
 Scans **15–19 / printed 11–15**:
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
+- Stage-2 source-proven corrections — **7**
 - page records — **5/5**
 - page status — **needs-review 5/5**
-- inline unresolved source spans — **0**
+- unresolved ordinary source spans — **0**
 - guessed readings — **0**
-- scan 15→16 physical boundary — **`பறி` / `கொடுத்துப்` preserved**
-- scan 16→17 physical boundary — **`கொடுமைக்` / `கொடுத்து` preserved**
+- scan 15→16 physical boundary — **PASS — `பறி` / `கொடுத்துப்`**
+- scan 16→17 physical boundary — **PASS — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 record — `STAGE1_BATCH_003.md`
-- Stage 2 visual text-fidelity audit — **NEXT**
-- Stage 3 — **NOT STARTED**
+- durable Stage-2 record — `STAGE2_BATCH_003.md`
+- Stage 3 historical Tamil glyph audit — **NEXT**
 - Stage 4 — **NOT STARTED**
 
-**NEXT: Batch 3 Stage 2 visual text-fidelity audit — scans 15–19 / printed 11–15.**
+Stage-2 correction summary:
 
-Compare the committed Stage-1 pages against the controlling scan line by line / phrase by phrase, resolve source-supported ordinary fidelity issues, keep all five pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
+- scan 15: `தமிழனின்` → `தமிழரின்`
+- scan 17: `நாடகங்களை` → `நாடகங்கள்`; `கேளாக்காதர்களாக` → `கேளாக் காதர்களாக`; `மருந்துண்ணாவிட்டால்` → `மருந்துண்ணா விட்டால்`
+- scan 19: `பழமையினால்` → `பழமை மூலம்`; spacing around `ஏழை — எரிமலையாகி`; `முன்ஜன்ம` → `முன் ஜன்ம`
+
+**NEXT: Batch 3 Stage 3 historical Tamil glyph audit — scans 15–19 / printed 11–15.**
+
+Audit all mandatory historical-glyph families directly against the controlling scan, correct character identity only where source-supported, keep all pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

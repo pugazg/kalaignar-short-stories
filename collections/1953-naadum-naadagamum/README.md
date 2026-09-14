@@ -122,11 +122,12 @@ No new canonical story folder was created in this intake-only iteration.
   - Batch 2 closure: **CLOSED / VERIFIED 5/5**
   - Batch 3 scans **15–19 / printed 11–15**
   - Stage 1 first-pass: **COMPLETE 5/5**
+  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
+  - Stage-2 source-proven corrections: **7**
   - page status: **needs-review 5/5**
-  - inline unresolved source spans: **0**
+  - unresolved ordinary source spans: **0**
   - guessed readings: **0**
-  - Stage 2 visual text-fidelity: **NEXT**
-  - Stage 3: **NOT STARTED**
+  - Stage 3 historical glyph: **NEXT**
   - Stage 4: **NOT STARTED**
 - later retained-work scans **20–24**: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
@@ -134,10 +135,10 @@ No new canonical story folder was created in this intake-only iteration.
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 2 visual text-fidelity audit**, scans **15–19 / printed 11–15**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 3 historical Tamil glyph audit**, scans **15–19 / printed 11–15**.
 
 Batch 1 scans 5–9 and Batch 2 scans 10–14 remain **CLOSED / VERIFIED 10/10**.
 
-Batch 3 Stage 1 is durably **COMPLETE 5/5**. All five pages are `needs-review`, no inline source span was left unresolved, and guessed readings remain 0. The physical joins `பறி` / `கொடுத்துப்` and `கொடுமைக்` / `கொடுத்து` are preserved.
+Batch 3 Stage 2 is durably **COMPLETE 5/5** with **7 source-proven ordinary-fidelity corrections**. All five pages remain `needs-review`; unresolved ordinary source spans and guessed readings are both 0. Both physical joins are confirmed.
 
-Run Stage 2 only, synchronize controls, commit, and stop before Stage 3.
+Run Stage 3 only, synchronize controls, commit, and stop before Stage 4.

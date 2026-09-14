@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 3 Stage 2 scans 15–19
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 3 Stage 3 scans 15–19
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -40,41 +40,42 @@ Workspace:
 ### Batch 3 — scans 15–19 / printed 11–15
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
+- Stage-2 source-proven corrections — **7**
 - page records — **5/5**
 - page status — **needs-review 5/5**
-- inline unresolved source spans — **0**
+- unresolved ordinary source spans — **0**
 - guessed readings — **0**
-- scan 15→16 boundary — **`பறி` / `கொடுத்துப்` preserved**
-- scan 16→17 boundary — **`கொடுமைக்` / `கொடுத்து` preserved**
+- scan 15→16 boundary — **PASS — `பறி` / `கொடுத்துப்`**
+- scan 16→17 boundary — **PASS — `கொடுமைக்` / `கொடுத்து`**
 - durable Stage-1 record — `STAGE1_BATCH_003.md`
-- Stage 2 visual text-fidelity audit — **NEXT**
-- Stage 3 historical-glyph audit — **NOT STARTED**
-- Stage 4 final independent check — **NOT STARTED**
+- durable Stage-2 record — `STAGE2_BATCH_003.md`
+- Stage 3 historical Tamil glyph audit — **NEXT**
+- Stage 4 final independent source check — **NOT STARTED**
 
-Stage-2 review queue from Stage 1 includes:
+Stage-2 correction summary:
 
-- scan 15 — `கோவர்த்தன கிரியைச் சுட்டு விரலால்`; punctuation around `சதி—அனுசுயா` / `சதி—அகல்யா`; `தன்னம்பிக்கைபெற`; scan 15→16 boundary;
-- scan 16 — `காரண மென்ன?`; `‘வேதனைச் சித்திரங்கள்’`; `என்பதையும்`; `நிலைக்குத்தள்ளப்பட்டும்`; scan 16→17 boundary;
-- scan 17 — `கூரம்புகள்`; `இந்தப்பணியில்`; `கேளாக்காதர்களாக`; `கஷ்டந்தான்`; `மருந்துண்ணாவிட்டால்`;
-- scan 18 — `உட்கொள்ளத் தான்`; `கருத்தும்கலந்து`; `கண்மூடிப் பக்தர்களும்`; `கேளாக்காதர்களுங்கூட`; `வளர்த்ததின் அறிகுறியே`; `என்று தான்`;
-- scan 19 — `அறிவையூட்டும்`; `பழமையினால்`; `பாதந்தாங்கிடும்`; punctuation around `ஏழை—எரிமலையாகி`; `முன்ஜன்ம`; `கிலி`.
+- scan 15 — `தமிழனின்` → `தமிழரின்`
+- scan 17 — `நாடகங்களை` → `நாடகங்கள்`; `கேளாக்காதர்களாக` → `கேளாக் காதர்களாக`; `மருந்துண்ணாவிட்டால்` → `மருந்துண்ணா விட்டால்`
+- scan 19 — `பழமையினால்` → `பழமை மூலம்`; `ஏழை—எரிமலையாகி` → `ஏழை — எரிமலையாகி`; `முன்ஜன்ம` → `முன் ஜன்ம`
 
 ## Exact next activity
 
-Run **Batch 3 Stage 2 visual text-fidelity audit** for scans **15–19 / printed 11–15**.
+Run **Batch 3 Stage 3 historical Tamil glyph audit** for scans **15–19 / printed 11–15**.
 
 1. fetch live `main`;
-2. reread the permanent workflow/fidelity guides, `HANDOVER.md`, this prompt, the active-work README, `indexes/page-map.md`, and `STAGE1_BATCH_003.md`;
+2. reread the historical-glyph guide, workflow/fidelity guides, `HANDOVER.md`, this prompt, the active-work README, `indexes/page-map.md`, `STAGE1_BATCH_003.md`, and `STAGE2_BATCH_003.md`;
 3. use only the controlling PDF/native scan pixels as authority;
-4. compare the committed Stage-1 transcription against scans 15–19 line by line / phrase by phrase;
-5. check omissions, duplicated text, wrong words/letters, punctuation, paragraph boundaries, source spelling/spacing, and physical page joins;
-6. specifically adjudicate the Stage-1 review queue and both physical continuations;
-7. correct only source-supported ordinary fidelity issues;
+4. explicitly audit all mandatory historical-glyph families:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. inspect full words/phrases rather than isolated glyph guesses;
+6. correct character identity only when the scan supports it;
+7. do not modernize spelling or spacing;
 8. keep all five pages `needs-review`;
-9. create `STAGE2_BATCH_003.md` and synchronize work/collection/root trackers;
-10. commit Stage 2 and stop.
+9. create `STAGE3_BATCH_003.md` and synchronize work/collection/root trackers;
+10. commit Stage 3 and stop.
 
-Do **not** start Stage 3 in the same activity.
+Do **not** begin Stage 4 in the same activity.
 
 After the prose/discourse work closes through scan 24, retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** remains next in source order.
 
