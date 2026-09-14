@@ -4,13 +4,13 @@ printed_page: 29
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story-ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
-ஏமாற்றப்போகிறார் என்று அவன் மனதில் எண்ணம் தோன்றிற்று.
+ஏமாற்றப்போகிறார் என்று அவன் மனதில் என்ன எண்ணம் தோன்றிற்று.
 
 வீட்டுக்குள் நுழைந்தார்கள்.
 
@@ -20,11 +20,11 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 
 அவன் முகமெல்லாம் ரத்தக் கறைகளோடு... பைத்தியம் பிடித்தவன் போல்... ஆடினான்.
 
-எல்லோரும் உள்ளே நுழைந்தார்கள். லக்ஷ்மி பிணமாகக் கிடந்தாள்.
+எல்லோரும் உள்ளே நுழைந்தார்கள். லக்ஷ்மி பிணமாகக் கிடந்தாள்,
 
 வைரக்கண்ணு கைது செய்யப்பட்டான்.
 
-“திருடன்! கொலைகாரன்!” சப் இன்ஸ்பெக்டரின் சண்டமாருத ஒலிகள்!
+“திருடன்!கொலைகாரன்!” சப் இன்ஸ்பெக்டரின் சண்டமாருத ஒலிகள்!
 
 “பாவிப்பயல்....ஒரு அழகான பெண்ணை நகைகளுக்காகக் கொலை செய்திருக்கின்றாய்யா.”
 
@@ -68,3 +68,19 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - circular physical losses on the page were re-inspected; the retained wording is supported by surviving strokes / unaffected neighboring print;
 - no global replacement or lexical modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the complete story-ending page was independently re-read from native / enlarged source pixels;
+- scan-30→31 continuation, every paragraph, circular physical losses, story-ending sentence and absence of a terminal ornament were checked;
+- Stage-2 historical-`னா` / `றா` readings `எழுப்பினான்`, `அலறினான்`, `ஆடினான்`, `கூறினார்கள் இப்படி`, and `ஏமாற்றப்போகிறார் என்று` were independently revalidated;
+- Stage-3 source-fidelity corrections:
+  1. restored omitted `என்ன`: `அவன் மனதில் என்ன எண்ணம் தோன்றிற்று.`;
+  2. `லக்ஷ்மி பிணமாகக் கிடந்தாள்.` → source punctuation `லக்ஷ்மி பிணமாகக் கிடந்தாள்,`;
+  3. `திருடன்! கொலைகாரன்!` → source `திருடன்!கொலைகாரன்!`;
+- `பதிலவரவில்லை`, `சண்டமாருத`, the long explanatory sentence, and final `விலையால் வாங்கலையோ வளையல்` remain source-supported;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
