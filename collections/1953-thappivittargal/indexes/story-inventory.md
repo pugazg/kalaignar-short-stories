@@ -7,7 +7,7 @@ No printed contents page is visible. Story identity is controlled by source-visi
 | 1 | — | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | `stories/thappivittargal/` | **witness CLOSED / PASS — 9/9** |
 | 2 | — | `சபலம்` | 14–21 | 16–23 | `stories/sabalam/` | **witness CLOSED / PASS — 8/8** |
 | 3 | — | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | `stories/vilaiyal-vangalaiyo/` | **canonical TAMIL/SOURCE CLOSED / PASS — 8/8** |
-| 4 | — | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | `stories/munnuru-rupai/` | witness NOT STARTED |
+| 4 | — | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | `stories/munnuru-rupai/` | **witness CLOSED / PASS — 3/3** |
 
 ## Deduplication result
 
@@ -38,16 +38,15 @@ For `விலையால் வாங்கலையோ`, the fresh repository
 
 ## Current frontier
 
-Completed: **Story 3 `விலையால் வாங்கலையோ` — CANONICAL TAMIL/SOURCE CLOSED / PASS 8/8**
+**1953 COLLECTION TAMIL / SOURCE PHASE CLOSED / PASS.**
 
-- canonical route: `stories/vilaiyal-vangalaiyo/`
-- T1 complete: scans **24–31 / printed 22–29**
-- scan **32** boundary: **CONFIRMED — `முந்நூறு ரூபாய்` opens**
-- Stage 2 complete: scans **24–31 / printed 22–29 — PASS 8/8**
-- Stage 3 verified: scans **24–31 / printed 22–29 — PASS 8/8**
-- page statuses: **needs-review 0 / partial 0 / verified 8**
-- Stage 4 Tamil assembly / controls: **PASS / CLOSED**
-- reading layer / source closure: **COMPLETE**
-- next small task: **Story 4 `முந்நூறு ரூபாய்` witness comparison, scans 32–34 / printed 30–32**
-- Story 4 witness remains NOT STARTED
-- collection-wide Tamil/source gate: **OPEN pending Story 4 witness**
+- Story 1 `தப்பிவிட்டார்கள்` witness: **CLOSED / PASS 9/9**
+- Story 2 `சபலம்` witness: **CLOSED / PASS 8/8**
+- Story 3 `விலையால் வாங்கலையோ` canonical Tamil/source: **CLOSED / PASS 8/8**
+- Story 4 `முந்நூறு ரூபாய்` witness: **CLOSED / PASS 3/3**
+- existing-canonical witness comparisons: **3/3 COMPLETE**
+- canonical-recheck candidates opened from this 1953 collection: **0**
+- collection-wide unresolved source-dependent items: **0**
+- collection-wide Tamil/source gate: **CLOSED**
+- automatic next phase: **English translation — `விலையால் வாங்கலையோ`**
+- next small batch: **English scans 24–27 / printed 22–25**
