@@ -48,11 +48,14 @@ No duplicate canonical story workspace remains.
 - canonical-recheck candidates opened from this 1953 collection: **0**
 - collection-wide unresolved source-dependent items: **0**
 - collection-wide Tamil/source gate: **CLOSED**
-- English phase: **IN PROGRESS — `விலையால் வாங்கலையோ` full-story review PASS**
+- English phase: **CLOSED / PASS — `விலையால் வாங்கலையோ` complete**
 - English drafted: scans **24–31 / printed 22–29 — 8/8**
 - reviewed English title: **Bought for a Price?**
 - full-story English refinements: **30**
 - unresolved English fidelity / terminology issues: **0**
 - draft markers / physical boundary alignment: **PASS 8/8**
-- next activity: **physical page-anchor validation / final English closure**
+- final page-anchor validation / English closure: **PASS / CLOSED**
+- page-anchor manifest: `../../stories/vilaiyal-vangalaiyo/translations/en/page-anchors.json`
+- validator regression: **PASS → expected anchor FAIL → PASS**
+- English targets remaining: **0**
 - collection English tracker: `../ENGLISH_TRANSLATION_PROGRESS.md`
