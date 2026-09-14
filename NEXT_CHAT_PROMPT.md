@@ -53,7 +53,13 @@ Intake is **COMPLETE**:
 - scan 9 — **VERIFIED**
 - scan 9 former physical-loss span — **RESOLVED**
 - guessed reconstruction — **0**
-- remaining transcription / witness comparison — **NOT STARTED**
+- Batch 2 scans **10–14 / printed 6–10** Stage 1 — **COMPLETE 5/5**
+- Batch 2 page status — **needs-review 5/5**
+- Batch 2 explicit unresolved first-pass spans — **3 — scan 13**
+- Batch 2 scan 13→14 boundary — **`சாதனங்` / `களையும்` preserved**
+- Batch 2 guessed readings — **0**
+- Batch 2 Stage 2 visual fidelity — **NEXT**
+- remaining later transcription / witness comparison — **NOT STARTED**
 
 The publication is mixed:
 
