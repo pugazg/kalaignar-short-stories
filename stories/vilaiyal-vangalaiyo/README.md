@@ -38,8 +38,8 @@ No existing canonical story was found. This workspace is therefore the canonical
 - scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
 - Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
 - Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
-- Stage 4 synchronized Tamil assembly / controls: not started
-- English: **BLOCKED until Tamil/source closure**
+- Stage 4 synchronized Tamil assembly / controls: **PASS / CLOSED**
+- English: **BLOCKED by collection-wide Tamil-first gate until Story 4 witness closes**
 
 After Stage 3, all **8/8** page records are `verified`.
 
@@ -55,8 +55,8 @@ To keep every step durable and synchronized:
 6. Stage 2 glyph audit scans 28–31 — **COMPLETE / PASS**
 7. Stage 3 final source / visual-fidelity audit scans 24–27 — **COMPLETE / PASS / VERIFIED**
 8. Stage 3 scans 28–31 — **COMPLETE / PASS / VERIFIED**
-9. Stage 4 Tamil assembly / controls — **NEXT**
-10. English only after Tamil/source closure
+9. Stage 4 Tamil assembly / controls — **COMPLETE / PASS / CLOSED**
+10. English — **DEFERRED until collection-wide Tamil/source gate closes**
 Current T1 checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md), and [`T1_BATCH_030_031.md`](T1_BATCH_030_031.md).
 
 Stage-2 checkpoints: [`STAGE2_BATCH_024_027.md`](STAGE2_BATCH_024_027.md) and [`STAGE2_BATCH_028_031.md`](STAGE2_BATCH_028_031.md).
@@ -67,4 +67,18 @@ Stage-3 checkpoints: [`STAGE3_BATCH_024_027.md`](STAGE3_BATCH_024_027.md) and [`
 
 Stage-3 cumulative result: **8/8 VERIFIED / 13 final source-fidelity corrections / 0 unresolved**.
 
-Current next small task: **Stage 4 Tamil assembly / controls only**.
+## Tamil reading layer / source closure
+
+- reading layer: [`sections/vilaiyal-vangalaiyo.md`](sections/vilaiyal-vangalaiyo.md)
+- closure record: [`TAMIL_SOURCE_CLOSURE.md`](TAMIL_SOURCE_CLOSURE.md)
+- review queue: [`POSSIBLE_ERRORS_FOR_REVIEW.md`](POSSIBLE_ERRORS_FOR_REVIEW.md) — **0 open**
+- verified pages assembled: **8/8**
+- scan / printed-page provenance markers: **8/8**
+- internal three-circle dividers: **3 / PASS**
+- physical continuations: **3 / PASS**
+- scan 31 ending boundary: **PASS**
+- scan 32 forward boundary: **excluded / opens `முந்நூறு ரூபாய்`**
+- unresolved source readings: **0**
+- Tamil/source status: **PASS / CLOSED**
+
+Because this anthology is being processed Tamil-first collection-wide, English does **not** begin yet. The remaining Tamil/source activity is the 1953 witness comparison for Story 4 `முந்நூறு ரூபாய்`.
