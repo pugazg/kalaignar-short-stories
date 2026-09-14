@@ -175,9 +175,9 @@ Current Tamil state:
 - scans **30–31 / printed 28–29**: **T1 COMPLETE / COMMITTED**
 - scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
 - Stage 2 historical-glyph audit: **8/8 COMPLETE / PASS**
-- Stage 3 final source / visual fidelity: **4/8 COMPLETE / PASS — scans 24–27 VERIFIED**
+- Stage 3 final source / visual fidelity: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
 - Stage 4 Tamil assembly / controls: not started
-- page statuses: **needs-review 4 / partial 0 / verified 4**
+- page statuses: **needs-review 0 / partial 0 / verified 8**
 - English: **BLOCKED**
 
 Durable checkpoint:
@@ -196,6 +196,8 @@ Durable checkpoint:
 
 `stories/vilaiyal-vangalaiyo/STAGE3_BATCH_024_027.md`
 
+`stories/vilaiyal-vangalaiyo/STAGE3_BATCH_028_031.md`
+
 Stage 2 resolved all previously deferred T1 difficult readings. Stage 3 scans 24–27 independently revalidated them; those four pages are now verified with **5 final source-fidelity corrections** and **0 unresolved readings**.
 
 ### Small-batch execution plan
@@ -207,15 +209,15 @@ Stage 2 resolved all previously deferred T1 difficult readings. Stage 3 scans 24
 5. Stage 2 scans 24–27 — **DONE / PASS**
 6. Stage 2 scans 28–31 — **DONE / PASS**
 7. Stage 3 scans 24–27 — **DONE / PASS / VERIFIED**
-8. Stage 3 scans 28–31 — **NEXT**
-9. Stage 4 Tamil assembly / controls
+8. Stage 3 scans 28–31 — **DONE / PASS / VERIFIED**
+9. Stage 4 Tamil assembly / controls — **NEXT**
 10. English only after Tamil/source closure
 
 ## Exact next activity — current
 
-Continue with **Stage 3 final source / visual-fidelity audit scans 28–31 only** for `விலையால் வாங்கலையோ`.
+Begin **Stage 4 Tamil assembly / controls only** for `விலையால் வாங்கலையோ`.
 
-Stage 3 scans 24–27 are **PASS / VERIFIED 4/4** with **5 final source-fidelity corrections** and **0 unresolved readings**. Independently re-read scans 28–31 from direct native / enlarged source pixels, promote only source-clean pages to `verified`, commit and synchronize, then stop before Stage 4.
+Stage 3 is now **8/8 COMPLETE / PASS / VERIFIED** with **13 final source-fidelity corrections** and **0 unresolved readings**. Assemble the verified page records into the canonical Tamil reading layer, validate provenance / scan order / printed-page order / continuations / internal dividers / ending, create closure controls, commit and synchronize, then stop before English.
 
 Do not start Story 4 `முந்நூறு ரூபாய்` yet.
 
