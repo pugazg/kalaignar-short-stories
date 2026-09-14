@@ -162,10 +162,10 @@ Scans **15–19 / printed 11–15**
 
 ### Stage-2 disposition
 
-- scan 15: **1 correction — `தமிழனின்` → `தமிழரின்`**
+- scan 15: **0 corrections — Stage-1 `தமிழனின் சரித்திரத்தை` confirmed**
 - scan 16: **0 corrections**
-- scan 17: **3 corrections**
-- scan 18: **0 corrections**
+- scan 17: **3 corrections — `கேளாக் காதர்களாக`; `மருந்துண்ணா விட்டால்`; final `தீர்ந்துவிடுமோ?`**
+- scan 18: **1 correction — `கேளாக் காதர்களுங்கூட`**
 - scan 19: **3 corrections**
 - unresolved ordinary source spans: **0**
 - guessed readings: **0**

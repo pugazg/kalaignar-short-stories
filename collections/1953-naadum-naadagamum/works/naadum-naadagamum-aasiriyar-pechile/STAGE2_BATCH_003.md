@@ -21,11 +21,11 @@ No OCR, web copy, Wikisource, catalogue text, alternate edition, or contextual c
 
 ## Source-proven corrections
 
-### Scan 15 / printed 11 — 1
+### Scan 15 / printed 11 — 0
 
-- `தமிழனின் சரித்திரத்தை` → `தமிழரின் சரித்திரத்தை`
+No ordinary-fidelity correction was required.
 
-The Stage-1 queue around `கோவர்த்தன கிரியைச் சுட்டு விரலால்`, `சதி—அனுசுயா` / `சதி—அகல்யா`, and `தன்னம்பிக்கைபெற` was directly rechecked and retained.
+Direct source recheck confirms `தமிழனின் சரித்திரத்தை`, `கோவர்த்தன கிரியைச் சுட்டு விரலால்`, `சதி—அனுசுயா` / `சதி—அகல்யா`, and `தன்னம்பிக்கைபெற`.
 
 The scan 15→16 physical continuation is confirmed:
 
@@ -50,22 +50,21 @@ The scan 16→17 physical continuation is confirmed:
 
 ### Scan 17 / printed 13 — 3
 
-- `நாடகங்களை நடிக்கவேண்டும்` → `நாடகங்கள் நடிக்கவேண்டும்`
 - `கேளாக்காதர்களாக` → `கேளாக் காதர்களாக`
 - `மருந்துண்ணாவிட்டால்` → `மருந்துண்ணா விட்டால்`
+- final `தீர்ந்துவிடுமா?` → `தீர்ந்துவிடுமோ?`
 
-The source-visible forms `கூரம்புகள்`, `இந்தப்பணியில்`, and `கஷ்டந்தான்` are retained.
+Direct source recheck confirms Stage-1 `நாடகங்களை நடிக்கவேண்டும்`. The source-visible forms `கூரம்புகள்`, `இந்தப்பணியில்`, and `கஷ்டந்தான்` are retained.
 
-### Scan 18 / printed 14 — 0
+### Scan 18 / printed 14 — 1
 
-No ordinary-fidelity correction was required.
+- `கேளாக்காதர்களுங்கூட` → `கேளாக் காதர்களுங்கூட`
 
 Direct review confirms:
 
 - `உட்கொள்ளத் தான்`
 - `கருத்தும்கலந்து`
 - `கண்மூடிப் பக்தர்களும்`
-- `கேளாக்காதர்களுங்கூட`
 - `வளர்த்ததின் அறிகுறியே`
 - `என்று தான்`
 
