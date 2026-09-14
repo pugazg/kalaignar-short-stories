@@ -33,20 +33,23 @@ Only Stage 4 may promote pages to `verified`.
 Batch 1 = scans **5–9 / printed 1–5**.
 
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
-- Stage 2 visual text-fidelity audit: **NOT STARTED**
+- Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
+- Stage-2 source-proven corrections: **16**
+- Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
 - Stage 3 historical-glyph audit: **NOT STARTED**
 - Stage 4 final independent check: **NOT STARTED**
 - page status: **needs-review 5/5**
 - verified: **0/20**
 - blocked: **0**
-- unresolved Stage-1 review notes: **present; none treated as terminal**
 
 Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
 ## Exact next activity
 
-Run **Stage 2 visual text-fidelity audit** for the same Batch 1 scans **5–9 / printed 1–5**.
+Run **Stage 3 historical Tamil glyph audit** for the same Batch 1 scans **5–9 / printed 1–5**.
 
-Reopen all five scans and compare the committed Stage-1 transcription line-by-line / phrase-by-phrase. Resolve ordinary omissions, wrong letters/words, punctuation, paragraph boundaries, page continuations and source marks where the scan supports a reading.
+Explicitly audit historical identities such as `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` directly against the source pixels. Do not use global replacement or modernize spelling.
 
-Keep all five pages `needs-review`; do **not** perform the Stage-3 historical-glyph pass in the same activity.
+Keep all five pages `needs-review`; do **not** perform Stage 4 or begin scans 10–14 in the same activity.
+
+Stage-2 audit record: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)
