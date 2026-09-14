@@ -4,10 +4,10 @@ printed_page: 24
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 “சமுதாயம்!......நல்ல சமுதாயம்......கெடுகெட்ட
@@ -20,11 +20,11 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 கடன் வட்டியும் முதலுமா நாளைக்குக் கீழே வைக்கா
 விட்டால் தம்பி...கம்பி எண்ணணும் ஜாக்கிரதை.”
 
-வைரக்கண்ணுவின் நெஞ்சிலே இந்தக் காரசாரமான எச்சரிக்கை இடியென முழங்கிக்கொண்டிருந்தது.
+வைரக்கண்ணுவின் நெஞ்சிலே இந்தக் காரசாரமான எச்சரிக்கை இடியெனமுழங்கிக்கொண்டிருந்தது.
 
 பத்திரிகை நடத்துவதற்காக அரியநாயக முதலியாரிடம் வாங்கிய கடன் ஐநூறு ரூபாய் திருப்பித் தரப்படாததால் ஏற்பட்ட அபாய அறிவிப்பு இது!
 
-நீண்ட மெளனத்திற்குப் பிறகு ஒரு நீளமான பெருமூச்சு. அவன் கண்கள் குளமாகிக் கன்னத்தில் இரண்டு நீர்த் துளிகள் தொத்திக் கொண்டிருந்தன.
+நீண்ட மெளனத்திற்குப் பிறகு ஒருநீளமானபெருமூச்சு. அவன்கண்கள் குளமாகிக் கன்னத்தில் இரண்டு நீர்த் துளிகள் தொத்திக் கொண்டிருந்தன.
 
 மேசையில் கிடந்த ஒரு கடிதத்தை எடுத்துப் பிரித்தான். அந்தக் கடிதத்தின் மடிப்புகள் இழிந்திருந்தன. அத்தனை முறை அதைப் படித்திருக்கிறான் போலும்.
 
@@ -66,3 +66,19 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - source spelling `லக்ஷ்மி` restored where T1 had `லட்சுமி`;
 - no semantic inference, global replacement or modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the complete page was independently re-read from the controlling native / enlarged scan;
+- every paragraph, quotation, punctuation boundary, old-form cluster and the scan-internal physical line breaks were checked;
+- Stage-2 recovery `இந்த இதய ஒலிகள் ஒன்றோடொன்று பின்னிக் கொண்டன.` and source `லக்ஷ்மி` were independently revalidated;
+- Stage-3 source-fidelity corrections:
+  1. `இடியென முழங்கிக்கொண்டிருந்தது` → `இடியெனமுழங்கிக்கொண்டிருந்தது`;
+  2. `ஒரு நீளமான பெருமூச்சு` → `ஒருநீளமானபெருமூச்சு`;
+  3. `அவன் கண்கள்` → `அவன்கண்கள்`;
+- these are source-visible joining corrections, not lexical modernization;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
