@@ -48,7 +48,7 @@ Intake is **COMPLETE**:
 - Stage-3 character-identity corrections — **0**
 - Stage 4 — **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
 - post-closure word-by-word visual fidelity re-audit — **COMPLETE 5/5**
-- re-audit source-proven corrections — **14**
+- re-audit source-proven corrections — **15**
 - scans 5–8 — **RE-VERIFIED**
 - scan 9 recoverable text — **PASS**
 - scan 9 terminal physical-loss span — **BLOCKED / UNCHANGED**
@@ -86,12 +86,18 @@ Workspace:
 Batch 1 scans **5–9 / printed 1–5** is closed after the user-requested **word-by-word visual fidelity re-audit**:
 
 - scans checked — **5/5**
-- additional source-proven corrections — **14**
+- additional source-proven corrections — **15**
 - scans 5–8 — **RE-VERIFIED**
 - scan 9 recoverable text — **PASS**
 - scan 9 physical-loss span — **BLOCKED / UNCHANGED**
 - guessed reconstruction — **0**
 - durable audit — `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
+
+Targeted scan-9 phrase correction:
+
+- earlier incomplete reading — `‘மத நம்பிக்கை’ என்ற போர்வை`
+- corrected source-visible reading — **`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`**
+- physical-loss span remains after `போர்வை`; no obscured wording was guessed
 
 Important boundary correction:
 
