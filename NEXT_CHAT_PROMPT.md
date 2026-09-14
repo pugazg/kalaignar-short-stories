@@ -1,49 +1,37 @@
-# NEXT CHAT PROMPT — `விலையால் வாங்கலையோ` / English batch scans 28–31
+# NEXT CHAT PROMPT — `விலையால் வாங்கலையோ` / full-story English fidelity review
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Phase state
+## Durable phase state
 
-The 1953 `தப்பிவிட்டார்கள்` collection-wide Tamil/source phase is **CLOSED / PASS**.
+The 1953 `தப்பிவிட்டார்கள்` Tamil/source phase is **CLOSED / PASS**.
 
-All four stories are dispositioned:
+`விலையால் வாங்கலையோ` Tamil/source:
 
-1. `தப்பிவிட்டார்கள்` — witness **CLOSED / PASS 9/9**
-2. `சபலம்` — witness **CLOSED / PASS 8/8**
-3. `விலையால் வாங்கலையோ` — canonical Tamil/source **CLOSED / PASS 8/8**
-4. `முந்நூறு ரூபாய்` — witness **CLOSED / PASS 3/3**
-
-Collection-wide unresolved source-dependent items: **0**.
-
-## Tamil authority
-
-Canonical story:
-
-`stories/vilaiyal-vangalaiyo/`
-
-Verified Tamil assembly:
-
-`stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
-
-Source closure:
-
-`stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
-
-Review queue:
-
-`stories/vilaiyal-vangalaiyo/POSSIBLE_ERRORS_FOR_REVIEW.md` — **0 open**
-
-Tamil/source state:
-
-- source scans **24–31 / printed 22–29**
-- verified page records: **8/8**
+- scans **24–31 / printed 22–29**
+- verified pages: **8/8**
+- Tamil assembly: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
+- source closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
+- Tamil review queue: **0 open**
 - unresolved Tamil readings: **0**
-- Tamil/source closure: **PASS / CLOSED**
-- Tamil must not be changed merely to improve English
 
-## English workflow authority
+English draft:
 
-Read before continuing:
+- path: `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`
+- draft coverage: **8/8 COMPLETE**
+- review path: `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`
+- collection tracker: `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
+- page markers present / ordered: **PASS 8/8**
+- draft-stage physical boundary alignment: **PASS 8/8**
+- three-open-circle dividers: **PASS 3/3**
+- Tamil reopened during drafting: **No**
+- current state: **IN PROGRESS — DRAFT COMPLETE / REVIEW NEXT**
+
+Working English title: **Vilaiyal Vangalaiyo**.
+
+## Mandatory review authority
+
+Read before editing:
 
 - `ENGLISH_TRANSLATION_GUIDE.md`
 - `SHORT_STORY_PROCESSING_GUIDE.md`
@@ -51,87 +39,47 @@ Read before continuing:
 - root `HANDOVER.md`
 - this prompt
 - `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
-- story README / Tamil assembly / source closure / review queue / page map
-- current English draft and `TRANSLATION_REVIEW.md`
-- verified Tamil page records for scans 28–31
+- story README / source closure / Tamil review queue / page map
+- complete verified Tamil assembly
+- complete English draft
+- current `TRANSLATION_REVIEW.md`
 
-English paths:
-
-- translation: `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`
-- review: `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`
-
-## Durable English state
-
-Current draft coverage: **4/8 source pages**.
-
-Completed:
-
-- scan 24 / printed 22
-- scan 25 / printed 23
-- scan 26 / printed 24
-- scan 27 / printed 25
-
-Current draft validation:
-
-- page markers present / ordered: **PASS 4/4**
-- physical content-boundary alignment: **PASS 4/4**
-- scan 24→25 continuation: **PASS**
-- scan-25 internal three-open-circle divider: **PASS**
-- Tamil reopened during translation: **No**
-- translation review: **IN PROGRESS**
-
-Draft title treatment:
-
-**Vilaiyal Vangalaiyo** — conservative transliteration pending full-story title review.
-
-Source-sensitive choices already documented include `Aththan`, `dasi`, `pottukattu / pottu`, `pallavi / anupallavi / charanam`, and `zamindar`.
-
-## User-requested small-durable-task rule
-
-Keep English work in committed units.
-
-Sequence:
-
-1. English scans 24–27 — **DONE / COMMITTED**
-2. English scans 28–31 — **CURRENT**
-3. full-story English fidelity / terminology review
-4. physical page-anchor validation / final English closure
+Do not use OCR, web text, outside editions, or general historical assumptions to rewrite the translation.
 
 ## Exact next activity
 
-Process **English translation only for verified Tamil scans 28–31 / printed 26–29**.
+Perform **full-story English fidelity / terminology review only**.
 
 1. Fetch live `main`.
-2. Read the four verified Tamil page records:
-   - `pages/0028-vilaiyal-vangalaiyo-05.md`
-   - `pages/0029-vilaiyal-vangalaiyo-06.md`
-   - `pages/0030-vilaiyal-vangalaiyo-07.md`
-   - `pages/0031-vilaiyal-vangalaiyo-08.md`
-3. Read the existing English draft through scan 27 and continue it; do not rewrite the completed first batch unless a translation inconsistency requires a documented refinement.
-4. Translate the complete verified Tamil content of scans **28–31 only**.
-5. Retain page markers at the exact verified Tamil physical boundaries:
-   - source scan 28 / printed 26
-   - source scan 29 / printed 27
-   - source scan 30 / printed 28
-   - source scan 31 / printed 29
-6. Preserve source-significant structure:
-   - scan 28 internal three-open-circle divider;
-   - scan 29 internal three-open-circle divider;
-   - scan 29→30 split-word physical continuation `சொன்` → `ணன்.`;
-   - scan 30→31 continuation `சப் இன்ஸ்பெக்டர் சரியானபடி` → `ஏமாற்றப்போகிறார் என்று...`;
-   - scan 31 story-ending sentence.
-7. Do not translate running headers, printed page numbers or audit notes.
-8. Translate only the verified Tamil; do not import outside historical/cultural correction.
-9. If English exposes a likely Tamil issue, stop that span and reopen Tamil only under the source guide.
-10. Update `TRANSLATION_REVIEW.md` to record:
-    - draft completeness **8/8**;
-    - markers **8/8 present / ordered**;
-    - physical-boundary status for the newly drafted four-page span;
-    - difficult terms / title choices from scans 28–31;
-    - Tamil reopened during translation: Yes/No.
-11. Update `ENGLISH_TRANSLATION_PROGRESS.md` to **draft complete 8/8 — full-story review NEXT**.
+2. Re-read the full verified Tamil assembly from scan 24 through scan 31.
+3. Re-read the full English draft in the same order.
+4. Check every paragraph and dialogue turn for:
+   - omission or duplication;
+   - meaning fidelity;
+   - tone / irony / rhetorical repetition;
+   - names and pronouns;
+   - cultural-term consistency;
+   - paragraph / divider structure;
+   - accidental over-interpretation or explanatory prose inside the story.
+5. Adjudicate the working title **Vilaiyal Vangalaiyo** together with the final Tamil refrain `விலையால் வாங்கலையோ வளையல்`; document the final choice.
+6. Explicitly review difficult choices already flagged:
+   - `Aththan`;
+   - `dasi`;
+   - `pottukattu / pottu`;
+   - `pallavi / anupallavi / charanam`;
+   - `zamindar`;
+   - `வீரலக்ஷ்மி` currently rendered `brave Lakshmi`;
+   - `இன்பபுரி` currently rendered `a city of bliss`;
+   - `நாட்டு சோக்காளி வாழ்க்கை` currently rendered `the life of a “country dandy”`;
+   - `கண்ணைத் திறந்து கேளப்பா` currently rendered `Open your eyes and name a proper price, man.`;
+   - final refrain currently rendered `Were you bought for a price, bangle?`.
+7. Preserve all eight source-page markers and all three three-open-circle dividers while reviewing prose.
+8. Do not shift physical page markers in this review unless an English content-boundary defect is discovered; if one is found, document it for the later anchor gate.
+9. If English exposes a likely Tamil problem, reopen that Tamil span only under the source guide; do not correct Tamil from English expectation.
+10. Update `TRANSLATION_REVIEW.md` with the review findings, every English refinement made, title decision, terminology decisions, and remaining issues.
+11. Update `ENGLISH_TRANSLATION_PROGRESS.md` to show **full-story review complete** only if no fidelity / terminology issue remains.
 12. Update story README, collection README / inventory, page map, root `HANDOVER.md`, and this prompt.
 13. Commit / synchronize.
-14. **Stop after completing the 8/8 draft. Do not begin the full-story English fidelity / terminology review in the same activity.**
+14. **Stop before final physical page-anchor validation / English closure.**
 
-The next activity after this batch is the **full-story English fidelity / terminology review**.
+The activity after this review is the dedicated physical page-anchor validation and final English closure gate.
