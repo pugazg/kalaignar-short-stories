@@ -48,5 +48,7 @@ No duplicate canonical story workspace remains.
 - canonical-recheck candidates opened from this 1953 collection: **0**
 - collection-wide unresolved source-dependent items: **0**
 - collection-wide Tamil/source gate: **CLOSED**
-- automatic next phase: **English translation — `விலையால் வாங்கலையோ`**
-- next small batch: **English scans 24–27 / printed 22–25**
+- English phase: **IN PROGRESS — `விலையால் வாங்கலையோ` 4/8 source pages drafted**
+- English drafted: scans **24–27 / printed 22–25**
+- next small batch: **English scans 28–31 / printed 26–29**
+- collection English tracker: `../ENGLISH_TRANSLATION_PROGRESS.md`
