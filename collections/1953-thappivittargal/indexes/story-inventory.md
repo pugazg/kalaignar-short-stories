@@ -6,7 +6,7 @@ No printed contents page is visible. Story identity is controlled by source-visi
 |---:|---|---|---:|---:|---|---|
 | 1 | — | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | `stories/thappivittargal/` | **witness CLOSED / PASS — 9/9** |
 | 2 | — | `சபலம்` | 14–21 | 16–23 | `stories/sabalam/` | **witness CLOSED / PASS — 8/8** |
-| 3 | — | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | `stories/vilaiyal-vangalaiyo/` | **canonical ACTIVE — T1 8/8; Stage 2 4/8** |
+| 3 | — | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | `stories/vilaiyal-vangalaiyo/` | **canonical ACTIVE — T1 8/8; Stage 2 8/8** |
 | 4 | — | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | `stories/munnuru-rupai/` | witness NOT STARTED |
 
 ## Deduplication result
@@ -38,14 +38,14 @@ For `விலையால் வாங்கலையோ`, the fresh repository
 
 ## Current frontier
 
-Active work: **Story 3 `விலையால் வாங்கலையோ` — CANONICAL / T1 8/8 / Stage 2 4/8**
+Active work: **Story 3 `விலையால் வாங்கலையோ` — CANONICAL / T1 8/8 / Stage 2 8/8**
 
 - canonical route: `stories/vilaiyal-vangalaiyo/`
 - T1 complete: scans **24–31 / printed 22–29**
 - scan **32** boundary: **CONFIRMED — `முந்நூறு ரூபாய்` opens**
-- Stage 2 complete: scans **24–27 / printed 22–25 — PASS**
-- page statuses: **needs-review 4 / partial 4 / verified 0**
-- next small batch: **Stage 2 scans 28–31 / printed 26–29**
+- Stage 2 complete: scans **24–31 / printed 22–29 — PASS 8/8**
+- page statuses: **needs-review 8 / partial 0 / verified 0**
+- next small batch: **Stage 3 scans 24–27 / printed 22–25**
 - Stage 3–4 not started
 - Story 4 body remains untouched
 - Story 4 `முந்நூறு ரூபாய்` remains NOT STARTED
