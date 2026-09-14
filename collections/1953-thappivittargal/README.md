@@ -115,7 +115,7 @@ No duplicate canonical story workspace was created.
 - reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
 - closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
 - unresolved source readings: **0**
-- English: **blocked by collection-wide Tamil-first gate pending Story 4 witness**
+- English: **READY / PENDING — collection-wide Tamil/source gate CLOSED**
 - durable T1 checkpoints: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 - Stage-2 checkpoints: `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`, `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 - Stage-2 cumulative repairs: **30 occurrence-level textual repairs; 9 historical-character identity corrections / resolutions**
