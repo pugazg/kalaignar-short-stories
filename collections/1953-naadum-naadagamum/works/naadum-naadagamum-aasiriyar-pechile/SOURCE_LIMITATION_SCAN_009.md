@@ -9,13 +9,27 @@ Printed page: **5**
 
 The final paragraph contains a library/ownership mark crossing the printed line immediately after:
 
-`‘மத நம்பிக்கை’ என்ற போர்வை`
+`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
 
 A later visible span on the same physical line remains source-supported:
 
 `தந்திரம் ஆளவந்தாரையும் கேட்டிறேன்`
 
 The intervening printed words are physically obscured.
+
+## Targeted phrase recheck
+
+After the user flagged the earlier reading, the native scan was enlarged and rechecked specifically at the quoted phrase.
+
+Correct source-visible reading:
+
+`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
+
+Earlier incomplete reading:
+
+`‘மத நம்பிக்கை’ என்ற போர்வை`
+
+This correction applies to the **recoverable text before the physical-loss span**. It does not reconstruct any obscured words after `போர்வை`.
 
 ## Recovery work performed
 
