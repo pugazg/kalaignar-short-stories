@@ -687,8 +687,10 @@ Current state:
   - Stage 2 visual text-fidelity: **COMPLETE 5/5**
   - Stage-2 source-proven corrections: **16**
   - Stage-2 unresolved source-text spans: **1 — scan 9 library/ownership-mark crossing**
-  - Stage 3: **NEXT**
-  - Stage 4: **NOT STARTED**
+  - Stage 3 historical glyph: **COMPLETE 5/5**
+  - Stage-3 character-identity corrections: **0**
+  - Stage-3 unresolved glyph clusters: **0**
+  - Stage 4: **NEXT**
   - page status: **needs-review 5/5**
   - verified: **0/5**
   - blocked: **0**
@@ -763,27 +765,20 @@ Batch 1 scans **5–9 / printed 1–5** now has:
 - Stage 1 first-pass: **COMPLETE 5/5**
 - Stage 2 visual text-fidelity: **COMPLETE 5/5**
 - Stage-2 source-proven corrections: **16**
-- Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
+- Stage 3 historical Tamil glyph audit: **COMPLETE 5/5**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
 - page status: **needs-review 5/5**
+- remaining source-text issue: **1 — scan 9 library/ownership-mark crossing**
 
-Stage-2 audit record:
+Stage-2 audit: `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE2_BATCH_001.md`  
+Stage-3 audit: `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE3_BATCH_001.md`
 
-`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/STAGE2_BATCH_001.md`
+**NEXT: Stage 4 final independent source check on scans 5–9.**
 
-**NEXT: Stage 3 historical Tamil glyph audit on the same scans 5–9.**
+Reopen the full batch fresh from the Stage-3 committed text. Confirm all text, punctuation, paragraphing, page boundaries, all Stage-2 corrections, and the Stage-3 glyph disposition. Apply the exhaustive difficult-reading protocol to the scan-9 mark-crossed span. Do not guess; pages may become `verified` only if every source-text issue receives a defensible final disposition.
 
-Before source-dependent writes:
-
-1. fetch live `main`;
-2. reread `SHORT_STORY_PROCESSING_GUIDE.md`, `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, this handover, `NEXT_CHAT_PROMPT.md`, and the active work controls;
-3. reopen scans **5–9** from the user-supplied PDF;
-4. audit historical glyph identities explicitly, including `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-5. make only source-proven character-identity corrections; do not modernize spelling, punctuation, grammar, or spacing;
-6. retain the scan-9 mark-crossed span as unresolved unless the glyph pass itself provides defensible source evidence;
-7. keep all pages `needs-review`; **do not** perform Stage 4 in the same activity;
-8. commit/sync Stage 3 and stop.
-
-Do **not** begin scans 10–14 until Batch 1 Stage 4 closes. After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
+Do **not** begin scans 10–14 in the same activity. After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 
 This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover. In particular, do **not** auto-resume 1958 `தேனலைகள்`.
 
