@@ -119,3 +119,24 @@ Batch 1 scans **5–9 / printed 1–5** is now **CLOSED UNDER DOCUMENTED SOURCE 
 Begin **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**.
 
 Do not reopen Batch 1 unless genuinely new source evidence appears.
+
+## Post-closure word-by-word re-audit
+
+At the user's explicit request, Batch 1 was reopened for a fresh **word-by-word visual text-fidelity re-audit** after the earlier Stage-4 closure.
+
+Durable audit:
+
+`WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
+
+Result:
+
+- scans re-audited: **5/5**
+- additional source-proven corrections: **14**
+- wording / spelling / source-spacing corrections: **7**
+- punctuation corrections: **7**
+- scans 5–8: **RE-VERIFIED**
+- scan 9 recoverable text: **PASS**
+- scan 9 physical-loss span: **UNCHANGED / BLOCKED**
+- guessed readings: **0**
+
+Where these 14 corrections conflict with the earlier Stage-2/Stage-4 readings, the newer word-by-word re-audit is authoritative.
