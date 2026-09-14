@@ -4,15 +4,15 @@ printed_page: 23
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 இந்த ஊர்திரும்ப மாட்டான். வந்தால்....ஜமீன்தார் அவன் காலை வாங்கி விடுவார். பேசாமல்...எங்க அபிப் பிராயப்படி நட.”
 
-“அண்ணு!......நான் தாசி...உன் தங்கை தாசி...ஐயோ...இந்த வார்த்தை உனக்கு நஞ்சாகத் தெரியவில்லையா?”
+“அண்ணு!......நான் தாசி...உன் தங்கை தாசி...ஐயோ...இந்த வார்த்தை உனக்கு நஞ்சாகத் தெரிய வில்லையா?”
 
 “நஞ்சாவது பஞ்சாவது....தெரியாமத்தான் நம்ப பெரியவாள் காலத்திலே இருந்து நடக்குதா?”
 
@@ -34,7 +34,7 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 
 ○　　　　　　　　　○　　　　　　　　　○
 
-வைரக்கண்ணு தலையங்கத்தை எழுதி முடித்தான். தலையங்கத்தின் கடைசிப் பகுதிகளை இரண்டு முறை படித்துப் பார்த்தான்.
+வைரக்கண்ணு தலையங்கத்தை எழுதிமுடித்தான். தலையங்கத்தின் கடைசிப் பகுதிகளை இரண்டு முறை படித்துப் பார்த்தான்.
 
 ## T1 first-pass notes
 
@@ -64,3 +64,18 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - internal three-circle divider remains source-faithful;
 - no global replacement or spelling modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the complete page was independently re-read line by line from the controlling native / enlarged scan;
+- the scan-24→25 continuation, all dialogue boundaries, the three-open-circle divider, running-header exclusion and closing two narrative lines were rechecked;
+- Stage-2 historical-family readings `தகராறு பண்ணினை` and `நிலைக்கண்ணாடிக்கு` were independently revalidated;
+- Stage-3 source-fidelity corrections:
+  1. `தெரியவில்லையா` → `தெரிய வில்லையா` — source-visible word boundary;
+  2. `எழுதி முடித்தான்` → `எழுதிமுடித்தான்` — source-visible joined compound;
+- no modernization was applied;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
