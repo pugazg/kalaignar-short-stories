@@ -39,13 +39,13 @@ No printed contents page is visible.
 
 The source is not exclusively short fiction.
 
-- scans **5–24** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — prose/discourse, **non-story**
-- scans **25–51** — `தெருக்கூத்து` — dramatic script with numbered scenes, **non-story**
+- scans **5–24** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — prose/discourse, **repository-retained special work**
+- scans **25–51** — `தெருக்கூத்து` — dramatic script with numbered scenes, **repository-retained special work**
 - scans **52–68** — `ஆலமரத்துப் புறாக்கள்` — short story
 - scans **69–75** — `பெண்கள்` — short story
 - scans **76–80** — `இரகசியம்!` — short story
 
-The first two body units are preserved only as structural source metadata in this repository.
+Per explicit user instruction, the first two body units are **owned by and retained in this repository for full processing**, despite not being short stories. They must not be moved to an essays or stage-plays repository as part of this source workflow.
 
 ## Pagination model
 
