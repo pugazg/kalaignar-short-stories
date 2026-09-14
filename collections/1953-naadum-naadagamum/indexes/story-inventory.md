@@ -4,7 +4,7 @@
 
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 Stage 3 scans 5–9 COMPLETE; Stage 4 NEXT** |
+| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **IN PROGRESS — Batch 1 Stage 4 PARTIAL: scans 5–8 VERIFIED; scan 9 HOLD** |
 | B | `தெருக்கூத்து` | play | 17–43 | 25–51 | **retain/process in this repository** | **NOT STARTED** |
 
 ## Short-story inventory basis
@@ -76,11 +76,11 @@ The 1953 opening begins with the same poet figure and wording as the closed 1977
 
 Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**.
 
-Batch 1 scans **5–9 / printed 1–5** now has Stages **1–3 COMPLETE**:
+Batch 1 scans **5–9 / printed 1–5**:
 
-- Stage 2 source-proven corrections: **16**
-- Stage 3 character-identity corrections: **0**
-- Stage 3 unresolved glyph clusters: **0**
-- page status: **needs-review 5/5**
+- scans 5–8 — **VERIFIED**
+- scan 9 — **Stage 4 HOLD / NEEDS-REVIEW**
+- Stage-4 corrections — **0**
+- unresolved source spans — **1**
 
-Next: **Stage 4 final independent source check on the same five scans**. The scan-9 mark-crossed source span must receive an exhaustive-resolution disposition. Do not start scans 10–14 in the same activity.
+Next: resolve or formally disposition the scan-9 source obstruction. Do not start scans 10–14 in the same activity.
