@@ -2,7 +2,7 @@
 
 ## Phase status
 
-**IN PROGRESS — FULL-STORY REVIEW PASS / FINAL PAGE-ANCHOR CLOSURE NEXT**
+**CLOSED / PASS — ALL 1953 ENGLISH TARGETS DISPOSITIONED**
 
 The collection-wide Tamil/source gate is **CLOSED / PASS**.
 
@@ -12,7 +12,7 @@ Only the new canonical Story 3 requires a new canonical English translation in t
 |---:|---|---|---|---|
 | 1 | `தப்பிவிட்டார்கள்` | additional witness to existing canonical | No — canonical English controlled by existing canonical edition | not a target |
 | 2 | `சபலம்` | additional witness to existing canonical | No — canonical English controlled by existing canonical edition | not a target |
-| 3 | `விலையால் வாங்கலையோ` | new canonical story | **Yes** | **in progress — draft 8/8 + full-story review PASS; anchor closure NEXT** |
+| 3 | `விலையால் வாங்கலையோ` | new canonical story | **Yes** | **PASS / CLOSED** |
 | 4 | `முந்நூறு ரூபாய்` | additional witness to existing canonical | No — canonical English controlled by existing canonical edition | not a target |
 
 ## Story 3 — விலையால் வாங்கலையோ
@@ -29,13 +29,16 @@ Only the new canonical Story 3 requires a new canonical English translation in t
 - page markers present / ordered: **PASS 8/8**
 - three-open-circle dividers: **PASS 3/3**
 - Tamil reopened during translation / review: **No**
-- final page-anchor validation / closure: **PENDING / NEXT**
+- final page-anchor validation / closure: **PASS / CLOSED**
+- page-anchor manifest: `stories/vilaiyal-vangalaiyo/translations/en/page-anchors.json`
+- validator: **PASS with human-reviewed boundary anchors**
+- regression proof: **PASS → expected anchor FAIL → PASS**
 
 ## Durable sequence
 
 1. English scans 24–27 — **DONE / COMMITTED**
 2. English scans 28–31 — **DONE / COMMITTED**
 3. full-story fidelity / terminology review — **DONE / PASS**
-4. physical page-anchor validation / final English closure — **NEXT**
+4. physical page-anchor validation / final English closure — **DONE / PASS**
 
-The collection English phase remains **IN PROGRESS** until the final page-anchor gate passes and Story 3 is marked final PASS.
+The collection English phase is **CLOSED / PASS**. No `pending`, `in progress`, or `NEEDS REVIEW` English target remains.
