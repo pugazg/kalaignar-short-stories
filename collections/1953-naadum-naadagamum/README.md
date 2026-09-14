@@ -102,7 +102,7 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage 4: **COMPLETE / PASS after targeted scan-9 resolution**
   - Stage-4 source-proven corrections: **0**
   - post-closure word-by-word visual fidelity re-audit: **COMPLETE 5/5**
-  - re-audit source-proven corrections: **18**
+  - re-audit source-proven corrections: **19**
   - scans 5–9: **VERIFIED**
   - scan 9 former blocked span: **RESOLVED / VERIFIED**
   - page status: **verified 5/5**
@@ -113,6 +113,6 @@ No new canonical story folder was created in this intake-only iteration.
 
 Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 1 first-pass transcription**, scans **10–14 / printed 6–10**.
 
-Batch 1 scans 5–9 is **CLOSED / VERIFIED 5/5** after the requested word-by-word re-audit and user-guided targeted scan-9 recheck. **18 final source-proven corrections** are recorded; the former scan-9 hold is resolved; guessed reconstruction remains 0.
+Batch 1 scans 5–9 is **CLOSED / VERIFIED 5/5** after the requested word-by-word re-audit and user-guided targeted scan-9 recheck. **19 final source-proven corrections** are recorded; the former scan-9 hold is resolved; guessed reconstruction remains 0.
 
 Do not start Stage 2 for Batch 2 in the same activity.
