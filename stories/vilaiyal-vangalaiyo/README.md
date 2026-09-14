@@ -37,11 +37,11 @@ No existing canonical story was found. This workspace is therefore the canonical
 - scans **30–31 / printed 28–29**: T1 COMPLETE / COMMITTED
 - scan **32 / printed 30**: boundary witness confirms next story `முந்நூறு ரூபாய்`
 - Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
-- Stage 3 final source / visual-fidelity audit: **4/8 COMPLETE / PASS — scans 24–27 VERIFIED**
+- Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS — ALL PAGES VERIFIED**
 - Stage 4 synchronized Tamil assembly / controls: not started
 - English: **BLOCKED until Tamil/source closure**
 
-After the first Stage-3 batch, scans **24–27 are verified** and scans **28–31 remain `needs-review`**.
+After Stage 3, all **8/8** page records are `verified`.
 
 ## Small-batch plan
 
@@ -54,8 +54,8 @@ To keep every step durable and synchronized:
 5. Stage 2 glyph audit scans 24–27 — **COMPLETE / PASS**
 6. Stage 2 glyph audit scans 28–31 — **COMPLETE / PASS**
 7. Stage 3 final source / visual-fidelity audit scans 24–27 — **COMPLETE / PASS / VERIFIED**
-8. Stage 3 scans 28–31 — **NEXT**
-9. Stage 4 Tamil assembly / controls
+8. Stage 3 scans 28–31 — **COMPLETE / PASS / VERIFIED**
+9. Stage 4 Tamil assembly / controls — **NEXT**
 10. English only after Tamil/source closure
 Current T1 checkpoints: [`T1_BATCH_024_025.md`](T1_BATCH_024_025.md), [`T1_BATCH_026_027.md`](T1_BATCH_026_027.md), [`T1_BATCH_028_029.md`](T1_BATCH_028_029.md), and [`T1_BATCH_030_031.md`](T1_BATCH_030_031.md).
 
@@ -63,8 +63,8 @@ Stage-2 checkpoints: [`STAGE2_BATCH_024_027.md`](STAGE2_BATCH_024_027.md) and [`
 
 Stage-2 cumulative repairs: **30 occurrence-level textual repairs**, including **9 historical-character identity corrections / resolutions**.
 
-Stage-3 checkpoint: [`STAGE3_BATCH_024_027.md`](STAGE3_BATCH_024_027.md).
+Stage-3 checkpoints: [`STAGE3_BATCH_024_027.md`](STAGE3_BATCH_024_027.md) and [`STAGE3_BATCH_028_031.md`](STAGE3_BATCH_028_031.md).
 
-Stage-3 scans 24–27: **4/4 VERIFIED / 5 final source-fidelity corrections / 0 unresolved**.
+Stage-3 cumulative result: **8/8 VERIFIED / 13 final source-fidelity corrections / 0 unresolved**.
 
-Current next small task: **Stage 3 final source / visual-fidelity audit scans 28–31 only**.
+Current next small task: **Stage 4 Tamil assembly / controls only**.
