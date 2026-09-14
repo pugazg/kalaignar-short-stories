@@ -106,13 +106,19 @@ No new canonical story folder was created in this intake-only iteration.
   - scans 5–9: **VERIFIED**
   - scan 9 former blocked span: **RESOLVED / VERIFIED**
   - page status: **verified 5/5**
-- remaining transcription / witness comparison: **NOT STARTED**
+  - Batch 2 scans **10–14 / printed 6–10**
+  - Stage 1 first-pass: **COMPLETE 5/5**
+  - page status: **needs-review 5/5**
+  - explicit unresolved first-pass spans: **3 — scan 13**
+  - guessed readings: **0**
+  - Batch 2 Stage 2 visual fidelity: **NEXT**
+- remaining later transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 1 first-pass transcription**, scans **10–14 / printed 6–10**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 2 visual text-fidelity audit**, scans **10–14 / printed 6–10**.
 
 Batch 1 scans 5–9 is **CLOSED / VERIFIED 5/5** after the requested word-by-word re-audit and user-guided targeted scan-9 recheck. **19 final source-proven corrections** are recorded; the former scan-9 hold is resolved; guessed reconstruction remains 0.
 
-Do not start Stage 2 for Batch 2 in the same activity.
+Stage 1 is durably complete. Resolve the first-pass review queue at Stage 2, keep pages `needs-review`, commit/sync, and stop before Stage 3.
