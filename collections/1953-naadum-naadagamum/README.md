@@ -110,21 +110,23 @@ No new canonical story folder was created in this intake-only iteration.
   - Stage 1 first-pass: **COMPLETE 5/5**
   - Stage 2 visual text-fidelity: **COMPLETE 5/5**
   - Stage-2 source-proven corrections: **22**
+  - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
+  - Stage-3 character-identity corrections: **0**
+  - Stage-3 unresolved glyph clusters: **0**
   - Stage-1 uncertain spans resolved at Stage 2: **1/3**
-  - unresolved source-text spans: **2 — scan 13**
+  - ordinary unresolved source-text spans: **2 — scan 13**
   - page status: **needs-review 5/5**
   - guessed readings: **0**
-  - Batch 2 Stage 3 historical glyph: **NEXT**
-  - Batch 2 Stage 4: **NOT STARTED**
+  - Batch 2 Stage 4 final independent check: **NEXT**
 - remaining later transcription / witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 3 historical Tamil glyph audit**, scans **10–14 / printed 6–10**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 2 Stage 4 final independent source check**, scans **10–14 / printed 6–10**.
 
 Batch 1 scans 5–9 remains **CLOSED / VERIFIED 5/5**.
 
-Batch 2 Stage 2 is durably **COMPLETE 5/5** with **22 source-proven corrections**. One of the three Stage-1 scan-13 uncertainties was resolved; two remain explicitly unresolved with no guessed reconstruction. All five pages remain `needs-review`.
+Batch 2 Stages 1–3 are durably complete. Stage 3 audited all 13 mandatory historical-glyph families, made **0 character-identity corrections**, and left **0 unresolved glyph clusters**. Two ordinary source-text spans on scan 13 remain explicitly unresolved from Stage 2.
 
-Run Stage 3 only, synchronize controls, commit, and stop before Stage 4.
+Run Stage 4 only. Promote pages to `verified` only if the final source check responsibly closes all remaining source-text issues; otherwise preserve the holds. Commit/sync and stop before Batch 3.
