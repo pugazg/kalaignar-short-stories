@@ -1,0 +1,52 @@
+---
+scan_page: 27
+printed_page: 25
+story: "vilaiyal-vangalaiyo"
+section: "story"
+page_type: "story"
+status: "partial"
+language: "ta"
+source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
+transcription_method: "T1 first-pass direct visual transcription from native/enlarged source pixels"
+---
+
+“நேற்றுத்தானே கடிதமெழுதியிருக்கிறாய். அதற்குள் எப்படி, லட்சுமி, வந்தாய்?”
+
+“பெரிய ஆபத்திலிருந்து தப்பியிருக்கிறேன்.
+கேளுங்கள், அம்மாவின் ஆசைப்படி.........நடராஜ்
+அண்ணாவின் <!-- T1 unresolved source word: reopen in Stage 2; do not infer from context. --> ஏற்று......என்னை முதல்
+திருமணம் செய்துகொள்ள ஜமீன்தார் வந்தார். நான்
+பலாத்காரமாக அறைக்குள் தள்ளப்பட்டேன்.”
+
+“ஆ”
+
+“கேளுங்கள்! ஜமீன்தாரிடம் எவ்வளவோ மன்றாடிப் பார்த்தேன். என் உபதேசங்கள் எல்லாம் அவருக்கு ஊமையின் பேச்சாகத் தெரிந்தன. என் வாழ்வில் நஞ்சு பூச வேண்டாமென்று கோரிக்கையை... அந்த நேரத்தில் அவர் எப்படிக் கேட்டார்.”
+
+“துப்பாக்கியை நீட்டிப் பயமுறுத்தினார்.”
+
+“நான் சாகசத்தில் இறங்கினேன். மதுபான வகையறாக்கள் அத்தனையும் ஜமீன்தார் வயிற்றில் கலந்தன. என் கைகளால் அவைகளே வாங்கிக் குடிப்பதே பெரும் பாக்கியமென்று அவர் எண்ணினார். கோப்பையை வாங்க அவர் கை நடுங்கியபோது நானே அவர் வாயில் ஊற்றினேன்.”
+
+“அவ்வளவுதான். ஜமீன்தார் போதை தலைக்கேறிச் சாய்ந்தார்.”
+
+“பிறகு?”
+
+“நான் விழித்துக்கொண்டே இருந்தேன். விடியற் காலை மணிநாலு! வீட்டில் நல்ல தூக்கம். இருட்டிலே ஒளிந்துவந்து இரயிலேறினேன். இப்பொழுது....”
+
+“லட்சுமி!......வீரலட்சுமி......?”
+
+“அத்தான்...இந்த வைர வளையல்கள் ஜமீன்தார் கொடுத்தவை.”
+
+“பாவம்......பரிதாபத்துக்குரியவன். நன்றுக ஏமாந்தான்.”
+
+## T1 first-pass notes
+
+- whole scan inspected directly from the source image;
+- running title and printed page number are page furniture and excluded;
+- this page remains `partial`; nothing is promoted to `verified` during T1;
+- one word after `நடராஜ் அண்ணாவின்` is intentionally unresolved rather than guessed;
+- small circular physical marks / losses cross parts of the lower dialogue; surviving text is retained only where source strokes remain readable;
+- final apparent source form `நன்றுக` is transcribed provisionally exactly as it appears at T1 and is **not normalized** here;
+- `நன்றுக` must be reopened in Stage 2 because the historical-glyph guide specifically requires checking old `றா`-family forms before deciding Unicode identity;
+- other historical-glyph families remain unaudited until Stage 2.
+
+<!-- anthology scan: 27; printed page: 25 -->
