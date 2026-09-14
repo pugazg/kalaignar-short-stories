@@ -4,10 +4,10 @@ printed_page: 22
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story-opening"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 # விலையால் வாங்கலையோ
@@ -76,3 +76,16 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
   - `ஆடுமாடுகளைக் கூடத்தான்....நல்லவிலே போகுமென்று வளர்க்கிறார்கள்.`;
 - no global replacement or lexical modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the complete page was independently re-read line by line from the controlling native / enlarged scan;
+- title, dialogue order, paragraph boundaries, punctuation, page-end continuation and source-visible wording were checked against the pixels;
+- all Stage-2 repairs were independently revalidated, including `தங்கப் பாத்திரமா`, source `லக்ஷ்மி`, `வாழ்வுக்காக`, and the recovered `ஆடுமாடுகளைக் கூடத்தான்....நல்லவிலே போகுமென்று வளர்க்கிறார்கள்.`;
+- difficult T1 readings `மூஞ்சிக்கிஞ்சி`, `வக்கணை`, and `வாட்டுப் பயல்` remain directly source-supported;
+- Stage-3 textual corrections: **0**;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
