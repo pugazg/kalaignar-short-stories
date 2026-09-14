@@ -4,17 +4,17 @@ printed_page: 27
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "partial"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 first-pass direct visual transcription from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
 ---
 
-அவன் காதலுக்காக அவள் பட்ட இன்னல்கள் எத்தனை! வைரக்கண்ணு விரட்டப்பட்ட செய்தியைக் கேள்விப்பட்டாள். அது அவள் விலாவில் பாய்ந்த வேல்.
+அவன் காதலுக்காக அவள் பட்ட இன்னல்கள் எத்தனை! வைரக்கண்ணு விரட்டப்பட்ட செய்தியைக் கேள்விப்பட்டாள். அது அவள் விலாவில் பாய்ந்தவேல்.
 
 காதலில் கொண்டிருந்த உறுதியால் அவள் கலங்கவில்லை. நடராசனின் ‘நாட்டு சோக்காளி வாழ்வுக்கு தன் வாழ்வு பலியிடப்படவேண்டுமென்ற பலாத்காரம்!......இது எரியும் தீயில் எண்ணெய்......
 
-அவள் விடுதலை விழா அன்று!... அதை நினைத்து மகிழ்ந்தாள். <!-- T1 unresolved source span: the short clause before “குயிலிசை கிளம்பிற்று.” is not secure enough for first-pass canonical wording. --> குயிலிசை கிளம்பிற்று.
+அவள் விடுதலை விழா அன்று!... அதை நினைத்து மகிழ்ந்தாள். ஆடிக்கொண்டே உள்ளே ஓடினாள்...... குயிலிசை கிளம்பிற்று.
 
 <!-- source internal divider: three widely spaced open circles -->
 
@@ -54,3 +54,23 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 - internal three-circle divider is preserved as source structure.
 
 <!-- anthology scan: 29; printed page: 27 -->
+
+
+## Stage 2 historical-glyph / difficult-reading audit
+
+**PASS FOR STAGE 2 — page remains `needs-review` pending Stage 3.**
+
+- complete page re-inspected at native / enlarged resolution;
+- checked all 13 known historical families and remained alert for additional edition-specific old forms;
+- source spacing / compound fidelity correction:
+  - `பாய்ந்த வேல்` → `பாய்ந்தவேல்`;
+- previously unresolved clause resolved directly from source pixels:
+  - `ஆடிக்கொண்டே உள்ளே ஓடினாள்...... குயிலிசை கிளம்பிற்று.`;
+- the source glyph in `ஓடினாள்` was checked against same-page `மகிழ்ந்தாள்` and same-edition `நினைத்தாள்`; this is an old `ளா` identity, not bare `ள`;
+- `நாட்டு சோக்காளி` is source-supported and retained;
+- `நூறு ரூபாய்கூடப் பெறுமானமில்லை` was rechecked and retained;
+- `வளையல்கள்`, `வளையல்களைக்`, and `வளையல்களை` were checked against historical-`ளை` forms;
+- source-supported `பேசினான்` and `கூறினான்` were rechecked against the historical-`னா` family and retained;
+- scan-end fragment `சொன்` remains a physical page-boundary fragment; it is not joined inside this page record;
+- no global replacement or spelling modernization was used;
+- unresolved Stage-2 glyph clusters on this page: **0**.
