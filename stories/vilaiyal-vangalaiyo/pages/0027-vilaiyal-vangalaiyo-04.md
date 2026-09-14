@@ -4,17 +4,17 @@ printed_page: 25
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "partial"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 first-pass direct visual transcription from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
 ---
 
-“நேற்றுத்தானே கடிதமெழுதியிருக்கிறாய். அதற்குள் எப்படி, லட்சுமி, வந்தாய்?”
+“நேற்றுத்தானே கடிதமெழுதியிருக்கிறாய். அதற்குள் எப்படி, லக்ஷ்மி, வந்தாய்?”
 
 “பெரிய ஆபத்திலிருந்து தப்பியிருக்கிறேன்.
 கேளுங்கள், அம்மாவின் ஆசைப்படி.........நடராஜ்
-அண்ணாவின் <!-- T1 unresolved source word: reopen in Stage 2; do not infer from context. --> ஏற்று......என்னை முதல்
+அண்ணாவின் அழைப்பை ஏற்று......என்னை முதல்
 திருமணம் செய்துகொள்ள ஜமீன்தார் வந்தார். நான்
 பலாத்காரமாக அறைக்குள் தள்ளப்பட்டேன்.”
 
@@ -32,11 +32,11 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 
 “நான் விழித்துக்கொண்டே இருந்தேன். விடியற் காலை மணிநாலு! வீட்டில் நல்ல தூக்கம். இருட்டிலே ஒளிந்துவந்து இரயிலேறினேன். இப்பொழுது....”
 
-“லட்சுமி!......வீரலட்சுமி......?”
+“லக்ஷ்மி!......வீரலக்ஷ்மி......?”
 
 “அத்தான்...இந்த வைர வளையல்கள் ஜமீன்தார் கொடுத்தவை.”
 
-“பாவம்......பரிதாபத்துக்குரியவன். நன்றுக ஏமாந்தான்.”
+“பாவம்......பரிதாபத்துக்குரியவன். நன்றாக ஏமாந்தான்.”
 
 ## T1 first-pass notes
 
@@ -50,3 +50,22 @@ transcription_method: "T1 first-pass direct visual transcription from native/enl
 - other historical-glyph families remain unaudited until Stage 2.
 
 <!-- anthology scan: 27; printed page: 25 -->
+
+
+## Stage 2 historical-glyph / difficult-reading audit
+
+**PASS FOR STAGE 2 — page remains `needs-review` pending Stage 3.**
+
+- complete page re-inspected at native / enlarged resolution;
+- checked all 13 known historical families;
+- previously unresolved word resolved directly from the source:
+  - `நடராஜ் அண்ணாவின் அழைப்பை ஏற்று`;
+- source spelling `லக்ஷ்மி` / `வீரலக்ஷ்மி` restored where T1 had `லட்சுமி` / `வீரலட்சுமி`;
+- historical-`றா` correction:
+  - earlier/apparent T1 reading: `நன்றுக`;
+  - source-supported Unicode reading: `நன்றாக`;
+  - historical identity: `றா`;
+  - same-page comparison: the `றா` family in `வகையறாக்கள்` supports the old-type identity;
+- `வளையல்கள்` was checked as a representative historical-`ளை` family occurrence;
+- no global replacement or lexical modernization was used;
+- unresolved Stage-2 glyph clusters on this page: **0**.
