@@ -1,6 +1,13 @@
 # Story Inventory — 1953 `நாடும் நாடகமும்`
 
-## Inventory basis
+## Repository-retained special works
+
+| # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
+|---:|---|---|---:|---:|---|---|
+| A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | **retain/process in this repository** | **NOT STARTED** |
+| B | `தெருக்கூத்து` | play | 17–43 | 25–51 | **retain/process in this repository** | **NOT STARTED** |
+
+## Short-story inventory basis
 
 No printed contents page is visible.
 
@@ -11,7 +18,7 @@ This short-story inventory is therefore based on direct visual inspection of:
 3. continuous printed foliation after the inserted 16-A–16-D sequence;
 4. the terminal scan 80 ending.
 
-The publication also contains non-story prose/discourse and the play `தெருக்கூத்து`; those units are recorded in `scan-map.md` but are not treated as short stories.
+The publication also contains prose/discourse and the play `தெருக்கூத்து`. Per explicit user instruction, **both remain in this short-stories repository and will be processed here**. They are listed separately below because their genre is not short fiction.
 
 ## Inventory
 
@@ -67,16 +74,10 @@ The 1953 opening begins with the same poet figure and wording as the closed 1977
 
 ## Exact next activity
 
-Story 1 — **`ஆலமரத்துப் புறாக்கள்`**, scans **52–68 / printed 44–60**.
+Repository-retained special work A — **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**, scans **5–24 / printed 1–16, 16-A–16-D**.
 
-Process it as an earlier witness under `stories/aalamarathup-puraakkal/`.
+Process it **inside this repository**. Do not relocate it based on genre.
 
-Before writing:
+After it is closed, process special work B **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, also inside this repository.
 
-1. fetch live `main`;
-2. confirm the canonical route remains unchanged;
-3. recheck scan 52 opening, scan 68 ending, and scan 69 `பெண்கள்` boundary;
-4. create the 1953 witness workspace;
-5. compare source-visible text and structure against the canonical work without silently replacing either edition.
-
-Do **not** begin Story 2 in the same activity unless the user explicitly changes the one-story-at-a-time rule.
+Only then continue source-order short-story work with `ஆலமரத்துப் புறாக்கள்`, unless the user explicitly redirects.
