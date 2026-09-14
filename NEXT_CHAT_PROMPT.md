@@ -35,15 +35,16 @@ Collection workspace:
 Intake is **COMPLETE**:
 
 - whole-source scan map — **COMPLETE**
+- full body-unit inventory — **5/5 COMPLETE**
+- repository-retained special works — **2/2**
 - short-story inventory — **3/3 COMPLETE**
 - story openings visually checked — **3/3**
-- non-story units classified — **COMPLETE**
 - transcription / witness comparison — **NOT STARTED**
 
 The publication is mixed:
 
-- scans 5–24 — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — non-story;
-- scans 25–51 — `தெருக்கூத்து` — play / non-story;
+- scans 5–24 — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — prose/discourse — **retain/process in this repository**;
+- scans 25–51 — `தெருக்கூத்து` — play — **retain/process in this repository**;
 - scans 52–68 — `ஆலமரத்துப் புறாக்கள்`;
 - scans 69–75 — `பெண்கள்`;
 - scans 76–80 — `இரகசியம்!`.
@@ -52,28 +53,30 @@ Pagination includes inserted printed pages **16-A–16-D**. From scan 25 onward:
 
 **PDF scan = printed page + 8.**
 
-## Short-story routing
+## Repository routing
 
-1. `ஆலமரத்துப் புறாக்கள்` — scans **52–68 / printed 44–60** — existing canonical `stories/aalamarathup-puraakkal/` — **earlier witness**
-2. `பெண்கள்` — scans **69–75 / printed 61–67** — **new-canonical candidate at intake**
-3. `இரகசியம்!` — scans **76–80 / printed 68–72** — existing canonical `stories/iragasiyam/` — **earlier witness**
+1. `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — scans **5–24 / printed 1–16, 16-A–16-D** — **retain/process here**
+2. `தெருக்கூத்து` — scans **25–51 / printed 17–43** — **retain/process here**
+3. `ஆலமரத்துப் புறாக்கள்` — scans **52–68 / printed 44–60** — existing canonical `stories/aalamarathup-puraakkal/` — **earlier witness**
+4. `பெண்கள்` — scans **69–75 / printed 61–67** — **new-canonical candidate at intake**
+5. `இரகசியம்!` — scans **76–80 / printed 68–72** — existing canonical `stories/iragasiyam/` — **earlier witness**
 
 ## Exact next activity
 
-Process Story 1 **`ஆலமரத்துப் புறாக்கள்`**, scans **52–68 / printed 44–60**, as a 1953 witness to the existing canonical story.
+Process retained work 1 **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**, scans **5–24 / printed 1–16, 16-A–16-D**.
 
 Before writing:
 
 1. fetch live `main`;
 2. read `SHORT_STORY_PROCESSING_GUIDE.md`, `COLLECTION_SOURCE_GUIDE.md`, root `HANDOVER.md`, and the active collection intake files;
-3. confirm the canonical route remains `stories/aalamarathup-puraakkal/`;
-4. recheck scan **52** opening, scan **68** ending, and scan **69** `பெண்கள்` boundary;
-5. create the 1953 witness workspace under the existing canonical story;
-6. compare all **17 source scans** end-to-end against the canonical work;
-7. preserve edition-specific wording and structure; do not silently overwrite the 1977 canonical Tamil or English;
-8. record any canonical-recheck candidate only when the 1953 witness gives concrete reason to reopen the controlling source.
+3. keep this work in **`pugazg/kalaignar-short-stories`**; do not move it to another repository because of genre;
+4. recheck scan **5** opening, scan **24** ending, and scan **25** `தெருக்கூத்து` boundary;
+5. create a durable workspace for this retained work inside this repository;
+6. begin source-faithful Stage 1 first-pass transcription using only the supplied scan pixels.
 
-Do **not** begin Story 2 `பெண்கள்` in this same activity unless the user explicitly changes the one-story-at-a-time rule.
+After this unit is closed, process retained work 2 **`தெருக்கூத்து`**, scans **25–51 / printed 17–43**, also inside this repository.
+
+Do **not** skip to `ஆலமரத்துப் புறாக்கள்` unless the user explicitly redirects.
 
 ## Queued second source
 
