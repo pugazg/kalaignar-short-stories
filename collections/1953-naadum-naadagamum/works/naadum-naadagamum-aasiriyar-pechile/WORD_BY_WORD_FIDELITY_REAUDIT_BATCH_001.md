@@ -16,8 +16,8 @@ Every recoverable word, punctuation mark, source spacing decision relevant to le
 
 - physical scans re-audited: **5/5**
 - recoverable page text checked word by word: **5/5**
-- source-proven corrections: **18**
-  - wording / spelling / source spacing: **11**
+- source-proven corrections: **19**
+  - wording / spelling / source spacing: **12**
   - punctuation: **7**
 - scans re-verified after correction: **5–8**
 - scan 9: **FULLY RESOLVED / VERIFIED**
@@ -79,7 +79,7 @@ Therefore the continuous phrase is:
 
 The comma after `பிறகுதான்,` is source-supported and remains unchanged.
 
-### Scan 9 / printed 5 — 6 final corrections
+### Scan 9 / printed 5 — 7 final corrections
 
 1. `தீட்டியுள்ள திறமையும்,` → `தீட்டியுள்ள திறமையும்.`
 2. `விதவிதமான` → `வித விதமான`
@@ -87,10 +87,11 @@ The comma after `பிறகுதான்,` is source-supported and remains u
 4. `போர்வை` → `போர்வையிலே`
 5. previously obscured word restored as `தூதா`
 6. `தந்திரம்` → `தந்திடும்`
+7. `கேட்டிறேன்` → `கேட்கிறேன்`
 
 The complete corrected lower sentence is:
 
-`அறிவு, ஆராய்ச்சி என்றும் அலறியடித்துக் கொண்டு ஆர்ப்பாட்டம் செய்யும் பழமை விரும்பிகளும், அவர்களுக்கு, ‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்டிறேன்.`
+`அறிவு, ஆராய்ச்சி என்றும் அலறியடித்துக் கொண்டு ஆர்ப்பாட்டம் செய்யும் பழமை விரும்பிகளும், அவர்களுக்கு, ‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`
 
 The earlier intermediate reading `மத நம்பிக்கையின்மை` is superseded and is **not** counted as an additional durable correction. The user's supplied reading enabled a targeted reinspection of the damaged line; the surviving native glyphs align with the corrected full phrase. The former physical-loss hold is therefore resolved.
 
@@ -106,7 +107,7 @@ The earlier intermediate reading `மத நம்பிக்கையின்
 
 ## Supersession note
 
-This audit is newer than the original Batch-1 Stage-2/Stage-4 fidelity decisions and supersedes those earlier readings wherever the 18 corrections above conflict with them.
+This audit is newer than the original Batch-1 Stage-2/Stage-4 fidelity decisions and supersedes those earlier readings wherever the 19 corrections above conflict with them.
 
 The historical Stage-2 correction count remains part of the audit trail; it must not be treated as the current exact text without this re-audit.
 
