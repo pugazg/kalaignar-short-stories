@@ -73,7 +73,7 @@ No duplicate canonical story workspace was created.
 - canonical-recheck candidates opened from 1953 witnesses: **0**
 - collection-wide unresolved source-dependent items: **0**
 - collection-wide Tamil/source gate: **CLOSED / PASS**
-- English next: **`விலையால் வாங்கலையோ` canonical English translation**
+- English phase: **IN PROGRESS — `விலையால் வாங்கலையோ` 4/8 source pages drafted**
 
 ### Story 1 — `தப்பிவிட்டார்கள்`
 
@@ -115,7 +115,7 @@ No duplicate canonical story workspace was created.
 - reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
 - closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
 - unresolved source readings: **0**
-- English: **READY / PENDING — collection-wide Tamil/source gate CLOSED**
+- English: **IN PROGRESS — scans 24–27 drafted / scans 28–31 pending**
 - durable T1 checkpoints: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 - Stage-2 checkpoints: `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`, `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 - Stage-2 cumulative repairs: **30 occurrence-level textual repairs; 9 historical-character identity corrections / resolutions**
@@ -151,8 +151,22 @@ No duplicate canonical story workspace was created.
 
 Under `COLLECTION_SOURCE_GUIDE.md` and `ENGLISH_TRANSLATION_GUIDE.md`, English translation for the new canonical Story 3 `விலையால் வாங்கலையோ` is now the automatic next phase.
 
+## English translation phase
+
+Progress tracker:
+
+`collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
+
+Current `விலையால் வாங்கலையோ` state:
+
+- English draft: **4/8 source pages complete**
+- drafted scans: **24–27 / printed 22–25**
+- page markers / physical boundary alignment for drafted span: **PASS 4/4**
+- Tamil reopened during translation: **No**
+- translation review: **IN PROGRESS**
+
 ## Exact next activity
 
-Begin **English translation for `விலையால் வாங்கலையோ`**, using only the verified Tamil assembly `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`.
+Continue **English translation for `விலையால் வாங்கலையோ`** with **scans 28–31 / printed 26–29 only**.
 
-Keep the next activity small: translate / page-anchor **scans 24–27 / printed 22–25 only**, commit the partial English layer and progress controls, synchronize, and stop before scans 28–31.
+Complete the remaining four-page draft, preserve verified page boundaries and the internal three-circle dividers on scans 28 and 29, update English review / progress controls, commit / synchronize, and stop before full-story English fidelity review.
