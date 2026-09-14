@@ -66,7 +66,7 @@ No OCR, web text, Wikisource, catalogue text, or alternate-edition wording was i
 
 The complete page was re-read fresh. The final paragraph still contains one physically obstructed source span immediately after:
 
-`‘மத நம்பிக்கை’ என்ற போர்வை`
+`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`
 
 The following source-visible right-side wording remains supported:
 
@@ -131,7 +131,7 @@ Durable audit:
 Result:
 
 - scans re-audited: **5/5**
-- additional source-proven corrections: **14**
+- additional source-proven corrections: **15**
 - wording / spelling / source-spacing corrections: **7**
 - punctuation corrections: **7**
 - scans 5–8: **RE-VERIFIED**
