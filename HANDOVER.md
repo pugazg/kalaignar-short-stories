@@ -690,7 +690,7 @@ Current state:
   - Stage-3 character-identity corrections: **0**
   - Stage 4: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
   - post-closure word-by-word visual fidelity re-audit: **COMPLETE 5/5**
-  - re-audit source-proven corrections: **14**
+  - re-audit source-proven corrections: **15**
   - scans 5–8: **RE-VERIFIED**
   - scan 9 recoverable text: **PASS**
   - scan 9 physical-loss span: **BLOCKED / UNCHANGED**
@@ -765,8 +765,8 @@ Workspace:
 Batch 1 scans **5–9 / printed 1–5** has now completed the user-requested **word-by-word visual text-fidelity re-audit**:
 
 - scans checked word by word — **5/5**
-- additional source-proven corrections — **14**
-- wording / spelling / source-spacing corrections — **7**
+- additional source-proven corrections — **15**
+- wording / spelling / source-spacing corrections — **8**
 - punctuation corrections — **7**
 - scans **5–8** — **RE-VERIFIED**
 - scan **9** recoverable text — **PASS**
@@ -774,6 +774,12 @@ Batch 1 scans **5–9 / printed 1–5** has now completed the user-requested **w
 - guessed reconstruction — **0**
 - durable audit — `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
 - limitation record — `SOURCE_LIMITATION_SCAN_009.md`
+
+Targeted scan-9 phrase correction after user review:
+
+- incorrect earlier reading — `‘மத நம்பிக்கை’ என்ற போர்வை`
+- source-visible reading — **`‘மத நம்பிக்கையின்மை’ என்ற போர்வை`**
+- this is recoverable text; the still-obscured span begins after `போர்வை`
 
 Important resolved boundary:
 
