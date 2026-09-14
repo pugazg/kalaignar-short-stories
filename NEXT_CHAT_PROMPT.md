@@ -1,83 +1,61 @@
-# NEXT CHAT PROMPT — `விலையால் வாங்கலையோ` / Stage 3 scans 28–31
+# NEXT CHAT PROMPT — `விலையால் வாங்கலையோ` / Stage 4 Tamil assembly + controls
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Controlling source
 
-Use only the attached:
-
 `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
 
 - collection: **தப்பிவிட்டார்கள்**
 - edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
-- source type: **image-only**
-- source authority: **direct scan pixels**
 - story: **விலையால் வாங்கலையோ**
-- story span: scans **24–31 / printed 22–29**
 - canonical route: `stories/vilaiyal-vangalaiyo/`
-
-Historical-glyph guide:
-
-`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-
-No OCR, web text or alternate edition may replace the controlling source pixels.
+- story scans: **24–31 / printed 22–29**
+- scan 32 / printed 30: boundary witness opening `முந்நூறு ரூபாய்`
 
 ## Durable state
 
-- T1: **8/8 COMPLETE**
-- Stage 2: **8/8 COMPLETE / PASS**
-- Stage 3: **4/8 COMPLETE / PASS**
-- scans 24–27: **VERIFIED 4/4**
-- scans 28–31: **needs-review 4/4**
-- Stage-3 corrections so far: **5**
-- unresolved readings in verified Stage-3 batch: **0**
-- Stage 4 Tamil assembly / controls: not started
-- English: blocked
+- T1 first-pass: **8/8 COMPLETE**
+- Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
+- Stage 3 final source / visual-fidelity audit: **8/8 COMPLETE / PASS**
+- page records: **VERIFIED 8/8**
+- unresolved source readings: **0**
+- Stage-2 cumulative repairs: **30** occurrence-level textual repairs, including **9** historical-character identity corrections / resolutions
+- Stage-3 cumulative final corrections: **13**
+- Stage 4 Tamil assembly / controls: **NOT STARTED**
+- English: **BLOCKED until Tamil/source closure**
 
-Stage-3 checkpoint:
+Stage-3 checkpoints:
 
-`stories/vilaiyal-vangalaiyo/STAGE3_BATCH_024_027.md`
+- `stories/vilaiyal-vangalaiyo/STAGE3_BATCH_024_027.md`
+- `stories/vilaiyal-vangalaiyo/STAGE3_BATCH_028_031.md`
 
-Stage-3 scans 24–27 final corrections:
+Stage-3 scans 28–31 final corrections included:
 
-- scan 25: `தெரியவில்லையா` → `தெரிய வில்லையா`;
-- scan 25: `எழுதி முடித்தான்` → `எழுதிமுடித்தான்`;
-- scan 26: `இடியென முழங்கிக்கொண்டிருந்தது` → `இடியெனமுழங்கிக்கொண்டிருந்தது`;
-- scan 26: `ஒரு நீளமான பெருமூச்சு` → `ஒருநீளமானபெருமூச்சு`;
-- scan 26: `அவன் கண்கள்` → `அவன்கண்கள்`.
-
-## Small-task rule
-
-1. T1 scans 24–31 + boundary — **DONE**
-2. Stage 2 scans 24–27 — **DONE / PASS**
-3. Stage 2 scans 28–31 — **DONE / PASS**
-4. Stage 3 scans 24–27 — **DONE / PASS / VERIFIED**
-5. Stage 3 scans 28–31 — **CURRENT**
-6. Stage 4 assembly / controls
+- scan 28: `வெளியாயிற்று`; `கவலைப் படவே யில்லை`;
+- scan 29: `கடைப் பையனிடம்`;
+- scan 30: source punctuation spacing in `சப் இன்ஸ்பெக்டரும்,வைரக்கண்ணும்,வேடிக்கை` and `ஆரம்பித்தது,சப்`;
+- scan 31: restored omitted `என்ன` in `அவன் மனதில் என்ன எண்ணம் தோன்றிற்று`; source comma after `லக்ஷ்மி பிணமாகக் கிடந்தாள்,`; source `திருடன்!கொலைகாரன்!`.
 
 ## Exact next activity
 
-Process **Stage 3 final source / visual-fidelity audit only for scans 28–31 / printed 26–29**.
+Process **Stage 4 Tamil assembly / controls only**.
 
 1. Fetch live `main`.
-2. Read the four Stage-2-updated page records for scans 28–31 and the Stage-2 checkpoint.
-3. Reopen scans 28–31 directly at native / enlarged resolution.
-4. Independently re-read every line, punctuation mark, dialogue boundary, section divider, page continuation and story ending.
-5. Revalidate every Stage-2 repair rather than assuming it is correct.
-6. Recheck known historical glyph families and any additional edition-specific old forms encountered.
-7. Repair and document any Stage-2 over-correction or missed fidelity issue.
-8. Do not modernize spelling, sandhi, compounds, names, punctuation or grammar.
-9. Promote a page to `verified` only when no source-dependent reading remains unresolved.
-10. Create `STAGE3_BATCH_028_031.md`.
-11. Update story README / page map, collection trackers, root `HANDOVER.md`, and this prompt.
+2. Read all 8 verified page records in scan order 24→31.
+3. Create / update the canonical reading layer under `stories/vilaiyal-vangalaiyo/sections/` using only the verified page text.
+4. Preserve all source wording, punctuation, paragraphing, internal three-circle dividers and story-ending wording.
+5. Add explicit page provenance markers for all 8 scans so scan / printed-page traceability remains durable.
+6. Validate scan sequence **24–31 exactly once** and printed pages **22–29 exactly once**.
+7. Validate physical continuations:
+   - scan 24→25: `இனி அந்த வாட்டுப் பயல்` → `இந்த ஊர்திரும்ப மாட்டான்.`
+   - scan 29→30: `சொன்` → `ணன்.`
+   - scan 30→31: `சப் இன்ஸ்பெக்டர் சரியானபடி` → `ஏமாற்றப்போகிறார் என்று...`
+8. Validate internal three-circle dividers and final story-ending boundary.
+9. Confirm scan 32 is excluded and opens `முந்நூறு ரூபாய்`.
+10. Create the Tamil/source closure control file and any audit / review control files required by the repository guide.
+11. Update story README / page map, collection README / inventory, root `HANDOVER.md`, and this prompt.
 12. Commit / synchronize.
-13. **Stop after scan 31. Do not start Stage 4 in the same activity.**
-
-High-value Stage-2 repairs / readings to independently revalidate:
-
-- scan 28 — recovered `அத்தான்.....ஏன் அழுகிறீர்கள்?`; source `லக்ஷ்மி`; `கவலைப் படவே இல்லை`; `வளையல்களைக்` / `வளையல்களையும்` / `வளையல்களை`; `செல்லவேண்டு மென்ற`; joined `புதுஒளி`;
-- scan 29 — `பாய்ந்தவேல்`; recovered `ஆடிக்கொண்டே உள்ளே ஓடினாள்......`; old `ளா` in `ஓடினாள்`; `நாட்டு சோக்காளி`; `நூறு ரூபாய்கூடப் பெறுமானமில்லை`; scan-end `சொன்` → scan-30 `ணன்.` continuation;
-- scan 30 — historical-`னா` `ஓடினான்` / `திரும்பினான்`; `வளையல்களைப் பார்த்துக்`; `வில்லை யென்று`; `நாழிகை`; `குற்றஞ் சாட்டப்பட்டான்`; source `புறப்படும்`; circular physical losses;
-- scan 31 — `ஏமாற்றப்போகிறார் என்று`; historical-`னா` `எழுப்பினான்`, `அலறினான்`, `ஆடினான்`, `கூறினார்கள் இப்படி`; `பதிலவரவில்லை`; `சண்டமாருத`; long explanatory sentence; final `விலையால் வாங்கலையோ வளையல்`; circular physical losses.
+13. **Stop after Tamil/source closure. Do not begin English in the same activity.**
 
 Story 4 `முந்நூறு ரூபாய்` remains untouched.
