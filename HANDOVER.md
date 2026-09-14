@@ -128,114 +128,65 @@ Current state:
 
 ## 1953 `தப்பிவிட்டார்கள்` — Tamil/source CLOSED / English IN PROGRESS
 
-Controlling attached source:
+Controlling source: `TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`.
 
-`TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf`
+Collection workspace: `collections/1953-thappivittargal/`.
 
-Collection workspace:
-
-`collections/1953-thappivittargal/`
-
-Source identity:
-
-- bytes: **50,916,676**
-- SHA-256: **`435a2e8afbf036bce7daff27283722050ca9e03b92cd2dbb077dea339447a36b`**
-- physical scans: **34**
-- edition: **நான்காம் பதிப்பு — ஆகஸ்ட் '53**
-- publisher: **திராவிடன் பதிப்பகம், வேலூர் (வ. ஆ.)**
-- source type: **image-only; direct scan pixels control**
-- source PDF committed: **No**
-
-Tamil/source collection state: **PASS / CLOSED**.
+Tamil/source phase: **PASS / CLOSED**.
 
 1. `தப்பிவிட்டார்கள்` — witness **CLOSED / PASS 9/9**
 2. `சபலம்` — witness **CLOSED / PASS 8/8**
 3. `விலையால் வாங்கலையோ` — canonical Tamil/source **CLOSED / PASS 8/8**
 4. `முந்நூறு ரூபாய்` — witness **CLOSED / PASS 3/3**
 
-Collection-wide unresolved source-dependent items: **0**.  
-Canonical-recheck candidates opened from this 1953 collection: **0**.
+Collection-wide unresolved source-dependent items: **0**.
+Canonical-recheck candidates opened from this collection: **0**.
 
-### Story 3 — `விலையால் வாங்கலையோ`
+### `விலையால் வாங்கலையோ` Tamil authority
 
-Canonical route:
-
-`stories/vilaiyal-vangalaiyo/`
-
-Tamil/source authority:
-
-- verified page records: **8/8**
-- scans **24–31 / printed 22–29**
-- Stage 2 historical-glyph audit: **8/8 PASS**
-- Stage 3 final source audit: **8/8 PASS**
-- Stage 4 Tamil assembly / controls: **PASS / CLOSED**
-- reading layer: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
+- verified source scans: **24–31 / printed 22–29 — 8/8**
+- Tamil assembly: `stories/vilaiyal-vangalaiyo/sections/vilaiyal-vangalaiyo.md`
 - source closure: `stories/vilaiyal-vangalaiyo/TAMIL_SOURCE_CLOSURE.md`
-- review queue: **0 open**
+- Tamil review queue: **0 open**
 - unresolved Tamil readings: **0**
 
-English authority:
+### `விலையால் வாங்கலையோ` English state
 
 - guide: `ENGLISH_TRANSLATION_GUIDE.md`
 - English path: `stories/vilaiyal-vangalaiyo/translations/en/vilaiyal-vangalaiyo.md`
 - review: `stories/vilaiyal-vangalaiyo/TRANSLATION_REVIEW.md`
 - collection tracker: `collections/1953-thappivittargal/ENGLISH_TRANSLATION_PROGRESS.md`
-
-Current English state:
-
-- draft coverage: **4/8 source pages**
-- completed: scans **24–27 / printed 22–25**
-- pending: scans **28–31 / printed 26–29**
-- drafted page markers: **4/4 PASS**
-- drafted physical content-boundary alignment: **4/4 PASS**
-- scan 25 three-open-circle divider: **preserved**
+- draft coverage: **8/8 source pages COMPLETE**
+- page markers present / ordered: **PASS 8/8**
+- draft-stage physical boundary alignment: **PASS 8/8**
+- meaningful three-open-circle dividers: **PASS 3/3**
+- final source page has substantive translated ending: **PASS**
 - Tamil reopened during translation: **No**
-- translation review: **IN PROGRESS**
-- title treatment during draft: **Vilaiyal Vangalaiyo** (conservative transliteration; final title treatment deferred to full-story review)
+- unresolved drafting blocks: **0**
+- review state: **IN PROGRESS — DRAFT COMPLETE**
+- working title: **Vilaiyal Vangalaiyo** — final title treatment pending full-story review
 
-Source-sensitive English choices already documented include:
+Boundary-sensitive draft points already preserved:
 
-- `அத்தான்` → **Aththan**
-- `தாசி` → **dasi**
-- `பொட்டுக்கட்டு / பொட்டு` → **pottukattu / pottu**
-- `பல்லவி / அனுபல்லவி / சரணம்` → **pallavi / anupallavi / charanam**
-- `ஜமீன்தார்` → **zamindar**
+- scan 24→25: `That wretched fellow` → `won't come back to this town.`
+- scan 29→30: source split `சொன்` → `ணன்.` mirrored by English `sa` → `id`
+- scan 30→31: `going to be thoroughly` → `fooled.`
+- scan 31 ending: draft closes with **“Were you bought for a price, bangle?”**
 
-The scan **24→25** physical continuation is preserved in English as **“That wretched fellow” → “won't come back to this town.”**
+### Exact next activity — current
 
-### Story 4 — `முந்நூறு ரூபாய்` 1953 witness
+Perform the **full-story English fidelity / terminology review** for `விலையால் வாங்கலையோ` across scans **24–31 / printed 22–29**.
 
-Witness workspace:
-
-`stories/munnuru-rupai/witnesses/1953-thappivittargal/`
-
-Result: **CLOSED / PASS 3/3**.
-
-- narrative structure equivalent / complete
-- major added / omitted blocks: **0**
-- alternate ending: **No**
-- unresolved comparison items: **0**
-- canonical recheck candidates: **0**
-- canonical Tamil / English changed: **No / No**
-
-Representative variants include 1953 `எழுபது` ↔ source-verified 1977 `எழுபட்டு`, 1953 `செலவளித்துக்` ↔ 1977 `செலவழித்துக்`, and 1953 `வளருகிறது` ↔ 1977 `வளர்ந்தது`.
-
-## Exact next activity — current
-
-Continue **English drafting for `விலையால் வாங்கலையோ` — scans 28–31 / printed 26–29 only**.
-
-- read the verified Tamil page records for scans 28–31;
-- append the remaining four source-page sections to the existing English file;
-- preserve source-page markers at the exact Tamil physical boundaries;
-- preserve the internal three-open-circle dividers on scans **28** and **29**;
-- preserve the scan **29→30** split-word continuation and scan **30→31** sentence continuation at the correct marker locations;
-- preserve the scan-31 story ending;
-- update `TRANSLATION_REVIEW.md` and `ENGLISH_TRANSLATION_PROGRESS.md` to **draft complete 8/8**;
-- update story / collection / root controls;
+- compare the complete verified Tamil assembly against the full English draft;
+- review every paragraph for omission, duplication, meaning, tone, rhetorical repetition, dialogue and cultural-term consistency;
+- adjudicate the working title and final bangle refrain together;
+- explicitly review `Aththan`, `dasi`, `pottukattu / pottu`, `pallavi / anupallavi / charanam`, `zamindar`, `country dandy`, `city of bliss`, and the final refrain;
+- repair English only unless a genuine Tamil source issue is exposed;
+- update `TRANSLATION_REVIEW.md`, progress tracker, story / collection / root controls;
 - commit / synchronize;
-- **stop before the full-story English fidelity / terminology review**.
+- **stop before final physical page-anchor validation / English closure**.
 
-Do not alter verified Tamil merely to improve English.
+Do not reopen Tamil merely to make the English smoother.
 
 ## Closed source — 1956 `தாய்மை`
 
