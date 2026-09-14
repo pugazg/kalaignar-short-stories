@@ -26,4 +26,5 @@ Boundary witness:
 - Stage 4 Tamil assembly / controls: **PASS / CLOSED**
 - reading layer: `../sections/vilaiyal-vangalaiyo.md`
 - Tamil/source closure: `../TAMIL_SOURCE_CLOSURE.md`
-- English: **READY / PENDING — collection-wide Tamil/source gate closed**
+- English: **IN PROGRESS — scans 24–27 drafted / scans 28–31 pending**
+- English draft markers / physical boundaries for scans 24–27: **PASS 4/4**
