@@ -9,7 +9,7 @@
 | 1 | — | cover/title | `நாடும் நாடகமும்` / `மு. கருணாநிதி` / `திராவிடப்பண்ணை` | registered |
 | 2 | — | edition / imprint | `முதல் பதிப்பு — 1953`; price; printer line | registered |
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
-| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — Batch 1 word-by-word re-audit closed with 15 corrections; Batch 2 scans 10–14 Stage 1 next** |
+| 5–20 | 1–16 | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **IN PROGRESS — Batch 1 CLOSED / VERIFIED 5/5 after word-by-word re-audit with 18 corrections; Batch 2 scans 10–14 Stage 1 next** |
 | 21–24 | 16-A–16-D | prose/discourse | continuation of `நாடும் நாடகமும்` | retained here / pending processing |
 | 25–51 | 17–43 | play | `தெருக்கூத்து`; begins `காட்சி 1` | **retained here / pending processing** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | inventory only / existing-canonical witness |
@@ -67,12 +67,12 @@ No story text was transcribed during intake.
 - Stage 3: **COMPLETE 5/5**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
+- Stage 4: **COMPLETE / PASS after targeted scan-9 resolution**
 - Stage-4 source-proven corrections: **0**
 - post-closure word-by-word re-audit: **COMPLETE 5/5**
-- re-audit source-proven corrections: **15**
+- re-audit source-proven corrections: **18**
 - scan 8→9 boundary: **`தீட்டிக்` / `காட்டிய` confirmed**
-- verified: **4/5**
-- blocked: **1/5 — scan 9 physical source loss**
+- verified: **5/5**
+- blocked: **0/5**
 - remaining actionable source-text issues: **0**
 - next batch: **scans 10–14 / printed 6–10 Stage 1**
