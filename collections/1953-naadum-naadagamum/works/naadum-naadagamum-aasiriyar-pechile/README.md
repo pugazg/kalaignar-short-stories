@@ -61,8 +61,22 @@ Scans **5–9 / printed 1–5** are **CLOSED / VERIFIED 5/5**.
 - resolved historical limitation record — [`SOURCE_LIMITATION_SCAN_009.md`](SOURCE_LIMITATION_SCAN_009.md)
 - no guessed reconstruction
 
+## Batch 2 current state
+
+Batch 2 = scans **10–14 / printed 6–10**.
+
+- Stage 1 first-pass transcription: **COMPLETE — 5/5**
+- page records: **5/5**
+- page status: **needs-review 5/5**
+- explicit unresolved first-pass spans: **3 — all on scan 13**
+- guessed readings: **0**
+- Stage 2 visual text-fidelity audit: **NEXT**
+- Stage 3 historical-glyph audit: **NOT STARTED**
+- Stage 4 final independent check: **NOT STARTED**
+- durable Stage-1 record: [`STAGE1_BATCH_002.md`](STAGE1_BATCH_002.md)
+
 ## Exact next activity
 
-Begin **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**.
+Run **Batch 2 Stage 2 visual text-fidelity audit** for scans **10–14 / printed 6–10**.
 
-Use only the controlling scan pixels; create five page records with `needs-review` status and stop after Stage 1.
+Resolve the Stage-1 review queue directly from the controlling native scan pixels, keep all five pages `needs-review`, commit/sync Stage 2, and stop. Do **not** start Stage 3 in the same activity.
