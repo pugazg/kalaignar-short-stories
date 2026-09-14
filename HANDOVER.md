@@ -717,7 +717,19 @@ Current state:
   - durable Stage-2 record: `STAGE2_BATCH_002.md`
   - durable Stage-3 record: `STAGE3_BATCH_002.md`
   - durable Stage-4 record: `STAGE4_BATCH_002.md`
-- remaining later transcription / witness comparison: **NOT STARTED**
+- Batch 3 scans **15–19 / printed 11–15**:
+  - Stage 1 first-pass transcription: **COMPLETE 5/5**
+  - page records: **5/5**
+  - page status: **needs-review 5/5**
+  - inline unresolved source spans: **0**
+  - guessed readings: **0**
+  - scan 15→16 boundary: **`பறி` / `கொடுத்துப்` preserved**
+  - scan 16→17 boundary: **`கொடுமைக்` / `கொடுத்து` preserved**
+  - Stage 2 visual text-fidelity audit: **NEXT**
+  - Stage 3: **NOT STARTED**
+  - Stage 4: **NOT STARTED**
+  - durable Stage-1 record: `STAGE1_BATCH_003.md`
+- later retained-work scans 20–24 / witness comparison: **NOT STARTED**
 
 Durable intake files:
 
@@ -827,9 +839,25 @@ Targeted scan-13 disposition:
 - no guessed reconstruction
 - no unresolved Batch-2 source text
 
-**NEXT: Batch 3 Stage 1 first-pass transcription — scans 15–19 / printed 11–15.**
+### Batch 3
 
-Use only the controlling source pixels. Transcribe all five pages once, preserve genuine uncertainties explicitly rather than guessing, set the new pages to `needs-review`, synchronize controls, commit Stage 1, and stop before Stage 2.
+Scans **15–19 / printed 11–15**:
+
+- Stage 1 first-pass transcription — **COMPLETE 5/5**
+- page records — **5/5**
+- page status — **needs-review 5/5**
+- inline unresolved source spans — **0**
+- guessed readings — **0**
+- scan 15→16 physical boundary — **`பறி` / `கொடுத்துப்` preserved**
+- scan 16→17 physical boundary — **`கொடுமைக்` / `கொடுத்து` preserved**
+- durable Stage-1 record — `STAGE1_BATCH_003.md`
+- Stage 2 visual text-fidelity audit — **NEXT**
+- Stage 3 — **NOT STARTED**
+- Stage 4 — **NOT STARTED**
+
+**NEXT: Batch 3 Stage 2 visual text-fidelity audit — scans 15–19 / printed 11–15.**
+
+Compare the committed Stage-1 pages against the controlling scan line by line / phrase by phrase, resolve source-supported ordinary fidelity issues, keep all five pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 3 Stage 1 scans 15–19
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 3 Stage 2 scans 15–19
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,9 +22,9 @@ Source identity:
 
 Do not use OCR, web copies, Wikisource, catalogue text, or alternate editions as source authority.
 
-The user also supplied `Naadum_naadagamum.md`. It may be used only as a non-authoritative locator/clue; no reading may be imported from it without direct scan confirmation.
+The user-supplied `Naadum_naadagamum.md` may be used only as a non-authoritative locator/clue; no wording may be imported from it without direct source confirmation.
 
-The user also supplied `therukoothu.md`; do **not** switch to `தெருக்கூத்து` yet.
+The user-supplied `therukoothu.md` remains queued; do **not** switch to `தெருக்கூத்து` yet.
 
 ## Active work
 
@@ -32,49 +32,50 @@ Workspace:
 
 `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
 
-### Batch 1 — scans 5–9 / printed 1–5
+### Closed batches
 
-**CLOSED / VERIFIED 5/5.**
+- Batch 1 scans **5–9 / printed 1–5** — **CLOSED / VERIFIED 5/5**
+- Batch 2 scans **10–14 / printed 6–10** — **CLOSED / VERIFIED 5/5**
 
-### Batch 2 — scans 10–14 / printed 6–10
+### Batch 3 — scans 15–19 / printed 11–15
 
-**CLOSED / VERIFIED 5/5.**
-
-- Stage 1 — **COMPLETE 5/5**
-- Stage 2 — **COMPLETE 5/5**
-- Stage 3 — **COMPLETE / PASS 5/5**
-- Stage 4 — **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
-- Stage-2 source-proven corrections — **22**
-- Stage-4 additional source-supported corrections — **24**
-- targeted scan-13 final resolution — **`படுவது,`**
-- final resolved source phrase — **`பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`**
-- unresolved source-text spans — **0**
+- Stage 1 first-pass transcription — **COMPLETE 5/5**
+- page records — **5/5**
+- page status — **needs-review 5/5**
+- inline unresolved source spans — **0**
 - guessed readings — **0**
-- scan 13→14 boundary — **PASS / reconfirmed**
-- durable records:
-  - `STAGE1_BATCH_002.md`
-  - `STAGE2_BATCH_002.md`
-  - `STAGE3_BATCH_002.md`
-  - `STAGE4_BATCH_002.md`
+- scan 15→16 boundary — **`பறி` / `கொடுத்துப்` preserved**
+- scan 16→17 boundary — **`கொடுமைக்` / `கொடுத்து` preserved**
+- durable Stage-1 record — `STAGE1_BATCH_003.md`
+- Stage 2 visual text-fidelity audit — **NEXT**
+- Stage 3 historical-glyph audit — **NOT STARTED**
+- Stage 4 final independent check — **NOT STARTED**
+
+Stage-2 review queue from Stage 1 includes:
+
+- scan 15 — `கோவர்த்தன கிரியைச் சுட்டு விரலால்`; punctuation around `சதி—அனுசுயா` / `சதி—அகல்யா`; `தன்னம்பிக்கைபெற`; scan 15→16 boundary;
+- scan 16 — `காரண மென்ன?`; `‘வேதனைச் சித்திரங்கள்’`; `என்பதையும்`; `நிலைக்குத்தள்ளப்பட்டும்`; scan 16→17 boundary;
+- scan 17 — `கூரம்புகள்`; `இந்தப்பணியில்`; `கேளாக்காதர்களாக`; `கஷ்டந்தான்`; `மருந்துண்ணாவிட்டால்`;
+- scan 18 — `உட்கொள்ளத் தான்`; `கருத்தும்கலந்து`; `கண்மூடிப் பக்தர்களும்`; `கேளாக்காதர்களுங்கூட`; `வளர்த்ததின் அறிகுறியே`; `என்று தான்`;
+- scan 19 — `அறிவையூட்டும்`; `பழமையினால்`; `பாதந்தாங்கிடும்`; punctuation around `ஏழை—எரிமலையாகி`; `முன்ஜன்ம`; `கிலி`.
 
 ## Exact next activity
 
-Start **Batch 3 Stage 1 first-pass transcription** for scans **15–19 / printed 11–15**.
+Run **Batch 3 Stage 2 visual text-fidelity audit** for scans **15–19 / printed 11–15**.
 
 1. fetch live `main`;
-2. reread the permanent workflow/fidelity guides, `HANDOVER.md`, this prompt, the active-work README, and `indexes/page-map.md`;
+2. reread the permanent workflow/fidelity guides, `HANDOVER.md`, this prompt, the active-work README, `indexes/page-map.md`, and `STAGE1_BATCH_003.md`;
 3. use only the controlling PDF/native scan pixels as authority;
-4. transcribe scans 15, 16, 17, 18 and 19 completely once;
-5. preserve source wording, punctuation, paragraphing, spelling, spacing and physical page boundaries;
-6. clearly readable historical characters may be encoded, but do **not** run the systematic Stage-3 glyph audit yet;
-7. if any reading is genuinely uncertain, retain an explicit review marker rather than guessing;
-8. create the five page records and the durable Batch-3 Stage-1 audit;
-9. set all Batch-3 pages to `needs-review`;
-10. synchronize the page map, work/collection README, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`;
-11. commit Stage 1 and stop.
+4. compare the committed Stage-1 transcription against scans 15–19 line by line / phrase by phrase;
+5. check omissions, duplicated text, wrong words/letters, punctuation, paragraph boundaries, source spelling/spacing, and physical page joins;
+6. specifically adjudicate the Stage-1 review queue and both physical continuations;
+7. correct only source-supported ordinary fidelity issues;
+8. keep all five pages `needs-review`;
+9. create `STAGE2_BATCH_003.md` and synchronize work/collection/root trackers;
+10. commit Stage 2 and stop.
 
-Do **not** begin Batch 3 Stage 2 in the same activity.
+Do **not** start Stage 3 in the same activity.
 
-After the full prose/discourse work closes through scan 24, retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** remains next in source order.
+After the prose/discourse work closes through scan 24, retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** remains next in source order.
 
-The queued 1979 `பழக்கூடை` source remains intake-complete but waiting. The deferred 1958 `தேனலைகள்` remains deferred.
+The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.

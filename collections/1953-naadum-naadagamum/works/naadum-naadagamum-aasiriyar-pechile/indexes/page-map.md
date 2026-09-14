@@ -12,11 +12,11 @@
 | 12 | 8 | body | **verified — Batch 2 Stage 4 PASS** |
 | 13 | 9 | body | **verified — targeted scan-13 source resolution PASS** |
 | 14 | 10 | body | **verified — Batch 2 Stage 4 PASS** |
-| 15 | 11 | body | not-started |
-| 16 | 12 | body | not-started |
-| 17 | 13 | body | not-started |
-| 18 | 14 | body | not-started |
-| 19 | 15 | body | not-started |
+| 15 | 11 | body | **needs-review — Batch 3 Stage 1 COMPLETE** |
+| 16 | 12 | body | **needs-review — Batch 3 Stage 1 COMPLETE** |
+| 17 | 13 | body | **needs-review — Batch 3 Stage 1 COMPLETE** |
+| 18 | 14 | body | **needs-review — Batch 3 Stage 1 COMPLETE** |
+| 19 | 15 | body | **needs-review — Batch 3 Stage 1 COMPLETE** |
 | 20 | 16 | body | not-started |
 | 21 | 16-A | body | not-started |
 | 22 | 16-B | body | not-started |
@@ -135,6 +135,24 @@ Scans **10–14 / printed 6–10**
 - guessed reconstruction: **0**
 - batch closure: **CLOSED / VERIFIED 5/5**
 
+## Batch 3
+
+Scans **15–19 / printed 11–15**
+
+- Stage 1: **COMPLETE / 5 pages**
+- page records: **5/5**
+- needs-review: **5**
+- verified: **0**
+- blocked: **0**
+- inline unresolved source spans: **0**
+- guessed readings: **0**
+- scan 15→16 boundary: **`பறி` / `கொடுத்துப்` preserved**
+- scan 16→17 boundary: **`கொடுமைக்` / `கொடுத்து` preserved**
+- durable Stage-1 audit: `STAGE1_BATCH_003.md`
+- Stage 2: **NEXT**
+- Stage 3: **NOT STARTED**
+- Stage 4: **NOT STARTED**
+
 ## Exact next activity
 
-Batch 3 Stage 1 first-pass transcription — scans **15–19 / printed 11–15**. Do not begin Stage 2 in the same activity.
+Batch 3 Stage 2 visual text-fidelity audit — scans **15–19 / printed 11–15**. Do not begin Stage 3 in the same activity.

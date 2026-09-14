@@ -86,8 +86,24 @@ Batch 2 = scans **10–14 / printed 6–10**.
 - durable Stage-3 record: [`STAGE3_BATCH_002.md`](STAGE3_BATCH_002.md)
 - durable Stage-4 record: [`STAGE4_BATCH_002.md`](STAGE4_BATCH_002.md)
 
+## Batch 3 current state
+
+Batch 3 = scans **15–19 / printed 11–15**.
+
+- Stage 1 first-pass transcription: **COMPLETE — 5/5**
+- page records: **5/5**
+- page status: **needs-review 5/5**
+- inline unresolved source spans: **0**
+- guessed readings: **0**
+- scan 15→16 boundary: **`பறி` / `கொடுத்துப்` preserved**
+- scan 16→17 boundary: **`கொடுமைக்` / `கொடுத்து` preserved**
+- Stage 2 visual text-fidelity audit: **NEXT**
+- Stage 3 historical-glyph audit: **NOT STARTED**
+- Stage 4 final independent check: **NOT STARTED**
+- durable Stage-1 record: [`STAGE1_BATCH_003.md`](STAGE1_BATCH_003.md)
+
 ## Exact next activity
 
-Start **Batch 3 Stage 1 first-pass transcription** for scans **15–19 / printed 11–15**.
+Run **Batch 3 Stage 2 visual text-fidelity audit** for scans **15–19 / printed 11–15**.
 
-Use only the controlling source pixels, transcribe all five pages once, preserve genuine uncertainties explicitly rather than guessing, set pages to `needs-review`, synchronize controls, commit Stage 1, and stop before Stage 2.
+Compare all five committed page records directly against the controlling scan line by line / phrase by phrase, resolve source-supported ordinary fidelity issues, keep all pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.

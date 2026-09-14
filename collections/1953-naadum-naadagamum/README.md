@@ -120,15 +120,24 @@ No new canonical story folder was created in this intake-only iteration.
   - unresolved source-text spans: **0**
   - guessed readings: **0**
   - Batch 2 closure: **CLOSED / VERIFIED 5/5**
-- remaining later transcription / witness comparison: **NOT STARTED**
+  - Batch 3 scans **15–19 / printed 11–15**
+  - Stage 1 first-pass: **COMPLETE 5/5**
+  - page status: **needs-review 5/5**
+  - inline unresolved source spans: **0**
+  - guessed readings: **0**
+  - Stage 2 visual text-fidelity: **NEXT**
+  - Stage 3: **NOT STARTED**
+  - Stage 4: **NOT STARTED**
+- later retained-work scans **20–24**: **NOT STARTED**
+- remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 1 first-pass transcription**, scans **15–19 / printed 11–15**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 3 Stage 2 visual text-fidelity audit**, scans **15–19 / printed 11–15**.
 
-Batch 1 scans 5–9 remains **CLOSED / VERIFIED 5/5**.
+Batch 1 scans 5–9 and Batch 2 scans 10–14 remain **CLOSED / VERIFIED 10/10**.
 
-Batch 2 scans 10–14 is now **CLOSED / VERIFIED 5/5**. The targeted scan-13 source-resolution pass directly resolves the former hold as `படுவது,`, yielding `பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`. Unresolved source-text spans are **0** and guessed reconstruction remains **0**.
+Batch 3 Stage 1 is durably **COMPLETE 5/5**. All five pages are `needs-review`, no inline source span was left unresolved, and guessed readings remain 0. The physical joins `பறி` / `கொடுத்துப்` and `கொடுமைக்` / `கொடுத்து` are preserved.
 
-Start Batch 3 Stage 1 only; transcribe scans 15–19 from the controlling source, set pages to `needs-review`, synchronize, commit, and stop before Stage 2.
+Run Stage 2 only, synchronize controls, commit, and stop before Stage 3.
