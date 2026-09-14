@@ -47,17 +47,14 @@ Printed story pagination runs **5–32** with the stable relation:
 | 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | canonical `stories/vilaiyal-vangalaiyo/` — **TAMIL/SOURCE CLOSED / PASS 8/8** |
 | 4 | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | existing canonical `stories/munnuru-rupai/` — earlier witness |
 
-## Deduplication result
+## Deduplication / canonical routing result
 
-Fresh live-main checks found existing canonical routes for Stories 1, 2 and 4.
+- Story 1 `தப்பிவிட்டார்கள்` — existing 1977 canonical witness route
+- Story 2 `சபலம்` — existing 1977 canonical witness route
+- Story 3 `விலையால் வாங்கலையோ` — no prior canonical match; final pre-activation duplicate check **PASS**; canonical workspace created and Tamil/source **CLOSED**
+- Story 4 `முந்நூறு ரூபாய்` — existing 1977 canonical witness route
 
-For Story 3, `விலையால் வாங்கலையோ`:
-
-- no matching canonical title/slug exists in the current story tree;
-- a repository-wide check of existing assembled story sections found no match for distinctive opening identifiers such as `வைரக்கண்ணு` / the opening marriage-market dialogue;
-- therefore it is a **new-canonical candidate**, subject to one final duplicate check immediately before activation.
-
-Do not create its story folder during intake.
+No duplicate canonical story workspace was created.
 
 ## Processing state
 
