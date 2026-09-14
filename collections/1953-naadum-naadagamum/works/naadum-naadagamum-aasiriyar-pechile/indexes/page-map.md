@@ -7,11 +7,11 @@
 | 7 | 3 | body | **verified — word-by-word re-audit PASS** |
 | 8 | 4 | body | **verified — word-by-word re-audit PASS** |
 | 9 | 5 | body | **verified — targeted lower-line recheck PASS** |
-| 10 | 6 | body | not-started |
-| 11 | 7 | body | not-started |
-| 12 | 8 | body | not-started |
-| 13 | 9 | body | not-started |
-| 14 | 10 | body | not-started |
+| 10 | 6 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
+| 11 | 7 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
+| 12 | 8 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
+| 13 | 9 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
+| 14 | 10 | body | **needs-review — Batch 2 Stage 1 COMPLETE** |
 | 15 | 11 | body | not-started |
 | 16 | 12 | body | not-started |
 | 17 | 13 | body | not-started |
@@ -78,6 +78,22 @@ Scans **5–9 / printed 1–5**
 - guessed readings: **0**
 - durable audit: `WORD_BY_WORD_FIDELITY_REAUDIT_BATCH_001.md`
 
+
+## Batch 2
+
+Scans **10–14 / printed 6–10**
+
+- Stage 1: **COMPLETE / 5 pages**
+- page records: **5/5**
+- needs-review: **5**
+- verified: **0**
+- blocked: **0**
+- guessed readings: **0**
+- explicit unresolved first-pass spans: **3 — scan 13**
+- scan 13→14 boundary: **`சாதனங்` / `களையும்` preserved**
+- durable audit: `STAGE1_BATCH_002.md`
+- Stage 2: **NEXT**
+
 ## Exact next activity
 
-Batch 2 Stage 1 first-pass transcription — scans **10–14 / printed 6–10**.
+Batch 2 Stage 2 visual text-fidelity audit — scans **10–14 / printed 6–10**.
