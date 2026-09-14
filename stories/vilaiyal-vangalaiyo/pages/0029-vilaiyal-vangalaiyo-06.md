@@ -4,10 +4,10 @@ printed_page: 27
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 அவன் காதலுக்காக அவள் பட்ட இன்னல்கள் எத்தனை! வைரக்கண்ணு விரட்டப்பட்ட செய்தியைக் கேள்விப்பட்டாள். அது அவள் விலாவில் பாய்ந்தவேல்.
@@ -36,7 +36,7 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 
 “சரி. கோபிக்காதே சார்...மறுபடியும் பார்க்கிறேன்.”
 
-மார்வாடி வளையல்களை வாங்கி மீண்டும் மதிப்புப் பார்த்தான். பார்த்துக்கொண்டிருக்கும் போதே தன் கடைப்பையனிடம் ஏதோ இந்துஸ்தானியில் சொன்
+மார்வாடி வளையல்களை வாங்கி மீண்டும் மதிப்புப் பார்த்தான். பார்த்துக்கொண்டிருக்கும் போதே தன் கடைப் பையனிடம் ஏதோ இந்துஸ்தானியில் சொன்
 
 ## T1 first-pass notes
 
@@ -74,3 +74,17 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - scan-end fragment `சொன்` remains a physical page-boundary fragment; it is not joined inside this page record;
 - no global replacement or spelling modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the full page was independently re-read from the controlling native / enlarged scan;
+- Stage-2 `பாய்ந்தவேல்`, recovered `ஆடிக்கொண்டே உள்ளே ஓடினாள்......`, old `ளா` identity in `ஓடினாள்`, `நாட்டு சோக்காளி`, and `நூறு ரூபாய்கூடப் பெறுமானமில்லை` were independently confirmed;
+- all three-open-circle divider positions and dialogue boundaries were rechecked;
+- Stage-3 source-fidelity correction:
+  1. `கடைப்பையனிடம்` → `கடைப் பையனிடம்`;
+- the physical page-end fragment `சொன்` remains correctly separated from scan 30's opening `ணன்.`;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
