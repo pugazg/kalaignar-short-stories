@@ -4,10 +4,10 @@ printed_page: 28
 story: "vilaiyal-vangalaiyo"
 section: "story"
 page_type: "story"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064098_தப்பிவிட்டார்கள்.pdf"
-transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit from native/enlarged source pixels"
+transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph/difficult-reading audit + Stage 3 final independent source/visual-fidelity audit from native/enlarged source pixels"
 ---
 
 ணன். கடைப் பையன் எங்கேயோ ஓடினான். திருப்பித்
@@ -55,11 +55,11 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 
 “இதோ...வருகிறேன்.”
 
-சப் இன்ஸ்பெக்டரும், வைரக்கண்ணும், வேடிக்கை
+சப் இன்ஸ்பெக்டரும்,வைரக்கண்ணும்,வேடிக்கை
 பார்த்தவர்களும் அவன் வீடு நோக்கி நடந்தார்கள்.
 
 வீடு நெருங்க நெருங்க வைரக்கண்ணுக்குச் சிரிப்பு
-வெடிக்க ஆரம்பித்தது, சப் இன்ஸ்பெக்டர் சரியானபடி
+வெடிக்க ஆரம்பித்தது,சப் இன்ஸ்பெக்டர் சரியானபடி
 
 ## T1 first-pass notes
 
@@ -95,3 +95,17 @@ transcription_method: "T1 direct visual transcription + Stage 2 historical-glyph
 - scan 29→30 boundary fragments remain physically separate in page records; no cross-page lexical reconstruction was inserted here;
 - no global replacement or lexical modernization was used;
 - unresolved Stage-2 glyph clusters on this page: **0**.
+
+
+## Stage 3 final independent source / visual-fidelity audit
+
+**PASS / VERIFIED.**
+
+- the complete page was independently re-read from the controlling native / enlarged scan;
+- scan-29→30 continuation, all dialogue, historical-`னா` readings, and lower-page physical losses were rechecked;
+- Stage-2 `ஓடினான்`, `திரும்பினான்`, `வளையல்களைப் பார்த்துக்`, `வில்லை யென்று`, `நாழிகை`, `குற்றஞ் சாட்டப்பட்டான்`, and source `புறப்படும்` all remain source-supported;
+- Stage-3 punctuation-spacing corrections:
+  1. `சப் இன்ஸ்பெக்டரும், வைரக்கண்ணும், வேடிக்கை` → `சப் இன்ஸ்பெக்டரும்,வைரக்கண்ணும்,வேடிக்கை`;
+  2. `ஆரம்பித்தது, சப்` → `ஆரம்பித்தது,சப்`;
+- unresolved source readings: **0**;
+- page status promoted to `verified`.
