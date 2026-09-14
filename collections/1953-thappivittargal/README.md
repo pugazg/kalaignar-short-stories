@@ -44,7 +44,7 @@ Printed story pagination runs **5–32** with the stable relation:
 |---:|---|---:|---:|---|
 | 1 | `தப்பிவிட்டார்கள்` | 5–13 | 7–15 | existing canonical `stories/thappivittargal/` — earlier witness |
 | 2 | `சபலம்` | 14–21 | 16–23 | existing canonical `stories/sabalam/` — earlier witness |
-| 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | canonical `stories/vilaiyal-vangalaiyo/` — **ACTIVE / T1 8/8; Stage 2 8/8** |
+| 3 | `விலையால் வாங்கலையோ` | 22–29 | 24–31 | canonical `stories/vilaiyal-vangalaiyo/` — **ACTIVE / T1 8/8; Stage 2 8/8; Stage 3 4/8** |
 | 4 | `முந்நூறு ரூபாய்` | 30–32 | 32–34 | existing canonical `stories/munnuru-rupai/` — earlier witness |
 
 ## Deduplication result
@@ -69,6 +69,7 @@ Do not create its story folder during intake.
 - witness comparisons completed: **2/3 existing-canonical witnesses**
 - Story 3 T1 transcription: **8/8 COMPLETE — scans 24–31**
 - Story 3 Stage 2 historical-glyph / difficult-reading audit: **8/8 COMPLETE / PASS**
+- Story 3 Stage 3 final source / visual-fidelity audit: **4/8 COMPLETE / PASS — scans 24–27 VERIFIED**
 - canonical Tamil changed from witness evidence: **No**
 - canonical English changed from witness evidence: **No**
 - canonical-recheck candidates opened from Stories 1–2: **0**
@@ -99,24 +100,27 @@ Do not create its story folder during intake.
 
 ### Story 3 — `விலையால் வாங்கலையோ`
 
-**CANONICAL WORKSPACE ACTIVE / T1 COMPLETE 8/8 / STAGE 2 COMPLETE 8/8.**
+**CANONICAL WORKSPACE ACTIVE / T1 8/8 / STAGE 2 8/8 / STAGE 3 4/8.**
 
 - canonical route: `stories/vilaiyal-vangalaiyo/`
 - duplicate/identity recheck before activation: **PASS — no existing canonical match**
 - completed T1 pages: scans **24–31 / printed 22–29**
 - scan **32 / printed 30**: boundary witness confirms `முந்நூறு ரூபாய்`
 - remaining T1 pages: **0**
-- page statuses: **needs-review 8 / partial 0 / verified 0**
+- page statuses: **needs-review 4 / partial 0 / verified 4**
 - Stage 2: **8/8 COMPLETE / PASS**
-- Stage 3–4: **not started**
+- Stage 3: **4/8 COMPLETE / PASS**
+- Stage 4: **not started**
 - English: **blocked until Tamil/source closure**
 - durable T1 checkpoints: `stories/vilaiyal-vangalaiyo/T1_BATCH_024_025.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_026_027.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_028_029.md`, `stories/vilaiyal-vangalaiyo/T1_BATCH_030_031.md`
 - Stage-2 checkpoints: `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_024_027.md`, `stories/vilaiyal-vangalaiyo/STAGE2_BATCH_028_031.md`
 - Stage-2 cumulative repairs: **30 occurrence-level textual repairs; 9 historical-character identity corrections / resolutions**
+- Stage-3 checkpoint: `stories/vilaiyal-vangalaiyo/STAGE3_BATCH_024_027.md`
+- Stage-3 scans 24–27: **5 final source-fidelity corrections / 4 verified pages / 0 unresolved**
 
 ## Exact next activity
 
-Begin **Stage 3 final source / visual-fidelity audit scans 24–27 only** for `விலையால் வாங்கலையோ`. Re-read those four pages independently from direct source pixels, promote only source-clean pages to `verified`, commit / synchronize, then stop before Stage 3 scans 28–31.
+Continue with **Stage 3 final source / visual-fidelity audit scans 28–31 only** for `விலையால் வாங்கலையோ`. Independently re-read those four Stage-2-updated pages from direct source pixels, promote only source-clean pages to `verified`, commit / synchronize, then stop before Stage 4.
 
 Do **not** start Story 4 body processing.
 
