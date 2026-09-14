@@ -39,23 +39,26 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - Stage 3 historical-glyph audit: **COMPLETE — 5/5**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4 final independent check: **PARTIAL / HOLD — 4/5 PASS**
+- Stage 4 final independent check: **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**
 - Stage-4 source-proven corrections: **0**
-- page status: **verified 4/5; needs-review 1/5 (scan 9)**
+- page status: **verified 4/5; blocked 1/5 (scan 9 physical source loss)**
 - verified: **4/20**
-- blocked: **0**
-- remaining source-text issue: **1 — scan 9 library/ownership-mark crossing**
+- blocked: **1/20**
+- remaining actionable Batch-1 source-text issues: **0**
 
 Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
+## Batch 1 closure
+
+Scans **5–9 / printed 1–5** are **CLOSED UNDER DOCUMENTED SOURCE LIMITATION**.
+
+- scans 5–8 — **verified**
+- scan 9 — **blocked only at one physically obliterated span**
+- limitation record — [`SOURCE_LIMITATION_SCAN_009.md`](SOURCE_LIMITATION_SCAN_009.md)
+- no guessed reconstruction
+
 ## Exact next activity
 
-Resolve or formally disposition the **single scan-9 library/ownership-mark-crossed source span** so Batch 1 can close.
+Begin **Batch 2 Stage 1 first-pass transcription** for scans **10–14 / printed 6–10**.
 
-Scans **5–8 / printed 1–4** are now **VERIFIED**. Scan **9 / printed 5** remains `needs-review` after exhaustive Stage-4 image work.
-
-Do **not** begin scans 10–14 while Batch 1 remains open.
-
-Stage-2 audit: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)  
-Stage-3 audit: [`STAGE3_BATCH_001.md`](STAGE3_BATCH_001.md)  
-Stage-4 audit: [`STAGE4_BATCH_001.md`](STAGE4_BATCH_001.md)
+Use only the controlling scan pixels; create five page records with `needs-review` status and stop after Stage 1.
