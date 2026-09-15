@@ -2,18 +2,18 @@
 
 | Source scan | Printed page | Page type | Current state |
 |---:|---:|---|---|
-| 25 | 17 | work-opening / காட்சி 1 | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 26 | 18 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 27 | 19 | body / காட்சி 1→2 | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 28 | 20 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 29 | 21 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 30 | 22 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 31 | 23 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 32 | 24 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 33 | 25 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 34 | 26 | body / காட்சி 2→3→4 | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 35 | 27 | body | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
-| 36 | 28 | work-ending / காட்சி 5 | **needs-review — Stage 3 COMPLETE / Stage 4 NEXT** |
+| 25 | 17 | work-opening / காட்சி 1 | **verified — Stage 4 COMPLETE / CLOSED** |
+| 26 | 18 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 27 | 19 | body / காட்சி 1→2 | **verified — Stage 4 COMPLETE / CLOSED** |
+| 28 | 20 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 29 | 21 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 30 | 22 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 31 | 23 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 32 | 24 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 33 | 25 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 34 | 26 | body / காட்சி 2→3→4 | **verified — Stage 4 COMPLETE / CLOSED** |
+| 35 | 27 | body | **verified — Stage 4 COMPLETE / CLOSED** |
+| 36 | 28 | work-ending / காட்சி 5 | **verified — Stage 4 COMPLETE / CLOSED** |
 
 ## User-expanded Batch 1
 
@@ -23,8 +23,8 @@ Scans **25–36 / printed 17–28**.
 - baseline: **`therukoothu.md` used as non-authoritative draft**
 - direct scan confirmation: **12/12 pages**
 - page records: **12/12**
-- needs-review: **12**
-- verified: **0**
+- needs-review: **0**
+- verified: **12**
 - blocked: **0**
 - explicit unresolved first-pass spans: **0**
 - guessed readings: **0**
@@ -36,7 +36,11 @@ Scans **25–36 / printed 17–28**.
 - family disposition: **9 present / 4 absent**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
+- Stage 4: **COMPLETE / PASS 12/12**
+- Stage-4 additional source-supported corrections: **1**
+- final unresolved source-text issues: **0**
+- final unresolved glyph clusters: **0**
+- closure: **CLOSED / VERIFIED 12/12**
 
 ## Physical joins / boundaries
 
@@ -65,4 +69,6 @@ Scans **37–51 / printed 29–43** belong to the separate next unit beginning `
 
 ## Exact next activity
 
-Run **Stage 4 final independent source check** for scans **25–36 / printed 17–28**. Freshly compare the complete Stage-3 text against the source, reconfirm Stage-2 corrections, Stage-3 glyph disposition, all physical joins, scene/song structure and the scan-36 ending. Promote to `verified` only if unresolved source-text/glyph issues remain at zero. Commit/synchronize and stop before `சந்தனக்கிண்ணம்`.
+`தெருக்கூத்து` is **CLOSED / VERIFIED 12/12**.
+
+Next: `சந்தனக்கிண்ணம்` scans **37–51 / printed 29–43**. Run a fresh live-`main` canonical/content-level deduplication check first; if no canonical match exists, activate the story and begin Stage 1 with scans **37–41 / printed 29–33**.

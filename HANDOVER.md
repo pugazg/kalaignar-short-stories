@@ -669,32 +669,29 @@ Corrected source span: **scans 25–36 / printed 17–28**.
 - Stage 1 baseline-assisted first-pass: **COMPLETE 12/12**
 - Stage 2 visual text-fidelity audit: **COMPLETE / PASS 12/12**
 - Stage-2 source-supported corrections: **11**
-- Stage-2 unresolved ordinary source-text issues: **0**
 - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 12/12**
 - mandatory glyph families audited: **13/13**
 - family disposition: **9 present / 4 absent**
-- present: **`ணை / லை / ளை / றா / றொ / றோ / னா / னை / னோ`**
-- absent: **`ணா / ணொ / ணோ / னொ`**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- page records: **12/12**
-- page status: **needs-review 12/12**
+- Stage 4 final independent source check: **COMPLETE / PASS 12/12**
+- Stage-4 additional source-supported corrections: **1**
+- Stage-4 correction: scan 27 `நீட்டிப் பெற்றுக்கொண்டான்` → **`நீட்டி பெற்றுக்கொண்டான்`**
+- Stage-2 corrections reverified: **11/11**
+- verified: **12/12**
+- needs-review: **0**
+- blocked: **0**
+- final unresolved source-text issues: **0**
+- final unresolved glyph clusters: **0**
 - guessed readings: **0**
 - scan 36 work ending: **PASS — `[தெருக்கூத்தும் முடிகிறது]`**
-- scan 37 boundary witness: **PASS — opens `சந்தனக்கிண்ணம்`**
-- Stage 4 final independent source check: **NEXT**
+- scan 37 boundary witness: **PASS — opens separate `சந்தனக்கிண்ணம்`**
+- status: **CLOSED / VERIFIED**
 - durable records:
   - `STAGE1_BATCH_001.md`
   - `STAGE2_BATCH_001.md`
   - `STAGE3_BATCH_001.md`
-
-Notable Stage-3 direct confirmations:
-
-- scan 29 `வாளை வீசியபடி` — `ளை` confirmed;
-- scan 32 `வீரனே வாளை எடு!` — repeated `ளை` confirmation;
-- scan 31 `சொல்லன்றோ` — `றோ` confirmed;
-- scans 32–33 `மென்றொரு / என்றொரு` — `றொ` confirmed;
-- scan 35 `போனோமே` — `னோ` confirmed.
+  - `STAGE4_BATCH_001.md`
 
 ### Source inventory state
 
@@ -756,29 +753,37 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-Continue 1953 `நாடும் நாடகமும்`, active retained work **`தெருக்கூத்து`**.
+1953 `நாடும் நாடகமும்` retained work **`தெருக்கூத்து` is CLOSED / VERIFIED 12/12**.
 
-Stage 3 is **COMPLETE / PASS — 12/12**.
+The next unit is the short story candidate **`சந்தனக்கிண்ணம்` — scans 37–51 / printed 29–43**.
 
-- Stage 2 ordinary-fidelity corrections: **11**
-- mandatory historical-glyph families audited: **13/13**
-- present families: **`ணை / லை / ளை / றா / றொ / றோ / னா / னை / னோ`**
-- absent families: **`ணா / ணொ / ணோ / னொ`**
-- Stage-3 character-identity corrections: **0**
-- unresolved glyph clusters: **0**
-- pages: **needs-review 12/12**
+Known intake state:
 
-**NEXT: Stage 4 final independent source check — scans 25–36 / printed 17–28.**
+- scan 37 visibly opens `சந்தனக்கிண்ணம்`;
+- scan 51 is the final page of that unit;
+- scan 52 opens existing-canonical `ஆலமரத்துப் புறாக்கள்`;
+- earlier exact-title / obvious transliteration search found **no canonical match**;
+- nevertheless, content-level deduplication is still required before activation;
+- current classification: **new-canonical candidate, not yet activated**.
 
-Reopen all 12 scans fresh from the Stage-3 committed text. Compare end to end, reconfirm all Stage-2 corrections and Stage-3 glyph identities, verify dialogue/song/stage structure, punctuation, spacing, physical joins and scan-36 work ending, correct only source-supported issues, and promote all 12 pages to `verified` only if unresolved source-text/glyph issues remain at zero.
+**NEXT: fresh live-`main` canonical/content-level deduplication for `சந்தனக்கிண்ணம்`.**
 
-Create `STAGE4_BATCH_001.md`, synchronize all controls, commit Stage 4, re-fetch live `main` for durability, and stop before `சந்தனக்கிண்ணம்`.
+1. fetch live `main`;
+2. inspect title/slug/index matches again;
+3. compare the source opening/content against plausible existing canonical stories;
+4. if an existing canonical story matches, route this 1953 unit as a witness and do not create a duplicate;
+5. if no canonical match exists, activate `சந்தனக்கிண்ணம்` as a new canonical story;
+6. then begin Stage 1 first-pass transcription using direct scan pixels for the normal five-scan batch **37–41 / printed 29–33**;
+7. no OCR/web/Wikisource/alternate-source authority;
+8. commit/synchronize the dedup decision and Stage-1 batch separately as repository policy requires.
 
-Structural routing remains:
+Do not reopen `தெருக்கூத்து` unless genuinely new source evidence appears.
 
-- `தெருக்கூத்து` = scans **25–36 / printed 17–28**
-- `சந்தனக்கிண்ணம்` = scans **37–51 / printed 29–43**
-- scan 52 opens `ஆலமரத்துப் புறாக்கள்`
+Structural routing:
+
+- `தெருக்கூத்து` = scans **25–36 / printed 17–28** — **CLOSED / VERIFIED**
+- `சந்தனக்கிண்ணம்` = scans **37–51 / printed 29–43** — **NEXT / new-canonical candidate**
+- `ஆலமரத்துப் புறாக்கள்` begins scan **52**
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
 

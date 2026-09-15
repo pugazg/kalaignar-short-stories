@@ -5,7 +5,7 @@
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
 | A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | retain/process here | **CLOSED / VERIFIED 20/20** |
-| B | `தெருக்கூத்து` | play | **17–28** | **25–36** | retain/process here | **Stage 3 COMPLETE / PASS 12/12; Stage 4 NEXT** |
+| B | `தெருக்கூத்து` | play | **17–28** | **25–36** | retain/process here | **CLOSED / VERIFIED 12/12** |
 
 ## Corrected short-story inventory basis
 
@@ -63,11 +63,12 @@ Existing canonical route: `stories/iragasiyam/`.
 - `தெருக்கூத்து` Stage 1: **COMPLETE 12/12**
 - `தெருக்கூத்து` Stage 2: **COMPLETE / PASS 12/12 — 11 corrections**
 - `தெருக்கூத்து` Stage 3: **COMPLETE / PASS 12/12 — 13/13 families, 0 character-identity corrections**
+- `தெருக்கூத்து` Stage 4: **COMPLETE / PASS 12/12 — 1 additional source-supported correction; CLOSED / VERIFIED**
 
 ## Exact next activity
 
-Do not activate a short story yet.
+`தெருக்கூத்து` is closed.
 
-Next: **`தெருக்கூத்து` Stage 4 final independent source check — scans 25–36 / printed 17–28**.
+Next candidate: **`சந்தனக்கிண்ணம்` — printed 29–43 / scans 37–51**.
 
-Only after the play closes at Stage 4 should the repository advance to `சந்தனக்கிண்ணம்`, unless the user explicitly changes the workflow.
+Run a fresh live-`main` canonical deduplication check, including content-level comparison. If no canonical story matches, activate it as a new canonical story and begin Stage 1 with scans **37–41 / printed 29–33**. Do not start `ஆலமரத்துப் புறாக்கள்` yet.

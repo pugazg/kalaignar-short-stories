@@ -55,7 +55,13 @@ User-expanded Batch 1 = scans **25–36 / printed 17–28**.
 - family disposition: **9 present / 4 absent**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
+- Stage 4 final independent source check: **COMPLETE / PASS — 12/12**
+- Stage-4 additional source-supported corrections: **1**
+- verified: **12/12**
+- needs-review: **0**
+- final unresolved source-text issues: **0**
+- final unresolved glyph clusters: **0**
+- work status: **CLOSED / VERIFIED**
 
 Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
@@ -107,10 +113,28 @@ Stage 3 is **COMPLETE / PASS — 12/12 pages**.
 
 Notable direct confirmations include `வாளை` on scans 29 and 32, `சொல்லன்றோ` on scan 31, `மென்றொரு / என்றொரு` on scans 32–33, and `போனோமே` on scan 35.
 
+## Stage 4 closure
+
+Stage 4 is **COMPLETE / PASS — 12/12 pages**.
+
+- additional Stage-4 correction: **1**
+- scan 27: `நீட்டிப் பெற்றுக்கொண்டான்` → **`நீட்டி பெற்றுக்கொண்டான்`**
+- Stage-2 corrections reverified: **11/11**
+- Stage-3 mandatory families reverified: **13/13**
+- Stage-4 historical character-identity corrections: **0**
+- verified: **12/12**
+- needs-review: **0**
+- unresolved source-text issues: **0**
+- unresolved glyph clusters: **0**
+- work ending scan 36: **PASS**
+- scan 37 separate `சந்தனக்கிண்ணம்` opening: **PASS**
+- durable record: [`STAGE4_BATCH_001.md`](STAGE4_BATCH_001.md)
+- final work state: **CLOSED / VERIFIED**
+
 ## Exact next activity
 
-Run **Stage 4 final independent source check** for scans **25–36 / printed 17–28**.
+The next repository activity is **`சந்தனக்கிண்ணம்` — scans 37–51 / printed 29–43**.
 
-Reopen the full batch fresh, compare the Stage-3 text end to end against the controlling scans, confirm all Stage-2 corrections and Stage-3 glyph dispositions, verify page joins / scene structure / punctuation / song layout / work ending, resolve any final issue, then promote all 12 pages to `verified` only if no unresolved source-text or glyph issue remains.
+First run a fresh live-`main` canonical/content-level deduplication check. If no existing canonical story matches, activate `சந்தனக்கிண்ணம்` as a new canonical story and begin Stage 1 with scans **37–41 / printed 29–33**.
 
-Synchronize controls, commit Stage 4, re-fetch live `main`, and stop before `சந்தனக்கிண்ணம்`.
+Do not reopen `தெருக்கூத்து` unless genuinely new source evidence appears.

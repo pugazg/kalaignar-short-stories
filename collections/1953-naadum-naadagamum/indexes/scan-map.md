@@ -10,7 +10,7 @@
 | 2 | — | edition / imprint | `முதல் பதிப்பு — 1953` | registered |
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
 | 5–24 | 1–16, 16-A–16-D | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **CLOSED / VERIFIED 20/20** |
-| **25–36** | **17–28** | play | `தெருக்கூத்து`; opens `காட்சி 1`; scan 36 closes `[தெருக்கூத்தும் முடிகிறது]` | **Stage 3 COMPLETE / PASS 12/12 / needs-review** |
+| **25–36** | **17–28** | play | `தெருக்கூத்து`; opens `காட்சி 1`; scan 36 closes `[தெருக்கூத்தும் முடிகிறது]` | **CLOSED / VERIFIED 12/12** |
 | **37–51** | **29–43** | short-story block | `சந்தனக்கிண்ணம்` | **inventory only / new-canonical candidate** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | existing-canonical witness |
 | 69–75 | 61–67 | short story | `பெண்கள்` | new-canonical candidate |
@@ -63,8 +63,16 @@ User-expanded Stage-1 batch: scans **25–36 / printed 17–28**.
 - family disposition: **9 present / 4 absent**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
+- Stage 4: **COMPLETE / PASS 12/12**
+- Stage-4 additional source-supported corrections: **1**
+- verified: **12/12**
+- needs-review: **0**
+- final unresolved source-text issues: **0**
+- final unresolved glyph clusters: **0**
+- closure: **CLOSED / VERIFIED**
 
 ## Exact next activity
 
-`தெருக்கூத்து` Stage 4 final independent source check — scans **25–36 / printed 17–28**. Reopen all 12 scans fresh, compare end to end, reconfirm Stage-2 corrections and Stage-3 glyph identities, verify all joins / structure / ending, promote to `verified` only if unresolved issues remain at zero, then commit/synchronize and stop before `சந்தனக்கிண்ணம்`.
+`தெருக்கூத்து` is **CLOSED / VERIFIED 12/12**.
+
+Next: `சந்தனக்கிண்ணம்` scans **37–51 / printed 29–43**. Run fresh live-`main` canonical/content-level deduplication before activation. If no existing canonical match is found, begin Stage 1 with scans **37–41 / printed 29–33**.

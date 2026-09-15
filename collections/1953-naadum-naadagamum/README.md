@@ -112,18 +112,27 @@ Direct Stage-1 processing shows:
   - family disposition: **9 present / 4 absent**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **NEXT**
+  - Stage 4 final independent source check: **COMPLETE / PASS 12/12**
+  - Stage-4 additional source-supported corrections: **1**
+  - verified: **12/12**
+  - needs-review: **0**
+  - final unresolved source-text issues: **0**
+  - final unresolved glyph clusters: **0**
+  - retained work 2 status: **CLOSED / VERIFIED**
   - durable Stage-1 record: `works/therukoothu/STAGE1_BATCH_001.md`
   - durable Stage-2 record: `works/therukoothu/STAGE2_BATCH_001.md`
   - durable Stage-3 record: `works/therukoothu/STAGE3_BATCH_001.md`
+  - durable Stage-4 record: `works/therukoothu/STAGE4_BATCH_001.md`
 - `சந்தனக்கிண்ணம்`: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Run **`தெருக்கூத்து` Stage 4 final independent source check** for scans **25–36 / printed 17–28**.
+Retained work `தெருக்கூத்து` is **CLOSED / VERIFIED 12/12**.
 
-Stage 3 is now **COMPLETE / PASS 12/12**, with **13/13** mandatory historical-glyph families audited, **0** character-identity corrections and **0** unresolved glyph clusters.
+Next collection unit: **`சந்தனக்கிண்ணம்` — scans 37–51 / printed 29–43**.
 
-Freshly compare the entire Stage-3 text with the source, reconfirm Stage-2 corrections and Stage-3 glyph identities, verify all joins / punctuation / dramatic structure / work ending, then promote all 12 pages to `verified` only if the final check closes with zero unresolved issues. Commit/synchronize and stop before `சந்தனக்கிண்ணம்`.
+Before transcription, run a fresh live-`main` canonical deduplication check, including content-level comparison against plausible existing stories. If no canonical match is found, activate `சந்தனக்கிண்ணம்` as a new canonical story and begin Stage 1 with the normal five-scan first batch **37–41 / printed 29–33**.
+
+The existing-canonical witness `ஆலமரத்துப் புறாக்கள்` begins at scan 52 and remains untouched.
