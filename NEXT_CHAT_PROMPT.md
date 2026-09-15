@@ -21,15 +21,18 @@ Controlling source:
 - source intake: **COMPLETE**
 - Stage 1: **COMPLETE 2/2**
 - Stage 2 visual text-fidelity: **COMPLETE / PASS 2/2**
-- Stage-2 corrections: **18**
-  - scan 101: **11**
-  - scan 102: **7**
+- Stage-2 corrections: **30 final net**
+  - scan 101: **17**
+  - scan 102: **13**
+- initial 18-change Stage-2 ledger: **SUPERSEDED after direct-pixel reconciliation**
 - unresolved ordinary-fidelity readings: **0**
 - both page records: **needs-review**
 - verified pages: **0/2**
 
 Stage-2 record:
 `stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
+
+Stage 2 is ordinary-fidelity **FROZEN / RECONCILED** with 0 unresolved ordinary readings. Do not re-open it during Stage 3 unless a historical-glyph check proves a new character-identity issue.
 
 The boxed scan-102 `முகப்பில்:` poem remains excluded as non-story matter.
 
