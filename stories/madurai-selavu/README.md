@@ -14,31 +14,43 @@ Canonical workspace activated from the 1960 **முரசொலி பொங்
 - scan **27**: separate item `பதவிப் “பிரமாணம்!”` — forward boundary
 - source PDF committed: **No**
 
-## Canonical activation
+## Canonical status
 
-**STAGE 1 COMPLETE — 5/5 STORY PAGES; NEEDS REVIEW.**
+**STAGE 2 COMPLETE FOR SOURCE-VISIBLE TEXT — 5/5; NEEDS REVIEW.**
 
-No existing exact-title or obvious alternate-title/content-anchor match was found on live `main`.
-
-The supplied `Madurai_selavu.md` is only a baseline. It contains OCR-like corruption and mixes the scan-25 non-story insert into its extracted stream. It must not control canonical text.
+The supplied `Madurai_selavu.md` remains locator/draft only and does not control canonical text.
 
 ## Current state
 
-- source identity: **registered**
-- physical structure: **mapped**
-- page records initialized: **6/6**
-- Stage 1 story transcription: **5/5 COMPLETE**
-- Stage-1 story pages: **needs-review 5/5**
-- intervening non-story page: **1/1 verified / excluded**
-- Stage-1 assembly: `sections/madurai-selavu.md`
-- Stage-1 durable record: `STAGE1_BATCH_001.md`
-- focused review queue: `POSSIBLE_ERRORS_FOR_REVIEW.md`
-- Stage 2 visual fidelity: **NOT STARTED — NEXT**
-- Stage 3/4: **NOT STARTED**
+- source identity / routing: **COMPLETE**
+- Stage 1 first pass: **COMPLETE 5/5**
+- Stage 2 visual fidelity: **COMPLETE 5/5**
+- Stage-2 source-proven corrections: **32**
+  - scan 21: **0**
+  - scan 22: **8**
+  - scan 23: **4**
+  - scan 24: **11**
+  - scan 26: **9**
+- Stage-1 baseline-derived reconstruction withdrawn: **1 scan-23 span**
+- source-visible ordinary unresolved readings: **0**
+- physical-source obscured spans: **1**
+- page status: **needs-review 5/5**
+- scan 25: **verified / excluded**
+- Stage 3 historical-glyph audit: **NOT STARTED — NEXT**
+- Stage 4 final source check: **NOT STARTED**
+- verified story pages: **0/5**
 - English: **NOT STARTED**
+
+Durable controls:
+
+- `STAGE1_BATCH_001.md`
+- `STAGE2_BATCH_001.md`
+- `POSSIBLE_ERRORS_FOR_REVIEW.md`
+- `sections/madurai-selavu.md`
+- `indexes/page-map.md`
 
 ## Exact next activity
 
-**Stage 2 visual text-fidelity review for scans 21–24 and 26.**
+**Stage 3 historical Tamil glyph audit for the source-visible text on scans 21–24 and 26.**
 
-Reopen all five story scans directly, compare every word/punctuation/spacing decision against the Stage-1 page records, and resolve the focused recheck queue. Keep pages `needs-review` after Stage 2; historical-glyph audit remains a separate Stage 3. Preserve scan 25 as verified non-story and do not include it in the story.
+Audit character identity from the printed 1960 glyphs rather than modern shape resemblance. Keep the scan-23 `[…]` physical-source exception unchanged. Do not promote pages to `verified`; Stage 4 remains mandatory.
