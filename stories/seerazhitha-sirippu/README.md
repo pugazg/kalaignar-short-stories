@@ -14,7 +14,7 @@ Canonical workspace activated from the 1966 **காஞ்சி பொங்க
 
 ## Canonical activation
 
-**STAGE 2 COMPLETE / PASS — RECONCILED 2/2; NEEDS REVIEW.**
+**STAGE 3 COMPLETE / PASS — 2/2; NEEDS REVIEW.**
 
 Live-main deduplication found no existing exact-title, obvious alternate-title, or content-anchor canonical match. This workspace is therefore activated as a new canonical story.
 
@@ -29,13 +29,13 @@ The supplied `seerazhitha_sirippu.md` is a baseline/locator only. Its two-column
 - Stage 2 visual text-fidelity: **2/2 COMPLETE / PASS — RECONCILED, 30 final net corrections**
 - initial 18-change Stage-2 ledger: **SUPERSEDED after direct-pixel reconciliation**
 - Stage-2 unresolved ordinary-fidelity readings: **0**
-- Stage 3 historical glyph audit: **0/2 — NEXT**
-- Stage 4 final check: **0/2**
+- Stage 3 historical glyph audit: **2/2 COMPLETE / PASS — 0 character-identity corrections; 0 unresolved glyph clusters**
+- Stage 4 final check: **0/2 — NEXT**
 - verified: **0/2**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-**Stage 3 — historical Tamil glyph audit, scans 101–102 / printed 91–92.**
+**Stage 4 — final independent source check, scans 101–102 / printed 91–92.**
 
-Audit the mandatory old-type glyph families character-by-character from the direct source, apply only source-proven glyph-identity corrections, keep both pages `needs-review`, synchronize controls, commit, and stop before Stage 4.
+Reopen both source scans independently and verify the complete reconciled Stage-3 text end-to-end: wording, punctuation, spacing, quote/paragraph boundaries, multi-column order, `வேதனைச் / சிலையானாள்` continuation, boxed `முகப்பில்:` exclusion, closing ornament and scan-103 boundary. Apply only source-proven final corrections. Promote pages to `verified` only if the final gate passes.
