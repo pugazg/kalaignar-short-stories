@@ -1,56 +1,53 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / `சந்தனக்கிண்ணம்` Stage 1 scans 37–41
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / `சந்தனக்கிண்ணம்` cross-witness scans 37–41
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Controlling source
+## Routing correction
 
-Use only the user-supplied `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`.
+The 1953 `சந்தனக்கிண்ணம்` is **not a new canonical story**.
 
-- edition: **முதல் பதிப்பு — 1953**
-- physical scans: **80**
-- source type: **image-only; direct scan pixels control**
-- source PDF committed: **No**
+Correct canonical workspace:
 
-No OCR, web copies, Wikisource, catalogue text, alternate editions, or contextual reconstruction as source authority.
+`stories/santhana-kinnam/`
 
-## Closed prior units
+The mistakenly created duplicate:
 
-- `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — scans **5–24** — **CLOSED / VERIFIED 20/20**
-- `தெருக்கூத்து` — scans **25–36 / printed 17–28** — **CLOSED / VERIFIED 12/12**
+`stories/santhanak-kinnam/`
 
-Do not reopen automatically.
+has been removed.
 
-## `சந்தனக்கிண்ணம்` canonical activation
+## Controlling witness source
 
-Physical span:
+Use only the user-supplied:
 
-- scan **37 / printed 29** — story opening
-- scans **37–51 / printed 29–43** — complete story
-- scan **52 / printed 44** — separate `ஆலமரத்துப் புறாக்கள்`
+`TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
 
-Fresh live-`main` deduplication is **COMPLETE**:
+1953 witness span:
 
-- exact/spaced title searches: no match;
-- obvious slug variants: no match;
-- distinctive content searches using Kamala, Vijaya, the wedding setting, and the `சந்தனக்கிண்ணம்` gift: no match.
+- scans **37–51**
+- printed pages **29–43**
+- scan 37 opens `சந்தனக்கிண்ணம்`
+- scan 52 opens separate `ஆலமரத்துப் புறாக்கள்`
 
-Canonical route:
+Canonical controlling source remains the 1977 anthology already closed under `stories/santhana-kinnam/`.
 
-**`stories/santhanak-kinnam/` — NEW CANONICAL / ACTIVATED.**
+Same-work identity is directly confirmed by the shared opening, `திராவிட உட்கல வங்க` / `திராவிடர் வரலாறு` passage, Kamala–Vijaya wedding sequence, and `சந்தனக் கிண்ணம்` gift.
 
 ## Exact next activity
 
-Perform **Stage 1 first-pass transcription** for scans **37–41 / printed 29–33**.
+Run **comparison-only cross-witness review for 1953 scans 37–41 / printed 29–33**.
 
 1. fetch live `main`;
-2. use only direct scan pixels;
-3. transcribe every source word, punctuation mark, paragraph and verse line visible in the five scans;
-4. preserve source spelling/grammar/spacing/historical forms; do not modernize;
-5. verify scan joins, especially scan 38→39 physical split `மெரு` / `கேற்றி`;
-6. record genuinely uncertain readings explicitly instead of guessing;
-7. create five page records with `status: needs-review`;
-8. create `STAGE1_BATCH_001.md`;
-9. synchronize story README/page-map, collection controls, `HANDOVER.md`, and this prompt;
-10. commit Stage 1 separately and re-fetch live `main`.
+2. reread canonical `stories/santhana-kinnam/README.md` and assembled Tamil;
+3. use direct 1953 scan pixels as witness authority;
+4. compare scans 37–41 against the matching canonical 1977 text;
+5. record substantive wording, spelling, morphology, punctuation, spacing, paragraph/layout, and narrative variants;
+6. do not overwrite canonical Tamil from witness evidence alone;
+7. if a variant suggests a canonical error, reopen the exact 1977 controlling scan before changing canonical text;
+8. update/create witness comparison records under `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`;
+9. synchronize collection controls and handover;
+10. commit the witness comparison and re-fetch live `main`.
 
-Do not begin Stage 2 in the same activity.
+Do **not** create Stage-1 canonical page records for the 1953 witness.
+
+All remaining short-story units in this 1953 PDF are to be handled as **existing-canonical cross-witnesses**, not as new canonical stories. `பெண்கள்` still needs its exact existing canonical alias/path pinned before its turn.

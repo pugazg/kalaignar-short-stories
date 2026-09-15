@@ -11,9 +11,9 @@
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
 | 5–24 | 1–16, 16-A–16-D | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **CLOSED / VERIFIED 20/20** |
 | **25–36** | **17–28** | play | `தெருக்கூத்து`; opens `காட்சி 1`; scan 36 closes `[தெருக்கூத்தும் முடிகிறது]` | **CLOSED / VERIFIED 12/12** |
-| **37–51** | **29–43** | short story | `சந்தனக்கிண்ணம்` | **new canonical `stories/santhanak-kinnam/` / Stage 1 NEXT** |
+| **37–51** | **29–43** | short story | `சந்தனக்கிண்ணம்` | existing canonical `stories/santhana-kinnam/` — cross-witness |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | existing-canonical witness |
-| 69–75 | 61–67 | short story | `பெண்கள்` | new-canonical candidate |
+| 69–75 | 61–67 | short story | `பெண்கள்` | existing-canonical cross-witness — alias/path to pin |
 | 76–80 | 68–72 | short story | `இரகசியம்!` | existing-canonical witness |
 
 ## Pagination notes
@@ -74,11 +74,13 @@ User-expanded Stage-1 batch: scans **25–36 / printed 17–28**.
 ## Active short-story checkpoint — `சந்தனக்கிண்ணம்`
 
 - physical span: **scans 37–51 / printed 29–43**
-- fresh canonical/content-level deduplication: **COMPLETE / no existing match**
-- canonical route: **`stories/santhanak-kinnam/`**
-- canonical activation: **COMPLETE**
-- Stage 1: **NEXT — scans 37–41 / printed 29–33**
+- canonical route: **`stories/santhana-kinnam/`**
+- same-work identity: **CONFIRMED**
+- handling mode: **comparison-only cross-witness**
+- witness workspace: **`stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`**
+- witness comparison: **NOT STARTED**
+- duplicate `stories/santhanak-kinnam/`: **REMOVED**
 
 ## Exact next activity
 
-Stage 1 first-pass transcription for `சந்தனக்கிண்ணம்`, scans **37–41 / printed 29–33**. Use direct source pixels only, create five `needs-review` records, commit/synchronize, and stop before Stage 2.
+Compare witness scans **37–41 / printed 29–33** against the canonical 1977 `சந்தனக்கிண்ணம்`. Record edition variants and canonical-recheck candidates only. Do not create canonical Stage-1 records.

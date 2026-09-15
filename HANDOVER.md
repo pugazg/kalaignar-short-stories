@@ -653,9 +653,9 @@ This is a mixed publication retained entirely in the short-stories repository pe
 - scans **1–4** — front matter
 - scans **5–24** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — **CLOSED / VERIFIED 20/20**
 - scans **25–36 / printed 17–28** — `தெருக்கூத்து` — play
-- scans **37–51 / printed 29–43** — `சந்தனக்கிண்ணம்` — short-story block / new-canonical candidate
+- scans **37–51 / printed 29–43** — `சந்தனக்கிண்ணம்` — existing canonical `stories/santhana-kinnam/` / 1953 cross-witness
 - scans **52–68 / printed 44–60** — `ஆலமரத்துப் புறாக்கள்` — existing-canonical witness
-- scans **69–75 / printed 61–67** — `பெண்கள்` — new-canonical candidate
+- scans **69–75 / printed 61–67** — `பெண்கள்` — existing-canonical cross-witness; exact alias/path to pin before comparison
 - scans **76–80 / printed 68–72** — `இரகசியம்!` — existing-canonical witness
 
 The earlier provisional `தெருக்கூத்து = scans 25–51` routing is superseded. Scan 36 explicitly closes the play; scan 37 opens `சந்தனக்கிண்ணம்`.
@@ -697,10 +697,11 @@ Corrected source span: **scans 25–36 / printed 17–28**.
 
 - body units: **6/6 inventoried**
 - short stories: **4/4 inventoried**
-- existing-canonical witness routes: **2**
-- new-canonical candidates: **2 — `சந்தனக்கிண்ணம்`, `பெண்கள்`**
-- `சந்தனக்கிண்ணம்` exact-title/obvious-slug search on live main: **no match**
-- short-story transcription: **not started**
+- existing-canonical witness routes: **4**
+- new-canonical candidates: **0**
+- `சந்தனக்கிண்ணம்`: existing canonical `stories/santhana-kinnam/`; same-work identity directly confirmed
+- `பெண்கள்`: user-confirmed existing canonical; exact alias/path to pin before comparison
+- short-story handling mode: **cross-witness comparison only**
 
 ## Queued source — 1979 `பழக்கூடை`
 
@@ -753,31 +754,30 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1953 `நாடும் நாடகமும்`:
+1953 `நாடும் நாடகமும்` routing has been corrected.
 
 - `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **CLOSED / VERIFIED 20/20**
 - `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
-- `சந்தனக்கிண்ணம்` — scans **37–51 / printed 29–43**
+- `சந்தனக்கிண்ணம்` — **EXISTING CANONICAL CROSS-WITNESS**
+  - canonical: `stories/santhana-kinnam/`
+  - 1953 witness: scans **37–51 / printed 29–43**
+  - witness workspace: `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`
+  - same-work identity: **CONFIRMED**
+- `ஆலமரத்துப் புறாக்கள்` — existing canonical cross-witness
+- `பெண்கள்` — user-confirmed existing canonical cross-witness; exact canonical alias/path to pin before processing
+- `இரகசியம்!` — existing canonical cross-witness
 
-Fresh live-`main` canonical/content-level deduplication for `சந்தனக்கிண்ணம்` is now **COMPLETE**.
+The mistakenly created duplicate `stories/santhanak-kinnam/` is removed in the corrective commit. Do not recreate it.
 
-Evidence:
+**NEXT:** compare 1953 `சந்தனக்கிண்ணம்` scans **37–41 / printed 29–33** against canonical 1977 `stories/santhana-kinnam/`.
 
-- exact title `சந்தனக்கிண்ணம்`: no match;
-- spaced variant `சந்தன கிண்ணம்`: no match;
-- obvious slug/title variants: no match;
-- distinctive source-content searches involving **கமலா**, **விஜயா**, the wedding setting, and the symbolic **சந்தனக்கிண்ணம்** gift: no repository match;
-- direct scan review confirms the unit is a distinct short story spanning scans **37–51**;
-- scan **52** separately opens `ஆலமரத்துப் புறாக்கள்`.
+Comparison-only rules:
 
-Canonical decision:
-
-**NEW CANONICAL — `stories/santhanak-kinnam/` ACTIVATED.**
-
-**NEXT: Stage 1 first-pass transcription — scans 37–41 / printed 29–33.**
-
-Use only direct scan pixels. Preserve source wording, punctuation, spacing, paragraphing, verse layout and historical forms. Record any uncertainty rather than guessing. Create five `needs-review` page records, create `STAGE1_BATCH_001.md`, synchronize controls, commit Stage 1 separately, and stop before Stage 2.
+1. 1953 scan pixels control the witness reading;
+2. canonical 1977 remains controlling for canonical Tamil;
+3. record edition wording/spelling/punctuation/layout variants;
+4. do not import 1953 wording automatically;
+5. if a witness variant suggests a canonical error, reopen the exact 1977 controlling scan before any canonical repair;
+6. do not create canonical Stage-1 page records for the witness.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
-
-This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover.

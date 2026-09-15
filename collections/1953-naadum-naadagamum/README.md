@@ -61,9 +61,9 @@ From scan 25 onward:
 |---:|---|---|---:|---:|---|
 | 1 | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 5–24 | 1–16, 16-A–16-D | retained here — **CLOSED / VERIFIED 20/20** |
 | 2 | `தெருக்கூத்து` | play | **25–36** | **17–28** | retained here — **Stage 1 COMPLETE 12/12** |
-| 3 | `சந்தனக்கிண்ணம்` | short story | **37–51** | **29–43** | **new canonical `stories/santhanak-kinnam/` / Stage 1 NEXT** |
+| 3 | `சந்தனக்கிண்ணம்` | short story | **37–51** | **29–43** | existing canonical `stories/santhana-kinnam/` — 1953 cross-witness |
 | 4 | `ஆலமரத்துப் புறாக்கள்` | short story | 52–68 | 44–60 | existing canonical — earlier witness |
-| 5 | `பெண்கள்` | short story | 69–75 | 61–67 | new-canonical candidate |
+| 5 | `பெண்கள்` | short story | 69–75 | 61–67 | existing canonical in repository — alias/path to pin before witness comparison |
 | 6 | `இரகசியம்!` | short story | 76–80 | 68–72 | existing canonical — earlier witness |
 
 ### Boundary correction
@@ -80,8 +80,8 @@ Direct Stage-1 processing shows:
 
 - `ஆலமரத்துப் புறாக்கள்` — existing canonical `stories/aalamarathup-puraakkal/`;
 - `இரகசியம்!` — existing canonical `stories/iragasiyam/`;
-- `பெண்கள்` — intake-level new-canonical candidate;
-- `சந்தனக்கிண்ணம்` — fresh pre-activation live-`main` title/variant/unique-content deduplication returned no existing canonical match; **NEW CANONICAL `stories/santhanak-kinnam/` ACTIVATED**.
+- `பெண்கள்` — user-confirmed existing canonical story; exact canonical title/alias path to be pinned before witness comparison; do not create a new canonical folder;
+- `சந்தனக்கிண்ணம்` — existing canonical **`stories/santhana-kinnam/`**; the 1953 unit is an **earlier-edition cross-witness**. The prior duplicate activation under `stories/santhanak-kinnam/` was an error and is removed.
 
 ## Current state
 
@@ -90,9 +90,8 @@ Direct Stage-1 processing shows:
 - full body-unit inventory: **6/6 COMPLETE**
 - repository-retained special works: **2/2**
 - short-story inventory: **4/4 COMPLETE**
-- canonical witness routes: **2**
-- new-canonical candidates: **1 — `பெண்கள்`**
-- newly activated canonical from this source: **1 — `சந்தனக்கிண்ணம்`**
+- canonical witness routes: **4**
+- new-canonical candidates: **0**
 - retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`: **CLOSED / VERIFIED 20/20**
 - retained work 2 `தெருக்கூத்து`:
   - corrected source span: **25–36 / printed 17–28**
@@ -124,12 +123,14 @@ Direct Stage-1 processing shows:
   - durable Stage-2 record: `works/therukoothu/STAGE2_BATCH_001.md`
   - durable Stage-3 record: `works/therukoothu/STAGE3_BATCH_001.md`
   - durable Stage-4 record: `works/therukoothu/STAGE4_BATCH_001.md`
-- `சந்தனக்கிண்ணம்`: **CANONICAL ACTIVATED / Stage 1 NEXT — scans 37–41**
+- `சந்தனக்கிண்ணம்`: **EXISTING CANONICAL CROSS-WITNESS / comparison NEXT — scans 37–41**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-`சந்தனக்கிண்ணம்` canonical activation is **COMPLETE** at `stories/santhanak-kinnam/`.
+The duplicate `stories/santhanak-kinnam/` activation is **RETRACTED / REMOVED**. The correct canonical workspace is **`stories/santhana-kinnam/`**.
 
-Next: **Stage 1 first-pass transcription for scans 37–41 / printed 29–33** using direct scan pixels only. Keep all five pages `needs-review`, synchronize durable story/collection controls, commit Stage 1 separately, and stop before Stage 2.
+Next: compare the 1953 `சந்தனக்கிண்ணம்` witness scans **37–41 / printed 29–33** against the canonical 1977 text. Record edition variants only; do not create a second canonical transcription and do not import witness readings without direct canonical-source recheck.
+
+The remaining 1953 short stories are also to be treated as **existing-canonical cross-witnesses**, not new-canonical candidates.

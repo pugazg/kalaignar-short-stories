@@ -21,9 +21,9 @@ Direct `தெருக்கூத்து` processing corrected the earlier p
 
 | # | TOC title | Story-opening heading | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | **`சந்தனக்கிண்ணம்`** | **29–43** | **37–51** | **new canonical `stories/santhanak-kinnam/`** | **ACTIVATED / Stage 1 NEXT** |
+| 1 | — | **`சந்தனக்கிண்ணம்`** | **29–43** | **37–51** | existing canonical `stories/santhana-kinnam/` — earlier witness | **CROSS-WITNESS / NOT STARTED** |
 | 2 | — | `ஆலமரத்துப் புறாக்கள்` | 44–60 | 52–68 | existing canonical `stories/aalamarathup-puraakkal/` — earlier witness | **NOT STARTED** |
-| 3 | — | `பெண்கள்` | 61–67 | 69–75 | new-canonical candidate | **NOT STARTED** |
+| 3 | — | `பெண்கள்` | 61–67 | 69–75 | existing canonical in repository — title/alias route to pin before comparison | **CROSS-WITNESS / NOT STARTED** |
 | 4 | — | `இரகசியம்!` | 68–72 | 76–80 | existing canonical `stories/iragasiyam/` — earlier witness | **NOT STARTED** |
 
 ## TOC status
@@ -36,9 +36,11 @@ There is **no visible TOC** in scans 1–4. TOC-title cells remain **—**.
 
 Exact Tamil-title and obvious transliterated-title searches on live `main` returned no existing canonical workspace.
 
-Fresh pre-activation live-`main` checks found no exact/spaced title match, no obvious slug match, and no match for distinctive source-content anchors involving Kamala, Vijaya, the wedding scene, and the `சந்தனக்கிண்ணம்` gift.
+The earlier slug search missed the already-existing canonical workspace **`stories/santhana-kinnam/`**.
 
-Current routing: **NEW CANONICAL — `stories/santhanak-kinnam/` ACTIVATED**.
+Direct content comparison confirms same-work identity: the 1953 witness matches the canonical story opening, the `திராவிட உட்கல வங்க` / `திராவிடர் வரலாறு` passage, the Kamala–Vijaya wedding sequence, and the `சந்தனக் கிண்ணம்` gift.
+
+Current routing: **EXISTING CANONICAL CROSS-WITNESS — `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`**.
 
 ### Story 2 — `ஆலமரத்துப் புறாக்கள்`
 
@@ -46,9 +48,9 @@ Existing canonical route: `stories/aalamarathup-puraakkal/`.
 
 ### Story 3 — `பெண்கள்`
 
-No exact-title canonical workspace was found at intake.
+The user confirmed this story is already represented canonically in the repository. The exact canonical title/alias path must be pinned from live `main` before its witness comparison; do not create a new canonical workspace.
 
-Current routing: **new-canonical candidate**.
+Current routing: **existing-canonical cross-witness; canonical path/alias verification pending**.
 
 ### Story 4 — `இரகசியம்!`
 
@@ -57,10 +59,9 @@ Existing canonical route: `stories/iragasiyam/`.
 ## Inventory state
 
 - short stories inventoried: **4/4**
-- canonical witness routes: **2**
-- new-canonical candidates: **1 — `பெண்கள்`**
-- newly activated canonical stories from this source: **1 — `சந்தனக்கிண்ணம்`**
-- transcription started for short-story units: **No**
+- canonical witness routes: **4**
+- new-canonical candidates: **0**
+- short-story handling mode: **cross-witness only — no new canonical transcription**
 - `தெருக்கூத்து` Stage 1: **COMPLETE 12/12**
 - `தெருக்கூத்து` Stage 2: **COMPLETE / PASS 12/12 — 11 corrections**
 - `தெருக்கூத்து` Stage 3: **COMPLETE / PASS 12/12 — 13/13 families, 0 character-identity corrections**
@@ -68,8 +69,8 @@ Existing canonical route: `stories/iragasiyam/`.
 
 ## Exact next activity
 
-Canonical activation for `சந்தனக்கிண்ணம்` is **COMPLETE**.
+The mistaken duplicate canonical activation for `சந்தனக்கிண்ணம்` is superseded.
 
-Next: **Stage 1 first-pass transcription — scans 37–41 / printed 29–33**.
+Next: **1953 `சந்தனக்கிண்ணம்` cross-witness comparison — scans 37–41 / printed 29–33** against canonical `stories/santhana-kinnam/`.
 
-Use direct scan pixels only, create five `needs-review` page records, synchronize controls, commit Stage 1 separately, and stop before Stage 2.
+Record edition variants only. Do not create canonical Stage-1 page records and do not alter canonical Tamil from witness evidence alone. Any possible canonical error must be rechecked against the exact 1977 controlling scan first.

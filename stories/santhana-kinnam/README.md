@@ -55,6 +55,26 @@ Review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 - scan **56**: story ending + closing ornament;
 - scan **57**: Story 7 `சங்கிலிச்சாமி` opening witness.
 
+## 1953 earlier-edition witness
+
+The 1953 first-edition publication `நாடும் நாடகமும்` contains an earlier witness of this **same story**:
+
+- witness source: `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
+- witness edition: **முதல் பதிப்பு — 1953**
+- witness scans: **37–51**
+- witness printed pages: **29–43**
+- witness opening: scan **37**
+- forward boundary: scan **52** opens `ஆலமரத்துப் புறாக்கள்`
+- canonical target remains this workspace: **`stories/santhana-kinnam/`**
+- canonical controlling edition remains: **1977 first-edition anthology**
+- witness comparison state: **NOT STARTED**
+
+Same-work identity is directly confirmed: the 1953 witness and the canonical 1977 text share the same opening, the same `திராவிட உட்கல வங்க` / `திராவிடர் வரலாறு` passage, the same Kamala–Vijaya wedding setting, and the same `சந்தனக் கிண்ணம்` gift sequence.
+
+The 1953 wording must be handled as a **comparison-only cross-witness**. It must not create a second canonical folder, and it must not overwrite canonical 1977 Tamil without reopening the controlling 1977 scan for any proposed canonical repair.
+
+Witness workspace: `witnesses/1953-naadum-naadagamum/`.
+
 ## Next anthology re-audit
 
 Story 7 — **சங்கிலிச்சாமி**, scans **57–68 / printed pages 48–59**.
