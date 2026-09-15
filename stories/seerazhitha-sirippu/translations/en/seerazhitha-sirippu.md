@@ -10,13 +10,13 @@
 
 “What? I do not understand.”
 
-“I am personally said to be a debtor; to clear my debt, I am apparently expected to accept Caroline, a wealthy German woman. When they point out the deficiency and load the burden upon me, my heart breaks.”
+“Personally, I am said to be a debtor; to clear my debt, I am apparently expected to accept Caroline, a wealthy German woman. When they point out the deficiency and load the burden upon me, my heart breaks.”
 
 “They say Caroline is a close relative of yours...”
 
 “Are not the greatest quarrels born precisely among close relatives?”
 
-Hearing this reply from the Prince of Wales, his friend was crushed.
+Hearing this reply from the Prince of Wales, his friend was crestfallen.
 
 “All right; the time to welcome Caroline is near. Shall I dress you in the clothes for the ceremony?”
 
@@ -26,7 +26,7 @@ Hearing this reply from the Prince of Wales, his friend was crushed.
 
 “The carriage came and stopped.’ Dressed in white, with a coloured over-garment to match, Caroline stepped down with an excessively boisterous laugh. As soon as she came near the Prince of Wales, she knelt and bowed.
 
-“Rise, my dear!” the prince said, shedding words without feeling. He lifted her up, embraced her against his chest and welcomed her. Then the Prince of Wales walked toward his private chamber.
+“Rise, my dear!” the prince said, uttering the words without feeling. He lifted her up, embraced her against his chest and welcomed her. Then the Prince of Wales walked toward his private chamber.
 
 “The prince does not look quite as handsome in person as he did in the picture shown to me; never mind—even if he is not handsome, what of it? If he gives me love, I shall give him love. Then everything will turn out all right...hee...hee...hee!”
 
@@ -34,7 +34,7 @@ So laughed Princess Caroline. The palace women were startled to see that it was 
 
 “Princess! You must get ready for tonight’s banquet,” said a companion.
 
-“A banquet? I like that very much. I am not talking about the food. All sorts of great men will come there, won’t they? I will get a chance to become acquainted with them! Hee! Hee! Hee!”
+“A banquet? I like that very much. I don’t mean the food. All sorts of great men will come there, won’t they? I will get a chance to become acquainted with them! Hee! Hee! Hee!”
 
 “Men greater than the princess? What strange talk is this!” The startled companion, while dressing Caroline for the banquet, said softly:
 
@@ -42,9 +42,9 @@ So laughed Princess Caroline. The palace women were startled to see that it was 
 
 To that too, Princess Caroline’s answer was merely a “hee heehee...”
 
-The Prince of Wales was the son of King George III. Caroline was a relative on her father’s side. She came from an ordinary family. Her manner of walking, dress and gestures, and her meaningless baring of her teeth, caused distress to the king and queen. Even so, in the hope that she was, after all, going to become their daughter-in-law, they used every possible means to reform her and gave her training. In the end the marriage too took place. Before long Caroline became the mother of a child. On hearing the news of the child’s birth, the Prince of Wales leapt with joy.
+The Prince of Wales was the son of King George III. Caroline was a relative on her father’s side. She came from an ordinary family. Her gait, dress and mannerisms, and her meaningless grinning, caused distress to the king and queen. Even so, in the hope that she was, after all, going to become their daughter-in-law, they tried every possible means of correcting her ways and training her. In the end the marriage too took place. Before long Caroline became the mother of a child. On hearing the news of the child’s birth, the Prince of Wales leapt with joy.
 
-“Ah! By marrying her, my personal debt has been cleared. By the birth of a child, the debt I owed my parents has also been cleared. From now on I am a brahmachari,” said the prince, delighting in drinking the nectar of the lips of the mistress beside him. Her husband no longer saw Caroline; the queen too began raising the child personally under her own supervision. Caroline, who had been pouring laughter over everything, became a statue of
+“Ah! By marrying her, my personal debt has been cleared. By the birth of a child, the debt I owed my parents has also been cleared. From now on I am a brahmachari,” said the prince, revelling in drinking the nectar from the lips of the mistress beside him. Her husband no longer saw Caroline; the queen too began raising the child personally under her own supervision. Caroline, who had been pouring laughter over everything, became a statue of
 
 <!-- source scan 101; printed page 91 -->
 
@@ -58,15 +58,15 @@ That day, in Parliament, the Prime Minister of England introduced an amendment..
 
 “While Princess Caroline was abroad, her conduct was of a kind that could bring shame upon the country and upon us. Therefore, in order to prevent Caroline from becoming queen, the king has ordered that the law concerning the queen’s rights be amended.”
 
-So the minister proceeded to explain. When opposition arose, Caroline was summoned before Parliament for an inquiry. Denman, a lawyer, argued on Caroline’s behalf. Theodore Majocchi, the princess’s former cook, testified against her, saying that in Italy she had carried on an affair with a man named Bergami. Unable to answer the barrage of questions put to him about it, he evaded them by saying, “I do not remember.” Through the eloquence of a member named Brougham, support for the government’s bill began to decline. Understanding the situation, Prime Minister Liverpool withdrew the bill.
+So the minister proceeded to explain. When opposition arose, Caroline was summoned before Parliament for an inquiry. Denman, a lawyer, argued on Caroline’s behalf. Theodore Majocchi, the princess’s former cook, testified against her, saying that in Italy she had carried on an affair with a man named Bergami. Unable to answer the barrage of questions put to him about it, he evaded them by saying, “I do not remember.” Because of the eloquence of a member named Brougham, support for the government’s bill began to decline. Understanding the situation, Prime Minister Liverpool withdrew the bill.
 
 Immediately, Caroline sent a letter through the Prime Minister.
 
-“At the time of the king’s coronation, what dress should the queen wear? What dress does the king wish her to wear?” That was the letter. A reply came on the king’s behalf: “In the present circumstances, no place can be given to the queen at the ceremony.” Even after seeing this, Caroline did not lose heart. She longed at least for the good fortune of somehow witnessing her husband receive the crown.
+“At the time of the king’s coronation, what dress should the queen wear? What dress does the king wish her to wear?” That was what the letter asked. A reply came on the king’s behalf: “In the present circumstances, no place can be given to the queen at the ceremony.” Even after seeing this, Caroline did not lose heart. She longed at least for the good fortune of somehow witnessing her husband receive the crown.
 
 The year was 1821—the 19th of July! Dressed in new clothes, Queen Caroline came toward the coronation hall, heading for the place where ordinary spectators were admitted.
 
-“Madam! Do you have an admission ticket?” the guard stopped her and asked. Startled, Caroline burst into a ringing laugh. Even then, her nature did not leave her.
+“Madam! Do you have an admission ticket?” the guard asked, stopping her. Startled, Caroline burst into a ringing laugh. Even then, her nature did not leave her.
 
 “Do you know who I am?” she asked.
 
@@ -74,7 +74,7 @@ The year was 1821—the 19th of July! Dressed in new clothes, Queen Caroline cam
 
 At once, a nobleman standing there shouted angrily: “Hey! Shut your mouth! When have you ever heard of a queen buying an admission ticket for the king’s coronation?”
 
-Thinking of how her fate had come to this, Caroline broke down and cried aloud. She wept enough for all the laughter she had laughed until then. Meanwhile an order from the king arrived there. It said: “Do not admit the queen!”
+Thinking of how her fate had come to this, Caroline broke down and cried aloud. She wept as though making up for all the laughter she had laughed until then. Meanwhile an order from the king arrived there. It said: “Do not admit the queen!”
 
 “Everyone has made it impossible for me to live!” Caroline lamented as she ran back to the palace and fell upon her bed. She never rose again. That meaningless laughter which had not allowed her to live took leave of her before she herself took leave of life.
 
