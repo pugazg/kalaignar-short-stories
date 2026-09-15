@@ -4,10 +4,10 @@ printed_page: 92
 story: "seerazhitha-sirippu"
 section: "story"
 page_type: "story-ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf"
-transcription_method: "Stage 1 + Stage 2 ordinary visual fidelity + corrective Stage 3 historical-glyph re-audit against controlling scan; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 ordinary visual fidelity + corrective Stage 3 historical-glyph audit + Stage 4 final independent source check; source pixels control"
 ---
 
 # சீரழித்த சிரிப்பு! — தொடர்ச்சி
@@ -24,7 +24,7 @@ transcription_method: "Stage 1 + Stage 2 ordinary visual fidelity + corrective S
 
 “கரோலின் இளவரசி, வெளிநாடு சென்றிருந்தபோது, அவளது நடத்தைகள் நாட்டுக்கும் நமக்கும் வெட்கத்தை உண்டாக்கக் கூடியவைகள். எனவே கரோலின் அரசியாகாமல் தடுப்பதற்காக, அரசி பற்றிய உரிமைச் சட்டத்தைத் திருத்த வேண்டுமென அரசர் ஆணை பிறப்பித்திருக்கிறார்.”
 
-என்று அமைச்சர் விளக்க முறைத்தார். அதற்கு மறுப்பு எழவே, கரோலினை விசாரணை செய்யப் பாராளுமன்றத்திற்கு அழைத்தனர். டென்மான், என்ற வழக்கறிஞர் கரோலின் சார்பில் வாதாடினார். இளவரசியின் முன்னாள் சமையற்காரன் தியோடார் மஜோச்சி என்பான், அவளுக்கெதிராக, அவள் இதாலியில் பெர்காமி என்பவனுடன் சல்லாபம் நடத்தினாள் என்று சாட்சியம் கூறினான். அதுபற்றிய பல கேள்விக்கணைகளுக்கு அவன் பதில் அளிக்க முடியாமல் “எனக்கு நினைவில்லை” என்று மழுப்பினான். புரோகாம் என்ற உறுப்பினரின் சொல்லாற்றலால் அரசாங்கச்சட்டத்திற்கு ஆதரவு குறைய ஆரம்பித்தது. நிலையைப் புரிந்துகொண்ட பிரதமர் லிவர்பூல், சட்டத்தைத் திரும்பப் பெற்றுக் கொண்டார்.
+என்று அமைச்சர் விளக்க முறைத்தார். அதற்கு மறுப்பு எழவே, கரோலினை விசாரணை செய்யப் பாராளுமன்றத்திற்கு அழைத்தனர். டென்மான், என்ற வழக்கறிஞர் கரோலின் சார்பில் வாதாடினார். இளவரசியின், முன்னாள் சமையற்காரன் தியோடார் மஜோச்சி என்பான், அவளுக்கெதிராக, அவள் இதாலியில் பெர்காமி என்பவனுடன் சல்லாபம் நடத்தினாள் என்று சாட்சியம் கூறினான். அதுபற்றிய பல கேள்விக் கணைகளுக்கு அவன் பதில் அளிக்க முடியாமல் “எனக்கு நினைவில்லை” என்று மழுப்பினான். புரோகாம் என்ற உறுப்பினரின் சொல்லாற்றலால் அரசாங்கச்சட்டத்திற்கு ஆதரவு குறைய ஆரம்பித்தது. நிலையைப் புரிந்துகொண்ட பிரதமர் லிவர்பூல், சட்டத்தைத் திரும்பப் பெற்றுக் கொண்டார்.
 
 உடனே, கரோலின், பிரதமர் மூலமாக ஒரு கடிதம் எழுதினாள்.
 
@@ -38,7 +38,7 @@ transcription_method: "Stage 1 + Stage 2 ordinary visual fidelity + corrective S
 
 “தெரியும்; நுழைவுச்சீட்டு இல்லாத பெண்!”
 
-உடனே அங்கிருந்த ஒரு பிரபு: “ஏய்! வாயை அடக்கு! மன்னரின் மகுடாபிஷேகத்திற்கு அரசி. அனுமதிச்சீட்டு வாங்கியதைப்பற்றி எப்போது கேள்விப்பட்டிருக்கிறாய்?” என்று சினத்தைக் கக்கினார்.
+உடனே அங்கிருந்த ஒரு பிரபு: “ஏய்! வாயை அடக்கு! மன்னரின் மகுடாபிஷேகத்திற்கு அரசி, அனுமதிச்சீட்டு வாங்கியதைப்பற்றி எப்போது கேள்விப்பட்டிருக்கிறாய்?” என்று சினத்தைக் கக்கினார்.
 
 தன் கதி இப்படி ஆகிவிட்டதே என்று வாய்விட்டுக் கோவென அழுது விட்டாள் கரோலின்! அவள் இத்தனை நாள் சிரித்த சிரிப்புக்கெல்லாம் சேர்த்து அழுதாள். இதற்குள் அரசனிடமிருந்து ஒரு ஆணைச்சீட்டு அங்கு வந்தது. அதில்; “அரசியை அனுமதிக்காதே!” என்று குறிப்பிடப்பட்டிருந்தது.
 
@@ -65,4 +65,23 @@ The foreign-name forms `டென்மான் / தியோடார் ம�
 - global replacements: **0**
 - spelling/grammar modernization: **0**
 - status remains **`needs-review`** pending Stage 4.
+
+## Stage 4 final independent source check
+
+**COMPLETE / PASS — VERIFIED.**
+
+Final source-proven corrections:
+
+1. `இளவரசியின் முன்னாள் சமையற்காரன்` → **`இளவரசியின், முன்னாள் சமையற்காரன்`** — source comma.
+2. `பல கேள்விக்கணைகளுக்கு` → **`பல கேள்விக் கணைகளுக்கு`** — source-visible word boundary.
+3. `அரசி. அனுமதிச்சீட்டு` → **`அரசி, அனுமதிச்சீட்டு`** — Stage-2 period reverted to source comma.
+
+Stage-3 historical-glyph readings `நடத்தினாள்` (`னா`) and final `அவளை வாழவிடாமல் செய்த...` (`ளை`) were independently rechecked and **CONFIRMED**.
+
+- complete scan-102 text coverage: **PASS**
+- boxed `முகப்பில்:` matter: **CONFIRMED NON-STORY / EXCLUDED**
+- closing ornament: **PASS**
+- scan-103 `அடிமைகள்` forward boundary: **retained from prior `SOURCE_INTAKE.md` boundary proof; the current two-page Stage-4 derivative ends at scan 102**
+- unresolved source readings: **0**
+- final status: **`verified`**
 <!-- மூல ஸ்கேன் பக்கம்: 102; அச்சுப் பக்கம்: 92 -->
