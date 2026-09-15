@@ -23,28 +23,25 @@ The attached PDF itself is the controlling source. Rendered scan pixels govern a
 
 This is a **mixed publication**, not a pure short-story anthology.
 
-It contains:
+Current source-supported body inventory:
 
 1. prose/discourse `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`;
-2. the dramatic work `தெருக்கூத்து`;
-3. three short-story blocks:
-   - `ஆலமரத்துப் புறாக்கள்`
-   - `பெண்கள்`
-   - `இரகசியம்!`
+2. play `தெருக்கூத்து`;
+3. short-story block `சந்தனக்கிண்ணம்`;
+4. short story `ஆலமரத்துப் புறாக்கள்`;
+5. short story `பெண்கள்`;
+6. short story `இரகசியம்!`.
 
-Per explicit user instruction, **all five body units remain in this short-stories repository**, including the prose/discourse `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` and the play `தெருக்கூத்து`. They are not to be moved to another repository merely because their genre differs.
-
-For repository organization, the first two are treated as **repository-retained special works** within this source collection; the remaining three use the normal short-story canonical/witness workflow.
+Per explicit user instruction, the prose/discourse and play remain in this short-stories repository.
 
 ## Front matter / physical structure
 
-- scan **1** — title/cover: `நாடும் நாடகமும்`, `மு. கருணாநிதி`, `திராவிடப்பண்ணை`;
-- scan **2** — edition / price / printer-imprint page; **முதல் பதிப்பு — 1953**;
+- scan **1** — title/cover;
+- scan **2** — edition / price / printer-imprint page;
 - scans **3–4** — `பதிப்புரை`;
 - no printed contents page is visible;
 - scan **5** begins `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`;
-- scan **80** is printed page **72**, closes `இரகசியம்!`, and carries the terminal star;
-- no later back-matter scan is present in the supplied PDF.
+- scan **80 / printed 72** closes `இரகசியம்!` with the terminal star.
 
 ## Pagination model
 
@@ -54,75 +51,69 @@ The publication has an inserted four-page sequence after printed page 16:
 - scans **21–24** = printed **16-A, 16-B, 16-C, 16-D**;
 - scans **25–80** = printed pages **17–72**.
 
-Thus a simple constant scan/printed-page offset does **not** apply across the entire body.
+From scan 25 onward:
 
-## Repository-retained work inventory
+**PDF scan = printed page + 8**
+
+## Corrected body-unit inventory
 
 | # | Opening heading | Type | PDF scans | Printed pages | Repository routing |
 |---:|---|---|---:|---:|---|
-| 1 | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 5–24 | 1–16, 16-A–16-D | **retain and process in this repository** |
-| 2 | `தெருக்கூத்து` | play | 25–51 | 17–43 | **retain and process in this repository** |
-| 3 | `ஆலமரத்துப் புறாக்கள்` | short story | 52–68 | 44–60 | existing canonical `stories/aalamarathup-puraakkal/` — **earlier witness** |
-| 4 | `பெண்கள்` | short story | 69–75 | 61–67 | **new-canonical candidate**; no exact title / obvious title-derived slug found on live `main` at intake |
-| 5 | `இரகசியம்!` | short story | 76–80 | 68–72 | existing canonical `stories/iragasiyam/` — **earlier witness** |
+| 1 | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 5–24 | 1–16, 16-A–16-D | retained here — **CLOSED / VERIFIED 20/20** |
+| 2 | `தெருக்கூத்து` | play | **25–36** | **17–28** | retained here — **Stage 1 COMPLETE 12/12** |
+| 3 | `சந்தனக்கிண்ணம்` | short-story block | **37–51** | **29–43** | **new-canonical candidate / transcription not started** |
+| 4 | `ஆலமரத்துப் புறாக்கள்` | short story | 52–68 | 44–60 | existing canonical — earlier witness |
+| 5 | `பெண்கள்` | short story | 69–75 | 61–67 | new-canonical candidate |
+| 6 | `இரகசியம்!` | short story | 76–80 | 68–72 | existing canonical — earlier witness |
 
-Detailed structural records:
+### Boundary correction
 
-- [`metadata/source.md`](metadata/source.md)
-- [`indexes/scan-map.md`](indexes/scan-map.md)
-- [`indexes/story-inventory.md`](indexes/story-inventory.md)
+The earlier provisional map `தெருக்கூத்து = scans 25–51` is **superseded**.
 
-## Canonical-deduplication intake
+Direct Stage-1 processing shows:
 
-Live `main` was checked before registration.
+- scan **36 / printed 28** explicitly ends `தெருக்கூத்து` with `[தெருக்கூத்தும் முடிகிறது]`;
+- scan **37 / printed 29** opens `சந்தனக்கிண்ணம்`;
+- scan **51 / printed 43** is the final page before scan 52's new `ஆலமரத்துப் புறாக்கள்` heading.
 
-- `ஆலமரத்துப் புறாக்கள்` already has a closed canonical workspace from the 1977 anthology.
-- `இரகசியம்!` already has a closed canonical workspace from the 1977 anthology; the 1953 opening is the same work.
-- `பெண்கள்` has no exact-title canonical workspace or obvious matching title-derived slug in the current story index. It is therefore an **intake-level new-canonical candidate**, subject to a fresh content-level deduplication check immediately before activation.
+## Canonical-deduplication snapshot
 
-No new canonical story folder was created in this intake-only iteration.
+- `ஆலமரத்துப் புறாக்கள்` — existing canonical `stories/aalamarathup-puraakkal/`;
+- `இரகசியம்!` — existing canonical `stories/iragasiyam/`;
+- `பெண்கள்` — intake-level new-canonical candidate;
+- `சந்தனக்கிண்ணம்` — exact-title / obvious slug search on live `main` returned no match; **intake-level new-canonical candidate**, subject to content-level deduplication immediately before activation.
 
 ## Current state
 
 - source registration: **COMPLETE**
-- whole-source scan map: **COMPLETE**
-- full body-unit inventory: **5/5 COMPLETE**
+- whole-source scan map: **CORRECTED / COMPLETE**
+- full body-unit inventory: **6/6 COMPLETE**
 - repository-retained special works: **2/2**
-- short-story inventory: **3/3 COMPLETE**
-- short-story opening scans visually checked: **3/3**
-- final source boundary checked: **PASS — scan 80**
+- short-story inventory: **4/4 COMPLETE**
+- canonical witness routes: **2**
+- new-canonical candidates: **2 — `சந்தனக்கிண்ணம்`, `பெண்கள்`**
 - retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`: **CLOSED / VERIFIED 20/20**
-  - Batch 1 scans **5–9 / printed 1–5** — **CLOSED / VERIFIED 5/5**
-  - Batch 2 scans **10–14 / printed 6–10** — **CLOSED / VERIFIED 5/5**
-  - Batch 3 scans **15–19 / printed 11–15** — **CLOSED / VERIFIED 5/5**
-  - Batch 4 scans **20–24 / printed 16, 16-A–16-D** — **CLOSED / VERIFIED 5/5**
-  - Batch-4 Stage 1: **COMPLETE 5/5**
-  - Batch-4 Stage 2: **COMPLETE 5/5**
-  - Batch-4 Stage-2 source-supported corrections: **12**
-  - Batch-4 Stage 3: **COMPLETE / PASS 5/5**
-  - Batch-4 Stage-3 character-identity corrections: **0**
-  - Batch-4 Stage 4: **COMPLETE / PASS 5/5**
-  - Batch-4 Stage-4 additional source-supported corrections: **2**
-  - Batch-4 final corrections: `தடைவிதித்து` → `தடை விதித்து`; `உடைத்தெறியலாம். ஆனால்` → `உடைத்தெறியலாம், ஆனால்`; scans 21–24 — 0 additional corrections
-  - page records: **20/20**
-  - verified: **20/20**
-  - needs-review: **0**
-  - unresolved source-text/glyph issues: **0**
+- retained work 2 `தெருக்கூத்து`:
+  - corrected source span: **25–36 / printed 17–28**
+  - user-expanded Stage 1: **COMPLETE 12/12**
+  - baseline: `therukoothu.md` used as non-authoritative draft
+  - direct scan confirmation: **12/12**
+  - page records: **12/12**
+  - page status: **needs-review 12/12**
+  - first-pass unresolved source spans: **0**
   - guessed readings: **0**
-  - scan 24: **work-ending reconfirmed**
-  - scan 25: **opens retained work 2 `தெருக்கூத்து` / காட்சி 1**
-  - durable Batch-4 records: `STAGE1_BATCH_004.md`, `STAGE2_BATCH_004.md`, `STAGE3_BATCH_004.md`, `STAGE4_BATCH_004.md`
-- retained work 2 `தெருக்கூத்து`: **NEXT**
-  - source scans: **25–51 / printed 17–43**
-  - next batch: scans **25–29 / printed 17–21**
-  - next gate: **Stage 1 first-pass transcription**
+  - work-ending boundary: **PASS — scan 36**
+  - scan 37 witness: **PASS — `சந்தனக்கிண்ணம்`**
+  - Stage 2: **NEXT**
+  - durable Stage-1 record: `works/therukoothu/STAGE1_BATCH_001.md`
+- `சந்தனக்கிண்ணம்`: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 2 **`தெருக்கூத்து` — Stage 1 first-pass transcription**, scans **25–29 / printed 17–21**.
+Run **`தெருக்கூத்து` Stage 2 visual text-fidelity audit** for scans **25–36 / printed 17–28**.
 
-The prose/discourse work `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` is now **CLOSED / VERIFIED 20/20**.
+Use the committed Stage-1 page records as the working text and the PDF scan pixels as controlling authority. Compare all 12 pages line by line / phrase by phrase, verify songs, dialogue, stage directions, scene headings, punctuation, spacing and physical joins, correct only source-supported mismatches, keep all pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
 
-Create `works/therukoothu/`, transcribe scans 25–29 directly from the controlling PDF pixels, preserve source wording/punctuation/physical boundaries, keep all five pages `needs-review`, create the durable Stage-1 checkpoint, synchronize controls, commit, and stop before Stage 2.
+Do not begin `சந்தனக்கிண்ணம்` in the same activity.

@@ -634,140 +634,71 @@ The exact 1977 controlling scan **166 / printed 157** was freshly reopened at en
 
 ## Active source — 1953 `நாடும் நாடகமும்`
 
-Controlling attached source:
+Controlling attached source: `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
 
-`TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
-
-Collection workspace:
-
-`collections/1953-naadum-naadagamum/`
+Collection workspace: `collections/1953-naadum-naadagamum/`
 
 Source identity:
 
 - bytes: **119,943,631**
 - SHA-256: **`f852f0d0e5501cf74109c491ec8ae7ba9cb0840289524c95556144423beb887f`**
 - physical scans: **80**
-- printed title: **நாடும் நாடகமும்**
-- author: **மு. கருணாநிதி**
-- publisher: **திராவிடப்பண்ணை**
-- represented edition: **முதல் பதிப்பு — 1953**
+- edition: **முதல் பதிப்பு — 1953**
 - source type: **image-only; direct scan pixels control**
-- source PDF committed: **No**
 
-This is a **mixed publication**, not a pure short-story anthology. Per explicit user instruction, **all body units remain in this short-stories repository**, including the prose/discourse and play.
+This is a mixed publication retained entirely in the short-stories repository per user instruction.
 
-Physical routing:
+### Corrected physical routing
 
-- scans **1–4** — front matter / `பதிப்புரை`
-- scans **5–20 / printed 1–16** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — prose/discourse — **RETAIN / PROCESS HERE**
-- scans **21–24 / printed 16-A–16-D** — continuation of the same retained work
-- scans **25–51 / printed 17–43** — `தெருக்கூத்து` — play — **RETAIN / PROCESS HERE**
-- scans **52–68 / printed 44–60** — `ஆலமரத்துப் புறாக்கள்` — existing canonical, earlier witness
-- scans **69–75 / printed 61–67** — `பெண்கள்` — new-canonical candidate at intake
-- scans **76–80 / printed 68–72** — `இரகசியம்!` — existing canonical, earlier witness
+- scans **1–4** — front matter
+- scans **5–24** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — **CLOSED / VERIFIED 20/20**
+- scans **25–36 / printed 17–28** — `தெருக்கூத்து` — play
+- scans **37–51 / printed 29–43** — `சந்தனக்கிண்ணம்` — short-story block / new-canonical candidate
+- scans **52–68 / printed 44–60** — `ஆலமரத்துப் புறாக்கள்` — existing-canonical witness
+- scans **69–75 / printed 61–67** — `பெண்கள்` — new-canonical candidate
+- scans **76–80 / printed 68–72** — `இரகசியம்!` — existing-canonical witness
 
-No printed TOC is visible. Scan **80 / printed 72** closes `இரகசியம்!` with the terminal star and is the final supplied scan.
+The earlier provisional `தெருக்கூத்து = scans 25–51` routing is superseded. Scan 36 explicitly closes the play; scan 37 opens `சந்தனக்கிண்ணம்`.
 
-Current state:
+### Current state — `தெருக்கூத்து`
 
-- source registration: **COMPLETE**
-- whole-source scan map: **COMPLETE**
-- body-unit inventory: **5/5 COMPLETE**
-- repository-retained special works: **2/2 — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`, `தெருக்கூத்து`**
-- short-story inventory: **3/3 COMPLETE**
-- short-story openings visually checked: **3/3**
-- canonical witness routes: **2**
-- new-canonical candidates: **1 — `பெண்கள்`**
-- retained work 1 transcription: **CLOSED / VERIFIED 20/20**
-- workspace: `collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
-- source-visible scan-5 heading: **`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`**
-- repository/routing label retained from the user's wording: **`நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)`**
-- Batch 1 scans **5–9 / printed 1–5**:
-  - Stage 1 first-pass: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
-  - historical Stage-2 source-proven corrections: **16**
-  - Stage 3 historical glyph: **COMPLETE 5/5**
-  - Stage-3 character-identity corrections: **0**
-  - Stage 4: **COMPLETE / PASS after targeted scan-9 resolution**
-  - post-closure word-by-word visual fidelity re-audit: **COMPLETE 5/5**
-  - re-audit source-proven corrections: **19**
-  - scans 5–9: **VERIFIED**
-  - scan 9: **VERIFIED**
-  - scan 9 former physical-loss span: **RESOLVED**
-  - guessed reconstruction: **0**
-  - remaining actionable Batch-1 review items: **0**
-- Batch 2 scans **10–14 / printed 6–10**:
-  - Stage 1 first-pass transcription: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity audit: **COMPLETE 5/5**
-  - Stage-2 source-proven corrections: **22**
-  - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
-  - Stage-3 character-identity corrections: **0**
-  - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
-  - Stage-4 additional source-supported corrections: **24**
-  - targeted scan-13 source resolution: **`படுவது,`**
-  - verified: **5/5**
-  - needs-review: **0**
-  - unresolved source-text spans: **0**
-  - page records: **5/5**
-  - scan 13→14 boundary: **`சாதனங்` / `களையும்` PASS / reconfirmed**
-  - guessed readings: **0**
-  - Batch 2 closure: **CLOSED / VERIFIED 5/5**
-  - durable Stage-1 record: `STAGE1_BATCH_002.md`
-  - durable Stage-2 record: `STAGE2_BATCH_002.md`
-  - durable Stage-3 record: `STAGE3_BATCH_002.md`
-  - durable Stage-4 record: `STAGE4_BATCH_002.md`
-- Batch 3 scans **15–19 / printed 11–15**:
-  - Stage 1 first-pass transcription: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity audit: **COMPLETE 5/5**
-  - Stage-2 source-proven corrections: **7**
-  - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
-  - mandatory glyph families audited: **13/13**
-  - Stage-3 character-identity corrections: **0**
-  - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
-  - Stage-4 source-proven corrections: **2**
-  - page records: **5/5**
-  - page status: **verified 5/5**
-  - unresolved source-text issues: **0**
-  - guessed readings: **0**
-  - scan 15→16 boundary: **PASS / reconfirmed — `பறி` / `கொடுத்துப்`**
-  - scan 16→17 boundary: **PASS / reconfirmed — `கொடுமைக்` / `கொடுத்து`**
-  - durable Stage-1 record: `STAGE1_BATCH_003.md`
-  - durable Stage-2 record: `STAGE2_BATCH_003.md`
-  - durable Stage-3 record: `STAGE3_BATCH_003.md`
-  - durable Stage-4 record: `STAGE4_BATCH_003.md`
-  - Batch 3 closure: **CLOSED / VERIFIED 5/5**
-- Batch 4 scans **20–24 / printed 16, 16-A–16-D**:
-  - Stage 1 first-pass transcription: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity audit: **COMPLETE 5/5**
-  - Stage-2 source-supported corrections: **12**
-  - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
-  - Stage-3 character-identity corrections: **0**
-  - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
-  - Stage-4 additional source-supported corrections: **2**
-  - page records: **5/5**
-  - page status: **verified 5/5**
-  - unresolved source-text/glyph issues: **0**
-  - guessed readings: **0**
-  - scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
-  - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-  - scan 24: **work-ending reconfirmed**
-  - scan 25: **opens `தெருக்கூத்து` / காட்சி 1**
-  - durable Stage-1 record: `STAGE1_BATCH_004.md`
-  - durable Stage-2 record: `STAGE2_BATCH_004.md`
-  - durable Stage-3 record: `STAGE3_BATCH_004.md`
-  - durable Stage-4 record: `STAGE4_BATCH_004.md`
-  - Batch 4 closure: **CLOSED / VERIFIED 5/5**
-- retained work 2 `தெருக்கூத்து`: **NEXT — Stage 1 scans 25–29 / printed 17–21**
+Workspace: `collections/1953-naadum-naadagamum/works/therukoothu/`
 
-Durable intake files:
+User explicitly expanded Stage 1 to scans **25–36 / printed 17–28** and asked that `therukoothu.md` be used as the baseline.
 
-- `collections/1953-naadum-naadagamum/README.md`
-- `collections/1953-naadum-naadagamum/metadata/source.md`
-- `collections/1953-naadum-naadagamum/indexes/scan-map.md`
-- `collections/1953-naadum-naadagamum/indexes/story-inventory.md`
+- Stage 1 baseline-assisted first-pass: **COMPLETE 12/12**
+- page records: **12/12**
+- page status: **needs-review 12/12**
+- baseline role: non-authoritative draft / locator
+- direct scan confirmation: **12/12**
+- first-pass unresolved source spans: **0**
+- guessed readings: **0**
+- scan 36 work ending: **PASS — `[தெருக்கூத்தும் முடிகிறது]`**
+- scan 37 boundary witness: **PASS — opens `சந்தனக்கிண்ணம்`**
+- Stage 2: **NEXT**
+- Stage 3: **NOT STARTED**
+- Stage 4: **NOT STARTED**
+- durable Stage-1 record: `STAGE1_BATCH_001.md`
+
+Representative Markdown-baseline repairs made directly from the scan include:
+
+- scan 25: `நெற்றாட்களின்` → `நெற்கதிர்களின்`; restored `இந்த உலகினில் ஈடு........!!!`; `நோக்கி` → `நோக்கித்`
+- scan 26: `முடிவதறகுமுன்` → `முடிவதற்குமுன்`; `பிடித்துக்கொண்டாள்` → `பிடித்துக்கொண்டான்`; `சன்னத்திலே` → `கன்னத்திலே`
+- scan 27: `மீள் வடிவ` → `மீன் வடிவ`
+- scan 30: `திமிர் ஓடித்த` → `திமிர் ஒடித்த`
+- scan 31: `மூவேந்தரம்` → `மூவேந்தரும்`; `ஆல் நமஸ்காரம்` → `ஆனால் நமஸ்காரம்`
+- scan 32: `பார்வசியுட` → `பார்வதியுட`; source `பரலோகத்தின் பாதைகள்`
+- scan 33: `கன்னியற்` → `கன்னியர்`; restored omitted `லக்ஷ்மி`
+- scan 36: `ஊர்வலப்` → `ஊர்வலம்`; `புறப்படட்டும்` → `புறப்படட்டுமே`
+
+### Source inventory state
+
+- body units: **6/6 inventoried**
+- short stories: **4/4 inventoried**
+- existing-canonical witness routes: **2**
+- new-canonical candidates: **2 — `சந்தனக்கிண்ணம்`, `பெண்கள்`**
+- `சந்தனக்கிண்ணம்` exact-title/obvious-slug search on live main: **no match**
+- short-story transcription: **not started**
 
 ## Queued source — 1979 `பழக்கூடை`
 
@@ -820,56 +751,37 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1953 `நாடும் நாடகமும்` retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` is **CLOSED / VERIFIED — 20/20**.
+Continue 1953 `நாடும் நாடகமும்`, active retained work **`தெருக்கூத்து`**.
 
-Final Batch 4 durable closure:
+Workspace:
 
-- scans **20–24 / printed 16, 16-A–16-D**
-- Stage 1 — **COMPLETE 5/5**
-- Stage 2 — **COMPLETE 5/5**, **12** source-supported corrections
-- Stage 3 — **COMPLETE / PASS 5/5**, **13/13** mandatory glyph families audited
-- Stage 4 — **COMPLETE / PASS 5/5**
-- Stage-4 additional source-supported corrections — **2**
-- verified — **5/5**
-- needs-review — **0**
-- unresolved source-text issues — **0**
-- unresolved glyph clusters — **0**
+`collections/1953-naadum-naadagamum/works/therukoothu/`
+
+Durable Stage-1 state:
+
+- corrected play span — **scans 25–36 / printed 17–28**
+- user-expanded Stage 1 — **COMPLETE 12/12**
+- `therukoothu.md` used as non-authoritative baseline/draft
+- direct scan confirmation — **12/12**
+- page records — **12/12**
+- needs-review — **12/12**
+- unresolved first-pass source spans — **0**
 - guessed readings — **0**
-- scan 24 — work-ending page reconfirmed
-- scan 25 — separate `தெருக்கூத்து` / காட்சி 1 opening; excluded from the closed work
-- durable Stage-4 record — `STAGE4_BATCH_004.md`
+- scan 36 — **work-ending PASS**
+- scan 37 — **opens separate `சந்தனக்கிண்ணம்`**
+- durable record — `STAGE1_BATCH_001.md`
 
-Stage-4 additional corrections:
+**NEXT: Stage 2 visual text-fidelity audit — scans 25–36 / printed 17–28.**
 
-- scan 20: `நாடகங்கட்குத் தடைவிதித்து` → **`நாடகங்கட்குத் தடை விதித்து`**
-- scan 20: `நிலைக் கண்ணாடிகளை உடைத்தெறியலாம். ஆனால்` → **`நிலைக் கண்ணாடிகளை உடைத்தெறியலாம், ஆனால்`**
-- scans 21–24: **0 additional corrections**
+Compare every committed page directly against the source scan line by line / phrase by phrase, verify songs, dialogues, stage directions, scene headings, punctuation, spacing and all physical joins, apply only source-supported corrections, keep all 12 pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
 
-All **12/12** Stage-2 corrections remain source-supported. Stage-3 family disposition remains unchanged:
+Do **not** begin `சந்தனக்கிண்ணம்` in the same activity.
 
-- present: **`ணா / ணை / லை / ளை / றா / றோ / னா / னை`**
-- absent: **`ணொ / ணோ / றொ / னொ / னோ`**
-- character-identity corrections at Stage 4: **0**
+Structural correction to preserve:
 
-### NEXT — retained work 2 `தெருக்கூத்து`
-
-Source span: **scans 25–51 / printed 17–43**.
-
-The work workspace does not yet exist on live `main`.
-
-Start **Batch 1 Stage 1 first-pass transcription — scans 25–29 / printed 17–21**.
-
-1. fetch live `main`;
-2. reread the four-stage workflow, fidelity/glyph guides, this handover, `NEXT_CHAT_PROMPT.md`, collection README and source scan map;
-3. create `collections/1953-naadum-naadagamum/works/therukoothu/` as needed;
-4. use only `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf` direct scan pixels as source authority;
-5. the user-supplied `therukoothu.md` is locator/clue only; import no wording without direct scan confirmation;
-6. transcribe scans **25–29 / printed 17–21** completely once;
-7. preserve headings, scene labels, dialogue, stage directions, verse, punctuation, spacing, spelling and historical forms;
-8. set all new page records to `needs-review`;
-9. synchronize work/collection/root controls, commit Stage 1, and stop before Stage 2.
-
-Do **not** reopen scans 5–24 unless genuinely new evidence or an explicit user instruction requires it.
+- `தெருக்கூத்து` = scans **25–36**, not 25–51;
+- `சந்தனக்கிண்ணம்` = scans **37–51 / printed 29–43**, new-canonical candidate pending content-level deduplication;
+- scan 52 opens `ஆலமரத்துப் புறாக்கள்`.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
 
