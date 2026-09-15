@@ -36,6 +36,20 @@ Existing English remains semantically synchronized; **English prose rewrite requ
 Story 18 **செத்தவள் கதை** — scans **131–139 / printed 122–130**. Use scan **140** only as the boundary witness opening `பிரேத விசாரணை`.
 
 
+## 1977 Murasoli Pongal Malar witness
+
+A same-year periodical witness has been added from **முரசொலி பொங்கல் மலர் 1977**, scans **6–7**.
+
+- witness workspace: `witnesses/1977-murasoli-pongal-malar/`
+- state: **CLOSED / PASS 2/2**
+- material variant groups: **10**
+- canonical recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+- forward boundary: scan **8** advertisements — **PASS**
+- high-value variant: periodical **`மோதகவிநாயகம் பிள்ளை`** ↔ anthology **`மோக வினாயகம்பிள்ளை`**
+
+The periodical is preserved as an additional witness only; it does not replace the controlling anthology text.
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**
