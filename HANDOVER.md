@@ -699,7 +699,7 @@ Durable collection controls:
 - `collections/1953-naadum-naadagamum/indexes/scan-map.md`
 - `collections/1953-naadum-naadagamum/indexes/story-inventory.md`
 
-## Active source — 1979 `பழக்கூடை`
+## Closed source — 1979 `பழக்கூடை`
 
 Controlling attached source:
 
@@ -721,76 +721,66 @@ Source identity:
 - source type: **image-only; direct scan pixels control**
 - source PDF committed: **No**
 
-The handwritten scan-3 note that appears to reference 1955 is treated as a provenance annotation only; it does not replace the printed 1979 third-edition statement.
+The handwritten scan-3 note that appears to reference 1955 remains a provenance annotation only; it does not replace the printed 1979 third-edition statement.
 
-Story inventory — **5/5 COMPLETE**:
+Final story routing:
 
-1. source `தொடர்கதை` — scans **6–35 / printed 5–34** — same work as canonical `முடியாத தொடர்கதை`; title variant / witness
-2. `கடைசிக் கட்டம்` — scans **36–41 / printed 35–40** — existing canonical witness
-3. `புகழேந்தி` — scans **42–48 / printed 41–47** — existing canonical witness
-4. `திடுக்கிடும் கதை` — scans **49–55 / printed 48–54** — existing canonical witness
-5. `அபாக்ய சிந்தாமணி` — scans **56–65 / printed 55–64** — existing canonical witness
+1. source `தொடர்கதை` — scans **6–35 / printed 5–34** — canonical `stories/mudiyatha-thodarkathai/`
+2. `கடைசிக் கட்டம்` — scans **36–41 / printed 35–40** — canonical `stories/kadaisi-kattam/`
+3. `புகழேந்தி` — scans **42–48 / printed 41–47** — canonical `stories/pugazhendhi/`
+4. `திடுக்கிடும் கதை` — scans **49–55 / printed 48–54** — canonical `stories/thidukkidum-kathai/`
+5. `அபாக்ய சிந்தாமணி` — scans **56–65 / printed 55–64** — canonical `stories/abagya-chinthamani/`
 
-All five stories route to existing canonical workspaces; **new canonical stories: 0**.
+All five are existing-canonical witness routes; **new canonical stories: 0**.
 
-Current state:
+### Witness results
+
+- `தொடர்கதை` — **CLOSED / PASS 30/30**
+  - material variants: **13**
+  - canonical confirmations: **5**
+  - canonical changes: **0**
+- `கடைசிக் கட்டம்` — **CLOSED / PASS 6/6**
+  - material variants: **10**
+  - canonical changes: **0**
+- `புகழேந்தி` — **CLOSED / PASS 7/7**
+  - material variants: **6**
+  - high-value 1979 wording: `திராவிடத் தமிழரின் உழைப்பு வெற்றி தினம்`
+  - canonical changes: **0**
+- `திடுக்கிடும் கதை` — **CLOSED / PASS 7/7**
+  - material variants: **10**
+  - high-value variants include `யானையின் கண்களைவிட...` ↔ `யாரின் கண்களைவிடக்...`, `இனியவளாம்` ↔ `இளையவளாம்`, and `அநேகமாக நடந்து` ↔ `அநேகமாகக் கடந்து`
+  - canonical changes: **0**
+- `அபாக்ய சிந்தாமணி` — **CLOSED / PASS 10/10**
+  - material variants: **13**
+  - canonical confirmations: **4**
+  - 1979 independently confirms `ஐயமிட்டுண்`, `பிர்க்காக்களைப்`, `மடிப்பிச்சை`, and repaired `சோக கீதத்தில்`
+  - canonical changes: **0**
+
+Collection closure:
 
 - source registration: **COMPLETE**
-- scan map: **COMPLETE**
-- story inventory: **5/5 COMPLETE**
-- witness comparison: **IN PROGRESS — Stories 1–3 CLOSED; Story 4 `திடுக்கிடும் கதை` 2/7; Story 5 pending**
-- Story 1 `தொடர்கதை`: **CLOSED / PASS 30/30 — 13 material variants / 5 confirmations / 0 canonical changes**
-- Story 2 `கடைசிக் கட்டம்`: **CLOSED / PASS 6/6 — 10 material variants / 0 canonical changes**
-- Story 3 `புகழேந்தி`: **CLOSED / PASS 7/7 — 6 material variants / 0 canonical changes**
-- Story 4 `திடுக்கிடும் கதை`: **IN PROGRESS — scans 49–50 reviewed / 2 of 7 / 4 variants so far / 0 canonical changes**
-- Story 5 `அபாக்ய சிந்தாமணி`: **NOT STARTED**
-- direct boundaries through scan 49: **PASS**
+- scan map: **FINAL 65/65**
+- story inventory: **5/5**
+- witness comparisons: **5/5 CLOSED / PASS**
+- canonical Tamil changes: **0**
+- canonical English changes: **0**
+- canonical recheck candidates opened: **0**
+- unresolved witness readings: **0**
+- scan **65 / printed 64** terminal source ending: **PASS**
+- 1979 collection: **CLOSED / PASS**
 
-Durable intake files:
+Durable controls:
 
 - `collections/1979-pazhakkoodai/README.md`
-- `collections/1979-pazhakkoodai/metadata/source.md`
 - `collections/1979-pazhakkoodai/indexes/scan-map.md`
 - `collections/1979-pazhakkoodai/indexes/story-inventory.md`
 
 ## Exact next activity — CURRENT
 
-1979 `பழக்கூடை` remains active.
+**NONE.**
 
-Current durable state:
+The 1979 `பழக்கூடை` source is closed.
 
-- Story 1 `தொடர்கதை` → `stories/mudiyatha-thodarkathai/` — **CLOSED / PASS 30/30**
-- Story 2 `கடைசிக் கட்டம்` → `stories/kadaisi-kattam/` — **CLOSED / PASS 6/6**
-  - material variants: **10**
-  - high-value: 1979 `திடுக்கிடவில்லை!` ↔ canonical `திடுக்கிட்டுவிட்டாள்!`
-- Story 3 `புகழேந்தி` → `stories/pugazhendhi/` — **CLOSED / PASS 7/7**
-  - material variants: **6**
-  - high-value: 1979 `திராவிடத் தமிழரின் உழைப்பு வெற்றி தினம்` ↔ 1977 `தமிழரின் உழைப்பு வெற்றி தினம்`
-- Story 4 `திடுக்கிடும் கதை` → `stories/thidukkidum-kathai/`
-  - full witness: scans **49–55 / printed 48–54**
-  - reviewed: scans **49–50 / 2 of 7**
-  - material variants so far: **4**
-  - high-value opening: 1979 `அகிலத்தின் எழில் மாடம்` ↔ 1977 `அதில்தான் எழில்மாடம்`
-- Story 5 `அபாக்ய சிந்தாமணி` → `stories/abagya-chinthamani/` — **NOT STARTED**
+Await the user's next anthology, explicit canonical recheck, or maintenance request.
 
-Canonical Tamil / English changes from the current 1979 work: **0 / 0**.  
-Canonical recheck candidates: **0**.  
-Unresolved witness readings: **0**.
-
-User batching rule: **15 physical source pages per iteration**.
-
-Exactly **15 source scans remain: 51–65 / printed 50–64**.
-
-**NEXT: process scans 51–65 in one iteration.**
-
-1. fetch live `main`;
-2. use only 1979 direct scan pixels as witness authority;
-3. scans **51–55** — finish `திடுக்கிடும் கதை` against canonical `stories/thidukkidum-kathai/`;
-4. confirm scan **55** ending and scan **56** opening `அபாக்ய சிந்தாமணி`;
-5. scans **56–65** — compare complete `அபாக்ய சிந்தாமணி` against canonical `stories/abagya-chinthamani/`;
-6. record story-specific material variants / canonical confirmations;
-7. do not overwrite canonical Tamil from witness evidence alone;
-8. if a witness reading suggests a canonical error, reopen the exact canonical controlling scan first;
-9. confirm scan **65** is the supplied-source ending;
-10. synchronize all witness/collection controls and commit;
-11. if no unresolved issue remains, close the 1979 `பழக்கூடை` collection.
+The 1958 `தேனலைகள்` source remains explicitly **DEFERRED**. Do **not** resume it automatically.

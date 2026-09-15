@@ -100,6 +100,26 @@ Story 27 — **பாலைவன ரோஜா**, printed pages **180–184**, a
 2026 source reread corrected scan 188 `சோக கதத்தில்` → `சோக கீதத்தில்`; all legacy possible-error candidates are now source-resolved.
 
 
+## 1979 earlier-edition witness
+
+The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same story.
+
+- witness scans: **56–65 / printed 55–64**
+- witness state: **CLOSED / PASS — 10/10**
+- material variant groups: **13**
+- canonical confirmations: **4**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- scan 65: **witness ending and supplied-PDF terminal boundary**
+
+High-value edition differences include 1979 `பருவக் காற்றால் ... தூசிகளை` ↔ canonical `பருவக் காற்றில் ... தூசுகளை`, 1979 omission of `பாலப்` in `கூடு கண்ட பூனை பாஷாணம்`, and the final 1979 stillbirth sentence omitting canonical `இந்த உலகத்தைப் பார்க்க விருப்பமில்லாமல்`.
+
+The 1979 witness independently preserves `ஐயமிட்டுண்`, `பிர்க்காக்களைப்`, `மடிப்பிச்சை`, and especially **`சோக கீதத்தில்`**, corroborating the 2026 direct-source repair `சோக கதத்தில்` → `சோக கீதத்தில்`.
+
+Durable comparison:
+[`witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md`](witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md).
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**

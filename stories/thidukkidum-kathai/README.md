@@ -92,18 +92,18 @@ Story 30 — **கடைசிக் கட்டம்**, printed pages **196�
 
 The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same story.
 
-- full witness scans: **49–55 / printed 48–54**
-- reviewed: **49–50 / printed 48–49 — 2/7**
-- comparison state: **IN PROGRESS**
-- material variant groups so far: **4**
+- witness scans: **49–55 / printed 48–54**
+- witness state: **CLOSED / PASS — 7/7**
+- material variant groups: **10**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
 - canonical Tamil / English changed: **No / No**
+- scan 56 boundary: **separate `அபாக்ய சிந்தாமணி` opening confirmed**
 
-Opening differences include 1979 omission of canonical `சிலர்` and the wording `அகிலத்தின் எழில் மாடம்` where the 1977 canonical reads `அதில்தான் எழில்மாடம்`.
+High-value edition differences include 1979 `யானையின் கண்களைவிட...` ↔ canonical `யாரின் கண்களைவிடக்...`, 1979 `இனியவளாம்` ↔ canonical `இளையவளாம்`, and 1979 `அநேகமாக நடந்து` ↔ canonical `அநேகமாகக் கடந்து`.
 
-Witness workspace:
-`witnesses/1979-pazhakkoodai/`.
+Durable comparison:
+[`witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md`](witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md).
 
 ## English post-Tamil re-audit
 

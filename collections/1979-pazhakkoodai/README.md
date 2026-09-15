@@ -80,10 +80,10 @@ No duplicate canonical story folder was created.
 - final source boundary checked: **PASS**
 - existing-canonical witness routes: **5/5**
 - new canonical stories: **0**
-- witness comparison: **IN PROGRESS — Stories 1–3 CLOSED; Story 4 `திடுக்கிடும் கதை` 2/7; Story 5 pending**
+- witness comparison: **CLOSED / PASS — 5/5 story witnesses**
 - English: **not part of witness comparison; canonical English remains unchanged**
 
-## Witness progress
+## Final witness results
 
 ### Story 1 — `தொடர்கதை`
 
@@ -93,8 +93,7 @@ Canonical: `stories/mudiyatha-thodarkathai/`
 
 - material variant groups: **13**
 - canonical confirmations: **5**
-- canonical recheck candidates: **0**
-- canonical Tamil / English changed: **No / No**
+- canonical changes: **0**
 
 ### Story 2 — `கடைசிக் கட்டம்`
 
@@ -102,18 +101,8 @@ Canonical: `stories/kadaisi-kattam/`
 
 **CLOSED / PASS — 6/6.**
 
-- witness scans: **36–41 / printed 35–40**
 - material variant groups: **10**
-- canonical recheck candidates: **0**
-- unresolved witness readings: **0**
-- canonical Tamil / English changed: **No / No**
-- scan 42 `புகழேந்தி` boundary: **PASS**
-
-High-value differences:
-
-- `கள்ளக்காதலுக்கு இடம் கொடுத்த` ↔ canonical `கள்ளக் காதலனுக்கு இடங்கொடுத்த`;
-- `கோகிலாகூட துணைக்கு வரவில்லையா?` ↔ `கோகிலாகூட தூங்க வரவில்லையா?`;
-- 1979 `திடுக்கிடவில்லை!` ↔ canonical `திடுக்கிட்டுவிட்டாள்!`.
+- canonical changes: **0**
 
 ### Story 3 — `புகழேந்தி`
 
@@ -121,12 +110,8 @@ Canonical: `stories/pugazhendhi/`
 
 **CLOSED / PASS — 7/7.**
 
-- witness scans: **42–48 / printed 41–47**
 - material variant groups: **6**
-- canonical recheck candidates: **0**
-- unresolved witness readings: **0**
-- canonical Tamil / English changed: **No / No**
-- scan 49 `திடுக்கிடும் கதை` boundary: **PASS**
+- canonical changes: **0**
 
 Highest-value difference:
 
@@ -137,29 +122,62 @@ Highest-value difference:
 
 Canonical: `stories/thidukkidum-kathai/`
 
-**IN PROGRESS — 2/7.**
+**CLOSED / PASS — 7/7.**
 
-- complete witness: scans **49–55 / printed 48–54**
-- reviewed this iteration: **49–50 / printed 48–49**
-- material variant groups so far: **4**
+- material variant groups: **10**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
 - canonical Tamil / English changed: **No / No**
 
-Opening variants include:
+Highest-value differences:
 
-- 1979 omission of canonical `சிலர்`;
-- 1979 `அகிலத்தின் எழில் மாடம்` ↔ canonical `அதில்தான் எழில்மாடம்`.
+- 1979 `அகிலத்தின் எழில் மாடம்` ↔ canonical `அதில்தான் எழில்மாடம்`;
+- 1979 `யானையின் கண்களைவிட...` ↔ canonical `யாரின் கண்களைவிடக்...`;
+- 1979 `இனியவளாம்` ↔ canonical `இளையவளாம்`;
+- 1979 `அநேகமாக நடந்து` ↔ canonical `அநேகமாகக் கடந்து`.
+
+### Story 5 — `அபாக்ய சிந்தாமணி`
+
+Canonical: `stories/abagya-chinthamani/`
+
+**CLOSED / PASS — 10/10.**
+
+- material variant groups: **13**
+- canonical confirmations: **4**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- scan **65** terminal source ending: **PASS**
+
+Highest-value differences:
+
+- 1979 `பருவக் காற்றால் ... தூசிகளை` ↔ canonical `பருவக் காற்றில் ... தூசுகளை`;
+- 1979 `ஐயமிட்டுண் என்று` ↔ canonical `ஐயமிட்டுண் என்றும்`;
+- 1979 omits `பாலப்` in `கூடு கண்ட பூனை பாஷாணம்`;
+- 1979 `சிந்தாமணி எதிர்த்துப் பேசினள்` ↔ canonical `சிந்தாமணி விளக்கம் பேசினாள்`;
+- 1979 stillbirth sentence omits canonical `இந்த உலகத்தைப் பார்க்க விருப்பமில்லாமல்`.
+
+1979 independently confirms canonical source-close `ஐயமிட்டுண்`, `பிர்க்காக்களைப்`, `மடிப்பிச்சை`, and repaired **`சோக கீதத்தில்`**.
+
+## Final collection state
+
+- source registration: **COMPLETE**
+- scan map: **COMPLETE / FINAL 65/65**
+- story inventory: **5/5 COMPLETE**
+- existing-canonical witness routes: **5/5**
+- witness comparisons: **5/5 CLOSED / PASS**
+- new canonical stories: **0**
+- canonical Tamil changes from this source: **0**
+- canonical English changes from this source: **0**
+- canonical recheck candidates opened from this source: **0**
+- unresolved witness readings: **0**
+- supplied PDF terminal boundary: **scan 65 / printed 64 — PASS**
+- 1979 collection: **CLOSED / PASS**
 
 ## Exact next activity
 
-User batching rule remains **15 physical source pages per iteration**.
+**NONE for 1979 `பழக்கூடை`.**
 
-Exactly **15 source scans remain: 51–65 / printed 50–64**.
+Await the user's next anthology or explicit maintenance request.
 
-Next iteration:
-
-1. scans **51–55 / printed 50–54** — finish `திடுக்கிடும் கதை` against canonical `stories/thidukkidum-kathai/`;
-2. scans **56–65 / printed 55–64** — process complete `அபாக்ய சிந்தாமணி` against canonical `stories/abagya-chinthamani/`.
-
-Confirm scan 55 story ending, scan 56 `அபாக்ய சிந்தாமணி` opening, and scan 65 terminal source ending. If both witnesses close cleanly, close the 1979 collection in that iteration.
+The 1958 `தேனலைகள்` source remains explicitly **DEFERRED** and must not be resumed automatically.
