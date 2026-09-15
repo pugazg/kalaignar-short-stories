@@ -636,78 +636,87 @@ The exact 1977 controlling scan **166 / printed 157** was freshly reopened at en
 
 Controlling attached source: `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
 
-Collection workspace: `collections/1953-naadum-naadagamum/`
-
-Source identity:
-
 - bytes: **119,943,631**
 - SHA-256: **`f852f0d0e5501cf74109c491ec8ae7ba9cb0840289524c95556144423beb887f`**
 - physical scans: **80**
 - edition: **முதல் பதிப்பு — 1953**
-- source type: **image-only; direct scan pixels control**
+- direct scan pixels control
+- no OCR/web/alternate-source authority
 
-This is a mixed publication retained entirely in the short-stories repository per user instruction.
+### Durable closed layers
 
-### Corrected physical routing
+- scans 5–24 — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — **CLOSED / VERIFIED 20/20**
+- scans 25–36 — `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
+- scans 37–51 — `சந்தனக்கிண்ணம்` 1953 witness — **CLOSED / PASS 15/15**
 
-- scans **1–4** — front matter
-- scans **5–24** — `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` — **CLOSED / VERIFIED 20/20**
-- scans **25–36 / printed 17–28** — `தெருக்கூத்து` — play
-- scans **37–51 / printed 29–43** — `சந்தனக்கிண்ணம்` — existing canonical `stories/santhana-kinnam/` / 1953 cross-witness
-- scans **52–68 / printed 44–60** — `ஆலமரத்துப் புறாக்கள்` — existing-canonical witness
-- scans **69–75 / printed 61–67** — `பெண்கள்` — existing-canonical cross-witness; exact alias/path to pin before comparison
-- scans **76–80 / printed 68–72** — `இரகசியம்!` — existing-canonical witness
+### Routing correction discovered in current 15-page batch
 
-The earlier provisional `தெருக்கூத்து = scans 25–51` routing is superseded. Scan 36 explicitly closes the play; scan 37 opens `சந்தனக்கிண்ணம்`.
+The prior downstream map was wrong.
 
-### Current state — `தெருக்கூத்து`
+Direct source now establishes:
 
-Workspace: `collections/1953-naadum-naadagamum/works/therukoothu/`
+- scans **52–58 / printed 44–50** — `ஆலமரத்துப் புறாக்கள்`
+- scan **59 / printed 51** — opens `ஆதரிக்கிறார்`
+- `ஆதரிக்கிறார்` continues through at least scan **66**
 
-Corrected source span: **scans 25–36 / printed 17–28**.
+Therefore retract:
 
-- Stage 1 baseline-assisted first-pass: **COMPLETE 12/12**
-- Stage 2 visual text-fidelity audit: **COMPLETE / PASS 12/12**
-- Stage-2 source-supported corrections: **11**
-- Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 12/12**
-- mandatory glyph families audited: **13/13**
-- family disposition: **9 present / 4 absent**
-- Stage-3 character-identity corrections: **0**
-- Stage-3 unresolved glyph clusters: **0**
-- Stage 4 final independent source check: **COMPLETE / PASS 12/12**
-- Stage-4 additional source-supported corrections: **1**
-- Stage-4 correction: scan 27 `நீட்டிப் பெற்றுக்கொண்டான்` → **`நீட்டி பெற்றுக்கொண்டான்`**
-- Stage-2 corrections reverified: **11/11**
-- verified: **12/12**
-- needs-review: **0**
-- blocked: **0**
-- final unresolved source-text issues: **0**
-- final unresolved glyph clusters: **0**
-- guessed readings: **0**
-- scan 36 work ending: **PASS — `[தெருக்கூத்தும் முடிகிறது]`**
-- scan 37 boundary witness: **PASS — opens separate `சந்தனக்கிண்ணம்`**
-- status: **CLOSED / VERIFIED**
-- durable records:
-  - `STAGE1_BATCH_001.md`
-  - `STAGE2_BATCH_001.md`
-  - `STAGE3_BATCH_001.md`
-  - `STAGE4_BATCH_001.md`
+- old `ஆலமரத்துப் புறாக்கள் = 52–68`
+- old `பெண்கள் = 69–75`
+- old `இரகசியம்! = 76–80`
 
-### Source inventory state
+Downstream scans 67–80 must be inventoried from direct headings.
 
-- body units: **6/6 inventoried**
-- short stories: **4/4 inventoried**
-- existing-canonical witness routes: **4**
-- new-canonical candidates: **0**
-- `சந்தனக்கிண்ணம்`: existing canonical `stories/santhana-kinnam/`; 1953 witness **CLOSED / PASS 15/15**
-  - witness workspace: `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`
-  - material lexical/syntactic variant groups: **19**
-  - canonical confirmations: **3**
-  - canonical Tamil / English changed: **No / No**
-  - unresolved witness readings: **0**
-  - highest-value final-edition difference: 1953 explicit `திராவிட நாடு கிடைத்ததும். அந்த விடுதலைப் போரின் வெற்றி விழாவிலே` ↔ 1977 `கிடைத்ததும் மீண்டும் இலட்சியப் போரின் வெற்றி விழாவிலே`
-- `பெண்கள்`: user-confirmed existing canonical; exact alias/path to pin before comparison
-- short-story handling mode: **cross-witness comparison only**
+### `ஆலமரத்துப் புறாக்கள்` 1953 witness
+
+Canonical: `stories/aalamarathup-puraakkal/`
+
+Witness workspace:
+`stories/aalamarathup-puraakkal/witnesses/1953-naadum-naadagamum/`
+
+Status: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+
+- corrected span: **52–58 / printed 44–50**
+- scans inspected: **7/7**
+- scans 57–58: **large physical paper loss**
+- missing 1953 wording reconstructed: **No**
+- material variant groups: **4**
+- canonical confirmations: **2**
+- canonical Tamil / English changed: **No / No**
+- highest-value variant: 1953 `"வந்தே மாத்ரம்"` ↔ 1977 `"வந்தேன் எமாத்தினேன்"`
+- independent support: first `இளம் புறா`, later `இளத்த புறா`, lexical root `புறா...`
+
+### `ஆதரிக்கிறார்` 1953 witness
+
+Canonical: `stories/aatharikkirar/`
+
+Witness workspace:
+`stories/aatharikkirar/witnesses/1953-naadum-naadagamum/`
+
+Current status: **IN PROGRESS**
+
+- opens: scan **59 / printed 51**
+- reviewed: scans **59–66 / printed 51–58**
+- material variant groups: **5**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- story continues beyond scan 66
+
+High-value variants:
+
+1. 1953-only paragraph ending `பார்ப்பனச்சேரி`;
+2. compensation-application wording redistributes `நகரசபைக்காக`;
+3. 1953 `வேஷ்டியை` ↔ 1977 `வேட்டியை`;
+4. 1953-only `பொதுத் தொண்டுச் சிங்கம் புண்யகோடி என்ற விருதுகள் வழங்கப்பட்டன.`
+
+### Batch rule
+
+User's current rule: **15 physical pages per iteration**.
+
+Completed this iteration: **52–66 = 15 pages**.
+
+Only **67–80 = 14 pages** remain in the source.
 
 ## Queued source — 1979 `பழக்கூடை`
 
@@ -760,36 +769,17 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1953 `நாடும் நாடகமும்` current state:
-
-- `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **CLOSED / VERIFIED 20/20**
-- `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
-- `சந்தனக்கிண்ணம்` — **CROSS-WITNESS CLOSED / PASS 15/15**
-  - canonical: `stories/santhana-kinnam/`
-  - witness: scans **37–51 / printed 29–43**
-  - material variant groups: **19**
-  - canonical confirmations: **3**
-  - canonical Tamil / English changed: **No / No**
-  - unresolved: **0**
-- `ஆலமரத்துப் புறாக்கள்` — **NEXT**
-  - canonical: `stories/aalamarathup-puraakkal/`
-  - complete 1953 witness span: scans **52–68 / printed 44–60**
-- `பெண்கள்` — existing-canonical cross-witness; exact canonical alias/path still to pin before its turn
-- `இரகசியம்!` — existing canonical cross-witness
-
-User batching rule for current witness work: **15 physical pages per iteration**.
-
-**NEXT: `ஆலமரத்துப் புறாக்கள்` comparison-only cross-witness review — scans 52–66 / printed 44–58.**
+Process the final **14 physical scans 67–80 / printed 59–72** of the 1953 `நாடும் நாடகமும்` source.
 
 1. fetch live `main`;
-2. read canonical `stories/aalamarathup-puraakkal/` controls and assembled Tamil;
-3. use only the 1953 `நாடும் நாடகமும்` scan pixels as witness authority;
-4. compare scans **52–66** end-to-end against canonical text;
-5. record wording, morphology, spelling, punctuation, spacing, layout, historical-glyph and narrative variants;
-6. do not import witness wording into canonical Tamil automatically;
-7. if witness evidence suggests a canonical error, reopen the exact canonical controlling scan before any repair;
-8. create/update a witness workspace under `stories/aalamarathup-puraakkal/witnesses/1953-naadum-naadagamum/`;
-9. synchronize collection controls / handover and commit;
-10. stop after scan **66**. Leave scans **67–68** for the next iteration.
+2. continue the existing-canonical `ஆதரிக்கிறார்` witness from scan 67;
+3. close it only when the actual source ending/new heading is visible;
+4. follow every later heading directly and route each unit to its existing canonical workspace;
+5. the old provisional `பெண்கள்` / `இரகசியம்!` map is retracted and must not be assumed;
+6. compare each witness only against its canonical target;
+7. do not import witness wording into canonical Tamil without direct controlling-source recheck;
+8. do not reconstruct physically missing witness text from later editions;
+9. no OCR/web/Wikisource/alternate source authority;
+10. process through scan **80** and synchronize the final 1953 direct inventory.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.

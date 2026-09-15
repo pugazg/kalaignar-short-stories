@@ -1,72 +1,90 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / `ஆலமரத்துப் புறாக்கள்` cross-witness scans 52–66
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / final source batch scans 67–80
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed prior work
-
-- `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **CLOSED / VERIFIED 20/20**
-- `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
-- 1953 `சந்தனக்கிண்ணம்` witness — **CLOSED / PASS 15/15**
-  - canonical: `stories/santhana-kinnam/`
-  - material lexical/syntactic variant groups: **19**
-  - canonical confirmations: **3**
-  - canonical Tamil / English changed: **No / No**
-  - unresolved witness readings: **0**
-  - durable record: `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`
-
-Do not reopen these automatically.
-
-## Controlling witness source
+## Controlling source
 
 Use only the user-supplied:
 
 `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf`
 
-Source identity remains:
+- edition: **முதல் பதிப்பு — 1953**
+- physical scans: **80**
+- direct scan pixels control
+- no OCR, web copies, Wikisource, catalogue text, alternate editions, or contextual reconstruction as witness authority
 
-- edition — **முதல் பதிப்பு — 1953**
-- physical scans — **80**
-- source type — **image-only; direct scan pixels control**
-- source PDF committed — **No**
+## Closed prior work
 
-No OCR, web copies, Wikisource, catalogue text, alternate editions, or contextual reconstruction as witness authority.
+- `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **CLOSED / VERIFIED 20/20**
+- `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
+- `சந்தனக்கிண்ணம்` 1953 witness — **CLOSED / PASS 15/15**
+- `ஆலமரத்துப் புறாக்கள்` 1953 witness — **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+  - corrected span: scans **52–58 / printed 44–50**
+  - scans 57–58 have large physical paper loss
+  - 1953 missing wording was not reconstructed
+  - highest-value variant: `"வந்தே மாத்ரம்"` ↔ canonical `"வந்தேன் எமாத்தினேன்"`
+  - canonical Tamil / English unchanged
 
-## Active witness — `ஆலமரத்துப் புறாக்கள்`
+## Critical routing correction
 
-1953 physical span:
+The old downstream inventory is **RETRACTED**.
 
-- scans **52–68**
-- printed pages **44–60**
-- scan **52** opens `ஆலமரத்துப் புறாக்கள்`
+Direct source inspection proved:
 
-Canonical route:
+- `ஆலமரத்துப் புறாக்கள்` ends by scan **58**
+- scan **59 / printed 51** opens **`ஆதரிக்கிறார்`**
+- `ஆதரிக்கிறார்` continues through at least scan **66**
 
-`stories/aalamarathup-puraakkal/`
+Do not assume:
 
-This is **comparison-only cross-witness work**, not new canonical transcription.
+- old `ஆலமரத்துப் புறாக்கள் = 52–68`
+- old `பெண்கள் = 69–75`
+- old `இரகசியம்! = 76–80`
+
+Direct headings/endings must control.
+
+## Active witness — `ஆதரிக்கிறார்`
+
+Canonical:
+`stories/aatharikkirar/`
+
+Witness workspace:
+`stories/aatharikkirar/witnesses/1953-naadum-naadagamum/`
+
+Processed:
+
+- scans **59–66 / printed 51–58**
+- material variant groups: **5**
+- canonical recheck candidates: **0**
+- unresolved: **0**
+- canonical Tamil / English changed: **No / No**
+
+Notable 1953 differences:
+
+- extra paragraph ending `பார்ப்பனச்சேரி`;
+- redistributed `நகரசபைக்காக` wording;
+- `வேஷ்டியை` ↔ canonical `வேட்டியை`;
+- extra award sentence `பொதுத் தொண்டுச் சிங்கம் புண்யகோடி என்ற விருதுகள் வழங்கப்பட்டன.`
 
 ## Batch size
 
-Per the user's latest instruction, process **15 physical pages in each iteration**.
+User requested **15 physical pages per iteration**.
 
-Therefore this iteration is:
+Only **14 scans remain**, so the next iteration is the final partial batch:
 
-**scans 52–66 / printed 44–58 — 15 pages**
-
-Leave scans **67–68 / printed 59–60** for the next iteration.
+**scans 67–80 / printed 59–72 — 14 physical pages**
 
 ## Exact next activity
 
 1. fetch live `main`;
-2. reread canonical `stories/aalamarathup-puraakkal/README.md`, its 2026 re-audit records, and assembled Tamil;
-3. render/reopen 1953 scans **52–66** directly;
-4. compare all 15 witness pages against canonical 1977 text;
-5. record substantive wording, spelling, morphology, punctuation, spacing, historical-glyph, layout and narrative variants;
-6. preserve edition-specific readings; do not normalize witness text into canonical;
-7. if a witness variant suggests a possible canonical error, reopen the exact 1977 controlling scan before changing canonical text;
-8. create/update witness comparison records at `stories/aalamarathup-puraakkal/witnesses/1953-naadum-naadagamum/`;
-9. synchronize collection controls, `HANDOVER.md`, and this prompt;
-10. commit the completed 15-page witness batch and re-fetch live `main`;
-11. stop after scan **66**.
-
-Do not process scans **67–68** in the same iteration.
+2. render/reopen scans **67–80** directly;
+3. continue `ஆதரிக்கிறார்` from scan 67 until its actual ending;
+4. when a new heading appears, close the current witness and identify the new story from the source heading/content;
+5. route each new story to its already-existing canonical workspace — **do not create new canonical folders**;
+6. compare each source span against its canonical text and record material edition variants / canonical confirmations;
+7. if witness evidence suggests a canonical error, reopen the exact canonical controlling scan before any repair;
+8. preserve physical source limitations; never fill lost text from another edition;
+9. create/update witness records under the relevant canonical story folders;
+10. synchronize collection README, scan map, story inventory, `HANDOVER.md`, and this prompt;
+11. commit and re-fetch live `main`;
+12. finish through scan **80**.

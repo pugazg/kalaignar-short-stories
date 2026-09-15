@@ -55,6 +55,25 @@ English is synchronized to the repaired Tamil. The previous `purru` transliterat
 Scan **155** ends the story with the source-bold `வல்லூறை விரட்டுவதுதான்!` and closing ornament. Scan **156** independently opens `தொத்துக்கிளி`; no Story 22 text is included here.
 
 
+## 1953 earlier-edition witness
+
+The 1953 first-edition `நாடும் நாடகமும்` contains an earlier witness of this same story.
+
+- corrected witness scans: **52–58 / printed 44–50**
+- scan 59: separately opens `ஆதரிக்கிறார்`
+- witness workspace: `witnesses/1953-naadum-naadagamum/`
+- witness disposition: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+- scans 57–58: **large physical paper loss; missing 1953 wording not reconstructed**
+- material variant groups recorded: **4**
+- canonical confirmations: **2**
+- canonical Tamil / English changed: **No / No**
+
+Highest-value edition difference: 1953 has **`"வந்தே மாத்ரம்"`** in the vulture's belch where the 1977 canonical edition has **`"வந்தேன் எமாத்தினேன்"`**.
+
+The 1953 witness independently supports the repaired first **`ஓர் இளம் புறா`** / later **`ஓர் இளத்த புறா`** distinction and the lexical root `புறா...`.
+
+Durable record: [`witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`](witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md).
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**
