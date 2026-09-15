@@ -9,43 +9,42 @@
 - controlling authority: **direct scan pixels**
 - historical-glyph policy: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 
-## Authoritative disposition after corrective Stage 3
+## Stage-2 disposition after later gates
 
-Stage 2 ordinary visual fidelity remains **COMPLETE / PASS**, but its former **30-correction** count is **SUPERSEDED**.
+Stage 2 ordinary visual fidelity completed with **27 interim ordinary corrections** after the corrective Stage-3 glyph audit had already retracted three false glyph-based changes from the former 30-correction ledger.
 
-The corrective historical-glyph audit proved that three items counted as Stage-2 corrections were regressions caused by reading old glyph shapes as modern look-alikes. Those three are removed from the authoritative Stage-2 correction count.
+Stage 4 then independently rechecked all 27 ordinary Stage-2 changes and found:
 
-- scan 101 ordinary Stage-2 corrections: **15**
-- scan 102 ordinary Stage-2 corrections: **12**
-- authoritative ordinary Stage-2 corrections: **27**
-- former reconciled count: **30 — SUPERSEDED**
-- Stage-2 historical-glyph regressions later reverted: **3**
-- unresolved ordinary-fidelity readings: **0**
-- page statuses: **needs-review 2/2**
-- Stage 3: **corrective re-audit COMPLETE / PASS**
-- Stage 4: **NEXT**
+- Stage-2 changes retained unchanged: **24**
+- Stage-2 correction refined at Stage 4: **1**
+- Stage-2 over-corrections reverted at Stage 4: **2**
+- new Stage-4 ordinary corrections: **4**
+- final ordinary source-fidelity differences from Stage 1: **29**
 
-## Stage-2 changes retracted by historical-glyph audit
+## Stage-2 historical-glyph regressions previously retracted
 
 | Stage-1/source-decoded reading | Incorrect Stage-2 look-alike | Historical family | Final disposition |
 |---|---|---|---|
-| `கடன்காரனாம்` | `கடன்காரனும்` | `னா` | Stage 1 restored |
-| `ஆடைகளை` | `ஆடைகள்` | `ளை` | Stage 1 restored |
-| final `அவளை வாழவிடாமல் செய்த` | `அவள் வாழவிடாமல் செய்த` | `ளை` | Stage 1 restored |
+| `கடன்காரனாம்` | `கடன்காரனும்` | `னா` | Stage 1 restored / Stage 3 confirmed / Stage 4 confirmed |
+| `ஆடைகளை` | `ஆடைகள்` | `ளை` | Stage 1 restored / Stage 3 confirmed / Stage 4 confirmed |
+| final `அவளை வாழவிடாமல் செய்த` | `அவள் வாழவிடாமல் செய்த` | `ளை` | Stage 1 restored / Stage 3 confirmed / Stage 4 confirmed |
 
 The failure mode is exactly the one documented in the repository guide: **old shape ≠ modern look-alike**.
 
-## Ordinary Stage-2 status
+## Stage-4 disposition of ordinary Stage-2 changes
 
-All other ordinary Stage-2 wording / punctuation / spacing / layout decisions remain in force unless Stage 4 independently disproves them. Stage 3 is not used to modernize spelling or grammar.
+- refined: `சாரட்டு வண்டி வந்து நின்றது;` → `சாரட்டு வண்டி வந்து நின்றது’`
+- reverted: `பிரம்மச்சாரி” என்று. தனது` → `பிரம்மச்சாரி” என்று தனது`
+- reverted: `அரசி. அனுமதிச்சீட்டு` → `அரசி, அனுமதிச்சீட்டு`
 
-The Stage-3 correction `நடத்தினள்` → `நடத்தினாள்` is a separate historical-glyph repair and is therefore **not** counted among the 27 ordinary Stage-2 corrections.
+Additional Stage-4 corrections are recorded in `FINAL_SOURCE_CHECK.md`.
 
-## Gate disposition
+## Final gate state
 
 - Stage 1: **COMPLETE 2/2**
-- Stage 2 ordinary visual fidelity: **COMPLETE / PASS 2/2 — 27 authoritative corrections**
-- Stage 3 historical-glyph corrective re-audit: **COMPLETE / PASS 2/2 — 4 corrections**
+- Stage 2 ordinary visual fidelity: **COMPLETE / PASS 2/2 — historical interim ledger preserved**
+- Stage 3 corrective historical-glyph audit: **COMPLETE / PASS 2/2 — 4 corrections**
+- Stage 4 final independent source check: **COMPLETE / PASS 2/2 — 7 corrections**
+- unresolved ordinary readings: **0**
 - unresolved glyph clusters: **0**
-- Stage 4 final independent source check: **NOT STARTED — NEXT**
-- verified pages: **0/2**
+- verified pages: **2/2**
