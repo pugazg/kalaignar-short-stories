@@ -2,7 +2,7 @@
 
 > **Stage 2 reconciled fidelity-audited assembly — needs review.**  
 > Controlling source: `TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf`, scans 101–102 / printed 91–92.  
-> Stage 2 ordinary visual text-fidelity is **COMPLETE / PASS after source-pixel reconciliation — 30 final net corrections**. The initial 18-change ledger is superseded. Historical-glyph Stage 3 and final Stage 4 are still pending; this text is therefore **not yet verified**.
+> Stage 2 ordinary visual text-fidelity is **COMPLETE / PASS after source-pixel reconciliation — 30 final net corrections**. The initial 18-change ledger is superseded. Stage 3 historical-glyph audit is **COMPLETE / PASS — 0 character-identity corrections, 0 unresolved glyph clusters**. Final Stage 4 is still pending; this text is therefore **not yet verified**.
 
 “இளவரசே! தங்களது கரம் பிடிக்கப்போகும் கரோலின் இளவரசி, கடல் மார்க்கமாய் ஜெர்மானியத்திலிருந்து வந்து கொண்டிருக்கிறார். இந்த நேரத்தில் கப்பல் கவிழ்ந்தது போல் கவலையாய்—மனமொடிந்து உட்கார்ந்திருக்கிறீர்களே?”
 
