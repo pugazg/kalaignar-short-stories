@@ -102,6 +102,28 @@ Translation review:
 
 Only meaning/grammar affected by source-proven corrections is adjusted downstream; source-odd Tamil retained by the re-audit remains source-authoritative.
 
+## 1979 earlier-edition witness
+
+The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same story.
+
+- witness scans: **42–48 / printed 41–47**
+- witness state: **CLOSED / PASS — 7/7**
+- material variant groups: **6**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- scan 49 boundary: **separate `திடுக்கிடும் கதை` opening confirmed**
+
+Highest-value edition difference:
+
+- 1979: `"தை" என்பது திராவிடத் தமிழரின் உழைப்பு வெற்றி தினம்`
+- 1977 canonical: `"தை" என்பது தமிழரின் உழைப்பு வெற்றி தினம்`
+
+The final terrace scene also uses more honorific narration in 1979 than in the 1977 canonical.
+
+Durable comparison:
+[`witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md`](witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md).
+
 ## English post-Tamil re-audit
 
 Durable record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md).

@@ -18,9 +18,9 @@ No story text has been transcribed.
 | # | TOC title | Source opening heading | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
 | 1 | — | `தொடர்கதை` | 5–34 | 6–35 | same work as `stories/mudiyatha-thodarkathai/`; source-title variant / witness | **CLOSED / PASS 30/30** |
-| 2 | — | `கடைசிக் கட்டம்` | 35–40 | 36–41 | existing canonical `stories/kadaisi-kattam/` — witness | **NOT STARTED** |
-| 3 | — | `புகழேந்தி` | 41–47 | 42–48 | existing canonical `stories/pugazhendhi/` — witness | **NOT STARTED** |
-| 4 | — | `திடுக்கிடும் கதை` | 48–54 | 49–55 | existing canonical `stories/thidukkidum-kathai/` — witness | **NOT STARTED** |
+| 2 | — | `கடைசிக் கட்டம்` | 35–40 | 36–41 | existing canonical `stories/kadaisi-kattam/` — witness | **CLOSED / PASS 6/6** |
+| 3 | — | `புகழேந்தி` | 41–47 | 42–48 | existing canonical `stories/pugazhendhi/` — witness | **CLOSED / PASS 7/7** |
+| 4 | — | `திடுக்கிடும் கதை` | 48–54 | 49–55 | existing canonical `stories/thidukkidum-kathai/` — witness | **IN PROGRESS — 2/7** |
 | 5 | — | `அபாக்ய சிந்தாமணி` | 55–64 | 56–65 | existing canonical `stories/abagya-chinthamani/` — witness | **NOT STARTED** |
 
 ## TOC status
@@ -67,32 +67,52 @@ All five collection items are therefore **witness-only routes**. No new canonica
 - internal story-page gaps detected: **0**
 - existing-canonical witness routes: **5/5**
 - new-canonical candidates: **0**
-- witness workspaces created: **1**
+- witness workspaces created: **4**
 - page records created: **0 — witness comparison uses batch/variant records, not canonical page records**
-- witness comparison started: **Yes — Story 1 CLOSED / PASS; Stories 2–5 pending**
+- witness comparison started: **Yes — Stories 1–3 CLOSED; Story 4 2/7; Story 5 pending**
 
-## Story 1 witness closure — `தொடர்கதை`
+## Witness progress
 
-Canonical route: `stories/mudiyatha-thodarkathai/`.
+### Story 1 — `தொடர்கதை`
 
-- full witness: scans **6–35 / printed 5–34**
-- Batch 1: **6–20 — CLOSED / PASS**
-- Batch 2: **21–35 — CLOSED / PASS**
-- reviewed: **30/30**
-- material variant groups: **13**
+- canonical: `stories/mudiyatha-thodarkathai/`
+- witness: **CLOSED / PASS 30/30**
+- material variants: **13**
 - canonical confirmations: **5**
+- canonical changes: **0**
+
+### Story 2 — `கடைசிக் கட்டம்`
+
+- canonical: `stories/kadaisi-kattam/`
+- scans **36–41**
+- witness: **CLOSED / PASS 6/6**
+- material variants: **10**
 - canonical recheck candidates: **0**
-- unresolved witness readings: **0**
-- canonical Tamil / English changed: **No / No**
-- scan 36 `கடைசிக் கட்டம்` boundary: **PASS**
-- witness: **CLOSED / PASS**
+- canonical changes: **0**
+
+### Story 3 — `புகழேந்தி`
+
+- canonical: `stories/pugazhendhi/`
+- scans **42–48**
+- witness: **CLOSED / PASS 7/7**
+- material variants: **6**
+- canonical recheck candidates: **0**
+- canonical changes: **0**
+
+### Story 4 — `திடுக்கிடும் கதை`
+
+- canonical: `stories/thidukkidum-kathai/`
+- full witness: **49–55**
+- reviewed: **49–50 — 2/7**
+- material variants so far: **4**
+- canonical recheck candidates: **0**
+- canonical changes: **0**
 
 ## Exact next activity
 
-Process the next **15 physical scans 36–50 / printed 35–49**:
+Process the final **15 physical scans 51–65 / printed 50–64**:
 
-- `கடைசிக் கட்டம்` scans 36–41 — complete witness;
-- `புகழேந்தி` scans 42–48 — complete witness;
-- `திடுக்கிடும் கதை` scans 49–50 — first two witness pages.
+- scans **51–55** — finish `திடுக்கிடும் கதை`;
+- scans **56–65** — complete `அபாக்ய சிந்தாமணி`.
 
-Route each to its existing canonical workspace and maintain separate comparison records.
+If both close without unresolved source issues, close the complete 1979 `பழக்கூடை` witness collection.

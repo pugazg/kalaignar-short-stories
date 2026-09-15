@@ -11,9 +11,9 @@
 | 3 | — | edition / imprint | `மூன்றாம் பதிப்பு 1979`; price; printer; handwritten provenance note | registered |
 | 4–5 | — | front matter | publisher note `பழக்கூடை` / `பதிப்பகத்தார்` | registered |
 | 6–35 | 5–34 | story | `தொடர்கதை` | **cross-witness CLOSED / PASS 30/30** |
-| 36–41 | 35–40 | story | `கடைசிக் கட்டம்` | inventory only / existing-canonical witness |
-| 42–48 | 41–47 | story | `புகழேந்தி` | inventory only / existing-canonical witness |
-| 49–55 | 48–54 | story | `திடுக்கிடும் கதை` | inventory only / existing-canonical witness |
+| 36–41 | 35–40 | story | `கடைசிக் கட்டம்` | **cross-witness CLOSED / PASS 6/6** |
+| 42–48 | 41–47 | story | `புகழேந்தி` | **cross-witness CLOSED / PASS 7/7** |
+| 49–55 | 48–54 | story | `திடுக்கிடும் கதை` | **cross-witness IN PROGRESS — scans 49–50 reviewed** |
 | 56–65 | 55–64 | story | `அபாக்ய சிந்தாமணி` | inventory only / existing-canonical witness |
 
 ## Pagination
@@ -64,3 +64,22 @@ Next 15-page source batch: **scans 36–50 / printed 35–49**.
 - 36–41: `கடைசிக் கட்டம்`
 - 42–48: `புகழேந்தி`
 - 49–50: `திடுக்கிடும் கதை` opening pages
+
+
+## Current witness checkpoint through scan 50
+
+- `தொடர்கதை` 6–35 — **CLOSED / PASS 30/30**
+- `கடைசிக் கட்டம்` 36–41 — **CLOSED / PASS 6/6**
+- `புகழேந்தி` 42–48 — **CLOSED / PASS 7/7**
+- `திடுக்கிடும் கதை` 49–50 reviewed — **2/7 / IN PROGRESS**
+- direct boundaries:
+  - scan 36 `கடைசிக் கட்டம்` — PASS
+  - scan 42 `புகழேந்தி` — PASS
+  - scan 49 `திடுக்கிடும் கதை` — PASS
+
+## Exact next activity
+
+Process remaining scans **51–65 / printed 50–64** — exactly 15 pages.
+
+- 51–55: finish `திடுக்கிடும் கதை`
+- 56–65: complete `அபாக்ய சிந்தாமணி`

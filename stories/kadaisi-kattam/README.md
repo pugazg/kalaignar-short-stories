@@ -78,6 +78,23 @@ Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md).
 Story 31 — **அய்யோ ராஜா!**, printed pages **202–208**, anthology scans **211–217**. Scan **218** opens Story 32 `விஷம் இனிது`.
 
 
+## 1979 earlier-edition witness
+
+The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same story.
+
+- witness scans: **36–41 / printed 35–40**
+- witness state: **CLOSED / PASS — 6/6**
+- material variant groups: **10**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- scan 42 boundary: **separate `புகழேந்தி` opening confirmed**
+
+High-value differences include 1979 `கள்ளக்காதலுக்கு இடம் கொடுத்த` ↔ canonical `கள்ளக் காதலனுக்கு இடங்கொடுத்த`, and 1979 `திடுக்கிடவில்லை!` ↔ canonical `திடுக்கிட்டுவிட்டாள்!`.
+
+Durable comparison:
+[`witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md`](witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md).
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**

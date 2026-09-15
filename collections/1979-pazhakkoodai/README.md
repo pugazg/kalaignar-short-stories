@@ -80,54 +80,86 @@ No duplicate canonical story folder was created.
 - final source boundary checked: **PASS**
 - existing-canonical witness routes: **5/5**
 - new canonical stories: **0**
-- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` CLOSED / PASS 30/30; Stories 2–5 pending**
+- witness comparison: **IN PROGRESS — Stories 1–3 CLOSED; Story 4 `திடுக்கிடும் கதை` 2/7; Story 5 pending**
 - English: **not part of witness comparison; canonical English remains unchanged**
 
-## Story 1 witness — `தொடர்கதை`
+## Witness progress
 
-Canonical target:
+### Story 1 — `தொடர்கதை`
 
-`stories/mudiyatha-thodarkathai/`
+Canonical: `stories/mudiyatha-thodarkathai/`
 
-The source heading **`தொடர்கதை`** remains an edition-specific shorter title for canonical **`முடியாத தொடர்கதை`**.
+**CLOSED / PASS — 30/30.**
 
-**CLOSED / PASS — 30/30 witness scans.**
-
-- Batch 1: scans **6–20 / printed 5–19** — **CLOSED / PASS**
-- Batch 2: scans **21–35 / printed 20–34** — **CLOSED / PASS**
 - material variant groups: **13**
 - canonical confirmations: **5**
-- major scene-level additions / omissions: **0**
+- canonical recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+### Story 2 — `கடைசிக் கட்டம்`
+
+Canonical: `stories/kadaisi-kattam/`
+
+**CLOSED / PASS — 6/6.**
+
+- witness scans: **36–41 / printed 35–40**
+- material variant groups: **10**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
 - canonical Tamil / English changed: **No / No**
-- scan **35** ending / ornament: **PASS**
-- scan **36** separate `கடைசிக் கட்டம்` opening: **PASS**
+- scan 42 `புகழேந்தி` boundary: **PASS**
 
-Representative variants:
+High-value differences:
 
-- `அனுச் சஞ்சலமும்` ↔ `அனுச்சரணமும்`;
-- `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`;
-- `சூதுக்குப் பெயர் காதல்` ↔ `தூதுக்குப் பெயர் காதல்`;
-- `நம்மிருவரின் காதல்` ↔ `நம்மிருவரின் காதலை`;
-- `உருக்கியபடி இருந்தது` ↔ `உருக்கிக் கொண்டிருந்தது`;
-- `மூடத்தனத்திற்கு` ↔ canonical `முடத்தனத்திற்கு`.
+- `கள்ளக்காதலுக்கு இடம் கொடுத்த` ↔ canonical `கள்ளக் காதலனுக்கு இடங்கொடுத்த`;
+- `கோகிலாகூட துணைக்கு வரவில்லையா?` ↔ `கோகிலாகூட தூங்க வரவில்லையா?`;
+- 1979 `திடுக்கிடவில்லை!` ↔ canonical `திடுக்கிட்டுவிட்டாள்!`.
 
-Durable witness:
-`stories/mudiyatha-thodarkathai/witnesses/1979-pazhakkoodai/`
+### Story 3 — `புகழேந்தி`
+
+Canonical: `stories/pugazhendhi/`
+
+**CLOSED / PASS — 7/7.**
+
+- witness scans: **42–48 / printed 41–47**
+- material variant groups: **6**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- scan 49 `திடுக்கிடும் கதை` boundary: **PASS**
+
+Highest-value difference:
+
+- 1979 `"தை" என்பது திராவிடத் தமிழரின் உழைப்பு வெற்றி தினம்`
+- 1977 canonical `"தை" என்பது தமிழரின் உழைப்பு வெற்றி தினம்`
+
+### Story 4 — `திடுக்கிடும் கதை`
+
+Canonical: `stories/thidukkidum-kathai/`
+
+**IN PROGRESS — 2/7.**
+
+- complete witness: scans **49–55 / printed 48–54**
+- reviewed this iteration: **49–50 / printed 48–49**
+- material variant groups so far: **4**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+
+Opening variants include:
+
+- 1979 omission of canonical `சிலர்`;
+- 1979 `அகிலத்தின் எழில் மாடம்` ↔ canonical `அதில்தான் எழில்மாடம்`.
 
 ## Exact next activity
 
-User batching rule: **15 physical source pages per iteration**.
+User batching rule remains **15 physical source pages per iteration**.
 
-Next source batch:
+Exactly **15 source scans remain: 51–65 / printed 50–64**.
 
-**scans 36–50 / printed 35–49 — 15 pages**
+Next iteration:
 
-This crosses three already-existing canonical story routes:
+1. scans **51–55 / printed 50–54** — finish `திடுக்கிடும் கதை` against canonical `stories/thidukkidum-kathai/`;
+2. scans **56–65 / printed 55–64** — process complete `அபாக்ய சிந்தாமணி` against canonical `stories/abagya-chinthamani/`.
 
-1. scans **36–41** — complete `கடைசிக் கட்டம்` → `stories/kadaisi-kattam/`;
-2. scans **42–48** — complete `புகழேந்தி` → `stories/pugazhendhi/`;
-3. scans **49–50** — first two pages of `திடுக்கிடும் கதை` → `stories/thidukkidum-kathai/`.
-
-Process all 15 source pages comparison-only, maintain separate witness records per canonical story, and stop after scan 50.
+Confirm scan 55 story ending, scan 56 `அபாக்ய சிந்தாமணி` opening, and scan 65 terminal source ending. If both witnesses close cleanly, close the 1979 collection in that iteration.

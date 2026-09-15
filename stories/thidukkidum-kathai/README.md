@@ -88,6 +88,23 @@ The marker positions have now been re-anchored against the six verified Tamil pa
 Story 30 — **கடைசிக் கட்டம்**, printed pages **196–201**, anthology scans **205–210**. Scan **211** opens Story 31 `அய்யோ ராஜா!`.
 
 
+## 1979 earlier-edition witness
+
+The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same story.
+
+- full witness scans: **49–55 / printed 48–54**
+- reviewed: **49–50 / printed 48–49 — 2/7**
+- comparison state: **IN PROGRESS**
+- material variant groups so far: **4**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+
+Opening differences include 1979 omission of canonical `சிலர்` and the wording `அகிலத்தின் எழில் மாடம்` where the 1977 canonical reads `அதில்தான் எழில்மாடம்`.
+
+Witness workspace:
+`witnesses/1979-pazhakkoodai/`.
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**
