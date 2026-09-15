@@ -92,7 +92,7 @@ Batch 3 = scans **15–19 / printed 11–15**.
 
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
 - Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
-- source-proven Stage-2 corrections: **12**
+- source-proven Stage-2 corrections: **7**
 - Stage 3 historical-glyph audit: **COMPLETE / PASS — 5/5**
 - mandatory historical-glyph families audited: **13/13**
 - Stage-3 character-identity corrections: **0**
@@ -122,7 +122,7 @@ Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
 
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
 - Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
-- Stage-2 source-supported corrections: **7**
+- Stage-2 source-supported corrections: **12**
 - page records: **5/5**
 - page status: **needs-review 5/5**
 - unresolved source-text spans: **0**

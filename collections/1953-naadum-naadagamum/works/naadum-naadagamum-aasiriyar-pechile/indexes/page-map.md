@@ -141,7 +141,7 @@ Scans **15–19 / printed 11–15**
 
 - Stage 1: **COMPLETE / 5 pages**
 - Stage 2: **COMPLETE / 5 pages**
-- source-proven Stage-2 corrections: **12**
+- source-proven Stage-2 corrections: **7**
 - Stage 3: **COMPLETE / PASS / 5 pages**
 - mandatory glyph families audited: **13/13**
 - Stage-3 character-identity corrections: **0**
@@ -198,7 +198,7 @@ Scans **20–24 / printed 16, 16-A–16-D**
 
 - Stage 1: **COMPLETE / 5 pages**
 - Stage 2: **COMPLETE / 5 pages**
-- Stage-2 source-supported corrections: **7**
+- Stage-2 source-supported corrections: **12**
 - page records: **5/5**
 - needs-review: **5**
 - verified: **0**
