@@ -803,7 +803,10 @@ Canonical: `stories/seerazhitha-sirippu/`
 - boxed scan-102 `முகப்பில்:` verse: **non-story / excluded**
 - scan 101→102 split `வேதனைச் / சிலையானாள்`: **PASS**
 - closing ornament: **PASS**
-- English: **NOT STARTED — NEXT**
+- English E1 first translation: **COMPLETE**
+- English E1 source-page markers: **PASS 2/2**
+- Tamil changed during E1: **No**
+- English E2 meaning-fidelity review: **NOT STARTED — NEXT**
 
 Corrective historical-glyph readings confirmed through Stage 4:
 
@@ -828,6 +831,8 @@ Durable controls:
 - `stories/seerazhitha-sirippu/HISTORICAL_GLYPH_GATE.md`
 - `stories/seerazhitha-sirippu/FINAL_SOURCE_CHECK.md`
 - `stories/seerazhitha-sirippu/TAMIL_SOURCE_CLOSURE.md`
+- `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
+- `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
 ### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
 
@@ -846,17 +851,19 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — English E1 first translation from the verified Tamil authority.**
+**சீரழித்த சிரிப்பு! — English E2 meaning-fidelity review.**
 
 1. fetch live `main`;
-2. use only `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md` and the two verified page records as Tamil authority;
-3. do not reopen or silently normalize Tamil/source;
-4. create a complete English translation preserving the story's paragraph/dialogue structure and source-page traceability;
-5. retain names and culturally specific terms conservatively; do not import outside historical explanation into the translation;
-6. preserve the source's unusual rhetoric and ambiguity rather than smoothing away meaning;
-7. create/update an English translation review record with page-marker coverage, omissions/duplications, names/terms, difficult passages and unsupported-addition checks;
-8. Tamil changed during translation: **must remain No** unless genuinely new source evidence appears;
-9. commit the English E1 result and stop before any later English review/fidelity gate;
-10. do not begin `மதுரைச் செலவு` in the same activity.
+2. use the frozen verified Tamil assembly as authority and the E1 English as the review target;
+3. compare the complete English sentence-by-sentence against the Tamil;
+4. check meaning, agency, relationships, chronology, rhetorical force, negation, modality and figurative language;
+5. explicitly review the debt/marriage passage, `பிரம்மச்சாரி`, `ஆசைநாயகி`, the parliamentary passage, the coronation sequence and the final personified-laughter sentence;
+6. verify both physical source-page markers remain aligned;
+7. repair English only where meaning fidelity requires it; do not modify Tamil/source;
+8. append the E2 result to `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`;
+9. record English repair count, unresolved E2 issues and `Tamil/source reopened: No`;
+10. commit E2 and stop before E3 terminology/names/cultural consistency review.
+
+Do not begin `மதுரைச் செலவு` in the same activity.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
