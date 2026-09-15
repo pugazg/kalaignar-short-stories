@@ -2,28 +2,38 @@
 
 ## Current state
 
-**OPEN — Stage 1 complete; Stage 2 visual fidelity is next.**
+**OPEN — Stage 2 source-visible fidelity complete; Stage 3 historical-glyph audit is next.**
 
-### Focused Stage-2 rechecks
+### Stage-2 closed findings
 
-- scan 22 / printed 18:
-  - `சுகந்தானே` cluster in Kannagi's Manimekalai question;
-  - punctuation and spacing in the long Kovalan apology.
-- scan 23 / printed 19:
-  - `இவள் என் வாழ்க்கைத் துணை நலம் கண்ணகி`;
-  - source-decorative overprint across the Puhar-description block;
-  - prose transition immediately before the `மதுரை மூதூர் யாது?` passage.
-- scan 24 / printed 20:
-  - quoted `ஆறு ஐங்காதம்...` verse;
-  - dense flora/fauna vocabulary and old-form joins.
-- scan 26 / printed 22:
-  - Madhavi-letter opening after the non-story interleaf;
-  - final literary taxonomy and Madurai-breeze vocabulary.
+- scans reviewed: **21, 22, 23, 24, 26 — 5/5**
+- source-proven corrections: **32**
+- scan 22 `சுகந்தானே`: **CONFIRMED / unchanged**
+- scan 23 `இவள் என் வாழ்க்கைத் துணை நலம் கண்ணகி`: **source-visible / retained**
+- scan 24 omitted Madhavi-letter opening: **RESTORED**
+- scan 24→26 letter continuation around scan 25: **PASS**
+- scan 25: **NON-STORY / EXCLUDED**
 
-### Structural checks already closed
+### Open physical-source exception
 
-- scan 25 / printed 21: **NON-STORY / EXCLUDED**
-- scan 24→26 physical story continuation: **recorded**
-- scan 27 forward boundary `பதவிப் “பிரமாணம்!”`: **outside story**
+Scan 23 / printed 19 contains one prose continuation physically crossed by the coloured illustration.
 
-No Stage-1 page is verified yet.
+Visible lead-in:
+
+`“மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பு`
+
+The remainder cannot be read completely enough for exact archival transcription from the supplied source pixels.
+
+Disposition:
+
+- canonical marker: **`[…]`**
+- supplied Markdown used to reconstruct it: **No**
+- alternate-source filling: **No**
+- unresolved source-obscured spans: **1**
+- this is a physical-source exception, not an OCR guess queue.
+
+### Stage-3 queue
+
+Perform a separate historical Tamil glyph audit on all source-visible text. Do not use modern visual resemblance to alter old glyph identity. Preserve the scan-23 obstruction unchanged.
+
+No story page is verified yet.
