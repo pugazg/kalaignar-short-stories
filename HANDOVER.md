@@ -738,12 +738,14 @@ Current state:
 - source registration: **COMPLETE**
 - scan map: **COMPLETE**
 - story inventory: **5/5 COMPLETE**
-- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` Batch 1 CLOSED / PASS**
-- Story 1 reviewed: **scans 6–20 / printed 5–19 — 15/30**
-- Story 1 material variant groups: **8**
+- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` CLOSED / PASS; Stories 2–5 pending**
+- Story 1 reviewed: **scans 6–35 / printed 5–34 — 30/30**
+- Story 1 material variant groups: **13**
+- Story 1 canonical confirmations: **5**
 - Story 1 canonical recheck candidates: **0**
 - Story 1 unresolved witness readings: **0**
-- canonical Tamil / English changed: **No / No**
+- Story 1 canonical Tamil / English changed: **No / No**
+- Story 1 boundary: **scan 35 ending PASS; scan 36 `கடைசிக் கட்டம்` opening PASS**
 
 Durable intake files:
 
@@ -754,44 +756,50 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1979 `பழக்கூடை` is active.
+1979 `பழக்கூடை` remains active.
 
-Story 1 source title: **`தொடர்கதை`**  
-Canonical target: `stories/mudiyatha-thodarkathai/`
+### Story 1 closure
 
-Durable progress:
+Source title: **`தொடர்கதை`**  
+Canonical: `stories/mudiyatha-thodarkathai/`
 
-- full witness span: scans **6–35 / printed 5–34**
-- Batch 1: scans **6–20 / printed 5–19** — **CLOSED / PASS**
-- progress: **15/30 witness scans**
-- same-work identity: **CONFIRMED**
-- material variant groups recorded: **8**
+- witness scans: **6–35 / printed 5–34**
+- Batch 1 scans 6–20: **CLOSED / PASS**
+- Batch 2 scans 21–35: **CLOSED / PASS**
+- full witness: **CLOSED / PASS 30/30**
+- material variant groups: **13**
+- canonical confirmations: **5**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
 - canonical Tamil / English changed: **No / No**
-- witness workspace: `stories/mudiyatha-thodarkathai/witnesses/1979-pazhakkoodai/`
+- scan 35 ending / ornament: **PASS**
+- scan 36 separate `கடைசிக் கட்டம்` opening: **PASS**
 
-Representative high-value variants:
+Representative later-batch variants:
 
-- 1979 title `தொடர்கதை` ↔ canonical `முடியாத தொடர்கதை`;
-- `அனுச் சஞ்சலமும்` ↔ `அனுச்சரணமும்`;
-- `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`;
-- `சூதுக்குப் பெயர் காதல்` ↔ `தூதுக்குப் பெயர் காதல்`;
-- `சூடான பாலை` ↔ `சூடான பாலு`.
+- `நம்மிருவரின் காதல்` ↔ canonical `நம்மிருவரின் காதலை`;
+- `உருக்கியபடி இருந்தது` ↔ `உருக்கிக் கொண்டிருந்தது`;
+- `சந்தனம் சாகிறனு பார்!` ↔ `சந்தனம் சாகிறு பார்!`;
+- `இத்தகைய கதாபாத்திரங்களே` ↔ `இத்தகைய கதாபாத்திரங்கள்`;
+- `மூடத்தனத்திற்கு` ↔ canonical source-proven `முடத்தனத்திற்கு`.
 
-User batching rule: **15 physical pages per iteration**.
+User batching rule: **15 physical source pages per iteration**.
 
-**NEXT: Story 1 Batch 2 — scans 21–35 / printed 20–34 — 15 pages.**
+**NEXT: scans 36–50 / printed 35–49 — 15 pages.**
 
-1. fetch live `main`;
-2. use only 1979 scan pixels as witness authority;
-3. compare all remaining 15 pages against canonical 1982 text;
-4. continue recording material edition variants and canonical confirmations;
-5. do not overwrite canonical Tamil from witness evidence alone;
-6. if any witness reading suggests canonical error, reopen the exact 1982 controlling scan first;
-7. confirm scan **35** story ending and scan **36** opening `கடைசிக் கட்டம்`;
-8. close the 1979 `தொடர்கதை` witness if complete;
-9. synchronize collection/story controls and commit;
-10. stop before Story 2.
+Route by direct source boundaries:
 
-Do not process `கடைசிக் கட்டம்` in the same iteration.
+1. scans **36–41** — complete `கடைசிக் கட்டம்` witness → `stories/kadaisi-kattam/`;
+2. scans **42–48** — complete `புகழேந்தி` witness → `stories/pugazhendhi/`;
+3. scans **49–50** — first two pages of `திடுக்கிடும் கதை` witness → `stories/thidukkidum-kathai/`.
+
+For each canonical target:
+
+- fetch/read its canonical source controls and assembled Tamil first;
+- use only the 1979 scan pixels as witness authority;
+- create a separate `witnesses/1979-pazhakkoodai/` record;
+- record material edition variants and canonical confirmations;
+- do not overwrite canonical Tamil from witness evidence alone;
+- if a witness reading suggests a canonical error, reopen the exact canonical controlling scan first.
+
+Stop after scan **50**.

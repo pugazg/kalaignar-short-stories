@@ -80,45 +80,54 @@ No duplicate canonical story folder was created.
 - final source boundary checked: **PASS**
 - existing-canonical witness routes: **5/5**
 - new canonical stories: **0**
-- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` 15/30 scans compared**
+- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` CLOSED / PASS 30/30; Stories 2–5 pending**
 - English: **not part of witness comparison; canonical English remains unchanged**
 
-## Active witness — Story 1 `தொடர்கதை`
+## Story 1 witness — `தொடர்கதை`
 
 Canonical target:
 
 `stories/mudiyatha-thodarkathai/`
 
-The source heading **`தொடர்கதை`** remains an edition-specific shorter title for the same work as canonical **`முடியாத தொடர்கதை`**.
+The source heading **`தொடர்கதை`** remains an edition-specific shorter title for canonical **`முடியாத தொடர்கதை`**.
 
-### Batch 1 — scans 6–20 / printed 5–19
+**CLOSED / PASS — 30/30 witness scans.**
 
-**CLOSED / PASS — 15/15 physical pages.**
-
-- same-work identity: **CONFIRMED**
-- story witness progress: **15/30**
-- material variant groups recorded: **8**
+- Batch 1: scans **6–20 / printed 5–19** — **CLOSED / PASS**
+- Batch 2: scans **21–35 / printed 20–34** — **CLOSED / PASS**
+- material variant groups: **13**
+- canonical confirmations: **5**
+- major scene-level additions / omissions: **0**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
 - canonical Tamil / English changed: **No / No**
+- scan **35** ending / ornament: **PASS**
+- scan **36** separate `கடைசிக் கட்டம்` opening: **PASS**
 
-Representative edition differences:
+Representative variants:
 
-- `தொடர்கதை` ↔ canonical `முடியாத தொடர்கதை`;
 - `அனுச் சஞ்சலமும்` ↔ `அனுச்சரணமும்`;
-- `நன்றாயிருக்கிறதடா` ↔ `நன்றுயிருக்கிறதடா`;
 - `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`;
 - `சூதுக்குப் பெயர் காதல்` ↔ `தூதுக்குப் பெயர் காதல்`;
-- `சூடான பாலை` ↔ `சூடான பாலு`.
+- `நம்மிருவரின் காதல்` ↔ `நம்மிருவரின் காதலை`;
+- `உருக்கியபடி இருந்தது` ↔ `உருக்கிக் கொண்டிருந்தது`;
+- `மூடத்தனத்திற்கு` ↔ canonical `முடத்தனத்திற்கு`.
 
-Durable witness workspace:
-
+Durable witness:
 `stories/mudiyatha-thodarkathai/witnesses/1979-pazhakkoodai/`
 
 ## Exact next activity
 
-Per the user's **15 physical pages per iteration** rule:
+User batching rule: **15 physical source pages per iteration**.
 
-**`தொடர்கதை` Batch 2 — scans 21–35 / printed 20–34 — 15 pages.**
+Next source batch:
 
-Complete the witness comparison, confirm scan 35 story ending and scan 36 `கடைசிக் கட்டம்` opening boundary, synchronize controls, commit, and stop before Story 2.
+**scans 36–50 / printed 35–49 — 15 pages**
+
+This crosses three already-existing canonical story routes:
+
+1. scans **36–41** — complete `கடைசிக் கட்டம்` → `stories/kadaisi-kattam/`;
+2. scans **42–48** — complete `புகழேந்தி` → `stories/pugazhendhi/`;
+3. scans **49–50** — first two pages of `திடுக்கிடும் கதை` → `stories/thidukkidum-kathai/`.
+
+Process all 15 source pages comparison-only, maintain separate witness records per canonical story, and stop after scan 50.

@@ -1,6 +1,6 @@
 # Scan Map — 1979 `பழக்கூடை`
 
-> Structural map only. No witness comparison or story transcription was started during this intake.
+> Direct source map plus current witness-comparison state. No canonical story transcription is created from these witness layers.
 
 ## Whole-source structure
 
@@ -10,7 +10,7 @@
 | 2 | — | title page | title / `மு. கருணாநிதி` / `திராவிடப்பண்ணை` | registered |
 | 3 | — | edition / imprint | `மூன்றாம் பதிப்பு 1979`; price; printer; handwritten provenance note | registered |
 | 4–5 | — | front matter | publisher note `பழக்கூடை` / `பதிப்பகத்தார்` | registered |
-| 6–35 | 5–34 | story | `தொடர்கதை` | inventory only / existing-canonical witness |
+| 6–35 | 5–34 | story | `தொடர்கதை` | **cross-witness CLOSED / PASS 30/30** |
 | 36–41 | 35–40 | story | `கடைசிக் கட்டம்` | inventory only / existing-canonical witness |
 | 42–48 | 41–47 | story | `புகழேந்தி` | inventory only / existing-canonical witness |
 | 49–55 | 48–54 | story | `திடுக்கிடும் கதை` | inventory only / existing-canonical witness |
@@ -42,4 +42,25 @@ Ranges are therefore bounded by the next opening scan:
 - Story 4 ends scan **55** before scan 56;
 - Story 5 ends scan **65**, the terminal supplied scan.
 
-No story text was transcribed during intake.
+Story 1 witness comparison is now **CLOSED / PASS 30/30**. Canonical Tamil/English remained unchanged.
+
+
+## Story 1 witness closure
+
+- source heading: `தொடர்கதை`
+- scans: **6–35 / printed 5–34**
+- canonical: `stories/mudiyatha-thodarkathai/`
+- material variant groups: **13**
+- canonical confirmations: **5**
+- canonical recheck candidates: **0**
+- unresolved: **0**
+- scan 35 ending: **PASS**
+- scan 36 `கடைசிக் கட்டம்` opening: **PASS**
+
+## Exact next activity
+
+Next 15-page source batch: **scans 36–50 / printed 35–49**.
+
+- 36–41: `கடைசிக் கட்டம்`
+- 42–48: `புகழேந்தி`
+- 49–50: `திடுக்கிடும் கதை` opening pages

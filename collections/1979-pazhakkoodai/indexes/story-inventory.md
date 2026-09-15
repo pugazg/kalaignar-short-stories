@@ -17,7 +17,7 @@ No story text has been transcribed.
 
 | # | TOC title | Source opening heading | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | `தொடர்கதை` | 5–34 | 6–35 | same work as `stories/mudiyatha-thodarkathai/`; source-title variant / witness | **IN PROGRESS — 15/30 scans compared** |
+| 1 | — | `தொடர்கதை` | 5–34 | 6–35 | same work as `stories/mudiyatha-thodarkathai/`; source-title variant / witness | **CLOSED / PASS 30/30** |
 | 2 | — | `கடைசிக் கட்டம்` | 35–40 | 36–41 | existing canonical `stories/kadaisi-kattam/` — witness | **NOT STARTED** |
 | 3 | — | `புகழேந்தி` | 41–47 | 42–48 | existing canonical `stories/pugazhendhi/` — witness | **NOT STARTED** |
 | 4 | — | `திடுக்கிடும் கதை` | 48–54 | 49–55 | existing canonical `stories/thidukkidum-kathai/` — witness | **NOT STARTED** |
@@ -69,24 +69,30 @@ All five collection items are therefore **witness-only routes**. No new canonica
 - new-canonical candidates: **0**
 - witness workspaces created: **1**
 - page records created: **0 — witness comparison uses batch/variant records, not canonical page records**
-- witness comparison started: **Yes — Story 1 Batch 1 CLOSED / PASS**
+- witness comparison started: **Yes — Story 1 CLOSED / PASS; Stories 2–5 pending**
 
-## Active witness progress — Story 1 `தொடர்கதை`
+## Story 1 witness closure — `தொடர்கதை`
 
 Canonical route: `stories/mudiyatha-thodarkathai/`.
 
-- 1979 source title: **`தொடர்கதை`**
-- later canonical title: **`முடியாத தொடர்கதை`**
 - full witness: scans **6–35 / printed 5–34**
-- Batch 1: scans **6–20 / printed 5–19** — **CLOSED / PASS**
-- reviewed: **15/30**
-- material variant groups so far: **8**
+- Batch 1: **6–20 — CLOSED / PASS**
+- Batch 2: **21–35 — CLOSED / PASS**
+- reviewed: **30/30**
+- material variant groups: **13**
+- canonical confirmations: **5**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
 - canonical Tamil / English changed: **No / No**
+- scan 36 `கடைசிக் கட்டம்` boundary: **PASS**
+- witness: **CLOSED / PASS**
 
 ## Exact next activity
 
-Story 1 Batch 2: **scans 21–35 / printed 20–34 — 15 pages**.
+Process the next **15 physical scans 36–50 / printed 35–49**:
 
-Complete the 1979 `தொடர்கதை` witness against canonical `முடியாத தொடர்கதை`; confirm scan 35 ending and scan 36 `கடைசிக் கட்டம்` boundary. Do not begin Story 2 in the same iteration.
+- `கடைசிக் கட்டம்` scans 36–41 — complete witness;
+- `புகழேந்தி` scans 42–48 — complete witness;
+- `திடுக்கிடும் கதை` scans 49–50 — first two witness pages.
+
+Route each to its existing canonical workspace and maintain separate comparison records.

@@ -68,16 +68,20 @@ Story-6 English completion closes the 1982 anthology English phase at **6/6 stor
 The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same work under the shorter heading **`தொடர்கதை`**.
 
 - witness scans: **6–35 / printed 5–34**
-- reviewed so far: **6–20 / printed 5–19 — 15/30**
-- witness state: **IN PROGRESS**
-- material variant groups recorded so far: **8**
+- witness state: **CLOSED / PASS — 30/30**
+- material variant groups: **13**
+- canonical confirmations: **5**
+- major scene-level additions / omissions: **0**
 - canonical recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
+- scan 36 boundary: **separate `கடைசிக் கட்டம்` opening confirmed**
 
-High-value edition variants include 1979 `அனுச் சஞ்சலமும்` ↔ canonical `அனுச்சரணமும்`, 1979 `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ canonical `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`, and 1979 `சூதுக்குப் பெயர் காதல்` ↔ canonical `தூதுக்குப் பெயர் காதல்`.
+High-value edition variants include 1979 `அனுச் சஞ்சலமும்` ↔ canonical `அனுச்சரணமும்`, `சூதுக்குப் பெயர் காதல்` ↔ `தூதுக்குப் பெயர் காதல்`, and 1979 `மூடத்தனத்திற்கு` ↔ canonical source-proven `முடத்தனத்திற்கு`.
 
-Witness workspace:
-`witnesses/1979-pazhakkoodai/`.
+The 1979 witness independently preserves source-sensitive forms including `ஸ்பரிசிக்கப்பட்டு` and `மலைப்பாம்பு`.
+
+Durable comparison:
+[`witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md`](witnesses/1979-pazhakkoodai/VARIANT_COMPARISON.md).
 
 ## Phase boundary
 
