@@ -82,4 +82,25 @@ Representative checked occurrences:
 - physical-source obscured spans: **1**
 - status remains **`needs-review`** pending Stage 4.
 
+
+## Stage 3 historical-glyph audit
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
+
+Audit rule: **read historical character identity, not modern visual resemblance**.
+
+Representative checked occurrences:
+
+- ணை: `துணை / துணைவி / வழித்துணையாக`
+- லை: `மழலையைச் / வடமலைப் / தலைநகரமே`
+- ளை: `அவளைத் / களைத்துப்போயிருக்கிறாள் / உங்களை`
+- றா: `சென்றார்கள் / கேட்கிறார்`
+- னா: `வெளிக்கிளம்பினார்கள் / கோவலனா / மகனா`
+- னை: `தண்டனையாகிறது / நினைத்தாள்`
+
+- mandatory 13-family audit applied page-wise;
+- no global replacement;
+- no spelling / grammar / punctuation modernization;
+- the existing illustration-obscured `[…]` span was preserved unchanged and was not reconstructed;
+- status remains **`needs-review`** pending Stage 4 final independent source check.
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 19 -->
