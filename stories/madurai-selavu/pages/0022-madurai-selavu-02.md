@@ -105,4 +105,27 @@ Representative checked occurrences:
 - unresolved historical-glyph clusters: **0**
 - status remains **`needs-review`** pending Stage 4.
 
+
+## Stage 3 historical-glyph audit
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
+
+Audit rule: **read historical character identity, not modern visual resemblance**.
+
+Representative checked occurrences:
+
+- ணை: `அணைத்து`
+- லை: `மணிமேகலை / விலை / வழியில்லை`
+- ளை: `அவளை / முத்துக்களைத்`
+- றா: `பிழைக்கின்றான் / அளக்கின்றார் / சொல்கிறாயா`
+- றோ: `விளைந்ததன்றோ / மறுப்பாரோ`
+- னா: `கூறினாள் / என்னாலே`
+- னை: `உன்னை / என்னை / நினைக்கிறீர்கள்`
+- னோ: `படகானோம்`
+
+- mandatory 13-family audit applied page-wise;
+- no global replacement;
+- no spelling / grammar / punctuation modernization;
+- unresolved historical-glyph clusters: **0**;
+- status remains **`needs-review`** pending Stage 4 final independent source check.
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 18 -->
