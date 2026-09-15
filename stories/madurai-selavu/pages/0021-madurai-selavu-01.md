@@ -7,7 +7,7 @@ page_type: "story-opening"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf"
-transcription_method: "Stage 1 first-pass from direct source pixels; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 visual fidelity against direct source pixels; supplied Markdown used only as locator/draft"
 ---
 
 # மதுரைச் செலவு
@@ -20,10 +20,13 @@ transcription_method: "Stage 1 first-pass from direct source pixels; supplied Ma
 
 அந்தக் கதறலில் தான் எத்துணை ஏக்கம்!
 
-## Stage 1 notes
+## Stage 2 visual-fidelity notes
 
-- direct source pixels control;
-- supplied Markdown baseline was not promoted;
-- page status remains **needs-review** pending Stage 2 visual fidelity.
+**COMPLETE / PASS — 0 corrections.**
+
+- complete source-visible text rechecked word-by-word;
+- title illustration / physical reading order: **PASS**;
+- unresolved ordinary readings on this scan: **0**;
+- status remains **needs-review** pending Stage 3 historical-glyph audit.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 17 -->
