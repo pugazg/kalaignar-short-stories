@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf"
-transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit against direct source pixels; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit + Stage 4 final independent source check against direct source pixels; supplied Markdown used only as locator/draft"
 ---
 
 # மதுரைச் செலவு — தொடர்ச்சி
@@ -59,30 +59,6 @@ Therefore the former Stage-1 baseline-derived reconstruction was **withdrawn** a
 - status remains **needs-review**.
 
 
-## Stage 3 historical-glyph notes
-
-**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
-
-The page was reopened independently under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Historical character identity was read from whole-word / same-font evidence rather than modern visual resemblance.
-
-Representative checked occurrences:
-
-- `துணைவி` (`ணை`)
-- `சோலைகளின்` (`லை`)
-- `களைத்துப்போயிருக்கிறாள்` (`ளை` / `றா`)
-- `வெளிக்கிளம்பினார்கள்` (`னா`)
-- `கோவலனைப்` (`னை`)
-
-- mandatory 13-family audit: **COMPLETE**
-- character-identity corrections: **0**
-- global replacements: **0**
-- spelling / grammar modernization: **0**
-- scan-23 illustration-obscured prose span: **preserved as `[…]`; not reconstructed**
-- unresolved historical-glyph clusters in source-visible text: **0**
-- physical-source obscured spans: **1**
-- status remains **`needs-review`** pending Stage 4.
-
-
 ## Stage 3 historical-glyph audit
 
 **COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
@@ -103,4 +79,22 @@ Representative checked occurrences:
 - no spelling / grammar / punctuation modernization;
 - the existing illustration-obscured `[…]` span was preserved unchanged and was not reconstructed;
 - status remains **`needs-review`** pending Stage 4 final independent source check.
+## Stage 4 final independent source check
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 new text corrections; 1 physical-source exception retained.**
+
+Fresh source review reconfirmed:
+
+- all Stage-2 source-visible corrections on this scan;
+- Stage-3 historical-glyph dispositions;
+- wording, punctuation, paragraph/dialogue order and visible reading order;
+- the physically obscured continuation after `“மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பு`.
+
+The coloured illustration still prevents a complete exact reading of that continuation. The canonical `[…]` marker is therefore retained. No supplied-Markdown or outside-source reconstruction was introduced.
+
+- source-visible ordinary unresolved readings: **0**
+- unresolved historical-glyph clusters: **0**
+- physical-source obscured spans: **1**
+- final page status: **`needs-review` — physical-source exception only**
+
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 19 -->
