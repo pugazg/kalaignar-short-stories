@@ -798,8 +798,8 @@ Canonical: `stories/seerazhitha-sirippu/`
 - initial 18-change Stage-2 ledger: **SUPERSEDED after direct-pixel reconciliation**
 - ordinary-fidelity unresolved: **0**
 - page statuses: **needs-review 2/2**
-- Stage 3 historical glyph: **NOT STARTED — NEXT**
-- Stage 4 final independent check: **NOT STARTED**
+- Stage 3 historical glyph: **COMPLETE / PASS 2/2 — 0 character-identity corrections; 0 unresolved glyph clusters**
+- Stage 4 final independent check: **NOT STARTED — NEXT**
 - verified: **0/2**
 - boxed scan-102 `முகப்பில்:` verse: **non-story / excluded**
 - scan 101→102 split `வேதனைச் / சிலையானாள்`: **PASS**
@@ -818,8 +818,9 @@ High-value reconciled Stage-2 repairs include:
 - `குறிப்பிட்டிருந்தது` → **`குறிப்பிடப்பட்டிருந்தது`**
 - `அவளை வாழவிடாமல் செய்த` → **`அவள் வாழவிடாமல் செய்த`**
 
-Durable audit:
-`stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
+Durable audits:
+- `stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
+- `stories/seerazhitha-sirippu/HISTORICAL_GLYPH_GATE.md`
 
 ### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
 
@@ -838,19 +839,18 @@ Durable audit:
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — Stage 3 historical Tamil glyph audit, scans 101–102 / printed 91–92. Stage 2 is now reconciled and frozen for ordinary fidelity.**
+**சீரழித்த சிரிப்பு! — Stage 4 final independent source check, scans 101–102 / printed 91–92.**
 
 1. fetch live `main`;
-2. reopen both source scans directly;
-3. compare the Stage-2 text against old-type character shapes;
-4. audit mandatory glyph families:
-   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-5. also inspect visually confusable character identities encountered in names and inflected forms;
-6. apply only direct source-proven character-identity corrections;
-7. do not modernize spelling or grammar;
-8. keep both pages `needs-review`;
-9. create/update Stage-3 record and synchronize page map, README, review queue, HANDOVER and NEXT prompt;
-10. commit and stop before Stage 4.
+2. reopen both source scans directly and do not rely on the Stage-2/Stage-3 correction ledger as a substitute for a fresh read;
+3. check the complete two-page story end-to-end for wording, omission, duplication, punctuation, spacing and quote/paragraph boundaries;
+4. revalidate the illustrated-title / multi-column reading order on scan 101;
+5. revalidate scan 101→102 `வேதனைச் / சிலையானாள்`;
+6. confirm scan-102 boxed `முகப்பில்:` matter remains excluded;
+7. confirm the closing ornament and scan-103 `அடிமைகள்` forward boundary;
+8. apply only source-proven final corrections, if any;
+9. if all checks pass, promote both page records to `verified`, synchronize assembly / README / page map / review queue / HANDOVER / NEXT prompt and create the final source-check record;
+10. commit and stop before any English work or `மதுரைச் செலவு`.
 
 Do not begin `மதுரைச் செலவு` until `சீரழித்த சிரிப்பு!` closes Stage 4.
 
