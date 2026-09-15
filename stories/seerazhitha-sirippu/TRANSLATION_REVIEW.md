@@ -3,7 +3,7 @@
 ## Scope
 
 - Story: **சீரழித்த சிரிப்பு!**
-- English title treatment: **Seerazhitha Sirippu!** — source title retained in transliteration at E1; no explanatory subtitle added.
+- Final reviewed English title: **The Laugh That Ruined Her!** — E1 initially retained the Tamil title in transliteration; E5 replaces it with a natural English literary title grounded in the story's closing image.
 - Controlling Tamil authority: `sections/seerazhitha-sirippu.md`
 - Verified Tamil pages: **2/2**
 - Source scans represented: **101–102**
@@ -239,3 +239,57 @@ The following were **not** smoothed away:
 - unresolved E4 issues: **0**
 
 Next: **E5 — final bilingual approval**.
+
+
+## E5 — final bilingual approval
+
+**PASS — FINAL ENGLISH APPROVED / CLOSED.**
+
+The complete E4 English was checked one final time against the frozen verified Tamil, including meaning, terminology, names, dialogue/paragraph order, the 101→102 physical split, the closing image, and all E1–E4 repairs.
+
+### E5 final editorial decisions
+
+Two intentional final changes were made before approval:
+
+1. English title:
+   - `Seerazhitha Sirippu!` → **`The Laugh That Ruined Her!`**
+   - This is more natural as an English literary title and preserves the story's central causal image: Caroline's meaningless laughter becomes the force associated with her ruin.
+   - The Tamil title itself remains unchanged.
+
+2. Final sentence readability:
+   - E4: `That meaningless laughter which had not allowed her to live took leave of her before she herself took leave of life.`
+   - Final: **`That meaningless laughter, which had made it impossible for her to live, left her before life itself did.`**
+   - The E4 sentence was semantically faithful but syntactically heavy. The final version is easier to read while preserving:
+     - the personification of the laughter;
+     - the causal force of `அவளை வாழவிடாமல் செய்த`;
+     - the contrast between the laughter leaving and Caroline's death;
+     - the understated literary ending.
+
+### Final bilingual checks
+
+- complete Tamil/English semantic alignment: **PASS**
+- E2 meaning decisions retained: **PASS**
+- E3 terminology/name decisions retained: **PASS**
+- E4 readability repairs retained: **PASS**
+- source-page markers: **PASS 2/2**
+- scan 101→102 `a statue of / anguish` split: **PASS**
+- names/titles consistency: **PASS**
+- `brahmachari / mistress / salute shots`: **PASS / retained**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- intentional post-E4 E5 changes: **2**
+- untracked post-E4 content drift: **0**
+- Tamil/source reopened: **No**
+- Tamil changed during English: **No**
+- unresolved E5 issues: **0**
+
+## Final English disposition
+
+- E1: **COMPLETE**
+- E2: **PASS — 5 repairs**
+- E3: **PASS — 1 repair**
+- E4: **PASS — 11 repairs**
+- E5: **PASS — 2 final editorial changes**
+- cumulative English changes after E1: **19**
+- final English title: **The Laugh That Ruined Her!**
+- English: **PASS / CLOSED**
+- Tamil/source: **PASS / CLOSED**
