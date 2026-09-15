@@ -86,6 +86,23 @@ The opening rule/enlarged initial, final story-ending role and closing ornament 
 
 **தொத்துக்கிளி is 2026 CURRENT PASS / CLOSED: Gate A 5/5 + Gate B 5/5, 1 source-proven repair, 0 unresolved.** Tamil archival source processing, visual fidelity and English translation remain complete for scans 156–160 / printed pages 147–151.
 
+## 1953 earlier-edition witness
+
+The 1953 first-edition `நாடும் நாடகமும்` contains an earlier witness of this same story.
+
+- witness scans: **69–75 / printed 61–67**
+- witness state: **CLOSED / PASS — 7/7**
+- material variant groups: **8**
+- canonical confirmations: **1 high-value repair confirmation**
+- canonical Tamil / English changed: **No / No**
+- scan 76 opens `இரகசியம்!`
+
+Highest-value edition differences include 1953 `அழகற்றப் பெண்களுக்கு...` versus 1977 `அழகற்ற பெண்களாகி...`, and 1953 `அக்கினித் திராவகத்தைக்` versus 1977 `“நைட்ரிக் ஆசிடைக்”`.
+
+1953 scan 74 independently confirms the repaired 1977 reading **`‘ஆ’ வென்று`**.
+
+Durable comparison: [`witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`](witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md).
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**

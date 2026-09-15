@@ -27,6 +27,21 @@ Boundary: scan 111 closes the story; scan 112 independently opens Story 14 `ம�
 Story 14 **முந்நூறு ரூபாய்** — scans **112–114 / printed 103–105**. Use scan **115** only as the boundary witness opening `ஏழை`.
 
 
+## 1953 earlier-edition witness
+
+The 1953 first-edition `நாடும் நாடகமும்` contains an earlier witness of this same story.
+
+- witness scans: **76–80 / printed 68–72**
+- witness state: **CLOSED / PASS — 5/5**
+- material variant groups: **6**
+- canonical confirmations: **4**
+- canonical Tamil / English changed: **No / No**
+- scan 80 is the witness ending and the supplied-PDF ending
+
+High-value edition differences include 1953 `வைரம்` versus canonical `வைரமும்`, `தொகுப்புகள் ... மேற்கொள்வீரேல்` versus `தொகுப்புகளைப் ... மேற்கொள்வாயேல்`, and `தொங்கிக்கொண்டிருந்தது` versus `தொங்கிக்கொண்டிருந்து`.
+
+Durable comparison: [`witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`](witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md).
+
 ## English post-Tamil re-audit
 
 - E1 completeness / physical-page alignment: **PASS**

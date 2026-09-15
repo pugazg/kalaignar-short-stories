@@ -1,8 +1,8 @@
 # Scan Map — 1953 `நாடும் நாடகமும்`
 
-> Direct scan pixels are controlling. Later-story boundaries are being corrected from headings actually visible in the source.
+> Final direct source map. Rendered scan pixels are controlling.
 
-## Physical structure confirmed through scan 66
+## Whole-source structure
 
 | PDF scan(s) | Printed page(s) | Type | Heading / note | Repository state |
 |---:|---:|---|---|---|
@@ -11,54 +11,55 @@
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
 | 5–24 | 1–16, 16-A–16-D | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **CLOSED / VERIFIED 20/20** |
 | 25–36 | 17–28 | play | `தெருக்கூத்து`; scan 36 closes it | **CLOSED / VERIFIED 12/12** |
-| 37–51 | 29–43 | short story | `சந்தனக்கிண்ணம்` | **cross-witness CLOSED / PASS 15/15** |
-| **52–58** | **44–50** | short story | `ஆலமரத்துப் புறாக்கள்` | **source-visible witness CLOSED / PASS 7/7** |
-| **59–66** | **51–58** | short story | scan 59 opens `ஆதரிக்கிறார்`; continues past 66 | **cross-witness IN PROGRESS — 8 reviewed** |
-| 67–80 | 59–72 | downstream story block(s) | direct headings not yet processed | **NEXT / pending boundary inventory** |
+| 37–51 | 29–43 | short story | `சந்தனக்கிண்ணம்` | **witness CLOSED / PASS 15/15** |
+| 52–58 | 44–50 | short story | `ஆலமரத்துப் புறாக்கள்` | **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL 7/7** |
+| 59–68 | 51–60 | short story | `ஆதரிக்கிறார்` | **witness CLOSED / PASS 10/10** |
+| 69–75 | 61–67 | short story | `தொத்துக்கிளி` | **witness CLOSED / PASS 7/7** |
+| 76–80 | 68–72 | short story | `இரகசியம்!` | **witness CLOSED / PASS 5/5** |
 
 ## Pagination
 
-From scan 25 onward:
+Printed pages **16-A–16-D** are inserted after printed page 16.
+
+From scan **25** onward:
 
 **PDF scan = printed page + 8**
 
-## Superseded routing
+## Direct boundary proof
 
-The following old provisional map is **retracted**:
+- scan 24 closes the prose/discourse unit;
+- scan 25 opens `தெருக்கூத்து`;
+- scan 36 closes `தெருக்கூத்து`;
+- scan 37 opens `சந்தனக்கிண்ணம்`;
+- scan 52 opens `ஆலமரத்துப் புறாக்கள்`;
+- scan 59 opens `ஆதரிக்கிறார்`;
+- scan 69 opens `தொத்துக்கிளி`;
+- scan 76 opens `இரகசியம்!`;
+- scan 80 closes `இரகசியம்!` and is the supplied-PDF ending.
 
-- `ஆலமரத்துப் புறாக்கள்` = scans 52–68;
-- `பெண்கள்` = scans 69–75;
-- `இரகசியம்!` = scans 76–80.
+## Physical-source limitation
 
-Direct evidence proves scan 59 is already a new story: **`ஆதரிக்கிறார்`**.
+`ஆலமரத்துப் புறாக்கள்` scans **57–58** contain large paper-loss areas. The missing 1953 wording was **not reconstructed** from later editions.
 
-Do not reuse those old boundaries.
+## Retracted map
 
-## `ஆலமரத்துப் புறாக்கள்` witness checkpoint
+Do not reuse the earlier provisional routing:
 
-- corrected span: **52–58 / printed 44–50**
-- scans inspected: **7/7**
-- scans 57–58: **large physical paper loss**
-- missing witness wording reconstructed: **No**
-- highest-value variant: 1953 `"வந்தே மாத்ரம்"` ↔ 1977 `"வந்தேன் எமாத்தினேன்"`
-- canonical confirmations: first `இளம் புறா` / later `இளத்த புறா`; lexical root `புறா...`
-- disposition: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+- `ஆலமரத்துப் புறாக்கள் = 52–68`;
+- `பெண்கள் = 69–75`.
 
-## `ஆதரிக்கிறார்` witness checkpoint
+Direct headings prove that map was incorrect.
 
-- opening: **59 / printed 51**
-- reviewed: **59–66 / printed 51–58**
-- same-work identity: **CONFIRMED**
-- material variants: **5**
-- notable 1953-only material:
-  - Brahmin-quarter paragraph ending `பார்ப்பனச்சேரி`;
-  - `வேஷ்டியை` vs canonical `வேட்டியை`;
-  - award sentence `பொதுத் தொண்டுச் சிங்கம் புண்யகோடி என்ற விருதுகள் வழங்கப்பட்டன.`
-- canonical Tamil / English changed: **No / No**
-- story continues after scan 66
+## Final status
+
+- scans structurally mapped: **80/80**
+- body-unit boundaries: **7/7 confirmed**
+- short-story witnesses: **5/5 compared**
+- source processed through final scan: **PASS**
+- collection: **CLOSED / PASS UNDER SOURCE-VISIBLE EVIDENCE**
 
 ## Exact next activity
 
-Process the **remaining scans 67–80 / printed 59–72** — 14 physical pages.
+No further 1953 work is pending.
 
-Continue `ஆதரிக்கிறார்` first, then follow each directly visible heading/boundary. Route every subsequent story as an existing-canonical cross-witness. This final partial batch replaces the old assumption that scans 67–80 had already been inventoried correctly.
+Queued next source: **1979 `பழக்கூடை`**. First 15-page witness batch: `தொடர்கதை` scans **6–20 / printed 5–19**.

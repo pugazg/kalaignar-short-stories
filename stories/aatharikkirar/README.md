@@ -47,21 +47,18 @@ Story 13 **இரகசியம்!** — scans **108–111 / printed 99–102*
 
 ## 1953 earlier-edition witness
 
-Direct inspection of the 1953 `நாடும் நாடகமும்` source shows that scan **59 / printed 51** opens an earlier witness of this same story.
+The 1953 first-edition `நாடும் நாடகமும்` contains an earlier witness of this same story.
 
-- witness reviewed so far: **scans 59–66 / printed 51–58**
-- physical pages reviewed: **8**
-- story continues beyond scan 66
-- exact 1953 ending: **pending next batch**
-- witness workspace: `witnesses/1953-naadum-naadagamum/`
-- comparison state: **IN PROGRESS**
-- material variant groups recorded: **5**
+- witness scans: **59–68 / printed 51–60**
+- witness state: **CLOSED / PASS — 10/10**
+- material variant groups: **6**
 - canonical recheck candidates: **0**
 - canonical Tamil / English changed: **No / No**
+- boundary: scan 69 opens `தொத்துக்கிளி`
 
-High-value 1953 evidence so far includes a paragraph ending with `பார்ப்பனச்சேரி` that is absent from 1977, `வேஷ்டியை` versus canonical `வேட்டியை`, and an added award sentence `பொதுத் தொண்டுச் சிங்கம் புண்யகோடி என்ற விருதுகள் வழங்கப்பட்டன.`
+High-value edition differences include the 1953-only `பார்ப்பனச்சேரி` paragraph, `வேஷ்டியை` versus canonical `வேட்டியை`, and the explicit award sentence `பொதுத் தொண்டுச் சிங்கம் புண்யகோடி என்ற விருதுகள் வழங்கப்பட்டன.`
 
-Durable batch: [`witnesses/1953-naadum-naadagamum/BATCH_001_SCANS_059_066.md`](witnesses/1953-naadum-naadagamum/BATCH_001_SCANS_059_066.md).
+Durable comparison: [`witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`](witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md).
 
 ## English post-Tamil re-audit
 

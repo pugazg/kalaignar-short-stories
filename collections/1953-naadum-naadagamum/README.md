@@ -55,110 +55,58 @@ From scan 25 onward:
 
 **PDF scan = printed page + 8**
 
-## Corrected body-unit inventory
+## Final body-unit inventory
 
-Direct inspection during witness comparison has **reopened and corrected the downstream inventory**. The earlier six-unit map is no longer authoritative beyond scan 58.
+Direct scan review has now closed the complete source.
 
 | # | Opening heading | Type | PDF scans | Printed pages | Repository routing / state |
 |---:|---|---|---:|---:|---|
 | 1 | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 5–24 | 1–16, 16-A–16-D | retained here — **CLOSED / VERIFIED 20/20** |
 | 2 | `தெருக்கூத்து` | play | 25–36 | 17–28 | retained here — **CLOSED / VERIFIED 12/12** |
 | 3 | `சந்தனக்கிண்ணம்` | short story | 37–51 | 29–43 | `stories/santhana-kinnam/` — **witness CLOSED / PASS 15/15** |
-| 4 | `ஆலமரத்துப் புறாக்கள்` | short story | **52–58** | **44–50** | `stories/aalamarathup-puraakkal/` — **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL** |
-| 5 | `ஆதரிக்கிறார்` | short story | **59–at least 66** | **51–at least 58** | `stories/aatharikkirar/` — **witness IN PROGRESS** |
-| 6+ | downstream direct headings | short stories | **67–80** | **59–72** | existing canonicals; **pending direct boundary inventory** |
+| 4 | `ஆலமரத்துப் புறாக்கள்` | short story | 52–58 | 44–50 | `stories/aalamarathup-puraakkal/` — **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL** |
+| 5 | `ஆதரிக்கிறார்` | short story | 59–68 | 51–60 | `stories/aatharikkirar/` — **witness CLOSED / PASS 10/10** |
+| 6 | `தொத்துக்கிளி` | short story | 69–75 | 61–67 | `stories/thothukkili/` — **witness CLOSED / PASS 7/7** |
+| 7 | `இரகசியம்!` | short story | 76–80 | 68–72 | `stories/iragasiyam/` — **witness CLOSED / PASS 5/5** |
 
-### Critical routing correction
+### Final routing correction
 
-The earlier provisional routing:
+The earlier intake map that extended `ஆலமரத்துப் புறாக்கள்` through scan 68 and labeled scans 69–75 as `பெண்கள்` is **superseded**.
 
-- `ஆலமரத்துப் புறாக்கள்` = scans 52–68;
-- `பெண்கள்` = scans 69–75;
-- `இரகசியம்!` = scans 76–80
+Direct headings establish:
 
-is **RETRACTED**.
+- scan **59** — `ஆதரிக்கிறார்`;
+- scan **69** — `தொத்துக்கிளி`;
+- scan **76** — `இரகசியம்!`.
 
-Direct scan **59 / printed 51** visibly opens **`ஆதரிக்கிறார்`**. Future routing must follow direct headings/endings, not the old intake guess.
+No `பெண்கள்` story occurs in this supplied PDF.
 
-## Witness progress
+## Witness results
 
-### `சந்தனக்கிண்ணம்`
-
-**CLOSED / PASS — 15/15.**
-
-- witness: scans **37–51**
-- material lexical/syntactic variant groups: **19**
-- canonical confirmations: **3**
-- canonical Tamil / English changed: **No / No**
-- unresolved: **0**
-
-### `ஆலமரத்துப் புறாக்கள்`
-
-**CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL — 7/7 inspected.**
-
-- corrected witness: scans **52–58 / printed 44–50**
-- scans **57–58**: large physical paper loss
-- missing 1953 wording reconstructed from later edition: **No**
-- material variant groups: **4**
-- canonical confirmations: **2**
-- canonical Tamil / English changed: **No / No**
-- highest-value edition difference:
-  - 1953: `"வந்தே மாத்ரம்"`
-  - 1977 canonical: `"வந்தேன் எமாத்தினேன்"`
-- 1953 independently agrees with:
-  - first `ஓர் இளம் புறா`
-  - later `ஓர் இளத்த புறா`
-  - lexical root `புறா...`
-
-Durable witness:
-`stories/aalamarathup-puraakkal/witnesses/1953-naadum-naadagamum/`
-
-### `ஆதரிக்கிறார்`
-
-**IN PROGRESS — scans 59–66 / printed 51–58 reviewed.**
-
-- same-work identity: **CONFIRMED**
-- material variant groups so far: **5**
-- canonical recheck candidates: **0**
-- canonical Tamil / English changed: **No / No**
-- story continues after scan **66**
-
-Highest-value 1953 variants so far:
-
-- a 1953-only paragraph ending with `பார்ப்பனச்சேரி`;
-- redistributed `நகரசபைக்காக` wording in the compensation application;
-- `வேஷ்டியை` ↔ 1977 `வேட்டியை`;
-- 1953-only award sentence:
-  `பொதுத் தொண்டுச் சிங்கம் புண்யகோடி என்ற விருதுகள் வழங்கப்பட்டன.`
-
-Durable witness:
-`stories/aatharikkirar/witnesses/1953-naadum-naadagamum/`
+- `சந்தனக்கிண்ணம்`: **CLOSED / PASS 15/15** — 19 material groups / 3 confirmations / 0 canonical changes.
+- `ஆலமரத்துப் புறாக்கள்`: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL 7/7** — paper loss on scans 57–58; no reconstruction; 4 material groups / 2 confirmations / 0 canonical changes.
+- `ஆதரிக்கிறார்`: **CLOSED / PASS 10/10** — 6 material groups / 0 canonical changes.
+- `தொத்துக்கிளி`: **CLOSED / PASS 7/7** — 8 material groups; 1953 independently confirms 1977 `‘ஆ’ வென்று`; 0 canonical changes.
+- `இரகசியம்!`: **CLOSED / PASS 5/5** — 6 material groups / 4 confirmations / 0 canonical changes.
 
 ## Current state
 
 - source registration: **COMPLETE**
-- front matter / pagination: **COMPLETE**
-- retained prose/discourse: **CLOSED**
-- retained play: **CLOSED**
-- direct short-story inventory through scan 66: **CURRENT**
-- old downstream inventory after scan 58: **RETRACTED**
-- canonical handling: **cross-witness comparison only; no new canonical folders**
-- current user batch size: **15 physical pages per iteration**
-
-The current iteration processed exactly **15 scans: 52–66**:
-- 7 scans closed `ஆலமரத்துப் புறாக்கள்`;
-- 8 scans opened/continued `ஆதரிக்கிறார்`.
+- whole-source scan map: **FINAL / COMPLETE 80/80**
+- body-unit inventory: **7/7 COMPLETE**
+- retained special works: **2/2 CLOSED**
+- short-story inventory: **5/5 COMPLETE**
+- short-story witness comparisons: **5/5 CLOSED**
+- new canonical stories: **0**
+- canonical Tamil / English changes from 1953 witnesses: **0 / 0**
+- physical loss retained without reconstruction: **scans 57–58**
+- source ending: **scan 80 / printed 72 — PASS**
+- 1953 collection: **CLOSED / PASS UNDER SOURCE-VISIBLE EVIDENCE**
 
 ## Exact next activity
 
-Only **14 source scans remain**.
+**NONE for this 1953 source.**
 
-Process **scans 67–80 / printed 59–72** as the final partial batch:
+The queued source is 1979 `பழக்கூடை`. Under the user's current **15 physical pages per iteration** rule, begin its first witness:
 
-1. continue `ஆதரிக்கிறார்` from scan 67 until its actual ending;
-2. whenever a new story heading appears, close the preceding witness at that physical boundary;
-3. route each newly opened story to its existing canonical workspace;
-4. do not resurrect the old `பெண்கள்` / `இரகசியம்!` provisional boundaries unless direct scans prove them;
-5. no OCR/web/alternate-source authority;
-6. no reconstruction of physically lost witness wording;
-7. synchronize the final direct inventory and witness records.
+**`தொடர்கதை` — scans 6–20 / printed 5–19 — compare against canonical `stories/mudiyatha-thodarkathai/`.**
