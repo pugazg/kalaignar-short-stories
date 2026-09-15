@@ -4,10 +4,10 @@ printed_page: 22
 story: "madurai-selavu"
 section: "story"
 page_type: "story-ending"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf"
-transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit against direct source pixels; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit + Stage 4 final independent source check against direct source pixels; supplied Markdown used only as locator/draft"
 ---
 
 # மதுரைச் செலவு — தொடர்ச்சி
@@ -52,7 +52,7 @@ transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-gl
 
 தென்றலா அது?
 
-கோவலன் கண்ணகி வாழ்வில்—ஏன்; நெடுஞ்செழியன் பாண்டியனின் ஆட்சியில் வீச இருக்கும் புயலுக்கான பொல்லாத அறிகுறியல்லவா அது?
+கோவலன் கண்ணகி வாழ்வில்—ஏன்; நெடுஞ்செழியப் பாண்டியனின் ஆட்சியில் வீச இருக்கும் புயலுக்கான பொல்லாத அறிகுறியல்லவா அது?
 
 ## Stage 2 visual-fidelity notes
 
@@ -76,30 +76,6 @@ Scan 25 remains excluded non-story matter; scan 27 remains the forward boundary.
 - status remains **needs-review**.
 
 
-## Stage 3 historical-glyph notes
-
-**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
-
-The page was reopened independently under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Historical character identity was read from whole-word / same-font evidence rather than modern visual resemblance.
-
-Representative checked occurrences:
-
-- `பஞ்சணைகளின்மீது` (`ணை`)
-- `முல்லை` (`லை`)
-- `செங்குவளை` (`ளை`)
-- `ஒன்றாகி` (`றா`)
-- `பெற்றோருக்கு` (`றோ`)
-- `பின்னால்` (`னா`)
-- `எத்தனை` (`னை`)
-
-- mandatory 13-family audit: **COMPLETE**
-- character-identity corrections: **0**
-- global replacements: **0**
-- spelling / grammar modernization: **0**
-- unresolved historical-glyph clusters: **0**
-- status remains **`needs-review`** pending Stage 4.
-
-
 ## Stage 3 historical-glyph audit
 
 **COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
@@ -121,4 +97,15 @@ Representative checked occurrences:
 - no spelling / grammar / punctuation modernization;
 - unresolved historical-glyph clusters: **0**;
 - status remains **`needs-review`** pending Stage 4 final independent source check.
+## Stage 4 final independent source check
+
+**COMPLETE / PASS — 1 final source-proven correction.**
+
+Fresh source review reconfirmed complete source-visible wording, omissions/duplications, punctuation, paragraph/dialogue order, Stage-2 corrections and Stage-3 historical-glyph dispositions.
+
+- `நெடுஞ்செழியன் பாண்டியனின்` → **`நெடுஞ்செழியப் பாண்டியனின்`**
+- unresolved ordinary readings: **0**
+- unresolved historical-glyph clusters: **0**
+- final page status: **`verified`**
+
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 22 -->
