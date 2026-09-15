@@ -915,8 +915,14 @@ Scans **20–24 / printed 16, 16-A–16-D**:
 - scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1 and is excluded**
 - durable Stage-1 record — `STAGE1_BATCH_004.md`
 - durable Stage-2 record — `STAGE2_BATCH_004.md`
-- Stage 3 historical Tamil glyph audit — **NEXT**
-- Stage 4 — **NOT STARTED**
+- durable Stage-3 record — `STAGE3_BATCH_004.md`
+- Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
+- mandatory glyph families audited — **13/13**
+- represented families — **8/13**
+- absent families — **5/13**
+- Stage-3 character-identity corrections — **0**
+- Stage-3 unresolved glyph clusters — **0**
+- Stage 4 final independent source check — **NEXT**
 
 Stage-2 correction summary:
 
@@ -931,9 +937,19 @@ Stage-2 correction summary:
 
 Overall retained-work page coverage remains **20/20 page records — 15 verified + 5 needs-review**.
 
-**NEXT: Batch 4 Stage 3 historical Tamil glyph audit — scans 20–24 / printed 16, 16-A–16-D.**
+Stage-3 disposition:
 
-Explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, keep all five pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4 or `தெருக்கூத்து`.
+- present: **`ணா / ணை / லை / ளை / றா / றோ / னா / னை`**
+- absent: **`ணொ / ணோ / றொ / னொ / னோ`**
+- character-identity corrections — **0**
+- unresolved glyph clusters — **0**
+- Stage-2 corrections preserved — **12**
+- unresolved ordinary source-text spans — **0**
+- guessed readings — **0**
+
+**NEXT: Batch 4 Stage 4 final independent source check — scans 20–24 / printed 16, 16-A–16-D.**
+
+Reopen all five pages fresh against the controlling scan, verify all 12 Stage-2 corrections and all Stage-3 glyph dispositions, reconfirm every physical boundary and the scan-24 work ending, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before `தெருக்கூத்து`.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

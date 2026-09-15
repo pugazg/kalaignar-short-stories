@@ -17,11 +17,11 @@
 | 17 | 13 | body | **verified — Batch 3 Stage 4 PASS** |
 | 18 | 14 | body | **verified — Batch 3 Stage 4 PASS** |
 | 19 | 15 | body | **verified — Batch 3 Stage 4 PASS** |
-| 20 | 16 | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
-| 21 | 16-A | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
-| 22 | 16-B | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
-| 23 | 16-C | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
-| 24 | 16-D | work-ending | **needs-review — Batch 4 Stage 2 COMPLETE** |
+| 20 | 16 | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
+| 21 | 16-A | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
+| 22 | 16-B | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
+| 23 | 16-C | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
+| 24 | 16-D | work-ending | **needs-review — Batch 4 Stage 3 COMPLETE** |
 
 ## Batch 1
 
@@ -214,8 +214,14 @@ Scans **20–24 / printed 16, 16-A–16-D**
 - scan 25: **boundary witness only — opens `தெருக்கூத்து` / காட்சி 1**
 - durable Stage-1 audit: `STAGE1_BATCH_004.md`
 - durable Stage-2 audit: `STAGE2_BATCH_004.md`
-- Stage 3: **NEXT**
-- Stage 4: **NOT STARTED**
+- durable Stage-3 audit: `STAGE3_BATCH_004.md`
+- Stage 3: **COMPLETE / PASS / 5 pages**
+- mandatory glyph families audited: **13/13**
+- represented families: **8/13**
+- absent families: **5/13**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **NEXT**
 
 ### Stage-2 disposition
 
@@ -229,6 +235,14 @@ Scans **20–24 / printed 16, 16-A–16-D**
 - guessed readings: **0**
 - all physical joins and work-ending boundary: **PASS**
 
+### Stage-3 disposition
+
+- present families: **`ணா / ணை / லை / ளை / றா / றோ / னா / னை`**
+- absent families: **`ணொ / ணோ / றொ / னொ / னோ`**
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- Stage-2 corrections preserved: **12**
+
 ## Exact next activity
 
-Batch 4 Stage 3 historical Tamil glyph audit — scans **20–24 / printed 16, 16-A–16-D**. Do not begin Stage 4 or `தெருக்கூத்து` in the same activity.
+Batch 4 Stage 4 final independent source check — scans **20–24 / printed 16, 16-A–16-D**. Do not begin `தெருக்கூத்து` in the same activity.

@@ -134,10 +134,16 @@ Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
 - scan 23→24 boundary: **PASS / no split**
 - scan 24: **work-ending page confirmed**
 - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
-- Stage 3 historical-glyph audit: **NEXT**
-- Stage 4 final independent check: **NOT STARTED**
+- Stage 3 historical-glyph audit: **COMPLETE / PASS — 5/5**
+- mandatory historical-glyph families audited: **13/13**
+- represented families: **8/13**
+- absent families: **5/13**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4 final independent check: **NEXT**
 - durable Stage-1 record: [`STAGE1_BATCH_004.md`](STAGE1_BATCH_004.md)
 - durable Stage-2 record: [`STAGE2_BATCH_004.md`](STAGE2_BATCH_004.md)
+- durable Stage-3 record: [`STAGE3_BATCH_004.md`](STAGE3_BATCH_004.md)
 
 Overall page state for this prose/discourse work:
 
@@ -148,6 +154,6 @@ Overall page state for this prose/discourse work:
 
 ## Exact next activity
 
-Run **Batch 4 Stage 3 historical Tamil glyph audit** for scans **20–24 / printed 16, 16-A–16-D**.
+Run **Batch 4 Stage 4 final independent source check** for scans **20–24 / printed 16, 16-A–16-D**.
 
-Explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, keep all five pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4. Do not begin `தெருக்கூத்து` in the same activity.
+Reopen all five pages fresh against the controlling source, verify all **12 Stage-2 corrections** and the Stage-3 glyph dispositions, reconfirm every physical boundary plus the scan-24 work ending, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before `தெருக்கூத்து`.

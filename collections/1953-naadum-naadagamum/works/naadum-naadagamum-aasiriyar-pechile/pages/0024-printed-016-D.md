@@ -7,7 +7,7 @@ page_type: "work-ending"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064193_நாடும்_நாடகமும்.pdf"
-transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit"
+transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit + Stage 3 historical Tamil glyph audit"
 ---
 
 அறிவை யகற்றி, அஞ்ஞானத்தை ஊட்டி, அச்சத்தை ஊட்டி, ஆண்டவனைக் காட்டி, மக்களை வாழா வெட்டிகளாக வைத்திருக்கும் அஞ்ஞானக் கருத்துக்களின்மீது ஏவப் பயன்படும் அணுக்குண்டுகளாக, அறிவுப்படைத் துணையாகத்தான் நினைத்து ஆடைகளை யணிகிறோம், ஆடுகின்ற நேரத்தில், நாடக மேடையில்.
@@ -27,5 +27,7 @@ transcription_method: "direct visual first-pass from native source scan + Stage 
 <!-- Stage 2 visual text-fidelity audit: COMPLETE / no ordinary-text correction required. Direct scan review confirms `அறிவை யகற்றி`, `வாழா வெட்டிகளாக`, `அஞ்ஞானக் கருத்துக்களின்மீது`, `ஆடைகளை யணிகிறோம்`, `கிடைத்ததை யெல்லாம்`, `பயன் படுத்துகிறோம்`, quotation punctuation in `‘கூத்தாடி, கூத்தாடி’,`, and final `என்றுதான்`. Scan 24 remains the work-ending page; scan 25 visibly opens `தெருக்கூத்து` / காட்சி 1 and is excluded. Page remains needs-review pending Stage 3. -->
 
 <!-- Boundary check: scan 24 / printed 16-D is the prose/discourse work-ending page. Scan 25 / printed 17 visibly opens the separate retained work “தெருக்கூத்து” and is excluded from this batch. -->
+
+<!-- Stage 3 historical-glyph audit: COMPLETE / PASS. Mandatory families explicitly checked across the page. Source-confirmed representative families include `ணை` in `துணையாகத்தான்` / `துணையாக`, `லை` in `கலைக்குக்` / `கலையென்றுதான்`, `ளை` in `மக்களை` / `ஆடைகளை`, `றா` in `பேசுகிறார்களே`, `றோ` in `யணிகிறோம்` / `வருகிறோம்` / `படுத்துகிறோம்`, and `னை` in `ஆண்டவனைக்`. Character-identity corrections: 0. Unresolved glyph clusters: 0. Work-ending boundary remains unchanged. Page remains needs-review pending Stage 4. -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 16-D -->

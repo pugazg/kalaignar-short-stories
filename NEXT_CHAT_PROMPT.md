@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 4 Stage 3 scans 20–24
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 4 Stage 4 scans 20–24
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -40,53 +40,54 @@ Workspace:
 
 ### Batch 4 — scans 20–24 / printed 16, 16-A–16-D
 
-- Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 1 — **COMPLETE 5/5**
 - Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
 - Stage-2 source-supported corrections — **12**
-- page records — **5/5**
+- Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
+- mandatory glyph families audited — **13/13**
+- represented families — **8/13**
+- absent families — **5/13**
+- Stage-3 character-identity corrections — **0**
+- Stage-3 unresolved glyph clusters — **0**
 - page status — **needs-review 5/5**
 - unresolved source-text spans — **0**
 - guessed readings — **0**
-- scan 19→20 — **PASS / no split**
-- scan 20→21 — **PASS / no split**
 - scan 21→22 — **PASS — `கொண்டிட` / `வேண்டாம்.`**
 - scan 22→23 — **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-- scan 23→24 — **PASS / no split**
 - scan 24 — **work-ending page confirmed**
-- scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1 and is excluded**
-- durable Stage-1 record — `STAGE1_BATCH_004.md`
-- durable Stage-2 record — `STAGE2_BATCH_004.md`
-- Stage 3 historical-glyph audit — **NEXT**
-- Stage 4 final independent source check — **NOT STARTED**
+- scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1; excluded**
+- durable records:
+  - `STAGE1_BATCH_004.md`
+  - `STAGE2_BATCH_004.md`
+  - `STAGE3_BATCH_004.md`
+- Stage 4 final independent source check — **NEXT**
 
-Stage-2 correction summary:
+### Stage-3 family disposition
 
-- scan 20 — **8 corrections**, including `கண்ணாடிகளே`, `கண்ணாடிகளை`, two `துண்டுமே` readings, `ஆசைப் படுகிறேன்`, two comma→period fixes, and `படலாம்,`
-- scan 21 — **2 corrections**: `என்` → `ஏன்`; `அமைச்சூர்ஸ்` → `அமெச்சூர்ஸ்`
-- scan 22 — **2 corrections**: period→comma after `நடிக்கிறார்`; `பேச்சு மூலப்` → `பேச்சு மூலம்`
-- scan 22 source spelling `அக்கரையோ` — **RETAINED**; erroneous modernization to `அக்கறையோ` retracted
-- scans 23–24 — **0 corrections**
+Present:
+`ணா / ணை / லை / ளை / றா / றோ / னா / னை`
 
-Overall prose/discourse page records: **20/20 present — 15 verified + 5 needs-review**.
+Absent:
+`ணொ / ணோ / றொ / னொ / னோ`
+
+Character-identity corrections: **0**  
+Unresolved glyph clusters: **0**
 
 ## Exact next activity
 
-Run **Batch 4 Stage 3 historical Tamil glyph audit** for scans **20–24 / printed 16, 16-A–16-D**.
+Run **Batch 4 Stage 4 final independent source check** for scans **20–24 / printed 16, 16-A–16-D**.
 
 1. fetch live `main`;
-2. reread `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `HANDOVER.md`, this prompt, work README, page map, `STAGE1_BATCH_004.md`, and `STAGE2_BATCH_004.md`;
-3. reopen scans 20–24 from the controlling source;
-4. explicitly audit all mandatory historical-glyph families:
-   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-5. identify which families are present vs absent across the full batch;
-6. compare whole words/phrases for each visible candidate; never infer from a single isolated stroke;
-7. correct character identity only where the scan directly supports it; do not modernize spelling/grammar and do not global-replace;
-8. preserve all Stage-2 ordinary-text corrections and all physical boundary dispositions;
-9. keep all five pages `needs-review`;
-10. create `STAGE3_BATCH_004.md`, synchronize all controls, commit Stage 3, and stop.
+2. reread the four-stage workflow, fidelity/glyph guides, `HANDOVER.md`, this prompt, work README, page map, and `STAGE1_BATCH_004.md` / `STAGE2_BATCH_004.md` / `STAGE3_BATCH_004.md`;
+3. reopen scans 20–24 fresh against the controlling source;
+4. independently re-read all five pages end-to-end;
+5. verify all **12 Stage-2 corrections** are source-supported and present;
+6. verify all Stage-3 glyph-family dispositions and confirm no historical-glyph identity error remains;
+7. reconfirm all physical boundaries, scan-24 work ending, and scan-25 exclusion;
+8. if any new source-supported correction appears, apply it and document it;
+9. promote each page to `verified` only if no unresolved issue remains;
+10. create `STAGE4_BATCH_004.md`, synchronize all controls, commit Stage 4, and stop.
 
-Do **not** begin Stage 4 or `தெருக்கூத்து` in the same activity.
+Do **not** begin `தெருக்கூத்து` in the same activity.
 
-After Batch 4 Stage 4 eventually passes, this prose/discourse work will close **20/20 verified**. Then retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** is next in source order.
-
-The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
+If Stage 4 passes, `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` closes **20/20 verified**, and retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** becomes the next activity.

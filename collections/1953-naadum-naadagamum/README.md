@@ -146,19 +146,25 @@ No new canonical story folder was created in this intake-only iteration.
   - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
   - scan 24: **work-ending page confirmed**
   - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
-  - Stage 3 historical glyph: **NEXT**
-  - Stage 4: **NOT STARTED**
+  - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
+  - mandatory glyph families audited: **13/13**
+  - represented families: **8/13**
+  - absent families: **5/13**
+  - Stage-3 character-identity corrections: **0**
+  - Stage-3 unresolved glyph clusters: **0**
+  - Stage 4 final independent source check: **NEXT**
   - durable Stage-1 record: `STAGE1_BATCH_004.md`
   - durable Stage-2 record: `STAGE2_BATCH_004.md`
+  - durable Stage-3 record: `STAGE3_BATCH_004.md`
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 4 Stage 3 historical Tamil glyph audit**, scans **20–24 / printed 16, 16-A–16-D**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 4 Stage 4 final independent source check**, scans **20–24 / printed 16, 16-A–16-D**.
 
 Batches 1–3, scans **5–19**, remain **CLOSED / VERIFIED 15/15**.
 
-Batch 4 Stage 2 is durably **COMPLETE 5/5** with **12 source-supported corrections**, **0 unresolved source-text spans**, and **0 guessed readings**. All five pages remain `needs-review`. Scan 24 remains the work-ending page; scan 25 opens `தெருக்கூத்து` and is excluded.
+Batch 4 Stage 3 is durably **COMPLETE / PASS 5/5**. All 13 mandatory glyph families were explicitly audited: **8 represented / 5 absent**. Character-identity corrections and unresolved glyph clusters are **0**. Stage-2 corrections remain **12**, unresolved source-text spans are **0**, and guessed readings are **0**. All five pages remain `needs-review`.
 
-Run Stage 3 only, synchronize controls, commit, and stop before Stage 4 or `தெருக்கூத்து`.
+Run Stage 4 only, synchronize controls, commit, and stop before `தெருக்கூத்து`.
