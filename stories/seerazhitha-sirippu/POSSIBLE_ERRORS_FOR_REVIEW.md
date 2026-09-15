@@ -18,10 +18,17 @@ Stage 2 was subsequently reconciled once more against the direct pixels. The ini
 - unresolved ordinary-fidelity readings: **0**
 - blocked ordinary readings: **0**
 
-## Stage-3 queue — NEXT
+## Stage-3 historical-glyph queue
 
-Perform the systematic historical Tamil glyph audit on scans 101–102, including the mandatory families:
+**CLOSED / PASS — 2/2.**
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+Mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were explicitly audited against the source pixels.
 
-Do not mark either page `verified` until Stage 4 also passes.
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- proper-name confusable-character recheck: **PASS / unchanged**
+- durable record: `HISTORICAL_GLYPH_GATE.md`
+
+## Stage-4 queue — NEXT
+
+Perform the final independent end-to-end source check on scans 101–102. Recheck complete text, punctuation, spacing, dialogue/paragraph boundaries, physical column order, page continuation, non-story exclusion, closing ornament and forward boundary. Only after Stage 4 passes may either page be promoted to `verified`.
