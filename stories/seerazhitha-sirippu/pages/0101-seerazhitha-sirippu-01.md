@@ -7,7 +7,7 @@ page_type: "story-opening"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf"
-transcription_method: "Stage 2 direct visual text-fidelity audit + source-pixel reconciliation complete; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 historical-glyph audit against controlling scan; supplied Markdown used only as locator/draft"
 ---
 
 # சீரழித்த சிரிப்பு!
@@ -59,5 +59,15 @@ transcription_method: "Stage 2 direct visual text-fidelity audit + source-pixel 
 வேல்ஸ் இளவரசர், மூன்றாம் ஜார்ஜ் மன்னரின் புதல்வர். கரோலின் தந்தை வழியில் சொந்தக்காரி. சாதாரணக் குடும்பத்திலிருந்து வந்தாள். அவளது நடையுடை பாவனைகளும் அர்த்தமற்ற பல் இளிப்பும், அரசருக்கும் அரசிக்கும் மனவேதனையைத் தந்தன. எனினும்; எப்படியும் மருமகளாகப் போகிறவள் என்ற ஆசையில் அவளைத் திருத்துவதற்கான எல்லா வழிகளையும் கையாண்டுப் பயிற்சிகளை அளித்தனர். முடிவில் திருமணமும் முடிந்தது. கரோலின், விரைவில் ஒரு குழந்தைக்கும் தாயானாள். குழந்தை பிறந்த செய்தியைக் கேட்டதும் வேல்ஸ் இளவரசர், மகிழ்ச்சியால் துள்ளிக் குதித்தார்.
 
 “அப்பாடா! அவளை மணந்ததால் எனது தனிப்பட்ட கடன் தீர்ந்தது. குழந்தை பிறந்ததால் என் பெற்றோருக்கு நான் செலுத்த வேண்டிய கடனும் தீர்ந்தது. இனி நான் பிரம்மச்சாரி” என்று. தனது அருகிலிருந்த ஆசைநாயகியின் அதர பானம் அருந்திக் களித்தார் இளவரசர். கணவனும் கரோலினைக் காண்பதில்லை; குழந்தையையும் அரசி, தனிப்பட்ட முறையில் தன் பார்வையில் வளர்க்கத் தொடங்கிவிட்டாள். எடுத்ததற்கெல்லாம் சிரிப்பைக் கொட்டிக் கொண்டிருந்த கரோலின், வேதனைச்
+
+## Stage 3 historical-glyph notes
+
+- mandatory historical-glyph families audited directly from scan 101;
+- representative source-confirmed families: `லை` in `இல்லையே`, `ளை` in `அவளைத்தூக்கி`, `றா` in `கொண்டிருக்கிறார்`, `றோ` in `பெற்றோருக்கு`, `னா` in `இறங்கினாள் / தாயானாள்`, `னை` in `மனைவி`;
+- `ணா / ணை / ணொ / ணோ / றொ / னொ / னோ`: no scan-101 occurrence requiring a character-identity decision;
+- proper-name and inflected-form spot checks: **PASS**;
+- Stage-3 character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- page remains **`needs-review`** pending Stage 4.
 
 <!-- மூல ஸ்கேன் பக்கம்: 101; அச்சுப் பக்கம்: 91 -->
