@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / English E1 first translation
+# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / English E2 meaning fidelity
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,51 +6,58 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 `stories/seerazhitha-sirippu/`
 
-Tamil/source is now **PASS / CLOSED — VERIFIED 2/2**.
+Tamil/source is **PASS / CLOSED — VERIFIED 2/2** and must remain frozen unless genuinely new source evidence appears.
 
-Controlling Tamil authority:
+Tamil authority:
 
 - `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md`
-- `stories/seerazhitha-sirippu/pages/0101-seerazhitha-sirippu-01.md`
-- `stories/seerazhitha-sirippu/pages/0102-seerazhitha-sirippu-02.md`
+- verified page records under `stories/seerazhitha-sirippu/pages/`
 
-Durable source controls:
+English E1 target:
 
-- `stories/seerazhitha-sirippu/HISTORICAL_GLYPH_GATE.md`
-- `stories/seerazhitha-sirippu/FINAL_SOURCE_CHECK.md`
-- `stories/seerazhitha-sirippu/TAMIL_SOURCE_CLOSURE.md`
+- `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
+- `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-## Frozen Tamil state
+## Durable state
 
-- Stage 1: **COMPLETE 2/2**
-- Stage 2 ordinary fidelity: **COMPLETE / PASS**
-- Stage 3 corrective historical-glyph audit: **COMPLETE / PASS — 4 corrections**
-- Stage 4 final independent source check: **COMPLETE / PASS — 7 corrections**
-- verified pages: **2/2**
+- Tamil Stage 1–4: **CLOSED / PASS**
+- verified Tamil pages: **2/2**
 - unresolved Tamil/source issues: **0**
-- Tamil/source layer: **CLOSED / PASS**
+- English E1 first translation: **COMPLETE**
+- English source-page markers: **PASS 2/2**
+- E1 obvious omissions / duplications: **0 / 0**
+- Tamil changed during E1: **No**
+- E2–E5: **NOT YET PERFORMED**
 
-Do not regress these confirmed historical-glyph readings:
+E1 source-sensitive choices currently recorded include:
 
-- `கடன்காரனாம்`
-- `ஆடைகளை`
-- `நடத்தினாள்`
-- final `அவளை வாழவிடாமல் செய்த...`
+- title retained as **Seerazhitha Sirippu!**
+- `பிரம்மச்சாரி` → **brahmachari**
+- `ஆசைநாயகி` → **favourite woman**
+- names rendered as Caroline, Denman, Theodore Majocchi, Bergami, Brougham and Liverpool
+- scan 101→102 physical split represented as **“a figure of” → “anguish”**
 
 ## Exact next activity
 
-Perform **English E1 — first complete translation**.
+Perform **English E2 — meaning-fidelity review**.
 
 1. fetch live `main`;
-2. translate only from the verified Tamil authority; do not use OCR/web/Wikisource/alternate editions as translation authority;
-3. do not modify Tamil/source;
-4. preserve paragraphing, dialogue structure, narrative order and the two-page provenance;
-5. preserve names and source-specific cultural/social terms conservatively;
-6. do not add historical explanation or silently resolve source ambiguity;
-7. create the English file under the repository's normal `translations/en/` structure;
-8. create/update an English translation review record covering page-marker completeness, omissions/duplications, names/terms, difficult passages and unsupported additions;
-9. record **Tamil changed during translation: No** unless genuinely new source evidence appears;
-10. commit E1 and stop before any later English review/fidelity gate.
+2. compare the entire E1 English sentence-by-sentence against the frozen verified Tamil;
+3. check semantic completeness, agency, relationships, chronology, modality, negation, causality, rhetorical force and figurative language;
+4. pay special attention to:
+   - the Prince's debt/marriage explanation;
+   - `உள்ளம் தனியாக இருக்கட்டுமே; அதை அழவிடு!`;
+   - Caroline's laughter passages;
+   - `பிரம்மச்சாரி` and `ஆசைநாயகி`;
+   - the inquiry / parliamentary-law passage;
+   - the coronation-entry exchange;
+   - the final sentence personifying the meaningless laughter;
+5. preserve both source-page markers and story boundaries;
+6. repair English only where Tamil meaning requires it;
+7. do **not** modify Tamil/source;
+8. append an E2 section to `TRANSLATION_REVIEW.md` with repair count and unresolved issues;
+9. record `Tamil/source reopened: No` unless genuinely new source evidence appears;
+10. commit and stop before E3 terminology / names / cultural consistency review.
 
 Do not begin `மதுரைச் செலவு` in the same activity.
 
