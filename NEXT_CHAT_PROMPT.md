@@ -1,66 +1,57 @@
-# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / English E5 final bilingual approval
+# NEXT CHAT PROMPT — மதுரைச் செலவு / Stage 1 first-pass transcription
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
+## Previous story closure
+
+`stories/seerazhitha-sirippu/` is fully **CLOSED / PASS**:
+
+- Tamil/source: **VERIFIED 2/2 / CLOSED**
+- English E1–E5: **CLOSED / PASS**
+- final English title: **The Laugh That Ruined Her!**
+- unresolved Tamil/source issues: **0**
+- unresolved English issues: **0**
+
+Do not reopen it without genuinely new source evidence.
+
 ## Active canonical
 
-`stories/seerazhitha-sirippu/`
+`stories/madurai-selavu/`
 
-Tamil/source is **PASS / CLOSED — VERIFIED 2/2** and remains frozen.
+Controlling source:
 
-Tamil authority:
+`TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf`
 
-- `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md`
-- verified page records under `stories/seerazhitha-sirippu/pages/`
+Source identity / routing:
 
-English target:
+- publication: **முரசொலி — பொங்கல் மலர்**
+- year: **1960**
+- physical span: scans **21–26**
+- printed folios: **17–22**
+- story text: scans **21–24 and 26**
+- scan **25 / printed 21**: illustrated non-story magazine interleaf — **VERIFIED / EXCLUDED**
+- scan **27**: separate item `பதவிப் “பிரமாணம்!”` — forward boundary
+- source intake: **COMPLETE**
+- existing canonical match: **none; new canonical activated**
+- Stage 1 story transcription: **0/5**
+- Stage 2/3/4: **0/5**
+- English: **NOT STARTED**
 
-- `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
-- `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
-
-## Durable English state
-
-- E1 first complete translation: **COMPLETE**
-- E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
-- E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
-- E4 quality / readability review: **COMPLETE / PASS — 11 repairs**
-- cumulative English repairs E2–E4: **17**
-- source-page markers: **PASS 2/2**
-- unresolved E2 issues: **0**
-- unresolved E3 issues: **0**
-- unresolved E4 issues: **0**
-- Tamil/source reopened during E1–E4: **No**
-- Tamil changed during English E1–E4: **No**
-- E5: **NOT YET PERFORMED**
-
-## Protected English decisions
-
-- `அழகு படுத்து` → **adorn it**
-- `ஆசைநாயகி` → **mistress**
-- `வேதனைச் / சிலையானாள்` → **a statue of / anguish**
-- laughter moving with Caroline → **took up residence there with her**
-- `மரியாதை குண்டுகள்` → **salute shots**
-- `பிரம்மச்சாரி` remains **brahmachari**
-- names remain **Caroline, Denman, Theodore Majocchi, Bergami, Brougham, Liverpool**
-- title remains **Seerazhitha Sirippu!**
-- source-sensitive `One day, the prince.` remains intentionally unsmoothed
-- source-derived odd punctuation around the carriage sentence remains intentionally visible
+The supplied `Madurai_selavu.md` is a locator/baseline only. It contains OCR-like corruption and mixes scan-25 non-story material into its extracted stream. It must **not** control canonical text.
 
 ## Exact next activity
 
-Perform **English E5 — final bilingual approval**.
+Perform **Stage 1 first-pass transcription** for story scans **21–24 and 26**.
 
 1. fetch live `main`;
-2. compare the complete E4 English with the frozen verified Tamil one final time;
-3. verify semantic fidelity, terminology/name consistency, dialogue/paragraph order and source-page traceability;
-4. confirm all E1–E4 repairs are present and no protected decisions regressed;
-5. confirm scan 101→102 physical split remains aligned;
-6. confirm omissions / duplications / unsupported additions = **0 / 0 / 0**;
-7. confirm post-E4 content drift = **0**;
-8. do not modify Tamil/source unless genuinely new source evidence appears;
-9. append the E5 result to `TRANSLATION_REVIEW.md` and, if PASS, mark English **PASS / CLOSED** in README / HANDOVER / NEXT prompt;
-10. commit and stop. Do not automatically begin another story.
-
-Do not begin `மதுரைச் செலவு` in the same activity.
+2. use direct source pixels as the controlling authority;
+3. transcribe scans **21, 22, 23, 24, 26** in physical order;
+4. do **not** transcribe scan 25 into the story; preserve its existing verified non-story classification;
+5. preserve source spelling, punctuation, paragraphing, dialogue, historical glyph evidence and page boundaries without normalization;
+6. use the supplied Markdown only as a locator/draft and correct it from the scans;
+7. keep the five story page records **needs-review** after Stage 1;
+8. assemble only source-supported story text, preserving the 24→26 discontinuity caused by the non-story interleaf;
+9. update README / page map / Stage-1 progress / HANDOVER / NEXT prompt and commit;
+10. stop before Stage 2 visual fidelity unless explicitly instructed otherwise.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
