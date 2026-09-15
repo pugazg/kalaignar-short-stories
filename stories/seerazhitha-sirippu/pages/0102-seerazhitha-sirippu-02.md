@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf"
-transcription_method: "Stage 2 direct visual text-fidelity audit + source-pixel reconciliation complete; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 historical-glyph audit against controlling scan; supplied Markdown used only as locator/draft"
 ---
 
 # சீரழித்த சிரிப்பு! — தொடர்ச்சி
@@ -45,5 +45,15 @@ transcription_method: "Stage 2 direct visual text-fidelity audit + source-pixel 
 “என்னை எல்லோரும் வாழ விடாமல் செய்து விட்டார்களே!” எனப் புலம்பிக்கொண்டே, கரோலின் மாளிகைக்கு ஓடி; படுக்கையில் விழுந்தாள். பிறகு எழவே இல்லை. அவள் வாழவிடாமல் செய்த அந்த அர்த்தமற்ற சிரிப்பு; அவளுக்கு முன்பே அவளிடம் விடை பெற்றுக் கொண்டது.
 
 ○
+
+## Stage 3 historical-glyph notes
+
+- mandatory historical-glyph families audited directly from scan 102;
+- representative source-confirmed families: `ணை` in `விசாரணை / ஆணைச்சீட்டு`, `லை` in `நிலையைப் / இல்லை`, `றா` in `பிறப்பித்திருக்கிறார் / இருக்கிறாய்`, `னா` in inflected `...னாள்` forms, `னை` in `என்னை`;
+- `ணா / ணொ / ணோ / ளை / றொ / றோ / னொ / னோ`: no scan-102 occurrence requiring a character-identity decision;
+- foreign-name spellings `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்` rechecked for confusable character identity: **PASS / unchanged**;
+- Stage-3 character-identity corrections: **0**;
+- unresolved glyph clusters: **0**;
+- page remains **`needs-review`** pending Stage 4.
 
 <!-- மூல ஸ்கேன் பக்கம்: 102; அச்சுப் பக்கம்: 92 -->
