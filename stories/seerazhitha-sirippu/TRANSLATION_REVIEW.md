@@ -187,3 +187,55 @@ No outside biographical or historical detail was introduced to “correct” or 
 - Tamil changed: **No**
 
 Next: **E4 — English quality / readability review**. Do not reopen Tamil/source unless genuinely new source evidence appears.
+
+
+## E4 — English quality / readability review
+
+**PASS — full-prose quality review complete.**
+
+The E3-closed English was reviewed for grammar, idiom, readability, dialogue flow, sentence rhythm and unnecessary literal awkwardness. E2 meaning decisions and E3 terminology/name decisions were treated as protected.
+
+### E4 repairs
+
+Eleven English-quality repairs were made:
+
+1. `I am personally said to be a debtor` → **`Personally, I am said to be a debtor`**
+2. `his friend was crushed` → **`his friend was crestfallen`**
+3. `shedding words without feeling` → **`uttering the words without feeling`**
+4. `I am not talking about the food` → **`I don’t mean the food`**
+5. `manner of walking, dress and gestures ... baring of her teeth` → **`gait, dress and mannerisms ... grinning`**
+6. `used every possible means to reform her and gave her training` → **`tried every possible means of correcting her ways and training her`**
+7. `delighting in drinking the nectar of the lips` → **`revelling in drinking the nectar from the lips`**
+8. `Through the eloquence of a member named Brougham` → **`Because of the eloquence of a member named Brougham`**
+9. `That was the letter` → **`That was what the letter asked`**
+10. `the guard stopped her and asked` → **`the guard asked, stopping her`**
+11. `She wept enough for all the laughter...` → **`She wept as though making up for all the laughter...`**
+
+These changes improve English flow without altering agency, chronology, relationship structure, rhetorical force or the E2/E3 semantic decisions.
+
+### Deliberate source-sensitive features retained
+
+The following were **not** smoothed away:
+
+- the digestion metaphor for what is imposed upon a person;
+- `brahmachari`;
+- `mistress`;
+- `salute shots`;
+- the scan 101→102 `a statue of / anguish` split;
+- the source-broken `One day, the prince.`;
+- the source-derived odd punctuation around `The carriage came and stopped.’`;
+- Caroline's laughter as a recurring personified force;
+- the final sentence in which the meaningless laughter takes leave of Caroline before her death.
+
+### E4 result
+
+- E4 English-quality repairs: **11**
+- cumulative English repairs E2–E4: **17**
+- source-page markers: **PASS 2/2**
+- E2 meaning decisions altered: **No**
+- E3 terminology/name decisions altered: **No**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E4 issues: **0**
+
+Next: **E5 — final bilingual approval**.
