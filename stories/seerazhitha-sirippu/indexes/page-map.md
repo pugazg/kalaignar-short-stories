@@ -2,8 +2,8 @@
 
 | Scan | Printed | Type | Status | Stage 1 | Stage 2 | Stage 3 | File |
 |---:|---:|---|---|---|---|---|---|
-| 101 | 91 | story opening | needs-review | COMPLETE | PASS — 17 final corrections | PASS — 0 glyph corrections | `../pages/0101-seerazhitha-sirippu-01.md` |
-| 102 | 92 | story ending | needs-review | COMPLETE | PASS — 13 final corrections | PASS — 0 glyph corrections | `../pages/0102-seerazhitha-sirippu-02.md` |
+| 101 | 91 | story opening | needs-review | COMPLETE | PASS — 15 ordinary corrections | PASS — 2 glyph corrections | `../pages/0101-seerazhitha-sirippu-01.md` |
+| 102 | 92 | story ending | needs-review | COMPLETE | PASS — 12 ordinary corrections | PASS — 2 glyph corrections | `../pages/0102-seerazhitha-sirippu-02.md` |
 
 Scan **103** opens `அடிமைகள்` and is outside this story.
 
@@ -11,9 +11,9 @@ Scan **103** opens `அடிமைகள்` and is outside this story.
 
 - initialized: **2/2**
 - Stage 1: **COMPLETE 2/2**
-- Stage 2: **COMPLETE / PASS 2/2 — RECONCILED, 30 final net corrections**
-- initial 18-change ledger: **SUPERSEDED**
-- Stage 3: **COMPLETE / PASS 2/2 — 0 character-identity corrections; 0 unresolved glyph clusters**
+- Stage 2 ordinary fidelity: **COMPLETE / PASS 2/2 — 27 authoritative corrections**
+- former 30-correction count: **SUPERSEDED; 3 glyph regressions retracted**
+- Stage 3 corrective historical-glyph audit: **COMPLETE / PASS 2/2 — 4 character-identity corrections; 0 unresolved glyph clusters**
 - Stage 4: **0/2 — NEXT**
 - verified: **0/2**
 - unresolved ordinary-fidelity readings: **0**
