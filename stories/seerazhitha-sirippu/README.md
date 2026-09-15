@@ -12,31 +12,39 @@ Canonical workspace activated from the 1966 **காஞ்சி பொங்க
 - scan 103: separate item `அடிமைகள்` — boundary witness
 - source PDF committed: **No**
 
-## Canonical activation
+## Canonical status
 
-**CORRECTIVE STAGE 3 COMPLETE / PASS — 2/2; NEEDS REVIEW.**
+**TAMIL / SOURCE CLOSED — VERIFIED 2/2.**
 
-Live-main deduplication found no existing exact-title, obvious alternate-title, or content-anchor canonical match. This workspace is therefore activated as a new canonical story.
+The supplied `seerazhitha_sirippu.md` was used only as a locator/draft. The canonical text was built from direct source pixels and passed the repository's four-stage workflow.
 
-The supplied `seerazhitha_sirippu.md` is a baseline/locator only. Its two-column reading order is visibly scrambled in places and it must not be promoted directly into the canonical text.
-
-## Current state
+## Final state
 
 - source identity: **registered**
 - boundary: **PASS**
-- page records initialized: **2/2**
-- Stage 1 first-pass transcription: **2/2 COMPLETE**
-- Stage 2 ordinary visual text-fidelity: **2/2 COMPLETE / PASS — 27 authoritative corrections**
-- former 30-correction Stage-2 count: **SUPERSEDED after corrective glyph audit**
-- Stage-2 historical-glyph regressions retracted: **3**
-- Stage-2 unresolved ordinary-fidelity readings: **0**
-- Stage 3 historical glyph corrective re-audit: **2/2 COMPLETE / PASS — 4 character-identity corrections; 0 unresolved glyph clusters**
-- Stage 4 final check: **0/2 — NEXT**
-- verified: **0/2**
+- Stage 1 first-pass transcription: **COMPLETE 2/2**
+- Stage 2 ordinary visual fidelity: **COMPLETE / PASS**
+- corrective Stage 3 historical-glyph audit: **COMPLETE / PASS — 4 character-identity corrections**
+- Stage 4 final independent source check: **COMPLETE / PASS — 7 final corrections**
+- historical-glyph readings revalidated at Stage 4: **4/4**
+- verified page records: **2/2**
+- unresolved ordinary readings: **0**
+- unresolved glyph clusters: **0**
+- boxed scan-102 `முகப்பில்:` matter: **excluded / non-story**
+- scan 101→102 `வேதனைச் / சிலையானாள்`: **PASS**
+- closing ornament: **PASS**
+- Tamil/source layer: **CLOSED / PASS**
 - English: **NOT STARTED**
+
+Durable controls:
+
+- `STAGE2_BATCH_001.md`
+- `HISTORICAL_GLYPH_GATE.md`
+- `FINAL_SOURCE_CHECK.md`
+- `TAMIL_SOURCE_CLOSURE.md`
 
 ## Exact next activity
 
-**Stage 4 — final independent source check, scans 101–102 / printed 91–92, after corrective glyph re-audit.**
+**English translation E1 for `சீரழித்த சிரிப்பு!` from the verified Tamil authority.**
 
-Reopen both source scans independently and verify the complete reconciled Stage-3 text end-to-end: wording, punctuation, spacing, quote/paragraph boundaries, multi-column order, `வேதனைச் / சிலையானாள்` continuation, boxed `முகப்பில்:` exclusion, closing ornament and scan-103 boundary. Apply only source-proven final corrections. Promote pages to `verified` only if the final gate passes.
+Do not reopen Tamil/source unless a genuinely new source-fidelity issue appears. Do not begin `மதுரைச் செலவு` in the same activity.
