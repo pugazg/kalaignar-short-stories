@@ -852,12 +852,22 @@ Durable controls:
 - scan 27: opens separate `பதவிப் “பிரமாணம்!”`
 - source intake: **COMPLETE**
 - Stage 1 first-pass transcription: **COMPLETE 5/5**
-- Stage-1 page status: **needs-review 5/5**
-- Stage-1 assembly: `stories/madurai-selavu/sections/madurai-selavu.md`
-- Stage-1 durable record: `stories/madurai-selavu/STAGE1_BATCH_001.md`
-- focused review queue: `stories/madurai-selavu/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- Stage 2 visual fidelity: **NOT STARTED — NEXT**
-- Stage 3 historical glyph: **NOT STARTED**
+- Stage 2 visual fidelity: **COMPLETE FOR SOURCE-VISIBLE TEXT 5/5**
+- Stage-2 source-proven corrections: **32**
+  - scan 21: **0**
+  - scan 22: **8**
+  - scan 23: **4**
+  - scan 24: **11**
+  - scan 26: **9**
+- Stage-1 baseline reconstruction withdrawn: **1 scan-23 span**
+- source-visible ordinary unresolved readings: **0**
+- physical-source obscured spans: **1 — scan 23 / printed 19**
+- scan-23 obstruction represented canonically as `[…]`; no baseline/alternate-source reconstruction
+- page status: **needs-review 5/5**
+- Stage-2 assembly: `stories/madurai-selavu/sections/madurai-selavu.md`
+- durable Stage-2 record: `stories/madurai-selavu/STAGE2_BATCH_001.md`
+- review queue: `stories/madurai-selavu/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- Stage 3 historical glyph: **NOT STARTED — NEXT**
 - Stage 4 final source check: **NOT STARTED**
 - verified story pages: **0/5**
 - English: **NOT STARTED**
@@ -871,23 +881,18 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — Stage 2 visual text-fidelity review, scans 21–24 and 26.**
+**மதுரைச் செலவு — Stage 3 historical Tamil glyph audit, scans 21–24 and 26.**
 
 1. fetch live `main`;
-2. use direct source pixels as controlling authority;
-3. compare every Stage-1 word, punctuation mark, quote boundary, paragraph break and source-visible spacing against scans **21, 22, 23, 24 and 26**;
-4. preserve scan **25 / printed 21** as verified non-story / excluded;
-5. explicitly resolve the Stage-1 focused queue:
-   - scan 22 `சுகந்தானே`;
-   - scan 23 `இவள் என் வாழ்க்கைத் துணை நலம் கண்ணகி`;
-   - scan 23 decorated/overprinted prose transition;
-   - scan 24 quoted `ஆறு ஐங்காதம்...` passage and dense flora/fauna vocabulary;
-   - scan 26 Madhavi-letter opening and final literary-list / Madurai-breeze vocabulary;
-6. apply only source-proven corrections;
-7. keep all five story pages `needs-review` after Stage 2;
-8. do **not** merge Stage 3 historical-glyph work into Stage 2; Stage 3 must remain a separate explicit gate;
-9. synchronize assembly / README / page map / review queue / HANDOVER / NEXT prompt and commit;
-10. stop before Stage 3 unless explicitly instructed.
+2. use direct source pixels and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` as policy authority;
+3. audit historical Tamil character identity on every source-visible word in scans **21, 22, 23, 24 and 26**;
+4. explicitly check the reform-sensitive families used in the repository guide, including `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. read character identity, not modern visual resemblance; use same-font word context where necessary;
+6. do not modernize spelling, grammar, punctuation or spacing under the glyph gate;
+7. preserve scan-23 `[…]` physical-source obstruction exactly; do not reconstruct it from the Markdown baseline or outside sources;
+8. apply only source-proven historical-glyph corrections, create a durable glyph-gate record, and keep all five pages `needs-review`;
+9. synchronize assembly / README / page map / review queue / HANDOVER / NEXT prompt;
+10. commit and stop before Stage 4 final independent source check.
 
 Do not reopen `சீரழித்த சிரிப்பு!`.
 
