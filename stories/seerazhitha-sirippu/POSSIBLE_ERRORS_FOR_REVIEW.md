@@ -13,7 +13,7 @@ The Stage-1 review items were reopened against direct source pixels:
 5. scan 102 final clause — corrected to **`அவள் வாழவிடாமல் செய்த...`**.
 6. scan 102 boxed `முகப்பில்:` verse — **CONFIRMED NON-STORY / EXCLUDED**.
 
-Additional source-supported ordinary-fidelity corrections are recorded in `STAGE2_BATCH_001.md`.
+Stage 2 was subsequently reconciled once more against the direct pixels. The initial 18-change ledger is **SUPERSEDED** by the final 30-correction ledger in `STAGE2_BATCH_001.md`. Three interim over-corrections were reverted, one retained punctuation correction was refined, and fifteen additional source-supported corrections/omissions were recorded.
 
 - unresolved ordinary-fidelity readings: **0**
 - blocked ordinary readings: **0**
