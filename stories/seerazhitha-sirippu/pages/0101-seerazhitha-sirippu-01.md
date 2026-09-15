@@ -7,7 +7,7 @@ page_type: "story-opening"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf"
-transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 historical-glyph audit against controlling scan; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 ordinary visual fidelity + corrective Stage 3 historical-glyph re-audit against controlling scan; supplied Markdown used only as locator/draft"
 ---
 
 # சீரழித்த சிரிப்பு!
@@ -24,7 +24,7 @@ transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 hi
 
 “என்ன: புரிய வில்லையே”
 
-“நான் தனிப்பட்ட முறையில் கடன்காரனும்; என் கடனைத் தீர்க்க ஜெர்மன் நாட்டுப் பணக்காரியான கரோலினை நான் ஏற்க வேண்டுமாம் குறையையும் சுட்டிக் காட்டி பளுவையும் சுமத்தும்போது மனம் ஒடிந்து விடுகிறது.”
+“நான் தனிப்பட்ட முறையில் கடன்காரனாம்; என் கடனைத் தீர்க்க ஜெர்மன் நாட்டுப் பணக்காரியான கரோலினை நான் ஏற்க வேண்டுமாம் குறையையும் சுட்டிக் காட்டி பளுவையும் சுமத்தும்போது மனம் ஒடிந்து விடுகிறது.”
 
 “கரோலின் உங்களுக்கு நெருங்கிய சொந்தம் என்கிறார்களே....”
 
@@ -32,7 +32,7 @@ transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 hi
 
 வேல்ஸ் இளவரசரின் இந்தப் பதிலைக் கேட்டு அவர் நண்பன் இடிந்து போனான்.
 
-“சரி; கரோலினை வரவேற்பதற்குரிய வேளை நெருங்கிவிட்டது. விழாவுக்குரிய ஆடைகள் அணிவிக்கட்டுமா?”
+“சரி; கரோலினை வரவேற்பதற்குரிய வேளை நெருங்கிவிட்டது. விழாவுக்குரிய ஆடைகளை அணிவிக்கட்டுமா?”
 
 “ம்! உடல் இருக்கிறது; அழகு படுத்து! உள்ளம் தனியாக இருக்கட்டுமே; அதை அழவிடு!”
 
@@ -62,12 +62,18 @@ transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 hi
 
 ## Stage 3 historical-glyph notes
 
-- mandatory historical-glyph families audited directly from scan 101;
-- representative source-confirmed families: `லை` in `இல்லையே`, `ளை` in `அவளைத்தூக்கி`, `றா` in `கொண்டிருக்கிறார்`, `றோ` in `பெற்றோருக்கு`, `னா` in `இறங்கினாள் / தாயானாள்`, `னை` in `மனைவி`;
-- `ணா / ணை / ணொ / ணோ / றொ / னொ / னோ`: no scan-101 occurrence requiring a character-identity decision;
-- proper-name and inflected-form spot checks: **PASS**;
-- Stage-3 character-identity corrections: **0**;
-- unresolved glyph clusters: **0**;
-- page remains **`needs-review`** pending Stage 4.
+**CORRECTIVE RE-AUDIT / PASS.** The earlier Stage-3 `0 corrections` claim is superseded.
 
+Source-proven corrections:
+
+1. `கடன்காரனும்` → **`கடன்காரனாம்`** — historical family **`னா`**. Stage 1 was correct; Stage 2 had changed the old glyph to its modern look-alike.
+2. `ஆடைகள் அணிவிக்கட்டுமா?` → **`ஆடைகளை அணிவிக்கட்டுமா?`** — historical family **`ளை`**. Stage 1 was correct; Stage 2 had dropped the historical `ளை` identity.
+
+- mandatory 13-family audit: **COMPLETE**
+- scan-101 Stage-3 character-identity corrections: **2**
+- Stage-2 historical-glyph regressions restored: **2**
+- unresolved glyph clusters: **0**
+- global replacements: **0**
+- spelling/grammar modernization: **0**
+- status remains **`needs-review`** pending Stage 4.
 <!-- மூல ஸ்கேன் பக்கம்: 101; அச்சுப் பக்கம்: 91 -->
