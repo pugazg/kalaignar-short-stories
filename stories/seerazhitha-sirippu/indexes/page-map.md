@@ -1,9 +1,9 @@
 # Page map — சீரழித்த சிரிப்பு!
 
-| Scan | Printed | Type | Status | Stage 1 | File |
-|---:|---:|---|---|---|---|
-| 101 | 91 | story opening | needs-review | COMPLETE | `../pages/0101-seerazhitha-sirippu-01.md` |
-| 102 | 92 | story ending | needs-review | COMPLETE | `../pages/0102-seerazhitha-sirippu-02.md` |
+| Scan | Printed | Type | Status | Stage 1 | Stage 2 | File |
+|---:|---:|---|---|---|---|---|
+| 101 | 91 | story opening | needs-review | COMPLETE | PASS — 11 corrections | `../pages/0101-seerazhitha-sirippu-01.md` |
+| 102 | 92 | story ending | needs-review | COMPLETE | PASS — 7 corrections | `../pages/0102-seerazhitha-sirippu-02.md` |
 
 Scan **103** opens `அடிமைகள்` and is outside this story.
 
@@ -11,9 +11,10 @@ Scan **103** opens `அடிமைகள்` and is outside this story.
 
 - initialized: **2/2**
 - Stage 1: **COMPLETE 2/2**
-- Stage 2: **0/2 — NEXT**
-- Stage 3: **0/2**
+- Stage 2: **COMPLETE / PASS 2/2 — 18 corrections**
+- Stage 3: **0/2 — NEXT**
 - Stage 4: **0/2**
 - verified: **0/2**
+- unresolved ordinary-fidelity readings: **0**
 
-Scan 102's boxed `முகப்பில்:` verse is separate magazine matter and is excluded from the story assembly.
+Scan 102's boxed `முகப்பில்:` verse is separate magazine matter and remains excluded from the story assembly.

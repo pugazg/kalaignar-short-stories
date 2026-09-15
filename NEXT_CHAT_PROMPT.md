@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / Stage 2 scans 101–102
+# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / Stage 3 scans 101–102
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,48 +12,45 @@ Controlling source:
 
 - publication: **காஞ்சி — பொங்கல் மலர்**
 - year: **1966**
-- story scans: **101–102**
-- printed folios: **91–92**
+- story scans: **101–102 / printed 91–92**
 - scan 103: separate `அடிமைகள்`
 - source pixels control; no OCR/web/Wikisource/alternate-source authority
 
-## Durable Stage-1 state
+## Durable state
 
-**COMPLETE / PASS AS FIRST-PASS CHECKPOINT — 2/2.**
-
-- scan 101: **needs-review**
-- scan 102: **needs-review**
-- Stage-1 record: `stories/seerazhitha-sirippu/STAGE1_BATCH_001.md`
-- assembled Tamil: `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md`
-- supplied `seerazhitha_sirippu.md`: locator/draft only
-- title illustration / multi-column reading order reconstructed from source
-- scan 102 boxed `முகப்பில்:` verse excluded as non-story matter
-- scan 101→102 split `வேதனைச் / சிலையானாள்` preserved
+- source intake: **COMPLETE**
+- Stage 1: **COMPLETE 2/2**
+- Stage 2 visual text-fidelity: **COMPLETE / PASS 2/2**
+- Stage-2 corrections: **18**
+  - scan 101: **11**
+  - scan 102: **7**
+- unresolved ordinary-fidelity readings: **0**
+- both page records: **needs-review**
 - verified pages: **0/2**
 
-## Stage-2 review queue
+Stage-2 record:
+`stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
 
-Recheck directly from the scans:
-
-1. scan 101 — `என்ன: புரியவில்லையே` punctuation/spacing;
-2. scan 101 — source-present opening quotation before `சாரட்டு வண்டி...`;
-3. scan 102 — `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்`;
-4. scan 102 — quote/punctuation boundaries in `அரசர் பட்டம் சூடும் நேரத்தில்...`;
-5. scan 102 — final clause `அவளை வாழவிடாமல் செய்த...`;
-6. scan 102 — `முகப்பில்:` box remains excluded.
+The boxed scan-102 `முகப்பில்:` poem remains excluded as non-story matter.
 
 ## Exact next activity
 
-Perform **Stage 2 visual text-fidelity audit** for scans **101–102 / printed 91–92**.
+Perform **Stage 3 historical Tamil glyph audit** for scans **101–102 / printed 91–92**.
 
-- Compare Stage-1 text to direct scan pixels line-by-line / phrase-by-phrase.
-- Correct ordinary source-fidelity errors only.
-- Check omission, duplication, punctuation, paragraph/dialogue boundaries, source marks, column order and page continuation.
-- Do not run the systematic historical-glyph audit yet.
-- Keep both pages `needs-review`.
-- Create/update the Stage-2 durable record.
-- Synchronize README, page map, review queue, HANDOVER and this prompt.
-- Commit and stop before Stage 3.
+Mandatory families:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Rules:
+
+1. reopen direct source scans;
+2. audit old-type character identity systematically, not by modern spelling expectation;
+3. include visually confusable glyphs in names and inflected forms;
+4. correct only source-proven character identities;
+5. preserve source spelling, morphology, punctuation and syntax;
+6. keep both page records `needs-review`;
+7. create/update Stage-3 durable record and controls;
+8. commit and stop before Stage 4.
 
 Do not begin `மதுரைச் செலவு` in the same activity.
 

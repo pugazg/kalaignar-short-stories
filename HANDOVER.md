@@ -783,30 +783,37 @@ Four user-supplied periodical sources have been deduplicated and registered.
 
 - canonical: `stories/panangulai/`
 - routing: **existing-canonical cross-witness**
-- witness scans: **6–7**
-- witness state: **CLOSED / PASS 2/2**
-- material variants: **10**
+- witness: **CLOSED / PASS 2/2**
 - canonical changes: **0**
 
 ### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966 — ACTIVE
 
 Canonical: `stories/seerazhitha-sirippu/`
 
-- source scans: **101–102 / printed 91–92**
-- scan 103: `அடிமைகள்` / boundary PASS
+- story scans: **101–102 / printed 91–92**
 - source intake: **COMPLETE**
-- Stage 1 first-pass: **COMPLETE 2/2**
+- Stage 1: **COMPLETE 2/2**
+- Stage 2 visual fidelity: **COMPLETE / PASS 2/2**
+- Stage-2 corrections: **18** — scan 101: 11; scan 102: 7
+- ordinary-fidelity unresolved: **0**
 - page statuses: **needs-review 2/2**
-- Stage 2: **NOT STARTED — NEXT**
-- Stage 3: **NOT STARTED**
-- Stage 4: **NOT STARTED**
+- Stage 3 historical glyph: **NOT STARTED — NEXT**
+- Stage 4 final independent check: **NOT STARTED**
 - verified: **0/2**
-- scan 102 boxed `முகப்பில்:` verse: **excluded as non-story magazine matter**
-- page 101→102 split: `வேதனைச் / சிலையானாள்` preserved
-- durable Stage-1 record: `stories/seerazhitha-sirippu/STAGE1_BATCH_001.md`
-- assembly: `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md`
+- boxed scan-102 `முகப்பில்:` verse: **non-story / excluded**
+- scan 101→102 split `வேதனைச் / சிலையானாள்`: **PASS**
 
-Stage-2 review queue includes punctuation around `என்ன: புரியவில்லையே`, the `சாரட்டு வண்டி...` opening quote, proper names `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்`, the royal-letter quote boundaries, and the final sentence.
+High-value Stage-2 repairs include:
+
+- `கடன்காரனாம்` → **`கடன்காரனும்`**
+- `ஆடைகளை` → **`ஆடைகள்`**
+- `அவளைத் தூக்கி` → **`அவளைத்தூக்கி`**
+- `நான்யார்` → **`நான் யார்`**
+- `குறிப்பிட்டிருந்தது` → **`குறிப்பிடப்பட்டிருந்தது`**
+- `அவளை வாழவிடாமல் செய்த` → **`அவள் வாழவிடாமல் செய்த`**
+
+Durable audit:
+`stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
 
 ### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
 
@@ -825,19 +832,20 @@ Stage-2 review queue includes punctuation around `என்ன: புரிய�
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — Stage 2 visual text-fidelity audit, scans 101–102 / printed 91–92.**
+**சீரழித்த சிரிப்பு! — Stage 3 historical Tamil glyph audit, scans 101–102 / printed 91–92.**
 
 1. fetch live `main`;
-2. reopen both 1966 source scans directly;
-3. compare committed Stage-1 page records / assembly against the source line-by-line and phrase-by-phrase;
-4. check column reading order, omissions, duplicated text, ordinary letter/word errors, punctuation, dialogue/paragraph boundaries and the scan 101→102 continuation;
-5. explicitly recheck the five Stage-1 review items;
-6. keep the boxed `முகப்பில்:` verse excluded from story text;
-7. correct only source-supported ordinary text issues;
+2. reopen both source scans directly;
+3. compare the Stage-2 text against old-type character shapes;
+4. audit mandatory glyph families:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. also inspect visually confusable character identities encountered in names and inflected forms;
+6. apply only direct source-proven character-identity corrections;
+7. do not modernize spelling or grammar;
 8. keep both pages `needs-review`;
-9. synchronize Stage-2 record, page map, README, review queue, HANDOVER and NEXT_CHAT_PROMPT;
-10. commit Stage 2 and stop before Stage 3.
+9. create/update Stage-3 record and synchronize page map, README, review queue, HANDOVER and NEXT prompt;
+10. commit and stop before Stage 4.
 
-Do not begin `மதுரைச் செலவு` until `சீரழித்த சிரிப்பு!` completes Stages 2–4.
+Do not begin `மதுரைச் செலவு` until `சீரழித்த சிரிப்பு!` closes Stage 4.
 
-The 1958 `தேனலைகள்` source remains explicitly **DEFERRED**.
+The 1958 `தேனலைகள்` source remains **DEFERRED**.

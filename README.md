@@ -14,7 +14,7 @@ Live execution state is governed by [`HANDOVER.md`](HANDOVER.md) and [`NEXT_CHAT
 - **1969 `கண்ணடக்கம்` — CLOSED UNDER ONLY AVAILABLE COPY:** all visible story blocks are dispositioned; `நெருப்பு` Tamil/source and English are **PASS / CLOSED**. Printed pages **31–52** are a permanent source limitation.
 - **1976 `நளாயினி` exact-edition reconciliation — CLOSED / PASS:** six comparison targets **6/6**, **48/48** witness pages reviewed; the two 1976-controlled new canonicals are Tamil + English closed.
 - **1979 `பழக்கூடை` — CLOSED / PASS:** [`collections/1979-pazhakkoodai/`](collections/1979-pazhakkoodai/README.md) is fully processed; **5/5** existing-canonical witnesses CLOSED / PASS, 65/65 scan map final, 0 canonical Tamil/English changes.
-- **Periodical source onboarding — ACTIVE (15 Sep 2026):** four user-supplied magazine sources registered. `பனங்குலை` 1977 periodical is **CLOSED / PASS 2/2** as a cross-witness; `சீரழித்த சிரிப்பு!` Stage 1 is **COMPLETE 2/2 / needs-review** with Stage 2 next; `மதுரைச் செலவு` and `கொன்று வருக!` remain source-intake complete / Stage 1 pending.
+- **Periodical source onboarding — ACTIVE (15 Sep 2026):** four user-supplied magazine sources registered. `பனங்குலை` 1977 periodical is **CLOSED / PASS 2/2** as a cross-witness; `சீரழித்த சிரிப்பு!` Stage 2 is **COMPLETE / PASS 2/2 / needs-review** with Stage 3 next; `மதுரைச் செலவு` and `கொன்று வருக!` remain source-intake complete / Stage 1 pending.
 - **1982 `முடியாத தொடர்கதை` — CLOSED:** six stories, Tamil/source and English complete.
 - **1987 `கலைஞர் சொன்ன குட்டிக் கதைகள்` — CLOSED:** Tamil/source release audit PASS and English translation phase PASS / CLOSED.
 - The previously closed 1977, 1997, 2004, 2008 and 2009 layers remain closed under their collection and project trackers.
@@ -80,7 +80,7 @@ The existing 37/37 English translation phase remains complete. The separate five
 | [`ஏழை`](stories/ezhai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 4/4 + Gate B 4/4; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
 | [`ஒரிஜினலில் உள்ளபடி`](stories/originalil-ullapadi/README.md) | **2026 dual-gate CURRENT PASS — Gate A 7/7 + Gate B 7/7; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
 | [`பனங்குலை`](stories/panangulai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 3 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
-| [`சீரழித்த சிரிப்பு!`](stories/seerazhitha-sirippu/README.md) | **Stage 1 COMPLETE 2/2 — needs-review; Stage 2 next** | **not started** |
+| [`சீரழித்த சிரிப்பு!`](stories/seerazhitha-sirippu/README.md) | **Stage 2 COMPLETE / PASS 2/2 — 18 corrections; needs-review; Stage 3 next** | **not started** |
 | [`மதுரைச் செலவு`](stories/madurai-selavu/README.md) | **SOURCE INTAKE COMPLETE — Stage 1 pending; story scans 21–24 + 26; scan 25 interleaf excluded** | **not started** |
 | [`கொன்று வருக!`](stories/kondru-varuga/README.md) | **SOURCE INTAKE COMPLETE — Stage 1 pending; scans 8–13 / printed 32–37** | **not started** |
 | [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 9/9 + Gate B 9/9; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
