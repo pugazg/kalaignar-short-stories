@@ -52,7 +52,7 @@ anguish. One day, the prince. “I do not like you,” he wrote and handed it to
 
 Caroline moved into a separate residence. That laughter too took up residence there with her. Because of it, slanders were heaped upon her. News spread that she was flirting and enjoying herself with certain noblemen. On hearing it, the king conducted a secret inquiry into the matter. During the inquiry, the reports proved to be empty accusations. Deeply hurt, Caroline undertook a tour of foreign countries—for consolation! Could she not at least have left that laughter behind? She took it with her. As before, the episodes of slander continued. While she was abroad, King George III died, and arrangements were made for the Prince of Wales to be crowned King of England. Hearing of this, Caroline returned to England.
 
-The people prepared to welcome their future queen. Some officials even fired ceremonial guns in her honour.
+The people prepared to welcome their future queen. Some officials even fired salute shots in her honour.
 
 That day, in Parliament, the Prime Minister of England introduced an amendment...
 
