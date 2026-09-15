@@ -50,8 +50,12 @@ User-expanded Batch 1 = scans **25–36 / printed 17–28**.
 - Stage 2 visual text-fidelity audit: **COMPLETE / PASS — 12/12**
 - Stage-2 source-supported corrections: **11**
 - Stage-2 unresolved ordinary source-text issues: **0**
-- Stage 3: **NEXT**
-- Stage 4: **NOT STARTED**
+- Stage 3 historical Tamil glyph audit: **COMPLETE / PASS — 12/12**
+- mandatory families audited: **13/13**
+- family disposition: **9 present / 4 absent**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **NEXT**
 
 Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
 
@@ -88,10 +92,25 @@ Stage 2 is **COMPLETE / PASS — 12/12 pages**.
 - page status remains: **needs-review 12/12**
 - durable record: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)
 
+## Stage 3 closure
+
+Stage 3 is **COMPLETE / PASS — 12/12 pages**.
+
+- mandatory families audited: **13/13**
+- present: **`ணை / லை / ளை / றா / றொ / றோ / னா / னை / னோ`**
+- absent: **`ணா / ணொ / ணோ / னொ`**
+- character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- guessed readings: **0**
+- page status remains: **needs-review 12/12**
+- durable record: [`STAGE3_BATCH_001.md`](STAGE3_BATCH_001.md)
+
+Notable direct confirmations include `வாளை` on scans 29 and 32, `சொல்லன்றோ` on scan 31, `மென்றொரு / என்றொரு` on scans 32–33, and `போனோமே` on scan 35.
+
 ## Exact next activity
 
-Run **Stage 3 historical Tamil glyph audit** for scans **25–36 / printed 17–28**.
+Run **Stage 4 final independent source check** for scans **25–36 / printed 17–28**.
 
-Audit all 13 mandatory families (`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`) directly against the scans, record family disposition and any source-supported character-identity corrections, keep pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
+Reopen the full batch fresh, compare the Stage-3 text end to end against the controlling scans, confirm all Stage-2 corrections and Stage-3 glyph dispositions, verify page joins / scene structure / punctuation / song layout / work ending, resolve any final issue, then promote all 12 pages to `verified` only if no unresolved source-text or glyph issue remains.
 
-Do not begin `சந்தனக்கிண்ணம்` in the same activity.
+Synchronize controls, commit Stage 4, re-fetch live `main`, and stop before `சந்தனக்கிண்ணம்`.

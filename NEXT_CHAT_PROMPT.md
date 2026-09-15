@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / `தெருக்கூத்து` Stage 3 scans 25–36
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / `தெருக்கூத்து` Stage 4 scans 25–36
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,7 +22,7 @@ Source identity:
 
 No OCR, web copies, Wikisource, catalogue text, alternate editions, or contextual reconstruction as source authority.
 
-The user-supplied `therukoothu.md` was used only as the Stage-1 baseline/draft. It remains non-authoritative.
+The user-supplied `therukoothu.md` was only a Stage-1 baseline/draft and remains non-authoritative.
 
 ## Closed retained work 1
 
@@ -44,45 +44,45 @@ Corrected final source span:
 - scan 36 — closes with `[தெருக்கூத்தும் முடிகிறது]`
 - scan 37 — separate `சந்தனக்கிண்ணம்`
 
-## Durable state after Stage 2
+## Durable state after Stage 3
 
 - Stage 1 baseline-assisted first-pass: **COMPLETE 12/12**
 - Stage 2 visual text-fidelity audit: **COMPLETE / PASS 12/12**
 - Stage-2 source-supported corrections: **11**
-- corrected scans: **27, 31, 32, 34, 35, 36**
-- zero-correction scans: **25, 26, 28, 29, 30, 33**
-- unresolved ordinary source-text issues: **0**
+- Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 12/12**
+- mandatory families audited: **13/13**
+- present families: **`ணை / லை / ளை / றா / றொ / றோ / னா / னை / னோ`**
+- absent families: **`ணா / ணொ / ணோ / னொ`**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
 - guessed readings: **0**
 - page records: **12/12**
 - page status: **needs-review 12/12**
-- Stage 3: **NEXT**
-- Stage 4: **NOT STARTED**
+- Stage 4: **NEXT**
 - durable records:
   - `STAGE1_BATCH_001.md`
   - `STAGE2_BATCH_001.md`
+  - `STAGE3_BATCH_001.md`
 
-Stage-2 corrections include:
+Notable Stage-3 confirmations:
 
-- scan 27 — `நான் செய்த பேறு பெரும் பேறு!` → `நான் செய்த பெரும் பேறு!`; restored `வாழ்கவே!`
-- scan 31 — restored period after `நல்ல மொழி இருக்க.`
-- scan 32 — `விட்டீர்கள் / மிதக்கிறீர்கள் / மறந்துவிட்டீர்கள்` → source `விட்டார்கள் / மிதக்கிறார்கள் / மறந்துவிட்டார்கள்`; period → comma after `போர்க் கருவிகள் கூடாது`
-- scan 34 — `கலகல` → `கல கல`; removed non-source final period
-- scan 35 — `தூதன்தான்` → `தூதன் தான்`
-- scan 36 — `நான்தான்` → `நான் தான்`
+- scan 29 `வாளை வீசியபடி` — `ளை` confirmed;
+- scan 32 `வீரனே வாளை எடு!` — repeated `ளை` confirmation;
+- scan 31 `சொல்லன்றோ` — `றோ` confirmed;
+- scans 32–33 `மென்றொரு / என்றொரு` — `றொ` confirmed;
+- scan 35 `போனோமே` — `னோ` confirmed.
 
 ## Exact next activity
 
-Run **Stage 3 historical Tamil glyph audit** for all scans **25–36 / printed 17–28**.
+Run **Stage 4 final independent source check** for all scans **25–36 / printed 17–28**.
 
 1. fetch live `main`;
-2. reread `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, the four-stage workflow, `HANDOVER.md`, this prompt, work README, page map and `STAGE2_BATCH_001.md`;
-3. reopen all 12 controlling scans independently;
-4. explicitly audit:
-   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-5. compare complete words/phrases and same-edition forms where needed; do not infer from isolated strokes;
-6. correct character identity only where source evidence supports it; do not modernize spelling/grammar;
-7. record family present/absent disposition, representative examples, character-identity corrections and unresolved glyph clusters;
-8. keep all pages `needs-review`;
-9. create `STAGE3_BATCH_001.md`, synchronize controls, commit Stage 3, and stop.
+2. reread the four-stage workflow, `TEXT_FIDELITY_CHECK_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `HANDOVER.md`, this prompt, work README/page map, and `STAGE2_BATCH_001.md` + `STAGE3_BATCH_001.md`;
+3. reopen all 12 controlling scans fresh, starting from the Stage-3 committed text;
+4. perform a complete end-to-end comparison;
+5. confirm no omissions/duplications, all Stage-2 corrections, all Stage-3 glyph identities, dialogue/song/stage structure, punctuation, spacing, physical joins and the scan-36 work ending;
+6. if a genuine issue is found, correct and document it;
+7. promote all 12 page records to `verified` only if no unresolved source-text/glyph issue remains;
+8. create `STAGE4_BATCH_001.md`, synchronize all controls, commit Stage 4, re-fetch live `main` to prove durability, then stop.
 
-Do **not** begin Stage 4 or `சந்தனக்கிண்ணம்` in the same activity.
+Do **not** begin `சந்தனக்கிண்ணம்` in the same activity.

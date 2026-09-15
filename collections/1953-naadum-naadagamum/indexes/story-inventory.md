@@ -5,7 +5,7 @@
 | # | Work | Type | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
 | A | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | prose/discourse | 1–16, 16-A–16-D | 5–24 | retain/process here | **CLOSED / VERIFIED 20/20** |
-| B | `தெருக்கூத்து` | play | **17–28** | **25–36** | retain/process here | **Stage 2 COMPLETE / PASS 12/12; Stage 3 NEXT** |
+| B | `தெருக்கூத்து` | play | **17–28** | **25–36** | retain/process here | **Stage 3 COMPLETE / PASS 12/12; Stage 4 NEXT** |
 
 ## Corrected short-story inventory basis
 
@@ -62,11 +62,12 @@ Existing canonical route: `stories/iragasiyam/`.
 - transcription started for short-story units: **No**
 - `தெருக்கூத்து` Stage 1: **COMPLETE 12/12**
 - `தெருக்கூத்து` Stage 2: **COMPLETE / PASS 12/12 — 11 corrections**
+- `தெருக்கூத்து` Stage 3: **COMPLETE / PASS 12/12 — 13/13 families, 0 character-identity corrections**
 
 ## Exact next activity
 
 Do not activate a short story yet.
 
-Next: **`தெருக்கூத்து` Stage 3 historical Tamil glyph audit — scans 25–36 / printed 17–28**.
+Next: **`தெருக்கூத்து` Stage 4 final independent source check — scans 25–36 / printed 17–28**.
 
-Only after the play passes Stages 3–4 should the repository advance to `சந்தனக்கிண்ணம்`, unless the user explicitly changes the workflow.
+Only after the play closes at Stage 4 should the repository advance to `சந்தனக்கிண்ணம்`, unless the user explicitly changes the workflow.

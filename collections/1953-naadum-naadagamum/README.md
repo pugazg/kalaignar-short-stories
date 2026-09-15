@@ -107,19 +107,23 @@ Direct Stage-1 processing shows:
   - guessed readings: **0**
   - work-ending boundary: **PASS — scan 36**
   - scan 37 witness: **PASS — `சந்தனக்கிண்ணம்`**
-  - Stage 3 historical-glyph audit: **NEXT**
+  - Stage 3 historical-glyph audit: **COMPLETE / PASS 12/12**
+  - mandatory glyph families audited: **13/13**
+  - family disposition: **9 present / 4 absent**
+  - Stage-3 character-identity corrections: **0**
+  - Stage-3 unresolved glyph clusters: **0**
+  - Stage 4 final independent source check: **NEXT**
   - durable Stage-1 record: `works/therukoothu/STAGE1_BATCH_001.md`
   - durable Stage-2 record: `works/therukoothu/STAGE2_BATCH_001.md`
+  - durable Stage-3 record: `works/therukoothu/STAGE3_BATCH_001.md`
 - `சந்தனக்கிண்ணம்`: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Run **`தெருக்கூத்து` Stage 3 historical Tamil glyph audit** for scans **25–36 / printed 17–28**.
+Run **`தெருக்கூத்து` Stage 4 final independent source check** for scans **25–36 / printed 17–28**.
 
-Stage 2 is now **COMPLETE / PASS 12/12** with **11** source-supported ordinary-fidelity corrections and **0** unresolved ordinary text issues.
+Stage 3 is now **COMPLETE / PASS 12/12**, with **13/13** mandatory historical-glyph families audited, **0** character-identity corrections and **0** unresolved glyph clusters.
 
-Audit all mandatory historical-glyph families directly against the scans, record present/absent disposition and any character-identity corrections, keep all pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
-
-Do not begin `சந்தனக்கிண்ணம்` in the same activity.
+Freshly compare the entire Stage-3 text with the source, reconfirm Stage-2 corrections and Stage-3 glyph identities, verify all joins / punctuation / dramatic structure / work ending, then promote all 12 pages to `verified` only if the final check closes with zero unresolved issues. Commit/synchronize and stop before `சந்தனக்கிண்ணம்`.

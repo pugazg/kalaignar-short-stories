@@ -669,28 +669,32 @@ Corrected source span: **scans 25–36 / printed 17–28**.
 - Stage 1 baseline-assisted first-pass: **COMPLETE 12/12**
 - Stage 2 visual text-fidelity audit: **COMPLETE / PASS 12/12**
 - Stage-2 source-supported corrections: **11**
-- corrected scans: **27, 31, 32, 34, 35, 36**
-- zero-correction scans: **25, 26, 28, 29, 30, 33**
-- unresolved ordinary source-text issues: **0**
+- Stage-2 unresolved ordinary source-text issues: **0**
+- Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 12/12**
+- mandatory glyph families audited: **13/13**
+- family disposition: **9 present / 4 absent**
+- present: **`ணை / லை / ளை / றா / றொ / றோ / னா / னை / னோ`**
+- absent: **`ணா / ணொ / ணோ / னொ`**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
 - page records: **12/12**
 - page status: **needs-review 12/12**
 - guessed readings: **0**
 - scan 36 work ending: **PASS — `[தெருக்கூத்தும் முடிகிறது]`**
 - scan 37 boundary witness: **PASS — opens `சந்தனக்கிண்ணம்`**
-- Stage 3 historical Tamil glyph audit: **NEXT**
-- Stage 4: **NOT STARTED**
+- Stage 4 final independent source check: **NEXT**
 - durable records:
   - `STAGE1_BATCH_001.md`
   - `STAGE2_BATCH_001.md`
+  - `STAGE3_BATCH_001.md`
 
-Stage-2 correction summary:
+Notable Stage-3 direct confirmations:
 
-- scan 27: removed duplicated `பேறு`; restored exclamation in `வாழ்கவே!`
-- scan 31: restored source period after `நல்ல மொழி இருக்க.`
-- scan 32: restored source `விட்டார்கள் / மிதக்கிறார்கள் / மறந்துவிட்டார்கள்`; period → comma after `போர்க் கருவிகள் கூடாது`
-- scan 34: `கலகல` → `கல கல`; removed non-source terminal period
-- scan 35: `தூதன்தான்` → `தூதன் தான்`
-- scan 36: `நான்தான்` → `நான் தான்`
+- scan 29 `வாளை வீசியபடி` — `ளை` confirmed;
+- scan 32 `வீரனே வாளை எடு!` — repeated `ளை` confirmation;
+- scan 31 `சொல்லன்றோ` — `றோ` confirmed;
+- scans 32–33 `மென்றொரு / என்றொரு` — `றொ` confirmed;
+- scan 35 `போனோமே` — `னோ` confirmed.
 
 ### Source inventory state
 
@@ -754,17 +758,21 @@ Durable intake files:
 
 Continue 1953 `நாடும் நாடகமும்`, active retained work **`தெருக்கூத்து`**.
 
-Stage 2 is **COMPLETE / PASS — 12/12**, with **11** source-supported ordinary-fidelity corrections and **0** unresolved ordinary text issues.
+Stage 3 is **COMPLETE / PASS — 12/12**.
 
-**NEXT: Stage 3 historical Tamil glyph audit — scans 25–36 / printed 17–28.**
+- Stage 2 ordinary-fidelity corrections: **11**
+- mandatory historical-glyph families audited: **13/13**
+- present families: **`ணை / லை / ளை / றா / றொ / றோ / னா / னை / னோ`**
+- absent families: **`ணா / ணொ / ணோ / னொ`**
+- Stage-3 character-identity corrections: **0**
+- unresolved glyph clusters: **0**
+- pages: **needs-review 12/12**
 
-Explicitly audit all 13 mandatory families:
+**NEXT: Stage 4 final independent source check — scans 25–36 / printed 17–28.**
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+Reopen all 12 scans fresh from the Stage-3 committed text. Compare end to end, reconfirm all Stage-2 corrections and Stage-3 glyph identities, verify dialogue/song/stage structure, punctuation, spacing, physical joins and scan-36 work ending, correct only source-supported issues, and promote all 12 pages to `verified` only if unresolved source-text/glyph issues remain at zero.
 
-Use direct scan pixels, compare complete words/phrases, apply character-identity corrections only where supported, record present/absent disposition and unresolved glyph clusters, keep all 12 pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
-
-Do **not** begin `சந்தனக்கிண்ணம்` in the same activity.
+Create `STAGE4_BATCH_001.md`, synchronize all controls, commit Stage 4, re-fetch live `main` for durability, and stop before `சந்தனக்கிண்ணம்`.
 
 Structural routing remains:
 
