@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / Stage 3 scans 101–102
+# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / Stage 4 final source check
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,41 +20,38 @@ Controlling source:
 
 - source intake: **COMPLETE**
 - Stage 1: **COMPLETE 2/2**
-- Stage 2 visual text-fidelity: **COMPLETE / PASS 2/2**
+- Stage 2 visual text-fidelity: **COMPLETE / PASS — RECONCILED**
 - Stage-2 corrections: **30 final net**
   - scan 101: **17**
   - scan 102: **13**
-- initial 18-change Stage-2 ledger: **SUPERSEDED after direct-pixel reconciliation**
-- unresolved ordinary-fidelity readings: **0**
+- Stage-2 unresolved ordinary-fidelity readings: **0**
+- Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 2/2**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
 - both page records: **needs-review**
 - verified pages: **0/2**
 
-Stage-2 record:
-`stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
+Durable records:
+- `stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
+- `stories/seerazhitha-sirippu/HISTORICAL_GLYPH_GATE.md`
 
-Stage 2 is ordinary-fidelity **FROZEN / RECONCILED** with 0 unresolved ordinary readings. Do not re-open it during Stage 3 unless a historical-glyph check proves a new character-identity issue.
-
-The boxed scan-102 `முகப்பில்:` poem remains excluded as non-story matter.
+The boxed scan-102 `முகப்பில்:` poem remains excluded as non-story matter. The scan 101→102 `வேதனைச் / சிலையானாள்` continuation remains PASS.
 
 ## Exact next activity
 
-Perform **Stage 3 historical Tamil glyph audit** for scans **101–102 / printed 91–92**.
+Perform **Stage 4 final independent source check** for scans **101–102 / printed 91–92**.
 
-Mandatory families:
+1. fetch live `main`;
+2. reopen both source scans directly and reread the complete story independently;
+3. verify wording, omission/duplication, punctuation, source spacing, quotation and paragraph boundaries;
+4. verify scan-101 illustrated-title / multi-column reading order;
+5. verify scan 101→102 `வேதனைச் / சிலையானாள்` continuation;
+6. confirm scan-102 boxed `முகப்பில்:` material is excluded;
+7. confirm closing ornament and scan-103 `அடிமைகள்` forward boundary;
+8. apply only source-proven final corrections;
+9. if the final gate passes, promote both pages to `verified` and synchronize the assembly and all durable controls;
+10. create/update the Stage-4 final-source-check record, commit, and stop.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Rules:
-
-1. reopen direct source scans;
-2. audit old-type character identity systematically, not by modern spelling expectation;
-3. include visually confusable glyphs in names and inflected forms;
-4. correct only source-proven character identities;
-5. preserve source spelling, morphology, punctuation and syntax;
-6. keep both page records `needs-review`;
-7. create/update Stage-3 durable record and controls;
-8. commit and stop before Stage 4.
-
-Do not begin `மதுரைச் செலவு` in the same activity.
+Do not begin English translation or `மதுரைச் செலவு` in the same activity.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
