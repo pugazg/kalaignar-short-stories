@@ -794,29 +794,27 @@ Canonical: `stories/seerazhitha-sirippu/`
 - source intake: **COMPLETE**
 - Stage 1: **COMPLETE 2/2**
 - Stage 2 visual fidelity: **COMPLETE / PASS 2/2**
-- Stage-2 corrections: **30 final net** — scan 101: 17; scan 102: 13
-- initial 18-change Stage-2 ledger: **SUPERSEDED after direct-pixel reconciliation**
+- Stage-2 ordinary corrections: **27 authoritative** — scan 101: 15; scan 102: 12
+- former 30-correction Stage-2 count: **SUPERSEDED; 3 historical-glyph regressions retracted**
 - ordinary-fidelity unresolved: **0**
 - page statuses: **needs-review 2/2**
-- Stage 3 historical glyph: **COMPLETE / PASS 2/2 — 0 character-identity corrections; 0 unresolved glyph clusters**
+- Stage 3 historical glyph: **CORRECTIVE RE-AUDIT COMPLETE / PASS 2/2 — 4 character-identity corrections; 0 unresolved glyph clusters**
 - Stage 4 final independent check: **NOT STARTED — NEXT**
 - verified: **0/2**
 - boxed scan-102 `முகப்பில்:` verse: **non-story / excluded**
 - scan 101→102 split `வேதனைச் / சிலையானாள்`: **PASS**
 
-High-value reconciled Stage-2 repairs include:
+Corrective historical-glyph findings supersede three former Stage-2 changes:
 
-- `உட்கார்ந்திருக்கிறீர்களே!` → **`உட்கார்ந்திருக்கிறீர்களே?`**
-- `கடன்காரனாம்` → **`கடன்காரனும்`**
-- `ஆடைகளை` → **`ஆடைகள்`**
-- `சாரட்டு வண்டி வந்து நின்றது.` → **`சாரட்டு வண்டி வந்து நின்றது;`**
-- `அவளைத் தூக்கி` → **`அவளைத்தூக்கி`**
-- `அரச குடும்பத்திற்கேற்ற` → **`அரச குடும்பத்திற் கேற்ற`**
-- omitted phrase restored: **`தங்கள் வருங்கால ராணியை`**
-- `ஒரு பதில் வந்தது` → **`ஒரு பதில் வந்து`**
-- `நான்யார்` → **`நான் யார்`**
-- `குறிப்பிட்டிருந்தது` → **`குறிப்பிடப்பட்டிருந்தது`**
-- `அவளை வாழவிடாமல் செய்த` → **`அவள் வாழவிடாமல் செய்த`**
+- `கடன்காரனும்` → **`கடன்காரனாம்`** (`னா`)
+- `ஆடைகள்` → **`ஆடைகளை`** (`ளை`)
+- final `அவள் வாழவிடாமல் செய்த` → **`அவளை வாழவிடாமல் செய்த`** (`ளை`)
+
+Additional Stage-3 repair:
+
+- `நடத்தினள்` → **`நடத்தினாள்`** (`னா`)
+
+Other source-supported ordinary Stage-2 repairs remain in force pending Stage 4.
 
 Durable audits:
 - `stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
