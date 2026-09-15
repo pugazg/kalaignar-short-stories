@@ -4,10 +4,10 @@ printed_page: 18
 story: "madurai-selavu"
 section: "story"
 page_type: "story-body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf"
-transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit against direct source pixels; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit + Stage 4 final independent source check against direct source pixels; supplied Markdown used only as locator/draft"
 ---
 
 # மதுரைச் செலவு — தொடர்ச்சி
@@ -81,31 +81,6 @@ Focused reading `சுகந்தானே`: **CONFIRMED BY SOURCE / unchanged
 - status remains **needs-review** pending Stage 3.
 
 
-## Stage 3 historical-glyph notes
-
-**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
-
-The page was reopened independently under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Historical character identity was read from whole-word / same-font evidence rather than modern visual resemblance.
-
-Representative checked occurrences:
-
-- `அணைத்து` (`ணை`)
-- `மணிமேகலை` (`லை`)
-- `அவளை` (`ளை`)
-- `பிழைக்கின்றான்` (`றா`)
-- `இன்றோ` (`றோ`)
-- `கூறினாள்` (`னா`)
-- `என்னை` (`னை`)
-- `படகானோம்` (`னோ`)
-
-- mandatory 13-family audit: **COMPLETE**
-- character-identity corrections: **0**
-- global replacements: **0**
-- spelling / grammar modernization: **0**
-- unresolved historical-glyph clusters: **0**
-- status remains **`needs-review`** pending Stage 4.
-
-
 ## Stage 3 historical-glyph audit
 
 **COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
@@ -128,4 +103,14 @@ Representative checked occurrences:
 - no spelling / grammar / punctuation modernization;
 - unresolved historical-glyph clusters: **0**;
 - status remains **`needs-review`** pending Stage 4 final independent source check.
+## Stage 4 final independent source check
+
+**COMPLETE / PASS — 0 final source-proven corrections.**
+
+Fresh source review reconfirmed complete source-visible wording, omissions/duplications, punctuation, paragraph/dialogue order, Stage-2 corrections and Stage-3 historical-glyph dispositions.
+
+- unresolved ordinary readings: **0**
+- unresolved historical-glyph clusters: **0**
+- final page status: **`verified`**
+
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 18 -->
