@@ -8,60 +8,93 @@ Policy authority: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
 ## Audit rule
 
-**Read character identity, not modern visual resemblance.**
+> **Read character identity, not modern visual resemblance.**
 
-The Stage-2 text was reopened against the direct 1960 source pixels. Whole words and repeated same-font forms were used to distinguish historical glyph identity from modern look-alike shapes. No global replacement, spelling modernization, grammar modernization, or punctuation rewriting was performed under this gate.
+The Stage-2 text was reopened against the direct 1960 source pixels specifically for historical Tamil glyph identity. No OCR, supplied Markdown, modern spelling expectation, or global replacement controlled the result.
 
-## Mandatory 13-family audit
+The mandatory reform-sensitive families were explicitly audited:
 
-| Family | Representative source-visible checks | Result |
-|---|---|---|
-| `ணா` | scan 21 `பெண்ணாள்` | PASS |
-| `ணை` | scan 21 `எத்துணை`; scan 26 `பஞ்சணைகளின்மீது` | PASS |
-| `ணொ` | no confirmed story-body occurrence | PASS / no occurrence |
-| `ணோ` | no confirmed story-body occurrence | PASS / no occurrence |
-| `லை` | scan 22 `மணிமேகலை`; scan 26 `முல்லை` | PASS |
-| `ளை` | scan 21 `குவளை`; scan 24 `வாளை`; scan 26 `செங்குவளை` | PASS |
-| `றா` | scan 21 `ஓடுகிறான்`; scan 24 `சிரிக்கிறான்`; scan 26 `ஒன்றாகி` | PASS |
-| `றொ` | no confirmed story-body occurrence | PASS / no occurrence |
-| `றோ` | scan 22 `இன்றோ`; scan 24 `பெற்றோர்க்குப்`; scan 26 `பெற்றோருக்கு` | PASS |
-| `னா` | scan 21 `குளிப்பாட்டினாள்`; scan 23 `வெளிக்கிளம்பினார்கள்`; scan 24 `நீர்நாயினால்`; scan 26 `பின்னால்` | PASS |
-| `னை` | scan 21 `கோவலனை`; scan 22 `என்னை`; scan 26 `எத்தனை` | PASS |
-| `னொ` | no confirmed story-body occurrence | PASS / no occurrence |
-| `னோ` | scan 22 `படகானோம்` | PASS |
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## Page results
+## Representative same-font / whole-word checks
 
-| Scan | Printed | Stage-3 character-identity corrections | Historical-glyph unresolved |
-|---:|---:|---:|---:|
-| 21 | 17 | 0 | 0 |
-| 22 | 18 | 0 | 0 |
-| 23 | 19 | 0 | 0 source-visible glyph clusters |
-| 24 | 20 | 0 | 0 |
-| 26 | 22 | 0 | 0 |
+### Scan 21 / printed 17
 
-Total Stage-3 character-identity corrections: **0**.
+- `ணா`: `பெண்ணாள்`
+- `ணை`: `எத்துணை`
+- `லை`: `காலைக்`
+- `ளை`: `காளையரை / குவளை`
+- `றா`: `ஓடுகிறான்`
+- `னா`: `குளிப்பாட்டினாள் / கதறினான்`
+- `னை`: `கோவலனை / ஆளனைக்`
 
-## Physical-source exception
+### Scan 22 / printed 18
 
-Scan **23 / printed 19** still contains the previously documented prose continuation physically crossed by the coloured illustration.
+- `ணை`: `அணைத்து`
+- `லை`: `மணிமேகலை / விலை / வழியில்லை`
+- `ளை`: `அவளை / முத்துக்களைத்`
+- `றா`: `பிழைக்கின்றான் / அளக்கின்றார் / சொல்கிறாயா`
+- `றோ`: `விளைந்ததன்றோ / மறுப்பாரோ`
+- `னா`: `கூறினாள் / என்னாலே`
+- `னை`: `உன்னை / என்னை / நினைக்கிறீர்கள்`
+- `னோ`: `படகானோம்`
 
-- canonical representation: **`[…]`**
-- reconstructed from supplied Markdown: **No**
-- alternate-source wording imported: **No**
-- historical-glyph inference attempted inside the obscured span: **No**
-- physical-source obscured spans: **1**
+### Scan 23 / printed 19
 
-This exception is separate from the historical-glyph gate. All **source-visible** glyph clusters are closed for Stage 3.
+- `ணை`: `துணை / துணைவி / வழித்துணையாக`
+- `லை`: `மழலையைச் / வடமலைப் / தலைநகரமே`
+- `ளை`: `அவளைத் / களைத்துப்போயிருக்கிறாள் / உங்களை`
+- `றா`: `சென்றார்கள் / கேட்கிறார்`
+- `னா`: `வெளிக்கிளம்பினார்கள் / கோவலனா / மகனா`
+- `னை`: `தண்டனையாகிறது / நினைத்தாள்`
 
-## Gate result
+The pre-existing illustration-obscured `[…]` span was left untouched. Stage 3 does not reconstruct physically hidden wording.
+
+### Scan 24 / printed 20
+
+- `ணை`: `துணைவர் / இணைக்கின்ற / துணைவர்களுக்கு`
+- `லை`: `சோலையிலுள்ள / தலையில் / ஓலையைப்`
+- `ளை`: `களைப்பின்றிப் / குவளை / வாளை / மலர்களை`
+- `றா`: `ஏமாற்றுகிறார் / பேசுகிறார் / காட்டுகிறார்`
+- `றோ`: `பெற்றோர்க்குப்`
+- `னா`: `வேண்டுமானால் / செல்வோமானால் / கூறினான்`
+- `னை`: `தண்டனை / என்னை / மனைவிக்கும்`
+
+### Scan 26 / printed 22
+
+- `ணை`: `பஞ்சணைகளின்மீது`
+- `லை`: `மடலையே / மணிமேகலை / சூழ்நிலை / முல்லை`
+- `ளை`: `பொற்காசுகளை / எண்ணங்களை / செங்குவளை`
+- `றா`: `அனுப்பிவிடுகிறான் / வருகிறார்கள் / கேட்கிறான்`
+- `றோ`: `பெற்றோருக்கு / பெற்றோர்`
+- `னா`: `பின்னால் / ஆனால்`
+- `னை`: `கற்பனை / என்னை / எத்தனை`
+
+## Families without a confirmed source-visible body occurrence
+
+No source-visible story-body occurrence requiring a positive identity decision was found for:
+
+- `ணொ`
+- `ணோ`
+- `றொ`
+- `னொ`
+
+They were nevertheless checked as part of the mandatory family sweep.
+
+## Stage-3 result
 
 - story pages glyph-audited: **5/5**
-- mandatory family set explicitly checked: **13/13**
-- character-identity corrections: **0**
-- unresolved source-visible glyph clusters: **0**
-- physical-source obscured spans carried forward: **1**
-- page status: **needs-review 5/5**
+- mandatory family set: **13/13 explicitly checked**
+- historical character-identity corrections: **0**
+- Stage-2 readings overturned on glyph grounds: **0**
+- unresolved historical-glyph clusters in source-visible text: **0**
+- global replacements: **0**
+- spelling/grammar modernization: **0**
+- ordinary punctuation/spacing changes during Stage 3: **0**
+- physical-source obscured spans carried forward: **1 — scan 23**
+- story-page status: **needs-review 5/5**
 - verified story pages: **0/5**
 
-Next: **Stage 4 final independent source check**. Stage 4 must preserve the scan-23 source-obscured exception and determine the final source-visible closure disposition without filling it from the locator/baseline.
+The zero-correction result is a **glyph-specific finding**, not a claim that the story is finally verified. Stage 4 remains mandatory.
+
+Next: **Stage 4 final independent source check** over scans 21–24 and 26, preserving scan 25 as excluded non-story matter and preserving the scan-23 physical-source exception unless genuinely new source evidence resolves it.
