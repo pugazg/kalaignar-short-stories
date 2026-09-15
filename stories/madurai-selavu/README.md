@@ -16,7 +16,7 @@ Canonical workspace activated from the 1960 **முரசொலி பொங்
 
 ## Canonical status
 
-**STAGE 2 COMPLETE FOR SOURCE-VISIBLE TEXT — 5/5; NEEDS REVIEW.**
+**STAGE 3 COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 5/5; NEEDS REVIEW.**
 
 The supplied `Madurai_selavu.md` remains locator/draft only and does not control canonical text.
 
@@ -24,20 +24,16 @@ The supplied `Madurai_selavu.md` remains locator/draft only and does not control
 
 - source identity / routing: **COMPLETE**
 - Stage 1 first pass: **COMPLETE 5/5**
-- Stage 2 visual fidelity: **COMPLETE 5/5**
-- Stage-2 source-proven corrections: **32**
-  - scan 21: **0**
-  - scan 22: **8**
-  - scan 23: **4**
-  - scan 24: **11**
-  - scan 26: **9**
-- Stage-1 baseline-derived reconstruction withdrawn: **1 scan-23 span**
+- Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
+- Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
+- mandatory historical-glyph family set: **13/13 checked**
+- unresolved source-visible glyph clusters: **0**
 - source-visible ordinary unresolved readings: **0**
-- physical-source obscured spans: **1**
+- physical-source obscured spans: **1 — scan 23 / printed 19**
+- scan-23 obscured span: **`[…]` / not reconstructed**
 - page status: **needs-review 5/5**
 - scan 25: **verified / excluded**
-- Stage 3 historical-glyph audit: **NOT STARTED — NEXT**
-- Stage 4 final source check: **NOT STARTED**
+- Stage 4 final source check: **NOT STARTED — NEXT**
 - verified story pages: **0/5**
 - English: **NOT STARTED**
 
@@ -45,12 +41,13 @@ Durable controls:
 
 - `STAGE1_BATCH_001.md`
 - `STAGE2_BATCH_001.md`
+- `HISTORICAL_GLYPH_GATE.md`
 - `POSSIBLE_ERRORS_FOR_REVIEW.md`
 - `sections/madurai-selavu.md`
 - `indexes/page-map.md`
 
 ## Exact next activity
 
-**Stage 3 historical Tamil glyph audit for the source-visible text on scans 21–24 and 26.**
+**Stage 4 final independent source check for scans 21–24 and 26.**
 
-Audit character identity from the printed 1960 glyphs rather than modern shape resemblance. Keep the scan-23 `[…]` physical-source exception unchanged. Do not promote pages to `verified`; Stage 4 remains mandatory.
+Re-read the complete source-visible story independently, reconfirm all Stage-2 corrections and Stage-3 glyph dispositions, preserve scan 25 as excluded non-story, and retain the scan-23 physical-source `[…]` exception without reconstruction.
