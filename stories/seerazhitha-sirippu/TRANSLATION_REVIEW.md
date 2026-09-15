@@ -122,3 +122,68 @@ Five English repairs were made:
 - unresolved E2 meaning issues: **0**
 
 Next: **E3 — terminology / names / cultural consistency review.**
+
+
+## E3 — terminology / names / cultural consistency
+
+**PASS — terminology, names and cultural-register review complete.**
+
+E3 reviewed all named people/titles, royal/parliamentary vocabulary, relationship terms, culturally marked expressions and repeated terminology against the frozen Tamil authority and the E2-closed English.
+
+### E3 terminology repair
+
+One English terminology repair was made:
+
+- `ceremonial guns` → **`salute shots`** for source `மரியாதை குண்டுகள்`
+  - this avoids implying that the guns themselves were the ceremonial object and more closely preserves the source's fired-honour-shot sense.
+
+### Names / titles — retained consistently
+
+- `கரோலின்` → **Caroline**
+- `வேல்ஸ் இளவரசர்` → **Prince of Wales**
+- `மூன்றாம் ஜார்ஜ்` → **King George III**
+- `டென்மான்` → **Denman**
+- `தியோடார் மஜோச்சி` → **Theodore Majocchi**
+- `பெர்காமி` → **Bergami**
+- `புரோகாம்` → **Brougham**
+- `லிவர்பூல்` → **Liverpool**
+- `தலைமை அமைச்சர்` → **Prime Minister**
+- `ராணி / அரசி` → **queen** according to sentence context
+- `மகுடாபிஷேகம்` → **coronation**
+
+No outside biographical or historical detail was introduced to “correct” or expand the story's naming.
+
+### Cultural / social terms
+
+- `பிரம்மச்சாரி` remains **brahmachari**.
+  - E3 retains the source's culturally marked term rather than flattening it to only “bachelor” or “celibate”; the immediately following mistress/lip-nectar sentence preserves the source's irony.
+- `ஆசைநாயகி` remains **mistress** after the E2 repair.
+- `அதர பானம்` remains **the nectar of the lips**, preserving the figurative register.
+- `மருமகள்` remains **daughter-in-law**.
+- `பிரபு` remains **nobleman**.
+- `நுழைவுச் சீட்டு / அனுமதிச்சீட்டு` remain **admission ticket** in the coronation exchange; no unsupported legal distinction was imported.
+- `அரசி பற்றிய உரிமைச் சட்டம்` remains **the law concerning the queen's rights**.
+- `அரசாங்கச்சட்டம்` remains **the government's bill** in the parliamentary context.
+- title remains **Seerazhitha Sirippu!** in transliteration; no interpretive English title was added at E3.
+
+### Consistency / boundary checks
+
+- Caroline / queen / princess references: **PASS**
+- Prince of Wales / king transition: **PASS**
+- Denman / Majocchi / Bergami / Brougham / Liverpool spellings: **PASS**
+- parliamentary and coronation terminology: **PASS**
+- social/relationship terminology: **PASS**
+- source-page markers: **PASS 2/2**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unsupported cultural/historical additions: **0**
+
+### E3 result
+
+- E3 English repairs: **1**
+- cumulative English repairs E2+E3: **6**
+- unresolved E3 terminology/name issues: **0**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+
+Next: **E4 — English quality / readability review**. Do not reopen Tamil/source unless genuinely new source evidence appears.
