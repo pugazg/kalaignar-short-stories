@@ -37,11 +37,13 @@ The supplied `seerazhitha_sirippu.md` was used only as a locator/draft. The cano
 - English E1 first translation: **COMPLETE**
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
-- cumulative English repairs E2+E3: **6**
+- English E4 quality / readability review: **COMPLETE / PASS — 11 repairs**
+- cumulative English repairs E2–E4: **17**
 - English source-page markers: **PASS 2/2**
-- Tamil/source reopened during E2/E3: **No**
-- Tamil changed during English E1–E3: **No**
-- later English gates: **E4–E5 NOT YET PERFORMED**
+- Tamil/source reopened during E2–E4: **No**
+- Tamil changed during English E1–E4: **No**
+- unresolved E4 issues: **0**
+- final English gate: **E5 NOT YET PERFORMED**
 
 Durable controls:
 
@@ -54,6 +56,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E4 — English quality / readability review.**
+**English E5 — final bilingual approval.**
 
-Improve English clarity, grammar and readability without changing E2 meaning or E3 terminology decisions. Preserve both source-page markers and keep Tamil/source frozen. Stop before E5 final bilingual approval.
+Perform the final Tamil/English approval pass, confirm both physical-page anchors, all E1–E4 repairs, terminology stability, omissions/duplications/unsupported additions = 0, and no post-E4 drift. Do not modify Tamil/source unless genuinely new source evidence appears.
