@@ -1,48 +1,46 @@
 # Possible errors / review queue — மதுரைச் செலவு
 
-## Current state
+## Final state
 
-**OPEN — Stage 3 historical-glyph audit complete; Stage 4 final source check is next.**
+**CLOSED FOR SOURCE-VISIBLE MATERIAL — 1 physical-source exception remains documented.**
 
-### Closed Stage-2 findings
+### Closed Stage 2
 
-- scans reviewed: **21, 22, 23, 24, 26 — 5/5**
+- pages reviewed: **5/5**
 - source-proven corrections: **32**
-- scan 22 `சுகந்தானே`: **CONFIRMED / unchanged**
-- scan 23 `இவள் என் வாழ்க்கைத் துணை நலம் கண்ணகி`: **source-visible / retained**
-- scan 24 omitted Madhavi-letter opening: **RESTORED**
-- scan 24→26 letter continuation around scan 25: **PASS**
+- scan 22 `சுகந்தானே`: **CONFIRMED**
+- scan 24 Madhavi-letter opening: **RESTORED**
+- scan 24→26 continuation: **PASS**
 - scan 25: **NON-STORY / EXCLUDED**
 
-### Closed Stage-3 historical-glyph findings
+### Closed Stage 3
 
 - pages glyph-audited: **5/5**
-- mandatory family set: **13/13 explicitly checked**
+- mandatory family set: **13/13**
 - character-identity corrections: **0**
 - unresolved source-visible glyph clusters: **0**
-- global replacements: **0**
-- spelling/grammar modernization: **0**
 
-Durable glyph record: `HISTORICAL_GLYPH_GATE.md`.
+### Closed Stage 4
 
-### Physical-source exception carried forward
+- final source-proven corrections: **2**
+- scan 24 visible continuation restored:
+  `[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
+- scan 26:
+  `நெடுஞ்செழியன் பாண்டியனின்` → **`நெடுஞ்செழியப் பாண்டியனின்`**
+- Stage-2 corrections rechecked: **32/32**
+- Stage-3 glyph dispositions rechecked: **PASS**
+- source-visible ordinary unresolved readings: **0**
 
-Scan **23 / printed 19** contains one prose continuation physically crossed by the coloured illustration.
+### Permanent physical-source exception
+
+Scan **23 / printed 19** contains one prose continuation physically crossed by the printed illustration.
 
 Visible lead-in:
 
 `“மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பு`
 
-Disposition:
+Canonical marker: **`[…]`**
 
-- canonical marker: **`[…]`**
-- supplied Markdown used to reconstruct it: **No**
-- alternate-source filling: **No**
-- unresolved physical-source obscured spans: **1**
-- historical-glyph inference inside obscured material: **No**
+The source-visible top of scan 24 is preserved separately, but the hidden middle wording has **not** been reconstructed from the supplied Markdown or an alternate source.
 
-### Stage-4 queue
-
-Perform a fresh end-to-end source check on scans 21–24 and 26. Reconfirm Stage-2 and Stage-3 decisions, page boundaries, the scan-25 exclusion, the scan-24→26 Madhavi-letter continuation, and the scan-23 physical obstruction. Do not invent wording for the obscured span.
-
-No story page is verified yet.
+This item is a documented source limitation, not an open transcription guess.
