@@ -34,7 +34,10 @@ The supplied `seerazhitha_sirippu.md` was used only as a locator/draft. The cano
 - scan 101→102 `வேதனைச் / சிலையானாள்`: **PASS**
 - closing ornament: **PASS**
 - Tamil/source layer: **CLOSED / PASS**
-- English: **NOT STARTED**
+- English E1 first translation: **COMPLETE**
+- English E1 page-marker coverage: **PASS 2/2**
+- Tamil changed during E1: **No**
+- later English gates: **E2–E5 NOT YET PERFORMED**
 
 Durable controls:
 
@@ -42,9 +45,11 @@ Durable controls:
 - `HISTORICAL_GLYPH_GATE.md`
 - `FINAL_SOURCE_CHECK.md`
 - `TAMIL_SOURCE_CLOSURE.md`
+- `TRANSLATION_REVIEW.md`
+- `translations/en/seerazhitha-sirippu.md`
 
 ## Exact next activity
 
-**English translation E1 for `சீரழித்த சிரிப்பு!` from the verified Tamil authority.**
+**English E2 — meaning-fidelity review against the frozen verified Tamil authority.**
 
-Do not reopen Tamil/source unless a genuinely new source-fidelity issue appears. Do not begin `மதுரைச் செலவு` in the same activity.
+Review the complete E1 sentence-by-sentence for meaning, relationships, rhetoric and omissions/unsupported additions. Do not modify Tamil/source. Stop before E3 terminology review.
