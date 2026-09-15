@@ -90,4 +90,26 @@ Representative checked occurrences:
 - unresolved historical-glyph clusters: **0**
 - status remains **`needs-review`** pending Stage 4.
 
+
+## Stage 3 historical-glyph audit
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
+
+Audit rule: **read historical character identity, not modern visual resemblance**.
+
+Representative checked occurrences:
+
+- ணை: `துணைவர் / இணைக்கின்ற / துணைவர்களுக்கு`
+- லை: `சோலையிலுள்ள / தலையில் / ஓலையைப்`
+- ளை: `களைப்பின்றிப் / குவளை / வாளை / மலர்களை`
+- றா: `ஏமாற்றுகிறார் / பேசுகிறார் / காட்டுகிறார்`
+- றோ: `பெற்றோர்க்குப்`
+- னா: `வேண்டுமானால் / செல்வோமானால் / கூறினான்`
+- னை: `தண்டனை / என்னை / மனைவிக்கும்`
+
+- mandatory 13-family audit applied page-wise;
+- no global replacement;
+- no spelling / grammar / punctuation modernization;
+- unresolved historical-glyph clusters: **0**;
+- status remains **`needs-review`** pending Stage 4 final independent source check.
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 20 -->
