@@ -53,4 +53,26 @@ Representative checked occurrences:
 - unresolved historical-glyph clusters: **0**
 - status remains **`needs-review`** pending Stage 4.
 
+
+## Stage 3 historical-glyph audit
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
+
+Audit rule: **read historical character identity, not modern visual resemblance**.
+
+Representative checked occurrences:
+
+- ணா: `பெண்ணாள்`
+- ணை: `எத்துணை`
+- லை: `காலைக்`
+- ளை: `காளையரை / குவளை`
+- றா: `ஓடுகிறான்`
+- னா: `குளிப்பாட்டினாள் / கதறினான்`
+- னை: `கோவலனை / ஆளனைக்`
+
+- mandatory 13-family audit applied page-wise;
+- no global replacement;
+- no spelling / grammar / punctuation modernization;
+- unresolved historical-glyph clusters: **0**;
+- status remains **`needs-review`** pending Stage 4 final independent source check.
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 17 -->
