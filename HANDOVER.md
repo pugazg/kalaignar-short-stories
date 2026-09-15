@@ -723,20 +723,35 @@ Current state:
   - Stage-2 source-proven corrections: **7**
   - Stage 3 historical Tamil glyph audit: **COMPLETE / PASS 5/5**
   - mandatory glyph families audited: **13/13**
-  - visibly represented families: **8/13**
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
+  - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
+  - Stage-4 source-proven corrections: **2**
   - page records: **5/5**
-  - page status: **needs-review 5/5**
-  - unresolved ordinary source spans: **0**
+  - page status: **verified 5/5**
+  - unresolved source-text issues: **0**
   - guessed readings: **0**
-  - scan 15→16 boundary: **PASS — `பறி` / `கொடுத்துப்`**
-  - scan 16→17 boundary: **PASS — `கொடுமைக்` / `கொடுத்து`**
-  - Stage 4: **NEXT**
+  - scan 15→16 boundary: **PASS / reconfirmed — `பறி` / `கொடுத்துப்`**
+  - scan 16→17 boundary: **PASS / reconfirmed — `கொடுமைக்` / `கொடுத்து`**
   - durable Stage-1 record: `STAGE1_BATCH_003.md`
   - durable Stage-2 record: `STAGE2_BATCH_003.md`
   - durable Stage-3 record: `STAGE3_BATCH_003.md`
-- later retained-work scans 20–24 / witness comparison: **NOT STARTED**
+  - durable Stage-4 record: `STAGE4_BATCH_003.md`
+  - Batch 3 closure: **CLOSED / VERIFIED 5/5**
+- Batch 4 scans **20–24 / printed 16, 16-A–16-D**:
+  - Stage 1 first-pass transcription: **COMPLETE 5/5**
+  - page records: **5/5**
+  - page status: **needs-review 5/5**
+  - explicit unreadable inline spans: **0**
+  - guessed readings: **0**
+  - scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
+  - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
+  - scan 24: **work-ending page**
+  - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
+  - Stage 2 visual text-fidelity audit: **NEXT**
+  - Stage 3: **NOT STARTED**
+  - Stage 4: **NOT STARTED**
+  - durable Stage-1 record: `STAGE1_BATCH_004.md`
 
 Durable intake files:
 
@@ -880,13 +895,32 @@ Stage-4 disposition:
 - unresolved issues: **0**
 - guessed readings: **0**
 
-### Final prose/discourse batch
+### Batch 4 — final prose/discourse batch
 
-Scans **20–24 / printed 16, 16-A–16-D** are **NOT STARTED**.
+Scans **20–24 / printed 16, 16-A–16-D**:
 
-**NEXT: Stage 1 first-pass transcription — scans 20–24 / printed 16, 16-A–16-D.**
+- Stage 1 first-pass transcription — **COMPLETE 5/5**
+- page records — **5/5**
+- page status — **needs-review 5/5**
+- explicit unreadable inline spans — **0**
+- guessed readings — **0**
+- scan 19→20 — **complete paragraph boundary / no split**
+- scan 20→21 — **complete paragraph boundary / no split**
+- scan 21→22 — **PASS — `கொண்டிட` / `வேண்டாம்.`**
+- scan 22→23 — **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
+- scan 23→24 — **complete paragraph boundary / no split**
+- scan 24 — **work-ending page**
+- scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1 and is excluded**
+- durable Stage-1 record — `STAGE1_BATCH_004.md`
+- Stage 2 visual text-fidelity audit — **NEXT**
+- Stage 3 — **NOT STARTED**
+- Stage 4 — **NOT STARTED**
 
-Use only the controlling source pixels. Transcribe all five pages once, preserve source wording/punctuation/spacing and physical boundaries, mark genuine uncertainty rather than guessing, create page records as `needs-review`, synchronize controls, commit Stage 1, and stop before Stage 2.
+Overall retained-work page coverage is now **20/20 page records — 15 verified + 5 needs-review**.
+
+**NEXT: Batch 4 Stage 2 visual text-fidelity audit — scans 20–24 / printed 16, 16-A–16-D.**
+
+Use only the controlling scan pixels. Compare all five committed Stage-1 page records line by line / phrase by phrase, adjudicate the durable Stage-1 review queue and physical boundaries, keep all five pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3 or `தெருக்கூத்து`.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

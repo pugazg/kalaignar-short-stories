@@ -116,8 +116,33 @@ Stage-4 additional corrections:
 - scan 15: `தமிழனின் சரித்திரத்தை` → `தமிழரின் சரித்திரத்தை`
 - scan 16: `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`
 
+## Batch 4 current state
+
+Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
+
+- Stage 1 first-pass transcription: **COMPLETE — 5/5**
+- page records: **5/5**
+- page status: **needs-review 5/5**
+- explicit unreadable inline spans: **0**
+- guessed readings: **0**
+- scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
+- scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
+- scan 24: **work-ending page**
+- scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
+- Stage 2 visual text-fidelity audit: **NEXT**
+- Stage 3 historical-glyph audit: **NOT STARTED**
+- Stage 4 final independent check: **NOT STARTED**
+- durable Stage-1 record: [`STAGE1_BATCH_004.md`](STAGE1_BATCH_004.md)
+
+Overall page state for this prose/discourse work:
+
+- page records: **20/20**
+- verified: **15/20**
+- needs-review: **5/20**
+- blocked: **0/20**
+
 ## Exact next activity
 
-Start **scans 20–24 / printed 16, 16-A–16-D — Stage 1 first-pass transcription**.
+Run **Batch 4 Stage 2 visual text-fidelity audit** for scans **20–24 / printed 16, 16-A–16-D**.
 
-This is the final five-scan batch of the prose/discourse work. Use only the controlling scan pixels, create all five page records as `needs-review`, preserve uncertain readings explicitly rather than guessing, synchronize controls, commit Stage 1, and stop before Stage 2.
+Compare all five committed Stage-1 page records directly against the controlling scan line by line / phrase by phrase, adjudicate the Stage-1 review queue and all physical boundaries, keep every page `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3. Do not begin `தெருக்கூத்து` in the same activity.

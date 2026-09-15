@@ -17,11 +17,11 @@
 | 17 | 13 | body | **verified — Batch 3 Stage 4 PASS** |
 | 18 | 14 | body | **verified — Batch 3 Stage 4 PASS** |
 | 19 | 15 | body | **verified — Batch 3 Stage 4 PASS** |
-| 20 | 16 | body | not-started |
-| 21 | 16-A | body | not-started |
-| 22 | 16-B | body | not-started |
-| 23 | 16-C | body | not-started |
-| 24 | 16-D | work-ending | not-started |
+| 20 | 16 | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
+| 21 | 16-A | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
+| 22 | 16-B | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
+| 23 | 16-C | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
+| 24 | 16-D | work-ending | **needs-review — Batch 4 Stage 1 COMPLETE** |
 
 ## Batch 1
 
@@ -192,6 +192,29 @@ Scans **15–19 / printed 11–15**
 - guessed readings: **0**
 - Batch 3: **CLOSED / VERIFIED 5/5**
 
+## Batch 4
+
+Scans **20–24 / printed 16, 16-A–16-D**
+
+- Stage 1: **COMPLETE / 5 pages**
+- page records: **5/5**
+- needs-review: **5**
+- verified: **0**
+- blocked: **0**
+- explicit unreadable inline spans: **0**
+- guessed readings: **0**
+- scan 19→20: **complete paragraph boundary / no split**
+- scan 20→21: **complete paragraph boundary / no split**
+- scan 21→22: **PASS — `கொண்டிட` / `வேண்டாம்.`**
+- scan 22→23: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
+- scan 23→24: **complete paragraph boundary / no split**
+- scan 24: **work-ending page**
+- scan 25: **boundary witness only — opens `தெருக்கூத்து` / காட்சி 1**
+- durable Stage-1 audit: `STAGE1_BATCH_004.md`
+- Stage 2: **NEXT**
+- Stage 3: **NOT STARTED**
+- Stage 4: **NOT STARTED**
+
 ## Exact next activity
 
-Scans **20–24 / printed 16, 16-A–16-D — Stage 1 first-pass transcription**. Do not begin Stage 2 in the same activity.
+Batch 4 Stage 2 visual text-fidelity audit — scans **20–24 / printed 16, 16-A–16-D**. Do not begin Stage 3 or `தெருக்கூத்து` in the same activity.

@@ -134,16 +134,29 @@ No new canonical story folder was created in this intake-only iteration.
   - unresolved source-text issues: **0**
   - guessed readings: **0**
   - Batch 3 closure: **CLOSED / VERIFIED 5/5**
-- final retained-work batch scans **20–24 / printed 16, 16-A–16-D**: **NOT STARTED**
+- final retained-work batch scans **20–24 / printed 16, 16-A–16-D**:
+  - Stage 1 first-pass: **COMPLETE 5/5**
+  - page records: **5/5**
+  - page status: **needs-review 5/5**
+  - explicit unreadable inline spans: **0**
+  - guessed readings: **0**
+  - scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
+  - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
+  - scan 24: **work-ending page**
+  - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
+  - Stage 2 visual text-fidelity: **NEXT**
+  - Stage 3: **NOT STARTED**
+  - Stage 4: **NOT STARTED**
+  - durable Stage-1 record: `STAGE1_BATCH_004.md`
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **final batch Stage 1 first-pass transcription**, scans **20–24 / printed 16, 16-A–16-D**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 4 Stage 2 visual text-fidelity audit**, scans **20–24 / printed 16, 16-A–16-D**.
 
-Batches 1–3, scans **5–19**, are now **CLOSED / VERIFIED 15/15**.
+Batches 1–3, scans **5–19**, remain **CLOSED / VERIFIED 15/15**.
 
-Batch 3 Stage 4 passed 5/5 with two additional source-proven corrections: scan 15 `தமிழனின்` → `தமிழரின்`, and scan 16 `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`. Unresolved issues and guessed readings are 0.
+Batch 4 Stage 1 is durably **COMPLETE 5/5**. All five final prose/discourse pages now have page records and remain `needs-review`; explicit unreadable inline spans and guessed readings are 0. Scan 24 is the work-ending page, while scan 25 visibly opens `தெருக்கூத்து` / காட்சி 1 and is excluded.
 
-Start scans 20–24 Stage 1 only. These five scans close the prose/discourse source unit physically; set new pages to `needs-review`, synchronize controls, commit, and stop before Stage 2.
+Run Stage 2 only, synchronize controls, commit, and stop before Stage 3 or `தெருக்கூத்து`.
