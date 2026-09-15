@@ -847,10 +847,20 @@ Durable controls:
 ### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
 
 - canonical: `stories/madurai-selavu/`
-- story scans: **21–24 + 26**
-- scan 25: **verified non-story interleaf**
+- story scans: **21–24 + 26 / printed 17–20 + 22**
+- scan 25 / printed 21: **verified non-story interleaf / excluded**
+- scan 27: opens separate `பதவிப் “பிரமாணம்!”`
 - source intake: **COMPLETE**
-- Stage 1: **NOT STARTED**
+- Stage 1 first-pass transcription: **COMPLETE 5/5**
+- Stage-1 page status: **needs-review 5/5**
+- Stage-1 assembly: `stories/madurai-selavu/sections/madurai-selavu.md`
+- Stage-1 durable record: `stories/madurai-selavu/STAGE1_BATCH_001.md`
+- focused review queue: `stories/madurai-selavu/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- Stage 2 visual fidelity: **NOT STARTED — NEXT**
+- Stage 3 historical glyph: **NOT STARTED**
+- Stage 4 final source check: **NOT STARTED**
+- verified story pages: **0/5**
+- English: **NOT STARTED**
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -861,17 +871,24 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — Stage 1 first-pass transcription, story scans 21–24 and 26.**
+**மதுரைச் செலவு — Stage 2 visual text-fidelity review, scans 21–24 and 26.**
 
 1. fetch live `main`;
-2. active canonical: `stories/madurai-selavu/`;
-3. controlling source: `TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf`;
-4. source routing is already closed: scans **21–24** story text, scan **25 / printed 21** illustrated non-story interleaf, scan **26** story continuation/ending, scan **27** opens separate `பதவிப் “பிரமாணம்!”`;
-5. use direct source pixels as authority; `Madurai_selavu.md` is locator/baseline only and must not control text;
-6. Stage 1 transcribe only scans **21–24 and 26**;
-7. preserve scan 25 as verified non-story and exclude it from the Tamil story assembly;
-8. keep Stage-1 story pages `needs-review`; do not perform Stage 2 in the same activity unless explicitly requested;
-9. synchronize README / page map / durable controls and commit;
-10. do not reopen `சீரழித்த சிரிப்பு!`.
+2. use direct source pixels as controlling authority;
+3. compare every Stage-1 word, punctuation mark, quote boundary, paragraph break and source-visible spacing against scans **21, 22, 23, 24 and 26**;
+4. preserve scan **25 / printed 21** as verified non-story / excluded;
+5. explicitly resolve the Stage-1 focused queue:
+   - scan 22 `சுகந்தானே`;
+   - scan 23 `இவள் என் வாழ்க்கைத் துணை நலம் கண்ணகி`;
+   - scan 23 decorated/overprinted prose transition;
+   - scan 24 quoted `ஆறு ஐங்காதம்...` passage and dense flora/fauna vocabulary;
+   - scan 26 Madhavi-letter opening and final literary-list / Madurai-breeze vocabulary;
+6. apply only source-proven corrections;
+7. keep all five story pages `needs-review` after Stage 2;
+8. do **not** merge Stage 3 historical-glyph work into Stage 2; Stage 3 must remain a separate explicit gate;
+9. synchronize assembly / README / page map / review queue / HANDOVER / NEXT prompt and commit;
+10. stop before Stage 3 unless explicitly instructed.
+
+Do not reopen `சீரழித்த சிரிப்பு!`.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
