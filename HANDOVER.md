@@ -699,7 +699,13 @@ Corrected source span: **scans 25–36 / printed 17–28**.
 - short stories: **4/4 inventoried**
 - existing-canonical witness routes: **4**
 - new-canonical candidates: **0**
-- `சந்தனக்கிண்ணம்`: existing canonical `stories/santhana-kinnam/`; same-work identity directly confirmed
+- `சந்தனக்கிண்ணம்`: existing canonical `stories/santhana-kinnam/`; 1953 witness **CLOSED / PASS 15/15**
+  - witness workspace: `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`
+  - material lexical/syntactic variant groups: **19**
+  - canonical confirmations: **3**
+  - canonical Tamil / English changed: **No / No**
+  - unresolved witness readings: **0**
+  - highest-value final-edition difference: 1953 explicit `திராவிட நாடு கிடைத்ததும். அந்த விடுதலைப் போரின் வெற்றி விழாவிலே` ↔ 1977 `கிடைத்ததும் மீண்டும் இலட்சியப் போரின் வெற்றி விழாவிலே`
 - `பெண்கள்`: user-confirmed existing canonical; exact alias/path to pin before comparison
 - short-story handling mode: **cross-witness comparison only**
 
@@ -754,30 +760,36 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1953 `நாடும் நாடகமும்` routing has been corrected.
+1953 `நாடும் நாடகமும்` current state:
 
 - `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **CLOSED / VERIFIED 20/20**
 - `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
-- `சந்தனக்கிண்ணம்` — **EXISTING CANONICAL CROSS-WITNESS**
+- `சந்தனக்கிண்ணம்` — **CROSS-WITNESS CLOSED / PASS 15/15**
   - canonical: `stories/santhana-kinnam/`
-  - 1953 witness: scans **37–51 / printed 29–43**
-  - witness workspace: `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`
-  - same-work identity: **CONFIRMED**
-- `ஆலமரத்துப் புறாக்கள்` — existing canonical cross-witness
-- `பெண்கள்` — user-confirmed existing canonical cross-witness; exact canonical alias/path to pin before processing
+  - witness: scans **37–51 / printed 29–43**
+  - material variant groups: **19**
+  - canonical confirmations: **3**
+  - canonical Tamil / English changed: **No / No**
+  - unresolved: **0**
+- `ஆலமரத்துப் புறாக்கள்` — **NEXT**
+  - canonical: `stories/aalamarathup-puraakkal/`
+  - complete 1953 witness span: scans **52–68 / printed 44–60**
+- `பெண்கள்` — existing-canonical cross-witness; exact canonical alias/path still to pin before its turn
 - `இரகசியம்!` — existing canonical cross-witness
 
-The mistakenly created duplicate `stories/santhanak-kinnam/` is removed in the corrective commit. Do not recreate it.
+User batching rule for current witness work: **15 physical pages per iteration**.
 
-**NEXT:** compare 1953 `சந்தனக்கிண்ணம்` scans **37–41 / printed 29–33** against canonical 1977 `stories/santhana-kinnam/`.
+**NEXT: `ஆலமரத்துப் புறாக்கள்` comparison-only cross-witness review — scans 52–66 / printed 44–58.**
 
-Comparison-only rules:
-
-1. 1953 scan pixels control the witness reading;
-2. canonical 1977 remains controlling for canonical Tamil;
-3. record edition wording/spelling/punctuation/layout variants;
-4. do not import 1953 wording automatically;
-5. if a witness variant suggests a canonical error, reopen the exact 1977 controlling scan before any canonical repair;
-6. do not create canonical Stage-1 page records for the witness.
+1. fetch live `main`;
+2. read canonical `stories/aalamarathup-puraakkal/` controls and assembled Tamil;
+3. use only the 1953 `நாடும் நாடகமும்` scan pixels as witness authority;
+4. compare scans **52–66** end-to-end against canonical text;
+5. record wording, morphology, spelling, punctuation, spacing, layout, historical-glyph and narrative variants;
+6. do not import witness wording into canonical Tamil automatically;
+7. if witness evidence suggests a canonical error, reopen the exact canonical controlling scan before any repair;
+8. create/update a witness workspace under `stories/aalamarathup-puraakkal/witnesses/1953-naadum-naadagamum/`;
+9. synchronize collection controls / handover and commit;
+10. stop after scan **66**. Leave scans **67–68** for the next iteration.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.

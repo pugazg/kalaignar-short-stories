@@ -67,13 +67,17 @@ The 1953 first-edition publication `நாடும் நாடகமும்`
 - forward boundary: scan **52** opens `ஆலமரத்துப் புறாக்கள்`
 - canonical target remains this workspace: **`stories/santhana-kinnam/`**
 - canonical controlling edition remains: **1977 first-edition anthology**
-- witness comparison state: **NOT STARTED**
+- witness comparison state: **CLOSED / PASS — 15/15**
 
 Same-work identity is directly confirmed: the 1953 witness and the canonical 1977 text share the same opening, the same `திராவிட உட்கல வங்க` / `திராவிடர் வரலாறு` passage, the same Kamala–Vijaya wedding setting, and the same `சந்தனக் கிண்ணம்` gift sequence.
 
 The 1953 wording must be handled as a **comparison-only cross-witness**. It must not create a second canonical folder, and it must not overwrite canonical 1977 Tamil without reopening the controlling 1977 scan for any proposed canonical repair.
 
 Witness workspace: `witnesses/1953-naadum-naadagamum/`.
+
+Durable comparison: [`witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`](witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md).
+
+1953 witness disposition: **CLOSED / PASS — canonical Tamil/English unchanged**.
 
 ## Next anthology re-audit
 

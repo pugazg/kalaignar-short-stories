@@ -123,14 +123,25 @@ Direct Stage-1 processing shows:
   - durable Stage-2 record: `works/therukoothu/STAGE2_BATCH_001.md`
   - durable Stage-3 record: `works/therukoothu/STAGE3_BATCH_001.md`
   - durable Stage-4 record: `works/therukoothu/STAGE4_BATCH_001.md`
-- `சந்தனக்கிண்ணம்`: **EXISTING CANONICAL CROSS-WITNESS / comparison NEXT — scans 37–41**
-- remaining witness comparison: **NOT STARTED**
+- `சந்தனக்கிண்ணம்`: **EXISTING CANONICAL CROSS-WITNESS — CLOSED / PASS 15/15**
+  - material lexical/syntactic variant groups: **19**
+  - canonical confirmations: **3**
+  - canonical Tamil / English changed: **No / No**
+  - unresolved witness readings: **0**
+  - durable comparison: `stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/VARIANT_COMPARISON.md`
+- remaining short-story witnesses: **3**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-The duplicate `stories/santhanak-kinnam/` activation is **RETRACTED / REMOVED**. The correct canonical workspace is **`stories/santhana-kinnam/`**.
+The 1953 `சந்தனக்கிண்ணம்` witness is **CLOSED / PASS — 15/15**. Canonical 1977 Tamil and English remain unchanged.
 
-Next: compare the 1953 `சந்தனக்கிண்ணம்` witness scans **37–41 / printed 29–33** against the canonical 1977 text. Record edition variants only; do not create a second canonical transcription and do not import witness readings without direct canonical-source recheck.
+Highest-value edition evidence includes:
 
-The remaining 1953 short stories are also to be treated as **existing-canonical cross-witnesses**, not new-canonical candidates.
+- 1953 `மதுவும் சாராவும் ... மானமற்ற ஆரியத்தின் வம்சமா` ↔ 1977 `மதுவும் சுராவும் ... மானமற்ற வம்சமா`;
+- 1953-only `வீழ்ந்தாள் கன்னி`;
+- 1953 final `திராவிட நாடு கிடைத்ததும். அந்த விடுதலைப் போரின் வெற்றி விழாவிலே` ↔ the 1977 rewritten `கிடைத்ததும் மீண்டும் இலட்சியப் போரின் வெற்றி விழாவிலே`.
+
+Next collection activity: **`ஆலமரத்துப் புறாக்கள்` cross-witness scans 52–66 / printed 44–58** against canonical `stories/aalamarathup-puraakkal/`.
+
+The 1953 story itself spans scans **52–68**. The user's batch size is now **15 physical pages per iteration**, so process only scans **52–66** next and leave **67–68** for the following iteration.

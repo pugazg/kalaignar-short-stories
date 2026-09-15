@@ -43,16 +43,30 @@ Therefore the 1953 unit is **not a new canonical story**.
 
 - routing correction: **COMPLETE**
 - duplicate canonical folder `stories/santhanak-kinnam/`: **REMOVED**
-- witness comparison: **NOT STARTED**
-- witness scans compared: **0/15**
-- material variants recorded: **0**
+- witness comparison: **CLOSED / PASS**
+- witness scans compared: **15/15**
+- material lexical/syntactic variant groups recorded: **19**
+- canonical confirmations: **3**
 - canonical recheck candidates: **0**
 - unresolved witness readings: **0**
+- canonical Tamil changed: **No**
+- canonical English changed: **No**
+- durable comparison: [`VARIANT_COMPARISON.md`](VARIANT_COMPARISON.md)
+
+## Highest-value findings
+
+- 1953 explicitly has `மதுவும் சாராவும் ... மானமற்ற ஆரியத்தின் வம்சமா`, while 1977 has `மதுவும் சுராவும் ... மானமற்ற வம்சமா`.
+- 1953 retains `வீரர் உலாப் பாடினர், வீழ்ந்தாள் கன்னி.`; 1977 omits `வீழ்ந்தாள் கன்னி`.
+- 1953 ending explicitly says `திராவிட நாடு கிடைத்ததும். அந்த விடுதலைப் போரின் வெற்றி விழாவிலே`; 1977 rewrites this as `கிடைத்ததும் மீண்டும் இலட்சியப் போரின் வெற்றி விழாவிலே`.
+- 1953 independently supports canonical `திராவிடர் வரலாறு`, repaired `கிள்ளச்`, and final `ன்` in `வந்து விட்டான்`.
+- 1953 `தமிழ்த்தாய்கள்` vs 1977 source-proven `தமிழ்த்தாய்களை` is retained as a true edition difference.
 
 ## Exact next activity
 
-Begin comparison-only witness review with **scans 37–41 / printed 29–33**.
+This 1953 `சந்தனக்கிண்ணம்` witness is **CLOSED / PASS — 15/15**.
 
-Compare the 1953 witness directly against the canonical 1977 text. Record wording, morphology, spelling, punctuation, spacing, paragraph/layout, and substantive narrative variants. Do **not** import witness wording into canonical Tamil automatically. If the 1953 witness exposes a possible canonical error, reopen the exact 1977 controlling scan before any canonical repair.
+Next collection witness: **`ஆலமரத்துப் புறாக்கள்` — scans 52–68 / printed 44–60**.
 
-Do not create Stage-1 canonical page records for this witness.
+Per the user's current batch size, process **15 physical scans in the next iteration: scans 52–66 / printed 44–58**, comparison-only against canonical `stories/aalamarathup-puraakkal/`. Leave scans 67–68 for the following iteration.
+
+Do not reopen canonical `சந்தனக்கிண்ணம்` unless genuinely new direct controlling-source evidence appears.

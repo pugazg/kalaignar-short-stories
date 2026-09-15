@@ -78,9 +78,15 @@ User-expanded Stage-1 batch: scans **25–36 / printed 17–28**.
 - same-work identity: **CONFIRMED**
 - handling mode: **comparison-only cross-witness**
 - witness workspace: **`stories/santhana-kinnam/witnesses/1953-naadum-naadagamum/`**
-- witness comparison: **NOT STARTED**
+- witness comparison: **CLOSED / PASS 15/15**
+- material variant groups: **19**
+- canonical confirmations: **3**
+- canonical Tamil / English changed: **No / No**
+- unresolved witness readings: **0**
 - duplicate `stories/santhanak-kinnam/`: **REMOVED**
 
 ## Exact next activity
 
-Compare witness scans **37–41 / printed 29–33** against the canonical 1977 `சந்தனக்கிண்ணம்`. Record edition variants and canonical-recheck candidates only. Do not create canonical Stage-1 records.
+`சந்தனக்கிண்ணம்` 1953 witness is **CLOSED / PASS 15/15**.
+
+Next: `ஆலமரத்துப் புறாக்கள்` witness scans **52–66 / printed 44–58** — the first 15 pages of its 17-page witness span — compared against canonical `stories/aalamarathup-puraakkal/`. Stop before scans **67–68**.

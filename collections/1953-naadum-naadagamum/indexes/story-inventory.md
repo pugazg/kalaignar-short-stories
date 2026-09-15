@@ -21,7 +21,7 @@ Direct `தெருக்கூத்து` processing corrected the earlier p
 
 | # | TOC title | Story-opening heading | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | **`சந்தனக்கிண்ணம்`** | **29–43** | **37–51** | existing canonical `stories/santhana-kinnam/` — earlier witness | **CROSS-WITNESS / NOT STARTED** |
+| 1 | — | **`சந்தனக்கிண்ணம்`** | **29–43** | **37–51** | existing canonical `stories/santhana-kinnam/` — earlier witness | **CROSS-WITNESS CLOSED / PASS 15/15** |
 | 2 | — | `ஆலமரத்துப் புறாக்கள்` | 44–60 | 52–68 | existing canonical `stories/aalamarathup-puraakkal/` — earlier witness | **NOT STARTED** |
 | 3 | — | `பெண்கள்` | 61–67 | 69–75 | existing canonical in repository — title/alias route to pin before comparison | **CROSS-WITNESS / NOT STARTED** |
 | 4 | — | `இரகசியம்!` | 68–72 | 76–80 | existing canonical `stories/iragasiyam/` — earlier witness | **NOT STARTED** |
@@ -66,11 +66,14 @@ Existing canonical route: `stories/iragasiyam/`.
 - `தெருக்கூத்து` Stage 2: **COMPLETE / PASS 12/12 — 11 corrections**
 - `தெருக்கூத்து` Stage 3: **COMPLETE / PASS 12/12 — 13/13 families, 0 character-identity corrections**
 - `தெருக்கூத்து` Stage 4: **COMPLETE / PASS 12/12 — 1 additional source-supported correction; CLOSED / VERIFIED**
+- `சந்தனக்கிண்ணம்` 1953 witness: **CLOSED / PASS 15/15 — 19 material variant groups; 3 canonical confirmations; 0 canonical changes**
 
 ## Exact next activity
 
-The mistaken duplicate canonical activation for `சந்தனக்கிண்ணம்` is superseded.
+1953 `சந்தனக்கிண்ணம்` cross-witness is **CLOSED / PASS — 15/15**.
 
-Next: **1953 `சந்தனக்கிண்ணம்` cross-witness comparison — scans 37–41 / printed 29–33** against canonical `stories/santhana-kinnam/`.
+Next: **`ஆலமரத்துப் புறாக்கள்` cross-witness — scans 52–66 / printed 44–58** against canonical `stories/aalamarathup-puraakkal/`.
 
-Record edition variants only. Do not create canonical Stage-1 page records and do not alter canonical Tamil from witness evidence alone. Any possible canonical error must be rechecked against the exact 1977 controlling scan first.
+The source story spans scans **52–68 / printed 44–60**. Per the user's current batching rule, process **15 physical scans per iteration**, so this next iteration stops after scan **66**. Leave scans **67–68** for the following iteration.
+
+Comparison-only rules remain in force: record edition variants; do not import witness wording into canonical Tamil without direct canonical-source recheck.
