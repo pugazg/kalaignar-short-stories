@@ -14,7 +14,7 @@ Canonical workspace activated from the 1966 **காஞ்சி பொங்க
 
 ## Canonical status
 
-**TAMIL / SOURCE CLOSED — VERIFIED 2/2.**
+**TAMIL / SOURCE + ENGLISH CLOSED / PASS.**
 
 The supplied `seerazhitha_sirippu.md` was used only as a locator/draft. The canonical text was built from direct source pixels and passed the repository's four-stage workflow.
 
@@ -38,12 +38,15 @@ The supplied `seerazhitha_sirippu.md` was used only as a locator/draft. The cano
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
 - English E4 quality / readability review: **COMPLETE / PASS — 11 repairs**
-- cumulative English repairs E2–E4: **17**
+- English E5 final bilingual approval: **COMPLETE / PASS — 2 final editorial changes**
+- cumulative English changes after E1: **19**
+- final English title: **The Laugh That Ruined Her!**
 - English source-page markers: **PASS 2/2**
-- Tamil/source reopened during E2–E4: **No**
-- Tamil changed during English E1–E4: **No**
-- unresolved E4 issues: **0**
-- final English gate: **E5 NOT YET PERFORMED**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during English E1–E5: **No**
+- Tamil changed during English E1–E5: **No**
+- unresolved English issues: **0**
+- English layer: **PASS / CLOSED**
 
 Durable controls:
 
@@ -56,6 +59,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E5 — final bilingual approval.**
+**NONE for `சீரழித்த சிரிப்பு!` — Tamil/source and English are CLOSED / PASS.**
 
-Perform the final Tamil/English approval pass, confirm both physical-page anchors, all E1–E4 repairs, terminology stability, omissions/duplications/unsupported additions = 0, and no post-E4 drift. Do not modify Tamil/source unless genuinely new source evidence appears.
+The next repository activity is `மதுரைச் செலவு` Stage 1 first-pass transcription. Do not reopen this story without genuinely new source evidence.
