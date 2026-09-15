@@ -47,8 +47,10 @@ User-expanded Batch 1 = scans **25–36 / printed 17–28**.
 - guessed readings: **0**
 - scan 36 work ending: **PASS — `[தெருக்கூத்தும் முடிகிறது]`**
 - scan 37 boundary witness: **PASS — opens `சந்தனக்கிண்ணம்`**
-- Stage 2 visual text-fidelity audit: **NEXT**
-- Stage 3: **NOT STARTED**
+- Stage 2 visual text-fidelity audit: **COMPLETE / PASS — 12/12**
+- Stage-2 source-supported corrections: **11**
+- Stage-2 unresolved ordinary source-text issues: **0**
+- Stage 3: **NEXT**
 - Stage 4: **NOT STARTED**
 
 Durable page map: [`indexes/page-map.md`](indexes/page-map.md)
@@ -69,15 +71,27 @@ Representative scan-supported repairs include:
 - scan 31 — `மூவேந்தரம்` → `மூவேந்தரும்`; `ஆல் நமஸ்காரம்` → `ஆனால் நமஸ்காரம்`
 - scan 32 — `பார்வசியுட` → `பார்வதியுட`; source reads `பரலோகத்தின் பாதைகள்`
 - scan 33 — `கன்னியற்` → `கன்னியர்`; restored omitted `லக்ஷ்மி`
-- scan 35 — source joined form `தூதன்தான்`
+- scan 35 — Stage-1 `தூதன்தான்` was superseded at Stage 2 by source `தூதன் தான்`
 - scan 36 — `ஊர்வலப்` → `ஊர்வலம்`; `புறப்படட்டும்` → `புறப்படட்டுமே`
 
 This is a Stage-1 baseline comparison note, not an exhaustive Stage-2 correction count.
 
+## Stage 2 closure
+
+Stage 2 is **COMPLETE / PASS — 12/12 pages**.
+
+- corrections: **11**
+- corrected scans: **27, 31, 32, 34, 35, 36**
+- zero-correction scans: **25, 26, 28, 29, 30, 33**
+- unresolved ordinary source-text issues: **0**
+- guessed readings: **0**
+- page status remains: **needs-review 12/12**
+- durable record: [`STAGE2_BATCH_001.md`](STAGE2_BATCH_001.md)
+
 ## Exact next activity
 
-Run **Stage 2 visual text-fidelity audit** for the full user-expanded batch, scans **25–36 / printed 17–28**.
+Run **Stage 3 historical Tamil glyph audit** for scans **25–36 / printed 17–28**.
 
-Compare all 12 committed page records directly against the controlling scan line by line / phrase by phrase, verify all dialogue/stage/song layout and page joins, correct only source-supported mismatches, keep all pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
+Audit all 13 mandatory families (`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`) directly against the scans, record family disposition and any source-supported character-identity corrections, keep pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
 
 Do not begin `சந்தனக்கிண்ணம்` in the same activity.

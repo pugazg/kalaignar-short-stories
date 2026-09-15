@@ -96,24 +96,30 @@ Direct Stage-1 processing shows:
 - retained work 2 `தெருக்கூத்து`:
   - corrected source span: **25–36 / printed 17–28**
   - user-expanded Stage 1: **COMPLETE 12/12**
+  - Stage 2 visual text-fidelity audit: **COMPLETE / PASS 12/12**
+  - Stage-2 source-supported corrections: **11**
+  - Stage-2 corrected scans: **27, 31, 32, 34, 35, 36**
+  - Stage-2 unresolved ordinary source-text issues: **0**
   - baseline: `therukoothu.md` used as non-authoritative draft
   - direct scan confirmation: **12/12**
   - page records: **12/12**
   - page status: **needs-review 12/12**
-  - first-pass unresolved source spans: **0**
   - guessed readings: **0**
   - work-ending boundary: **PASS — scan 36**
   - scan 37 witness: **PASS — `சந்தனக்கிண்ணம்`**
-  - Stage 2: **NEXT**
+  - Stage 3 historical-glyph audit: **NEXT**
   - durable Stage-1 record: `works/therukoothu/STAGE1_BATCH_001.md`
+  - durable Stage-2 record: `works/therukoothu/STAGE2_BATCH_001.md`
 - `சந்தனக்கிண்ணம்`: **NOT STARTED**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Run **`தெருக்கூத்து` Stage 2 visual text-fidelity audit** for scans **25–36 / printed 17–28**.
+Run **`தெருக்கூத்து` Stage 3 historical Tamil glyph audit** for scans **25–36 / printed 17–28**.
 
-Use the committed Stage-1 page records as the working text and the PDF scan pixels as controlling authority. Compare all 12 pages line by line / phrase by phrase, verify songs, dialogue, stage directions, scene headings, punctuation, spacing and physical joins, correct only source-supported mismatches, keep all pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
+Stage 2 is now **COMPLETE / PASS 12/12** with **11** source-supported ordinary-fidelity corrections and **0** unresolved ordinary text issues.
+
+Audit all mandatory historical-glyph families directly against the scans, record present/absent disposition and any character-identity corrections, keep all pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
 
 Do not begin `சந்தனக்கிண்ணம்` in the same activity.

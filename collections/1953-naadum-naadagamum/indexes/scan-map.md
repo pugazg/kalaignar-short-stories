@@ -10,7 +10,7 @@
 | 2 | — | edition / imprint | `முதல் பதிப்பு — 1953` | registered |
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
 | 5–24 | 1–16, 16-A–16-D | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **CLOSED / VERIFIED 20/20** |
-| **25–36** | **17–28** | play | `தெருக்கூத்து`; opens `காட்சி 1`; scan 36 closes `[தெருக்கூத்தும் முடிகிறது]` | **Stage 1 COMPLETE 12/12 / needs-review** |
+| **25–36** | **17–28** | play | `தெருக்கூத்து`; opens `காட்சி 1`; scan 36 closes `[தெருக்கூத்தும் முடிகிறது]` | **Stage 2 COMPLETE / PASS 12/12 / needs-review** |
 | **37–51** | **29–43** | short-story block | `சந்தனக்கிண்ணம்` | **inventory only / new-canonical candidate** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | existing-canonical witness |
 | 69–75 | 61–67 | short story | `பெண்கள்` | new-canonical candidate |
@@ -55,10 +55,12 @@ User-expanded Stage-1 batch: scans **25–36 / printed 17–28**.
 - guessed readings: **0**
 - scan 36 ending: **PASS**
 - scan 37 next-unit witness: **PASS**
-- Stage 2: **NEXT**
-- Stage 3: **NOT STARTED**
+- Stage 2: **COMPLETE / PASS 12/12**
+- Stage-2 source-supported corrections: **11**
+- Stage-2 unresolved ordinary source-text issues: **0**
+- Stage 3: **NEXT**
 - Stage 4: **NOT STARTED**
 
 ## Exact next activity
 
-`தெருக்கூத்து` Stage 2 visual text-fidelity audit — scans **25–36 / printed 17–28**. Do not begin Stage 3 or `சந்தனக்கிண்ணம்` in the same activity.
+`தெருக்கூத்து` Stage 3 historical Tamil glyph audit — scans **25–36 / printed 17–28**. Audit all 13 mandatory families, record family disposition and any source-supported character-identity corrections, keep all pages `needs-review`, and stop before Stage 4 or `சந்தனக்கிண்ணம்`.

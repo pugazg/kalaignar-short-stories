@@ -664,32 +664,33 @@ The earlier provisional `தெருக்கூத்து = scans 25–51` r
 
 Workspace: `collections/1953-naadum-naadagamum/works/therukoothu/`
 
-User explicitly expanded Stage 1 to scans **25–36 / printed 17–28** and asked that `therukoothu.md` be used as the baseline.
+Corrected source span: **scans 25–36 / printed 17–28**.
 
 - Stage 1 baseline-assisted first-pass: **COMPLETE 12/12**
+- Stage 2 visual text-fidelity audit: **COMPLETE / PASS 12/12**
+- Stage-2 source-supported corrections: **11**
+- corrected scans: **27, 31, 32, 34, 35, 36**
+- zero-correction scans: **25, 26, 28, 29, 30, 33**
+- unresolved ordinary source-text issues: **0**
 - page records: **12/12**
 - page status: **needs-review 12/12**
-- baseline role: non-authoritative draft / locator
-- direct scan confirmation: **12/12**
-- first-pass unresolved source spans: **0**
 - guessed readings: **0**
 - scan 36 work ending: **PASS — `[தெருக்கூத்தும் முடிகிறது]`**
 - scan 37 boundary witness: **PASS — opens `சந்தனக்கிண்ணம்`**
-- Stage 2: **NEXT**
-- Stage 3: **NOT STARTED**
+- Stage 3 historical Tamil glyph audit: **NEXT**
 - Stage 4: **NOT STARTED**
-- durable Stage-1 record: `STAGE1_BATCH_001.md`
+- durable records:
+  - `STAGE1_BATCH_001.md`
+  - `STAGE2_BATCH_001.md`
 
-Representative Markdown-baseline repairs made directly from the scan include:
+Stage-2 correction summary:
 
-- scan 25: `நெற்றாட்களின்` → `நெற்கதிர்களின்`; restored `இந்த உலகினில் ஈடு........!!!`; `நோக்கி` → `நோக்கித்`
-- scan 26: `முடிவதறகுமுன்` → `முடிவதற்குமுன்`; `பிடித்துக்கொண்டாள்` → `பிடித்துக்கொண்டான்`; `சன்னத்திலே` → `கன்னத்திலே`
-- scan 27: `மீள் வடிவ` → `மீன் வடிவ`
-- scan 30: `திமிர் ஓடித்த` → `திமிர் ஒடித்த`
-- scan 31: `மூவேந்தரம்` → `மூவேந்தரும்`; `ஆல் நமஸ்காரம்` → `ஆனால் நமஸ்காரம்`
-- scan 32: `பார்வசியுட` → `பார்வதியுட`; source `பரலோகத்தின் பாதைகள்`
-- scan 33: `கன்னியற்` → `கன்னியர்`; restored omitted `லக்ஷ்மி`
-- scan 36: `ஊர்வலப்` → `ஊர்வலம்`; `புறப்படட்டும்` → `புறப்படட்டுமே`
+- scan 27: removed duplicated `பேறு`; restored exclamation in `வாழ்கவே!`
+- scan 31: restored source period after `நல்ல மொழி இருக்க.`
+- scan 32: restored source `விட்டார்கள் / மிதக்கிறார்கள் / மறந்துவிட்டார்கள்`; period → comma after `போர்க் கருவிகள் கூடாது`
+- scan 34: `கலகல` → `கல கல`; removed non-source terminal period
+- scan 35: `தூதன்தான்` → `தூதன் தான்`
+- scan 36: `நான்தான்` → `நான் தான்`
 
 ### Source inventory state
 
@@ -753,35 +754,23 @@ Durable intake files:
 
 Continue 1953 `நாடும் நாடகமும்`, active retained work **`தெருக்கூத்து`**.
 
-Workspace:
+Stage 2 is **COMPLETE / PASS — 12/12**, with **11** source-supported ordinary-fidelity corrections and **0** unresolved ordinary text issues.
 
-`collections/1953-naadum-naadagamum/works/therukoothu/`
+**NEXT: Stage 3 historical Tamil glyph audit — scans 25–36 / printed 17–28.**
 
-Durable Stage-1 state:
+Explicitly audit all 13 mandatory families:
 
-- corrected play span — **scans 25–36 / printed 17–28**
-- user-expanded Stage 1 — **COMPLETE 12/12**
-- `therukoothu.md` used as non-authoritative baseline/draft
-- direct scan confirmation — **12/12**
-- page records — **12/12**
-- needs-review — **12/12**
-- unresolved first-pass source spans — **0**
-- guessed readings — **0**
-- scan 36 — **work-ending PASS**
-- scan 37 — **opens separate `சந்தனக்கிண்ணம்`**
-- durable record — `STAGE1_BATCH_001.md`
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-**NEXT: Stage 2 visual text-fidelity audit — scans 25–36 / printed 17–28.**
-
-Compare every committed page directly against the source scan line by line / phrase by phrase, verify songs, dialogues, stage directions, scene headings, punctuation, spacing and all physical joins, apply only source-supported corrections, keep all 12 pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
+Use direct scan pixels, compare complete words/phrases, apply character-identity corrections only where supported, record present/absent disposition and unresolved glyph clusters, keep all 12 pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4.
 
 Do **not** begin `சந்தனக்கிண்ணம்` in the same activity.
 
-Structural correction to preserve:
+Structural routing remains:
 
-- `தெருக்கூத்து` = scans **25–36**, not 25–51;
-- `சந்தனக்கிண்ணம்` = scans **37–51 / printed 29–43**, new-canonical candidate pending content-level deduplication;
-- scan 52 opens `ஆலமரத்துப் புறாக்கள்`.
+- `தெருக்கூத்து` = scans **25–36 / printed 17–28**
+- `சந்தனக்கிண்ணம்` = scans **37–51 / printed 29–43**
+- scan 52 opens `ஆலமரத்துப் புறாக்கள்`
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
 

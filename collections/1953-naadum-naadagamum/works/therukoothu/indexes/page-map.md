@@ -2,18 +2,18 @@
 
 | Source scan | Printed page | Page type | Current state |
 |---:|---:|---|---|
-| 25 | 17 | work-opening / காட்சி 1 | **needs-review — Stage 1 COMPLETE** |
-| 26 | 18 | body | **needs-review — Stage 1 COMPLETE** |
-| 27 | 19 | body / காட்சி 1→2 | **needs-review — Stage 1 COMPLETE** |
-| 28 | 20 | body | **needs-review — Stage 1 COMPLETE** |
-| 29 | 21 | body | **needs-review — Stage 1 COMPLETE** |
-| 30 | 22 | body | **needs-review — Stage 1 COMPLETE** |
-| 31 | 23 | body | **needs-review — Stage 1 COMPLETE** |
-| 32 | 24 | body | **needs-review — Stage 1 COMPLETE** |
-| 33 | 25 | body | **needs-review — Stage 1 COMPLETE** |
-| 34 | 26 | body / காட்சி 2→3→4 | **needs-review — Stage 1 COMPLETE** |
-| 35 | 27 | body | **needs-review — Stage 1 COMPLETE** |
-| 36 | 28 | work-ending / காட்சி 5 | **needs-review — Stage 1 COMPLETE** |
+| 25 | 17 | work-opening / காட்சி 1 | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 26 | 18 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 27 | 19 | body / காட்சி 1→2 | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 28 | 20 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 29 | 21 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 30 | 22 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 31 | 23 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 32 | 24 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 33 | 25 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 34 | 26 | body / காட்சி 2→3→4 | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 35 | 27 | body | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
+| 36 | 28 | work-ending / காட்சி 5 | **needs-review — Stage 2 COMPLETE / Stage 3 NEXT** |
 
 ## User-expanded Batch 1
 
@@ -28,8 +28,10 @@ Scans **25–36 / printed 17–28**.
 - blocked: **0**
 - explicit unresolved first-pass spans: **0**
 - guessed readings: **0**
-- Stage 2: **NEXT**
-- Stage 3: **NOT STARTED**
+- Stage 2: **COMPLETE / PASS 12/12**
+- Stage-2 source-supported corrections: **11**
+- Stage-2 unresolved ordinary source-text issues: **0**
+- Stage 3: **NEXT**
 - Stage 4: **NOT STARTED**
 
 ## Physical joins / boundaries
@@ -59,4 +61,4 @@ Scans **37–51 / printed 29–43** belong to the separate next unit beginning `
 
 ## Exact next activity
 
-Run **Stage 2 visual text-fidelity audit** for scans **25–36 / printed 17–28**. Do not begin Stage 3 or `சந்தனக்கிண்ணம்` in the same activity.
+Run **Stage 3 historical Tamil glyph audit** for scans **25–36 / printed 17–28**. Audit all 13 mandatory families, record present/absent disposition and any character-identity corrections, keep all pages `needs-review`, commit/synchronize, and stop before Stage 4 or `சந்தனக்கிண்ணம்`.

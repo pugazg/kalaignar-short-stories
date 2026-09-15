@@ -96,7 +96,7 @@ The Markdown baseline was useful for fast alignment, but several baseline artefa
 
 ### Scan 35
 
-- source joined form **`தூதன்தான்`**
+- Stage-1 captured **`தூதன்தான்`**; Stage-2 later superseded this to source **`தூதன் தான்`**
 
 ### Scan 36
 
@@ -139,3 +139,6 @@ Run **Stage 2 visual text-fidelity audit** across scans **25–36 / printed 17�
 Compare the committed Stage-1 text against the controlling scan line by line / phrase by phrase, including dialogue labels, songs, scene headings, punctuation, spacing and every physical join. Correct only source-supported mismatches, keep all pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3.
 
 Do not begin `சந்தனக்கிண்ணம்` in the same activity.
+
+
+> Stage-2 supersession note: the direct line-by-line audit is authoritative for post-Stage-1 corrections. See `STAGE2_BATCH_001.md`.
