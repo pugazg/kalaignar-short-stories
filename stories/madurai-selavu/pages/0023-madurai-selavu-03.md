@@ -7,7 +7,7 @@ page_type: "story-body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf"
-transcription_method: "Stage 1 + Stage 2 visual fidelity against direct source pixels; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit against direct source pixels; supplied Markdown used only as locator/draft"
 ---
 
 # மதுரைச் செலவு — தொடர்ச்சி
@@ -57,5 +57,29 @@ Therefore the former Stage-1 baseline-derived reconstruction was **withdrawn** a
 
 - unresolved source-obscured spans: **1**
 - status remains **needs-review**.
+
+
+## Stage 3 historical-glyph notes
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
+
+The page was reopened independently under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Historical character identity was read from whole-word / same-font evidence rather than modern visual resemblance.
+
+Representative checked occurrences:
+
+- `துணைவி` (`ணை`)
+- `சோலைகளின்` (`லை`)
+- `களைத்துப்போயிருக்கிறாள்` (`ளை` / `றா`)
+- `வெளிக்கிளம்பினார்கள்` (`னா`)
+- `கோவலனைப்` (`னை`)
+
+- mandatory 13-family audit: **COMPLETE**
+- character-identity corrections: **0**
+- global replacements: **0**
+- spelling / grammar modernization: **0**
+- scan-23 illustration-obscured prose span: **preserved as `[…]`; not reconstructed**
+- unresolved historical-glyph clusters in source-visible text: **0**
+- physical-source obscured spans: **1**
+- status remains **`needs-review`** pending Stage 4.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 19 -->
