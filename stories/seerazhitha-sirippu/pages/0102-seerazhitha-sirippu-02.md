@@ -7,7 +7,7 @@ page_type: "story-ending"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf"
-transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 historical-glyph audit against controlling scan; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 + Stage 2 ordinary visual fidelity + corrective Stage 3 historical-glyph re-audit against controlling scan; supplied Markdown used only as locator/draft"
 ---
 
 # சீரழித்த சிரிப்பு! — தொடர்ச்சி
@@ -24,7 +24,7 @@ transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 hi
 
 “கரோலின் இளவரசி, வெளிநாடு சென்றிருந்தபோது, அவளது நடத்தைகள் நாட்டுக்கும் நமக்கும் வெட்கத்தை உண்டாக்கக் கூடியவைகள். எனவே கரோலின் அரசியாகாமல் தடுப்பதற்காக, அரசி பற்றிய உரிமைச் சட்டத்தைத் திருத்த வேண்டுமென அரசர் ஆணை பிறப்பித்திருக்கிறார்.”
 
-என்று அமைச்சர் விளக்க முறைத்தார். அதற்கு மறுப்பு எழவே, கரோலினை விசாரணை செய்யப் பாராளுமன்றத்திற்கு அழைத்தனர். டென்மான், என்ற வழக்கறிஞர் கரோலின் சார்பில் வாதாடினார். இளவரசியின் முன்னாள் சமையற்காரன் தியோடார் மஜோச்சி என்பான், அவளுக்கெதிராக, அவள் இதாலியில் பெர்காமி என்பவனுடன் சல்லாபம் நடத்தினள் என்று சாட்சியம் கூறினான். அதுபற்றிய பல கேள்விக்கணைகளுக்கு அவன் பதில் அளிக்க முடியாமல் “எனக்கு நினைவில்லை” என்று மழுப்பினான். புரோகாம் என்ற உறுப்பினரின் சொல்லாற்றலால் அரசாங்கச்சட்டத்திற்கு ஆதரவு குறைய ஆரம்பித்தது. நிலையைப் புரிந்துகொண்ட பிரதமர் லிவர்பூல், சட்டத்தைத் திரும்பப் பெற்றுக் கொண்டார்.
+என்று அமைச்சர் விளக்க முறைத்தார். அதற்கு மறுப்பு எழவே, கரோலினை விசாரணை செய்யப் பாராளுமன்றத்திற்கு அழைத்தனர். டென்மான், என்ற வழக்கறிஞர் கரோலின் சார்பில் வாதாடினார். இளவரசியின் முன்னாள் சமையற்காரன் தியோடார் மஜோச்சி என்பான், அவளுக்கெதிராக, அவள் இதாலியில் பெர்காமி என்பவனுடன் சல்லாபம் நடத்தினாள் என்று சாட்சியம் கூறினான். அதுபற்றிய பல கேள்விக்கணைகளுக்கு அவன் பதில் அளிக்க முடியாமல் “எனக்கு நினைவில்லை” என்று மழுப்பினான். புரோகாம் என்ற உறுப்பினரின் சொல்லாற்றலால் அரசாங்கச்சட்டத்திற்கு ஆதரவு குறைய ஆரம்பித்தது. நிலையைப் புரிந்துகொண்ட பிரதமர் லிவர்பூல், சட்டத்தைத் திரும்பப் பெற்றுக் கொண்டார்.
 
 உடனே, கரோலின், பிரதமர் மூலமாக ஒரு கடிதம் எழுதினாள்.
 
@@ -42,18 +42,27 @@ transcription_method: "Stage 1 + reconciled Stage 2 visual fidelity + Stage 3 hi
 
 தன் கதி இப்படி ஆகிவிட்டதே என்று வாய்விட்டுக் கோவென அழுது விட்டாள் கரோலின்! அவள் இத்தனை நாள் சிரித்த சிரிப்புக்கெல்லாம் சேர்த்து அழுதாள். இதற்குள் அரசனிடமிருந்து ஒரு ஆணைச்சீட்டு அங்கு வந்தது. அதில்; “அரசியை அனுமதிக்காதே!” என்று குறிப்பிடப்பட்டிருந்தது.
 
-“என்னை எல்லோரும் வாழ விடாமல் செய்து விட்டார்களே!” எனப் புலம்பிக்கொண்டே, கரோலின் மாளிகைக்கு ஓடி; படுக்கையில் விழுந்தாள். பிறகு எழவே இல்லை. அவள் வாழவிடாமல் செய்த அந்த அர்த்தமற்ற சிரிப்பு; அவளுக்கு முன்பே அவளிடம் விடை பெற்றுக் கொண்டது.
+“என்னை எல்லோரும் வாழ விடாமல் செய்து விட்டார்களே!” எனப் புலம்பிக்கொண்டே, கரோலின் மாளிகைக்கு ஓடி; படுக்கையில் விழுந்தாள். பிறகு எழவே இல்லை. அவளை வாழவிடாமல் செய்த அந்த அர்த்தமற்ற சிரிப்பு; அவளுக்கு முன்பே அவளிடம் விடை பெற்றுக் கொண்டது.
 
 ○
 
 ## Stage 3 historical-glyph notes
 
-- mandatory historical-glyph families audited directly from scan 102;
-- representative source-confirmed families: `ணை` in `விசாரணை / ஆணைச்சீட்டு`, `லை` in `நிலையைப் / இல்லை`, `றா` in `பிறப்பித்திருக்கிறார் / இருக்கிறாய்`, `னா` in inflected `...னாள்` forms, `னை` in `என்னை`;
-- `ணா / ணொ / ணோ / ளை / றொ / றோ / னொ / னோ`: no scan-102 occurrence requiring a character-identity decision;
-- foreign-name spellings `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்` rechecked for confusable character identity: **PASS / unchanged**;
-- Stage-3 character-identity corrections: **0**;
-- unresolved glyph clusters: **0**;
-- page remains **`needs-review`** pending Stage 4.
+**CORRECTIVE RE-AUDIT / PASS.** The earlier Stage-3 `0 corrections` claim is superseded.
 
+Source-proven corrections:
+
+1. `நடத்தினள்` → **`நடத்தினாள்`** — historical family **`னா`**. This was a Stage-1/Stage-2 carry-forward miss exposed by the glyph pass.
+2. final `அவள் வாழவிடாமல் செய்த...` → **`அவளை வாழவிடாமல் செய்த...`** — historical family **`ளை`**. Stage 1 was correct; Stage 2 regressed it to a modern look-alike.
+
+The foreign-name forms `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்` remain unchanged.
+
+- mandatory 13-family audit: **COMPLETE**
+- scan-102 Stage-3 character-identity corrections: **2**
+- Stage-2 historical-glyph regressions restored: **1**
+- additional Stage-1 historical-glyph miss repaired: **1**
+- unresolved glyph clusters: **0**
+- global replacements: **0**
+- spelling/grammar modernization: **0**
+- status remains **`needs-review`** pending Stage 4.
 <!-- மூல ஸ்கேன் பக்கம்: 102; அச்சுப் பக்கம்: 92 -->
