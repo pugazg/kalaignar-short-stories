@@ -63,6 +63,22 @@ Story-6 English completion closes the 1982 anthology English phase at **6/6 stor
 - English translation: [`translations/en/mudiyatha-thodarkathai.md`](translations/en/mudiyatha-thodarkathai.md)
 - English review: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
+## 1979 earlier-edition witness
+
+The 1979 third edition of `பழக்கூடை` contains an earlier witness of this same work under the shorter heading **`தொடர்கதை`**.
+
+- witness scans: **6–35 / printed 5–34**
+- reviewed so far: **6–20 / printed 5–19 — 15/30**
+- witness state: **IN PROGRESS**
+- material variant groups recorded so far: **8**
+- canonical recheck candidates: **0**
+- canonical Tamil / English changed: **No / No**
+
+High-value edition variants include 1979 `அனுச் சஞ்சலமும்` ↔ canonical `அனுச்சரணமும்`, 1979 `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ canonical `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`, and 1979 `சூதுக்குப் பெயர் காதல்` ↔ canonical `தூதுக்குப் பெயர் காதல்`.
+
+Witness workspace:
+`witnesses/1979-pazhakkoodai/`.
+
 ## Phase boundary
 
 Tamil/source and English for this story are **CLOSED**. Do not reopen them without genuinely new source/provenance/fidelity evidence or an explicit maintenance request.

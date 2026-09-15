@@ -699,7 +699,7 @@ Durable collection controls:
 - `collections/1953-naadum-naadagamum/indexes/scan-map.md`
 - `collections/1953-naadum-naadagamum/indexes/story-inventory.md`
 
-## Queued source — 1979 `பழக்கூடை`
+## Active source — 1979 `பழக்கூடை`
 
 Controlling attached source:
 
@@ -738,8 +738,12 @@ Current state:
 - source registration: **COMPLETE**
 - scan map: **COMPLETE**
 - story inventory: **5/5 COMPLETE**
-- witness comparison: **NOT STARTED**
-- queue state: **WAIT until the active 1953 `நாடும் நாடகமும்` activity is completed or the user explicitly redirects**
+- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` Batch 1 CLOSED / PASS**
+- Story 1 reviewed: **scans 6–20 / printed 5–19 — 15/30**
+- Story 1 material variant groups: **8**
+- Story 1 canonical recheck candidates: **0**
+- Story 1 unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
 
 Durable intake files:
 
@@ -750,40 +754,44 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1953 `நாடும் நாடகமும்` is **CLOSED / PASS**.
+1979 `பழக்கூடை` is active.
 
-Activate the queued 1979 source:
+Story 1 source title: **`தொடர்கதை`**  
+Canonical target: `stories/mudiyatha-thodarkathai/`
 
-`TVA_BOK_0064146_பழக்கூடை.pdf`
+Durable progress:
 
-Collection workspace:
+- full witness span: scans **6–35 / printed 5–34**
+- Batch 1: scans **6–20 / printed 5–19** — **CLOSED / PASS**
+- progress: **15/30 witness scans**
+- same-work identity: **CONFIRMED**
+- material variant groups recorded: **8**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+- witness workspace: `stories/mudiyatha-thodarkathai/witnesses/1979-pazhakkoodai/`
 
-`collections/1979-pazhakkoodai/`
+Representative high-value variants:
 
-Story 1 source title:
+- 1979 title `தொடர்கதை` ↔ canonical `முடியாத தொடர்கதை`;
+- `அனுச் சஞ்சலமும்` ↔ `அனுச்சரணமும்`;
+- `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`;
+- `சூதுக்குப் பெயர் காதல்` ↔ `தூதுக்குப் பெயர் காதல்`;
+- `சூடான பாலை` ↔ `சூடான பாலு`.
 
-**`தொடர்கதை`**
+User batching rule: **15 physical pages per iteration**.
 
-Canonical target:
-
-`stories/mudiyatha-thodarkathai/`
-
-The 1979 source uses the shorter title `தொடர்கதை`; it is the same work as canonical `முடியாத தொடர்கதை`.
-
-User batching rule remains: **15 physical pages per iteration**.
-
-**NEXT: 1979 `தொடர்கதை` cross-witness comparison — scans 6–20 / printed 5–19.**
+**NEXT: Story 1 Batch 2 — scans 21–35 / printed 20–34 — 15 pages.**
 
 1. fetch live `main`;
-2. use only the user-supplied 1979 PDF scan pixels as witness authority;
-3. reread canonical `stories/mudiyatha-thodarkathai/` controls and assembled Tamil;
-4. compare scans **6–20** end-to-end against the matching canonical 1982 text;
-5. preserve the 1979 source title `தொடர்கதை` as an edition-specific title variant;
-6. record material wording, spelling, morphology, punctuation, spacing, historical-glyph, layout and narrative variants;
-7. do not import 1979 wording into canonical Tamil automatically;
-8. if witness evidence suggests a canonical error, reopen the exact 1982 controlling scan before any repair;
-9. create/update `stories/mudiyatha-thodarkathai/witnesses/1979-pazhakkoodai/`;
-10. synchronize collection controls / handover and commit;
-11. stop after scan **20**.
+2. use only 1979 scan pixels as witness authority;
+3. compare all remaining 15 pages against canonical 1982 text;
+4. continue recording material edition variants and canonical confirmations;
+5. do not overwrite canonical Tamil from witness evidence alone;
+6. if any witness reading suggests canonical error, reopen the exact 1982 controlling scan first;
+7. confirm scan **35** story ending and scan **36** opening `கடைசிக் கட்டம்`;
+8. close the 1979 `தொடர்கதை` witness if complete;
+9. synchronize collection/story controls and commit;
+10. stop before Story 2.
 
-The 1979 Story-1 witness continues through scan **35**; do not process scans 21–35 in the same iteration.
+Do not process `கடைசிக் கட்டம்` in the same iteration.

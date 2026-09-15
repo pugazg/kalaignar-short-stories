@@ -80,17 +80,45 @@ No duplicate canonical story folder was created.
 - final source boundary checked: **PASS**
 - existing-canonical witness routes: **5/5**
 - new canonical stories: **0**
-- witness comparison: **NOT STARTED**
-- English: **NOT STARTED**
+- witness comparison: **IN PROGRESS — Story 1 `தொடர்கதை` 15/30 scans compared**
+- English: **not part of witness comparison; canonical English remains unchanged**
 
-## Queue position / exact activity
+## Active witness — Story 1 `தொடர்கதை`
 
-This source was supplied together with the newly registered 1953 `நாடும் நாடகமும்` source.
+Canonical target:
 
-The active next activity remains the earlier/source-order item recorded in root `HANDOVER.md`: **1953 `நாடும் நாடகமும்` → `ஆலமரத்துப் புறாக்கள்` witness comparison**.
+`stories/mudiyatha-thodarkathai/`
 
-When this 1979 collection becomes active, its first exact activity is:
+The source heading **`தொடர்கதை`** remains an edition-specific shorter title for the same work as canonical **`முடியாத தொடர்கதை`**.
 
-**`தொடர்கதை` — scans 6–35 / printed 5–34 — compare as a 1979 witness to canonical `முடியாத தொடர்கதை`.**
+### Batch 1 — scans 6–20 / printed 5–19
 
-Do not start that witness while the active 1953 story is in progress unless the user explicitly redirects.
+**CLOSED / PASS — 15/15 physical pages.**
+
+- same-work identity: **CONFIRMED**
+- story witness progress: **15/30**
+- material variant groups recorded: **8**
+- canonical recheck candidates: **0**
+- unresolved witness readings: **0**
+- canonical Tamil / English changed: **No / No**
+
+Representative edition differences:
+
+- `தொடர்கதை` ↔ canonical `முடியாத தொடர்கதை`;
+- `அனுச் சஞ்சலமும்` ↔ `அனுச்சரணமும்`;
+- `நன்றாயிருக்கிறதடா` ↔ `நன்றுயிருக்கிறதடா`;
+- `உளறிவைத்த ... சொல் அலங்காரத்துக்குப்` ↔ `ஊற்றி வைத்த ... சொல்லலங்காரத்துக்குப்`;
+- `சூதுக்குப் பெயர் காதல்` ↔ `தூதுக்குப் பெயர் காதல்`;
+- `சூடான பாலை` ↔ `சூடான பாலு`.
+
+Durable witness workspace:
+
+`stories/mudiyatha-thodarkathai/witnesses/1979-pazhakkoodai/`
+
+## Exact next activity
+
+Per the user's **15 physical pages per iteration** rule:
+
+**`தொடர்கதை` Batch 2 — scans 21–35 / printed 20–34 — 15 pages.**
+
+Complete the witness comparison, confirm scan 35 story ending and scan 36 `கடைசிக் கட்டம்` opening boundary, synchronize controls, commit, and stop before Story 2.
