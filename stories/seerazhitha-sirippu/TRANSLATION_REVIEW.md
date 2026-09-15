@@ -77,3 +77,48 @@ E1 adds **no historical explanation** about Caroline, George IV, the parliamenta
 **E2 — meaning-fidelity review against the frozen verified Tamil.**
 
 Recheck the complete English sentence-by-sentence against the Tamil authority, with special attention to relationship terms, the debt/marriage passage, royal/parliamentary language, the final personified-laughter sentence, and the source’s deliberately unusual syntax. Do not modify Tamil/source.
+
+
+## E2 — meaning-fidelity review
+
+**PASS — complete sentence-by-sentence meaning review.**
+
+The full E1 English was compared against the frozen verified Tamil for semantic completeness, agency, relationships, chronology, negation, modality, causality, rhetorical force and figurative language.
+
+### E2 repairs
+
+Five English repairs were made:
+
+1. `The body is here; beautify it!` → **`The body is here; adorn it!`**
+   - better preserves the imperative `அழகு படுத்து!` without implying a change of physical beauty.
+2. `favourite woman` → **`mistress`** for `ஆசைநாயகி`
+   - restores the intimate/social relationship meaning that the E1 wording had weakened.
+3. `a figure of / anguish` → **`a statue of / anguish`**
+   - preserves the source metaphor `வேதனைச் / சிலையானாள்` and the physical 101→102 split.
+4. `That laughter too moved there along with her` → **`That laughter too took up residence there with her`**
+   - preserves the source personification in `அந்தச் சிரிப்பும் ... அங்கு குடியேறிவிட்டது`.
+5. `her usual ringing laugh` → **`a ringing laugh`**
+   - removes the unsupported adjective `usual`; the following sentence already carries the source's statement that her nature persisted.
+
+### High-risk meaning checks
+
+- debt/marriage passage: **PASS** — reportative force and imposed-marriage burden remain intact.
+- `உள்ளம் தனியாக இருக்கட்டுமே; அதை அழவிடு!`: **PASS after E2 repair of `அழகு படுத்து` context**.
+- Caroline's recurrent laughter/personification: **PASS after personification repair**.
+- `பிரம்மச்சாரி`: **meaning preserved as transliterated `brahmachari`; terminology disposition deferred to E3**.
+- `ஆசைநாயகி`: **PASS after repair to `mistress`**.
+- inquiry / parliamentary sequence: **PASS**.
+- coronation-entry exchange: **PASS**.
+- final personified-laughter sentence: **PASS** — no causal or agency reversal.
+- source-broken `ஒரு நாள், இளவரசர்.`: **retained without speculative repair**.
+- source-page markers: **PASS 2/2**.
+- omissions / duplications / unsupported narrative additions: **0 / 0 / 0**.
+
+### E2 result
+
+- E2 English repairs: **5**
+- Tamil/source reopened: **No**
+- Tamil changed: **No**
+- unresolved E2 meaning issues: **0**
+
+Next: **E3 — terminology / names / cultural consistency review.**
