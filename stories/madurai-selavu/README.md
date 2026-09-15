@@ -16,7 +16,7 @@ Canonical workspace activated from the 1960 **முரசொலி பொங்
 
 ## Canonical activation
 
-**SOURCE INTAKE COMPLETE / STAGE 1 NOT STARTED.**
+**STAGE 1 COMPLETE — 5/5 STORY PAGES; NEEDS REVIEW.**
 
 No existing exact-title or obvious alternate-title/content-anchor match was found on live `main`.
 
@@ -27,12 +27,18 @@ The supplied `Madurai_selavu.md` is only a baseline. It contains OCR-like corrup
 - source identity: **registered**
 - physical structure: **mapped**
 - page records initialized: **6/6**
-- story-text pages awaiting Stage 1: **5**
-- intervening non-story page: **1 verified classification**
-- Stage 1 story transcription: **0/5**
-- Stage 2/3/4: **0/5**
+- Stage 1 story transcription: **5/5 COMPLETE**
+- Stage-1 story pages: **needs-review 5/5**
+- intervening non-story page: **1/1 verified / excluded**
+- Stage-1 assembly: `sections/madurai-selavu.md`
+- Stage-1 durable record: `STAGE1_BATCH_001.md`
+- focused review queue: `POSSIBLE_ERRORS_FOR_REVIEW.md`
+- Stage 2 visual fidelity: **NOT STARTED — NEXT**
+- Stage 3/4: **NOT STARTED**
 - English: **NOT STARTED**
 
-## Exact next activity after சீரழித்த சிரிப்பு closes
+## Exact next activity
 
-Stage 1 first-pass for story-text scans **21–24 and 26**. Preserve scan 25 as a non-story interleaf and do not include it in the Tamil assembly.
+**Stage 2 visual text-fidelity review for scans 21–24 and 26.**
+
+Reopen all five story scans directly, compare every word/punctuation/spacing decision against the Stage-1 page records, and resolve the focused recheck queue. Keep pages `needs-review` after Stage 2; historical-glyph audit remains a separate Stage 3. Preserve scan 25 as verified non-story and do not include it in the story.
