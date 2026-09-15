@@ -2,8 +2,8 @@
 
 | Scan | Printed | Type | Status | Stage 1 | Stage 2 | File |
 |---:|---:|---|---|---|---|---|
-| 101 | 91 | story opening | needs-review | COMPLETE | PASS — 11 corrections | `../pages/0101-seerazhitha-sirippu-01.md` |
-| 102 | 92 | story ending | needs-review | COMPLETE | PASS — 7 corrections | `../pages/0102-seerazhitha-sirippu-02.md` |
+| 101 | 91 | story opening | needs-review | COMPLETE | PASS — 17 final corrections | `../pages/0101-seerazhitha-sirippu-01.md` |
+| 102 | 92 | story ending | needs-review | COMPLETE | PASS — 13 final corrections | `../pages/0102-seerazhitha-sirippu-02.md` |
 
 Scan **103** opens `அடிமைகள்` and is outside this story.
 
@@ -11,7 +11,8 @@ Scan **103** opens `அடிமைகள்` and is outside this story.
 
 - initialized: **2/2**
 - Stage 1: **COMPLETE 2/2**
-- Stage 2: **COMPLETE / PASS 2/2 — 18 corrections**
+- Stage 2: **COMPLETE / PASS 2/2 — RECONCILED, 30 final net corrections**
+- initial 18-change ledger: **SUPERSEDED**
 - Stage 3: **0/2 — NEXT**
 - Stage 4: **0/2**
 - verified: **0/2**
