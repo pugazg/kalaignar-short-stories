@@ -99,4 +99,26 @@ Representative checked occurrences:
 - unresolved historical-glyph clusters: **0**
 - status remains **`needs-review`** pending Stage 4.
 
+
+## Stage 3 historical-glyph audit
+
+**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 character-identity corrections.**
+
+Audit rule: **read historical character identity, not modern visual resemblance**.
+
+Representative checked occurrences:
+
+- ணை: `பஞ்சணைகளின்மீது`
+- லை: `மடலையே / மணிமேகலை / சூழ்நிலை / முல்லை`
+- ளை: `பொற்காசுகளை / எண்ணங்களை / செங்குவளை`
+- றா: `அனுப்பிவிடுகிறான் / வருகிறார்கள் / கேட்கிறான்`
+- றோ: `பெற்றோருக்கு / பெற்றோர்`
+- னா: `பின்னால் / ஆனால்`
+- னை: `கற்பனை / என்னை / எத்தனை`
+
+- mandatory 13-family audit applied page-wise;
+- no global replacement;
+- no spelling / grammar / punctuation modernization;
+- unresolved historical-glyph clusters: **0**;
+- status remains **`needs-review`** pending Stage 4 final independent source check.
 <!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: 22 -->
