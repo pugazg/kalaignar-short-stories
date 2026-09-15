@@ -20,7 +20,7 @@ Hearing this reply from the Prince of Wales, his friend was crushed.
 
 “All right; the time to welcome Caroline is near. Shall I dress you in the clothes for the ceremony?”
 
-“Mm! The body is here; beautify it! Let the heart stay by itself; let it weep!”
+“Mm! The body is here; adorn it! Let the heart stay by itself; let it weep!”
 
 *
 
@@ -44,13 +44,13 @@ To that too, Princess Caroline’s answer was merely a “hee heehee...”
 
 The Prince of Wales was the son of King George III. Caroline was a relative on her father’s side. She came from an ordinary family. Her manner of walking, dress and gestures, and her meaningless baring of her teeth, caused distress to the king and queen. Even so, in the hope that she was, after all, going to become their daughter-in-law, they used every possible means to reform her and gave her training. In the end the marriage too took place. Before long Caroline became the mother of a child. On hearing the news of the child’s birth, the Prince of Wales leapt with joy.
 
-“Ah! By marrying her, my personal debt has been cleared. By the birth of a child, the debt I owed my parents has also been cleared. From now on I am a brahmachari,” said the prince, delighting in drinking the nectar of the lips of the favourite woman beside him. Her husband no longer saw Caroline; the queen too began raising the child personally under her own supervision. Caroline, who had been pouring laughter over everything, became a figure of
+“Ah! By marrying her, my personal debt has been cleared. By the birth of a child, the debt I owed my parents has also been cleared. From now on I am a brahmachari,” said the prince, delighting in drinking the nectar of the lips of the mistress beside him. Her husband no longer saw Caroline; the queen too began raising the child personally under her own supervision. Caroline, who had been pouring laughter over everything, became a statue of
 
 <!-- source scan 101; printed page 91 -->
 
 anguish. One day, the prince. “I do not like you,” he wrote and handed it to her.
 
-Caroline moved into a separate residence. That laughter too moved there along with her. Because of it, slanders were heaped upon her. News spread that she was flirting and enjoying herself with certain noblemen. On hearing it, the king conducted a secret inquiry into the matter. During the inquiry, the reports proved to be empty accusations. Deeply hurt, Caroline undertook a tour of foreign countries—for consolation! Could she not at least have left that laughter behind? She took it with her. As before, the episodes of slander continued. While she was abroad, King George III died, and arrangements were made for the Prince of Wales to be crowned King of England. Hearing of this, Caroline returned to England.
+Caroline moved into a separate residence. That laughter too took up residence there with her. Because of it, slanders were heaped upon her. News spread that she was flirting and enjoying herself with certain noblemen. On hearing it, the king conducted a secret inquiry into the matter. During the inquiry, the reports proved to be empty accusations. Deeply hurt, Caroline undertook a tour of foreign countries—for consolation! Could she not at least have left that laughter behind? She took it with her. As before, the episodes of slander continued. While she was abroad, King George III died, and arrangements were made for the Prince of Wales to be crowned King of England. Hearing of this, Caroline returned to England.
 
 The people prepared to welcome their future queen. Some officials even fired ceremonial guns in her honour.
 
@@ -66,7 +66,7 @@ Immediately, Caroline sent a letter through the Prime Minister.
 
 The year was 1821—the 19th of July! Dressed in new clothes, Queen Caroline came toward the coronation hall, heading for the place where ordinary spectators were admitted.
 
-“Madam! Do you have an admission ticket?” the guard stopped her and asked. Startled, Caroline burst into her usual ringing laugh. Even then, her nature did not leave her.
+“Madam! Do you have an admission ticket?” the guard stopped her and asked. Startled, Caroline burst into a ringing laugh. Even then, her nature did not leave her.
 
 “Do you know who I am?” she asked.
 
