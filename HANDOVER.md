@@ -806,11 +806,13 @@ Canonical: `stories/seerazhitha-sirippu/`
 - English E1 first translation: **COMPLETE**
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
-- cumulative E2+E3 English repairs: **6**
+- English E4 quality / readability review: **COMPLETE / PASS — 11 repairs**
+- cumulative English repairs E2–E4: **17**
 - English source-page markers: **PASS 2/2**
-- Tamil/source reopened during E2/E3: **No**
-- Tamil changed during English E1–E3: **No**
-- English E4 quality review: **NOT STARTED — NEXT**
+- Tamil/source reopened during E2–E4: **No**
+- Tamil changed during English E1–E4: **No**
+- unresolved E4 issues: **0**
+- English E5 final bilingual approval: **NOT STARTED — NEXT**
 
 Corrective historical-glyph readings confirmed through Stage 4:
 
@@ -855,18 +857,18 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — English E4 quality / readability review.**
+**சீரழித்த சிரிப்பு! — English E5 final bilingual approval.**
 
 1. fetch live `main`;
-2. use the E3-closed English as the review target and the frozen Tamil only as a guardrail;
-3. improve grammar, idiom, readability, dialogue flow and sentence rhythm without changing E2 meaning;
-4. preserve all E3 terminology/name decisions, including `brahmachari`, `mistress`, `salute shots`, Caroline / Denman / Theodore Majocchi / Bergami / Brougham / Liverpool;
-5. preserve source-sensitive deliberate oddities that were retained for fidelity, especially `One day, the prince.` and the source-derived punctuation around the carriage sentence unless an English-quality repair can be made without hiding the Tamil irregularity;
-6. preserve both source-page markers and the scan 101→102 split;
-7. do not modify Tamil/source;
-8. append the E4 result and repair count to `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`;
-9. record `Tamil/source reopened: No` and any unresolved E4 issues;
-10. commit and stop before E5 final bilingual approval.
+2. use the frozen verified Tamil and the E4-closed English as the final comparison pair;
+3. verify the complete English against Tamil for semantic fidelity, terminology stability, names, paragraph/dialogue order and physical source-page alignment;
+4. confirm all E1–E4 repairs are present and no protected E2/E3 decisions regressed;
+5. confirm scan 101→102 `a statue of / anguish` remains correctly anchored;
+6. confirm omissions / duplications / unsupported additions are **0 / 0 / 0**;
+7. confirm there is no post-E4 content drift;
+8. do not modify Tamil/source unless genuinely new source evidence appears;
+9. append the E5 final bilingual result to `TRANSLATION_REVIEW.md`, mark English **PASS / CLOSED** if all checks pass, and synchronize README / HANDOVER / NEXT prompt;
+10. commit and stop before starting another story.
 
 Do not begin `மதுரைச் செலவு` in the same activity.
 
