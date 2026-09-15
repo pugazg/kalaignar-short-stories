@@ -42,7 +42,7 @@ Therefore the 1953 unit is **not a new canonical story**.
 ## Current state
 
 - routing correction: **COMPLETE**
-- duplicate canonical folder: **TO BE REMOVED IN THE SAME CORRECTIVE COMMIT**
+- duplicate canonical folder `stories/santhanak-kinnam/`: **REMOVED**
 - witness comparison: **NOT STARTED**
 - witness scans compared: **0/15**
 - material variants recorded: **0**
