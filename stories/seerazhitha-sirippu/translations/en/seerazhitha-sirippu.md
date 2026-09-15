@@ -1,4 +1,4 @@
-# Seerazhitha Sirippu!
+# The Laugh That Ruined Her!
 
 “Prince! Princess Caroline, whose hand you are to take, is arriving from Germany by sea. At a time like this, why are you sitting worried and broken-hearted—as though a ship had capsized?”
 
@@ -76,7 +76,7 @@ At once, a nobleman standing there shouted angrily: “Hey! Shut your mouth! Whe
 
 Thinking of how her fate had come to this, Caroline broke down and cried aloud. She wept as though making up for all the laughter she had laughed until then. Meanwhile an order from the king arrived there. It said: “Do not admit the queen!”
 
-“Everyone has made it impossible for me to live!” Caroline lamented as she ran back to the palace and fell upon her bed. She never rose again. That meaningless laughter which had not allowed her to live took leave of her before she herself took leave of life.
+“Everyone has made it impossible for me to live!” Caroline lamented as she ran back to the palace and fell upon her bed. She never rose again. That meaningless laughter, which had made it impossible for her to live, left her before life itself did.
 
 ○
 
