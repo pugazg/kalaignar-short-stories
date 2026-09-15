@@ -4,10 +4,10 @@ printed_page: "16-B"
 work: "naadum-naadagamum-aasiriyar-pechile"
 section: "prose-discourse"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064193_நாடும்_நாடகமும்.pdf"
-transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit + Stage 3 historical Tamil glyph audit"
+transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit + Stage 3 historical Tamil glyph audit + Stage 4 final independent source check"
 ---
 
 வேண்டாம். ஆர்வத்துடன், காரியமாற்றும் ஆற்றலையும், நாடகம் நடிக்க, நடத்த இருக்கும், இருக்க வேண்டிய ஆற்றலையும் பொறுப்பையும் நன்கு உணர்ந்து, நல்ல பயிற்சியையும், வசதியையும் பெற்று நாட்டுக்கேற்றபடி நாடகக்கலையை நல்லமுறையில் வளர்க்க வேண்டுகிறேன்.
@@ -31,5 +31,7 @@ transcription_method: "direct visual first-pass from native source scan + Stage 
 <!-- Stage 2 visual text-fidelity audit: COMPLETE after corrective direct-pixel recheck. The initial Stage-2 modernization `அக்கரையோ` → `அக்கறையோ` was retracted; the scan reads source spelling `அக்கரையோ`. Source-supported corrections are `நடிக்கிறார். நாடகத்தில்?` → `நடிக்கிறார், நாடகத்தில்?` and `பேச்சு மூலப் பரப்பி` → `பேச்சு மூலம் பரப்பி`. The opening `வேண்டாம்.` continuation, `காரியமாற்றும் ஆற்றலையும்`, `நாடகம் நடிக்க, நடத்த இருக்கும், இருக்க வேண்டிய`, quotation punctuation, source-visible `கொட்டியா`, and the scan 22→23 `நல்ல` / `சமூக நாடகங்கள்` continuation were directly rechecked and retained. Page remains needs-review pending Stage 3. -->
 
 <!-- Stage 3 historical-glyph audit: COMPLETE / PASS. Mandatory families explicitly checked across the page. Source-confirmed representative families include `ணா` in `அண்ணாவும்` / `அண்ணாதுரை`, `லை` in `நாடகக்கலையை`, `ளை` in `கருத்துக்களை`, `றா` in `நடிக்கிறார்`, `னா` in `அதனால்`, and `னை` in `பலனையும்`. Character-identity corrections: 0. Unresolved glyph clusters: 0. Page remains needs-review pending Stage 4. -->
+
+<!-- Stage 4 final independent source check: COMPLETE / PASS / VERIFIED. Fresh end-to-end scan review reconfirms source spelling `அக்கரையோ`, comma after `நடிக்கிறார்`, `பேச்சு மூலம் பரப்பி`, all Stage-3 glyph dispositions, and the scan 22→23 continuation `நல்ல` / `சமூக நாடகங்கள்`. Additional Stage-4 corrections: 0. Unresolved issues: 0. Guessed readings: 0. -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 16-B -->

@@ -41,7 +41,9 @@ No OCR, web copy, Wikisource, catalogue text, alternate edition, or contextual r
   - scan 21: `நாடகங்களைக்`, `நாடகங்களை`
   - scan 22: `கருத்துக்களை`
   - scan 23: `பாத்திரங்களையும்`
-  - scan 24: `மக்களை`, `ஆடைகளை`
+  - scan 24: `மக்களை`
+
+> **Stage-4 supersession note:** the Stage-3 page review had retained `ஆடைகளை` as an ordinary-text reading. The final independent Stage-4 source check resolves the physical line split as `ஆடை` / `கள்`, yielding `ஆடைகள்`, so that word is no longer a `ளை` example. The family-level Stage-3 result remains unchanged because source-visible `மக்களை` independently confirms `ளை` on scan 24.
 - `றா`
   - scan 20: `என்றாவது`
   - scan 22: `நடிக்கிறார்`
@@ -99,7 +101,9 @@ Character-identity corrections: **0**.
 
 ### Scan 24 / printed 16-D
 
-Representative source clusters checked include `துணையாகத்தான்` / `துணையாக` (`ணை`), `கலைக்குக்` / `கலையென்றுதான்` (`லை`), `மக்களை` / `ஆடைகளை` (`ளை`), `பேசுகிறார்களே` (`றா`), `யணிகிறோம்` / `வருகிறோம்` / `படுத்துகிறோம்` (`றோ`), and `ஆண்டவனைக்` (`னை`).
+Representative source clusters checked include `துணையாகத்தான்` / `துணையாக` (`ணை`), `கலைக்குக்` / `கலையென்றுதான்` (`லை`), `மக்களை` (`ளை`), `பேசுகிறார்களே` (`றா`), `யணிகிறோம்` / `வருகிறோம்` / `படுத்துகிறோம்` (`றோ`), and `ஆண்டவனைக்` (`னை`).
+
+Stage 4 later supersedes the ordinary-text reading `ஆடைகளை` with source `ஆடைகள்`; this does not change the Stage-3 character-identity result.
 
 Character-identity corrections: **0**.
 

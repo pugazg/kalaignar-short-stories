@@ -91,80 +91,38 @@ No new canonical story folder was created in this intake-only iteration.
 - short-story inventory: **3/3 COMPLETE**
 - short-story opening scans visually checked: **3/3**
 - final source boundary checked: **PASS — scan 80**
-- retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`: **IN PROGRESS**
-  - Batch 1 scans **5–9 / printed 1–5**
-  - Stage 1 first-pass: **COMPLETE 5/5**
-  - Stage 2 visual fidelity: **COMPLETE 5/5**
-  - Stage-2 source-proven corrections: **16**
-  - Stage-2 unresolved source-text spans: **1 — scan 9 mark crossing**
-  - Stage 3 historical glyph: **COMPLETE 5/5**
-  - Stage-3 character-identity corrections: **0**
-  - Stage 4: **COMPLETE / PASS after targeted scan-9 resolution**
-  - Stage-4 source-proven corrections: **0**
-  - post-closure word-by-word visual fidelity re-audit: **COMPLETE 5/5**
-  - re-audit source-proven corrections: **19**
-  - scans 5–9: **VERIFIED**
-  - scan 9 former blocked span: **RESOLVED / VERIFIED**
-  - page status: **verified 5/5**
-  - Batch 2 scans **10–14 / printed 6–10**
-  - Stage 1 first-pass: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
-  - Stage-2 source-proven corrections: **22**
-  - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
-  - Stage-3 character-identity corrections: **0**
-  - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
-  - Stage-4 additional source-supported corrections: **24**
-  - targeted scan-13 source resolution: **`படுவது,`**
-  - page status: **verified 5/5**
-  - unresolved source-text spans: **0**
+- retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)`: **CLOSED / VERIFIED 20/20**
+  - Batch 1 scans **5–9 / printed 1–5** — **CLOSED / VERIFIED 5/5**
+  - Batch 2 scans **10–14 / printed 6–10** — **CLOSED / VERIFIED 5/5**
+  - Batch 3 scans **15–19 / printed 11–15** — **CLOSED / VERIFIED 5/5**
+  - Batch 4 scans **20–24 / printed 16, 16-A–16-D** — **CLOSED / VERIFIED 5/5**
+  - Batch-4 Stage 1: **COMPLETE 5/5**
+  - Batch-4 Stage 2: **COMPLETE 5/5**
+  - Batch-4 Stage-2 source-supported corrections: **12**
+  - Batch-4 Stage 3: **COMPLETE / PASS 5/5**
+  - Batch-4 Stage-3 character-identity corrections: **0**
+  - Batch-4 Stage 4: **COMPLETE / PASS 5/5**
+  - Batch-4 Stage-4 additional source-supported corrections: **3**
+  - Batch-4 final corrections: `தடைவிதித்து` → `தடை விதித்து`; comma after `கூறினார்` → period; `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+  - page records: **20/20**
+  - verified: **20/20**
+  - needs-review: **0**
+  - unresolved source-text/glyph issues: **0**
   - guessed readings: **0**
-  - Batch 2 closure: **CLOSED / VERIFIED 5/5**
-  - Batch 3 scans **15–19 / printed 11–15**
-  - Stage 1 first-pass: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
-  - Stage-2 source-proven corrections: **7**
-  - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
-  - mandatory glyph families audited: **13/13**
-  - Stage-3 character-identity corrections: **0**
-  - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
-  - Stage-4 source-proven corrections: **2**
-  - page status: **verified 5/5**
-  - unresolved source-text issues: **0**
-  - guessed readings: **0**
-  - Batch 3 closure: **CLOSED / VERIFIED 5/5**
-- final retained-work batch scans **20–24 / printed 16, 16-A–16-D**:
-  - Stage 1 first-pass: **COMPLETE 5/5**
-  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
-  - Stage-2 source-supported corrections: **12**
-  - page records: **5/5**
-  - page status: **needs-review 5/5**
-  - unresolved source-text spans: **0**
-  - guessed readings: **0**
-  - scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
-  - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-  - scan 24: **work-ending page confirmed**
-  - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
-  - Stage 3 historical glyph: **COMPLETE / PASS 5/5**
-  - mandatory glyph families audited: **13/13**
-  - represented families: **8/13**
-  - absent families: **5/13**
-  - Stage-3 character-identity corrections: **0**
-  - Stage-3 unresolved glyph clusters: **0**
-  - Stage 4 final independent source check: **NEXT**
-  - durable Stage-1 record: `STAGE1_BATCH_004.md`
-  - durable Stage-2 record: `STAGE2_BATCH_004.md`
-  - durable Stage-3 record: `STAGE3_BATCH_004.md`
+  - scan 24: **work-ending reconfirmed**
+  - scan 25: **opens retained work 2 `தெருக்கூத்து` / காட்சி 1**
+  - durable Batch-4 records: `STAGE1_BATCH_004.md`, `STAGE2_BATCH_004.md`, `STAGE3_BATCH_004.md`, `STAGE4_BATCH_004.md`
+- retained work 2 `தெருக்கூத்து`: **NEXT**
+  - source scans: **25–51 / printed 17–43**
+  - next batch: scans **25–29 / printed 17–21**
+  - next gate: **Stage 1 first-pass transcription**
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 4 Stage 4 final independent source check**, scans **20–24 / printed 16, 16-A–16-D**.
+Retained work 2 **`தெருக்கூத்து` — Stage 1 first-pass transcription**, scans **25–29 / printed 17–21**.
 
-Batches 1–3, scans **5–19**, remain **CLOSED / VERIFIED 15/15**.
+The prose/discourse work `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` is now **CLOSED / VERIFIED 20/20**.
 
-Batch 4 Stage 3 is durably **COMPLETE / PASS 5/5**. All 13 mandatory glyph families were explicitly audited: **8 represented / 5 absent**. Character-identity corrections and unresolved glyph clusters are **0**. Stage-2 corrections remain **12**, unresolved source-text spans are **0**, and guessed readings are **0**. All five pages remain `needs-review`.
-
-Run Stage 4 only, synchronize controls, commit, and stop before `தெருக்கூத்து`.
+Create `works/therukoothu/`, transcribe scans 25–29 directly from the controlling PDF pixels, preserve source wording/punctuation/physical boundaries, keep all five pages `needs-review`, create the durable Stage-1 checkpoint, synchronize controls, commit, and stop before Stage 2.

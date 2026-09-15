@@ -4,10 +4,10 @@ printed_page: "16-A"
 work: "naadum-naadagamum-aasiriyar-pechile"
 section: "prose-discourse"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064193_நாடும்_நாடகமும்.pdf"
-transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit + Stage 3 historical Tamil glyph audit"
+transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit + Stage 3 historical Tamil glyph audit + Stage 4 final independent source check"
 ---
 
 இன்று நாட்டிலே நாடகத்தைத் தொழிலாகக் கொண்டவர்கள் மட்டுமல்லாது, வேறு பல்வேறு துறைகளிலும் ஈடுபட்டோரும், பொழுதுபோக்கும் எண்ணத்துடனும், கலையார்வத்துடனும், இன்னும் பலர், கருத்தைப் பரப்பும் நோக்கத்துடனும் நாடகக் கலையில் ஈடுபட்டு வருகின்றனர்.
@@ -27,5 +27,7 @@ transcription_method: "direct visual first-pass from native source scan + Stage 
 <!-- Stage 2 visual text-fidelity audit: COMPLETE after corrective direct-pixel recheck. Source-supported corrections: `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`; `‘அமைச்சூர்ஸ் நாடகங்கள்’` → source `‘அமெச்சூர்ஸ் நாடகங்கள்’`. `பொழுதுபோக்கும் எண்ணத்துடனும்`, `போதிய ஆற்றல்`, joined `ஆர்வங்காரணமாக`, `வேதனைச் சித்திரத்தைத் தீட்டி விடுவார்களோ`, and the scan 21→22 `கொண்டிட` / `வேண்டாம்.` continuation were directly rechecked and retained. Page remains needs-review pending Stage 3. -->
 
 <!-- Stage 3 historical-glyph audit: COMPLETE / PASS. Mandatory families explicitly checked across the page. Source-confirmed representative families include `ணை` in `துணைக்கொண்டு` / `துணையெனக்`, `லை` in `கலையார்வத்துடனும்` / `கலையில்`, `ளை` in `நாடகங்களைக்` / `நாடகங்களை`, `னா` in `ஆனால்`, and `னை` in `வேதனைச்`. Character-identity corrections: 0. Unresolved glyph clusters: 0. Page remains needs-review pending Stage 4. -->
+
+<!-- Stage 4 final independent source check: COMPLETE / PASS / VERIFIED. Fresh end-to-end scan review reconfirms all Stage-2 corrections (`ஏன்`, `அமெச்சூர்ஸ்`) and all Stage-3 glyph dispositions. Scan 21→22 continuation `கொண்டிட` / `வேண்டாம்.` passes. Additional Stage-4 corrections: 0. Unresolved issues: 0. Guessed readings: 0. -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 16-A -->

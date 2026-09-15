@@ -44,7 +44,7 @@ Batch 1 = scans **5–9 / printed 1–5**.
 - post-closure word-by-word fidelity re-audit: **COMPLETE — 5/5**
 - post-closure source-proven corrections: **19**
 - page status: **verified 5/5**
-- verified: **15/20**
+- verified: **20/20**
 - blocked: **0/20**
 - remaining actionable Batch-1 source-text issues: **0**
 
@@ -116,44 +116,51 @@ Stage-4 additional corrections:
 - scan 15: `தமிழனின் சரித்திரத்தை` → `தமிழரின் சரித்திரத்தை`
 - scan 16: `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`
 
-## Batch 4 current state
+## Batch 4 closure
 
 Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
 
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
 - Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
 - Stage-2 source-supported corrections: **12**
-- page records: **5/5**
-- page status: **needs-review 5/5**
-- unresolved source-text spans: **0**
-- guessed readings: **0**
-- scan 19→20 boundary: **PASS / no split**
-- scan 20→21 boundary: **PASS / no split**
-- scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
-- scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-- scan 23→24 boundary: **PASS / no split**
-- scan 24: **work-ending page confirmed**
-- scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
 - Stage 3 historical-glyph audit: **COMPLETE / PASS — 5/5**
 - mandatory historical-glyph families audited: **13/13**
-- represented families: **8/13**
-- absent families: **5/13**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
-- Stage 4 final independent check: **NEXT**
+- Stage 4 final independent source check: **COMPLETE / PASS — 5/5**
+- Stage-4 additional source-supported corrections: **3**
+- page records: **5/5**
+- page status: **verified 5/5**
+- unresolved source-text issues: **0**
+- guessed readings: **0**
+- all physical boundaries: **PASS / reconfirmed**
+- scan 24: **work-ending page reconfirmed**
+- scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
+- Batch 4 closure: **CLOSED / VERIFIED 5/5**
 - durable Stage-1 record: [`STAGE1_BATCH_004.md`](STAGE1_BATCH_004.md)
 - durable Stage-2 record: [`STAGE2_BATCH_004.md`](STAGE2_BATCH_004.md)
 - durable Stage-3 record: [`STAGE3_BATCH_004.md`](STAGE3_BATCH_004.md)
+- durable Stage-4 record: [`STAGE4_BATCH_004.md`](STAGE4_BATCH_004.md)
 
-Overall page state for this prose/discourse work:
+Stage-4 additional corrections:
+
+- scan 20: `தடைவிதித்து` → `தடை விதித்து`
+- scan 23: comma after `கூறினார்` → period
+- scan 24: `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+
+## Work closure
+
+`நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` is **CLOSED / VERIFIED 20/20**.
 
 - page records: **20/20**
-- verified: **15/20**
-- needs-review: **5/20**
+- verified: **20/20**
+- needs-review: **0/20**
 - blocked: **0/20**
+- unresolved source-text/glyph issues: **0**
+- guessed readings: **0**
 
 ## Exact next activity
 
-Run **Batch 4 Stage 4 final independent source check** for scans **20–24 / printed 16, 16-A–16-D**.
+Start retained work 2 **`தெருக்கூத்து` — Stage 1 first-pass transcription**, scans **25–29 / printed 17–21**.
 
-Reopen all five pages fresh against the controlling source, verify all **12 Stage-2 corrections** and the Stage-3 glyph dispositions, reconfirm every physical boundary plus the scan-24 work ending, promote pages to `verified` only if no issue remains, synchronize controls, commit Stage 4, and stop before `தெருக்கூத்து`.
+Create the `works/therukoothu/` workspace and five page records from the controlling scan pixels, keep the pages `needs-review`, synchronize controls, commit Stage 1, and stop before Stage 2.

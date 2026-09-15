@@ -17,11 +17,11 @@
 | 17 | 13 | body | **verified — Batch 3 Stage 4 PASS** |
 | 18 | 14 | body | **verified — Batch 3 Stage 4 PASS** |
 | 19 | 15 | body | **verified — Batch 3 Stage 4 PASS** |
-| 20 | 16 | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
-| 21 | 16-A | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
-| 22 | 16-B | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
-| 23 | 16-C | body | **needs-review — Batch 4 Stage 3 COMPLETE** |
-| 24 | 16-D | work-ending | **needs-review — Batch 4 Stage 3 COMPLETE** |
+| 20 | 16 | body | **verified — Batch 4 Stage 4 PASS** |
+| 21 | 16-A | body | **verified — Batch 4 Stage 4 PASS** |
+| 22 | 16-B | body | **verified — Batch 4 Stage 4 PASS** |
+| 23 | 16-C | body | **verified — Batch 4 Stage 4 PASS** |
+| 24 | 16-D | work-ending | **verified — Batch 4 Stage 4 PASS** |
 
 ## Batch 1
 
@@ -199,50 +199,53 @@ Scans **20–24 / printed 16, 16-A–16-D**
 - Stage 1: **COMPLETE / 5 pages**
 - Stage 2: **COMPLETE / 5 pages**
 - Stage-2 source-supported corrections: **12**
+- Stage 3: **COMPLETE / PASS / 5 pages**
+- mandatory glyph families audited: **13/13**
+- Stage-3 character-identity corrections: **0**
+- Stage-3 unresolved glyph clusters: **0**
+- Stage 4: **COMPLETE / PASS / 5 pages**
+- Stage-4 additional source-supported corrections: **3**
 - page records: **5/5**
-- needs-review: **5**
-- verified: **0**
+- needs-review: **0**
+- verified: **5**
 - blocked: **0**
-- unresolved source-text spans: **0**
+- unresolved source-text issues: **0**
 - guessed readings: **0**
 - scan 19→20: **PASS / no split**
 - scan 20→21: **PASS / no split**
 - scan 21→22: **PASS — `கொண்டிட` / `வேண்டாம்.`**
 - scan 22→23: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
 - scan 23→24: **PASS / no split**
-- scan 24: **work-ending page confirmed**
+- scan 24: **work-ending page reconfirmed**
 - scan 25: **boundary witness only — opens `தெருக்கூத்து` / காட்சி 1**
 - durable Stage-1 audit: `STAGE1_BATCH_004.md`
 - durable Stage-2 audit: `STAGE2_BATCH_004.md`
 - durable Stage-3 audit: `STAGE3_BATCH_004.md`
-- Stage 3: **COMPLETE / PASS / 5 pages**
-- mandatory glyph families audited: **13/13**
-- represented families: **8/13**
-- absent families: **5/13**
-- Stage-3 character-identity corrections: **0**
-- Stage-3 unresolved glyph clusters: **0**
-- Stage 4: **NEXT**
+- durable Stage-4 audit: `STAGE4_BATCH_004.md`
+- Batch 4 closure: **CLOSED / VERIFIED 5/5**
 
-### Stage-2 disposition
+### Stage-4 disposition
 
-- scan 20: **8 corrections**
-- scan 21: **2 corrections — `என்` → `ஏன்`; `அமைச்சூர்ஸ்` → `அமெச்சூர்ஸ்`**
-- scan 22: **2 corrections — period→comma after `நடிக்கிறார்`; `பேச்சு மூலப்` → `பேச்சு மூலம்`**
-- source spelling `அக்கரையோ`: **RETAINED**; erroneous modernization to `அக்கறையோ` retracted
-- scans 23–24: **0 corrections**
-- total Stage-2 source-supported corrections: **12**
-- unresolved source-text spans: **0**
+- scan 20: **PASS / VERIFIED** — `தடைவிதித்து` → `தடை விதித்து`
+- scan 21: **PASS / VERIFIED / 0 additional corrections**
+- scan 22: **PASS / VERIFIED / 0 additional corrections**
+- scan 23: **PASS / VERIFIED** — comma after `கூறினார்` → period
+- scan 24: **PASS / VERIFIED** — `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+- Stage-3 family disposition: **reconfirmed / 0 character-identity changes**
+- unresolved issues: **0**
 - guessed readings: **0**
-- all physical joins and work-ending boundary: **PASS**
 
-### Stage-3 disposition
+## Work closure
 
-- present families: **`ணா / ணை / லை / ளை / றா / றோ / னா / னை`**
-- absent families: **`ணொ / ணோ / றொ / னொ / னோ`**
-- character-identity corrections: **0**
-- unresolved glyph clusters: **0**
-- Stage-2 corrections preserved: **12**
+- page records: **20/20**
+- verified: **20/20**
+- needs-review: **0**
+- blocked: **0**
+- status: **CLOSED / VERIFIED**
 
+## Exact next activity
+
+Retained work 2 `தெருக்கூத்து` — Stage 1 scans **25–29 / printed 17–21**.
 ## Exact next activity
 
 Batch 4 Stage 4 final independent source check — scans **20–24 / printed 16, 16-A–16-D**. Do not begin `தெருக்கூத்து` in the same activity.
