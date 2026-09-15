@@ -35,9 +35,13 @@ The supplied `seerazhitha_sirippu.md` was used only as a locator/draft. The cano
 - closing ornament: **PASS**
 - Tamil/source layer: **CLOSED / PASS**
 - English E1 first translation: **COMPLETE**
-- English E1 page-marker coverage: **PASS 2/2**
-- Tamil changed during E1: **No**
-- later English gates: **E2–E5 NOT YET PERFORMED**
+- English E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
+- English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
+- cumulative English repairs E2+E3: **6**
+- English source-page markers: **PASS 2/2**
+- Tamil/source reopened during E2/E3: **No**
+- Tamil changed during English E1–E3: **No**
+- later English gates: **E4–E5 NOT YET PERFORMED**
 
 Durable controls:
 
@@ -50,6 +54,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E2 — meaning-fidelity review against the frozen verified Tamil authority.**
+**English E4 — English quality / readability review.**
 
-Review the complete E1 sentence-by-sentence for meaning, relationships, rhetoric and omissions/unsupported additions. Do not modify Tamil/source. Stop before E3 terminology review.
+Improve English clarity, grammar and readability without changing E2 meaning or E3 terminology decisions. Preserve both source-page markers and keep Tamil/source frozen. Stop before E5 final bilingual approval.
