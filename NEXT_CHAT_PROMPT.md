@@ -42,7 +42,7 @@ Workspace:
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
 - Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
-- Stage-2 source-supported corrections — **7**
+- Stage-2 source-supported corrections — **12**
 - page records — **5/5**
 - page status — **needs-review 5/5**
 - unresolved source-text spans — **0**
@@ -61,14 +61,10 @@ Workspace:
 
 Stage-2 correction summary:
 
-- scan 20 — **5 corrections**
-  - `நிலைக் கண்ணாடிகள் உடைத்தெறியலாம்` → `நிலைக் கண்ணாடிகளை உடைத்தெறியலாம்`
-  - first `ஒவ்வொரு துண்டும்` → `ஒவ்வொரு துண்டுமே`
-  - comma after `என்ன தோன்றும்` → period
-  - comma after `இத்துண்டே போதும்` → period
-  - second `ஒவ்வொரு துண்டும்` → `ஒவ்வொரு துண்டுமே`
-- scan 21 — `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`
-- scan 22 — `அக்கரையோ` → `அக்கறையோ`
+- scan 20 — **8 corrections**, including `கண்ணாடிகளே`, `கண்ணாடிகளை`, two `துண்டுமே` readings, `ஆசைப் படுகிறேன்`, two comma→period fixes, and `படலாம்,`
+- scan 21 — **2 corrections**: `என்` → `ஏன்`; `அமைச்சூர்ஸ்` → `அமெச்சூர்ஸ்`
+- scan 22 — **2 corrections**: period→comma after `நடிக்கிறார்`; `பேச்சு மூலப்` → `பேச்சு மூலம்`
+- scan 22 source spelling `அக்கரையோ` — **RETAINED**; erroneous modernization to `அக்கறையோ` retracted
 - scans 23–24 — **0 corrections**
 
 Overall prose/discourse page records: **20/20 present — 15 verified + 5 needs-review**.

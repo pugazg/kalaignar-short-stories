@@ -141,7 +141,7 @@ Scans **15–19 / printed 11–15**
 
 - Stage 1: **COMPLETE / 5 pages**
 - Stage 2: **COMPLETE / 5 pages**
-- source-proven Stage-2 corrections: **7**
+- source-proven Stage-2 corrections: **12**
 - Stage 3: **COMPLETE / PASS / 5 pages**
 - mandatory glyph families audited: **13/13**
 - Stage-3 character-identity corrections: **0**
@@ -219,10 +219,12 @@ Scans **20–24 / printed 16, 16-A–16-D**
 
 ### Stage-2 disposition
 
-- scan 20: **5 corrections**
-- scan 21: **1 correction — `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`**
-- scan 22: **1 correction — `அக்கரையோ` → `அக்கறையோ`**
+- scan 20: **8 corrections**
+- scan 21: **2 corrections — `என்` → `ஏன்`; `அமைச்சூர்ஸ்` → `அமெச்சூர்ஸ்`**
+- scan 22: **2 corrections — period→comma after `நடிக்கிறார்`; `பேச்சு மூலப்` → `பேச்சு மூலம்`**
+- source spelling `அக்கரையோ`: **RETAINED**; erroneous modernization to `அக்கறையோ` retracted
 - scans 23–24: **0 corrections**
+- total Stage-2 source-supported corrections: **12**
 - unresolved source-text spans: **0**
 - guessed readings: **0**
 - all physical joins and work-ending boundary: **PASS**

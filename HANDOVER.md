@@ -901,7 +901,7 @@ Scans **20–24 / printed 16, 16-A–16-D**:
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
 - Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
-- Stage-2 source-supported corrections — **7**
+- Stage-2 source-supported corrections — **12**
 - page records — **5/5**
 - page status — **needs-review 5/5**
 - unresolved source-text spans — **0**
@@ -920,10 +920,12 @@ Scans **20–24 / printed 16, 16-A–16-D**:
 
 Stage-2 correction summary:
 
-- scan 20 — **5 corrections**: `கண்ணாடிகள்` → `கண்ணாடிகளை`; two `துண்டும்` → `துண்டுமே`; two comma→period fixes
-- scan 21 — **1 correction**: `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`
-- scan 22 — **1 correction**: `அக்கரையோ` → `அக்கறையோ`
+- scan 20 — **8 corrections**, including `கண்ணாடிகளே`, `கண்ணாடிகளை`, two `துண்டுமே` readings, `ஆசைப் படுகிறேன்`, two comma→period fixes, and `படலாம்,`
+- scan 21 — **2 corrections**: `என்` → `ஏன்`; `அமைச்சூர்ஸ்` → `அமெச்சூர்ஸ்`
+- scan 22 — **2 corrections**: period→comma after `நடிக்கிறார்`; `பேச்சு மூலப்` → `பேச்சு மூலம்`
+- scan 22 source spelling `அக்கரையோ` — **RETAINED**; erroneous modernization retracted
 - scans 23–24 — **0 corrections**
+- total Stage-2 source-supported corrections — **12**
 - unresolved source-text spans — **0**
 - guessed readings — **0**
 

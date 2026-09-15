@@ -8,8 +8,9 @@ Batch: scans **20–24 / printed 16, 16-A–16-D**
 
 - pages audited directly against controlling scan pixels: **5/5**
 - Stage 2: **COMPLETE**
+- corrective direct-pixel recheck after the initial Stage-2 commit: **COMPLETE**
 - page status after Stage 2: **needs-review 5/5**
-- source-supported ordinary-fidelity corrections: **7**
+- source-supported ordinary-fidelity corrections from Stage-1 text: **12**
 - unresolved source-text spans: **0**
 - guessed readings introduced: **0**
 - scan 19→20: **PASS / complete paragraph boundary**
@@ -24,15 +25,20 @@ Batch: scans **20–24 / printed 16, 16-A–16-D**
 
 No OCR, web copy, Wikisource, catalogue text, alternate edition, or contextual reconstruction was used as source authority.
 
+The first Stage-2 commit undercounted several direct-scan mismatches and incorrectly modernized `அக்கரையோ`. A fresh direct-pixel recheck corrected that durable record before Stage 3.
+
 ## Source-supported corrections
 
-### Scan 20 / printed 16 — 5
+### Scan 20 / printed 16 — 8
 
+- `நாட்டு நிலைக் கண்ணாடிகள்,` → `நாட்டு நிலைக் கண்ணாடிகளே,`
 - `நிலைக் கண்ணாடிகள் உடைத்தெறியலாம்` → `நிலைக் கண்ணாடிகளை உடைத்தெறியலாம்`
 - first `ஒவ்வொரு துண்டும்` → `ஒவ்வொரு துண்டுமே`
-- `எடுக்கும் போது என்ன தோன்றும், என்ன காண்பர் அதிலே.` → `எடுக்கும் போது என்ன தோன்றும். என்ன காண்பர் அதிலே.`
-- `இத்துண்டே போதும், இதனையே` → `இத்துண்டே போதும். இதனையே`
+- `ஆசைப்படுகிறேன்` → `ஆசைப் படுகிறேன்`
+- comma after `என்ன தோன்றும்` → period
+- comma after `இத்துண்டே போதும்` → period
 - second `சிதறிய ஒவ்வொரு துண்டும்,` → `சிதறிய ஒவ்வொரு துண்டுமே,`
+- `படலாம்; முகத்திலே` → `படலாம், முகத்திலே`
 
 Directly rechecked and retained:
 
@@ -44,9 +50,10 @@ Directly rechecked and retained:
 - `இதனையே நானும் காட்டுவேன் மக்களுக்கு என`
 - `கல்லெறியும் வேகத்திலே`
 
-### Scan 21 / printed 16-A — 1
+### Scan 21 / printed 16-A — 2
 
 - `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`
+- `‘அமைச்சூர்ஸ் நாடகங்கள்’` → `‘அமெச்சூர்ஸ் நாடகங்கள்’`
 
 Directly rechecked and retained:
 
@@ -54,12 +61,17 @@ Directly rechecked and retained:
 - `போதிய ஆற்றல்`
 - joined `ஆர்வங்காரணமாக`
 - `வேதனைச் சித்திரத்தைத் தீட்டி விடுவார்களோ`
-- quoted `‘அமைச்சூர்ஸ் நாடகங்கள்’`
 - final `கொண்டிட`
 
-### Scan 22 / printed 16-B — 1
+### Scan 22 / printed 16-B — 2
 
-- `அக்கரையோ` → `அக்கறையோ`
+- `நடிக்கிறார். நாடகத்தில்?` → `நடிக்கிறார், நாடகத்தில்?`
+- `பேச்சு மூலப் பரப்பி` → `பேச்சு மூலம் பரப்பி`
+
+Corrective disposition:
+
+- the source reads **`அக்கரையோ`**;
+- the initial Stage-2 change to `அக்கறையோ` was a modernization and is **RETRACTED**.
 
 Directly rechecked and retained:
 
@@ -67,9 +79,7 @@ Directly rechecked and retained:
 - `காரியமாற்றும் ஆற்றலையும்`
 - `நாடகம் நடிக்க, நடத்த இருக்கும், இருக்க வேண்டிய`
 - quote punctuation around `“கூத்தாடி”` / `‘கூத்தாடிப் பிழைப்பு’`
-- `நாடகத்தில்?`
 - source-visible `கொட்டியா`
-- `பேச்சு மூலப் பரப்பி`
 - final `நல்ல`
 
 ### Scan 23 / printed 16-C — 0
@@ -117,7 +127,7 @@ No duplicated or omitted text was found at the joins.
 
 - Stage 1: **COMPLETE 5/5**
 - Stage 2: **COMPLETE 5/5**
-- Stage-2 corrections: **7**
+- Stage-2 source-supported corrections: **12**
 - unresolved source-text spans: **0**
 - pages: **needs-review 5/5**
 - guessed readings: **0**

@@ -137,7 +137,7 @@ No new canonical story folder was created in this intake-only iteration.
 - final retained-work batch scans **20–24 / printed 16, 16-A–16-D**:
   - Stage 1 first-pass: **COMPLETE 5/5**
   - Stage 2 visual text-fidelity: **COMPLETE 5/5**
-  - Stage-2 source-supported corrections: **7**
+  - Stage-2 source-supported corrections: **12**
   - page records: **5/5**
   - page status: **needs-review 5/5**
   - unresolved source-text spans: **0**
@@ -159,6 +159,6 @@ Retained work 1 `நாடும் நாடகமும் (ஆசிரிய
 
 Batches 1–3, scans **5–19**, remain **CLOSED / VERIFIED 15/15**.
 
-Batch 4 Stage 2 is durably **COMPLETE 5/5** with **7 source-supported corrections**, **0 unresolved source-text spans**, and **0 guessed readings**. All five pages remain `needs-review`. Scan 24 remains the work-ending page; scan 25 opens `தெருக்கூத்து` and is excluded.
+Batch 4 Stage 2 is durably **COMPLETE 5/5** with **12 source-supported corrections**, **0 unresolved source-text spans**, and **0 guessed readings**. All five pages remain `needs-review`. Scan 24 remains the work-ending page; scan 25 opens `தெருக்கூத்து` and is excluded.
 
 Run Stage 3 only, synchronize controls, commit, and stop before Stage 4 or `தெருக்கூத்து`.
