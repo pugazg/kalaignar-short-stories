@@ -121,18 +121,23 @@ Stage-4 additional corrections:
 Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
 
 - Stage 1 first-pass transcription: **COMPLETE — 5/5**
+- Stage 2 visual text-fidelity audit: **COMPLETE — 5/5**
+- Stage-2 source-supported corrections: **7**
 - page records: **5/5**
 - page status: **needs-review 5/5**
-- explicit unreadable inline spans: **0**
+- unresolved source-text spans: **0**
 - guessed readings: **0**
+- scan 19→20 boundary: **PASS / no split**
+- scan 20→21 boundary: **PASS / no split**
 - scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
 - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-- scan 24: **work-ending page**
+- scan 23→24 boundary: **PASS / no split**
+- scan 24: **work-ending page confirmed**
 - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
-- Stage 2 visual text-fidelity audit: **NEXT**
-- Stage 3 historical-glyph audit: **NOT STARTED**
+- Stage 3 historical-glyph audit: **NEXT**
 - Stage 4 final independent check: **NOT STARTED**
 - durable Stage-1 record: [`STAGE1_BATCH_004.md`](STAGE1_BATCH_004.md)
+- durable Stage-2 record: [`STAGE2_BATCH_004.md`](STAGE2_BATCH_004.md)
 
 Overall page state for this prose/discourse work:
 
@@ -143,6 +148,6 @@ Overall page state for this prose/discourse work:
 
 ## Exact next activity
 
-Run **Batch 4 Stage 2 visual text-fidelity audit** for scans **20–24 / printed 16, 16-A–16-D**.
+Run **Batch 4 Stage 3 historical Tamil glyph audit** for scans **20–24 / printed 16, 16-A–16-D**.
 
-Compare all five committed Stage-1 page records directly against the controlling scan line by line / phrase by phrase, adjudicate the Stage-1 review queue and all physical boundaries, keep every page `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3. Do not begin `தெருக்கூத்து` in the same activity.
+Explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, keep all five pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4. Do not begin `தெருக்கூத்து` in the same activity.

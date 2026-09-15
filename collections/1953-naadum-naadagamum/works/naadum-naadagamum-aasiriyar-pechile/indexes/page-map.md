@@ -17,11 +17,11 @@
 | 17 | 13 | body | **verified — Batch 3 Stage 4 PASS** |
 | 18 | 14 | body | **verified — Batch 3 Stage 4 PASS** |
 | 19 | 15 | body | **verified — Batch 3 Stage 4 PASS** |
-| 20 | 16 | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
-| 21 | 16-A | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
-| 22 | 16-B | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
-| 23 | 16-C | body | **needs-review — Batch 4 Stage 1 COMPLETE** |
-| 24 | 16-D | work-ending | **needs-review — Batch 4 Stage 1 COMPLETE** |
+| 20 | 16 | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
+| 21 | 16-A | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
+| 22 | 16-B | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
+| 23 | 16-C | body | **needs-review — Batch 4 Stage 2 COMPLETE** |
+| 24 | 16-D | work-ending | **needs-review — Batch 4 Stage 2 COMPLETE** |
 
 ## Batch 1
 
@@ -197,24 +197,36 @@ Scans **15–19 / printed 11–15**
 Scans **20–24 / printed 16, 16-A–16-D**
 
 - Stage 1: **COMPLETE / 5 pages**
+- Stage 2: **COMPLETE / 5 pages**
+- Stage-2 source-supported corrections: **7**
 - page records: **5/5**
 - needs-review: **5**
 - verified: **0**
 - blocked: **0**
-- explicit unreadable inline spans: **0**
+- unresolved source-text spans: **0**
 - guessed readings: **0**
-- scan 19→20: **complete paragraph boundary / no split**
-- scan 20→21: **complete paragraph boundary / no split**
+- scan 19→20: **PASS / no split**
+- scan 20→21: **PASS / no split**
 - scan 21→22: **PASS — `கொண்டிட` / `வேண்டாம்.`**
 - scan 22→23: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-- scan 23→24: **complete paragraph boundary / no split**
-- scan 24: **work-ending page**
+- scan 23→24: **PASS / no split**
+- scan 24: **work-ending page confirmed**
 - scan 25: **boundary witness only — opens `தெருக்கூத்து` / காட்சி 1**
 - durable Stage-1 audit: `STAGE1_BATCH_004.md`
-- Stage 2: **NEXT**
-- Stage 3: **NOT STARTED**
+- durable Stage-2 audit: `STAGE2_BATCH_004.md`
+- Stage 3: **NEXT**
 - Stage 4: **NOT STARTED**
+
+### Stage-2 disposition
+
+- scan 20: **5 corrections**
+- scan 21: **1 correction — `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`**
+- scan 22: **1 correction — `அக்கரையோ` → `அக்கறையோ`**
+- scans 23–24: **0 corrections**
+- unresolved source-text spans: **0**
+- guessed readings: **0**
+- all physical joins and work-ending boundary: **PASS**
 
 ## Exact next activity
 
-Batch 4 Stage 2 visual text-fidelity audit — scans **20–24 / printed 16, 16-A–16-D**. Do not begin Stage 3 or `தெருக்கூத்து` in the same activity.
+Batch 4 Stage 3 historical Tamil glyph audit — scans **20–24 / printed 16, 16-A–16-D**. Do not begin Stage 4 or `தெருக்கூத்து` in the same activity.

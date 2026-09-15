@@ -900,27 +900,38 @@ Stage-4 disposition:
 Scans **20–24 / printed 16, 16-A–16-D**:
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
+- Stage-2 source-supported corrections — **7**
 - page records — **5/5**
 - page status — **needs-review 5/5**
-- explicit unreadable inline spans — **0**
+- unresolved source-text spans — **0**
 - guessed readings — **0**
-- scan 19→20 — **complete paragraph boundary / no split**
-- scan 20→21 — **complete paragraph boundary / no split**
+- scan 19→20 — **PASS / no split**
+- scan 20→21 — **PASS / no split**
 - scan 21→22 — **PASS — `கொண்டிட` / `வேண்டாம்.`**
 - scan 22→23 — **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-- scan 23→24 — **complete paragraph boundary / no split**
-- scan 24 — **work-ending page**
+- scan 23→24 — **PASS / no split**
+- scan 24 — **work-ending page confirmed**
 - scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1 and is excluded**
 - durable Stage-1 record — `STAGE1_BATCH_004.md`
-- Stage 2 visual text-fidelity audit — **NEXT**
-- Stage 3 — **NOT STARTED**
+- durable Stage-2 record — `STAGE2_BATCH_004.md`
+- Stage 3 historical Tamil glyph audit — **NEXT**
 - Stage 4 — **NOT STARTED**
 
-Overall retained-work page coverage is now **20/20 page records — 15 verified + 5 needs-review**.
+Stage-2 correction summary:
 
-**NEXT: Batch 4 Stage 2 visual text-fidelity audit — scans 20–24 / printed 16, 16-A–16-D.**
+- scan 20 — **5 corrections**: `கண்ணாடிகள்` → `கண்ணாடிகளை`; two `துண்டும்` → `துண்டுமே`; two comma→period fixes
+- scan 21 — **1 correction**: `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`
+- scan 22 — **1 correction**: `அக்கரையோ` → `அக்கறையோ`
+- scans 23–24 — **0 corrections**
+- unresolved source-text spans — **0**
+- guessed readings — **0**
 
-Use only the controlling scan pixels. Compare all five committed Stage-1 page records line by line / phrase by phrase, adjudicate the durable Stage-1 review queue and physical boundaries, keep all five pages `needs-review`, synchronize controls, commit Stage 2, and stop before Stage 3 or `தெருக்கூத்து`.
+Overall retained-work page coverage remains **20/20 page records — 15 verified + 5 needs-review**.
+
+**NEXT: Batch 4 Stage 3 historical Tamil glyph audit — scans 20–24 / printed 16, 16-A–16-D.**
+
+Explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, keep all five pages `needs-review`, synchronize controls, commit Stage 3, and stop before Stage 4 or `தெருக்கூத்து`.
 
 After the entire prose/discourse work closes, process retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** inside this repository.
 

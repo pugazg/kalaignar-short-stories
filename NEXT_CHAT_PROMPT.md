@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 4 Stage 2 scans 20–24
+# NEXT CHAT PROMPT — 1953 `நாடும் நாடகமும்` / Batch 4 Stage 3 scans 20–24
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -41,105 +41,56 @@ Workspace:
 ### Batch 4 — scans 20–24 / printed 16, 16-A–16-D
 
 - Stage 1 first-pass transcription — **COMPLETE 5/5**
+- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
+- Stage-2 source-supported corrections — **7**
 - page records — **5/5**
 - page status — **needs-review 5/5**
-- explicit unreadable inline spans — **0**
+- unresolved source-text spans — **0**
 - guessed readings — **0**
-- scan 19→20 — **complete paragraph boundary / no split**
-- scan 20→21 — **complete paragraph boundary / no split**
+- scan 19→20 — **PASS / no split**
+- scan 20→21 — **PASS / no split**
 - scan 21→22 — **PASS — `கொண்டிட` / `வேண்டாம்.`**
 - scan 22→23 — **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-- scan 23→24 — **complete paragraph boundary / no split**
-- scan 24 — **work-ending page**
-- scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1**
+- scan 23→24 — **PASS / no split**
+- scan 24 — **work-ending page confirmed**
+- scan 25 — **boundary witness only; opens `தெருக்கூத்து` / காட்சி 1 and is excluded**
 - durable Stage-1 record — `STAGE1_BATCH_004.md`
-- Stage 2 visual text-fidelity audit — **NEXT**
-- Stage 3 historical-glyph audit — **NOT STARTED**
+- durable Stage-2 record — `STAGE2_BATCH_004.md`
+- Stage 3 historical-glyph audit — **NEXT**
 - Stage 4 final independent source check — **NOT STARTED**
+
+Stage-2 correction summary:
+
+- scan 20 — **5 corrections**
+  - `நிலைக் கண்ணாடிகள் உடைத்தெறியலாம்` → `நிலைக் கண்ணாடிகளை உடைத்தெறியலாம்`
+  - first `ஒவ்வொரு துண்டும்` → `ஒவ்வொரு துண்டுமே`
+  - comma after `என்ன தோன்றும்` → period
+  - comma after `இத்துண்டே போதும்` → period
+  - second `ஒவ்வொரு துண்டும்` → `ஒவ்வொரு துண்டுமே`
+- scan 21 — `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`
+- scan 22 — `அக்கரையோ` → `அக்கறையோ`
+- scans 23–24 — **0 corrections**
 
 Overall prose/discourse page records: **20/20 present — 15 verified + 5 needs-review**.
 
-## Stage-2 review queue
-
-### Scan 20 / printed 16
-
-Recheck:
-
-- `நாடகங்கட்குத் தடைவிதித்து`
-- `துணிந்து விட்டனர்`
-- `எடுக்கப்படும் பலரால்`
-- punctuation around `எடுக்கும் போது என்ன தோன்றும், என்ன காண்பர் அதிலே.`
-- opening quotation before `நமது நிலைமையைக்` and the source position/absence of its closing mark
-- `ஆணவக்காரர்கள்`
-- `இதனையே நானும் காட்டுவேன் மக்களுக்கு என`
-- `கல்லெறியும் வேகத்திலே`
-
-### Scan 21 / printed 16-A
-
-Recheck:
-
-- `பொழுதுபோக்கும் எண்ணத்துடனும்`
-- `போதிய ஆற்றல்`
-- `என் சிறிதுகூடப் பொருட்படுத்தாமலேயுங்கூட`
-- joined `ஆர்வங்காரணமாக`
-- `வேதனைச் சித்திரத்தைத் தீட்டி விடுவார்களோ`
-- quoted `‘அமைச்சூர்ஸ் நாடகங்கள்’`
-- final `கொண்டிட` continuation
-
-### Scan 22 / printed 16-B
-
-Recheck:
-
-- opening `வேண்டாம்.` continuation
-- `காரியமாற்றும் ஆற்றலையும்`
-- `நாடகம் நடிக்க, நடத்த இருக்கும், இருக்க வேண்டிய`
-- quote punctuation around `“கூத்தாடி”` / `‘கூத்தாடிப் பிழைப்பு’`
-- `நாடகத்தில்?`
-- `கொட்டியா`
-- `பேச்சு மூலப் பரப்பி`
-- final `நல்ல` continuation
-
-### Scan 23 / printed 16-C
-
-Recheck:
-
-- `ஒரு சில ஆண்டுகட்கு முன்னர்`
-- `மறுமலர்ச்சி நாடகம் என்றாலே`
-- punctuation after `செய்தும் வருகிறார்`
-- `நல்லதொரு எதை யெனத் எண்ணிக் களிப்புறுகிறது தெரியுமா?`
-- `பாத்திரத்திற் கேற்ப`
-
-### Scan 24 / printed 16-D
-
-Recheck:
-
-- `அறிவை யகற்றி`
-- `வாழா வெட்டிகளாக`
-- `அஞ்ஞானக் கருத்துக்களின்மீது`
-- `ஆடைகளை யணிகிறோம்`
-- `கிடைத்ததை யெல்லாம்`
-- `பயன் படுத்துகிறோம்`
-- quotation punctuation in `‘கூத்தாடி, கூத்தாடி’,`
-- final joined `என்றுதான்`
-- work-ending boundary and absence/presence of any closing ornament before scan 25
-
 ## Exact next activity
 
-Run **Batch 4 Stage 2 visual text-fidelity audit** for scans **20–24 / printed 16, 16-A–16-D**.
+Run **Batch 4 Stage 3 historical Tamil glyph audit** for scans **20–24 / printed 16, 16-A–16-D**.
 
 1. fetch live `main`;
-2. reread the workflow/fidelity guides, `HANDOVER.md`, this prompt, work README, page map, and `STAGE1_BATCH_004.md`;
+2. reread `BATCH_TRANSCRIPTION_VERIFICATION_WORKFLOW.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, `HANDOVER.md`, this prompt, work README, page map, `STAGE1_BATCH_004.md`, and `STAGE2_BATCH_004.md`;
 3. reopen scans 20–24 from the controlling source;
-4. compare each committed Stage-1 page line by line / phrase by phrase against the scan;
-5. check omissions, duplicate text, word/letter identity, punctuation, source spelling/spacing, paragraph boundaries, and page joins;
-6. adjudicate every Stage-1 review-queue item above;
-7. reconfirm scan 21→22 and 22→23 split phrases, scan 24 work-ending, and scan 25 exclusion;
-8. correct only source-supported ordinary fidelity issues;
+4. explicitly audit all mandatory historical-glyph families:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+5. identify which families are present vs absent across the full batch;
+6. compare whole words/phrases for each visible candidate; never infer from a single isolated stroke;
+7. correct character identity only where the scan directly supports it; do not modernize spelling/grammar and do not global-replace;
+8. preserve all Stage-2 ordinary-text corrections and all physical boundary dispositions;
 9. keep all five pages `needs-review`;
-10. create `STAGE2_BATCH_004.md`, synchronize all controls, commit Stage 2, and stop.
+10. create `STAGE3_BATCH_004.md`, synchronize all controls, commit Stage 3, and stop.
 
-Do **not** begin Stage 3 or `தெருக்கூத்து` in the same activity.
+Do **not** begin Stage 4 or `தெருக்கூத்து` in the same activity.
 
-After this batch eventually passes all four stages, the prose/discourse work will close. Then retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** is next in source order.
+After Batch 4 Stage 4 eventually passes, this prose/discourse work will close **20/20 verified**. Then retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** is next in source order.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.

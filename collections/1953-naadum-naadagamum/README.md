@@ -136,27 +136,29 @@ No new canonical story folder was created in this intake-only iteration.
   - Batch 3 closure: **CLOSED / VERIFIED 5/5**
 - final retained-work batch scans **20–24 / printed 16, 16-A–16-D**:
   - Stage 1 first-pass: **COMPLETE 5/5**
+  - Stage 2 visual text-fidelity: **COMPLETE 5/5**
+  - Stage-2 source-supported corrections: **7**
   - page records: **5/5**
   - page status: **needs-review 5/5**
-  - explicit unreadable inline spans: **0**
+  - unresolved source-text spans: **0**
   - guessed readings: **0**
   - scan 21→22 boundary: **PASS — `கொண்டிட` / `வேண்டாம்.`**
   - scan 22→23 boundary: **PASS — `நல்ல` / `சமூக நாடகங்கள்`**
-  - scan 24: **work-ending page**
+  - scan 24: **work-ending page confirmed**
   - scan 25 boundary witness: **opens `தெருக்கூத்து` / காட்சி 1 — excluded**
-  - Stage 2 visual text-fidelity: **NEXT**
-  - Stage 3: **NOT STARTED**
+  - Stage 3 historical glyph: **NEXT**
   - Stage 4: **NOT STARTED**
   - durable Stage-1 record: `STAGE1_BATCH_004.md`
+  - durable Stage-2 record: `STAGE2_BATCH_004.md`
 - remaining witness comparison: **NOT STARTED**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 4 Stage 2 visual text-fidelity audit**, scans **20–24 / printed 16, 16-A–16-D**.
+Retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **Batch 4 Stage 3 historical Tamil glyph audit**, scans **20–24 / printed 16, 16-A–16-D**.
 
 Batches 1–3, scans **5–19**, remain **CLOSED / VERIFIED 15/15**.
 
-Batch 4 Stage 1 is durably **COMPLETE 5/5**. All five final prose/discourse pages now have page records and remain `needs-review`; explicit unreadable inline spans and guessed readings are 0. Scan 24 is the work-ending page, while scan 25 visibly opens `தெருக்கூத்து` / காட்சி 1 and is excluded.
+Batch 4 Stage 2 is durably **COMPLETE 5/5** with **7 source-supported corrections**, **0 unresolved source-text spans**, and **0 guessed readings**. All five pages remain `needs-review`. Scan 24 remains the work-ending page; scan 25 opens `தெருக்கூத்து` and is excluded.
 
-Run Stage 2 only, synchronize controls, commit, and stop before Stage 3 or `தெருக்கூத்து`.
+Run Stage 3 only, synchronize controls, commit, and stop before Stage 4 or `தெருக்கூத்து`.

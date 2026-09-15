@@ -7,7 +7,7 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064193_நாடும்_நாடகமும்.pdf"
-transcription_method: "direct visual first-pass from native source scan"
+transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit"
 ---
 
 சமூக நாடகங்கள் நடத்த வேண்டுமென்றும் விளக்கிக் கூறினார், ஒரு சில ஆண்டுகட்கு முன்னர்.
@@ -26,6 +26,8 @@ transcription_method: "direct visual first-pass from native source scan"
 
 <!-- Stage 1 boundary: opening “சமூக நாடகங்கள்” continues scan 22 final “நல்ல”. Scan 23 ends a complete sentence/paragraph; scan 24 begins a new paragraph. -->
 
-<!-- Stage 1: COMPLETE / first-pass only. Source-visible unusual spans `ஒரு சில ஆண்டுகட்கு முன்னர்`, punctuation after `வருகிறார்`, the phrase `நல்லதொரு எதை யெனத் எண்ணிக் களிப்புறுகிறது தெரியுமா?`, and `பாத்திரத்திற் கேற்ப` are retained for Stage-2 visual adjudication rather than contextually repaired. -->
+<!-- Stage 1: COMPLETE / first-pass only. Source-visible unusual spans `ஒரு சில ஆண்டுகட்கு முன்னர்`, punctuation after `வருகிறார்`, the phrase `நல்லதொரு எதை யெனத் எண்ணிக் களிப்புறுகிறது தெரியுமா?`, and `பாத்திரத்திற் கேற்ப` were retained for Stage-2 visual adjudication rather than contextually repaired. -->
+
+<!-- Stage 2 visual text-fidelity audit: COMPLETE / no ordinary-text correction required. Direct scan review confirms `ஒரு சில ஆண்டுகட்கு முன்னர்`, `மறுமலர்ச்சி நாடகம் என்றாலே`, the absence of terminal punctuation after `செய்தும் வருகிறார்`, source-visible `நல்லதொரு எதை யெனத் எண்ணிக் களிப்புறுகிறது தெரியுமா?`, and `பாத்திரத்திற் கேற்ப`. Scan 22→23 and 23→24 boundaries pass. Page remains needs-review pending Stage 3. -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 16-C -->

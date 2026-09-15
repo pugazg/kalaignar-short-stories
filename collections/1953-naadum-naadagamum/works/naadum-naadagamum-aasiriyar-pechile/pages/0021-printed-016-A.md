@@ -7,12 +7,12 @@ page_type: "body"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064193_நாடும்_நாடகமும்.pdf"
-transcription_method: "direct visual first-pass from native source scan"
+transcription_method: "direct visual first-pass from native source scan + Stage 2 visual text-fidelity audit"
 ---
 
 இன்று நாட்டிலே நாடகத்தைத் தொழிலாகக் கொண்டவர்கள் மட்டுமல்லாது, வேறு பல்வேறு துறைகளிலும் ஈடுபட்டோரும், பொழுதுபோக்கும் எண்ணத்துடனும், கலையார்வத்துடனும், இன்னும் பலர், கருத்தைப் பரப்பும் நோக்கத்துடனும் நாடகக் கலையில் ஈடுபட்டு வருகின்றனர்.
 
-நான் இவர்களுடைய ஆர்வத்தைப் பெரிதும் பாராட்டுகிறேன். ஆனால் அதே நேரத்தில் ஆர்வத்தை மட்டும் துணைக்கொண்டு, போதிய ஆற்றல், நாடகத் துறைக்கேற்ற நல்ல கதை, வசனம், பாடல், பயிற்சி, வசதி, காட்சியமைப்பு எதையும் கவனியாது, என் சிறிதுகூடப் பொருட்படுத்தாமலேயுங்கூட, நாடகங்கள் நடத்தி நாட்டு மக்களின் பொறுமையைச் சோதித்து விடுகின்றனர்.
+நான் இவர்களுடைய ஆர்வத்தைப் பெரிதும் பாராட்டுகிறேன். ஆனால் அதே நேரத்தில் ஆர்வத்தை மட்டும் துணைக்கொண்டு, போதிய ஆற்றல், நாடகத் துறைக்கேற்ற நல்ல கதை, வசனம், பாடல், பயிற்சி, வசதி, காட்சியமைப்பு எதையும் கவனியாது, ஏன் சிறிதுகூடப் பொருட்படுத்தாமலேயுங்கூட, நாடகங்கள் நடத்தி நாட்டு மக்களின் பொறுமையைச் சோதித்து விடுகின்றனர்.
 
 ஆர்வங்காரணமாக, ஆற்றல் வளர்த்துக் கொள்ளாமல், அரைகுறையாக நடிக்கும் நாடகங்களைக் கண்டுவரும் மக்கள், நாளடைவில் நல்ல நாடகங்களை வெறுக்கும் அளவுக்கு, வேதனைச் சித்திரத்தைத் தீட்டி விடுவார்களோ என அச்சமுறும் அளவுக்கு சிலபல ‘அமைச்சூர்ஸ் நாடகங்கள்’ நாட்டில் அடிக்கடி இப்போது நடைபெற்று வருகின்றன.
 
@@ -22,6 +22,8 @@ transcription_method: "direct visual first-pass from native source scan"
 
 <!-- Stage 1 boundary: final “கொண்டிட” continues on scan 22 / printed 16-B with “வேண்டாம்.” -->
 
-<!-- Stage 1: COMPLETE / first-pass only. Source-visible unusual forms including `என் சிறிதுகூடப் பொருட்படுத்தாமலேயுங்கூட`, joined `ஆர்வங்காரணமாக`, and quoted `‘அமைச்சூர்ஸ் நாடகங்கள்’` are retained for Stage-2 review. -->
+<!-- Stage 1: COMPLETE / first-pass only. Unusual forms including the disputed word before `சிறிதுகூடப்`, joined `ஆர்வங்காரணமாக`, and quoted `‘அமைச்சூர்ஸ் நாடகங்கள்’` were retained for Stage-2 review. -->
+
+<!-- Stage 2 visual text-fidelity audit: COMPLETE. Source-supported correction: `என் சிறிதுகூடப்` → `ஏன் சிறிதுகூடப்`. `பொழுதுபோக்கும் எண்ணத்துடனும்`, `போதிய ஆற்றல்`, joined `ஆர்வங்காரணமாக`, `வேதனைச் சித்திரத்தைத் தீட்டி விடுவார்களோ`, quoted `‘அமைச்சூர்ஸ் நாடகங்கள்’`, and the scan 21→22 `கொண்டிட` / `வேண்டாம்.` continuation were directly rechecked and retained. Page remains needs-review pending Stage 3. -->
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 16-A -->
