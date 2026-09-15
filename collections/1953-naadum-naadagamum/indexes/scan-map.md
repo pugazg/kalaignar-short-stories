@@ -11,7 +11,7 @@
 | 3–4 | — | front matter | `பதிப்புரை` | registered |
 | 5–24 | 1–16, 16-A–16-D | prose/discourse | `நாடும் நாடகமும் (ஆசிரியர் பேச்சிலே)` | **CLOSED / VERIFIED 20/20** |
 | **25–36** | **17–28** | play | `தெருக்கூத்து`; opens `காட்சி 1`; scan 36 closes `[தெருக்கூத்தும் முடிகிறது]` | **CLOSED / VERIFIED 12/12** |
-| **37–51** | **29–43** | short-story block | `சந்தனக்கிண்ணம்` | **inventory only / new-canonical candidate** |
+| **37–51** | **29–43** | short story | `சந்தனக்கிண்ணம்` | **new canonical `stories/santhanak-kinnam/` / Stage 1 NEXT** |
 | 52–68 | 44–60 | short story | `ஆலமரத்துப் புறாக்கள்` | existing-canonical witness |
 | 69–75 | 61–67 | short story | `பெண்கள்` | new-canonical candidate |
 | 76–80 | 68–72 | short story | `இரகசியம்!` | existing-canonical witness |
@@ -71,8 +71,14 @@ User-expanded Stage-1 batch: scans **25–36 / printed 17–28**.
 - final unresolved glyph clusters: **0**
 - closure: **CLOSED / VERIFIED**
 
+## Active short-story checkpoint — `சந்தனக்கிண்ணம்`
+
+- physical span: **scans 37–51 / printed 29–43**
+- fresh canonical/content-level deduplication: **COMPLETE / no existing match**
+- canonical route: **`stories/santhanak-kinnam/`**
+- canonical activation: **COMPLETE**
+- Stage 1: **NEXT — scans 37–41 / printed 29–33**
+
 ## Exact next activity
 
-`தெருக்கூத்து` is **CLOSED / VERIFIED 12/12**.
-
-Next: `சந்தனக்கிண்ணம்` scans **37–51 / printed 29–43**. Run fresh live-`main` canonical/content-level deduplication before activation. If no existing canonical match is found, begin Stage 1 with scans **37–41 / printed 29–33**.
+Stage 1 first-pass transcription for `சந்தனக்கிண்ணம்`, scans **37–41 / printed 29–33**. Use direct source pixels only, create five `needs-review` records, commit/synchronize, and stop before Stage 2.

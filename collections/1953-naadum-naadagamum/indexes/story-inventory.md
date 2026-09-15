@@ -21,7 +21,7 @@ Direct `தெருக்கூத்து` processing corrected the earlier p
 
 | # | TOC title | Story-opening heading | Printed pages | PDF scans | Repository routing | Processing state |
 |---:|---|---|---:|---:|---|---|
-| 1 | — | **`சந்தனக்கிண்ணம்`** | **29–43** | **37–51** | **new-canonical candidate** | **NOT STARTED** |
+| 1 | — | **`சந்தனக்கிண்ணம்`** | **29–43** | **37–51** | **new canonical `stories/santhanak-kinnam/`** | **ACTIVATED / Stage 1 NEXT** |
 | 2 | — | `ஆலமரத்துப் புறாக்கள்` | 44–60 | 52–68 | existing canonical `stories/aalamarathup-puraakkal/` — earlier witness | **NOT STARTED** |
 | 3 | — | `பெண்கள்` | 61–67 | 69–75 | new-canonical candidate | **NOT STARTED** |
 | 4 | — | `இரகசியம்!` | 68–72 | 76–80 | existing canonical `stories/iragasiyam/` — earlier witness | **NOT STARTED** |
@@ -36,9 +36,9 @@ There is **no visible TOC** in scans 1–4. TOC-title cells remain **—**.
 
 Exact Tamil-title and obvious transliterated-title searches on live `main` returned no existing canonical workspace.
 
-Current routing: **intake-level new-canonical candidate**.
+Fresh pre-activation live-`main` checks found no exact/spaced title match, no obvious slug match, and no match for distinctive source-content anchors involving Kamala, Vijaya, the wedding scene, and the `சந்தனக்கிண்ணம்` gift.
 
-Perform a content-level deduplication check immediately before activation.
+Current routing: **NEW CANONICAL — `stories/santhanak-kinnam/` ACTIVATED**.
 
 ### Story 2 — `ஆலமரத்துப் புறாக்கள்`
 
@@ -58,7 +58,8 @@ Existing canonical route: `stories/iragasiyam/`.
 
 - short stories inventoried: **4/4**
 - canonical witness routes: **2**
-- new-canonical candidates: **2**
+- new-canonical candidates: **1 — `பெண்கள்`**
+- newly activated canonical stories from this source: **1 — `சந்தனக்கிண்ணம்`**
 - transcription started for short-story units: **No**
 - `தெருக்கூத்து` Stage 1: **COMPLETE 12/12**
 - `தெருக்கூத்து` Stage 2: **COMPLETE / PASS 12/12 — 11 corrections**
@@ -67,8 +68,8 @@ Existing canonical route: `stories/iragasiyam/`.
 
 ## Exact next activity
 
-`தெருக்கூத்து` is closed.
+Canonical activation for `சந்தனக்கிண்ணம்` is **COMPLETE**.
 
-Next candidate: **`சந்தனக்கிண்ணம்` — printed 29–43 / scans 37–51**.
+Next: **Stage 1 first-pass transcription — scans 37–41 / printed 29–33**.
 
-Run a fresh live-`main` canonical deduplication check, including content-level comparison. If no canonical story matches, activate it as a new canonical story and begin Stage 1 with scans **37–41 / printed 29–33**. Do not start `ஆலமரத்துப் புறாக்கள்` yet.
+Use direct scan pixels only, create five `needs-review` page records, synchronize controls, commit Stage 1 separately, and stop before Stage 2.

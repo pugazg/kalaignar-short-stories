@@ -753,37 +753,30 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-1953 `நாடும் நாடகமும்` retained work **`தெருக்கூத்து` is CLOSED / VERIFIED 12/12**.
+1953 `நாடும் நாடகமும்`:
 
-The next unit is the short story candidate **`சந்தனக்கிண்ணம்` — scans 37–51 / printed 29–43**.
+- `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` — **CLOSED / VERIFIED 20/20**
+- `தெருக்கூத்து` — **CLOSED / VERIFIED 12/12**
+- `சந்தனக்கிண்ணம்` — scans **37–51 / printed 29–43**
 
-Known intake state:
+Fresh live-`main` canonical/content-level deduplication for `சந்தனக்கிண்ணம்` is now **COMPLETE**.
 
-- scan 37 visibly opens `சந்தனக்கிண்ணம்`;
-- scan 51 is the final page of that unit;
-- scan 52 opens existing-canonical `ஆலமரத்துப் புறாக்கள்`;
-- earlier exact-title / obvious transliteration search found **no canonical match**;
-- nevertheless, content-level deduplication is still required before activation;
-- current classification: **new-canonical candidate, not yet activated**.
+Evidence:
 
-**NEXT: fresh live-`main` canonical/content-level deduplication for `சந்தனக்கிண்ணம்`.**
+- exact title `சந்தனக்கிண்ணம்`: no match;
+- spaced variant `சந்தன கிண்ணம்`: no match;
+- obvious slug/title variants: no match;
+- distinctive source-content searches involving **கமலா**, **விஜயா**, the wedding setting, and the symbolic **சந்தனக்கிண்ணம்** gift: no repository match;
+- direct scan review confirms the unit is a distinct short story spanning scans **37–51**;
+- scan **52** separately opens `ஆலமரத்துப் புறாக்கள்`.
 
-1. fetch live `main`;
-2. inspect title/slug/index matches again;
-3. compare the source opening/content against plausible existing canonical stories;
-4. if an existing canonical story matches, route this 1953 unit as a witness and do not create a duplicate;
-5. if no canonical match exists, activate `சந்தனக்கிண்ணம்` as a new canonical story;
-6. then begin Stage 1 first-pass transcription using direct scan pixels for the normal five-scan batch **37–41 / printed 29–33**;
-7. no OCR/web/Wikisource/alternate-source authority;
-8. commit/synchronize the dedup decision and Stage-1 batch separately as repository policy requires.
+Canonical decision:
 
-Do not reopen `தெருக்கூத்து` unless genuinely new source evidence appears.
+**NEW CANONICAL — `stories/santhanak-kinnam/` ACTIVATED.**
 
-Structural routing:
+**NEXT: Stage 1 first-pass transcription — scans 37–41 / printed 29–33.**
 
-- `தெருக்கூத்து` = scans **25–36 / printed 17–28** — **CLOSED / VERIFIED**
-- `சந்தனக்கிண்ணம்` = scans **37–51 / printed 29–43** — **NEXT / new-canonical candidate**
-- `ஆலமரத்துப் புறாக்கள்` begins scan **52**
+Use only direct scan pixels. Preserve source wording, punctuation, spacing, paragraphing, verse layout and historical forms. Record any uncertainty rather than guessing. Create five `needs-review` page records, create `STAGE1_BATCH_001.md`, synchronize controls, commit Stage 1 separately, and stop before Stage 2.
 
 The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
 
