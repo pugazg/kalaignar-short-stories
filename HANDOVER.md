@@ -844,26 +844,39 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — SOURCE-VISIBLE TAMIL CLOSED
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
 - scan 25 / printed 21: **verified non-story interleaf / excluded**
 - scan 27: opens separate `பதவிப் “பிரமாணம்!”`
 - source intake: **COMPLETE**
-- Stage 1 first-pass transcription: **COMPLETE 5/5**
-- Stage 2 visual fidelity: **COMPLETE FOR SOURCE-VISIBLE TEXT 5/5 — 32 corrections**
-- Stage 3 historical glyph audit: **COMPLETE / PASS FOR SOURCE-VISIBLE TEXT 5/5 — 0 character-identity corrections**
+- Stage 1: **COMPLETE 5/5**
+- Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
+- Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
 - mandatory Stage-3 family set: **13/13 checked**
-- unresolved source-visible glyph clusters: **0**
+- Stage 4 final independent source check: **COMPLETE — 2 final corrections**
+- Stage-4 final corrections:
+  - scan 24: restored source-visible continuation `[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
+  - scan 26: `நெடுஞ்செழியன் பாண்டியனின்` → `நெடுஞ்செழியப் பாண்டியனின்`
+- verified story pages: **4/5**
+- scan 23 / printed 19: **needs-review only because one prose span is physically obscured by the illustration**
+- canonical obstruction marker: **`[…]`**
 - source-visible ordinary unresolved readings: **0**
-- physical-source obscured spans: **1 — scan 23 / printed 19**
-- scan-23 obstruction represented canonically as `[…]`; no baseline/alternate-source reconstruction
-- page status: **needs-review 5/5**
-- Stage-3 durable record: `stories/madurai-selavu/HISTORICAL_GLYPH_GATE.md`
-- Stage 4 final source check: **NOT STARTED — NEXT**
-- verified story pages: **0/5**
-- English: **NOT STARTED**
+- unresolved historical-glyph clusters: **0**
+- physical-source obscured spans: **1**
+- missing wording reconstructed from baseline / outside source: **No**
+- Tamil/source layer: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+- English: **NOT STARTED — NEXT**
+
+Durable controls:
+
+- `stories/madurai-selavu/STAGE2_BATCH_001.md`
+- `stories/madurai-selavu/HISTORICAL_GLYPH_GATE.md`
+- `stories/madurai-selavu/FINAL_SOURCE_CHECK.md`
+- `stories/madurai-selavu/TAMIL_SOURCE_CLOSURE.md`
+- `stories/madurai-selavu/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- `stories/madurai-selavu/sections/madurai-selavu.md`
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -874,19 +887,19 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — Stage 4 final independent source check, scans 21–24 and 26.**
+**மதுரைச் செலவு — English E1 first complete translation under the documented source-visible limitation.**
 
 1. fetch live `main`;
-2. reopen direct source pixels for scans **21, 22, 23, 24 and 26**;
-3. reread the complete source-visible story independently rather than trusting the Stage-2/3 text;
-4. verify wording, omissions/duplications, punctuation, source-significant spacing, paragraph/dialogue boundaries and physical reading order;
-5. explicitly recheck all **32 Stage-2 corrections** and confirm no Stage-3 glyph identity regresses;
-6. reconfirm scan 22 `சுகந்தானே`, scan 24 Madhavi-letter opening, and scan 26 `--பிழைப்பு நடத்த...` continuation;
-7. preserve scan **25 / printed 21** as excluded non-story;
-8. preserve scan-23 `[…]` as a physical-source exception; do not reconstruct it from `Madurai_selavu.md` or outside sources;
-9. create/update the Stage-4 final-source-check record and determine the final source-visible closure disposition;
-10. synchronize all controls, commit, and stop before English translation.
+2. use only the closed Tamil/source authority under `stories/madurai-selavu/`;
+3. translate all source-visible Tamil faithfully into English;
+4. preserve the scan-23 physical-source gap transparently — use an explicit English marker such as `[source obscured]`; do not invent or infer the missing Tamil wording;
+5. preserve the scan **21, 22, 23, 24, 26** provenance markers and the scan-25 non-story exclusion;
+6. preserve the scan-24→26 Madhavi-letter continuity across the excluded interleaf;
+7. do not reopen or modify Tamil/source unless genuinely new source evidence appears;
+8. create the English translation and `TRANSLATION_REVIEW.md` E1 baseline;
+9. record omissions / duplications / unsupported additions for **source-visible material** and separately record the one inherited physical-source gap;
+10. commit E1 and stop before E2.
 
-Do not reopen `சீரழித்த சிரிப்பு!`.
+Do not begin `கொன்று வருக!` in the same activity.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
