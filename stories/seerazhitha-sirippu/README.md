@@ -14,7 +14,7 @@ Canonical workspace activated from the 1966 **காஞ்சி பொங்க
 
 ## Canonical activation
 
-**STAGE 3 COMPLETE / PASS — 2/2; NEEDS REVIEW.**
+**CORRECTIVE STAGE 3 COMPLETE / PASS — 2/2; NEEDS REVIEW.**
 
 Live-main deduplication found no existing exact-title, obvious alternate-title, or content-anchor canonical match. This workspace is therefore activated as a new canonical story.
 
@@ -26,16 +26,17 @@ The supplied `seerazhitha_sirippu.md` is a baseline/locator only. Its two-column
 - boundary: **PASS**
 - page records initialized: **2/2**
 - Stage 1 first-pass transcription: **2/2 COMPLETE**
-- Stage 2 visual text-fidelity: **2/2 COMPLETE / PASS — RECONCILED, 30 final net corrections**
-- initial 18-change Stage-2 ledger: **SUPERSEDED after direct-pixel reconciliation**
+- Stage 2 ordinary visual text-fidelity: **2/2 COMPLETE / PASS — 27 authoritative corrections**
+- former 30-correction Stage-2 count: **SUPERSEDED after corrective glyph audit**
+- Stage-2 historical-glyph regressions retracted: **3**
 - Stage-2 unresolved ordinary-fidelity readings: **0**
-- Stage 3 historical glyph audit: **2/2 COMPLETE / PASS — 0 character-identity corrections; 0 unresolved glyph clusters**
+- Stage 3 historical glyph corrective re-audit: **2/2 COMPLETE / PASS — 4 character-identity corrections; 0 unresolved glyph clusters**
 - Stage 4 final check: **0/2 — NEXT**
 - verified: **0/2**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-**Stage 4 — final independent source check, scans 101–102 / printed 91–92.**
+**Stage 4 — final independent source check, scans 101–102 / printed 91–92, after corrective glyph re-audit.**
 
 Reopen both source scans independently and verify the complete reconciled Stage-3 text end-to-end: wording, punctuation, spacing, quote/paragraph boundaries, multi-column order, `வேதனைச் / சிலையானாள்` continuation, boxed `முகப்பில்:` exclusion, closing ornament and scan-103 boundary. Apply only source-proven final corrections. Promote pages to `verified` only if the final gate passes.
