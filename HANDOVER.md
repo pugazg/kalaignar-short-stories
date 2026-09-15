@@ -786,7 +786,7 @@ Four user-supplied periodical sources have been deduplicated and registered.
 - witness: **CLOSED / PASS 2/2**
 - canonical changes: **0**
 
-### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966 — TAMIL/SOURCE CLOSED
+### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966 — TAMIL/SOURCE + ENGLISH CLOSED
 
 Canonical: `stories/seerazhitha-sirippu/`
 
@@ -807,12 +807,16 @@ Canonical: `stories/seerazhitha-sirippu/`
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
 - English E4 quality / readability review: **COMPLETE / PASS — 11 repairs**
-- cumulative English repairs E2–E4: **17**
+- English E5 final bilingual approval: **COMPLETE / PASS — 2 final editorial changes**
+- cumulative English changes after E1: **19**
+- final English title: **The Laugh That Ruined Her!**
+- final closing sentence: **`That meaningless laughter, which had made it impossible for her to live, left her before life itself did.`**
 - English source-page markers: **PASS 2/2**
-- Tamil/source reopened during E2–E4: **No**
-- Tamil changed during English E1–E4: **No**
-- unresolved E4 issues: **0**
-- English E5 final bilingual approval: **NOT STARTED — NEXT**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during English E1–E5: **No**
+- Tamil changed during English E1–E5: **No**
+- unresolved English issues: **0**
+- English layer: **PASS / CLOSED**
 
 Corrective historical-glyph readings confirmed through Stage 4:
 
@@ -857,19 +861,17 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — English E5 final bilingual approval.**
+**மதுரைச் செலவு — Stage 1 first-pass transcription, story scans 21–24 and 26.**
 
 1. fetch live `main`;
-2. use the frozen verified Tamil and the E4-closed English as the final comparison pair;
-3. verify the complete English against Tamil for semantic fidelity, terminology stability, names, paragraph/dialogue order and physical source-page alignment;
-4. confirm all E1–E4 repairs are present and no protected E2/E3 decisions regressed;
-5. confirm scan 101→102 `a statue of / anguish` remains correctly anchored;
-6. confirm omissions / duplications / unsupported additions are **0 / 0 / 0**;
-7. confirm there is no post-E4 content drift;
-8. do not modify Tamil/source unless genuinely new source evidence appears;
-9. append the E5 final bilingual result to `TRANSLATION_REVIEW.md`, mark English **PASS / CLOSED** if all checks pass, and synchronize README / HANDOVER / NEXT prompt;
-10. commit and stop before starting another story.
-
-Do not begin `மதுரைச் செலவு` in the same activity.
+2. active canonical: `stories/madurai-selavu/`;
+3. controlling source: `TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf`;
+4. source routing is already closed: scans **21–24** story text, scan **25 / printed 21** illustrated non-story interleaf, scan **26** story continuation/ending, scan **27** opens separate `பதவிப் “பிரமாணம்!”`;
+5. use direct source pixels as authority; `Madurai_selavu.md` is locator/baseline only and must not control text;
+6. Stage 1 transcribe only scans **21–24 and 26**;
+7. preserve scan 25 as verified non-story and exclude it from the Tamil story assembly;
+8. keep Stage-1 story pages `needs-review`; do not perform Stage 2 in the same activity unless explicitly requested;
+9. synchronize README / page map / durable controls and commit;
+10. do not reopen `சீரழித்த சிரிப்பு!`.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
