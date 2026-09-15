@@ -14,7 +14,7 @@ Canonical workspace activated from the 1966 **காஞ்சி பொங்க
 
 ## Canonical activation
 
-**SOURCE INTAKE COMPLETE / STAGE 1 NOT STARTED.**
+**STAGE 1 COMPLETE / NEEDS REVIEW — 2/2.**
 
 Live-main deduplication found no existing exact-title, obvious alternate-title, or content-anchor canonical match. This workspace is therefore activated as a new canonical story.
 
@@ -25,8 +25,8 @@ The supplied `seerazhitha_sirippu.md` is a baseline/locator only. Its two-column
 - source identity: **registered**
 - boundary: **PASS**
 - page records initialized: **2/2**
-- Stage 1 first-pass transcription: **0/2**
-- Stage 2 visual text-fidelity: **0/2**
+- Stage 1 first-pass transcription: **2/2 COMPLETE**
+- Stage 2 visual text-fidelity: **0/2 — NEXT**
 - Stage 3 historical glyph audit: **0/2**
 - Stage 4 final check: **0/2**
 - verified: **0/2**
@@ -34,6 +34,6 @@ The supplied `seerazhitha_sirippu.md` is a baseline/locator only. Its two-column
 
 ## Exact next activity
 
-**Stage 1 — scans 101–102 / printed 91–92.**
+**Stage 2 — visual text-fidelity audit, scans 101–102 / printed 91–92.**
 
-Transcribe both pages directly from the source scan in physical column order, preserve punctuation/paragraphing/historical forms, mark both pages `needs-review`, synchronize controls, commit, and stop before Stage 2.
+Reopen both scans and compare the committed Stage-1 transcription line-by-line / phrase-by-phrase. Resolve ordinary wording, omission, punctuation, paragraph, column-order and page-boundary issues only from the source. Keep both pages `needs-review` and stop before Stage 3.

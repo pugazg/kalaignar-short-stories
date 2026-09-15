@@ -781,82 +781,63 @@ Four user-supplied periodical sources have been deduplicated and registered.
 
 ### 1. பனங்குலை — முரசொலி பொங்கல் மலர் 1977
 
-Canonical route: `stories/panangulai/`
-
-- source: `TVA_PRL_0018630_முரசொலி_பொங்கல்_மலர்_1977.pdf`
-- source identity: **42,503,613 bytes / 58 scans / SHA-256 `6a2b8e8040d196f0b6e0f8545b6e6026e1109b87cb0645c73806db5e2a2b7075`**
+- canonical: `stories/panangulai/`
+- routing: **existing-canonical cross-witness**
 - witness scans: **6–7**
-- scan 8: advertisements / boundary PASS
-- routing: **existing canonical cross-witness — no duplicate folder**
 - witness state: **CLOSED / PASS 2/2**
-- material variant groups: **10**
-- canonical recheck candidates: **0**
-- canonical Tamil / English changed: **No / No**
-- direct high-value name variant: **`மோதகவிநாயகம் பிள்ளை`** ↔ canonical **`மோக வினாயகம்பிள்ளை`**
+- material variants: **10**
+- canonical changes: **0**
 
-### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966
+### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966 — ACTIVE
 
-Canonical route: `stories/seerazhitha-sirippu/`
+Canonical: `stories/seerazhitha-sirippu/`
 
-- source: `TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf`
-- source identity: **135,439,066 bytes / 116 scans / SHA-256 `82061a8a5d76c401cf5c804f757f2fb80873171b25388830cb129c71fd476047`**
-- story scans: **101–102**
-- visible printed folios: **91–92**
+- source scans: **101–102 / printed 91–92**
 - scan 103: `அடிமைகள்` / boundary PASS
-- dedup: **no existing canonical match**
-- canonical activation: **YES**
 - source intake: **COMPLETE**
-- page records: **2/2 initialized**
-- Stage 1: **NOT STARTED**
-- baseline: `seerazhitha_sirippu.md` — locator only; column order is not authoritative
+- Stage 1 first-pass: **COMPLETE 2/2**
+- page statuses: **needs-review 2/2**
+- Stage 2: **NOT STARTED — NEXT**
+- Stage 3: **NOT STARTED**
+- Stage 4: **NOT STARTED**
+- verified: **0/2**
+- scan 102 boxed `முகப்பில்:` verse: **excluded as non-story magazine matter**
+- page 101→102 split: `வேதனைச் / சிலையானாள்` preserved
+- durable Stage-1 record: `stories/seerazhitha-sirippu/STAGE1_BATCH_001.md`
+- assembly: `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md`
+
+Stage-2 review queue includes punctuation around `என்ன: புரியவில்லையே`, the `சாரட்டு வண்டி...` opening quote, proper names `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்`, the royal-letter quote boundaries, and the final sentence.
 
 ### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
 
-Canonical route: `stories/madurai-selavu/`
-
-- source: `TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf`
-- source identity: **55,813,238 bytes / 112 scans / SHA-256 `17dd13be82af5a56f164c9f9ab2f73891d8f5cb19a2bf0e18d35bfa209e0c217`**
-- supplied physical span: **21–26 / printed 17–22**
-- story text: **21–24 + 26**
-- scan 25 / printed 21: **verified intervening non-story illustrated page**
-- scan 27: `பதவிப் “பிரமாணம்!”` / boundary PASS
-- dedup: **no existing canonical match**
-- canonical activation: **YES**
+- canonical: `stories/madurai-selavu/`
+- story scans: **21–24 + 26**
+- scan 25: **verified non-story interleaf**
 - source intake: **COMPLETE**
-- records: **6/6 initialized; 5 story-text pages not-started + 1 interleaf verified**
-- baseline: `Madurai_selavu.md` — locator only
+- Stage 1: **NOT STARTED**
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
-Canonical route: `stories/kondru-varuga/`
-
-- source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
-- source identity: **253,267,202 bytes / 87 scans / SHA-256 `8c9a46639419377c90065b8acaff3c5d3c42625c2c944ad5ee5a22dd738ac29d`**
-- story scans: **8–13**
-- printed sequence: **32–37**
-- scan 10 visibly shows folio 34
-- scan 14: `திராவிட இலக்கியம்` / boundary PASS
-- dedup: **no existing canonical match**
-- canonical activation: **YES**
+- canonical: `stories/kondru-varuga/`
+- story scans: **8–13 / printed 32–37**
 - source intake: **COMPLETE**
-- page records: **6/6 initialized**
 - Stage 1: **NOT STARTED**
-- baseline: `kondru_varuga.md` — locator only; multi-column order is not authoritative
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — Stage 1 first-pass transcription, scans 101–102 / printed 91–92.**
+**சீரழித்த சிரிப்பு! — Stage 2 visual text-fidelity audit, scans 101–102 / printed 91–92.**
 
 1. fetch live `main`;
-2. read `stories/seerazhitha-sirippu/README.md`, `metadata/source.md`, `SOURCE_INTAKE.md`, and page map;
-3. use only direct scan pixels from the user-supplied 1966 source;
-4. use `seerazhitha_sirippu.md` only as a locator/draft; repair column reading order from the scan itself;
-5. transcribe both full story pages with source punctuation, paragraph/dialogue structure, names and historical forms preserved;
-6. mark page records `needs-review`;
-7. create/update Stage-1 batch progress and Tamil assembly only to the extent supported by Stage 1;
-8. synchronize story controls, root handover and next prompt;
-9. commit Stage 1 and stop before Stage 2.
+2. reopen both 1966 source scans directly;
+3. compare committed Stage-1 page records / assembly against the source line-by-line and phrase-by-phrase;
+4. check column reading order, omissions, duplicated text, ordinary letter/word errors, punctuation, dialogue/paragraph boundaries and the scan 101→102 continuation;
+5. explicitly recheck the five Stage-1 review items;
+6. keep the boxed `முகப்பில்:` verse excluded from story text;
+7. correct only source-supported ordinary text issues;
+8. keep both pages `needs-review`;
+9. synchronize Stage-2 record, page map, README, review queue, HANDOVER and NEXT_CHAT_PROMPT;
+10. commit Stage 2 and stop before Stage 3.
 
-After `சீரழித்த சிரிப்பு!` completes all four stages, proceed to `மதுரைச் செலவு`, then `கொன்று வருக!`.
+Do not begin `மதுரைச் செலவு` until `சீரழித்த சிரிப்பு!` completes Stages 2–4.
 
-The 1958 `தேனலைகள்` source remains explicitly **DEFERRED** and must not be resumed automatically.
+The 1958 `தேனலைகள்` source remains explicitly **DEFERRED**.

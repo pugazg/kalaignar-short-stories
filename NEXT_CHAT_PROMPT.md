@@ -1,23 +1,8 @@
-# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / Stage 1 scans 101–102
+# NEXT CHAT PROMPT — சீரழித்த சிரிப்பு! / Stage 2 scans 101–102
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Newly onboarded periodical sources
-
-Four user-supplied magazine sources are now durably registered.
-
-### பனங்குலை — 1977 முரசொலி பொங்கல் மலர்
-
-- existing canonical: `stories/panangulai/`
-- witness scans: **6–7**
-- comparison: **CLOSED / PASS 2/2**
-- material variants: **10**
-- canonical changes: **0**
-- do not reopen automatically
-
-### சீரழித்த சிரிப்பு! — ACTIVE
-
-Canonical workspace:
+## Active canonical
 
 `stories/seerazhitha-sirippu/`
 
@@ -25,51 +10,50 @@ Controlling source:
 
 `TVA_PRL_0033125_காஞ்சி_பொங்கல்_மலர்_1966.pdf`
 
-- full PDF: **116 scans**
-- source bytes: **135,439,066**
-- SHA-256: `82061a8a5d76c401cf5c804f757f2fb80873171b25388830cb129c71fd476047`
+- publication: **காஞ்சி — பொங்கல் மலர்**
+- year: **1966**
 - story scans: **101–102**
 - printed folios: **91–92**
-- scan 103 opens `அடிமைகள்`
-- source intake: **COMPLETE**
-- dedup: **new canonical**
-- initialized page records: **2/2**
-- Stage 1: **NOT STARTED**
-- Markdown baseline: `seerazhitha_sirippu.md` — **locator only; not authority**
+- scan 103: separate `அடிமைகள்`
+- source pixels control; no OCR/web/Wikisource/alternate-source authority
 
-### மதுரைச் செலவு — queued after current story
+## Durable Stage-1 state
 
-- canonical: `stories/madurai-selavu/`
-- source: 1960 முரசொலி பொங்கல் மலர்
-- physical scans **21–26 / printed 17–22**
-- story text scans **21–24 + 26**
-- scan 25 is a verified non-story interleaf and must be excluded
-- source intake complete; Stage 1 not started
+**COMPLETE / PASS AS FIRST-PASS CHECKPOINT — 2/2.**
 
-### கொன்று வருக! — queued after மதுரைச் செலவு
+- scan 101: **needs-review**
+- scan 102: **needs-review**
+- Stage-1 record: `stories/seerazhitha-sirippu/STAGE1_BATCH_001.md`
+- assembled Tamil: `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md`
+- supplied `seerazhitha_sirippu.md`: locator/draft only
+- title illustration / multi-column reading order reconstructed from source
+- scan 102 boxed `முகப்பில்:` verse excluded as non-story matter
+- scan 101→102 split `வேதனைச் / சிலையானாள்` preserved
+- verified pages: **0/2**
 
-- canonical: `stories/kondru-varuga/`
-- source: 1952 முரசொலி பொங்கல் மலர்
-- scans **8–13 / printed 32–37**
-- scan 14 opens `திராவிட இலக்கியம்`
-- source intake complete; Stage 1 not started
+## Stage-2 review queue
+
+Recheck directly from the scans:
+
+1. scan 101 — `என்ன: புரியவில்லையே` punctuation/spacing;
+2. scan 101 — source-present opening quotation before `சாரட்டு வண்டி...`;
+3. scan 102 — `டென்மான் / தியோடார் மஜோச்சி / பெர்காமி / புரோகாம்`;
+4. scan 102 — quote/punctuation boundaries in `அரசர் பட்டம் சூடும் நேரத்தில்...`;
+5. scan 102 — final clause `அவளை வாழவிடாமல் செய்த...`;
+6. scan 102 — `முகப்பில்:` box remains excluded.
 
 ## Exact next activity
 
-Perform **Stage 1 first-pass transcription** for `சீரழித்த சிரிப்பு!`, scans **101–102 / printed 91–92**.
+Perform **Stage 2 visual text-fidelity audit** for scans **101–102 / printed 91–92**.
 
-Rules:
-
-1. fetch live `main` first;
-2. read the story README, source metadata, source-intake record and page map;
-3. source pixels are controlling — **no OCR/web/Wikisource/alternate edition authority**;
-4. the user-supplied `seerazhitha_sirippu.md` may be used only as a locator/draft;
-5. reconstruct physical multi-column reading order from the scan itself;
-6. preserve source wording, punctuation, dialogue/paragraph boundaries, names and historical forms;
-7. if a span is genuinely uncertain, record it for review rather than guessing;
-8. set both page records to `needs-review`;
-9. update Stage-1 progress / story controls / `HANDOVER.md` / `NEXT_CHAT_PROMPT.md`;
-10. commit Stage 1 and stop before Stage 2.
+- Compare Stage-1 text to direct scan pixels line-by-line / phrase-by-phrase.
+- Correct ordinary source-fidelity errors only.
+- Check omission, duplication, punctuation, paragraph/dialogue boundaries, source marks, column order and page continuation.
+- Do not run the systematic historical-glyph audit yet.
+- Keep both pages `needs-review`.
+- Create/update the Stage-2 durable record.
+- Synchronize README, page map, review queue, HANDOVER and this prompt.
+- Commit and stop before Stage 3.
 
 Do not begin `மதுரைச் செலவு` in the same activity.
 
