@@ -20,11 +20,20 @@ Stage 2 was subsequently reconciled once more against the direct pixels. The ini
 
 ## Stage-3 historical-glyph queue
 
-**CLOSED / PASS — 2/2.**
+**CORRECTIVE RE-AUDIT CLOSED / PASS — 2/2.**
 
-Mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were explicitly audited against the source pixels.
+The earlier zero-correction Stage-3 checkpoint is **SUPERSEDED**. A fresh historical-glyph audit restored three source-correct readings that Stage 2 had changed to modern look-alikes and repaired one additional Stage-1 carry-forward miss.
 
-- character-identity corrections: **0**
+Corrections:
+
+1. `கடன்காரனும்` → **`கடன்காரனாம்`** (`னா`)
+2. `ஆடைகள்` → **`ஆடைகளை`** (`ளை`)
+3. `நடத்தினள்` → **`நடத்தினாள்`** (`னா`)
+4. final `அவள் வாழவிடாமல்...` → **`அவளை வாழவிடாமல்...`** (`ளை`)
+
+- character-identity corrections: **4**
+- Stage-2 glyph regressions restored: **3**
+- additional Stage-1 miss repaired: **1**
 - unresolved glyph clusters: **0**
 - proper-name confusable-character recheck: **PASS / unchanged**
 - durable record: `HISTORICAL_GLYPH_GATE.md`
