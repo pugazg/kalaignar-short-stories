@@ -102,8 +102,8 @@ No new canonical story folder was created in this intake-only iteration.
   - Batch-4 Stage 3: **COMPLETE / PASS 5/5**
   - Batch-4 Stage-3 character-identity corrections: **0**
   - Batch-4 Stage 4: **COMPLETE / PASS 5/5**
-  - Batch-4 Stage-4 additional source-supported corrections: **3**
-  - Batch-4 final corrections: `தடைவிதித்து` → `தடை விதித்து`; comma after `கூறினார்` → period; `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+  - Batch-4 Stage-4 additional source-supported corrections: **2**
+  - Batch-4 final corrections: `தடைவிதித்து` → `தடை விதித்து`; `உடைத்தெறியலாம். ஆனால்` → `உடைத்தெறியலாம், ஆனால்`; scans 21–24 — 0 additional corrections
   - page records: **20/20**
   - verified: **20/20**
   - needs-review: **0**

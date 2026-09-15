@@ -204,7 +204,7 @@ Scans **20–24 / printed 16, 16-A–16-D**
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
 - Stage 4: **COMPLETE / PASS / 5 pages**
-- Stage-4 additional source-supported corrections: **3**
+- Stage-4 additional source-supported corrections: **2**
 - page records: **5/5**
 - needs-review: **0**
 - verified: **5**
@@ -227,10 +227,9 @@ Scans **20–24 / printed 16, 16-A–16-D**
 ### Stage-4 disposition
 
 - scan 20: **PASS / VERIFIED** — `தடைவிதித்து` → `தடை விதித்து`
-- scan 21: **PASS / VERIFIED / 0 additional corrections**
-- scan 22: **PASS / VERIFIED / 0 additional corrections**
-- scan 23: **PASS / VERIFIED** — comma after `கூறினார்` → period
-- scan 24: **PASS / VERIFIED** — `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+- scan 20: **PASS / VERIFIED** — `உடைத்தெறியலாம். ஆனால்` → `உடைத்தெறியலாம், ஆனால்`
+- scans 21–24: **PASS / VERIFIED / 0 additional corrections**
+- all **12/12** Stage-2 corrections: **reconfirmed**
 - Stage-3 family disposition: **reconfirmed / 0 character-identity changes**
 - unresolved issues: **0**
 - guessed readings: **0**
@@ -246,6 +245,3 @@ Scans **20–24 / printed 16, 16-A–16-D**
 ## Exact next activity
 
 Retained work 2 `தெருக்கூத்து` — Stage 1 scans **25–29 / printed 17–21**.
-## Exact next activity
-
-Batch 4 Stage 4 final independent source check — scans **20–24 / printed 16, 16-A–16-D**. Do not begin `தெருக்கூத்து` in the same activity.

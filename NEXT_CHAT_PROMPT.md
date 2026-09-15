@@ -42,10 +42,10 @@ Final Batch 4 scans **20–24 / printed 16, 16-A–16-D**:
 - Stage 3 — **COMPLETE / PASS 5/5**
 - Stage-3 character-identity corrections — **0**
 - Stage 4 — **COMPLETE / PASS 5/5**
-- Stage-4 additional source-supported corrections — **3**
+- Stage-4 additional source-supported corrections — **2**
 - scan 20 — `தடைவிதித்து` → `தடை விதித்து`
-- scan 23 — comma after `கூறினார்` → period
-- scan 24 — `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+- scan 20 — `உடைத்தெறியலாம். ஆனால்` → `உடைத்தெறியலாம், ஆனால்`
+- scans 21–24 — **0 additional corrections**
 - unresolved issues — **0**
 - guessed readings — **0**
 - scan 24 — **work-ending reconfirmed**

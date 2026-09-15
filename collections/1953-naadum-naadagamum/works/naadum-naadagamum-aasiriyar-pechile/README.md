@@ -128,7 +128,7 @@ Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
 - Stage-3 character-identity corrections: **0**
 - Stage-3 unresolved glyph clusters: **0**
 - Stage 4 final independent source check: **COMPLETE / PASS — 5/5**
-- Stage-4 additional source-supported corrections: **3**
+- Stage-4 additional source-supported corrections: **2**
 - page records: **5/5**
 - page status: **verified 5/5**
 - unresolved source-text issues: **0**
@@ -145,8 +145,10 @@ Batch 4 = scans **20–24 / printed 16, 16-A–16-D**.
 Stage-4 additional corrections:
 
 - scan 20: `தடைவிதித்து` → `தடை விதித்து`
-- scan 23: comma after `கூறினார்` → period
-- scan 24: `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
+- scan 20: `உடைத்தெறியலாம். ஆனால்` → `உடைத்தெறியலாம், ஆனால்`
+- scans 21–24: **PASS / 0 additional corrections**
+- all **12/12** Stage-2 corrections: **reconfirmed**
+- Stage-3 glyph disposition: **reconfirmed / 0 character-identity changes**
 
 ## Work closure
 

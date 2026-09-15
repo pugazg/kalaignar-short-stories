@@ -746,7 +746,7 @@ Current state:
   - Stage-3 character-identity corrections: **0**
   - Stage-3 unresolved glyph clusters: **0**
   - Stage 4 final independent source check: **COMPLETE / PASS 5/5**
-  - Stage-4 additional source-supported corrections: **3**
+  - Stage-4 additional source-supported corrections: **2**
   - page records: **5/5**
   - page status: **verified 5/5**
   - unresolved source-text/glyph issues: **0**
@@ -820,117 +820,57 @@ Durable intake files:
 
 ## Exact next activity — CURRENT
 
-Continue 1953 `நாடும் நாடகமும்` retained work 1.
+1953 `நாடும் நாடகமும்` retained work 1 `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` is **CLOSED / VERIFIED — 20/20**.
 
-Workspace:
+Final Batch 4 durable closure:
 
-`collections/1953-naadum-naadagamum/works/naadum-naadagamum-aasiriyar-pechile/`
-
-### Batch 1
-
-Scans **5–9 / printed 1–5** remain **CLOSED / VERIFIED 5/5**.
-
-- word-by-word re-audit corrections — **19**
-- scan 9 former hold — **RESOLVED**
-- final corrected lower line includes **`‘மத நடுநிலைமை’ என்ற போர்வையிலே தூதா தந்திடும் ஆளவந்தாரையும் கேட்கிறேன்.`**
-- guessed reconstruction — **0**
-
-### Batch 2
-
-Scans **10–14 / printed 6–10**:
-
-- Stage 1 first-pass transcription — **COMPLETE 5/5**
-- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
-- Stage-2 source-proven corrections — **22**
-- Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
-- mandatory glyph families audited — **13/13**
-- Stage-3 character-identity corrections — **0**
-- Stage-3 unresolved glyph clusters — **0**
-- Stage 4 final independent source check — **COMPLETE / PASS 5/5 after targeted scan-13 resolution**
-- Stage-4 additional source-supported corrections — **24**
-- targeted scan-13 source resolution — **`படுவது,`**
+- scans **20–24 / printed 16, 16-A–16-D**
+- Stage 1 — **COMPLETE 5/5**
+- Stage 2 — **COMPLETE 5/5**, **12** source-supported corrections
+- Stage 3 — **COMPLETE / PASS 5/5**, **13/13** mandatory glyph families audited
+- Stage 4 — **COMPLETE / PASS 5/5**
+- Stage-4 additional source-supported corrections — **2**
 - verified — **5/5**
 - needs-review — **0**
-- unresolved source-text spans — **0**
-- page records — **5/5**
-- guessed readings — **0**
-- scan 13→14 physical boundary — **`சாதனங்` / `களையும்` PASS / reconfirmed**
-- durable Stage-1 record — `STAGE1_BATCH_002.md`
-- durable Stage-2 record — `STAGE2_BATCH_002.md`
-- durable Stage-3 record — `STAGE3_BATCH_002.md`
-- durable Stage-4 record — `STAGE4_BATCH_002.md`
-- Batch 2 closure — **CLOSED / VERIFIED 5/5**
-
-Targeted scan-13 disposition:
-
-- native-pixel/enlarged-line review directly resolves the former hold as `படுவது,`
-- final source phrase: **`பல்வேறு தேவைப் படுவது, தேவைப் படாததுமட்டுமல்ல`**
-- former final-paragraph hold remains resolved as `விளைத்திட்ட`
-- unsupported `தேவையற்ற தேவைகள்` reading remains retracted
-- no guessed reconstruction
-- no unresolved Batch-2 source text
-
-### Batch 3
-
-Scans **15–19 / printed 11–15**:
-
-- Stage 1 first-pass transcription — **COMPLETE 5/5**
-- Stage 2 visual text-fidelity audit — **COMPLETE 5/5**
-- Stage-2 source-proven corrections — **7**
-- Stage 3 historical Tamil glyph audit — **COMPLETE / PASS 5/5**
-- mandatory glyph families audited — **13/13**
-- Stage-3 character-identity corrections — **0**
-- Stage-3 unresolved glyph clusters — **0**
-- Stage 4 final independent source check — **COMPLETE / PASS 5/5**
-- Stage-4 source-proven corrections — **2**
-- page records — **5/5**
-- page status — **verified 5/5**
 - unresolved source-text issues — **0**
+- unresolved glyph clusters — **0**
 - guessed readings — **0**
-- scan 15→16 physical boundary — **PASS / reconfirmed — `பறி` / `கொடுத்துப்`**
-- scan 16→17 physical boundary — **PASS / reconfirmed — `கொடுமைக்` / `கொடுத்து`**
-- durable Stage-1 record — `STAGE1_BATCH_003.md`
-- durable Stage-2 record — `STAGE2_BATCH_003.md`
-- durable Stage-3 record — `STAGE3_BATCH_003.md`
-- durable Stage-4 record — `STAGE4_BATCH_003.md`
-- Batch 3 closure — **CLOSED / VERIFIED 5/5**
+- scan 24 — work-ending page reconfirmed
+- scan 25 — separate `தெருக்கூத்து` / காட்சி 1 opening; excluded from the closed work
+- durable Stage-4 record — `STAGE4_BATCH_004.md`
 
-Stage-4 disposition:
+Stage-4 additional corrections:
 
-- scan 15: `தமிழனின் சரித்திரத்தை` → `தமிழரின் சரித்திரத்தை`
-- scan 16: `நிலைக்குத்தள்ளப்பட்டும்` → `நிலைக்குத் தள்ளப்பட்டும்`
-- scans 17–19: **PASS / 0 additional corrections**
-- historical-glyph disposition: **reconfirmed / 0 character-identity changes**
-- unresolved issues: **0**
-- guessed readings: **0**
+- scan 20: `நாடகங்கட்குத் தடைவிதித்து` → **`நாடகங்கட்குத் தடை விதித்து`**
+- scan 20: `நிலைக் கண்ணாடிகளை உடைத்தெறியலாம். ஆனால்` → **`நிலைக் கண்ணாடிகளை உடைத்தெறியலாம், ஆனால்`**
+- scans 21–24: **0 additional corrections**
 
-### Batch 4 — final prose/discourse batch
+All **12/12** Stage-2 corrections remain source-supported. Stage-3 family disposition remains unchanged:
 
-Scans **20–24 / printed 16, 16-A–16-D** are **CLOSED / VERIFIED 5/5**.
+- present: **`ணா / ணை / லை / ளை / றா / றோ / னா / னை`**
+- absent: **`ணொ / ணோ / றொ / னொ / னோ`**
+- character-identity corrections at Stage 4: **0**
 
-- Stage 1 — **COMPLETE 5/5**
-- Stage 2 — **COMPLETE 5/5**
-- Stage-2 source-supported corrections — **12**
-- Stage 3 — **COMPLETE / PASS 5/5**
-- Stage-3 character-identity corrections — **0**
-- Stage 4 — **COMPLETE / PASS 5/5**
-- Stage-4 additional source-supported corrections — **3**
-- final corrections:
-  - scan 20: `தடைவிதித்து` → `தடை விதித்து`
-  - scan 23: comma after `கூறினார்` → period
-  - scan 24: `ஆடைகளை யணிகிறோம்` → `ஆடைகள் யணிகிறோம்`
-- verified — **5/5**
-- unresolved issues — **0**
-- guessed readings — **0**
-- scan 24 work ending — **PASS / reconfirmed**
-- scan 25 — **opens `தெருக்கூத்து` / காட்சி 1**
-- entire `நாடும் நாடகமும் (ஆசிரியர் பேசுகிறார்)` work — **CLOSED / VERIFIED 20/20**
+### NEXT — retained work 2 `தெருக்கூத்து`
 
-**NEXT: retained work 2 `தெருக்கூத்து` — Stage 1 first-pass transcription, scans 25–29 / printed 17–21.**
+Source span: **scans 25–51 / printed 17–43**.
 
-Create `collections/1953-naadum-naadagamum/works/therukoothu/`, transcribe all five scans directly from the controlling PDF pixels, preserve source wording/punctuation/page boundaries, keep pages `needs-review`, create the durable Stage-1 checkpoint, synchronize controls, commit, and stop before Stage 2.
+The work workspace does not yet exist on live `main`.
 
-Retained work 2 **`தெருக்கூத்து` — scans 25–51 / printed 17–43** is now the active next work.
+Start **Batch 1 Stage 1 first-pass transcription — scans 25–29 / printed 17–21**.
 
-This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover. In particular, do **not** auto-resume 1958 `தேனலைகள்`.
+1. fetch live `main`;
+2. reread the four-stage workflow, fidelity/glyph guides, this handover, `NEXT_CHAT_PROMPT.md`, collection README and source scan map;
+3. create `collections/1953-naadum-naadagamum/works/therukoothu/` as needed;
+4. use only `TVA_BOK_0064193_நாடும்_நாடகமும்.pdf` direct scan pixels as source authority;
+5. the user-supplied `therukoothu.md` is locator/clue only; import no wording without direct scan confirmation;
+6. transcribe scans **25–29 / printed 17–21** completely once;
+7. preserve headings, scene labels, dialogue, stage directions, verse, punctuation, spacing, spelling and historical forms;
+8. set all new page records to `needs-review`;
+9. synchronize work/collection/root controls, commit Stage 1, and stop before Stage 2.
 
+Do **not** reopen scans 5–24 unless genuinely new evidence or an explicit user instruction requires it.
+
+The queued 1979 `பழக்கூடை` remains waiting. The deferred 1958 `தேனலைகள்` remains deferred.
+
+This CURRENT exact-next section supersedes older historical/deferred exact-next notes elsewhere in this handover.
