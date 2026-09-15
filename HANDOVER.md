@@ -804,9 +804,13 @@ Canonical: `stories/seerazhitha-sirippu/`
 - scan 101→102 split `வேதனைச் / சிலையானாள்`: **PASS**
 - closing ornament: **PASS**
 - English E1 first translation: **COMPLETE**
-- English E1 source-page markers: **PASS 2/2**
-- Tamil changed during E1: **No**
-- English E2 meaning-fidelity review: **NOT STARTED — NEXT**
+- English E2 meaning-fidelity review: **COMPLETE / PASS — 5 repairs**
+- English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 1 repair**
+- cumulative E2+E3 English repairs: **6**
+- English source-page markers: **PASS 2/2**
+- Tamil/source reopened during E2/E3: **No**
+- Tamil changed during English E1–E3: **No**
+- English E4 quality review: **NOT STARTED — NEXT**
 
 Corrective historical-glyph readings confirmed through Stage 4:
 
@@ -851,18 +855,18 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — English E2 meaning-fidelity review.**
+**சீரழித்த சிரிப்பு! — English E4 quality / readability review.**
 
 1. fetch live `main`;
-2. use the frozen verified Tamil assembly as authority and the E1 English as the review target;
-3. compare the complete English sentence-by-sentence against the Tamil;
-4. check meaning, agency, relationships, chronology, rhetorical force, negation, modality and figurative language;
-5. explicitly review the debt/marriage passage, `பிரம்மச்சாரி`, `ஆசைநாயகி`, the parliamentary passage, the coronation sequence and the final personified-laughter sentence;
-6. verify both physical source-page markers remain aligned;
-7. repair English only where meaning fidelity requires it; do not modify Tamil/source;
-8. append the E2 result to `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`;
-9. record English repair count, unresolved E2 issues and `Tamil/source reopened: No`;
-10. commit E2 and stop before E3 terminology/names/cultural consistency review.
+2. use the E3-closed English as the review target and the frozen Tamil only as a guardrail;
+3. improve grammar, idiom, readability, dialogue flow and sentence rhythm without changing E2 meaning;
+4. preserve all E3 terminology/name decisions, including `brahmachari`, `mistress`, `salute shots`, Caroline / Denman / Theodore Majocchi / Bergami / Brougham / Liverpool;
+5. preserve source-sensitive deliberate oddities that were retained for fidelity, especially `One day, the prince.` and the source-derived punctuation around the carriage sentence unless an English-quality repair can be made without hiding the Tamil irregularity;
+6. preserve both source-page markers and the scan 101→102 split;
+7. do not modify Tamil/source;
+8. append the E4 result and repair count to `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`;
+9. record `Tamil/source reopened: No` and any unresolved E4 issues;
+10. commit and stop before E5 final bilingual approval.
 
 Do not begin `மதுரைச் செலவு` in the same activity.
 
