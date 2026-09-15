@@ -1,8 +1,8 @@
 # மதுரைச் செலவு
 
-> **Stage 2 visual-fidelity assembly — NEEDS REVIEW.**  
+> **Stage 3 historical-glyph-audited assembly — NEEDS REVIEW.**  
 > Controlling source: `TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf`, story scans 21–24 and 26 / printed 17–20 and 22.  
-> Stage 2 is complete for all source-visible text. Scan 23 contains one illustration-obscured prose span represented by `[…]`; it has not been reconstructed from the supplied Markdown. Scan 25 / printed 21 remains verified non-story / excluded. Stage 3 historical-glyph audit has not started.
+> Stage 2 visual fidelity and Stage 3 historical-glyph audit are complete for all source-visible text. Stage 3 found **0 character-identity corrections** and **0 unresolved source-visible glyph clusters**. Scan 23 contains one illustration-obscured prose span represented by `[…]`; it has not been reconstructed from the supplied Markdown. Scan 25 / printed 21 remains verified non-story / excluded. Stage 4 final independent source check is still pending.
 
 “கானல் வரி நான்பாட, மாயப்பொய் பல கூட்டும் காதல்மொழி சிந்தியதை இந்தக் காதுகளால் கேட்டிருந்தேன். காளையரை ஏமாற்றக் காட்சிவரி, கண்கூட்டு வரி முதலிய எட்டு வகை நடிப்புவரியும் கற்றவளடி நீ! குமிழம்பூ மூக்கும் குவளை மலர்க் கண்ணும் கொண்டு இனி இந்தக் கோவலனை ஏமாற்ற முடியாது!” எனக் கூறி மாதவியாம் மங்கையர் திலகத்தைப் பிரிந்து வந்த கோவலன், பேடை தேடி வரும் சேவலெனக் கண்ணகியைக் காண வீடு நாடி ஓடுகிறான். ஆளனைக் கண்ட அந்த ஆரமுதுப் பெண்ணாள் அடி தகர்ந்த மரம்போல அவன் அடிவீழ்ந்தாள். கண்ணீர்த்துளிகளால் அவன் காலைக் குளிப்பாட்டினாள்.
 
