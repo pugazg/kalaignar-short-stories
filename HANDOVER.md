@@ -786,39 +786,48 @@ Four user-supplied periodical sources have been deduplicated and registered.
 - witness: **CLOSED / PASS 2/2**
 - canonical changes: **0**
 
-### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966 — ACTIVE
+### 2. சீரழித்த சிரிப்பு! — காஞ்சி பொங்கல் மலர் 1966 — TAMIL/SOURCE CLOSED
 
 Canonical: `stories/seerazhitha-sirippu/`
 
 - story scans: **101–102 / printed 91–92**
 - source intake: **COMPLETE**
 - Stage 1: **COMPLETE 2/2**
-- Stage 2 visual fidelity: **COMPLETE / PASS 2/2**
-- Stage-2 ordinary corrections: **27 authoritative** — scan 101: 15; scan 102: 12
-- former 30-correction Stage-2 count: **SUPERSEDED; 3 historical-glyph regressions retracted**
-- ordinary-fidelity unresolved: **0**
-- page statuses: **needs-review 2/2**
-- Stage 3 historical glyph: **CORRECTIVE RE-AUDIT COMPLETE / PASS 2/2 — 4 character-identity corrections; 0 unresolved glyph clusters**
-- Stage 4 final independent check: **NOT STARTED — NEXT**
-- verified: **0/2**
+- Stage 2 ordinary visual fidelity: **COMPLETE / PASS**
+- Stage 3 historical glyph corrective re-audit: **COMPLETE / PASS 2/2 — 4 character-identity corrections**
+- Stage 4 final independent source check: **COMPLETE / PASS 2/2 — 7 final corrections**
+- verified page records: **2/2**
+- Tamil/source assembly: **PASS / CLOSED**
+- unresolved ordinary readings: **0**
+- unresolved glyph clusters: **0**
 - boxed scan-102 `முகப்பில்:` verse: **non-story / excluded**
 - scan 101→102 split `வேதனைச் / சிலையானாள்`: **PASS**
+- closing ornament: **PASS**
+- English: **NOT STARTED — NEXT**
 
-Corrective historical-glyph findings supersede three former Stage-2 changes:
+Corrective historical-glyph readings confirmed through Stage 4:
 
-- `கடன்காரனும்` → **`கடன்காரனாம்`** (`னா`)
-- `ஆடைகள்` → **`ஆடைகளை`** (`ளை`)
-- final `அவள் வாழவிடாமல் செய்த` → **`அவளை வாழவிடாமல் செய்த`** (`ளை`)
+- `கடன்காரனாம்` — `னா`
+- `ஆடைகளை` — `ளை`
+- `நடத்தினாள்` — `னா`
+- final `அவளை வாழவிடாமல் செய்த...` — `ளை`
 
-Additional Stage-3 repair:
+Stage-4 final corrections:
 
-- `நடத்தினள்` → **`நடத்தினாள்`** (`னா`)
+- scan 101 `என்கிறார்களே....` → **`என்கிறார்களே...`**
+- scan 101 `நின்றது;` → **`நின்றது’`**
+- scan 101 `விடும்... ஹி...ஹி...ஹி!` → **`விடும்...ஹி...ஹி...ஹி!`**
+- scan 101 `என்று. தனது` → **`என்று தனது`**
+- scan 102 `இளவரசியின் முன்னாள்` → **`இளவரசியின், முன்னாள்`**
+- scan 102 `கேள்விக்கணைகளுக்கு` → **`கேள்விக் கணைகளுக்கு`**
+- scan 102 `அரசி. அனுமதிச்சீட்டு` → **`அரசி, அனுமதிச்சீட்டு`**
 
-Other source-supported ordinary Stage-2 repairs remain in force pending Stage 4.
+Durable controls:
 
-Durable audits:
 - `stories/seerazhitha-sirippu/STAGE2_BATCH_001.md`
 - `stories/seerazhitha-sirippu/HISTORICAL_GLYPH_GATE.md`
+- `stories/seerazhitha-sirippu/FINAL_SOURCE_CHECK.md`
+- `stories/seerazhitha-sirippu/TAMIL_SOURCE_CLOSURE.md`
 
 ### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960
 
@@ -837,19 +846,17 @@ Durable audits:
 
 ## Exact next activity — CURRENT
 
-**சீரழித்த சிரிப்பு! — Stage 4 final independent source check, scans 101–102 / printed 91–92.**
+**சீரழித்த சிரிப்பு! — English E1 first translation from the verified Tamil authority.**
 
 1. fetch live `main`;
-2. reopen both source scans directly and do not rely on the Stage-2/Stage-3 correction ledger as a substitute for a fresh read;
-3. check the complete two-page story end-to-end for wording, omission, duplication, punctuation, spacing and quote/paragraph boundaries;
-4. revalidate the illustrated-title / multi-column reading order on scan 101;
-5. revalidate scan 101→102 `வேதனைச் / சிலையானாள்`;
-6. confirm scan-102 boxed `முகப்பில்:` matter remains excluded;
-7. confirm the closing ornament and scan-103 `அடிமைகள்` forward boundary;
-8. apply only source-proven final corrections, if any;
-9. if all checks pass, promote both page records to `verified`, synchronize assembly / README / page map / review queue / HANDOVER / NEXT prompt and create the final source-check record;
-10. commit and stop before any English work or `மதுரைச் செலவு`.
-
-Do not begin `மதுரைச் செலவு` until `சீரழித்த சிரிப்பு!` closes Stage 4.
+2. use only `stories/seerazhitha-sirippu/sections/seerazhitha-sirippu.md` and the two verified page records as Tamil authority;
+3. do not reopen or silently normalize Tamil/source;
+4. create a complete English translation preserving the story's paragraph/dialogue structure and source-page traceability;
+5. retain names and culturally specific terms conservatively; do not import outside historical explanation into the translation;
+6. preserve the source's unusual rhetoric and ambiguity rather than smoothing away meaning;
+7. create/update an English translation review record with page-marker coverage, omissions/duplications, names/terms, difficult passages and unsupported-addition checks;
+8. Tamil changed during translation: **must remain No** unless genuinely new source evidence appears;
+9. commit the English E1 result and stop before any later English review/fidelity gate;
+10. do not begin `மதுரைச் செலவு` in the same activity.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
