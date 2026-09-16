@@ -1,42 +1,43 @@
-# NEXT CHAT PROMPT — கொன்று வருக! / English E1 first translation
+# NEXT CHAT PROMPT — கொன்று வருக! CLOSED
 
-Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in pugazg/kalaignar-short-stories, branch main. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Tamil/source authority
+## Closed canonical
 
-`stories/kondru-varuga/` is **TAMIL / SOURCE CLOSED / PASS — VERIFIED 6/6**.
+stories/kondru-varuga/
 
-Controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
+Controlling source:
 
-- scans **8–13 / printed 32–37**
-- scan 14 `திராவிட இலக்கியம்` is the forward boundary / excluded
-- Stage 1: **COMPLETE**
-- Stage 2: **PASS**
-- Stage 3: **PASS**
-- Stage 4: **PASS**
-- unresolved source readings: **0**
-- English: **NOT STARTED**
+TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf
 
-Authoritative Tamil assembly:
-`stories/kondru-varuga/sections/kondru-varuga.md`
+## Final state
 
-Read before translating:
-- `ENGLISH_TRANSLATION_GUIDE.md`
-- `stories/kondru-varuga/FINAL_SOURCE_CHECK.md`
-- `stories/kondru-varuga/TAMIL_SOURCE_CLOSURE.md`
-- `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- `stories/kondru-varuga/indexes/page-map.md`
+- story scans: **8–13 / printed 32–37**
+- Tamil Stage 1: **COMPLETE**
+- Tamil Stage 2: **PASS**
+- Tamil Stage 3: **PASS**
+- Tamil Stage 4: **PASS**
+- verified Tamil pages: **6/6**
+- Tamil/source: **CLOSED / PASS**
+- English E1: **COMPLETE**
+- English E2: **PASS — 8 repairs**
+- English E3: **PASS — 6 refinements**
+- English E4: **PASS — 12 repairs**
+- English E5: **PASS — 3 final edits**
+- final English title: **Go and Kill Him!**
+- source-page traceability: **PASS 6/6**
+- unresolved English issues: **0**
+- English layer: **CLOSED / PASS**
 
-Do not normalize: `...பொற்கொல்லரிடம் தர`, `வீனை`, `கண்ணகியென்று`, `கனை தாக்கக்`, `திமிர்வாதம் வேறா?...`.
+Durable English controls:
+
+- stories/kondru-varuga/translations/en/kondru-varuga.md
+- stories/kondru-varuga/TRANSLATION_REVIEW.md
+
+Do not regress the verified unusual source forms or silently normalize the English decisions based on them.
 
 ## Exact next activity
 
-Perform **English E1 first translation**.
+**NONE automatically.**
 
-Create:
-- `stories/kondru-varuga/translations/en/kondru-varuga.md`
-- `stories/kondru-varuga/TRANSLATION_REVIEW.md`
-
-Translate the complete verified Tamil faithfully, preserve physical source-page traceability for scans 8–13, synchronize controls, commit E1, and stop before E2.
-
-The 1958 `தேனலைகள்` source remains **DEFERRED**.
+The 1958 தேனலைகள் source remains **DEFERRED**. Wait for explicit user authorization or a different source/activity before proceeding.

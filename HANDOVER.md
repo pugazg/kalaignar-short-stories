@@ -871,32 +871,39 @@ Final E5 edits:
 - `a woman of the courtesan world` → **`a courtesan`**, preserving `விலைமாது` directly;
 - palm-leaf-letter transition restored to the story's present-tense narrative.
 
-### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — TAMIL/SOURCE CLOSED
+### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — TAMIL/SOURCE + ENGLISH CLOSED
 
-- canonical: `stories/kondru-varuga/`
+- canonical: stories/kondru-varuga/
 - scans **8–13 / printed 32–37**
-- Stage 1: **COMPLETE 6/6**
-- Stage 2: **PASS 6/6**
-- Stage 3 historical glyph: **PASS 6/6**
-- Stage 4 final source check: **PASS 6/6**
-- verified: **6/6**
-- unresolved ordinary / glyph / blocked: **0 / 0 / 0**
+- Tamil Stage 1–4: **COMPLETE / PASS**
+- verified Tamil pages: **6/6**
+- unresolved Tamil ordinary / glyph / blocked: **0 / 0 / 0**
 - Tamil/source: **CLOSED / PASS**
-- English: **NOT STARTED**
+- English E1: **COMPLETE**
+- English E2: **PASS — 8 repairs**
+- English E3: **PASS — 6 refinements**
+- English E4: **PASS — 12 repairs**
+- English E5: **PASS — 3 final edits**
+- cumulative English changes after E1: **29**
+- final English title: **Go and Kill Him!**
+- English source-page traceability: **PASS 6/6**
+- English omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil changed during English: **No**
+- unresolved English issues: **0**
+- English: **CLOSED / PASS**
 
-Do not regress:
-- scan 10 `...பொற்கொல்லரிடம் தர`
-- scan 10 `மிகவும் நன்றி`
-- scans 11–13 `கூறினான்` historical `னா`
-- scan 13 `வீனை`
-- scan 13 `கண்ணகியென்று`
-- scan 13 `கனை தாக்கக் கதறுகின்றேன்! புலம்புகின்றேன்!...`
-- scan 13 `திமிர்வாதம் வேறா?...`
+Protected source-sensitive English decisions:
+
+- scan 10 Tamil fragment ...பொற்கொல்லரிடம் தர remains an intentional English fragment;
+- வீனை → **veenai**, not normalized;
+- கனை → **kanai**, not normalized;
+- பத்தரை மாற்றுத் தங்கமே → **ten-and-a-half-touch gold**;
+- மகரயாழ் → **makara yaazh**.
 
 ## Exact next activity — CURRENT
 
-**கொன்று வருக! — English E1 first translation.**
+**NONE under the currently authorized periodical scope.**
 
-Use the verified Tamil assembly and `ENGLISH_TRANSLATION_GUIDE.md`; preserve scan-level traceability; create the English translation and `TRANSLATION_REVIEW.md`; commit E1 separately; stop before E2.
+கொன்று வருக! is fully closed in Tamil/source and English. The 1958 தேனலைகள் source remains **DEFERRED** and must not be opened automatically.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
