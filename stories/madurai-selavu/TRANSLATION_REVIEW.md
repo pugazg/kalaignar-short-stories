@@ -315,3 +315,85 @@ E3 terminology retained:
 - unresolved E4 issues: **0**
 
 Next: **E5 — final bilingual approval / English closure**.
+
+
+## E5 — final bilingual approval / English closure
+
+**COMPLETE / PASS — FINAL ENGLISH APPROVED / CLOSED.**
+
+The E4 English was rechecked end-to-end against the frozen verified Tamil. E2 meaning decisions and E3 terminology were revalidated after the readability edits, all physical source-page markers were checked again, and the English title was reviewed for final approval.
+
+### Final E5 editorial decisions
+
+Two final English corrections were made:
+
+1. `I fell into the hands of Madhavi, a woman of the courtesan world.` → **`I fell under the sway of Madhavi, a courtesan.`**
+   - restores the direct force of `மாதவியாம் விலைமாதின் வசப்பட்டேன்` and removes the awkward euphemistic phrasing.
+
+2. The palm-leaf-letter transition was returned to the story's present-tense narrative:
+   - `Kovalan received ... he saw ... his heart changed ... he melted ... read`
+   - → **`Kovalan receives ... he sees ... his heart changes ... he melts ... reads`**
+   - this matches both the frozen Tamil narrative tense and the surrounding English paragraphs.
+
+### Final title decision
+
+**Journey to Madurai** — **APPROVED / FINAL.**
+
+It is concise, natural English and faithfully reflects `மதுரைச் செலவு` without adding interpretive framing.
+
+### Final bilingual checks
+
+- complete Tamil↔English semantic alignment: **PASS**
+- dialogue relationships / speaker direction: **PASS**
+- chronology and narrative order: **PASS**
+- source imagery and rhetorical questions: **PASS**
+- literary-commentary passages: **PASS**
+- opening Kaanal-Vari sequence: **PASS**
+- Kovalan/Kannagi apology sequence: **PASS**
+- Madhavi/Manimekalai lament: **PASS**
+- Kavunti dialogue and route warnings: **PASS**
+- resolved scan-23→24 comic passage: **PASS**
+- Madhavi letter across scan 24→26: **PASS**
+- imagined Madhavi/Maasathuvan reconciliation: **PASS**
+- four *Silappathikaram* canto descriptions: **PASS**
+- final Madurai-breeze / storm omen: **PASS**
+
+### Protected terminology revalidated
+
+- **Vari performance**
+- **Kaanal Vari / Kaatchi Vari / Kankootu Vari**
+- **Tamil Marai**
+- **Kavunti / Kavunti Adigal**
+- **Saranars**
+- **Aiyai Kottam**
+- **katham / kathams**
+- **yaazh**
+- **Kotravai**
+- **Nadukaan Kaathai / Kaadukaan Kaathai / Vettuva Vari / Puranjeri Irutha Kaathai**
+
+### Final structural checks
+
+- source scan 21 marker: **PASS**
+- source scan 22 marker: **PASS**
+- source scan 23 marker: **PASS**
+- source scan 24 marker: **PASS**
+- scan 25 non-story exclusion marker: **PASS**
+- source scan 26 marker: **PASS**
+- represented story scans: **5/5**
+- scan-23→24 physical split: **PASS**
+- scan-24→26 Madhavi-letter continuity: **PASS**
+
+### Final English disposition
+
+- E1: **COMPLETE**
+- E2: **PASS — 9 repairs**
+- E3: **PASS — 5 repairs**
+- E4: **PASS — 21 repairs**
+- E5: **PASS — 2 final edits**
+- cumulative English changes after E1: **37**
+- final title: **Journey to Madurai**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during E1–E5: **No**
+- Tamil changed during E1–E5: **No**
+- unresolved English issues: **0**
+- English layer: **PASS / CLOSED**
