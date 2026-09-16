@@ -14,7 +14,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 இடையிலே தலைமைப் பொற்கொல்லர் தலையிட்டு “ஏனப்பா உனக்கு இவ்வளவு வாய்த்துடுக்கு!... திருடியதுமில்லாமல் திமிர்வாதம் வேறா?... கொழுப்பெடுத்தவனே!.......... எதிர்த்துப் பேசாமல் உண்மையைக் கூறிவிடு!...” என்றார்.
 
-‘பொற்கொல்லரே’ உணர்ச்சிவசப்பட்டுக்கூறினன் கோவலன். பொற்கொல்லன் “நீ கள்வனே தான்!...” என, நூறு பொற்கொல்லர்களும் சேர்ந்துகொண்டு “கள்வனே தான்! கள்வனேதான்!!” என கோவலனை நோக்கிக் கத்துகிறார்கள்.
+‘பொற்கொல்லரே’ உணர்ச்சிவசப்பட்டுக்கூறினான் கோவலன். பொற்கொல்லன் “நீ கள்வனே தான்!...” என, நூறு பொற்கொல்லர்களும் சேர்ந்துகொண்டு “கள்வனே தான்! கள்வனேதான்!!” என கோவலனை நோக்கிக் கத்துகிறார்கள்.
 
 கோவலன் உணர்ச்சிப் பெருக்கோடு “கள்வன்! நான் கள்வன்! கண்ணகி!... உன் கணவன் கள்வன்! என் பத்தரை மாற்றுத் தங்கமே!... பாண்டிநாடு தீர்ப்பளிக்கிறது அப்படி! நான் கள்வனா கண்ணே!... கண்ணீர் ததும்ப விடை கொடுத்தாயே கண்ணகி; இப்படி ஒரு களங்கம் எனக்கு வருமென்று தெரிந்துதானோ, கண்மணி!
 
@@ -41,7 +41,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 ## Stage 2 visual-fidelity result
 
 - Physical page begins with the goldsmith's intervention; Stage 1 had incorrectly started the page at Kovalan's lament.
-- Restored source `கூறினன்`, `கண்ணீர் ததும்ப`, and source placement of `விடை கொடுத்தாயே கண்ணகி`.
+- Stage 2 had visually read `கூறினன்`; Stage 3 historical-glyph review supersedes that apparent form with source-supported **`கூறினான்` (`னா`)**. `கண்ணீர் ததும்ப` and the placement of `விடை கொடுத்தாயே கண்ணகி` remain source-confirmed.
 - Source form `மாடமாளிகை கூட கோபுரத்தில்` is retained.
 - `கள்வன் எனும் கணைதாக்க`, final sword action, and closing `ஆ... கண்ணகி!` were rechecked directly.
 - The boxed material beginning `1950-51ல் இந்திய...` is **NON-STORY / EXCLUDED**; the story/non-story boundary is visually unambiguous.
@@ -49,3 +49,14 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 13; அச்சுப் பக்கம்: 37 -->
+
+
+## Stage 3 historical-glyph audit — IN PROGRESS
+
+- apparent modern-shape reading: `கூறினன்`
+- source-supported Unicode reading: **`கூறினான்`**
+- historical identity: **`னா`**
+- same-edition corroboration: repeated `கள்வனா / கள்வனாம்` shapes use the corresponding historical `னா` family;
+- no global replacement or lexical modernization was performed.
+
+Page remains **needs-review** pending completion of Stage 3 and Stage 4.

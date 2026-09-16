@@ -82,7 +82,7 @@ The existing 37/37 English translation phase remains complete. The separate five
 | [`பனங்குலை`](stories/panangulai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 3 repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
 | [`சீரழித்த சிரிப்பு!`](stories/seerazhitha-sirippu/README.md) | **Tamil/source CLOSED / PASS — verified 2/2** | **PASS / CLOSED** |
 | [`மதுரைச் செலவு`](stories/madurai-selavu/README.md) | **Tamil/source CLOSED / PASS — verified 5/5; scan 25 excluded** | **PASS / CLOSED** |
-| [`கொன்று வருக!`](stories/kondru-varuga/README.md) | **Stage 2 ordinary visual fidelity COMPLETE / PASS 6/6; needs-review; Stage 3 next** | **not started** |
+| [`கொன்று வருக!`](stories/kondru-varuga/README.md) | **Stage 3 historical-glyph audit IN PROGRESS; `கூறினான்` (`னா`) corrected on scans 11–13; needs-review** | **not started** |
 | [`செத்தவள் கதை`](stories/seththaval-kathai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 9/9 + Gate B 9/9; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
 | [`பிரேத விசாரணை`](stories/pretha-visaranai/README.md) | **2026 dual-gate CURRENT PASS — Gate A 6/6 + Gate B 6/6; 1 repair; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |
 | [`கண்டதும் காதல் ஒழிக!`](stories/kandathum-kadhal-ozhiga/README.md) | **2026 dual-gate CURRENT PASS — Gate A 5/5 + Gate B 5/5; 0 new repairs; 0 unresolved** | **PASS — synchronized; English re-audit E1 + E2 + E3 + E4 + E5 PASS** |

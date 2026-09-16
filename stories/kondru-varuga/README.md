@@ -30,7 +30,7 @@ The supplied `kondru_varuga.md` remains locator/draft only. Stage 2 found that S
 - review queue: `POSSIBLE_ERRORS_FOR_REVIEW.md`
 - page status: **needs-review 6/6**
 - scan 13 unrelated magazine/statistical matter: **EXCLUDED / CONFIRMED**
-- Stage 3 historical-glyph audit: **NOT STARTED — NEXT**
+- Stage 3 historical-glyph audit: **IN PROGRESS — historical `னா` correction `கூறினன்` → `கூறினான்` confirmed on scans 11–13**
 - Stage 4 final source check: **NOT STARTED**
 - verified: **0/6**
 - English: **NOT STARTED**
@@ -46,6 +46,6 @@ The supplied `kondru_varuga.md` remains locator/draft only. Stage 2 found that S
 
 ## Exact next activity
 
-**Stage 3 historical Tamil glyph audit for scans 8–13 / printed 32–37.**
+**Continue Stage 3 historical Tamil glyph audit for scans 8–13 / printed 32–37.**
 
-Re-fetch live `main`, reopen all six controlling scans independently, audit the historical-glyph families defined by the repository workflow, apply only source-proven glyph corrections, keep every page `needs-review`, synchronize all controls, commit, and stop before Stage 4.
+Re-fetch live `main`, preserve the now-authoritative `கூறினான்` (`னா`) corrections on scans 11–13, continue the remaining historical-glyph families independently across all six scans, apply only source-proven corrections, keep every page `needs-review`, synchronize all controls, and stop before Stage 4.

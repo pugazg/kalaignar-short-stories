@@ -890,7 +890,7 @@ Final E5 edits:
 - scan 11 anklet-sale spans: **RESOLVED FROM PIXELS**
 - scan 12 `இல்லையேல் தப்பாது உன் […]`: **RESOLVED → `உயிர்`**
 - page status: **needs-review 6/6**
-- Stage 3 historical glyph: **0/6 — NEXT**
+- Stage 3 historical glyph: **IN PROGRESS — `கூறினன்` → `கூறினான்` (`னா`) source-confirmed on scans 11–13; no page closed yet**
 - Stage 4 final source check: **0/6**
 - verified: **0/6**
 - English: **NOT STARTED**
@@ -904,11 +904,11 @@ Durable Stage-2 controls:
 
 ## Exact next activity — CURRENT
 
-**கொன்று வருக! — Stage 3 historical Tamil glyph audit, scans 8–13 / printed 32–37.**
+**கொன்று வருக! — continue Stage 3 historical Tamil glyph audit, scans 8–13 / printed 32–37.**
 
 1. fetch live `main`;
 2. reopen all six source scans independently;
-3. audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` word by word;
+3. preserve the source-confirmed `கூறினான்` historical-`னா` corrections on scans 11–13, then continue auditing `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` word by word;
 4. compare whole words / phrases and same-edition forms; never infer from a single isolated stroke;
 5. do not use the supplied `kondru_varuga.md` as glyph authority;
 6. preserve Stage-2 physical routing and ordinary-text corrections;

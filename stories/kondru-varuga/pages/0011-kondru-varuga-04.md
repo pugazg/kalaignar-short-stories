@@ -48,7 +48,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 “என்ன?” அதிர்ச்சியடைந்தான் கோவலன்,
 
-“ஆமாம். இல்லாவிட்டால் தோலிருக்கச் சுளை விழுங்கியதுபோல் பூட்டிய பெட்டி பூட்டியவாறிருக்க திறவுகோலோ என்னிடமிருக்க, திருட முடியுமா இந்தச் சிலம்பை...?” — என்று கூறினன் தலைமைப் பொற்கொல்லன்.
+“ஆமாம். இல்லாவிட்டால் தோலிருக்கச் சுளை விழுங்கியதுபோல் பூட்டிய பெட்டி பூட்டியவாறிருக்க திறவுகோலோ என்னிடமிருக்க, திருட முடியுமா இந்தச் சிலம்பை...?” — என்று கூறினான் தலைமைப் பொற்கொல்லன்.
 
 “ஆ!... சிலம்பைத் திருடினேனா? பொற்கொல்லரே!... ஏனிந்தப் பழி என்மீது? இஃது என்ன அநியாயம்?” — என்று துடித்துக் கேட்டான் கோவலன்.
 
@@ -80,3 +80,14 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 11; அச்சுப் பக்கம்: 35 -->
+
+
+## Stage 3 historical-glyph audit — IN PROGRESS
+
+- apparent modern-shape reading: `கூறினன்`
+- source-supported Unicode reading: **`கூறினான்`**
+- historical identity: **`னா`**
+- evidence: direct source-pixel comparison plus the same historical `னா` typeform recurring in this 1952 issue;
+- this is glyph decoding, not grammatical modernization.
+
+Page remains **needs-review** until the complete 13-family Stage-3 audit and Stage 4 final source check close.

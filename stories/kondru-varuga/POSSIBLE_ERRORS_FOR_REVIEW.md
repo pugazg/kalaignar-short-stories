@@ -2,7 +2,7 @@
 
 ## Current state
 
-**OPEN — Stage 2 ordinary visual fidelity COMPLETE / PASS 6/6; 0 unresolved ordinary-source clusters. Stage 3 historical-glyph audit is next.**
+**OPEN — Stage 2 ordinary visual fidelity COMPLETE / PASS 6/6; 0 unresolved ordinary-source clusters. Stage 3 historical-glyph audit is IN PROGRESS.**
 
 ## Stage-2 closures
 
@@ -26,3 +26,13 @@ Particular source shapes worth deliberate Stage-3 rechecking include:
 Do not use the supplied Markdown to settle a historical character identity.
 
 All six page records remain **needs-review**.
+
+## Stage-3 confirmed correction — historical `னா`
+
+User correction verified against source pixels:
+
+- scans **11, 12, 13** apparent `கூறினன்` → **`கூறினான்`**
+- family: **`னா`**
+- all three same-edition occurrences corrected in page records and assembly.
+
+Do not regress these to `கூறினன்` during later passes.

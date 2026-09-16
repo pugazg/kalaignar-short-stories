@@ -22,7 +22,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 “மானம்போய் உயிர்வாழும் மரபிலே பிறக்கவில்லை நான்... மறத் தமிழர் குடியிலே பிறந்தவன்!....”
 
-‘நானும் தமிழ்க்குலந்தான்!’ திமிராகக் கூறினன் அதிகாரி.
+‘நானும் தமிழ்க்குலந்தான்!’ திமிராகக் கூறினான் அதிகாரி.
 
 “நீ... குலத்தைக் கெடுக்க வந்த கோடரிக்காம்பு! கொள்கையற்றவன்!... குள்ளநரி! வீரபரம்பரையின் விதிவிலக்கு!....”
 
@@ -40,3 +40,15 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 12; அச்சுப் பக்கம்: 36 -->
+
+
+## Stage 3 historical-glyph audit — IN PROGRESS
+
+User-flagged source recheck confirmed the historical glyph:
+
+- apparent modern-shape reading: `கூறினன்`
+- source-supported Unicode reading: **`கூறினான்`**
+- historical identity: **`னா`**
+- evidence: enlarged direct source pixels; the old `னா` form visually resembles the shorter modern form if read by shape alone.
+
+Page remains **needs-review** pending the rest of Stage 3 and Stage 4.

@@ -40,7 +40,7 @@ The supplied `kondru_varuga.md` remains locator/draft only and must not override
 - Stage-2 record: `stories/kondru-varuga/STAGE2_BATCH_001.md`
 - review queue: `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
 - page status: **needs-review 6/6**
-- Stage 3 historical glyph: **0/6 — NEXT**
+- Stage 3 historical glyph: **IN PROGRESS — source-confirmed `கூறினான்` (`னா`) correction applied on scans 11–13; no page closed yet**
 - Stage 4 final source check: **0/6**
 - verified: **0/6**
 - English: **NOT STARTED**
@@ -51,16 +51,17 @@ Perform **Stage 3 historical Tamil glyph audit** for scans **8–13 / printed 32
 
 1. fetch live `main`;
 2. reopen all six controlling scans independently;
-3. explicitly audit:
+3. preserve the user-confirmed/source-verified historical `னா` reading **`கூறினான்`** at all three same-edition occurrences on scans 11–13;
+4. continue explicitly auditing:
    `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-4. compare whole words / phrases and same-edition shapes where necessary;
-5. never infer character identity from one isolated stroke;
-6. do not modernize spelling or grammar and never global-replace;
-7. use the supplied Markdown only as locator, never as glyph authority;
-8. preserve the Stage-2 physical page map and ordinary-text repairs;
-9. pay special attention to `விற்றால்கூட`, `கண்ணீரால்`, and repeated `கள்வனா / கள்வனாம்` shapes;
-10. keep all six pages **needs-review** after Stage 3;
-11. update page records / assembly / `HISTORICAL_GLYPH_GATE.md` / review queue / README / page map / HANDOVER / NEXT prompt;
-12. commit and stop before Stage 4 final independent source check.
+5. compare whole words / phrases and same-edition shapes where necessary;
+6. never infer character identity from one isolated stroke;
+7. do not modernize spelling or grammar and never global-replace;
+8. use the supplied Markdown only as locator, never as glyph authority;
+9. preserve the Stage-2 physical page map and ordinary-text repairs;
+10. pay special attention to `விற்றால்கூட`, `கண்ணீரால்`, and repeated `கள்வனா / கள்வனாம்` shapes;
+11. keep all six pages **needs-review** after Stage 3;
+12. update page records / assembly / `HISTORICAL_GLYPH_GATE.md` / review queue / README / page map / HANDOVER / NEXT prompt;
+13. commit and stop before Stage 4 final independent source check.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.

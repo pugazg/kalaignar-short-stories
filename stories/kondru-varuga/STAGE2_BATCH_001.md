@@ -34,7 +34,7 @@ Correct physical routing:
 - scan 11: restored source numeral **`100`**, attribution **`கேட்டான் அதிகாரி`**, source question **`திருட முடியுமா இந்தச் சிலம்பை...?`**, and **`பழியைப் போடுவதா?`**;
 - scan 11: former two `[…]` spans resolved as **`சிலம்புதனை விற்பதற்கும் துணிந்து விட்ட கொடுமையாளன்!—என விளக்குகின்றேன்!`**;
 - scan 12: former `இல்லையேல் தப்பாது உன் […]` resolved as **`இல்லையேல் தப்பாது உன் உயிர்!`**; `மண்ணிலே` → **`மரபிலே`**;
-- scan 13: restored page-start material, source **`கூறினன்`**, **`கண்ணீர் ததும்ப`**, placement of `விடை கொடுத்தாயே கண்ணகி`, and **`மாடமாளிகை கூட கோபுரத்தில்`**;
+- scan 13: restored page-start material, Stage-2 apparent reading **`கூறினன்`**, **`கண்ணீர் ததும்ப`**, placement of `விடை கொடுத்தாயே கண்ணகி`, and **`மாடமாளிகை கூட கோபுரத்தில்`**; the later Stage-3 historical-glyph audit supersedes `கூறினன்` with source-supported **`கூறினான்` (`னா`)**;
 - scan 13: final sword action / death wording rechecked; unrelated boxed `1950-51ல் இந்திய...` material remains **excluded**.
 
 ## Focused user-requested rechecks
