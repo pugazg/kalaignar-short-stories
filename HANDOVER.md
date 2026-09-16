@@ -871,27 +871,50 @@ Final E5 edits:
 - `a woman of the courtesan world` → **`a courtesan`**, preserving `விலைமாது` directly;
 - palm-leaf-letter transition restored to the story's present-tense narrative.
 
-### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
+### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — STAGE 1 COMPLETE
 
 - canonical: `stories/kondru-varuga/`
+- controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
 - story scans: **8–13 / printed 32–37**
+- scan 8: story opening / title artwork
+- scan 13: story ending / mixed story + magazine matter
+- scan 14: separate `திராவிட இலக்கியம்` — forward boundary
 - source intake: **COMPLETE**
-- Stage 1: **NOT STARTED**
+- Stage 1 first-pass transcription: **COMPLETE 6/6**
+- Stage-1 assembly: `stories/kondru-varuga/sections/kondru-varuga.md`
+- Stage-1 durable record: `stories/kondru-varuga/STAGE1_BATCH_001.md`
+- review queue: `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- page status: **needs-review 6/6**
+- unresolved source clusters: **3**
+  - scan 11: **2**
+  - scan 12: **1**
+- scan 13 unrelated magazine/statistical matter: **EXCLUDED**
+- Stage 2 visual fidelity: **NOT STARTED — NEXT**
+- Stage 3 historical-glyph audit: **NOT STARTED**
+- Stage 4 final source check: **NOT STARTED**
+- verified: **0/6**
+- English: **NOT STARTED**
 
 ## Exact next activity — CURRENT
 
-**கொன்று வருக! — Stage 1 first-pass transcription, scans 8–13 / printed 32–37.**
+**கொன்று வருக! — Stage 2 word-by-word visual text-fidelity review, scans 8–13 / printed 32–37.**
 
 1. fetch live `main`;
-2. active canonical: `stories/kondru-varuga/`;
-3. controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`;
-4. use direct scan pixels only; supplied `kondru_varuga.md` is locator/draft only because its column order is heavily corrupted;
-5. rebuild physical reading order for scans **8, 9, 10, 11, 12, 13**;
-6. preserve scan 8 title-artwork structure and scan 13 mixed story + magazine matter carefully;
-7. scan 14 opens separate `திராவிட இலக்கியம்` and is the forward boundary;
-8. keep all six Stage-1 story page records `needs-review`; do not perform Stage 2 in the same activity;
-9. assemble only source-supported story text, synchronize README / page map / Stage-1 progress / HANDOVER / NEXT prompt;
-10. commit and stop before Stage 2.
+2. use direct pixels from the controlling 1952 source as authority;
+3. compare every Stage-1 word, punctuation mark, paragraph/dialogue boundary and column transition against scans **8, 9, 10, 11, 12, 13**;
+4. independently re-establish multi-column physical reading order rather than trusting the supplied `kondru_varuga.md`;
+5. explicitly recheck:
+   - scan 8 opening identity/name exchange;
+   - scan 9 transition from goldsmith sequence to royal bedchamber;
+   - scan 10 `சிலம்புத் திருடி` and exact dialogue punctuation;
+   - scan 11 `தோலிருக்கச் சுளை விழுங்கியதுபோல்`, `கருத்தழிந்த காரணத்தால்`, and both `[…]` clusters;
+   - scan 12 officer threat `இல்லையேல் தப்பாது உன் […]`, `கைகாரக் கள்வனே`, `வாய்த்துடுக்கு`, `திமிர்வாதம்`;
+   - scan 13 `பத்தரை மாற்றுத் தங்கமே`, placement of `விடை கொடுத்தாயே கண்ணகி...`, `மாடமாளிகைக் கூடகோபுரத்தில்`, `கள்வன் எனும் கணை தாக்க`, final sword-action wording, and story/non-story separation;
+6. resolve a `[…]` only when source pixels prove the wording; otherwise preserve it;
+7. apply only source-proven corrections;
+8. keep all six pages `needs-review` after Stage 2; historical-glyph work remains separate Stage 3;
+9. synchronize assembly / Stage-2 record / review queue / README / page map / HANDOVER / NEXT prompt;
+10. commit and stop before Stage 3.
 
 Do not reopen `மதுரைச் செலவு` or `சீரழித்த சிரிப்பு!`.
 
