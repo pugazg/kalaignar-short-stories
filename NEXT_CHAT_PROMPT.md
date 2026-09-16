@@ -1,53 +1,64 @@
-# NEXT CHAT PROMPT — மதுரைச் செலவு / English E5 final approval
+# NEXT CHAT PROMPT — கொன்று வருக! / Stage 1 first-pass transcription
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
+## Previous story closure
+
+`stories/madurai-selavu/` is fully **CLOSED / PASS** for Tamil/source and English.
+
+Final state:
+
+- Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
+- English E1–E5: **COMPLETE / PASS**
+- final English title: **Journey to Madurai**
+- cumulative English changes after E1: **37**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- unresolved English issues: **0**
+- Tamil/source reopened during English: **No**
+
+Do not reopen it without genuinely new source evidence.
+
 ## Active canonical
 
-`stories/madurai-selavu/`
+`stories/kondru-varuga/`
 
-Tamil/source is **CLOSED / PASS — VERIFIED 5/5** and remains frozen.
+Controlling source:
 
-English target:
+`TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
 
-- `stories/madurai-selavu/translations/en/madurai-selavu.md`
-- `stories/madurai-selavu/TRANSLATION_REVIEW.md`
+Source identity / routing:
 
-## Durable English state
+- publication: **முரசொலி — பொங்கல் மலர்**
+- year: **1952**
+- story scans: **8–13**
+- printed pages: **32–37**
+- scan 8: story opening / title artwork
+- scan 9: illustrated story page
+- scans 10–12: story body
+- scan 13: story ending / mixed story + magazine matter
+- scan 14: separate `திராவிட இலக்கியம்` — forward boundary
+- source intake: **COMPLETE**
+- page records initialized: **6/6**
+- Stage 1: **0/6 — NEXT**
+- Stage 2/3/4: **0/6**
+- verified: **0/6**
+- English: **NOT STARTED**
 
-- E1 first complete translation: **COMPLETE**
-- E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
-- E3 terminology / names / cultural consistency: **COMPLETE / PASS — 5 repairs**
-- E4 quality / readability review: **COMPLETE / PASS — 21 repairs**
-- cumulative English repairs after E1: **35**
-- current title: **Journey to Madurai**
-- source-page traceability: **PASS 5/5**
-- scan 25 exclusion marker: **PASS**
-- scan 23→24 physical split: **PASS**
-- scan 24→26 Madhavi-letter continuity: **PASS**
-- omissions / duplications / unsupported additions after E4: **0 / 0 / 0**
-- E2 semantics regressed: **0**
-- E3 terminology regressed: **0**
-- Tamil/source reopened during E1–E4: **No**
-- Tamil changed during E1–E4: **No**
-- unresolved E4 issues: **0**
-- E5: **NOT YET PERFORMED**
+The supplied `kondru_varuga.md` is a locator/draft only. Its multi-column reading order is badly scrambled and must not control canonical text.
 
 ## Exact next activity
 
-Perform **English E5 — final bilingual approval / English closure**.
+Perform **Stage 1 first-pass transcription** for scans **8–13 / printed 32–37**.
 
 1. fetch live `main`;
-2. compare final English against frozen Tamil throughout;
-3. revalidate all E2 meaning decisions and E3 terminology after E4 polishing;
-4. make a final title decision for `மதுரைச் செலவு`;
-5. recheck all names, relationships, imagery, rhetorical questions, literary-commentary passages and final storm omen;
-6. verify source-page markers, scan-25 exclusion, scan-23→24 split and scan-24→26 letter continuity;
-7. verify omissions / duplications / unsupported additions = **0 / 0 / 0**;
-8. make only necessary final English edits;
-9. update `TRANSLATION_REVIEW.md`, README, HANDOVER and NEXT prompt with final closure status;
-10. commit and stop.
-
-Do not begin `கொன்று வருக!` in the same activity.
+2. use direct source pixels as sole transcription authority;
+3. reconstruct physical multi-column reading order independently on every scan;
+4. transcribe scans **8, 9, 10, 11, 12, 13** in source order;
+5. preserve source spelling, punctuation, paragraphing, dialogue and historical glyph evidence without modernization;
+6. use the supplied Markdown only as a locator/draft, never as authority;
+7. separate scan-13 story ending from non-story magazine matter;
+8. keep all six page records **needs-review** after Stage 1;
+9. assemble the Stage-1 story and synchronize README / page map / Stage-1 record / HANDOVER / NEXT prompt;
+10. commit and stop before Stage 2 visual-fidelity review.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
