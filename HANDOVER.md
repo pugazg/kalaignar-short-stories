@@ -844,7 +844,7 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — SOURCE-VISIBLE TAMIL CLOSED
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / VERIFIED 5/5
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
@@ -855,23 +855,23 @@ Durable controls:
 - Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
 - Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
 - mandatory Stage-3 family set: **13/13 checked**
-- Stage 4 final independent source check: **COMPLETE — 2 final corrections**
-- Stage-4 final corrections:
-  - scan 24: restored source-visible continuation `[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
-  - scan 26: `நெடுஞ்செழியன் பாண்டியனின்` → `நெடுஞ்செழியப் பாண்டியனின்`
-- verified story pages: **4/5**
-- scan 23 / printed 19: **needs-review only because one prose span is physically obscured by the illustration**
-- canonical obstruction marker: **`[…]`**
-- source-visible ordinary unresolved readings: **0**
+- Stage 4 direct final source corrections: **2**
+- post-Stage-4 user manual source adjudication: **1 formerly obscured scan-23 span resolved**
+- verified story pages: **5/5**
+- ordinary unresolved readings: **0**
 - unresolved historical-glyph clusters: **0**
-- physical-source obscured spans: **1**
-- missing wording reconstructed from baseline / outside source: **No**
-- Tamil/source layer: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL**
+- physical-source obscured spans: **0**
+- former `[…]` marker: **removed**
+- scan-23→24 cross-page reading: **resolved / PASS**
+- Tamil/source layer: **CLOSED / PASS**
 - English: **NOT STARTED — NEXT**
+
+Resolved cross-page sentence:
+
+`...கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
 
 Durable controls:
 
-- `stories/madurai-selavu/STAGE2_BATCH_001.md`
 - `stories/madurai-selavu/HISTORICAL_GLYPH_GATE.md`
 - `stories/madurai-selavu/FINAL_SOURCE_CHECK.md`
 - `stories/madurai-selavu/TAMIL_SOURCE_CLOSURE.md`
@@ -887,17 +887,17 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — English E1 first complete translation under the documented source-visible limitation.**
+**மதுரைச் செலவு — English E1 first complete translation.**
 
 1. fetch live `main`;
-2. use only the closed Tamil/source authority under `stories/madurai-selavu/`;
-3. translate all source-visible Tamil faithfully into English;
-4. preserve the scan-23 physical-source gap transparently — use an explicit English marker such as `[source obscured]`; do not invent or infer the missing Tamil wording;
-5. preserve the scan **21, 22, 23, 24, 26** provenance markers and the scan-25 non-story exclusion;
-6. preserve the scan-24→26 Madhavi-letter continuity across the excluded interleaf;
-7. do not reopen or modify Tamil/source unless genuinely new source evidence appears;
-8. create the English translation and `TRANSLATION_REVIEW.md` E1 baseline;
-9. record omissions / duplications / unsupported additions for **source-visible material** and separately record the one inherited physical-source gap;
+2. use only the frozen verified Tamil authority under `stories/madurai-selavu/`;
+3. translate the complete Tamil story into English;
+4. preserve paragraph/dialogue order and source-page traceability for scans **21, 22, 23, 24 and 26**;
+5. preserve the scan-23→24 cross-page sentence exactly in meaning; there is **no remaining source gap**;
+6. preserve the scan-24→26 Madhavi-letter continuity across excluded scan 25;
+7. do not modify Tamil/source unless genuinely new source evidence appears;
+8. create `stories/madurai-selavu/translations/en/madurai-selavu.md`;
+9. create/update `stories/madurai-selavu/TRANSLATION_REVIEW.md` with E1 completeness, page-marker coverage, omissions/duplications/unsupported additions and `Tamil/source reopened: No`;
 10. commit E1 and stop before E2.
 
 Do not begin `கொன்று வருக!` in the same activity.
