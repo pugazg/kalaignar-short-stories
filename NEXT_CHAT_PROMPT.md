@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மதுரைச் செலவு / English E1 first translation
+# NEXT CHAT PROMPT — மதுரைச் செலவு / English E2 meaning fidelity
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,56 +6,59 @@ Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTH
 
 `stories/madurai-selavu/`
 
-Tamil/source is **CLOSED / PASS — VERIFIED 5/5**.
+Tamil/source is **CLOSED / PASS — VERIFIED 5/5** and remains frozen.
 
-Controlling Tamil authority:
+Tamil authority:
 
 - `stories/madurai-selavu/sections/madurai-selavu.md`
 - verified page records under `stories/madurai-selavu/pages/`
 - `stories/madurai-selavu/FINAL_SOURCE_CHECK.md`
 - `stories/madurai-selavu/TAMIL_SOURCE_CLOSURE.md`
 
-## Durable Tamil/source state
+English target:
 
-- Stage 1: **COMPLETE 5/5**
-- Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
-- Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
-- mandatory Stage-3 family set: **13/13 checked**
-- Stage 4 direct final source corrections: **2**
-- post-Stage-4 user manual source adjudication: **1 formerly obscured span resolved**
-- verified story pages: **5/5**
-- ordinary unresolved readings: **0**
-- unresolved historical-glyph clusters: **0**
-- physical-source obscured spans: **0**
-- scan 25 / printed 21: **verified non-story / excluded**
-- English: **NOT STARTED**
+- `stories/madurai-selavu/translations/en/madurai-selavu.md`
+- `stories/madurai-selavu/TRANSLATION_REVIEW.md`
 
-## Resolved scan-23→24 passage
+## Durable English state
 
-The user's manual source reading resolved the former scan-23 obstruction:
-
-`ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்`
-
-Scan 24 continues:
-
-`திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
-
-There is **no remaining `[…]` gap** in canonical Tamil.
+- E1 first complete translation: **COMPLETE**
+- E1 title: **Journey to Madurai**
+- source-page traceability: **PASS 5/5**
+- scan 25 exclusion marker: **PASS**
+- scan 23→24 source split: **preserved in English**
+- scan 24→26 Madhavi-letter continuity: **PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened: **No**
+- Tamil changed during E1: **No**
+- unresolved E1 completeness issues: **0**
+- E2–E5: **NOT YET PERFORMED**
 
 ## Exact next activity
 
-Perform **English E1 — first complete translation**.
+Perform **English E2 — meaning-fidelity review**.
 
 1. fetch live `main`;
-2. translate only from the frozen verified Tamil authority;
-3. preserve paragraph/dialogue order and physical source-page traceability;
-4. translate the resolved scan-23→24 passage normally — do not introduce a source-gap marker;
-5. preserve the scan-24→26 Madhavi-letter continuity across excluded scan 25;
-6. create `stories/madurai-selavu/translations/en/madurai-selavu.md`;
-7. create/update `stories/madurai-selavu/TRANSLATION_REVIEW.md` with E1 completeness and page-marker checks;
-8. verify omissions / duplications / unsupported additions = **0 / 0 / 0**;
+2. compare the complete E1 English sentence-by-sentence against the frozen verified Tamil;
+3. check semantic completeness, agency, relationships, chronology, modality, negation, causality, rhetorical force and figurative language;
+4. explicitly recheck:
+   - opening Kaanal-Vari accusation and the eight performance forms;
+   - `மாதர்குல மாணிக்கமே`, `சுகந்தானே`, maritime-trade/body-trade contrast;
+   - `கடல் மாதா வயிற்றுக்குள்` metaphor;
+   - Madhavi's Manimekalai lament;
+   - Poompuhar wealth-list and Kavunti's warning;
+   - resolved scan-23→24 passage and `ஆறு ஐங்காதம்...` verse;
+   - flora/fauna travel description;
+   - Madhavi letter across scans 24→26;
+   - imagined Madhavi/Maasathuvan reconciliation;
+   - the four Silappathikaram canto descriptions;
+   - final Madurai-breeze and storm-omen imagery;
+5. preserve all source-page markers, including scan-25 exclusion;
+6. repair English only where Tamil meaning requires it;
+7. do not modify Tamil/source;
+8. append E2 review with repair count and unresolved issues;
 9. record `Tamil/source reopened: No`;
-10. commit and stop before E2 meaning-fidelity review.
+10. commit and stop before **E3 terminology / names / cultural consistency**.
 
 Do not begin `கொன்று வருக!` in the same activity.
 
