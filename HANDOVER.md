@@ -844,33 +844,36 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1 COMPLETE
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1–E2 COMPLETE
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
 - scan 25 / printed 21: **verified non-story interleaf / excluded**
-- scan 27: opens separate `பதவிப் “பிரமாணம்!”`
 - Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
-- Stage 2 visual fidelity: **32 corrections**
-- Stage 3 historical-glyph audit: **0 character-identity corrections**
-- Stage 4 direct corrections: **2**
-- user manual scan-23 adjudication: **1 resolved span**
-- ordinary unresolved readings: **0**
-- unresolved glyph clusters: **0**
-- physical-source obscured spans: **0**
 - English E1 first complete translation: **COMPLETE**
+- English E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
 - E1 English title: **Journey to Madurai**
-- English translation: `stories/madurai-selavu/translations/en/madurai-selavu.md`
-- translation review: `stories/madurai-selavu/TRANSLATION_REVIEW.md`
 - English source-page traceability: **PASS 5/5**
 - scan-25 exclusion marker: **PASS**
-- scan-23→24 cross-page split: **preserved in English as `junc- / -ture`**
+- scan-23→24 physical split: **PASS**
 - scan-24→26 Madhavi-letter continuity: **PASS**
-- omissions / duplications / unsupported additions: **0 / 0 / 0**
-- Tamil/source reopened during E1: **No**
-- Tamil changed during E1: **No**
-- E2 meaning-fidelity review: **NOT STARTED — NEXT**
-- E3–E5: **NOT STARTED**
+- omissions / duplications / unsupported additions after E2: **0 / 0 / 0**
+- Tamil/source reopened during E1–E2: **No**
+- Tamil changed during E1–E2: **No**
+- unresolved E2 issues: **0**
+- E3 terminology / names / cultural consistency: **NOT STARTED — NEXT**
+- E4–E5: **NOT STARTED**
+
+E2 repairs include:
+- Kovalan's mercantile standing;
+- Mother Sea metaphor;
+- direction of the Kavunti/Kannagi introduction;
+- `பெரியவர்கள்` → elders;
+- `அயர்ந்து விடுவாளோ` → grow weary;
+- deceptive pits;
+- removal of unsupported `fall upon us`;
+- `உற்ற மனைவி` → own wife;
+- `தமிழனின் கற்பனை வளம்` → imaginative wealth of the Tamil people.
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -881,29 +884,23 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — English E2 meaning-fidelity review.**
+**மதுரைச் செலவு — English E3 terminology / names / cultural consistency review.**
 
 1. fetch live `main`;
-2. compare the complete E1 English sentence-by-sentence against the frozen verified Tamil;
-3. check semantic completeness, agency, relationships, chronology, modality, negation, causality, rhetorical force and figurative language;
-4. pay special attention to:
-   - the opening Kaanal-Vari accusation and eight performance forms;
-   - Kovalan/Kannagi apology dialogue, especially `சுகந்தானே` and the trade/body-trade contrast;
-   - the sea-death metaphor;
-   - Madhavi's lament to Manimekalai;
-   - Poompuhar wealth-list and Kavunti dialogue;
-   - resolved scan-23→24 comic passage and `ஆறு ஐங்காதம்...` verse;
-   - flora/fauna travel passage;
-   - Madhavi letter across scan 24→26;
-   - imagined Madhavi/Maasathuvan reconciliation;
-   - Silappathikaram canto descriptions;
-   - final Madurai-breeze / storm-omen image;
-5. preserve all source-page markers and scan-25 exclusion marker;
-6. repair English only where Tamil meaning requires it;
-7. do not modify Tamil/source;
-8. append E2 result and repair count to `TRANSLATION_REVIEW.md`;
-9. record `Tamil/source reopened: No` unless genuinely new source evidence appears;
-10. commit and stop before E3 terminology / names / cultural consistency review.
+2. preserve all E2 meaning-fidelity decisions;
+3. review names and transliterations consistently: **Kovalan, Kannagi, Madhavi, Manimekalai, Kavunti/Kavunti Adigal, Maasathuvan, Ilango Adigal, Nedunchezhiyan**;
+4. review culturally marked address/kinship terms, especially `அத்தான்`, `அம்மா`, `மருமகள்`;
+5. review literary/classical terms and whether they should remain transliterated:
+   - Kaanal Vari / Kaatchi Vari / Kankootu Vari;
+   - katham;
+   - yaazh;
+   - Kotravai;
+   - Nadukaan Kaathai / Kaadukaan Kaathai / Vettuva Vari / Puranjeri Irutha Kaathai;
+6. review flora/fauna and place-name transliterations without inventing species identifications;
+7. review `தமிழ் மறை`, `சாரணர்`, `ஐயை கோட்டம்`, `புழுகுக் குழம்பு` and other cultural terms for consistent conservative English treatment;
+8. do not import outside historical/literary explanation;
+9. append E3 result and repair count to `TRANSLATION_REVIEW.md`, record `Tamil/source reopened: No`, synchronize controls;
+10. commit and stop before E4 English quality/readability review.
 
 Do not begin `கொன்று வருக!` in the same activity.
 
