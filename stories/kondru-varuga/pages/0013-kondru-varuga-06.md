@@ -4,14 +4,48 @@ printed_page: 37
 story: "kondru-varuga"
 section: "story"
 page_type: "story-ending"
-status: "not-started"
+status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf"
-transcription_method: "not started; source registered by direct visual inspection"
+transcription_method: "Stage 1 first-pass from direct source pixels; supplied Markdown used only as locator/draft"
 ---
 
-# கொன்று வருக!
+# கொன்று வருக! — முடிவு
 
-> Stage 1 transcription has not started. Direct scan pixels control; the supplied Markdown baseline is not authoritative.
+கோவலன் உணர்ச்சிப் பெருக்கோடு,
+
+“கள்வன்! நான் கள்வன்! கண்ணகி!... உன் கணவன் கள்வன்! என் பத்தரை மாற்றுத் தங்கமே! பாண்டிநாடு தீர்ப்பளிக்கிறது அப்படி! நான் கள்வனா கண்ணே!...
+
+“விடை கொடுத்தாயே கண்ணகி; இப்படி ஒரு களங்கம் எனக்கு வருமென்று தெரிந்துதானோ, கண்மணி!...
+
+“தித்திக்கும் செந்தேனே! தெருப்புழுதியில் வீணே என உன்னை வீசிவிட்ட கயவனுக்குச் சரியான தண்டனை! சரியான பரிசு!... கள்வன்! கள்வன்!!...
+
+“ஏற்கனவே ஏக்கத்தால் வாடிவிட்ட உன் இதயம்... இந்த இழிசொல் எனக்குக் கிடைத்த சேதியை எப்படித்தான் தாங்குமோ! எனை மணந்தாய்! இன்பம் பெறலாம் என இருந்தாய்!... எரிமலையாய் ஆக்கிவிட்டேன் உன் வாழ்வை!...
+
+“அதுபோதாதென்று ‘கள்வனின் மனைவியடி கண்ணகி’ என்று ஊரார் தூற்றுதற்கு உனை ஆளாக்கிவிட்டேன்! உதய தாரகையே! ஒப்பில்லா மாணிக்கமே! மாடமாளிகைக் கூடகோபுரத்தில் அமர்ந்து, மகரயாழ் நீ மீட்ட... மந்தமாருதம் தாலாட்ட உன் மடிதனிலே உறங்க வேண்டிய நான்... மதுரை மாநகரத்து வீதியிலே... ‘கள்வன்’ எனும் கணை தாக்கக் கதறுகின்றேன்! புலம்புகின்றேன்!...
+
+“நான் கள்வனாம் கண்ணகி, கள்வனாம்!... நான் கள்வனா...? நான் கள்வனா?... இதோ கள்வன்!! இவன் கள்வன்!!!... இவன் கள்வன்!!!”
+
+என அதிகாரியிடம் அணுகி அவனைச் சுட்டிக் காட்டினான்.
+
+அதிகாரி வாளை ஓங்கி, “என்ன சொன்னாய்?” எனத் தலையைத் துண்டிக்க வீசுகிறான். கழுத்தில் வெட்டு விழுந்தது.
+
+“ஆ... கண்ணகி!...” எனத் துடித்து விழுகிறான் கோவலன்.
+
+## Stage 1 non-story exclusion
+
+The source page also contains unrelated magazine/statistical matter, including a line beginning `1950-51ல் இந்திய...`. It is **NON-STORY / EXCLUDED** and is not incorporated into the canonical story text.
+
+## Stage 1 notes
+
+Focused Stage-2 rechecks:
+
+- `பத்தரை மாற்றுத் தங்கமே`;
+- placement of `விடை கொடுத்தாயே கண்ணகி...` within the lament;
+- `மாடமாளிகைக் கூடகோபுரத்தில்`;
+- `கள்வன் எனும் கணை தாக்க`;
+- exact final sword-action wording and punctuation.
+
+Status remains **needs-review** pending Stage 2.
 
 <!-- மூல ஸ்கேன் பக்கம்: 13; அச்சுப் பக்கம்: 37 -->
