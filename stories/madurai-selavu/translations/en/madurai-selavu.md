@@ -22,7 +22,7 @@ Before he could continue, she sealed his beautiful lips with her hands and repli
 
 “Ayyo! Do not speak like that. Though Manimekalai was born to Madhavi, she is my child too! Do not say anything wrong about my child, my lord!”
 
-“My goddess! You deserve my esteem. You deserve my respect. Forgive me. Forgive this low man who could not understand your heart, Kannagi. Through me grew the fame that Tamils had no equal in maritime trade. But today I lost my senses before a woman engaged in the trade of the body. I lost wealth beyond measure; now I lament as a pauper! My treasure! Our name as the great merchants of Poompuhar is gone. We are a boat caught in a storm. There is no way to reach shore. Come...come...let us enter the womb of Mother Sea, beaten by the waves.”
+“My goddess! You deserve my esteem. You deserve my respect. Forgive me. Forgive this low man who could not understand your heart, Kannagi. Through me grew the fame that Tamils had no equal in maritime trade. But today I lost my senses before a woman engaged in the trade of the body. I lost wealth beyond measure; now I lament as a pauper! My treasure! My standing among Poompuhar's great merchants is gone. We are a boat caught in a storm. There is no way to reach shore. Come...come...let us disappear into the belly of Mother Sea, where the waves crash.”
 
 “Why that decision, my dear? In my mother's house there is gold piled as high as an elephant! If we take it, who is there to stop us?”
 
@@ -64,7 +64,7 @@ No one could console her. She lay with her face pressed against the face of Mani
 
 At that hour which Ilango Adigal describes as “the last watch of night, when the white moon has gone and dense darkness remains,” Kovalan and Kannagi set out on their journey to Madurai, paying no attention to the swan, ram and kavari deer playing at the doorway. They passed the fruit-laden groves along the route by which the people of Poompuhar went to bathe in the fresh waters of the Kaveri, and crossed even the last point of the river's Sangamukha landing.
 
-On the way they happened to meet Kavunti, a Jain woman ascetic. Kovalan bowed to her and introduced Kannagi to the Adigal. But Kavunti knew neither of them. After blessing them, she asked, “May I know who you are?”
+On the way they happened to meet Kavunti, a Jain woman ascetic. Kovalan bowed to her and introduced the Adigal to Kannagi. But Kavunti knew neither of them. After blessing them, she asked, “May I know who you are?”
 
 “Our home is Poompuhar, the Chola king's great coastal capital, where one sees fine horses imported from foreign lands, sacks of pepper heaped for export, gems and gold born in the northern mountains, sandalwood and agarwood from the Kudamalai hills, pearls from the southern sea, coral from the eastern sea, the wealth of the Ganges and the bounty of the Kaveri. My name is Kovalan. This is Kannagi, the good companion of my life.”
 
@@ -74,7 +74,7 @@ As soon as Kovalan answered, Kavunti Adigal was astonished.
 
 “I betrayed Kannagi, who is a radiant lamp. As though that were not enough, I now commit another sin: I make the feet of my faithful wife tread thorny scrub until they redden like bitter-gourd fruit.”
 
-“Do not grieve! When those who have done wrong realise their wrong, that itself becomes a great punishment. It is all right. You are going to Madurai, are you not? Good. But there are dense forests on the way. Your companion is already exhausted. Her delicate feet are not suited to crossing those forests. There are many dangers on the road. Yet, since you have resolved to go to Madurai, it is impossible for me to stop you. I too shall accompany you, both in the hope that I may give you some small comfort in your hardship and because I wish to hear the words of virtue spoken by the learned people of Madurai.” So Kavunti set out with them.
+“Do not grieve! When those who have done wrong realise their wrong, that itself becomes a great punishment. It is all right. You are going to Madurai, are you not? Good. But there are dense forests on the way. Your companion is already exhausted. Her delicate feet are not suited to crossing those forests. There are many dangers on the road. Yet, since you have resolved to go to Madurai, it is impossible for me to stop you. I too shall accompany you, both in the hope that I may give you some small comfort in your hardship and because I wish to hear the words of virtue spoken by the elders of Madurai.” So Kavunti set out with them.
 
 After walking only a short distance, Kannagi's waist, slender as a creeper that might snap and fall, ached and drooped. She breathed rapidly.
 
@@ -82,7 +82,7 @@ As soon as she saw a grove on the way, she imagined they had already come close 
 
 “Where is the ancient city of Madurai?” she asked Kovalan.
 
-Like someone who had seen four or five towns and was bewildered, unable to tell which one was Madurai, Kannagi asked, “Where is the ancient city of Madurai?” Kovalan felt like laughing; sorrow rose in him too. He feared that if he told her it was still thirty kathams away, Kannagi would lose heart. Yet he had to give her an answer! Even in this sorrowful junc-
+Like someone who had seen four or five towns and was bewildered, unable to tell which one was Madurai, Kannagi asked, “Where is the ancient city of Madurai?” Kovalan felt like laughing; sorrow rose in him too. He feared that if he told her it was thirty kathams away, Kannagi would grow weary. Yet he had to give her an answer! Even in this sorrowful junc-
 
 <!-- source scan 23; printed page 19 -->
 
@@ -103,7 +103,7 @@ Is not conversation indispensable if one is to travel without feeling the fatigu
 
 Thinking that only playful talk could relieve that weariness, she looked at Kovalan and said, drawing out her words, “Child! If you like, I will go on ahead. You can carry Kannagi...” Kovalan looked at Kavunti in surprise and smiled.
 
-“Do you not deserve some punishment for the wrong you did her? That is why I said it. And not only that. I told you earlier that there are many hazards on our route; let me explain them. Listen! Along the way, pits dug for valli tubers will be covered by heaps of withered champak flowers. If we do not walk carefully, we may mistake them for piles of blossoms and fall into those false flower-pits. Kannagi is not accustomed to walking along such paths, is she? If we avoid the troubles of the groves and go through the fields, vaalai fish bitten by otters may leap upward to escape with their lives and fall upon us. Kannagi will be frightened. If, while walking through the sugarcane fields, we accidentally brush against the cane, the great honeycombs there may break and all the honey may mingle with the flowing water. Look—everything running before our eyes will be streams of honey. If we walk along the field-bunds, the weeders will have placed the kuvalai flowers they pulled from the fields upon the ridges. Swarms of bees will be dancing around them. As we walk, we might unknowingly kill those bees. If, avoiding all this, we decide to keep to the edge of the grove, jackfruits hanging low from the branches will strike and block our heads like enemies.”
+“Do you not deserve some punishment for the wrong you did her? That is why I said it. And not only that. I told you earlier that there are many hazards on our route; let me explain them. Listen! Along the way, pits dug for valli tubers will be covered by heaps of withered champak flowers. If we do not walk carefully, we may mistake them for piles of blossoms and fall into those deceptive pits. Kannagi is not accustomed to walking along such paths, is she? If we avoid the troubles of the groves and go through the fields, vaalai fish bitten by otters may leap upward in an effort to escape with their lives and come falling down. Kannagi will be frightened. If, while walking through the sugarcane fields, we accidentally brush against the cane, the great honeycombs there may break and all the honey may mingle with the flowing water. Look—everything running before our eyes will be streams of honey. If we walk along the field-bunds, the weeders will have placed the kuvalai flowers they pulled from the fields upon the ridges. Swarms of bees will be dancing around them. As we walk, we might unknowingly kill those bees. If, avoiding all this, we decide to keep to the edge of the grove, jackfruits hanging low from the branches will strike and block our heads like enemies.”
 
 When Kavunti said this, Kovalan's eyes filled with tears. “Ayyo! When I went down the wrong path, why did no one strike against me like those jackfruits and stop me...?” he said.
 
@@ -117,7 +117,7 @@ Seeing all these sights, the three travellers reached Thiruvarangam. There they 
 
 On the way Kovalan receives a palm-leaf letter from Madhavi. The moment he sees the handwriting of the woman he loved, his heart changes. He melts with thoughts of Madhavi. He reads the letter:
 
-“My dearly beloved! I bow at your feet. I was the cause of your failing in your duty to your parents—and of your wronging your faithful wife—
+“My dearly beloved! I bow at your feet. I was the cause of your failing in your duty to your parents—and of your wronging your own wife—
 
 <!-- source scan 24; printed page 20 -->
 
@@ -125,7 +125,7 @@ On the way Kovalan receives a palm-leaf letter from Madhavi. The moment he sees 
 
 —and I was also the cause of your having to leave your town to make a living. I beg you to console your heart, which suffers because of my fault.”
 
-Kovalan's eyes fill with tears. He sends the very letter Madhavi wrote to him to his parents. The author of the Silappathikaram considers the words Madhavi wrote to Kovalan to be the very words Kovalan himself ought to write to his parents. What literary richness! What a grammar of life! How can we refrain from praising the imaginative wealth of the Tamil?
+Kovalan's eyes fill with tears. He sends the very letter Madhavi wrote to him to his parents. The author of the Silappathikaram considers the words Madhavi wrote to Kovalan to be the very words Kovalan himself ought to write to his parents. What literary richness! What a grammar of life! How can we refrain from praising the imaginative wealth of the Tamil people?
 
 While praising it so, let us imagine a new scene about Madhavi after she receives Kovalan's reply.
 
