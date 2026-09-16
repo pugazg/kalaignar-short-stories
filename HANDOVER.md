@@ -844,36 +844,29 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1–E3 COMPLETE
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1–E4 COMPLETE
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
 - scan 25 / printed 21: **verified non-story interleaf / excluded**
 - Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
-- English E1 first complete translation: **COMPLETE**
-- English E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
+- English E1: **COMPLETE**
+- English E2 meaning fidelity: **COMPLETE / PASS — 9 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 5 repairs**
-- cumulative English repairs after E1: **14**
+- English E4 quality / readability: **COMPLETE / PASS — 21 repairs**
+- cumulative English repairs after E1: **35**
 - E1 English title: **Journey to Madurai**
-- English source-page traceability: **PASS 5/5**
-- omissions / duplications / unsupported additions after E3: **0 / 0 / 0**
-- Tamil/source reopened during E1–E3: **No**
-- Tamil changed during E1–E3: **No**
-- unresolved E3 issues: **0**
-- E4 English quality / readability review: **NOT STARTED — NEXT**
-- E5: **NOT STARTED**
-
-Protected E3 terminology:
-
-- **Vari performance / Kaanal Vari / Kaatchi Vari / Kankootu Vari**
-- **Tamil Marai**
-- **Kavunti Adigal**
-- **Saranars**
-- **Aiyai Kottam**
-- **katham**
-- **yaazh**
-- **Kotravai**
-- **Nadukaan Kaathai / Kaadukaan Kaathai / Vettuva Vari / Puranjeri Irutha Kaathai**
+- source-page traceability: **PASS 5/5**
+- scan-25 exclusion marker: **PASS**
+- scan-23→24 physical split: **PASS**
+- scan-24→26 Madhavi-letter continuity: **PASS**
+- omissions / duplications / unsupported additions after E4: **0 / 0 / 0**
+- E2 semantics regressed: **0**
+- E3 terminology regressed: **0**
+- Tamil/source reopened during E1–E4: **No**
+- Tamil changed during E1–E4: **No**
+- unresolved E4 issues: **0**
+- E5 final bilingual approval: **NOT STARTED — NEXT**
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -884,19 +877,17 @@ Protected E3 terminology:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — English E4 quality / readability review.**
+**மதுரைச் செலவு — English E5 final bilingual approval / closure.**
 
 1. fetch live `main`;
-2. preserve all E2 meaning-fidelity decisions and all E3 terminology/name/cultural choices;
-3. review the complete English for readability, sentence flow, dialogue naturalness, repetition, awkward literal phrasing, punctuation and paragraph rhythm;
-4. do not simplify away source imagery, rhetorical questions, literary commentary, classical terms or culturally marked vocabulary;
-5. preserve all source-page markers and the scan-25 exclusion marker;
-6. keep the scan-23→24 physical split auditable;
-7. make English-only quality repairs; do not change Tamil/source;
-8. append E4 result and repair count to `TRANSLATION_REVIEW.md`;
-9. synchronize README / HANDOVER / NEXT prompt and record `Tamil/source reopened: No`;
-10. commit and stop before E5 final bilingual approval.
-
-Do not begin `கொன்று வருக!` in the same activity.
+2. compare the final English against the frozen Tamil one last time;
+3. confirm all E2 meaning repairs remain correct and all E3 protected terminology remains consistent after E4;
+4. review the English title **Journey to Madurai** for final approval or a source-grounded final editorial adjustment;
+5. check full-story semantic alignment, dialogue relationships, chronology, imagery and rhetorical force;
+6. verify source-page markers **21, 22, 23, 24, 26**, scan-25 exclusion marker, scan-23→24 split and scan-24→26 letter continuity;
+7. verify omissions / duplications / unsupported additions = **0 / 0 / 0**;
+8. make only genuinely necessary final English edits; do not change Tamil/source;
+9. update `TRANSLATION_REVIEW.md`, README, HANDOVER and NEXT prompt with final closure state;
+10. commit and stop. Do not begin `கொன்று வருக!` in the same activity.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
