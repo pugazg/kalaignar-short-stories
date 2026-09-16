@@ -844,29 +844,32 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1–E4 COMPLETE
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE + ENGLISH CLOSED
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
 - scan 25 / printed 21: **verified non-story interleaf / excluded**
 - Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
 - English E1: **COMPLETE**
-- English E2 meaning fidelity: **COMPLETE / PASS — 9 repairs**
-- English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 5 repairs**
-- English E4 quality / readability: **COMPLETE / PASS — 21 repairs**
-- cumulative English repairs after E1: **35**
-- E1 English title: **Journey to Madurai**
+- English E2 meaning fidelity: **PASS — 9 repairs**
+- English E3 terminology / names / cultural consistency: **PASS — 5 repairs**
+- English E4 quality / readability: **PASS — 21 repairs**
+- English E5 final bilingual approval: **PASS — 2 final edits**
+- cumulative English changes after E1: **37**
+- final English title: **Journey to Madurai**
 - source-page traceability: **PASS 5/5**
 - scan-25 exclusion marker: **PASS**
 - scan-23→24 physical split: **PASS**
 - scan-24→26 Madhavi-letter continuity: **PASS**
-- omissions / duplications / unsupported additions after E4: **0 / 0 / 0**
-- E2 semantics regressed: **0**
-- E3 terminology regressed: **0**
-- Tamil/source reopened during E1–E4: **No**
-- Tamil changed during E1–E4: **No**
-- unresolved E4 issues: **0**
-- E5 final bilingual approval: **NOT STARTED — NEXT**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during E1–E5: **No**
+- Tamil changed during E1–E5: **No**
+- unresolved English issues: **0**
+- English layer: **PASS / CLOSED**
+
+Final E5 edits:
+- `a woman of the courtesan world` → **`a courtesan`**, preserving `விலைமாது` directly;
+- palm-leaf-letter transition restored to the story's present-tense narrative.
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -877,17 +880,19 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — English E5 final bilingual approval / closure.**
+**கொன்று வருக! — Stage 1 first-pass transcription, scans 8–13 / printed 32–37.**
 
 1. fetch live `main`;
-2. compare the final English against the frozen Tamil one last time;
-3. confirm all E2 meaning repairs remain correct and all E3 protected terminology remains consistent after E4;
-4. review the English title **Journey to Madurai** for final approval or a source-grounded final editorial adjustment;
-5. check full-story semantic alignment, dialogue relationships, chronology, imagery and rhetorical force;
-6. verify source-page markers **21, 22, 23, 24, 26**, scan-25 exclusion marker, scan-23→24 split and scan-24→26 letter continuity;
-7. verify omissions / duplications / unsupported additions = **0 / 0 / 0**;
-8. make only genuinely necessary final English edits; do not change Tamil/source;
-9. update `TRANSLATION_REVIEW.md`, README, HANDOVER and NEXT prompt with final closure state;
-10. commit and stop. Do not begin `கொன்று வருக!` in the same activity.
+2. active canonical: `stories/kondru-varuga/`;
+3. controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`;
+4. use direct scan pixels only; supplied `kondru_varuga.md` is locator/draft only because its column order is heavily corrupted;
+5. rebuild physical reading order for scans **8, 9, 10, 11, 12, 13**;
+6. preserve scan 8 title-artwork structure and scan 13 mixed story + magazine matter carefully;
+7. scan 14 opens separate `திராவிட இலக்கியம்` and is the forward boundary;
+8. keep all six Stage-1 story page records `needs-review`; do not perform Stage 2 in the same activity;
+9. assemble only source-supported story text, synchronize README / page map / Stage-1 progress / HANDOVER / NEXT prompt;
+10. commit and stop before Stage 2.
+
+Do not reopen `மதுரைச் செலவு` or `சீரழித்த சிரிப்பு!`.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
