@@ -844,39 +844,33 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / VERIFIED 5/5
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1 COMPLETE
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
 - scan 25 / printed 21: **verified non-story interleaf / excluded**
 - scan 27: opens separate `பதவிப் “பிரமாணம்!”`
-- source intake: **COMPLETE**
-- Stage 1: **COMPLETE 5/5**
-- Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
-- Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
-- mandatory Stage-3 family set: **13/13 checked**
-- Stage 4 direct final source corrections: **2**
-- post-Stage-4 user manual source adjudication: **1 formerly obscured scan-23 span resolved**
-- verified story pages: **5/5**
+- Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
+- Stage 2 visual fidelity: **32 corrections**
+- Stage 3 historical-glyph audit: **0 character-identity corrections**
+- Stage 4 direct corrections: **2**
+- user manual scan-23 adjudication: **1 resolved span**
 - ordinary unresolved readings: **0**
-- unresolved historical-glyph clusters: **0**
+- unresolved glyph clusters: **0**
 - physical-source obscured spans: **0**
-- former `[…]` marker: **removed**
-- scan-23→24 cross-page reading: **resolved / PASS**
-- Tamil/source layer: **CLOSED / PASS**
-- English: **NOT STARTED — NEXT**
-
-Resolved cross-page sentence:
-
-`...கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
-
-Durable controls:
-
-- `stories/madurai-selavu/HISTORICAL_GLYPH_GATE.md`
-- `stories/madurai-selavu/FINAL_SOURCE_CHECK.md`
-- `stories/madurai-selavu/TAMIL_SOURCE_CLOSURE.md`
-- `stories/madurai-selavu/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- `stories/madurai-selavu/sections/madurai-selavu.md`
+- English E1 first complete translation: **COMPLETE**
+- E1 English title: **Journey to Madurai**
+- English translation: `stories/madurai-selavu/translations/en/madurai-selavu.md`
+- translation review: `stories/madurai-selavu/TRANSLATION_REVIEW.md`
+- English source-page traceability: **PASS 5/5**
+- scan-25 exclusion marker: **PASS**
+- scan-23→24 cross-page split: **preserved in English as `junc- / -ture`**
+- scan-24→26 Madhavi-letter continuity: **PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during E1: **No**
+- Tamil changed during E1: **No**
+- E2 meaning-fidelity review: **NOT STARTED — NEXT**
+- E3–E5: **NOT STARTED**
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -887,18 +881,29 @@ Durable controls:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — English E1 first complete translation.**
+**மதுரைச் செலவு — English E2 meaning-fidelity review.**
 
 1. fetch live `main`;
-2. use only the frozen verified Tamil authority under `stories/madurai-selavu/`;
-3. translate the complete Tamil story into English;
-4. preserve paragraph/dialogue order and source-page traceability for scans **21, 22, 23, 24 and 26**;
-5. preserve the scan-23→24 cross-page sentence exactly in meaning; there is **no remaining source gap**;
-6. preserve the scan-24→26 Madhavi-letter continuity across excluded scan 25;
-7. do not modify Tamil/source unless genuinely new source evidence appears;
-8. create `stories/madurai-selavu/translations/en/madurai-selavu.md`;
-9. create/update `stories/madurai-selavu/TRANSLATION_REVIEW.md` with E1 completeness, page-marker coverage, omissions/duplications/unsupported additions and `Tamil/source reopened: No`;
-10. commit E1 and stop before E2.
+2. compare the complete E1 English sentence-by-sentence against the frozen verified Tamil;
+3. check semantic completeness, agency, relationships, chronology, modality, negation, causality, rhetorical force and figurative language;
+4. pay special attention to:
+   - the opening Kaanal-Vari accusation and eight performance forms;
+   - Kovalan/Kannagi apology dialogue, especially `சுகந்தானே` and the trade/body-trade contrast;
+   - the sea-death metaphor;
+   - Madhavi's lament to Manimekalai;
+   - Poompuhar wealth-list and Kavunti dialogue;
+   - resolved scan-23→24 comic passage and `ஆறு ஐங்காதம்...` verse;
+   - flora/fauna travel passage;
+   - Madhavi letter across scan 24→26;
+   - imagined Madhavi/Maasathuvan reconciliation;
+   - Silappathikaram canto descriptions;
+   - final Madurai-breeze / storm-omen image;
+5. preserve all source-page markers and scan-25 exclusion marker;
+6. repair English only where Tamil meaning requires it;
+7. do not modify Tamil/source;
+8. append E2 result and repair count to `TRANSLATION_REVIEW.md`;
+9. record `Tamil/source reopened: No` unless genuinely new source evidence appears;
+10. commit and stop before E3 terminology / names / cultural consistency review.
 
 Do not begin `கொன்று வருக!` in the same activity.
 
