@@ -4,7 +4,7 @@ printed_page: 19
 story: "madurai-selavu"
 section: "story"
 page_type: "story-body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf"
 transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-glyph audit + Stage 4 final independent source check against direct source pixels; supplied Markdown used only as locator/draft"
@@ -34,7 +34,7 @@ transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-gl
 
 “மதுரை மூதூர் எது?” என்று கோவலனைப் பார்த்து அவள் கேட்டாள்.
 
-ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பு […]
+ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்
 
 ## Stage 2 visual-fidelity notes
 
@@ -81,20 +81,24 @@ Representative checked occurrences:
 - status remains **`needs-review`** pending Stage 4 final independent source check.
 ## Stage 4 final independent source check
 
-**COMPLETE / PASS FOR SOURCE-VISIBLE TEXT — 0 new text corrections; 1 physical-source exception retained.**
+**COMPLETE / PASS — former physical-source exception RESOLVED by user manual source adjudication.**
 
-Fresh source review reconfirmed:
+The earlier `[…]` placeholder has been replaced by the user's manual reading from scan 23:
 
-- all Stage-2 source-visible corrections on this scan;
-- Stage-3 historical-glyph dispositions;
-- wording, punctuation, paragraph/dialogue order and visible reading order;
-- the physically obscured continuation after `“மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பு`.
+`ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்`
 
-The coloured illustration still prevents a complete exact reading of that continuation. The canonical `[…]` marker is therefore retained. No supplied-Markdown or outside-source reconstruction was introduced.
+The sentence continues on scan 24 with the directly visible:
 
+`திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
+
+Cross-page reading:
+
+`இந்தச் சோகமான கட்டத்திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
+
+- prior physical-source obscured spans: **1**
+- unresolved physical-source obscured spans after adjudication: **0**
 - source-visible ordinary unresolved readings: **0**
 - unresolved historical-glyph clusters: **0**
-- physical-source obscured spans: **1**
-- final page status: **`needs-review` — physical-source exception only**
+- final page status: **`verified`**
 
 <!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: 19 -->
