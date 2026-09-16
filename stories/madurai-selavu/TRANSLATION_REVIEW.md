@@ -82,3 +82,73 @@ E2 should specifically recheck:
 - E2–E5: **NOT YET PERFORMED**
 
 Next: **E2 — meaning-fidelity review**. Stop before E3.
+
+
+## E2 — meaning-fidelity review
+
+**PASS — complete sentence-by-sentence meaning review finished.**
+
+The E1 English was compared against the frozen verified Tamil for semantic completeness, agency, relationship direction, chronology, modality, negation, causality, rhetorical force and figurative meaning.
+
+### E2 repairs
+
+Nine meaning-fidelity repairs were made:
+
+1. `Our name as the great merchants of Poompuhar is gone.` → **`My standing among Poompuhar's great merchants is gone.`**
+   - removes the unsupported first-person plural and keeps Kovalan's loss of mercantile standing.
+
+2. `enter the womb of Mother Sea, beaten by the waves` → **`disappear into the belly of Mother Sea, where the waves crash`**
+   - preserves `அலை மோதும் கடல் மாதா வயிற்றுக்குள்` without making “Mother Sea” the object being beaten.
+
+3. `introduced Kannagi to the Adigal` → **`introduced the Adigal to Kannagi`**
+   - restores the source's direction of introduction in `கண்ணகிக்கும் அடிகள் அறிமுகப் படுத்துகிறான்`.
+
+4. `learned people of Madurai` → **`elders of Madurai`**
+   - follows source `பெரியவர்கள்` without adding a learning/education qualification.
+
+5. `Kannagi would lose heart` → **`Kannagi would grow weary`**
+   - keeps `அயர்ந்து விடுவாளோ` in its fatigue/weariness sense.
+
+6. `false flower-pits` → **`deceptive pits`**
+   - preserves the warning that the flower-covered pits are misleading, rather than inventing a compound object.
+
+7. `vaalai fish ... may ... fall upon us` → **`vaalai fish ... may ... come falling down`**
+   - removes the unsupported target `upon us`; the Tamil states that the fish leap up while escaping and fall.
+
+8. `your faithful wife` in Madhavi's letter → **`your own wife`**
+   - avoids adding a fidelity characterization not present in `உற்ற மனைவி` at that point.
+
+9. `the imaginative wealth of the Tamil` → **`the imaginative wealth of the Tamil people`**
+   - makes the collective sense of `தமிழனின் கற்பனை வளம்` explicit without changing the claim.
+
+### High-risk E2 checks
+
+- opening Kaanal-Vari accusation and eight performance forms: **PASS**
+- `மாதர்குல மாணிக்கமே` passage: **PASS**
+- `சுகந்தானே`: **PASS / retained as “is well, isn't she”**
+- maritime-trade / body-trade contrast: **PASS**
+- Mother Sea death metaphor: **PASS after repair**
+- Madhavi's lament to Manimekalai: **PASS**
+- Poompuhar wealth-list: **PASS**
+- Kavunti relationship / introduction direction: **PASS after repair**
+- scan-23→24 resolved comic passage: **PASS**
+- `ஆறு ஐங்காதம்...` verse and thirty-katham explanation: **PASS**
+- Kavunti's route hazards and flora/fauna sequence: **PASS after two repairs**
+- Madhavi letter across scans 24→26: **PASS after one repair**
+- imagined Madhavi/Maasathuvan reconciliation: **PASS**
+- four Silappathikaram canto descriptions: **PASS**
+- final Madurai-breeze / storm-omen image: **PASS**
+
+### E2 result
+
+- E2 English repairs: **9**
+- source-page markers: **PASS 5/5**
+- scan-25 exclusion marker: **PASS**
+- scan-23→24 split: **PASS**
+- scan-24→26 letter continuity: **PASS**
+- omissions / duplications / unsupported narrative additions after E2: **0 / 0 / 0**
+- Tamil/source reopened: **No**
+- Tamil changed during E2: **No**
+- unresolved E2 issues: **0**
+
+Next: **E3 — terminology / names / cultural consistency review**.
