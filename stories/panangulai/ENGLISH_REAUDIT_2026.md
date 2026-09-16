@@ -38,7 +38,7 @@ No E1 defect was changed; regression fixture not required.
 
 ## Disposition
 
-**E1 PASS.** E2 remains pending until anthology-wide E1 is complete.
+**E1 PASS.** At this historical checkpoint E2 was still pending; the current file now records **E2–E5 PASS** below.
 
 
 ## E2 — meaning fidelity
@@ -53,7 +53,7 @@ The complete English was checked sentence-by-sentence against the final canonica
 - unresolved E2 issues: **0**
 - E2 result: **PASS**
 
-Programme next activity remains the next anthology story in E2 order.
+Historical programme note: at the E2 checkpoint, processing continued to the next anthology story. The anthology-wide re-audit has since fully closed through E5.
 
 
 ## E3 — terminology / names / cultural consistency

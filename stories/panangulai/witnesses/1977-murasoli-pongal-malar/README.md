@@ -34,6 +34,7 @@ Comparison-only witness for the already-closed canonical story `stories/panangul
 - unresolved witness readings affecting comparison: **0**
 - canonical Tamil changed: **No**
 - canonical English changed: **No**
+- additional cross-witness required for canonical closure: **No**
 
 Highest-value edition differences include:
 

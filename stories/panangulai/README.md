@@ -23,7 +23,7 @@ Repairs: scan 126 `கூடிவோம்` → `கூடி வோம்`; `�
 
 Durable ledger: [`RE_AUDIT_2026.md`](RE_AUDIT_2026.md). Canonical assembly: [`sections/panangulai.md`](sections/panangulai.md).
 
-Existing English remains semantically synchronized; **English prose rewrite required: 0**.
+The three 2026 Tamil source repairs themselves required **0 English prose changes**. A later independent English re-audit separately made **1 E2 fidelity repair + 1 E3 consistency repair + 2 E4 quality repairs**; E5 then closed **PASS**.
 
 ## Boundary
 
@@ -31,9 +31,11 @@ Existing English remains semantically synchronized; **English prose rewrite requ
 - scan 130 closes the story with the narrator sentence and ornament;
 - scan 131 independently opens Story 18 `செத்தவள் கதை`.
 
-## Next
+## Current disposition
 
-Story 18 **செத்தவள் கதை** — scans **131–139 / printed 122–130**. Use scan **140** only as the boundary witness opening `பிரேத விசாரணை`.
+No further canonical Tamil, English re-audit, or witness-comparison work is pending for `பனங்குலை`. The anthology-wide 1977 programme is closed.
+
+**Additional cross-witness needed for closure: No.** A same-year independent periodical cross-witness already exists and is fully compared under `witnesses/1977-murasoli-pongal-malar/`.
 
 
 ## 1977 Murasoli Pongal Malar witness

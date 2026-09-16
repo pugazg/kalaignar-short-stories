@@ -28,7 +28,7 @@ All five source-page markers, the two explicit split continuations, the false ki
 
 All four internal joins remain traceable, including 128→129 the night moving `மெல்ல மெல்ல` → `நகர்ந்தது` and 129→130 the orphanage-history continuation. No omission, duplication or non-adjacent spillover was found.
 
-Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). E2–E5 remain pending.
+Full record: [`ENGLISH_REAUDIT_2026.md`](ENGLISH_REAUDIT_2026.md). At the E1 checkpoint, E2–E5 were still pending; they are now **all COMPLETE / PASS** in the sections below.
 
 
 ## English re-audit 2026 — E2
