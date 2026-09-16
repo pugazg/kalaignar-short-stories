@@ -18,4 +18,4 @@ Scan 14 opens `திராவிட இலக்கியம்` and is outside
 - verified: **6/6**
 - unresolved: **0**
 - Tamil/source: **CLOSED / PASS**
-- English: **E1 NEXT**
+- English: **E1–E5 COMPLETE / PASS — CLOSED**

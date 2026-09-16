@@ -1,6 +1,8 @@
 # Stage 2 — visual text-fidelity audit — கொன்று வருக!
 
-Status: **COMPLETE / PASS FOR ORDINARY TEXT — scans 8–13 / printed 32–37 reviewed directly; page routing rebuilt; 0 unresolved ordinary-source clusters; pages remain NEEDS REVIEW.**
+Status at Stage-2 checkpoint: **COMPLETE / PASS FOR ORDINARY TEXT — scans 8–13 / printed 32–37 reviewed directly; page routing rebuilt; 0 unresolved ordinary-source clusters; pages remain NEEDS REVIEW.**
+
+> **Historical checkpoint only. Current superseding state:** Stage 3 and Stage 4 subsequently passed, all 6/6 pages are `verified`, Tamil/source is **CLOSED / PASS**, and English E1–E5 is **CLOSED / PASS**.
 
 ## Controlling source
 
@@ -51,10 +53,10 @@ Correct physical routing:
 - scan 13 `பத்தரை மாற்றுத் தங்கமே`: **confirmed**.
 - scan 13 `விடை கொடுத்தாயே கண்ணகி`: **confirmed with preceding `கண்ணீர் ததும்ப` restored**.
 - scan 13 `மாடமாளிகை கூட கோபுரத்தில்`: **confirmed**.
-- scan 13 `கள்வன் எனும் கணைதாக்க`: **confirmed**.
+- scan 13 Stage-2 reading `கள்வன் எனும் கணைதாக்க`: **later superseded at Stage 4 by source-supported `கள்வன் எனும் கனை தாக்கக்`**.
 - scan 13 final sword action and story/non-story separation: **confirmed**.
 
-## Remaining gates
+## Remaining gates at the Stage-2 checkpoint
 
 - ordinary Stage-2 source clusters: **0 unresolved**
 - page status: **needs-review 6/6**
@@ -73,3 +75,15 @@ Stage 3 historical-glyph review made the following source-proven supersessions w
 - scan 10: `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**, an incidental ordinary-fidelity correction found during enlarged Stage-3 source review.
 
 All other Stage-2 routing and ordinary-text decisions remain in force.
+
+
+## Later Stage-4 supersession
+
+Stage 4 independently reopened all six scans and superseded additional Stage-2/3 readings. The complete final ledger is authoritative in `FINAL_SOURCE_CHECK.md`.
+
+Most importantly for avoiding regression:
+
+- scan 10 final fragment: **`கோவலனும், தன் சிலம்பைத் தலைமைப் பொற்கொல்லரிடம் தர`**;
+- scan 13: **`வீனை`**, **`கண்ணகியென்று`**, **`கனை தாக்கக்`**, and **`திமிர்வாதம் வேறா?...`**;
+- all six page records are now **verified**;
+- English E1–E5 is **CLOSED / PASS**.

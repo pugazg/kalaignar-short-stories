@@ -64,3 +64,13 @@ The final visually difficult readings were resolved by direct source checking wi
 Stage 4: **COMPLETE / PASS**  
 Verified pages: **6/6**  
 Tamil/source layer: **CLOSED / PASS**
+
+
+## Downstream state
+
+- Tamil/source: **CLOSED / PASS**
+- English E1–E5: **COMPLETE / PASS — CLOSED**
+- final English title: **Go and Kill Him!**
+- Tamil changed during English review: **No**
+
+The English closure is documented in `TRANSLATION_REVIEW.md`.

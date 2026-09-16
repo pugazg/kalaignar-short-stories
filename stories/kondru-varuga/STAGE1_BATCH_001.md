@@ -1,6 +1,8 @@
 # Stage 1 — first-pass transcription — கொன்று வருக!
 
-Status: **COMPLETE — 6/6 story scans transcribed; NEEDS REVIEW.**
+Status at Stage-1 checkpoint: **COMPLETE — 6/6 story scans transcribed; NEEDS REVIEW.**
+
+> **Historical checkpoint only. Current superseding state:** Tamil/source **CLOSED / PASS — verified 6/6**; English **E1–E5 CLOSED / PASS**. The `needs-review`, unresolved-cluster and future-gate lines below describe the Stage-1 moment, not the current repository state.
 
 ## Scope
 
@@ -67,7 +69,7 @@ Canonical Stage-1 marker for each: **`[…]`**.
   - final sword-action wording;
   - exact separation of story text from unrelated magazine matter.
 
-## Gate state
+## Gate state at the Stage-1 checkpoint
 
 - source intake: **COMPLETE**
 - Stage 1: **COMPLETE 6/6**

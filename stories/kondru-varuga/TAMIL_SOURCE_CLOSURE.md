@@ -22,3 +22,8 @@ Status: **PASS / CLOSED**.
 The six verified page records remain the reversible source-linked archival layer. The continuous assembly is synchronized to them.
 
 Disposition: **Tamil/source CLOSED / PASS**. English E1 is the automatic next activity.
+
+
+## Downstream English closure
+
+English E1–E5 has since completed **PASS / CLOSED** with 6/6 source-page traceability and 0 unresolved English issues. Final English authority: `TRANSLATION_REVIEW.md` and `translations/en/kondru-varuga.md`.
