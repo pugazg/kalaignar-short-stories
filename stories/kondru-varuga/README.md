@@ -14,22 +14,31 @@ Canonical workspace activated from the 1952 **முரசொலி பொங்
 
 ## Canonical activation
 
-**SOURCE INTAKE COMPLETE / STAGE 1 NOT STARTED.**
+**STAGE 1 COMPLETE — 6/6; NEEDS REVIEW.**
 
 No existing exact-title or obvious alternate-title/content-anchor match was found on live `main`.
 
-The supplied `kondru_varuga.md` is a locator/draft only. The periodical uses dense multi-column typography and the baseline has severe column-order/OCR corruption; it must not control canonical text.
+The supplied `kondru_varuga.md` remains locator/draft only. The periodical uses dense multi-column typography and the baseline has severe column-order/OCR corruption; it does not control canonical text.
 
 ## Current state
 
-- source identity: **registered**
-- boundary: **PASS**
+- source identity / boundary: **COMPLETE / PASS**
 - page records initialized: **6/6**
-- Stage 1: **0/6**
-- Stage 2/3/4: **0/6**
+- Stage 1 first-pass transcription: **COMPLETE 6/6**
+- Stage-1 assembly: `sections/kondru-varuga.md`
+- Stage-1 durable record: `STAGE1_BATCH_001.md`
+- review queue: `POSSIBLE_ERRORS_FOR_REVIEW.md`
+- page status: **needs-review 6/6**
+- unresolved source clusters: **3**
+- scan 13 unrelated magazine/statistical matter: **EXCLUDED**
+- Stage 2 visual fidelity: **NOT STARTED — NEXT**
+- Stage 3 historical-glyph audit: **NOT STARTED**
+- Stage 4 final source check: **NOT STARTED**
 - verified: **0/6**
 - English: **NOT STARTED**
 
-## Exact next activity after earlier new stories
+## Exact next activity
 
-Stage 1 first-pass transcription, scans **8–13 / printed 32–37**, using direct scan pixels only.
+**Stage 2 word-by-word visual text-fidelity review for scans 8–13 / printed 32–37.**
+
+Reopen every scan directly, re-establish column order and page boundaries, compare each Stage-1 word/punctuation/paragraph decision against source pixels, resolve the focused review queue where possible, preserve any genuinely unreadable cluster as `[…]`, and keep all six pages `needs-review` after Stage 2. Historical-glyph analysis remains a separate Stage 3.
