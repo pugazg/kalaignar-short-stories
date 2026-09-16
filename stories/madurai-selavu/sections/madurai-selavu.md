@@ -1,8 +1,8 @@
 # மதுரைச் செலவு
 
-> **TAMIL / SOURCE CLOSED — PASS FOR SOURCE-VISIBLE MATERIAL.**  
+> **TAMIL / SOURCE CLOSED — PASS / VERIFIED 5/5.**  
 > Controlling source: `TVA_PRL_0001670_முரசொலி_பொங்கல் மலர்_1960.pdf`, story scans **21–24 and 26 / printed 17–20 and 22**.  
-> Four-stage source work is complete. Scans **21, 22, 24 and 26 are verified**. Scan **23 / printed 19** retains one physical illustration-obscured span represented as `[…]`; it was not reconstructed from the supplied Markdown or an outside source. Scan **25 / printed 21** remains verified non-story / excluded.
+> Four-stage source work is complete. The former scan-23 illustration-obscured span was resolved by the user's manual source adjudication and joined to the directly visible continuation on scan 24. All five story pages are now verified. Scan **25 / printed 21** remains verified non-story / excluded.
 
 “கானல் வரி நான்பாட, மாயப்பொய் பல கூட்டும் காதல்மொழி சிந்தியதை இந்தக் காதுகளால் கேட்டிருந்தேன். காளையரை ஏமாற்றக் காட்சிவரி, கண்கூட்டு வரி முதலிய எட்டு வகை நடிப்புவரியும் கற்றவளடி நீ! குமிழம்பூ மூக்கும் குவளை மலர்க் கண்ணும் கொண்டு இனி இந்தக் கோவலனை ஏமாற்ற முடியாது!” எனக் கூறி மாதவியாம் மங்கையர் திலகத்தைப் பிரிந்து வந்த கோவலன், பேடை தேடி வரும் சேவலெனக் கண்ணகியைக் காண வீடு நாடி ஓடுகிறான். ஆளனைக் கண்ட அந்த ஆரமுதுப் பெண்ணாள் அடி தகர்ந்த மரம்போல அவன் அடிவீழ்ந்தாள். கண்ணீர்த்துளிகளால் அவன் காலைக் குளிப்பாட்டினாள்.
 
@@ -84,11 +84,11 @@
 
 “மதுரை மூதூர் எது?” என்று கோவலனைப் பார்த்து அவள் கேட்டாள்.
 
-ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பு […]
+ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்
 
-<!-- source scan 23; printed page 19 — one physical-source obscured span retained as […] -->
+<!-- source scan 23; printed page 19 -->
 
-[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.
+திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.
 
 “மதுரை மூதூர்யாது?” என வினவ,
 
