@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — கொன்று வருக! / Stage 2 visual fidelity
+# NEXT CHAT PROMPT — கொன்று வருக! / Stage 3 historical glyph audit
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,53 +14,53 @@ Controlling source:
 
 `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
 
-Source routing:
+## Stage-2 corrected physical routing
 
-- scans **8–13** — story;
-- printed pages **32–37**;
-- scan 8 — story opening / title artwork;
-- scan 13 — story ending plus unrelated magazine/statistical matter;
-- scan 14 — separate `திராவிட இலக்கியம்` / forward boundary.
+- scan **8 / printed 32** — illustrated title page only; no running prose;
+- scan **9 / printed 33** — illustrated opening plaque; one prose sentence;
+- scan **10 / printed 34** — dense three-column body;
+- scan **11 / printed 35** — dense three-column body;
+- scan **12 / printed 36** — illustrated body page;
+- scan **13 / printed 37** — story ending plus unrelated boxed statistical/magazine matter;
+- scan **14** — separate `திராவிட இலக்கியம்` / forward boundary.
 
-The supplied `kondru_varuga.md` remains locator/draft only. Its multi-column order is badly scrambled and must not override source pixels.
+The supplied `kondru_varuga.md` remains locator/draft only and must not override source pixels.
 
 ## Durable state
 
 - source intake: **COMPLETE**
-- Stage 1 first-pass transcription: **COMPLETE 6/6**
-- page status: **needs-review 6/6**
-- Stage-1 assembly: `stories/kondru-varuga/sections/kondru-varuga.md`
-- Stage-1 record: `stories/kondru-varuga/STAGE1_BATCH_001.md`
+- Stage 1 first-pass: **COMPLETE 6/6 — historical checkpoint retained**
+- Stage 2 ordinary visual text fidelity: **COMPLETE / PASS 6/6**
+- Stage-2 physical page remap: **COMPLETE**
+- former Stage-1 `[…]` clusters: **3 → 0 unresolved**
+- scan 11 two anklet-sale spans: **resolved directly from pixels**
+- scan 12 threat: **resolved as `இல்லையேல் தப்பாது உன் உயிர்!`**
+- scan 13 non-story matter: **EXCLUDED / CONFIRMED**
+- current assembly: `stories/kondru-varuga/sections/kondru-varuga.md`
+- Stage-2 record: `stories/kondru-varuga/STAGE2_BATCH_001.md`
 - review queue: `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- unresolved Stage-1 source clusters: **3**
-  - scan 11: **2**
-  - scan 12: **1**
-- scan 13 non-story matter: **EXCLUDED**
-- Stage 2 visual fidelity: **0/6 — NEXT**
-- Stage 3 historical glyph: **0/6**
+- page status: **needs-review 6/6**
+- Stage 3 historical glyph: **0/6 — NEXT**
 - Stage 4 final source check: **0/6**
 - verified: **0/6**
 - English: **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Stage 2 word-by-word visual text-fidelity review** for scans **8–13 / printed 32–37**.
+Perform **Stage 3 historical Tamil glyph audit** for scans **8–13 / printed 32–37**.
 
 1. fetch live `main`;
-2. reopen direct source pixels for all six scans;
-3. re-establish physical multi-column reading order independently on every page;
-4. compare the complete Stage-1 record word-by-word against the source, including punctuation, quote boundaries, paragraphing and column transitions;
-5. explicitly recheck:
-   - scan 8 opening identity/name exchange;
-   - scan 9 goldsmith→royal-bedchamber transition;
-   - scan 10 `சிலம்புத் திருடி` and dialogue punctuation;
-   - scan 11 `தோலிருக்கச் சுளை விழுங்கியதுபோல்`, `கருத்தழிந்த காரணத்தால்`, and both `[…]` spans;
-   - scan 12 `இல்லையேல் தப்பாது உன் […]`, `கைகாரக் கள்வனே`, `வாய்த்துடுக்கு`, `திமிர்வாதம்`;
-   - scan 13 `பத்தரை மாற்றுத் தங்கமே`, placement of `விடை கொடுத்தாயே கண்ணகி...`, `மாடமாளிகைக் கூடகோபுரத்தில்`, `கள்வன் எனும் கணை தாக்க`, final sword-action wording, and story/non-story separation;
-6. resolve `[…]` only from source pixels; never from the supplied Markdown;
-7. apply only source-proven corrections;
-8. keep all six pages **needs-review** after Stage 2;
-9. update assembly / Stage-2 record / review queue / README / page map / HANDOVER / NEXT prompt;
-10. commit and stop before Stage 3 historical-glyph audit.
+2. reopen all six controlling scans independently;
+3. explicitly audit:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+4. compare whole words / phrases and same-edition shapes where necessary;
+5. never infer character identity from one isolated stroke;
+6. do not modernize spelling or grammar and never global-replace;
+7. use the supplied Markdown only as locator, never as glyph authority;
+8. preserve the Stage-2 physical page map and ordinary-text repairs;
+9. pay special attention to `விற்றால்கூட`, `கண்ணீரால்`, and repeated `கள்வனா / கள்வனாம்` shapes;
+10. keep all six pages **needs-review** after Stage 3;
+11. update page records / assembly / `HISTORICAL_GLYPH_GATE.md` / review queue / README / page map / HANDOVER / NEXT prompt;
+12. commit and stop before Stage 4 final independent source check.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.

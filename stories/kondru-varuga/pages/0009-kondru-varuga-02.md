@@ -3,41 +3,24 @@ scan_page: 9
 printed_page: 33
 story: "kondru-varuga"
 section: "story"
-page_type: "story-body"
+page_type: "illustrated-story-opening"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf"
-transcription_method: "Stage 1 first-pass from direct source pixels; supplied Markdown used only as locator/draft"
+transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direct-pixel visual fidelity; supplied Markdown remained locator/draft only"
 ---
 
 # கொன்று வருக! — தொடர்ச்சி
 
-“இனி என் வேலை தீர்ந்தது. நான் வருகிறேன்” என்று கூறிக்கொண்டே பெரியவர் போகிறார்.
+கற்பின் திருவுருவாம் கண்ணகியின் காற்சிலம்பை விற்க கடைவீதி வருகிறான் கோவலன். அங்கே ஒரு பெரியவரிடம் காட்டுகிறான்.
 
-சிலம்பைப் பார்த்தவாறு பொற்கொல்லர் மௌனமாக நடக்கிறார். கோவலனும் அவர் பின்னால் நடக்கிறான். நூறு பொற்கொல்லர்களும் தொடர்கிறார்கள். ஏனோ ஒருவரையொருவர் பார்த்துக்கொள்கிறார்கள்.
+## Stage 2 visual-fidelity result
 
-ஒரு பெரிய மண்டபத்தினருகே சென்றதும் பொற்கொல்லர் நின்று, “நீ எந்த ஊர்?” எனக் கோவலனைக் கேட்கிறார். கேள்விக்குப் பொருள் புரியாமல் கோவலன் விழிக்கிறான்.
+- Physical illustrated opening independently re-read.
+- Source form `விற்க` is retained; Stage-1 normalized `விற்கக்` is removed.
+- All later dialogue formerly assigned to this scan belongs to scan 10 / printed 34 and has been moved there.
+- The illustrated plaque is the only story prose on scan 9.
 
-“பரவாயில்லை. அந்தப் பெரியவருக்கு நன்றி தெரிவிக்க வேண்டும். எல்லாம் நல்லதுக்கே! பாண்டிமாதேவியாருக்கு ஒற்றைச் சிலம்பு தேவை. அவர்கள் விரும்பும் அந்த ஒப்பற்ற சிலம்பு இதுவாகவே இருக்க முடியும். தேடியலைந்தது தானாகவே கிடைத்துவிட்டது. நீ சிலம்போடு இந்த மண்டபத்திலேயே இரு. நான் மன்னரிடம் செய்தியை அறிவித்து உன்னை அழைத்துப் போகிறேன்” என்கிறார் தலைமைப் பொற்கொல்லர்.
-
-“மிகவும் நன்றி” என்கிறான் கோவலன்.
-
-தலைமைப் பொற்கொல்லர் நூற்றுவரைப் பார்த்து, “நீங்களும் இவருக்குத் துணையாக இங்கேயே இருங்கள். நான் விரைவில் வந்துவிடுகிறேன்” என்று கூறிவிட்டு அந்த இடத்தைவிட்டுப் போகிறார்.
-
-ஆரியப்படை கடந்த நெடுஞ்செழியனின் பள்ளியறை.
-
-அவைக்களம் செல்லுதற்குரிய உடை புனைந்து புறப்படத் தயாராகிவிட்ட பாண்டியன், அரசியை நோக்கி, “நேரமாகிறதே!... நீ புறப்படவில்லை நீதிமன்றத்திற்கு?” என்கிறான்.
-
-“நான் வரவில்லை சிலம்பில்லாத காலோடு! இன்று நீதிமன்றத்தில் சிலம்புத் திருடனையும் தான் கண்டுபிடிக்கப் போகிறீர்கள்!...”
-
-“ஆகா!... எவ்வளவு அக்கறை! உங்களுக்குப் புறப்பாட்டு எழுதவும், போர்த்தளவாடம் சேகரிக்கவும், பொழுதெல்லாம் பாண்டி மண்டிலத்துச் சேதி கேட்கவும் நேரமிருக்குமே தவிர, பொலிவிழந்து கிடக்கிறதே துணைவியின் பாதம் என்ற கவலை வேறு இருக்கிறதா?”
-
-“உன்னையும் என்னையும் விட நாடு பெரியது என்பதை மறந்துவிடாதே! அற்பச் சிலம்புக்காக ஒரு அரசி இவ்வளவு கவலைப்படுவதா?”
-
-## Stage 1 notes
-
-- multi-column order rebuilt directly from scan;
-- transition from the goldsmith sequence into the royal bedchamber is **provisional Stage 1** and must be rechecked against column bottoms/tops in Stage 2;
-- status remains **needs-review**.
+Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9; அச்சுப் பக்கம்: 33 -->

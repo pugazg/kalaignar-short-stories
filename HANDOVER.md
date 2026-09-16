@@ -871,50 +871,51 @@ Final E5 edits:
 - `a woman of the courtesan world` → **`a courtesan`**, preserving `விலைமாது` directly;
 - palm-leaf-letter transition restored to the story's present-tense narrative.
 
-### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — STAGE 1 COMPLETE
+### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — STAGE 2 ORDINARY VISUAL FIDELITY COMPLETE
 
 - canonical: `stories/kondru-varuga/`
 - controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
-- story scans: **8–13 / printed 32–37**
-- scan 8: story opening / title artwork
-- scan 13: story ending / mixed story + magazine matter
-- scan 14: separate `திராவிட இலக்கியம்` — forward boundary
-- source intake: **COMPLETE**
-- Stage 1 first-pass transcription: **COMPLETE 6/6**
-- Stage-1 assembly: `stories/kondru-varuga/sections/kondru-varuga.md`
-- Stage-1 durable record: `stories/kondru-varuga/STAGE1_BATCH_001.md`
-- review queue: `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- scans **8–13 / printed 32–37**
+- Stage 1: **COMPLETE 6/6 — historical checkpoint retained**
+- Stage 2 ordinary word-by-word visual fidelity: **COMPLETE / PASS 6/6**
+- critical Stage-2 repair: **physical page routing rebuilt from source pixels**
+- corrected routing:
+  - scan 8 — title artwork only;
+  - scan 9 — illustrated one-sentence opening;
+  - scan 10 — dense body / first dialogue through royal corridor;
+  - scan 11 — dense body / report through Kovalan defence;
+  - scan 12 — illustrated defence / rapid exchange;
+  - scan 13 — intervention + lament + death; non-story box excluded.
+- former Stage-1 `[…]` clusters: **3 → 0 unresolved**
+- scan 11 anklet-sale spans: **RESOLVED FROM PIXELS**
+- scan 12 `இல்லையேல் தப்பாது உன் […]`: **RESOLVED → `உயிர்`**
 - page status: **needs-review 6/6**
-- unresolved source clusters: **3**
-  - scan 11: **2**
-  - scan 12: **1**
-- scan 13 unrelated magazine/statistical matter: **EXCLUDED**
-- Stage 2 visual fidelity: **NOT STARTED — NEXT**
-- Stage 3 historical-glyph audit: **NOT STARTED**
-- Stage 4 final source check: **NOT STARTED**
+- Stage 3 historical glyph: **0/6 — NEXT**
+- Stage 4 final source check: **0/6**
 - verified: **0/6**
 - English: **NOT STARTED**
 
+Durable Stage-2 controls:
+
+- `stories/kondru-varuga/STAGE2_BATCH_001.md`
+- `stories/kondru-varuga/sections/kondru-varuga.md`
+- `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- `stories/kondru-varuga/indexes/page-map.md`
+
 ## Exact next activity — CURRENT
 
-**கொன்று வருக! — Stage 2 word-by-word visual text-fidelity review, scans 8–13 / printed 32–37.**
+**கொன்று வருக! — Stage 3 historical Tamil glyph audit, scans 8–13 / printed 32–37.**
 
 1. fetch live `main`;
-2. use direct pixels from the controlling 1952 source as authority;
-3. compare every Stage-1 word, punctuation mark, paragraph/dialogue boundary and column transition against scans **8, 9, 10, 11, 12, 13**;
-4. independently re-establish multi-column physical reading order rather than trusting the supplied `kondru_varuga.md`;
-5. explicitly recheck:
-   - scan 8 opening identity/name exchange;
-   - scan 9 transition from goldsmith sequence to royal bedchamber;
-   - scan 10 `சிலம்புத் திருடி` and exact dialogue punctuation;
-   - scan 11 `தோலிருக்கச் சுளை விழுங்கியதுபோல்`, `கருத்தழிந்த காரணத்தால்`, and both `[…]` clusters;
-   - scan 12 officer threat `இல்லையேல் தப்பாது உன் […]`, `கைகாரக் கள்வனே`, `வாய்த்துடுக்கு`, `திமிர்வாதம்`;
-   - scan 13 `பத்தரை மாற்றுத் தங்கமே`, placement of `விடை கொடுத்தாயே கண்ணகி...`, `மாடமாளிகைக் கூடகோபுரத்தில்`, `கள்வன் எனும் கணை தாக்க`, final sword-action wording, and story/non-story separation;
-6. resolve a `[…]` only when source pixels prove the wording; otherwise preserve it;
-7. apply only source-proven corrections;
-8. keep all six pages `needs-review` after Stage 2; historical-glyph work remains separate Stage 3;
-9. synchronize assembly / Stage-2 record / review queue / README / page map / HANDOVER / NEXT prompt;
-10. commit and stop before Stage 3.
+2. reopen all six source scans independently;
+3. audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` word by word;
+4. compare whole words / phrases and same-edition forms; never infer from a single isolated stroke;
+5. do not use the supplied `kondru_varuga.md` as glyph authority;
+6. preserve Stage-2 physical routing and ordinary-text corrections;
+7. apply only source-proven glyph changes; never global-replace or modernize;
+8. keep all six pages `needs-review` after Stage 3;
+9. synchronize page records / assembly / glyph gate / review queue / README / page map / HANDOVER / NEXT prompt;
+10. commit and stop before Stage 4.
 
 Do not reopen `மதுரைச் செலவு` or `சீரழித்த சிரிப்பு!`.
 
