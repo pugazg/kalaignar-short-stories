@@ -51,12 +51,17 @@ Status remains **needs-review** because Stage 3 historical-glyph audit and Stage
 <!-- மூல ஸ்கேன் பக்கம்: 13; அச்சுப் பக்கம்: 37 -->
 
 
-## Stage 3 historical-glyph audit — IN PROGRESS
+## Stage 3 historical-glyph audit — COMPLETE / PASS
 
-- apparent modern-shape reading: `கூறினன்`
-- source-supported Unicode reading: **`கூறினான்`**
-- historical identity: **`னா`**
-- same-edition corroboration: repeated `கள்வனா / கள்வனாம்` shapes use the corresponding historical `னா` family;
-- no global replacement or lexical modernization was performed.
+- apparent `கூறினன்` is source-decoded as **`கூறினான்`** — historical **`னா`**;
+- repeated `கள்வனா / கள்வனாம் / காட்டினான்` independently confirm the same-edition `னா` typeform;
+- `கணைதாக்கக்` was checked for **`ணை`**;
+- `வாளை` was checked for **`ளை`**;
+- `தலைமைப் / எரிமலையாய் / எனத்தலையைத்` were checked for **`லை`**;
+- `வேறா / என்றார் / கத்துகிறார்கள் / வீசுகிறான் / விழுகிறான்` were checked for **`றா`**;
+- `தண்டனை / எனை / உனை / அவனைச்` were checked for **`னை`**;
+- `தெரிந்துதானோ` was checked for **`னோ`**;
+- historical-glyph corrections on this scan: **1**;
+- unresolved glyph clusters: **0**.
 
-Page remains **needs-review** pending completion of Stage 3 and Stage 4.
+Page remains **needs-review** until Stage 4.

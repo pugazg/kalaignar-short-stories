@@ -40,7 +40,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 “பரவாயில்லை. அந்தப் பெரியவருக்கு நன்றி தெரிவிக்க வேண்டும். எல்லாம் நல்லதுக்கே! பாண்டிமாதேவியாருக்கு ஒற்றைச் சிலம்பு தேவை. அவர்கள் விரும்பும் அந்த ஒப்பற்ற சிலம்பு. இதுவாகவே இருக்க முடியும். தேடியலைந்தது தானாகவே கிடைத்துவிட்டது. நீ சிலம்போடு இந்தமண்டபத்திலேயே இரு. நான் மன்னரிடம் செய்தியை அறிவித்து உன்னை அழைத்துப் போகிறேன்.” என்கிறார் தலைமைப் பொற்கொல்லர்.
 
-“மிக்கவும் நன்றி” என்கிறான் கோவலன். தலைமைப் பொற்கொல்லர் நூற்றுவரைப் பார்த்து, “நீங்களும் இவருக்குத் துணையாக இங்கேயே இருங்கள். நான் விரைவில் வந்துவிடுகிறேன்.” — கூறிவிட்டு அந்த இடத்தைவிட்டுப் போகிறார்.
+“மிகவும் நன்றி” என்கிறான் கோவலன். தலைமைப் பொற்கொல்லர் நூற்றுவரைப் பார்த்து, “நீங்களும் இவருக்குத் துணையாக இங்கேயே இருங்கள். நான் விரைவில் வந்துவிடுகிறேன்.” — கூறிவிட்டு அந்த இடத்தைவிட்டுப் போகிறார்.
 
 * * *
 
@@ -78,9 +78,33 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 - Three-column reading order re-established **left → middle → right** from the physical page.
 - The origin/name exchange is correctly placed after the goldsmith asks `நீ எந்த ஊர்?`; Stage 1 had moved it to the beginning of the story.
-- Restored source-visible `மனைவியின்`, `நீ எப்படி என்னிடமே சிலம்பை விற்க வந்துவிட்டாய்?`, `மிக்கவும் நன்றி`, `அற்பச் சிலம்பாகத்தானிருக்கும்`, and parenthetical `(சிலம்புத் திருடி)`.
+- Restored source-visible `மனைவியின்`, `நீ எப்படி என்னிடமே சிலம்பை விற்க வந்துவிட்டாய்?`, `மிக்கவும் நன்றி`, `அற்பச் சிலம்பாகத்தானிருக்கும்`, and parenthetical `(சிலம்புத் திருடி)`. **Stage 3 later supersedes the Stage-2 `மிக்கவும் நன்றி` reading with direct-pixel `மிகவும் நன்றி`.**
 - Page ends inside the goldsmith's report at `அவனைப் பிடித்து`; continuation is on scan 11.
 
 Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 10; அச்சுப் பக்கம்: 34 -->
+
+
+## Stage 3 historical-glyph audit — COMPLETE / PASS
+
+All applicable families were rechecked word-by-word from enlarged source pixels.
+
+Representative confirmations:
+
+- `துணையாக / துணைவியின்` — **`ணை`**;
+- `விலை / பரவாயில்லை / கவலை` — **`லை`**;
+- `விற்றால்கூட` and repeated `கிறான் / கிறார்` forms — **`றா`**;
+- `பின்னால் / தானாகவே / அதனால்` — **`னா`**;
+- `அரண்மனைப் / மனைவியின் / அவனைப்` — **`னை`**;
+- `ஏனோ` — **`னோ`**.
+
+Historical-glyph corrections on this scan: **0**.
+
+Incidental ordinary source-fidelity correction found during the enlarged Stage-3 recheck:
+
+- `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**.
+
+No modernization or global replacement was performed. Unresolved glyph clusters: **0**.
+
+Page remains **needs-review** until Stage 4.

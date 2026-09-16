@@ -871,51 +871,57 @@ Final E5 edits:
 - `a woman of the courtesan world` → **`a courtesan`**, preserving `விலைமாது` directly;
 - palm-leaf-letter transition restored to the story's present-tense narrative.
 
-### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — STAGE 2 ORDINARY VISUAL FIDELITY COMPLETE
+### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — STAGE 3 HISTORICAL GLYPH COMPLETE
 
 - canonical: `stories/kondru-varuga/`
 - controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
 - scans **8–13 / printed 32–37**
 - Stage 1: **COMPLETE 6/6 — historical checkpoint retained**
 - Stage 2 ordinary word-by-word visual fidelity: **COMPLETE / PASS 6/6**
-- critical Stage-2 repair: **physical page routing rebuilt from source pixels**
-- corrected routing:
-  - scan 8 — title artwork only;
-  - scan 9 — illustrated one-sentence opening;
-  - scan 10 — dense body / first dialogue through royal corridor;
-  - scan 11 — dense body / report through Kovalan defence;
-  - scan 12 — illustrated defence / rapid exchange;
-  - scan 13 — intervention + lament + death; non-story box excluded.
+- Stage-2 physical page remap: **COMPLETE**
 - former Stage-1 `[…]` clusters: **3 → 0 unresolved**
-- scan 11 anklet-sale spans: **RESOLVED FROM PIXELS**
-- scan 12 `இல்லையேல் தப்பாது உன் […]`: **RESOLVED → `உயிர்`**
+- Stage 3 historical-glyph audit: **COMPLETE / PASS 6/6**
+- Stage-3 glyph corrections: **3**
+  - scan 11 `கூறினன்` → **`கூறினான்`** (`னா`)
+  - scan 12 `கூறினன்` → **`கூறினான்`** (`னா`)
+  - scan 13 `கூறினன்` → **`கூறினான்`** (`னா`)
+- Stage-3 incidental ordinary correction: **1**
+  - scan 10 `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**
+- unresolved ordinary clusters: **0**
+- unresolved glyph clusters: **0**
 - page status: **needs-review 6/6**
-- Stage 3 historical glyph: **IN PROGRESS — `கூறினன்` → `கூறினான்` (`னா`) source-confirmed on scans 11–13; no page closed yet**
-- Stage 4 final source check: **0/6**
+- Stage 4 final source check: **0/6 — NEXT**
 - verified: **0/6**
 - English: **NOT STARTED**
 
-Durable Stage-2 controls:
+Durable controls:
 
 - `stories/kondru-varuga/STAGE2_BATCH_001.md`
+- `stories/kondru-varuga/HISTORICAL_GLYPH_GATE.md`
 - `stories/kondru-varuga/sections/kondru-varuga.md`
 - `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
 - `stories/kondru-varuga/indexes/page-map.md`
 
 ## Exact next activity — CURRENT
 
-**கொன்று வருக! — continue Stage 3 historical Tamil glyph audit, scans 8–13 / printed 32–37.**
+**கொன்று வருக! — Stage 4 final independent source check, scans 8–13 / printed 32–37.**
 
 1. fetch live `main`;
-2. reopen all six source scans independently;
-3. preserve the source-confirmed `கூறினான்` historical-`னா` corrections on scans 11–13, then continue auditing `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` word by word;
-4. compare whole words / phrases and same-edition forms; never infer from a single isolated stroke;
-5. do not use the supplied `kondru_varuga.md` as glyph authority;
-6. preserve Stage-2 physical routing and ordinary-text corrections;
-7. apply only source-proven glyph changes; never global-replace or modernize;
-8. keep all six pages `needs-review` after Stage 3;
-9. synchronize page records / assembly / glyph gate / review queue / README / page map / HANDOVER / NEXT prompt;
-10. commit and stop before Stage 4.
+2. reopen all six controlling scans fresh, without relying on Stage-2/Stage-3 notes as proof;
+3. confirm the corrected physical routing:
+   - scan 8 title artwork only;
+   - scan 9 one-sentence illustrated opening;
+   - scan 10 dense three-column body;
+   - scan 11 dense three-column body;
+   - scan 12 illustrated body;
+   - scan 13 intervention + lament + death, with statistical box excluded;
+4. compare every word, punctuation mark, quote boundary, paragraph, column transition and page continuation against source pixels;
+5. explicitly confirm Stage-3 `கூறினான்` readings on scans 11–13 and scan-10 `மிகவும் நன்றி`;
+6. confirm all 13 historical-glyph families remain correctly encoded;
+7. confirm scan-13 story/non-story separation and final sword-action wording;
+8. if no issue remains, promote all six page records to `verified`;
+9. synchronize final-source-check record / assembly / review queue / README / page map / HANDOVER / NEXT prompt;
+10. commit, re-fetch live `main`, and only then consider Tamil/source closure.
 
 Do not reopen `மதுரைச் செலவு` or `சீரழித்த சிரிப்பு!`.
 

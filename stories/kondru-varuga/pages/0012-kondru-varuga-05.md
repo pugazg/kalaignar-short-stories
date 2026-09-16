@@ -42,13 +42,15 @@ Status remains **needs-review** because Stage 3 historical-glyph audit and Stage
 <!-- மூல ஸ்கேன் பக்கம்: 12; அச்சுப் பக்கம்: 36 -->
 
 
-## Stage 3 historical-glyph audit — IN PROGRESS
+## Stage 3 historical-glyph audit — COMPLETE / PASS
 
-User-flagged source recheck confirmed the historical glyph:
+- user-flagged apparent `கூறினன்` is source-decoded as **`கூறினான்`**;
+- historical identity: **`னா`**;
+- `முன்னாலே` and `கூறினான்` confirm the same `னா` family;
+- `முடிவுதனை / என்னை / உன்னைக் / என்னைக்` were checked for **`னை`** identity;
+- `இல்லையேல் / பிறக்கவில்லை` were checked for **`லை`**;
+- `நம்புகின்றாய்` was checked for **`றா`**;
+- historical-glyph corrections on this scan: **1**;
+- unresolved glyph clusters: **0**.
 
-- apparent modern-shape reading: `கூறினன்`
-- source-supported Unicode reading: **`கூறினான்`**
-- historical identity: **`னா`**
-- evidence: enlarged direct source pixels; the old `னா` form visually resembles the shorter modern form if read by shape alone.
-
-Page remains **needs-review** pending the rest of Stage 3 and Stage 4.
+Page remains **needs-review** until Stage 4.

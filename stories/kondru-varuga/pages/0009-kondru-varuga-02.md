@@ -24,3 +24,14 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9; அச்சுப் பக்கம்: 33 -->
+
+
+## Stage 3 historical-glyph audit — COMPLETE / PASS
+
+- complete illustrated opening rechecked at enlarged source resolution;
+- `வருகிறான்` and `காட்டுகிறான்` — historical **`றா`** family confirmed from the source;
+- no `ணொ / ணோ / றொ / றோ / னொ` occurrence is present on this page;
+- historical-glyph corrections: **0**;
+- unresolved glyph clusters: **0**.
+
+Page remains **needs-review** until Stage 4 final independent source check.

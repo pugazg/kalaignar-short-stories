@@ -2,7 +2,7 @@
 
 > **Stage 2 direct-pixel visual-fidelity assembly — NEEDS REVIEW.**
 > Controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`, scans **8–13 / printed 32–37**.
-> Stage 2 rebuilt the physical page routing and multi-column order independently from source pixels. The supplied `kondru_varuga.md` remains locator/draft only. All three Stage-1 `[…]` clusters are now resolved. Stage 3 historical-glyph audit is **IN PROGRESS**; source-confirmed historical `னா` has corrected three apparent `கூறினன்` readings to `கூறினான்`.
+> Stage 2 rebuilt the physical page routing and multi-column order independently from source pixels. The supplied `kondru_varuga.md` remains locator/draft only. All three Stage-1 `[…]` clusters are resolved. Stage 3 historical-glyph audit is **COMPLETE / PASS 6/6**: three apparent `கூறினன்` readings were source-decoded as `கூறினான்` (`னா`), with 0 unresolved glyph clusters. Stage 3 also corrected one residual ordinary reading: `மிக்கவும் நன்றி` → `மிகவும் நன்றி`.
 
 <!-- source scan 8; printed page 32 — illustrated title page; no running prose -->
 
@@ -38,7 +38,7 @@
 
 “பரவாயில்லை. அந்தப் பெரியவருக்கு நன்றி தெரிவிக்க வேண்டும். எல்லாம் நல்லதுக்கே! பாண்டிமாதேவியாருக்கு ஒற்றைச் சிலம்பு தேவை. அவர்கள் விரும்பும் அந்த ஒப்பற்ற சிலம்பு. இதுவாகவே இருக்க முடியும். தேடியலைந்தது தானாகவே கிடைத்துவிட்டது. நீ சிலம்போடு இந்தமண்டபத்திலேயே இரு. நான் மன்னரிடம் செய்தியை அறிவித்து உன்னை அழைத்துப் போகிறேன்.” என்கிறார் தலைமைப் பொற்கொல்லர்.
 
-“மிக்கவும் நன்றி” என்கிறான் கோவலன். தலைமைப் பொற்கொல்லர் நூற்றுவரைப் பார்த்து, “நீங்களும் இவருக்குத் துணையாக இங்கேயே இருங்கள். நான் விரைவில் வந்துவிடுகிறேன்.” — கூறிவிட்டு அந்த இடத்தைவிட்டுப் போகிறார்.
+“மிகவும் நன்றி” என்கிறான் கோவலன். தலைமைப் பொற்கொல்லர் நூற்றுவரைப் பார்த்து, “நீங்களும் இவருக்குத் துணையாக இங்கேயே இருங்கள். நான் விரைவில் வந்துவிடுகிறேன்.” — கூறிவிட்டு அந்த இடத்தைவிட்டுப் போகிறார்.
 
 * * *
 

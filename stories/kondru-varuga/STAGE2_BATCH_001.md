@@ -64,3 +64,12 @@ Correct physical routing:
 - English: **NOT STARTED**
 
 Stage 2 intentionally does **not** promote any page to `verified`.
+
+## Later Stage-3 supersession / residual correction
+
+Stage 3 historical-glyph review made the following source-proven supersessions without reopening the physical page map:
+
+- scans 11–13: apparent Stage-2 `கூறினன்` → **`கூறினான்`** through historical **`னா`** decoding;
+- scan 10: `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**, an incidental ordinary-fidelity correction found during enlarged Stage-3 source review.
+
+All other Stage-2 routing and ordinary-text decisions remain in force.

@@ -23,3 +23,15 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: 32 -->
+
+
+## Stage 3 historical-glyph audit — COMPLETE / PASS
+
+- complete page reopened independently at enlarged source resolution;
+- checked all historical-glyph families applicable to this page;
+- representative source form: `கருணாநிதி` — **`ணா` source identity confirmed**;
+- no running prose occurs on this scan;
+- historical-glyph corrections: **0**;
+- unresolved glyph clusters: **0**.
+
+Page remains **needs-review** until Stage 4 final independent source check.

@@ -2,37 +2,29 @@
 
 ## Current state
 
-**OPEN — Stage 2 ordinary visual fidelity COMPLETE / PASS 6/6; 0 unresolved ordinary-source clusters. Stage 3 historical-glyph audit is IN PROGRESS.**
+**OPEN FOR FINAL GATE ONLY — Stage 2 ordinary visual fidelity PASS 6/6; Stage 3 historical-glyph audit PASS 6/6; 0 unresolved ordinary clusters; 0 unresolved glyph clusters. Stage 4 final independent source check is next.**
 
-## Stage-2 closures
+## Closed Stage-2 issues
 
-- Stage-1 physical page routing has been replaced by the source-proven scan map.
-- scan 11's two former `[…]` clusters are resolved directly from pixels.
-- scan 12's former `இல்லையேல் தப்பாது உன் […]` is resolved as `இல்லையேல் தப்பாது உன் உயிர்!`.
-- scan 13 non-story statistical/magazine box remains excluded.
+- physical page routing rebuilt from source pixels;
+- scan 11 former two `[…]` clusters resolved;
+- scan 12 former `இல்லையேல் தப்பாது உன் […]` resolved as `உயிர்`;
+- scan 13 non-story statistical box excluded.
 
-## Stage-3 glyph-risk queue
+## Closed Stage-3 glyph issue
 
-Systematically audit the repository's historical families on all six scans:
+Historical `னா` source-decoded and propagated:
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- scan 11 `கூறினன்` → **`கூறினான்`**
+- scan 12 `கூறினன்` → **`கூறினான்`**
+- scan 13 `கூறினன்` → **`கூறினான்`**
 
-Particular source shapes worth deliberate Stage-3 rechecking include:
+Do not regress these readings.
 
-- scan 10: `விற்றால்கூட` and other `றா`-family forms;
-- scan 11: `கண்ணீரால்` and adjacent historical shapes;
-- scan 13: repeated `கள்வனா / கள்வனாம்` forms and any `னா`-family ambiguity.
+## Stage-3 incidental ordinary correction
 
-Do not use the supplied Markdown to settle a historical character identity.
+- scan 10 `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**
 
-All six page records remain **needs-review**.
+## Remaining review
 
-## Stage-3 confirmed correction — historical `னா`
-
-User correction verified against source pixels:
-
-- scans **11, 12, 13** apparent `கூறினன்` → **`கூறினான்`**
-- family: **`னா`**
-- all three same-edition occurrences corrected in page records and assembly.
-
-Do not regress these to `கூறினன்` during later passes.
+No known word-level or glyph-level uncertainty remains. Stage 4 must nevertheless reopen scans **8–13** independently and confirm the complete source layer before promotion to `verified`.

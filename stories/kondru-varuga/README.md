@@ -14,7 +14,7 @@ Canonical workspace activated from the 1952 **முரசொலி பொங்
 
 ## Canonical status
 
-**STAGE 2 ORDINARY VISUAL FIDELITY COMPLETE / PASS — 6/6; pages remain NEEDS REVIEW.**
+**STAGE 3 HISTORICAL-GLYPH AUDIT COMPLETE / PASS — 6/6; pages remain NEEDS REVIEW pending Stage 4.**
 
 The supplied `kondru_varuga.md` remains locator/draft only. Stage 2 found that Stage 1 had substantially misassigned prose across physical pages. The page map and assembly have now been rebuilt directly from source pixels.
 
@@ -30,8 +30,8 @@ The supplied `kondru_varuga.md` remains locator/draft only. Stage 2 found that S
 - review queue: `POSSIBLE_ERRORS_FOR_REVIEW.md`
 - page status: **needs-review 6/6**
 - scan 13 unrelated magazine/statistical matter: **EXCLUDED / CONFIRMED**
-- Stage 3 historical-glyph audit: **IN PROGRESS — historical `னா` correction `கூறினன்` → `கூறினான்` confirmed on scans 11–13**
-- Stage 4 final source check: **NOT STARTED**
+- Stage 3 historical-glyph audit: **COMPLETE / PASS 6/6 — 3 `னா` corrections; 0 unresolved glyph clusters**
+- Stage 4 final source check: **NOT STARTED — NEXT**
 - verified: **0/6**
 - English: **NOT STARTED**
 
@@ -44,8 +44,17 @@ The supplied `kondru_varuga.md` remains locator/draft only. Stage 2 found that S
 - scan 12 / printed 36 — illustrated body page;
 - scan 13 / printed 37 — story ending + excluded non-story box.
 
+## Stage-3 closure details
+
+- historical-glyph corrections: **3**
+  - scans 11–13: `கூறினன்` → **`கூறினான்`** (`னா`)
+- incidental ordinary correction: **1**
+  - scan 10: `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**
+- unresolved ordinary clusters: **0**
+- unresolved glyph clusters: **0**
+
 ## Exact next activity
 
-**Continue Stage 3 historical Tamil glyph audit for scans 8–13 / printed 32–37.**
+**Stage 4 final independent source check for scans 8–13 / printed 32–37.**
 
-Re-fetch live `main`, preserve the now-authoritative `கூறினான்` (`னா`) corrections on scans 11–13, continue the remaining historical-glyph families independently across all six scans, apply only source-proven corrections, keep every page `needs-review`, synchronize all controls, and stop before Stage 4.
+Re-fetch live `main`, reopen all six scans fresh, compare the complete Stage-3 text end-to-end against source pixels, confirm the corrected physical page map, all Stage-2 and Stage-3 repairs, punctuation / dialogue boundaries / page continuations / non-story exclusion, and only then promote pages to `verified` if no issue remains.
