@@ -36,14 +36,15 @@ The supplied `Madurai_selavu.md` remains locator/draft only and does not control
 - English E1 first complete translation: **COMPLETE**
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 5 repairs**
-- cumulative English repairs after E1: **14**
+- English E4 quality / readability review: **COMPLETE / PASS — 21 repairs**
+- cumulative English repairs after E1: **35**
 - English E1 title: **Journey to Madurai**
 - English source-page traceability: **PASS 5/5**
-- omissions / duplications / unsupported additions after E3: **0 / 0 / 0**
-- Tamil/source reopened during E1–E3: **No**
-- Tamil changed during E1–E3: **No**
-- unresolved E3 issues: **0**
-- E4–E5: **NOT YET PERFORMED**
+- omissions / duplications / unsupported additions after E4: **0 / 0 / 0**
+- Tamil/source reopened during E1–E4: **No**
+- Tamil changed during E1–E4: **No**
+- unresolved E4 issues: **0**
+- E5: **NOT YET PERFORMED**
 
 Resolved scan-23→24 reading:
 
@@ -64,6 +65,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E4 — quality / readability review.**
+**English E5 — final bilingual approval / English closure.**
 
-Polish only the English prose for clarity, rhythm, dialogue naturalness and readability while preserving all E2 meaning decisions, E3 terminology choices, cultural terms, names and source-page markers. Stop before E5 final bilingual approval.
+Perform the final Tamil↔English alignment check, confirm E2 semantics and E3 terminology remain intact after E4, review the English title and complete prose one last time, verify source-page markers and completeness, then close the English layer if no issues remain.
