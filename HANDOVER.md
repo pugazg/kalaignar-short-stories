@@ -844,7 +844,7 @@ Durable controls:
 - `stories/seerazhitha-sirippu/translations/en/seerazhitha-sirippu.md`
 - `stories/seerazhitha-sirippu/TRANSLATION_REVIEW.md`
 
-### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1–E2 COMPLETE
+### 3. மதுரைச் செலவு — முரசொலி பொங்கல் மலர் 1960 — TAMIL/SOURCE CLOSED / ENGLISH E1–E3 COMPLETE
 
 - canonical: `stories/madurai-selavu/`
 - story scans: **21–24 + 26 / printed 17–20 + 22**
@@ -852,28 +852,28 @@ Durable controls:
 - Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
 - English E1 first complete translation: **COMPLETE**
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
+- English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 5 repairs**
+- cumulative English repairs after E1: **14**
 - E1 English title: **Journey to Madurai**
 - English source-page traceability: **PASS 5/5**
-- scan-25 exclusion marker: **PASS**
-- scan-23→24 physical split: **PASS**
-- scan-24→26 Madhavi-letter continuity: **PASS**
-- omissions / duplications / unsupported additions after E2: **0 / 0 / 0**
-- Tamil/source reopened during E1–E2: **No**
-- Tamil changed during E1–E2: **No**
-- unresolved E2 issues: **0**
-- E3 terminology / names / cultural consistency: **NOT STARTED — NEXT**
-- E4–E5: **NOT STARTED**
+- omissions / duplications / unsupported additions after E3: **0 / 0 / 0**
+- Tamil/source reopened during E1–E3: **No**
+- Tamil changed during E1–E3: **No**
+- unresolved E3 issues: **0**
+- E4 English quality / readability review: **NOT STARTED — NEXT**
+- E5: **NOT STARTED**
 
-E2 repairs include:
-- Kovalan's mercantile standing;
-- Mother Sea metaphor;
-- direction of the Kavunti/Kannagi introduction;
-- `பெரியவர்கள்` → elders;
-- `அயர்ந்து விடுவாளோ` → grow weary;
-- deceptive pits;
-- removal of unsupported `fall upon us`;
-- `உற்ற மனைவி` → own wife;
-- `தமிழனின் கற்பனை வளம்` → imaginative wealth of the Tamil people.
+Protected E3 terminology:
+
+- **Vari performance / Kaanal Vari / Kaatchi Vari / Kankootu Vari**
+- **Tamil Marai**
+- **Kavunti Adigal**
+- **Saranars**
+- **Aiyai Kottam**
+- **katham**
+- **yaazh**
+- **Kotravai**
+- **Nadukaan Kaathai / Kaadukaan Kaathai / Vettuva Vari / Puranjeri Irutha Kaathai**
 
 ### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952
 
@@ -884,23 +884,18 @@ E2 repairs include:
 
 ## Exact next activity — CURRENT
 
-**மதுரைச் செலவு — English E3 terminology / names / cultural consistency review.**
+**மதுரைச் செலவு — English E4 quality / readability review.**
 
 1. fetch live `main`;
-2. preserve all E2 meaning-fidelity decisions;
-3. review names and transliterations consistently: **Kovalan, Kannagi, Madhavi, Manimekalai, Kavunti/Kavunti Adigal, Maasathuvan, Ilango Adigal, Nedunchezhiyan**;
-4. review culturally marked address/kinship terms, especially `அத்தான்`, `அம்மா`, `மருமகள்`;
-5. review literary/classical terms and whether they should remain transliterated:
-   - Kaanal Vari / Kaatchi Vari / Kankootu Vari;
-   - katham;
-   - yaazh;
-   - Kotravai;
-   - Nadukaan Kaathai / Kaadukaan Kaathai / Vettuva Vari / Puranjeri Irutha Kaathai;
-6. review flora/fauna and place-name transliterations without inventing species identifications;
-7. review `தமிழ் மறை`, `சாரணர்`, `ஐயை கோட்டம்`, `புழுகுக் குழம்பு` and other cultural terms for consistent conservative English treatment;
-8. do not import outside historical/literary explanation;
-9. append E3 result and repair count to `TRANSLATION_REVIEW.md`, record `Tamil/source reopened: No`, synchronize controls;
-10. commit and stop before E4 English quality/readability review.
+2. preserve all E2 meaning-fidelity decisions and all E3 terminology/name/cultural choices;
+3. review the complete English for readability, sentence flow, dialogue naturalness, repetition, awkward literal phrasing, punctuation and paragraph rhythm;
+4. do not simplify away source imagery, rhetorical questions, literary commentary, classical terms or culturally marked vocabulary;
+5. preserve all source-page markers and the scan-25 exclusion marker;
+6. keep the scan-23→24 physical split auditable;
+7. make English-only quality repairs; do not change Tamil/source;
+8. append E4 result and repair count to `TRANSLATION_REVIEW.md`;
+9. synchronize README / HANDOVER / NEXT prompt and record `Tamil/source reopened: No`;
+10. commit and stop before E5 final bilingual approval.
 
 Do not begin `கொன்று வருக!` in the same activity.
 
