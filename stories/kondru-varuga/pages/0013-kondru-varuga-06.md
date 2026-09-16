@@ -7,7 +7,7 @@ page_type: "story-ending-mixed-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf"
-transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direct-pixel visual fidelity; supplied Markdown remained locator/draft only"
+transcription_method: "Stage 1 first-pass; Stage 2 word-by-word direct-pixel fidelity; Stage 3 historical-glyph audit; Stage 4 final independent source verification; supplied Markdown remained locator/draft only"
 ---
 
 # கொன்று வருக! — தொடர்ச்சி
