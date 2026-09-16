@@ -1,22 +1,10 @@
-# NEXT CHAT PROMPT — கொன்று வருக! / Stage 1 first-pass transcription
+# NEXT CHAT PROMPT — கொன்று வருக! / Stage 2 visual fidelity
 
 Continue in `pugazg/kalaignar-short-stories`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Previous story closure
 
-`stories/madurai-selavu/` is fully **CLOSED / PASS** for Tamil/source and English.
-
-Final state:
-
-- Tamil/source: **CLOSED / PASS — VERIFIED 5/5**
-- English E1–E5: **COMPLETE / PASS**
-- final English title: **Journey to Madurai**
-- cumulative English changes after E1: **37**
-- omissions / duplications / unsupported additions: **0 / 0 / 0**
-- unresolved English issues: **0**
-- Tamil/source reopened during English: **No**
-
-Do not reopen it without genuinely new source evidence.
+`stories/madurai-selavu/` remains fully **CLOSED / PASS** for Tamil/source and English. Do not reopen without genuinely new source evidence.
 
 ## Active canonical
 
@@ -26,39 +14,53 @@ Controlling source:
 
 `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
 
-Source identity / routing:
+Source routing:
 
-- publication: **முரசொலி — பொங்கல் மலர்**
-- year: **1952**
-- story scans: **8–13**
-- printed pages: **32–37**
-- scan 8: story opening / title artwork
-- scan 9: illustrated story page
-- scans 10–12: story body
-- scan 13: story ending / mixed story + magazine matter
-- scan 14: separate `திராவிட இலக்கியம்` — forward boundary
+- scans **8–13** — story;
+- printed pages **32–37**;
+- scan 8 — story opening / title artwork;
+- scan 13 — story ending plus unrelated magazine/statistical matter;
+- scan 14 — separate `திராவிட இலக்கியம்` / forward boundary.
+
+The supplied `kondru_varuga.md` remains locator/draft only. Its multi-column order is badly scrambled and must not override source pixels.
+
+## Durable state
+
 - source intake: **COMPLETE**
-- page records initialized: **6/6**
-- Stage 1: **0/6 — NEXT**
-- Stage 2/3/4: **0/6**
+- Stage 1 first-pass transcription: **COMPLETE 6/6**
+- page status: **needs-review 6/6**
+- Stage-1 assembly: `stories/kondru-varuga/sections/kondru-varuga.md`
+- Stage-1 record: `stories/kondru-varuga/STAGE1_BATCH_001.md`
+- review queue: `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
+- unresolved Stage-1 source clusters: **3**
+  - scan 11: **2**
+  - scan 12: **1**
+- scan 13 non-story matter: **EXCLUDED**
+- Stage 2 visual fidelity: **0/6 — NEXT**
+- Stage 3 historical glyph: **0/6**
+- Stage 4 final source check: **0/6**
 - verified: **0/6**
 - English: **NOT STARTED**
 
-The supplied `kondru_varuga.md` is a locator/draft only. Its multi-column reading order is badly scrambled and must not control canonical text.
-
 ## Exact next activity
 
-Perform **Stage 1 first-pass transcription** for scans **8–13 / printed 32–37**.
+Perform **Stage 2 word-by-word visual text-fidelity review** for scans **8–13 / printed 32–37**.
 
 1. fetch live `main`;
-2. use direct source pixels as sole transcription authority;
-3. reconstruct physical multi-column reading order independently on every scan;
-4. transcribe scans **8, 9, 10, 11, 12, 13** in source order;
-5. preserve source spelling, punctuation, paragraphing, dialogue and historical glyph evidence without modernization;
-6. use the supplied Markdown only as a locator/draft, never as authority;
-7. separate scan-13 story ending from non-story magazine matter;
-8. keep all six page records **needs-review** after Stage 1;
-9. assemble the Stage-1 story and synchronize README / page map / Stage-1 record / HANDOVER / NEXT prompt;
-10. commit and stop before Stage 2 visual-fidelity review.
+2. reopen direct source pixels for all six scans;
+3. re-establish physical multi-column reading order independently on every page;
+4. compare the complete Stage-1 record word-by-word against the source, including punctuation, quote boundaries, paragraphing and column transitions;
+5. explicitly recheck:
+   - scan 8 opening identity/name exchange;
+   - scan 9 goldsmith→royal-bedchamber transition;
+   - scan 10 `சிலம்புத் திருடி` and dialogue punctuation;
+   - scan 11 `தோலிருக்கச் சுளை விழுங்கியதுபோல்`, `கருத்தழிந்த காரணத்தால்`, and both `[…]` spans;
+   - scan 12 `இல்லையேல் தப்பாது உன் […]`, `கைகாரக் கள்வனே`, `வாய்த்துடுக்கு`, `திமிர்வாதம்`;
+   - scan 13 `பத்தரை மாற்றுத் தங்கமே`, placement of `விடை கொடுத்தாயே கண்ணகி...`, `மாடமாளிகைக் கூடகோபுரத்தில்`, `கள்வன் எனும் கணை தாக்க`, final sword-action wording, and story/non-story separation;
+6. resolve `[…]` only from source pixels; never from the supplied Markdown;
+7. apply only source-proven corrections;
+8. keep all six pages **needs-review** after Stage 2;
+9. update assembly / Stage-2 record / review queue / README / page map / HANDOVER / NEXT prompt;
+10. commit and stop before Stage 3 historical-glyph audit.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.
