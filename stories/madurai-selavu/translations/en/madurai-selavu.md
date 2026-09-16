@@ -1,6 +1,6 @@
 # Journey to Madurai
 
-“I sang the Kaanal Vari, and with these very ears I heard you pour out words of love woven with many deceitful lies. To deceive men, you have learnt all eight kinds of acting-lines—Kaatchi Vari, Kankootu Vari and the rest! With your kumizham-blossom nose and water-lily eyes, you can no longer deceive this Kovalan!” Saying this, Kovalan left Madhavi, that jewel among women, and ran home to see Kannagi like a cock seeking its hen. Seeing her man, that nectar-sweet woman fell at his feet like a tree cut down at the root. With her tears she bathed his feet.
+“I sang the Kaanal Vari, and with these very ears I heard you pour out words of love woven with many deceitful lies. To deceive men, you have learnt all eight forms of Vari performance—Kaatchi Vari, Kankootu Vari and the rest! With your kumizham-blossom nose and water-lily eyes, you can no longer deceive this Kovalan!” Saying this, Kovalan left Madhavi, that jewel among women, and ran home to see Kannagi like a cock seeking its hen. Seeing her man, that nectar-sweet woman fell at his feet like a tree cut down at the root. With her tears she bathed his feet.
 
 “KANNAGI!” Kovalan cried.
 
@@ -14,7 +14,7 @@ That one word contained the whole plea: “Forgive this scoundrel who kept you a
 
 Before he could continue, she sealed his beautiful lips with her hands and replied in a trembling voice, “Do not scold him! Not even my own husband is allowed to scold my husband. I will not permit it.”
 
-“Jewel of womanhood! While you, a noble woman who guards the Tamil moral law and the home, were here, I fell into the hands of Madhavi, a woman of the courtesan world. In the fragrance of her flower-adorned hair I imagined that the whole world was my slave. That deceitful woman severed my ties to my family. The whole land! Every street mocked me, and though I still had a body, she turned me into a vessel without life.”
+“Jewel of womanhood! While you, a noble woman who guards the Tamil Marai and the home, were here, I fell into the hands of Madhavi, a woman of the courtesan world. In the fragrance of her flower-adorned hair I imagined that the whole world was my slave. That deceitful woman severed my ties to my family. The whole land! Every street mocked me, and though I still had a body, she turned me into a vessel without life.”
 
 “My lord! My poor younger sister! Do not say anything against her. My child Manimekalai is well, isn't she, my lord...?”
 
@@ -64,7 +64,7 @@ No one could console her. She lay with her face pressed against the face of Mani
 
 At that hour which Ilango Adigal describes as “the last watch of night, when the white moon has gone and dense darkness remains,” Kovalan and Kannagi set out on their journey to Madurai, paying no attention to the swan, ram and kavari deer playing at the doorway. They passed the fruit-laden groves along the route by which the people of Poompuhar went to bathe in the fresh waters of the Kaveri, and crossed even the last point of the river's Sangamukha landing.
 
-On the way they happened to meet Kavunti, a Jain woman ascetic. Kovalan bowed to her and introduced the Adigal to Kannagi. But Kavunti knew neither of them. After blessing them, she asked, “May I know who you are?”
+On the way they happened to meet Kavunti, a Jain woman ascetic. Kovalan bowed to her and introduced Kavunti Adigal to Kannagi. But Kavunti knew neither of them. After blessing them, she asked, “May I know who you are?”
 
 “Our home is Poompuhar, the Chola king's great coastal capital, where one sees fine horses imported from foreign lands, sacks of pepper heaped for export, gems and gold born in the northern mountains, sandalwood and agarwood from the Kudamalai hills, pearls from the southern sea, coral from the eastern sea, the wealth of the Ganges and the bounty of the Kaveri. My name is Kovalan. This is Kannagi, the good companion of my life.”
 
@@ -113,7 +113,7 @@ Their journey revealed not only the greatness of married life; the greatness of 
 
 The ponds were forests of lotuses. In those forests, the cries of sambangkozhi birds, herons, swans, cranes, jungle fowl, water crows, ullan, kuluvi, kananthul and great herons were said to resemble the sound raised by a victorious king on the battlefield. In the fields, stacks of paddy stood like hills. To keep the stacks from coming apart, they were tied with ropes of straw. Red-eyed buffaloes rubbed their itching backs against those stacks. The ropes snapped, and the grains of paddy in the stacks spilled onto the growing crop in the fields. The women working in the wet fields threw away the flowers in their hair, cut rice seedlings and wore them on their heads. Though mud covered their shoulders and breasts, to their companions it gave off a beauty like sandal paste. Because they had drunk toddy, the women's fish-like eyes were reddened.
 
-Seeing all these sights, the three travellers reached Thiruvarangam. There they received counsel from great ascetics; afterward they boarded a ferry, crossed at the landing and reached the southern bank of the Kaveri. From there they went to Uraiyur and then set out toward Madurai.
+Seeing all these sights, the three travellers reached Thiruvarangam. There they received counsel from the great Saranars; afterward they boarded a ferry, crossed at the landing and reached the southern bank of the Kaveri. From there they went to Uraiyur and then set out toward Madurai.
 
 On the way Kovalan receives a palm-leaf letter from Madhavi. The moment he sees the handwriting of the woman he loved, his heart changes. He melts with thoughts of Madhavi. He reads the letter:
 
@@ -153,7 +153,7 @@ The child looks at her grandfather's face and smiles.
 
 A situation has arisen in which the broken family might become one again. But is not Kovalan walking, feet aching, toward death? It is this journey to Madurai that resounds through Ilango Adigal's Silappathikaram in the Nadukaan Kaathai, Kaadukaan Kaathai, Vettuva Vari and Puranjeri Irutha Kaathai.
 
-The Nadukaan Kaathai describes the splendours from the time the couple leave Poompuhar and meet Kavunti until the three reach Uraiyur. The Kaadukaan Kaathai tells, with ideas suited to that age, of their walking through the forest, entering the right-hand path among the three routes by the long tank at Kodumbalur, touching Thennavan Hill, turning left, going as far as Tirumal Hill, and then staying at the shrine of Aiyai on the route to Madurai. Their meeting on the way with the hunters who worship the goddess Kotravai is the Vettuva Vari. The Puranjeri Irutha Kaathai describes how Kovalan receives the palm-leaf letter sent by Madhavi, sends it to his parents, plays the yaazh with the bards, learns the route from them and reaches Madurai.
+The Nadukaan Kaathai describes the splendours from the time the couple leave Poompuhar and meet Kavunti until the three reach Uraiyur. The Kaadukaan Kaathai tells, with ideas suited to that age, of their walking through the forest, entering the right-hand path among the three routes by the long tank at Kodumbalur, touching Thennavan Hill, turning left, going as far as Tirumal Hill, and then staying at the Aiyai Kottam on the route to Madurai. Their meeting on the way with the hunters who worship the goddess Kotravai is the Vettuva Vari. The Puranjeri Irutha Kaathai describes how Kovalan receives the palm-leaf letter sent by Madhavi, sends it to his parents, plays the yaazh with the bards, learns the route from them and reaches Madurai.
 
 Looking at the bards they meet on the road, Kovalan asks, “How many kathams are left to Madurai?”
 
