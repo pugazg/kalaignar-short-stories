@@ -12,7 +12,7 @@ transcription_method: "Stage 1 + Stage 2 visual fidelity + Stage 3 historical-gl
 
 # மதுரைச் செலவு — தொடர்ச்சி
 
-[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.
+திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.
 
 “மதுரை மூதூர்யாது?” என வினவ,
 
@@ -96,7 +96,7 @@ Representative checked occurrences:
 
 Fresh source review reconfirmed complete source-visible wording, omissions/duplications, punctuation, paragraph/dialogue order, Stage-2 corrections and Stage-3 historical-glyph dispositions.
 
-- restored source-visible top-of-page continuation: `[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
+- user-adjudicated scan-23 ending now joins directly to the source-visible scan-24 continuation: `திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
 - unresolved ordinary readings: **0**
 - unresolved historical-glyph clusters: **0**
 - final page status: **`verified`**
