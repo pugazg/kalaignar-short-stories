@@ -33,7 +33,13 @@ The supplied `Madurai_selavu.md` remains locator/draft only and does not control
 - unresolved historical-glyph clusters: **0**
 - physical-source obscured spans: **0**
 - scan 25: **verified non-story / excluded**
-- English: **NOT STARTED**
+- English E1 first complete translation: **COMPLETE**
+- English E1 title: **Journey to Madurai**
+- English source-page traceability: **PASS 5/5**
+- E1 omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during E1: **No**
+- Tamil changed during E1: **No**
+- E2–E5: **NOT YET PERFORMED**
 
 Resolved scan-23→24 reading:
 
@@ -49,9 +55,11 @@ Durable controls:
 - `POSSIBLE_ERRORS_FOR_REVIEW.md`
 - `sections/madurai-selavu.md`
 - `indexes/page-map.md`
+- `translations/en/madurai-selavu.md`
+- `TRANSLATION_REVIEW.md`
 
 ## Exact next activity
 
-**English E1 first complete translation from the frozen verified Tamil authority.**
+**English E2 — meaning-fidelity review.**
 
-Stop before E2.
+Compare the complete E1 English sentence-by-sentence against the frozen verified Tamil, repair English only where meaning requires it, preserve all source-page markers and scan-25 exclusion, and stop before E3 terminology / names / cultural consistency review.
