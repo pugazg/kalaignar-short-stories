@@ -239,3 +239,79 @@ Other cultural vocabulary:
 - unresolved E3 issues: **0**
 
 Next: **E4 — English quality / readability review**.
+
+
+## E4 — quality / readability review
+
+**PASS — full English readability review complete.**
+
+E4 reviewed the complete translation for natural prose, sentence rhythm, dialogue flow, repetition, awkward literal phrasing, punctuation and narrative tense. E2 meaning decisions and E3 terminology were preserved.
+
+### E4 repairs
+
+Twenty-one English-only readability repairs were made:
+
+1. `Saying this ... ran home to see Kannagi` → **`With those words ... ran home to Kannagi`**
+2. `Seeing her man ... tree cut down at the root` → **`At the sight of her man ... tree felled at the root`**
+3. `You embodiment of chastity!` → **`You, embodiment of chastity!`**
+4. `began composing a chapter of apology` → **`began his chapter of apology`**
+5. `The whole land! Every street mocked me` → **`Across the whole land, in every street, people mocked me`**
+6. simplified the heavily literal sentence about the pleasure bought with heaps of gold and jewels
+7. `a feast of love whose taste I purchased` → **`a feast of love I paid to taste`**
+8. `Tamils had no equal in maritime trade` → **`Tamils were unrivalled in maritime trade`**
+9. `Why that decision` → **`Why such a decision`**
+10. `Each washed away the other's tears with their own` → **`...with tears of their own`**
+11. Madhavi's `left both you and me and gone away` → **`left you and me behind and gone away`**
+12. `At that hour which Ilango Adigal describes` → **`At the hour Ilango Adigal describes`**
+13. `happened to meet Kavunti` → **`met Kavunti`**
+14. `smiling a sorrowful smile` → **`with a sorrowful smile`**
+15. `come falling down` → **`come tumbling down`**
+16. `everything running before our eyes` → **`everything flowing before our eyes`**
+17. recast the mud / sandal-paste sentence for natural English while preserving the image
+18. regularised the palm-leaf-letter paragraph into consistent past-tense narrative
+19. `While praising it so` → **`As we praise this`**
+20. recast `A situation has arisen ... But is not Kovalan walking...` into natural English while preserving the rhetorical question
+21. recast the final Madurai-breeze sentence to remove awkward literal syntax while preserving the perfume / poets' tongues imagery
+
+### Protected material rechecked after E4
+
+E2 meaning decisions retained:
+
+- **My standing among Poompuhar's great merchants**
+- **belly of Mother Sea, where the waves crash**
+- **introduced Kavunti Adigal to Kannagi**
+- **elders of Madurai**
+- **Kannagi would grow weary**
+- **deceptive pits**
+- Madhavi letter: **your own wife**
+- **imaginative wealth of the Tamil people**
+
+E3 terminology retained:
+
+- **Vari performance**
+- **Kaanal Vari / Kaatchi Vari / Kankootu Vari**
+- **Tamil Marai**
+- **Kavunti / Kavunti Adigal**
+- **Saranars**
+- **Aiyai Kottam**
+- **katham / kathams**
+- **yaazh**
+- **Kotravai**
+- **Nadukaan Kaathai / Kaadukaan Kaathai / Vettuva Vari / Puranjeri Irutha Kaathai**
+
+### E4 result
+
+- E4 readability repairs: **21**
+- cumulative English repairs after E1: **35**
+- source-page markers: **PASS 5/5**
+- scan-25 exclusion marker: **PASS**
+- scan-23→24 physical split: **PASS**
+- scan-24→26 Madhavi-letter continuity: **PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- E2 semantics regressed: **0**
+- E3 terminology regressed: **0**
+- Tamil/source reopened: **No**
+- Tamil changed during E4: **No**
+- unresolved E4 issues: **0**
+
+Next: **E5 — final bilingual approval / English closure**.
