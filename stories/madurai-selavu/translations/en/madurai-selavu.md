@@ -1,6 +1,6 @@
 # Journey to Madurai
 
-“I sang the Kaanal Vari, and with these very ears I heard you pour out words of love woven with many deceitful lies. To deceive men, you have learnt all eight forms of Vari performance—Kaatchi Vari, Kankootu Vari and the rest! With your kumizham-blossom nose and water-lily eyes, you can no longer deceive this Kovalan!” Saying this, Kovalan left Madhavi, that jewel among women, and ran home to see Kannagi like a cock seeking its hen. Seeing her man, that nectar-sweet woman fell at his feet like a tree cut down at the root. With her tears she bathed his feet.
+“I sang the Kaanal Vari, and with these very ears I heard you pour out words of love woven with many deceitful lies. To deceive men, you have learnt all eight forms of Vari performance—Kaatchi Vari, Kankootu Vari and the rest! With your kumizham-blossom nose and water-lily eyes, you can no longer deceive this Kovalan!” With those words, Kovalan left Madhavi, that jewel among women, and ran home to Kannagi like a cock seeking its hen. At the sight of her man, that nectar-sweet woman fell at his feet like a tree felled at the root. With her tears she bathed his feet.
 
 “KANNAGI!” Kovalan cried.
 
@@ -10,21 +10,21 @@ How much longing there was in that cry!
 
 That one word contained the whole plea: “Forgive this scoundrel who kept you alive all these days only to torment you.”
 
-“You embodiment of chastity! I left you and found pleasure in the lap of a courtesan—this learned fool...” He began composing a chapter of apology.
+“You, embodiment of chastity! I left you and found pleasure in the lap of a courtesan—this learned fool...” He began his chapter of apology.
 
 Before he could continue, she sealed his beautiful lips with her hands and replied in a trembling voice, “Do not scold him! Not even my own husband is allowed to scold my husband. I will not permit it.”
 
-“Jewel of womanhood! While you, a noble woman who guards the Tamil Marai and the home, were here, I fell into the hands of Madhavi, a woman of the courtesan world. In the fragrance of her flower-adorned hair I imagined that the whole world was my slave. That deceitful woman severed my ties to my family. The whole land! Every street mocked me, and though I still had a body, she turned me into a vessel without life.”
+“Jewel of womanhood! While you, a noble woman who guards the Tamil Marai and the home, were here, I fell into the hands of Madhavi, a woman of the courtesan world. In the fragrance of her flower-adorned hair I imagined that the whole world was my slave. That deceitful woman severed my ties to my family. Across the whole land, in every street, people mocked me; though I still had a body, she turned me into a vessel without life.”
 
 “My lord! My poor younger sister! Do not say anything against her. My child Manimekalai is well, isn't she, my lord...?”
 
-“Child Manimekalai! Ayyo, is she your child? Was not that child born of the pleasure I bought by pouring out the heaps of gold and the mountain of jewels I possessed? She is the token of a feast of love whose taste I purchased. Kannagi, that child is the stain your husband acquired in a courtesan's house!”
+“Child Manimekalai! Ayyo, is she your child? Wasn't that child born of the pleasure I bought by pouring away heaps of gold and a mountain of jewels? She is the token of a feast of love I paid to taste. Kannagi, that child is the stain your husband acquired in a courtesan's house!”
 
 “Ayyo! Do not speak like that. Though Manimekalai was born to Madhavi, she is my child too! Do not say anything wrong about my child, my lord!”
 
-“My goddess! You deserve my esteem. You deserve my respect. Forgive me. Forgive this low man who could not understand your heart, Kannagi. Through me grew the fame that Tamils had no equal in maritime trade. But today I lost my senses before a woman engaged in the trade of the body. I lost wealth beyond measure; now I lament as a pauper! My treasure! My standing among Poompuhar's great merchants is gone. We are a boat caught in a storm. There is no way to reach shore. Come...come...let us disappear into the belly of Mother Sea, where the waves crash.”
+“My goddess! You deserve my esteem. You deserve my respect. Forgive me. Forgive this low man who could not understand your heart, Kannagi. Through me grew the fame that Tamils were unrivalled in maritime trade. But today I lost my senses before a woman engaged in the trade of the body. I lost wealth beyond measure; now I lament as a pauper! My treasure! My standing among Poompuhar's great merchants is gone. We are a boat caught in a storm. There is no way to reach shore. Come...come...let us disappear into the belly of Mother Sea, where the waves crash.”
 
-“Why that decision, my dear? In my mother's house there is gold piled as high as an elephant! If we take it, who is there to stop us?”
+“Why such a decision, my dear? In my mother's house there is gold piled as high as an elephant! If we take it, who is there to stop us?”
 
 “My life! The town will say that I live by depending on my father-in-law; my honour will be gone! No, no.”
 
@@ -48,11 +48,11 @@ Before he could continue, she sealed his beautiful lips with her hands and repli
 
 “Come! Until the day I die, I will never leave you even for an instant, my dear.”
 
-After this conversation they embraced each other. Each washed away the other's tears with their own.
+After this conversation they embraced each other. Each washed away the other's tears with tears of their own.
 
 While Kovalan and Kannagi, reunited after their separation and filled with great joy, began their journey to Madurai, Madhavi—the treasure of Poompuhar's arts—was writhing like a worm on a hook. Holding the child Manimekalai in her arms, she cried:
 
-“My little Manimekalai! Your loving father has left both you and me and gone away from this town. My treasure! He would gather you into his arms and rain kisses on you, calling you, ‘My lovely new moon! Light of my thoughts! Fruit of Tamil!’ But now, they say, he has rejected you and me and left, unwilling even to remain in this Poompuhar where this sinner lives.
+“My little Manimekalai! Your loving father has left you and me behind and gone away from this town. My treasure! He would gather you into his arms and rain kisses on you, calling you, ‘My lovely new moon! Light of my thoughts! Fruit of Tamil!’ But now, they say, he has rejected you and me and left, unwilling even to remain in this Poompuhar where this sinner lives.
 
 “When will you call ‘Appa!’—
 
@@ -62,9 +62,9 @@ While Kovalan and Kannagi, reunited after their separation and filled with great
 
 No one could console her. She lay with her face pressed against the face of Manimekalai, the token of Kovalan's love. To her it seemed as though the city of Poompuhar were sinking deeper and deeper into darkness.
 
-At that hour which Ilango Adigal describes as “the last watch of night, when the white moon has gone and dense darkness remains,” Kovalan and Kannagi set out on their journey to Madurai, paying no attention to the swan, ram and kavari deer playing at the doorway. They passed the fruit-laden groves along the route by which the people of Poompuhar went to bathe in the fresh waters of the Kaveri, and crossed even the last point of the river's Sangamukha landing.
+At the hour Ilango Adigal describes as “the last watch of night, when the white moon has gone and dense darkness remains,” Kovalan and Kannagi set out on their journey to Madurai, paying no attention to the swan, ram and kavari deer playing at the doorway. They passed the fruit-laden groves along the route by which the people of Poompuhar went to bathe in the fresh waters of the Kaveri, and crossed even the last point of the river's Sangamukha landing.
 
-On the way they happened to meet Kavunti, a Jain woman ascetic. Kovalan bowed to her and introduced Kavunti Adigal to Kannagi. But Kavunti knew neither of them. After blessing them, she asked, “May I know who you are?”
+On the way they met Kavunti, a Jain woman ascetic. Kovalan bowed to her and introduced Kavunti Adigal to Kannagi. But Kavunti knew neither of them. After blessing them, she asked, “May I know who you are?”
 
 “Our home is Poompuhar, the Chola king's great coastal capital, where one sees fine horses imported from foreign lands, sacks of pepper heaped for export, gems and gold born in the northern mountains, sandalwood and agarwood from the Kudamalai hills, pearls from the southern sea, coral from the eastern sea, the wealth of the Ganges and the bounty of the Kaveri. My name is Kovalan. This is Kannagi, the good companion of my life.”
 
@@ -95,7 +95,7 @@ he answers:
 “Six times five kathams beyond our broad land,
 O fragrant five-tressed one—it is near.”
 
-“It is only six times five kathams away. In other words, it is nearby,” Kovalan replies, smiling a sorrowful smile.
+“It is only six times five kathams away. In other words, it is nearby,” Kovalan replies with a sorrowful smile.
 
 At once Kavunti Adigal teases Kannagi: “Child! Your companion is deceiving you. Six times five kathams means thirty kathams.”
 
@@ -103,7 +103,7 @@ Is not conversation indispensable if one is to travel without feeling the fatigu
 
 Thinking that only playful talk could relieve that weariness, she looked at Kovalan and said, drawing out her words, “Child! If you like, I will go on ahead. You can carry Kannagi...” Kovalan looked at Kavunti in surprise and smiled.
 
-“Do you not deserve some punishment for the wrong you did her? That is why I said it. And not only that. I told you earlier that there are many hazards on our route; let me explain them. Listen! Along the way, pits dug for valli tubers will be covered by heaps of withered champak flowers. If we do not walk carefully, we may mistake them for piles of blossoms and fall into those deceptive pits. Kannagi is not accustomed to walking along such paths, is she? If we avoid the troubles of the groves and go through the fields, vaalai fish bitten by otters may leap upward in an effort to escape with their lives and come falling down. Kannagi will be frightened. If, while walking through the sugarcane fields, we accidentally brush against the cane, the great honeycombs there may break and all the honey may mingle with the flowing water. Look—everything running before our eyes will be streams of honey. If we walk along the field-bunds, the weeders will have placed the kuvalai flowers they pulled from the fields upon the ridges. Swarms of bees will be dancing around them. As we walk, we might unknowingly kill those bees. If, avoiding all this, we decide to keep to the edge of the grove, jackfruits hanging low from the branches will strike and block our heads like enemies.”
+“Do you not deserve some punishment for the wrong you did her? That is why I said it. And not only that. I told you earlier that there are many hazards on our route; let me explain them. Listen! Along the way, pits dug for valli tubers will be covered by heaps of withered champak flowers. If we do not walk carefully, we may mistake them for piles of blossoms and fall into those deceptive pits. Kannagi is not accustomed to walking along such paths, is she? If we avoid the troubles of the groves and go through the fields, vaalai fish bitten by otters may leap upward in an effort to escape with their lives and come tumbling down. Kannagi will be frightened. If, while walking through the sugarcane fields, we accidentally brush against the cane, the great honeycombs there may break and all the honey may mingle with the flowing water. Look—everything flowing before our eyes will be streams of honey. If we walk along the field-bunds, the weeders will have placed the kuvalai flowers they pulled from the fields upon the ridges. Swarms of bees will be dancing around them. As we walk, we might unknowingly kill those bees. If, avoiding all this, we decide to keep to the edge of the grove, jackfruits hanging low from the branches will strike and block our heads like enemies.”
 
 When Kavunti said this, Kovalan's eyes filled with tears. “Ayyo! When I went down the wrong path, why did no one strike against me like those jackfruits and stop me...?” he said.
 
@@ -111,11 +111,11 @@ Kavunti comforted him.
 
 Their journey revealed not only the greatness of married life; the greatness of Tamilakam too stood with its head held high. Through the splendours along the road joining the Chola and Pandya countries, Ilango Adigal paints for us a picture of a prosperous Tamil land.
 
-The ponds were forests of lotuses. In those forests, the cries of sambangkozhi birds, herons, swans, cranes, jungle fowl, water crows, ullan, kuluvi, kananthul and great herons were said to resemble the sound raised by a victorious king on the battlefield. In the fields, stacks of paddy stood like hills. To keep the stacks from coming apart, they were tied with ropes of straw. Red-eyed buffaloes rubbed their itching backs against those stacks. The ropes snapped, and the grains of paddy in the stacks spilled onto the growing crop in the fields. The women working in the wet fields threw away the flowers in their hair, cut rice seedlings and wore them on their heads. Though mud covered their shoulders and breasts, to their companions it gave off a beauty like sandal paste. Because they had drunk toddy, the women's fish-like eyes were reddened.
+The ponds were forests of lotuses. In those forests, the cries of sambangkozhi birds, herons, swans, cranes, jungle fowl, water crows, ullan, kuluvi, kananthul and great herons were said to resemble the sound raised by a victorious king on the battlefield. In the fields, stacks of paddy stood like hills. To keep the stacks from coming apart, they were tied with ropes of straw. Red-eyed buffaloes rubbed their itching backs against those stacks. The ropes snapped, and the grains of paddy in the stacks spilled onto the growing crop in the fields. The women working in the wet fields threw away the flowers in their hair, cut rice seedlings and wore them on their heads. Though mud covered their shoulders and breasts, to their companions it seemed like sandal paste, so radiant was their beauty. Because they had drunk toddy, the women's fish-like eyes were reddened.
 
 Seeing all these sights, the three travellers reached Thiruvarangam. There they received counsel from the great Saranars; afterward they boarded a ferry, crossed at the landing and reached the southern bank of the Kaveri. From there they went to Uraiyur and then set out toward Madurai.
 
-On the way Kovalan receives a palm-leaf letter from Madhavi. The moment he sees the handwriting of the woman he loved, his heart changes. He melts with thoughts of Madhavi. He reads the letter:
+On the way Kovalan received a palm-leaf letter from Madhavi. The moment he saw the handwriting of the woman he loved, his heart changed. He melted with thoughts of Madhavi and read the letter:
 
 “My dearly beloved! I bow at your feet. I was the cause of your failing in your duty to your parents—and of your wronging your own wife—
 
@@ -127,7 +127,7 @@ On the way Kovalan receives a palm-leaf letter from Madhavi. The moment he sees 
 
 Kovalan's eyes fill with tears. He sends the very letter Madhavi wrote to him to his parents. The author of the Silappathikaram considers the words Madhavi wrote to Kovalan to be the very words Kovalan himself ought to write to his parents. What literary richness! What a grammar of life! How can we refrain from praising the imaginative wealth of the Tamil people?
 
-While praising it so, let us imagine a new scene about Madhavi after she receives Kovalan's reply.
+As we praise this, let us imagine a new scene about Madhavi after she receives Kovalan's reply.
 
 When the letter she had written to Kovalan comes back to her, Madhavi takes it and goes to Maasathuvan's house. Kovalan's parents see the letter he has sent and shed tears. Before them stands Madhavi with the child Manimekalai. Behind her come hundreds of women carrying silver plates filled with gold coins. Maasathuvan, bewildered, speaks.
 
@@ -151,13 +151,13 @@ When the letter she had written to Kovalan comes back to her, Madhavi takes it a
 
 The child looks at her grandfather's face and smiles.
 
-A situation has arisen in which the broken family might become one again. But is not Kovalan walking, feet aching, toward death? It is this journey to Madurai that resounds through Ilango Adigal's Silappathikaram in the Nadukaan Kaathai, Kaadukaan Kaathai, Vettuva Vari and Puranjeri Irutha Kaathai.
+The broken family now has a chance to become one again. But isn't Kovalan, his feet aching, walking toward death? It is this journey to Madurai that resounds through Ilango Adigal's Silappathikaram in the Nadukaan Kaathai, Kaadukaan Kaathai, Vettuva Vari and Puranjeri Irutha Kaathai.
 
 The Nadukaan Kaathai describes the splendours from the time the couple leave Poompuhar and meet Kavunti until the three reach Uraiyur. The Kaadukaan Kaathai tells, with ideas suited to that age, of their walking through the forest, entering the right-hand path among the three routes by the long tank at Kodumbalur, touching Thennavan Hill, turning left, going as far as Tirumal Hill, and then staying at the Aiyai Kottam on the route to Madurai. Their meeting on the way with the hunters who worship the goddess Kotravai is the Vettuva Vari. The Puranjeri Irutha Kaathai describes how Kovalan receives the palm-leaf letter sent by Madhavi, sends it to his parents, plays the yaazh with the bards, learns the route from them and reaches Madurai.
 
 Looking at the bards they meet on the road, Kovalan asks, “How many kathams are left to Madurai?”
 
-“Not very far. Look, the Madurai breeze is blowing. This breeze is not like the breeze from Podhigai. It carries the mingled fragrance of abundant agarwood, fragrant saffron, sandal paste and civet paste. It brushes over beds spread with red water-lilies, champak garlands, kurukkathi, jasmine, malli and mullai, and comes stealing their fragrance! Showing within itself the perfume rising from the king's palace, the Madurai breeze comes with the pride that lives upon the tongues of poets,” the bards reply.
+“Not very far. Look, the Madurai breeze is blowing. This breeze is not like the breeze from Podhigai. It carries the mingled fragrance of abundant agarwood, fragrant saffron, sandal paste and civet paste. It brushes over beds spread with red water-lilies, champak garlands, kurukkathi, jasmine, malli and mullai, and comes stealing their fragrance! Bearing within it the perfume rising from the king's palace, the Madurai breeze comes with the pride celebrated on the tongues of poets,” the bards reply.
 
 A breeze, is it?
 
