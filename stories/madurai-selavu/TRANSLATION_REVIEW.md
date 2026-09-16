@@ -152,3 +152,90 @@ Nine meaning-fidelity repairs were made:
 - unresolved E2 issues: **0**
 
 Next: **E3 — terminology / names / cultural consistency review**.
+
+
+## E3 — terminology / names / cultural consistency review
+
+**PASS — terminology and cultural-register review complete.**
+
+E2 meaning decisions were held fixed. The review focused on stable personal/place names, source-specific literary terms, forms of address, culturally marked vocabulary, flora/fauna handling and the four *Silappathikaram* section names. No outside historical or literary explanation was imported.
+
+### E3 repairs
+
+Five terminology repairs were made:
+
+1. `eight kinds of acting-lines` → **`eight forms of Vari performance`**
+   - keeps `Vari` as the source's literary/performance category while avoiding the misleading English compound “acting-lines.”
+   - **Kaanal Vari / Kaatchi Vari / Kankootu Vari** remain transliterated.
+
+2. `Tamil moral law` → **`Tamil Marai`**
+   - `தமிழ் மறை` is kept as a culturally marked source term rather than narrowed to a modern English legal/moral category.
+
+3. `introduced the Adigal to Kannagi` → **`introduced Kavunti Adigal to Kannagi`**
+   - makes the honorific referent explicit and keeps the name/title treatment stable.
+
+4. `great ascetics` → **`the great Saranars`**
+   - preserves source `சாரணர்` as a culturally specific term rather than assigning a narrower institutional identity.
+
+5. `the shrine of Aiyai` → **`the Aiyai Kottam`**
+   - preserves source `ஐயை கோட்டம்` without forcing `கோட்டம்` into the single English category “shrine.”
+
+### Terminology retained after review
+
+Personal names / honorifics:
+
+- **Kovalan**
+- **Kannagi**
+- **Madhavi**
+- **Manimekalai**
+- **Kavunti / Kavunti Adigal**
+- **Maasathuvan**
+- **Ilango Adigal**
+- **Nedunchezhiyan**
+
+Literary / cultural terms retained:
+
+- **Kaanal Vari / Kaatchi Vari / Kankootu Vari**
+- **katham / kathams**
+- **yaazh**
+- **Kotravai**
+- **Nadukaan Kaathai**
+- **Kaadukaan Kaathai**
+- **Vettuva Vari**
+- **Puranjeri Irutha Kaathai**
+- **Tamil Marai**
+- **Saranars**
+- **Aiyai Kottam**
+
+Address / kinship decisions retained:
+
+- `அத்தான்` → **my lord** in Kannagi's address to Kovalan
+- `அம்மா` is rendered contextually as **Amma**, **child**, or natural maternal address according to the specific utterance; no kinship relation is changed
+- `மருமகள்` → **daughter-in-law**
+
+Flora / fauna policy:
+
+- uncertain source-specific names remain transliterated where appropriate: **kumizham, kavari, valli, kuvalai, sambangkozhi, ullan, kuluvi, kananthul, kurukkathi**
+- generic source categories such as **herons, swans, jungle fowl, buffaloes, bees, jackfruits** remain descriptive rather than being expanded into unsupported species identifications
+- `வாளை` remains **vaalai fish**
+
+Other cultural vocabulary:
+
+- `புழுகுக் குழம்பு` remains **civet paste** as the E1/E2 lexical rendering; no added historical explanation
+- `காதம்` remains **katham**, with no modern-distance conversion
+- `யாழ்` remains **yaazh**, with no instrument-equivalence substitution
+
+### E3 result
+
+- E3 English repairs: **5**
+- cumulative English repairs after E1: **14**
+- E2 meaning decisions altered: **No**
+- source-page markers: **PASS 5/5**
+- scan-25 exclusion marker: **PASS**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened: **No**
+- Tamil changed during E3: **No**
+- outside historical/literary expansion introduced: **No**
+- unresolved E3 issues: **0**
+
+Next: **E4 — English quality / readability review**.
