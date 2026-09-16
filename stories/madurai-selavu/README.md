@@ -37,14 +37,15 @@ The supplied `Madurai_selavu.md` remains locator/draft only and does not control
 - English E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
 - English E3 terminology / names / cultural consistency: **COMPLETE / PASS — 5 repairs**
 - English E4 quality / readability review: **COMPLETE / PASS — 21 repairs**
-- cumulative English repairs after E1: **35**
-- English E1 title: **Journey to Madurai**
+- English E5 final bilingual approval: **COMPLETE / PASS — 2 final edits**
+- cumulative English changes after E1: **37**
+- final English title: **Journey to Madurai**
 - English source-page traceability: **PASS 5/5**
-- omissions / duplications / unsupported additions after E4: **0 / 0 / 0**
-- Tamil/source reopened during E1–E4: **No**
-- Tamil changed during E1–E4: **No**
-- unresolved E4 issues: **0**
-- E5: **NOT YET PERFORMED**
+- omissions / duplications / unsupported additions: **0 / 0 / 0**
+- Tamil/source reopened during E1–E5: **No**
+- Tamil changed during E1–E5: **No**
+- unresolved English issues: **0**
+- English layer: **PASS / CLOSED**
 
 Resolved scan-23→24 reading:
 
@@ -65,6 +66,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E5 — final bilingual approval / English closure.**
+**NONE — மதுரைச் செலவு is fully CLOSED for Tamil/source and English.**
 
-Perform the final Tamil↔English alignment check, confirm E2 semantics and E3 terminology remain intact after E4, review the English title and complete prose one last time, verify source-page markers and completeness, then close the English layer if no issues remain.
+The repository-level next activity is `கொன்று வருக!` Stage 1 first-pass transcription, scans **8–13 / printed 32–37**.
