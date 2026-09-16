@@ -14,7 +14,7 @@ That one word contained the whole plea: “Forgive this scoundrel who kept you a
 
 Before he could continue, she sealed his beautiful lips with her hands and replied in a trembling voice, “Do not scold him! Not even my own husband is allowed to scold my husband. I will not permit it.”
 
-“Jewel of womanhood! While you, a noble woman who guards the Tamil Marai and the home, were here, I fell into the hands of Madhavi, a woman of the courtesan world. In the fragrance of her flower-adorned hair I imagined that the whole world was my slave. That deceitful woman severed my ties to my family. Across the whole land, in every street, people mocked me; though I still had a body, she turned me into a vessel without life.”
+“Jewel of womanhood! While you, a noble woman who guards the Tamil Marai and the home, were here, I fell under the sway of Madhavi, a courtesan. In the fragrance of her flower-adorned hair I imagined that the whole world was my slave. That deceitful woman severed my ties to my family. Across the whole land, in every street, people mocked me; though I still had a body, she turned me into a vessel without life.”
 
 “My lord! My poor younger sister! Do not say anything against her. My child Manimekalai is well, isn't she, my lord...?”
 
@@ -115,7 +115,7 @@ The ponds were forests of lotuses. In those forests, the cries of sambangkozhi b
 
 Seeing all these sights, the three travellers reached Thiruvarangam. There they received counsel from the great Saranars; afterward they boarded a ferry, crossed at the landing and reached the southern bank of the Kaveri. From there they went to Uraiyur and then set out toward Madurai.
 
-On the way Kovalan received a palm-leaf letter from Madhavi. The moment he saw the handwriting of the woman he loved, his heart changed. He melted with thoughts of Madhavi and read the letter:
+On the way Kovalan receives a palm-leaf letter from Madhavi. The moment he sees the handwriting of the woman he loves, his heart changes. He melts with thoughts of Madhavi and reads the letter:
 
 “My dearly beloved! I bow at your feet. I was the cause of your failing in your duty to your parents—and of your wronging your own wife—
 
