@@ -16,28 +16,28 @@ Canonical workspace activated from the 1960 **முரசொலி பொங்
 
 ## Canonical status
 
-**TAMIL / SOURCE CLOSED — PASS FOR SOURCE-VISIBLE MATERIAL.**
+**TAMIL / SOURCE CLOSED — PASS / VERIFIED 5/5.**
 
 The supplied `Madurai_selavu.md` remains locator/draft only and does not control canonical text.
 
 ## Final Tamil/source state
 
-- Stage 1 first pass: **COMPLETE 5/5**
+- Stage 1: **COMPLETE 5/5**
 - Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
 - Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
-- mandatory historical-glyph family set: **13/13 checked**
-- Stage 4 final independent source check: **COMPLETE — 2 final corrections**
-- Stage-4 corrections:
-  - scan 24: restored source-visible top-of-page continuation
-  - scan 26: `நெடுஞ்செழியன் பாண்டியனின்` → `நெடுஞ்செழியப் பாண்டியனின்`
-- verified story pages: **4/5**
-- scan 23 / printed 19: **needs-review only because one prose span is physically obscured by the printed illustration**
-- canonical obstruction marker: **`[…]`**
-- source-visible ordinary unresolved readings: **0**
+- mandatory historical-glyph families: **13/13 checked**
+- Stage 4 direct final source check: **COMPLETE — 2 corrections**
+- post-Stage-4 user manual source adjudication: **1 formerly obscured scan-23 span resolved**
+- verified story pages: **5/5**
+- ordinary unresolved readings: **0**
 - unresolved historical-glyph clusters: **0**
-- physical-source obscured spans: **1**
+- physical-source obscured spans: **0**
 - scan 25: **verified non-story / excluded**
 - English: **NOT STARTED**
+
+Resolved scan-23→24 reading:
+
+`...கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
 
 Durable controls:
 
@@ -52,6 +52,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E1 first translation from the closed source-visible Tamil authority.**
+**English E1 first complete translation from the frozen verified Tamil authority.**
 
-The English must preserve the scan-23 source limitation transparently and must not invent the hidden Tamil wording. Stop before E2.
+Stop before E2.
