@@ -4,7 +4,7 @@ printed_page: 32
 story: "kondru-varuga"
 section: "story"
 page_type: "story-opening-title-artwork"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf"
 transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direct-pixel visual fidelity; supplied Markdown remained locator/draft only"
@@ -20,7 +20,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 - Stage 2 re-opened the source pixels and restored the physical-page boundary: **scan 8 contains title/artwork only**.
 - No body prose is carried on this page.
 
-Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
+At the end of Stage 2, this page remained **needs-review** because Stage 3 and Stage 4 were still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: 32 -->
 
@@ -34,4 +34,12 @@ Status remains **needs-review** because Stage 3 historical-glyph audit and Stage
 - historical-glyph corrections: **0**;
 - unresolved glyph clusters: **0**.
 
-Page remains **needs-review** until Stage 4 final independent source check.
+After Stage 3, this page remained **needs-review** until the Stage 4 final independent source check.
+
+## Stage 4 final independent source check — COMPLETE / PASS
+
+- title, author credit, artwork-only disposition and absence of running prose re-confirmed;
+- Stage-3 `ணா` reading in `கருணாநிதி` revalidated;
+- omissions / duplications / unresolved readings: **0 / 0 / 0**.
+
+Final status: **verified**.

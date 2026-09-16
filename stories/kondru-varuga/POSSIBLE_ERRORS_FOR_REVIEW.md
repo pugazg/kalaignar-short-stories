@@ -1,30 +1,19 @@
 # Possible errors / review queue — கொன்று வருக!
 
-## Current state
+Status: **CLOSED — 0 unresolved source readings after Stage 4.**
 
-**OPEN FOR FINAL GATE ONLY — Stage 2 ordinary visual fidelity PASS 6/6; Stage 3 historical-glyph audit PASS 6/6; 0 unresolved ordinary clusters; 0 unresolved glyph clusters. Stage 4 final independent source check is next.**
+Resolved final difficult readings:
 
-## Closed Stage-2 issues
+- scan 10: **`கோவலனும், தன் சிலம்பைத் தலைமைப் பொற்கொல்லரிடம் தர`**
+- scan 13: **`தெருப்புழுதியில் வீனை என உன்னை வீசிவிட்ட...`**
+- scan 13: **`கண்ணகியென்று ஊரார் தூற்றுதற்கு...`**
+- scan 13: **`கள்வன் எனும் கனை தாக்கக் கதறுகின்றேன்! புலம்புகின்றேன்!...`**
+- scan 13: **`திருடியதுமில்லாமல் திமிர்வாதம் வேறா?...`**
 
-- physical page routing rebuilt from source pixels;
-- scan 11 former two `[…]` clusters resolved;
-- scan 12 former `இல்லையேல் தப்பாது உன் […]` resolved as `உயிர்`;
-- scan 13 non-story statistical box excluded.
+Historical `னா` corrections `கூறினான்` on scans 11–13 are revalidated.
 
-## Closed Stage-3 glyph issue
+Remaining ordinary ambiguities: **0**  
+Remaining glyph ambiguities: **0**  
+Blocked readings: **0**
 
-Historical `னா` source-decoded and propagated:
-
-- scan 11 `கூறினன்` → **`கூறினான்`**
-- scan 12 `கூறினன்` → **`கூறினான்`**
-- scan 13 `கூறினன்` → **`கூறினான்`**
-
-Do not regress these readings.
-
-## Stage-3 incidental ordinary correction
-
-- scan 10 `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**
-
-## Remaining review
-
-No known word-level or glyph-level uncertainty remains. Stage 4 must nevertheless reopen scans **8–13** independently and confirm the complete source layer before promotion to `verified`.
+Do not normalize these source forms during translation or later maintenance.

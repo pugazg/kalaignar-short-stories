@@ -4,7 +4,7 @@ printed_page: 33
 story: "kondru-varuga"
 section: "story"
 page_type: "illustrated-story-opening"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf"
 transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direct-pixel visual fidelity; supplied Markdown remained locator/draft only"
@@ -21,7 +21,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 - All later dialogue formerly assigned to this scan belongs to scan 10 / printed 34 and has been moved there.
 - The illustrated plaque is the only story prose on scan 9.
 
-Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
+At the end of Stage 2, this page remained **needs-review** because Stage 3 and Stage 4 were still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9; அச்சுப் பக்கம்: 33 -->
 
@@ -34,4 +34,13 @@ Status remains **needs-review** because Stage 3 historical-glyph audit and Stage
 - historical-glyph corrections: **0**;
 - unresolved glyph clusters: **0**.
 
-Page remains **needs-review** until Stage 4 final independent source check.
+After Stage 3, this page remained **needs-review** until the Stage 4 final independent source check.
+
+## Stage 4 final independent source check — COMPLETE / PASS
+
+- illustrated opening plaque re-read independently;
+- exact one-sentence story text and source `விற்க` form re-confirmed;
+- historical `றா` in `வருகிறான் / காட்டுகிறான்` revalidated;
+- omissions / duplications / unresolved readings: **0 / 0 / 0**.
+
+Final status: **verified**.

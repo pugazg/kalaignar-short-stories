@@ -80,3 +80,9 @@ This is an ordinary lexical fidelity correction, **not** a historical-glyph chan
 - Stage 4: **NEXT**
 
 Stage 4 must reopen all six scans fresh and perform the final end-to-end source comparison before any page can become `verified`.
+
+## Stage 4 revalidation
+
+The final independent source check re-confirmed all three Stage-3 historical-`னா` corrections: scan 11 `கூறினான்`, scan 12 `கூறினான்`, scan 13 `கூறினான்`.
+
+Stage-4 glyph reversals: **0**. Stage 4 is **COMPLETE / PASS 6/6** and all page records are `verified`.

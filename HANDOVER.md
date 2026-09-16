@@ -871,58 +871,32 @@ Final E5 edits:
 - `a woman of the courtesan world` → **`a courtesan`**, preserving `விலைமாது` directly;
 - palm-leaf-letter transition restored to the story's present-tense narrative.
 
-### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — STAGE 3 HISTORICAL GLYPH COMPLETE
+### 4. கொன்று வருக! — முரசொலி பொங்கல் மலர் 1952 — TAMIL/SOURCE CLOSED
 
 - canonical: `stories/kondru-varuga/`
-- controlling source: `TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf`
 - scans **8–13 / printed 32–37**
-- Stage 1: **COMPLETE 6/6 — historical checkpoint retained**
-- Stage 2 ordinary word-by-word visual fidelity: **COMPLETE / PASS 6/6**
-- Stage-2 physical page remap: **COMPLETE**
-- former Stage-1 `[…]` clusters: **3 → 0 unresolved**
-- Stage 3 historical-glyph audit: **COMPLETE / PASS 6/6**
-- Stage-3 glyph corrections: **3**
-  - scan 11 `கூறினன்` → **`கூறினான்`** (`னா`)
-  - scan 12 `கூறினன்` → **`கூறினான்`** (`னா`)
-  - scan 13 `கூறினன்` → **`கூறினான்`** (`னா`)
-- Stage-3 incidental ordinary correction: **1**
-  - scan 10 `மிக்கவும் நன்றி` → **`மிகவும் நன்றி`**
-- unresolved ordinary clusters: **0**
-- unresolved glyph clusters: **0**
-- page status: **needs-review 6/6**
-- Stage 4 final source check: **0/6 — NEXT**
-- verified: **0/6**
+- Stage 1: **COMPLETE 6/6**
+- Stage 2: **PASS 6/6**
+- Stage 3 historical glyph: **PASS 6/6**
+- Stage 4 final source check: **PASS 6/6**
+- verified: **6/6**
+- unresolved ordinary / glyph / blocked: **0 / 0 / 0**
+- Tamil/source: **CLOSED / PASS**
 - English: **NOT STARTED**
 
-Durable controls:
-
-- `stories/kondru-varuga/STAGE2_BATCH_001.md`
-- `stories/kondru-varuga/HISTORICAL_GLYPH_GATE.md`
-- `stories/kondru-varuga/sections/kondru-varuga.md`
-- `stories/kondru-varuga/POSSIBLE_ERRORS_FOR_REVIEW.md`
-- `stories/kondru-varuga/indexes/page-map.md`
+Do not regress:
+- scan 10 `...பொற்கொல்லரிடம் தர`
+- scan 10 `மிகவும் நன்றி`
+- scans 11–13 `கூறினான்` historical `னா`
+- scan 13 `வீனை`
+- scan 13 `கண்ணகியென்று`
+- scan 13 `கனை தாக்கக் கதறுகின்றேன்! புலம்புகின்றேன்!...`
+- scan 13 `திமிர்வாதம் வேறா?...`
 
 ## Exact next activity — CURRENT
 
-**கொன்று வருக! — Stage 4 final independent source check, scans 8–13 / printed 32–37.**
+**கொன்று வருக! — English E1 first translation.**
 
-1. fetch live `main`;
-2. reopen all six controlling scans fresh, without relying on Stage-2/Stage-3 notes as proof;
-3. confirm the corrected physical routing:
-   - scan 8 title artwork only;
-   - scan 9 one-sentence illustrated opening;
-   - scan 10 dense three-column body;
-   - scan 11 dense three-column body;
-   - scan 12 illustrated body;
-   - scan 13 intervention + lament + death, with statistical box excluded;
-4. compare every word, punctuation mark, quote boundary, paragraph, column transition and page continuation against source pixels;
-5. explicitly confirm Stage-3 `கூறினான்` readings on scans 11–13 and scan-10 `மிகவும் நன்றி`;
-6. confirm all 13 historical-glyph families remain correctly encoded;
-7. confirm scan-13 story/non-story separation and final sword-action wording;
-8. if no issue remains, promote all six page records to `verified`;
-9. synchronize final-source-check record / assembly / review queue / README / page map / HANDOVER / NEXT prompt;
-10. commit, re-fetch live `main`, and only then consider Tamil/source closure.
-
-Do not reopen `மதுரைச் செலவு` or `சீரழித்த சிரிப்பு!`.
+Use the verified Tamil assembly and `ENGLISH_TRANSLATION_GUIDE.md`; preserve scan-level traceability; create the English translation and `TRANSLATION_REVIEW.md`; commit E1 separately; stop before E2.
 
 The 1958 `தேனலைகள்` source remains **DEFERRED**.

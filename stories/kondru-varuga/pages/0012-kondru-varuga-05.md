@@ -4,7 +4,7 @@ printed_page: 36
 story: "kondru-varuga"
 section: "story"
 page_type: "illustrated-story-body"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_PRL_0001655_முரசொலி_ பொங்கல் மலர்_ 1952.pdf"
 transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direct-pixel visual fidelity; supplied Markdown remained locator/draft only"
@@ -12,7 +12,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 # கொன்று வருக! — தொடர்ச்சி
 
-நீதி சொல்லும் முடிவேந்தன் நெடுஞ்செழியன் முன்னாலே நிற்கிறேன்!... அவன் முடிவுதனை ஏற்கின்றேன்!... இட்டுச் செல்வீர் என்னை!....”
+நீதி சொல்லும் முடிவேந்தன் நெடுஞ்செழியன் முன்னாலே நிற்கிறேன்!... அவன் முடிவு தனை ஏற்கின்றேன்!... இட்டுச் செல்வீர் என்னை!....”
 
 “மன்னரை ஏமாற்றலாமென நம்புகின்றாய்... கைகாரக் கள்வனே!... உன் போன்ற பாவிகள் முகத்தை ஏறெடுத்தும் பார்க்கமாட்டார் எமது பாண்டியர்!”.......
 
@@ -26,7 +26,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 
 “நீ... குலத்தைக் கெடுக்க வந்த கோடரிக்காம்பு! கொள்கையற்றவன்!... குள்ளநரி! வீரபரம்பரையின் விதிவிலக்கு!....”
 
-“நாக்குத் துண்டாகிவிடும் நடுத்தெருவில் நாய்போல் இழுத்துச் செல்லப்படுவாய்!”...
+“நாக்குத் துண்டாகிவிடும் நடுத்தெருவில் நாய் போல் இழுத்துச் செல்லப்படுவாய்!”...
 
 “உங்கள் நாட்டின் புகழ் நாலு திக்கிலும் பரவும்!... செய்யுங்கள் அந்த நல்ல காரியத்தை!....”
 
@@ -37,7 +37,7 @@ transcription_method: "Stage 1 first-pass repaired by Stage 2 word-by-word direc
 - Stage-1 `மண்ணிலே பிறக்கவில்லை` is corrected to source `மரபிலே பிறக்கவில்லை`.
 - `கைகாரக் கள்வனே`, `வாய்த்துடுக்கு`, `திமிர்வாதம்`, `கோடரிக்காம்பு`, and `வீரபரம்பரையின் விதிவிலக்கு` remain source-supported.
 
-Status remains **needs-review** because Stage 3 historical-glyph audit and Stage 4 final independent source check are still pending.
+At the end of Stage 2, this page remained **needs-review** because Stage 3 and Stage 4 were still pending.
 
 <!-- மூல ஸ்கேன் பக்கம்: 12; அச்சுப் பக்கம்: 36 -->
 
@@ -53,4 +53,17 @@ Status remains **needs-review** because Stage 3 historical-glyph audit and Stage
 - historical-glyph corrections on this scan: **1**;
 - unresolved glyph clusters: **0**.
 
-Page remains **needs-review** until Stage 4.
+After Stage 3, this page remained **needs-review** until Stage 4.
+
+## Stage 4 final independent source check — COMPLETE / PASS
+
+Final corrections:
+
+- `முடிவுதனை` → **`முடிவு தனை`**
+- `நாய்போல்` → **`நாய் போல்`**
+
+Re-confirmed: `இல்லையேல் தப்பாது உன் உயிர்!`, `மரபிலே`, `கைகாரக் கள்வனே`, and **`கூறினான் அதிகாரி`** (historical `னா`).
+
+Final unresolved readings: **0**.
+
+Final status: **verified**.
