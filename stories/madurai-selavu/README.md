@@ -34,12 +34,14 @@ The supplied `Madurai_selavu.md` remains locator/draft only and does not control
 - physical-source obscured spans: **0**
 - scan 25: **verified non-story / excluded**
 - English E1 first complete translation: **COMPLETE**
+- English E2 meaning-fidelity review: **COMPLETE / PASS — 9 repairs**
 - English E1 title: **Journey to Madurai**
 - English source-page traceability: **PASS 5/5**
-- E1 omissions / duplications / unsupported additions: **0 / 0 / 0**
-- Tamil/source reopened during E1: **No**
-- Tamil changed during E1: **No**
-- E2–E5: **NOT YET PERFORMED**
+- omissions / duplications / unsupported additions after E2: **0 / 0 / 0**
+- Tamil/source reopened during E1–E2: **No**
+- Tamil changed during E1–E2: **No**
+- unresolved E2 issues: **0**
+- E3–E5: **NOT YET PERFORMED**
 
 Resolved scan-23→24 reading:
 
@@ -60,6 +62,6 @@ Durable controls:
 
 ## Exact next activity
 
-**English E2 — meaning-fidelity review.**
+**English E3 — terminology / names / cultural consistency review.**
 
-Compare the complete E1 English sentence-by-sentence against the frozen verified Tamil, repair English only where meaning requires it, preserve all source-page markers and scan-25 exclusion, and stop before E3 terminology / names / cultural consistency review.
+Review names, literary/cultural terms, classical-form names, kinship/address forms, flora/fauna transliterations, canto names and source-specific vocabulary without changing E2 meaning decisions. Preserve all source-page markers and stop before E4 quality/readability review.
