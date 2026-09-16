@@ -1,6 +1,6 @@
 # Tamil / Source-Layer Closure — மதுரைச் செலவு
 
-Status: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL.**
+Status: **CLOSED / PASS — VERIFIED 5/5.**
 
 ## Authority
 
@@ -15,31 +15,30 @@ Status: **CLOSED / PASS FOR SOURCE-VISIBLE MATERIAL.**
 - Stage 1: **COMPLETE 5/5**
 - Stage 2 visual fidelity: **COMPLETE 5/5 — 32 corrections**
 - Stage 3 historical-glyph audit: **COMPLETE 5/5 — 0 character-identity corrections**
-- Stage 4 final independent source check: **COMPLETE — 2 final corrections**
-- verified story pages: **4/5**
-- scan 23: **needs-review only because one prose span is physically obscured by the printed illustration**
+- Stage 4 final independent source check: **COMPLETE — 2 direct final corrections**
+- post-Stage-4 user manual source adjudication: **1 formerly obscured scan-23 span resolved**
+- verified story pages: **5/5**
 - scan 25: **verified non-story interleaf / excluded**
 
-## Source limitation
+## Resolved scan-23 passage
 
-The scan-23 illustration physically covers part of the story text. The repository does not reconstruct that missing wording.
+User manual source reading:
 
-Canonical representation: **`[…]`**
+`ஏதோ நாலைந்து ஊர்களைப் பார்த்துவிட்டு அவைகளில் எது மதுரை என்று தெரியாது திண்டாடியவளைப்போல “மதுரை மூதூர் எது?” எனக் கேட்டதும் கோவலனுக்குச் சிரிப்பும் வந்தது; வருத்தமும் மேலிட்டது. முப்பது காதத் தொலைவு என்று கூறினால் கண்ணகி அயர்ந்து விடுவாளோ என அஞ்சுகிறான் கோவலன். ஆனாலும் அவளுக்கு அவன் பதில் சொல்லியாக வேண்டுமே! இந்தச் சோகமான கட்டத்`
 
-No OCR-like supplied Markdown, later edition, web source, or model inference was used to fill the gap.
+Scan-24 continuation:
 
-The source-visible continuation at the top of scan 24 is retained independently as:
+`திலும் நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
 
-`[…]சுவை நறுக்குத் தெரித்தாற்போல ஒரு நகைச்சுவையை உண்டாக்கி விட்டு நடக்கிறார் பெரும் புலவர் இளங்கோவடிகள்.`
+The former `[…]` placeholder is removed.
 
 ## Closure meaning
 
-This closure means:
+- every story page is verified;
+- ordinary unresolved readings: **0**;
+- historical-glyph unresolved clusters: **0**;
+- physical-source obscured spans: **0**;
+- no supplied-Markdown guess remains in canonical Tamil;
+- Tamil/source is **fully CLOSED / PASS**.
 
-- every source-visible story word has passed the four-stage workflow;
-- no source-visible ordinary-text issue remains open;
-- no historical-glyph issue remains open;
-- the one physically hidden span remains explicit and unreconstructed;
-- the Tamil/source layer is suitable for downstream work **only with that source limitation preserved**.
-
-English translation, if undertaken, must preserve the gap transparently and must not invent the missing Tamil wording.
+English translation may now proceed from the complete frozen Tamil authority.
